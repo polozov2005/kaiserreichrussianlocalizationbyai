@@ -1,64 +1,38 @@
-import os
 from pathlib import Path
 
-def process_directory(current_path, depth, lines):
-    """Рекурсивный обход папок и сбор структуры."""
-    # Сортируем: сначала папки, потом файлы, по алфавиту (без учёта регистра)
-    items = sorted(
-        current_path.iterdir(),
-        key=lambda x: (not x.is_dir(), x.name.lower())
-    )
-
-    for item in items:
-        # Пропускаем скрытые папки/файлы (начинаются с точки)
-        if item.name.startswith('.'):
-            continue
-
-        if item.is_dir():
-            lines.append('\t' * depth + item.name)
-            process_directory(item, depth + 1, lines)
-        elif item.suffix.lower() in ['.yml', '.yaml']:
-            file_indent = '\t' * (depth + 1)
-            lines.append(f"{file_indent}{item.name}")
-            try:
-                # Читаем содержимое, убираем лишние переводы строк в конце файла
-                content = item.read_text(encoding='utf-8').rstrip('\n')
-                lines.append(content)
-            except Exception as e:
-                lines.append(f"[Ошибка чтения: {e}]")
-            # Пустая строка для визуального разделения между файлами
-            lines.append("")
-
 def main():
-    # '.' означает текущую рабочую директорию (корень проекта)
     root_dir = Path('.')
     output_file = Path('yml_structure_output.txt')
-
     all_lines = []
 
-    # Обрабатываем содержимое корневой папки
-    root_items = sorted(
-        root_dir.iterdir(),
-        key=lambda x: (not x.is_dir(), x.name.lower())
-    )
+    # 1. Собираем все yml и yaml файлы рекурсивно
+    yml_files = list(root_dir.rglob('*.yml')) + list(root_dir.rglob('*.yaml'))
 
-    for item in root_items:
-        if item.name.startswith('.'):
-            continue
+    # 2. Игнорируем скрытые папки и файлы (начинаются с точки)
+    yml_files = [f for f in yml_files if not any(part.startswith('.') for part in f.parts)]
 
-        if item.is_dir():
-            all_lines.append(item.name)
-            process_directory(item, depth=1, lines=all_lines)
-        elif item.suffix.lower() in ['.yml', '.yaml']:
-            all_lines.append(item.name)
-            try:
-                content = item.read_text(encoding='utf-8').rstrip('\n')
-                all_lines.append(content)
-            except Exception as e:
-                all_lines.append(f"[Ошибка чтения: {e}]")
-            all_lines.append("")
+    # 3. Сортируем по пути для предсказуемого порядка вывода
+    yml_files.sort(key=lambda x: str(x.relative_to(root_dir)).lower())
 
-    # Записываем результат в файл
+    for file_path in yml_files:
+        # Получаем путь от корня проекта и меняем / на \
+        rel_path = str(file_path.relative_to(root_dir)).replace('/', '\\')
+        all_lines.append(rel_path)
+        all_lines.append('')  # [отступ]
+
+        try:
+            # utf-8-sig автоматически убирает BOM, если он есть
+            content = file_path.read_text(encoding='utf-8-sig').rstrip('\n')
+            all_lines.append(content)
+        except Exception as e:
+            all_lines.append(f"[Ошибка чтения: {e}]")
+
+        all_lines.append('')  # [отступ]
+
+    # Убираем пустые строки в самом конце файла
+    while all_lines and all_lines[-1].strip() == '':
+        all_lines.pop()
+
     with open(output_file, 'w', encoding='utf-8') as f:
         f.write('\n'.join(all_lines))
 
