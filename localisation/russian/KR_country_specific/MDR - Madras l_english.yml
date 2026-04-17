@@ -1,0 +1,63 @@
+﻿l_english:
+
+### Country Names ###
+ MDR: "Madras"
+ MDR_ADJ: "Madrasi"
+ MDR_DEF: "Madras"
+ MDR_totalist: "Tamilakam"
+ MDR_totalist_ADJ: "Tamil"
+ MDR_totalist_DEF: "Tamilakam"
+ MDR_syndicalist: "Tamilakam"
+ MDR_syndicalist_ADJ: "Tamil"
+ MDR_syndicalist_DEF: "Tamilakam"
+ MDR_radical_socialist: "Tamilakam"
+ MDR_radical_socialist_ADJ: "Tamil"
+ MDR_radical_socialist_DEF: "Tamilakam"
+ MDR_social_democrat: "Tamilakam"
+ MDR_social_democrat_ADJ: "Tamil"
+ MDR_social_democrat_DEF: "Tamilakam"
+ MDR_social_liberal: "Tamilakam"
+ MDR_social_liberal_ADJ: "Tamil"
+ MDR_social_liberal_DEF: "Tamilakam"
+ MDR_national_populist: "Tamilakam"
+ MDR_national_populist_ADJ: "Tamil"
+ MDR_national_populist_DEF: "Tamilakam"
+
+ MDR_DRAV: "Dravida Nadu"
+ MDR_DRAV_ADJ: "Dravidian"
+ MDR_DRAV_DEF: "Dravida Nadu"
+
+### Party Names ###
+
+ MDR_totalist_party_long: "Socialist Party of Tamilakam"
+ MDR_totalist_party: "SPTN"
+ MDR_syndicalist_party_long: "Socialist Party of Tamilakam"
+ MDR_syndicalist_party: "SPTN"
+ MDR_radical_socialist_party_long: "Socialist Party of Tamilakam"
+ MDR_radical_socialist_party: "SPTN"
+ MDR_social_democrat_party_long: "South Indian Liberal Federation (Self Respect Movement)"
+ MDR_social_democrat_party: "Justice (Self Respect)"
+ MDR_social_liberal_party_long: "Independent Nationalist Party"
+ MDR_social_liberal_party: "Independent Nationalist"
+ MDR_market_liberal_party_long: "South Indian Liberal Federation"
+ MDR_market_liberal_party: "Justice Party"
+ MDR_social_conservative_party_long: "South Indian Liberal Federation"
+ MDR_social_conservative_party: "Justice Party"
+ MDR_authoritarian_democrat_party_long: "South Indian Liberal Federation"
+ MDR_authoritarian_democrat_party: "Justice Party"
+ MDR_paternal_autocrat_party_long: "Executive Council of Madras"
+ MDR_paternal_autocrat_party: "Executive Council"
+ MDR_national_populist_party_long: "Dravidian Extremists"
+ MDR_national_populist_party: "Dravidian Extremists"
+
+### Characters ###
+ MDR_periyar_ramasamy: "Periyar Ramasamy"
+ MDR_periyar_ramasamy_leader_desc: "§YBorn:§! §LSeptember 17th, 1879, in Erode, Presidency of Fort St. George, British India§!"
+ MDR_paramasiva_subbarayan: "Paramasiva Subbarayan"
+ MDR_paramasiva_subbarayan_leader_desc: "§YBorn:§! §LSeptember 11th, 1889, in Tiruchengode, Presidency of Fort St. George, British India§!"
+
+ MDR_ramakrishna_ranga_rao: "Ramakrishna Ranga Rao"
+ MDR_ramakrishna_ranga_rao_leader_desc: "§YBorn:§! §LFebruary 20th, 1901, in Bobbili, Presidency of Fort St. George, British India§!"
+
+ MDR_kannayiram_subramanian: "Kannayiram Subramanian" #First name disputed, using only claimed first name for now
+ MDR_kannayiram_subramanian_commander_desc: "§YBorn:§! §LDecember 18th, 1912, in Madras, Presidency of Fort St. George, British India§!"
