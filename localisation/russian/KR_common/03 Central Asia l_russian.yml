@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_russian:
 
 ### Tooltips ###
  CA_local_autonomy_limited_start_kokand: "§YKokand§! gains the modifier §YLimited Local Autonomy§!, which grants\n      $MODIFIER_COMPLIANCE_GROWTH$: §G+10%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §R-5%§!\n      $MODIFIER_LOCAL_MANPOWER$: §R-10%§!\n\n"

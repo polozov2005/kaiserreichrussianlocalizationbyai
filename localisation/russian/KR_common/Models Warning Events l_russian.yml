@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_russian:
  models_warning_events.1: "WARNING - Missing DLCs!"
  models_warning_events.1.master_event: "You are using the 'Kaiserreich Models' submod without the required DLCs. This may result in broken models, screen flickering, and other visual issues. Please either unsubscribe from the affected submod or purchase the required DLC.[ModelsSubmodsEasternFrontWarning][ModelsSubmodsAlliedArmorWarning][ModelsSubmodsAxisArmorWarning]"
  models_warning_events.1.missing_dlc: "Missing DLC:\n\n"

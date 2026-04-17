@@ -1,27 +1,27 @@
-﻿l_english:
+﻿l_russian:
 
  lend_lease_string_caps: "Materiel Support"
  lend_lease_string: "materiel support"
 
- #autonomy_l_english
+ #autonomy_l_russian
  MONTHLY_REQUEST_LL_TO_MASTER: "§RRequesting $lend_lease_string$ from puppet can give them more autonomy§!"
  MONTHLY_REQUEST_LL_TO_PUPPET: "§RRequesting $lend_lease_string$ from master might lose autonomy§!"
 
- #core_l_english
+ #core_l_russian
  FUEL_DAILY_GAIN_FROM_LEND_LEASE: "From $lend_lease_string_caps$: $NUM|H$"
  FUEL_DAILY_REQUIRED_FROM_LEND_LEASE: "From $lend_lease_string_caps$: $NUM|H$"
 
- #country_l_english
+ #country_l_russian
  ARMY_EXPERIENCE_DESC: "As your equipment is used in combat, you gain Army Experience. This means that you can gain Army Experience when your §HDivisions§! engage in battle or if you have sent §H$lend_lease_string_caps$§! to your allies' wars.\nYou also gain experience from conducting §HArmy Exercises§! with troops that are at least level $UNIT_TRAINING_LEVEL|Y$ and from certain §HNational Focuses§!. Some §HMinisters§! can increase experience gained.\n\nArmy Experience is needed to create and modify your §HDivision Templates§!."
  AIR_EXPERIENCE_DESC: "When your aircraft engage the enemy in missions or practice in §HPilot Exercises§!, you gain Air Experience. This means that you can gain Air Experience when your §HAir Wings§! engage in battle or if you have sent §H$lend_lease_string_caps$§! to your allies' wars.\nCertain §HNational Focuses§! give additional experience and some §HMinisters§! can increase experience gained.\n\nAir Experience is used to develop better variants of existing aircraft."
 
- #deployment_l_english
+ #deployment_l_russian
  DEPLOYMENT_LEND_LEASE_COUNTRY: "$lend_lease_string_caps$: $COUNTRY$"
 
- #designer_l_english
+ #designer_l_russian
  ALLOW_FOREIGN_EQUIPMENT_TT: "Disable to forbid all current and future foreign equipment which includes both $lend_lease_string$ and captured equipment."
 
- #diplomacy_l_english
+ #diplomacy_l_russian
  DIPLOMACY_MESSAGE_ACCEPTED_TITLE_DIPLOMACY_LEND_LEASE: "$lend_lease_string_caps$ Accepted"
  DIPLOMACY_MESSAGE_ACCEPTED_MESSAGE_DIPLOMACY_LEND_LEASE: "\n§Y$COUNTRY|U$§! has §Gaccepted§! our $lend_lease_string$.\n\nOur aid will help their efforts."
  DIPLOMACY_MESSAGE_DECLINED_TITLE_DIPLOMACY_LEND_LEASE: "$lend_lease_string_caps$ Refused"
@@ -59,7 +59,7 @@
  lend_lease_receiver_desc: "$COUNTRY|UY$ is receiving $lend_lease_string$ from other nations"
  lend_lease_receiver_extended_desc: "$COUNTRY1|UY$ is sending $lend_lease_string$ to $COUNTRY2|Y$"
 
- #game_rules_l_english
+ #game_rules_l_russian
  RULE_ALLOW_LEND_LEASE: "$lend_lease_string_caps$"
  RULE_ALLOW_LEND_LEASE_FREE_DESC: "Countries may send $lend_lease_string$ to anyone at any World Tension level."
  RULE_ALLOW_LEND_LEASE_LIMITED_DESC: "$lend_lease_string_caps$ is limited by World Tension and ideology rules."
@@ -67,13 +67,13 @@
  RULE_ALLOW_LEND_LEASE_SAME_FACTION_DESC: "Countries may only send $lend_lease_string$ to countries in the same faction."
  RULE_ALLOW_LEND_LEASE_BLOCKED_DESC: "Countries may never send $lend_lease_string$ to any other country."
 
- #logistics_l_english
+ #logistics_l_russian
  LOGISTICS_NEED_LEND_LEASE_LOW_VALUE: "$lend_lease_string_caps$: $NEED|^1Y$ units"
  LOGISTICS_NEED_LEND_LEASE_HIGH_VALUE: "$lend_lease_string_caps$: $NEED|^0Y$ units"
  LOGISTICS_GAINED_LEND_LEASE: "From $lend_lease_string_caps$: $GAINED|Y$ units"
  LOGISTICS_STORAGE_GAINED_LEND_LEASE: "§TFrom $lend_lease_string_caps$: $AMOUNT|Y$ units§!"
 
- #modifiers_l_english
+ #modifiers_l_russian
  MODIFIER_LEND_LEASE_TENSION_LIMIT: "$lend_lease_string_caps$ tension limit"
  MODIFIER_REQUEST_LEASE_TENSION_LIMIT: "$lend_lease_string_caps$ request tension limit"
  MODIFIER_AUTONOMY_GAIN_LL_TO_OVERLORD: "Freedom gain from $lend_lease_string$ to overlord"
@@ -85,13 +85,13 @@
  MODIFIER_AUTONOMY_GAIN_LL_TO_SUBJECT_FACTOR: "Freedom gain by subject from $lend_lease_string$ from overlord"
  MODIFIER_AUTONOMY_GAIN_LL_TO_SUBJECT_FACTOR_DESC: "Effect on freedom gained or lost by subject from $lend_lease_string$ from overlord"
 
- #topbar_l_english
+ #topbar_l_russian
  LEND_LEASE_TENSION_DESC: "Needs $VAL|%Y0$ tension to send a $lend_lease_string$ aid.\n"
 
- #trade_l_english
+ #trade_l_russian
  TRADE_ROUTE_CONVOY_LEND_LEASE_IMPORT: "$lend_lease_string_caps$ import from $FR|H$ ( $CONVOYS|Y$ £convoy_texticon )"
  TRADE_ROUTE_CONVOY_LEND_LEASE_EXPORT: "$lend_lease_string_caps$ export to $TO|H$ ( $CONVOYS|Y$ £convoy_texticon )"
 
- #waroverview_l_english
+ #waroverview_l_russian
  WARSCORE_BREAKDOWN_LENDLEASE_GIVEN: "$lend_lease_string_caps$ Sent: $AMOUNT|Y0$"
  WARSCORE_BREAKDOWN_LENDLEASE_RECEIVED: "$lend_lease_string_caps$ Received: §R-$AMOUNT|0$§!"
