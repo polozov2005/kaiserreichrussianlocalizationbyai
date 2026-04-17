@@ -53,3 +53,4 @@
  CONSTRUCTION_INFO_MASTER: "This construction is built on the $WHO|H$ territory. If we don't use all factories, they can contribute using theirs."
  CONSTRUCTION_INFO_SUBJECT: "This construction is built for us by the $WHO|H$. If they don't use all factories, we can contribute using ours."
  AUTONOMY_NOT_ENOUGH_TIME: "§RAutonomy level can only be changed every §Y$DURATION$ days§! (§Y$REMAINDER$ days left§!)§!"
+

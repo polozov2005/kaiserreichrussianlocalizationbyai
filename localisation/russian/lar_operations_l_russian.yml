@@ -241,3 +241,4 @@
  nuclear_espionage: "Infiltrate Atomic Programme"
  nuclear_espionage_desc: "Our nuclear weapons programme is behind other countries. We should plan an operation to infiltrate foreign atomic weapons programmes and acquire vital blueprints and data."
  nuclear_espionage_outcome_tt: "We will place an agent inside the [FROM.GetAdjective] nuclear research programme who will attempt to pass technical documentation that can be used in our own atomic project."
+

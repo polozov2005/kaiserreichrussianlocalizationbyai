@@ -119,3 +119,4 @@
  capitulation_events.45.t: "The French Agree"
  capitulation_events.45.d: "Obviously delighted by our generosity, [NFA.GetNameDef] has agreed to our offer and has already moved [NFA.GetAdjective] troops into some of the southern territories."
  capitulation_events.45.a: "Excellent!"
+

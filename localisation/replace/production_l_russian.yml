@@ -15,3 +15,4 @@
  LICENSED_EQUIPMENT_PRODUCTION_SPEED_NOT_FACTION: "§YNot in faction with licenser§!: $VALUE|+%$"
  LICENSED_EQUIPMENT_PRODUCTION_SPEED_NO_LICENSE: "§YNo active licence§!: $VALUE|+%$"
  LICENSED_PURCHASE_CIC_COST: "§YThis licence costs§!: £civ_factory $AMOUNT|Y$"
+

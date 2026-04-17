@@ -1232,3 +1232,4 @@
  ruling_party_15: "£[?var:current_party_ideology_group.GetTokenKey]_texticon  §H15%§!"
  ruling_party_15_blocked: "£[?var:current_party_ideology_group.GetTokenKey]_texticon  §R15%§!"
  ruling_party_15_tooltip: "It costs $ruling_party_15_blocked$ to take the decision"
+

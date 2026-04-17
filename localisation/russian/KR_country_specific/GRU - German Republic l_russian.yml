@@ -402,3 +402,4 @@
  GRU_KAPD_election_tt: "§CThe General Council Convention will end in [ROOT.GETNAMEDEF].\nThe ideology of [ROOT.GETNAMEDEF]'s overlord will determine who will run the civilian government.§!"
  GRU_free_elections_tt: "§CElections will be held in [ROOT.GETNAMEDEF].\nThe ideology of [ROOT.GETNAMEDEF]'s overlord will influence who will win the Election.§!"
  GRU_independence_tt: "§CGranting Germany independence will allow them to pursue unification without our mediation.§!"
+

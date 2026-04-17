@@ -37,3 +37,4 @@
  STATE_CATEGORY_minor_port: "$minor_port$"
  STATE_CATEGORY_one_island: "$one_island$"
  STATE_CATEGORY_zero_island: "$zero_island$"
+

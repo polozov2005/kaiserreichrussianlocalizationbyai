@@ -147,3 +147,4 @@
  mutiny_event.9.t: "A new breed of officer"
  mutiny_event.9.desc: "Despite strong objections from the military, every unit in the [Root.GetAdjective] Army carried out elections to select their commander. The results have been very surprising, as most of the elected are accomplished soldiers with plenty of experience in the field. While many professional officers still consider this to be a personal insult, there can be little doubt that most soldiers dramatically prefer this situation."
  mutiny_event.9.a: "This shouldn't work, should it?"
+

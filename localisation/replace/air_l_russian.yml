@@ -4,27 +4,28 @@
 ########################################################
 
 #changed to British spelling
- AIRWING_REORG: "Reorganise Air Wings"
- AIRWING_REORG_ONE: "Reorganise Air Wing"
- AIRWING_REORG_BASE: "Reorganise Air Wings"
- AIRWING_REORG_ONE_BASE: "Reorganise Air Wing"
- AIRWING_MISSION_TRANSFER_CANCELED: "Transfer cancelled, returning to base ($PERC|%H$)"
- AIRWING_DEPLOYMENT_CANCELED: "Deployment cancelled, returning to Reserves ($PERC|%H$, expected arrival: $ETA|%H$)"
+ AIRWING_REORG: "Реорганизовать авиакрылья"
+ AIRWING_REORG_ONE: "Реорганизовать авиакрыло"
+ AIRWING_REORG_BASE: "Реорганизовать авиакрылья"
+ AIRWING_REORG_ONE_BASE: "Реорганизовать авиакрыло"
+ AIRWING_MISSION_TRANSFER_CANCELED: "Передача отменена, возврат на базу ($PERC|%H$)"
+ AIRWING_DEPLOYMENT_CANCELED: "Развёртывание отменено, возврат в резерв ($PERC|%H$, ожидаемое прибытие: $ETA|%H$)"
 
 #fixed typo
- AIR_DELETE_WINGS_DESC: "Are you sure you want to remove $COUNT|H$ Air Wings and return all their equipment to Reserves?"
+ AIR_DELETE_WINGS_DESC: "Вы уверены, что хотите расформировать $COUNT|H$ авиакрыльев и вернуть всё их снаряжение в резерв?"
 
 #changed to British spelling + fixed missing "is"
- AIRBASE_NON_OPERATIONAL_DMZ: "This airbase is §RNon operational§! because we cannot access airport in demilitarised zone."
+ AIRBASE_NON_OPERATIONAL_DMZ: "Эта авиабаза §Rне функционирует§!, так как у нас нет доступа к аэропорту в демилитаризованной зоне."
 
 #changed to British spelling
- AIRWING_DEPLOYMENT_CANCELING: "§HCancelling§!"
- AIR_VIEW_AIR_ATTACK_HIGHER: "Our average §HAir Attack§! is §Ghigher§! than their §HAir Defence§!"
- AIR_VIEW_AIR_ATTACK_LOWER: "Our average §HAir Attack§! is §Rlower§! than their §HAir Defence§!"
- AIR_VIEW_AIR_ATTACK_EQUAL: "Our average §HAir Attack§! is the §Hsame§! as their §HAir Defence§!"
- AIR_VIEW_AIR_DEFENSE_HIGHER: "Our average §HAir Defence§! is §Ghigher§! than their §HAir Attack§!"
- AIR_VIEW_AIR_DEFENSE_LOWER: "Our average §HAir Defence§! is §Rlower§! than their §HAir Attack§!"
- AIR_VIEW_AIR_DEFENSE_EQUAL: "Our average §HAir Defence§! is the §Hsame§! as their §HAir Attack§!"
+ AIRWING_DEPLOYMENT_CANCELING: "§HОтмена§!"
+ AIR_VIEW_AIR_ATTACK_HIGHER: "Наша средняя §Hвоздушная атака§! §Gвыше§! их §HПВО§!"
+ AIR_VIEW_AIR_ATTACK_LOWER: "Наша средняя §Hвоздушная атака§! §Rниже§! их §HПВО§!"
+ AIR_VIEW_AIR_ATTACK_EQUAL: "Наша средняя §Hвоздушная атака§! §Hравна§! их §HПВО§!"
+ AIR_VIEW_AIR_DEFENSE_HIGHER: "Наше среднее §HПВО§! §Gвыше§! их §Hвоздушной атаки§!"
+ AIR_VIEW_AIR_DEFENSE_LOWER: "Наше среднее §HПВО§! §Rниже§! их §Hвоздушной атаки§!"
+ AIR_VIEW_AIR_DEFENSE_EQUAL: "Наше среднее §HПВО§! §Hравно§! их §Hвоздушной атаке§!"
 
 #fixed typo
- AIR_MORE_GROUND_CREWS_CANCEL_DESC: "§RCancel§! the efficiency boost on $NAME|H$"
+ AIR_MORE_GROUND_CREWS_CANCEL_DESC: "§RОтменить§! повышение эффективности на $NAME|H$"
+

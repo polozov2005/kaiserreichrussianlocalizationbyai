@@ -185,3 +185,4 @@
  intermarium_events.19.c: "We are ready to defend ourselves!"
  intermarium_events.19.b.tt: "Until §H[FRA.GetNameDef]§! has capitulated, §H[GER.GetNameDef]§! nor their allies will send any divisions to our borders, and we will face the Russians by ourselves.\nCountries in the §HEastern European Defence Cooperation§! will still be able to defend us and each other.\n\n§RWARNING: This will make the war with Russia somewhat harder.§!"
  intermarium_events.19.c.tt: "Until §H[FRA.GetNameDef]§! has capitulated, §H[GER.GetNameDef]§! nor their allies will send any divisions to anyone in the §HEastern European Defence Cooperation§!.\n\n§RWARNING: This will make the war with Russia harder, and they will gain additional $infantry_equipment$.§!"
+

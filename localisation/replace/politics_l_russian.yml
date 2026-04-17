@@ -15,3 +15,4 @@
 #added player warning
  RELEASE_NATION_TITLE: "WARNING"
  RELEASE_NATION_DESC: "Do you want to liberate $COUNTRY|H$ in $LIST|H$?\n\n§RThis is not supported in Kaiserreich and will cause bugs, do so at your own risk!§!"
+

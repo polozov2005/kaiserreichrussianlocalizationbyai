@@ -17,3 +17,4 @@
  lar_operative_event.6.t: "[From.GetAdjective] Operative Captured!"
  lar_operative_event.6.desc: "[This.GetName] has been caught attempting to infiltrate our administration and leak secret information back to [This.GetHerHis] superiors. Upon interrogation, [This.GetSheHe] revealed [This.GetHerselfHimself] to be a foreign asset for [From.GetAgency] operating on [From.From.GetAdjective] soil. It is still yet unknown what the exact nature of [From.GetAdjective] interest in our nation is or what sections of our administration have already been exposed to the eyes of [From.GetAdjective] Intelligence. With [This.GetName] imprisoned and awaiting further interrogation, we can only hope that eventually [This.GetSheHe] will reveal all there is to know of [From.GetAdjective] operations in [From.From.GetNameDef]."
  lar_operative_event.6.a: "We have ways of making you talk."
+

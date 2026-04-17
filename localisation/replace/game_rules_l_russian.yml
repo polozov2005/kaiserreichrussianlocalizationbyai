@@ -11,3 +11,4 @@
 #added player warnings
  RULE_ALLOW_LEAVE_FACTION_ALLOWED_DESC: "Fully sovereign countries may leave a faction while at peace.\n\n§RNote: This option is not fully supported. Normal sanity checks and other bug preventing measures will be bypassed, and thus playing with this option will cause issues. Please do not report any you find. You have been warned.§!"
  RULE_ALLOW_KICK_FACTION_ALLOWED_DESC: "The Leader of a Faction may kick any country from the faction.\n\n§RNote: This option is not fully supported. Normal sanity checks and other bug preventing measures will be bypassed, and thus playing with this option will cause issues. Please do not report any you find. You have been warned.§!"
+

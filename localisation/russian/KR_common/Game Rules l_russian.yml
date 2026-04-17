@@ -4535,3 +4535,4 @@
  RULE_OPTION_NZL_PATH_SOCCON_DESC: "$RULE_OPTION_NZL_PATH_DEM_DESC$ The §cNew Zealand National Party§! forms a minority government.$NZL_PATH_REQUIREMENTS$"
  RULE_OPTION_NZL_PATH_NATPOP: "£KR_game_rule_flag_NZL  New Zealand Legion"
  RULE_OPTION_NZL_PATH_NATPOP_DESC: "$RULE_OPTION_NZL_PATH_DEM_DESC$ The people turn to the §nNew Zealand Legion§! to protect them.$NZL_PATH_REQUIREMENTS$"
+

@@ -220,3 +220,4 @@
  kazakhstan_events.5.t: "The Turkish Mission Arrives"
  kazakhstan_events.5.d: "[TUR.Capital.GetCapitalVictoryPointName] has agreed to our request for military support. A significant Turkish military mission has arrived at our improvised army headquarters in Almaty and met with General Amanzholov. Quick arrangements have been made: the [TUR.GetAdjective] officers will be dispatched to different units as advisors, with the authority to carry out the reorganisation. Others have been directed to greatly improve our officer school, and to rapidly train new officers from talented Kazakh men."
  kazakhstan_events.5.a: "We will succeed!"
+

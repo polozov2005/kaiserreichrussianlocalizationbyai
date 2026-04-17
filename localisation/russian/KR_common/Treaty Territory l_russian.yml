@@ -70,3 +70,4 @@
  treaty_territory_events.9.t: "The End of the [treatyport_whichisit2] Concession"
  treaty_territory_events.9.d: "With the collapse of [FROM.GetNameDef] to enemy forces, we are no longer beholden to the concessions - and our forces have already moved in to seize them."
  treaty_territory_events.9.a: "A small victory."
+

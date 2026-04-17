@@ -86,3 +86,4 @@
  ADD_WAR_LOC_TT: "§HDeclare War on [This.owner.GetNameDef]§!\n\n§H[marked_country.GetNameWithFlag]§! will declare war on §H[This.owner.GetNameWithFlag]§!."
  ADD_WAR_DEFAULT: "§HDeclare War§!"
  ADD_WAR_LOC_DELAYED: "[!add_peace_click]"
+
