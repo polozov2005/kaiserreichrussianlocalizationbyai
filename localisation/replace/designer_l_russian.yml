@@ -3,8 +3,8 @@
 ### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ###
 ########################################################
 
- DESIGNER_ARMORED_LABEL: "Armoured"
- DESIGNER_ARMORED_RATIO: "Armoured: $VALUE|%Y$"
- DESIGNER_SUPPORT_COLUMN_TITLE: "Support Companies. These are support troops that keep behind the front line troops and help out.\n\nYou can only select one of each type and Support Companies do not affect the §YMax Speed§! of the Division (other than through terrain bonuses), and do not increase its §YCombat Width§!."
- DESIGNER_MAIN_COLUMN_TITLE: "Line Battalions are your front line troops.\n\nEach column is a Regiment of a specific base type like §YArmour§!, §YInfantry§! or §YMotorised Troops§!. The topmost type decides what else you can put in that Regiment column. The more Line Battalions you have the bigger your §YCombat Width§! and the fewer of these divisions you will be able to fit into the same battle."
+ DESIGNER_ARMORED_LABEL: "Бронетехника"
+ DESIGNER_ARMORED_RATIO: "Бронетехника: $VALUE|%Y$"
+ DESIGNER_SUPPORT_COLUMN_TITLE: "Роты поддержки. Это вспомогательные войска, действующие за линией фронта и оказывающие поддержку.\n\nМожно выбрать только одну роту каждого типа. Роты поддержки не влияют на §YМаксимальную скорость§! дивизии (за исключением бонусов к местности) и не увеличивают её §YБоевую ширину§!."
+ DESIGNER_MAIN_COLUMN_TITLE: "Линейные батальоны — это ваши войска первой линии.\n\nКаждая колонка представляет полк определённого базового типа: §YБронетехника§!, §YПехота§! или §YМотопехота§!. Верхний тип определяет, что ещё можно добавить в эту колонку полка. Чем больше линейных батальонов, тем больше ваша §YБоевая ширина§! и тем меньше таких дивизий поместится в один бой."
 

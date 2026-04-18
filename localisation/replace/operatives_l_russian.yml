@@ -4,15 +4,15 @@
 ########################################################
 
 #fixed capitalisations, changed to British spelling
- upgrade_passive_defense: "Passive Defence"
- upgrade_anti_partisan: "Anti-Partisan"
- upgrade_blueprint_stealing: "Blueprint Stealing"
- upgrade_portable_radios: "Portable Radios"
- upgrade_plastic_explosives: "Plastic Explosives"
- upgrade_suicide_pills: "Suicide Pills"
- upgrade_training_centers: "Localised Training Centres"
- upgrade_commando_training: "Commando Training"
+ upgrade_passive_defense: "Пассивная оборона"
+ upgrade_anti_partisan: "Борьба с партизанами"
+ upgrade_blueprint_stealing: "Кража чертежей"
+ upgrade_portable_radios: "Портативные радиостанции"
+ upgrade_plastic_explosives: "Пластичная взрывчатка"
+ upgrade_suicide_pills: "Таблетки для самоубийства"
+ upgrade_training_centers: "Локальные учебные центры"
+ upgrade_commando_training: "Подготовка коммандос"
 
 #edited to reference KR version of spymaster trait
- CANNOT_RECRUITE_OPERATIVE_NO_SLOT_DESC: "You can get the first slot by building the intelligence agency. Other slots will be available after the 5th upgrade or by assigning a §H$KR_head_of_intelligence$§! advisor.\nAs a faction's spymaster, more operative slots are unlocked by having more countries in your faction. Puppets or countries with very low factory counts do not contribute to more operative slots."
+ CANNOT_RECRUITE_OPERATIVE_NO_SLOT_DESC: "Первый слот можно получить, построив разведывательное агентство. Остальные слоты станут доступны после 5-го улучшения или при назначении советника §H$KR_head_of_intelligence$§!.\nКак глава разведки альянса, вы разблокируете дополнительные слоты оперативников за счёт большего количества стран в вашем альянсе. Марионетки или страны с очень низким количеством заводов не вносят вклад в увеличение слотов оперативников."
 

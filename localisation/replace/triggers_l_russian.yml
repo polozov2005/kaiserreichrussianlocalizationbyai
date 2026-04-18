@@ -4,50 +4,50 @@
 ########################################################
 
 #fixed spelling of materiel
- TRIGGER_HAS_NOT_IDEA_MATERIEL_MANUFACTURER: "Does not have materiel designer $IDEA|H$"
- TRIGGER_HAS_IDEA_MATERIEL_MANUFACTURER: "Has materiel designer $IDEA|H$"
+ TRIGGER_HAS_NOT_IDEA_MATERIEL_MANUFACTURER: "Не имеет конструктора снаряжения $IDEA|H$"
+ TRIGGER_HAS_IDEA_MATERIEL_MANUFACTURER: "Имеет конструктора снаряжения $IDEA|H$"
 
 #changed to British spelling
- TRIGGER_ESTIMATED_MAX_ARMOR_INTEL_MORE_THAN: "$COUNTRY2|H$ is estimated to have maximum armour of $VALUE|H$ or more based on intel"
- TRIGGER_ESTIMATED_MAX_ARMOR_INTEL_LESS_THAN: "$COUNTRY2|H$ is estimated to have maximum armour of $VALUE|H$ or less based on intel"
+ TRIGGER_ESTIMATED_MAX_ARMOR_INTEL_MORE_THAN: "По данным разведки, $COUNTRY2|H$ имеет максимальное бронирование $VALUE|H$ или выше"
+ TRIGGER_ESTIMATED_MAX_ARMOR_INTEL_LESS_THAN: "По данным разведки, $COUNTRY2|H$ имеет максимальное бронирование $VALUE|H$ или ниже"
 
 #added space after colon
- TRIGGER_STATE_FLAG_NOT_SET: "Not: "
- TRIGGER_COUNTRY_FLAG_NOT_SET: "Not: "
- TRIGGER_GLOBAL_FLAG_NOT_SET: "Not: "
- TRIGGER_CHARACTER_FLAG_NOT_SET: "Not: "
+ TRIGGER_STATE_FLAG_NOT_SET: "Не: "
+ TRIGGER_COUNTRY_FLAG_NOT_SET: "Не: "
+ TRIGGER_GLOBAL_FLAG_NOT_SET: "Не: "
+ TRIGGER_CHARACTER_FLAG_NOT_SET: "Не: "
  TRIGGER_CHARACTER_FLAG_SET: ""
 
 #changed to British spelling
- TRIGGER_IS_NOT_NEIGHBOR_OF: "Is not neighbour of $COUNTRY|H$"
- TRIGGER_IS_NEIGHBOR_OF: "Is neighbour of $COUNTRY|H$"
- TRIGGER_ANY_NEIGHBOR_STATE_STARTS: "Any neighbour state"
- TRIGGER_ALL_NEIGHBOR_STATE_STARTS: "All neighbour states"
- TRIGGER_ANY_NEIGHBOR_COUNTRY_STARTS: "Any neighbour country"
- TRIGGER_ANY_HOME_AREA_NEIGHBOR_COUNTRY_STARTS: "Any neighbour country in the home area"
- TRIGGER_ALL_NEIGHBOR_COUNTRY_STARTS: "All neighbour countries"
- TRIGGER_IS_DEMILITARIZED: "$STATE|H$ is demilitarised."
- TRIGGER_IS_NOT_DEMILITARIZED: "$STATE|H$ is not demilitarised."
- TRIGGER_MORE_THAN_NUM_OWNED_NEIGHBOUR_STATES: "$COUNTRY|Y$ owns more than $NUM|Y$ neighbouring states of $STATE|Y$"
- TRIGGER_LESS_THAN_NUM_OWNED_NEIGHBOUR_STATES: "$COUNTRY|Y$ owns less than $NUM|Y$ neighbouring states of $STATE|Y$"
- TRIGGER_MORE_THAN_NUM_CLAIMED_NEIGHBOUR_STATES: "$COUNTRY|Y$ has claimed more than $NUM|Y$ neighbouring states of $STATE|Y$"
- TRIGGER_LESS_THAN_NUM_CLAIMED_NEIGHBOUR_STATES: "$COUNTRY|Y$ has claimed less than $NUM|Y$ neighbouring states of $STATE|Y$"
+ TRIGGER_IS_NOT_NEIGHBOR_OF: "Не граничит с $COUNTRY|H$"
+ TRIGGER_IS_NEIGHBOR_OF: "Граничит с $COUNTRY|H$"
+ TRIGGER_ANY_NEIGHBOR_STATE_STARTS: "Любой соседний регион"
+ TRIGGER_ALL_NEIGHBOR_STATE_STARTS: "Все соседние регионы"
+ TRIGGER_ANY_NEIGHBOR_COUNTRY_STARTS: "Любая соседняя страна"
+ TRIGGER_ANY_HOME_AREA_NEIGHBOR_COUNTRY_STARTS: "Любая соседняя страна в домашнем регионе"
+ TRIGGER_ALL_NEIGHBOR_COUNTRY_STARTS: "Все соседние страны"
+ TRIGGER_IS_DEMILITARIZED: "$STATE|H$ демилитаризован."
+ TRIGGER_IS_NOT_DEMILITARIZED: "$STATE|H$ не демилитаризован."
+ TRIGGER_MORE_THAN_NUM_OWNED_NEIGHBOUR_STATES: "$COUNTRY|Y$ владеет более чем $NUM|Y$ соседними регионами $STATE|Y$"
+ TRIGGER_LESS_THAN_NUM_OWNED_NEIGHBOUR_STATES: "$COUNTRY|Y$ владеет менее чем $NUM|Y$ соседними регионами $STATE|Y$"
+ TRIGGER_MORE_THAN_NUM_CLAIMED_NEIGHBOUR_STATES: "$COUNTRY|Y$ претендует на более чем $NUM|Y$ соседних регионов $STATE|Y$"
+ TRIGGER_LESS_THAN_NUM_CLAIMED_NEIGHBOUR_STATES: "$COUNTRY|Y$ претендует на менее чем $NUM|Y$ соседних регионов $STATE|Y$"
 
 #fixed typo
- TRIGGER_AUTONOMY_STATE_RATIO_LESS_THAN: "Autonomy progress under $VALUE|H%$"
+ TRIGGER_AUTONOMY_STATE_RATIO_LESS_THAN: "Прогресс автономии ниже $VALUE|H%$"
 
 #changed to British spelling
- TRIGGER_HAS_ANY_LICENSE: "Has foreign production licence"
- TRIGGER_HAS_NOT_ANY_LICENSE: "Does not have foreign production licence"
+ TRIGGER_HAS_ANY_LICENSE: "Имеет иностранную производственную лицензию"
+ TRIGGER_HAS_NOT_ANY_LICENSE: "Не имеет иностранной производственной лицензии"
 
 #fixed typo
- TRIGGER_IS_FIELD_MARSHALL: "Is a §HField Marshal§!"
- TRIGGER_IS_NOT_FIELD_MARSHALL: "Is not a §HField Marshal§!"
+ TRIGGER_IS_FIELD_MARSHALL: "Является §Hфельдмаршалом§!"
+ TRIGGER_IS_NOT_FIELD_MARSHALL: "Не является §Hфельдмаршалом§!"
 
 #removed broken $COUNTRY$
- TRIGGER_HAS_RESOURCES_RIGHT: "Has resource rights to $RESOURCES|H$"
- TRIGGER_HAS_NOT_RESOURCES_RIGHT: "Does not have resource rights to $RESOURCES|H$"
+ TRIGGER_HAS_RESOURCES_RIGHT: "Имеет права на ресурсы $RESOURCES|H$"
+ TRIGGER_HAS_NOT_RESOURCES_RIGHT: "Не имеет прав на ресурсы $RESOURCES|H$"
 
 #added space after colon
- TRIGGER_MIO_FLAG_NOT_SET: "Not: "
+ TRIGGER_MIO_FLAG_NOT_SET: "Не: "
 

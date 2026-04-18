@@ -4,5 +4,5 @@
 ########################################################
 
 #changed to British spelling
- GENERATE_WAR_GOAL_CANCEL_THREAT: "War goal justification against $TARGET$ cancelled"
+ GENERATE_WAR_GOAL_CANCEL_THREAT: "Обоснование цели войны против $TARGET$ отменено"
 
