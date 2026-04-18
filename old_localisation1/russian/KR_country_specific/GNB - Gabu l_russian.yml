@@ -1,0 +1,37 @@
+﻿l_russian:
+
+### Country Names ###
+ GNB: "Гебайа"
+ GNB_ADJ: "Гебаййск"
+ GNB_DEF: "Гебайа"
+
+### Parties ###
+ GNB_totalist_party: "САР"
+ GNB_totalist_party_long: "Союз африканских рабочих"
+
+ GNB_syndicalist_party: "СПГ"
+ GNB_syndicalist_party_long: "Социалистическая партия Гвинеи"
+
+ GNB_radical_socialist_party: "СПГ"
+ GNB_radical_socialist_party_long: "Социалистическая партия Гвинеи"
+
+ GNB_social_democrat_party: "НАП"
+ GNB_social_democrat_party_long: "Национальная африканская партия"
+
+ GNB_social_liberal_party: "ГЛ"
+ GNB_social_liberal_party_long: "Гвинейская лига"
+
+ GNB_market_liberal_party: "ПРГ"
+ GNB_market_liberal_party_long: "Партия реформистов Гвинеи"
+
+ GNB_social_conservative_party: "АГГ"
+ GNB_social_conservative_party_long: "Африканская гильдия Гвинеи"
+
+ GNB_authoritarian_democrat_party: "ВДХ"
+ GNB_authoritarian_democrat_party_long: "Временная демократическая хунта"
+
+ GNB_paternal_autocrat_party: "КОСГ"
+ GNB_paternal_autocrat_party_long: "Комитет офицеров Свободной Гвинеи"
+
+ GNB_national_populist_party: "ХНО"
+ GNB_national_populist_party_long: "Хунта национального освобождения"

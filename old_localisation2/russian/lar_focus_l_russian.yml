@@ -1,0 +1,5 @@
+﻿l_russian:
+ autonomous_state: "Автономное государство"
+ semi_autonomous_state: "Полуавтономное государство"
+ unlocks_espionage_operation_tt: "Открывает §Yшпионскую операцию§!:\n"
+ invite_to_faction_tt: "Приглашен в наш альянс."

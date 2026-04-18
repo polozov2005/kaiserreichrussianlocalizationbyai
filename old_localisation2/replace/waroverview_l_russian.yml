@@ -1,0 +1,10 @@
+﻿l_russian:
+ ######################################################## 
+ ### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ### 
+ ######################################################## 
+  
+ #changed to British spelling 
+ WARSCORE_PROGRESSBAR: "§TВойна идет $VAL|H0%$ в пользу $SIDE$§!" #NT!
+  
+ #fixed typos 
+ CAN_SURRENDER_FACTION_MEMBERS: "В настоящее время они сражаются вместе со своей фракцией и сдадутся только тогда, когда все основные члены фракции в этой войне капитулируют.\nОсновные члены фракции должны сдаться:\n$MEMBER_LIST|Y$" #NT!

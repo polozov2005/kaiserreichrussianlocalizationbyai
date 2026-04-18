@@ -1,0 +1,9 @@
+﻿l_russian:
+ ######################################################## 
+ ### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ### 
+ ######################################################## 
+  
+ #changed to British spelling 
+ natural_harbor: "§YПриродная гавань§!" #NT!
+ favorable_approach: "§YПредпочтительные подходы§!" #NT!
+  

@@ -1,0 +1,50 @@
+﻿l_russian:
+
+### Country Names ###
+ QUE: "Квебек"
+ QUE_ADJ: "Квебекск"
+ QUE_DEF: "Квебек"
+
+### Parties ###
+
+ QUE_totalist_party: "Младоквебекцы"
+ QUE_totalist_party_long: "Младоквебекцы"
+
+ QUE_syndicalist_party: "ККРК"
+ QUE_syndicalist_party_long: "Конфедерация католических рабочих Квебека"
+
+ QUE_radical_socialist_party: "РПК"
+ QUE_radical_socialist_party_long: "Рабочая партия Квебека"
+
+ QUE_social_democrat_party: "ЛПК"
+ QUE_social_democrat_party_long: "Лейбористская партия Квебека"
+
+ QUE_social_liberal_party: "НЛБ"
+ QUE_social_liberal_party_long: "Национальное либеральное действие"
+
+ QUE_market_liberal_party: "ЛПК"
+ QUE_market_liberal_party_long: "Либеральная партия Квебека"
+
+ QUE_social_conservative_party: "КПК"
+ QUE_social_conservative_party_long: "Консервативная партия Квебека"
+
+ QUE_authoritarian_democrat_party: "НС"
+ QUE_authoritarian_democrat_party_long: "Национальный союз"
+
+ QUE_paternal_autocrat_party: "ПНЕ"
+ QUE_paternal_autocrat_party_long: "Партия национального единства"
+
+ QUE_national_populist_party: "СИ"
+ QUE_national_populist_party_long: "Союз избирателей"
+ 
+### Characters ###
+ QUE_andre_laurendeau: "Андре Лорандо"
+ QUE_alfred_charpentier: "Альфред Шарпантье"
+ QUE_annie_buller: "Анни Буллер"
+ QUE_pierre_bertrand: "Пьер Бертран"
+ QUE_paul_gouin: "Поль Гуэн"
+ QUE_adelard_godbout: "Аделард Годбут"
+ QUE_camillien_houde: "Камильен Хауд"
+ QUE_maurice_duplessis: "Морис Дюплесси"
+ QUE_adrien_arcand: "Адриен Аркан"
+ QUE_louis_even: "Луи Эвен"

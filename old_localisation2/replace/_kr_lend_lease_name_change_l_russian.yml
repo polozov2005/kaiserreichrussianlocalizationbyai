@@ -1,0 +1,97 @@
+﻿l_russian:
+  
+ lend_lease_string_caps: "Материальная поддержка" #NT!
+ lend_lease_string: "материальное обеспечение" #NT!
+  
+  #autonomy_l_english 
+ MONTHLY_REQUEST_LL_TO_MASTER: "§RЗапрос $lend_lease_string$ от марионетки может дать ей больше автономии§!" #NT!
+ MONTHLY_REQUEST_LL_TO_PUPPET: "§RЗапрос $lend_lease_string$ от мастера может привести к потере автономии§!" #NT!
+  
+  #core_l_english 
+ FUEL_DAILY_GAIN_FROM_LEND_LEASE: "От $lend_lease_string_caps$: $NUM|H$" #NT!
+ FUEL_DAILY_REQUIRED_FROM_LEND_LEASE: "От $lend_lease_string_caps$: $NUM|H$" #NT!
+  
+  #country_l_english 
+ ARMY_EXPERIENCE_DESC: "Когда ваше снаряжение используется в бою, вы получаете армейский опыт. Это означает, что вы можете получить армейский опыт, когда ваш §HDivisions§! вступить в бой или если вы отправили §H$lend_lease_string_caps$§! в войнах ваших союзников.\nВы также получаете опыт, проводя §HАрмейские учения§! с войсками уровня не ниже $UNIT_TRAINING_LEVEL|Y$ и выполняя определенные §HНациональные фокусы§!. Некоторые §HМинистры§! могут увеличивать получаемый опыт.\n\nАрмейский опыт необходим для создания и изменения ваших §HШаблонов дивизий§!." #NT!
+ AIR_EXPERIENCE_DESC: "Когда ваш самолет вступает в бой с противником в миссиях или тренируется в §HУчениях пилотов§!, вы получаете Опыт полета. Это означает, что вы можете получить опыт в воздухе, когда ваши §HВоздушные Крылья§! участвуют в бою или если вы отправили §H$lend_lease_string_caps$§! в войны своих союзников.\nОпределенные §HНациональные фокусы§! дают дополнительный опыт, а некоторые §HМинистры§! могут увеличить получаемый опыт.\n\nВоздух Опыт используется для разработки лучших вариантов существующих самолетов." #NT!
+  
+  #deployment_l_english 
+ DEPLOYMENT_LEND_LEASE_COUNTRY: "$lend_lease_string_caps$: $COUNTRY$" #NT!
+  
+  #designer_l_english 
+ ALLOW_FOREIGN_EQUIPMENT_TT: "Отключите, чтобы запретить все текущее и будущее иностранное оборудование, включая как $lend_lease_string$, так и захваченное оборудование." #NT!
+  
+  #diplomacy_l_english 
+ DIPLOMACY_MESSAGE_ACCEPTED_TITLE_DIPLOMACY_LEND_LEASE: "$lend_lease_string_caps$ Принято" #NT!
+ DIPLOMACY_MESSAGE_ACCEPTED_MESSAGE_DIPLOMACY_LEND_LEASE: "\n§Y$COUNTRY|U$§! имеет §Gaccepted§! наш $lend_lease_string$.\n\nНаша помощь поможет их усилиям." #NT!
+ DIPLOMACY_MESSAGE_DECLINED_TITLE_DIPLOMACY_LEND_LEASE: "$lend_lease_string_caps$ Отказался" #NT!
+ DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_LEND_LEASE: "\n§Y$COUNTRY|U$§! имеет §Rrefused§! наш $lend_lease_string$!\n\nНашей помощи они не получат." #NT!
+ DIPLOMACY_MESSAGE_ACCEPTED_TITLE_DIPLOMACY_LEND_LEASE_EXISTING: "Изменено $lend_lease_string_caps$ Принято" #NT!
+ DIPLOMACY_MESSAGE_ACCEPTED_MESSAGE_DIPLOMACY_LEND_LEASE_EXISTING: "\n§Y$COUNTRY|U$§! имеет §Gaccepted§! наша измененная $lend_lease_string$.\n\nНаша постоянная помощь помогает их усилиям." #NT!
+ DIPLOMACY_MESSAGE_DECLINED_TITLE_DIPLOMACY_LEND_LEASE_EXISTING: "Изменено $lend_lease_string_caps$ Отказано" #NT!
+ DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_LEND_LEASE_EXISTING: "\n§Y$COUNTRY|U$§! имеет §Rrefused§! наш модифицированный $lend_lease_string$!\n\nОни больше не получат нашей помощи." #NT!
+ DIPLOMACY_MESSAGE_REPLYED_INCOMING_LEND_LEASE_TITLE: "$lend_lease_string_caps$ Запросить ответ" #NT!
+ DIPLOMACY_MESSAGE_REPLYED_INCOMING_LEND_LEASE_DESC_HEADER: "$COUNTRY|UH$ ответил на наш запрос $lend_lease_string_caps$." #NT!
+ DIPLOMACY_MESSAGE_REPLYED_INCOMING_LEND_LEASE_DESC_SOMETHING: "$lend_lease_string_caps$ теперь:" #NT!
+ DIPLOMACY_LEND_LEASE_TITLE: "Отправить $lend_lease_string_caps$" #NT!
+ DIPLOMACY_LEND_LEASE_EXISTING_TITLE: "Измените $lend_lease_string_caps$" #NT!
+ DIPLOMACY_LEND_LEASE_CANCEL_TITLE: "Отменить $lend_lease_string_caps$" #NT!
+ DIPLOMACY_LEND_LEASE_DEAL_DECLINE_POSTFIX: "§RDeclining§! остановит любой $lend_lease_string$ из $ACTOR$" #NT!
+ DIPLOMACY_LEND_LEASE_CONVOYS_REQUERD: "Для $lend_lease_string$ потребуется $VALUE|H$ конвоев." #NT!
+ DIPLOMACY_LEND_LEASE_REASON_ENEMY: "Мы не можем отправлять $lend_lease_string$ врагам." #NT!
+ DIPLOMACY_LEND_LEASE_REASON_TARGET_AT_WAR: "Чтобы отправить $lend_lease_string$, @$TAG$$WHO|H$ должен находиться в состоянии войны." #NT!
+ DIPLOMACY_LEND_LEASE_REASON_PUPPET: "Мы всегда можем $lend_lease_string$ экипировать наших марионеток." #NT!
+ DIPLOMACY_LEND_LEASE_NO_EQUIPMENT_CATEGORY: "В этой категории нет оборудования для $lend_lease_string$." #NT!
+ LEND_LEASE_VEHICLES_BUTTON: "§TОтправить бронетехнику§!" #NT!
+ LEND_LEASE_INFANTRY_BUTTON: "§TОтправить пехотную и артиллерийскую технику§!" #NT!
+ LEND_LEASE_AIRCRAFT_BUTTON: "§TОтправить самолет§!" #NT!
+ LEND_LEASE_NAVAL_BUTTON: "§T$lend_lease_string_caps$ Конвои§!" #NT!
+ LEND_LEASE_CURRENT_HEADER: "Текущий $lend_lease_string_caps$:" #NT!
+ LEND_LEASE_CURRENT_NONE: "Нет тока $lend_lease_string$" #NT!
+ DIPLOMACY_INCOMING_LEND_LEASE_TITLE: "Запрос $lend_lease_string_caps$" #NT!
+ DIPLOMACY_INCOMING_LEND_LEASE_EXISTING_TITLE: "Изменить входящие $lend_lease_string_caps$" #NT!
+ DIPLOMACY_INCOMING_LEND_LEASE_CANCEL_TITLE: "Отменить входящие $lend_lease_string_caps$" #NT!
+ DIPLOMACY_INCOMING_LEND_LEASE_REASON_ENEMY: "Мы не можем требовать $lend_lease_string$ от наших врагов." #NT!
+ DIPLOMACY_INCOMING_LEND_LEASE_REASON_TARGET_AT_WAR: "Чтобы запросить $lend_lease_string$, мы должны находиться в состоянии войны." #NT!
+ DIPLOMACY_INCOMING_LEND_LEASE_REASON_PUPPET: "Мы всегда можем запросить $lend_lease_string$ у нашего мастера." #NT!
+ lend_lease_initiator_desc: "$COUNTRY|UY$ отправляет $lend_lease_string$ в другие страны" #NT!
+ lend_lease_initiator_extended_desc: "$COUNTRY1|UY$ отправляет $lend_lease_string$ на $COUNTRY2|Y$" #NT!
+ lend_lease_receiver_desc: "$COUNTRY|UY$ получает $lend_lease_string$ от других стран" #NT!
+ lend_lease_receiver_extended_desc: "$COUNTRY1|UY$ отправляет $lend_lease_string$ на $COUNTRY2|Y$" #NT!
+  
+  #game_rules_l_english 
+ RULE_ALLOW_LEND_LEASE: "$lend_lease_string_caps$" #NT!
+ RULE_ALLOW_LEND_LEASE_FREE_DESC: "Страны могут отправлять $lend_lease_string$ кому угодно на любом уровне мировой напряженности." #NT!
+ RULE_ALLOW_LEND_LEASE_LIMITED_DESC: "$lend_lease_string_caps$ ограничен мировым напряжением и правилами идеологии." #NT!
+ RULE_ALLOW_LEND_LEASE_SAME_IDEOLOGY_DESC: "Страны могут отправлять $lend_lease_string$ только в страны с одинаковой правящей идеологией." #NT!
+ RULE_ALLOW_LEND_LEASE_SAME_FACTION_DESC: "Страны могут отправлять $lend_lease_string$ только странам одной фракции." #NT!
+ RULE_ALLOW_LEND_LEASE_BLOCKED_DESC: "Страны никогда не могут отправлять $lend_lease_string$ в любую другую страну." #NT!
+  
+  #logistics_l_english 
+ LOGISTICS_NEED_LEND_LEASE_LOW_VALUE: "$lend_lease_string_caps$: $NEED|^1Y$ единиц" #NT!
+ LOGISTICS_NEED_LEND_LEASE_HIGH_VALUE: "$lend_lease_string_caps$: $NEED|^0Y$ единиц" #NT!
+ LOGISTICS_GAINED_LEND_LEASE: "С $lend_lease_string_caps$: $GAINED|Y$ единиц" #NT!
+ LOGISTICS_STORAGE_GAINED_LEND_LEASE: "§TИз $lend_lease_string_caps$: $AMOUNT|Y$ единицы§!" #NT!
+  
+  #modifiers_l_english 
+ MODIFIER_LEND_LEASE_TENSION_LIMIT: "$lend_lease_string_caps$ предел напряжения" #NT!
+ MODIFIER_REQUEST_LEASE_TENSION_LIMIT: "$lend_lease_string_caps$ запросить предел напряжения" #NT!
+ MODIFIER_AUTONOMY_GAIN_LL_TO_OVERLORD: "Прирост свободы от $lend_lease_string$ до повелителя" #NT!
+ MODIFIER_AUTONOMY_GAIN_LL_TO_OVERLORD_DESC: "Влияние на свободу, полученную или потерянную субъектом от $lend_lease_string$ до повелителя" #NT!
+ MODIFIER_AUTONOMY_GAIN_LL_TO_SUBJECT: "Получение свободы субъектом от $lend_lease_string$ от повелителя" #NT!
+ MODIFIER_AUTONOMY_GAIN_LL_TO_SUBJECT_DESC: "Влияние на свободу, полученную или потерянную субъектом от $lend_lease_string$ от повелителя" #NT!
+ MODIFIER_AUTONOMY_GAIN_LL_TO_OVERLORD_FACTOR: "Прирост свободы от $lend_lease_string$ до повелителя" #NT!
+ MODIFIER_AUTONOMY_GAIN_LL_TO_OVERLORD_FACTOR_DESC: "Влияние на свободу, полученную или потерянную субъектом от $lend_lease_string$ до повелителя" #NT!
+ MODIFIER_AUTONOMY_GAIN_LL_TO_SUBJECT_FACTOR: "Получение свободы субъектом от $lend_lease_string$ от повелителя" #NT!
+ MODIFIER_AUTONOMY_GAIN_LL_TO_SUBJECT_FACTOR_DESC: "Влияние на свободу, полученную или потерянную субъектом от $lend_lease_string$ от повелителя" #NT!
+  
+  #topbar_l_english 
+ LEND_LEASE_TENSION_DESC: "Требуется $VAL|%Y0$ напряжения, чтобы отправить $lend_lease_string$ помощь.\n" #NT!
+  
+  #trade_l_english 
+ TRADE_ROUTE_CONVOY_LEND_LEASE_IMPORT: "$lend_lease_string_caps$ импорт из $FR|H$ ( $CONVOYS|Y$ £convoy_texticon )" #NT!
+ TRADE_ROUTE_CONVOY_LEND_LEASE_EXPORT: "$lend_lease_string_caps$ экспортировать в $TO|H$ ( $CONVOYS|Y$ £convoy_texticon )" #NT!
+  
+  #waroverview_l_english 
+ WARSCORE_BREAKDOWN_LENDLEASE_GIVEN: "$lend_lease_string_caps$ Отправлено: $AMOUNT|Y0$" #NT!
+ WARSCORE_BREAKDOWN_LENDLEASE_RECEIVED: "$lend_lease_string_caps$ Получено: §R-$AMOUNT|0$§!" #NT!

@@ -1,0 +1,58 @@
+﻿l_russian:
+ ######################################################## 
+ ### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ### 
+ ######################################################## 
+  
+ #missing line breaks 
+ EFFECT_ADD_VP: "Добавьте $VALUE|H$£victory_points£ к $PROVINCE|H$.\n" #NT!
+ EFFECT_SUBTRACT_VP: "Вычтите $VALUE|H$£victory_points£ из $PROVINCE|H$.\n" #NT!
+ EFFECT_SET_VP: "Установите победные очки с $PROVINCE|H$ на $VALUE|H$£victory_points.\n." #NT!
+  
+ #changed to British spelling 
+ EFFECT_EVERY_NEIGHBOR_STATE_STARTS: "Каждое соседнее государство" #NT!
+ EFFECT_EVERY_NEIGHBOR_COUNTRY_STARTS: "Каждая соседняя страна" #NT!
+  
+ #rewritten for clarity 
+ EFFECT_ADD_CLAIM_BY: "@$TAG$$COUNTRY|H$ получает право на государство." #NT!
+ EFFECT_REMOVE_CLAIM_BY: "@$TAG$$COUNTRY|H$ теряет право на государство." #NT!
+  
+ #changed to British spelling 
+ EFFECT_DEMILITARIZED_ZONE: "Становится демилитаризованной зоной." #NT!
+ EFFECT_NOT_DEMILITARIZED_ZONE: "Больше не будет демилитаризованной зоны." #NT!
+ EFFECT_CHANGE_LAW_mobilization_laws: "Измените Закон о мобилизации на «$NAME|Y$», что дает ($DESC$)." #NT!
+  
+ #removed references to character owner country 
+ EFFECT_RETIRE_CHARACTER: "Уйти в отставку $NAME|H$" #NT!
+ EFFECT_CONTEXT_LEADER: "$LEADER|H$" #NT!
+  
+ #missing line breaks 
+ EFFECT_CREATE_UNIT: "Создать отряд $OWNER|H$.\n" #NT!
+ EFFECT_CREATE_UNIT_LOCATION: "Создать отряд $OWNER|H$ в $STATE|H$.\n" #NT!
+ EFFECT_CREATE_UNIT_WITH_COUNT: "Создать $COUNT|H$ $OWNER|H$ дивизий.\n" #NT!
+ EFFECT_CREATE_UNIT_LOCATION_WITH_COUNT: "Создать $COUNT|H$ $OWNER|H$ дивизий в $STATE|H$.\n" #NT!
+  
+ #shortened tooltip 
+ EFFECT_SET_STATE_CATEGORY: "Состояние становится $CATEGORY|Y$." #NT!
+ EFFECT_SET_LEADER_NATIONALITY: "присоединюсь $COUNTRYDEF|Y$" #NT!
+  
+ #added texticon 
+ EFFECT_UNLOCK_DECISION: "Открывает решение: £decision_icon_small $NAME|H$$EFFECT$." #NT!
+ EFFECT_UNLOCK_DECISION_CATEGORY: "Открывает £decision_icon_small $NAME|H$ решений." #NT!
+  
+ #rewritten to use the same pattern as EFFECT_UNLOCK_DECISION 
+ EFFECT_ACTIVATE_TARGETED_DECISION: "Включает решение: £decision_icon_small $NAME|H$" #NT!
+ EFFECT_REMOVE_TARGETED_DECISION: "Отключает решение: £decision_icon_small $NAME|H$" #NT!
+  
+ #missing line breaks 
+ EFFECT_ADD_DYMAMIC_MODIFIER: "Добавьте $NAME|H$, что дает:\n$DESC$\n" #NT!
+ EFFECT_ADD_DYMAMIC_MODIFIER_WITH_DAYS: "Добавьте $NAME|H$ ($NUM|H$ дней), что дает:\n$DESC$\n" #NT!
+ EFFECT_REMOVE_DYMAMIC_MODIFIER: "Удалите $NAME|H$, что дало:\n$DESC$\n" #NT!
+ EFFECT_SET_COLLABORATION: "Установить сотрудничество в $TARGET|H$: $VALUE|+%0$\n" #NT!
+ EFFECT_ADD_COLLABORATION: "Увеличьте сотрудничество в $TARGET|H$: $VALUE|+%0$\n" #NT!
+ EFFECT_REMOVE_COLLABORATION: "Уменьшить сотрудничество в $TARGET|H$: $VALUE|-%0$\n" #NT!
+  
+ #edited for clarity 
+ CHANGE_DIV_TEMPLATE_EFFECT: "Раздел меняет шаблон на $TEMPLATE|H$" #NT!
+  
+ #changed to British spelling 
+ EFFECT_SET_UNIT_ORGANIZATION: "Установить организацию подразделения на $VAL|H%$" #NT!

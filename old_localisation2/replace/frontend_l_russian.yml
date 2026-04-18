@@ -1,0 +1,19 @@
+﻿l_russian:
+ ######################################################## 
+ ### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ### 
+ ######################################################## 
+  
+ #changed to British spelling 
+ FE_COOP_LABEL: "Кооператив" #NT!
+ FE_DIFFICULTY_HARD_TOOLTIP: "§L"Через тридцать лет, когда вы будете сидеть у камина с внуком на коленях, и он спросит: «Что вы делали во время великой Второй мировой войны?» вам не придется кашлять и говорить: «Ну, твой дедушка в Луизиане дерьмо разгребал».»§!" #NT!
+  
+ #removed "major" "главный" #NT!
+ CUSTOM_DIFFICULTY_GROUP_NAME: "Усиления нации" #NT!
+  
+ #changed country names to match KR 
+ custom_diff_strong_ger: "£KR_game_rule_flag_GER  Укрепить Германскую империю" #NT!
+ custom_diff_strong_ita: "£KR_game_rule_flag_ITA  Укрепите Итальянскую Республику" #NT!
+ custom_diff_strong_fra: "£KR_game_rule_flag_FRA  Укрепление Французской Коммуны" #NT!
+ custom_diff_strong_eng: "£KR_game_rule_flag_ENG  Укрепить Британский Союз" #NT!
+ custom_diff_strong_usa: "£KR_game_rule_flag_USA  Усиление США" #NT!
+ custom_diff_strong_jap: "£KR_game_rule_flag_JAP  Укрепите Японскую империю" #NT!

@@ -1,0 +1,20 @@
+﻿l_english:
+########################################################
+### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ###
+########################################################
+
+#changed to British spelling
+ alert_non_payed_license_instant: "§HНеоплаченные лицензии§!"
+
+#changed wording to account for KR war declaration decisions
+ ALERT_ENEMY_GENERATE_WARGOAL: "Государство $COUNTRY|Y$ обосновывает цель войны против §Yнас§!."
+
+#changed to British spelling
+ alert_naval_battle_results_delayed_click: "§GЩелкните, чтобы переместиться к следующему отчету.\nЩелкните по значку £mapicon_naval_battle_result_text в регионе, чтобы прочитать отчет.\n§!"
+ alert_naval_convoy_raiding_results_delayed_click: "§GЩелкните, чтобы переместиться к следующему отчету.\nЩелкните по значку £topbar_convoys в регионе, чтобы прочитать отчет.\n§!"
+ alert_paused_diplomatic_actions_delayed: "Некоторые ваши дипломатические действия приостановлены, потому что у вас мало политической власти.\nРекомендуем отменить эти действия, чтобы они не мешали вам набирать политическую власть.\n\nЗатрагивает отношения с:\n$COUNTRIES$"
+ ASK_TO_COOP_TITLE: "Попросить сыграть вместе"
+ ASK_TO_COOP_TITLE_DESC: "Вы действительно хотите попросить игрока $PLAYER$ играть вместе с вами за государство $COUNTRY$?"
+ ALLOW_COOP_REQUEST: "Игрок просит сыграть вместе"
+ ALLOW_COOP_REQUEST_DESC: "$PLAYER$ хочет присоединиться к вам и играть вместе. Разрешить?"
+ alert_port_strike_results_delayed_click: "§GЩелкните, чтобы переместиться к следующему отчету.\nЩелкните по значку £mapicon_port_strike_result_text в регионе, чтобы прочитать отчет.\n§!"

@@ -1,0 +1,7 @@
+﻿l_russian:
+ ######################################################## 
+ ### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ### 
+ ######################################################## 
+  
+ #edited to account for KR scripted peaces 
+ PEACE_CONFERENCE_WHITE_PEACE: "Между\n@$ACTOR_TAG$$ACTOR_COUNTRY|Y$ и $RECIPIENT_COUNTRY|Y$@$RECIPIENT_TAG$\ было подписано §YМирное соглашение§!, прекращающее военные действия." #NT!

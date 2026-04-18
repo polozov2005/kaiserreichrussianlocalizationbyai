@@ -1,0 +1,127 @@
+﻿l_english:
+
+ generic_arms_company: "Small Arms Company"
+ generic_artillery_company: "Artillery Company"
+ generic_car_company: "Motor Company"
+
+ generic_tank_company: "Armour Company"
+
+ generic_naval_company: "Naval Company"
+
+ generic_light_aircraft_company: "Light Aircraft Company"
+ generic_medium_aircraft_company: "Medium Aircraft Company"
+ generic_naval_aircraft_company: "Naval Aircraft Company"
+ generic_multi_role_aircraft_company: "Multi-Role Aircraft Company"
+
+ generic_industrial_company: "Industrial Company"
+ generic_electronics_company: "Electronics Company"
+
+### Armour ###
+ general_tank_manufacturer: "$generic_mio_initial_trait_general_tank_designer$"
+ general_tank_manufacturer_improved: "$general_tank_manufacturer$"
+
+ infantry_tank_manufacturer: "$generic_mio_initial_trait_infantry_tanks_designer$"
+ infantry_tank_manufacturer_improved: "$infantry_tank_manufacturer$"
+
+ assault_gun_manufacturer: "$generic_mio_initial_trait_assault_guns_organization$"
+ assault_gun_manufacturer_improved: "$assault_gun_manufacturer$"
+
+ mobile_tank_manufacturer: "$generic_mio_initial_trait_fast_tanks_designer$"
+ mobile_tank_manufacturer_improved: "$mobile_tank_manufacturer$"
+
+ medium_tank_manufacturer: "$generic_mio_initial_trait_medium_tank_designer$"
+ medium_tank_manufacturer_improved: "$medium_tank_manufacturer$"
+
+ heavy_tank_manufacturer: "$generic_mio_initial_trait_heavy_tank_designer$"
+ heavy_tank_manufacturer_improved: "$heavy_tank_manufacturer$"
+
+ tank_refurbishment_plant: "$generic_mio_initial_trait_tank_refurbishment_plant$"
+ tank_refurbishment_plant_improved: "$tank_refurbishment_plant$"
+
+### Air ###
+ general_aircraft_manufacturer: "$generic_mio_initial_trait_general_aircraft_designer$"
+ general_aircraft_manufacturer_improved: "$general_aircraft_manufacturer$"
+
+ light_aircraft_manufacturer: "$generic_mio_initial_trait_light_aircraft_designer$"
+ light_aircraft_manufacturer_improved: "$light_aircraft_manufacturer$"
+
+ medium_aircraft_manufacturer: "$generic_mio_initial_trait_medium_aircraft_designer$"
+ medium_aircraft_manufacturer_improved: "$medium_aircraft_manufacturer$"
+
+ heavy_aircraft_manufacturer: "$generic_mio_initial_trait_heavy_aircraft_designer$"
+ heavy_aircraft_manufacturer_improved: "$heavy_aircraft_manufacturer$"
+
+ cas_aircraft_manufacturer: "$generic_mio_initial_trait_cas_aircraft_designer$"
+ cas_aircraft_manufacturer_improved: "$cas_aircraft_manufacturer$"
+
+ naval_aircraft_manufacturer: "$generic_mio_initial_trait_naval_aircraft_designer$"
+ naval_aircraft_manufacturer_improved: "$naval_aircraft_manufacturer$"
+
+ multi_role_aircraft_manufacturer: "$generic_mio_initial_trait_multi_role_aircraft_designer$"
+ multi_role_aircraft_manufacturer_improved: "$multi_role_aircraft_manufacturer$"
+
+ high_agility_fighter_aircraft_manufacturer: "$generic_mio_initial_trait_high_agility_fighters_designer$"
+ high_agility_fighter_aircraft_manufacturer_improved: "$high_agility_fighter_aircraft_manufacturer$"
+
+ range_focused_aircraft_manufacturer: "$generic_mio_initial_trait_range_focused_aircraft_designer$"
+ range_focused_aircraft_manufacturer_improved: "$range_focused_aircraft_manufacturer$"
+
+### Materiel ###
+ infantry_equipment_manufacturer_offence: "Offence-Focused Firearms Designer"
+ infantry_equipment_manufacturer_defence: "Defence-Focused Firearms Designer"
+ infantry_equipment_manufacturer_reliable: "Reliable Firearms Designer"
+ infantry_equipment_manufacturer_quality: "Quality Firearms Designer"
+ infantry_equipment_manufacturer_cheap: "Cheap Firearms Designer"
+
+ artillery_equipment_manufacturer_offence: "Offence-Focused $generic_mio_initial_trait_artillery_manufacturer$"
+ artillery_equipment_manufacturer_defence: "Defence-Focused $generic_mio_initial_trait_artillery_manufacturer$"
+ artillery_equipment_manufacturer_cheap: "Cheap $generic_mio_initial_trait_artillery_manufacturer$"
+
+ support_equipment_manufacturer: "$generic_mio_initial_trait_support_equipment_manufacturer$"
+
+ motorised_equipment_manufacturer: "$generic_mio_initial_trait_motorized_mechanized_manufacturer$"
+
+ mechanised_equipment_manufacturer_offence: "Offence-Focused Half-Track Designer"
+ mechanised_equipment_manufacturer_defence: "Defence-Focused Half-Track Designer"
+ mechanised_equipment_manufacturer_cheap: "Cheap Half-Track Designer"
+
+ armored_car_manufacturer: "$generic_mio_initial_trait_armored_car_manufacturer$"
+
+### Naval ###
+ task_force_ship_manufacturer: "$generic_mio_initial_trait_task_force_ship_builders$"
+ task_force_ship_manufacturer_improved: "$task_force_ship_manufacturer$"
+
+ battle_line_ship_manufacturer: "$generic_mio_initial_trait_battle_line_ship_builders$"
+ battle_line_ship_manufacturer_improved: "$battle_line_ship_manufacturer$"
+
+ escort_ship_manufacturer: "$generic_mio_initial_trait_escort_fleet$"
+ escort_ship_manufacturer_improved: "$escort_ship_manufacturer$"
+
+ raider_ship_manufacturer: "$generic_mio_initial_trait_raiding_fleet$"
+ raider_ship_manufacturer_improved: "$raider_ship_manufacturer$"
+
+ submarine_manufacturer: "$generic_mio_initial_trait_submarine_designer$"
+ submarine_manufacturer_improved: "$submarine_manufacturer$"
+
+ small_fleet_manufacturer: "$generic_mio_initial_trait_small_fleet_designer$"
+ small_fleet_manufacturer_improved: "$small_fleet_manufacturer$"
+
+ refurbishment_repair_dockyard: "$generic_mio_refurbishment_repair_dockyard_organization$"
+ refurbishment_repair_dockyard_improved: "$refurbishment_repair_dockyard$"
+
+ merchant_marine_manufacturer: "Merchant Marine Manufacturer"
+
+### General Industry ###
+ mining_company: "Mining Company"
+ chemical_producer: "Chemical Company"
+ industrial_manufacturer: "Industrial Concern"
+ electronics_manufacturer: "Electronics Developer"
+ railroad_company: "Railroad Company"
+ oil_concern: "Petroleum Company"
+ energy_company: "Energy Company"
+ construction_company: "Construction Company"
+ industrial_conglomerate: "Industrial Conglomerate"
+ industrial_monopoly: "Industrial Monopoly"
+ refinery_company: "Refinery Company"
+ steelworks: "Steelworks"
+ transport_company: "Transport Company"

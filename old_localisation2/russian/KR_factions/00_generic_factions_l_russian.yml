@@ -1,0 +1,18 @@
+﻿l_russian:
+  
+ faction_generic: "Региональный гегемон"
+  
+ faction_manifest_generic_regional_dominance_name: "Региональная гегемония"
+ faction_manifest_generic_regional_dominance_desc: "Пришло время завоевать наше место под солнцем.\nВаша фракция контролирует 150 провинций."
+  
+ faction_defender_of_democracy: "Защитник демократии"
+  
+ faction_manifest_generic_democratic_bastion_name: "Бастион демократии"
+ faction_manifest_generic_democratic_bastion_desc: "Добейтесь, что все страны мира придерживаются одной из следующих идеологий::\n$social_democrat_coloured$\n$social_liberal_coloured$\n$market_liberal_coloured$\n$social_conservative_coloured$"
+  
+ faction_harbinger_of_a_new_order: "Предвестник нового порядка"
+  
+ faction_manifest_generic_a_new_world_order_name: "Новый Порядок"
+ faction_manifest_generic_a_new_world_order_desc: "Добейтесь, что все страны мира придерживаются одной из следующих идеологий::\n$authoritarian_democrat_coloured$\n$paternal_autocrat_coloured$\n$national_populist_coloured$"
+  
+ faction_internationale_successor: "Преемник Интернационала"

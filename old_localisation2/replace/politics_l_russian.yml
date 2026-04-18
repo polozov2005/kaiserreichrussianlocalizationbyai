@@ -1,0 +1,17 @@
+﻿l_russian:
+ ######################################################## 
+ ### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ### 
+ ######################################################## 
+  
+ #added colon 
+ POLITICS_NEXT_ELECTION: "Следующие выборы: $DATE|H$" #NT!
+  
+ #changed to "country" "страна" #NT!
+ POLITICS_LEADER: "§TЛидер страны: $LEADER|H$§!" #NT!
+  
+ #changed to British spelling 
+ POLITICS_IDEA_CANCEL_DESC: "Будет отменено, если:" #NT!
+  
+ #added player warning 
+ RELEASE_NATION_TITLE: "ПРЕДУПРЕЖДЕНИЕ" #NT!
+ RELEASE_NATION_DESC: "Вы хотите освободить $COUNTRY|H$ в $LIST|H$?\n\n§RЭто не поддерживается в Кайзеррайхе и приведет к ошибкам, делайте это на свой страх и риск!§!" #NT!

@@ -1,0 +1,7 @@
+﻿l_russian:
+ ######################################################## 
+ ### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ### 
+ ######################################################## 
+  
+ #changed to British spelling 
+ GENERATE_WAR_GOAL_CANCEL_THREAT: "Обоснование цели войны против $TARGET$ отменено" #NT!

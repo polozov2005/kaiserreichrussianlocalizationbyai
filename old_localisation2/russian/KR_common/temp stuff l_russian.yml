@@ -1,0 +1,12 @@
+﻿l_russian:
+  
+ ## various interface tooltips 
+ tooltip_effect_annex: ""
+ NO_COMMANDER_FOR_GROUP: ""
+ mines_desc: ""
+ CANCEL: ""
+ mobile: ""
+ support: ""
+ FE_INTERESTING_MAJORS_TOOLTIP: "Крупные страны"
+ FE_INTERESTING_MINORS_TOOLTIP: "Недавно обновившиеся малые страны"
+ FE_OTHER_COUNTRIES_TOOLTIP: "Другие страны"

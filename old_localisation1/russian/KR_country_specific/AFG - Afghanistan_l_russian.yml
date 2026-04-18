@@ -1,0 +1,185 @@
+﻿l_russian:
+ 
+### World Tension ###
+ AFG_anglo_afghan_war_threat: "Пятая англо-афганская война"
+ 
+### Events ###
+ afghanistan_events.0.t: "5-ая Англо-афганская война?"
+ afghanistan_events.0.d: "В остатках раджа, как полевые цветы, восходят ростки недовольства, связанные с восхождением на престол Эдуарда VIII. Здесь, в Кабуле, нам также приходится сталкиваться с недовольством по поводу новых реформ. Повторная победа в Англо-афганской войне могла бы укрепить наш авторитет и, к тому же, принесла бы нам новые земли!"
+ afghanistan_events.0.a: "Время пришло! Настал час нашей победы!"
+ afghanistan_events.0.b: "Что в Индии есть кроме коров?"
+ 
+ afghanistan_events.1.t: "Вторжение Афганистана"
+ afghanistan_events.1.d: "Почувствовав момент слабости после смерти Георга V, Афганистан вторгся в нашу страну! Это не первый подобный случай: после Вельткрига они напали на Северо-Западную пограничную провинцию и оккупировали ее. Мы должны защитить Доминион! Джай Хинд!"
+ afghanistan_events.1.a: "Мы загоним этих шавок обратно в горы!"
+ 
+ afghanistan_events.2.t: "Третий Равалпиндский договор"
+ afghanistan_events.2.d: "Победа за нами! Изнеженные британские шавки в Дели повержены и наши храбрые солдаты маршируют по их столице. Пока мы ещё ведём, стоит начать переговоры и выдвинуть свои условия."
+ afghanistan_events.2.a: "Потребуйте Кветту..."
+ afghanistan_events.2.b: "...и Белуджистан!"
+ afghanistan_events.2.c: "Берём всё и даже больше!"
+ 
+ afghanistan_events.3.t: "Требования эмира"
+ afghanistan_events.3.d: "Проклятье! Эти афганские псы победили и унизили нас. Афганский эмир требует от нас признать поражение и передать Кашмир. Хоть эти требования и жёстки, но лучше уж нам закончить эту войну."
+ afghanistan_events.3.a: "Мы падаем ниц перед эмиром..."
+ afghanistan_events.3.b: "Они, должно быть, шутят? Да здравствует Индия!"
+ 
+ afghanistan_events.4.t: "Правительство Дели отклонило наши требования!"
+ afghanistan_events.4.d: "Британские шавки необдуманно отказались выполнить наши требования."
+ afghanistan_events.4.a: "Война продолжается!"
+ 
+ afghanistan_events.5.t: "Массовое бегство шиитов"
+ afghanistan_events.5.d: "На протяжении десятилетий, наши отношения с шиитским меньшинством были напряжёнными. Эта война подорвала их ещё сильнее. Шиитские имамы из провинций Герат и Фарах подбивают свою паству бежать от войны в соседнюю Персию. Нам нужны люди. Надеемся, что Персия закроет свои границы для этих трусов."
+ afghanistan_events.5.a: "Предатели!"
+ 
+ afghanistan_events.6.t: "Беженцы из Афганистана"
+ afghanistan_events.6.d: "Началась ещё одна война между Афганистаном и Дели. Шиитское меньшинство, опасаясь ухудшения ситуации, решило начать новую жизнь в нашей стране. Если мы примем их к себе, это подорвёт наши отношения с Афганистаном."
+ afghanistan_events.6.a: "Поприветствуйте их и поселите в Мешхеде!"
+ afghanistan_events.6.b: "Мы не собираемся лезть в дела Афганистана, закрыть границы!"
+ 
+ afghanistan_events.7.t: "Персия закрыла границы"
+ afghanistan_events.7.d: "Персия сделала правильный выбор и отправила шиитов обратно к нам"
+ afghanistan_events.7.a: "Ура!"
+ 
+ afghanistan_events.8.t: "Реакция на поражение в войне"
+ afghanistan_events.8.d: "Поражение наших армий в войне шокировало все слои населения! Секретная служба докладывает о недовольстве среди армейских элит и крестьянской черни! Даже самые радикальные проповедники теперь набирают паству, проповедуя о восстании против нас! Тяжёлые времена настали для нашей страны."
+ afghanistan_events.8.a: "Король может делать, что пожелает! Подавить восстания!"
+ afghanistan_events.8.c: "Мухаммед Надир смещает монарха и объявляет себя новым королём!"
+ 
+ afghanistan_events.9.t: "Третий Равалпиндский договор"
+ afghanistan_events.9.d: "Катастрофа! Наши армии разбегаются, побеждённые индусами. Наместник, Ганга Синдх, выдвинул условия мирного договора, по которому границы между нашими государствами вернуться к состоянию 1926 года. К несчастью, мы не можем ему отказать."
+ afghanistan_events.9.d.puppet: "Катастрофа! Наши армии разбегаются, побеждённые индусами. Наместник, Ганга Синдх, выдвинул условия мирного договора, по которому мы должны стать марионеткой британских шавок. К несчастью, мы не можем ему отказать."
+ afghanistan_events.9.a: "Мы смиренно склоняем головы..."
+ 
+ afghanistan_events.10.t: "Хаос в Афганистане!"
+ afghanistan_events.10.d: "Несмотря на все усилия, наша армия была выбита из Кабула и мы потеряли власть над страной!"
+ afghanistan_events.10.b: "Отряды генерала Надира разбивают любое сопротивление и объявляют его королём!"
+ 
+ afghanistan_events.14.t: "Притязания Надир-шаха на престол"
+ afghanistan_events.14.d: "Придя к власти путём насильственного захвата, Мухаммед Надир-шах рьяно пытался придать легитимности своей персоне. Он предположил созвать 'лойя-джиргу' (Великое собрание) всех пуштунских вождей в надежде, что они одобрят его притязания на трон."
+ afghanistan_events.14.a: "Созвать 'лойя-джиргу'!"
+ 
+ afghanistan_events.15.t: "Надир-шах и 'лойя-джирга'"
+ afghanistan_events.15.d: "Стоя перед племенными лидерами, Мухаммед Надир пытается завоевать их расположение."
+ afghanistan_events.15.a: "Собрание провозгласило Надир-шаха новым монархом!"
+ afghanistan_events.15.b: "Собрание прокляло Надир-шаха и не одобрило его притязаний!"
+ 
+ afghanistan_events.16.t: "Олигархия Надир-шаха"
+ afghanistan_events.16.d: "Подобие порядка вернулось в Афганистан, и Надир-шах решил преобразовать кабинет министров. Самым разумным вариантом было бы назначить в правительство своих родственников, но есть ещё и сподвижники Надира, которые тоже рвутся к власти. Необходимо поддерживать баланс между реформистами и радикалами."
+ afghanistan_events.16.a: "Кроткий академик, Мухаммед Гобар, "возглавит" правительство!"
+ afghanistan_events.16.b: "Абдуль Хади Даваи, один из моих сподвижников, возглавит правительство в знак уважения!"
+ afghanistan_events.16.c: "Мой хорошо воспитанный брат, Махмуд Хан, получит эту должность!"
+ 
+ afghanistan_events.17.t: "Статус реформ Амануллы"
+ afghanistan_events.17.d: "Мухаммед Надир возглавил нашу страну после краха правительства Амануллы. Хорошо осведомлённый, к чему могут привести про-западные реформы, Надир Шах должен решить, в каком направлении будет развиваться Афганистан."
+ afghanistan_events.17.a: "Забросить социальные реформы, но продолжите сельскохозяйственные!"
+ afghanistan_events.17.b: "Наш выбор - традиции! Отменить все реформы!"
+ afghanistan_events.17.c: "Я сделаю то, что не удалось Аманулле! Афганистан станет современной страной!"
+ 
+ afghanistan_events.18.t: "Саррафы покидают Афганистан"
+ afghanistan_events.18.d: "Саррафы - это группа индийских торговцев, которые путешествуют между Афганистаном и Дели, обменивая деньги и товары в обоих местах. Наша экономика вряд ли зависит от их визитов. Сейчас пришла война, и границы уже не безопасны. Лишь немногие из этих саррафов достаточно смелы, чтобы продолжать торговать с нами. После того, как большинство их караванов уехало, мы теперь страдаем от экономического кризиса."
+ afghanistan_events.18.a: "Нам все равно не нужны эти индийские собаки!"
+ 
+ afghanistan_events.19.t: "Возвращение саррафов"
+ afghanistan_events.19.d: "Война окончена, и границы теперь в безопасности. Ничто больше не беспокоит саррафов, и первая их волна уже возобновила торговлю в Афганистане. Вскоре наша экономика восстановится."
+ afghanistan_events.19.a: "Добро пожаловать, джентльмены!"
+ 
+ afghanistan_events.20.t: "Mohammed Nadir Khan's Claim to the Throne"
+ afghanistan_events.20.d: "As he assumed the throne through not-so-cordial methods and his relations to the royal family, Mohammed Nadir Khan desperately needs legitimacy to shore up his regime. It is suggested that his majesty convey a 'loya jirga' (grand assembly) of Pashtun leaders to confirm his ascension."
+ afghanistan_events.20.a: "Call a loya jirga to confirm my ascension!"
+
+ afghanistan_events.21.t: "Mohammed Nadir Khan and the Loya Jirga"
+ afghanistan_events.21.d: "Speaking before the Grand Assembly of tribal leaders, Nadir Khan hopes to receive enough support to continue his rule unhindered."
+ afghanistan_events.21.a: "The assembly hails Mohammed Nadir as king!"
+
+ afghanistan_events.22.t: "Nadir Khan's Royal Oligarchy"
+ afghanistan_events.22.d: "With the war-torn country finally restored to some semblance of order, Nadir Khan has resolved to reorganise his cabinet to secure continued stability for Afghanistan. Packing the government with relatives would be the obvious way to bind the state apparatus to Nadir's ambitions, but reaching out to some of Amanullah's supporters might also bridge a wide gap between the radical and moderate reformists."
+ afghanistan_events.22.a: "The meek academic Muhammed Ghobar shall 'lead' the cabinet!"
+ afghanistan_events.22.b: "Woo Amanullah's clique and appoint Abdul Hadi Dawai!"
+ afghanistan_events.22.c: "My mild mannered brother Mahmud Khan shall retain the position!"
+
+ afghanistan_events.23.t: "Status of Amanullah's Reforms"
+ afghanistan_events.23.d: "Mohammed Nadir Khan has taken control of our shaken nation after the failure of Amanullah Khan to enforce Afghan progress. Well aware that a great factor to his predecessor's downfall was the speed of his westernisation reforms, Nadir Khan nonetheless has to address the great issue of rebuilding Afghanistan."
+ afghanistan_events.23.a: "Discontinue social reform, but galvanise the improvement of our infrastructure!"
+ afghanistan_events.23.b: "Cave in to the traditionalists and abandon all pretence of modernity!"
+ afghanistan_events.23.c: "I shall succeed where Amanullah failed and bring Afghanistan into the modern world!"
+
+ afghanistan_events.24.t: "Sarrafs Leave Afghanistan"
+ afghanistan_events.24.d: "Sarrafs are a group of Indian merchants who travel between Afghanistan and [RAJ.GetNameDef], exchanging money and trading goods in both of them. Our economy hardly depends on their visits. Now, the war has come and borders are safe no more. Only a few of these sarrafs are brave enough to continue trading with us. With most of their caravans gone, we now suffer from an economic crisis."
+ afghanistan_events.24.a: "We don't need these Indian dogs anyway!"
+
+ afghanistan_events.25.t: "Sarrafs Return"
+ afghanistan_events.25.d: "The war is over and borders are now safe. Nothing more disturbs the sarrafs now and the first wave of them have already resumed their trading within Afghanistan. Soon, our economy will recover."
+ afghanistan_events.25.a: "Welcome, gentlemen!"
+
+ afghanistan_events.30.t: "Пятая Англо-Афганская война"
+ afghanistan_events.30.d: "После Великой Войны Индийский Доминион оказался на грани катастрофы, и Королевство Афганистан воспользовалось моментом, аннексировав Пешавар и Кветту. Осознавая, что это лишь временная победа, король Аманула Хан пытался провести реформы, но все они натолкнулись на резкую оппозицию в стране. Теперь король Афганистана снова пытается воспользоваться кризисом, возникшим после смерти Георга V. Маленькой победоносной войной король надеется удовлетворить консервативную оппозицию и расширить свои владения. Но эксперты считают, что Афганистан не выдержит второй войны."
+ afghanistan_events.30.a: "Кому есть дело до Афганистана?"
+ 
+### Parties ###
+ AFG_totalist_party: "Кабульский союз студентов"
+ AFG_totalist_party_long: "Кабульский союз студентов"
+ AFG_syndicalist_party: "Кабульский союз студентов"
+ AFG_syndicalist_party_long: "Кабульский союз студентов"
+ AFG_radical_socialist_party: "Национальный Фронт"
+ AFG_radical_socialist_party_long: "Национальный Фронт"
+ AFG_social_democrat_party: "Национальный Фронт"
+ AFG_social_democrat_party_long: "Национальный Фронт"
+ AFG_social_liberal_party: "Интеллигенция"
+ AFG_social_liberal_party_long: "Интеллигенция"
+ AFG_market_liberal_party: "Младоафганцы"
+ AFG_market_liberal_party_long: "Младоафганцы"
+ AFG_social_conservative_party: "Улемы"
+ AFG_social_conservative_party_long: "Улемы"
+ AFG_authoritarian_democrat_party: "Афганская армия"
+ AFG_authoritarian_democrat_party_long: "Афганская армия"
+ AFG_paternal_autocrat_party: "Династия Баракзаи"
+ AFG_paternal_autocrat_party_long: "Династия Баракзаи"
+ AFG_national_populist_party: "Афганская армия(Национальный Клуб)"
+ AFG_national_populist_party_long: "Афганская армия"
+ 
+### Country Names ###
+ AFG: "Афганистан"
+ AFG_ADJ: "Афганск"
+ AFG_DEF: "Афганистан"
+
+ AFG_totalist: "Демократическая Республика Афганистан"
+ AFG_totalist_DEF: "Демократическая Республика Афганистан"
+ AFG_syndicalist: "Демократическая Республика Афганистан"
+ AFG_syndicalist_DEF: "Демократическая Республика Афганистан"
+ AFG_radical_socialist: "Демократическая Республика Афганистан"
+ AFG_radical_socialist_DEF: "Демократическая Республика Афганистан"
+ AFG_national_populist: "Исламское Государство Афганистан"
+ AFG_national_populist_DEF: "Исламское Государство Афганистан"
+ 
+### Tooltips ###
+ AFG_chaos_tooltip: "Этот выбор погрузит Афганистан в пучину хаоса. В случае, если нынешнее правительство падёт, власть захватят либо радикальные исламисты либо генерал Надир."
+
+### Intro Screen ###
+ AFG_country_intro_header: "Эмират Афганистан"
+ AFG_guide: "§MАманулла сохраняет власть§! (§PПатерналисты§!)\n£white_dot Победите в 5-й англо-афганской войне или не начинайте её.\n£white_dot Во время восстания развяжите руки хану и позвольте ему подавить повстанцев.\n£white_dot Это всё равно может привести к его поражению, поэтому рекомендуется установить опцию §YАманулла сохраняет власть §! В меню игровых правил.\n\n§MПереворот Надира§! (§PПатерналисты§!)\n£white_dot Во время восстания Аманулла должен проиграть, что приведёт к власти Надир-шаха."
+
+### Characters ###
+ AFG_amanullah_khan: "Аманулла-хан"
+ AFG_amanullah_khan_leader_desc: "Кто, кроме Бабура, принес в Афганистан больше перемен и престижа, чем Аманулла Хан? Взойдя на трон посреди Вельткрига, Аманулла немедленно напал на Британскую Империю и победил, получив значительные уступки. Он извлек выгоду из этой победы и распада Британской Империи для осуществления широких социальных реформ. Хотя правление Амануллы остается абсолютным, он мечтает обеспечить истинное конституционное управление в Афганистане и преодолеть глубокие этнические и племенные разногласия нации. Время покажет, какими будут преобразования этого великого реформатора."
+ 
+ AFG_habibullah_kalakani: "Хабибулла Калакани"
+ AFG_habibullah_kalakani_leader_desc: "Этнический таджик Калакани был офицером в Афганской королевской армии, который дезертировал перед хаосом распада Британской Империи. Используя этот хаос и постоянную занятость регулярной армии, Калакани пошёл по дороге преступника. Однако когда армии удалось восстановить хоть какой-то порядок, Калакани бежал и искал защиты среди своих таджикских соратников.\nВыступая против реформ и кампаний по модернизации Амамнуллы Хана, Калакани возглавил сельское ультраконсервативное движение, названное его именем. К всеобщему удивлению, его движение успешно свергло Амануллу, и Калакани завоевал афганскую корону."
+
+ AFG_mohammad_nadir_khan: "Мухаммед Надир-шах"
+ AFG_wali_khan: "Вали Хан"
+ AFG_mohammad_daoud_khan: "Мухаммед Дауд Хан"
+ AFG_nasrullah_khan: "Насрулла-хан"
+ AFG_mahmud_khan: "Махмуд Хан"
+ AFG_mohammad_ghobar: "Гулам Мухаммад Гобар"
+ AFG_abdul_hadi_dawi: "Абдул Хади Дави"
+ AFG_mohammad_hashim_khan: "Мохаммад Хашим-хан"
+ AFG_mohammad_gul_khan_momand: "Мохаммад Гул Хан Моманд"
+ AFG_inayatullah_khan: "Инаятулла-хан"
+ AFG_ali_ahmad_khan: "Али Ахмад Хан"
+ AFG_faiz_mohammad_khan_zikeria: "Фаиз Мухаммад Зикрия"
+ AFG_mohammad_yusuf: "Мухаммед Юсуф"
+ AFG_abdul_ahad_wardak: "Абдул Ахад Вардак"
+ AFG_abdul_majid_zabuli: "Абдул Меджид Забули"
+ ARG_sher_khan_nashir: "Шер-шах Нашир"
+ AFG_abdul_rahman_mahmoodi: "Абдул Рахман Махмуди"

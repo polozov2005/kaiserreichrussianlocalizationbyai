@@ -1,0 +1,28 @@
+﻿l_russian:
+  
+ LOADING_GUI: "Подписание Версальского договора" #NT!
+ LOADING_HISTORY: "Вмешательство в Россию" #NT!
+ LOADING_SAVEGAME: "Изменение истории: $NAME$" #NT!
+ LOADING_SAVEGAME_NO_NAME: "Изменение истории" #NT!
+ LOADING_DATABASES: "Очистка синдикалистов" #NT!
+ LOADING_MAP_SPRITES: "Найдите место под солнцем" #NT!
+ LOAD_GFX_PDXMAP_SHADERS: "Осуждение монархистов" #NT!
+ LOAD_GFX_PDXMAP_TERRAIN: "Разрыв цепей" #NT!
+ LOAD_GFX_PDXMAP_BORDERS: "Восстановление Великой Цин" #NT!
+ LOAD_GFX_PDXMAP_TEXTURES: "Изгнание западных империалистов" #NT!
+ LOAD_GFX_PDXMAP_TREES: "Контрабанда в Шанхае" #NT!
+ LOAD_GFX_PDXMAP_RIVERS: "Сделать каждого мужчину королем" #NT!
+ LOAD_GFX_PDXMAP_STATIC_OBJECTS: "Делимся богатством" #NT!
+ LOAD_EVENTS: "Централизация двойной монархии" #NT!
+ LOAD_GFX: "Ведение сухопутной войны в Азии" #NT!
+ LOADING_MAIN_MENU: "Поддержка умирающих империй" #NT!
+ PRECALC_NAVAL_DIST: "Убийство Чернова" #NT!
+ EXITING_TO_FRONTEND: "Восстановление монархии" #NT!
+ LOAD_INIT: "Развертывание Kaiserliche Marine" #NT!
+ LOAD_FLAGS: "Спасение американской демократии" #NT!
+ PROC_FLAGS: "Восстановление Китайской империи" #NT!
+ INIT_MAP_LOGIC: "Бегство в Африку" #NT!
+ INIT_GAMESTATE: "Лечение больного человека" #NT!
+ EXECUTE_HISTORY: "Наблюдая за Рейном" #NT!
+ CREATING_CHKSUM: "Реализация прямого правила" #NT!
+ GENERATING_GRADIENT_BORDERS: "Предательство революции" #NT!

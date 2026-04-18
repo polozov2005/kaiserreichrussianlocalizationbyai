@@ -1,0 +1,44 @@
+﻿l_english:
+
+### Parties ###
+ COG_authoritarian_democrat_party: "ABAKO"
+ COG_authoritarian_democrat_party_long: "Alliance of Bakongo"
+ COG_paternal_autocrat_party: "Ne Mbanda-Mbanda"
+ COG_paternal_autocrat_party_long: "Royal Council of the Kingdom of Kongo"
+ COG_national_populist_party: "Kimbangu"
+ COG_national_populist_party_long: "Church of Jesus Christ on Earth by His special envoy Simon Kimbangu"
+
+### Country Names ###
+ COG: "Congo"
+ COG_ADJ: "Congolese"
+ COG_DEF: "the Congo"
+
+### Characters ###
+ COG_Pedro_VII_Afonso: "Pedro VII Afonso"
+ COG_pedro_vii_afonso_leader_desc: "§YBorn:§! §Lin São Salvador, Kingdom of Kongo§!"
+ COG_Simon_Kimbangu: "Simon Kimbangu"
+ COG_simon_kimbangu_leader_desc: "§YBorn:§! §LSeptember 12th, 1887, in Nkamba, Congo Free State§!"
+ COG_Andre_Matsoua: "André Grenard Matswa"
+ COG_andre_matsoua_leader_desc: "§YBorn:§! §LJanuary 17th, 1899, in Mandzakala-Kinkala, French Congo§!"
+ COG_Felix_Tchicaya: "Jean Félix-Tchicaya"
+ COG_felix_tchicaya_leader_desc: "§YBorn:§! §LNovember 9th, 1903, in Libreville, French Gabon§!"
+ COG_Paul_Farnana: "Paul Panda Farnana M'Fumu"
+ COG_paul_farnana_leader_desc: "§YBorn:§! §L1888, in Zemba-lez-Moanda, Congo Free State§!"
+ COG_Jean_Bolikango: "Jean Bolikango"
+ COG_jean_bolikango_leader_desc: "§YBorn:§! §LFebruary 4th, 1909, in Léopoldville, Belgian Congo§!"
+ COG_Daniel_Kanza: "Daniel Kanza Kinsona"
+ COG_daniel_kanza_leader_desc: "§YBorn:§! §L1909, in Manianga, Belgian Congo§!"
+
+### Events ###
+ congo_events.1.t: "Portuguese Demands"
+ congo_events.1.d: "[POR.GetNameDefCap] has sent us a demand to submit to their rule and to reinstate the Mwene wa Kongo - the Kingdom of Kongo - with which they have prior arrangements of overlordship and submission. Should we do this, our young state becomes a pawn on the great board of the European powers once more. Yet, if we refuse, it's almost certain they will issue a declaration of war."
+ congo_events.1.a: "Our survival in these trying times is more important than our pride."
+ congo_events.1.b: "We will meet them in battle!"
+
+ congo_events.2.t: "A Congolese Approval"
+ congo_events.2.d: "Kinshasa has accepted our offer and submitted, bringing peace to the Manikongo's lands. In return for the restoration of the Manikongo to his rightful throne, we will allow a large degree of autonomy. Now, however, Portugal can finally claim ownership of the Congo."
+ congo_events.2.a: "Welcome back!"
+
+ congo_events.3.t: "A Congolese Refusal"
+ congo_events.3.d: "Kinshasa has refused our offer of protection and guarantee of stability, leaving us with no other choice but to press the issue with the use of military force."
+ congo_events.3.a: "An unwise decision."

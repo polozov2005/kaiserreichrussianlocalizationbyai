@@ -1,0 +1,1027 @@
+﻿l_russian:
+
+ Kumul_start: "Дерево фокусов Кумуль"
+
+### Country Names ###
+ KUM: "Кумуль"
+ KUM_ADJ: "Кумульск"
+ KUM_DEF: "Кумуль"
+
+ KUM_totalist: "Коммуна Кумуль"
+ KUM_totalist_ADJ: "Кумульск"
+ KUM_totalist_DEF: "Коммуна Кумуль"
+ KUM_syndicalist: "Коммуна Кумуль"
+ KUM_syndicalist_ADJ: "Кумульск"
+ KUM_syndicalist_DEF: "Коммуна Кумуль"
+ KUM_radical_socialist: "Коммуна Кумуль"
+ KUM_radical_socialist_ADJ: "Кумульск"
+ KUM_radical_socialist_DEF: "Коммуна Кумуль"
+ KUM_social_democrat: "Кумульское Ханство"
+ KUM_social_democrat_ADJ: "Кумульск"
+ KUM_social_democrat_DEF: "Кумульское Ханство"
+ KUM_social_liberal: "Кумульское Ханство"
+ KUM_social_liberal_ADJ: "Кумульск"
+ KUM_social_liberal_DEF: "Кумульское Ханство"
+ KUM_market_liberal: "Кумульское Ханство"
+ KUM_market_liberal_ADJ: "Кумульск"
+ KUM_market_liberal_DEF: "Кумульское Ханство"
+ KUM_social_conservative: "Кумульское Ханство"
+ KUM_social_conservative_ADJ: "Кумульск"
+ KUM_social_conservative_DEF: "Кумульское Ханство"
+ KUM_authoritarian_democrat: "Кумульское Ханство"
+ KUM_authoritarian_democrat_ADJ: "Кумульск"
+ KUM_authoritarian_democrat_DEF: "Кумульское Ханство"
+ KUM_paternal_autocrat: "Кумульское Ханство"
+ KUM_paternal_autocrat_ADJ: "Кумульск"
+ KUM_paternal_autocrat_DEF: "Кумульское Ханство"
+ KUM_national_populist: "Кумульское Ханство"
+ KUM_national_populist_ADJ: "Кумульск"
+ KUM_national_populist_DEF: "Кумульское Ханство"
+ 
+ KUM_associated_governorate: "Кумульское Ханство"
+ KUM_associated_governorate_DEF: "Кумульское Ханство"
+ KUM_autonomous_governorate: "Кумульское Ханство"
+ KUM_autonomous_governorate_DEF: "Кумульское Ханство"
+ KUM_governorate: "Кумульское Ханство"
+ KUM_governorate_DEF: "Кумульское Ханство"
+ KUM_integrated_governorate: "Кумульское Ханство"
+ KUM_integrated_governorate_DEF: "Кумульское Ханство"
+ 
+ KUM_hami: "Хами"
+ KUM_hami_ADJ: "Хамийск"
+ KUM_hami_DEF: "Хами"
+
+ KUM_hami_totalist: "Префектура Хами"
+ KUM_hami_totalist_ADJ: "Хамийск"
+ KUM_hami_totalist_DEF: "Префектура Хами"
+ KUM_hami_syndicalist: "Префектура Хами"
+ KUM_hami_syndicalist_ADJ: "Хамийск"
+ KUM_hami_syndicalist_DEF: "Префектура Хами"
+ KUM_hami_radical_socialist: "Префектура Хами"
+ KUM_hami_radical_socialist_ADJ: "Хамийск"
+ KUM_hami_radical_socialist_DEF: "Префектура Хами"
+ KUM_hami_social_democrat: "Префектура Хами"
+ KUM_hami_social_democrat_ADJ: "Хамийск"
+ KUM_hami_social_democrat_DEF: "Префектура Хами"
+ KUM_hami_social_liberal: "Префектура Хами"
+ KUM_hami_social_liberal_ADJ: "Хамийск"
+ KUM_hami_social_liberal_DEF: "Префектура Хами"
+ KUM_hami_market_liberal: "Префектура Хами"
+ KUM_hami_market_liberal_ADJ: "Хамийск"
+ KUM_hami_market_liberal_DEF: "Префектура Хами"
+ KUM_hami_social_conservative: "Префектура Хами"
+ KUM_hami_social_conservative_ADJ: "Хамийск"
+ KUM_hami_social_conservative_DEF: "Префектура Хами"
+ KUM_hami_authoritarian_democrat: "Префектура Хами"
+ KUM_hami_authoritarian_democrat_ADJ: "Хамийск"
+ KUM_hami_authoritarian_democrat_DEF: "Префектура Хами"
+ KUM_hami_paternal_autocrat: "Префектура Хами"
+ KUM_hami_paternal_autocrat_ADJ: "Хамийск"
+ KUM_hami_paternal_autocrat_DEF: "Префектура Хами"
+ KUM_hami_national_populist: "Префектура Хами"
+ KUM_hami_national_populist_ADJ: "Хамийск"
+ KUM_hami_national_populist_DEF: "Префектура Хами"
+
+ KUM_hami_associated_governorate: "Хами"
+ KUM_hami_associated_governorate_DEF: "Хами"
+ KUM_hami_autonomous_governorate: "Хами"
+ KUM_hami_autonomous_governorate_DEF: "Хами"
+ KUM_hami_governorate: "Хами"
+ KUM_hami_governorate_DEF: "Хами"
+ KUM_hami_integrated_governorate: "Хами"
+ KUM_hami_integrated_governorate_DEF: "Хами"
+
+ KUM_uyghur: "Уйгуристан"
+ KUM_uyghur_ADJ: "Уйгурск"
+ KUM_uyghur_DEF: "Уйгуристан"
+
+ KUM_uyghur_totalist: "Уйгурская Республика"
+ KUM_uyghur_totalist_ADJ: "Уйгурск"
+ KUM_uyghur_totalist_DEF: "Уйгурская Республика"
+ KUM_uyghur_syndicalist: "Уйгурская Республика"
+ KUM_uyghur_syndicalist_ADJ: "Уйгурск"
+ KUM_uyghur_syndicalist_DEF: "Уйгурская Республика"
+ KUM_uyghur_radical_socialist: "Уйгурская Республика"
+ KUM_uyghur_radical_socialist_ADJ: "Уйгурск"
+ KUM_uyghur_radical_socialist_DEF: "Уйгурская Республика"
+ KUM_uyghur_social_democrat: "Уйгурская Республика"
+ KUM_uyghur_social_democrat_ADJ: "Уйгурск"
+ KUM_uyghur_social_democrat_DEF: "Уйгурская Республика"
+ KUM_uyghur_social_liberal: "Уйгурская Республика"
+ KUM_uyghur_social_liberal_ADJ: "Уйгурск"
+ KUM_uyghur_social_liberal_DEF: "Уйгурская Республика"
+ KUM_uyghur_market_liberal: "Уйгурская Республика"
+ KUM_uyghur_market_liberal_ADJ: "Уйгурск"
+ KUM_uyghur_market_liberal_DEF: "Уйгурская Республика"
+ KUM_uyghur_social_conservative: "Уйгурская Республика"
+ KUM_uyghur_social_conservative_ADJ: "Уйгурск"
+ KUM_uyghur_social_conservative_DEF: "Уйгурская Республика"
+ KUM_uyghur_authoritarian_democrat: "Уйгурская Республика"
+ KUM_uyghur_authoritarian_democrat_ADJ: "Уйгурск"
+ KUM_uyghur_authoritarian_democrat_DEF: "Уйгурская Республика"
+ KUM_uyghur_paternal_autocrat: "Уйгурская Республика"
+ KUM_uyghur_paternal_autocrat_ADJ: "Уйгурск"
+ KUM_uyghur_paternal_autocrat_DEF: "Уйгурская Республика"
+ KUM_uyghur_national_populist: "Уйгурская Республика"
+ KUM_uyghur_national_populist_ADJ: "Уйгурск"
+ KUM_uyghur_national_populist_DEF: "Уйгурская Республика"
+
+ KUM_xinjiang: "Синьцзян"
+ KUM_xinjiang_ADJ: "Синьцзянск"
+ KUM_xinjiang_DEF: "Синьцзян"
+
+ KUM_xinjiang_totalist: "Синьцзянская Администрация"
+ KUM_xinjiang_totalist_DEF: "Синьцзянская Администрация"
+ KUM_xinjiang_syndicalist: "Синьцзянская Администрация"
+ KUM_xinjiang_syndicalist_DEF: "Синьцзянская Администрация"
+ KUM_xinjiang_radical_socialist: "Синьцзянская Администрация"
+ KUM_xinjiang_radical_socialist_DEF: "Синьцзянская Администрация"
+ KUM_xinjiang_social_democrat: "Синьцзянская Администрация"
+ KUM_xinjiang_social_democrat_DEF: "Синьцзянская Администрация"
+ KUM_xinjiang_social_liberal: "Синьцзянская Администрация"
+ KUM_xinjiang_social_liberal_DEF: "Синьцзянская Администрация"
+ KUM_xinjiang_market_liberal: "Синьцзянская Администрация"
+ KUM_xinjiang_market_liberal_DEF: "Синьцзянская Администрация"
+ KUM_xinjiang_social_conservative: "Синьцзянская Администрация"
+ KUM_xinjiang_social_conservative_DEF: "Синьцзянская Администрация"
+ KUM_xinjiang_authoritarian_democrat: "Синьцзянская Администрация"
+ KUM_xinjiang_authoritarian_democrat_DEF: "Синьцзянская Администрация"
+ KUM_xinjiang_paternal_autocrat: "Синьцзянская Администрация"
+ KUM_xinjiang_paternal_autocrat_DEF: "Синьцзянская Администрация"
+ KUM_xinjiang_national_populist: "Синьцзянская Администрация"
+ KUM_xinjiang_national_populist_DEF: "Синьцзянская Администрация"
+
+ KUM_xinjiang_associated_governorate: "Синьцзян"
+ KUM_xinjiang_autonomous_governorate: "Синьцзян"
+ KUM_xinjiang_governorate: "Синьцзян"
+ KUM_xinjiang_integrated_governorate: "Синьцзян"
+
+ KUM_zhongying: "Синьцзян"
+ KUM_zhongying_ADJ: "Синьцзянск"
+ KUM_zhongying_DEF: "Синьцзян"
+
+ KUM_zhongying_totalist: "Клика Синьцзян"
+ KUM_zhongying_totalist_DEF: "Клика Синьцзян"
+ KUM_zhongying_syndicalist: "Клика Синьцзян"
+ KUM_zhongying_syndicalist_DEF: "Клика Синьцзян"
+ KUM_zhongying_radical_socialist: "Клика Синьцзян"
+ KUM_zhongying_radical_socialist_DEF: "Клика Синьцзян"
+ KUM_zhongying_social_democrat: "Клика Синьцзян"
+ KUM_zhongying_social_democrat_DEF: "Клика Синьцзян"
+ KUM_zhongying_social_liberal: "Клика Синьцзян"
+ KUM_zhongying_social_liberal_DEF: "Клика Синьцзян"
+ KUM_zhongying_market_liberal: "Клика Синьцзян"
+ KUM_zhongying_market_liberal_DEF: "Клика Синьцзян"
+ KUM_zhongying_social_conservative: "Клика Синьцзян"
+ KUM_zhongying_social_conservative_DEF: "Клика Синьцзян"
+ KUM_zhongying_authoritarian_democrat: "Клика Синьцзян"
+ KUM_zhongying_authoritarian_democrat_DEF: "Клика Синьцзян"
+ KUM_zhongying_paternal_autocrat: "Клика Синьцзян"
+ KUM_zhongying_paternal_autocrat_DEF: "Клика Синьцзян"
+ KUM_zhongying_national_populist: "Клика Синьцзян"
+ KUM_zhongying_national_populist_DEF: "Клика Синьцзян"
+
+ KUM_zhongying_associated_governorate: "Синьцзян"
+ KUM_zhongying_autonomous_governorate: "Синьцзян"
+ KUM_zhongying_governorate: "Синьцзян"
+ KUM_zhongying_integrated_governorate: "Синьцзян"
+
+ KUM_KMT: "Синьцзян"
+ KUM_KMT_ADJ: "Синьцзянск"
+ KUM_KMT_DEF: "Синьцзян"
+
+ KUM_KMT_totalist: "Клика Синьцзян"
+ KUM_KMT_totalist_DEF: "Клика Синьцзян"
+ KUM_KMT_syndicalist: "Клика Синьцзян"
+ KUM_KMT_syndicalist_DEF: "Клика Синьцзян"
+ KUM_KMT_radical_socialist: "Клика Синьцзян"
+ KUM_KMT_radical_socialist_DEF: "Клика Синьцзян"
+ KUM_KMT_social_democrat: "Клика Синьцзян"
+ KUM_KMT_social_democrat_DEF: "Клика Синьцзян"
+ KUM_KMT_social_liberal: "Клика Синьцзян"
+ KUM_KMT_social_liberal_DEF: "Клика Синьцзян"
+ KUM_KMT_market_liberal: "Клика Синьцзян"
+ KUM_KMT_market_liberal_DEF: "Клика Синьцзян"
+ KUM_KMT_social_conservative: "Клика Синьцзян"
+ KUM_KMT_social_conservative_DEF: "Клика Синьцзян"
+ KUM_KMT_authoritarian_democrat: "Клика Синьцзян"
+ KUM_KMT_authoritarian_democrat_DEF: "Клика Синьцзян"
+ KUM_KMT_paternal_autocrat: "Клика Синьцзян"
+ KUM_KMT_paternal_autocrat_DEF: "Клика Синьцзян"
+ KUM_KMT_national_populist: "Клика Синьцзян"
+ KUM_KMT_national_populist_DEF: "Клика Синьцзян"
+
+ KUM_KMT_associated_governorate: "Синьцзян"
+ KUM_KMT_autonomous_governorate: "Синьцзян"
+ KUM_KMT_governorate: "Синьцзян"
+ KUM_KMT_integrated_governorate: "Синьцзян"
+
+ KUM_government_zhongying_totalist: "Правительство Дихуа"
+ KUM_government_zhongying_totalist_ADJ: "Дихуайск"
+ KUM_government_zhongying_totalist_DEF: "Правительство Дихуа"
+ KUM_government_zhongying_syndicalist: "Правительство Дихуа"
+ KUM_government_zhongying_syndicalist_ADJ: "Дихуайск"
+ KUM_government_zhongying_syndicalist_DEF: "Правительство Дихуа"
+ KUM_government_zhongying_radical_socialist: "Правительство Дихуа"
+ KUM_government_zhongying_radical_socialist_ADJ: "Дихуайск"
+ KUM_government_zhongying_radical_socialist_DEF: "Правительство Дихуа"
+ KUM_government_zhongying_social_democrat: "Правительство Дихуа"
+ KUM_government_zhongying_social_democrat_ADJ: "Дихуайск"
+ KUM_government_zhongying_social_democrat_DEF: "Правительство Дихуа"
+ KUM_government_zhongying_social_liberal: "Правительство Дихуа"
+ KUM_government_zhongying_social_liberal_ADJ: "Дихуайск"
+ KUM_government_zhongying_social_liberal_DEF: "Правительство Дихуа"
+ KUM_government_zhongying_market_liberal: "Правительство Дихуа"
+ KUM_government_zhongying_market_liberal_ADJ: "Дихуайск"
+ KUM_government_zhongying_market_liberal_DEF: "Правительство Дихуа"
+ KUM_government_zhongying_social_conservative: "Правительство Дихуа"
+ KUM_government_zhongying_social_conservative_ADJ: "Дихуайск"
+ KUM_government_zhongying_social_conservative_DEF: "Правительство Дихуа"
+ KUM_government_zhongying_authoritarian_democrat: "Правительство Дихуа"
+ KUM_government_zhongying_authoritarian_democrat_ADJ: "Дихуайск"
+ KUM_government_zhongying_authoritarian_democrat_DEF: "Правительство Дихуа"
+ KUM_government_zhongying_paternal_autocrat: "Правительство Дихуа"
+ KUM_government_zhongying_paternal_autocrat_ADJ: "Дихуайск"
+ KUM_government_zhongying_paternal_autocrat_DEF: "Правительство Дихуа"
+ KUM_government_zhongying_national_populist: "Правительство Дихуа"
+ KUM_government_zhongying_national_populist_ADJ: "Дихуайск"
+ KUM_government_zhongying_national_populist_DEF: "Правительство Дихуа"
+
+ KUM_government_yaonan_totalist: "Правительство Дихуа"
+ KUM_government_yaonan_totalist_ADJ: "Дихуайск"
+ KUM_government_yaonan_totalist_DEF: "Правительство Дихуа"
+ KUM_government_yaonan_syndicalist: "Правительство Дихуа"
+ KUM_government_yaonan_syndicalist_ADJ: "Дихуайск"
+ KUM_government_yaonan_syndicalist_DEF: "Правительство Дихуа"
+ KUM_government_yaonan_radical_socialist: "Правительство Дихуа"
+ KUM_government_yaonan_radical_socialist_ADJ: "Дихуайск"
+ KUM_government_yaonan_radical_socialist_DEF: "Правительство Дихуа"
+ KUM_government_yaonan_social_democrat: "Правительство Дихуа"
+ KUM_government_yaonan_social_democrat_ADJ: "Дихуайск"
+ KUM_government_yaonan_social_democrat_DEF: "Правительство Дихуа"
+ KUM_government_yaonan_social_liberal: "Правительство Дихуа"
+ KUM_government_yaonan_social_liberal_ADJ: "Дихуайск"
+ KUM_government_yaonan_social_liberal_DEF: "Правительство Дихуа"
+ KUM_government_yaonan_market_liberal: "Правительство Дихуа"
+ KUM_government_yaonan_market_liberal_ADJ: "Дихуайск"
+ KUM_government_yaonan_market_liberal_DEF: "Правительство Дихуа"
+ KUM_government_yaonan_social_conservative: "Правительство Дихуа"
+ KUM_government_yaonan_social_conservative_ADJ: "Дихуайск"
+ KUM_government_yaonan_social_conservative_DEF: "Правительство Дихуа"
+ KUM_government_yaonan_authoritarian_democrat: "Правительство Дихуа"
+ KUM_government_yaonan_authoritarian_democrat_ADJ: "Дихуайск"
+ KUM_government_yaonan_authoritarian_democrat_DEF: "Правительство Дихуа"
+ KUM_government_yaonan_paternal_autocrat: "Правительство Дихуа"
+ KUM_government_yaonan_paternal_autocrat_ADJ: "Дихуайск"
+ KUM_government_yaonan_paternal_autocrat_DEF: "Правительство Дихуа"
+ KUM_government_yaonan_national_populist: "Правительство Дихуа"
+ KUM_government_yaonan_national_populist_ADJ: "Дихуайск"
+ KUM_government_yaonan_national_populist_DEF: "Правительство Дихуа"
+
+ united_china_zhongying: "Китай"
+ united_china_zhongying_ADJ: "Китайск"
+ united_china_zhongying_DEF: "Китай"
+
+ united_china_zhongying_totalist: "Китайская Республика"
+ united_china_zhongying_totalist_DEF: "Китайская Республика"
+ united_china_zhongying_syndicalist: "Китайская Республика"
+ united_china_zhongying_syndicalist_DEF: "Китайская Республика"
+ united_china_zhongying_radical_socialist: "Китайская Республика"
+ united_china_zhongying_radical_socialist_DEF: "Китайская Республика"
+ united_china_zhongying_social_democrat: "Китайская Республика"
+ united_china_zhongying_social_democrat_DEF: "Китайская Республика"
+ united_china_zhongying_social_liberal: "Китайская Республика"
+ united_china_zhongying_social_liberal_DEF: "Китайская Республика"
+ united_china_zhongying_market_liberal: "Китайская Республика"
+ united_china_zhongying_market_liberal_DEF: "Китайская Республика"
+ united_china_zhongying_social_conservative: "Китайская Республика"
+ united_china_zhongying_social_conservative_DEF: "Китайская Республика"
+ united_china_zhongying_authoritarian_democrat: "Китайская Республика"
+ united_china_zhongying_authoritarian_democrat_DEF: "Китайская Республика"
+ united_china_zhongying_paternal_autocrat: "Китайская Республика"
+ united_china_zhongying_paternal_autocrat_DEF: "Китайская Республика"
+ united_china_zhongying_national_populist: "Китайская Республика"
+ united_china_zhongying_national_populist_DEF: "Китайская Республика"
+ 
+ united_china_yaonan: "Китай"
+ united_china_yaonan_ADJ: "Китайск"
+ united_china_yaonan_DEF: "Китай"
+
+ united_china_yaonan_totalist: "Китайская Республика"
+ united_china_yaonan_totalist_DEF: "Китайская Республика"
+ united_china_yaonan_syndicalist: "Китайская Республика"
+ united_china_yaonan_syndicalist_DEF: "Китайская Республика"
+ united_china_yaonan_radical_socialist: "Китайская Республика"
+ united_china_yaonan_radical_socialist_DEF: "Китайская Республика"
+ united_china_yaonan_social_democrat: "Китайская Республика"
+ united_china_yaonan_social_democrat_DEF: "Китайская Республика"
+ united_china_yaonan_social_liberal: "Китайская Республика"
+ united_china_yaonan_social_liberal_DEF: "Китайская Республика"
+ united_china_yaonan_market_liberal: "Китайская Республика"
+ united_china_yaonan_market_liberal_DEF: "Китайская Республика"
+ united_china_yaonan_social_conservative: "Китайская Республика"
+ united_china_yaonan_social_conservative_DEF: "Китайская Республика"
+ united_china_yaonan_authoritarian_democrat: "Китайская Республика"
+ united_china_yaonan_authoritarian_democrat_DEF: "Китайская Республика"
+ united_china_yaonan_paternal_autocrat: "Китайская Республика"
+ united_china_yaonan_paternal_autocrat_DEF: "Китайская Республика"
+ united_china_yaonan_national_populist: "Китайская Республика"
+ united_china_yaonan_national_populist_DEF: "Китайская Республика"
+
+### Parties ###
+ KUM_totalist_party: "Аболиционисты"
+ KUM_syndicalist_party: "Аболиционисты"
+ KUM_radical_socialist_party: "Аболиционисты"
+ KUM_social_democrat_party: "Аболиционисты"
+ KUM_social_liberal_party: "Аболиционисты"
+ KUM_market_liberal_party: "Аболиционисты"
+ KUM_social_conservative_party: "Беи"
+ KUM_authoritarian_democrat_party: "Советники"
+ KUM_paternal_autocrat_party: "Клика Насира"
+ KUM_national_populist_party: "Националисты"
+ 
+ KUM_xinjiang_party_long: "Синьцзянская Администрация"
+ KUM_xinjiang_party: "Синьцзянская Администрация"
+ 
+ KUM_hoja_party_long: "Клика Ходжы Ниязя"
+ KUM_hoja_party: "Клика Ходжы Ниязя"
+ 
+ KUM_fan_party_long: "Клика Фаня"
+ KUM_fan_party: "Клика Фаня"
+ 
+ KUM_ma_party_long: "Клика Чжунъина"
+ KUM_ma_party: "Клика Чжунъина"
+ 
+ KUM_bashir_pataut_party: "Клика Башира"
+ KUM_bashir_pataut_party_long: "Клика Башира"
+
+### Ideas ###
+ KUM_legacy_masqud: "Наследие Максуда"
+ KUM_legacy_masqud_desc: "Предыдущий правитель Кумульского Ханства – Максуд Шах, отличался крайне авторитарным стилем управления. Для народа он запомнился своими бесконечными пьянками, повышением налогов, введением повинностей и крайней неприязнью к любым технологиям и нововведениям. Все это привело к восстаниям 1907 и 1912 годов, целью которых было свержение правителя и Ханства в целом. Нынешний правитель, Насир Шах, пытается исправить ошибки своего отца и восстановить авторитет среди подданных, однако это потребует немалых усилий в будущем."
+
+ KUM_reordered_tax: "Упорядоченный налоговый кодекс"
+ KUM_chinese_immigration: "Иммиграция ханьцев"
+ KUM_rebuild_xinjiang_idea: "Восстановление Синьцзяна"
+ KUM_crossroad_of_empires_idea: "Перекрёсток империй"
+ KUM_kumul_consitutionalism_idea: "Кумульский конституционализм"
+ KUM_kumul_loyalty_idea: "Кумульская верность"
+ KUM_kumul_loyalty_idea2: "Кумульская верность"
+ KUM_exploit_nationalism_idea: "Национализм"
+ KUM_hojas_republic_idea: "Республика Ходжи"
+ KUM_beijing_administrators_idea: "Пекинская администрация"
+ KUM_open_the_gates_idea: "Открытые врата"
+ KUM_open_the_gates_idea3: "Стабильность - залог процветания"
+ KUM_punish_dissent_idea: "Наказать диссидентов"
+ KUM_punish_dissent_idea2: "Режь и жги"
+ KUM_punish_dissent_idea3: "Армия с государством"
+ KUM_fight_for_xinjiang_idea: "Война за Синьцзян"
+ KUM_small_but_strong_idea: "Маленькие, но сильные"
+
+ KUM_keeping_peace: "Миротворцы Синьцзяна"
+ KUM_keeping_peace_desc: "Несмотря на незначительное влияние на политической арене Синьцзяна, Кумульское Ханство вот уже на протяжении более 20 лет остается ключом стабильности всего региона. Это вселяет надежду в наших людей, что в будущем мы сможем, наконец, сами распоряжаться своей судьбой."
+
+### Tooltips/Flags ###
+ KUM_annexation_flag: "Кумульское Ханство аннексировано."
+ KUM_new_situation_check_out: "§RОбстоятельства в Кумуле резко изменились. Рекомендуем с осторожностью присматриваться к развитию событий.§!"
+ KUM_sik_kumul_annexed: "§GЛучше будет интегрировать Кумуль в нашу администрацию.§!"
+ KUM_nasir_escape: "Насир Шах скоро вернется в Кумуль."
+ KUM_add_chinese_control_tooltip: "§LХанское влияние§! вырастет."
+ KUM_add_turkic_control_tooltip: "§CУйгурское влияние§! вырастет."
+ KUM_add_zhongying_control_tooltip: "§RВлияние Ма Чжунъина§! вырастет."
+ KUM_constit_monarchy_flag: "Кумуль становится конституционной монархией"
+ KUM_autocracy_monarchy_flag: "Кумуль сохраняет автократию"
+ KUM_zhongying_arrival: "§RМа Чжунъин и Ма Хушань прибыли в качестве генералов!§!"
+ KUM_khanate_safe_focus_tree_tooltip: "§YРазблокирует дерево фокусов Ханства§!"
+ KUM_hoja_focus_tree_tooltip: "§YРазблокирует дерево фокусов Ходжа Нияза§!"
+ KUM_fan_focus_tree_tooltip: "§YРазблокирует дерево фокусов Фаня Яонаня§!"
+ KUM_ma_focus_tree_tooltip: "§YРазблокирует дерево фокусов Ма Чжунъина§!"
+ KUM_nasir_dead: "Насир Шах мертв. Скоро у нас будет новый правитель"
+ KUM_beiyuan_tt: "В Кумуле появится одна дивизия Хуэй."                                                        
+ KUM_is_chinese_tag: "Кумуль управляется лидеорм-ханьцем."
+
+### Trees ###
+ Kumul_xinjiang: "Фокусы Синьцзянского Присоединения"
+ Kumul_khanate: "Фокусы Победоносного Ханства"
+ Kumul_non_khanate: "Фокусы Ханства Больше Нет"
+
+### Opinion Modifiers ###
+ KUM_gifted_melon: "Подаренный арбуз"
+
+###Decisions###
+ KUM_influence_category: "Силы в Ханстве"
+ KUM_influence_category_desc: "В стране есть множество группировок голодных до власти. Наше правление укрепится, если мы сможем ими управлять.\n\n§YТекущее влияние Хань:§! [?KUM_chinese_influence|L0]§L%§!\n\n§YТекущее влияние уйгуров:§! [?KUM_turkic_influence|C0]§C%§!\n\n§YТекущее влияние Ма Чжунъин: [?KUM_military_influence|R0]§R%§!"
+ KUM_a_gathering_in_kumul_mission: "Собрание в Кумуле..."
+ KUM_a_gathering_in_kumul_mission_desc: "Скопление такого количества влиятельных людей в столице может угрожать нашему режиму..."
+ KUM_grant_han_concessions: "Даровать уступки ханьцам"
+ KUM_continue_secularization: "Продолжить секуляризацию"
+ KUM_anti_han_rhetoric: "Анти-ханьская риторика"
+ KUM_appoint_military_advisor: "Назначить военного советника"
+ KUM_request_support_equipment: "Купить [QIE.GetAdjective]ое Дополнительное снаряжение"
+ KUM_request_infantry_equipment: "Купить [QIE.GetAdjective]ие ружья"
+ KUM_pull_strings_with_industrialists: "Подергать индустриалистов за ниточки"
+ KUM_internal_category: "Помощь Ханству"
+ KUM_internal_category_desc: "У нас еще остались кое-какие связи с правящими кругами в Пекине со времен предыдущего Хана. Если Пекинское правительство ценит нашу лояльность, они согласятся прислать нам оружие для борьбы с реакционными силами, наводнившими Синьцзян."
+ KUM_war_decision_category: "Война в Синьцзяне"
+ KUM_war_decision_category_desc: "В Синьцзяне разразилась война. Мы должны попытаться разбить как повстанцев, так и коррумпированных генералов."
+ KUM_assassinate_sabit_damulla_decision: "Ликвидировать Сабита Дамуллу"
+ KUM_assassinate_sabit_damulla_decision_desc: "Сабит Дамулла возглавляет коалицию уйгурских повстанцев на юго-западе Синьцзяна. С победой в Дихуа, нам теперь предстоит обратить свой взор на Кашгар и Хотан."
+ KUM_foreign_category: "Внешняя политика"
+ KUM_zhongying_war_on_xsm_decision: "Род предателей"
+ KUM_zhongying_war_on_xsm_decision_desc: "Наибольшую угрозу для Хами представляют претензии семьи Ма к нему. Их память о Ма Чжунъин приведет к нашей дипломатической изоляции, если мы не выступим против них."
+ KUM_zhongying_war_on_mon_decision: "Подчинить Монголию"
+ KUM_zhongying_war_on_mon_decision_desc: "Мы не можем забыть монголов, которые напали на Джунгарию во время нашей гражданской войны. Правительство Монголии несет ответственность за их присутствие и должно выплатить компенсацию за их преступления."
+ KUM_zhongying_war_on_tib_decision: "Наказать Тибет"
+ KUM_zhongying_war_on_tib_decision_desc: "Тибетцы - первопричина бед Хами. Их буддийское благочестие загрязняет нашу репутацию среди индийцев, и их память о семье Ма Чжунъин означает, что когда-нибудь они, несомненно, будут стремиться отомстить."
+
+### Intro Screen ###
+ KUM_country_intro_background: "GFX_KUM_intro"
+ KUM_country_intro_header: "Кумульское Ханство"
+ KUM_country_intro_content: "Кумульское Ханство, берет свои корни еще от Чагатайского улуса. За свое долгое существование ханство успело побывать под властью династии Цин, пережить республиканскую эру и вновь вернуться под Цинскую власть. Будучи, официально, протекторатом Империи Цин, Кумуль контролирует главный путь из Синьцзяна в остальную часть Китая. Лояльные Уйгурские Ханы подчиняются как императору в Пекине, так и непосредственно Синьцзянскому правительству.\n\nПредыдущий правитель Кумульского Ханства – Максуд Шах, отличался самым авторитарным стилем управления за всю историю государства, что вылилось в восстания 1907 и 1912 годов. Наследник Ханства, Насир Шах, решил бороться с ненавистью народа путем проведения незначительных реформ, направленных на снижение неподъемных налогов и повинностей. Спасут ли эти меры государство – большой вопрос. Сейчас же Насиру предстоит решить, на кого положиться – на уйгурскую знать либо на его советника, кумульского лоялиста Юлбарса Хана и бывшего анти-кумульского революционера Ходжи-Нияза.\n\nКумуль кажется последним оплотом на пути к погружению Синьцзяна в пучину войны, так как, несмотря на наличие множества оппонентов Насира, сохраняет мечту о возможном становлении самоуправления для многочисленного уйгурского народа во всем Синьцзяне. Кумуль - хранитель мира в Синьцзяне. И несмотря на небольшую территорию, последствия наших решений будут ощущаться во всем регионе."
+
+ KUM_guide: "§MFan Clique§! (§SSocial Democrat§!) / §MBegs§! (§cSocial Conservative§!) / §MBashir Clique§! (§PPaternal Autocrat§!) / §MNasir Clique§! (§PPaternal Autocrat§!) / §MZhongying Clique§! (§NNational Populist§!) / §MHoja-Nijaz Clique§! (§PPaternal Autocrat§!)\n£white_dot After winning Xinjiang War, in fight for influence minigame take options that boost Han influence to get Fan Clique, Ma Zhongying’s influence to get Zhongying Clique, or Uyghur influence to get Hoja-Nijaz Clique.\n£white_dot faction with more than 20 influence higher than all others will win out in 150 days.\n£white_dot §SFan Yaonan§! will rename Kumul Khanate to Xinjiang Administration.\n£white_dot §NMa Zhongying§! will rename Kumul Khanate to Hami Clique.\n£white_dot §PHoja-Nijaz§! will rename Kumul Khanate to Uyghur Republic.\n£white_dot If all factions are balanced (no faction has more than 20 influence higher than others) Khanate will survive.\n£white_dot Choose Constitutional Monarchy in event “Bashir Khan’s decision” to get §cBegs§! or Autocracy to get §PNasir Clique§! or §PBashir Clique§!.\n£white_dot Note: there is an RNG chance for Nasir Khan to escape and become khan again once Ma Zhongying joins you against Xinjiang in war. He behaves functionally same as Bashir Khan.\n£white_dot Fan Yaonan and Ma Zhongying behave as other Chinese warlords do, and can becomes a National Government or even unite China."
+
+### Events ###
+ kumul_khanate_events.1.t: "Растущее недовольство Насиром"
+ kumul_khanate_events.1.d: "Поскольку обещанные Насиром реформы продвигаются слишком медленно, возмущение народа лишь продолжает нарастать. Недавно начавшиеся протесты в пригороде Кумуля были быстро подавлены советником Юлбарс-ханом, прежде чем они смогли бы разрастись и повторить восстания 1907 и 1912 годов. Сейчас ситуация под контролем, но действовать нужно быстро. Народ, беи и советники ждут решений Насира, которые предопределят будущее государства."
+ kumul_khanate_events.1.a: "Эти люди такие шумные!"
+ 
+ kumul_khanate_events.2.t: "Слухи о недовольстве советников"
+ kumul_khanate_events.2.d: "Поскольку наша политика все больше смещается в сторону поддержки различных беев, которые контролируют сбор налогов и пополнение казны, Юлбарс и Нияз начали разочаровываться во власти Насира. Юлбарс-хан, будучи верным лоялистом, вряд ли когда-нибудь решится восстать против власти. Ходжа Нияз же, который участвовал в восстаниях 1907 и 1912 годов, вполне может и переметнуться к протестующим, если недовольство снова вспыхнет. Мы должны удостовериться, что Юлбарс и Ходжа достаточно удовлетворены нашей властью, если продолжать укрепляться."
+ kumul_khanate_events.2.a: "Почему управлять так тяжело?"
+ 
+ kumul_khanate_events.3.t: "Недовольство среди беев"
+ kumul_khanate_events.3.d: "Беи – представители уйгурской знати в Кумуле и в остальной части Синьцзяна, которые занимаются сбором налогов в регионах и последующей их доставкой центральному правительству. Смещение наших акцентов в сторону советников, не могло их не расстроить. Последнее, чего мы бы хотели добиться это чтобы налоги начали ускользать из рук Хана, или еще хуже – чтобы беи стали на сторону народа в случае восстания. Пока что они лояльны, но в будущем нужно убедиться, что они с нами на одной стороне."
+ kumul_khanate_events.3.a: "Эти беи вечно чем-то недовольны"
+ 
+ kumul_khanate_events.4.t: "Дань уважения Синьцзяну"
+ kumul_khanate_events.4.d: "Это наш долг, ежегодно давать подношения Синьцзянскому правительству в обмен на статус протектората. Этот обряд достаточно простой и символичный и заключается в подношении Кумульской Дыни правителю Синьцзяна. [SIK.GetLeader] выразил готовность милостиво принять наше подношение и в этом году. Традиции важны, какими бы нелепыми они не казались для посторонних, поскольку они поддерживают связь между уйгурами и ханьцами и являются залогом будущего мирного сосуществования."
+ kumul_khanate_events.4.a: "Дыня - залог мира"
+ 
+ kumul_khanate_events.5.t: "Некомпетентность"
+ kumul_khanate_events.5.d: "Новые чиновники в Хами оказались хуже любых самых жутких кошмаров народа. Все они сплошь близкие друзья Цзиня Шужэня, которые погрязли в коррупции, жажде наживы, постоянной эксплуатации народа и ненавистью к любому, кто не из их кругов. Нынешний глава администрации – Лун Силинь, явно не исключение. В последнее время он только и занимается поборами и наполнением своего собственного кошелька. Конечно, пока что их влияние на регион не столь очевидно, но с каждым днем префектура все больше приближается к катастрофе."
+ kumul_khanate_events.5.a: "Похоже, Хами проклят"
+ 
+ kumul_khanate_events.6.t: "Разрешение на миграцию"
+ kumul_khanate_events.6.d: "С согласия Цзиня Шужэня и Луна Силиня, дорога из Ганьсу в Хами была открыта для иммигрантов. Через Хами проходит главный путь соединяющий Синьцзян с остальной частью Китая, однако ранее Ханство запрещало неуйгурскому населению пересекать свои границы, что ограничивало доступ в регион для китайцев. Но уже сегодня Цзинь приказал первым хуэйским и ханьским переселенцам обосновываться на новых территориях, ранее для них недоступных. Мы можем только надеяться, что это поможет нашему великому народу и дальше продвигаться в Центральную Азию, пусть даже для этого и понадобятся годы."
+ kumul_khanate_events.6.a: "К лучшему будущему!"
+ 
+ kumul_khanate_events.7.t: "Проблемы с миграцией"
+ kumul_khanate_events.7.d: "Хотя открытие границ для переселенцев и принесло значительные улучшения в этот неразвитый мусульманкий город, всегда найдутся недовольные. Внезапно, местное население взбесилось из-за земельной реформы. И это, несмотря на то, что мы, отобрав большую часть их пашни для более важных нужд, все же благородно оставили им маленькие клочки непригодной для обработки земли. Нам уже известно о нескольких расправах над ханьскими переселенцами, однако это все отдельные случаи, не заслуживающие пристального внимания. Кажется, кумульцев все же можно приручить."
+ kumul_khanate_events.7.a: "Неблагодарные твари."
+ 
+ kumul_khanate_events.8.t: "Необычное предложение"
+ kumul_khanate_events.8.d: "Не успел новый сборщик налогов, назначенный Цзинем Шужэнем – Чжан Му, приступить к своей работе, как уже был очарован юной мусульманской красавицей и поспешил попросить ее руки и сердца. Обычно такие события остаются незамеченными, но поскольку Чжан Му не мусульманин, местным улем поспешил осудить возможную свадьбу. Несмотря на это, по неизвестным причинам, отец девочки согласился на брак, и свадьба состоится через несколько недель.\n\nС тех пор, как Кумуль был аннексирован, недовольство местных жителей уже достигло критической отметки. Эта свадьба только подольет масла в огонь, но, поскольку, Цзинь Шужэнь уже поддержал этот брак, его отмена исключена."
+ kumul_khanate_events.8.a: "Любви все религии покорны."
+ 
+ kumul_khanate_events.9.t: "Кислый прием"
+ kumul_khanate_events.9.d: "Катастрофа! Оказывается, напряжение в Хами было куда серьезнее чем мы могли представить. Прошлой ночью Чжан Му и его солдаты были убиты группой кумульских радикалов. По свидетельствам, нападение было совершено вечером, когда Чжан пировал вместе со своими соратниками. Если бы не обилие выпитого алкоголя, может у пострадавших и были бы шансы спастись, однако этого мы уже не узнаем.\n\nНо это наименьшая из наших бед. Набрав больше сил, повстанцы взяли штурмом город, разбили немногочисленный гарнизон и начали обезглавливать ханьских переселенцев, после чего закопали их головы в землю. Остатки гарнизона и администрации забаррикадировались за стенами старого города, в ожидании подкреплений от Цзинь Шужэня. Если они, конечно, придут."
+ kumul_khanate_events.9.a: "Так не должно было случиться…"
+ 
+ kumul_khanate_events.10.t: "Кровавый налог в Синьцзяне"
+ kumul_khanate_events.10.d: "Выжившие из отряда Чжана Му прибыли во дворец Цзиня Шужэня и рассказали о беспрецедентном насилии в отношении ханьского народа в Хами. Внезапно оказалось, что кумульский народ не был так рад переселенцам, как указывалось в отчетах Чжана Му, солдатам которого был оказан "теплый прием" несколько ночей назад. Выжившие рассказывают историю о так и не состоявшейся свадьбе между Чжаном Му и мусульманской девушкой, об отказе уйгуров платить налоги и многочисленных беспорядках. Жизни ханьцев теперь будут висеть на волоске, если Цзинь потерпит поражение."
+ kumul_khanate_events.10.a: "Снова Синьцзяну придется страдать."
+ 
+ kumul_khanate_events.11.t: "Осаждающие и осажденные"
+ kumul_khanate_events.11.d: "Кажется, наш Джихад против ханьских оккупантов зашел в тупик. У нас нет ни людей, ни оружия, чтобы разбить остатки войск в старом городе, впрочем, как и у врагов нет ни сил, ни желания проводить контратаку. Наш лучший генерал, Юлбарс Хан, собирается в путь чтобы набрать новую армию, способную смести тех, кто противостоит нам. Конечно, многие сомневаются, что чудо случится и Юлбарс приведет подкрепления, однако поползли слухи о возможном соглашении с одним из самых жестких среди командиров клики Ма – Ма Чжунъином. Такой шаг звучит очень рискованно, но может это и есть та спасительная ниточка для нашего государства."
+ kumul_khanate_events.11.a: "Вся надежда на старика."
+ 
+ kumul_khanate_events.12.t: "Удачная встреча"
+ kumul_khanate_events.12.d: "Как только Юлбарс подошел к палатrе Ма Чжунъина, без сомнения, самой большой всем лагере, ему тут же ударил в нос резкий запах опиума. Он почти отшатнулся, но вспомнив про важность своей благословенной миссии все же вошел внутрь. Посреди палатки грозно возвышалась властная фигура Чжунъина.\n\n"Кумульский тигр пожаловал за своей жертвой?" - хмыкнул военачальник.\n\n"Я просто старик, ищущий силы у Мясника из Гансу".\n\nФормальности были недолгими. Каждый из них знал намерения другого. Конечно, визит выглядел неожиданным, однако это лишь иллюзия, поскольку оба уже на протяжении нескольких недель активно обменивались сообщениями. У Чжунъина была армия без дома, а у Юлбарса был дом без армии. Вскоре все условия были оговорены, и армия Чжунъина отправилась в путь. Вслед за ней шел и Юлбарс. Ему нельзя было спускать глаз с этого вестника смерти.
+ kumul_khanate_events.12.a: "Нечистивый альянс..."
+ 
+ kumul_khanate_events.13.t: "Вестник смерти"
+ kumul_khanate_events.13.d: "Слухи оказались правдивыми. Юлбарс вернулся вместе со знаменитым Ма Чжунъином. Пусть и не всем нравится его появление, главное, что тысячи новых войск вселяют ужас в сердца спрятавшихся за стенами Старого Города врагов.\n\nКак только наступила ночь, Чжунъин сделал свой первый ход. Сотни кумульских всадников устремились навстречу вражеским укреплениям, но были быстро подавлены пулеметами. Однако это нисколько не смутило военачальника. В течение долгих часов, волна за волной войска обрушивались на защитников, не нанося им сколько-нибудь значимого урона. Когда же у последних кончились патроны – они взялись за мечи и копья, продолжая сражаться за свою жизнь со звериным рвением.\n\nНо удача благоволит смелым. С наступлением утра, Чжунъинские войска наконец нанесли решающий удар по остаткам гарнизона и сопротивление было подавлено. В качестве награды его войска получили возможность разорить Старый Город, те в свою очередь разрушили его до основания. После битвы [?Root.GetLeader] получил обещание от Ма Чжунъина, что тот продолжит свой поход, пока последние остатки сил Цзиня Шужэня не окажутся у его ног."
+ kumul_khanate_events.13.a: "Устрашающая сила"
+ 
+ kumul_khanate_events.15.t: "Великий побег"
+ kumul_khanate_events.15.d: "Ранним утром, план, который готовился последние несколько недель, был осуществлен. Насир Шах, запертый в тюрьме с тех пор, как его туда посадил Цзинь Шужэнь, ожидал сигнала. Как только последний охранник закрыл за собой дверь, по подземелью эхом разнеслось чириканье птицы. Именного этого звука так долго ждал Насир. Не теряя ни минуты, он достал несколько кирпичей из стены и пролез в заранее вырытый сообщниками туннель на свободу. В конце подкопа его поджидало два человека в темных мантиях. Один из них спешно натянул такую же мантию на Насира. Оставшись незамеченными, троица поспешила прочь из Дихуа. Кажется,[SIK.GetLeader] , только что потерял своего главного пленника.\n\nНовости о побеге Насира быстро достигли Кумуля. Конечно, Насиру еще предстояло проделать путь в несколько дней, прежде он вернется домой. Но его дерзкий побег, без сомнения, поднял мораль наших людей."
+ kumul_khanate_events.15.a: "Великолепно."
+ 
+ kumul_khanate_events.16.t: "Насир Шах вернулся"
+ kumul_khanate_events.16.d: "Как только Насир, в сопровождении двух телохранителей, вошел в Кумуль, он тут же был окружен ликующей толпой. Радостные крики крестьян разносились по всему городу, для них Насир стал символом стабильности в эти нестабильные времена. По его возвращению, первым делом был организован пир, куда менее опасный, чем последний. Насир также поблагодарил Юлбарс-хана за свое спасение и попросил его быстро ввести в курс дела по поводу последних событий на войне. После он произнес речь, поблагодарил войска и всех кто помогает сражаться с тиранией в Дихуа."
+ kumul_khanate_events.16.a: "Наконец-то."
+ 
+ kumul_khanate_events.17.t: "Насир мертв!"
+ kumul_khanate_events.17.d: "Ранним утром, план, который готовился последние несколько недель, был осуществлен. Насир Шах, запертый в тюрьме с тех пор, как его туда посадил Цзинь Шужэнь, ожидал сигнала. Как только последний охранник закрыл за собой дверь, по подземелью эхом разнеслось чириканье птицы. Именного этого звука так долго ждал Насир. Не теряя ни минуты, он достал несколько кирпичей из стены и пролез в заранее вырытый сообщниками туннель на свободу. В конце подкопа его поджидало два человека в темных мантиях. Все шло в соответствии с планом, пока "спасители" не раскрыли свои лица. Это были не те агенты Насира, которые помогали ему с побегом. Не дав успеть опомниться, один из людей достал пистолет из-под мантии и выстрелил Насиру в голову.\n\nНовости дошли до нас этим утром, после того как один из помогавших Насиру агентов, сбежал из Дихуа, будучи раскрытым."
+ kumul_khanate_events.17.a: "Будь они прокляты!"
+ 
+ kumul_khanate_events.18.t: "Насир мертв"
+ kumul_khanate_events.18.d: "Ранним утром, план, который готовился последние несколько недель, был осуществлен. Насир Шах, запертый в тюрьме с тех пор, как его туда посадил Цзинь Шужэнь, ожидал сигнала. Как только последний охранник закрыл за собой дверь, по подземелью эхом разнеслось чириканье птицы. Именного этого звука так долго ждал Насир. Не теряя ни минуты, он достал несколько кирпичей из стены и пролез в заранее вырытый сообщниками туннель на свободу. В конце подкопа его поджидало два человека в темных мантиях, которые по плану должны были быть агентами Насира. Однако, мы узнали о плане побега за несколько дней до его осуществления, так что [SIK.GetLeader] попросил своих людей встретить беглеца у выхода из туннеля. В соответствии с приказом, Насир Шах был убит на месте выстрелом в голову."
+ kumul_khanate_events.18.a: "Скатертью дорога."
+ 
+ kumul_khanate_events.19.t: "Новый правитель Кумуля"
+ kumul_khanate_events.19.d: "После трагической смерти Насира Шаха в Дихуа, пришло время для нового наследника. Сын Насира – юный Башир Шах, стал ханом Кумуля. Но из-за своего молодого возраста он не сможет править в одиночку. Юлбарсу поручено занять должность регента до тех пор, пока Башир не достигнет совершеннолетия. Конечно, сын расстроен вестью о смерти отца, однако у нас нет времени его оплакивать, поскольку война в Синьцзяне разгорается все больше с каждым днем."
+ kumul_khanate_events.19.a: "Да здравствует Башир Шах!"
+ 
+ kumul_khanate_events.20.t: "Что нам сделать с Насиром Шахом?"
+ kumul_khanate_events.20.d: "Несколько недель назад Кумульское Ханство объявило нам войну и с тех пор остро стоит вопрос о Насире Шахе, который сейчас заперт в нашей тюрьме в Дихуа. Конечно, сейчас он под охраной, однако все больше распространяются слухи о его возможном побеге. Если Насир доберется до Кумуля, это, безусловно, поднимет боевой дух повстанцев. С другой стороны – весть о его убийстве может их лишь только разозлить. К тому же, после смерти к власти придет его сын – юный Башир Шах, который вряд ли способен управлять страной. Одна пуля в голову Насира может нам здорово помочь в этой войне."
+ kumul_khanate_events.20.a: "Убейте его немедленно."
+ kumul_khanate_events.20.b: "Пусть дальше гниет в темнице."
+ 
+ kumul_khanate_events.21.t: "Ма Чжунъин покидает Гансу"
+ kumul_khanate_events.21.d: "Ма Чжунъин, Мясник из Гансу, вместе со своим помощником Ма Фушаном, покинули провинцию Гансу, прихватив с собой и армию. Ходят слухи, что причиной этому стал сговор с Кумульским генералом Юлбарс-ханом, который должен привести к присоединению армии Чжунъина к восставшим. Судя по тому, что новые войска были недавно замечены в Синьцзяне, слухи все же оказались правдивыми."
+ kumul_khanate_events.21.a: "Жители Гансу возрадуйтесь!"
+ 
+ kumul_khanate_events.22.t: "Казнь Насира Шаха"
+ kumul_khanate_events.22.d: "К рассвету, толпа собралась вокруг здания правительства в Дихуа. По ступеням спускался Цзинь вместе со своими верными лоялистами, среди которых был и бывший главный министра Хами – Лун Силинь. Вскоре, под гул и улюлюканье толпы из своей темницы был доставлен Насир Шах. Его опустили на колени перед Цзинем, который тут же потребовал от толпы тишины.\n\n"Насир Шах, именем правительства Синьцзяна, я обвиняю тебя виновным в предательстве и мятеже. Твоим наказанием будет смерть. Каковы твои последние слова?"\n\n"Эта пуля, Цзинь, положит конец твоему правлению."\n\nБез промедления Цзинь достал пистолет и привел приговор в исполнение, выстрелив Насиру в затылок. Не успело бездыханное тело бывшего правителя Кумуля упасть на холодные ступени, как толпа возликовала."
+ kumul_khanate_events.22.a: "Предатель получил свое."
+ 
+ kumul_khanate_events.23.t: "Казнь Насира Шаха"
+ kumul_khanate_events.23.d: "К рассвету, толпа собралась вокруг здания правительства в Дихуа. По ступеням спускался Цзинь вместе со своими верными лоялистами, среди которых был и бывший главный министра Хами – Лун Силинь. Вскоре, под гул и улюлюканье толпы из своей темницы был доставлен Насир Шах. Его опустили на колени перед Цзинем, который тут же потребовал от толпы тишины.\n\n"Насир Шах, именем правительства Синьцзяна, я обвиняю тебя виновным в предательстве и мятеже. Твоим наказанием будет смерть. Каковы твои последние слова?"\n\n"Эта пуля, Цзинь, положит конец твоему правлению."\n\nБез промедления Цзинь достал пистолет и привел приговор в исполнение, выстрелив Насиру в затылок. Не успело бездыханное тело бывшего правителя Кумуля упасть на холодные ступени, как толпа возликовала. Эта печальная новость из Дихуа, рассказанная нашим агентом, погрузила народ в траур."
+ kumul_khanate_events.23.a: "Трагедия."
+ 
+ kumul_khanate_events.26.t: "Победа в Синьцзяне"
+ kumul_khanate_events.26.d: "Наконец, после долгих месяцев борьбы с правительством Синьцзяна и восставшими Уйгурами, мы, наконец, смогли восстановить порядок в провинции. Конечно, одержать победу это еще пол дела, удержать власть – гораздо сложнее. Мы прошли долгий путь от администрации маленького города, до контроля огромной территории, с в разы большим населением, чем сам Кумуль. Нам нужно с осторожностью отнестись к тем, кто нам помогает. Ходжа Нияз – военачальник уйгуров, и Ма Чжунъин – Мясник из Гансу, оба предложили свою помощь. Вопрос лишь, хотят они помочь народу, либо только лишь своим амбициям. Китайские ханьцы тоже теперь имеют значительное влияние в нашем правительстве. В добавок еще и появились слухи, что Фань Яонань, ханьский бюрократ из бывшей Синьцзянской Клики, которого долгое время считали мертвым, объявился живым. Конечно, все они могут нам помочь, но важно не дать им слишком много власти и влияния, иначе это может привести к краху всего ханства."
+ kumul_khanate_events.26.a: "Великолепно."
+ 
+ kumul_khanate_events.27.t: "[KUM.GetLeader] должен решить"
+ kumul_khanate_events.27.d: "Теперь, когда наша власть укреплена, а вражеская угроза устранена, нам нужно задуматься о будущем. Насир Шах начал проводить реформы, для того чтобы развить страну и отойти от деспотического стиля правления своего отца. Однако восстание внесло свои коррективы, и реформы были на время отложены. [KUM.GetLeader] теперь предстал перед сложным выбором: начать демократические преобразования в стране с помощью беев, либо установить абсолютную монархию."
+ kumul_khanate_events.27.a: "Конституционная монархия; власть беям!"
+ kumul_khanate_events.27.b: "Самодержавие; [KUM.GetLeader] должен править сам!"
+ 
+ kumul_khanate_events.28.t: "Синьцзянской Администрации требуются чиновники"
+ kumul_khanate_events.28.d: "Фань Яонань, нынешний правитель Синьцзяна, признает над собой власть Пекина. В его последнем письме он называет нас настоящими правителями всего Китая и просит о помощи для своей администрации в Синьцзяне. Он утверждает, что несмотря на все поиски, он так и не нашел достойных ханьских чиновников, которые ставили бы управление выше собственной наживы. Он умоляет прислать к нему достойных бюрократов, который смогут быстро приступить к работе. Конечно, мы можем использовать этот повод, чтобы, наконец, избавиться от некоторых наших узколобых и коррумпированных чиновников."
+ kumul_khanate_events.28.a: "Отправить достойных чиновников."
+ kumul_khanate_events.28.b: "Отправить проворовавшихся чиновников."
+ kumul_khanate_events.28.c: "Нам нет дела до Фаня."
+ 
+ kumul_khanate_events.29.t: "Пекин присылает достойных чиновников"
+ kumul_khanate_events.29.d: "Мы получили ответ из Пекина по нашему запросу. Они отобрали и прислали несколько не скомпрометировавших себя ханьских бюрократов и чиновников, которые помогут нам в эффективном управлении Синьцзяном."
+ kumul_khanate_events.29.a: "Превосходно."
+ 
+ kumul_khanate_events.30.t: "Пекин присылает проворовавшихся чиновников"
+ kumul_khanate_events.30.d: "Мы получили ответ из Пекина по нашему запросу. Они отобрали и прислали несколько ханьских бюрократов и чиновников, которые помогут нам в управлении Синьцзяном. Однако, Фань узнал имена нескольких из них, которые зарекомендовали себя как одни из самых коррумпированных чиновников в Пекине. Кажется, они использовали наш запрос, как способ избавиться от самых худших из своих бюрократов."
+ kumul_khanate_events.30.a: "Но и они подойдут."
+ 
+ kumul_khanate_events.31.t: "План"
+ kumul_khanate_events.31.d: "Повстанцы из восточного Туркестана объединены только одной личностью: Сабитом Дамуллой. Братьев Бугра из Хотаня и благородного торговца Тимура Бега связывает только Сабит. Если его убрать, исчезнет и их хрупкий союз, а вместе с ним развалится и вся коалиция. После того как нам стало известно местоположение Сабита Дамуллы, наше командование решило, что пора действовать. Самый подходящий человек для такой ответственной операции — это наш генерал Махмут Мухити. В прошлом он имел связи с различными движениями за тюркскую независимость, однако с тех пор он присягнул нам. Мы можем отправить его в земли повстанцев с небольшим подготовленным отрядом, чтобы напасть на дом Дамуллы под покровом ночи. Если повезет, Мухити преуспеет."
+ kumul_khanate_events.31.a: "Удачи, Мухити."
+ 
+ kumul_khanate_events.32.t: "Попытка убийства Сабита Дамуллы!"
+ kumul_khanate_events.32.d: "Сегодня произошла трагедия. Пока Сабит Дамулла спал у себя дома, его телохранители отдыхали снаружи, не концентрируя свое внимание на горах вокруг. Не успел один из охранников присесть на ступени, чтобы почистить свое оружие, как его череп пронзила первая из множества пуль. Звуки выстрела разнеслись по долине, и остальные телохранители взялись за винтовки. С вершины ближайшего холма в атаку побежал отряд из 18 подготовленных солдат, ведомых кумульским генералом Махмутом Мухити. Они смогли расправиться с 7 охранниками возле дома, потеряв только троих из своего отряда. Двоих еще пришлось потерять непосредственно перед домом, из-за стрельбы из окон, пока Мухити сам не вломился через дверь и не пристрелил опешившего стрелка. Последние три защитника остались внутри дома, но и они продержались недолго, оставив Сабита Дамуллу одного против нападавших. Перезаряжая свой пистолет, Мухити с ухмылкой подходил к двери спальни Сабита. Но как только он вошел внутрь, все что он увидел – это пустую кровать и открытое окно. Мухити быстро осознал свою ошибку, он не оставил достаточно людей вокруг дома охранять периметр. Сабит ускользнул, а спустя час к дому подошли подкрепления, но к тому времени Мухити со своим отрядом был уже далеко.\n\nПусть попытка убийства и провалилась, все же она имела определенный успех. Сабит Дамулла, обеспокоенный за свою жизнь, начал постоянно прятаться. Это плохо повлияло на его коммуникацию с армией и привело к дезорганизации войск, которые иногда даже начали вступать в стычки между собой."
+ kumul_khanate_events.32.a: "Проклятие!"
+ 
+ kumul_khanate_events.33.t: "Убийство Сабита Дамуллы провалилось"
+ kumul_khanate_events.33.d: "Махмут Мухити вернулся с провалом. Он рассказал о том, как его люди напали с холмов на дом Сабита Дамуллы, убив множество телохранителей по пути. Он говорил о том, как лично вышиб входную дверь и пристрелил несколько защитников из пистолета. Тем не менее, прежде чем он добрался до спальни Сабита, тот успел улизнуть.\n\nПусть Мухити и не выполнил свою миссию, все же это не полный провал. Наши шпионы из Хотаня и Кашгара докладывают, что Сабит Дамулла начал скрываться, опасаясь за свою жизнь, и полностью изолировал себя от других людей. Это привело к полной дизорганизации войск Восточного Туркестана."
+ kumul_khanate_events.33.a: "Не полный провал."
+ 
+ kumul_khanate_events.50.t: "Слишком маленькая администрация для большой страны"
+ kumul_khanate_events.50.d: "Как и ожидалось, наша администрация неспособна управлять такой большой провинцией. Несколько небольших восстаний уже возникли в Синьцзяне. У каждого из них свои причины быть недовольными: часть все еще лояльны Цзиню, часть живет в полной анархии после падения прошлого правительства, но большинство же просто обозлены из-за недостатка провизии. [KUM.GetLeader] уже собирался послать Ма Чжунъина, чтобы расправится с этими небольшими восстаниями, как неожиданные новости пронеслись по Кумулю – Фань Яонань все еще жив. Ханьский бюрократ, который был изгнан предыдущей администрацией, все это время скрывался в горной деревушке к северу от Дихуа. Как только прошлая администрация пала, он прибыл в Кумуль, чтобы присягнуть на верность нашему правителю, и предложить помощь в управлении страной. Его уже пригласили в правительство, поскольку он очень популярная личность среди ханьцев Синьцзяна. Тем не менее это большой вопрос, можем ли мы доверить этому политику такую ответственую задачу."
+ kumul_khanate_events.50.a: "Использовать опыт Фаня Яонаня для наведения порядка."
+ kumul_khanate_events.50.b: "Использовать армию Ма Чжунъина для наведения порядка."
+ kumul_khanate_events.50.c: "Не стоит вмешиваться, наша администрация справится сама."
+ 
+ kumul_khanate_events.51.t: "Ходжа Нияз встречается с уйгурскими лидерами"
+ kumul_khanate_events.51.d: "После победы над врагами, Ходжа Нияз начал разъезжать по стране, встречаясь с уйгурскими лидерами, которые живут преимущественно на юге. Конечно, налаживание отношений – это хорошо для поддержания порядка в регионе, но многие опасаются, что Ходжа Нияз всего лишь укрепляет свое собственное влияние. Если необходимо, мы можем отправить Ма Чжунъина с его армией, чтобы приструнить Ходжа Нияза и показать кто здесь хозяин."
+ kumul_khanate_events.51.a: "Пусть делает что хочет."
+ kumul_khanate_events.51.b: "Пусть Ма Чжунъина его остановит."
+ 
+ kumul_khanate_events.52.t: "Фань встречается с крупными бизнесменами"
+ kumul_khanate_events.52.d: "Синьцзян представляет из себя гористый, малонаселенный и довольно отсталый регион. Тем не менее, некоторые китайские предприниматели видят в нашей стране потенциал для бизнеса. Недавно стало известно, что Фань Яонань встречался с некоторыми местными крупными бизнесменами и владельцами фабрик. Он отчитался о том, что пытался уговорить одного предпринимателя со связями из Пекина, начать строить здесь фабрики."
+ kumul_khanate_events.52.a: "Что он задумал..."
+ 
+ kumul_khanate_events.53.t: "Ма Чжунъину не сидится в городе"
+ kumul_khanate_events.53.d: "Мы недавно узнали, что Ма Чжунъин, Мясник из Ганьсу, собрался "навестить" несколько близлежащих деревень под Дихуа, явно с целью отбора их пожитков и опиума. Юлбарс-хан предложил план, как мы можем его остановить. Можно попробовать дать Ма Чжунъину больше власти в правительстве и большее жалование, чтобы у него не возникало желания покидать город. Однако, Ходжа Нияз утверждает, что это ужасная идея, и давать такому человеку, как Ма Чжунъин власть – большая ошибка."
+ kumul_khanate_events.53.a: "Дайте ему то что нужно."
+ kumul_khanate_events.53.b: "Бандиты всегда грабят."
+ 
+ kumul_khanate_events.54.t: "Фань наладил контакт с Пекином"
+ kumul_khanate_events.54.d: "Бюрократ Фань Яонань недавно сделал заявление для жителей Дихуа о том, как он наладил контакт с Пекином. Хорошая новость в том, что теперь это придает нашему правительству большую легитимность, а плохая – кажется Фань имеет больше власти чем хочет показать. Многие люди начали верить, что Фань единственный в нашем правительстве кто имеет настоящие права на управление страной."
+ kumul_khanate_events.54.a: "Тревожно."
+ 
+ kumul_khanate_events.55.t: "Нарастающая нестабильность"
+ kumul_khanate_events.55.d: "Кажется, захватить власть над Дихуа оказалось гораздо легче, чем ее удержать. Наша небольшая администрация с трудом справляется с тем, чтобы управлять такой огромной территорией Синьцзяна. Неудивительно, что в провинции нарастает нестабильность, и кажется мы все больше приближаемся к критической точке. Но мы всегда можем попросить наши войска навести порядок. Конечно, дать армии больше власти, поможет решить наши нынешние проблемы, однако это может иметь и свои последствия в будущем."
+ kumul_khanate_events.55.a: "Дать армии больше власти."
+ kumul_khanate_events.55.b: "Все разрешится само."
+ 
+ kumul_khanate_events.56.t: "Уйгурские повстанцы на юге"
+ kumul_khanate_events.56.d: "С тех пор как власть Цзиня Шужэня пала, уйгурские племена на юге, особенно вблизи Хотаня, живут в полном хаосе. Вооруженные лидерами уйгурского восстания, они не нашли занятия лучше, чем разъезжать по окрестностям и грабить деревни. Этому следует положить конец. У нас есть выбор, как решить эту проблему. Мы можем поручить Ходжа Ниязу, популярному среди уйгуров, отправиться на переговоры к уйгурским лидерам и убедить их сложить оружие. Возможно, некоторые, даже согласятся вступить в нашу армию. С другой стороны, мы можем попросить Ма Чжунъина и его опиумную армию навести порядок среди уйгуров. Наверняка, язык силы они поймут куда лучше."
+ kumul_khanate_events.56.a: "Ходжа Нияз разберется с проблемой."
+ kumul_khanate_events.56.b: "Ма Чжунъин положит конец грабежам."
+ 
+ kumul_khanate_events.57.t: "Увеличившаяся иммиграция"
+ kumul_khanate_events.57.d: "После окончания войны со старым правительством, все больше и больше китайских иммигрантов прибывают к нам в страну. Дорога через Кумуль переполнена людьми, прибывающими в регион в поисках лучшей доли. Многие задаются вопросом, стоит ли этому и дальше продолжаться."
+ kumul_khanate_events.57.a: "Пускай прибывают."
+ kumul_khanate_events.57.b: "Закрыть границу."
+ 
+ kumul_khanate_events.58.t: "Отряд защитников Уйгуров"
+ kumul_khanate_events.58.d: "Мясник из Ганьсу Ма Чжунъин вселяет страх в любого, кто встретится с ним и его армией. В ответ на непрекращающиеся рейды его опиумной армии, Ходжа Нияз решил сформировать Отряд Защитников Уйгуров, задача которых – защита уйгурского населения от налетов Ма Чжунъина. Несмотря на то, что этот отряд охраняет простых людей, возможно мы даем Ходжа Ниязу слишком много власти. С другой стороны, распустив этот отряд мы окончательно развяжем руки Ма Чжунъину."
+ kumul_khanate_events.58.a: "Ходжа Нияз должен распустить свой отряд."
+ kumul_khanate_events.58.b: "Ходжа Нияз может защищать людей если хочет."
+ 
+ kumul_khanate_events.59.t: "Нужно больше золота"
+ kumul_khanate_events.59.d: "Чтобы поддерживать порядок в Синьцзяне, нам нужно больше денег. Мы уже истратили почти все резервы, чтобы увеличить администрацию и поддерживать мир в провинции. Главные люди, обладающие столь необходимыми нам деньгами – это Ходжа Нияз, Фань Яонань и Ма Чжунъин. Мы должны попросить кого-то из них поделиться с нами."
+ kumul_khanate_events.59.a: "Использовать деньги Фаня."
+ kumul_khanate_events.59.b: "Использовать деньги Ходжа Нияза."
+ kumul_khanate_events.59.c: "Использовать деньги Ма Чжунъина."
+ 
+ kumul_khanate_events.70.t: "Проблемы с налогами"
+ kumul_khanate_events.70.d: "На протяжении столетий, пока мы были лояльны власти в Дихуа, мы получали большие дотации от них. Поскольку регион Кумуля очень небольшой, своих собственных налогов было недостаточно для развития. Теперь же, когда мы получили все деньги Синьцзяня, мы столкнулись с новой проблемой. Как только пришло время платы налогов, мы обнаружили, что у нас не выстроена система их сбора. В первую очередь не хватает сборщиков налогов. Во многих регионах, где инфраструктура особенно не развита, люди, которые раньше занимались сбором налогов для правительства, теперь начали набивать налогами свои собственные карманы. Сейчас мы работаем над отправкой наших людей и армии под предводительством Юлбарс-хана, для сбора налогов."
+ kumul_khanate_events.70.a: "Проклятие."
+ 
+ kumul_khanate_events.71.t: "Ма Чжунъин уходит в горы"
+ kumul_khanate_events.71.d: "С тех пор как мы обеспечили власть над Синьцзяном, Ма Чжунъин стал уставать от политики. Он пришел в Кумуль для того чтобы получить власть, но теперь, когда планы рухнули, он решил отступить обратно в горы, чтобы вернуться к привычным занятиям вроде налетов и грабежей. Перед отправкой он дал обещание, что в случае войны он вернется со своей армией. Люди же Синьцзяна, по крайней мере те, кому не придется встречаться с его налетами, теперь могут выдохнуть, поскольку угроза захвата власти Мясником из Ганьсу миновала."
+ kumul_khanate_events.71.a: "Мясник ушел."
+ 
+ kumul_khanate_events.72.t: "Учреждение исламского права"
+ kumul_khanate_events.72.d: "Большинство жителей Синьцзяна проповедуют ислам. Наша династия также этнически принадлежит к уйгурам, которые в свою очередь ближе к тюркам из центральной Азии, чем к китайским ханьцам. Поэтому было решено, что законы нашей страны все больше будут напоминать исламские законы. Конечно, это сразу же вызвало недовольство ханьского населения, которые выступают за секуляризацию."
+ kumul_khanate_events.72.a: "Скоро они научатся."
+ 
+ kumul_khanate_events.80.t: "Встреча с уйгурскими повстанцами"
+ kumul_khanate_events.80.d: "Ходжа Нияз встретился со старыми повстанцами из Восточного Туркестана и разрешил им присоединиться к нашему правительству, ради всеобщего процветания."
+ kumul_khanate_events.80.a: "Превосходно."
+ 
+ kumul_khanate_events.81.t: "Законы шариата"
+ kumul_khanate_events.81.d: "Учредить законы шариата в Синьцзяне оказалось тяжелее чем мы думали"
+ kumul_khanate_events.81.a: "Скоро они научатся."
+ 
+ kumul_khanate_events.82.t: "Договор с монгольцами о винтовках"
+ kumul_khanate_events.82.d: "После встречи с монгольскими кочевниками из западной Монголии, мы договорились об обмене двух лошадей на одну винтовку."
+ kumul_khanate_events.82.a: "Выгодная сделка."
+ 
+ kumul_khanate_events.90.t: "Развитие городов"
+ kumul_khanate_events.90.d: "Люди Синьцзяна ведут кочевой образ жизни, так что Фань решил развивать города для того, чтобы они более походили на остальную часть Китая."
+ kumul_khanate_events.90.a: "Хорошая работа."
+ 
+ kumul_khanate_events.91.t: "Все дороги ведут в Дихуа"
+ kumul_khanate_events.91.d: "Фань Яонань начал свой план "Все дороги ведут в Дихуа", подразумевающий строительство дорог со всей страны, ведущих в Дихуа."
+ kumul_khanate_events.91.a: "Превосходно."
+ 
+ kumul_khanate_events.92.t: "Новая дорога в Китай"
+ kumul_khanate_events.92.d: "Раньше лишь одна дорога вела в Китай и она проходит через Кумуль. Мы начали строить еще одну, южнее от старой."
+ kumul_khanate_events.92.a: "Хорошая работа."
+ 
+ kumul_khanate_events.100.t: "Пир в Кумуле"
+ kumul_khanate_events.100.d: "На протяжении месяцев, министры, бюрократы и чиновники работали в поте лица, чтобы обеспечить кумульскую власть над Синьцзяном. Люди работали во всех уголках страны и имели мало времени чтобы пообщаться друг с другом. Поэтому, [KUM.GetLeader] решил созвать большое собрание в Кумуле, с продолжением в виде пира. Официальная цель мероприятия – это сбор и обмен информацией, а также празднование установившейся стабильности, однако очевидно, что есть и более глубокие мотивы. Многие верят, что [KUM.GetLeader] и Юлбарс-хан собираются остановить растущее влияние множества ключевых фигур в правительстве: уйгурского ренегата Ходжа Нияза, ханьского бюрократа Фаня Яонаня и мясника из Ганьсу Ма Чжунъина. Все они заявляют о своей верности нынешнему правителю, но многие боятся, что у них есть и скрытные намерения…\n\nПервые гости уже успели прибыть в Кумуль, а город все еще был окружен заботами. Многочисленные солдаты, крестьяне и бюрократы носятся то тут, то там, подготавливая все необходимое для встречи. Первым прибыл Фань Яонань, окруженный группой ханьских лоялистов. За ним пришел и Ходжа Нияз, со свитой из уйгурских солдат, выходцев из хотаньских гор. Наконец, спустя час прибыл и Ма Чжунъин, сопровождаемый запахом опиума от его многочисленных солдат. [KUM.GetLeader] и Юлбарс встретили всех у входа во дворец и провели внутрь. Собрание длилось многие часы, поскольку у каждого были свои соображения по поводу будущего страны. Ходжа Нияз несколько раз угрожал уйти, а Ма Чжунъин один раз даже приставил пистолет к виску Юлбарса. Тем не менее, как только солнце зашло, соглашения были заключены и мир в регионе был закреплен. Слуги начали подавать еду, а вскоре прозвучал и первый тост за мир и стабильность в Синьцзяне."
+ kumul_khanate_events.100.a: "Ханство в безопасности."
+ 
+ kumul_khanate_events.101.t: "Пир в Кумуле"
+ kumul_khanate_events.101.d: "На протяжении месяцев, министры, бюрократы и чиновники работали в поте лица, чтобы обеспечить кумульскую власть над Синьцзяном. Люди работали во всех уголках страны и имели мало времени чтобы пообщаться друг с другом. Поэтому, [KUM.GetLeader] решил созвать большое собрание в Кумуле, с продолжением в виде пира. Официальная цель мероприятия – это сбор и обмен информацией, а также празднование установившейся стабильности, однако очевидно, что есть и более глубокие мотивы. Многие верят, что [KUM.GetLeader] и Юлбарс-хан собираются остановить растущее влияние множества ключевых фигур в правительстве: уйгурского ренегата Ходжа Нияза, ханьского бюрократа Фаня Яонаня и мясника из Ганьсу Ма Чжунъина. Все они заявляют о своей верности нынешнему правителю, но многие боятся, что у них есть и скрытные намерения…\n\nПервые гости уже успели прибыть в Кумуль, а город все еще был окружен заботами. Многочисленные солдаты, крестьяне и бюрократы носятся то тут, то там, подготавливая все необходимое для встречи. Первым прибыл Фань Яонань, окруженный группой ханьских лоялистов. Наконец, спустя час прибыл и Ма Чжунъин, сопровождаемый запахом опиума от его многочисленных солдат. Однако кое-кого не хватало. Хотя Ходжа Нияз утверждал в письме что собирается присоединиться к пиру, его нигде не было видно. [KUM.GetLeader] и Юлбарс обменялись встревоженными взглядами и вынуждены были начать без него.\n\nНа самом деле Ходжа Нияз собирался принять участие в собрании. Когда он вошел в Кумуль, за ним последовали 500 его верных уйгурских воинов. Войска быстро расправились с защитниками города и отрядами Ма Чжунъина, и окружили дворец. После того, как он вошел внутрь с 20 своими солдатами, Фань Яонань, Ма Чжунъин, [KUM.GetLeader] и Юлбарс Хан были арестованы. Скорее всего они уже больше не увидят свободу. Ходжа Нияз уже до этого имел значительную власть в стране, но теперь она стала безоговорочной."
+ kumul_khanate_events.101.a: "Ходжа Нияз теперь правит в Кумуле."
+ 
+ kumul_khanate_events.102.t: "Пир в Кумуле"
+ kumul_khanate_events.102.d: "На протяжении месяцев, министры, бюрократы и чиновники работали в поте лица, чтобы обеспечить кумульскую власть над Синьцзяном. Люди работали во всех уголках страны и имели мало времени чтобы пообщаться друг с другом. Поэтому, [KUM.GetLeader] решил созвать большое собрание в Кумуле, с продолжением в виде пира. Официальная цель мероприятия – это сбор и обмен информацией, а также празднование установившейся стабильности, однако очевидно, что есть и более глубокие мотивы. Многие верят, что [KUM.GetLeader] и Юлбарс-хан собираются остановить растущее влияние множества ключевых фигур в правительстве: уйгурского ренегата Ходжа Нияза, ханьского бюрократа Фаня Яонаня и мясника из Ганьсу Ма Чжунъина. Все они заявляют о своей верности нынешнему правителю, но многие боятся, что у них есть и скрытные намерения…\n\nПервые гости уже успели прибыть в Кумуль, а город все еще был окружен заботами. Многочисленные солдаты, крестьяне и бюрократы носятся то тут, то там, подготавливая все необходимое для встречи. Первым прибыл Ходжа Нияз, со свитой из уйгурских солдат, выходцев из хотаньских гор. Наконец, спустя час прибыл и Ма Чжунъин, сопровождаемый запахом опиума от его многочисленных солдат. Однако кое-кого не хватало. Хотя Фань Яонань утверждал в письме что собирается присоединиться к пиру, его нигде не было видно. [KUM.GetLeader] и Юлбарс обменялись встревоженными взглядами и вынуждены были начать без него.\n\nНа самом деле Фань Яонань собирался принять участие в собрании. Когда он вошел в Кумуль, за ним последовали 250 его верных ханьских воинов. Городской гарнизон вместо защиты, примкнул к Фаню, который заранее их подкупил. От солдат Ма Чжунъина, запертых в опиумном доме было легко избавиться. После того, как Фань вошел внутрь дворца с 20 своими солдатами, Ходжа Нияз, Ма Чжунъин, [KUM.GetLeader] и Юлбарс Хан были арестованы. Скорее всего они уже больше не увидят свободу. Фань Яонань уже до этого имел значительную власть в стране, но теперь она стала безоговорочной."
+ kumul_khanate_events.102.a: "Великолепно."
+ 
+ kumul_khanate_events.103.t: "Пир в Кумуле"
+ kumul_khanate_events.103.d: "На протяжении месяцев, министры, бюрократы и чиновники работали в поте лица, чтобы обеспечить кумульскую власть над Синьцзяном. Люди работали во всех уголках страны и имели мало времени чтобы пообщаться друг с другом. Поэтому, [KUM.GetLeader] решил созвать большое собрание в Кумуле, с продолжением в виде пира. Официальная цель мероприятия – это сбор и обмен информацией, а также празднование установившейся стабильности, однако очевидно, что есть и более глубокие мотивы. Многие верят, что [KUM.GetLeader] и Юлбарс-хан собираются остановить растущее влияние множества ключевых фигур в правительстве: уйгурского ренегата Ходжа Нияза, ханьского бюрократа Фаня Яонаня и мясника из Ганьсу Ма Чжунъина. Все они заявляют о своей верности нынешнему правителю, но многие боятся, что у них есть и скрытные намерения…\n\nПервые гости уже успели прибыть в Кумуль, а город все еще был окружен заботами. Многочисленные солдаты, крестьяне и бюрократы носятся то тут, то там, подготавливая все необходимое для встречи. Первым прибыл Фань Яонань, окруженный группой ханьских лоялистов. За ним пришел и Ходжа Нияз, со свитой из уйгурских солдат, выходцев из хотаньских гор. Однако кое-кого не хватало. Хотя Ма Чжунъин утверждал в письме что собирается присоединиться к пиру, его нигде не было видно. [KUM.GetLeader] и Юлбарс обменялись встревоженными взглядами и вынуждены были начать без него.\n\nНа самом деле Ма Чжунъин собирался принять участие в собрании. Когда он вошел в Кумуль, за ним последовали 500 его верных солдат. Городской гарнизон был быстро разбит, а дворец окружен. После того, как Ма Чжунъин вошел внутрь дворца с 20 своими солдатами, Ходжа Нияз, Фань Яонань, [KUM.GetLeader] и Юлбарс Хан были арестованы. Скорее всего они уже больше не увидят свободу. Ма Чжунъин уже до этого имел значительную власть в стране, но теперь она стала безоговорочной."
+ kumul_khanate_events.103.a: "Великолепно."
+ 
+ kumul_khanate_events.110.t: "Контрабанда опиума"
+ kumul_khanate_events.110.d: "Огромное количество контрабандного опиума провозится через наши границы"
+ kumul_khanate_events.110.a: "Хорошо."
+ 
+ kumul_khanate_events.111.t: "Приграничные налеты"
+ kumul_khanate_events.111.d: "Множество налетов было совершено вблизи наших границ."
+ kumul_khanate_events.111.a: "Великолепно."
+ 
+ kumul_khanate_events.112.t: "/"Лучший опиум в Китае/""
+ kumul_khanate_events.112.d: "Опиум, провозимый через наши границы, называют лучшим в Китае."
+ kumul_khanate_events.112.a: "Прекрасно."
+ 
+ kumul_khanate_events.113.t: "Император Пу И признает Хами"
+ kumul_khanate_events.113.d: "Последние новости о Реставрации Маньчжура изначально звучали скептически, так как новости из Пекина и продолжающееся неведение их правительства к нуждам своих подданных неоднократно доказывали свою несостоятельность. Однако новая весть от молодого императора продемонстрировала его истинную благодать и проницательность. Император поддержал нашу автономию от Синьцзяна, достойное наследие веков вместе выступает против современного авторитарного террора Цзинь Шужэня."
+ kumul_khanate_events.113.a: "Отлично."
+
+### Focuses ###
+ KUM_nasir_reign: "Реформы Насира"
+ KUM_nasir_reign_desc: "Политика Маскуда Шаха, заключавшаяся в высоких налогах и барщине, так ненавидима своим народом, что любой шаг в сторону ее отмены будет очень популярным."
+ 
+ KUM_working_begs: "21 бей"
+ KUM_working_begs_desc: "21 бей, собрание богатейших уйгурских землевладельцев в Кумуле, требует от Насира контроля за казной. Также они хотят новой переписи, чтобы снизить свою налоговую нагрузку."
+ 
+ KUM_reordering_tax: "Налоговая реформа"
+ KUM_reordering_tax_desc: "Первые требования беев - перепись и налоговая реформа, могут быть выполнены. После переписи всех жителей, свободных людей и скота, некоторые формы дохода, такие как производство халяльного мяса и машиностроение могут быть освобождены от налогов."
+ 
+ KUM_opening_autonomy: "Открытая автономия"
+ KUM_opening_autonomy_desc: "Маскуд Шах думал, что он может усилить свою власть, закрыв город для иммигрантов, не получивших разрешение от Цин. Беи просят дать доступ в город новым уйгурам и чтобы к ним относились как к свободным."
+ 
+ KUM_reform_administration: "Административные реформы"
+ KUM_reform_administration_desc: "Дворец Кумуля наполнен некомпетентными бюрократами. Маскуд Шах не заморачивался с поиском чиновников, прошедших государственный экзамен. Просто попросив местных служащих получить необходимые сертификаты, мы сможем избавиться от худших из них."
+ 
+ KUM_incorporate_advisory: "Проблема Советников"
+ KUM_incorporate_advisory_desc: "Власть двух Советников всегда была опасной для ханства. Особенно с Ходжой Ниязом. Если мы сможем отвлечь Советников, нам удастся профести реформы мимо них."
+ 
+ KUM_increase_begs: "30 беев"
+ KUM_increase_begs_desc: "С большим количеством уйгуров, пришедших в Кумуль, будет полезным расширить количество беев до 30. А мы же сможем воспользоваться их советом."
+ 
+ KUM_keys_kumul: "Ключи от Кумуля"
+ KUM_keys_kumul_desc: "Десятилетиями гарнизон Кумуля был заботой Советников. Беи предложили брать людей на службу в качестве одной из форм уплаты налогов. Теперь одной головной болью будет меньше."
+ 
+ KUM_kind_hand: "Добрая рука"
+ KUM_kind_hand_desc: "Нам нужно изменить образ хана Кумуля в глазах народа. С помощью достойного внешнего вида, соблюдения мусульманских обычаев и поддержки беев, Насира Шаха начнут уважать как никогда раньше."
+ 
+ KUM_crush_corvee: "Избавиться от барщины"
+ KUM_crush_corvee_desc: "Ввести барщину для поддержания функционирования города было идеей Маскуда. Но традиционное исламское право и гражданские законы Китая запрещают барщину, если только она не обоснована преступлениями."
+ 
+ KUM_increased_constitutionalism: "Рост конституционализма"
+ KUM_increased_constitutionalism_desc: "Большое количество разных политических идей поселилось в Китае. Наконец они добрались и до Кумуля. Мы можем использовать их как базис для осовременивания нашего права."
+ 
+ KUM_working_advisory: "2 Советника"
+ KUM_working_advisory_desc: "Два Генерала-Советника, Юлбарс Хан и Ходжа Нияз, требуют от Насира защиты своих привелегий. Первым шагом будет поиск всех левых радикалов и их тщательная проверка. Просто на всякий случай."
+ 
+ KUM_opening_reform: "Регулировка власти"
+ KUM_opening_reform_desc: "Маскуд Шах не продумывал границ власти Советников, их обязанности ограничивались лишь его прихотью. Регламентирование деятельности Советников поможет хану и Ходжа Ниязу защитить Кумуль."
+ 
+ KUM_niyaz_ideals: "Идеалы Нияза"
+ KUM_niyaz_ideals_desc: "Ходжа Нияз, вспоминает, что во время его неудавшегося восстания против отца Насира, его солдаты сражались лучше, когда ими руководил Имам и отводил время для молитвы. Введение такой практики в войсках, по мнению Ходжа Нияза, заставит войска сражаться с яростью духов воинов старины."
+ 
+ KUM_sideline_begs: "Отстранить беев"
+ KUM_sideline_begs_desc: "21 бей - наследие Маскуда Шаха, который совещался с ними из-за неприязни к простым мусульманам и беспробудного пьянства. Для всех будет лучше, если Советники будут общаться с Насиром напрямую, без привлечения беев."
+ 
+ KUM_yulbars_doctrine: "Доктрина Юлбарса"
+ KUM_yulbars_doctrine_desc: "Юлбарс-хан служил ханству еще со времен дедушки Насира. У него достаточно опыта, чтобы предлагать реформы. Юлбарс-хан верит, что платата солдатам не серебром, а товарами сделает их более зависмыми."
+ 
+ KUM_lower_taxation: "Снижение налогов"
+ KUM_lower_taxation_desc: "Другая область реформ Юлбарс-хана включает в себя снижение налогов для солдат в нашей армии, чтобы побудить большее количество людей вступить в армию, хотя это будет означать несколько меньшие налоговые поступления."
+ 
+ KUM_cavalry_horde: "Кумульский Кавалерийский Полк"
+ KUM_cavalry_horde_desc: "Советники рекомендуют создание временного Кавалерийского Полка на базе Хуэйского Полка. По их словам это поможет быстро расправляться с любыми восстаниями, которые возникают в Кумуле время от времени."
+ 
+ KUM_strengthining_nasir: "Поддержание власти хана"
+ KUM_strengthining_nasir_desc: "Советники изображают Насира, как доброжелательного диктатора, защищающего Кумуль от китайской разрухи. В то же время его сравнивают с победоносными Чагатаями, которые покорили Тибет."
+ 
+ KUM_maintaining_corvee: "Поддержание барщины"
+ KUM_maintaining_corvee_desc: "По мнению советников, несмотря на свою жестокость и противоречие исламскому праву, барщина просто необходима для поддержания порядка. У заключенных же она отобьет всякое желание продолжать преступную деятельность."
+ 
+ KUM_soft_fist: "Мягкий кулак"
+ KUM_soft_fist_desc: "Советники начали распространять армейские порядки и на мирных жителей Кумуля. Теперь любой кто встретится с ними, станет любить своего правителя как никогда раньше."
+ 
+ KUM_xinjiang_administration: "Синьцзянская Администрация"
+ KUM_xinjiang_administration_desc: "Благодаря преступным действиям Цзиня Шужэня, день нашего порабощения настал. Магистратам хана придется мириться с китайским гарнизоном, отдающим приказы. Пройдет время, прежде чем мы поймем, чего они на самом деле хотят от нас."
+ 
+ KUM_greater_taxes: "Новые налоги"
+ KUM_greater_taxes_desc: "Первый приказ гарнизона - сбор дани для правительства Цин. Поэтому было решено обложить население новыми налогами. Без всякого сомнения, это вызовет недовольство уйгурского населения."
+ 
+ KUM_hire_more_tax_collectors: "Нанять новых сборщиков налогов"
+ KUM_hire_more_tax_collectors_desc: "Гарнизон недоволен местными налоговыми сборщиками, их методы считают слишком мягкими. Вместо этого они предложили новых из числа китайцев. Пощады к уйгурам теперь не будет."
+ 
+ KUM_even_higher_taxes: "Еще больше налогов!"
+ KUM_even_higher_taxes_desc: "Городской гарнизон решил повысить налоговое бремя, прикрываясь необходимостью ежегодного подношения в Пекин, о котором власти Пекина, естественно, даже не подозревают. Тем не менее новые налоги, по мнению гарнизона, должны понравиться Цзиню Шужэню."
+ 
+ KUM_seize_nobles_money: "Отобрать деньги у знати"
+ KUM_seize_nobles_money_desc: "После увеличившихся поборов, семьи беев решили бежать из города, вместе со своими деньгами и драгоценностями, и начать прятаться. Гарнизон заявляет, что золото местной знати должно быть отобрано во благо национальной безопасности."
+ 
+ KUM_punish_opposition: "Наказать оппозицию"
+ KUM_punish_opposition_desc: "Гарнизон, наконец, осознал, что магистраты пытаются саботировать их власть. Настала пора избавиться от бюрократов и чиновников, которые не отрекаются от символов власти Насира, равно как и от Корана."
+ 
+ KUM_road_through_hami: "Дорога через Хами"
+ KUM_road_through_hami_desc: "Дорога из Хами в Дихуа длинна и опасна. С обеих сторон окруженная пустыней на многие мили, она уже давно нуждается в ремонте. Гарнизон собрал людей на принудительные работы по укреплению дороги. Их возвращение маловероятно."
+ 
+ KUM_consolidating_xinjiang: "Объединение Синьцзяна"
+ KUM_consolidating_xinjiang_desc: "План Юлбарс-хана и Ходжи Нияза, наконец, осуществился. Все города Синьцзяна у наших ног, и наша следующая задача - установление новой администрации."
+ 
+ KUM_rebuilding_xinjiang: "Восстановление Синьцзяна"
+ KUM_rebuilding_xinjiang_desc: "Разрухе в Синьцзяне положен конец. Наши люди отправятся в разные уголки страны, чтобы найти угнетенных бывшим режимом, которые будут готовы встать на нашу сторону и помочь в восстановлении страны."
+ 
+ KUM_southern_textiles: "Южные текстильщики"
+ KUM_southern_textiles_desc: "Ковровые рынки Хотаня остались без покупателей. Ма Хушань предложил нанять их ткачей, чтобы сделать производство знаменитых ковров нашей монополией."
+ 
+ KUM_expand_kumul_road: "Расширение кумульской дороги"
+ KUM_expand_kumul_road_desc: "Дорога проходящая через Кумуль, видала множество славных битв. Мы должны снова использовать принудительный труд, чтобы ее восстановить."
+ 
+ KUM_nascent_industry: "Зарождение промышленности"
+ KUM_nascent_industry_desc: "Штамповка орудий и грубые кузници - лишь начало полноценной военной индустрии Кумуля. Нам потребуются квалифицированные инженеры и электричество. Но усилия того стоят."
+ 
+ KUM_military_expansion: "Увеличение армии"
+ KUM_military_expansion_desc: "Оборонительные дивизии, которые мы использовали во время последней войны должны быть реорганизованы. Потребуется время, но эти шаги обезопасят нас в будущих конфликтах."
+ 
+ KUM_civilian_investments: "Гражданские инвестиции"
+ KUM_civilian_investments_desc: "Последняя война затронула каждую семью в нашей стране. Стоит потратить ресурсы на восстановление нормальной гражданской жизни."
+ 
+ KUM_new_manufactories: "Новые производства"
+ KUM_new_manufactories_desc: "Современные инструменты для промышленного литья, наконец, начали прибывать в Кумуль. С такими ресурсами, процветание Синьцзяна не за горами."
+ 
+ KUM_chinese_integration: "Интеграция китайского языка"
+ KUM_chinese_integration_desc: "Не стоит запрещать китайский язык. Наоборот, наша двуязычная администрация сможет избежать неправильной трактовки указаний, чему позавидуют наши враги."
+ 
+ KUM_restart_immigration: "Перезапуск иммиграции"
+ KUM_restart_immigration_desc: "Слишком долго ворота Кумуля пугали потенциальных переселенцев. [KUM.GetLeader] выпустит декларацию, которая положит конец страхам иммигрантов о возможных новых конфликтах."
+ 
+ KUM_reach_out_to_china: "Подношение Китаю"
+ KUM_reach_out_to_china_desc: "Каждые семь лет мы отправляли в Пекин подношения, что было славной традицией. Если мы ее возобновим, то сможем понадеяться на военную помощь от Китая."
+ 
+ KUM_autonomy_in_vogue: "Автономия в моде"
+ KUM_autonomy_in_vogue_desc: "Чтобы навести порядок на обширных территориях Синьцзяна, мы должны пользоваться теми же принципами, которыми руководствовался Ян Цзэнсинь."
+ 
+ KUM_promote_local_businesses: "Поощрить мелкий бизнес"
+ KUM_promote_local_businesses_desc: "Рынок Синьцзяна отражает десятилетия притеснений и сегрегации, которые вводил против нас прошлый губернатор. Теперь мы можем избавиться от нелепых принципов прошлого и поощрать мелкий бизнес, который станет двигателем новой экономики."
+ 
+ KUM_pardon_rebellious_uyghurs: "Помиловать восставших уйгуров"
+ KUM_pardon_rebellious_uyghurs_desc: "Наши министры считают, что восставшие уйгуры могут принять новое правление. Те, кто сложит оружие и подчинится нам, могут быть помилованы."
+ 
+ KUM_seek_legitimacy: "Легитимизировать власть"
+ KUM_seek_legitimacy_desc: "Большинство в Китае воспринимает нас просто, как восставших узурпаторов. Кажется, небольшие подарки с нашей стороны помогут поменять их мнение."
+ 
+ KUM_internal_stability: "Внутренняя стабильность"
+ KUM_internal_stability_desc: "Осталось огромное количество вопросов, которые мы еще не успели решить. Если решим хотя бы половину нынешних проблем, это повысит стабильность нашей администрации."
+ 
+ KUM_responsible_government: "Ответственное правительство"
+ KUM_responsible_government_desc: "Доверие к правительству начинается с поощрения ответственных людей. Пусть мы и начали, как повстанцы, это не должно нам мешать нанимать компетентных и исполнительных чиновников."
+ 
+ KUM_defensive_neutrality: "Оборонительный нейтралитет"
+ KUM_defensive_neutrality_desc: "Западные ворота теперь стали привлекательной целью для мятежников из Манчжурии и южного Китая. Мы должны попросить командование о разработке оборонительной стратегии, чтобы попытаться предотвратить возможный новый конфликт."
+ 
+ KUM_crossroads_of_empires: "Перекресток империй"
+ KUM_crossroads_of_empires_desc: "Русские, турки и даже японцы положили свой глаз на наши границы. Мы больше не можем отрицать присутствие их агентов на нашей земле. Пора наладить дипломатические отношения с этими странами и посмотреть, кто из них за, а кто против нашей автономии."
+ 
+ KUM_safety_and_prosperity: "Безопасность и процветание"
+ KUM_safety_and_prosperity_desc: "Если ханьцы и хуэйцы не разобщены, то безопасность и процветание могут быть гарантированы. Наша главная задача состоит в мирном сосуществовании всех рас в Синьцзяне."
+ 
+ KUM_khanate_continuation: "Судьба ханства"
+ KUM_khanate_continuation_desc: "[KUM.GetLeader] должен признать, что ханство нуждается в реформах. То что раньше было лишь голословными обещаниями, теперь должно быть воспринято всерьез."
+ 
+ KUM_constitutionalism_prevails: "Преобладание конституционализма"
+ KUM_constitutionalism_prevails_desc: "Осколки идеализма, привезенные с юга, восторжествовали в кумульской политике. Провинциальная конституция совмещает в себе элементы Мидхаси и однопартийное управление по принципу Сунь Ятсена."
+ 
+ KUM_invest_in_begs: "Инвестиции в беев"
+ KUM_invest_in_begs_desc: "Лояльные беи, не подчинившиеся Цзиню Шужэню будут вознаграждены. Их земли будут увеличены, а также они получает еще одну пенсию, за службу ханству в трудные времена."
+ 
+ KUM_lessons_from_qing: "Уроки от Цин"
+ KUM_lessons_from_qing_desc: "Реформы императора Пуи стали для нас большим примером. Современный монарх должен делигировать свои полномочия и культивировать доверие к меритократическому гражданскому правительству."
+ 
+ KUM_abolish_the_advisory: "Отменить институт Советников"
+ KUM_abolish_the_advisory_desc: "Советники Ходжа Нияз и Юлбарс-хан уже себя изжили. Нам нужно убрать военных из политики, чтобы избежать риска установления военной диктатуры в будущем."
+ 
+ KUM_constitutional_council: "Конституционный совет"
+ KUM_constitutional_council_desc: "Беи могут сформировать современный конституционный совет. Их задачи будут схожими с османской Палатой Депутатов. Благодаря им хан сможет возвыситься до высот великих султанов."
+ 
+ KUM_under_the_khan: "Под властью хана"
+ KUM_under_the_khan_desc: "[KUM.GetLeader] внял речам своих Советников и решил управлять самостоятельно, опираясь на армию."
+ 
+ KUM_reform_advisory: "Реформа института Советников"
+ KUM_reform_advisory_desc: "Хан решил поблагодарить своих Советников за службу, вернув их довоенную роль."
+ 
+ KUM_ensure_loyalty: "Обеспечить лояльность"
+ KUM_ensure_loyalty_desc: "Советники утверждают, что у них достаточно рычагов власти в городах, чтобы искоренить любые попытки радикалов ослабить нашу власть."
+ 
+ KUM_royal_guards: "Основать Королевскую Стражу"
+ KUM_royal_guards_desc: "Хан должен удостовериться, что он защищен от любого неповиновения советников или беев в будущем. Лучше всего с этим справится Королевская Стража, которая будет служить лично хану."
+ 
+ KUM_end_power_struggle: "Закончить политический кризис"
+ KUM_end_power_struggle_desc: "Большое количество невыполненных обещаний, которые мы дали кумульским жителям, внесло некоторую неразбериху в нашу администрацию. Для общего блага будет правильным отказаться от части из них."
+ 
+ KUM_necessary_adjustments: "Необходимые изменения"
+ KUM_necessary_adjustments_desc: "Некоторые магистраты направили бюджет на те проекты, которые нам не нужны. Возврат этих денег в казну позволит нам сосредоточиться на более важных проблемах."
+ 
+ KUM_public_schooling: "Учредить государственное образование"
+ KUM_public_schooling_desc: "Государственное образование - это одна из немногих вещей, с которыми мы солидарны с Шэном Шицаем. Конечно мы не будем отменять медресе, но дополнительное образование не повредит."
+ 
+ KUM_contain_nationalism: "Сдержать Джадидистов"
+ KUM_contain_nationalism_desc: "Желания Джадидистов представляют опасность для Кумуля, будь то их интересы в борьбе с Россией или мечты о возвышении Османской Империи за наш счет. Мы должны остановить националистов, пока не началось очередное восстание."
+ 
+ KUM_divine_right: "Божественное право"
+ KUM_divine_right_desc: "В исламской школе Сидаотан утверждается, что право власти принадлежит определенной династии. Династия ханов связана с османской, а значит наша власть священа."
+ 
+ KUM_modern_monarchy: "Современная монархия"
+ KUM_modern_monarchy_desc: "Мы видели множества примеров возрождения монархий, даже бывших на грани хаоса. Цин и османы - отличный пример. Мы должны повторить их успех."
+ 
+ KUM_benevolent_autocracy: "Доброжелательная автократия"
+ KUM_benevolent_autocracy_desc: "Кто-то может утверждать, что наша администрация превращается в то, с чем мы боролись. Очевидно, они неправы. Единственный способ поддержать порядок в стране - это доброжелательная диктатура."
+ 
+ KUM_khanate_no_more: "Ханства больше нет"
+ KUM_khanate_no_more_desc: "Последний хан был свергнут, уйгурский народ торжествует. Под властью более компетентного лидера, провинция будет развиваться, без необходимости оглядываться назад."
+ 
+ KUM_hoja_niyaz: "Изменник"
+ KUM_hoja_niyaz_desc: "Однажды повстанец - всегда повстанец. [KUM.GetLeader] взял власть в Кумуле в свои руки. Теперь первая задача состоит в ее укреплении."
+ 
+ KUM_exploit_nationalism: "Использовать Джадидистов"
+ KUM_exploit_nationalism_desc: "Не все Джадидисты плохи, некоторые могут нам пригодиться. Мы получим от них необходимую поддержку, будь то запрет других религий, или учреждение суда по закону шариата."
+ 
+ KUM_keep_them_divided: "Продолжить сегрегацию"
+ KUM_keep_them_divided_desc: "Этническая сегрегация, введенная Маскудом Шахом, зарекомендовала себя полезной для Кумуля. [KUM.GetLeader] решил продолжить эту славную традицию."
+ 
+ KUM_matters_of_state: "Государственные дела"
+ KUM_matters_of_state_desc: "Годы некомпетентности и лени, загубили нашу внешнюю политику. [KUM.GetLeader] теперь будет лично контролировать внутреннюю и внешнюю политику."
+ 
+ KUM_cast_off_ideology: "Отбросить идеологию"
+ KUM_cast_off_ideology_desc: "Большинство так называемых лидеров центральной Азии, управляет своими людьми с помощью идеологии. Чтобы ответить этим вызовам, мы должны объединиться с любой силой в регионе, которая будет готова поддержать нашу автономию."
+ 
+ KUM_hojas_republic: "Республика Ходжи"
+ KUM_hojas_republic_desc: "[KUM.GetLeader], сражаясь с Маскудом Шахом, в точности не знал за что он борется. С годами [KUM.GetLeader] стал мудрее и понял, что, обладая абсолютной властью, он должен стать президентом новой Республики."
+ 
+ KUM_flexible_diplomacy: "Гибкая дипломатия"
+ KUM_flexible_diplomacy_desc: "Министерство Иностранных Дел в Кумуле, получило указание не давать никаких обещаний и гарантий соседям. Поддерживая гибкую дипломатию мы сможем быть уверены в завтрашнем дне."
+ 
+ KUM_let_them_pick_us: "Пусть выберут нас"
+ KUM_let_them_pick_us_desc: "Министерство Иностранных Дел, наконец, смогло стать более эффективным и [KUM.GetLeader] может сосредоточиться на выстраивании взаимоотношений с китайскими фракциями."
+ 
+ KUM_fan_yaonan: "Бюрократ"
+ KUM_fan_yaonan_desc: "[KUM.GetLeader] смог избежать смерти, и во второй раз получил возможность, которая выпадает раз в жизни - стать губернатором Синьцзяна в Кумуле."
+ 
+ KUM_open_for_business: "Открыты для бизнеса"
+ KUM_open_for_business_desc: "Причина провала Синьцзяна крылась в политике изоляционизма Яна Цзэнсиня. [KUM.GetLeader] готов исправить ситуацию и избавиться от драконовских торговых пошлин, чтобы привести Синьцзян к процветанию."
+ 
+ KUM_request_administrators: "Запрос администраторов"
+ KUM_request_administrators_desc: "Фань Яонань использует свои законные полномочия для найма новых администраторов, прошедших экзамен на государственную службу."
+ 
+ KUM_safe_investment: "Безопасная инвестиция"
+ KUM_safe_investment_desc: "Богатства, отобранные у коррумпированных чиновников, наконец могут быть инвестированы в Синьцзянскую экономику. Это поможет снизить налоговое бремя с простых людей. По крайней мере на время."
+ 
+ KUM_open_the_gates: "Открыть ворота"
+ KUM_open_the_gates_desc: "Западные врата, наконец, снова открыты. [KUM.GetLeader] понимает свою ответственность в поддержании мира внутри Синьцзяна между ханьцами, хуэйцами и уйгурами."
+ 
+ KUM_common_cause: "Базовая потребность"
+ KUM_common_cause_desc: "Базовая потребность всех народов Синьцзяна - процветание. От хотаньских шахтеров, до простых охотников. Все что им нужно - это безопасность и защита от врагов, вроде Монголии."
+ 
+ KUM_political_malleability: "Политическая гибкость"
+ KUM_political_malleability_desc: "Министерство Иностранных Дел в Кумуле, получило указание не давать никаких обещаний и гарантий соседям. Поддерживая гибкую дипломатию мы сможем быть уверены в завтрашнем дне."
+ 
+ KUM_stability_means_prosperity: "Стабильность и процветание"
+ KUM_stability_means_prosperity_desc: "Стабильность, которую Фань Яонань создал в Синьцзяне, практически не имеет себе равных во всем остальном Китае. Это сделало его гораздо лучшим местом для экономического развития и инвестиций."
+ 
+ KUM_zhongying_gang: "Мстительный генерал"
+ KUM_zhongying_gang_desc: "С помощью силы своей армии, [KUM.GetLeader] стал править в Хами. Очевидно, власть старых феодалов и бандитов уступит свое место современному автократическому правлению, которое организует [KUM.GetLeader]."
+ 
+ KUM_punish_dissent: "Наказать несогласных"
+ KUM_punish_dissent_desc: "Современная автократия требует подавления любых радикальных движений в зачаточном состоянии. Вот почему [KUM.GetLeader] решил аннулировать все помилования, которые были даны сдавшимся командирам."
+ 
+ KUM_slash_and_burn: "Выжженная земля"
+ KUM_slash_and_burn_desc: "Местные бандиты полагаются только на слабость людей и их полные кошельки. Зачем бороться с ними, если мы можем их просто выслать к нашим врагам, тем самым ослабив их?."
+ 
+ KUM_army_with_state: "Дом для армии"
+ KUM_army_with_state_desc: "[KUM.GetLeader] полагается в своем правлении только на армию. Поэтому мы должны дать им максимальные права, включая контроль над сбором налогов и контроль за деятельностью чиновников."
+ 
+ KUM_all_for_one: "Все за одного"
+ KUM_all_for_one_desc: "[KUM.GetLeader] должен сплотить вокруг себя весь народ Хами, если мы хотим выжить в последующие годы"
+ 
+ KUM_the_kumul_army: "Кумульская армия"
+ KUM_the_kumul_army_desc: "Когда-то бывшая армией самообороны, кумульская армия должна быть реорганизована в крупнейшую военную силу в центральной Азии."
+ 
+ KUM_small_but_strong: "Маленькие, но сильные"
+ KUM_small_but_strong_desc: "Что отличает Кумуль от храбрецов из Ганьсу или провинциальной армии - это то, что мы можем полагаться только на себя. Пока остальные армии страдают от истощения, мы можем спокойно переживать путешествия по долгим пустынным дорогам."
+ 
+ KUM_new_guns: "Изучить украденные ружья"
+ KUM_new_guns_desc: "Без поддержки извне, мы вынуждены начать копировать китайское оружие, которое в свою очередь уже скопировано с европейских образцов. Если нам это удастся, мы сможем побороть иностранную угрозу."
+ 
+ KUM_increased_conscription: "Увеличить призыв"
+ KUM_increased_conscription_desc: "Каждый мужчина должен гордиться, что его сыновья служат в армии Кумуля."
+ 
+ KUM_cold_warriors: "Зимние солдаты"
+ KUM_cold_warriors_desc: "Те солдаты, что подготовятся к зиме, разобьют любых новобранцев, посмевших угрожать Кумулю."
+ 
+ KUM_new_factory: "Оружейный завод Дихуа"
+ KUM_new_factory_desc: "Теперь, когда Дихуа наш, мы можем использовать его оружейные фабрики для нужд национальной обороны."
+ 
+ KUM_steppe_scouts: "Степные разведчики"
+ KUM_steppe_scouts_desc: "Специальные подразделения, сформированные из степняков, будут давать нашим дивизиям лучшую разведывательную мощь, скорость и рекогносцировку."
+ 
+ KUM_mountainous_province: "Горные тренировки"
+ KUM_mountainous_province_desc: "Создание специальных бригад из числа каракумцев, сделает наши войска более гибкими и приспособленными к горной местности."
+
+### Characters ###
+ KUM_nasir_shah: "Насир Шах"
+ KUM_nasir_shah_leader_desc: "Насир родился и вырос новым кумульским ханом на всю жизнь. Его семья - потомки ханов много веков назад, и они правили Кумулом так же долго. Отец Насира, Маскуд-шах, был жестоким авторитаристом, что привело к восстаниям против его правления в 1907 и 1912 годах. Несмотря на то, что эти восстания были подавлены, непрекращающаяся неприязнь никогда не уходила, и когда Насир сменил отца в 1930 году, большая часть этой неприязни перешла к Насиру. Однако Насир не похож на своего авторитарного отца, и он гораздо более открыт для реформ, желая дать больше власти своим советникам и Бегам."
+
+ KUM_bashir_shah: "Башир Шах"
+ 
+ KUM_yulbars_khan: "Юлбарс-хан"
+ 
+ KUM_hoja_niyaz_haji: "Ходжа Нияз Хаджи"
+ 
+ KUM_mahmut_muhiti: "Махмут Мухити"
+
+ KUM_khans_court: "Ханский суд"
+ 
+ #劉希增
+ KUM_liu_xizeng: "Лю Сизен"
+ 
+ #李謙
+ KUM_li_qian: "Ли Цянь"
+ KUM_sengchen_thubbstan_tshering: "Сенгчен Туббстан Церинг"
+ 
+ KUM_tahir_beg: "Тахир Бег"
+ 
+ #馬福元
+ KUM_ma_fuyuan: "Ма Фуюань"
+ 
+ #馬占倉
+ KUM_ma_zhancang: "Ма Чжаньцан"
+ 
+ KUM_dalelkhan_sugirbayev: "Далелхан Сугирбаев"
+ 
+ #羅文幹
+ KUM_luo_wengan: "Луо Венган"
+ 
+ KUM_ospan_batyr: "Оспан батыр"
+ 
+ #包青山
+ KUM_pau_tisan: "Пау Тисан"
+ 
+ KUM_kemal_kaya_efendi: "Кемаль Кая Эфенди"
+ 
+ #馬仲傑
+ KUM_ma_zhongjie: "Ма Чжунцзе"
+ 
+ KUM_kalibek_rakhimbekovich: "Калибек Рахимбекович"
+ 
+ #張純熙
+ KUM_zhang_chunxi: "Чжан Чуньси"
+ 
+### Traits ###
+ KUM_first_reformer: "Первый реформатор"
+ KUM_first_reformer2: "Первый реформатор"
+ KUM_first_reformer3: "Первый реформатор"
+ KUM_first_reformer4: "Первый реформатор"
+ 
+ 

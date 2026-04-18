@@ -1,0 +1,63 @@
+﻿l_russian:
+ ######################################################## 
+ ### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ### 
+ ######################################################## 
+  
+ #vanilla tooltips that indicate potential factions to join, removed in KR due to not being applicable 
+ DW_VERY_LIKELY_JOIN_FACTION: ""
+ POSSIBLE_FACTION_INVITES: ""
+  
+ #removed the second sentence, since KR puppets can refuse them 
+ DIPLOMACY_REQUEST_EXP_FORCE_ACTION_DESC: "Запросить у марионетки контроль над рядом дивизий." #NT!
+  
+ #amended to account for KR's recall volunteers diplo action 
+ SEND_VOLUNTEERS_INFO: "\nОтправленные подразделения будут удалены с карты во время транспортировки и вернутся на карту целевой страны после завершения передачи. Дивизии вернутся автоматически, если вы окажетесь в состоянии войны или в целевой стране наступит мир." #NT!
+  
+ #renamed to match KR's ideological groups 
+ DR_US_DEMOCRATIC: "§Y$US|U$§! является либеральным:" #NT!
+ DR_US_NEUTRAL: "§Y$US|U$§! является консервативным:" #NT!
+ DR_US_COMMUNIST: "§Y$US|U$§! является социалистическим:" #NT!
+ DR_US_FASCIST: "§Y$US|U$§! является реакционным:" #NT!
+  
+ #changed to British spelling 
+ DIPLOMACY_MESSAGE_CANCELED_TITLE: "$RELATION$ отменено" #NT!
+ DIPLOMACY_MESSAGE_CANCELED_MESSAGE: "$RELATION$ с $COUNTRY$ было §Rcancelled§! $REASON$" #NT!
+ LEND_LEASE_VEHICLES_BUTTON_DISABLED: "§TМы не производим оборудование для бронетехники и не имеем его на складе§!" #NT!
+ INCOMING_LEND_LEASE_VEHICLES_BUTTON_DISABLED: "§TНам неизвестно о какой-либо бронетехнике, доступной для экспорта§!" #NT!
+ DIPLOMACY_REQUEST_LICENSED_PRODUCTION_TITLE: "Запросить производство лицензии" #NT!
+ DIPLOMACY_MANAGE_LICENSED_PRODUCTION_EXISTING_TITLE: "Управление производством лицензий" #NT!
+ DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_REQUEST_LICENSED_PRODUCTION: "Наш запрос на лицензионное производство был §Rdeclined§! на §Y$COUNTRY$§!." #NT!
+ DIPLOMACY_MESSAGE_ACCEPTED_MESSAGE_DIPLOMACY_REQUEST_LICENSED_PRODUCTION: "Наш запрос на лицензионное производство был §Gaccepted§! на §Y$COUNTRY$§!." #NT!
+ DIPLOMACY_REQUEST_LICENSED_PRODUCTION_ACTION_DESC: "Запросите лицензию на производство зарубежного оборудования для собственного использования." #NT!
+ DIPLOMACY_MANAGE_LICENSED_PRODUCTION_EXISTING_ACTION_DESC: "Запросите новые лицензии или завершите действие лицензий, которые в данный момент активны." #NT!
+ DIPLOMACY_REQUEST_LICENSED_PRODUCTION_REQUEST_DESC: "$COUNTRY|UY$ запрашивает лицензию на производство: $LIST|Y$\nОни будут платить $COST|Y$ £civ_factory , пока лицензия активна." #NT!
+ DIPLOMACY_SHOW_ACTIVE_LICENSES: "Показать §Hактивные лицензии§!" #NT!
+ DIPLOMACY_SHOW_AVAILABLE_LICENSES: "Показать §Hдоступные лицензии§!" #NT!
+ DIPLOMACY_CANCEL_LICENSED_PRODUCTION_TITLE: "Отменить лицензии на производство" #NT!
+ DIPLOMACY_CANCEL_LICENSED_PRODUCTION_ACTION_DESC: "Отменить все лицензии на добычу, которые могут быть аннулированы" #NT!
+ CAN_DEACTIVATE_AFTER: "Нельзя отменить до: $DATE|H$" #NT!
+ CAN_CANCEL_ALL_AFTER: "Любая лицензия не может быть аннулирована до тех пор, пока: $DATE|H$" #NT!
+ DR_LICENSE_ACCEPTANCE: "§Y$THEM|U$§! с большей вероятностью примет §YЗапросы на производство лицензий§! от §Y$US$§!:" #NT!
+ DR_HAS_CORE_ON_ANY_STATE: "Государство $COUNTRY|UY$ считает национальным как минимум один выбранный регион: "
+ BORDER_WAR_POWER_RATIO: "Коэффициент военной мощи в нашу пользу: $VAL|2%H$" #NT!
+ SEND_VOL_CONTROL_OF_HOME: "@$TAG$$WHO|UH$ необходимо управлять своим домашним кинотеатром." #NT!
+ alert_expeditionary_force_delayed: "У вас есть экспедиционные силы на этом театре военных действий." #NT!
+ DIPLOMACY_WAR_NO_WAR_WARGOAL_NO_NEIGBOR_WARS: "Мы можем только объявлять неоправданные войны нашим соседям и странам, которые уже находятся в состоянии войны с членами нашей фракции и соседствуют с ними." #NT!
+ DIPLOMACY_PEACE_PROPOSAL_NOT_WARSCORE_ENOUGH: "Военный счет в пользу другой стороны должен быть не ниже $LIMIT|%0Y$, в настоящее время $WARSCORE|%0Y$." #NT!
+ DR_COMMUNIST_NOT_NEIGHBOUR: "$THEM|UY$ не соседствует с фракцией:" #NT!
+ free_license: "Бесплатная лицензия" #NT!
+  
+ #missing in vanilla 
+ DIPLOMACY_INTERNATIONAL_MARKET_ACCESS_RIGHTS: "Доступ к рынку" #NT!
+  
+ #removed colon character at the end 
+ puppet_opinion: "Кукольный" #NT!
+  
+ #capitalised 'opinion' 
+ small_decrease: "Снижение мнения" #NT!
+ medium_decrease: "Снижение мнения" #NT!
+ large_decrease: "Снижение мнения" #NT!
+ small_increase: "Рост мнения" #NT!
+ medium_increase: "Рост мнения" #NT!
+ large_increase: "Рост мнения" #NT!
+ huge_increase: "Огромный рост мнения" #NT!

@@ -1,0 +1,36 @@
+﻿l_russian:
+  
+ BRI: "Бретань"
+ BRI_ADJ: "Бретонск"
+ BRI_DEF: "Бретань"
+  
+ BRI_totalist: "Бретонская Коммуна"
+ BRI_totalist_DEF: "Бретонская Коммуна"
+ BRI_syndicalist: "Бретонская Коммуна"
+ BRI_syndicalist_DEF: "Бретонская Коммуна"
+ BRI_radical_socialist: "Бретонская Коммуна"
+ BRI_radical_socialist_DEF: "Бретонская Коммуна"
+  
+ LIL: "Валлонская Фландрия"
+ LIL_ADJ: "Лилиуазск"
+ LIL_DEF: "Протекторат Валлония-Фландрия"
+  
+ LIL_authoritarian_democrat_party: "Административная комиссия"
+ LIL_authoritarian_democrat_party_long: "Административная комиссия Валлонской Фландрии"
+  
+ LIL_social_democrat_party: "$LIL_authoritarian_democrat_party$"
+ LIL_social_democrat_party_long: "$LIL_authoritarian_democrat_party_long$"
+ LIL_social_liberal_party: "$LIL_authoritarian_democrat_party$"
+ LIL_social_liberal_party_long: "$LIL_authoritarian_democrat_party_long$"
+ LIL_market_liberal_party: "$LIL_authoritarian_democrat_party$"
+ LIL_market_liberal_party_long: "$LIL_authoritarian_democrat_party_long$"
+ LIL_social_conservative_party: "$LIL_authoritarian_democrat_party$"
+ LIL_social_conservative_party_long: "$LIL_authoritarian_democrat_party_long$"
+ LIL_paternal_autocrat_party: "$LIL_authoritarian_democrat_party$"
+ LIL_paternal_autocrat_party_long: "$LIL_authoritarian_democrat_party_long$"
+ LIL_national_populist_party: "$LIL_authoritarian_democrat_party$"
+ LIL_national_populist_party_long: "$LIL_authoritarian_democrat_party_long$"
+  
+ GLC: "Галисия"
+ GLC_ADJ: "Галисийск"
+ GLC_DEF: "Галисия"

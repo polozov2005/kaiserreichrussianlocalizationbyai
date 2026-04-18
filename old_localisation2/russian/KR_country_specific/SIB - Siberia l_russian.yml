@@ -1,0 +1,44 @@
+﻿l_russian:
+
+### Country Names ###
+ SIB: "Сибирь"
+ SIB_ADJ: "Сибирск"
+ SIB_DEF: "Сибирь"
+
+ SIB_totalist: "Сибирская Республика"
+ SIB_totalist_ADJ: "Сибирск"
+ SIB_totalist_DEF: "Сибирская Республика"
+ SIB_syndicalist: "Сибирская Республика"
+ SIB_syndicalist_ADJ: "Сибирск"
+ SIB_syndicalist_DEF: "Сибирская Республика"
+ SIB_radical_socialist: "Сибирская Республика"
+ SIB_radical_socialist_ADJ: "Сибирск"
+ SIB_radical_socialist_DEF: "Сибирская Республика"
+
+### Parties ###
+ SIB_totalist_party: "Большевики"
+ SIB_totalist_party_long: "Большевики"
+ SIB_syndicalist_party: "Меньшевики"
+ SIB_syndicalist_party_long: "Меньшевики"
+ SIB_radical_socialist_party: "Бакунинцы"
+ SIB_radical_socialist_party_long: "Бакунинцы"
+ SIB_social_democrat_party: "Прогрессивисты"
+ SIB_social_democrat_party_long: "Прогрессивисты"
+ SIB_social_liberal_party: "Федералисты"
+ SIB_social_liberal_party_long: "Федералисты"
+ SIB_market_liberal_party: "Федералисты"
+ SIB_market_liberal_party_long: "Федералисты"
+ SIB_social_conservative_party: "Областники"
+ SIB_social_conservative_party_long: "Областники"
+ SIB_authoritarian_democrat_party: "ПНС"
+ SIB_authoritarian_democrat_party_long: "Партия Народной Свободы"
+ SIB_paternal_autocrat_party: "СВР"
+ SIB_paternal_autocrat_party_long: "Союз Возрождения России"
+ SIB_national_populist_party: "СВР"
+ SIB_national_populist_party_long: "Союз Возрождения России"
+
+### Characters ###
+ SIB_vadim_podbelsky: "Вадим Подбельский"
+ SIB_nikolay_avksentyev: "Николай Авксентьев"
+ SIB_aleksey_grishin_almazov: "Алексей Гришин-Алмазов"
+ 

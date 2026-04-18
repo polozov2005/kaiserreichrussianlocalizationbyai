@@ -1,0 +1,23 @@
+﻿l_russian:
+  
+ # ACC, APG, USA faction 
+ faction_league_of_america: "Лига американских государств"
+  
+ # NEE factions 
+ faction_organisation_of_american_states: "Организация американских государств"
+  
+ # WCA faction 
+ faction_socialist_league_of_the_americas: "Социалистическая лига Америки"
+  
+ # NEE-ACC War Time Faction 
+ faction_joint_pacific_atlantic_command: "Объединенное Тихоокеанско-Атлантическое командование"
+  
+ # Manifests 
+ faction_manifest_reinforce_the_monroe_doctrine_name: "Укрепите доктрину Монро"
+ faction_manifest_reinforce_the_monroe_doctrine_desc: "Как давние защитники Америки, мы должны восстановить наше влияние на континенте. При этом все иностранное влияние и социалистическая угроза должны быть устранены."
+  
+ faction_manifest_torchbearer_of_american_socialism_name: "Факелоносец американского социализма"
+ faction_manifest_torchbearer_of_american_socialism_desc: "С разрушением капиталистической системы в Америке пришло время нести факел, который мы зажгли, и распространить его от Аляски до Патагонии. Только тогда можно будет ввести в действие новый порядок."
+  
+ faction_manifest_secure_america_name: "Безопасная Америка"
+ faction_manifest_secure_america_desc: "Сотрудничество между Западным и Восточным побережьями является необходимым решением для обеспечения победы во Второй гражданской войне в США. Американская демократия должна быть восстановлена ​​любой ценой!"

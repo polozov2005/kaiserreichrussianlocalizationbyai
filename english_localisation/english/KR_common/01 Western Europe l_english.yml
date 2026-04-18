@@ -1,0 +1,36 @@
+﻿l_english:
+
+ BRI: "Brittany"
+ BRI_ADJ: "Breton"
+ BRI_DEF: "Brittany"
+
+ BRI_totalist: "Commune of Brittany"
+ BRI_totalist_DEF: "the Commune of Brittany"
+ BRI_syndicalist: "Commune of Brittany"
+ BRI_syndicalist_DEF: "the Commune of Brittany"
+ BRI_radical_socialist: "Commune of Brittany"
+ BRI_radical_socialist_DEF: "the Commune of Brittany"
+
+ LIL: "Walloon Flanders"
+ LIL_ADJ: "Lillois"
+ LIL_DEF: "the Protectorate of Walloon Flanders"
+
+ LIL_authoritarian_democrat_party: "Verwaltungskommission"
+ LIL_authoritarian_democrat_party_long: "Verwaltungskommission Wallonisch-Flandern (Administrative Commission of Walloon Flanders)"
+
+ LIL_social_democrat_party: "$LIL_authoritarian_democrat_party$"
+ LIL_social_democrat_party_long: "$LIL_authoritarian_democrat_party_long$"
+ LIL_social_liberal_party: "$LIL_authoritarian_democrat_party$"
+ LIL_social_liberal_party_long: "$LIL_authoritarian_democrat_party_long$"
+ LIL_market_liberal_party: "$LIL_authoritarian_democrat_party$"
+ LIL_market_liberal_party_long: "$LIL_authoritarian_democrat_party_long$"
+ LIL_social_conservative_party: "$LIL_authoritarian_democrat_party$"
+ LIL_social_conservative_party_long: "$LIL_authoritarian_democrat_party_long$"
+ LIL_paternal_autocrat_party: "$LIL_authoritarian_democrat_party$"
+ LIL_paternal_autocrat_party_long: "$LIL_authoritarian_democrat_party_long$"
+ LIL_national_populist_party: "$LIL_authoritarian_democrat_party$"
+ LIL_national_populist_party_long: "$LIL_authoritarian_democrat_party_long$"
+
+ GLC: "Galicia"
+ GLC_ADJ: "Galician"
+ GLC_DEF: "Galicia"

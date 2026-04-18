@@ -1,0 +1,92 @@
+﻿l_russian:
+
+ st_state_name:0 "§H[This.GetName]§!"
+
+ mark_status_marked:0 "Убрать"
+ mark_status_unmarked:0 "Отметить"
+
+ mark_tooltip_loc:0 "[THIS.mark_tooltip]"
+ mark_tooltip_desc:0 "[!mark_state_click]"
+
+ ST_STATE_MARK_FOR_TRANSFER:0 "§HОтметить регион§!"
+ ST_STATE_UNMARK_FOR_TRANSFER:0 "§HУбрать регион§!"
+
+ STT_set_mark:0 "Будет §Hотмечено§! для передачи или национализации."
+ STT_clear_mark:0 "Больше не будет §Hотмечено§! для передачи или национализации."
+
+ MARK_ALL_STATES:0 "§HОтметить все [This.owner.GetAdjective]ие регионы§!"
+ MARK_ALL_STATES_DELAYED:0 "[!mark_all_states_click]"
+
+ MARK_COLONIES:0 "§HОтметить отделённые [This.owner.GetAdjective]ие регионы§!\n\nБудут отмечены все [This.owner.GetAdjective]ие регионы, которые не соединены со столицей."
+ MARK_COLONIES_DELAYED:0 "[!mark_colonial_states_click]"
+
+ MARK_NONCORE:0 "§HОтметить [This.owner.GetAdjective]ие ненациональные регионы§!\n\nБудут отмечены все [This.owner.GetAdjective]ие регионы, которые не являются [This.owner.GetAdjective]ими национальными территориями."
+ MARK_NONCORE_DELAYED:0 "[!mark_noncore_states_click]"
+
+ CLEAR_ALL_MARKINGS:0 "§HУбрать все выделенные регионы§!"
+ CLEAR_ALL_MARKINGS_DELAYED:0 "[!clear_all_markings_click]"
+
+ AWARD_STATES:0 "§HПередать регионы§!\n\nВсе выделенные регионы будут переданы государству §Y[This.owner.GetNameDef]§!."
+ AWARD_STATES_DELAYED:0 "[!award_states_click]"
+
+ add_core_loc:0 "[This.GetAddCoreRuleDesc]"
+ ADD_CORE_STATES:0 "§HДобавить [This.owner.GetAdjective]ие национальные территории§!\n\nБудут добавлены [This.owner.GetAdjective]ие национальные территории к выделенным регионам, которые ещё не [This.owner.GetAdjective]ие."
+ ADD_CORE_STATES_MP:0 "§HДобавить [This.owner.GetAdjective]ие национальные территории§!\n\n§RОтключено в мультиплеере!§!"
+ ADD_CORE_STATES_DELAYED:0 "[!add_cores_click]"
+
+ remove_core_loc:0 "[This.GetRemoveCoreRuleDesc]"
+ REMOVE_CORE_STATES:0 "§HУбрать [This.owner.GetAdjective]ие национальные территории§!\n\nБудут убраны [This.owner.GetAdjective]ие национальные территории из выделенных регионов, которые уже [This.owner.GetAdjective]ие."
+ REMOVE_CORE_STATES_MP:0 "§HУбрать [This.owner.GetAdjective]ие национальные территории§!\n\n§RОтключено в мультиплеере!§!"
+ REMOVE_CORE_STATES_DELAYED:0 "[!remove_cores_click]"
+
+ add_claim_loc:0 "[This.GetAddClaimRuleDesc]"
+ ADD_CLAIM_STATES:0 "§HДобавить [This.owner.GetAdjective]ие претензии§!\n\nБудут добавлены [This.owner.GetAdjective]ие претензии к выделенным регионам, которые ещё не [This.owner.GetAdjective]ие национальные территории или претензии."
+ ADD_CLAIM_STATES_MP:0 "§HДобавить [This.owner.GetAdjective]ие претензии§!\n\n§RОтключено в мультиплеере!§!"
+ ADD_CLAIM_STATES_DELAYED:0 "[!add_claims_click]"
+
+ remove_claim_loc:0 "[This.GetRemoveClaimRuleDesc]"
+ REMOVE_CLAIM_STATES:0 "§HУбрать [This.owner.GetAdjective]ие претензии§!\n\nБудут убраны [This.owner.GetAdjective]ие претензии из выделенных регионов, которые уже [This.owner.GetAdjective]ие."
+ REMOVE_CLAIM_STATES_MP:0 "§HУбрать [This.owner.GetAdjective]ие претензии§!\n\n§RОтключено в мультиплеере!§!"
+ REMOVE_CLAIM_STATES_DELAYED:0 "[!remove_claims_click]"
+
+ mark_country_tooltip_loc:0 "[THIS.mark_country_tooltip]"
+
+ COUNTRY_MARKING:0 "§HОтметить страну§!"
+ CLEAR_COUNTRY_MARKING:0 "§HУбрать отмеченную страну§!"
+ mark_country_tooltip_desc:0 "[!mark_country_click]"
+
+ STT_set_country_mark:0 "§H[This.owner.GetNameWithFlag]§! будет §Hотмечена§! для подчинения, присоединения/выхода из альянса и войны/мира."
+ STT_clear_country_mark:0 "§H[marked_country.GetNameWithFlag]§! больше не будет §Hотмечена§! ля подчинения, присоединения/выхода из альянса и войны/мира."
+
+ ADD_PUPPET_LOC:0 "[THIS.add_puppet_tooltip]"
+ ADD_PUPPET_LOC_TT:0 "§HПодчинить§!\n\nПревратит §H[marked_country.GetNameWithFlag]§! в субъект §H[This.owner.GetNameWithFlag]§!."
+ ADD_PUPPET_DEFAULT:0 "§HПодчинить§!"
+ ADD_PUPPET_LOC_DELAYED:0 "[!add_puppet_click]"
+
+ REMOVE_PUPPET_LOC:0 "[THIS.remove_puppet_tooltip]"
+ REMOVE_PUPPET_LOC_TT:0 "§HОсвободить§!\n\nБудет убран марионеточный режим из §H[marked_country.GetNameWithFlag]§!."
+ REMOVE_PUPPET_DEFAULT:0 "§HОсвободить§!"
+ REMOVE_PUPPET_LOC_DELAYED:0 "[!remove_puppet_click]"
+
+ ADD_FACTION_LOC:0 "[THIS.add_faction_tooltip]"
+ ADD_FACTION_LOC_TT:0 "§HПрисоединиться к [This.owner.GetFactionName]§!\n\n§H[marked_country.GetNameWithFlag]§! присоединится к альянсу страны §H[This.owner.GetNameWithFlag]§!, [This.owner.GetFactionName]."
+ ADD_FACTION_LEADER_LOC_TT:0 "§HСделать лидером альянса§!\n\n§H[marked_country.GetNameWithFlag]§! станет новым лидером альянса [marked_country.GetFactionName]."
+ ADD_FACTION_DEFAULT:0 "§HПрисоединить к альянсу§!"
+ ADD_FACTION_LOC_DELAYED:0 "[!add_faction_click]"
+
+ REMOVE_FACTION_LOC:0 "[THIS.remove_faction_tooltip]"
+ REMOVE_FACTION_LOC_TT:0 "§HПокинуть альянс [marked_country.GetFactionName]§!\n\n§H[marked_country.GetNameWithFlag]§! выйдет из альянса [marked_country.GetFactionName]."
+ REMOVE_FACTION_DEFAULT:0 "§HУбрать из альянса§!"
+ REMOVE_FACTION_LOC_DELAYED:0 "[!remove_faction_click]"
+
+ ADD_PEACE_LOC:0 "[THIS.add_peace_tooltip]"
+ ADD_PEACE_LOC_TT:0 "§HЗаключить мир с государством [This.owner.GetNameDef]§!\n\n§H[marked_country.GetNameWithFlag]§!, включая всех союзников, закончит войну с §H[This.owner.GetNameWithFlag]§! и её союзниками."
+ ADD_PEACE_ALL_WARS_LOC_TT:0 "§HВыйти из всех войн§!\n\n§H[marked_country.GetNameWithFlag]§! подпишет белый мир во всех войнах, в которых участвует."
+ ADD_PEACE_DEFAULT:0 "§HЗаключить мир§!"
+ ADD_PEACE_LOC_DELAYED:0 "[!add_peace_click]"
+
+ ADD_WAR_LOC:0 "[THIS.add_war_tooltip]"
+ ADD_WAR_LOC_TT:0 "§HОбъявить войну государству [This.owner.GetNameDef]§!\n\n§H[marked_country.GetNameWithFlag]§! объявит войну §H[This.owner.GetNameWithFlag]§!."
+ ADD_WAR_DEFAULT:0 "§HОбъявить войну§!"
+ ADD_WAR_LOC_DELAYED:0 "[!add_peace_click]"
+

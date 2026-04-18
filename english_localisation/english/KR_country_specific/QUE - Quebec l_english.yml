@@ -1,0 +1,60 @@
+﻿l_english:
+
+### Country Names ###
+ QUE: "Québec"
+ QUE_ADJ: "Québecois"
+ QUE_DEF: "Québec"
+
+### Parties ###
+
+ QUE_totalist_party: "JQ"
+ QUE_totalist_party_long: "Jeune-Québec (Young Québec)"
+
+ QUE_syndicalist_party: "POR"
+ QUE_syndicalist_party_long: "Parti Ouvrier Révolutionaire du Québec (Revolutionary Labour Party of Québec)"
+
+ QUE_radical_socialist_party: "POR"
+ QUE_radical_socialist_party_long: "Parti Ouvrier Révolutionaire du Québec (Revolutionary Labour Party of Québec)"
+
+ QUE_social_democrat_party: "PO"
+ QUE_social_democrat_party_long: "Parti Ouvrier du Québec (Labour Party of Québec)"
+
+ QUE_social_liberal_party: "ALN"
+ QUE_social_liberal_party_long: "Action Libérale Nationale (National Liberal Action)"
+
+ QUE_market_liberal_party: "PLQ"
+ QUE_market_liberal_party_long: "Parti Libéral du Québec (Québec Liberal Party)"
+
+ QUE_social_conservative_party: "PCQ"
+ QUE_social_conservative_party_long: "Parti Conservateur du Québec (Conservative Party of Québec)"
+
+ QUE_authoritarian_democrat_party: "UN"
+ QUE_authoritarian_democrat_party_long: "Union Nationale (National Union)"
+
+ QUE_paternal_autocrat_party: "PUN"
+ QUE_paternal_autocrat_party_long: "Parti de l'Unité Nationale (National Unity Party)"
+
+ QUE_national_populist_party: "UE"
+ QUE_national_populist_party_long: "Union des Électeurs (Union of Electors)"
+
+### Characters ###
+ QUE_andre_laurendeau: "André Laurendeau"
+ QUE_andre_laurendeau_leader_desc: "§YBorn:§! §LMarch 21st, 1912, in Montréal, Québec, Dominion of Canada§!"
+ QUE_lea_roback: "Léa Roback"
+ QUE_lea_roback_leader_desc: "§YBorn:§! §LNovember 3rd, 1903, in Montréal, Québec, Dominion of Canada§!"
+ QUE_fred_rose: "Fred Rose"
+ QUE_fred_rose_leader_desc: "§YBorn:§! §LDecember 7th, 1907, in Lublin, Lublin Governorate, Kingdom of Poland, Russian Empire§!"
+ QUE_pierre_bertrand: "Pierre Bertrand"
+ QUE_pierre_bertrand_leader_desc: "§YBorn:§! §LDecember 24th, 1875, in Québec City, Québec, Dominion of Canada§!"
+ QUE_paul_gouin: "Paul Gouin"
+ QUE_paul_gouin_leader_desc: "§YBorn:§! §LMay 20th, 1898, in Montréal, Québec, Dominion of Canada§!"
+ QUE_adelard_godbout: "Adélard Godbout"
+ QUE_adelard_godbout_leader_desc: "§YBorn:§! §LSeptember 24th, 1892, in Saint-Éloi, Québec, Dominion of Canada§!"
+ QUE_camillien_houde: "Camillien Houde"
+ QUE_camillien_houde_leader_desc: "§YBorn:§! §LAugust 13th, 1889, in Montréal, Québec, Dominion of Canada§!"
+ QUE_maurice_duplessis: "Maurice Duplessis"
+ QUE_maurice_duplessis_leader_desc: "§YBorn:§! §LApril 20th, 1890, in Trois-Rivières, Québec, Dominion of Canada§!"
+ QUE_adrien_arcand: "Adrien Arcand"
+ QUE_adrien_arcand_leader_desc: "§YBorn:§! §LOctober 3rd, 1899, in Montréal, Québec, Dominion of Canada§!"
+ QUE_louis_even: "Louis Even"
+ QUE_louis_even_leader_desc: "§YBorn:§! §LMarch 23rd, 1885, in Montfort-sur-Meu, Ille-et-Vilaine, French Republic§!"

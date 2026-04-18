@@ -1,0 +1,18 @@
+﻿l_russian:
+
+### Country Names ###
+ TRU: "Договорной Оман"
+ TRU_ADJ: "Оманск"
+ TRU_DEF: "Договорной Оман"
+
+ TRU_totalist: "Социалистическая Федерация Залива"
+ TRU_totalist_DEF: "Социалистическая Федерация Залива"
+ TRU_syndicalist: "Объединённые Синдикаты Аравии"
+ TRU_syndicalist_DEF: "Объединённые Синдикаты Аравии"
+ TRU_radical_socialist: "Социалистическая Федерация Залива"
+ TRU_radical_socialist_DEF: "the Socialist Federation of the Gulf"
+
+### Characters ###
+ TRU_hamad_bin_isa_al_khalifa: "Хамад ибн Иса Аль-Халифа"
+ TRU_shakhbut_bin_sultan_al_nahyan: "Шахбут ибн Султан Аль Нахайян"
+ TRU_zayed_bin_sultan_al_nahyan: "Заид ибн Султан Аль Нахайян"

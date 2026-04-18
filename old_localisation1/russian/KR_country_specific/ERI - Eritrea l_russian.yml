@@ -1,0 +1,25 @@
+﻿l_russian:
+
+### Country Names ###
+ ERI: "Эритрея"
+ ERI_ADJ: "Эритрейск"
+ ERI_DEF: "Эритрея"
+
+ ERI_totalist: "Эритрейская Социалистическая Республика"
+ ERI_totalist_ADJ: "Эритрейск"
+ ERI_totalist_DEF: "Эритрейская Социалистическая Республика"
+ ERI_syndicalist: "Эритрейская Социалистическая Республика"
+ ERI_syndicalist_ADJ: "Эритрейск"
+ ERI_syndicalist_DEF: "Эритрейская Социалистическая Республика"
+ ERI_radical_socialist: "Эритрейская Социалистическая Республика"
+ ERI_radical_socialist_ADJ: "Эритрейск"
+ ERI_radical_socialist_DEF: "Эритрейская Социалистическая Республика"
+
+### Characters ###
+ ERI_woldeab_woldemariam: "Волдеаб Волдемариам"
+ ERI_blatta_mohammed_omer_qadi: "Блатта Мохаммед Омер Кади"
+ ERI_ibrahim_sultan_ali: "Ибрагим Султан Али"
+ ERI_ras_tessema_asberom: "Рас Тессема Асбером"
+ ERI_abdulkadir_kebire: "Абдулкадир Кебире"
+ ERI_ibrahim_mukhtar: "Ибрагим Мухтар"
+ ERI_ibrahim_farag_mohammed: "Ибрагим Фараг Мохаммед"

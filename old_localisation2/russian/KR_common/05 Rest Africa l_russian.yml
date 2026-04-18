@@ -1,0 +1,325 @@
+﻿l_russian:
+  
+ ### ADA: Adamawa 
+ ADA: "Адамава"
+ ADA_ADJ: "Амадавск"
+ ADA_DEF: "Адамава"
+  
+ ADA_totalist: "Коммуна Адамава"
+ ADA_totalist_DEF: "Коммуна Адамава"
+ ADA_syndicalist: "Коммуна Адамава"
+ ADA_syndicalist_DEF: "Коммуна Адамава"
+ ADA_radical_socialist: "Коммуна Адамава"
+ ADA_radical_socialist_DEF: "Коммуна Адамава"
+ ADA_authoritarian_democrat: "Клика Амадава"
+ ADA_authoritarian_democrat_ADJ: "Амадавск"
+ ADA_authoritarian_democrat_DEF: "Клика Амадава"
+ ADA_paternal_autocrat: "Эмират Амадава"
+ ADA_paternal_autocrat_DEF: "Эмират Амадава"
+ ADA_national_populist: "Клика Амадава"
+ ADA_national_populist_DEF: "Клика Амадава"
+  
+ ### ANG: Angola 
+ ANG: "Ангола"
+ ANG_ADJ: "Ангольск"
+ ANG_DEF: "Ангола"
+  
+  ### Characters ### 
+ ANG_inocencio_matoso_andrade_da_camara_pires: "Иносенсио Матосо Андраде да Камара Пирес" #NT!
+ ANG_inocencio_matoso_andrade_da_camara_pires_leader_desc: "§YBorn:§! §L4 марта 1898 года, Луанда, Португальская Ангола§!" #NT!
+ ANG_monsenhor_alves_da_cunha: "Монсеньор Алвеш да Кунья"
+ ANG_monsenhor_alves_da_cunha_leader_desc: "§YBorn:§! §L21 сентября 1882 года, Кодососо, Минью, Королевство Португалия§!" #NT!
+  
+ ### BOT: Bechuanaland 
+ BOT: "Ботсвана"
+ BOT_ADJ: "Ботсванск"
+ BOT_DEF: "Ботсвана"
+  
+  ### Characters ### 
+ BOT_seretse_khama: "Серетсе Кхама"
+ BOT_seretse_khama_leader_desc: "§YBorn:§! §Lв Серове, протекторат Бечуаналенд§!" #NT!
+  
+ ### BRD: Urundi 
+ BRD: "Урунди"
+ BRD_ADJ: "Урундийск"
+ BRD_DEF: "Урунди"
+  
+  ### Characters ### 
+ BRD_Mwambutsa_IV: "Мвамбутса IV"
+ BRD_Mwambutsa_IV_leader_desc: "§YBorn:§! §L6 мая 1912 года, Ньябийоги, Бурунди, Германская Восточная Африка§!" #NT!
+  
+ ### BRT: Barotseland 
+ BRT: "Баротселенд"
+ BRT_ADJ: "Баротсийск"
+ BRT_DEF: "Баротселенд"
+  
+ BRT_totalist: "Коммуна Баротселенд"
+ BRT_totalist_DEF: "Коммуна Баротселенд"
+ BRT_syndicalist: "Коммуна Баротселенд"
+ BRT_syndicalist_DEF: "Коммуна Баротселенд"
+ BRT_radical_socialist: "Коммуна Баротселенд"
+ BRT_radical_socialist_DEF: "Коммуна Баротселенд"
+  
+  ### Characters ### 
+ BRT_Yeta_III: "Йета III"
+ BRT_Yeta_III_leader_desc: "§YBorn:§! §Lв Королевстве Баротселэнд§!" #NT!
+  
+ ### CMR: Cameroon 
+ CMR: "Камерун"
+ CMR_ADJ: "Камерунск"
+ CMR_DEF: "Камерун"
+  
+  ### Characters ### 
+ CMR_Alexander_Duala_Bell: "Александр Дуала Белл"
+ CMR_alexander_duala_bell_leader_desc: "§YBorn:§! §L3 декабря 1897 года, в Дуале, протекторат Камерун§!" #NT!
+ CMR_Karl_Atangana: "Карл Атангана"
+ CMR_karl_atangana_leader_desc: "§YBorn:§! §L1880, в Мволье, Территория Эвондо§!" #NT!
+ CMR_Joseph_Bile: "Джозеф Экве Биле"
+ CMR_joseph_bile_leader_desc: "§YBorn:§! §L13 декабря 1892 года, в Дуале, протекторат Камерун§!" #NT!
+  
+ ### KIV: Kivu 
+ KIV: "Киву"
+ KIV_ADJ: "Кивийск"
+ KIV_DEF: "Киву"
+  
+ KIV_collapse: "Режим Киву"
+ KIV_collapse_DEF: "Режим Киву"
+  
+ ### KEN: Kenya 
+ KEN: "Кения"
+ KEN_ADJ: "Кенийск"
+ KEN_DEF: "Кения"
+  
+ KEN_KIK: "Кикуюленд"
+ KEN_KIK_ADJ: "Кикуюск"
+ KEN_KIK_DEF: "Кикуюленд"
+  
+  ### Characters ### 
+ KEN_Stanley_Mathenge: "Станли Матенге"
+ KEN_stanley_mathenge_leader_desc: "§YBorn:§! §L1919, в Махиге, Кения, Германская Центральная Африка§!" #NT!
+ KEN_Thomas_Cholmondeley: "Томас Деламер"
+ KEN_thomas_cholmondeley_leader_desc: "§YBorn:§! §L19 августа 1900 года, Витингтон, Ланкашир, Англия§!" #NT!
+ KEN_Philip_Euen_Mitchell: "Филипп Юэн Митчелл"
+ KEN_philip_euen_mitchell_leader_desc: "§YBorn:§! §L1 мая 1890 года, Лондон, Англия§!" #NT!
+ KEN_Jomo_Kenyatta: "Джомо Кеньятта"
+ KEN_jomo_kenyatta_leader_desc: "§YBorn:§! §L1897, в Нгенде, протекторат Восточной Африки§!" #NT!
+ KEN_Harry_Thuku: "Гарри Туку"
+ KEN_harry_thuku_leader_desc: "§YBorn:§! §L1895, в Киамбу, протекторат Восточной Африки§!" #NT!
+ KEN_Ewart_Grogan: "Эварт Скотт Гроган"
+ KEN_ewart_grogan_leader_desc: "§YBorn:§! §L12 декабря 1874 года, Лондон, Англия§!" #NT!
+  
+ ### MAD: Madagascar 
+ MAD: "Мадагаскар"
+ MAD_ADJ: "Мадагаскарск"
+ MAD_DEF: "Мадагаскар"
+  
+ MAD_kingdom: "Королевство Имерина"
+ MAD_kingdom_ADJ: "Малагасийск"
+ MAD_kingdom_DEF: "Королевство Имерина"
+  
+  ### Characters ### 
+ MAD_marie_louise_razinkeriefo: "Мари-Луиза Разафинкериефо"
+ MAD_marie_louise_razinkeriefo_regnal: "Мари-Луиза I"
+ MAD_marie_louise_razinkeriefo_leader_desc: "§YBorn:§! §L1 мая 1897 года, Сен-Дени, колония Реюньон§!" #NT!
+  
+ ### MZB: Mozambique 
+ MZB: "Мозамбик"
+ MZB_ADJ: "Мозамбикск"
+ MZB_DEF: "Мозамбик"
+  
+  ### Parties ### 
+ MZB_totalist_party: "КНАдМ" #NT!
+ MZB_totalist_party_long: "Congresso Nacional Africano de Moçambique (Африканский национальный конгресс Мозамбика)" #NT!
+  
+ MZB_syndicalist_party: "КНАдМ" #NT!
+ MZB_syndicalist_party_long: "Congresso Nacional Africano de Moçambique (Африканский национальный конгресс Мозамбика)" #NT!
+  
+ MZB_radical_socialist_party: "КНАдМ" #NT!
+ MZB_radical_socialist_party_long: "Congresso Nacional Africano de Moçambique (Африканский национальный конгресс Мозамбика)" #NT!
+  
+  ### Characters ### 
+ MZB_joao_tomas_chembene: "Жоау Томас Чембене" #NT!
+ MZB_joao_tomas_chembene_leader_desc: "§YBorn:§! §Lв Португальской Восточной Африке§!" #NT!
+ MZB_jose_augusto_da_costa_almeida: "Жозе Аугусто Да Коста Алмейда"
+ MZB_jose_augusto_da_costa_almeida_leader_desc: "§YBorn:§! §L14 июня 1912 года, провинция Мозамбик, Португальская Восточная Африка§!" #NT!
+  
+ ### RWA: Ruanda 
+ RWA: "Руанда"
+ RWA_ADJ: "Руандийск"
+ RWA_DEF: "Руанда"
+  
+  ### Characters ### 
+ RWA_Yuhi_V: "Юхи V"
+ RWA_yuhi_v_leader_desc: "§YBorn:§! §L1883, в Королевстве Руанда§!" #NT!
+  
+ ### TKE: Tshuapa Clique 
+ TKE: "Клика Чуапа"
+ TKE_ADJ: "Чуапаск"
+ TKE_DEF: "Клика Чуапа"
+  
+  ### Characters ### 
+ TKE_Justin_Kokolo: "Джастин Коколо"
+ TKE_justin_kokolo_leader_desc: "§YBorn:§! §L1913, Майомбе, Бельгийское Конго§!" #NT!
+  
+ ### TZN: Azania 
+ TZN: "Азания"
+ TZN_ADJ: "Азанийск"
+ TZN_DEF: "Азания"
+  
+ TZN_fed: "Восточная Африка"
+ TZN_fed_ADJ: "Восточноaфриканск"
+ TZN_fed_DEF: "Восточно-Африканская Федерация"
+  
+ TZN_GER: "Остафрика"
+ TZN_GER_ADJ: "Остафриканск"
+ TZN_GER_DEF: "Остафрика"
+  
+  ### Characters ### 
+ TZN_Muhamed_Husan: "Мухамед Хусан"
+ TZN_muhamed_husan_leader_desc: "§YBorn:§! §L22 февраля 1904 года, Дар-эс-Салам, Германская Восточная Африка§!" #NT!
+  
+ ### UGA: Uganda 
+ UGA: "Уганда"
+ UGA_ADJ: "Угандск"
+ UGA_DEF: "Уганда"
+  
+  ### Characters ### 
+ UGA_Mutesa_II: "Мутеса II"
+ UGA_mutesa_ii_leader_desc: "§YBorn:§! §L19 ноября 1924 года, Кампала, Уганда, Германская Центральная Африка§!" #NT!
+ UGA_Ignatius_K_Musaazi: "Игнатиус К. Мусаази"
+ UGA_ignatius_k_musaazi_leader_desc: "§YBorn:§! §L1905, Тимуна, протекторат Уганды§!" #NT!
+ UGA_Andrew_Cohen: "Эндрю Коэн"
+ UGA_andrew_cohen_leader_desc: "§YBorn:§! §L7 октября 1909 года, Беркхамстед, Хартфордшир, Англия§!" #NT!
+  
+ ### ZAM: Zambesia 
+ ZAM: "Замбезия"
+ ZAM_ADJ: "Замбезийск"
+ ZAM_DEF: "Замбезия"
+  
+ ZAM_bemba: "Бембаланд"
+ ZAM_bemba_ADJ: "Бембайск"
+ ZAM_bemba_DEF: "Бембаланд"
+  
+  ### Characters ### 
+ ZAM_Kanyanta: "Макумба Каньянта"
+ ZAM_kanyanta_leader_desc: "§YBorn:§! §Lв Мтвакази§!" #NT!
+ ZAM_Ronald_Storrs: "Рональд Сторрз"
+ ZAM_ronald_storrs_leader_desc: "§YBorn:§! §L19 ноября 1881 года, Бери-Сент-Эдмундс, Саффолк, Англия§!" #NT!
+  
+ ### ZAN: Zanzibar 
+ ZAN: "Занзибар"
+ ZAN_ADJ: "Занзибарск"
+ ZAN_DEF: "Занзибар"
+  
+  ### Characters ### 
+ ZAN_Khalifa_II_bin_Harub_Al_Said: "Халифа II ибн Харуб Аль-Саид"
+ ZAN_khalifa_ii_bin_harub_al_said_leader_desc: "§YBorn:§! §L26 августа 1879 года, Занзибар, Султанат Занзибар§!" #NT!
+  
+ ### Focus Tree ### 
+ african_minors_focus: "Африканское минорное фокусное дерево"
+  
+ AFR_Independence_Conflict: "Защита нашего суверенитета"
+ AFR_Independence_Conflict_desc: "Распад Миттельафрики дал [ROOT.GetNameDef] возможность заявить о себе как о суверенном государстве, давайте не будем тратить это впустую.\n\nСоюз, работа, справедливость!"
+  
+ AFR_the_German_Remnants: "[AFR_FormerOverlord_ADJ]ие остатки"
+ AFR_the_German_Remnants_desc: "Поспешный конец колониального правления оставил после себя множество солдат. Однако он также оставил после себя приличное количество военного имущества, хранящегося на складах в ключевых точках нашей страны."
+  
+ AFR_Analyse_their_Equipment: "Проанализируйте их снаряжение"
+ AFR_Analyse_their_Equipment_desc: "При [AFR_FormerOverlord_ADJ]ой администрации, наших людей не обучали использованию современного оборудования, которое наши колониальные хозяева применяли для удержания [ROOT.GetAdjective]ой нации в подчинении. Хотя большая часть этого оборудования попала в наши руки, мы должны научиться им пользоваться, прежде чем применять его на поле боя."
+  
+ AFR_Petition_French_Republic: "Петиция во Французскую Республику"
+ AFR_Petition_French_Republic_desc: "[ROOT.GetNameDefCap] нужно оружие, и это кажется наиболее очевидным местом, куда можно обратиться."
+  
+ AFR_Petition_French_Commune: "Петиция во Французскую Коммуну"
+ AFR_Petition_French_Commune_desc: "Коммуна может с пониманием отнестись к нашим нуждам."
+  
+ AFR_Open_Recruitment_Program: "Программа открытого набора"
+ AFR_Open_Recruitment_Program_desc: "Прямо сейчас [ROOT.GetNameDef] нуждается в любой помощи на передовой, которую он может получить!"
+  
+ AFR_independence_push: "Толчок к независимости"
+ AFR_independence_push_desc: "[ROOT.GetNameDefCap] впервые почувствовал вкус свободы и не собирается так просто отказываться от возможности быть независимым!"
+  
+ AFR_modern_african_army: "Современная африканская армия"
+ AFR_modern_african_army_desc: "Наши солдаты поняли, что стоит на кону, мы собрали все разрозненное снаряжение, которое смогли найти, и научились использовать новое оружие и тактику. Хотя многое еще предстоит сделать, мы на пути к созданию единой и мощной армии, готовой противостоять любому военачальнику, которого мы встретим!"
+  
+ AFR_a_Homegrown_Industry: "Отечественная промышленность"
+ AFR_a_Homegrown_Industry_desc: "Отсутствие значительного промышленного производства приведет к тому, что наша нация потерпит поражение в борьбе с другими, более развитыми в экономическом отношении странами. Мы не должны допустить этого; необходимо начать и быстро продвигать индустриализацию."
+ AFR_a_Homegrown_Industry_2: "Развитие инфраструктуры"
+ AFR_a_Homegrown_Industry_2_desc: "При наших [AFR_FormerOverlord_ADJ]их владыках, инфраструктурой пренебрегали. По мере продвижения индустриализации мы должны инвестировать в основные объекты, такие как здания и дороги, не только для создания процветания для наших граждан, но и для поддержки наших солдат на фронте."
+ AFR_a_Homegrown_Industry_3: "Промышленное оборудование"
+ AFR_a_Homegrown_Industry_3_desc: "Развитие нашего сельского хозяйства и промышленности, значительно продвинуло нашу страну. Хотя нам еще многое предстоит сделать, мы сделали первые шаги к функционирующей, современной экономике."
+ AFR_a_Homegrown_Industry_4: "Зарождающаяся база тяжелой промышленности"
+ AFR_a_Homegrown_Industry_4_desc: "Инвестиции в тяжелую промышленность будут дорогостоящими, но они того стоят, внося значительный вклад в наше экономическое развитие и индустриализацию. Таким образом, мы сможем производить военное оборудование более высокими темпами."
+ AFR_a_Homegrown_Industry_5: "[ROOT.GetAdjective]ое оружие"
+ AFR_a_Homegrown_Industry_5_desc: "После краха [AFR_FormerOverlord_ADJ]ой администрации, в [ROOT.GetNameDef] осталось большое количество военной техники. Однако, если мы хотим сосредоточиться на долгосрочном процветании и безопасности [ROOT.GetNameDef], было бы разумно инвестировать в заводы по производству вооружений, чтобы не зависеть от иностранного снаряжения."
+  
+ AFR_international_waters: "Международные воды"
+ AFR_international_waters_desc: "Обеспечение доступа к морю имеет огромное значение, особенно во время кризиса, подобного этому. Имея доступ к морю, мы сможем получать сырье и помощь, в которых мы отчаянно нуждаемся."
+ AFR_join_international_community: "Присоединиться к международному сообществу"
+ AFR_join_international_community_desc: "Позиция нашего правительства укрепилась, мы объявили себя свободным и суверенным государством и готовы присоединиться к международному сообществу. В первую очередь мы должны обратить внимание на страны, которые готовы предложить нам поддержку; неважно, заинтересованы ли они в поддержке нашей независимости или просто ищут новые возможности, мы не можем выбирать, учитывая наше шаткое положение."
+  
+ AFR_materiel_from_benefactor: "Материальные средства из [?AFR_benefactor_tag.GetNameDef]"
+ AFR_materiel_from_benefactor_desc: "Не все необходимые нам боеприпасы могут быть произведены внутри страны, и мы не можем отыскать все, что лежит где-то на земле. Обращение к нашему благодетелю с петицией о предоставлении оружия очень поможет нам."
+  
+ AFR_military_advisors_from_benefactor: "[?AFR_benefactor_tag.GetAdjective]ий надзор"
+ AFR_military_advisors_from_benefactor_desc: "Наши офицеры могут смело и решительно бороться за нашу независимость, но прискорбная реальность такова, что они неопытны. С [?AFR_benefactor_tag.GetNameDef], курирующим наши военные дела, мы сможем создать современную армию и изучить новую тактику."
+  
+ AFR_economic_aid_from_benefactor: "Экономическая помощь от [?AFR_benefactor_tag.GetNameDef]"
+ AFR_economic_aid_from_benefactor_desc: "Благодаря внедрению иностранных товаров и услуг из [?AFR_benefactor_tag.GetNameDef], мы сможем развивать нашу экономику гораздо эффективнее."
+  
+ AFR_investments_from_benefactor: "[?AFR_benefactor_tag.GetAdjective]ое чудо"
+ AFR_investments_from_benefactor_desc: "Независимо от намерений наших благодетелей, помогающих нашему развитию, никто не может утверждать, что их помощь позволила [ROOT.GetNameDef] процветать. Мы находимся на пути к экономическому чуду."
+  
+ AFR_join_iedc: "Присоединиться к ИСЭР"
+ AFR_join_iedc_desc: "Без наших [?AFR_benefactor_tag.GetAdjective] друзей, наша страна, скорее всего, не достигла бы такого процветания. Из-за отсутствия промышленного потенциала мы вряд ли сможем в ближайшее время вернуть им долги. Однако мы можем отплатить им, оформив наше вступление в их экономический блок, Имперский Совет Экономического Развития."
+  
+ AFR_join_cairo_pact: "Присоединиться к Каирскому Пакту"
+ AFR_join_cairo_pact_desc: "Египетские инвестиции, как экономические, так и военные, оказались жизненно важными для выживания нашей нации. Мы должны отплатить им за доброту, присоединившись к их фракции, Каирскому Пакту."
+  
+ AFR_join_phalanstere: "Присоединиться к Фаланстеру"
+ AFR_join_phalanstere_desc: "Без наших [?AFR_benefactor_tag.GetAdjective] друзей, наша нация, скорее всего, не достигла бы такого процветания. Из-за отсутствия промышленного потенциала мы вряд ли сможем вернуть им долги в ближайшее время. Однако мы можем отплатить им, оформив наше вступление в их экономический блок, Фаланстер."
+  
+ AFR_join_mitteleuropa: "Присоединиться к Миттельевропе"
+ AFR_join_mitteleuropa_desc: "Без наших [?AFR_benefactor_tag.GetAdjective] друзей, наша страна, скорее всего, не достигла бы такого процветания. Из-за отсутствия промышленного потенциала мы вряд ли сможем в ближайшее время вернуть им долги. Однако мы можем отплатить им, оформив наше вступление в их экономический блок, Миттельевропе."
+  
+ ### Ideas ### 
+ AFR_military_advisors_from_BEL: "[BEL.GetAdjective]ие военные советники"
+ AFR_military_advisors_from_CAN: "[CAN.GetAdjective]ие военные советники"
+ AFR_military_advisors_from_EGY: "[EGY.GetAdjective]ие военные советники"
+ AFR_military_advisors_from_ENG: "[ENG.GetAdjective]ие военные советники"
+ AFR_military_advisors_from_FRA: "[FRA.GetAdjective]ие военные советники"
+ AFR_military_advisors_from_GER: "[GER.GetAdjective]ие военные советники"
+ AFR_military_advisors_from_NFA: "[NFA.GetAdjective]ие военные советники"
+ AFR_military_advisors_from_POR: "[POR.GetAdjective]ие военные советники"
+ AFR_military_advisors_from_RAJ: "[RAJ.GetAdjective]ие военные советники"
+ AFR_military_advisors_from_SAF: "[SAF.GetAdjective]ие военные советники"
+  
+ AFR_economic_boost: "Быстрый экономический приток"
+  
+ ### Events ### 
+ africa_events.1.t: "Запрос помощи из-за границы" #NT!
+ africa_events.1.d: "Наша новая ситуация нестабильна; Колониальное правление не подготовило наши земли к независимости. Мы должны найти благотворителя на международной арене." #NT!
+ africa_events.1.BEL: "Петиция [BEL.GetNameDef] о помощи." #NT!
+ africa_events.1.CAN: "Петиция [CAN.GetNameDef] о помощи." #NT!
+ africa_events.1.EGY: "Петиция [EGY.GetNameDef] о помощи." #NT!
+ africa_events.1.ENG: "Петиция [ENG.GetNameDef] о помощи." #NT!
+ africa_events.1.FRA: "Петиция [FRA.GetNameDef] о помощи." #NT!
+ africa_events.1.GER: "Петиция [GER.GetNameDef] о помощи." #NT!
+ africa_events.1.NFA: "Петиция [NFA.GetNameDef] о помощи." #NT!
+ africa_events.1.POR: "Петиция [POR.GetNameDef] о помощи." #NT!
+ africa_events.1.RAJ: "Петиция [RAJ.GetNameDef] о помощи." #NT!
+ africa_events.1.SAF: "Петиция [SAF.GetNameDef] о помощи." #NT!
+ africa_events.1.alone: "Мы прекрасно справляемся сами." #NT!
+  
+ africa_events.2.t: "[FROM.GetNameDefCap] Просьбы о помощи" #NT!
+ africa_events.2.d: "Африканская нация [FROM.GetNameDef] связалась с нами по поводу потенциального партнерства. Немецкое колониальное правление оставило их неподготовленными к независимости, и они стремятся приобрести необходимый капитал для запуска своей экономики." #NT!
+ africa_events.2.a: "Мы вышлем то, что им нужно." #NT!
+ africa_events.2.b: "Они сами по себе." #NT!
+  
+ africa_events.3.t: "[FROM.GetNameDefCap] Согласен на взаимопомощь" #NT!
+ africa_events.3.d: "[FROM.GetNameDefCap] согласился вступить в партнерство с нашей страной." #NT!
+ africa_events.3.a: "Великолепный." #NT!
+  
+ africa_events.4.t: "[FROM.GetNameDefCap] Отказывает во взаимной помощи" #NT!
+ africa_events.4.d: "[FROM.GetNameDefCap] отказался вступать в партнерство с нашей страной." #NT!
+ africa_events.4.a: "Мы справимся сами!" #NT!

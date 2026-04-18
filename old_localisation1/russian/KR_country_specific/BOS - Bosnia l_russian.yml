@@ -1,0 +1,35 @@
+﻿l_russian:
+
+### Country Names ###
+ BOS: "Босния"
+ BOS_ADJ: "Боснийск"
+ BOS_DEF: "Босния"
+
+ BOS_totalist: "Боснийская Социалистическая Республика"
+ BOS_totalist_ADJ: "Боснийск"
+ BOS_totalist_DEF: "Боснийская Социалистическая Республика"
+ BOS_syndicalist: "Боснийская Социалистическая Республика"
+ BOS_syndicalist_ADJ: "Боснийск"
+ BOS_syndicalist_DEF: "Боснийская Социалистическая Республика"
+ BOS_radical_socialist: "Боснийская Социалистическая Республика"
+ BOS_radical_socialist_ADJ: "Боснийск"
+ BOS_radical_socialist_DEF: "Боснийская Социалистическая Республика"
+
+### Characters ###
+ BOS_dzafer_kulenovic: "Джафер Куленович"
+ BOS_mehmed_spaho: "Мехмед Спахо"
+ BOS_dervis_korkut: "Дервиш Коркут"
+ BOS_bogdan_krekic: "Богдан Крекич"
+ BOS_avdo_fumo: "Авдо Хумо"
+ 
+ BOS_nurija_pozderac: "Нурия Поздерац"
+ BOS_osman_kulenovic: "Осман Куленович"
+ BOS_skender_kulenovic: "Скендер Куленович"
+ BOS_vladimir_corovic: "Владимир Чорович"
+
+ BOS_gojkomir_glogovac: "Гойкомир Глоговац"
+ BOS_muhamed_hadziefendic: "Мухамед Хаджифендич"
+ BOS_zvonimir_vuckovic: "Звонимир Вучкович"
+ BOS_petar_bacovic: "Петар Бачович"
+
+ BOS_army_reform_group: "Группа реформирования армии"

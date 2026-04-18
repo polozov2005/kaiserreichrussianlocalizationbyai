@@ -1,0 +1,34 @@
+﻿l_english:
+########################################################
+### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ###
+########################################################
+
+#changed to British spelling
+ ARMY_DIVISIONS_THEATRES: "Театров военных действий: $N$"
+ ARMY_DIVISONS_FILTER_DESC: "Введите часть названия боевой единицы, типа дивизии, театра, региона, имени лидера, названия техники или названия уровня"
+ ARMY_SORT_THEATRE: "Театр"
+
+#fixed typo
+ PLAN_VALUE_NO_THREAT: "§GУгрозы не обнаружены§!"
+ MILITA_ARMY_NAME: "$TEMPLATE$ Ополчение $NUMBER$"
+
+#changed to British spelling
+ SWITCH_STRATEGIC_REDEPLOYMENT_MODE_DETAILED: "Стратегическая передислокация — способ быстрого перемещения войск, которые попытаются задействовать существующие §Yжелезные дороги§! и §Yинфраструктуру§!, чтобы быстро достичь пункта назначения. В этом режиме они получат штраф к организации в $ORG|R%$."
+ THEATER_GROUP_NAME_PATTERN: "$NUMBER$-й $ADJECTIVE$ый театр"
+ NEW_THEATER_GROUP: "Новый театр"
+ THEATER_GROUP_ASSIGN_CLICK_BUTTON_DESC: "§GЩелкните, чтобы выбрать все боевые единицы на текущем театре§!"
+ THEATER_GROUP_ASSIGN_RIGHT_CLICK_BUTTON_DESC: "§GЩелкните правой кнопкой, чтобы прикрепить армию к текущему театру§!"
+ THEATER_GROUP_ASSIGN_TO_VOLUNTEERS_DESC: "§RНельзя прикрепить недобровольческие армии к добровольческому театру§!"
+ THEATER_GROUP_ASSIGN_FROM_VOLUNTEERS_DESC: "§RНельзя прикрепить добровольческие армии к недобровольческому театру§!"
+
+#fixed typo
+ THEATER_ORDER_GROUP_BAD_COMBATS: "$NAME|H$: Сражения: $COUNT|0R$"
+
+#changed to British spelling
+ THEATER_GROUP_OFFENSIVE_TROUBLES: "§RНа этом театре возникли осложнения в наступательных сражениях (в $BAD_COUNT|H$ из $COUNT|H$).\nПроблемные сражения:§! \n$LIST$"
+ THEATER_GROUP_DEFENSIVE_TROUBLES: "§RНа этом театре возникли осложнения в оборонительных сражениях (в $BAD_COUNT|H$ из $COUNT|H$).\nПроблемные сражения:§! \n$LIST$"
+ THEATER_GROUP_OFFENSIVE_NO_TROUBLES: "§GНаше наступление проходит отлично§!"
+ THEATER_GROUP_DEFENSIVE_NO_TROUBLES: "§GНаша оборона проходит отлично§!"
+ NEW_THEATER_GROUP_BUTTON_DESC: "§GЩелкните, чтобы создать новый театр и прикрепить к нему все выбранные армии§!"
+ THEATER_GROUP_DISBAND_BUTTON_DESC: "Расформировать театр"
+ THEATER_GROUP_DISBAND_TITLE: "Расформировать театр"

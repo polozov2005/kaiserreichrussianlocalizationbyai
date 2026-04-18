@@ -1,0 +1,151 @@
+﻿l_russian:
+
+### Parties ###
+RHI_totalist_party: "RAP"
+RHI_totalist_party_long: "Рейнская рабочая партия (Rheinische Arbeiterpartei)"
+RHI_radical_socialist_party: "RAP"
+RHI_radical_socialist_party_long: "Рейнская рабочая партия (Rheinische Arbeiterpartei)"
+RHI_syndicalist_party: "Arbeiterrat"
+RHI_syndicalist_party_long: "Рейнский совет рабочих и солдат (Rheinischer Arbeiter- und Soldatenrat)"
+RHI_social_democrat_party: "SPD"
+RHI_social_democrat_party_long: "Социал-демократическая партия Германии — земельная организация Рейнланда (Sozialdemokratische Partei Deutschlands – Landesverband Rheinland)"
+RHI_social_liberal_party: "RRVP"
+RHI_social_liberal_party_long: "Рейнская республиканская народная партия (Rheinisch-republikanische Volkspartei)"
+RHI_market_liberal_party: "NVP"
+RHI_market_liberal_party_long: "Национальная народная партия (Nationale Volkspartei)"
+RHI_social_conservative_party: "RCVP"
+RHI_social_conservative_party_long: "Рейнская христианская народная партия (Rheinisch-christliche Volkspartei)"
+RHI_authoritarian_democrat_party: "RBP"
+RHI_authoritarian_democrat_party_long: "Рейнская крестьянская партия (Rheinische Bauernpartei)"
+RHI_paternal_autocrat_party: "RCVP"
+RHI_paternal_autocrat_party_long: "Рейнская христианская народная партия — правое крыло (Rheinisch-christliche Volkspartei – Rechte)"
+RHI_national_populist_party: "VW"
+RHI_national_populist_party_long: "Фолькише производственная община (Völkische Werkgemeinschaft)"
+
+RHI: "Рейнланд"
+RHI_ADJ: "рейнск."
+RHI_DEF: "Рейнланд"
+
+RHI_totalist: "Рейнская Республика"
+RHI_totalist_DEF: "Рейнская Республика"
+RHI_radical_socialist: "Рейнская Республика"
+RHI_radical_socialist_DEF: "Рейнская Республика"
+RHI_syndicalist: "Рейнская Республика"
+RHI_syndicalist_DEF: "Рейнская Республика"
+RHI_social_democrat: "Рейнская Республика"
+RHI_social_democrat_DEF: "Рейнская Республика"
+RHI_social_liberal: "Рейнская Республика"
+RHI_social_liberal_DEF: "Рейнская Республика"
+RHI_market_liberal: "Рейнская Республика"
+RHI_market_liberal_DEF: "Рейнская Республика"
+RHI_social_conservative: "Рейнская Республика"
+RHI_social_conservative_DEF: "Рейнская Республика"
+RHI_authoritarian_democrat: "Рейнская Республика"
+RHI_authoritarian_democrat_DEF: "Рейнская Республика"
+RHI_paternal_autocrat: "Рейнская Республика"
+RHI_paternal_autocrat_DEF: "Рейнская Республика"
+RHI_national_populist: "Рейнская Республика"
+RHI_national_populist_DEF: "Рейнская Республика"
+
+### National Spirits ###
+RHI_rhenish_reparations: "Рейнские репарации"
+RHI_rhenish_reparations_desc: "В соответствии с требованиями победившей стороны после войны, правительство [ROOT.overlord.GetAdjective] захватило основную часть промышленности Рейнланда для выплаты репараций_
+
+ ### National Focus ###
+ rhineland_focus: "Rhenish Focus Tree"
+
+RHI_freedom: "Свобода от прусского ига"
+RHI_freedom_desc: ""
+
+RHI_cisrhenian: "Новая Цисрейнская Республика"
+RHI_cisrhenian_desc: ""
+
+RHI_socialist: "Сердце германского социализма"
+RHI_socialist_desc: ""
+
+RHI_reparations_agency: "Рейнское агентство по репарациям"
+RHI_reparations_agency_desc: ""
+
+RHI_rhenish_identity: "Формирование рейнской идентичности"
+RHI_rhenish_identity_desc: ""
+
+RHI_september_5: "Объявить 5 сентября национальным праздником"
+RHI_september_5_desc: ""
+
+RHI_renegotiate_reparations: "Попытка пересмотра репараций"
+RHI_renegotiate_reparations_desc: ""
+
+RHI_socialization: "Начать социализацию промышленности"
+RHI_socialization_desc: ""
+
+RHI_proletarian_hundreds: "Формировать пролетарские сотни"
+RHI_proletarian_hundreds_desc: ""
+
+RHI_secularism: "Секуляризация католической провинции"
+RHI_secularism_desc: ""
+
+RHI_faud: "Разгромить реформистский профсоюз"
+RHI_faud_desc: ""
+
+RHI_defense_force: "Создать Рейнские силы защиты"
+RHI_defense_force_desc: ""
+
+RHI_all_german_cooperation: "Обще-германское военное сотрудничество"
+RHI_all_german_cooperation_desc: ""
+
+RHI_acquire_hardware: "Закупить вооружение"
+RHI_acquire_hardware_desc: ""
+
+RHI_concordat: "Конкордат с церковью"
+RHI_concordat_desc: ""
+
+RHI_corporatism: "Внедрить корпоративную экономику"
+RHI_corporatism_desc: ""
+
+RHI_root_out_faud: "Искоренить остатки рурского юнионизма"
+RHI_root_out_faud_desc: ""
+
+RHI_rural_development: "Развитие сельской местности"
+RHI_rural_development_desc: ""
+
+RHI_rebuild_rhine_trade: "Возрождение рейнской торговли"
+RHI_rebuild_rhine_trade_desc: ""
+
+RHI_basf: "Национализировать BASF"
+RHI_basf_desc: ""
+
+RHI_beyond_coal_steel: "Выход за рамки угля и стали"
+RHI_beyond_coal_steel_desc: ""
+
+RHI_bergian_city_triangle: "Развитие \"Бергского треугольника\""
+RHI_bergian_city_triangle_desc: ""
+
+RHI_benerhi: "БеНеРейн"
+RHI_benerhi_desc: ""
+
+RHI_corporatism_idea: "Корпоративная экономика"
+RHI_corporatism_idea_desc: ""
+
+RHI_seizing_churches: "Оккупация церквей"
+RHI_seizing_churches_desc: ""
+
+RHI_defense_force_idea: "Силы защиты"
+RHI_defense_force_idea_desc: ""
+
+RHI_benerhi_idea: "БеНеРейн"
+RHI_benerhi_idea_desc: ""
+
+RHI_benerhi_tt: "Приглашает §Y[HOL.GetNameWithFlag]§! и §Y[BEL.GetNameWithFlag]§! в общую торговую организацию, если обе страны находятся в одном альянсе с §Y[RHI.GetNameWithFlag]§!. При принятии применяется следующий эффект:\n"
+
+RHI_nationalist_festivals: "Националистические празднества"
+RHI_nationalist_festivals_desc: ""
+
+germany_puppet_events.t: "[RHI.GetName] предлагает создать зону свободной торговли"
+germany_puppet_events.d: "Правительство [RHI.GetNameDef] обратилось к нам с предложением создать зону свободной торговли и зону экономического сотрудничества между тремя близкими по духу государствами южнее Северного моря. Это расширит наши уже существующие военные обязательства в рамках альянса и принесёт выгоду всем нашим экономикам — если будет принято."
+germany_puppet_events.a: "Разумеется."
+germany_puppet_events.b: "Мы откажемся."
+
+germany_puppet_events.8.t: "[RHI.GetName] просит пересмотра репараций"
+germany_puppet_events.8.d: "Правительство [RHI.GetNameDef] обратилось с просьбой смягчить текущий уровень репарационных обязательств, наложенных на их государство. По их утверждению, выплаты душат экономику и делают страну уязвимой перед внешними угрозами. Пересмотр также позволил бы расширить их силы самообороны. В завершение, они настаивают, что именно Пруссия, а не Рейн, виновна в развязывании Великих войн..."
+germany_puppet_events.8.a: "Это разумно."
+germany_puppet_events.8.b: "Мы отказываем."

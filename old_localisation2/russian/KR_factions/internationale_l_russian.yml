@@ -1,0 +1,10 @@
+﻿l_russian:
+  
+ faction_third_internationale: "Третий Интернационал"
+ faction_eastern_front_of_the_internationale: "Восточный фронт Третьего Интернационала"
+ faction_fourth_internationale: "Четвертый Интернационал"
+ faction_fifth_internationale: "Пятый Интернационал"
+ faction_communist_internationale: "Коммунистический Интернационал"
+  
+ faction_manifest_world_revolution_name: "Мировая Революция"
+ faction_manifest_world_revolution_desc: "Добиться, что все страны мира придерживаются одной из следующих идеологий:\n$totalist_coloured$\n$syndicalist_coloured$\n$radical_socialist_coloured$"

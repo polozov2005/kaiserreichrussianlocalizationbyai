@@ -1,0 +1,7 @@
+﻿l_russian:
+ ######################################################## 
+ ### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ### 
+ ######################################################## 
+  
+ #edited to mention KR MAXIMUM_GARRISON_HARDNESS_WHEN_ATTACKED define change 
+ GARRISON_HARDNESS_TOOLTIP: "§HHardness§!\nТвердость шаблона до 70% уменьшит потери при активности Сопротивления." #NT!

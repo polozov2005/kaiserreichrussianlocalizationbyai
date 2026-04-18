@@ -1,0 +1,2039 @@
+﻿l_russian:
+  
+### Tooltips ### 
+ KR_is_an_ally: "является союзником или субъектом"
+ KR_owned_by_ROOT_or_subject: "принадлежит §Y[Root.GetNameDef]§! или нашему субъекту"
+ KR_owned_by_ROOT_or_subject_NOT: "§Rне§! принадлежит §Y[Root.GetNameDef]§! или нашему субъекту"
+ KR_controlled_by_ROOT_or_subject: "контролируется §Y[Root.GetNameDef]§! или нашим субъектом"
+ KR_controlled_by_ROOT_or_subject_NOT: "§Rне§! контролируется §Y[Root.GetNameDef]§! или нашим субъектом"
+ KR_owned_and_controlled_by_ROOT_or_subject: "находится в собственности и под контролем §Y[Root.GetNameDef]§! или нашего субъекта"
+ KR_owned_and_controlled_by_ROOT_or_subject_NOT: "§Rне§! находится в собственности и под контролем §Y[Root.GetNameDef]§! или нашего субъекта"
+ KR_owned_by_ROOT_or_ally: "принадлежит §Y[Root.GetNameDef]§! или союзнику"
+ KR_owned_by_ROOT_or_ally_NOT: "§Rне§! принадлежит §Y[Root.GetNameDef]§! или союзнику"
+ KR_controlled_by_ROOT_or_ally: "контролируется §Y[Root.GetNameDef]§! или союзником"
+ KR_controlled_by_ROOT_or_ally_NOT: "§Rне§! контролируется §Y[Root.GetNameDef]§! или союзником"
+ KR_owned_and_controlled_by_ROOT_or_ally: "находится в собственности и под контролем §Y[Root.GetNameDef]§! или союзника"
+ KR_owned_and_controlled_by_ROOT_or_ally_NOT: "§Rне§! находится в собственности и под контролем §Y[Root.GetNameDef]§! или союзника"
+ new_annexation_decisions_tt: "§YПоявятся решения, которые позволят решить судьбу отдельных регионов§!"
+ annexation_occupied_state: "Военная оккупация: $VALUE|=-%0$"
+
+ is_valid_annexation_state: "Во владении государства §Y[ROOT.GetNameWithFlag]§! и §Rне§! является национальной территорией или претензией"
+ 
+ generic_annexation_resistance: "Cопротивление оккупации"
+
+### Events and Decisions ### 
+ annexation_decisions: "Решения об аннексии"
+ annexation_decisions_desc: "Получив контроль над новыми участками земли, мы теперь должны решить, что с этим делать. Занятие может быть дорогим и дестабилизирующим, но оно дает нам прямой доступ к богатствам этих новых земель. С другой стороны, создание марионеточных наций избегает таких трудностей, но не всегда так надежно. В любом случае, судьба народов лежит в наших руках."
+  
+ annexation_events.give_to_ally: "Передайте его нашим [?target.GetAdjective]им союзникам"
+ annexation_events.give_to_neutral: "Отдать его [?target.GetNameDef] - он нам не нужен"
+ annexation_events.give_to_overlord: "Передать его нашим [ROOT.overlord.GetAdjective]им хозяевам."
+
+ annexation_events.integration: "Интегрировать в нашу территорию."
+ annexation_events.cancel: "Пока ничего не делать."
+ 
+ annexation_events.give_to_britain: "[britain.GetGrantTerritoryEventOption]"
+ annexation_events.give_to_france: "[france.GetGrantTerritoryEventOption]"
+ annexation_events.give_to_belgium: "[belgium.GetGrantTerritoryEventOption]"
+ annexation_events.give_to_portugal: "[portugal.GetGrantTerritoryEventOption]"
+ annexation_events.give_to_spain: "[spain.GetGrantTerritoryEventOption]"
+ annexation_events.give_to_japan: "[japan.GetGrantTerritoryEventOption]"
+ annexation_events.give_to_russia: "[russia.GetGrantTerritoryEventOption]"
+
+ annexation_events.give_to_italy: "[ROOT.annexations_give_to_italy_single_or_multiple]"
+ annexation_events.give_to_italy_single: "[italy.GetGrantTerritoryEventOption]"
+ annexation_events.give_to_italy_multiple: "Отдайте итальянцам."
+
+# Americas
+ annexation_events.americas.release_united_central_america: "Создать Центральноамериканскую Республику."
+ annexation_events.americas.release_brazil: "Освободить лояльную Бразильскую республику."
+ annexation_events.americas.release_brazilian_splinter: "Реорганизовать регионы в самостоятельные республики."
+
+ annexation_events.americas.give_to_united_states: "[united_states.GetGrantTerritoryEventOption]"
+ annexation_events.americas.give_to_canada: "[canada.GetGrantTerritoryEventOption]"
+ annexation_events.americas.give_to_mexico: "[mexico.GetGrantTerritoryEventOption]"
+ annexation_events.americas.give_to_centroamerica: "[centroamerica.GetGrantTerritoryEventOption]"
+ annexation_events.americas.give_to_guatemala: "[guatemala.GetGrantTerritoryEventOption]"
+ annexation_events.americas.give_to_panama: "[panama.GetGrantTerritoryEventOption]"
+ annexation_events.americas.give_to_west_indies: "[west_indies.GetGrantTerritoryEventOption]"
+
+ annexation_events.americas.give_to_colombia: "[colombia.GetGrantTerritoryEventOption]"
+ annexation_events.americas.give_to_venezuela: "[venezuela.GetGrantTerritoryEventOption]"
+ annexation_events.americas.give_to_guyana: "[guyana.GetGrantTerritoryEventOption]"
+ annexation_events.americas.give_to_ecuador: "[ecuador.GetGrantTerritoryEventOption]"
+ annexation_events.americas.give_to_peru: "[peru.GetGrantTerritoryEventOption]"
+ annexation_events.americas.give_to_bolivia: "[bolivia.GetGrantTerritoryEventOption]"
+ annexation_events.americas.give_to_paraguay: "[paraguay.GetGrantTerritoryEventOption]"
+ annexation_events.americas.give_to_argentina: "[argentina.GetGrantTerritoryEventOption]"
+ annexation_events.americas.give_to_chile: "[chile.GetGrantTerritoryEventOption]"
+
+ annexation_events.americas.give_to_brazil: "[brazil.GetGrantTerritoryEventOption]"
+ annexation_events.americas.give_to_brazil_splinter_one: "[brazil_one.GetGrantTerritoryEventOption]"
+ annexation_events.americas.give_to_brazil_splinter_two: "[brazil_two.GetGrantTerritoryEventOption]"
+ annexation_events.americas.give_to_brazil_splinter_three: "[brazil_three.GetGrantTerritoryEventOption]"
+
+ annexation_events.americas.give_to_owner_of_buenos_aires: "[buenos_aires.GetGrantTerritoryEventOption]"
+ annexation_events.americas.give_to_owner_of_santa_cruz: "[santa_cruz.GetGrantTerritoryEventOption]"
+
+# Europe
+ annexation_events.europe.release_germany_republic: "Создать Германскую республику!"
+ annexation_events.europe.release_germany_socialist: "Создать социалистическую Германию!"
+ annexation_events.europe.release_germany_hohenzollern: "Реставрировать Германскую империю!"
+ annexation_events.europe.release_germany_romanov: "Короновать великого князя Бориса императором Германии!"
+
+ annexation_events.europe.release_danubia_republic: "Освободить Дунайскую республику."
+ annexation_events.europe.release_danubia_habsburg: "Восстановить власть Габсбургов над Дунаем."
+
+ annexation_events.europe.give_to_ireland: "[ireland.GetGrantTerritoryEventOption]"
+ annexation_events.europe.give_to_england: "[england.GetGrantTerritoryEventOption]"
+ annexation_events.europe.give_to_denmark: "[denmark.GetGrantTerritoryEventOption]"
+ annexation_events.europe.give_to_norway: "[norway.GetGrantTerritoryEventOption]"
+
+ annexation_events.europe.give_to_netherlands: "[netherlands.GetGrantTerritoryEventOption]"
+ annexation_events.europe.give_to_germany: "[germany.GetGrantTerritoryEventOption]"
+ annexation_events.europe.give_to_prussia: "[prussia.GetGrantTerritoryEventOption]"
+ annexation_events.europe.give_to_east_prussia: "[east_prussia.GetGrantTerritoryEventOption]"
+ annexation_events.europe.give_to_switzerland: "[switzerland.GetGrantTerritoryEventOption]"
+ annexation_events.europe.give_to_austria: "[austria.GetGrantTerritoryEventOption]"
+
+ annexation_events.europe.give_to_hungary: "[hungary.GetGrantTerritoryEventOption]"
+ annexation_events.europe.give_to_bohemia: "[bohemia.GetGrantTerritoryEventOption]"
+ annexation_events.europe.give_to_slovakia: "[slovakia.GetGrantTerritoryEventOption]"
+
+ annexation_events.europe.give_to_croatia: "[croatia.GetGrantTerritoryEventOption]"
+ annexation_events.europe.give_to_serbia: "[serbia.GetGrantTerritoryEventOption]"
+ annexation_events.europe.give_to_romania: "[romania.GetGrantTerritoryEventOption]"
+ annexation_events.europe.give_to_transylvania: "[transylvania.GetGrantTerritoryEventOption]"
+ annexation_events.europe.give_to_bulgaria: "[bulgaria.GetGrantTerritoryEventOption]"
+ annexation_events.europe.give_to_greece: "[greece.GetGrantTerritoryEventOption]"
+ annexation_events.europe.give_to_turkey: "[turkey.GetGrantTerritoryEventOption]"
+
+ annexation_events.europe.give_to_galicia: "[galicia.GetGrantTerritoryEventOption]"
+ annexation_events.europe.give_to_poland: "[poland.GetGrantTerritoryEventOption]"
+ annexation_events.europe.give_to_baltic: "[baltic.GetGrantTerritoryEventOption]"
+ annexation_events.europe.give_to_lithuania: "[lithuania.GetGrantTerritoryEventOption]"
+ annexation_events.europe.give_to_belarus: "[belarus.GetGrantTerritoryEventOption]"
+
+ annexation_events.europe.release_italy_republic: "Освободить Итальянскую Республику."
+ annexation_events.europe.release_italy_federation: "Освободить Итальянскую Федерацию."
+ annexation_events.europe.release_italy_socialist: "Освободить Социалистическую Италию."
+ annexation_events.europe.release_italy_kingdom: "Восстановить савойскую монархию."
+
+ annexation_events.europe.offer_to_italy: "[ROOT.annexations_offer_to_italy_single_or_multiple]"
+ annexation_events.europe.offer_to_italy_single: "Предложить государству [?valid_italian_targets_offer^0.GetNonIdeologyNameDef] в обмен на союз."
+ annexation_events.europe.offer_to_italy_multiple: "Предложить итальянцам в обмен на союз."
+
+ annexation_events.europe.give_to_british_exiles: "[british_exiles.GetGrantTerritoryEventOption]"
+ annexation_events.europe.give_to_nfa: "[france_exile.GetGrantTerritoryEventOption]"
+ annexation_events.europe.give_to_frp: "[france_puppet.GetGrantTerritoryEventOption]"
+
+ annexation_events.europe.give_to_owner_of_hanover: "[hanover.GetGrantTerritoryEventOption]"
+ annexation_events.europe.give_to_owner_of_lower_austria: "[lower_austria.GetGrantTerritoryEventOption]"
+ annexation_events.europe.give_to_owner_of_tyrol: "[tyrol.GetGrantTerritoryEventOption]"
+ annexation_events.europe.give_to_owner_of_venetia: "[venetia.GetGrantTerritoryEventOption]"
+ annexation_events.europe.give_to_owner_of_lombardy: "[lombardy.GetGrantTerritoryEventOption]"
+ annexation_events.europe.give_to_owner_of_piedmont: "[piedmont.GetGrantTerritoryEventOption]"
+ annexation_events.europe.give_to_owner_of_pyrenees: "[pyrenees.GetGrantTerritoryEventOption]"
+
+ annexation_events.europe.give_to_owner_of_carniola: "[carniola.GetGrantTerritoryEventOption]"
+ annexation_events.europe.give_to_owner_of_carinthia: "[carinthia.GetGrantTerritoryEventOption]"
+ annexation_events.europe.give_to_owner_of_central_hungary: "[central_hungary.GetGrantTerritoryEventOption]"
+ annexation_events.europe.give_to_owner_of_transdanubia: "[transdanubia.GetGrantTerritoryEventOption]"
+
+ annexation_events.europe.give_to_owner_of_belgrade: "[belgrade.GetGrantTerritoryEventOption]"
+ annexation_events.europe.give_to_owner_of_morava: "[morava.GetGrantTerritoryEventOption]"
+ annexation_events.europe.give_to_owner_of_central_croatia: "[central_croatia.GetGrantTerritoryEventOption]"
+ annexation_events.europe.give_to_owner_of_muntenia: "[muntenia.GetGrantTerritoryEventOption]"
+ annexation_events.europe.give_to_owner_of_varna: "[varna.GetGrantTerritoryEventOption]"
+
+ annexation_events.europe.give_to_owner_of_masuria: "[masuria.GetGrantTerritoryEventOption]"
+ annexation_events.europe.give_to_owner_of_kalisz: "[kalisz.GetGrantTerritoryEventOption]"
+ annexation_events.europe.give_to_owner_of_lower_silesia: "[lower_silesia.GetGrantTerritoryEventOption]"
+ annexation_events.europe.give_to_owner_of_krakow: "[krakow.GetGrantTerritoryEventOption]"
+ annexation_events.europe.give_to_owner_of_lwow: "[lwow.GetGrantTerritoryEventOption]"
+ annexation_events.europe.give_to_owner_of_volhynia: "[volhynia.GetGrantTerritoryEventOption]"
+ annexation_events.europe.give_to_owner_of_pinsk: "[pinsk.GetGrantTerritoryEventOption]"
+ annexation_events.europe.give_to_owner_of_chelm: "[chelm.GetGrantTerritoryEventOption]"
+ annexation_events.europe.give_to_owner_of_stavropol: "[stavropol.GetGrantTerritoryEventOption]"
+
+# Middle East
+ annexation_events.middle_east.give_to_georgia: "[georgia.GetGrantTerritoryEventOption]"
+ annexation_events.middle_east.give_to_armenia: "[armenia.GetGrantTerritoryEventOption]"
+ annexation_events.middle_east.give_to_azerbaijan: "[azerbaijan.GetGrantTerritoryEventOption]"
+ annexation_events.middle_east.give_to_mountain_republic: "[mountain_republic.GetGrantTerritoryEventOption]"
+
+ annexation_events.middle_east.give_to_ottomans: "[ottomans.GetGrantTerritoryEventOption]"
+ annexation_events.middle_east.give_to_kurdistan: "[kurdistan.GetGrantTerritoryEventOption]"
+ annexation_events.middle_east.give_to_persia: "[persia.GetGrantTerritoryEventOption]"
+ annexation_events.middle_east.give_to_syria: "[syria.GetGrantTerritoryEventOption]"
+ annexation_events.middle_east.give_to_iraq: "[iraq.GetGrantTerritoryEventOption]"
+
+ annexation_events.middle_east.give_to_arabia: "[arabia.GetGrantTerritoryEventOption]"
+ annexation_events.middle_east.give_to_hejaz: "[hejaz.GetGrantTerritoryEventOption]"
+ annexation_events.middle_east.give_to_trucial_states: "[trucial_states.GetGrantTerritoryEventOption]"
+ annexation_events.middle_east.give_to_muscat: "[muscat.GetGrantTerritoryEventOption]"
+ annexation_events.middle_east.give_to_yemen: "[yemen.GetGrantTerritoryEventOption]"
+
+ annexation_events.middle_east.give_to_egypt: "[egypt.GetGrantTerritoryEventOption]"
+ annexation_events.middle_east.give_to_cyrenaica: "[cyrenaica.GetGrantTerritoryEventOption]"
+
+ annexation_events.middle_east.give_to_owner_of_fars: "[fars.GetGrantTerritoryEventOption]"
+
+# Africa
+ annexation_events.africa.give_to_morocco: "[morocco.GetGrantTerritoryEventOption]"
+ annexation_events.africa.give_to_mauritania: "[mauritania.GetGrantTerritoryEventOption]"
+ annexation_events.africa.give_to_senegal: "[senegal.GetGrantTerritoryEventOption]"
+
+ annexation_events.africa.give_to_somalia: "[somalia.GetGrantTerritoryEventOption]"
+ annexation_events.africa.give_to_ethiopia: "[ethiopia.GetGrantTerritoryEventOption]"
+
+ annexation_events.africa.give_to_mittelafrika: "[mittelafrika.GetGrantTerritoryEventOption]"
+ annexation_events.africa.give_to_cameroon: "[cameroon.GetGrantTerritoryEventOption]"
+ annexation_events.africa.give_to_azania: "[azania.GetGrantTerritoryEventOption]"
+ annexation_events.africa.give_to_kenya: "[kenya.GetGrantTerritoryEventOption]"
+
+ annexation_events.africa.give_to_mozambique: "[mozambique.GetGrantTerritoryEventOption]"
+ annexation_events.africa.give_to_zimbabwe: "[zimbabwe.GetGrantTerritoryEventOption]"
+ annexation_events.africa.give_to_south_africa: "[south_africa.GetGrantTerritoryEventOption]"
+
+# Asia
+ annexation_events.asia.release_united_central_asia: "Создать Центральноазиатскую Федерацию."
+ annexation_events.asia.give_to_alash: "[alash.GetGrantTerritoryEventOption]"
+ annexation_events.asia.give_to_turkestan: "[turkestan.GetGrantTerritoryEventOption]"
+ annexation_events.asia.give_to_bukhara: "[bukhara.GetGrantTerritoryEventOption]"
+ annexation_events.asia.give_to_khiva: "[khiva.GetGrantTerritoryEventOption]"
+
+ annexations.asia.give_to_transamur: "[transamur.GetGrantTerritoryEventOption]"
+
+ annexation_events.asia.release_republican_india: "Восстановить Республику Индия."
+ annexation_events.asia.release_princely_india: "Восстановить Федерацию Раджей."
+ annexation_events.asia.release_british_india: "Восстановить Доминион Индия."
+
+ annexation_events.asia.give_to_india: "[india.GetGrantTerritoryEventOption]"
+ annexation_events.asia.give_to_princely_india: "[india_princely.GetGrantTerritoryEventOption]"
+ annexation_events.asia.give_to_british_india: "[india_british.GetGrantTerritoryEventOption]"
+
+ annexation_events.asia.give_to_afghanistan: "[afghanistan.GetGrantTerritoryEventOption]"
+ annexation_events.asia.give_to_pakistan: "[pakistan.GetGrantTerritoryEventOption]"
+ annexation_events.asia.give_to_punjab: "[punjab.GetGrantTerritoryEventOption]"
+ annexation_events.asia.give_to_khalistan: "[khalistan.GetGrantTerritoryEventOption]"
+ annexation_events.asia.give_to_hyderabad: "[hyderabad.GetGrantTerritoryEventOption]"
+ annexation_events.asia.give_to_madras: "[madras.GetGrantTerritoryEventOption]"
+ annexation_events.asia.give_to_mysore: "[mysore.GetGrantTerritoryEventOption]"
+ annexation_events.asia.give_to_orissa: "[orissa.GetGrantTerritoryEventOption]"
+ annexation_events.asia.give_to_bengal: "[bengal.GetGrantTerritoryEventOption]"
+ annexation_events.asia.give_to_assam: "[assam.GetGrantTerritoryEventOption]"
+ annexation_events.asia.give_to_nepal: "[nepal.GetGrantTerritoryEventOption]"
+ annexation_events.asia.give_to_bhutan: "[bhutan.GetGrantTerritoryEventOption]"
+
+ annexation_events.asia.give_to_burma: "[burma.GetGrantTerritoryEventOption]"
+ annexation_events.asia.give_to_siam: "[siam.GetGrantTerritoryEventOption]"
+ annexation_events.asia.give_to_cambodia: "[cambodia.GetGrantTerritoryEventOption]"
+ annexation_events.asia.give_to_inc: "[indochina.GetGrantTerritoryEventOption]"
+ annexation_events.asia.give_to_german_east_asia: "[german_east_asia.GetGrantTerritoryEventOption]"
+ annexation_events.asia.give_to_indonesia: "[indonesia.GetGrantTerritoryEventOption]"
+ annexation_events.asia.give_to_malaysia: "[malaysia.GetGrantTerritoryEventOption]"
+
+ annexation_events.asia.give_to_owner_of_sindh: "[sindh.GetGrantTerritoryEventOption]"
+ annexation_events.asia.give_to_owner_of_bihar: "[bihar.GetGrantTerritoryEventOption]"
+ annexation_events.asia.give_to_owner_of_bombay: "[bombay.GetGrantTerritoryEventOption]"
+ annexation_events.asia.give_to_owner_of_madurai: "[madurai.GetGrantTerritoryEventOption]"
+ annexation_events.asia.give_to_owner_of_andhra: "[andhra.GetGrantTerritoryEventOption]"
+
+# Oceania
+ annexation_events.oceania.give_to_australia: "[australia.GetGrantTerritoryEventOption]"
+ annexation_events.oceania.give_to_new_zealand: "[new_zealand.GetGrantTerritoryEventOption]"
+ annexation_events.oceania.give_to_philippines: "[philippines.GetGrantTerritoryEventOption]"
+
+# China
+ annexation_events.china.release_china: "[ROOT.china_annexation_release_event_option]"
+ annexation_events.china.release_china_take_coastline: "[ROOT.china_annexation_release_event_option_take_coast]"
+ annexation_events.china.give_to_china: "Отдать земли государству [china_ally_target.GetNameDef]!"
+ annexation_events.china.fading_sun_return_to_china: "Передать земли гос-ву [japan_forced_return.GetNameDef] по условиям договора."
+  
+ annexation_events.china.give_to_lec: "Передать в руки Совета Концессий."
+ annexation_events.china.give_to_mongolia: "[mongolia.GetGrantTerritoryEventOption]"
+ annexation_events.china.give_to_tibet: "[tibet.GetGrantTerritoryEventOption]"
+ annexation_events.china.give_to_xinjiang: "[xinjiang.GetGrantTerritoryEventOption]"
+
+ annexations.china.give_to_chinese_splinter_one: "[china_one.GetGrantTerritoryEventOption]"
+ annexations.china.give_to_chinese_splinter_two: "[china_two.GetGrantTerritoryEventOption]"
+ annexations.china.give_to_chinese_splinter_three: "[china_three.GetGrantTerritoryEventOption]"
+
+ release_china_csp: "Установить правительство синдикалистов."
+ release_china_lkmt: "Усилить Левый Гоминьдан!"
+ release_china_rngroc: "Освободить Реорганизованное Правительство Китая!"
+ release_china_fengtian: "Восстановить Фэнтяньское Правительство!"
+ release_china_lep: "Восстановить Лигу Восьми Провинций!"
+ release_china_qing_empire: "Восстановить Империю Цин."
+ release_china_zhili: "Освободить Бэйянскую республику!"
+ release_china_rkmt: "Освободить Правый Гоминьдан!"
+ release_china_federalist: "Освободить Федеральный Китай!"
+  
+ release_china_take_coastline_fengtian: "Захватить побережье и восстановить Фэнтяньское Правительство!"
+ release_china_take_coastline_rngroc: "Захватить побережье и освободить Реорганизованное правительство Китая!"
+  
+ annexation_events.2.t: "[granted_land.GetName] возвращена!"
+ annexation_events.2.d: "[From.GetAdjective]ое правительство решило вернуть нам [granted_land.GetName], без каких-либо обязательств."
+ annexation_events.2.a: "Ура!"
+  
+#Generic Land Exchange Events 
+ annexation_events.5.t_romania: "[FROM.GetNameDefCap] Offers Transylvania"
+ annexation_events.5.t_generic: "An Offer From [From.GetNameDef]"
+ annexation_events.5.desc_italy: "A delegation from [From.GetNameDef] has arrived with an offer: in exchange for us assuming control over most of Italy, the lands now in [From.GetAdjective] possession, they ask for [Root.GetNameDef] to join the [From.GetFactionName]. It is a tempting offer, though it means abandoning any of our current alliances and wars."
+ annexation_events.5.desc_papacy: "A delegation from [From.GetNameDef] has arrived with an offer: in exchange for us assuming control over much of Central Italy, the lands now in [From.GetAdjective] possession, they ask for [Root.GetNameDef] to join the [From.GetFactionName]. It is a tempting offer, though it means abandoning any of our current alliances and wars."
+ annexation_events.5.desc_romania: "The course of geopolitics in recent years has, as it often does, created some unusual situations. For Romanians, the one that has had the biggest reverberations is the entry of Transylvania into the [FROM.GetFactionName]'s sphere - after the tragic defeat in the Great War, the dismantlement of the Austrian state has raised many hopes that the Great Union may still be achieved after all.\n\n[FROM.GetNameDef] seems to understand this. The government received a note today explaining that they are very prepared to hand Transylvania over to us - on the condition that we will promptly join their alliance. Needless to say, the opportunity to achieve the goal held by many Romanians over the last few decades is a highly tempting one - but it does not come without risk. Entangling ourselves with the [FROM.GetFactionName] obviously would throw us into any conflicts they may enter, regardless of them being in Romania's interests. This is to say nothing of the innate diplomatic risks of realignment, which would threaten to alienate any friends we may already have. The question, therefore, is this: how much are we willing to risk for the union of all Romanians?"
+ annexation_events.5.desc_serbia: "The Serbian leadership has been approached by a representative from [FROM.GetNameDef]. The [FROM.GetAdjective] government's new ownership of territories in the Balkans is a situation in need of a more long-term solution, they say, and they have little to gain from a costly occupation. They are aware of the long-harboured Serbian ambitions on uniting the southern Slavs into a single polity, and of their continued failure in doing so, despite there being no doubt that the idea of Yugoslavia still holds much allure.\n\nThe presented offer is a simple one. The territories that make up the proposed state of Yugoslavia, in exchange for full Serbian participation in the [FROM.GetFactionName].\n\nMost in the government see this proposition as too good to be true, though the usual dissenting voices are already spreading whispers of being drawn into further unwanted bloodshed. It would of course mean parting ways with any current allies, which the same voices are decrying as supercilious, but it would almost certainly be worth it."
+ annexation_events.5.desc_generic: "A delegation from [From.GetNameDef] has arrived with an offer: in exchange for us assuming control over a number of our claimed lands, now in [From.GetAdjective] possession, they ask for [Root.GetNameDef] to join the [From.GetFactionName]. It is a tempting offer, though it means abandoning any of our current alliances and wars."
+ annexation_events.5.a_romania: "No price is too high for salvation."
+ annexation_events.5.a_generic: "We agree to their alliance!"
+ annexation_events.5.b_romania: "Not today, my friends."
+ annexation_events.5.b_generic: "Absolutely not."
+
+ annexation_events.6.t_generic: "[From.GetNameDefCap] Agrees"
+ annexation_events.6.desc_romania: "As expected, [FROM.GetName] has just sent their acceptance of our terms regarding the Transylvanian proposal. Transylvania will be transferred as soon as possible - completing for us a great strategic coup."
+ annexation_events.6.desc_serbia: "To the surprise of few, the Serbs have accepted the proposal for an alliance, in exchange for the territories they so covet.\n\nTheir long-desired Yugoslavia may now be created, [ROOT.GetNameDef] gains an ally in the Balkans, and the [ROOT.GetFactionName] grows larger!"
+ annexation_events.6.desc_generic: "The [From.GetAdjective] government was more than happy to exchange the return of their land for an alliance with us."
+ annexation_events.6.a_romania: "We destroy our enemies by making them our friends."
+ annexation_events.6.a_serbia: "Hej, Sloveni!"
+ annexation_events.6.a_generic: "Excellent!"
+
+ annexation_events.7.t_generic: "[From.GetNameDefCap] Has Refused"
+ annexation_events.7.desc_romania: "It seems that we do not understand [FROM.GetName] as well as we thought - they have just sent a message that politely but curtly declines our proposal to transfer Transylvania. The foreign office seems to be rather stunned by this news."
+ annexation_events.7.desc_serbia: "Stating the uncertainty of their current government being able to handle the transfer of territory, with a hint of being of not wanting to being drawn into further conflicts, the Serbs have shocked the diplomatic corps at their refusal of the generous offer. It looks like we will now need to set up local supervised governments to administer the region."
+ annexation_events.7.desc_generic: "The [From.GetAdjective] government apparently does not want their lands back badly enough, or do not trust our offer. Either way, they have refused to join our alliance."
+ annexation_events.7.a_generic: "Their loss, it seems."
+
+ annexation_events.8.t_romania: "[From.GetNameDefCap] Betrays Us!"
+ annexation_events.8.t_generic: "[From.GetNameDefCap] Abandons the [Root.GetFactionName]"
+ annexation_events.8.desc_romania: "Treachery has fallen upon us! Until now, all thought of [FROM.GetNameDef] as a steadfast ally in a chaotic time - but apparently friendship is a fragile thing in politics. It came to light today that [FROM.GetNameDef] has been involved in secret negotiations with [FROM.FROM.GetNameDef], with the intent of reaching an agreement to satisfy their claims on Transylvania in exchange for an alliance. This may not have been such a dramatic injury had we not learned of it from an announcement of the deal's completion - and the following expulsion of our forces from [FROM.GetNameDef].\n\nWe have been caught completely flat-footed by the news, and reactions inside and outside of the government range from shock, to despair, to demands that [FROM.GetNameDef] be made to pay for their duplicity."
+ annexation_events.8.desc_generic: "It appears an offer made by [From.From.GetNameDef] for the return of claimed lands was too much for [From.GetNameDef] to refuse. They have abandoned our alliance and joined the [From.From.GetFactionName]. Perhaps it is land we could never have delivered to them, but even so - it is a bitter pill to swallow."
+ annexation_events.8.a_romania: "And after everything we've been through!"
+ annexation_events.8.a_generic: "Hopefully we do not end up on opposing sides..."
+  
+ annexation_events.18.t: "Территории возвращены!"
+ annexation_events.18.d: "[From.GetAdjective]ое правительство приняло решение вернуть нам земли в ранее оккупированной австрийцами Италии."
+ annexation_events.18.a: "Ура!"
+  
+ annexation_events.184.t: "Реставрация династии О'Нил?"
+ annexation_events.184.d: "После того, как мы дали независимость Ирландии, поступили предложения по восстановлению ирландской монархии. Самыми лучшими кандидатами являются потомки Брайана О'Нил. Его потомки сейчас проживают в Португалии."
+ annexation_events.184.a: "О'Ниллы будут восстановлены на троне Ирландии!"
+ annexation_events.184.b: "Сохранить Ирландскую Республику."
+  
+ annexation_events.185.t: "Хорхе О'Нил прибыл!"
+ annexation_events.185.d: "Хорхе Мария О'Нил согласился поселиться в Дублинском замке как Верховный король Ирландии. Прибыв сегодня утром, Эодх выступил с речью на холме Тары, подтвердив, что он будет сильным и справедливым правителем. В то время как республиканцы негодуют, многие приняли нового Короля с радостью."
+ annexation_events.185.a: "O'Neill Abú!"
+  
+ annexation_events.200.t: "Кому отдать Италию?"
+ annexation_events.200.desc: "ВРЕМЕННО: требуется описание."
+ annexation_events.200.a: "[?valid_italian_targets_grant^0.GetNonIdeologyNameDefCap]"
+ annexation_events.200.b: "[?valid_italian_targets_grant^1.GetNonIdeologyNameDefCap]"
+ annexation_events.200.c: "[?valid_italian_targets_grant^2.GetNonIdeologyNameDefCap]"
+ annexation_events.200.d: "[?valid_italian_targets_grant^3.GetNonIdeologyNameDefCap]"
+ annexation_events.200.e: "[?valid_italian_targets_grant^4.GetNonIdeologyNameDefCap]"
+ annexation_events.200.f: "[?valid_italian_targets_grant^5.GetNonIdeologyNameDefCap]"
+ annexation_events.200.g: "[?valid_italian_targets_grant^6.GetNonIdeologyNameDefCap]"
+ annexation_events.200.h: "[?valid_italian_targets_grant^7.GetNonIdeologyNameDefCap]"
+ annexation_events.200.i: "[?valid_italian_targets_grant^8.GetNonIdeologyNameDefCap]"
+
+ annexation_events.201.t: "Кому отдать Италию?"
+ annexation_events.201.desc: "ВРЕМЕННО: требуется описание."
+ annexation_events.201.a: "[?valid_italian_targets_offer^0.GetNonIdeologyNameDefCap]"
+ annexation_events.201.b: "[?valid_italian_targets_offer^1.GetNonIdeologyNameDefCap]"
+ annexation_events.201.c: "[?valid_italian_targets_offer^2.GetNonIdeologyNameDefCap]"
+ annexation_events.201.d: "[?valid_italian_targets_offer^3.GetNonIdeologyNameDefCap]"
+ annexation_events.201.e: "[?valid_italian_targets_offer^4.GetNonIdeologyNameDefCap]"
+ annexation_events.201.f: "[?valid_italian_targets_offer^5.GetNonIdeologyNameDefCap]"
+ annexation_events.201.g: "[?valid_italian_targets_offer^6.GetNonIdeologyNameDefCap]"
+ annexation_events.201.h: "[?valid_italian_targets_offer^7.GetNonIdeologyNameDefCap]"
+ annexation_events.201.i: "[?valid_italian_targets_offer^8.GetNonIdeologyNameDefCap]"
+  
+ #Event for Chinese tag to notify return of concessions from Japan 
+ annexation_events.300.t: "Япония возвращает концессии в Китае"
+ annexation_events.300.d: "По итогу мирных переговоров, которые прошли после нашей победы над японцами, они согласились вернуть все китайские концессии, что захватили до этого. Итак, мы вернули то, что принадлежало нам по праву. Ещё одна победа для Китая и ещё одно позорное поражение для его врагов. Век Унижений ещё на шаг ближе к завершению."
+ annexation_events.300.a: "Влиянию Японии в Китае подошёл конец."
+  
+### Annexation Events ###
+
+ annexation_decision: "[FROM.GetAnnexationDecisionName]"
+ annexation_decision_desc: "[FROM.GetAnnexationDecisionDesc]"
+ 
+ # Table of Contents
+ # Europe Events
+ # Americas Events
+ # Asia and Oceania Events
+ # Middle East Events
+ # Africa Events
+
+### Europe Events ###
+
+ #annexation_germany_desc: "For the last fifty years, the German Empire has stood united in the centre of Europe. From the once-Polish lands of Prussia to the Francophone Catholic west, from Lower Saxony in the north to Bavaria in the south, the conservative Kaiserreich created one nation where before there had been many. However, with our victory, we have a chance to radically restructure the German state structure. Our total conquest has shattered the spirit of German civil resistance, and we essentially have unlimited license to choose whichever government, or governments, serve our interests in Central Europe."
+    
+ annexation_28: "Судьба Эльзас-Лотарингии"
+ annexation_28_desc: "После капитуляции наших последних оставшихся врагов в Европе наша военная администрация управляет территориями Эльзаса и Лотарингии, давно оспариваемыми Германией и Францией, на основе военного положения. Однако вместе с миром приходят и надежды на перемены, и посланники из Страсбурга, часто сопровождаемые императивными французскими послами, были замечены в коридорах власти в [ROOT.Capital.GetName], надеясь оказать давление на бюрократов, подвергшихся стрессу, чтобы те вернули Франции территорию, где в основном говорят на немецком языке, прежде чем кто-то в нашей администрации успеет сесть и полностью обдумать этот вопрос. Должны ли мы удовлетворить их просьбы? Станет ли Эльзас раз и навсегда немецким? Или мы должны дать эльзасцам несколько хороших лет [ROOT.GetAdjective]ой оккупации , прежде чем рассматривать этот вопрос должным образом, когда ситуация в мире позволит это сделать?"
+ annexation_events.1001.a: "[german_palatinate.GetGrantTerritoryEventOption]"
+ annexation_events.1001.b: "[german_baden.GetGrantTerritoryEventOption]"
+  
+ annexation_8: "Судьба Люксембурга"
+ annexation_8_desc: "На протяжении веков Люксембургский вопрос не давал покоя великим державам. После Вельткрига и двадцати пяти лет немецкого правления мало кто из люксембуржцев стремится к независимости, а в эпоху синдикализма, тесной авиационной поддержки и криптографической дешифровки любое упоминание о Салическом законе встречает не столько презрение, сколько недоумение. Великое герцогство Люксембург не вернется на карту Европы. Впрочем, возвращать его в состав Германии тоже не стоит. Немногим более века назад Люксембург безропотно входил в состав Франции, а затем Бельгии, и если решение будет отвечать интересам нашей внешней политики, можно не сомневаться, что и на этот раз Люксембург не доставит хлопот."
+  
+ annexation_781: "Судьба Рейнланда"
+ annexation_781_desc: "Сердце немецкой промышленности, основа прусского господства в Германии и жестокая сцена для Второго Вельткрига - Рейнская область в некоторых отношениях является местом, наиболее ответственным за ужасы двадцатого века. Поэтому некоторые советники в нашем правительстве рекомендуют отделить Рейнскую область от Германии и даже наложить на нее огромные репарации, чтобы обезлюдить регион. С другой стороны, поскольку война недавно закончилась, маловероятно, что Германия сможет снова угрожать нам в ближайшее время, и она может быть гораздо более способным союзником и экономическим партнером с литейными заводами Рура, а не без них. Что бы мы ни решили, было бы разумно сделать это быстро, поскольку чем дольше мы будем оккупировать Рейнскую область, тем больше наших ресурсов она будет поглощать, а не производить."
+ annexation_events.1003.a: "Освободить Рейнское государство"
+ annexation_events.1003.b: "Освободить Рейнское государство и наложить репарации"
+ annexation_events.1003.c: "[hesse.GetGrantTerritoryEventOption]"
+ annexation_events.1003.d: "[westphalia.GetGrantTerritoryEventOption]"
+ annexation_events.1003.e: "Аннексировать западный берег Рейна, остальное отдать [germany.GetNameDef]"
+ annexation_events.1003.f: "Аннексировать западный берег Рейна, остальное отдать [hesse.GetNonIdeologyNameDef]"
+ annexation_events.1003.g: "Аннексировать западный берег Рейна, остальное отдать [westphalia.GetNonIdeologyNameDef]."
+ annexation_events.1003.h: "Аннексировать Западный берег Рейна."
+  
+ annexation_59: "Судьба Северной Германии"
+ annexation_59_desc: "Прежде чем пруссаки стали доминировать в Европе, они подчинили себе Германию, а прежде чем подчинить Германию, они начали с Северогерманской федерации. Теперь [Root.GetNameDef] отнял даже Северную Германию, и теперь [Root.GetNameDef] должен определить, что станет с нижнесаксонскими землями. Мы можем создать марионеточное государство в Гамбурге или Брауншвейге, впервые за много веков переместив центр политической жизни Германии на запад. В качестве альтернативы мы могли бы отдать предпочтение одному из других союзных Германии государств, возможно, укрепив их легитимность и власть, чтобы в один прекрасный день самим воссоединить Германию. Можем ли мы позволить себе рискнуть? Или ради безопасности Европы наши солдаты должны оккупировать Северную Германию в обозримом будущем?"
+ annexation_events.1004.a: "Освободить лояльное Северогерманское государство"
+  
+ annexation_782: "Судьба региона [782.GetName]"
+ annexation_782_desc: "Одной из первых жертв прусского империализма стала датскоязычная провинция [782.GetName]. Именно после Второй Шлезвигской войны 1860-х годов Пруссия получила возможность доминировать над Германией в результате войны, начавшейся вокруг их базы в этом регионе, и хотя Дания и Германия были союзниками в течение столетия после этого, для местного населения остается больным вопросом, что им управляют иностранцы. Однако иногда дипломатическая и военная необходимость берет верх над неясными вопросами лингвистической истории, и нет никаких сомнений в том, что эта территория была бы в большей безопасности в руках немецкого союзника, чем датского врага. Наш военный командующий в регионе пока справляется с беспорядками, но стоит ли нам принять решение о будущем [782.GetName] и избавить его от проблем?"
+  
+ annexation_64: "Судьба Бранденбурга"
+ annexation_64: "Бранденбург был центром притяжения Пруссии, а значит, и образованной Пруссией Германской империи. На протяжении десятилетий в Берлине кипела деятельность, в основном политиков и дипломатов великих держав, а с [GetYear] года - приказы и крики солдат, а теперь и принудительная тишина в рамках [Root.GetAdjective]ого военного положения. С концом прежнего немецкого государства почти неизбежно приходит начало нового.\n\nГерманское государство, основанное в Берлине, было бы мощным претендентом на воссоединение Германии в один прекрасный день, поэтому некоторые в нашем правительстве предлагают предоставить Бранденбург и Берлин немецкой земле, основанной в одном из западных городов, чтобы Пруссия никогда больше не смогла подняться. Другие указывают на необходимость иметь сильного прусского союзника, чтобы противостоять нашим врагам на их границах, и утверждают, что с нашим военным превосходством над Европой Пруссии и в голову не придет бросить нам вызов. Несомненно, пруссаки могли бы оценить иронию хорошей, долгой "временной" военной оккупации."
+ annexation_events.1006.a: "Освободить лояльное Прусское государство"
+ annexation_events.1006.b: "Короновать великого князя Бориса как короля Пруссии!"
+ annexation_events.1006.c: "[north_germany.GetGrantTerritoryEventOption]"
+  
+ annexation_776: "Судьба региона [776.GetName]"
+ annexation_776_desc: "Регион [776.GetName] был взят под наш контроль, так как наши войска оккупировали этот регион. Теперь мы должны решить, что с ним делать."
+ annexation_events.1007.a: "[poznan.GetGrantTerritoryEventOption]"
+ annexation_events.1007.b: "[pomerania.GetGrantTerritoryEventOption]"
+
+ annexation_5: "Судьба региона [5.GetName]"
+ annexation_5_desc: "Регион [5.GetName] был взят под наш контроль, так как наши войска оккупировали этот регион. Теперь мы должны решить, что с ним делать."
+ annexation_events.1008.a: "Освободить восточнопрусское государство."
+ annexation_events.1008.b: "[hither_pomerania.GetGrantTerritoryEventOption]"
+ annexation_events.1008.c: "[farther_pomerania.GetGrantTerritoryEventOption]"
+
+ annexation_86: "Судьба региона [86.GetName]"
+ annexation_86_desc: "Регион [86.GetName] был взят под наш контроль, так как наши войска оккупировали этот регион. Теперь мы должны решить, что с ним делать."
+ annexation_events.1009.a: "[neumark.GetGrantTerritoryEventOption]"
+
+ annexation_777: "Судьба региона [777.GetName]"
+ annexation_777_desc: "Регион [777.GetName] был взят под наш контроль, так как наши войска оккупировали этот регион. Теперь мы должны решить, что с ним делать."
+ annexation_events.1010.a: "[plock.GetGrantTerritoryEventOption]"
+ annexation_events.1010.b: "[west_prussia.GetGrantTerritoryEventOption]"
+
+ annexation_188: "Судьба региона [188.GetName]"
+ annexation_188_desc: "Регион [188.GetName] был взят под наш контроль, так как наши войска оккупировали этот регион. Теперь мы должны решить, что с ним делать."
+ annexation_events.1011.a: "[samogitia.GetGrantTerritoryEventOption]"
+
+ annexation_67: "Судьба региона [67.GetName]"
+ annexation_67_desc: "Регион [67.GetName] был взят под наш контроль, так как наши войска оккупировали этот регион. Теперь мы должны решить, что с ним делать."
+  
+ annexation_52: "Судьба Южной Германии"
+ annexation_52_desc: "Вся Южная Германия оказался под нашим контролем. В настоящее время наши вооруженные силы сталкиваются с определенным противодействием со стороны местного населения. Мы можем оставить это на усмотрение местных органов власти в регионе, чтобы они могли позаботиться о любых диссидентах."
+ annexation_events.1013.a: "Освободить лояльное Южногерманское государство"
+  
+ annexation_10: "Судьба Польши"
+ annexation_10_desc: "Польша вновь оказалась на грани того, чтобы быть стертой с карты Европы. Некогда мощный игрок в европейской геополитике, три раздела Польши в конце XVIII века присоединили Польшу-Литву к трем соседям, и только победа Германии над Россией в Первом Вельткриге восстановила ее, хотя и в виде оболочки прежней сущности. После капитуляции властей в Варшаве перед [ROOT.GetAdjective]ими войсками  мы теперь контролируем большую часть страны, и, соответственно, ее судьба находится в наших руках. Должны ли мы предоставить Польше свободу, хотя бы в рамках ограниченного королевства прошлого века? Конечно, если мы сделаем этот шаг, ничто не помешает нам навязать правительство, отвечающее нашим интересам, или позволить этому дружественному правительству реализовать панславистские мечты о Великой Польше. С другой стороны, если того требуют наши интересы, мы можем последовать примеру многих держав до нас и навсегда снять красно-белый польский биколор."
+ annexation_events.1014.a: "Освободить Польскую республику"
+ annexation_events.1014.b: "Восстановить монархию Гогенцоллернов"
+ annexation_events.1014.c: "Восстановить монархию Габсбургов"
+ annexation_events.1014.d: "Установить власть немецких военных."
+  
+ annexation_97: "Судьба региона [97.GetName]"
+ annexation_97_desc: "Наши войска маршируют по улицам города [97.GetName], не встречая никакого сопротивления. Теперь мы должны решить, что делать с их землями"
+  
+ annexation_13: "Судьба Эстонии"
+ annexation_13_desc: "Большая часть Эстонии оказалась под нашим контролем, так как наши войска оккупировали этот регион. Теперь мы должны решить, что с этим делать."
+ annexation_events.1016.a: "Освободить Эстонию!"
+  
+ annexation_842: "[annexation_latvia_title]"
+ annexation_842_desc: "[annexation_latvia_description]"
+ annexation_latvia_latvia: "Судьба Латвии"
+ annexation_latvia_latvia_desc: "Большая часть Латвии оказалась под нашим контролем, так как наши войска оккупировали этот регион. Теперь мы должны решить, что с этим делать."
+ annexation_latvia_baltic: "Судьба стран Балтии"
+ annexation_latvia_baltic_desc: "Большая часть Прибалтики оказалась под нашим контролем, поскольку наши войска оккупировали регион. Теперь мы должны решить, что с ними делать."
+ annexation_events.1017.a: "Освободить Латвию!"
+ annexation_events.1017.b: "Создать Балтийский Союз!"
+ annexation_events.1017.c: "Восстановить Балтийское герцогство!"
+  
+ annexation_11: "Судьба Литвы"
+ annexation_11_desc: "Литва пала под натиском наших войск. Теперь мы должны решить, что делать с этими землями."
+ annexation_events.1018.a: "Освободить верную Литву."
+  
+ annexation_96: "Судьба Вильнюса"
+ annexation_96_desc: "Спорный город Вильнюс оказался под нашим контролем, так как наши войска оккупировали этот регион. Теперь мы должны решить, что с ним делать."
+  
+ annexation_4: "Судьба Австрии"
+ annexation_4_desc: "Австрия пала. Наши войска патрулируют улицы Вены и окрестных городов, чтобы предотвратить восстания и любые проявления дестабилизации. Однако некоторые полагают, что создание местного австрийского правительства было бы более полезным."
+ annexation_events.1020.a: "Освободить Австрийскую республику."
+ annexation_events.1020.b: "Восстановить власть Габсбургов."
+ annexation_events.1020.e: "[bavaria.GetGrantTerritoryEventOption]"
+  
+ annexation_9: "Судьба Богемии"
+ annexation_9_desc: "Древняя родина чехов завоевано нашими победоносными войсками. Почтенная жемчужина реки Влтавы, Прага, занята нашими войсками, которые проходят парадом по Вацлавской площади. Должны ли мы поддержать чешское правительство, лояльное к замыслам нашего государства, или сохранить эту великолепную военную оккупацию?"
+ annexation_events.1021.a: "Освободить Чехию!"
+ annexation_events.1021.b: "Освободить Чехословакию!"
+  
+ annexation_88: "Судьба региона [88.GetName]"
+ annexation_88_desc: "Регион [88.GetName] был взят под наш контроль, так как наши войска оккупировали этот регион. Теперь мы должны решить, что с ним делать."
+ annexation_events.1022.a: "Освободить Галицию."
+ annexation_events.1022.b: "[danubia.GetGrantTerritoryEventOption]"
+
+ annexation_80: "Судьба региона [80.GetName]"
+ annexation_80_desc: "Регион [80.GetName] был взят под наш контроль, так как наши войска оккупировали этот регион. Теперь мы должны решить, что с ним делать."
+  
+ annexation_43: "Судьба Венгрии"
+ annexation_43_desc: "Венгрия пала. Наши войска патрулируют улицы Будапешта и задерживают партизанов по всей стране, но должно ли такое положение вещей оставаться постоянным?"
+ annexation_events.1024.a: "Освободить Венгрию"
+ annexation_events.1024.b: "Восстановить власть Габсбургов"
+  
+ annexation_70: "Судьба Словакии"
+ annexation_70_desc: "После непродолжительной кампании в горах Словакии мы полностью разбили вражеские силы. Вся Словакия в наших руках, и мы должны решить, что делать с этими землями."
+ annexation_events.1025.a: "Освободить дружественную Словакию!"
+  
+ annexation_73: "Судьба региона [73.GetName]"
+ annexation_73_desc: "Маленькое регион [73.GetName] сейчас находится под нашим контролем, мы должны решить, что с ним делать."
+ annexation_events.1026.a: "[miskolc.GetGrantTerritoryEventOption]"
+  
+ annexation_84: "Судьба Трансильвании"
+ annexation_84_desc: "После продолжительной кампании в данном регионе мы полностью разбили вражеские силы. Вся Трансильвания в наших руках, и мы должны решить, что делать с этими землями."
+ annexation_events.1027.a: "Освободить дружественную Трансильванию!"
+ annexation_events.1027.b: "Разделите её между [muntenia.GetNonIdeologyNameDef] и [central_hungary.GetNonIdeologyNameDef]."
+ annexation_events.1027.c: "Предложите её [can_offer_transylvania_to_romania.GetNonIdeologyNameDef] в обмен на союз."
+  
+ annexation_875: "Судьба Западного Баната"
+ annexation_875_desc: "Небольшой регион Западный Банат сейчас находится под нашим контролем, мы должны решить, что с ним делать."
+ annexation_events.1028.a: "[vojvodina.GetGrantTerritoryEventOption]"
+ annexation_events.1028.b: "[banat.GetGrantTerritoryEventOption]"
+  
+ annexation_45: "Судьба Воеводины"
+ annexation_45_desc: "Маленький регион Воеводина сейчас находится под нашим контролем, мы должны решить, что с ним делать."
+ annexation_events.1029.a: "[syrmia.GetGrantTerritoryEventOption]"
+  
+ annexation_784: "Судьба Бургенланда"
+ annexation_784_desc: "Регион Бургенланда теперь находится под нашим контролем, мы должны решить, что с ним делать."
+  
+ annexation_109: "Судьба Хорватии"
+ annexation_109_desc: "Мы взяли под контроль хорватские территории, и среди местных жителей наблюдается определенная степень сопротивления. Мы должны решить, что делать с их землями."
+ annexation_events.1031.a: "Освободить Хорватию!"
+ annexation_events.1031.b: "Освободить единую Югославию."
+ annexation_events.1031.c: "Предложите её [can_offer_croatia_to_serbia.GetNonIdeologyNameDef] в обмен на союз."
+  
+ annexation_163: "Судьба Далмации"
+ annexation_163_desc: "Наши войска заняли небольшой район Далмации, и мы должны решить, что с ним делать."
+ annexation_events.1032.a: "[bosnia.GetGrantTerritoryEventOption]"
+  
+ annexation_102: "Судьба Словении"
+ annexation_102_desc: "Мы получили контроль над оккупированными словенскими территориями. Что мы с ними будем делать?"
+ annexation_events.1033.a: "Освободить Словению"
+  
+ annexation_736: "Вопрос об [736.GetName]"
+ annexation_736_desc: "Мы взяли под контроль бывшие австрийские территории в маркграфстве Истрия. Мы должны решить, что с ними делать."
+  
+ annexation_488: "Судьба региона [488.GetName]"
+ annexation_488_desc: "Мы взяли под свой контроль бывший австрийский портовый город [488.GetName]. Мы должны решить, что с этим делать."
+  
+ annexation_783: "Судьба Трентино"
+ annexation_783_desc: "Южная часть бывшего графства Тироль является домом для многих итальянцев. Мы должны решить, что делать с этим регионом."
+  
+ annexation_3: "Судьба Швейцарии"
+ annexation_3_desc: "После свирепых боев в долинах Альп Швейцария капитулировала, и некому больше охранять ее богатства. Но простой народ сопротивляется нашему управлению. Что мы должны сделать? "
+ annexation_events.1037.a: "Освободить Швейцарию"
+ 
+ annexation_760: "Судьба Романдии"
+ annexation_760_desc: "Теперь, когда регион Романдии находится под нашим контролем, мы должны решить, что с ним делать."
+  
+ annexation_761: "Судьба Тичино"
+ annexation_761_desc: "Теперь, когда регион Тичино находится под нашим контролем, мы должны решить, что с ним делать."
+ 
+ annexation_16: "Судьба Франции"
+ annexation_16_desc: "Париж был захвачен, и французы потерпели поражение. Мы вырвали сердце революции, и теперь должны решить, что делать с оккупированной Францией."
+ annexation_events.1041.a: "Восстановить Французскую Коммуну!"
+ annexation_events.1041.b: "Восстановить национальную Францию!"
+ annexation_events.1041.c: "Освободить Францию под марионеточным правительством."
+ annexation_events.1041.d: "Свяжитесь с французами в Лионе"
+  
+ annexation_14: "Судьба Бретани"
+ annexation_14_desc: "Полуостров Бретань оказался под нашим контролем, поскольку наши войска оккупировали этот регион. Теперь мы должны решить, что с ним делать."
+ annexation_events.1042.a: "Освободить Бретань"
+  
+ annexation_17: "Судьба региона [17.GetName]"
+ annexation_17_desc: "Регион [17.GetName] был взяты под наш контроль, когда наши войска оккупировали этот регион. Теперь мы должны решить, что с ним делать."
+  
+ annexation_126: "[annexation_britain_title]"
+ annexation_126_desc: "[annexation_britain_description]"
+ annexation_britain_britain: "Судьба Британии"
+ annexation_britain_desc_britain: "После победы над Британским Союзом мы теперь контролируем Великобританию. Мы можем разделить эти земли и создать новые страны с лояльными правительствами или создать единую Великобританию."
+ annexation_britain_desc_britain_GER: "После победы над Британским Союзом мы теперь контролируем Великобританию. Несмотря на то, что очевидный выбор будет сделан в пользу воссоздания нашей собственной Британии, некоторые члены Высшего командования предложили разрушить Британию, разделив ее на более мелкие составляющие государства. Конечно, мы также могли бы просто оккупировать весь остров."
+ annexation_britain_england: "Судьба Англии"
+ annexation_britain_desc_england: "Мы получили контроль над Лондоном, а значит, и над сердцем Англии. Теперь мы должны решить, что делать с британской территорией."
+ annexation_events.1044.a: "Создать лояльное британское правительство"
+ annexation_events.1044.b: "Разделить остров между Англией и Шотландией"
+ annexation_events.1044.c: "Разделить остров между Англией, Уэльсом и Шотландией"
+ annexation_events.1044.d: "Создать лояльное английское правительство"
+ annexation_events.1044.e: "Восстановить свободную Великобританию!"
+  
+ annexation_121: "Судьба Шотландии"
+ annexation_121_desc: "Шотландия была взята под наш контроль, когда наши войска оккупировали регион. Теперь мы должны решить, что с ним делать."
+ annexation_events.1045.a: "Освободить независимую Шотландию, верную нам!"
+  
+ annexation_122: "Судьба Уэльса"
+ annexation_122_desc: "Уэльс была взята под наш контроль, когда наши войска оккупировали регион. Теперь мы должны решить, что с ним делать."
+ annexation_events.1046.a: "Освободить независимый Уэльс, верный нам!"
+  
+ annexation_113: "Судьба Ирландии"
+ annexation_113_desc: "[annexation_ireland_description]"
+ annexation_ireland_desc_other: "Мы контролируем весь Ирландский остров, теперь необходимо решить их судьбу."
+ annexation_ireland_desc_GBR: "Контроль над Ирландией всегда был сложной задачей для британского правительства. Между нашими народами накопилось много долгих лет неприязни, и мы давно узнали, что попытки управлять ирландцами не приносят нам радости. Но времена изменились. Управляем ли мы Ирландией напрямую или вернемся к идее Домашнего правления, на которую мы согласились после последней Войны за независимость?"
+ annexation_ireland_desc_ENG: "Наши люди маршируют по Дублину, и Ирландская республиканская армия разбилась о наши вооруженные силы. Тем временем мы должны принять решение о будущем Ирландии. Одни утверждают, что Ирландия должна быть аннексирована в Британский Союз, другие утверждают, что это был бы акт несоциалистического империализма и что это не было бы поддержано ирландским народом, что привело бы нас к кровопролитной партизанской войне."
+ annexation_events.1047.a: "Они получат свою независимость"
+ annexation_events.1047.b: "Разрешить реформирование независимой союзной республики"
+ annexation_events.1047.c: "Ирландии будет предоставлено ограниченное самоуправление"
+ annexation_events.1047.d: "Все 32 графства должны стать доминионами короны"
+ annexation_events.1047.e: "Северная Ирландия останется в составе Союза, а остальная часть будет иметь ограниченное самоуправление"
+  
+ annexation_7: "Судьба Нидерландов"
+ annexation_7_desc: "После короткой кампании по болотам и городским центрам Нидерландов нам удалось уничтожить гордый народ. Нидерланды сейчас в наших руках! Теперь мы должны принять решение об их будущем."
+ annexation_events.1048.a: "Освободить республику Нидерланды"
+ annexation_events.1048.b: "Восстановить монархию"
+ annexation_events.1048.c: "Предложите земли правительству-в-изгнании в обмен на союз."
+ annexation_events.1048.d: "Восстановить правительство-в-изгнании"
+    
+ annexation_925: "Судьба Фландрии"
+ annexation_925_desc: "Теперь мы контролируем голландскоязычную провинцию Фландрия, которая когда-то принадлежала Бельгии и Фландрии-Валлонии. Мы должны выбрать, что делать с нашей новой частью Бельгии."
+ annexation_events.1050.a: "Освободить Бельгийскую республику"
+ annexation_events.1050.b: "Освободить королевство Бельгия"
+ annexation_events.1050.c: "Освободить Фландрию"
+ annexation_events.1050.d: "Воссоздать герцогство Фландрия"
+ annexation_events.1050.e: "[wallonia.GetGrantTerritoryEventOption]"
+  
+ annexation_34: "Судьба Валлонии"
+ annexation_34_desc: "Теперь мы контролируем южную половину Валлонии, которая когда-то была оккупирована немецкой армией после Вельткрига, мы должны выбрать, что делать с нашей новой частью Бельгии."
+ annexation_events.1051.a: "Освободить Бельгийскую республику"
+ annexation_events.1051.b: "Освободить королевство Бельгия"
+ annexation_events.1051.c: "Освободить Валлонию"
+ annexation_events.1051.d: "[flanders.GetGrantTerritoryEventOption]"
+  
+ annexation_37: "Судьба Дании"
+ annexation_37_desc: "После короткой кампании через многочисленные острова Дании и захвата её столицы, нам удалось разрушить страну. Копенгаген сейчас в наших руках! Статус Атлантических островов Дании является особенно интересным делом, но мы все равно должны будем принять решение о будущем Дании."
+ annexation_events.1052.a: "Освободить Данию как монархию"
+ annexation_events.1052.b: "Освободить Данию как республику"
+  
+ annexation_100: "Судьба Исландии"
+ annexation_100_desc: "Кампания в Северной Атлантике окупилась: Исландия попали в наши руки, и теперь вопрос в том, что мы должны делать с этими бесплодными островами в Северной Атлантике?"
+ annexation_events.1053.a: "Освободить независимую Исландию"
+  
+ annexation_101: "Судьба Гренландии"
+ annexation_101_desc: "Кампания в Северной Атлантике окупилась: Гренландия попала в наши руки, и теперь вопрос в том, что мы должны делать с этим бесплодным островом в Северной Атлантике?"
+  
+ annexation_110: "Судьба Норвегии"
+ annexation_110_desc: "Норвежская армия капитулировала, а правительство пало. Наш флаг развевается над Осло. Теперь остается лишь сокрушить партизан, но может быть, стоит заручиться поддержкой норвежских сторонников для формирования правительства?"
+ annexation_events.1055.a: "Восстановить Норвежскую монархию!"
+ annexation_events.1055.b: "Создать Норвежскую республику"
+ annexation_events.1055.c: "Восстановить унию Швеции и Норвегии"
+  
+ annexation_141: "Судьба Швеции"
+ annexation_141_desc: "Министр Обороны заявил о полном разгроме шведской армии и капитуляции. Снаряжение и припасы уже захвачены и будут отгружены на нашу территорию. Полная и безоговорочная победа."
+ annexation_events.1056.a: "Восстановить шведского монарха на троне!"
+ annexation_events.1056.b: "Хватит монархов, освободить республиканскую Швецию"
+  
+ annexation_145: "Судьба Аландских островов"
+ annexation_145_desc: "Теперь, когда под нашим контролем находится балтийские Аландские острова, мы должны решить, что с ним делать."
+ annexation_events.1057.a: "[svealand.GetGrantTerritoryEventOption]"
+ annexation_events.1057.b: "[southwest_finland.GetGrantTerritoryEventOption]"
+  
+ annexation_840: "Судьба Финляндии"
+ annexation_840_desc: "Финским солдатам не хватило мужества и патриотизма, чтобы защитить свою Родину и после смерти. Финляндия пала. Теперь мы должны решить вопрос о том, как лучше всего управлять финнами."
+ annexation_events.1058.a: "Освободить Республику Финляндия."
+ annexation_events.1058.b: "Восстановить Королевство Финляндия"
+  
+ annexation_146: "Судьба Карелии"
+ annexation_146_desc: "Карельский полуостров оказался под нашим контролем, поскольку наши войска оккупировали этот регион. Теперь мы должны решить, что с ним делать."
+ annexation_events.1059.a: "[archangelsk.GetGrantTerritoryEventOption]"
+ annexation_events.1059.b: "[savo.GetGrantTerritoryEventOption]"
+  
+ annexation_202: "Судьба Украины"
+ annexation_202_desc: "После тяжелых боев нам удалось провести полномасштабное наступление и захватить 'Хлебную корзину' Европы. Киев теперь в наших руках!"
+ annexation_events.1060.a: "Освободить Украинскую республику!"
+ annexation_events.1060.b: "Освободить Украинский гетманат!"
+ annexation_events.1060.c: "Забрать Крым и освободить Украину!"
+  
+ annexation_93: "Судьба Бреста"
+ annexation_93_desc: "Спорный город Брест-Литовск оказался под нашим контролем, так как наши войска оккупировали регион. Теперь мы должны решить, что с ним делать."
+ annexation_events.1061.a: "Разделить его между [chelm.GetNonIdeologyNameDef] и [volhynia.GetNonIdeologyNameDef]."
+ annexation_events.1061.b: "Разделить его между [chelm.GetNonIdeologyNameDef] и [pinsk.GetNonIdeologyNameDef]."
+ annexation_events.1061.c: "Поделить его вместе с [chelm.GetNonIdeologyNameDef]."
+  
+ annexation_997: "Судьба Полесья"
+ annexation_997_desc: "Тихий район Полесья оказался под нашим контролем, поскольку наши войска оккупировали его. Теперь мы должны решить, что с ним делать."
+ 
+ annexation_206: "Судьба Беларуси"
+ annexation_206_desc: "После непродолжительной кампании в Беларуси мы полностью разбили вражеские силы и сломили оборону Минска. Вся Беларусь в наших руках, и мы должны решить, что делать с этими землями."
+ annexation_events.1063.a: "Освободить дружественную Беларусь!"
+ annexation_events.1063.b: "Освободить Беларусь под властью немецких военных."
+  
+ annexation_242_belarus: "Судьба Восточной Беларуси"
+ annexation_242_desc: "Бывший российский регион Восточной Беларуси теперь находится под нашим контролем, мы должны решить, что с ним делать."
+ annexation_events.1064.a: "[mohilev.GetGrantTerritoryEventOption]"
+ annexation_events.1064.b: "[kaluga.GetGrantTerritoryEventOption]"
+ annexation_events.1064.c: "Поделить её между [mohilev.GetNonIdeologyNameDef] и [kaluga.GetNonIdeologyNameDef]."
+  
+ annexation_219: "Судьба России"
+ annexation_219_desc: "После тяжелых боев нам удалось провести масштабное наступление и принудить к капитуляции русскую армию. Москва в наших руках, как и судьба России."
+ annexation_events.1065.a: "Освободить основные русские земли"
+ annexation_events.1065.b: "Отделить Сибирь от России"
+  
+ annexation_880: "Судьба региона [880.GetName]"
+ annexation_880_desc: "[880.GetName] был взят под наш контроль, так как наши войска оккупировали этот регион. Теперь мы должны решить, что с ним делать."
+ annexation_events.1066.a: "[livonia.GetGrantTerritoryEventOption]"
+ annexation_events.1066.b: "[courland.GetGrantTerritoryEventOption]"
+ annexation_events.1066.c: "[pskov.GetGrantTerritoryEventOption]"
+ annexation_events.1066.d: "[velikiye_luki.GetGrantTerritoryEventOption]"
+  
+ annexation_44: "Судьба Албании"
+ annexation_44_desc: "После похода по албанской сельской местности, наши враги в Тиране окончательно капитулировали, оставив нам контроль над своей страной. Наше положение в Адриатике закрепилось, но теперь мы должны решить, что делать с Албанией."
+ annexation_events.1068.a: "Освободить Албанскую республику"
+ annexation_events.1068.b: "Освободить Королевство Албания."
+ annexation_events.1068.c: "Забрать Гегарию и освободить остальное."
+ annexation_events.1068.d: "Забрать Гегарию и отдать остатки нашим [ROOT.overlord.GetAdjective]им хозяевам."
+  
+ annexation_105: "Судьба Черногории"
+ annexation_105_desc: "Черногория пала под нашим натиском и находится в оккупации. Однако, мы не можем вечно оставаться в этом негостеприимном регионе. Нам надо решить, что же делать с этими землями."
+ annexation_events.1069.a: "Освободить республику"
+ annexation_events.1069.b: "Восстановить Королевство Черногория"
+  
+ annexation_104: "Судьба Боснии"
+ annexation_104_desc: "Разделённые земли Боснии пали под нашим вторжением. Наши войска проходят парадом по Сараево и настало время решить, что нам делать с этими землями."
+ annexation_events.1070.a: "Освободить Боснию."
+ annexation_events.1070.b: "Предложить её [SER.GetNameDef] в обмен на союз."
+  
+ annexation_765: "Судьба Косово"
+ annexation_765_desc: "Маленькое государство Косово сейчас находится под нашим контролем, мы должны решить, что с ним делать."
+ annexation_events.1071.a: "[ghegeria.GetGrantTerritoryEventOption]"
+  
+ annexation_107: "Судьба Сербии"
+ annexation_107_desc: "Сербское государство официально было присоединено, а наши войска уже проводят парад на улицах Белграда. Элемент дестабилизации Балкан наконец был выведен из игры."
+ annexation_events.1072.a: "Освободить Сербию!"
+ annexation_events.1072.b: "Освободите Югославию!"
+ annexation_events.1072.c: "Мы будем искать новое, югославское направление."
+  
+ annexation_767: "Судьба региона [767.GetName]"
+ annexation_767_desc: "Регион [767.GetName] десятилетиями был объектом споров между Сербией и Болгарией. Кому мы должны передать его?"
+ annexation_events.1073.a: "[macedonia.GetGrantTerritoryEventOption]"
+  
+ annexation_841: "Судьба региона [841.GetName]"
+ annexation_841_desc: "Прибрежный регион [841.GetName] теперь под нашим контролем, и мы должны решить, что с ним делать."
+ annexation_events.1074.a: "[montenegro.GetGrantTerritoryEventOption]"
+ annexation_events.1074.b: "[dalmatia.GetGrantTerritoryEventOption]"
+  
+ annexation_106: "Судьба Македонии"
+ annexation_106_desc: "Маленькое государство Македония сейчас находится под нашим контролем, мы должны решить, что с ним делать."
+ annexation_events.1075.a: "[sofia.GetGrantTerritoryEventOption]"
+ annexation_events.1075.b: "Предложите её [can_offer_macedonia_to_serbia.GetNameDef] в обмен на союз."
+ annexation_events.1075.c: "Предложите её[can_offer_macedonia_to_bulgaria.GetNameDef] в обмен на союз."
+  
+ annexation_46: "Судьба Румынии"
+ annexation_46_desc: "Румынские войска наконец-то капитулировали перед нашей высшей властью. Пришло время решить, что делать с их землями. "
+ annexation_events.1076.a: "Освободить Республику Румыния"
+ annexation_events.1076.b: "Восстановить Королевство Румыния."
+ 
+ annexation_48: "Судьба Болгарии"
+ annexation_48_desc: "После долгой борьбы с Болгарской Империей на Балканах мы провели наступление по всему фронту и решительным ударом захватили Софию — столицу Балканского Империализма!"
+ annexation_events.1077.a: "Освободить республиканскую Болгарию."
+ annexation_events.1077.b: "Восстановить царя на троне."
+  
+ annexation_773: "Судьба Константинополя"
+ annexation_773_desc: "После успешной кампании в Константинополе, у нас теперь есть задача создать новую местную административную власть для восстановления мира, однако есть несколько вариантов нашего выбора..."
+  
+ annexation_47: "Судьба Греции"
+ annexation_47_desc: "Греческий полуостров был обезопасен, а Греция аннексирована. Колыбель европейской цивилизации и культуры в наших руках..."
+ annexation_events.1079.a: "Освободить Греческую республику"
+ annexation_events.1079.b: "Освободить Королевство Греция"
+ annexation_events.1079.c: "Освободить Эллинскую Коммуну"
+  
+ annexation_989: "Судьба региона [989.GetName]"
+ annexation_989_desc: "После оккупации области вокруг Южной Македонии у нас возникла дилемма относительно того, кто должен управлять этой землей. Должны ли мы передать ее Греции или Болгарии? Греция имеет историческое население в Южной Македонии, но Болгария сейчас контролирует ее более 15 лет, и передать управление ей может быть проще."
+ annexation_events.1080.a: "[central_greece.GetGrantTerritoryEventOption]"
+ annexation_events.1080.b: "[florina.GetGrantTerritoryEventOption]"
+ annexation_events.1080.c: "[serres.GetGrantTerritoryEventOption]"
+  
+ annexation_766: "Судьба Северного Эпира"
+ annexation_766_desc: "Маленькое государство Северного Эпира сейчас находится под нашим контролем, мы должны решить, что с ним делать."
+ annexation_events.1082.a: "[toskeria.GetGrantTerritoryEventOption]"
+ annexation_events.1082.b: "[epirus.GetGrantTerritoryEventOption]"
+  
+ annexation_183: "Судьба Кипра"
+ annexation_183_desc: "Наши армии сумели взять Кипр под свой контроль, а сам остров теперь оккупирован нами. Сейчас перед нами несколько вариантов. Мы можем либо создать на острове марионетку, либо взять его под свой контроль, поскольку он занимает ключевое положение в Средиземноморье и имеет решающее значение для сохранения контроля над этим районом. Что же нам делать?"
+ annexation_events.1083.a: "Освободить Кипр"
+  
+ annexation_41: "Судьба Испании"
+ annexation_41_desc: "Испания, бывшая империя, раскинувшаяся по всему миру, пала перед нашими войсками. На протяжении более века эта страна была раздираема войной; она пережила разрушительную гражданскую войну, изнурительную битву за Риф в 1920-х годах, унизительное поражение от США в 1898 году, три Карлистские войны, не говоря уже о последствиях Наполеоновских войн.\n\nИспанское общество и его экономика долгое время находились на задворках, будь то в результате внутренних или внешних причин. Поскольку нашему правительству предстоит решать, что делать с Испанией, мы должны действовать осторожно, чтобы не повторить ошибок прошлого. Для того чтобы Испания восстановилась, ее необходимо ввести в современную эпоху, как в социальном, так и в экономическом плане."
+ annexation_events.1084.a: "Установить социалистический режим."
+ annexation_events.1084.b: "Восстановить королевство под властью [annexation_spain_kingdom_option]."
+ annexation_spain_carlists_option: "карлистов"
+ annexation_spain_alfonsists_option: "альфонсистов"
+ annexation_events.1084.c: "Освободить Испанскую Республику."
+ annexation_events.1084.d: "Оккупировать Испанию и отдельно решать вопрос остальных регионов."
+  
+ annexation_171: "Судьба Галисии"
+ annexation_171_desc: "Начиная с XII века галисийский язык демонстрировал явные признаки развития на основе латыни. В течение нескольких столетий он был близок к португальскому, но к XV веку эти два языка начали расходиться. С XVI по XIX век для галисийского языка и культуры наступила темная эпоха: галисийский язык стал заменяться испанским в письменности и использовался в основном в устной речи. Однако в XIX веке началось возрождение, направленное на придание культуре и языку официального статуса, что привело к призывам к автономии в попытке обратить вспять растущую централизацию. В 1910-1920-х годах возникло националистическое движение, хотя в конечном итоге оно оказалось незначительным. Тем не менее, автономистское движение получило некоторое развитие в это время, хотя и не смогло ничего добиться при правлении Примо де Ривера.\n\nПосле оккупации Галисии у нас осталось несколько вариантов того, что следует делать с этой территорией."
+ annexation_events.1085.a: "Отпустить верную Галисию"
+ annexation_events.1085.b: "[spain_leon.GetGrantTerritoryEventOption]"
+ annexation_events.1085.c: "[spain_asturias.GetGrantTerritoryEventOption]"
+
+ annexation_118: "Судьба Гибралтара"
+ annexation_118_desc: "Гибралтар, ворота в Средиземное море и крупная военно-морская база, теперь находится в нашем владении. На протяжении веков Гибралтар ценился за свою оборонительную достопримечательность "Гибралтарскую скалу". Она находилась под контролем Великобритании с начала XVIII века до 1925 года, когда после британской революции она вновь перешла под суверенитет Испании. Это стало крупной пропагандистской победой режима Мигеля Примо де Риверы, хотя в конечном итоге лишь отсрочило его падение. Тем не менее, судьба этого стратегического объекта должна быть решена."
+ annexation_events.1086.a: "[spain_seville.GetGrantTerritoryEventOption]"
+ annexation_events.1086.b: "[spain_malaga.GetGrantTerritoryEventOption]"
+ annexation_events.1086.c: "Мы будем контролировать скалу столько, сколько посчитаем нужным.."
+  
+ annexation_1070: "Судьба Страны Басков"
+ annexation_1070_desc: "Баски, которые, как утверждают, появились еще во времена Римской империи, на протяжении тысячелетий сопротивлялись ассимиляции. В состав испанской части страны входят Алава, Бискайя, Гипускоа и Наварра. В XIX веке возникло националистическое движение, недовольное лишением региона большей части автономии, в частности, отменой "фуэрос". Карлизму удалось закрепиться в регионе, особенно в сельских районах Наварры, благодаря обещанию восстановить фуэрос. Несмотря на существующее националистическое движение, регион не является культурно однородным. Особенно в Наварре, где многие не идентифицируют себя как баски. Тем не менее, есть несколько предложений о том, как можно решить проблему басков."
+ annexation_events.1087.a: "Отпустить верную Баскскую марионетку"
+ annexation_events.1087.b: "Поделить регион между [BAS.GetNonIdeologyNameDef] и [spain.GetNonIdeologyNameDef]."
+  
+ annexation_165: "Судьба Каталонии"
+ annexation_165_desc: "Каталонский язык, романский язык, который, как говорят, впервые возник, когда регион был частью Римской империи, был широко распространен на протяжении веков в регионах Каталонии, Валенсии и Балеарских островов. Под властью Арагонской короны в период с 1137 по 1516 год каталонская культура процветала и развивались отдельные институты. После объединения Кастилии и Арагона в 1516 году Каталония некоторое время пользовалась автономией, которой обладала ранее, однако в последующие несколько столетий она постепенно начала лишаться в результате усиления централизации. Декреты "Нуэва Планта" начала XVIII века упразднили Арагонскую корону, включая старые законы и институты, сложившиеся ранее.\n\n С началом индустриализации и культурного возрождения в XIX веке каталонский национализм начал пускать корни, стремясь, по крайней мере, к федерализации региона. В 1914 году было создано Содружество Каталонии, в результате чего в 1919 году был представлен Статут об автономии, который в конечном итоге провалился с приходом к власти Мигеля Примо де Риверы.\n\n[annexation_catalonia_description]. После всего сказанного и сделанного будущее Каталонии должно быть решено."
+ annexation_catalonia_description_greater: "Поскольку мы оккупировали каталонские земли за пределами Каталонии, варианты того, что делать с регионом, стали более разнообразными: некоторые предлагают создать Великую Каталонию, охватывающую всех говорящих на каталонском языке"
+ annexation_catalonia_description_proper: "Поскольку мы оккупируем только собственно Каталонию, наши варианты того, что делать с регионом, будут более ограниченными"
+ annexation_events.1088.a: "Освободить [annexation_catalonia_option]."
+ annexation_catalonia_option_greater: "Великую Каталонию"
+ annexation_catalonia_option_proper: "Каталонию"
+ annexation_events.1088.b: "Разделить регион между [CAT.GetNameDef] и [spain.GetNameDef]."
+
+ annexation_112: "Судьба Португалии"
+ annexation_112_desc: "Правительство в Лиссабоне, наконец, было вытеснено в море, но нам осталось решать судьбу португальского народа. Освобождаем ли мы их как собственную нацию, следуя нашим справедливым принципам?"
+ annexation_events.1089.a: "Освободить Португальскую Республику"
+ annexation_events.1089.b: "Восстановите Королевство Португалии"
+  
+ POR_puppet_tooltip: "Новое правительство будет организовано на материковой части Португалии."
+    
+ annexation_1: "Судьба Корсики"
+ annexation_1_desc: "Теперь, когда мы контролируем остров Корсика, должны ли мы сами управлять этим районом или передать его нашим местным союзникам?"
+ annexation_events.1091.b: "[france_exile.GetGrantTerritoryEventOption]"
+ annexation_events.1091.c: "[italy_piedmont.GetGrantTerritoryEventOption]"
+ annexation_events.1091.d: "[italy_tuscany.GetGrantTerritoryEventOption]"
+ annexation_events.1091.e: "[italy_latium.GetGrantTerritoryEventOption]"
+ annexation_events.1091.f: "[italy_campania.GetGrantTerritoryEventOption]"
+ annexation_events.1091.g: "[italy_sardinia.GetGrantTerritoryEventOption]"
+  
+ annexation_1003: "Судьба долины Аоста"
+ annexation_1003_desc: "Поскольку регион Долины Аоста находится под нашим контролем, мы должны решить, что с ним делать."
+  
+ annexation_158: "Судьба Пьемонта"
+ annexation_158_desc: "Наши армии взяли под свой контроль Пьемонт, а местные жители жаждут самоуправления. Мы должны решить, что делать с регионом."
+ annexation_events.1094.a: "Освободить Сардинию-Пьемонт"
+ annexation_events.1094.b: "[sardinia.GetGrantTerritoryEventOption]"
+ annexation_events.1094.c: "Предложить её [sardinia.GetNonIdeologyNameDef] в обмен на союз."
+
+ annexation_159: "Судьба Ломбардии"
+ annexation_159_desc: "Наши армии взяли под свой контроль Ломбардию, а местные жители жаждут самоуправления. Мы должны решить, что делать с регионом."
+ annexation_events.1095.a: "Восстановить власть Висконти"
+ annexation_events.1095.b: "Освободить Республику Ломбардия"
+ annexation_events.1095.c: "Отдать её нашим [VNC.GetAdjective]им союзникам"
+  
+ annexation_160: "Судьба Венеции"
+ annexation_160_desc: "Наши армии взяли под свой контроль Венецию, а местные жители жаждут самоуправления. Мы должны решить, что делать с регионом."
+ annexation_events.1096.a: "Освободить Венецианскую республику"
+  
+ annexation_1004: "Судьба Эмилии"
+ annexation_1004_desc: "Наши армии взяли под свой контроль Эмилию, а местные жители жаждут самоуправления. Мы должны решить, что делать с регионом."
+ annexation_events.1097.a: "Освободить Эмилианскую республику"
+ annexation_events.1097.b: "Освободить герцогство Модена"
+ annexation_events.1097.c: "Освободить герцогство Парма"
+  
+ annexation_162: "Судьба Тосканы"
+ annexation_162_desc: "Наши армии взяли под свой контроль Тоскану, а местные жители жаждут самоуправления. Мы должны решить, что делать с регионом."
+ annexation_events.1098.a: "Освободить Великое Герцогство Тоскана"
+ annexation_events.1098.b: "Освободите Республику Тоскана"
+  
+ annexation_161: "Судьба Центральной Италии"
+ annexation_161_desc: "Наши армии взяли под свой контроль Центральную Италию, часть которой когда-то находилась под контролем Папских государств, а местные жители жаждут самоуправления. Мы должны решить, что делать с этим регионом."
+ annexation_events.1099.a: "Предложить её [PAP.GetNameDef] в обмен на альянс"
+ annexation_events.1099.b: "[PAP.GetGrantTerritoryEventOption]"
+  
+ annexation_2: "Судьба Рима"
+ annexation_2_desc: "В связи с тем, что наши войска контролировали вечный город и прилегающие к нему территории, был поднят вопрос об управлении этим районом. В то время как создание итальянского правительства могло бы дать нам право голоса на полуострове, восстановление Папского государства требует Святой Престол и высшее духовенство."
+ annexation_events.1100.a: "Восстановить Папское Государство"
+  
+ annexation_117: "Судьба Южной Италии"
+ annexation_117_desc: "Наши армии взяли под свой контроль Южную Италию, а местные жители жаждут самоуправления. Мы должны решить, что делать с регионом."
+ annexation_events.1101.a: "Восстановить Королевство Обеих Сицилий"
+  
+ annexation_114: "Судьба Сардинии"
+ annexation_114_desc: "Остров, укрепленный королем в изгнании, оказался твердым орешком, но теперь он в наших руках. Что нам делать с территорией?"
+ annexation_events.1102.a: "Освободить Сардинию"
+  
+ annexation_116: "Судьба Мальты"
+ annexation_116_desc: "Мальта была взята под наше руководство, а наши войска оккупировали остров. Теперь мы должны решить, что с ним делать."
+ annexation_events.1103.a: "Освободить Мальту"
+  
+ annexation_741: "Судьба региона [741.GetName]"
+ annexation_741_desc: "Пограничный бельгийский регион Вервье теперь находится под нашим контролем, мы должны решить, что с ним делать."
+  
+ annexation_924: "Судьба региона [924.GetName]"
+ annexation_924_desc: "[924.GetName], ранее принадлежавшее австрийской короне, является домом для поляков, чехов и немцев. Теперь мы должны решить, что с этим делать."
+ annexation_events.1105.a: "[moravia.GetGrantTerritoryEventOption]"
+  
+ annexation_71_plain: "Судьба Дунайской равнины"
+ annexation_71_desc: "Дунайская равнина, ранее входившая в состав Венгерского королевства, является домом для словаков, немцев и венгров. Теперь мы должны решить, что с этим делать."
+  
+ annexation_94: "Судьба региона [94.GetName]"
+ annexation_94_desc: "Регион вокруг [94.GetName] теперь под нашим контролем, мы должны решить, что с ним делать."
+  
+ annexation_241: "Судьба региона [241.GetName]"
+ annexation_241_desc: "Регион вокруг [241.GetName] теперь под нашим контролем, мы должны решить, что с ним делать."
+ annexation_events.1108.a: "[krichev.GetGrantTerritoryEventOption]"
+ annexation_events.1108.b: "[mozyr.GetGrantTerritoryEventOption]"
+ annexation_events.1108.c: "[chernihiv.GetGrantTerritoryEventOption]"
+ annexation_events.1108.d: "[starodub.GetGrantTerritoryEventOption]"
+  
+ annexation_683: "Судьба региона [683.GetName]"
+ annexation_683_desc: "Мы взяли под контроль бывшие австрийские территории Гориция и Градиска. Мы должны решить, что с ними делать."
+  
+ annexation_103: "Судьба региона [103.GetName]"
+ annexation_103_desc: "Мы взяли под контроль бывший австрийский портовый город [103.GetName]. Мы должны решить, что с ним делать."
+  
+ annexation_1090: "Судьба региона [1090.GetName]"
+ annexation_1090_desc: "Город [1090.GetName], ранее входивший в состав Королевства Венгрии, является домом для словаков, немцев и венгров. Теперь мы должны решить, что с ним делать."
+ annexation_events.1111.a: "[danubian_plain.GetGrantTerritoryEventOption]"
+ 
+ annexation_817: "Судьба региона [817.GetName]"
+ annexation_817_desc: "Регион [817.GetName] теперь находится под нашим контролем, мы должны решить, что с ним делать."
+ annexation_events.1112.a: "[languedoc.GetGrantTerritoryEventOption]"
+ annexation_events.1112.b: "[catalonia.GetGrantTerritoryEventOption]"
+  
+ annexation_1088: "Судьба региона [1088.GetName]"
+ annexation_1088_desc: "Регион [1088.GetName] теперь находится под нашим контролем, мы должны решить, что с ним делать."
+ annexation_events.1113.a: "[lublin.GetGrantTerritoryEventOption]"
+  
+ annexation_779: "Судьба региона [779.GetName]"
+ annexation_779_desc: "Регион [779.GetName], где проживает община басков, перешел под наш контроль. Полностью вошедшие в состав Франции по меньшей мере с XV века, баски пользовались значительной автономией, пока Французская революция в конце XVIII века не упразднила ее. С тех пор признание басков в регионе было ограничено, особенно с учетом того, что они составляют меньшинство в регионе. В испанской Стране Басков возникли националистические движения, надеющиеся сделать этот регион частью независимой Страны Басков. Это предлагает нам множество вариантов того, как мы можем к этому подойти."
+ annexation_events.1114.a: "[aquitaine.GetGrantTerritoryEventOption]"
+ annexation_events.1114.b: "[navarre.GetGrantTerritoryEventOption]"
+ annexation_events.1114.c: "[basque_country.GetGrantTerritoryEventOption]"
+  
+ annexation_65: "Судьба Саксонии"
+ annexation_65_desc: "Регион Саксония теперь находится под нашим контролем, мы должны решить, что с ним делать."
+ annexation_events.1115.a: "[brandenburg.GetGrantTerritoryEventOption]"
+  
+ annexation_58: "Судьба региона [58.GetName]"
+ annexation_58_desc: "Регион [58.GetName] теперь находится под нашим контролем, мы должны решить, что с ним делать."
+ annexation_events.1116.a: "[mecklenburg.GetGrantTerritoryEventOption]"
+  
+ annexation_234: "Судьба Кубани"
+ annexation_234_desc: "Степи Кубани теперь находятся под нашим контролем, мы должны решить, что с ними делать."
+ annexation_events.1118.a: "[yuzivka.GetGrantTerritoryEventOption]"
+  
+ annexation_232: "Судьба Северного Кавказа"
+ annexation_232_desc: "Горы Северного Кавказа теперь находятся под нашим контролем, мы должны решить, что с ними делать."
+ annexation_events.1119.a: "Освободить Горскую республику."
+   
+ annexation_943: "Судьба Савойи"
+ annexation_943_desc: "Савойя теперь находится под нашим контролем, мы должны решить, что с ней делать."
+ annexation_events.1121.a: "[burgundy.GetGrantTerritoryEventOption]"
+ annexation_events.1121.b: "[alpes.GetGrantTerritoryEventOption]"
+  
+ annexation_762: "Судьба региона [762.GetName]"
+ annexation_762_desc: "Город [762.GetName] и его окрестности теперь находятся под нашим контролем, мы должны решить, что с ними делать."
+ annexation_events.1122.a: "[provence.GetGrantTerritoryEventOption]"
+ annexation_events.1122.b: "[liguria.GetGrantTerritoryEventOption]"
+  
+ annexation_794: "Судьба региона [794.GetName]"
+ annexation_794_desc: "Регион [794.GetName] теперь находится под нашим контролем, мы должны решить, что с ним делать."
+ 
+ annexation_1107: "Судьба Караванке"
+ annexation_1107_desc: "Горный район Караванке между Австрией и Словенией теперь находится под нашим контролем, мы должны решить, что с ним делать."
+
+ annexation_772: "Судьба региона [772.GetName]"
+ annexation_772_desc: "Регион [772.GetName] теперь находится под нашим контролем, мы должны решить, что с ним делать."
+
+ annexation_731: "Судьба региона Эгейской Македонии"
+ annexation_731_desc: "Эгейская Македония теперь находится под нашим контролем, мы должны решить, что с ней делать."
+
+ annexation_184: "Судьба региона [184.GetName]"
+ annexation_184_desc: "Регион [184.GetName] теперь находится под нашим контролем, мы должны решить, что с ним делать."
+
+ annexation_1109: "Судьба региона [1109.GetName]"
+ annexation_1109_desc: "Пограничный регион [1109.GetName] теперь находится под нашим контролем, мы должны решить, что с ним делать."
+ annexation_events.1128.a: "[karavanks.GetGrantTerritoryEventOption]"
+
+ annexation_980: "Судьба региона [980.GetName]"
+ annexation_980_desc: "Регион [980.GetName] теперь находится под нашим контролем, мы должны решить, что с ним делать."
+
+ annexation_29: "Судьба региона [29.GetName]"
+ annexation_29_desc: "Портовый город [29.GetName] теперь находится под нашим контролем, мы должны решить, что с ним делать."
+
+ annexation_978: "Судьба региона [978.GetName]"
+ annexation_978_desc: "Регион [978.GetName] теперь находится под нашим контролем, мы должны решить, что с ним делать."
+
+ annexation_979: "Судьба региона [979.GetName]"
+ annexation_979_desc: "Мы получили контроль над устьем Шельды и теперь должны решить, что с ним делать."
+
+ annexation_131: "Судьба Северной Англии"
+ annexation_131_desc: "Северная Англия перешла под наш контроль, поскольку наши войска оккупировали этот регион. Теперь мы должны решить, что с ним делать."
+ annexation_events.1133.a: "Освободить независимую Нортумбрию"
+ 
+ annexation_78: "Судьба Бессарабии"
+ annexation_78_desc: "Бессарабия перешла под наш контроль, поскольку наши войска заняли этот регион. Теперь мы должны решить, что с ней делать."
+ annexation_events.1134.a: "[moldavia.GetGrantTerritoryEventOption]"
+ annexation_events.1134.b: "[odessa.GetGrantTerritoryEventOption]"
+
+ annexation_769: "Судьба региона [769.GetName]"
+ annexation_769_desc: "[769.GetName] был поставлен под наш контроль, поскольку наши войска оккупировали этот регион. Теперь мы должны решить, что с ним делать."
+
+ annexation_1089: "Судьба региона [1089.GetName]"
+ annexation_1089_desc: "[1089.GetName] был поставлен под наш контроль, поскольку наши войска оккупировали этот регион. Теперь мы должны решить, что с ним делать."
+
+ annexation_713: "Судьба региона [713.GetName]"
+ annexation_713_desc: "[713.GetName] был поставлен под наш контроль, поскольку наши войска оккупировали этот регион. Теперь мы должны решить, что с ним делать."
+
+ annexation_91: "Судьба региона [91.GetName]"
+ annexation_91_desc: "[91.GetName] был поставлен под наш контроль, поскольку наши войска оккупировали этот регион. Теперь мы должны решить, что с ним делать."
+ annexation_events.1138.a: "[stanislawow.GetGrantTerritoryEventOption]"
+
+ annexation_89: "Судьба региона [89.GetName]"
+ annexation_89_desc: "[89.GetName] был поставлен под наш контроль, поскольку наши войска оккупировали этот регион. Теперь мы должны решить, что с ним делать."
+ annexation_events.1139.a: "[cernauti.GetGrantTerritoryEventOption]"
+
+ annexation_39: "Судьба региона [39.GetName]"
+ annexation_39_desc: "[39.GetName] был поставлен под наш контроль, поскольку наши войска оккупировали этот регион. Теперь мы должны решить, что с ним делать."
+ annexation_events.1140.a: "[trentino.GetGrantTerritoryEventOption]"
+
+ annexation_77: "Судьба региона [77.GetName]"
+ annexation_77_desc: "Мы завладели регионом [77.GetName]. Теперь мы должны решить, что с ним делать."
+ annexation_events.1141.a: "[constantza.GetGrantTerritoryEventOption]"
+
+ annexation_341: "Судьба региона [341.GetName]"
+ annexation_341_desc: "Мы завладели регионом [341.GetName]. Теперь мы должны решить, что с ним делать."
+
+ annexation_942: "Судьба региона [942.GetName]"
+ annexation_942_desc: "Мы завладели горным регионом [942.GetName]. Теперь мы должны решить, что с ним делать."
+
+ annexation_119: "Судьба региона [119.GetName]"
+ annexation_119_desc: "Мы завладели регионом [119.GetName]. Теперь мы должны решить, что с ним делать."
+ 
+ ### Americas Events ###
+
+ annexation_361: "Судьба Америки"
+ annexation_361_desc: "После тяжелых боев нам удалось провести масштабное наступление и принудить к капитуляции Американскую армию. Вашингтон и все крупные города в наших руках, как и судьба Соединенных Штатов!"
+ annexation_events.2000.a: "Освободить США!"
+ annexation_events.2000.b: "Освободить социалистическую Америку!"
+  
+ annexation_463: "Судьба Аляски"
+ annexation_463_desc: "Регион Аляски сейчас находится под нашим контролем, мы должны решить, что с ним делать."
+  
+ annexation_932: "Судьба Новой Англии"
+ annexation_932_desc: "Регион Новой Англии теперь находится под нашим контролем, мы должны решить, что с ним делать."
+ annexation_events.2002.a: "Освободить Республику Новая Англия"
+  
+ annexation_739: "Судьба Канады"
+ annexation_739_desc: "Наконец-то, подлые британские империалисты Доминиона Канада пали под натиском наших доблестных солдат. По слухам, король вместе со своим двором покинули страну. Но кого теперь это волнует, ведь нам надо решить вопрос с управлением землями?"
+ annexation_events.2003.a: "Освободить лояльную Канаду!"
+ annexation_events.2003.b: "Освободить Квебек и Канаду!"
+ annexation_events.2003.d: "Это наша судьба, присоединить Канаду!"
+ annexation_events.2003.e: "Наша судьба не касается французов, освободить Квебек и аннексировать Канаду."
+ annexation_events.2003.g: "Освободить Канаду, но интегрировать Ньюфаундленд!"
+  
+ annexation_277: "Судьба Мексики"
+ annexation_277_desc: "После долгой кампании по всей Мексике, нам наконец-то удалось разрушить мексиканскую оборону. Мехико теперь в наших руках! Теперь мы должны принять решение о будущем Мексики."
+ annexation_events.2004.a: "Освободить Мексику"
+   
+ annexation_313: "Судьба Гватемалы"
+ annexation_313_desc: "Гватемала была повержена, а наши войска маршируют по одноимённой столице. Что мы должны сделать с новоприобретёнными землями?"
+ annexation_events.2006.a: "Освободить Гватемалу"
+  
+ annexation_314: "Судьба Сальвадора"
+ annexation_314_desc: "Маленький Сальвадор едва вмещает в себя наши войска. Что нам с ним делать?"
+ annexation_events.2007.a: "Освободить Сальвадор!"
+  
+ annexation_312: "Судьба Гондураса"
+ annexation_312_desc: "Наши армии заняли Гондурас, захватив их столицу, Тегусигальпу. Что нам делать с этим регионом?"
+ annexation_events.2008.a: "Освободить лояльный Гондурас"
+  
+ annexation_317: "Судьба Никарагуа"
+ annexation_317_desc: "Наши армии заняли Никарагуа, захватив их столицу, Манагуа. Что нам делать с этим регионом?"
+ annexation_events.2009.a: "Освободить лояльное Никарагуа"
+  
+ annexation_316: "Судьба Коста-Рики"
+ annexation_316_desc: "Наш славный армейский корпус промаршировал по землям и теперь занимает столицу бывшего правительства Коста-Рики. Однако мы не можем допустить, чтобы эта ситуация продолжалась слишком долго, что нам делать с этой землей?"
+ annexation_events.2010.a: "Освободить лояльную Коста-Рику"
+  
+ annexation_304: "Судьба Панамы"
+ annexation_304_desc: "После стремительной кампании вокруг Панамского канала, нам наконец-то удалось разрушить панамскую оборону. Город Панама теперь в наших руках! Теперь мы должны принять решение о будущем Панамы."
+ annexation_events.2011.a: "Освободить Панаму!"
+  
+ annexation_315: "Судьба Кубы"
+ annexation_315_desc: "[annexation_cuba_description]"
+ annexation_cuba_desc_other: "После непродолжительной кампании по всему острову Куба, нам наконец-то удалось разрушить кубинскую оборону. Гавана теперь в наших руках! Мы должны принять решение о будущем Кубы."
+ annexation_cuba_desc_USA: "Мы захватили Кубу и тем самым устранили последний оплот сопротивления Американской гегемонии на Карибах. Что делать с непокорным островом?"
+ annexation_events.2012.a: "Освободить дружественную Кубу во всей ее полноте."
+ annexation_events.2012.b: "Освободить Кубу, но сохранить базу Гуантанамо в качестве базы."
+ 
+ annexation_318: "Судьба Гаити"
+ annexation_318_desc: "После непродолжительной кампании на острове Эспаньола, нам наконец-то удалось разрушить гаитянскую оборону. Порт-о-Пренс теперь в наших руках! Теперь мы должны принять решение о будущем Гаити."
+ annexation_events.2013.a: "Освободить дружественное Гаити!"
+ annexation_events.2013.b: "Освободить Гаити и арендовать Моль Сен-Никола!"
+  
+ annexation_319: "Судьба Доминиканской Республики"
+ annexation_319_desc: "После короткой кампании на острове Эспаньола, нам наконец-то удалось разрушить доминиканскую оборону. Санто-Доминго теперь в наших руках! Теперь мы должны принять решение о будущем Доминиканской Республики."
+ annexation_events.2014.a: "Освободить дружественную Доминиканскую Республику!"
+ annexation_events.2014.b: "Освободить Доминиканскую Республику и арендовать Саману!"
+  
+ annexation_686: "Судьба Пуэрто-Рико"
+ annexation_686_desc: "После короткой кампании, Сан-Хуан находится под нашим контролем, а вместе с ним и весь Пуэрто-Рико. Что делать с островом?"
+ annexation_events.2015.a: "Освободить независимый Пуэрто-Рико"
+ annexation_events.2015.b: "[america_usa.GetGrantTerritoryEventOption]"
+ annexation_events.2015.c: "[america_csa.GetGrantTerritoryEventOption]"
+ annexation_events.2015.d: "[america_psa.GetGrantTerritoryEventOption]"
+ annexation_events.2015.e: "[america_nee.GetGrantTerritoryEventOption]"
+ annexation_events.2015.f: "[america_tex.GetGrantTerritoryEventOption]"
+  
+ annexation_692: "Судьба Вест-Индийской Федерации"
+ annexation_692_desc: "После долгой кампании по всему Карибскому морю, нам наконец-то удалось разрушить оборонительные сооружения Вест-Индии. Западная Гайана теперь в наших руках! Теперь мы должны принять решение о будущем Вест-Индийской Федерации."
+ annexation_events.2016.a: "Освободить дружественную Вест-Индийскую Федерацию!"
+  
+ annexation_689: "Судьба Ямайки"
+ annexation_689_desc: "После непродолжительной кампании, Кингстон находится под нашим контролем, а вместе с ним и вся Ямайка. Что нужно сделать с островом?"
+ annexation_events.2017.a: "Освободить независимую Ямайку"
+  
+ annexation_695: "Судьба региона [695.GetName]"
+ annexation_695_desc: "Остров [695.GetName] находится под нашим контролем. Что нужно сделать с островом?"
+ 
+ annexation_691: "Судьба Тринидада"
+ annexation_691_desc: "После короткой кампании, Порт-оф-Спейн находится под нашим контролем, а вместе с ним и весь Тринидад. Что делать с островом?"
+ annexation_events.2019.a: "Освободить независимый Тринидад"
+  
+ annexation_302: "Судьба Боливии"
+ annexation_302_desc: "После кампании по джунглям и пустыням Боливии, нам наконец-то удалось добраться до ворот в Анды. Ла-Пас теперь в наших руках! Теперь мы должны принять решение о будущем Боливии."
+ annexation_events.2020.a: "Освободить Боливию"
+  
+ annexation_303: "Судьба Перу"
+ annexation_303_desc: "После кампании в враждебных перуанских Андах, нам наконец-то удалось разрушить оборону Перу. Лима теперь в наших руках! Теперь мы должны принять решение о будущем Перу."
+ annexation_events.2022.a: "Освободить Перу"
+ annexation_events.2022.b: "Освободить единую Перу-Боливию."
+  
+ annexation_490: "Судьба региона [490.GetName]"
+ annexation_490_desc: "Крошечный район [490.GetName] был взят под наш контроль, так как наши войска оккупировали этот район. Теперь мы должны решить, что с ним делать."
+  
+ annexation_305: "Судьба Эквадора"
+ annexation_305_desc: "[annexation_ecuador_description]"
+ annexation_ecuador_galapagos: "Кито пал, и Эквадора больше нет. Однако не вся страна находится под контролем захватчиков - у нас есть возможность восстановить ее правительство на Галапагосских островах... если мы того пожелаем."
+ annexation_ecuador_normal: "После кампании по всему Эквадору, нам наконец-то удалось разрушить эквадорскую оборону. Кито теперь в наших руках! Теперь мы должны принять решение о будущем Эквадора."
+ annexation_events.2024.a: "Освободить Эквадор под дружественным правительством!"
+  
+ annexation_306: "Судьба Колумбии"
+ annexation_306_desc: "После кампании по всей Колумбии, нам наконец-то удалось разрушить колумбийскую оборону. Богота теперь в наших руках! Теперь мы должны принять решение о будущем Колумбии."
+ annexation_events.2025.a: "Освободить Колумбию под дружественным правительством!"
+ annexation_events.2025.b: "Возродить мечту Боливара!"
+  
+ annexation_849: "Судьба Венесуэлы"
+ annexation_849_desc: "После кампании по всей Венесуэле, нам наконец-то удалось разрушить венесуэльскую оборону. Каракас теперь в наших руках! Теперь мы должны принять решение о будущем Венесуэлы."
+ annexation_events.2026.a: "Освободить Венесуэлу под дружественным правительством!"
+  
+ annexation_687: "Судьба Гайаны"
+ annexation_687_desc: "После короткой кампании, Джорджтаун находится под нашим контролем, а вместе с ним и вся Гайана. Что делать с территорией?"
+ annexation_events.2027.a: "Освободить независимую Гайану"
+  
+ annexation_309: "Судьба Голландской Гайаны"
+ annexation_309_desc: "После непродолжительной кампании основные населенные пункты в Голландской Гайане или Суринаме, как ее также называют, оказались в наших руках. Однако это открыло вопрос: должны ли мы создать новую нацию на этих неосвоенных землях или это та колония в Америке, которую мы всегда хотели?"
+ annexation_events.2028.a: "Освободить Суринам"
+ 
+ annexation_898: "Судьба бассейна Амазонки"
+ annexation_898_desc: "Наши вооруженные силы одержали великую победу, и под наш контроль перешли все крупные города и крепости на просторах рек бассейна Амазонки, в нескольких бразильских штатах и территориях. Теперь мы должны решить, каким будет будущее этих земель."
+
+ annexation_505: "Судьба бразильской глубинки"
+ annexation_505_desc: "Обширные земли бразильской глубинки находятся под нашим контролем, поскольку разрозненные населенные пункты этих штатов мало что могли противопоставить нашим захватническим силам. Теперь мы должны решить, каким будет будущее этого региона."
+
+ annexation_498: "Судьба северо-восточной Бразилии"
+ annexation_498_desc: "Родина Бразилии, ее северо-восток, впервые с XVII века вновь пал перед силами вторжения. Сейчас наши войска гарнизонируют почти дюжину столиц штатов; мы должны решить, каким будет будущее этого региона."
+
+ annexation_499: "Судьба Баии"
+ annexation_499_desc: "Когда бои стихли и осталось лишь разрозненное сопротивление в засушливых внутренних районах, наши войска установили полный контроль над штатом Баия. Теперь мы должны решить, каким будет будущее этого штата."
+
+ annexation_500: "Судьба юго-восточной Бразилии"
+ annexation_500_desc: "Пока сопротивление в Атлантическом лесу утихает, Рио-де-Жанейро, столица Бразилии с 1808 года, и все остальные города региона находятся под нашим контролем. Теперь мы должны решить, каким будет будущее этого региона."
+
+ annexation_501: "Судьба Сан-Паулу"
+ annexation_501_desc: "После ожесточенных боев Сан-Паулу, самый богатый и густонаселенный штат Бразилии, полностью перешел под наш контроль. Теперь мы должны решить, каким будет будущее этого штата."
+
+ annexation_502: "Судьба бразильских пограничных земель"
+ annexation_502_desc: "Исторически подверженная восстаниям первая линия обороны Бразилии, три самых южных штата, теперь находится под нашим полным стратегическим контролем. Теперь мы должны решить, каким будет будущее этих трех штатов."
+ 
+ annexation_855: "Судьба Акри"
+ annexation_855_desc: "Крошечный район Акри оказался под нашим контролем, так как наши войска оккупировали этот район. Теперь мы должны решить, что с ним делать."
+  
+ annexation_1043: "Судьба региона [1043.GetName]"
+ annexation_1043_desc: "Крошечный район [1043.GetName] был взят под наш контроль, так как наши войска оккупировали этот регион. Теперь мы должны решить, что с ним делать."
+  
+ annexation_1041: "Судьба региона [1041.GetName]"
+ annexation_1041_desc: "Крошечный район [1041.GetName] был взят под наш контроль, так как наши войска оккупировали этот регион. Теперь мы должны решить, что с ним делать."
+  
+ annexation_301: "Судьба Парагвая"
+ annexation_301_desc: "Наши армии окончательно взяли под контроль парагвайскую столицу и заняли территорию бывшего государства Парагвай. Теперь мы должны решить, как создать здесь компетентную администрацию."
+ annexation_events.2040.a: "Освободить лояльный Парагвай"
+  
+ annexation_688: "Судьба Северного Чако"
+ annexation_688_desc: "Северный район Чако оказался под нашим контролем, поскольку наши войска оккупировали этот район. Теперь мы должны решить, что с ним делать."
+ annexation_events.2041.a: "Разделить его между [paraguay.GetNonIdeologyNameDef] и [bolivia.GetNonIdeologyNameDef]"
+  
+ annexation_901: "Судьба Южного Чако"
+ annexation_901_desc: "Южный район Чако оказался под нашим контролем, поскольку наши войска оккупировали этот район. Теперь мы должны решить, что с ним делать."
+  
+ annexation_1074: "Судьба региона [1074.GetName]"
+ annexation_1074_desc: "Небольшой район [1074.GetName] оказался под нашим контролем, поскольку наши войска оккупировали этот район. Теперь мы должны решить, что с ним делать."
+  
+ annexation_300: "Судьба Уругвая"
+ annexation_300_desc: "После успеха военной кампании в Уругвае мы должны решить, кому отойдут эти земли..."
+ annexation_events.2044.a: "Освободить дружественный нам Уругвай!"
+  
+ annexation_278: "Судьба Аргентины"
+ annexation_278_desc: "После завоевания огромного государства Аргентины, мы должны организовать компетентные администрации, чтобы держать территорию под контролем. Теперь нам нужно будет принять решение о судьбе региона."
+ annexation_events.2045.a: "Освободить Аргентину во всей её полноте."
+ annexation_events.2045.b: "Освободить Аргентину и Патагонию"
+ annexation_events.2045.c: "[patagonia.GetGrantTerritoryEventOption]"
+  
+ annexation_279: "Судьба Чили"
+ annexation_279_desc: "После долгой кампании по враждебным чилийским Андам, нам наконец-то удалось разрушить чилийскую оборону. Сантьяго теперь в наших руках! Теперь мы должны принять решение о будущем Чили."
+ annexation_events.2046.a: "Освободить Чили под дружественным правительством!"
+   
+ annexation_506: "Судьба региона [506.GetName]"
+ annexation_antofagasta_desc: "Регион [506.GetName] перешел под наш контроль, поскольку наши войска оккупировали его. Теперь мы должны решить, что с ним делать."
+
+ annexation_1078: "Судьба Эссекибо."
+ annexation_1078_desc: "Спорный регион Эссекибо перешел под наш контроль, поскольку наши войска оккупировали его. Теперь мы должны решить, что с ним делать."
+
+ annexation_854: "Судьба региона [854.GetName]"
+ annexation_854_desc: "Спорный регион [854.GetName] перешел под наш контроль, поскольку наши войска оккупировали его. Теперь мы должны решить, что с ним делать."
+
+ annexation_694: "Судьба французских Карибских островов"
+ annexation_694_desc: "Острова французского Карибского бассейна оказались под нашим контролем, поскольку наши войска оккупировали регион. Теперь мы должны решить, что с ними делать."
+ annexation_events.2050.a: "Освободить Антильский союз и Гайану."
+
+ annexation_1077: "Судьба региона [1077.GetName]"
+ annexation_1077_desc: "Остров [1077.GetName] перешел под наш контроль, поскольку наши войска заняли этот регион. Теперь мы должны решить, что с ним делать."
+
+ annexation_310: "Судьба Восточной Гайаны"
+ annexation_310_desc: "Бывшая французская колония Восточная Гайана перешла под наш контроль, поскольку наши войска оккупировали этот регион. Теперь мы должны решить, что с ней делать."
+ annexation_events.2052.a: "Освободить Союз Антильских островов и Гайану."
+
+ annexation_311: "Судьба региона [311.GetName]."
+ annexation_311_desc: "Бывшая британская колония [311.GetName] перешла под наш контроль, поскольку наши войска оккупировали регион. Теперь мы должны решить, что с ней делать."
+
+ annexation_474: "Судьба Юкатана"
+ annexation_474_desc: "Полуостров Юкатан перешел под наш контроль, поскольку наши войска оккупировали этот регион. Теперь мы должны решить, что с ним делать."
+ annexation_events.2054.a: "Освободить Юкатан."
+
+ annexation_685: "Судьба Панамского канала."
+ annexation_685_desc: "Важнейшая переправа через Панамский канал теперь под нашим контролем. Мы должны решить, что с ним делать."
+
+ annexation_1028: "Судьба Огненной Земли."
+ annexation_1028_desc: "Отдаленный остров Огненная Земля теперь под нашим контролем. Мы должны решить, что с ним делать."
+ annexation_events.2056.a: "[magallanes.GetGrantTerritoryEventOption]."
+
+ annexation_falkland_islands: "Судьба региона [FROM.GetName]"
+ annexation_falkland_islands_desc: "Удаленный регион [FROM.GetName], оспариваемые Аргентиной и Британией, теперь находятся под нашим контролем. Мы должны решить, что с ними делать."
+ annexation_299: "$annexation_falklands$"
+ annexation_299_desc: "$annexation_falklands_desc$"
+ annexation_720: "$annexation_falklands$"
+ annexation_720_desc: "$annexation_falklands_desc$"
+ 
+ annexation_873: "Судьба региона  [873.GetName]"
+ annexation_873_desc: "Регион [873.GetName] перешел под наш контроль, поскольку наши войска оккупировали его. Теперь мы должны решить, что с ним делать."
+
+ annexation_872: "Судьба региона  [872.GetName]"
+ annexation_872_desc: "Регион [872.GetName] перешел под наш контроль, поскольку наши войска оккупировали его. Теперь мы должны решить, что с ним делать."
+
+ annexation_1027: "Судьба региона [1027.GetName]"
+ annexation_1027_desc: "Регион [1027.GetName] перешел под наш контроль, поскольку наши войска оккупировали его. Теперь мы должны решить, что с ним делать."
+ 
+ ### Asia and Oceania Events ###
+ 
+ annexation_810: "Судьба Алаша"
+ annexation_810_desc: "Алаш оказался под нашим контролем, так как наши войска оккупировали этот регион. Теперь мы должны решить, что с этим делать."
+ annexation_events.3001.a: "Освободить Алаш"
+  
+ annexation_407: "Судьба Туркестана"
+ annexation_407_desc: "Туркестан оказался под нашим контролем, так как наши войска оккупировали этот регион. Теперь мы должны решить, что с ним делать."
+ annexation_events.3002.a: "Освободить Туркестанскую Республику."
+  
+ annexation_405: "Судьба Бухары"
+ annexation_405_desc: "Бухара оказалась под нашим контролем, так как наши войска оккупировали этот регион. Теперь мы должны решить, что с ним делать."
+ annexation_events.3003.a: "Освободить Бухару."
+  
+ annexation_861: "Судьба Хивы"
+ annexation_861_desc: "Хива оказалась под нашим контролем, так как наши войска оккупировали этот регион. Теперь мы должны решить, что с этим делать."
+ annexation_events.3004.a: "Освободить Хиву."
+  
+ annexation_267: "Судьба Афганистана"
+ annexation_267_desc: "После долгой борьбы с афганцами, мы начали полномасштабное наступление и заставили афганскую армию сдаться и бежать в горы. Кабул и основные дороги теперь в наших руках, но сельская местность сплотилась против нас, и возможно, у нас будет большой бой, если мы попытаемся занять так называемое "Кладбище империй"."
+ annexation_events.3007.a: "Освободить Афганистан"
+  
+ annexation_570: "Судьба Сибири"
+ annexation_570_desc: "Имея Ново-Николаевск в наших руках, мы теперь контролируем Сибирь и можем решать, что делать с этими землями."
+ annexation_events.3008.a: "Освободить лояльное Сибирское государство"
+  
+ annexation_408: "Судьба российского Дальнего Востока"
+ annexation_408_desc: "Наши войска сумели взять под свой контроль российский Дальний Восток, и теперь он оккупирован нами. Теперь у нас есть несколько вариантов. Мы можем либо создать марионетку на этой земле, либо взять её себе, видя, что она занимает ключевое стратегическое положение в Восточной Азии. Что же нам делать?"
+ annexation_events.3009.a: "Освободить Дальневосточную Республику"
+ annexation_events.3009.b: "Сформировать Зелёный Клин"
+ annexation_events.3009.c: "[manchuria.GetGrantTerritoryEventOption]"
+ annexation_events.3009.d: "Отказаться от Айгунского договора"
+ annexation_events.3009.e: "Отказаться от Айгунского договора и отдать остатки нашим владыкам"
+  
+ annexation_613: "Судьба Китая"
+ annexation_613_desc: "После долгой и упорной кампании на огромных пространствах Китая, мы наконец-то одержали историческую победу. Теперь, когда мы выиграли войну, мы должны решить, как лучше всего обеспечить мир. Как мы должны управлять завоеванными нами китайскими землями?"
+ annexation_events.3010.a: "Интегрировать Китай в наш мандат."
+  
+ annexation_322: "Судьба Тибета"
+ annexation_322_desc: "После успешной кампании на Тибетском нагорье, у нас теперь есть задача создать новую местную административную власть, однако есть несколько вариантов нашего выбора."
+ annexation_events.3011.a: "Освободить Тибет"
+  
+ annexation_617: "Судьба Синьцзяна"
+ annexation_617_desc: "После нашей успешной кампании в Синьцзяне, у нас теперь есть задача создать новую местную административную власть для восстановления мира, однако есть несколько вариантов для нашего выбора."
+ annexation_events.3012.a: "Освободить Синьцзян"
+  
+ annexation_330: "Судьба Монголии"
+ annexation_330_desc: "После нашей успешной кампании в степях Монголии, нам теперь предстоит создать новую местную административную структуру для восстановления мира, однако у нас есть несколько вариантов выбора."
+ annexation_events.3013.a: "Освободить Монголию"
+  
+ annexation_329: "Судьба региона [329.GetName]"
+ annexation_329_desc: "[329.GetName] был взят под наш контроль, так как наши войска оккупировали этот регион. Теперь мы должны решить, что с ним делать."
+  
+ annexation_716: "Судьба Маньчжурии"
+ annexation_716_desc: "После нашей успешной кампании в Маньчжурии, у нас теперь есть задача создать новую местную административную власть для восстановления мира, однако есть несколько вариантов для нашего выбора."
+ annexation_events.3015.a: "Создать независимую Маньчжурию"
+ 
+ annexation_743: "Судьба Шанхая"
+ annexation_743_desc: "Китайские порты, ранее находившиеся под юрисдикцией Международного мандата по китайским концессиям, теперь находятся под нашей юрисдикцией. Теперь мы решаем, восстановить ли независимое правление Совета Концессий, с самим собой в качестве его члена, передать города Китаю или оставить их себе."
+ annexation_events.3016.a: "Восстановить Совет Концессий"
+ annexation_events.3016.b: "[china_qiantang.GetGrantTerritoryEventOption]"
+ annexation_events.3016.c: "[china_jinling.GetGrantTerritoryEventOption]"
+ 
+ annexation_525: "Судьба Кореи"
+ annexation_525_desc: "После окончательного освобождения гордой нации Кореи, на нас была возложена ответственность за организацию управления вновь завоеванными территориями, что же нам делать?"
+ annexation_events.3017.a: "Освободить лояльную Корею!"
+  
+ annexation_282: "Судьба Японии"
+ annexation_282_desc: "После успешной военной кампании на Японских островах, у нас появилась возможность раз и навсегда покончить со всеми вопросами в регионе, однако есть несколько вариантов для нашего выбора..."
+ annexation_events.3018.a: "Создать переходное правительство Японии"
+  
+ annexation_537: "Судьба Сахалина"
+ annexation_537_desc: "Остров Сахалин оказался под нашим контролем, так как наши войска оккупировали этот регион. Теперь мы должны решить, что с ним делать."
+ annexation_events.3019.a: "[russia_vladivostok.GetGrantTerritoryEventOption]"
+ annexation_events.3019.b: "[russia_nikolayevsk.GetGrantTerritoryEventOption]"
+ annexation_events.3019.c: "Отдать Сахалин [russia_vladivostok.GetNonIdeologyNameDef], а Курилы [japan.GetNonIdeologyNameDef]."
+ annexation_events.3019.d: "Отдать Сахалин [russia_nikolayevsk.GetNonIdeologyNameDef], а Курилы [japan.GetNonIdeologyNameDef]."
+ 
+ annexation_524: "Судьба Тайваня"
+ annexation_524_desc: "Поскольку наши войска оккупируют этот регион, остров Тайвань были поставлен под наш контроль. Теперь мы должны решить, что с ним делать."
+ annexation_events.3020.a: "Освободить независимый Тайвань"
+  
+ annexation_289: "Судьба Сиама"
+ annexation_289_desc: "Мы захватили тайское государство и отстояли свое право на Малазийский полуостров. Теперь главным вопросом правительства является, что же мы должны делать с недавно "освобожденными" провинциями."
+ annexation_events.3021.a: "Установить сиамскую марионетку Махидол!"
+ annexation_events.3021.b: "Установить марионеточный режим Чакрабона!"
+ annexation_events.3021.c: "Установить марионеточный режим Парибатры!"
+ annexation_events.3021.e: "Сделаем из них республику!"
+  
+ annexation_827: "Судьба Вьетнама"
+ annexation_827_desc: "Наши войска заняли город Аннам, но местные вьетнамцы просят о самоуправлении. Что нам делать с этим регионом?"
+ annexation_events.3023.a: "Создать марионеточный Вьетнам"
+ annexation_events.3023.b: "Создать единый Индокитай."
+ annexation_events.3023.c: "Оккупировать Кром и освободить остатки."
+ annexation_events.3023.d: "Оккупировать Кром и отдать остатки нашему владыке"
+  
+ annexation_670: "Судьба Лаоса"
+ annexation_670_desc: "Наши войска заняли город Лаос, но местные просят о самоуправлении. Что нам делать с этим регионом?"
+ annexation_events.3024.a: "Создать марионеточный Лаос"
+ 
+ annexation_750: "Судьба Камбоджи"
+ annexation_750_desc: "Наши войска заняли город Пномпень, но местные камбоджийцы просят о самоуправлении. Что нам делать с этим регионом?"
+ annexation_events.3025.a: "Создать марионеточную Камбоджу"
+ annexation_events.3025.b: "Восстановить династию Сисоват"
+ annexation_events.3025.c: "Восстановить династию Нородом"
+ 
+ annexation_327: "Судьба Филиппин"
+ annexation_327_desc: "Нашим армиям удалось взять под свой контроль Филиппины, и теперь архипелаг оккупирован нами. Должны ли мы организовать марионеточное правительство?"
+ annexation_events.3026.a: "Освободить лояльное Филиппинское правительство"
+  
+ annexation_335: "Судьба Индонезии"
+ annexation_335_desc: "Наши армии смогли завладеть Индонезийским архипелагом. Этот стратегический регион богат многими ресурсами. Должны ли мы напрямую управлять островами или назначить колониальную администрацию?"
+ annexation_events.3027.a: "Освободить Инсулиндию."
+ annexation_events.3027.b: "Восстановить Голландскую Ост-Индию."
+ annexation_events.3027.c: "Вернуть её [DEI.GetNameDef]."
+ annexation_events.3027.d: "Передать её [HOL.GetNameDef]."
+  
+ annexation_523: "Судьба Папуа-Новой Гвинеи"
+ annexation_523_desc: "Папуа-Новая Гвинея была взята под наше руководство, а наши войска оккупируют остров. Теперь мы должны решить, что с этим делать."
+ annexation_events.3028.a: "Освободить Папуа-Новую Гвинею"
+ annexation_events.3028.b: "[papua.GetGrantTerritoryEventOption]"
+  
+ annexation_846: "Судьба Малайи"
+ annexation_846_desc: "Наши армии оккупировали Малайи. Теперь, мы должны решить, кому отойдут эти спорные земли?"
+ annexation_events.3029.a: "Освободить республику"
+ annexation_events.3029.b: "Освободить султанат"
+ annexation_events.3029.c: "Восстановить Германскую Остазию"
+  
+ annexation_333: "Судьба Саравака"
+ annexation_333_desc: "Северный Борнео был взят под наше руководство, а наши войска оккупируют регион. Теперь мы должны решить, что с этим делать."
+ annexation_events.3030.a: "Освободить Республику Саравак"
+ annexation_events.3030.b: "Освободить Радж Саравак"
+    
+ annexation_439_india: "Судьба Центральной Индии"
+ annexation_439_desc: "Центральная Индия оказалась под нашим контролем, поскольку наши войска оккупируют этот регион. Теперь мы должны решить, что с ним делать."
+ annexation_events.3032.a: "Освободить Индостан как марионетку"
+  
+ annexation_429: "Судьба Махараштры"
+ annexation_429_desc: "Бомбейский регион оказался под нашим контролем, так как наши войска оккупировали этот округ. Теперь мы должны решить, что с ним делать."
+ annexation_events.3033.a: "Освободить Великую Махараштру"
+ annexation_events.3033.b: "Освободить Махараштру"
+  
+ annexation_428: "Судьба Гуджарата"
+ annexation_428_desc: "Гуджарат оказался под нашим контролем, поскольку наши войска оккупировали этот регион. Теперь мы должны решить, что с ним делать."
+ annexation_events.3034.a: "Освободить Гуджарат как марионетку"
+  
+ annexation_433: "Судьба Раджпутаны"
+ annexation_433_desc: "Раджпутана была взята под наш контроль, когда наши войска оккупировали этот регион. Теперь мы должны решить, что с ним делать."
+ annexation_events.3035.a: "Освободить Раджастан как марионетку"
+  
+ annexation_440: "Судьба Восточного Пенджаба"
+ annexation_440_desc: "Восточный Пенджаб оказался под нашим контролем, поскольку наши войска оккупировали этот регион. Теперь мы должны решить, что с ним делать."
+ annexation_events.3036.a: "Освободить Халистан как марионетку"
+  
+ annexation_441: "Судьба Кашмира"
+ annexation_441_desc: "Кашмир оказался под нашим контролем, поскольку наши войска оккупировали этот регион. Теперь мы должны решить, что с ним делать."
+ annexation_events.3037.a: "Освободить Кашмир как марионетку"
+  
+ annexation_888: "Судьба Сиккима"
+ annexation_888_desc: "Крошечный, сельский Сикким оказался под нашим контролем, поскольку наши войска оккупировали регион. Теперь мы должны решить, что с ним делать."
+  
+ annexation_432: "Судьба Ассама"
+ annexation_432_desc: "Ассам оказался под нашим контролем, поскольку наши войска оккупировали этот регион. Теперь мы должны решить, что с ним делать."
+ annexation_events.3039.a: "Освободить Ассам как марионетку"
+  
+ annexation_430: "Судьба Бенгалии"
+ annexation_430_desc: "Бенгалия была взята под наш контроль, поскольку наши войска оккупировали этот регион. Теперь мы должны решить, что с ним делать."
+ annexation_events.3040.a: "Освободить Великую Бенгалию"
+ annexation_events.3040.b: "Освободить Бенгалию"
+  
+ annexation_426: "Судьба Ориссы"
+ annexation_426_desc: "Орисса была взята под наш контроль, когда наши войска оккупировали регион. Теперь мы должны решить, что с ним делать."
+ annexation_events.3041.a: "Освободить Великую Ориссу как марионетку"
+ annexation_events.3041.b: "Освободить Ориссу как марионетку"
+  
+ annexation_966: "Судьба Чхаттисгарха"
+ annexation_966_desc: "Штат Чхаттисгарх был взят под наш контроль, поскольку наши войска оккупировали этот регион. Теперь мы должны решить, что с ним делать."
+ annexation_events.3042.a: "[raipur.GetGrantTerritoryEventOption]"
+ annexation_events.3042.b: "[central_provinces.GetGrantTerritoryEventOption]"
+ 
+ annexation_899: "Судьба Вишакхапатнама"
+ annexation_899_desc: "Полоса Вишакхапатнама была взята под наш контроль, поскольку наши войска оккупировали этот регион. Теперь мы должны решить, что с ним делать."
+  
+ annexation_427: "Судьба Хайдарабада"
+ annexation_427_desc: "Хайдарабад оказался под нашим контролем, когда наши войска оккупировали регион. Теперь мы должны решить, что с ним делать."
+ annexation_events.3044.a: "Освободить Великий Хайдарабад как марионетку"
+ annexation_events.3044.b: "Освободить Хайдарабад как марионетку"
+  
+ annexation_424: "Судьба Андхры"
+ annexation_424_desc: "Андхра была взята под наш контроль, поскольку наши войска оккупировали регион. Теперь мы должны решить, что с ним делать."
+ annexation_events.3045.a: "[kolhapur.GetGrantTerritoryEventOption]"
+ annexation_events.3045.b: "[vizagapatnam.GetGrantTerritoryEventOption]"
+
+ annexation_320: "Судьба Мадраса"
+ annexation_320_desc: "Мадрас оказался под нашим контролем, поскольку наши войска оккупировали этот регион. Теперь мы должны решить, что с ним делать."
+ annexation_events.3046.a: "Освободить Дравида Наду"
+ annexation_events.3046.b: "Освободить Тамиль Наду"
+ annexation_events.3046.c: "Освободить Мадрас"
+  
+ annexation_425: "Судьба Майсура"
+ annexation_425_desc: "Майсур оказался под нашим контролем, поскольку наши войска оккупировали этот регион. Теперь мы должны решить, что с ним делать."
+ annexation_events.3047.a: "Освободить Великий Майсур"
+ annexation_events.3047.b: "Освободить Майсур"
+  
+ annexation_891: "Судьба Пакистана"
+ annexation_891_desc: "Пакистан оказался под нашим контролем после того, как наши войска оккупировали этот регион. Теперь мы должны решить, что с ним делать."
+ annexation_events.3048.a: "Освободить Пакистан"
+ annexation_events.3048.b: "Освободить Великий Халистан"
+ annexation_events.3048.c: "Освободить Пенджаб."
+  
+ annexation_444: "Судьба Белуджистана"
+ annexation_444_desc: "Белуджистан оказался под нашим контролем, поскольку наши войска оккупируют этот регион. Теперь мы должны решить, что с ним делать."
+ annexation_events.3049.a: "[quetta.GetGrantTerritoryEventOption]"
+
+ annexation_445: "Судьба Кветты"
+ annexation_445_desc: "Кветта была взята под наш контроль, поскольку наши войска оккупировали этот регион. Теперь мы должны решить, что с ним делать."
+ annexation_events.3050.a: "[peshawar.GetGrantTerritoryEventOption]"
+
+ annexation_442: "Судьба Пешавара"
+ annexation_442_desc: "Пешавар была взята под наш контроль, поскольку наши войска оккупировали этот регион. Теперь мы должны решить, что с ним делать."
+ 
+ annexation_443: "Судьба Синда"
+ annexation_443_desc: "Синд оказался под нашим контролем, поскольку наши войска оккупировали регион. Теперь мы должны решить, что с ним делать."
+ annexation_events.3051.a: "[gujarat.GetGrantTerritoryEventOption]"
+ annexation_events.3051.b: "[rajputana.GetGrantTerritoryEventOption]"
+
+ annexation_323: "Судьба Непала"
+ annexation_323_desc: "После успешной кампании в Гималаях нам теперь предстоит создать новую местную административную структуру для восстановления мира в Катманду. Что же нам делать?"
+ annexation_events.3052.a: "Освободить Непал"
+ annexation_events.3052.b: "[awadh.GetGrantTerritoryEventOption]"
+  
+ annexation_324: "Судьба Бутана"
+ annexation_324_desc: "После успешной военной кампании в Гималаях у нас появилась возможность раз и навсегда покончить со всеми вопросами в регионе. Что мы должны делать?"
+ annexation_events.3053.a: "Создать марионеточный Бутан."
+  
+ annexation_288: "Судьба Бирмы"
+ annexation_288_desc: "Наши войска маршируют в столице Бирмы. Все лидеры страны либо бежали, либо сидят в тюрьме. Что мы будем делать с этими землями?"
+ annexation_events.3054.a: "Освободить свободную Бирму."
+ annexation_events.3054.b: "Восстановить династию Конбаун."
+  
+ annexation_701: "Судьба Качина"
+ annexation_701_desc: "Сельский Качинский район сейчас находится под нашим жестким контролем. Что делать с этой дикой землей?"
+ annexation_events.3055.a: "Освободить независимый Качин"
+  
+ annexation_72: "Судьба государств Шан"
+ annexation_72_desc: "Шанские холмы уже давно стали занозой у тех, кто стремился их контролировать. Однако по мере того, как наши армии проходят через их города и поселки, становится ясно, что районы Шан, наконец, были полностью покорены. Что следует делать с этими вновь приобретенными землями?"
+ annexation_events.3056.a: "Освободить независимый Шан"
+ annexation_events.3056.b: "[shan.GetGrantTerritoryEventOption]"
+ annexation_events.3056.c: "Разделить его между [burma.GetNonIdeologyNameDef] и [siam.GetNonIdeologyNameDef]."
+  
+ annexation_422: "Судьба Цейлона"
+ annexation_422_desc: "Нам удалось вырвать из рук Германской Империи остров Цейлон, основательно обезопасить столицу Коломбо. Но что же нам теперь делать с этой чертовой скалой?"
+ annexation_events.3057.a: "Освободить Цейлон"
+  
+ annexation_285: "[annexation_australia_title]"
+ annexation_285: "[annexation_australia_description]"
+  
+ annexation_australia_australasia: "Судьба Австралазии"
+ annexation_australia_australia: "Судьба Австралии"
+ annexation_australia_entente_desc: "Правительство Австралазии потерпело поражение и в настоящее время находится под нашим контролем. Перед нами стоит вопрос: восстановить ли его независимость под контролем лояльной Австралазийской Гвардии - несмотря на их экстремистские наклонности - и надеяться, что они смогут поддерживать порядок, или же нам следует снова принять Чрезвычайные Протоколы и установить прямое управление через нашего Генерал-Губернатора."
+ annexation_australia_australasia_desc: "После тяжелого похода по изолированным островам Австралазийской Конфедерации, наши армии наконец добрались до Канберры, и с капитуляцией Австралазии мы должны решить, что делать с этими землями."
+ annexation_australia_australia_desc: "После тяжелого похода по изолированным островам Австралии, наши армии наконец добрались до Канберры, и с капитуляцией Австралии мы должны решить, что делать с этими землями."
+ annexation_events.3058.a: "Освободить [annexation_australia_release_option]"
+ annexation_events.3058.b: "Освободите Австралию и Новую Зеландию"
+ annexation_events.3058.c: "Освободить Австралазию и дать им власть над их зоной Тихого океана"
+ annexation_events.3058.d: "Гвардия более чем способна восстановить порядок"
+ annexation_events.3058.e: "Генерал-губернатор будет править от нашего имени"
+
+ annexation_284: "Судьба Новой Зеландии"
+ annexation_284_desc: "Поскольку наши войска оккупируют этот регион, острова Новой Зеландии были поставлены под наш контроль. Теперь мы должны решить, что с ним делать."
+ annexation_events.3060.a: "Освободить Новую Зеландию"
+  
+ annexation_629: "Судьба Гавайев"
+ annexation_629_desc: "Поскольку наши войска оккупируют этот регион, остров Гавайи были поставлен под наш контроль. Теперь мы должны решить, что с ним делать."
+ annexation_events.3061.a: "Освободить Гавайскую Республику"
+ annexation_events.3061.b: "Освободить Королевство Гавайи"
+  
+ annexation_826: "Судьба региона[826.GetName]"
+ annexation_826_desc: "Территория [826.GetName] перешла под наш контроль, поскольку наши войска заняли этот регион. Теперь мы должны решить, что с ней делать."
+ annexation_events.3062.a: "[vietnam.GetGrantTerritoryEventOption]"
+  
+ annexation_831: "Судьба региона [831.GetName]"
+ annexation_831_desc: "Территория [831.GetName] перешла под наш контроль, поскольку наши войска заняли этот регион. Теперь мы должны решить, что с ней делать."
+  
+ annexation_749: "Судьба региона [749.GetName]"
+ annexation_749_desc: "Территория [749.GetName] перешла под наш контроль, поскольку наши войска заняли этот регион. Теперь мы должны решить, что с ней делать."
+  
+ annexation_882: "Судьба региона [882.GetName]"
+ annexation_882_desc: "Территория [882.GetName] перешла под наш контроль, поскольку наши войска заняли этот регион. Теперь мы должны решить, что с ней делать."
+ annexation_events.3065.a: "[laos.GetGrantTerritoryEventOption]"
+  
+ annexation_825: "Судьба региона [825.GetName]"
+ annexation_825_desc: "Территория [825.GetName] перешла под наш контроль, поскольку наши войска заняли этот регион. Теперь мы должны решить, что с ней делать."
+ annexation_events.3066.a: "[siam_isan.GetGrantTerritoryEventOption]"
+ annexation_events.3066.b: "[siam_rayong.GetGrantTerritoryEventOption]"
+    
+ annexation_northern_malaya: "Судьба региона [malaya_state.GetName]"
+ annexation_northern_malaya_desc: "Территория [malaya_state.GetName] перешла под наш контроль, поскольку наши войска заняли этот регион. Теперь мы должны решить, что с ней делать."
+ annexation_751: "$annexation_northern_malaya$"
+ annexation_751_desc: "$annexation_northern_malaya_desc$"
+ annexation_830: "$annexation_northern_malaya$"
+ annexation_830_desc: "$annexation_northern_malaya_desc$"
+ annexation_999: "$annexation_northern_malaya$"
+ annexation_999_desc: "$annexation_northern_malaya_desc$"
+ 
+ annexation_336: "Судьба Сингапура"
+ annexation_336_desc: "Великий город Сингапур перешел под наш контроль, поскольку наши войска оккупировали регион. Теперь мы должны решить, что с ней делать."
+  
+ annexation_721: "Судьба региона [721.GetName]"
+ annexation_721_desc: "Бывшая португальская колония в регионе [721.GetName] перешла под наш контроль. Теперь мы должны решить, что с ней делать."
+ 
+ annexation_858: "Судьба региона [858.GetName]"
+ annexation_858_desc: "Пограничный регион [858.GetName] перешел под наш контроль, поскольку наши войска оккупировали его. Теперь мы должны решить, что с ним делать."
+
+ annexation_pacific_islands: "Судьба региона [FROM.FROM.GetName]"
+ annexation_pacific_islands_desc: "[FROM.FROM.GetName] перешел под наш контроль, поскольку наши войска оккупировали регион. Теперь мы должны решить, что с ним делать."
+ annexation_633: "$annexation_pacific_islands$"
+ annexation_633_desc: "$annexation_pacific_islands_desc$"
+ annexation_634: "$annexation_pacific_islands$"
+ annexation_634_desc: "$annexation_pacific_islands_desc$"
+ annexation_635: "$annexation_pacific_islands$"
+ annexation_635_desc: "$annexation_pacific_islands_desc$"
+ annexation_636: "$annexation_pacific_islands$"
+ annexation_636_desc: "$annexation_pacific_islands_desc$"
+ annexation_638: "$annexation_pacific_islands$"
+ annexation_638_desc: "$annexation_pacific_islands_desc$"
+ annexation_639: "$annexation_pacific_islands$"
+ annexation_639_desc: "$annexation_pacific_islands_desc$"
+ annexation_641: "$annexation_pacific_islands$"
+ annexation_641_desc: "$annexation_pacific_islands_desc$"
+ annexation_643: "$annexation_pacific_islands$"
+ annexation_643_desc: "$annexation_pacific_islands_desc$"
+ annexation_646: "$annexation_pacific_islands$"
+ annexation_646_desc: "$annexation_pacific_islands_desc$"
+ annexation_647: "$annexation_pacific_islands$"
+ annexation_647_desc: "$annexation_pacific_islands_desc$"
+ annexation_684: "$annexation_pacific_islands$"
+ annexation_684_desc: "$annexation_pacific_islands_desc$"
+ annexation_725: "$annexation_pacific_islands$"
+ annexation_725_desc: "$annexation_pacific_islands_desc$"
+ annexation_726: "$annexation_pacific_islands$"
+ annexation_726_desc: "$annexation_pacific_islands_desc$"
+ annexation_734: "$annexation_pacific_islands$"
+ annexation_734_desc: "$annexation_pacific_islands_desc$"
+ annexation_941: "$annexation_pacific_islands$"
+ annexation_941_desc: "$annexation_pacific_islands_desc$"
+
+ annexation_733: "Судьба Андаманских островов"
+ annexation_733_desc: "Андаманский архипелаг перешел под наш контроль, поскольку наши войска оккупировали этот регион. Теперь мы должны решить, что с ним делать."
+
+ annexation_897: "Судьба региона  [897.GetName]"
+ annexation_897_desc: "Пограничный регион [897.GetName] перешел под наш контроль, поскольку наши войска оккупировали его. Теперь мы должны решить, что с ним делать."
+
+ annexation_legation_ports: "Судьба региона  [FROM.FROM.GetName]"
+ annexation_legation_ports_desc: "Территория [FROM.FROM.GetName] перешла под наш контроль, поскольку наши войска оккупировали этот регион. Теперь мы должны решить, что с ней делать."
+ annexation_326: "$annexation_legation_ports$"
+ annexation_326_desc: "$annexation_legation_ports_desc$"
+ annexation_592: "$annexation_legation_ports$"
+ annexation_592_desc: "$annexation_legation_ports_desc$"
+ annexation_609: "$annexation_legation_ports$"
+ annexation_609_desc: "$annexation_legation_ports_desc$"
+ annexation_728: "$annexation_legation_ports$"
+ annexation_728_desc: "$annexation_legation_ports_desc$"
+ annexation_729: "$annexation_legation_ports$"
+ annexation_729_desc: "$annexation_legation_ports_desc$"
+ annexation_744: "$annexation_legation_ports$"
+ annexation_744_desc: "$annexation_legation_ports_desc$"
+ annexation_745: "$annexation_legation_ports$"
+ annexation_745_desc: "$annexation_legation_ports_desc$"
+ annexation_746: "$annexation_legation_ports$"
+ annexation_746_desc: "$annexation_legation_ports_desc$"
+ annexation_747: "$annexation_legation_ports$"
+ annexation_747_desc: "$annexation_legation_ports_desc$"
+ annexation_801: "$annexation_legation_ports$"
+ annexation_801_desc: "$annexation_legation_ports_desc$"
+ annexation_802: "$annexation_legation_ports$"
+ annexation_802_desc: "$annexation_legation_ports_desc$"
+ annexation_803: "$annexation_legation_ports$"
+ annexation_803_desc: "$annexation_legation_ports_desc$"
+ annexation_996: "$annexation_legation_ports$"
+ annexation_996_desc: "$annexation_legation_ports_desc$"
+ annexation_1075: "$annexation_legation_ports$"
+ annexation_1075_desc: "$annexation_legation_ports_desc$"
+
+ annexation_inner_mongolia: "Судьба региона [FROM.FROM.GetName]"
+ annexation_inner_mongolia_desc: "Территория [FROM.FROM.GetName] перешла под наш контроль, поскольку наши войска заняли этот регион. Теперь мы должны решить, что с ней делать."
+ annexation_348: "$annexation_inner_mongolia$"
+ annexation_348_desc: "$annexation_inner_mongolia_desc$"
+ annexation_612: "$annexation_inner_mongolia$"
+ annexation_612_desc: "$annexation_inner_mongolia_desc$"
+ annexation_616: "$annexation_inner_mongolia$"
+ annexation_616_desc: "$annexation_inner_mongolia_desc$"
+ annexation_621: "$annexation_inner_mongolia$"
+ annexation_621_desc: "$annexation_inner_mongolia_desc$"
+
+ annexation_tibetan_borderlands: "Судьба региона [FROM.FROM.GetName]."
+ annexation_tibetan_borderlands_desc: "Территория [FROM.FROM.GetName] перешла под наш контроль, поскольку наши войска оккупировали регион. Теперь мы должны решить, что с ней делать."
+ annexation_353: "$annexation_tibetan_borderlands$"
+ annexation_353_desc: "$annexation_tibetan_borderlands_desc$"
+ annexation_601: "$annexation_tibetan_borderlands$"
+ annexation_601_desc: "$annexation_tibetan_borderlands_desc$"
+ annexation_604: "$annexation_tibetan_borderlands$"
+ annexation_604_desc: "$annexation_tibetan_borderlands_desc$"
+
+ annexation_867: "Судьба Траванкора"
+ annexation_867_desc: "Траванкор перешел под наш контроль, поскольку наши войска оккупировали регион. Теперь мы должны решить, что с ним делать."
+ annexation_events.3077.a: "Освободить Траванкор"
+
+ annexation_indian_treaty_ports: "Судьба региона [FROM.FROM.GetName]"
+ annexation_indian_treaty_ports_desc: "Территория [FROM.FROM.GetName] перешла под наш контроль, поскольку наши войска заняли этот регион. Теперь мы должны решить, что с ней делать."
+ annexation_events.3078.a: "[india_splinter.GetGrantTerritoryEventOption]"
+ annexation_321: "$annexation_indian_treaty_ports$"
+ annexation_321_desc: "$annexation_indian_treaty_ports_desc$"
+ annexation_818: "$annexation_indian_treaty_ports$"
+ annexation_818_desc: "$annexation_indian_treaty_ports_desc$"
+
+ annexation_814: "Судьба региона [814.GetName]"
+ annexation_814_desc: "[814.GetName] перешел под наш контроль, поскольку наши войска оккупировали регион. Теперь мы должны решить, что с ним делать."
+ annexation_events.3079.a: "[delhi.GetGrantTerritoryEventOption]"
+ annexation_events.3079.b: "[shimla.GetGrantTerritoryEventOption]"
+
+ annexation_887: "Судьба региона [887.GetName]"
+ annexation_887_desc: "[887.GetName] перешел под наш контроль, поскольку наши войска оккупировали регион. Теперь мы должны решить, что с ним делать." 
+ 
+ annexation_554: "Судьба Леванта"
+ annexation_554_desc: "Мы завоевали богатые земли Леванта, включая великий и древний город Дамаск. Что нам делать с этими старыми османскими провинциями?"
+ annexation_events.4000.a: "Освободить Сирию"
+  
+ annexation_553: "Судьба Ливана"
+ annexation_553_desc: "Город Бейрут оказался под нашим контролем, так как наши войска оккупировали этот регион. Теперь мы должны решить, что с ним делать."
+ annexation_events.4001.a: "Освободить Ливан"
+  
+ annexation_49: "Судьба Анатолии"
+ annexation_49_desc: "Мы наконец-то разрушили остатки турецкого государства, окончательно покончив с идеей оттоманизма. Наши войска уже заняли Анкару, но мы не можем оставаться в качестве оккупантов вечно. Необходимо раз и навсегда решить судьбу турецкого народа."
+ annexation_events.4002.a: "Позволить создание Турецкой Республики!"
+ annexation_events.4002.b: "Восстановить Османскую Империю"
+  
+ annexation_340: "Судьба Эгейского побережья"
+ annexation_340_desc: "Эгейское побережье оказалось под нашим контролем, так как наши войска оккупировали этот регион. Теперь мы должны решить, что с ним делать."
+ annexation_events.4003.a: "Поделить его между [turkey.GetNameDef] и [greece.GetNameDef]."
+  
+ annexation_446: "Судьба Египта"
+ annexation_446_desc: "Долина Нила перешла под наш контроль, так как наши войска заняли этот регион. Теперь мы должны решить, что с ней делать."
+ annexation_events.4004.a: "Освободите Египетскую республику!"
+ annexation_events.4004.b: "Восстановить Египетскую монархию на престоле."
+  
+ annexation_753: "Судьба Суэцкого канала"
+ annexation_753_desc: "Важнейший пункт пересечения Суэц - ворота в Индийский океан - теперь находится под нашим контролем. Мы должны решить, что с ним делать."
+ annexation_events.4005.a: "Создать международную зону вокруг Канала"
+  
+ annexation_453: "Судьба Синая"
+ annexation_453_desc: "Синай, полуостров, имеющий как стратегическое, так и религиозное значение, под нашим контролем. Что же нам следует делать с этими землями?"
+  
+ annexation_451: "[annexation_libya_title]"
+ annexation_451_desc: "[annexation_libya_description]"
+ annexation_libya_libya: "Судьба Ливии"
+ annexation_libya_libya_desc: "После тяжелых боев нам удалось провести полномасштабное наступление и установить контроль над всей Ливией. Триполи в наших руках."
+ annexation_libya_cyrenaica: "Судьба Киренаики"
+ annexation_libya_cyrenaica_desc: "Регион Киренаики сейчас находится под нашим контролем, мы должны решить, что с ним делать."
+ annexation_events.4007.a: "Освободить Киренаику!"
+ annexation_events.4007.b: "Освободить единую Ливию!"
+ annexation_events.4007.c: "Освободить Киренаику и Триполитанию!"
+  
+ annexation_448: "Судьба Триполитании"
+ annexation_448_desc: "Регион Триполитании сейчас находится под нашим контролем, мы должны решить, что с ним делать."
+ annexation_events.4008.a: "Освободить Триполитанию"
+  
+ annexation_231: "Судьба Грузии"
+ annexation_231_desc: "Наши вооруженные силы сокрушили Грузинский режим и только что прошли триумфальным маршем по улицам Тбилиси. Остается только установить статус грузинской земли."
+ annexation_events.4009.a: "Создать Закавказье!"
+ annexation_events.4009.b: "Восстановить Королевство Грузию!"
+ annexation_events.4009.c: "Восстановить Грузинскую Республику!"
+  
+ annexation_229: "Судьба Азербайджана"
+ annexation_229_desc: "После тяжелых боев в горах Кавказа нам все же удалось принудить к капитуляции Азербайджанскую армию и установить полный контроль над их территорией. Тут и там периодически возникают вспышки недовольства новой администрацией"
+ annexation_events.4010.a: "Освободить Азербайджан!"
+  
+ annexation_998: "Судьба Карабаха"
+ annexation_998_desc: "Карабахское нагорье оказалось под нашим контролем, так как наши войска оккупировали этот регион. Теперь мы должны решить, что с ним делать."
+  
+ annexation_230: "Судьба Армении"
+ annexation_230_desc: "После тяжелых боев в горах Кавказа нам все же удалось принудить к капитуляции Армянскую армию и установить полный контроль над их территорией. Тут и там периодически возникают вспышки недовольства новой администрацией."
+ annexation_events.4012.a: "Освободить Армению"
+  
+ annexation_1000: "Судьба региона [1000.GetName]"
+ annexation_1000_desc: "Крошечный район [1000.GetName] был взят под наш контроль, так как наши войска оккупировали этот район. Теперь мы должны решить, что с ним делать."
+  
+ annexation_1001: "Судьба региона [1001.GetName]"
+ annexation_1001_desc: "Крошечный район [1001.GetName] был взят под наш контроль, так как наши войска оккупировали этот район. Теперь мы должны решить, что с ним делать."
+  
+ annexation_292: "Судьба Аравии"
+ annexation_292_desc: "После тяжелых боев нам удалось провести полномасштабное наступление и установить контроль над всем Аравийским полуостровом."
+ annexation_events.4016.a: "Освободить верную Аравию."
+  
+ annexation_658: "Судьба Договорного Омана"
+ annexation_658_desc: "Прибрежные арабские эмираты, известные под общим названием Договорный Оман, сейчас находятся под нашим контролем, и мы должны решить, что делать с этой землей."
+ annexation_events.4017.a: "Освободить Договорный Оман"
+  
+ annexation_679: "Судьба Хиджаза"
+ annexation_679_desc: "Хиджаз, родина Ислама, под нашим контролем. Что нам делать с этими землями?"
+ annexation_events.4018.a: "Освободить Хиджаз"
+  
+ annexation_291: "Судьба Ирака"
+ annexation_291_desc: "Мы завоевали плодородные земли Ирака, включая город Багдад. Что нам делать со старыми землями Османов?"
+ annexation_events.4019.a: "Освободить земли Месопотамии."
+  
+ annexation_350: "Судьба Курдистана"
+ annexation_350_desc: "Наши армии взяли под свой контроль северную часть Леванта, а местное курдское население требует самоуправления. Мы должны решить, что делать с регионом."
+ annexation_events.4020.a: "Освободить Курдское государство."
+ annexation_events.4020.b: "Разделить его между [persia.GetNonIdeologyNameDef] и [turkey.GetNonIdeologyNameDef]."
+ annexation_events.4020.c: "Разделить его между [iraq.GetNonIdeologyNameDef] и [turkey.GetNonIdeologyNameDef]."
+ annexation_events.4020.d: "Разделить его между [persia.GetNonIdeologyNameDef], [iraq.GetNonIdeologyNameDef] и [turkey.GetNonIdeologyNameDef]."
+ annexation_events.4020.e: "Разделить его с [persia.GetNonIdeologyNameDef]."
+  
+ annexation_266: "Судьба Персии"
+ annexation_266_desc: "После тяжелых боев нам удалось провести полномасштабное наступление и установить контроль над всей Персией. [266.GetName] теперь в наших руках!"
+ annexation_events.4021.a: "Освободить Персию!"
+ annexation_events.4021.b: "Освободить каджарскую монархию"
+  
+ annexation_294: "Судьба Маската"
+ annexation_294_desc: "После тяжелых боев нам удалось провести полномасштабное наступление и установить контроль над всем Оманом. Маскат теперь в наших руках, как и судьба эмирата."
+ annexation_events.4022.a: "Освободить Маскат!"
+  
+ annexation_293: "Судьба Йемена"
+ annexation_293_desc: "После тяжелых боев нам удалось провести полномасштабное наступление и установить контроль над всем Йеменом! Сана теперь в наших руках!"
+ annexation_events.4023.a: "Освободить Йемен!"
+  
+ annexation_982: "Судьба Асира"
+ annexation_082_desc: "Район Асир теперь под нашим контролем, мы должны решить, что с ним делать."
+  
+ annexation_585: "Судьба Батуми"
+ annexation_585_desc: "Портовый город Батуми теперь под нашим контролем, мы должны решить, что с ним делать."
+  
+ annexation_812: "Судьба Басры"
+ annexation_812_desc: "Южные болота Ирака с центром в городе Басра теперь находятся под нашим контролем. Мы должны решить, что с ними делать."
+  
+ annexation_413: "Судьба Хузестана"
+ annexation_413_desc: "Мы завоевали богатый нефтью Хузестан и должны решить его дальнейшую судьбу."
+ 
+ annexation_1080: "Судьба Абхазии"
+ annexation_1080_desc: "Завоевав горный регион [1080.GetName], мы должны решить его дальнейшую судьбу."
+
+ annexation_981: "Судьба Наджрана"
+ annexation_981_desc: "Мы завоевали Наджран и должны решить его дальнейшую судьбу."
+
+ annexation_656: "Судьба Хасы"
+ annexation_656_desc: "Мы завоевали Хасу и должны решить её дальнейшую судьбу."
+ 
+ annexation_907: "Судьба Бахрейна"
+ annexation_907_desc: "Остров Бахрейн теперь под нашим контролем, мы должны решить, что с ним делать."
+ annexation_events.4031.a: "[hasa.GetGrantTerritoryEventOption]"
+ annexation_events.4031.b: "[qatar.GetGrantTerritoryEventOption]"
+
+ annexation_347: "Судьба Хасаба"
+ annexation_347_desc: "Стратегический порт Хасаб теперь под нашим контролем, мы должны решить, что с ним делать."
+ annexation_events.4032.a: "[abu_dhabi.GetGrantTerritoryEventOption]"
+
+ annexation_1024: "Судьба Дхофара"
+ annexation_1024_desc: "Спорные пограничные земли вокруг Дхофара теперь под нашим контролем, и мы должны решить, что с ними делать."
+ annexation_events.4033.a: "[hadhramaut.GetGrantTerritoryEventOption]"
+
+ annexation_344: "Судьба Аданы"
+ annexation_344_desc: "Спорные пограничные земли вокруг Аданы теперь под нашим контролем, мы должны решить, что с ними делать."
+ annexation_events.4034.a: "[sivas.GetGrantTerritoryEventOption]"
+ annexation_events.4034.b: "[latakia.GetGrantTerritoryEventOption]"
+
+ annexation_418: "Судьба региона [418.GetName]"
+ annexation_418_desc: "Пограничные земли [418.GetName] перешли под наш контроль, поскольку наши войска оккупировали регион. Теперь мы должны решить, что с ними делать."
+ annexation_events.4035.a: "[khorasan.GetGrantTerritoryEventOption]"
+ annexation_events.4035.b: "[karakum.GetGrantTerritoryEventOption]"
+ 
+ ### Africa Events ###
+ 
+ annexation_539: "Судьба региона [GAB.GetNameDef]"
+ annexation_539_desc: "Теперь мы контролируем бывшую немецкую колонию [GAB.GetNameDef] и вместе с ней нам подчиняются тысячи африканцев. Возможно, мы должны создать для них государство на этих землях. Однако мы и сами можем успешно править ими."
+ annexation_events.5000.a: "Сформировать государство [GAB.GetNameDef]"
+  
+ annexation_927: "Судьба региона [CMR.GetNameDef]"
+ annexation_927_desc: "С нашей недавней аннексией колонии [CMR.GetNameDef] администрация на этих землях распалась, и эта территория нуждается в новой более крепкой администрации. Вопрос лишь в том, должны ли эти земли находиться под нашим прямым контролем или достаточно создать марионеточное государство?"
+ annexation_events.5001.a: "Сформировать государство [CMR.GetNameDef]"
+  
+ annexation_660_shari: "Судьба региона [CAR.GetNameDef]"
+ annexation_660_shari_desc: "После нашей успешной победы над врагом, нам пришлось контролировать территории [CAR.GetNameDef]. Тем не менее эта оккупация съедает много сил и денег, и многие официальные лица в нашей стране предлагают дать автономию этим землям. Каков ваш вердикт?"
+ annexation_events.5002.a: "Сформировать государство [CAR.GetNameDef]"
+  
+ annexation_295: "Судьба региона [COG.GetNameDef]"
+ annexation_295_desc: "Наша аннексия бывшей немецкой колонии [COG.GetNameDef] подняла вопрос об скорейшем решении судьбы этих земель. У нас есть несколько вариантов решения этой проблемы. Мы можем установить здесь колониальное правительство. Также мы можем создать государство, лояльное нам, возглавляемая местными лидерами. Каков ваш вердикт?"
+ annexation_events.5003.a: "Сформировать государство [COG.GetNameDef]"
+ 
+ annexation_813: "Судьба Замбезии"
+ annexation_813_desc: "Теперь, когда мы контролируем бывшие территории немецкой колонии в Замбезии, нам нужно решить судьбу Замбезии. Мы можем из неё сделать отдельную колонию или мы можем объединить её с Ньясалендом. Так, что мы будем делать с ней?"
+ annexation_events.5004.a: "Сформировать государство [ZAM.GetNameDef]"
+  
+ annexation_540: "Судьба региона [ANG.GetNameDef]"
+ annexation_540_desc: "После присоединения [ANG.GetNameDef], бывшей колонии Португалии, нам придётся разобраться с жителями этой колонии. Разумеется, нам будет легче дать им независимость, чем управлять ими на прямую?"
+ annexation_events.5005.a: "Сформировать государство [ANG.GetNameDef]!"
+  
+ annexation_973: "Судьба региона [NGA.GetNameDef]"
+ annexation_973_desc: "Огромная и богатая колония [NGA.GetNameDef] теперь находится под нашим контролем, и нам нужно решить её судьбу. Должна ли она быть зависима от нас?"
+ annexation_events.5006.a: "Сформировать государство [NGA.GetNameDef]"
+  
+ annexation_876: "Судьба региона [DAH.GetNameDef]"
+ annexation_876_desc: "Старая территория королевства [DAH.GetNameDef], бывшая немецкая колония, была захвачена нами. И стоит заметить, что поддержка оккупации на этих землях обходится нам очень дорого. Поэтому нам стоит дать этой территории автономию. Или всё же не стоит?"
+ annexation_events.5007.a: "Сформировать государство [DAH.GetNameDef]"
+  
+ annexation_877: "Судьба региона [TOG.GetNameDef]"
+ annexation_877_desc: "Теперь мы контролируем бывшую немецкую колонию [TOG.GetNameDef] и миллионы африканцев, населяющих ее, желают сформировать собственное правительство. Возможно, нам стоит дать им такую возможность, но они, конечно же, будут лояльны нам."
+ annexation_events.5008.a: "Сформировать государство [TOG.GetNameDef]"
+  
+ annexation_274: "Судьба региона [GHA.GetNameDef]"
+ annexation_274_desc: "Сейчас регион [GHA.GetNameDef] находится под нашим контролем. Должны ли мы продолжать оккупацию или мы должны сформировать новое правительство на этой земле?"
+ annexation_events.5009.a: "Сформировать государство [GHA.GetNameDef]"
+  
+ annexation_807: "Судьба Кот-д’Ивуара"
+ annexation_807_desc: "Кот-д'Ивуар теперь под нашим контролем. Однако его жители требуют, чтобы компетентная администрация позаботилась о налогах и воинской повинности. Возможно, создание лояльного нам правительства на этой земле более лучшее решение проблемы чем наш прямой контроль."
+ annexation_events.5010.a: "Сформировать государство Кот-д’Ивуар"
+  
+ annexation_298: "Судьба Либерии"
+ annexation_298_desc: "Государство Либерия, основанное американской компанией, которая хотела перевезти всех американских чернокожих обратно в Африку, всегда было своеобразным государством. Под контролем американцев в течение многих лет страна утратила свою мощь. Либерийская идентичность сильна и попытка аннексировать их напрямую может оказаться неэффективной, чиновники в нашей стране призывают к созданию лояльного либерийского государства вместо аннексии."
+ annexation_events.5011.a: "Освободить лояльную Либерию"
+  
+ annexation_700: "Судьба Сьерра-Леоне"
+ annexation_700_desc: "Бывшая британская колония Сьерра-Леоне находится под нашим контролем. Но, несмотря на все усилия, наша администрация не справляется с управлением этими землями, поэтому поступили предложения об создании марионеточного правительства на этих землях."
+ annexation_events.5012.a: "Сформировать государство Сьерра-Леоне"
+  
+ annexation_806: "Судьба Гвинеи"
+ annexation_806_desc: "Бывшая французская колония Гвинея находится под нашим контролем. Спустя некоторое время возник вопрос об создании лояльного государства на этих земля. Каково наше решение?"
+ annexation_events.5013.a: "Сформировать государство Гвинея"
+  
+ annexation_272: "Судьба Сенегамбии"
+ annexation_272_desc: "Порт Дакар, когда-то самый важный порт Французской Западной Африки, наш. Однако, после нашего прихода на эту землю, возник вопрос об выделении автономии этой территории. Так, и что нам делать?"
+ annexation_events.5015.a: "Сформировать государство Сенегамбия"
+  
+ annexation_557: "Судьба Мавритании"
+ annexation_557_desc: "Пустынный регион Мавритании находится под нашим контролем. Бывшая французская колония, нуждается в создании сильной администрации, чтобы эти земли не утонули в анархии. Должны ли мы рассмотреть вопрос о создании мавританского марионеточного государства?"
+ annexation_events.5016.a: "Сформировать государство Мавритания"
+  
+ annexation_556: "Судьба Мали"
+ annexation_556_desc: "Долина реки Нигер, некогда известная как французский Судан или Мали, теперь находится под нашим контролем. Прямой контроль над этой территорией обходится нам дорого. Поэтому на следует создать на этой земле марионеточное правительство. Или всё же не следует?"
+ annexation_events.5017.a: "Сформировать государство Мали"
+  
+ annexation_808: "Судьба Верхней Вольты"
+ annexation_808_desc: "Древняя земля мосси вокруг области Вольта перешла под наш контроль и теперь является частью нашей страны. Часто разделенные и плохо воспринимаемые колониальными властями, их народ теперь просит нас дать ему шанс создать свое собственное государство. Должны ли мы позволить им организовать себя в определённой степени?"
+ annexation_events.5018.a: "Сформировать государство Верхняя Вольта"
+  
+ annexation_809: "Судьба Нигера"
+ annexation_809_desc: "Нигер находится под нашим контролем. Теперь пора решить вопрос об создании администрации на этой земле?"
+ annexation_events.5019.a: "Сформировать государство Нигер"
+  
+ annexation_515: "Судьба Чада"
+ annexation_515_desc: "Наконец, Чад наш. Однако возник вопрос об создании государства на этой земле. Возможно, нам следует дать местным жителям своё государство, лояльное нам, так как аборигены не раз восставали против колонизаторов."
+ annexation_events.5020.a: "Сформировать государство Чад"
+  
+ annexation_461: "Судьба Марокко"
+ annexation_461_desc: "Мы освободили Марокко от немцев, и наши силы сейчас испытывают трудности с оккупацией горных и полузасушливых районов страны. Несмотря на то, что городские центры находятся под нашим контролем, возможно, было бы целесообразно передать дополнительный контроль местным жителям."
+ annexation_events.5021.a: "Мы должны освободить их"
+  
+ annexation_699: "Судьба Рио-де-Оро"
+ annexation_699_desc: "Пустынный район Рио-де-Оро сейчас находится под нашим контролем, мы должны решить, что с ним делать."
+  
+ annexation_459: "Судьба Алжира"
+ annexation_459_desc: "Мы наконец-то освободили Алжир от французских тиранов. Должны ли мы дать Алжиру свободу?"
+ annexation_events.5024.a: "Освободить лояльный Алжир"
+  
+ annexation_458: "Судьба Туниса"
+ annexation_458_desc: "После тяжелых боев нам удалось провести полномасштабное наступление и установить контроль над всем Тунисом. Бей и несколько националистов требуют самоуправления, и некоторые предлагают им это предоставить. В качестве альтернативы мы могли бы продолжать оккупировать Тунис. Что нам делать?"
+ annexation_events.5025.a: "Освободить Тунис"
+  
+ annexation_271: "Судьба Эфиопии"
+ annexation_271_desc: "После нашей успешной кампании в Эфиопии, у нас теперь есть задача создать новую местную административную власть для восстановления мира, однако есть несколько вариантов для нашего выбора..."
+ annexation_events.5026.a: "Освободить Эфиопию"
+  
+ annexation_550: "Судьба Эритреи"
+ annexation_550_desc: "После нашей успешной кампании в Эритрее сейчас перед нами стоит задача учредить новую местную административную власть в целях восстановления мира, однако у нас есть несколько вариантов..."
+ annexation_events.5027.a: "Освободить Эритрею!"
+  
+ annexation_268: "Судьба региона [268.GetName]"
+ annexation_268_desc: "Мы контролируем [268.GetName], на который претендует одна из наших марионеток. Может быть, лучше будет отдать его им?"
+  
+ annexation_559: "Судьба Сомали"
+ annexation_559_desc: "Теперь мы контролируем бывшие территории государства Сомали, и на этих территориях будет тяжело поддерживать оккупацию, возможно, мы должны сделать Сомали независимым государством, но находящимся в нашей сфере влияния?"
+ annexation_events.5029.a: "Создать лояльную Сомалию"
+  
+ annexation_547: "Судьба Кении"
+ annexation_547_desc: "Земли Кении находятся под нашим контролем. Нам, возможно, стоит присоединить её к нашей стране. Или нам всё же стоит создать марионеточное государство на этой территории..."
+ annexation_events.5030.a: "Сформировать государство Кения"
+  
+ annexation_548: "Судьба Уганды"
+ annexation_548_desc: "Сейчас мы занимаем территории бывшей немецкой колонии - Уганды. Нам нужно решить проблему о создании правительства на этой земле. Должно ли правительство состоять из местных жителей или мы сами должны управлять этой страной. В любом случае, Do you know the way?"
+ annexation_events.5031.a: "Сформировать государство Уганда"
+  
+ annexation_965: "Судьба Восточной Африки"
+ annexation_965_desc: "Сейчас мы занимаем центр бывшей немецкой колонии - Миттельафрики. Теперь нам надо решить судьбу этих земель. Мы можем создать государство, лояльное нам, возглавляемое местными лидерами или нам стоит создать колониальное правительство?"
+ annexation_events.5032.a: "Сформировать Большую Восточную Африку."
+ annexation_events.5032.b: "Восстановить Восточную Африку в ее прежнем виде."
+  
+ annexation_869: "Судьба Руанды"
+ annexation_869_desc: "После освобождения Руанды от немецкой тирании, у нас возник вопрос об независимости этой страны. Должны ли мы управлять этой страной или это должны делать жители этой страны?"
+ annexation_events.5033.a: "Сформировать государство Руанда"
+  
+ annexation_870: "Судьба Урунди"
+ annexation_870_desc: "Мы присоединили Урунди, часть бывшей немецкой колонии Восточной Африки. Мы должны решить судьбу этой земли. Может нам следует создать марионеточное правительство на этих землях?"
+ annexation_events.5034.a: "Сформировать государство [BRD.GetNameDef]"
+  
+ annexation_544: "Судьба Мозамбика"
+ annexation_544_desc: "После присоединения Мозамбика, бывшей колонии Португалии, нам придётся разобраться с жителями этой колонии. Разумеется, нам будет легче дать им независимость, чем управлять ими на прямую?"
+ annexation_events.5035.a: "Сформировать государство Мозамбик"
+ 
+ annexation_871: "Судьба Ньясаленда"
+ annexation_871_desc: "После начала оккупации Ньясаленда, нам поступили предложения о создании государства, лояльного нам, возглавляемая местными лидерами, вместо создания на этих территориях колонии. Как вы считаете, что нам нужно сделать Ньясалендом?"
+ annexation_events.5036.a: "Сформировать государство [MLW.GetNameDef]"
+ annexation_events.5036.b: "Отдать его [955.owner.GetNameDef]"
+  
+ annexation_543: "Судьба Мадагаскара"
+ annexation_543_desc: "Как ни странно, Мадагаскар наш. Огромный остров в настоящее время находится под нашим контролем. Возможно, нам следует образовать на Мадагаскаре протекторат или нам следует полностью присоединить к нашей стране?"
+ annexation_events.5037.a: "Сформировать государство [MAD.GetNameDef]"
+ annexation_events.5037.b: "Восстановить королевство Имерина"
+ 
+ annexation_681: "Судьба Южной Африки"
+ annexation_681_desc: "Наконец-то, Южная Африка пала под натиском наших армий. После окончания войны, пошли разговоры о предоставлении независимости этому государству. На повестке стоял вопрос: стоит ли нам оставить под контролем Южной Африки протектораты Бечуаленд и Родезию, которые перешли под их контроль в 1925 году? Выбор за нами."
+ annexation_events.5038.a: "Освободить Южную Африку"
+  
+ annexation_541: "Судьба Намибии"
+ annexation_541_desc: "Мы аннексировали бывшую немецкую колонию - Миттельафрику. Однако возник вопрос о том, что нам делать с землями этой бывшей колонии. Мы можем создать на этих землях свою колонию. Также мы можем продолжить оккупацию этих земель. Так каково наше решение?"
+ annexation_events.5039.a: "Сформировать государство Намибия!"
+  
+ annexation_542: "Судьба Ботсваны"
+ annexation_542_desc: "Ботсвана наша. Должны ли мы создать протекторат на этой земле?"
+ annexation_events.5040.a: "Сформировать государство Ботсвана"
+  
+ annexation_545: "Судьба Зимбабве"
+ annexation_545_desc: "Протекторат Зимбабве/Родезия пережил много битв за независимость. Однако все они провалились. Возможно, чтобы избежать кровопролития, нам стоит дать им независимость?"
+ annexation_events.5041.a: "Сформировать государство Зимбабве"
+  
+ annexation_551: "Судьба Судана"
+ annexation_551_desc: "Судан оказался под нашим контролем. Мы должны решить его дальнейшую судьбу."
+ annexation_events.5042.a: "Освободить Судан."
+ annexation_events.5042.b: "Отдать Нубию Египту и освободить остальную часть Судана."
+
+ annexation_906: "Судьба Огадена"
+ annexation_906_desc: "Спорный регион между Эфиопией и Сомали был захвачен нашими войсками. Мы должны решить его дальнейшую судьбу."
+
+ annexation_892: "Судьба Джубаленда"
+ annexation_892_desc: "Спорный регион между Кенией и Сомали был захвачен нашими войсками. Мы должны решить его дальнейшую судьбу."
+ 
+ annexation_296: "Судьба португальской Гвинеи"
+ annexation_296_desc: "В связи с нашей новой оккупацией бывшей португальской колонии Гвинеи был поднят вопрос о создании марионеточного правительства, частично управляемого местными жителями, вместо новой колонии, стоит ли нам продвигать эту идею?"
+ annexation_events.5045.a: "Образуйте государство [GNB.GetNameDef]"
+
+ annexation_297: "Судьба Экваториальной Гвинеи"
+ annexation_297_desc: "В связи с нашей новой оккупацией бывшей испанской колонии Экваториальной Гвинеи был поднят вопрос о создании марионеточного правительства, частично управляемого местными жителями, вместо новой колонии, стоит ли нам продвигать эту идею?"
+ annexation_events.5046.a: "Образуйте государство [EQG.GetNameDef]"
+
+ annexation_290: "Судьба Рифа"
+ annexation_290_desc: "Прибрежная полоса Марокко, известная как Риф, теперь под нашим контролем, и мы должны решить, что с ней делать."
+
+ annexation_968: "Судьба Ифни"
+ annexation_968_desc: "Небольшой портовый город Ифни теперь под нашим контролем, мы должны решить, что с ним делать."
+
+ annexation_834: "Судьба Гамбии"
+ annexation_834_desc: "Прибрежный регион Гамбии теперь под нашим контролем, мы должны решить, что с ним делать."
+
+ annexation_950: "Судьба Луренсу Маркеса"
+ annexation_950_desc: "Южная половина Мозамбика теперь под нашим контролем, мы должны решить, что с ней делать."
+
+ annexation_928: "Судьба Среднего Конго"
+ annexation_928_desc: "Западная часть бассейна Конго, первоначально французская колония, теперь находится под нашим контролем, и мы должны решить, что с ней делать."
+ annexation_events.5051.a: "[leopoldville.GetGrantTerritoryEventOption]"
+
+ annexation_indian_ocean_islands: "Судьба [FROM.FROM.GetName]"
+ annexation_indian_ocean_islands_desc: "[FROM.FROM.GetName] перешла под наш контроль, поскольку наши войска оккупировали регион. Теперь мы должны решить, что с ним делать."
+ annexation_events.5052.a: "[madagascar.GetGrantTerritoryEventOption]"
+ annexation_events.5052.b: "[ceylon.GetGrantTerritoryEventOption]"
+ annexation_706: "$annexation_indian_ocean_islands$"
+ annexation_706_desc: "$annexation_indian_ocean_islands_desc$"
+ annexation_707: "$annexation_indian_ocean_islands$"
+ annexation_707_desc: "$annexation_indian_ocean_islands_desc$"
+ annexation_708: "$annexation_indian_ocean_islands$"
+ annexation_708_desc: "$annexation_indian_ocean_islands_desc$"
+ annexation_709: "$annexation_indian_ocean_islands$"
+ annexation_709_desc: "$annexation_indian_ocean_islands_desc$"
+ annexation_710: "$annexation_indian_ocean_islands$"
+ annexation_710_desc: "$annexation_indian_ocean_islands_desc$"
+
+ annexation_914: "Судьба региона [FROM.GetName]"
+ annexation_914_desc: "Регион [FROM.GetName] перешла под наш контроль, поскольку наши войска оккупировали регион. Теперь мы должны решить, что с ним делать."
+ annexation_events.5053.a: "[loanda.GetGrantTerritoryEventOption]"
+ annexation_events.5053.b: "[lower_congo.GetGrantTerritoryEventOption]"
+ annexation_events.5053.c: "[middle_congo.GetGrantTerritoryEventOption]"
+ 

@@ -1,0 +1,30 @@
+﻿l_russian:
+########################################################
+### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ###
+########################################################
+
+#changed to British spelling
+ AIRWING_REORG: "Перестроить авиакрылья"
+ AIRWING_REORG_ONE: "Перестроить авиакрыло"
+ AIRWING_REORG_BASE: "Перестроить авиакрылья"
+ AIRWING_REORG_ONE_BASE: "Перестроить авиакрыло"
+ AIRWING_MISSION_TRANSFER_CANCELED: "Отменить текущую переброску.($PERC|%H$)"
+ AIRWING_DEPLOYMENT_CANCELED: "Развертывание отменено, возврат в резерв ($PERC|%H$, ожидаемое прибытие: $ETA|%H$)"
+
+#fixed typo
+ AIR_DELETE_WINGS_DESC: "Вы уверены, что хотите удалить авиакрылья в количестве $COUNT|H$ шт. и вернуть всю их технику в резерв?"
+
+#changed to British spelling + fixed missing "is"
+ AIRBASE_NON_OPERATIONAL_DMZ: "Эта авиабаза не функционирует, поскольку мы не можем получить доступ к аэропорту в демилитаризованной зоне."
+
+#changed to British spelling
+ AIRWING_DEPLOYMENT_CANCELING: "§HОтмена в процессе§!"
+ AIR_VIEW_AIR_ATTACK_HIGHER: "Среднее значение нашей §Hвоздушной атаки§! §Gбольше§!, чем их §Hпротивовоздушная оборона§!"
+ AIR_VIEW_AIR_ATTACK_LOWER: "Среднее значение нашей §Hвоздушной атаки§! §Rменьше§!, чем их §Hпротивовоздушная оборона§!"
+ AIR_VIEW_AIR_ATTACK_EQUAL: "Среднее значение нашей §Hвоздушной атаки§! §Hравно§! их §Hпротивовоздушной обороне§!"
+ AIR_VIEW_AIR_DEFENSE_HIGHER: "Среднее значение нашей §Hпротивовоздушной обороны§! §Gбольше§!, чем их §Hвоздушная атака§!"
+ AIR_VIEW_AIR_DEFENSE_LOWER: "Среднее значение нашей §Hпротивовоздушной обороны§! §Rменьше§!, чем их §Hвоздушная атака§!"
+ AIR_VIEW_AIR_DEFENSE_EQUAL: "Среднее значение нашей §Hпротивовоздушной обороны§! §Hравно§! их §Hвоздушной атаке§!"
+
+#fixed typo
+ AIR_MORE_GROUND_CREWS_CANCEL_DESC: "§RОтменить§! прирост эффективности в регионе $NAME|H$"

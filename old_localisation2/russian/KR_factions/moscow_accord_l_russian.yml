@@ -1,0 +1,30 @@
+﻿l_russian:
+  
+ #created by RUS_third_europe and FER_great_power_again focuses 
+ faction_moscow_accord: "Организация Московского Договора"
+  
+ #created by RUS_restart_war_against_germany decision 
+ faction_second_moscow_accord: "Второе Московское соглашение"
+  
+ #renamed by RUS_heiress_of_genghis focus 
+ faction_eurasian_treaty_organisation: "Организация Евразийского договора"
+  
+ #created by FER_great_power_again focus and renamed by RUS_shepherd_of_nations focus 
+ faction_holy_league: "Священная лига"
+  
+ #renamed by russia_socialist_events.460 event 
+ faction_petrograd_accords: "Петроградские соглашения"
+ faction_kharkiv_accords: "Харьковские соглашения"
+ faction_minsk_accords: "Минские соглашения"
+ faction_riga_accords: "Рижские соглашения"
+ faction_vistula_accords: "Вислинские соглашения"
+ faction_warsaw_accords: "Варшавские соглашения"
+ faction_prague_accords: "Пражские соглашения"
+ faction_belgrade_accords: "Белградские соглашения"
+  
+ #renamed by russia_foreign_policy_events.65 event 
+ faction_RUS_entente: "Новая Антанта"
+  
+ # Manifest 
+ faction_manifest_masters_of_eurasia_name: "Хозяева Евразии"
+ faction_manifest_masters_of_eurasia_desc: "Контролировать все государства Восточной Европы, Ближнего Востока, Центральной Азии, Синьцзян, Монголию и Маньчжурию."

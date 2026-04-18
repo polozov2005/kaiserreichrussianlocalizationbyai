@@ -1,0 +1,452 @@
+﻿l_russian:
+
+### 2nd American Civil War ###
+ CIVIL_WAR_NAME_CSA_USA: "Вторая Американская Гражданская война"
+ CIVIL_WAR_NAME_USA_CSA: "Вторая Американская Гражданская война"
+ CIVIL_WAR_NAME_TEX_USA: "Вторая Американская Гражданская война"
+ CIVIL_WAR_NAME_USA_TEX: "Вторая Американская Гражданская война"
+ CIVIL_WAR_NAME_PSA_USA: "Вторая Американская Гражданская война"
+ CIVIL_WAR_NAME_USA_PSA: "Вторая Американская Гражданская война"
+ CIVIL_WAR_NAME_PSA_CSA: "Вторая Американская Гражданская война"
+ CIVIL_WAR_NAME_CSA_PSA: "Вторая Американская Гражданская война"
+ CIVIL_WAR_NAME_TEX_CSA: "Вторая Американская Гражданская война"
+ CIVIL_WAR_NAME_CSA_TEX: "Вторая Американская Гражданская война"
+ CIVIL_WAR_NAME_PSA_TEX: "Вторая Американская Гражданская война"
+ CIVIL_WAR_NAME_TEX_PSA: "Вторая Американская Гражданская война"
+
+### Spanish Civil War ###
+ CIVIL_WAR_NAME_SPA_SPR: "Испанская Гражданская война"
+ CIVIL_WAR_NAME_SPR_SPA: "Испанская Гражданская война"
+ CIVIL_WAR_NAME_SPA_SWF: "Испанская Гражданская война"
+ CIVIL_WAR_NAME_SWF_SPA: "Испанская Гражданская война"
+ CIVIL_WAR_NAME_SPR_SWF: "Испанская Гражданская война"
+ CIVIL_WAR_NAME_SWF_SPR: "Испанская Гражданская война"
+
+### Crisis on the Danube ###
+ WAR_NAME_AUS_HUN: "Дунайский кризис"
+ WAR_NAME_AUS_CRO: "Дунайский кризис"
+ WAR_NAME_AUS_CZE: "Дунайский кризис"
+ WAR_NAME_AUS_GAL: "Дунайский кризис"
+ WAR_NAME_HUN_AUS: "Дунайский кризис"
+ WAR_NAME_HUN_CRO: "Дунайский кризис"
+ WAR_NAME_HUN_CZE: "Дунайский кризис"
+ WAR_NAME_HUN_GAL: "Дунайский кризис"
+ WAR_NAME_CRO_AUS: "Дунайский кризис"
+ WAR_NAME_CRO_HUN: "Дунайский кризис"
+ WAR_NAME_CRO_CZE: "Дунайский кризис"
+ WAR_NAME_CRO_GAL: "Дунайский кризис"
+ WAR_NAME_CZE_AUS: "Дунайский кризис"
+ WAR_NAME_CZE_HUN: "Дунайский кризис"
+ WAR_NAME_CZE_CRO: "Дунайский кризис"
+ WAR_NAME_CZE_GAL: "Дунайский кризис"
+ WAR_NAME_GAL_AUS: "Дунайский кризис"
+ WAR_NAME_GAL_HUN: "Дунайский кризис"
+ WAR_NAME_GAL_CRO: "Дунайский кризис"
+ WAR_NAME_GAL_CZE: "Дунайский кризис"
+
+### Война за объединение Италии ###
+ WAR_NAME_EMI_ITA: "Война за объединение Италии"
+ WAR_NAME_EMI_LOM: "Война за объединение Италии"
+ WAR_NAME_EMI_PAP: "Война за объединение Италии"
+ WAR_NAME_EMI_SIC: "Война за объединение Италии"
+ WAR_NAME_EMI_SRD: "Война за объединение Италии"
+ WAR_NAME_EMI_SRI: "Война за объединение Италии"
+ WAR_NAME_EMI_TUS: "Война за объединение Италии"
+ WAR_NAME_EMI_VNC: "Война за объединение Италии"
+
+ WAR_NAME_ITA_EMI: "Война за объединение Италии"
+ WAR_NAME_ITA_LOM: "Война за объединение Италии"
+ WAR_NAME_ITA_PAP: "Война за объединение Италии"
+ WAR_NAME_ITA_SIC: "Война за объединение Италии"
+ WAR_NAME_ITA_SRD: "Война за объединение Италии"
+ WAR_NAME_ITA_SRI: "Война за объединение Италии"
+ WAR_NAME_ITA_TUS: "Война за объединение Италии"
+
+ WAR_NAME_LOM_EMI: "Война за объединение Италии"
+ WAR_NAME_LOM_ITA: "Война за объединение Италии"
+ WAR_NAME_LOM_PAP: "Война за объединение Италии"
+ WAR_NAME_LOM_SIC: "Война за объединение Италии"
+ WAR_NAME_LOM_SRD: "Война за объединение Италии"
+ WAR_NAME_LOM_SRI: "Война за объединение Италии"
+ WAR_NAME_LOM_TUS: "Война за объединение Италии"
+ WAR_NAME_LOM_VNC: "Война за объединение Италии"
+
+ WAR_NAME_PAP_EMI: "Война за объединение Италии"
+ WAR_NAME_PAP_ITA: "Война за объединение Италии"
+ WAR_NAME_PAP_LOM: "Война за объединение Италии"
+ WAR_NAME_PAP_SIC: "Война за объединение Италии"
+ WAR_NAME_PAP_SRD: "Война за объединение Италии"
+ WAR_NAME_PAP_SRI: "Война за объединение Италии"
+ WAR_NAME_PAP_TUS: "Война за объединение Италии"
+ WAR_NAME_PAP_VNC: "Война за объединение Италии"
+
+ WAR_NAME_SIC_EMI: "Война за объединение Италии"
+ WAR_NAME_SIC_ITA: "Война за объединение Италии"
+ WAR_NAME_SIC_LOM: "Война за объединение Италии"
+ WAR_NAME_SIC_PAP: "Война за объединение Италии"
+ WAR_NAME_SIC_SRD: "Война за объединение Италии"
+ WAR_NAME_SIC_SRI: "Война за объединение Италии"
+ WAR_NAME_SIC_TUS: "Война за объединение Италии"
+ WAR_NAME_SIC_VNC: "Война за объединение Италии"
+
+ WAR_NAME_SRD_EMI: "Война за объединение Италии"
+ WAR_NAME_SRD_ITA: "Война за объединение Италии"
+ WAR_NAME_SRD_LOM: "Война за объединение Италии"
+ WAR_NAME_SRD_PAP: "Война за объединение Италии"
+ WAR_NAME_SRD_SIC: "Война за объединение Италии"
+ WAR_NAME_SRD_SRI: "Война за объединение Италии"
+ WAR_NAME_SRD_TUS: "Война за объединение Италии"
+ WAR_NAME_SRD_VNC: "Война за объединение Италии"
+
+ WAR_NAME_SRI_EMI: "Война за объединение Италии"
+ WAR_NAME_SRI_ITA: "Война за объединение Италии"
+ WAR_NAME_SRI_LOM: "Война за объединение Италии"
+ WAR_NAME_SRI_PAP: "Война за объединение Италии"
+ WAR_NAME_SRI_SIC: "Война за объединение Италии"
+ WAR_NAME_SRI_SRD: "Война за объединение Италии"
+ WAR_NAME_SRI_TUS: "Война за объединение Италии"
+ WAR_NAME_SRI_VNC: "Война за объединение Италии"
+
+ WAR_NAME_TUS_EMI: "Война за объединение Италии"
+ WAR_NAME_TUS_ITA: "Война за объединение Италии"
+ WAR_NAME_TUS_LOM: "Война за объединение Италии"
+ WAR_NAME_TUS_PAP: "Война за объединение Италии"
+ WAR_NAME_TUS_SIC: "Война за объединение Италии"
+ WAR_NAME_TUS_SRD: "Война за объединение Италии"
+ WAR_NAME_TUS_SRI: "Война за объединение Италии"
+ WAR_NAME_TUS_VNC: "Война за объединение Италии"
+
+ WAR_NAME_VNC_EMI: "Война за объединение Италии"
+ WAR_NAME_VNC_LOM: "Война за объединение Италии"
+ WAR_NAME_VNC_PAP: "Война за объединение Италии"
+ WAR_NAME_VNC_SIC: "Война за объединение Италии"
+ WAR_NAME_VNC_SRD: "Война за объединение Италии"
+ WAR_NAME_VNC_SRI: "Война за объединение Италии"
+ WAR_NAME_VNC_TUS: "Война за объединение Италии"
+
+### Вторая Американо-мексиканская война ###
+ WAR_NAME_USA_MEX: "Вторая $ORDER$$SECOND$-$FIRST$ война"
+ WAR_NAME_MEX_USA: "Вторая $ORDER$$FIRST$-$SECOND$ война"
+ WAR_NAME_PSA_MEX: "Война $ORDER$$FIRST$-ТША"
+ WAR_NAME_MEX_PSA: "Война $ORDER$$FIRST$-ТША"
+ WAR_TAKE_CLAIM_MEX_USA: "$ORDER$$FIRST$ агрессия за $STATE$"
+ WAR_TAKE_CORE_MEX_USA: "$ORDER$$FIRST$ претензия на $STATE$"
+
+### Entente-Internationale Wars ###
+ WAR_NAME_IMP_ENG: "Возвращение на Родные острова"
+ WAR_NAME_ENG_IMP: "Война Антанты и Интернационала"
+ WAR_NAME_NFA_FRA: "$ORDER$$FIRST$-$SECOND$ война"
+ WAR_NAME_FRA_NFA: "$ORDER$$FIRST$-$SECOND$ война"
+
+### The Second Weltkrieg ###
+ WAR_NAME_GER_FRA: "Второй Вельткриг"
+ WAR_NAME_FRA_GER: "Второй Вельткриг"
+ WAR_NAME_GER_ENG: "Второй Вельткриг"
+ WAR_NAME_ENG_GER: "Второй Вельткриг"
+ 
+### 2nd Russo-Japanese War ###
+ WAR_NAME_RUS_JAP: "Вторая Русско-$ORDER$$SECOND$ война"
+ WAR_NAME_JAP_RUS: "Вторая Русско-$ORDER$$FIRST$ война"
+
+### Война в Восточных морях ###
+ WAR_NAME_GER_JAP: "Война в Восточных морях"
+ WAR_NAME_JAP_GER: "Война в Восточных морях"
+ WAR_NAME_GEA_JAP: "Война в Восточных морях"
+ WAR_NAME_JAP_GEA: "Война в Восточных морях"
+
+### Winter War ###
+ WAR_NAME_RUS_FIN: "Зимняя война"
+ WAR_NAME_FIN_RUS: "Зимняя война"
+
+### Middle Eastern Wars ### 
+ WAR_NAME_HEJ_JBS: "Война за арабское объединение"
+ WAR_NAME_HEJ_SAU: "Война за арабское объединение"
+ WAR_NAME_JBS_HEJ: "Война за арабское объединение"
+ WAR_NAME_JBS_SAU: "Война за арабское объединение"
+ WAR_NAME_SAU_HEJ: "Война за арабское объединение"
+ WAR_NAME_SAU_JBS: "Война за арабское объединение"
+ 
+### The Reichspakt Revolts ###
+ WAR_NAME_GER_UKR: "$ORDER$$SECOND$ восстание"
+ WAR_NAME_GER_WHR: "$ORDER$$SECOND$ восстание"
+ WAR_NAME_GER_LIT: "$ORDER$$SECOND$ восстание"
+ WAR_NAME_UKR_GER: "$ORDER$$FIRST$ война за независимость"
+ WAR_NAME_WHR_GER: "$ORDER$$FIRST$ война за независимость"
+ WAR_NAME_LIT_GER: "$ORDER$$FIRST$ война за независимость"
+
+### Indian Wars ###
+ WAR_NAME_RAJ_PRF: "Антанта возвращение Хайдарабад"
+ WAR_NAME_RAJ_HND: "Антанта возвращение Бенгалию"
+ WAR_NAME_HND_PRF: "Бхаратия освобождает Хайдарабад"
+ WAR_NAME_HND_RAJ: "Бхаратия освобождает Лахор"
+ WAR_NAME_PRF_HND: "Княжеский порядок реставрирует Бенгалию"
+ WAR_NAME_PRF_RAJ: "Княжеский порядок реставрирует Лахор"
+
+### Fifth Anglo-Afghani War ###
+ WAR_NAME_AFG_RAJ: "Пятая Англо-Афганская война"
+ WAR_NAME_RAJ_AFG: "Пятая Англо-Афганская война"
+
+### 37th Siamese-Burma War ###
+ WAR_NAME_BRM_SIA: "37-я Сиамско-Бирмансая война"
+ WAR_NAME_SIA_BRM: "37-я Сиамско-Бирмансая война"
+
+### Bharathiyan Civil War ###
+ WAR_NAME_BHC_INR: "Бхаратская гражданская война"
+ WAR_NAME_INR_BHC: "Бхаратская гражданская война"
+
+### War in the Southern Cone ###
+ WAR_NAME_FOP_ARG: "Война в Южном конусе"
+ WAR_NAME_ARG_FOP: "Война в Южном конусе"
+
+### South American Syndicalist Civil War ###
+ WAR_NAME_FOP_CHL: "Южноамериканская Синдикалистская Гражданская война"
+ WAR_NAME_CHL_FOP: "Южноамериканская Синдикалистская Гражданская война"
+
+### Альпийская война over Campione ### 
+ WAR_NAME_SWI_EMI: "Альпийская война"
+ WAR_NAME_EMI_SWI: "Альпийская война"
+ WAR_NAME_SWI_ITA: "Альпийская война"
+ WAR_NAME_ITA_SWI: "Альпийская война"
+ WAR_NAME_SWI_LOM: "Альпийская война"
+ WAR_NAME_LOM_SWI: "Альпийская война"
+ WAR_NAME_SWI_PAP: "Альпийская война"
+ WAR_NAME_PAP_SWI: "Альпийская война"
+ WAR_NAME_SWI_SIC: "Альпийская война"
+ WAR_NAME_SIC_SWI: "Альпийская война"
+ WAR_NAME_SWI_SRD: "Альпийская война"
+ WAR_NAME_SRD_SWI: "Альпийская война"
+ WAR_NAME_SWI_SRI: "Альпийская война"
+ WAR_NAME_SRI_SWI: "Альпийская война"
+ WAR_NAME_SWI_TUS: "Альпийская война"
+ WAR_NAME_TUS_SWI: "Альпийская война"
+ WAR_NAME_SWI_VNC: "Альпийская война"
+ WAR_NAME_VNC_SWI: "Альпийская война"
+
+### Venetian Revolt ###
+ WAR_NAME_VNC_ITA: "Венецианская война за независимость"
+ WAR_NAME_ITA_VNC: "Венецианское восстание"
+
+### Indochina War ###
+ WAR_NAME_INC_GEA: "Война Индокитайского антигерманского сопротивления"
+ WAR_NAME_INC_VIN: "Война за воссоединения Вьетнама"
+ WAR_NAME_GEA_INC: "$ORDER$ Индокитайская война"
+ WAR_NAME_VIN_INC: "Умиротворение Вьетминя"
+
+### SIA-INC War ###
+ WAR_NAME_INC_SIA: "Освобождение территорий Меконга в Индокитае"
+ WAR_NAME_SIA_INC: "Меконгская война"
+
+### Peru-Ecuador War ###
+ WAR_NAME_PRU_ECU: "Война Пастанзы"
+ WAR_NAME_ECU_PRU: "Война Пастанзы"
+
+### Bolivia-Chile War ###
+ WAR_NAME_BOL_CHL: "Вторая Тихоокеанская война"
+ WAR_NAME_CHL_BOL: "Вторая Тихоокеанская война"
+
+### Ethiopian Wars ###
+ WAR_NAME_ETH_ERI: "Эритрейское восстание"
+ WAR_NAME_ERI_ETH: "Эритрейская война за независимость"
+ WAR_NAME_ETH_SOM: "Огаденская война"
+ WAR_NAME_SOM_ETH: "Огаденская война"
+
+### Bush War ###
+ WAR_NAME_MAF_POR: "Бушская война"
+ WAR_NAME_POR_MAF: "Бушская война"
+
+### Korean Uprising ###
+ WAR_NAME_JAP_KOR: "Корейское восстание"
+ WAR_NAME_KOR_JAP: "Корейская война за независимость"
+
+### Second Mahdist Revolt ###
+ WAR_NAME_EGY_SUD: "Второе восстание махдистов"
+ WAR_NAME_SUD_EGY: "Второе восстание махдистов"
+
+### Ottoman Wars ###
+# Egypt
+ WAR_NAME_EGY_OTT: "Война в пустыне"
+ WAR_NAME_OTT_EGY: "Война в пустыне"
+
+# Tripolitania
+ WAR_NAME_LBA_OTT: "Триполитанская война за независимость"
+ WAR_NAME_OTT_LBA: "Триполитанское восстание"
+
+# Cyprus
+ WAR_NAME_CYP_OTT: "Кипрская война за независимость"
+ WAR_NAME_OTT_CYP: "Кипрское восстание"
+
+# Assyria
+ WAR_NAME_ASY_OTT: "Ассирийская война за независимость"
+ WAR_NAME_OTT_ASY: "Ассирийское восстание"
+
+# Anatolian Kurdistan
+ WAR_NAME_KDR_TUR: "Курдская война за независимость"
+ WAR_NAME_TUR_KDR: "Курдское восстание"
+
+# Kurdistan
+ WAR_NAME_KUR_TUR: "Восстание Барзанджи"
+ WAR_NAME_TUR_KUR: "Мятеж Барзанджи"
+
+# Yemen
+ WAR_NAME_YEM_TUR: "Йеменская война за независимость"
+ WAR_NAME_TUR_YEM: "Йеменское восстание"
+
+### Lebanese War of Independence ###
+ WAR_NAME_LEB_SYR: "Ливанская война за независимость"
+ WAR_NAME_SYR_LEB: "Ливанское восстание"
+
+### Ikhwan Revolt ###
+ WAR_NAME_IKH_SAU: "Ихванское восстание"
+ WAR_NAME_SAU_IKH: "Ихванское восстание"
+
+### Panamanian Crisis ###
+ WAR_NAME_PAN_IMP: "Панамский кризис"
+ WAR_NAME_IMP_PAN: "Панамский кризис"
+
+### Coto War ###
+ WAR_NAME_PAN_COS: "Война Кото"
+ WAR_NAME_COS_PAN: "Война Кото"
+
+### Бразильская гражданская война ###
+ CIVIL_WAR_NAME_BRA_AMA: "Бразильская гражданская война"
+ CIVIL_WAR_NAME_BRA_BAH: "Бразильская гражданская война"
+ CIVIL_WAR_NAME_BRA_GOY: "Бразильская гражданская война"
+ CIVIL_WAR_NAME_BRA_GRP: "Бразильская гражданская война"
+ CIVIL_WAR_NAME_BRA_PIR: "Бразильская гражданская война"
+ CIVIL_WAR_NAME_BRA_SPO: "Бразильская гражданская война"
+ CIVIL_WAR_NAME_BRA_VCR: "Бразильская гражданская война"
+ CIVIL_WAR_NAME_BAH_AMA: "Бразильская гражданская война"
+ CIVIL_WAR_NAME_BAH_BRA: "Бразильская гражданская война"
+ CIVIL_WAR_NAME_BAH_GRP: "Бразильская гражданская война"
+ CIVIL_WAR_NAME_BAH_VCR: "Бразильская гражданская война"
+ CIVIL_WAR_NAME_GOY_BRA: "Бразильская гражданская война"
+ CIVIL_WAR_NAME_PIR_BRA: "Бразильская гражданская война"
+ CIVIL_WAR_NAME_SPO_BRA: "Бразильская гражданская война"
+
+### Chinese Wars ###
+ WAR_NAME_LEP_CHI: "Восстание Гоминьдана"
+
+# Initiator: QIE, Qing / Zhili
+ WAR_NAME_QIE_FNG: "$FIRST$-Фэнтяньская война"
+ WAR_NAME_QIE_LEP: "Чжилийская война между Севером и Югом"
+ WAR_NAME_QIE_CGX: "Умиротворение Южного Китая"
+ WAR_NAME_QIE_HNN: "Умиротворение Южного Китая"
+ WAR_NAME_QIE_ANQ: "Умиротворение Южного Китая"
+ WAR_NAME_QIE_CHI: "Умиротворение Южного Китая"
+ WAR_NAME_QIE_YUN: "Умиротворение Южного Китая"
+ WAR_NAME_QIE_SZC: "Пекинская интервенция в Сычуань"
+ WAR_NAME_QIE_SIK: "Пекинская реинтеграция Синьцзяна" 
+ WAR_NAME_QIE_MON: "Пекинское завоевание Монголии" 
+ WAR_NAME_QIE_TIB: "Пекинское завоевание Тибета" 
+ WAR_NAME_QIE_INC: "Пекинская интервенция в Аннам"
+ WAR_NAME_QIE_VIN: "Пекинская интервенция в Аннам"
+
+# Initiator: FNG, Fengtian Government
+ WAR_NAME_FNG_QIE: "$SECOND$-Фэнтяньская война"
+ WAR_NAME_FNG_GXC: "Умиротворение Южного Китая"
+ WAR_NAME_FNG_HNN: "Умиротворение Южного Китая"
+ WAR_NAME_FNG_ANQ: "Умиротворение Южного Китая"
+ WAR_NAME_FNG_CHI: "Умиротворение Южного Китая"
+ WAR_NAME_FNG_YUN: "Умиротворение Южного Китая"
+ WAR_NAME_FNG_SZC: "Фэнтяньская интервенция в Сычуань"
+ WAR_NAME_FNG_SIK: "Фэнтяньская реинтеграция Синьцзяна" 
+ WAR_NAME_FNG_MON: "Фэнтяньское завоевание Монголии" 
+ WAR_NAME_FNG_TIB: "Фэнтяньское завоевание Тибета" 
+ WAR_NAME_FNG_INC: "Фэнтяньская интервенция в Аннам"
+ WAR_NAME_FNG_VIN: "Фэнтяньская интервенция в Аннам"
+
+# Initiator: CHI, Left Kuomintang / Nationalist China
+ WAR_NAME_CHI_LEP: "Китайская Национальная Революция"
+ WAR_NAME_CHI_QIE: "Вторая Северная экспедиция" 
+ WAR_NAME_CHI_FNG: "Китайская Гражданская война" 
+ WAR_NAME_CHI_YUN: "Западная экспедиция" 
+ WAR_NAME_CHI_SZC: "Западная экспедиция" 
+ WAR_NAME_CHI_GXC: "Южная экспедиция"
+ WAR_NAME_CHI_HNN: "Экспедиция в Верхнюю Янцзы"
+ WAR_NAME_CHI_ANQ: "Кампания в Нижнюю Янцзы"
+ WAR_NAME_CHI_XSM: "Северо-Западная экспедиция" 
+ WAR_NAME_CHI_LEC: "Анти-концессионная война"
+ WAR_NAME_CHI_SIK: "Китайская реинтеграция Синьцзяна" 
+ WAR_NAME_CHI_MON: "Китайская реинтеграция Монголии" 
+ WAR_NAME_CHI_TIB: "Китайская реинтеграция Тибета" 
+ WAR_NAME_CHI_INC: "Китайская интервенция в Аннам"
+ WAR_NAME_CHI_VIN: "Китайская интервенция в Аннам"
+
+# Initiator: GXC, SZC, HNN, YUN- Federalist Tags
+ WAR_NAME_GXC_CHI: "Анти-гоминьдановская война" 
+ WAR_NAME_SZC_CHI: "Анти-гоминьдановская война" 
+ WAR_NAME_HNN_CHI: "Анти-гоминьдановская война" 
+ WAR_NAME_YUN_CHI: "$ORDER$$FIRST$-Левая гоминьдановская война" 
+ WAR_NAME_GXC_SIK: "$ORDER$$FIRST$ реинтеграция Синьцзяна"
+ WAR_NAME_SZC_SIK: "$ORDER$$FIRST$ реинтеграция Синьцзяна"
+ WAR_NAME_HNN_SIK: "$ORDER$$FIRST$ реинтеграция Синьцзяна"
+ WAR_NAME_YUN_SIK: "$ORDER$$FIRST$ реинтеграция Синьцзяна"
+ WAR_NAME_GXC_TIB: "$ORDER$$FIRST$ реинтеграция Тибета"
+ WAR_NAME_SZC_TIB: "$ORDER$$FIRST$ реинтеграция Тибета"
+ WAR_NAME_HNN_TIB: "$ORDER$$FIRST$ реинтеграция Тибета"
+ WAR_NAME_YUN_TIB: "$ORDER$$FIRST$ реинтеграция Тибета"
+ WAR_NAME_GXC_MON: "$ORDER$$FIRST$ реинтеграция Монголии"
+ WAR_NAME_SZC_MON: "$ORDER$$FIRST$ реинтеграция Монголии"
+ WAR_NAME_HNN_MON: "$ORDER$$FIRST$ реинтеграция Монголии"
+ WAR_NAME_YUN_MON: "$ORDER$$FIRST$ реинтеграция Монголии"
+ WAR_NAME_GXC_INC: "Китайская интервенция в Аннам"
+ WAR_NAME_GXC_VIN: "Китайская интервенция в Аннам"
+ WAR_NAME_SZC_INC: "Китайская интервенция в Аннам"
+ WAR_NAME_SZC_VIN: "Китайская интервенция в Аннам"
+ WAR_NAME_HNN_INC: "Китайская интервенция в Аннам"
+ WAR_NAME_HNN_VIN: "Китайская интервенция в Аннам"
+ WAR_NAME_YUN_INC: "Китайская интервенция в Аннам"
+ WAR_NAME_YUN_VIN: "Китайская интервенция в Аннам"
+ WAR_NAME_GXC_QIE: "Китайская Гражданская война" 
+ WAR_NAME_GXC_FNG: "Китайская Гражданская война" 
+ WAR_NAME_SZC_QIE: "Китайская Гражданская война" 
+ WAR_NAME_SZC_FNG: "Китайская Гражданская война" 
+ WAR_NAME_HNN_QIE: "Китайская Гражданская война" 
+ WAR_NAME_HNN_FNG: "Китайская Гражданская война" 
+ WAR_NAME_YUN_QIE: "Китайская Гражданская война" 
+ WAR_NAME_YUN_FNG: "Китайская Гражданская война" 
+
+# Northwestern Revolts
+ WAR_NAME_SIK_ETS: "Восточно-Туркестанское восстание"
+ WAR_NAME_ETS_SIK: "Восточно-Туркестанское восстание"
+ WAR_NAME_SIK_KUM: "Кумульское восстание"
+ WAR_NAME_KUM_SIK: "Кумульское восстание"
+
+# League of Eight / Five Provinces Collapse
+ WAR_NAME_LEP_ANQ: "Война Пяти Провинций"
+ WAR_NAME_ANQ_LEP: "Война Пяти Провинций"
+
+# Yunnan Wars
+ WAR_NAME_SHA_YUN: "Шаньская война за независимость"
+ WAR_NAME_YUN_SHA: "Шаньское восстание"
+ WAR_NAME_KAC_YUN: "Качинская война за независимость"
+ WAR_NAME_YUN_KAC: "Качинское восстание"
+
+# Sino-Japanese Wars
+ WAR_NAME_JAP_LEC: "Японская интервенция"
+ WAR_NAME_JAP_FNG: "Маньчжурская интервенция"
+ WAR_NAME_JAP_CHI: "Вторая Китайско-Японская война"
+ WAR_NAME_JAP_QIE: "Вторая Китайско-Японская война"
+ WAR_NAME_JAP_SHX: "Вторая Китайско-Японская война"
+ WAR_NAME_JAP_SQI: "Вторая Китайско-Японская война"
+ WAR_NAME_JAP_XSM: "Вторая Китайско-Японская война"
+ WAR_NAME_JAP_LEP: "Вторая Китайско-Японская война"
+ WAR_NAME_JAP_ANQ: "Вторая Китайско-Японская война"
+ WAR_NAME_JAP_SZC: "Вторая Китайско-Японская война"
+ WAR_NAME_JAP_GXC: "Вторая Китайско-Японская война"
+ WAR_NAME_JAP_HNN: "Вторая Китайско-Японская война
+ WAR_NAME_JAP_YUN: "Вторая Китайско-Японская война"
+ 
+ WAR_NAME_FNG_JAP: "Вторая Китайско-Японская война"
+ WAR_NAME_CHI_JAP: "Вторая Китайско-Японская война"
+ WAR_NAME_QIE_JAP: "Вторая Китайско-Японская война"
+ WAR_NAME_SHX_JAP: "Вторая Китайско-Японская война"
+ WAR_NAME_SQI_JAP: "Вторая Китайско-Японская война"
+ WAR_NAME_XSM_JAP: "Вторая Китайско-Японская война"
+ WAR_NAME_LEP_JAP: "Вторая Китайско-Японская война"
+ WAR_NAME_ANQ_JAP: "Вторая Китайско-Японская война"
+ WAR_NAME_SZC_JAP: "Вторая Китайско-Японская война"
+ WAR_NAME_GXC_JAP: "Вторая Китайско-Японская война"
+ WAR_NAME_YUN_JAP: "Вторая Китайско-Японская война"
+ WAR_NAME_HNN_JAP: "Вторая Китайско-Японская война"
+ 

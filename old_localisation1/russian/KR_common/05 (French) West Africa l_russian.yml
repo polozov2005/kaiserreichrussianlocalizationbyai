@@ -1,0 +1,156 @@
+﻿l_russian:
+
+### GNA: Guinea
+ GNA: "Гвинея"
+ GNA_ADJ: "Гвинейск"
+ GNA_DEF: "Гвинея"
+
+ GNA_totalist: "Гвинейский Союз"
+ GNA_totalist_ADJ: "Гвинейск"
+ GNA_totalist_DEF: "Гвинейский Союз"
+ GNA_syndicalist: "Гвинейский Союз"
+ GNA_syndicalist_ADJ: "Гвинейск"
+ GNA_syndicalist_DEF: "Гвинейский Союз"
+ GNA_radical_socialist: "Гвинейский Союз"
+ GNA_radical_socialist_ADJ: "Гвинейск"
+ GNA_radical_socialist_DEF: "Гвинейский Союз"
+ GNA_national_populist: "Фуута Джало"
+ GNA_national_populist_ADJ: "Джалойск"
+ GNA_national_populist_DEF: "Фуута Джало"
+
+ ### Characters ###
+ GNA_elhadj_abdoulaye_diallo: "Эльхадж Абдулайе Диалло"
+
+ GNA_albert_liurette: "Альберт Люретт"
+ GNA_koumandian_keita: "Кумандиан Кейта"
+ GNA_yacine_diallo: "Ясин Диалло"
+ GNA_georges_olivier: "Жорж Оливье"
+ GNA_louis_placide_blacher: "Луис-Пласид Блахер"
+ GNA_elhadj_camara_baba: "Эльхадж Камара Баба"
+ GNA_aguibou_mody: "Агибу Моди"
+ GNA_barry_diawadou: "Барри Диаваду".
+ GNA_tierno_abdourahmani: "Тендер Абдурахмани"
+ GNA_karamoko_dalen: "Карамоко Дален"
+ GNA_reymond_sarif_easmon: "Реймонд Сариф Исмон"
+
+### IVO: Ivory Coast
+ IVO: "Берег Слоновой Кости"
+ IVO_ADJ: "Ивуарийск"
+ IVO_DEF: "Берег Слоновой Кости"
+
+ ### Characters ###
+ IVO_Felix_Houphouet_Boigny: "Феликс Уфуэ-Буаньи"
+
+### MLI: Mali
+ MLI: "Мали"
+ MLI_ADJ: "Малийск"
+ MLI_DEF: "Мали"
+
+ MLI_totalist: "Малийская Коммуна"
+ MLI_totalist_ADJ: "Малийск"
+ MLI_totalist_DEF: "Малийская Коммуна"
+ MLI_syndicalist: "Малийская Коммуна"
+ MLI_syndicalist_ADJ: "Малийск"
+ MLI_syndicalist_DEF: "Малийская Коммуна"
+ MLI_radical_socialist: "Социалистическая Республика Мали"
+ MLI_radical_socialist_ADJ: "Малийск"
+ MLI_radical_socialist_DEF: "Социалистическая Республика Мали"
+
+ ### Characters ###
+ MLI_modibo_keita: "Модибо Кейта"
+ MLI_mamadou_konate: "Мамаду Конате"
+ MLI_mamby_sidibe: "Мамби Сидибе"
+ MLI_emile_belime: "Эмиль Белим"
+ MLI_hamallah_bin_muhammad_al_tishiti: "Хамаллах бин Мухаммад ат-Тишити"
+ MLI_noukoun_kone: "Нукун Коне"
+
+### MRT: Mauritania
+ MRT: "Мавритания"
+ MRT_ADJ: "Мавританск"
+ MRT_DEF: "Мавритания"
+
+ MRT_national_populist: "Трарзанский Эмират"
+ MRT_national_populist_ADJ: "Трарзанск"
+ MRT_national_populist_DEF: "Трарзанский Эмират"
+
+ ### Characters ###
+ MRT_horma_ould_babana: "Хорма Ульд Бабана"
+ MRT_sidi_el_mokhtar_n_diaye: "Сиди эль-Мохтар Н'Диайе"
+ MRT_merebbi_rebbu: "Меребби Реббу"
+ MRT_ahmed_al_hiba: "Ахмед аль-Хиба"
+
+### NGR: Niger
+ NGR: "Нигер"
+ NGR_ADJ: "Нигерийск"
+ NGR_DEF: "Нигер"
+
+ ### Characters ###
+ NGR_boubou_hama: "Бубу Хама"
+ NGR_ibrahim_niasse: "Ибрагим Ниасс"
+ NGR_sultan_barma_mustapha: "Султан Барма Мустафа"
+
+### SEN: Senegambia
+ SEN: "Сенегамбия"
+ SEN_ADJ: "Сенегамбийск"
+ SEN_DEF: "Сенегамбия"
+
+ SEN_national_populist: "Джолофийское Государство"
+ SEN_national_populist_ADJ: "Джолофийск"
+ SEN_national_populist_DEF: "Джолофийское Государство"
+
+### SIE: Sierra Leone
+ SIE: "Сьерра-Леоне"
+ SIE_ADJ: "Сьерралеонск"
+ SIE_DEF: "Сьерра-Леоне"
+
+ ### Characters ###
+ SIE_banja_tejan_sie: "Банджа Теджан-Си"
+ SIE_george_giffard: "Джордж Жиффар"
+ SIE_lashmer_whistler: "Лэшмер Уистлер"
+ SIE_john_karefasmart: "Джон Карефа-Смарт"
+ SIE_amadu_wurie: "Амаду Вури"
+ SIE_mohammad_sanusi_mustapha: "Мохамед Сануси Мустафа"
+
+### SUD: Sudan
+ SUD: "Судан"
+ SUD_ADJ: "Суданск"
+ SUD_DEF: "Судан"
+
+ ### Characters ###
+ SUD_abd_al_rahman_al_mahdi: "Абд аль-Рахман аль-Махди"
+ SUD_ali_abd_al_latif: "Али Абд аль Латиф"
+ SUD_el_ferik_ibrahim_abboud: "Эль-Ферик Ибрахим Аббуд"
+
+### TOG: Togoland
+ TOG: "Тоголэнд"
+ TOG_ADJ: "Тоголэск"
+ TOG_DEF: "Тоголэнд"
+
+ TOG_totalist: "Коммуна Тоголэнд"
+ TOG_totalist_ADJ: "Тоголэск"
+ TOG_totalist_DEF: "Коммуна Тоголэнд"
+ TOG_syndicalist: "Коммуна Тоголэнд"
+ TOG_syndicalist_ADJ: "Тоголэск"
+ TOG_syndicalist_DEF: "Коммуна Тоголэнд"
+ TOG_radical_socialist: "Коммуна Тоголэнд"
+ TOG_radical_socialist_ADJ: "Тоголэск"
+ TOG_radical_socialist_DEF: "Коммуна Тоголэнд"
+ 
+ TOG_national_populist: "Того"
+ TOG_national_populist_ADJ: "Тоголэск"
+ TOG_national_populist_DEF: "Того"
+
+### TUN: Tunisia
+ TUN: "Тунис"
+ TUN_ADJ: "Тунисск"
+ TUN_DEF: "Тунис"
+
+ TUN_totalist: "Коммуна Тунис"
+ TUN_totalist_ADJ: "Тунисск"
+ TUN_totalist_DEF: "Коммуна Тунис"
+ TUN_syndicalist: "Коммуна Тунис"
+ TUN_syndicalist_ADJ: "Тунисск"
+ TUN_syndicalist_DEF: "Коммуна Тунис"
+ TUN_radical_socialist: "Коммуна Тунис"
+ TUN_radical_socialist_ADJ: "Тунисск"
+ TUN_radical_socialist_DEF: "Коммуна Тунис"

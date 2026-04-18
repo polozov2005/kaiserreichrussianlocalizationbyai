@@ -1,0 +1,191 @@
+﻿l_russian:
+  
+ ### GNA: Guinea 
+ GNA: "Гвинея"
+ GNA_ADJ: "Гвинейск"
+ GNA_DEF: "Гвинея"
+  
+ GNA_totalist: "Гвинейский Союз"
+ GNA_totalist_DEF: "Гвинейский Союз"
+ GNA_syndicalist: "Гвинейский Союз"
+ GNA_syndicalist_DEF: "Гвинейский Союз"
+ GNA_radical_socialist: "Гвинейский Союз"
+ GNA_radical_socialist_DEF: "Гвинейский Союз"
+ GNA_national_populist: "Фуута Джало"
+ GNA_national_populist_ADJ: "Джалойск"
+ GNA_national_populist_DEF: "Фуута Джало"
+  
+  ### Characters ### 
+ GNA_elhadj_abdoulaye_diallo: "Эльхадж Абдулайе Диалло"
+ GNA_elhadj_abdoulaye_diallo_leader_desc: "§YBorn:§! §LНоябрь 1916 года, Консондугу, Гвинейская колония, Французская Западная Африка§!" #NT!
+  
+ GNA_albert_liurette: "Альберт Люретт"
+ GNA_albert_liurette_leader_desc: "§YBorn:§! §L3 июля 1904 года, Коута, колония Французской Гвинеи§!" #NT!
+ GNA_koumandian_keita: "Кумандиан Кейта"
+ GNA_koumandian_keita_leader_desc: "§YBorn:§! §L1916, в колонии Гвинея, Французская Западная Африка§!" #NT!
+ GNA_yacine_diallo: "Ясин Диалло"
+ GNA_yacine_diallo_leader_desc: "§YBorn:§! §L18 октября 1897 года, Лабе, колония Французской Гвинеи§!" #NT!
+ GNA_georges_olivier: "Жорж Оливье"
+ GNA_georges_olivier_leader_desc: "§YBorn:§! §L30 августа 1870 года, Марсель, Буш-дю-Рон, Французская империя§!" #NT!
+ GNA_louis_placide_blacher: "Луис-Пласид Блахер"
+ GNA_louis_placide_blacher_leader_desc: "§YBorn:§! §L5 октября 1883 года, Сен-Пьер, колония Мартиника§!" #NT!
+ GNA_elhadj_camara_baba: "Эльхадж Камара Баба"
+ GNA_elhadj_camara_baba_leader_desc: "§YBorn:§! §L1915, Кисидугу, Гвинейская колония, Французская Западная Африка§!" #NT!
+ GNA_aguibou_mody: "Агибу Моди"
+ GNA_aguibou_mody_leader_desc: "§YBorn:§! §Lв Имамате Фута Джаллон§!" #NT!
+ GNA_barry_diawadou: "Барри Диаваду"
+ GNA_barry_diawadou_leader_desc: "§YBorn:§! §L10 мая 1916 года, Дабола, Гвинейская колония, Французская Западная Африка§!" #NT!
+ GNA_tierno_abdourahmani: "Тендер Абдурахмани"
+ GNA_tierno_abdourahmani_commander_desc: "§YBorn:§! §L1916, в Донхоле-Тирнойе, Гвинейская колония, Французская Западная Африка§!" #NT!
+ GNA_karamoko_dalen: "Карамоко Дален"
+ GNA_karamoko_dalen_commander_desc: "§YBorn:§! §L1871, в Сатине, имамат Фута Джаллон§!" #NT!
+ GNA_reymond_sarif_easmon: "Реймонд Сариф Исмон"
+ GNA_reymond_sarif_easmon_admiral_desc: "§YBorn:§! §L15 января 1913 года, Фритаун, колония и протекторат Сьерра-Леоне§!" #NT!
+  
+ ### IVO: Ivory Coast 
+ IVO: "Берег Слоновой Кости"
+ IVO_ADJ: "Ивуарийск"
+ IVO_DEF: "Берег Слоновой Кости"
+  
+  ### Characters ### 
+ IVO_Felix_Houphouet_Boigny: "Феликс Уфуэ-Буаньи"
+ IVO_felix_houphouet_boigny_leader_desc: "§YBorn:§! §L18 октября 1905 года, Ямусукро, колония Кот-д'Ивуар, Французская Западная Африка§!" #NT!
+  
+ ### MLI: Mali 
+ MLI: "Мали"
+ MLI_ADJ: "Малийск"
+ MLI_DEF: "Мали"
+  
+ MLI_totalist: "Малийская Коммуна"
+ MLI_totalist_DEF: "Малийская Коммуна"
+ MLI_syndicalist: "Малийская Коммуна"
+ MLI_syndicalist_DEF: "Малийская Коммуна"
+ MLI_radical_socialist: "Социалистическая Республика Мали"
+ MLI_radical_socialist_DEF: "Социалистическая Республика Мали"
+  
+  ### Characters ### 
+ MLI_modibo_keita: "Модибо Кейта"
+ MLI_modibo_keita_leader_desc: "§YBorn:§! §L4 июня 1915 года, Бамако, колония Верхнего Сенегала и Нигера, Французская Западная Африка§!" #NT!
+ MLI_mamadou_konate: "Мамаду Конате"
+ MLI_mamadou_konate_leader_desc: "§YBorn:§! §L1897, в Кати, колония Судан, Французская Западная Африка§!" #NT!
+ MLI_mamby_sidibe: "Мамби Сидибе"
+ MLI_mamby_sidibe_leader_desc: "§YBorn:§! §L1891, в Ниамеферо, Суданская колония, Французская Западная Африка§!" #NT!
+ MLI_emile_belime: "Эмиль Белим"
+ MLI_emile_belime_leader_desc: "§YBorn:§! §L28 июля 1883 года, Виллербан, Рона, Французская Республика§!" #NT!
+ MLI_hamallah_bin_muhammad_al_tishiti: "Хамаллах бин Мухаммад ат-Тишити"
+ MLI_hamallah_bin_muhammad_al_tishiti_leader_desc: "§YBorn:§! §L1882, в колонии Французский Судан§!" #NT!
+ MLI_noukoun_kone: "Нукун Коне"
+ MLI_noukoun_kone_commander_desc: "§YBorn:§! §L16 февраля 1909 года, Сегу, колония Судан, Французская Западная Африка§!" #NT!
+  
+ ### MRT: Mauritania 
+ MRT: "Мавритания"
+ MRT_ADJ: "Мавританск"
+ MRT_DEF: "Мавритания"
+  
+ MRT_national_populist: "Трарзанский Эмират"
+ MRT_national_populist_ADJ: "Трарзанск"
+ MRT_national_populist_DEF: "Трарзанский Эмират"
+  
+  ### Characters ### 
+ MRT_horma_ould_babana: "Хорма Ульд Бабана"
+ MRT_horma_ould_babana_leader_desc: "§YBorn:§! §L1 марта 1912 года, Медердра, колония Мавритания§!" #NT!
+ MRT_sidi_el_mokhtar_n_diaye: "Сиди эль-Мохтар Н'Диайе"
+ MRT_sidi_el_mokhtar_n_diaye_leader_desc: "§YBorn:§! §L13 сентября 1916 года, Атар, колония Мавритания§!" #NT!
+ MRT_merebbi_rebbu: "Меребби Реббу"
+ MRT_merebbi_rebbu_leader_desc: "§YBorn:§! §L13 февраля 1881 года, Тирис, колония Рио-де-Оро§!" #NT!
+ MRT_ahmed_al_hiba: "Ахмед аль-Хиба"
+ MRT_ahmed_al_hiba_leader_desc: "§YBorn:§! §L9 сентября 1877 года, Смара, Сагия-эль-Хамра, Султанат Марокко§!" #NT!
+  
+ ### NGR: Niger 
+ NGR: "Нигер"
+ NGR_ADJ: "Нигерийск"
+ NGR_DEF: "Нигер"
+  
+  ### Characters ### 
+ NGR_boubou_hama: "Бубу Хама"
+ NGR_boubou_hama_leader_desc: "§YBorn:§! §L1906, Фонеко-Теджо, колония Верхнего Сенегала и Нигера, Французская Западная Африка§!" #NT!
+ NGR_ibrahim_niasse: "Ибрагим Ниасс"
+ NGR_ibrahim_niasse_leader_desc: "§YBorn:§! §L9 июля 1900 года, Тайба-Насин, колония Верхний Сенегал, Французская Западная Африка§!" #NT!
+ NGR_sultan_barma_mustapha: "Султан Барма Мустафа"
+ NGR_sultan_barma_mustapha_leader_desc: "§YBorn:§! §Lв Султанате Дамагарам§!" #NT!
+ NGR_mohamadou_djibrilla_maiga: "Мохамаду Джибрилья Майга" #NT!
+ NGR_mohamadou_djibrilla_maiga_leader_desc: "§YBorn:§! §L8 июля 1908 года, Колман, колония Верхний Сенегал, Французская Западная Африка§!" #NT!
+  
+ ### SEN: Senegambia 
+ SEN: "Сенегамбия"
+ SEN_ADJ: "Сенегамбийск"
+ SEN_DEF: "Сенегамбия"
+  
+ SEN_national_populist: "Джолофийское Государство"
+ SEN_national_populist_ADJ: "Джолофийск"
+ SEN_national_populist_DEF: "Джолофийское Государство"
+  
+ ### SIE: Sierra Leone 
+ SIE: "Сьерра-Леоне"
+ SIE_ADJ: "Сьерралеонск"
+ SIE_DEF: "Сьерра-Леоне"
+  
+  ### Characters ### 
+ SIE_banja_tejan_sie: "Банджа Теджан-Си"
+ SIE_banja_tejan_sie_commander_desc: "§YBorn:§! §L7 августа 1917 года, Моямба, колония и протекторат Сьерра-Леоне§!" #NT!
+ SIE_george_giffard: "Джордж Жиффар"
+ SIE_george_giffard_commander_desc: "§YBorn:§! §L27 сентября 1886 года, Энглфилд-Грин, графство Суррей, Англия§!" #NT!
+ SIE_lashmer_whistler: "Лэшмер Уистлер"
+ SIE_lashmer_whistler_commander_desc: "§YBorn:§! §L3 сентября 1898 года, Касаули, провинция Пенджаб, Британская Индия§!" #NT!
+ SIE_john_karefasmart: "Джон Карефа-Смарт"
+ SIE_john_karefasmart_commander_desc: "§YBorn:§! §L17 июня 1915 года, Ротифанк, колония и протекторат Сьерра-Леоне§!" #NT!
+ SIE_amadu_wurie: "Амаду Вури"
+ SIE_amadu_wurie_commander_desc: "§YBorn:§! §L27 августа 1898 года, Гбинти, колония и протекторат Сьерра-Леоне§!" #NT!
+ SIE_mohammad_sanusi_mustapha: "Мохамед Сануси Мустафа"
+ SIE_mohammad_sanusi_mustapha_admiral_desc: "§YBorn:§! §L1 июня 1903 года, Фритаун, колония и протекторат Сьерра-Леоне§!" #NT!
+  
+ SIE_wallace_johnson: "Исаак Уоллес-Джонсон" #NT!
+ SIE_wallace_johnson_leader_desc: "§YBorn:§! §L1894, во Фритауне, колония и протекторат Сьерра-Леоне§!" #NT!
+  
+ ### SUD: Sudan 
+ SUD: "Судан"
+ SUD_ADJ: "Суданск"
+ SUD_DEF: "Судан"
+  
+ SUD_social_conservative: "Имамат Судана" #NT!
+ SUD_social_conservative_DEF: "Имамат Судана" #NT!
+ SUD_authoritarian_democrat: "Имамат Судана" #NT!
+ SUD_authoritarian_democrat_DEF: "Имамат Судана" #NT!
+ SUD_paternal_autocrat: "Имамат Судана" #NT!
+ SUD_paternal_autocrat_DEF: "Имамат Судана" #NT!
+ SUD_national_populist: "Имамат Судана" #NT!
+ SUD_national_populist_DEF: "Имамат Судана" #NT!
+  
+  ### Characters ### 
+ SUD_abd_al_rahman_al_mahdi: "Абд аль-Рахман аль-Махди"
+ SUD_abd_al_rahman_al_mahdi_leader_desc: "§YBorn:§! §LИюнь 1885 года, Омдурман, Махдистский Судан§!" #NT!
+ SUD_ali_abd_al_latif: "Али Абд аль Латиф"
+ SUD_ali_abd_al_latif_commander_desc: "§YBorn:§! §L1896, в Вади Халфа, кондоминиум англо-египетского Судана§!" #NT!
+ SUD_el_ferik_ibrahim_abboud: "Эль-Ферик Ибрахим Аббуд"
+ SUD_el_ferik_ibrahim_abboud_commander_desc: "§YBorn:§! §L26 октября 1900 года, Суакин, Кондоминиум Англо-Египетского Судана§!" #NT!
+  
+ ### TOG: Togoland 
+ TOG: "Тоголэнд"
+ TOG_ADJ: "Тоголэск"
+ TOG_DEF: "Тоголэнд"
+  
+ TOG_totalist: "Коммуна Тоголэнд"
+ TOG_totalist_DEF: "Коммуна Тоголэнд"
+ TOG_syndicalist: "Коммуна Тоголэнд"
+ TOG_syndicalist_DEF: "Коммуна Тоголэнд"
+ TOG_radical_socialist: "Коммуна Тоголэнд"
+ TOG_radical_socialist_DEF: "Коммуна Тоголэнд"
+ TOG_national_populist: "Того"
+ TOG_national_populist_DEF: "Того"
+  
+ ### TUN: Tunisia 
+ TUN: "Тунис"
+ TUN_ADJ: "Тунисск"
+ TUN_DEF: "Тунис"
+  
+ TUN_totalist: "Коммуна Тунис"
+ TUN_totalist_DEF: "Коммуна Тунис"
+ TUN_syndicalist: "Коммуна Тунис"
+ TUN_syndicalist_DEF: "Коммуна Тунис"
+ TUN_radical_socialist: "Коммуна Тунис"
+ TUN_radical_socialist_DEF: "Коммуна Тунис"

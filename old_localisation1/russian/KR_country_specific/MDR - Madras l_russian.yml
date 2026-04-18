@@ -1,0 +1,60 @@
+﻿l_russian:
+
+### Country Names ###
+ MDR: "Мадрас"
+ MDR_ADJ: "Мадрасск"
+ MDR_DEF: "Мадрас"
+
+ MDR_totalist: "Тамильская Коммуна"
+ MDR_totalist_ADJ: "Тамильск"
+ MDR_totalist_DEF: "Тамильская Коммуна"
+ MDR_syndicalist: "Тамильская Коммуна"
+ MDR_syndicalist_ADJ: "Тамильск"
+ MDR_syndicalist_DEF: "Тамильская Коммуна"
+ MDR_radical_socialist: "Тамильская Коммуна"
+ MDR_radical_socialist_ADJ: "Тамильск"
+ MDR_radical_socialist_DEF: "Тамильская Коммуна"
+ MDR_national_populist: "Тамильская Коммуна"
+ MDR_national_populist_ADJ: "Тамильск"
+ MDR_national_populist_DEF: "Тамиль Наду"
+
+ MDR_DRAV: "Дравидия Наду"
+ MDR_DRAV_ADJ: "Дравидск"
+ MDR_DRAV_DEF: "Дравидия Наду"
+
+ MDR_DRAV_totalist: "Дравидская Коммуна"
+ MDR_DRAV_totalist_ADJ: "Дравидск"
+ MDR_DRAV_totalist_DEF: "Дравидская Коммуна"
+ MDR_DRAV_syndicalist: "Дравидская Коммуна"
+ MDR_DRAV_syndicalist_ADJ: "Дравидск"
+ MDR_DRAV_syndicalist_DEF: "Дравидская Коммуна"
+ MDR_DRAV_radical_socialist: "Республика Дравидия"
+ MDR_DRAV_radical_socialist_ADJ: "Дравидск"
+ MDR_DRAV_radical_socialist_DEF: "Республика Дравидия"
+
+ MDR_TAMIL: "Тамиль Наду"
+ MDR_TAMIL_ADJ: "Тамильск"
+ MDR_TAMIL_DEF: "Тамиль Наду"
+
+ MDR_TAMIL_totalist: "Тамильская Коммуна"
+ MDR_TAMIL_totalist_ADJ: "Тамильск"
+ MDR_TAMIL_totalist_DEF: "Тамильская Коммуна"
+ MDR_TAMIL_syndicalist: "Тамильская Коммуна"
+ MDR_TAMIL_syndicalist_ADJ: "Тамильск"
+ MDR_TAMIL_syndicalist_DEF: "Тамильская Коммуна"
+ MDR_TAMIL_radical_socialist: "Тамильская Коммуна"
+ MDR_TAMIL_radical_socialist_ADJ: "Тамильск"
+ MDR_TAMIL_radical_socialist_DEF: "Тамильская Коммуна"
+
+### Events ###
+ madras.1.t: "Национальные выборы - 1936 года"
+ madras.1.d: "Несмотря на гнёт со стороны Федерации, впервые, начиная со времён Индо-Тамильской войны, мы проводим выборы. Запутанные решением Субараянны закончить войну на самых плохих условиях, ныне непопулярные Сварадж выбрали вместо него Сатуямурти, который обещает стабильнось и возрождение страны. Партия Самоуважения выдвигает тезим о том, что партия Сварадж просто пользууется народом и пытается выстелиться перед Федерацией. Они выдвинули Рамасами Перияра в качестве кандидата на главу Мадраса."
+ madras.1.a: "Сварадж остаются у власти"
+ madras.1.b: "Партия Самоуважения прерывает традицию"
+
+### Characters ###
+ MDR_periyar_ramasamy: "Перияр Рамасами"
+ MDR_paramasiva_subbarayan: "Парамасива Суббараян"
+ MDR_chakravarti_rajagopalachari: "Чакраварти Раджагопалачари"
+
+ MDR_ramakrishna_ranga_rao: "Рамакришна Ранга Рао"

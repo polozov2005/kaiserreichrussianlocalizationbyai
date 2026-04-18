@@ -1,0 +1,10 @@
+﻿l_russian:
+ ######################################################## 
+ ### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ### 
+ ######################################################## 
+  
+ #changed to British spelling 
+ tactic_cc_defend: "Защита в ближнем бою" #NT!
+ tactic_elastic_defense: "Эластичная защита" #NT!
+ tactic_urban_defense: "Городская оборона" #NT!
+ tactic_sf_fortify: "Укрепленная оборона" #NT!

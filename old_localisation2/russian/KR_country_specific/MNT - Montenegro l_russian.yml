@@ -1,0 +1,147 @@
+﻿l_russian:
+
+### Country Names ###
+ MNT: "Черногория"
+ MNT_ADJ: "Черногорск"
+ MNT_DEF: "Черногория"
+
+ MNT_totalist: "Черногорская Социалистическая Республика"
+ MNT_totalist_ADJ: "Черногорск"
+ MNT_totalist_DEF: "Социалистическая Республика Черногория"
+ MNT_syndicalist: "Черногорская Социалистическая Республика"
+ MNT_syndicalist_ADJ: "Черногорск"
+ MNT_syndicalist_DEF: "Социалистическая Республика Черногория"
+ MNT_radical_socialist: "Черногорская Социалистическая Республика"
+ MNT_radical_socialist_ADJ: "Черногорск"
+ MNT_radical_socialist_DEF: "Социалистическая Республика Черногория"
+
+### Parties ###
+ MNT_totalist_party: "ЛКЧ"
+ MNT_totalist_party_long: "Лига коммунистов Черногории"
+ MNT_syndicalist_party: "ЦПР"
+ MNT_syndicalist_party_long: "Центральный профсоюз рабочих"
+ MNT_radical_socialist_party: "СРП"
+ MNT_radical_socialist_party_long: "Социалистическая рабочая партия"
+ MNT_social_democrat_party: "СДПЧ"
+ MNT_social_democrat_party_long: "Социал-демократическая партия Черногории"
+ MNT_social_liberal_party: "ЧФП"
+ MNT_social_liberal_party_long: "Черногорская федералистская партия"
+ MNT_market_liberal_party: "ДП"
+ MNT_market_liberal_party_long: "Демократическая партия"
+ MNT_social_conservative_party: "НП"
+ MNT_social_conservative_party_long: "Народная партия"
+ MNT_authoritarian_democrat_party: "ГСЧ"
+ MNT_authoritarian_democrat_party_long: "Государственный совет Черногории"
+ MNT_paternal_autocrat_party: "ИНП"
+ MNT_paternal_autocrat_party_long: "Истинная народная партия"
+ MNT_national_populist_party: "ОСМ"
+ MNT_national_populist_party_long: "Объединенная сербская молодежь"
+ 
+### Events ###
+
+ mnt.1.t: "Реставрация Петрович-Негоша"
+ mnt.1.d: "Реставрация Петрович-Негоша"
+ mnt.1.a: "Реставрация Петрович-Негоша"
+
+### National ideas ###
+
+ MNT_independent_montenegro: "Čojstvo i Junaštvo"
+ MNT_independent_montenegro_desc: ""Мужество и героизм" - этический идеал черногорской культуры, описанный Марко Милянов. Черногорцы просты и скромны, но не стесняются защищать тех, кого нужно защищать и храбрость в самые суровые времена. На протяжении веков горные черногорские племена сопротивлялись захватчикам повсюду, а их скромные хайдучи воплощали в себе идеал Мужественности и Героизма."
+ MNT_peasant_cooperatives1: "Крестьянские кооперативы"
+
+ MNT_free_education1: "Бесплатное образование"
+
+ MNT_for_the_honour1: "За право, честь и свободу Черногории"
+
+ MNT_opium1: "Опиумная прибыль"
+
+ MNT_serbophobia1: "Сербофобия"
+
+### Focuses ###
+
+ montenegro_focus: "Фокусы Черногории"
+ MNT_socialist: "Социалистическая Черногория"
+ MNT_connection_to_the_people: "Связь с народом"
+ MNT_national_equality: "Национальное равенство"
+ MNT_agrarian_reform: "Аграрная реформа"
+ MNT_industrialisation: "Рудник Никшич"
+ MNT_democratic: "Демократическая Черногория"
+ MNT_land_reform: "Земельная реформа"
+ MNT_peasant_cooperatives: "Крестьянские кооперативы"
+ MNT_free_education: "Бесплатное образование"
+ MNT_equality_of_religion: "Равноправие религии"
+ MNT_reactionary: "Традиционная Черногория"
+ MNT_legacy_of_greens: "Наследие зеленых"
+ MNT_for_the_honour: "Za pravo, cast i slobodu Crne Gore"
+ MNT_serbophobia: "Сербофобия"
+ MNT_montenegrin_nationalism: "Черногорский национализм"
+ MNT_army: "Армия Черногории"
+ MNT_memories_of_christmas_uprising: "Воспоминания о Рождественском восстании"
+ MNT_lessons_of_balkan_war: "Уроки Балканской войны"
+ MNT_arms_modernisation: "Модернизация вооружения"
+ MNT_artillery_modernisation: "Модернизация артиллерии"
+ MNT_arms_industry: "Оружейная промышленность"
+ MNT_start_of_an_airforce: "Рождение ВВС"
+ MNT_economy: "Экономика Черногории"
+ MNT_farming_subsidies: "Субсидии фермерским хозяйствам"
+ MNT_opium: "Опиумные фермы"
+ MNT_wood_industry: "Экспорт древесины"
+ MNT_beer: "Пивоварня Trebjesa"
+ MNT_railways: "Линия Подгорица - Никшич"
+ MNT_port: "Порт Бар"
+ MNT_powerplant: "Elektroprivreda Crne Gore"
+ MNT_research: "Университет Черногории"
+
+### Decisions Categories ###
+
+ MNT_port_decisions: "Наше окно в мир"
+
+### Decisions ###
+
+ MNT_connect_to_port: "Соединить порт с железной дорогой"
+ MNT_coastal_facilities: "Капитальный ремонт береговых сооружений"
+ MNT_merchant_navy: "Собрать торговый флот"
+
+### Characters ###
+ MNT_blazo_jovanovic: "Блажо Йованович"
+ MNT_sekula_drljevic: "Секула Дрлевич"
+ MNT_krsto_popovic: "Крсто Попович"
+ MNT_pavle_durisic: "Павле Джуришич"
+ MNT_mitar_martinovic: "Митар Мартинович"
+ MNT_mihailo_petrovic_njegos: "Михаило I"
+ MNT_novica_radovic: "Новица Радович"
+ MNT_milovan_djilas: "Милован Джилас"
+ MNT_vasilija_vukotic: "Василия Вукотич"
+ MNT_jovan_plamenac: "Йован Пламенак"
+ MNT_lazar_mijuskovic: "Лазарь Миюшкович"
+ MNT_gavrilo_dozic: "Гаврило Дожич"
+ MNT_ljubomir_vuksanovic: "Любомир Вуксанович"
+ MNT_andrija_radovic: "Андрия Радович"
+ MNT_blazo_dukanovic: "Блажо Джуканович"
+ MNT_bajo_stanisic: "Байо Станишич"
+ MNT_army_reform_group: "Группа реформирования армии"
+ MNT_petko_miletic: "Петко Милетич"
+  
+ ### Cosmetic Tag ###
+
+ MTN_kingdom_social_democrat: "Королевство Черногория"
+ MTN_kingdom_social_democrat_ADJ: "Черногорск"
+ MTN_kingdom_social_democrat_DEF: "Королевство Черногория"
+ MTN_kingdom_social_liberal: "Королевство Черногория"
+ MTN_kingdom_social_liberal_ADJ: "Черногорск"
+ MTN_kingdom_social_liberal_DEF: "Королевство Черногория"
+ MTN_kingdom_market_liberal: "Королевство Черногория"
+ MTN_kingdom_market_liberal_ADJ: "Черногорск"
+ MTN_kingdom_market_liberal_DEF: "Королевство Черногория"
+ MTN_kingdom_social_conservative: "Королевство Черногория"
+ MTN_kingdom_social_conservative_ADJ: "Черногорск"
+ MTN_kingdom_social_conservative_DEF: "Королевство Черногория"
+ MTN_kingdom_authoritarian_democrat: "Королевство Черногория"
+ MTN_kingdom_authoritarian_democrat_ADJ: "Черногорск"
+ MTN_kingdom_authoritarian_democrat_DEF: "Королевство Черногория"
+ MTN_kingdom_paternal_autocrat: "Королевство Черногория"
+ MTN_kingdom_paternal_autocrat_ADJ: "Черногорск"
+ MTN_kingdom_paternal_autocrat_DEF: "Королевство Черногория"
+ MTN_kingdom_national_populist: "Королевство Черногория"
+ MTN_kingdom_national_populist_ADJ: "Черногорск"
+ MTN_kingdom_national_populist_DEF: "Королевство Черногория"

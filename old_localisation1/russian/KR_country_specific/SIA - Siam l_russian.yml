@@ -1,0 +1,1722 @@
+﻿l_russian:
+
+ KR_Siam: "Фокусы [SIA.GetSIAshortname]а"
+
+### World Tension ###
+ SIA_SiaCW_RadSoc_threat: "Социалистический режим в Сиаме"
+ SIA_SiaCW_PatAut_threat: "Прогерманский режим в Сиаме"
+
+### Traits ###
+ SIA_iron_marshal_trait: "Железный фельдмаршал\n§gБудучи известным своим харизматическим и хитрым руководством со времен его межвоенных лет в Бирме, неудивительно, что Фибун в конечном итоге оказался на вершине иерархии. Его одержимость тотальным контролем над государственными делами и его отношение к побочному отношению к монархии принесли ему еще одно прозвище - \"Сиамский Цао Цао/Цезарь\".§!"
+ SIA_pho_khun_trait: "Патерналистский деспот\n§gВдохновленный понятием эпохи Сукотаи о Фо-Хуне (патриархальном правлении) и деспотическом правлении Аютая, Сарит почувствовал, что такой стиль правления наилучшим образом соответствует его политическому вкусу. Он считал себя главным лидером, направляющим страну через её \"Patiwat\" (революционную) фазу против нарастающих левых приливов.§!"
+ SIA_under_pho_khun_trait: "Доверенное лицо патерналистского деспота\n§gЕго величество король теперь снова посажен на трон, подражая деспотическому стилю правления Аютайи в прошлом. Причастен ли сам король к приходу к власти Сарита Тханарата, мы никогда не узнаем наверняка.§!"
+ SIA_prancing_knight_trait: "Гарцующий рыцарь\n§gНевозможно подняться на высшую позицию без лжи и обмана - Пхао не хватает ни того, ни другого, но он готов уничтожить любую оппозицию, используя как хитрость, так и свои собственные сильно милитаризированные полицейские силы на побегушках.§!"
+
+ SIA_four_musketeers: "Мушкетеры"
+ SIA_four_musketeers_desc: "§LЭтот офицер считается одним из современных сиамских генштабистов \"костяком\". Эти \"четыре мушкетера (+плюс один)\" командиры пользуются значительным авторитетом у нового поколения офицеров, и очень подробно изучили последние конфликты.§!"
+
+### Companies ###
+ SIA_chaiseri: "Чайсери"
+ SIA_thairung: "Тайрунг"
+ SIA_bangkok_dock: "Доки Бангкока"
+ SIA_siam_cement: "[SIA.GetSIAcementcorp]"
+ SIA_siam_aeronautics: "Сиамская аэронавтика"
+ SIA_aviation_industries: "[SIA.GetProperAdjective]ая авиационная промышленность"
+ SIA_tanin: "Танин Индастриз"
+ SIA_small_arms_factory: "Оружейная фабрика"
+ SIA_military_explosives_factory: "Фабрика военной взрывчатки"
+ SIA_chulalongkorn: "Университет им. Чулалонгкорна"
+ SIA_ford: "Форд-[SIA.GetSIAshortname]"
+ SIA_state_railways: "[SIA.GetSIAprefixEN]ие железные дороги [SIA.GetSIAshortname]а"
+ SIA_air_force_workshop: "[SIA.GetSIAprefixEN]ое [SIA.GetProperAdjective]ое ВВС"
+ SIA_bgrimm: "Б. Гримм"
+ SIA_fuel_department: "[SIA.GetProperAdjective]ий департамент ГСМ"
+
+### Ideas ###
+ SIA_black_monday: "Черный Понедельник"
+ SIA_black_monday_desc: "Также известен как крах фондового рынка в Берлине в 1936 году. Наш промышленный экспорт сильно пострадал из-за того, что Германия является одним из наших главных торговых партнеров."
+ SIA_black_monday2: "Восстановление после Черного Понедельника"
+ SIA_black_monday2_desc: "Также известен как крах фондового рынка в Берлине в 1936 году. Наш промышленный экспорт сильно пострадал из-за того, что Германия является одним из наших главных торговых партнеров."
+ SIA_black_monday3: "Стабилизация экономики"
+ SIA_black_monday3_desc: "Также известен как крах фондового рынка в Берлине в 1936 году. Наш промышленный экспорт сильно пострадал из-за того, что Германия является одним из наших главных торговых партнеров."
+ SIA_military_expense_cut: "Сокращение военного бюджета"
+ SIA_military_expense_cut_desc: "В связи с недавним решением Кабинета Министров Рама VII согласился сократить бюджет военных исследований примерно с 25% до 10% нашего бюджета."
+ SIA_military_expense_cut_rifle: "Сокращение военного бюджета"
+ SIA_military_expense_cut_rifle_desc: "В связи с недавним решением Кабинета Министров Рама VII согласился сократить бюджет военных исследований примерно с 25% до 10% нашего бюджета."
+ SIA_bloated_bureaucracy: "Раздутая бюрократия"
+ SIA_bloated_bureaucracy_desc: "Она постоянно расширяется с тех пор, как модернизация произошла в эпоху Рамы V с угрожающей скоростью. Сама бюрократия слишком велика и медленно реагирует на быстрые изменения."
+ SIA_bloated_bureaucracy_plebs_purged: "Реорганизация бюрократии"
+ SIA_bloated_bureaucracy_plebs_purged_desc: "Она постоянно расширяется с тех пор, как модернизация произошла в эпоху Рамы V с угрожающей скоростью. Сама бюрократия слишком велика и медленно реагирует на быстрые изменения."
+ SIA_bloated_bureaucracy_manager_purged: "Реорганизация бюрократии"
+ SIA_bloated_bureaucracy_manager_purged_desc: "Она постоянно расширяется с тех пор, как модернизация произошла в эпоху Рамы V с угрожающей скоростью. Сама бюрократия слишком велика и медленно реагирует на быстрые изменения."
+ SIA_bloated_bureaucracy_reorg: "Консолидированная бюрократия"
+ SIA_bloated_bureaucracy_reorg_desc: "Многие из наших избыточных бюрократических отделов в настоящее время консолидируются и оптимизируются, чтобы лучше обслуживать общественность, повышая эффективность."
+ SIA_bloated_bureaucracy_plebs_purged_reorg: "Консолидированная бюрократия"
+ SIA_bloated_bureaucracy_plebs_purged_reorg_desc: "Многие из наших избыточных бюрократических отделов в настоящее время консолидируются и оптимизируются, чтобы лучше обслуживать общественность, повышая эффективность."
+ SIA_bloated_bureaucracy_manager_purged_reorg: "Консолидированная бюрократия"
+ SIA_bloated_bureaucracy_manager_purged_reorg_desc: "Многие из наших избыточных бюрократических отделов в настоящее время консолидируются и оптимизируются, чтобы лучше обслуживать общественность, повышая эффективность."
+ SIA_conscription_bonus: "Закон о национальных резервах"
+ SIA_conscription_bonus_desc: "Все трудоспособные [SIA.GetProperAdjective]ие мужчины должны завершить два года обязательной военной службы и могут быть снова призваны до 55 лет."
+ SIA_airport_authority_idea: "Управление аэропортов [SIA.GetSIAshortname]а"
+ SIA_airport_authority_idea_desc: "ААС отвечает за координацию международных и внутренних полетов в воздушном пространстве [SIA.GetProperAdjective]их островов в дополнение к обслуживанию гражданских аэропортов."
+ SIA_air_production: "Расширенные фабрики Тайланда"
+ SIA_air_production_desc: "Основанная как отдельная организация от RSAFW, Королевским Сиамским воздушным корпусом - она отвечает за разработку настоящих [SIA.GetProperAdjective]их самолетов."
+ SIA_air_focus: "Защите небес"
+ SIA_navy_focus: "Флот двух океанов"
+ SIA_defensetechnologyinstitute_idea: "Институт Оборонительных Технологий"
+ SIA_defensetechnologyinstitute_idea_desc: "Удовлетворившись своими наработками, наши артиллерийские компании решили объединиться в единый институт оборонительных технологий, чтобы наша армия была ещё более продвинутой."
+ SIA_salacheepphurchard_idea: "За Родину!"
+ SIA_salacheepphurchard_idea_desc: "Мы должны обеспечить защиту всех земель, находящихся под нашим контролем, поскольку мы, сиамский народ, родились и выросли на этой земле и должны защищать и оберегать ее как для наших семей, так и для будущих поколений.\n§GЭто объединяет все идеи в данной ветви национальной направленности.§!\n"
+ SIA_suranaree_corps_idea: "Корпуса Суранари"
+ SIA_suranaree_corps_idea_desc: "Корпуса Суранари являются корпусами, состоящими из женщин, созданными в попытке восстановить людские ресурсы, потерянные в результате недавних тяжелых боевых действий."
+ SIA_yuwachon_taharn_idea: "Ювачон Тахарн"
+ SIA_yuwachon_taharn_idea_desc: "Ювачон Тахарн - программа подготовки курсантов и запасных офицеров, направленная на улучшение боевых качеств новобранцев."
+ SIA_education_reform_idea: "Национальный план улучшения образования"
+ SIA_education_reform_idea_desc: "Обеспечивая стандартизацию нашего образования, мы можем обеспечить повышение уровня грамотности по всей стране."
+ # SIA_education_reform2_idea: "Институт имени короля Монгкута"
+ # SIA_education_reform2_idea_desc: "Поскольку мы смогли обучить новых техников, технических инструкторов, исследователей и технологов, мы можем сохранить технологическое преимущество и, возможно, превзойти другие страны в плане образования."
+ SIA_chulachomklao_academy: "[ROOT.GetSIAprefixEN]ая военная академия"
+ SIA_chulachomklao_academy_desc: "Первоначально основанная в 1887 году как [ROOT.GetSIAprefixEN]ая [SIA.GetProperAdjective]ая военная кадетская школа, она недавно была объединена с [ROOT.GetSIAprefixEN]им [SIA.GetProperAdjective]им военным институтом политехнических искусств и теперь называется \"[ROOT.GetSIAprefixEN]ой Военной Академией\", мы надеемся, что выпускники будут лучше обучаться в других областях вооруженных сил, а также сэкономить нам деньги за счет отмены устаревших/дублированных курсов в новой учебной программе."
+ SIA_industrialmobilizationplan: "План индустриальной мобилизации"
+ SIA_industrialmobilizationplan_desc: "Созданный в качестве чрезвычайного плана, чтобы помочь государству лучше справиться с войной, наш план промышленной мобилизации позволяет нам увеличить нашу продукцию на 10%."
+ SIA_taharn_pran_idea: "Тахарн Пран"
+ SIA_taharn_pran_idea_desc: "Тахарн Пран — это подразделение, которое специализируется в области сбора информации и, несомненно, будет способствовать дальнейшему сиамскому военному делу."
+ SIA_counterinsurgency_idea: "Тактика борьбы с повстанцами"
+ SIA_counterinsurgency_idea_desc: "Основываясь на уже разработанной концепции Тахарна, наша новая тактика борьбы с повстанцами может быть использована для выслеживания и уничтожения внутренних врагов."
+ SIA_reorganization_idea: "Программа стандартизации оружия"
+ SIA_reorganization_idea_desc: "Сокращая типы боеприпасов, необходимо, чтобы наши военные заводы могли производить оружие намного быстрее."
+ SIA_new_construction_method_idea: "Метод предварительной сборки"
+ SIA_new_construction_method_idea_desc: "Сиамские исследователи цемента освоили метод сборных материалов, который позволил нам значительно увеличить скорость строительства, что в свою очередь будет способствовать нашему наращиванию военной мощи"
+ SIA_Tiger_Economy_idea: "Тигр в мировой экономике"
+ SIA_Tiger_Economy_idea_desc: "Быстрорастущая и развивающаяся экономика Сиама, ориентированная на свободную торговлю и принципы свободного рынка, теперь хорошо известна во всем мире!"
+ SIA_Communal_Farming_idea: "Коммунальное хозяйство"
+ SIA_Communal_Farming_idea_desc: "Вместо того, чтобы позволить безработным оставаться без дела, мы должны отправить их обратно в деревню, что поможет уменьшить нашу зависимость от иностранного импорта."
+ SIA_Self_Sufficeincy_idea: "Философия самодостаточности"
+ SIA_Self_Sufficeincy_idea_desc: "Философия достаточности экономики — это философия, основанная на основополагающих принципах тайской культуры, которые являются умеренностью, благоразумием и социальным иммунитетом, которые используют как знания, так и добродетель в качестве руководящих принципов для жизни."
+ SIA_Export_Rice_idea: "Экспортное производство риса"
+ SIA_Export_Rice_idea_desc: "Возможно, лучшим способом справиться с катастрофической экономической ситуацией сейчас является увеличение экспорта."
+ SIA_World_Granary_idea: "Мировое зернохранилище"
+ SIA_World_Granary_idea_desc: "Сиам всегда был силен в производстве риса. У нас есть пятое по величине количество земель, отправленных на усилия по выращиванию риса, и в настоящее время мы являемся крупнейшим в мире экспортером риса."
+ SIA_Reformed_Judiciary: "Реформированная судебная система"
+ SIA_Reformed_Judiciary_desc: "Теперь наши законы модернизируются, чтобы лучше работать с нынешней ситуацией в стране. Прошли те времена варварских и драконовских законов эпохи Аюттхая."
+ SIA_Centralized_Police_idea: "Централизованное командования полиции"
+ SIA_Centralized_Police_idea_desc: "Когда командование [ROOT.GetSIAprefixEN]ой [SIA.GetProperAdjective]ой полиции теперь находится под прямым контролем премьер-министра, больше средств было направлено на организацию для повышения ее эффективности."
+ SIA_SDSI_idea: "[SIA.GetSIAintAgencyName]"
+ SIA_SDSI_idea_desc: "[SIA.GetSIAintAgencyName] расшифровывается как \"[SIA.GetSIAshortname]ский департамент секретной разведки\", который сейчас отвечает за защиту наших внутренних и международных интересов."
+ SIA_SDSI_lar_idea: "[SIA.GetSIAintAgencyName]"
+ SIA_SDSI_lar_idea_desc: "[SIA.GetSIAintAgencyName] расшифровывается как \"[SIA.GetSIAshortname]ский департамент секретной разведки\", который сейчас отвечает за защиту наших внутренних и международных интересов."
+ SIA_IndNat_Income: "[SIA.GetProperAdjective]ие компенсационные выплаты"
+ SIA_IndNat_Income_desc: "Премьер Плаке Фибунсонгхрам предложил денежную компенсацию за захват наших промышленных активов в Сиаме."
+ SIA_faltering_political_movement_idea: "Дрогнувшее политическое движение"
+ SIA_faltering_political_movement_idea_desc: "С каждым днем, наше политическое движение становится все более непопулярным среди наших людей. Мы находимся на проигрышной стороне гражданской войны.\n\n§W$MODIFIER_ARMY_ORG_FACTOR$:§! [?SIA_MORAL_LEVEL|R%1]\n§WАтака:§! [?SIA_MORAL_LEVEL|R%1]\n§WОборона:§! [?SIA_MORAL_LEVEL|R%1]\n§W$MODIFIER_SUPPLY_CONSUMPTION_FACTOR$:§! [?SIA_SUPCON_LEVEL|R%1]\n§W$MODIFIER_ARMY_MORALE_FACTOR$:§! [?SIA_MORAL_LEVEL|R%1]"
+ SIA_faltering_political_movement: "£pol_idea Колеблющееся политическое движение"
+ SIA_SocDem_1: "Социал-демократические реформы"
+ SIA_SocDem_2: "Социал-демократические реформы"
+ SIA_SocDem_3: "Социал-демократические реформы"
+ SIA_SocCon_1: "Консервативные реформы"
+ SIA_SocCon_2: "Консервативные реформы"
+ SIA_SocCon_3: "Консервативные реформы"
+ SIA_Liberal_1: "Либеральные реформы"
+ SIA_Liberal_2: "Либеральные реформы"
+ SIA_Liberal_3: "Либеральные реформы"
+ SIA_MSN_idea: "Новая [SIA.GetProperAdjective]ая нация"
+ SIA_MSN_idea_desc: "Наши попытки реформировать Сиам стали ясно видны по всей стране благодаря нашей крови, поту и слезам."
+ SIA_MSN_SocDem_idea: "Новая [SIA.GetProperAdjective]ая нация"
+ SIA_MSN_SocDem_idea_desc: "Наши попытки реформировать Сиам стали ясно видны по всей стране благодаря нашей крови, поту и слезам."
+ SIA_MSN_SocCon_idea: "Новая [SIA.GetProperAdjective]ая нация"
+ SIA_MSN_SocCon_idea_desc: "Наши попытки реформировать Сиам стали ясно видны по всей стране благодаря нашей крови, поту и слезам."
+ SIA_MSN_Liberal_idea: "Новая [SIA.GetProperAdjective]ая нация"
+ SIA_MSN_Liberal_idea_desc: "Наши попытки реформировать Сиам стали ясно видны по всей стране благодаря нашей крови, поту и слезам."
+ SIA_Syndie_1: "Установлен социалистический режим"
+ SIA_Syndie_2: "Социалистические реформы"
+ SIA_Syndie_3: "Социалистические реформы"
+ SIA_Syndie_4: "Крепость социализма"
+ SIA_PatAuth_1: "Абсолютизм восстановлен"
+ SIA_PatAuth_2: "Монархические реформы"
+ SIA_PatAuth_3: "Монархические реформы"
+ SIA_PatAuth_4: "Новая монархия"
+ SIA_ensuring_loyalty_idea: "Обеспечение лояльности"
+ SIA_ensuring_loyalty_idea_desc: "Наша страна была раздираема военными, которые считали свои собственные интересы выше интересов нашей великой нации. Мы должны постараться избежать этого в будущем."
+ SIA_reconstruction_idea: "Восстановление"
+ SIA_reconstruction_idea_desc: "Мы должны залечить наши раны и восстановиться после всех этих потрясений и разрушений."
+ SIA_Ratthaniyom_NatPop_0_idea: "Националистические реформы"
+ SIA_Ratthaniyom_NatPop_1_idea: "Националистические реформы"
+ SIA_Ratthaniyom_NatPop_2_idea: "Националистические реформы"
+ SIA_Ratthaniyom_NatPop_3_idea: "Националистические реформы"
+ SIA_buddhisttraditions_idea: "Буддистские традиции"
+ SIA_buddhisttraditions_idea_desc: "Объединив маханикайскую и Таммаюттханикайскую общины, а также меньшинство буддизма Махаяны в нашей стране под единым Верховным Патриархом, единство нашего народа возрастет."
+ SIA_war_reparation_received_idea: "[SIA.GetProperAdjective]ие военные репарации"
+ SIA_war_reparation_paid_idea: "Военные репарации"
+ SIA_engineer_shortage: "Нехватка квалифицированных инженеров"
+ SIA_engineer_shortage_desc: "Планирование само по себе не приводит к строительству новых автомагистралей, особенно когда студенты-инженеры, которых мы отправили за границу, еще не вернулись домой, а остальные заняты в другом месте."
+ SIA_electrified_1: "Крупные города электрифицированы"
+ SIA_electrified_1_desc: "Все крупные города в [SIA.GetName] в настоящее время электрифицированы и готовы снабжать растущую промышленность."
+ SIA_electrified_2: "Сельская местность электрифицирована"
+ SIA_electrified_2_desc: "Большинство сельских районов в настоящее время подключены к электросети, и теперь нехватка электроэнергии уходит в прошлое."
+ SIA_SiaCW_div_limit_bonus: "Сиамская гражданская война"
+ SIA_SiaCW_div_limit_bonus_desc: "Люди со всех уровней общества так или иначе участвуют в гражданской войне. Одни делают это, чтобы защитить свою любовь, другие сражаются за то, что, по их мнению, является их праведным делом."
+
+### Custom Tooltip ###
+ SIA_CONSTITUTION_GIVEN: "Конституция, разработанная королем Праджадриком, была узаконена Апираттамонтри Сапхой.\n"
+ SIA_KHANA_RATSADON_COUP: "Происходит переворот Хана Ратсадона.\n"
+ SIA_CONSTITUTION_GIVEN_BORIPATR: "Консерваторы теперь контролируют страну.\n"
+ SIA_police_integration_tt: "С [ROOT.GetSIAprefixEN]ской [SIA.GetProperAdjective]ой полицией, находящейся под контролем [ROOT.GetSIAprefixEN]ской [SIA.GetProperAdjective]ой армии, она может использоваться в качестве последней защиты от иностранных захватчиков.\n\n"
+ SIA_IRON_MARSHAL_PLAEK: "Маршал Луанг Фибунсанграм поведет нас в эти трудные времена!\n"
+ SIA_Chaiseri_upgrade_desc: "Начнется модернизация Chaiseri.\n\n"
+ SIA_SiamCement_upgrade_desc: "Начнется модернизация [SIA.GetSIAcementcorp].\n\n"
+ SIA_no_civil_war: "Нет гражданских беспорядков в Королевстве.\n"
+ SIA_yes_civil_war: "В нашей стране произошел мятеж.\n"
+ SIA_CONSTITUTION_GIVEN_SYNDIE: "Радикальные социалисты контролируют страну.\n"
+ SIA_post_war_reconstruction: "Восстановление после Гражданской войны.\n"
+ SIA_began_factory_seizure: "Национализация иностранной промышленности.\n"
+ SIA_municipal_reform_implemented: "В этом регионе уже действует областная администрация.\n"
+ SIA_local_police_reinforced: "В этом регионе усилены местные полицейские силы.\n"
+ SIA_civil_service_expansion_implemented: "Гражданская служба в этом регионе уже расширена.\n"
+ SIA_began_factory_seizure_tt: "Мы начнем §Yнационализацию промышленности§!, чтобы избежать §Rмеждународного кризиса§!. Однако неспособность национализировать какие-либо фабрики может §Rповредить§! нашей репутации.\n"
+ SIA_purge_tt: "Этот фокус уничтожит офицеров, которые сочувствовали восстанию и приведет к потере талантливых командиров.\n\n"
+ SIA_amnesty_tt: "Мы предоставим амнистию тем, кто считается спасенным, или были вынуждены действовать против нас невольно во время мятежа. Однако это приведет к некоторым гражданским волнениям.\n\n"
+ SIA_police_centralized_desc: "Это снизит риск успешного сепаратистского восстания против [SIA.GetSIAshortname]а.\n\n"
+ SIA_PRAJADHIPOK_REFORM: "Демократическая реформа прошла успешна.\n"
+ SIA_not_finished: "§RЭта ветка еще не закончена, она никогда не будет разблокирована и её можно обойти стороной.§!\n"
+ SIA_yuwachon_integration_tt: "Этот фокус позволит нам мобилизовать военные кадетские подразделения в случае чрезвычайной ситуации.\n"
+ SIA_relocate_capital_from_Bangkok_tt: "Этот фокус временно перенесет нашу столицу в Чиангмай.\n"
+ SIA_relocate_capital_back_from_Chiang_Mai_tt: "Наша столица будет перенесена обратно в Бангкок.\n"
+ SIA_byebye_Bangkok: "Перенес столицу из Бангкока.\n"
+ SIA_remove_title_tt: "\n§YКоролевские титулы§! теперь будет исключаться.\n"
+ SIA_reinstall_title_tt: "\n§YКоролевские титулы§! теперь будут восстановлены.\n"
+ SIA_royalist_unit_tt: "§YРоялисткие§! силы будут развернуты.\n"
+ SIA_seperatist_unit_tt: "§YСепаратистские§! силы будут развернуты.\n"
+ SIA_government_unit_tt: "§YПравительственные§! силы будут развернуты.\n"
+ SIA_parliamentary_unit_tt: "§YПарламентские§! силы будут развернуты.\n"
+ SIA_tractor_vic2_tt: "Любой/каждый получает '§YТрактор§!' до §Y31 декабря 2035§!, что даст следующие бонусы\nЭффекттивность производства: §G+50%§!\n\n"
+ SIA_Infra_decision_unlock_tt: "§GЭто откроет дополнительные решения по строительству инфраструктуры, как только будет создан Департамент транспорта.§!\n"
+ SIA_Civil_War_Ended: "Гражданская война уже закончилась.\n"
+ SIABRM_new_tt: "И мы, и [SIA.GetSIAshortname] получим новые дивизии.\n"
+ SIA_still_bloated_bureaucracy: "Проводится крупная бюрократическая реорганизация.\n"
+ SIA_still_black_monday: "Всё ещё испытываю экономические последствия от Чёрного Понедельника.\n" 
+ SIA_republic_established: "Будет создана новая республика.\n"
+ SIA_only_current_gov_bonus_tt: "\n§RТолько действующий бонус правительства будет активен, если другие стороны внедрили эту политику раньше.§!\n"
+ SIA_MSN_stays_tt: "\n§GБонус этого национального духа будет соответствующим образом адаптирован в случае смены правительства.§!\n"
+ SIA_country_roy_th: "Ратча Аначак"
+ SIA_country_rep_th: "Сатаранаратх"
+ SIA_prefix_roy_th: "Ратча"
+ # From 'Sataranarath':
+ SIA_prefix_rep_th: "Ратха"
+ SIA_prefix_prov_roy_en: "Временная королевская"
+ SIA_prefix_prov_par_en: "Конституционной"
+ SIA_adjective_SIA: "Сиамск"
+ SIA_adjective_THI: "Таиландск"
+ SIA_shortname_SIA: "Сиам"
+ SIA_shortname_THI: "Таиланд"
+ SIA_AAS_sl: "AAS"
+ SIA_AAT_sl: "AAT"
+ SIA_SAI_sl: "САИ"
+ SIA_TAI_sl: "ТАИ"
+ SIA_Siam_Cement_sl: "Сиам Цемент"
+ SIA_Thai_Cement_sl: "Тайский Цемент"
+ SIA_SDSI_sl: "SDSI"
+ SIA_TDSI_sl: "TDSI"
+ SIA_RSN_sl: "RSN"
+ SIA_RTN_sl: "RTN"
+ SIA_industrialmobilization_tt: "Заменить §H$SIA_reorganization_idea$§! на §H$SIA_industrialmobilizationplan$§!\nЭффективное изменение:\n$MODIFIER_STABILITY_FACTOR$: [?-0.03|+=%]\n$MODIFIER_WAR_SUPPORT_FACTOR$: [?0.05|+=%]\n$MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY_FACTOR$: [?0.05|+=%]\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: [?0.1|+=%]"
+ SIA_salacheepphurchard_tt: "Заменит §H$SIA_conscription_bonus$§! и §H$SIA_defensetechnologyinstitute_idea$§! на §H$SIA_salacheepphurchard_idea$§!\nИзменения:\n$MODIFIER_WAR_SUPPORT_FACTOR$: [?0.10|+=%]\n$MODIFIERS_ARMY_CORE_ATTACK_FACTOR$: [?0.10|+=%]\n$MODIFIERS_ARMY_CORE_DEFENCE_FACTOR$: [?0.10|+=%].\n\n§GЭто объединит все идеи ветки национальных фокусов.§!\n"
+ SIA_increase_state_cat_tt: "Каждый основной регион"
+ SIA_siamese_exiles_in_saigon: "Мы приняли призыв сиамских изгнанников об освобождении."
+ SIA_phao_leader_tt: "§YПхао Шриянонд§! становится лидером §Yнационал-популистской§! и §Yпатерналистской§! партий.\n§YПхао Шриянонд§! получает:\n   §YГарцующий рыцарь§!\n§gБез обмана и хитрости на высший пост просто не подняться - Пхао не хватает ни того, ни другого, и он готов уничтожить любую оппозицию, используя как хитрость, так и собственные военизированные полицейские силы на побегушках.§!\n  - §WЕжедневный прирост политической власти§!: §G+0.05§!\n  - §WЛюдские ресурсы не национальной провинции:§!: §G+2.00%§!\n  - §WЭффективность зарубежной подрывной деятельности§!: §G-30%§!\n\n"
+ SIA_sarit_leader_tt: "§YСарит Танарат§! становится лидером §Yнационал-популистской§! и §Yпатерналистской§! партий.\n§YСарит Танарат§! получает:\n   §YПатерналистский деспот§!\n§gВдохновленный понятием эпохи Сукотаи о Фо-Хуне (патриархальном правлении) и деспотическом правлении Аютая, Сарит почувствовал, что такой стиль правления наилучшим образом соответствует его политическому вкусу. Он считал себя главным лидером, направляющим страну через её \"Patiwat\" (революционную) фазу против нарастающих левых приливов.§!\n  - §WФактор военнообязанного населения§!: §G+5%§!\n  - §WЗащита дивизии на национальной территории:§!: §G+10.0%§!\n  - §WМодификатор АИ: Акцент на нападении§!: §Y+25%§!\n\n"
+ SIA_election_12_months_tt: "§GПервые публичные выборы состоятся в ближайшие 12 месяцев.§!\n"
+ SIA_election_3_months_tt: "§GПервые публичные выборы состоятся в ближайшие 3 месяца.§!\n"
+ SIA_election_1_months_tt: "§GПервые публичные выборы состоятся в ближайшие 30 дней.§!\n"
+ SIA_martial_law_2_months_tt: "§RВ течение следующих 2 месяцев будет введено военное положение, чтобы снизить политическую нестабильность.§!\n"
+ SIA_phibun_coup_tt: "§RВозможно, наши маленькие демократические эксперименты всех нас подвели...§!\n"
+ SIA_will_receive_reparation_tt: "Мы получим §H$SIA_war_reparation_recieved_idea$§! после нашего выхода из войны с [SIA.GetProperAdjective] со следующими эффектами:\n  - $MODIFIER_CONSUMER_GOODS_FACTOR$: [?-0.05|+=%]\n  - $MODIFIER_POLITICAL_POWER_GAIN$: [?0.02|+=%]\n\n"
+ SIA_war_reparation_betrayal_warning_tt: "§RПринятие этого решения поставит нас в противоречие с лидером нашей фракции!§!\n"
+ SIA_gets_event_surrender_accepted: "$gets_event_start$$siam.70.t.peace$"
+ Luang_Phibunsongkhram_dead: "Лянг Пибунсонгкрам недоступен.\n"
+ Luang_Seriroengrit_dead: "Лянг Серироенгрит недоступен.\n"
+ Phraya_Phaholpholphayuhasena_dead: "Прайа Пахонполпаюхасен недоступен.\n"
+ SIA_is_thailand_tt: "Наше название - Тайланд.\n"
+ SIA_is_thailand_tt_NOT: "Наше название - Сиам.\n"
+
+### Parties Siam/Thailand ###
+ SIA_totalist_party: "Коммунистическая партия Сиама"
+ SIA_totalist_party_long: "Коммунистическая партия Сиама"
+ SIA_totalist_party_TH: "Коммунистическая партия Тайланда"
+ SIA_totalist_party_TH_long: "Коммунистическая партия Тайланда"
+ SIA_radical_socialist_party: "Лейбористская партия"
+ SIA_radical_socialist_party_long: "Лейбористская партия"
+ SIA_syndicalist_party: "Синдикалистская партия Сиама"
+ SIA_syndicalist_party_long: "Синдикалистская партия Сиама"
+ SIA_syndicalist_party_TH: "Синдикалистская партия Тайланда"
+ SIA_syndicalist_party_TH_long: "Синдикалистская партия Тайланда"
+ SIA_social_democrat_party: "Социалистическая партия"
+ SIA_social_democrat_party_long: "Социалистическая партия"
+ SIA_social_liberal_party: "Партия Действия"
+ SIA_social_liberal_party_long: "Партия Действия"
+ SIA_market_liberal_party: "Либеральная партия"
+ SIA_market_liberal_party_long: "Либеральная партия"
+ SIA_social_conservative_party: "Демократическая партия"
+ SIA_social_conservative_party_long: "Демократическая партия"
+ SIA_authoritarian_democrat_party: "Верховный государственный совет"
+ SIA_authoritarian_democrat_party_long: "Верховный государственный совет"
+ SIA_authoritarian_democrat_party_reform: "Народный совет"
+ SIA_authoritarian_democrat_party_reform_long: "Народный совет"
+ SIA_authoritarian_democrat_party_khana_ratsadon: "Народная партия"
+ SIA_authoritarian_democrat_party_khana_ratsadon_long: "Народная партия"
+
+# Nobility party names
+ SIA_authoritarian_democrat_party_nobil: "Сиамская группа реформации"
+ SIA_authoritarian_democrat_party_nobil_long: "Сиамская группа реформации"
+ SIA_paternal_autocrat_party: "Клика Боворадет"
+ SIA_paternal_autocrat_party_long: "Клика Боворадет"
+ SIA_paternal_autocrat_party_CW: "Фронт национального спасения"
+ SIA_paternal_autocrat_party_CW_long: "Фронт национального спасения"
+
+# RadSoc forming United Front parties
+ SIA_radical_socialist_party_united_front: "Кханагуммакарн Сапха Пативат"
+ SIA_radical_socialist_party_united_front_long: "Кханагуммакарн Сапха Пативат(Революционный Парламентский Совет)"
+ SIA_radical_socialist_party_CW: "Кхана Покпонг Прачатипатай"
+ SIA_radical_socialist_party_CW_long: "Кхана Покпонг Прачатипатай(Демократический Защитный Фронт)"
+
+# Plaek and the Boys party names
+ SIA_paternal_autocrat_party_plaek: "Тайское автократическое движение"
+ SIA_paternal_autocrat_party_plaek_long: "Тайское автократическое движение"
+ SIA_paternal_autocrat_party_sarit: "Социальная национальная партия"
+ SIA_paternal_autocrat_party_sarit_long: "Социальная национальная партия"
+ SIA_national_populist_party: "Тайская национальная партия"
+ SIA_national_populist_party_long: "Тайская национальная партия"
+ SIA_national_populist_party_plaek: "Тайская национало-популистическая партия"
+ SIA_national_populist_party_plaek_long: "Тайская национало-популистическая партия"
+ SIA_national_populist_party_phao: "Тайская национальная партия"
+ SIA_national_populist_party_phao_long: "Тайская национальная партия"
+
+### Opinion Modifiers ###
+ SIA_seized_our_factories: "Они незаконно захватили наши фабрики!"
+
+### Bookmark ###
+ SIA_KR_gathering_storm_desc: "Первоначально нейтральный во время Великой войны, Сиам присоединился к Центральным державам в последнюю минуту в 1919 году, чтобы вернуть Чампассак и внутренние камбоджийские земли вдоль линии Меконга. Тем не менее Сиам был втянут в 36-ю сиамо-бирманскую войну с новым независимым государством Бирма в 1928 году. Великая сиамская нация смогла успешно победить бирманцев, и только с дипломатическим вмешательством Германии и Японии было достигнуто приемлемое прекращение огня. Теперь, когда наступает 1936 год, сиамская нация продолжает наслаждаться миром, процветанием и стабильностью, а король Прачадипок надеется обнародовать первую конституцию Сиама."
+
+### Intro Screen ##
+ SIA_country_intro_background: "GFX_SIA_intro"
+ SIA_country_intro_header: "Королевство [SIA.GetSIAshortname] в 1936"
+ SIA_country_intro_content: "Как одна из стран, выигравших от победы Германии во время Вельткрига, [SIA.GetSIAshortname] восстановил большую часть своей прежней земли, которая ранее была отдана западным империалистам в 1919 и 1925 годы , соответственно, как член бывших центральных держав. В то время как его отношения с немцами в целом сердечны, тот факт, что они пресекли экспансионистские [SIA.GetProperAdjective]ие амбиции во время вмешательства 1929 года в Бирме, вызвали напряженные дипломатические и военные связи между ними. Если Сиам и примирится с немцами или присоединится к другим державам, то это полностью зависит от вас."
+ 
+ SIA_country_intro_header_1: "Состояние политики Королевства"
+ SIA_country_intro_content_1: "Со времени коронации короля Рамы VII в 1925 году, большинство, если не все, политики [SIA.GetSIAshortname]а были продиктованы Афираттхамонтри Сапхой (Государственным советом), который является советом, состоящим из старших братьев и сестер короля, которые постоянно работали для укрепления власти, поскольку власть короля над нацией слаба. Несмотря на обещание [SIA.GetProperAdjective]ой интеллигенции конституционной монархии через реформацию конституции, реформа в целом проходила жестко, поскольку она наносит ущерб интересам дворянства.\n\nВ окрестности врагов, таких как Бирмская республика на западе, юннанские бандиты на севере и немецкие империалисты на востоке, Сиам находится в ужасном положении. Он либо погибнет, навсегда оставшись на страницах исторической книги, либо будет реформироваться и придет современное состояние, будь то путем переговоров или применения силы."
+ 
+ SIA_country_intro_header_2: "Общая ситуация в Королевстве"
+ SIA_country_intro_content_2: "Будучи внешне экономически и промышленно процветающим, [SIA.GetSIAshortname] на самом деле очень полагается на инвестиции Германии, и лелеет экономические связи, которые он разделяет с нацией. Его промышленность в целом очень хрупка, так как основным источником экспорта являются рис, сахар и древесина. Кроме того, растет национализм среди этнических меньшинств, который затронул многих, поскольку в ближайшем будущем это вызвало потенциал сепаратистских движений. Тем не менее, несмотря на все это, раздутая бюрократическая система, которая существует с момента правления Рамы VI, избавила от столь необходимых налогов, что позволило бандитам постоянно бегать на диких островах Сиама."
+
+ SIA_guide: "§MPrajadhipok's Reforms§! (§lSocial Liberal§! / §SSocial Democrat§! / §cSocial Conservative§!)\n During Black Monday, choose at least 3 of the following options:\n£white_dot Purchase most of Jasmine's rice.\n£white_dot Allow the status-quo of the bureaucracy to continue.\n£white_dot Do not cut any of the military expenditure.\n£white_dot Double the inheritance tax or lift the ban on gambling.\nThis will allow us to weather the storm with as little dissent as possible.\n\n£white_dot You will get to choose which of the parties you want to be in power.\n£white_dot Alternatively: reduce the tensions enough during the Yellow Dossier affair, or have Phibun choose to repeal martial law.\n\n§MTo get any path below, start with:§!\n£white_dot During Black Monday, do not choose any of the options listed above to further dissent among the population.\n£white_dot The Khana Ratsadon will carry out a coup.\n£white_dot During the \"Yellow Cover Dossier\" affair, choose to arrest the \"syndicalist sympathizers\" or try to incite further conflict in the Parliament.\n\n§MCoup§! - §MPhibun§! / §MSarit§! / §MPhao§! (§NNational Populist§! / §PPaternal Autocrat§!)\n£white_dot During \"Phibunsongkhram's Dilemma\", choose \"Try to end this factional bickering.\"\n£white_dot Wait 2 months, there should be an option to \"take power for ourselves.\", after which Phibun will take over and turn you into §NNational Populist§!.\n£white_dot To keep him alive, implement the Ratthaniyom reforms, but do not pass the New Anthem Act, yet do the \"promote the usage of the Bangkok dialect in Compulsory Education\" act; Phibun will live until the '50s that way.\n£white_dot If Phibun gets assassinated (whether by not implementing the reforms or being too harsh/soft) you will be able to go down either Phao's §NNational Populist§! republican path or Sarit's §PPaternal Autocrat§! restoration of Royal Power.\n\n§MBirth of the Socialist Republic§! (§RRadical Socialist§!)\n£white_dot During \"Phibunsongkhram's Dilemma\", select \"HM's Dignity must be upheld!\", siding with the Royalists.\n£white_dot When the rebellion starts, go with the \"For the country!\" option (the Rebels) and try to win the civil war by capturing Bangkok.\n\n§MPower to the King§! (§PPaternal Autocrat§!)\n£white_dot During \"Phibunsongkhram's Dilemma\", select \"It's treason then!\", siding with the Parliamentarians.\n£white_dot When the rebellion starts, go with the \"For the king!\" option (the Rebels), and try to win the civil war by capturing Bangkok.\n£white_dot (Bonus): On this path Paribatra Sukhumbhand can seize the throne after Rama VII dies.\n"
+
+### Newly Reformed Siamese Events ###
+
+#################################
+##
+## PREEXISTING EVENTS (ID 0-999)
+##
+#################################
+
+## Black Monday and Early political chaos # Max Reform 7 - Lowest 0: 0-2 = Khana Ratsadon coup, 3-4 = Civil War with Prajadhipok Bias (based on Boworadet Rebellion), 5-6 = success, 7 = Reactionary coup with Paribatra as HoS
+ siam_events.4.t: "Черный Понедельник ударил по [SIA.GetSIAshortname]у!"
+ siam_events.4.d: "Из-за большой зависимости от экономических связей с Германией экономический крах, получивший название Черный Понедельник, быстро перетащил [SIA.GetSIAshortname] в экономическую пропасть, так как наш основной экспорт сельскохозяйственной продукции потерял все свои прежние требования и начал засыхать на своих складах. Кроме того, клерки, работающие в иностранных компаниях, постоянно увольняются, а люди начинают собираться вокруг Большого дворца. Очевидно, что мы должны что-то сделать в нашей экономической ситуации, чтобы она не ухудшилась и не привела нас к дальнейшему опустошению."
+ siam_events.4.a: "Khun Prah!"
+ 
+ siam_events.5.t: "Проблемы с жасминовым рисом"
+ siam_events.5.d: "Один из крупнейших экспортеров риса в Сиаме, фермеры из Чао Прайя, попросили правительство вмешаться в чрезмерную поставку риса из-за общего падения спроса и сокращения экспортных возможностей после Черного Понедельника."
+ #-200, +2 reform:
+ siam_events.5.a: "Купите большую часть риса, чтобы помочь стабилизировать цену."
+ #-100, +1 reform
+ siam_events.5.b: "Согласитесь скупать лишний рис."
+ #0, 0 reform
+ siam_events.5.c: "Свободный рынок должен решить проблему!"
+ 
+ siam_events.6.t: "Раздутая бюрократия"
+ siam_events.6.d: "Современная бюрократическая система была сформирована во время правления Рамы V и была значительно расширена Рамой VI. Однако она оказалась слишком большой, чтобы эффективно служить государству. Однако увольнение большего числа людей означало бы увеличение "добровольного выхода на пенсию" для многих."
+ # 0 reform
+ siam_events.6.a: "Увольте некоторых из наших клерков."
+ #-100, +1 reform
+ siam_events.6.b: "Увольте руководителей и министров."
+ #-200, +2 reform
+ siam_events.6.c: "Разрешить статус-кво на данный момент."
+ 
+ siam_events.7.t: "Военные расходы"
+ siam_events.7.d: "[SIA.GetSIAshortname] в настоящее время тратит до 25% своего годового дохода на сохранение и поддержание военно-промышленного комплекса, поскольку она окружена как историческими врагами, так и империалистическими западными жителями, которые желают ее земли. Однако в эти экономически сложные времена, возможно, небольшое сокращение наших военных расходов не сильно повредило бы нам."
+ #-10 for 3 years, 0 reform
+ siam_events.7.a: "Сократить финансирование всех исследований."
+ #-10 for 3 years, +1 reform
+ siam_events.7.b: "Уничтожить все препятствия для разработки новых винтовок."
+ #-200, +2 reform
+ siam_events.7.c: "Мы не должны допустить раскрытия наших слабостей!"
+ 
+ siam_events.8.t: "Сбор налогов"
+ siam_events.8.d: "Несмотря на то, что до сих пор мы провели множество радикальных реформ, у нас все еще не хватает денег, чтобы сбалансировать бюджет в этом году. Чрезвычайный налог должен помочь исправить эту ситуацию, но создаст больше неудобств для наших верных подданных."
+ #+50, 0 reform
+ siam_events.8.a: "Увеличение ставки подоходного налога!"
+ #+10, +1 reform
+ siam_events.8.b: "Двойной налог на наследство!"
+ #+30, -5 NP, +1 reform
+ siam_events.8.c: "Поднимите запрет на азартные игры."
+
+## New Governmnet Established for Siam ##
+ siam_events.10.t: "Временный кабинет хана Ратсадона"
+ siam_events.10.d: "Следуя бескровной революции, теперь наша работа - помочь воссоздать нацию с нуля. Луан Прадитманутам, глава гражданской фракции временного правительства и видный левый, в настоящее время работает над созданием официальной конституции, в то время как другие начинают воспитывать массы в отношении достоинств и действий парламентской демократии. Наряду с этим, Прайа Пахонпонпаюнасен подготовил свои войска в случае оппортунистического вторжения иностранных держав."
+ siam_events.10.a: "Это большой шаг вперед для [SIA.GetSIAshortname]а!"
+ 
+ siam_events.11.t: "Временный кабинет Ханагуммаккарна Ратсадона"
+ siam_events.11.d: "С подписанием и ратификацией новой конституции Народный комитет, избранный самим Праджадипоком, начал образование масс способами надлежащей парламентской демократии.\n\nПриведенный [SIA.GetProperAdjective]им судом, Комитет также отвечает за реформы в области образования, здравоохранения и индустриализации. Хотя путь впереди Сиама не наполнен розами, светлое будущее ждет нашего великого народа."
+ siam_events.11.a: "Это большой шаг вперед для [SIA.GetProperAdjective]ого народа!"
+
+## Khana Ratsadon 1936 Election and subsequent Civil War ##
+
+ siam_events.12.t: "Желтое досье"
+ siam_events.12.d: "Сегодня государственный секретарь и член Народной партии, Луанг Прадитманутам, представил Национальному собранию проект плана национального плана экономического развития или 'Желтое досье'.\n\nЖелтой досье - это план, который будет организовывать и обеспечивать государственное благосостояние, перераспределение земли в сельские массы, вмешательство в экономические дела частного сектора и помощь сельским фермерам в более высоких экономических субсидиях.\n\nКаждый прокомментировал сходство предложения с синдикалистской системой, в то время как другие согласились с тем, что это предложение будет полезно в плане содействия жизни [SIA.GetProperAdjective]их людей.\n\nЧто говорит Его Величество в отношении этого предложения?"
+ siam_events.12.a: "Его Величество соглашается с Прадитманутамом."
+ siam_events.12.b: "Его Величество частично согласен с предложением."
+ siam_events.12.c: "Его Величество требует ареста сочувствующего синдикалистам!"
+ 
+ siam_events.13.t: "Ответ Праджадипока"
+ siam_events.13.d: "Ответ короля Праджадипока прибыл и сильно раскритиковал проект Луанга Прадитманумама, поскольку он обвиняет Прадитманутама в синдикализме! Экстренное заседание, проведенное главными членами Народной партии, привело к тому, что партия решила..."
+ siam_events.13.a: "...отступить на данный момент."
+ siam_events.13.b: "...подать иск против короля."
+ 
+ siam_events.14.t: "Внутренние распри"
+ siam_events.14.d: "Недавно Чаван Риттидет, частный гражданин, подал иск против короля, обвинив его в вмешательстве в политические, государственные и экономические дела. Выпад над планом Луанга Прадитманутама еще больше разделил кабинет и настроил роялистов и парламентариев друг против друга."
+ siam_events.14.a: "Скоро они помирятся"
+ siam_events.14.b: "Арестуйте синдикалистов!"
+ 
+ siam_events.15.t: "Дилемма Луанга Фибунсонгхрама"
+ siam_events.15.d: "Политический кризис в настоящее время продолжается и почти достиг точки кипения! Напряженность высока, и ясно, что мы должны принять меры для исправления ситуации! Что нам следует сделать?"
+ siam_events.15.a: "Тогда это измена! (Сторона парламентариев)"
+ siam_events.15.b: "Достоинство ХМ должно быть поддержано! (Сторона Роялистов)"
+ siam_events.15.c: "Конец фракционных пререканий."
+ 
+ siam_events.16.t: "Начало Сиамской Гражданской войны"
+ siam_events.16.prd: "Несмотря на то, что начальник вооруженных сил заявил о своей преданности монархии, небольшой мятеж в Саттаипе и Канчанабури быстро вышел из-под контроля и теперь охватил весь народ в хаос."
+ siam_events.16.ppd: "Несмотря на то, что начальник вооруженных сил объявил свою верность новому кабинету, небольшой мятеж в армии Лопбури и Накхон Ратчасима быстро вышел из-под контроля и теперь охватил весь народ в хаос."
+ siam_events.16.pra: "За страну! (Повстанческая сторона)"
+ siam_events.16.prb: "За короля! (Сторона правительства)"
+ siam_events.16.ppa: "За страну! (Сторона правительства)"
+ siam_events.16.ppb: "За короля! (Повстанческая сторона)"
+
+ siam_events.17.t: "'Цветы Падаука' увядают"
+ siam_events.17.d: "Растущая напряженность затрагивает все стороны жизни сиамского общества, и одним из наиболее ярких примеров является, пожалуй, сам Королевский Сиамский флот. Поскольку оплот роялистов находится в основном в неприбрежных районах, большинство моряков и морских офицеров предпочли организовать специальные подразделения для укрепления Саттахипа и прилегающих районов в качестве оплота парламентариев и поддержки других сухопутных подразделений, разделяющих их убеждения. Остальные дезертировали раньше или пытались пересидеть войну в качестве 'нейтралов'. Другими словами, таким образом, большинство кораблей КСФ оказались вне контроля одной из сторон."
+ siam_events.17.a: "Blessing in disguise?"
+
+ siam_events.18.t: "Захват Бангкока"
+ siam_events.18.d: "Сиамская Гражданская война  недавно совершила неожиданный поворот к лучшему, поскольку нашей стороне удалось вернуть Бангкок, столицу. Возможно, правительство придет в себя и установит приоритет безопасности нашей нации вместо того, чтобы бороться за свои интересы и, наконец, сдаться?"
+ siam_events.18.a: "Пошлите ультиматум"
+ siam_events.18.b: "Мы никогда не будем с ними разговаривать!"
+
+ siam_events.19.t: "'Цветы Падаука' снова цветут"
+ siam_events.19.d: "После окончания гражданской войны были предприняты действия по восстановлению контроля над законсервированными флотами КСФ, покинутыми из-за конфликта. Сейчас мы собрали достаточно моряков, чтобы пока выполнять функции костяка команды, а еще большее подкрепление уже возвращается из лагерей."
+ siam_events.19.a: "Радостная новость."
+
+ siam_events.20.t: "Конец [SIA.GetProperAdjective]ой Гражданской войны"
+ siam_events.20.d.government_parliamentarian: "После восстановления наших восточных и южных регионов, которые были возвращены от повстанцев правительственными войсками, оставшиеся революционеры решили бежать на немецкую Малайю. Но это не важно, потому что позже мы можем захватить повстанцев. Гораздо важнее сначала оплакивать потери, понесенные во время войны нашими верными подданными. Проводились общенациональные общественные похороны, а останки наших верных подданных проходили по дороге Ратчадамноен в Санам Луанг, где король Праджадипок дал нам разрешение на создание общественного погребального костра на священной королевской земле."
+ siam_events.20.d.government_royalist: "После того, как наши войска сумели успешно подчинить подавляющее большинство как сепаратистских, так и повстанческих сил, оставшиеся от реакционных бежали в Юньнань. Но это не важно, потому что позже мы поймаем повстанческих подонков. Прежде всего, мы должны оплакивать потери, понесенные нашими верными людьми, и сделаем это благодаря использованию бывшего королевского кремационного поля в качестве общественного погребального костра, чтобы люди могли отдать должное тем, кто благородно пожертвовал собой ради наших дел. Кроме того, Праджадипок, который был в значительной степени не связан с восстанием, был возвращен обратно в Большой дворец."
+ siam_events.20.d.rebel_parliamentarian: "После восстановления наших восточных и южных регионов, которые были возвращены от повстанцев правительственными войсками, оставшиеся революционеры решили бежать на немецкую Малайю. Но это не важно, потому что позже мы можем захватить повстанцев. Гораздо важнее сначала оплакивать потери, понесенные во время войны нашими верными подданными. Проводились общенациональные общественные похороны, а останки наших верных подданных проходили по дороге Ратчадамноен в Санам Луанг, где король Праджадипок дал нам разрешение на создание общественного погребального костра на священной королевской земле."
+ siam_events.20.d.rebel_royalist: "После того, как нашим войскам удалось успешно захватить Бангкок, то, что осталось от правительственных сил, наряду с бывшим королем Сиама, сбежало в Юньнань. Но это не важно, потому что позже мы поймаем, что осталось от лоялистов. Прежде всего, мы должны оплакивать потери, понесенные нашими верными людьми, и сделаем это благодаря использованию бывшего королевского кремационного основания в качестве общественного погребального костра, чтобы люди могли отдать дань уважения тем, кто благородно пожертвовал собой ради наших дел."
+ # Plaek Parliamentarian, Government:
+ siam_events.20.a: "Мы победили, да здравствует новая Республика!"
+ # Plaek Royalist, Government:
+ siam_events.20.b: "Мы победили, слава королю!"
+ # Plaek Royalist, Rebel:
+ siam_events.20.c: "Мы победили, слава королю!"
+ # Plaek Parliamentarians, Rebel; Chaiyo = Hurrah in Thai:
+ siam_events.20.d: "Мы победили, да здравствует новая Республика!"
+ 
+ siam_events.21.t: "Роялисты сдались (сторона ИИ)"
+ siam_events.21.d: "Это событие не предназначено для игры - сообщите об этом как об ошибке, если это появилось."
+ siam_events.21.a: "Они сдались (Парламентарии)"
+ 
+ siam_events.22.t: "Переворот Луинга Фибунсонгхрамского"
+ siam_events.22.d: "С течением времени и после захвата власти, наконец, началась стабилизация ситуации в Сиаме. Возможно, наконец-то..."
+ siam_events.22.a: "...отменим военное положение."
+ siam_events.22.b: "...сохраним нашу власть."
+ 
+ #1936:
+ siam_events.23.t: "Выборы [GetYear] года"
+ siam_events.23.d.syn: "После чистки консерваторов со всех палат правительства, в дополнение к устранению всех рудиментарных властей, результаты выборов довольно ясны."
+ siam_events.23.d.con: "После чистки социалистов из всех палат правительства, в дополнение к устранению всех рудиментарных властей, результаты выборов довольно ясны."
+ siam_events.23.d.norm: "В его нынешнем виде прогнозы, сделанные в ходе выборов в отношении выборов, были очень близки. Однако кажется, что одной из сторон удалось получить неожиданное большинство в парламенте."
+ siam_events.23.a: "Либералы одерживают победу!"
+ siam_events.23.b: "Социалисты одерживают победу!"
+ siam_events.23.c: "Консерваторы одерживают победу!"
+ 
+## Industrial Nationalizaion ##
+
+ siam_events.26.t: "Вопрос о фабриках, принадлежащих Германии"
+ siam_events.26.d: "Известные немецкие предприятия в [SIA.GetName] в основном связаны с судоходной, лесозаготовительной и железнодорожной отраслями. Поскольку нынешняя экономическая ситуация в Германии стоит, кажется, что они, вероятно, согласятся с денежной компенсацией, чтобы помочь стимулировать восстановление экономики, хотя мы могли бы просто захватить их заводы. Однако это может означать экономическое самоубийство для [SIA.GetName]. Как мы должны подойти к ситуации?"
+ siam_events.26.a: "Давайте захватим заводы - это не правильно, но как будто они могут что-либо сделать."
+ siam_events.26.b: "Предложите денежную компенсацию"
+ siam_events.26.c: "Давайте посмотрим в другом месте..."
+ 
+ siam_events.27.t: "Сиам забирает наши заводы!"
+ siam_events.27.d.bast: "Новое [SIA.GetProperAdjective]ое правительство начало свою программу 'промышленной национализации', чтобы укрепить свою экономику. Наши заводы в [SIA.GetName] были одной из жертв этой схемы, которая вела незаконный захват их военной хунтой премьер-министра Плака Фибунсонграма."
+ siam_events.27.d.comp: "Новое [SIA.GetProperAdjective]ое правительство начало свою программу 'промышленной национализации', чтобы укрепить свою экономику. Наши заводы в [SIA.GetName] были одной из жертв этой схемы, которая вела незаконный захват их военной хунтой премьер-министра Плака Фибунсонграма. Однако он предложил нам денежную компенсацию за наши потери."
+ siam_events.27.a: "Ублюдок!"
+ siam_events.27.b: "По крайней мере, они дали нам компенсацию."
+ 
+ siam_events.28.t: "Вопрос американских фабрик"
+ siam_events.28.d: "Американская автомобильная компания Ford имеет свои операции в Юго-Восточной Азии, расположенные здесь, в Аюттхайе. Из-за политических и экономических распрей в Штатах маловероятно, что Соединенные Штаты ответят, если мы решим захватить фабрики. Что нам следует сделать?"
+ 
+ siam_events.29.t: "Вопрос британских каучуковых плантаций"
+ siam_events.29.d: "Когда британцы в Юго-Восточной Азии вынуждены были отступить в Австралию после Британской революции, многие частные каучуковые плантации в Сират-Малае были оставлены в течение некоторого времени их бывшими владельцами. Хотя мы могли бы просто захватить плантации, это разозлит австралазийцев, которые являются крупными военно-морскими силами в Азиатско-Тихоокеанском регионе и, возможно, союзниками. Что нам следует сделать?"
+ 
+ siam_events.30.t: "Вопрос японских железных шахт"
+ siam_events.30.d: "Японцы владеют несколькими железными рудниками в Яла и Накхон-Си-Таммарат, которые используются для передачи драгоценного металла на их остров. Хотя мы могли бы потенциально захватить шахты и получить прибыль для себя, это оттолкнет нас и навсегда повредит сиамско-японские отношения, оставив нас без сильного союзника, чтобы помочь оспаривать немецкую гегемонию в регионе. Что нам следует сделать?"
+ 
+ siam_events.31.t: "Фибунсонгхрама критикуют за слабую внешнюю политику"
+ siam_events.31.d: "Благодаря принятым решениям в отношении национальной схемы индустриализации, практически не меняющих экономических изменений, наши оппоненты в средствах массовой информации и на политической арене обвинили нас в слабости и неэффективности руководства."
+ siam_events.31.a: "Заткните их!"
+
+## Siamese- Burmese War (NatPop) ##
+
+ siam_events.32.t: "Бирманские агитаторы захвачены"
+ siam_events.32.d: "Одиннадцать бирманских агитаторов в Морламаенге, одном из городов большинства Мон по величине в районе дельты реки Салвин, были пойманы сегодня, распространяя брошюры, в которых говорилось: 'Освободимся от [SIA.GetProperAdjective]'. Возможно, мы сможем воспользоваться этим событием, чтобы помочь увеличить поддержку нашего режима и окончательно ликвидировать бирманскую угрозу!"
+ siam_events.32.a: "Кто сказал, что я трус?"
+ siam_events.32.b: "Отличная возможность научить их, кто тут босс!"
+ siam_events.32.c: "К сожалению, мы не готовы к этому прямо сейчас..."
+ 
+ siam_events.33.t: "[SIA.GetNameDefCap] объявляют войну!"
+ siam_events.33.d: "Плохие новости только что прибыли! По-видимому, [SIA.GetProperAdjective]ие власти поймали, по их мнению, одиннадцать 'бирманских шпионов', несмотря на то, что они находятся там, что по праву принадлежит нам. Сейчас они продвигаются к Янгону. Это возмутительно!"
+ siam_events.33.a: "к орудиям, горожане!"
+
+# Siamese Wins
+ siam_events.34.t: "Тавайский договор"
+ siam_events.34.d: "Столица Бирмы -Янгон была разгромлена, и наши силы надежно закрепились в тлеющих остатках столицы. Кажется, сейчас самое подходящее время, чтобы требовать уступки от бирманского правительства. Мы можем с уверенностью сказать, что победа наша. Вопрос остается, однако, в том, что мы должны искать мир или продолжать борьбу с войной, пока не избавимся от бирманцев?"
+ siam_events.34.a: "Мы потребуем только остальной Шан и воссоединимся с тайцами."
+ siam_events.34.b: "Никакого мира, нам нужна вся Бирма!"
+ 
+ siam_events.35.t: "[SIA.GetProperAdjective]ие требования"
+ siam_events.35.d: "Проклятье! [SIA.GetProperAdjective]ие собаки полностью одолели нас и уничтожили нашу гордость. Теперь они потребовали, чтобы мы сдали Верхний Шан. Хотя это суровые условия, было бы разумно соблюдать их, чтобы наши соперники в регионе не действовали в нашей ослабленной стране."
+ siam_events.35.a: "Нам придется..."
+ siam_events.35.b: "Они должно быть шутят, Kaba Ma Kyei!"
+ 
+ siam_events.36.t: "Правительство Бирмы отказалось!"
+ siam_events.36.d: "Глупые бирманцы отказались от нашего щедрого предложения."
+ siam_events.36.a: "Продолжим войну, они все осознают..."
+
+# Burmese Wins
+ siam_events.37.t: "Тавайский договор"
+ siam_events.37.d: "Декадентский [SIA.GetProperAdjective]ий режим в Бангкоке был разгромлен, и наши силы надежно закрепились в тлеющих останках Чианг Мая. Кажется, сейчас самое лучшее время, чтобы потребовать уступки от [SIA.GetProperAdjective]ого правительства. Мы можем с уверенностью сказать, что победа наша. Вопрос остается, однако, в том, что мы должны искать мир или продолжать борьбу с войной, пока не избавимся о них?"
+ siam_events.37.a: "Мы потребуем назад наши законные территории."
+ siam_events.37.b: "Никакого мира, нам нужен весь Сиам!"
+ 
+ siam_events.38.t: "Бирманские требования"
+ siam_events.38.d: "Проклятье! Бирманские собаки полностью одолели нас и уничтожили нашу гордость. Теперь они потребовали, чтобы мы сдали им Нижний Шан и Морламанген. Хотя это суровые условия, было бы разумно их соблюдать, чтобы наши соперники в регионе не действовали на нашей ослабленной ситуации."
+ siam_events.38.a: "У нас нет другого выбора..."
+ siam_events.38.b: "Никакого мира, Rao Suu Mai Thoi!"
+ 
+ siam_events.39.t: "[SIA.GetProperAdjective]ое правительство отказалось!"
+ siam_events.39.d: "Глупое [SIA.GetProperAdjective]ое правительство отказался от наших законных требований."
+ siam_events.39.a: "Продолжим войну, они все осознают..."
+
+## Phibunsongkhram's Ratthaniyom Reform, Assassination attempt and its aftermath ##
+ siam_events.40.t: "Реализация реформ Раттаньома"
+ siam_events.40.d: "Раттаньом, или реформы народного государства, были предложены гражданами как средство достижения конечной цели сильной нации, которая пользуется тайским народом. Однако это может привести к некоторым нежелательным трениям с малайцами, китайцами, монами и камбоджиями, проживающими в нашей стране."
+ siam_events.40.a: "Какая разница? Начать реформы"
+ siam_events.40.b: "Если подумать, то это, вероятно, плохая идея."
+ 
+ siam_events.41.t: "Переименовать Сиам?"
+ siam_events.41.d: "Хотя наша страна была известна как Сиам со времен Аюттхая, разведка в [SIA.GetProperAdjective]ом сообществе  указала, что, поскольку наша нация в основном состоит из тайцев, имеет смысл изменить наше имя на Таиланд, с тем чтобы отразить этот факт. Однако это может антагонизировать меньшинства в нашей стране. Что нам следует сделать?"
+ siam_events.41.a: "Мы будем нацией тайских людей!"
+ siam_events.41.b: "Мы останемся Сиамом!"
+ 
+ siam_events.42.t: "Закон о объединении и новом национальном гимне"
+ siam_events.42.d: "После принятия закона, который официально сделал нас тйцами, использование Тай-Лао, Тай-Дам, Тай-Даенг, Тай-Пуан, Тай-Яй, Тай-Саям, Тай-Хуан, Тай-Лу, Тай Юань и других в Культуре Тай-Кадайско группе теперь разговорно известные как тайцы, в то время как меньшинства сохраняют тайский префикс, как они, согласно закону, также тайцы. Государственный гимн также должен быть изменен, чтобы отразить эту новую реальность, и соревнование должно состояться через тридцать дней, чтобы помочь решить новый гимн."
+ siam_events.42.a: "Пропустим это!"
+ siam_events.42.b: "Нет"
+ 
+ siam_events.43.t: "Закон о национальном языке и обязательном образовании [GetYear] года"
+ siam_events.43.d: "Чтобы продвинуть нашу политику таификации или интеграцию меньшинств в Таиланд, центральный тайский язык (диалект в Бангкоке) теперь считается основным языком, с запретом на использование северного тайского и лаосского диалектов. Новый закон должен сделать учение о центральном тайском диалекте обязательным и будет негативно влиять на этнические и религиозные школы, такие как китайские школы, католические Успенские колледжи и мусульманские школы на юге страны, если они не согласны соблюдать новый закон. Разумеется, мы могли бы быть менее решительными в нашей реализации закона или полностью отказаться от его принятия."
+ siam_events.43.a: "Таификация - это путь вперед!"
+ siam_events.43.b: "Давайте просто пропагандировать использование диалекта Бангкока."
+ siam_events.43.c: "Отменить принятие закона..."
+ 
+ siam_events.44.t: "Закон о депортации иностранцев"
+ siam_events.44.d: "Из-за недавнего притока китайских иммигрантов, которые избежали кровавой бойни и разрушения гражданской войны в Китае, в [SIA.GetName] мы наблюдали рост уровня безработицы. Чтобы решить эту проблему, правительство решило объявить избранные рабочие места запрещенными неквалифицированными иммигрантами и отложить их для наших собственных людей. Это, однако, негативно скажется на нашей экономике из-за нашей зависимости от китайского труда."
+ siam_events.44.a: "Мы должны сохранить [SIA.GetProperAdjective]ий рабочий рынок!"
+ siam_events.44.b: "Нам нужен иностранный труд; отменить закон!"
+ 
+ siam_events.45.t: "Завершение реформ Раттанияма"
+ siam_events.45.d: "Все основные законы, касающиеся реформ Раттанияма Фибунсогхрама, в настоящее время успешно реализованы так или иначе. Мы с нетерпением ждем реакции общественности на реформы."
+ siam_events.45.a: "[SIA.GetProperAdjective]ая нация сильна!"
+ siam_events.45.b: "[SIA.GetProperAdjective]ая нация сильна!"
+ siam_events.45.c: "По крайней мере, реформы имеют какое-то влияние..."
+ siam_events.45.e: "Можно ли это назвать реформой, если ничего не сделано?"
+
+# siam_events.46 is hidden
+
+ siam_events.47.t: "Фибиунгхрам убит!"
+ siam_events.47.d: "Премьер Фибулсункрам только что был убит тайско-китайскими боевиками в [GetDateText] во время его прибытия в Тронный зал Ананды Самахом. Пока он ехал в своем кортеже, его застрелили в сердце и он мгновенно умер. Следующим был политический вакуум, в котором и Пао Шриандон, начальник секретной полиции, и Сарит Танарат, военный силовик Фибунсхрама, стремились взять власть и выполнить свои собственные амбиции. Пао сам рассматривает монархию как архаичный символ и желает официально объявить республику, в то время как Сарит рассматривает сотрудничество с бывшей династией Чакри как лучшее для страны."
+ siam_events.47.a: "Пао Шриянон вышел победителем!"
+ siam_events.47.b: "Сарит Танарат победил!"
+ 
+ siam_events.48.t: "Фибунсонгхрам переживает попытку убийства!"
+ siam_events.48.d: "Премьеру Фибулсункраму выстрелили в челюсти, когда он одевался на работу - одним из своих слуг! Преступник быстро сдался команде безопасности, а Фибулсункрам бросился в тайскую армейскую больницу. Поскольку он был в руках чрезвычайно профессиональной медицинской бригады, он смог быстро восстановиться и сегодня планирует выступить с речью в Тронном зале Ананты Самахом."
+ siam_events.48.a: "Даже железному маршалу стоит быть осторожнее"
+
+# siam_events.49 is hidden
+
+ siam_events.50.t: "Фибиунгхрам убит!"
+ siam_events.50.d: "Премьер Фибулсункрам был застрелен в голову, одеваясь на работу - одним из своих слуг, не меньше, - и умер мгновенно! Следующим был политический вакуум, в котором и Пао Шриандон, начальник секретной полиции, и Сарит Танарат, военный силовик Фибунсхрама, стремились взять власть и выполнить свои собственные амбиции.\n\nПао сам рассматривает монархию как архаичный символ и желает официально объявить республику, в то время как Сарит рассматривает сотрудничество с бывшей династией Чакри как лучшее для страны."
+ 
+ siam_events.51.t: "Сиамские изгнанники в Сайгоне"
+ siam_events.51.d: "После катастрофических результатов Сиамской Гражданской войны несколько тысяч сиамских солдат достигли наших берегов после того, как бежали из Саттахипа на кораблях.\n\nТеперь нам остается только гадать, что делать с этими опытными войсками - приветствие их в наших рядах могло вызвать некоторые трения с нашими лаосскими и камбоджийскими братьями, но если мы этого не сделаем, это может повлиять на нашу военную поддержку, демонстрируя фракционность в наших революционных рядах."
+ siam_events.51.a: "Добро пожаловать в клуб!"
+ siam_events.51.b: "Нам не нужны псевдоимпериалисты."
+ 
+ siam_events.52.t: "Смерть Луанга Фибунсонгхрама"
+ siam_events.52.d.rep: "Премьер Фибулсункрам скончался мирно в своем доме сегодня в [GetDateText] после перенесенного сердечного приступа. Его последние слова были направлены на его жену Ла-Яде Фибунсонгхрама, в которой он сказал: "Любовь, смерть - это действительно блаженство". Из-за отсутствия назначения политического преемника последовал политический вакуум, в котором и Пао Шриандон, начальник секретной полиции, и Сарит Танарат, военный силовик Фибунсхрама, стремились взять власть и выполнить свои собственные амбиции.\n\nСам Пао рассматривает монархию как архаичный символ и желает официально объявить республику, в то время как Сарит рассматривает сотрудничество с бывшей династией Чакри как лучшее для нации."
+ siam_events.52.d.nor: "Премьер Фибулсункрам скончался мирно в своем доме сегодня в [GetDateText] после перенесенного сердечного приступа. Его последние слова были направлены к его жене, Ла-Яде Фибунсонгхраму, в которой он сказал: "Любовь, смерть - это действительно блаженство", в окружении его друзей и семьи.\n\nРождённый, как 'Плаке Хиттасангха' в 1897 году, он получил титул 'Луанг Фибунсонгхрам' из-за его необычайной службы во время сиамской интервенции в Бирме. Он постоянно помогал модернизировать сиамскую армию на протяжении всей своей службы. В его честь было проведено большое шествие во всех четырех ветвях сиамских вооруженных сил в Бангкоке, а улица в городе переименована в шоссе Фибунсонгхрама."
+ siam_events.52.c: "Да упокоится он с миром..."
+ 
+ siam_events.53.t: "Новая оркестровая пьеса короля Праджадхипока"
+ siam_events.53.d: "Сегодня в королевском театре Sala Chalermkrung состоялась премьера третьей песни короля Праджадхипока -  'Kluen Krathop Fang' (Разбивающиеся волны), дирижером которой выступил Пхра Чендуриянг (Пти Ватхаякон) в рамках королевской драмы 'Wiwah Phra Samut' (Невеста Нептуна). \n\nПраджадхипок начал сочинять эту песню в 1931 году, возвращаясь на лодке из дворца Клайкангвон, основываясь на традиционной тайской мелодии с тем же названием. Однако из-за своих королевских обязанностей он не смог закончить оркестровку этого произведения для западных инструментов до недавнего времени."
+ siam_events.53.a: "Такая мощная увертюра"
+ 
+ siam_events.54.t: "Первые женщины-офицеры закончили обучение"
+ siam_events.54.d: "Сегодня первые 28 женщин-офицеров [ROOT.GetSIAprefixEN]ской [SIA.GetProperAdjective]ой армии закончили свой броский тренировочный курс. Будучи прогрессивным по своей природе, все женщины-курсанты были вынуждены проходить одну и ту же учебную программу, как и их коллеги-мужчины, и должны быть на линии фронта, как это делают мужчины, - но будут вынуждены покинуть активную службу, когда они состоят в браке, консерваторами.\n\nОдин из выдающихся новобранцев был вторым лейтенантом Джираватом Фибунсункрамом, старшей дочерью Луанг Фибунсонграма, которая будет служить в компании Суранари, полку Сурийозари в Лопбури, который позднее будет увеличен до размера батальона, если пилотный проект оказались успешными."
+ siam_events.54.a: "Кресла для леди"
+ 
+ siam_events.55.t: "Создание Министерства транспорта"
+ siam_events.55.d.specific: "Первоначально часть Министерства внутренних дел - Департамент автомобильных дорог, Департамент путей сообщения, Департамент воздушного транспорта и Управление порта теперь образуют новое отдельное министерство в целях содействия строительству новых автомагистралей и железных дорог, соединяющих крупные города по всей стране. Будучи амбициозным - в самом министерстве не хватает рабочей силы для выполнения плана самостоятельно. Кто-то предлагает нам нанять тех [SIA_engineers_target.GetAdjective]их инженеров, чтобы помочь нам тем временем, пока те, кого мы отправили учиться за границу, не вернутся домой."
+ siam_events.55.d.fallback: "Первоначально часть Министерства внутренних дел - Департамент автомобильных дорог, Департамент путей сообщения, Департамент воздушного транспорта и Управление порта теперь образуют новое отдельное министерство в целях содействия строительству новых автомагистралей и железных дорог, соединяющих крупные города по всей стране. Будучи амбициозным - в самом министерстве не хватает рабочей силы для выполнения плана самостоятельно. Кто-то предлагает нам нанять тех иностранных инженеров, чтобы помочь нам тем временем, пока те, кого мы отправили учиться за границу, не вернутся домой."
+ siam_events.55.a: "Давайте снова возьмем этих инженеров на работу."
+ siam_events.55.b: "Мы будем стоять на наших собственных ногах."
+ 
+ SIA_engineers_INT: "французских и британских"
+ SIA_engineers_JAP: "японских"
+ SIA_engineers_GER_AUS: "немецких и австрийских"
+ SIA_engineers_GER: "немецуих"
+ SIA_engineers_RUS: "русских"
+ SIA_engineers_USA: "американских"
+ SIA_ministry_of_transportation_tt: "§YМы сможем начать всеобъемлющую программу пересмотра инфраструктуры после того, как решим проблему людских ресурсов.§!\n"
+
+ siam_events.56.t: "Имя дамбы Янхи"
+ siam_events.56.d: "После 3 лет подготовки, скоро начнется первый проект строительства многоцелевой дамбы в Сам Нгао, на реке Пинг, с расчетной мощностью 780 мегаватт. Однако у нас пока не было официального названия этого проекта."
+ siam_events.56.a: "Давайте просто назовем это Дамба Янхи."
+ siam_events.56.b: "Дамба Фибунсонгхрам, в честь нашего славного лидера Чормпон Пор."
+ siam_events.56.c: "[From.GetLeader] дамба, в честь нашего доброжелательного короля."
+ siam_events.56.e: "Дамба Паномионг, в честь нашего великого товарища."
+ siam_events.56.f: "Дамба Хунданпракарнчол, наш защитник от наводнений."
+ siam_events.56.g: "Дамба Прачадипок, в честь нашего доброжелательного короля."
+ siam_events.56.h: "Дамба Ананда, в честь нашего доброжелательного короля."
+ siam_events.56.i: "Дамба Пхумипон, в честь нашего доброжелательного короля."
+ 
+ siam_events.57.t: "Открытие Памятника демократии"
+ siam_events.57.d: "По прошествии 2 лет строительства новый Памятник демократии открыт для посетителей как раз вовремя, чтобы отметить 5-ю годовщину со дня принятия нами первой конституции. По словам Сильпы Бхираси, архитектора, стоящего за новым памятником, \"Мы реконструируем дорогу Ратчадамноен к \"Елисейским полям\" в Бангкоке, с памятником демократии в качестве \"Триумфальной арки\".\n\nСам памятник очень непопулярен среди местных жителей и владельцев магазинов, многие из которых были выселены из своих домов и предприятий в связи с расширением Ратчадамной дороги для создания торжественного бульвара. Тем не менее, он встречается с огромными фанфарами в других местах и используется в качестве инструмента пропаганды для нового [SIA.GetProperAdjective]ого правительства."
+ siam_events.57.a: "Памятник, соответствующий новому статусу Бангкока."
+ 
+ siam_events.58.t: "Открытие нового памятника защите Конституции"
+ siam_events.58.d.left: "\"Прошло 3 года с момента окончания Сиамской Гражданской войны, в которой наши войска во главе с адмиралом Тамронгнавасаватом и '$SIA_radical_socialist_party_CW_long$' двинулись на север и достигли Бангкока, помогая положить конец королевской тирании - и в конце концов сумели отдать власть, в руки народа. Этот новый памятник здесь будет отмечать достижения тех, кто жил и воевал, чтобы увидеть конец войны, и увековечивать память тех, кто не делал этого - но сражался за наши праведные дела.\"\n- Председатель [SIA.GetLeader]"
+ siam_events.58.d.gov: "\"Прошло 3 года с момента окончания Сиамской Гражданской войны, в которой наши войска во главе с фельдмаршалом Фибунсонгкхрамом и '$SIA_authoritarian_democrat_party_khana_ratsadon_long$' снова положили конец тем, кто стремится радикализировать страну для собственных нужд, а следовательно, обеспечение мира и прогресса для нашего собственного народа. Этот новый памятник здесь будет отмечать достижения тех, кто жил и воевал, чтобы увидеть конец войны, и увековечивать память тех, кто не делал этого - но сражался за наши праведные дела.\"\n- Премьер-министр [SIA.GetSecondInCommand]"
+ siam_events.58.d.right: "\"Прошло 3 года с момента окончания Сиамской Гражданской войны, в которой наши войска во главе с принцем Боурадетом и '$SIA_paternal_autocrat_party_CW_long$' двинулись на юг и достигли Бангкока, помогая положить конец красной угрозе, сохранив трон Его Величества и стабильность нашей нации. Этот новый памятник здесь будет отмечать достижения тех, кто жил и воевал, чтобы увидеть конец войны, и увековечивать память тех, кто не делал этого - но сражался за наши праведные дела.\"\n- Президент Тайного совета [SIA.GetSecondInCommand]"
+ siam_events.58.a: "Их будут помнить навсегда."
+ 
+ siam_events.59.t: "Национальный день"
+ siam_events.59.d.coup: "Сегодня все в [SIA.GetNameDefCap] празднуют день, который нам удается захватить власть у коррумпированных немногих и принять первую конституцию, наш первый шаг, который мы предпринимаем, чтобы превратить себя в современную нацию. Мы будем навсегда поддерживать 6 ценностей как диктат в манифесте хана Ратсадона: независимость, общественная безопасность, экономическое процветание, равенство, свобода и образование."
+ siam_events.59.d.granted: "Сегодня все в [SIA.GetNameDefCap] празднуют день, когда король Прачадипок вручил нам первую конституцию, первый шаг к нашему превращению в современную нацию. Мы навсегда сохраним три основные убеждения, которые определяют нашу национальную идентичность: Нация, Религия и Монархия."
+ siam_events.59.a: "Мы продолжаем идти вперед!"
+
+ # Ripping off VicII:
+ siam_events.60.t: "Первые трактора в Аюттхае"
+ siam_events.60.d: "Мама мама! Дядя Даенг купил новую машину! Она может пахать, тянуть, рвать, двигаться, и можно кататься на ней! Он говорит, что это называется 'Рот-тай'!\n\nПосле появления трактора или, как теперь прозвали фермеры как 'Стальной буйвол', в Аюттхае произошла революция в местном сельском хозяйстве, при этом рост сельскохозяйственной продукции увеличился всего лишь поколение назад. Воистину, богатства промышленности хороши для Сиама."
+ siam_events.60.a: "Khun Phra Chuay!"
+ 
+ siam_events.61.t: "За картиной"
+ siam_events.61.d: "[SIA.GetProperAdjective]ий романтический роман Кулапа Сайпрадита, написанный под псевдонимом 'Шри Бурафа'. В нем рассказывается история Нопфона, тайского студента из общего профиля, изучающего в Японии, который встречает и дружит отношения с аристократической дамой Мамой Раджавонсе Кирати, недавно замужней женой. В ситуации после сиамской революции, в которой подчеркивается контраст между обоими персонажами, Нопфон и Кирати развивают романтические чувства, которые они не могут признать, приводя к напряженности, поскольку персонажи сталкиваются с конфликтом между своими чувствами и семейными обязанностями."
+ siam_events.61.a: "Прекрасная новелла."
+ 
+ siam_events.62.t: "Открытие тюрьмы в Тарутао"
+ siam_events.62.d: "После 6 месяцев строительства на остров прибыла первая партия политических заключенных. Будем надеяться, что мы их больше не увидим."
+ siam_events.62.a: "Отправляйся в Тарутао!"
+ 
+ siam_events.63.t: "Пираты Тарутао"
+ siam_events.63.d: "Будучи отрезанными от материкового снабжения и оставленными на их собственных устройствах, как заключенные, так и пенитенциарные работники в Центре коррекции Тарутао прибегли к морскому пиратству в Малаккском проливе, чтобы сохранить себя в живых. После некоторых успешных попыток рейдов, близлежащий гарнизон германских морских пехотинцев из Пенанга сумел успокоить остров и выдать этих заключенных обратно к нам, после того, как мы выплатим им компенсацию за ущерб, который наши люди сделали, конечно..."
+ siam_events.63.a: "Отправьте наш 'комплимент' немцам."
+ siam_events.63.b: "Кого они вообще волнуют?"
+ 
+ siam_events.64.t: "Закат в Чао Прайя"
+ siam_events.64.d: "Другой бестселлер, написанный 'Томайанти', Khu-gaam - трагическая история истории любви между тайской девушкой Ангсумалин, членом Пак Сахачип под псевдонимами Пичит На Сукотаи и немецким капитаном по имени Карл фон Штаффер, низкий немецкий аристократ в служении ост-азиатского флота.\n\nЭта история обостряется во время восстания в Индокитае, где происходят их роковые встречи и прощания, когда климакс произошел во время неожиданного государственного переворота в 1942 году."
+ siam_events.64.a: "Так вот откуда пошло увлечение 'Адалеиды'..."
+ 
+ siam_events.65.t.default: "[SIA.GetProperAdjective]о-английский словарь Сор Сеттхабута"
+ siam_events.65.t.royalist: "[SIA.GetProperAdjective]о-английский словарь Луанг Махаситивоарна"
+ siam_events.65.d.tarutao: "Составленная Сор Сеттхабут (бывший Луанг Махаситивоарн), один из политических заключенных в Тарутао, с рукописью, переданные его матери в одном из ее посещений тюрьмы. Опираясь на свое время, когда он был студентом британской школы в Великобритании, его версия 'Патанукром' высоко ценит образовательный круг как самый полный [SIA.GetProperAdjective]о-английский словарь, когда-либо написанный."
+ siam_events.65.d.bangkhwang: "Составленная Сор Сеттхабут (бывший Луанг Махаситивоарн), один из политических заключенных в Тарутао, с рукописью, переданные его матери в одном из ее посещений тюрьмы. Опираясь на свое время, когда он был студентом британской школы в Великобритании, его версия 'Патанукром' высоко ценит образовательный круг как самый полный [SIA.GetProperAdjective]о-английский словарь, когда-либо написанный."
+ siam_events.65.d.default: "Составленная Сор Сеттхабут (бывший Луанг Махаситивоарн), который сейчас работает одним из журналистов в Bangkok Daily Mail, его новая книга дебютировала сегодня с большим успехом и быстро разошлась, как только она попала на полки. На основании его времени, когда он был студентом Королевской стипендии в Великобритании, его версия "Патанукром" высоко ценится среди профессионалов в области образования как самый полный [SIA.GetProperAdjective]о-английский словарь, когда-либо написанный."
+ siam_events.65.d.royalist: "Составленная Луанг Махаситивоарном (Сор Сеттхабут), одной из восходящих звезд нового тайного совета, его новая книга сегодня дебютировала с большим успехом и была быстро распродана, как только она попала на полки. На основании его времени, когда он был студентом Королевской стипендии в Великобритании, его версия "Pathanukrom" высоко ценится среди профессионалов в области образования как самый полный [SIA.GetProperAdjective]о-английский словарь, когда-либо написанный."
+ siam_events.65.a: "Такой позор, что он был диссидентом."
+ siam_events.65.b: "Великолепное литературное произведение."
+
+ # siam_events.66 is hidden
+ 
+ siam_events.67.t: "[SIA.GetNameDefCap] предлагает безоговорочную капитуляцию"
+ # Faction leader:
+ siam_events.67.d.default: "Сегодня [SIA.GetSIAshortname] прислал нам дипломатического посланника с просьбой провести переговоры об условной капитуляции. Их войска немедленно прекратят боевые действия, уступят ключевые территории и заплатят нам огромную сумму военных репараций - все, что они просят взамен, это чтобы мы гарантировали им независимость от будущей иностранной агрессии."
+ # Faction member, leader accepted peace:
+ siam_events.67.d.faction_peace: "Несколько дней назад [SIA.GetSIAshortname] направил нашей фракции дипломатического посланника с просьбой провести переговоры об условной капитуляции. В то время как [FROM.GetNameDef] решил принять [SIA.GetProperAdjective]ое мирное предложение, которое включает в себя военные репарации и немедленное прекращение военных действий между нашими и самими [SIA.GetProperAdjective] - теперь от нас зависит, хотим мы продолжать войну самостоятельно или нет."
+ # Faction member, leader refused peace:
+ siam_events.67.d.faction_war: "Несколько дней назад [SIA.GetSIAshortname] направил нашей фракции дипломатического посланника с просьбой провести переговоры об условной капитуляции. В то время как [FROM.GetNameDef] решил проигнорировать [SIA.GetProperAdjective]ое мирное предложение, которое включает в себя военные репарации и немедленное прекращение военных действий между нашими и самими [SIA.GetProperAdjective] - теперь от нас зависит, хотим мы продолжать такую ненужную войну или нет."
+ siam_events.67.a: "Да, давайте закончим эту войну."
+ siam_events.67.b: "Нет, они должны быть раздавлены."
+ 
+ siam_events.68.t: "[FROM.GetNameDefCap] отказывается от мира"
+ siam_events.68.d: "[FROM.GetNameDefCap] отказалась от предложения мира, которое наш дипломатический представитель представил им."
+ siam_events.68.a: "О нет..."
+ 
+ siam_events.69.t: "[FROM.GetNameDefCap] бросает вызов нашему лидерству"
+ # FROM won't accept the peace:
+ siam_events.69.d.peace: "Вопреки нашим ожиданиям, [FROM.GetNameDef] решил проигнорировать наше решение о войне против [SIA.GetSIAshortname]а и попытался продолжить войну самостоятельно."
+ # FROM won't continue the war:
+ siam_events.69.d.war: "Вопреки нашим ожиданиям, [FROM.GetNameDef] решил проигнорировать наше решение о войне против [SIA.GetSIAshortname]а и попытался принять предложение о мире, не желая продолжать такой ненужный конфликт."
+ siam_events.69.a: "Вместо этого мы будем их поддерживать."
+ siam_events.69.b: "Хорошо, пусть будет мир."
+ siam_events.69.c: "Тогда они сами по себе."
+ 
+ siam_events.70.t.peace: "Безоговорочная капитуляция вступает в силу"
+ siam_events.70.t.no_peace: "В безоговорочной капитуляции отказано"
+ siam_events.70.d.peace: "Наши враги решили воспользоваться нашим предложением мира. В то время как мы будем находиться в тени их сапогов в течение следующих нескольких лет как гарантия того, что мы последуем за оговоренными в договоре деталями, мы можем надеяться только на то, что в будущем мы сможем избежать повторного впадения в состояние военного авантюризма."
+ siam_events.70.d.no_peace: "Наша мирная авантюра сейчас провалилась, и мы можем сражаться до последнего."
+ siam_events.70.a: "По крайней мере, мы по-прежнему независимы..."
+ siam_events.70.b: "Катастрофа!"
+ 
+ siam_events.71.t: "[FROM.GetNameDefCap] сдается"
+ siam_events.71.d.faction: "Находясь на грани краха, [SIA.GetNameDef] вместо организации правительства в изгнании предпочел заключить отдельный мирный договор с нашими врагами."
+ siam_events.71.d.faction_leader: "Находясь на грани краха, [SIA.GetNameDef] вместо того, чтобы организовать с нами правительство в изгнании, предпочел заключить отдельный мирный договор с нашими врагами. Это будет иметь серьезные последствия для наших военных усилий и разоблачения наших флангов в Индокитайском театре."
+ siam_events.71.a: "Что ж, это было неожиданно."
+ siam_events.71.b: "Предатели!"
+ 
+ siam_events.72.t: "Мир с [FROM.GetNameDefCap]"
+ siam_events.72.d.reparations: "Наша сделка с [SIA.GetSIAshortname]ом теперь вступила в силу, и их первый взнос в виде военных репараций теперь находится в нашей собственной казне."
+ siam_events.72.d.no_reparations: "Наша сделка с [SIA.GetSIAshortname]ом вступила в силу."
+ siam_events.72.a: "Отлично."
+
+ siam_events.74.t: "[From.GetNameDefCap] Requests to Join Us"
+ siam_events.74.d: "As the revolutionary fires sweep through Asia, the need for solidarity and cooperation among the newly emancipated peoples becomes more and more evident. Aware of the dangers of remaining neutral in the quickly changing global scene, our comrades from [From.GetNameDef] have requested to join us. Accepting this request would extend our influence in Southeast Asia, a region vital for our strategic interests. However, voices of dissent have warned about entanglement in unnecessary foreign ventures."
+ siam_events.74.a: "We welcome our [From.GetAdjectiveCap] comrades."
+ siam_events.74.b: "This is unnecessary, let’s reject their petition."
+
+ siam_events.75.t: "[From.GetNameDefCap] Accepts!"
+ siam_events.75.d: "As we expected, [FROM.GetNameDef] has accepted our request to join the [From.GetFactionName], setting in stone the growing ties between our nations. Whatever the future holds, we shall weather the storm together."
+ siam_events.75.a: "We stand united."
+
+ siam_events.76.t: "[From.GetNameDefCap] Refuses"
+ siam_events.76.d: "In an unexpected and disappointing move [FROM.GetNameDef] has rejected our request to join them, and now we find ourselves further isolated from global affairs."
+ siam_events.76.a: "Disappointing, but perhaps there are alternatives."
+
+## Songkran Flavour ##
+ siam_events.77.t: "Songkran Day"
+ siam_events.77.d: "[SIA_songkran_day_event_desc]"
+ siam_events.77.a: "[SIA_songkran_day_event_option]"
+
+## Initial Black Monday ##
+ siam_events.77.d.bm: "In the wake of the turmoil caused by Black Monday, a serene atmosphere enveloped [SIA.GetSIAshortname] today as the Songkran festival commenced. Families congregated at local temples to present offerings to the monks. Elders engaged in the traditional ritual of water pouring over Buddha statues, symbolising purification and the eradication of misfortunes and transgressions. As the celebration carry on into the afternoon, the streets buzzed with excitement as people of all ages partook in jubilant water fights, a festive highlight that continued into the evening.\n\nAmidst these celebrations, King [SIA.GetLeader] addressed the nation via radio, exhorting unity in the face of adversity. He reassured the citizens that together they would surmount the current crisis, just as they had overcome any crisis that had befell them." #temp
+## Khana Ratsadon Coup ##
+ siam_events.77.d.krc.SocDem: "The Khana Ratsadon Coup has happened. And they've elected Pridi." #temp
+ siam_events.77.d.krc.SocLib: "The Khana Ratsadon Coup has happened. And they've elected Sawaet." #temp
+ siam_events.77.d.krc.SocCon: "The Khana Ratsadon Coup has happened. And they've elected Pramoj." #temp
+ siam_events.77.d.krc.bmr.SocDem: "The Khana Ratsadon Coup has happened. And they've elected Pridi. Also the economy is recovering." #temp
+ siam_events.77.d.krc.bmr.SocLib: "The Khana Ratsadon Coup has happened. And they've elected Sawaet. Also the economy is recovering." #temp
+ siam_events.77.d.krc.bmr.SocCon: "The Khana Ratsadon Coup has happened. And they've elected Pramoj. Also the economy is recovering." #temp
+ siam_events.77.d.krc.bmo.SocDem: "The Khana Ratsadon Coup has happened. And they've elected Pridi. Also the economy is recovered." #temp
+ siam_events.77.d.krc.bmo.SocLib: "The Khana Ratsadon Coup has happened. And they've elected Sawaet. Also the economy is recovered." #temp
+ siam_events.77.d.krc.bmo.SocCon: "The Khana Ratsadon Coup has happened. And they've elected Pramoj. Also the economy is recovered." #temp
+## Prajadhipok Constitution ##
+ siam_events.77.d.constitution: "The King had given us a constitution. With election being planned to held this year." #temp
+ siam_events.77.d.constitution.bmr: "The King had given us a constitution. With election being planned to held this year. Also the economy begun to recovered for a bit."
+ siam_events.77.d.constitution.bmr.SocDem: "Pridi is in charge and we're recovering" #temp
+ siam_events.77.d.constitution.bmr.SocLib: "Sawaet is in charge and we're recovering." #temp
+ siam_events.77.d.constitution.bmr.SocCon: "Pramoj is in charge and we're recovering." #temp
+ siam_events.77.d.constitution.bmr2.SocDem: "Pridi is in charge and we're recovering. Part 2" #temp
+ siam_events.77.d.constitution.bmr2.SocLib: "Sawaet is in charge and we're recovering. Part 2" #temp
+ siam_events.77.d.constitution.bmr2.SocCon: "Pramoj is in charge and we're recovering. Part 2" #temp
+ siam_events.77.d.constitution.bmo.SocDem: "Pridi is in charge and we've recovered." #temp
+ siam_events.77.d.constitution.bmo.SocLib: "Sawaet is in charge and we've recovered." #temp
+ siam_events.77.d.constitution.bmo.SocCon: "Pramoj is in charge and we're recovered." #temp
+ siam_events.77.d.constitution.RamaVII.neutral: "King Prajadhipok had urged calm as the world found itself at war, and he told us to enjoy Songkran, while we still can." #temp
+ siam_events.77.d.constitution.RamaVII.war.faction: "King Prajadhipok had called for unity in the face of war on Songkran. Also we're in a faction." #temp
+ siam_events.77.d.constitution.RamaVII.war: "King Prajadhipok had called for unity in the face of war on Songkran." #temp
+ siam_events.77.d.constitution.RamaVII.peace: "Peace is upon Siam, and King Prajadhipok couldn't be more happy." #temp
+ siam_events.77.d.constitution.RamaVII.peace.faction: "Peace is upon Siam, and King Prajadhipok couldn't be more happy. We're also in a faction." #temp
+ siam_events.77.d.constitution.RamaVII.peace.neautral: "Peace is upon Siam, and King Prajadhipok couldn't be more happy. We're also neutral the whole way."
+ siam_events.77.d.constitution.RamaVIII.neutral: "King Prajadhipok had passed away and Ananda Mahidol was crowned the new king. As the war is waged around the neutral nation. The King had urged calm and called for celebration of Songkran while the world around them are blowing up." #temp
+ siam_events.77.d.constitution.RamaVIII.war: "King Ananda Mahidol had called for unity in the face of war on Songkran." #temp
+ siam_events.77.d.constitution.RamaVIII.peace: "Peace is upon Siam, and King Ananda Mahidol couldn't be more happy." #temp
+ siam_events.77.d.constitution.RamaVIII.peace.faction: "Peace is upon Siam, and King Ananda Mahidol couldn't be more happy. We're also in a faction." #temp
+ siam_events.77.d.constitution.RamaIX.neutral: "King Ananda Mahidol had passed away and Bhumibol was crowned the new king. As the war is waged around the neutral nation. The King had urged calm and called for celebration of Songkran while the world around them are blowing up." #temp
+ siam_events.77.d.constitution.RamaIX.war: "King Bhumibol had called for unity in the face of war on Songkran." #temp
+ siam_events.77.d.constitution.RamaIX.peace: "Peace is upon Siam, and King Bhumibol couldn't be more happy." #temp
+ siam_events.77.d.constitution.RamaIX.peace.faction: "Peace is upon Siam, and King Bhumibol couldn't be more happy. We're also in a faction." #temp
+## Civil War Socialist Republic Victory in Thamrongnawasawat Rebellion ##
+ siam_events.77.d.SocRep: "This is siam_events.77.d.SocRep" #temp
+ siam_events.77.d.SocRep.bmr: "This is siam_events.77.d.SocRep.bmr" #temp
+ siam_events.77.d.SocRep.bmo: "This is siam_events.77.d.SocRep.bmo" #temp
+## Civil War Royalist Victory in Thamrongnawasawat Rebellion ##
+ siam_events.77.d.royalist: "This is siam_events.77.d.royalist" #temp
+ siam_events.77.d.royalist.bmr: "This is siam_events.77.d.royalist.bmr" #temp
+ siam_events.77.d.royalist.bmo: "This is siam_events.77.d.royalist.bmo" #temp
+## Civil War Boworadet Victory in Boworadet Rebellion ##
+ siam_events.77.d.boworadet: "This is siam_events.77.d.boworadet" #temp
+ siam_events.77.d.boworadet.bmr: "This is siam_events.77.d.boworadet.bmr" #temp
+ siam_events.77.d.boworadet.bmo: "This is siam_events.77.d.boworadet.bmo" #temp
+## Civil War Parliamentarian Victory in Boworadet Rebellion ##
+ siam_events.77.d.parliamentarian: "This is siam_events.77.d.parliamentarian" #temp
+ siam_events.77.d.parliamentarian.bmr: "This is siam_events.77.d.parliamentarian.bmr" #temp
+ siam_events.77.d.parliamentarian.bmo: "This is siam_events.77.d.parliamentarian.bmo" #temp
+## Phibun in control ##
+ siam_events.77.d.phibun: "This is siam_events.77.d.phibun" #temp
+ siam_events.77.d.phibun.bmr: "This is siam_events.77.d.phibun.bmr" #temp
+ siam_events.77.d.phibun.bmo: "This is siam_events.77.d.phibun.bmo" #temp
+## Phibun gave up power ##
+ siam_events.77.d.phibungaveup: "This is siam_events.77.d.phibungaveup" #temp
+ siam_events.77.d.phibungaveup.bmr: "This is siam_events.77.d.phibungaveup.bmr" #temp
+ siam_events.77.d.phibungaveup.bmo: "This is siam_events.77.d.phibungaveup.bmo" #temp
+## Phao in control ##
+ siam_events.77.d.phao: "This is siam_events.77.d.phao" #temp
+ siam_events.77.d.phao.bmr: "This is siam_events.77.d.phao.bmr" #temp
+ siam_events.77.d.phao.bmo: "This is siam_events.77.d.phao.bmo" #temp
+## Sarit in control ##
+ siam_events.77.d.sarit: "This is siam_events.77.d.sarit" #temp
+ siam_events.77.d.sarit.bmr: "This is siam_events.77.d.sarit.bmr" #temp
+ siam_events.77.d.sarit.bmo: "This is siam_events.77.d.sarit.bmo" #tem
+## Boriphat in control ## Is it Boriphat or Paribatr, also why are we communicating in English when we can just speak Thai?
+ siam_events.77.d.boriphat: "This is siam_events.77.d.boriphat" #temp
+ siam_events.77.d.boriphat.bmr: "This is siam_events.77.d.boriphat.bmr" #temp
+ siam_events.77.d.boriphat.bmo: "This is siam_events.77.d.boriphat.bmo" #temp
+## Answer ##
+## Initial BM ##
+ siam_events.77.a.bm: "We've endured far worse than this!"
+## Khana Ratsadon Coup ##
+ siam_events.77.a.krc: "We'll make this country great again!" #temp
+ siam_events.77.a.krc.bmr: "Slow and Steady wins the race!" #temp
+ siam_events.77.a.krc.bmo: "We're thriving here!" #temp
+## Prajadhipok Constitution ##
+ siam_events.77.a.constitution: "So begins the democratic process!" #temp
+ siam_events.77.a.constitution.bmr: "So begins the democratic process and economy had recovered!"
+ siam_events.77.a.constitution.bmr.SocDem: "Woooo!" #temp
+ siam_events.77.a.constitution.bmr.SocLib: "Awesome!" #temp
+ siam_events.77.a.constitution.bmr.SocCon: "Great!" #temp
+ siam_events.77.a.constitution.bmr2.SocDem: "Yes baby!" #temp
+ siam_events.77.a.constitution.bmr2.SocLib: "Perfect!" #temp
+ siam_events.77.a.constitution.bmr2.SocCon: "A Great occasion." #temp
+ siam_events.77.a.constitution.bmo.SocDem: "Pridi is in charge and we've recovered." #temp
+ siam_events.77.a.constitution.bmo.SocLib: "Sawaet is in charge and we've recovered." #temp
+ siam_events.77.a.constitution.bmo.SocCon: "Pramoj is in charge and we're recovered." #temp
+ siam_events.77.a.constitution.RamaVII.neutral: "King Prajadhipok will see us through neutrality period." #temp
+ siam_events.77.a.constitution.RamaVII.war: "King Prajadhipok will see us through war period." #temp
+ siam_events.77.a.constitution.RamaVII.peace: "King Prajadhipok had see us through the war. Now let's enjoy peace." #temp
+ siam_events.77.a.constitution.RamaVIII.neutral: "King Ananda Mahidol will see us through neutrality period." #temp
+ siam_events.77.a.constitution.RamaVIII.war: "King Ananda Mahidol will see us through war period." #temp
+ siam_events.77.a.constitution.RamaVIII.peace: "King Ananda Mahidol had see us through the war. Now let's enjoy peace." #temp
+ siam_events.77.a.constitution.RamaIX.neutral: "King Bhumibol will see us through neutrality period." #temp
+ siam_events.77.a.constitution.RamaIX.war: "King Bhumibol will see us through war period." #temp
+ siam_events.77.a.constitution.RamaIX.peace: "King Bhumibol had see us through the war. Now let's enjoy peace." #temp
+## Civil War Socialist Republic Victory in Thamrongnawasawat Rebellion ##
+ siam_events.77.a.SocRep: "Trust Pridi." #temp
+ siam_events.77.a.SocRep.bmr: "Keep trusting Pridi." #temp
+ siam_events.77.a.SocRep.bmo: "In Pridi. We Trust." #temp
+## Civil War Royalist Victory in Thamrongnawasawat Rebellion ##
+ siam_events.77.a.royalist: "The Royalist will fixed the nations!" #temp
+ siam_events.77.a.royalist.bmr: "The Royalist is fixing the economy!" #temp
+ siam_events.77.a.royalist.bmo: "The Royalist had fixed the nations!" #temp
+## Civil War Boworadet Victory in Boworadet Rebellion ##
+ siam_events.77.a.boworadet: "Boworadet had saved the nation!" #temp
+ siam_events.77.a.boworadet.bmr: "Boworadet is fixing the economy!" #temp
+ siam_events.77.a.boworadet.bmo: "Boworadet had fixed the economy!" #temp
+## Civil War Parliamentarian Victory in Boworadet Rebellion ##
+ siam_events.77.a.parliamentarian: "We shall never bow to the tyrants!" #temp
+ siam_events.77.a.parliamentarian.bmr: "We are fixing the economy!" #temp
+ siam_events.77.a.parliamentarian.bmo: "We have fixed the economy!" #temp
+## Phibun in control ##
+ siam_events.77.a.phibun: "We salute the Iron Marshal" #temp
+ siam_events.77.a.phibun.bmr: "The Iron Marshal is fixing the economy" #temp
+ siam_events.77.a.phibun.bmo: "The Iron Marshal fixed the economy" #temp
+## Phibun gave up power ##
+ siam_events.77.a.phibungaveup: "The Iron Marshal saved the nation's democracy." #temp
+ siam_events.77.a.phibungaveup.bmr: "We're fixing the economy" #temp
+ siam_events.77.a.phibungaveup.bmo: "We've fixed the economy" #temp
+## Phao in control ##
+ siam_events.77.a.phao: "Phao hailed in a new Republic" #temp
+ siam_events.77.a.phao.bmr: "Phao is fixing the economy" #temp
+ siam_events.77.a.phao.bmo: "Phao had fixed the economy" #temp
+## Sarit in control ##
+ siam_events.77.a.sarit: "Sarit had restored order." #temp
+ siam_events.77.a.sarit.bmr: "Sarit is fixing the economy." #temp
+ siam_events.77.a.sarit.bmo: "Sarit had fixed the economy." #temp
+## Boriphat in control ## Is it Boriphat or Paribatr, also why are we communicating in English when we can just speak Thai?
+ siam_events.77.a.boriphat: "Boriphat had usurped the throne." #temp
+ siam_events.77.a.boriphat.bmr: "Boriphat is fixing the economy." #temp
+ siam_events.77.a.boriphat.bmo: "Boriphat had fixed the economy." #temp
+
+## Second Weltkrieg Reaction ## Either Russia invades Germany, or the French, or the Germans goes on the attack. Idk pick a plot.
+ siam_events.78.t: "A War in Europe"
+ siam_events.78.d.neutral: "We must preserve our neutral status." #temp
+ siam_events.78.d.sphere: "Time to liberate Asia." #temp
+ siam_events.78.d.reichpakt: "We must preserve the old order." #temp
+ siam_events.78.d.socialist: "The time has come." #temp
+ siam_events.78.a.neutral: "If we stand incredibly still they will not see us." #temp
+ siam_events.78.a.sphere: "The time for us Asians had come." #temp
+ siam_events.78.a.reichpakt: "We must stop the Japanese." #temp
+ siam_events.78.a.socialist: "Times for the Workers to rise!" #temp
+
+## Nation at war ## Probaly when the Eastern Sea War kicks in, or when Siam find themselves at war.
+ siam_events.79.t: "War founds its way to Siam"
+ siam_events.79.d.war.neutral: "We're at war and we're neutral." #temp
+ siam_events.79.d.war.sphere: "We're at war and we're with Japan." #temp
+ siam_events.79.d.war.reichpakt: "We're at war and we're with Germany." #temp
+ siam_events.79.d.war.socialist: "We're at war and we're proclaiming the world revolution." #temp
+ siam_events.79.a.war.neutral: "So you've awaken the elephant in the room." #temp
+ siam_events.79.a.war.sphere: "Time to strike the Germans!" #temp
+ siam_events.79.a.war.reichpakt: "We must defend our territory from the Japanese at all cost." #temp
+ siam_events.79.a.war.socialist: "Time to spread the Workers Revolution!" #temp
+
+## Peace on Siam ## Probably when the Eastern Sea War Ended?, I have no idea how this last one will be implemented.
+ siam_events.80.t: "Peace for the Nation"
+ siam_events.80.d.peace.neutral: "We're finally at peace. And we're neutral." #temp
+ siam_events.80.d.peace.sphere: "We're finally at peace. And we're with Japan." #temp
+ siam_events.80.d.peace.reichpakt: "We're finally at peace and we're with Germany." #temp
+ siam_events.80.d.peace.socialist: "We're finally at peace and the world revolution succeeded." #temp
+ siam_events.80.a.peace.neutral: "Yay 1" #temp
+ siam_events.80.a.peace.sphere: "Yay 2" #temp
+ siam_events.80.a.peace.reichpakt: "Yay 3" #temp
+ siam_events.80.a.peace.socialist: "Yay 4" #temp
+ 
+ ### News Events ###
+ siam_events.200.t: "Государственный переворот в Сиаме"
+ siam_events.200.d: "Сегодня, клика офицеров и интеллигенции, которые называют себя $SIA_authoritarian_democrat_party_khana_ratsadon_long$ успешно провели переворот и взяли правительство под контроль. Ключевые члены взяты под арест, а сам король, который в это время не находился в Бангкоке, добровольно вернулся в столицу и принял свою судьбу.\n\nНовый премьер-министр выступил с заявлением, в котором объявил, что это был не военный переворот, а скорее мирная передача власти на время принятия конституции."
+ siam_events.200.a: "Интересно."
+
+ siam_events.201.t: "Новая Конституция Сиама"
+ siam_events.201.d: "Король Сиама Прачадипок официально опубликовал первую конституцию этого многовекового королевства в Юго-Восточной Азии. Вдохновленный японской конституцией эпохи Медзи и правительством Германии, он ставит короля и простых людей выше могущественной королевской семьи, которая в значительной степени контролирует Его величество.\n\nВ своем сегодняшнем заявлении премьер-министр Прайя Манопакорн Нититхада подтвердил, что его попросили сформировать временное правительство для проведения предстоящих выборов, в то время как старый кабинет медленно, но верно уходит в отставку."
+ siam_events.201.a: "Похоже, мы идем в ногу со временем."
+
+ siam_events.202.t: "Восстание Боворадета"
+ siam_events.202.d: "Недавняя революция в Сиаме, хотя и была внешне успешной, привела к резкому падению ее популярности. Воспользовавшись скандальным \"досье в желтой обложке\" - так прозвали предлагаемый план по перестройке национальной экономической системы и национализации многих отраслей промышленности - была создана \"красная угроза\".\n\nВ то время как главнокомандующий армией Луанг Пибунсонгкрам заявил о своей лояльности парламенту, принц Боворад организовал вооруженный мятеж на севере страны. Провозгласив себя и своих подчиненных $SIA_paternal_autocrat_party_CW_long$, он начал марш в сторону Бангкока. Быстрая мобилизация правительственных сил привела к двухдневному противостоянию, которое быстро переросло в полномасштабную войну между обеими сторонами."
+ siam_events.202.a: "Гражданская война охватила Сиам..."
+ siam_events.202.b: "Последние вздохи реакционеров."
+ siam_events.202.c: "Может немного подкинем снаряжения роялистам?"
+ siam_events.202.e: "Последние вздохи пронемецкой клики?"
+ siam_events.202.f_gov: "Мы подавим этих мятежников!"
+ siam_events.202.f_reb: "За короля и страну!"
+
+ siam_events.203.t: "Восстание Тамронгнавасавата"
+ siam_events.203.d: "Недавняя сиамская революция, несмотря на свой внешний успех, привела к резкому падению популярности. Воспользовавшись спорным 'Досье с желтой обложкой' - прозвищем для предложенного плана по перестройке национальных экономических систем и национализации многих отраслей промышленности - была запущена "красная паника".\n\nНачальник армии Луанг Пибунсонгкрам поклялся в верности королю. С другой стороны, Луанг Тхамронгнавасават и некоторые недовольные морские офицеры организовали вооруженный мятеж на юге страны. Объявив себя 'Хана Покпонг Прачатипатай' (Партия защиты Демократии), они прошли маршем по Бангкоку. Развал военного истеблишмента знаменует начало тотальной Гражданской войны в Сиаме."
+ siam_events.203.a: "Этого нельзя было не заметить."
+ siam_events.203.b: "Мы поддерживаем товарищей-социалистов!"
+ siam_events.203.c: "Проинформируйте Сингапур об укреплении границы с Сиамом."
+ siam_events.203.e: "Социалистическим повстанцам не место в Азии."
+ siam_events.203.f_gov: "Синдикалисты показали свое истинное лицо!"
+ siam_events.203.f_reb: "Мы раз и навсегда уничтожим старый порядок!"
+
+ siam_events.204.t: "Путч Пибун Сонгкрама"
+ siam_events.204.d: "И хотя Сиам захлестнула революция, в скором времени роялисты устроили контрреволюцию, воспользовавшись бездействием парламентаристов.\n\nГенерал Пибун Сонгкрам вовремя вмешался и не допустил гражданской войны, объявив военное положение по всей стране. Он будет управлять страной до тех пор, пока народ действительно не будет готов к демократии и всей её ответственности."
+ siam_events.204.a: "И когда он будет готов?"
+
+ siam_events.205.t: "37-ая Сиамо-Бирмская война"
+ siam_events.205.d: "Новый популистический режим Пибун Сонгкрама объявил войну Бирме, посчитав анти-сиамскую пропаганду с её стороны поводом к действию.\n\nПо правде сказать, Сиам повёл себя как агрессор, нарушив подписанные договоры 1929 и оккупировав часть Бирмы. Сами Бирманцы видят войну как попытку Сиама утвердить свою гегемонию в регионе и побороться во влиянии с европейскими державами."
+ siam_events.205.a: "Они точно ненавидят друг друга до мозга костей."
+
+ siam_events.206.t: "Парламентаристы победили в Сиаме""
+ siam_events.206.d: "Сегодня на улицах Бангкока стихли случайные столкновения, поскольку Парламентаристы наконец взяли город под свой контроль. Было подтверждено, что король Рама VII был эвакуирован в Сингапур всего несколько часов назад, а местонахождение других крупных правительственных деятелей до сих пор неизвестно.\n\nВернувшись в город, торжествующий Приди Паномионг (бывший Луанг Прадитманутам) провозгласил себя новым премьер-министром после единогласного голосования парламента. В своей речи новый премьер-министр объявил о начале программы \"Национального восстановления\", что ознаменовало возможный поворот Сиама внутрь страны. Приход к власти новой синдикалистской силы означает отход от германо-японских игр за власть, которые доминировали в регионе."
+ siam_events.206.a: "Новая республика родилась из пепла."
+ siam_events.206.b: "Наши новые товарищи в Азии."
+ siam_events.206.c: "Еще один синдикалистский режим, скрывающийся за демократическим фасадом."
+ siam_events.206.e: "Возможно, мы могли бы больше поддерживать роялистов..."
+ siam_events.206.f: "Нас ждет новый рассвет!"
+
+ siam_events.207.t: "Роялисты победили в Сиаме"
+ siam_events.207.d: "Сегодня на улицах Бангкока стихли беспорядочные бои, поскольку роялисты наконец взяли город под свой контроль, вынудив Луанга Прадитманутама и других республиканцев спешно сесть на корабль, направляющийся в Сайгон.\n\nХотя видные члены королевской семьи, которые ранее занимали руководящие посты в правительстве, на этот раз официально отказались вступить в должность, они по-прежнему обладают огромной властью. Они, вероятно, усилят свой контроль над королем Прачадипоком после провала его демократических реформ. Прачадипок и будущие сиамские монархи почти наверняка будут \"отклоняться\" от демократии в будущем."
+ siam_events.207.a: "Шаг назад к абсолютизму?"
+ siam_events.207.b: "Наши спасенные сиамские товарищи будут сражаться и дальше!"
+ siam_events.207.c: "Еще один оплот в Азии обеспечен."
+ siam_events.207.e: "Еще одна немецкая пешка в Азии, со временем мы их уничтожим."
+ siam_events.207.f: "Старый порядок торжествует!"
+
+ siam_events.208.t: "Восстановление порядка в Сиаме"
+ siam_events.208.d: "Силы под командованием Луанга Пибун Сонгкрама, прозванного \"Железным маршалом\", сегодня полностью уничтожили последних мятежников в Сиаме. После того, как повстанцы были отброшены за пределы Бангкока, правительственные войска стремительно ворвались в их опорные пункты и окружили всех, кого смогли найти.\n\nМногие из этих заключенных отправятся в тюрьму Тарутао, расположенную вдали от материка, на острове, окруженном водами, кишащими акулами. Тем временем временный Кхана Ратсадон ушел в отставку, заявив, что настало время вернуть бизнес в стране в нормальное русло."
+ siam_events.208.a: "Они пришли к статусу-кво."
+ siam_events.208.b_gov: "Прогерманский план остановлен на корню."
+ siam_events.208.b_reb: "Наши спасенные сиамские товарищи будут сражаться еще сутки!"
+ siam_events.208.c_gov: "Угроза со стороны синдикалистов нейтрализована."
+ siam_events.208.c_reb: "Мы могли бы больше поддерживать наших союзников-роялистов..."
+ siam_events.208.e: "Угрозы нашему потенциальному союзнику побеждены."
+ siam_events.208.f: "Время восстанавливаться и оплакивать наши потери."
+
+###################################
+##
+## NEW BLACK MONDAY (ID 1000-1199)
+##
+###################################
+
+###################################
+##
+## NEW PHIBUN EVENTS (ID 2000-2999)
+##
+###################################
+
+ siam_events.2001.t: "Заговор внутри армии?"
+ siam_events.2001.d: "Хотя консолидация нашего режима прошла без сбоев, было бы неправильно удерживать тех командиров, которые могут представлять опасность для нашего нового режима. Нападая на Фрая Сонгсурадета, непосредственного соперника Фибуна по легитимности, он полностью сокрушит демократического сторонника в армии, то же самое можно сказать и о Фрае Шриттисонгхраме и его соратниках-роялистах. Систематическая чистка одной из этих фракций, надеемся, будет достаточной, чтобы заставить замолчать другую."
+ siam_events.2001.a: "Сонгсурадет должен уйти..."
+ siam_events.2001.b: "... и угроза роялистов тоже."
+
+##############################
+##
+## LEGAVY EVENTS (ID 6000-6999)
+##
+##############################
+
+## Sucession Line (Paribatra & Mahidol) ##
+ # For Mahidol line - although Rama VII himself is of the Sakdidej line:
+ siam_events.6013.t: "Смерть Рамы VII"
+ siam_events.6013.d: "Король Праджадхипок из [SIA.GetName], также известный как Рама VII - 7-й монарх Дома Чакри - умер сегодня утром из-за сердечной недостаточности. Бездетного монарха сменит его племянник Ананда Махидол, который принял царственное имя Рама VIII."
+ siam_events.6013.d.plaek: "Король Праджадхипок из [SIA.GetName], также известный как Рама VII - 7-й монарх Дома Чакри - умер сегодня утром из-за пневмонии во время его пребывания в изгнании. Бездетного монарха сменит его племянник Ананда Махидол, который принял царственное имя Рама VIII."
+ siam_events.6013.d.rep: "Праджадхипок Сакдидедж на Аюттхая, бывший король Праджадхипок из [SIA.GetName], также известный как Рама VII - 7-й монарх Дома Чакри - умер сегодня утром из-за пневмонии во время пребывания в изгнании. Бездетного монарха сменит его племянник Ананда Махидол на Аюттхая, который принял царственное имя Рама VIII как претендент на [SIA.GetProperAdjective]ий трон."
+ siam_events.6013.a: "Да упокоится он с миром."
+ 
+ # Boripatr (?)
+ siam_events.6014.t: "Схема Парибатры Сухумбханда"
+ siam_events.6014.d: "Новый король еще молод и в настоящее время вдали от дома учится в Швейцарии. Должны ли мы взять на себя инициативу и быстро захватить трон и титул Короля [SIA.GetSIAshortname]? В конце концов, мы не можем рассчитывать на то, что он поведет нас сквозь войну."
+ siam_events.6014.a: "Трон для нас пуст."
+ siam_events.6014.b: "Мы должны оставаться верными законному королю."
+ 
+ # Mahidol
+ siam_events.6015.t: "Смерть Рамы VIII"
+ siam_events.6015.d: "Король Ананда Махидол из [SIA.GetName], также известный как Рама VIII - восьмой монарх Дома Чакри - был найден в своей постели застреленным. Хотя сначала считалось, что это был несчастный случай, его смерть была признана медицинскими экспертами убийством, и три королевских пажа были позже казнены после нерегулярных и поспешных судебных процессов. Загадочные обстоятельства его смерти были предметом множества споров. Бездетного монарха сменит его брат Пхумипон Адульядет, который принял царственное имя Рама IX."
+ siam_events.6015.d.plaek: "Король Ананда Махидол из [SIA.GetName], также известный как Рама VIII, 8-й монарх Дома Чакри, умер от тяжелой потери крови в результате перерезания лучевой артерии после того, как он разбил свою машину. Бездетного короля сменит его брат Пумипон Адульядет, который принял царственное имя Рама IX как новый король [SIA.GetName]."
+ siam_events.6015.d.paribatra: "Ананда Махидол на Аюттхая, также известный как бывший Рама VIII - 8-й монарх дома Чакри - умер от сильной потери крови, вызванной разрывом лучевой артерии после того, как он разбился на своем автомобиле. Бездетного принца сменит его брат Бхумибол Адульядедж, который занял место нового главы королевского дома Махидол."
+ siam_events.6015.d.rep: "Ананда Махидол на Аюттхая, бывший принц Сукотая, также известный как Рама VIII, который мог бы стать 8-м монархом Дома Чакри, умер от сильной потери крови в результате перерезания лучевой артерии после того, как он разбил свою машину. Бездетного принца сменит его брат Пхумипон Адульядет, который принял царственное имя Рама IX как претендент на [SIA.GetProperAdjective]ий трон."
+ siam_events.6015.a: "Да упокоится он с миром."
+ 
+ # Boripatr
+ siam_events.6033.t: "Смерть Рамы IX"
+ siam_events.6033.d: "Король Парибатра Сухумбханд из [SIA.GetName], также известный как Рама IX - 9-й монарх Дома Чакри - перенес сердечный приступ прошлой ночью, когда гулял по своей спальне в Большом дворце. Медицинская бригада прибыла слишком поздно и тщетно пыталась воскресить его. Поскольку Рама IX умер, не оставив наследников мужского пола, положение монарха сменит его брат Чумбхотбонгс Парибатра, который принял царственное имя Рама X."
+ 
+ # Boripatr
+ siam_events.6034.t: "Смерть Рамы X"
+ siam_events.6034.d: "Король Чумбхотбонгс Парибатра из [SIA.GetName], также известный как Рама X - 10-й монарх Дома Чакри - мирно скончался во дворце Суан Паккард из-за преклонного возраста. Поскольку он умер, не оставив после себя наследника мужского пола, монархию сменит его брат Сухумабхинанда, который принял царственное имя Рама XI."
+ 
+ siam_events.0.t: ""
+ siam_events.0.d: ""
+ siam_events.0.a: ""
+ siam_events.0.b: ""
+
+### Focuses ###
+
+### Political Path ###
+ SIA_prajadhipokreform: "Демократические реформы"
+ SIA_prajadhipokreform_desc: "В условиях продолжающегося экономического кризиса, возможно, нам было бы лучше начать проводить новые реформы, поскольку у старой гвардии и дворянства в нашей стране не будет возможности противостоять нашим инициативам... или будет?"
+ SIA_ratthasapha: "Формирование Раттасафы"
+ SIA_ratthasapha_desc: "Чтобы помочь с постоянной модернизацией [SIA.GetSIAshortname]а, мы должны начать реформировать неэффективную бюрократию, которая была сформирована в те дни, когда монархия правила железным кулаком. Тронный зал был признан подходящим местом для нового парламента, и позволит большему количеству людей принять участие в развитии города."
+ SIA_halfleafdemocracy: "Полулистная демократия"
+ SIA_halfleafdemocracy_desc: "Сильная направляющая рука монарха над нацией может потребоваться для того, чтобы лучше справляться и противостоять постоянно приближающимся волнам синдикалистской волны должным образом. Предоставив королю больше власти и позволив ему назначить премьер-министра, наряду с иммунитетом от преследований по закону, мы можем гарантировать стабильность в долгосрочной перспективе. Это, однако, не удовлетворит либералов."
+ SIA_tourthenation: "Тур по стране"
+ SIA_tourthenation_desc: "Для того, чтобы лучше узнать о наших подданных и проблемах, с которыми они сталкиваются, в дополнение к повышению их доверия к монархии, Король должен лично совершить поездку по стране."
+ SIA_royalprojectfoundation: "Королевский фонд"
+ SIA_royalprojectfoundation_desc: "Для более эффективного и действенного решения проблем в нашей стране, а также для отслеживания текущих проблем, отягощающих повседневную жизнь граждан и правительства, необходимо создать комиссию, которая будет называться Королевским Фондом."
+ SIA_adevotedmonarchy: "Преданная монархия"
+ SIA_adevotedmonarchy_desc: "Работая в тесном контакте с нашими субъектами в плане дальнейшего аграрного и общего развития страны, нам удалось заручиться поддержкой тех, кто живет в сельской местности. Это послужит сдерживающим фактором против алого фантома, известного как синдикалистская угроза."
+ SIA_yellowcoverdossier: "Досье с желтой обложкой"
+ SIA_yellowcoverdossier_desc: "Луанг Прадитманутам предложил социалистическую Конституцию, направленную на решение проблемы неравенства в Сиамском обществе, которое пользуется народной поддержкой со стороны крестьян. Дворяне, конечно, возражали против этого плана. Возможно, сделка с дьяволом может гарантировать безопасность нашей нации от синдикалистской угрозы?"
+ SIA_nationwidelandreform: "Земельная реформа"
+ SIA_nationwidelandreform_desc: "Земля, принадлежащая дворянству, которая по тем или иным причинам осталась неиспользованной, остается по всей стране, не служа никакой цели. Перераспределение этих земель бедным и безземельным фермерам станет экономическим благом, поскольку это поможет генерировать больше экономической активности, а также повысить общую производительность. Это, однако, спровоцирует землевладельцев."
+ SIA_fiveyearplan: "Пятилетний план"
+ SIA_fiveyearplan_desc: "Поощряя развитие сельских районов путем содействия созданию инфраструктуры и осуществления программ промышленного развития, мы можем с уверенностью сказать, что мы сами находимся на пути к тому, чтобы стать цивилизованной нацией."
+ SIA_statewelfare: "Государство всеобщего благосостояния"
+ SIA_statewelfare_desc: "Обеспечивая благосостояние наших граждан за счет государственных средств, мы можем гарантировать всем [SIA.GetProperAdjective]им гражданам доступ к надлежащему медицинскому обслуживанию, образованию и другим видам государственной поддержки. Это, однако, придет с компромиссом высоких налогов, которые оттолкнут и повернут капиталистов против нас."
+ SIA_aliberalsiam: "Либеральный [SIA.GetSIAshortname]!"
+ SIA_aliberalsiam_desc: "Саваинг Пиампонгарн, выпускник Районга, который изучал право, в настоящее время лидер либеральной/прогрессивной фракции. Частично черпая вдохновение в японском стиле демократии в эпоху Тайсе, он пообещал обеспечить народу мир и процветание."
+ SIA_landsofthefree: "Земля свободы!"
+ SIA_landsofthefree_desc: "После победы на выборах одна из первых инициатив Пиампонгарна заключается в проведении политики, направленной на поощрение равных прав внутри страны и расширение прав и возможностей Лаосского, Монского, Малайского, китайского и Камбоджийского народов наряду с коренным Сиамским народом."
+ SIA_newsiamsociety: "Новое [SIA.GetProperAdjective]ое общество"
+ SIA_newsiamsociety_desc: "Дополнительные занятия, касающиеся гражданских обязанностей каждого гражданина, были добавлены в национальную учебную программу и теперь являются обязательными, гарантируя, что каждый гражданин может в полной мере и на равной основе участвовать в предполагаемом демократическом обществе Пиампонгарна."
+ SIA_progressivemeasures: "Прогрессивные меры"
+ SIA_progressivemeasures_desc: "Прогрессисты приняли меры, которые дают женщинам право голоса наряду с предоставлением им равной оплаты наравне с их коллегами-мужчинами. Кроме того, осуществляется регулирование монополий и корпораций с помощью антимонопольного законодательства в целях содействия равной конкуренции."
+ SIA_modernsiamesenation: "Новая [SIA.GetProperAdjective]ая нация"
+ SIA_modernsiamesenation_desc: "Наш народ продвинулся довольно далеко от того, что было раньше. Мы уже не отсталый народ девятнадцатого века, а фактически модернизированная нация, находящаяся на переднем крае прогресса. Конечно, это не значит, что мы должны останавливаться на достигнутом, мы будем постоянно стремиться к улучшению себя и нации. Да здравствует наш великий народ!"
+ SIA_khana_ratsadon: "Переворот хана Ратсадона"
+ SIA_khana_ratsadon_desc: "...Он (Король) управляет без принципа. Милость страны брошена на произвол судьбы, как видно из депрессии и невзгод... Народная партия не желает захватывать трон. Поэтому он предлагает королю сохранить эту должность. Но он должен быть в соответствии с законом Конституции для управления страной... - отрывок из Манифеста хана Ратсадона"
+ SIA_iron_marshal: "Железный Маршал"
+ SIA_iron_marshal_desc: "Луанг Пхибунсонграм, который получил свою первоначальную известность во время сиамской интервенции в Бирму, теперь сталкивается с монументальной задачей сохранения нации вместе и в безопасности от роялистской/парламентской угрозы."
+ SIA_yuwachontaharn: "Молодежная милиция"
+ SIA_yuwachontaharn_desc: "Yuwachon Taharn является программой подготовки офицеров запаса, которые призваны улучшить боевые характеристики новобранцев. Гарантируя, что каждый трудоспособный человек понимает, как правильно владеть и использовать винтовку, мы можем повысить качество нашей армии."
+ SIA_nationalizationofforeignindustries: "Национализация иностранных производств"
+ SIA_nationalizationofforeignindustries_desc: "[SIA.GetSIAshortname]у понадобится вся сила, которую он может накопить, чтобы встать на ноги в этом постоянно неспокойном мире. Мы либо купим все иностранные заводы в нашей стране, либо, если не останется другого выбора, захватим их силой. Эти заводы должны быть национализированы и использованы для дальнейшей реализации нашей программы индустриализации."
+ SIA_ratthaniyomdecrees: "Указы Раттания"
+ SIA_ratthaniyomdecrees_desc: "Политика таификации уже начала действовать. Тайский сценарий теперь стандартизирован для использования, Центральный Тайский язык обеспечивается в школах по всей стране, и китайские/мусульманские школы, которые не были совместимы с нашими требованиями были закрыты. Кроме того, пропагандируется новый национальный гимн в целях укрепления новой самобытности Таиланда."
+ SIA_reapporachthemonarchy: "Повторное провозглашение монархии"
+ SIA_reapporachthemonarchy_desc: "После убийства Луанг Пхибунсонграма, Сариту Танарату удалось быстро установить контроль как над вооруженными силами, так и над правительством. Чтобы продвигаться к идее Пативата (революции) и установить руководящий принцип Пхохуна, Танарат считал примирение с династией Чакри важным, ведь монархия должна выполнять роль нравственного руководства."
+ SIA_buddhisttraditions: "Буддистские традиции"
+ SIA_buddhisttraditions_desc: "Мы начнем пропаганду буддизма Тхеравады как национальной религии в целях содействия национальному единству под руководством единого Верховного Патриарха как для общин Маханикай и Таммаюттханикай, так и для меньшинства буддистов Махаяны внутри страны. Однако это не удовлетворит мусульман, проживающих на юге."
+ SIA_creationoftherepublic: "Объявить республику"
+ SIA_creationoftherepublic_desc: "После убийства Луанг Пхибунсонграма, Пхао Шриянонду удалось быстро взять под свой контроль как вооруженные силы, так и правительство. Рассматривая монархию как архаическую реликвию, и не любя статус монархии во время правления Фибунсонгкрама, Сриянонд считает, что старая система должна быть пересмотрена в пользу республиканства."
+ SIA_survivorofthecivilwar: "Уроки гражданской войны"
+ SIA_survivorofthecivilwar_desc: "Одна из самых разрушительных войн в [SIA.GetSIAshortname]ской истории, которая нанесла тяжелый урон самой наци и– превзойдя даже Бирманское вторжение в Аюттайю в 1765 году, ясно, что мы должны сделать все возможное, чтобы извлечь уроки из этого беспорядка и продвигать себя как нацию."
+ SIA_prestigious_senate: "Престижный сенат"
+ SIA_prestigious_senate_desc: "Сенат, который имеет близкое сходство с британской палатой лордов, был введен с целью позволить королю назначать лояльных и опытных советников, чтобы остановить прохождение более радикальных законопроектов, предложенных элементами в правительстве."
+ SIA_privycouncilreforms: "Реформы Тайного совета"
+ SIA_privycouncilreforms_desc: "С Тайным советом, обладающим способностью диктовать политику короля из-за кулис, возможно, нам следует подумать о реформировании старого тайного Совета? Таким образом, мы сможем нанять советников-единомышленников и лучше конкурировать с Советом за влияние, став тем самым главной движущей силой в нашей стране."
+ SIA_empowerthenobility: "Расширение прав и возможностей знати"
+ SIA_empowerthenobility_desc: "Модернизируя нынешнюю и устаревшую систему дворянства в систему, основанную на идеалах меритократии, а не просто упраздняя, мы сможем осуществить нашу мечту о создании более эффективной бюрократической системы."
+ SIA_fathergovernschildren: "Отец народов"
+ SIA_fathergovernschildren_desc: "Мы можем вернуться ко временам эпохи Сукотаев, во времена правления великодушного короля Рамкамхенга Великого, позволив нашим подданным высказывать свои вопросы непосредственно тайному Совету. Это будет иметь дополнительный бонус в виде оказания помощи в разрешении нескольких вопросов гораздо более эффективным образом."
+ SIA_reconstruction: "Восстань из пепла"
+ SIA_reconstruction_desc: "Мы должны приступить к осуществлению широкой и широкомасштабной программы строительства, с тем, чтобы восстановить не только саму страну, но и дух нашего народа. Мы должны чтить жертвы, принесенные нашими союзниками и всеми теми, кто сплотился позади нас в самый трудный час."
+ SIA_amnesty: "Амнистия"
+ SIA_amnesty_desc: "Урок, который преподнесла нам гражданская война, заключался в том, что мы нуждаемся в помощи каждой умелой руки для того, чтобы помочь стране пережить этот период бедствия, и поэтому мы решили амнистировать офицеров, которые сражались против нас. Хотя это может привести к некоторым волнениям со стороны населения, ясно, что эти предательские офицеры по-прежнему важны для нас, и поэтому их помощь необходима."
+ SIA_the_great_purge: "Чистка в армии"
+ SIA_the_great_purge_desc: "Урок, который преподала нам гражданская война, заключался в том, что мы должны обеспечить, чтобы со всеми предателями расправлялись быстро и беспощадно, с тем чтобы содействовать стабильности в стране, и таким образом мы избавимся от всех офицеров, которые воевали против нас. Хотя это, безусловно, отрицательно скажется на высшем командовании, их выполнение поможет нам лучше консолидировать власть в долгосрочной перспективе."
+ SIA_military_royalty: "Обеспечение лояльности"
+ SIA_military_royalty_desc: "Чтобы избежать возможности мятежной армии, мы должны обеспечить, чтобы выжившие офицеры и солдаты были лояльны как правительству, так и народу, а не посторонним, которые помогут выполнить скрытые программы."
+ SIA_people_assembly: "Народная ассамблея"
+ SIA_people_assembly_desc: "Мы освободимся от цепей архаичной феодальной системы, которая, так или иначе, продолжает сохраняться и в двадцатом веке. Для достижения цели Конгресса Пролетариатов должно быть создано правительство, в значительной степени опирающееся на идеи Коммуны Франции."
+ SIA_faith_in_the_star: "Наша вера в звезды"
+ SIA_faith_in_the_star_desc: "Для того, чтобы наша революция действительно принесла свои плоды, мы должны распространить нашу доктрину среди широких масс и дать им надежду и уверенность в том, что впереди нас ждет светлое будущее, а Красная звезда будет ярко светить и помогать им в эти мрачные времена."
+ SIA_new_order_rise: "Новый порядок в Сиаме"
+ SIA_new_order_rise_desc: "Военизированная группа Краттирг Даёнг (красная гвардия) была создана правительством для борьбы с оставшейся оппозицией, в основном состоящей из капиталистов и бывших дворян, которые хотят обеспечить сохранение статус-кво. Избавившись от них, мы можем начать переход к более мирным дням."
+ SIA_arunothai: "Arunothai"
+ SIA_arunothai_desc: "Чтобы обеспечить защиту новой системы, мы должны пожертвовать всем, что в наших силах, пока у нас не останется ничего, кроме крови, труда, слез и пота. Красный рассвет обеспечит и тепло, и единство, уничтожая любых капиталистов, которые посмеют дестабилизировать нашу славную нацию!"
+
+### Government Reform Path ###
+ SIA_governmentalreform: "Реформа правительства"
+ SIA_governmentalreform_desc: "В ее нынешнем виде, наша бюрократическая система довольно негабаритная, особенно учитывая размеры [SIA.GetSIAshortname]а. Это не только делает ее неэффективной, но также продолжает истощать большую часть нашего бюджета годами. Главными приоритетами должны стать реформы."
+ SIA_juridicialreform: "Судебная реформа"
+ SIA_juridicialreform_desc: "В то время как архаичные законы Аюттхаяны уже не действуют, мы должны вернуть права экстерриториальной юрисдикции, которые мы потеряли после ратификации Договоров о Боуринге, чтобы повысить наш престиж во всем мире. Кроме того, сделав это, мы сделаем нашу судебную систему намного более эффективной."
+ SIA_centralizedpolicecommand: "Централизованная полиция"
+ SIA_centralizedpolicecommand_desc: "После Вельткрига наше полицейское командование стало парализованным, так как оно состоит из группы немецких, итальянских и американских сотрудников. Постепенно заменяя их сиамскими выпускниками и объединяя командование столичной и региональной полиции, мы можем обеспечить большую эффективность со стороны наших полицейских сил."
+ SIA_SDSI: "[SIA.GetSIAintAgencyName]"
+ SIA_SDSI_desc: "[SIA.GetSIAshortname]ское отделение секретной разведки (также известное как Самнаг-нгарн Хао-хронг Хенг Чард Сиам) должно обеспечить поддержание стабильности во всей стране путем обработки и отслеживания внутренней и внешней разведки."
+ SIA_nationalcurriculumact: "Национальный образовательный план"
+ SIA_nationalcurriculumact_desc: "В то время как Рама V и Рама VI уже приняли законы в пользу приведения образования [SIA.GetSIAshortname]а в порядок, мы должны начать фокусироваться на качестве образования. Начальное образование должно быть увеличено до шести лет, в то время как высшее образование должно стать обязательным до 12 класса. В этом случае также будут подвергаться серьезному контролю вредные материалы, такие как синдикалистская или сепаратистская пропаганда."
+ SIA_regionaluniversities: "Создание Региональных Университетов"
+ SIA_regionaluniversities_desc: "Чтобы поддержать развитие нашей нации, мы должны сначала создать прочную основу для обеспечения хорошей базы знаний. Благодаря финансированию создания региональных университетов в Чианг Май, Хонкаен и Хат Яй (Сонгкхла), высшее образование станет более доступным для людей, живущих далеко от Бангкока."
+ SIA_kingmongkutinstitute: "Институт имени короля Монгкута"
+ SIA_kingmongkutinstitute_desc: "Названный в честь [SIA.GetProperAdjective]ого короля, который был известен своими монументальными научными достижениями, этот специализированный исследовательский центр должен значительно увеличить наши исследовательские возможности, а также использовать лучшие умы, которые Сиам может предложить."
+
+### Economic Path ###
+ SIA_intialeconomictsabilisation: "Начало Экономической стабилизации"
+ SIA_intialeconomictsabilisation_desc: "Сразу же после окончания экономического кризиса, получившего название Черный Понедельник, стало ясно, что в нашей экономике много слабых мест и что мы должны предпринять шаги для исправления ситуации."
+ SIA_kickstartlocalbusiness: "Поддержка отечественных предприятий"
+ SIA_kickstartlocalbusiness_desc: "Путем предоставления местным предприятиям государственных субсидий или оказания им помощи во всем остальном, что им может понадобиться, мы можем обеспечить, чтобы экономическая деятельность в нашей стране осуществлялась и в местном масштабе."
+ SIA_bailoutsiamcement: "Спасти '[SIA.GetSIAcementcorp]'"
+ SIA_bailoutsiamcement_desc: "Предоставляя помощь Siam Cement, крупнейшей компании по производству цемента и строительных материалов в [SIA.GetName], мы можем гарантировать, что компания останется на плаву и, таким образом, избежать дальнейшего негативного воздействия на нашу экономику."
+ SIA_chiangmaioil: "Добыча нефти в Чанг Май"
+ SIA_chiangmaioil_desc: "Сырая нефть была впервые обнаружена в районе Фан, в частности в Чиангмае, в 1921 году, но никогда не эксплуатировалась должным образом. Нынешний экономический кризис подтолкнул цены на нефть к рекордным ценам, и любая нестабильность в регионе может отрезать нас от наших источников импорта в Палембанге. Более самостоятельное использование нефти также может помочь улучшить нашу борьбу за индустриализацию."
+ SIA_thaioilcorp: "[SIA.GetProperAdjective]ая нефтяная корпорация"
+ SIA_thaioilcorp_desc: "Инвестируя в создание центральной нефтяной компании, мы можем гарантировать, что нефть в нашей стране будет лучше управляться и мы сможем находить больше нефти в Сиаме."
+ SIA_rayonrefineries: "Заводы Районга"
+ SIA_rayonrefineries_desc: "Недавно созданное государственное предприятие, ранее Являвшееся Департаментом закупок топлива Министерства обороны, обеспечит более эффективное управление нефтью в нашей стране и поможет эффективнее находить нефть в Сиаме."
+ SIA_newconstructionmethod: "Новые методы строительства"
+ SIA_newconstructionmethod_desc: "Применяя новые методы строительства, мы можем работать в направлении постепенной индустриализации и экономического развития [SIA.GetName]."
+ SIA_contractswithchaiseri: "Контракт с Chaiseri"
+ SIA_contractswithchaiseri_desc: "Начав как гражданская компания по перевозкам, Chaiseri набралась опыта в тяжелой промышленности и хочет нас финансировать собственный проект броневика в качестве начала для будущих боевых машин."
+ SIA_rubberplantations: "Южные плантации каучука"
+ SIA_rubberplantations_desc: "Эксплуатация каучуковых плантаций на юге должна рассматриваться как важнейший ресурс, особенно в наши дни, и может помочь нам стимулировать торговлю во всем мире через обмен ресурсами."
+ SIA_thairungcars: "[SIA.GetProperAdjective]ие автомобили Thairung"
+ SIA_thairungcars_desc: "Путем инвестирования в новые модели автомобилей, мы можем улучшать наши технологии двигателей и использовать это в военных целях."
+ SIA_prototypetankdesign: "Прототип танка"
+ SIA_prototypetankdesign_desc: "Мы должны объединить все блестящие военные умы, которыми обладает Сиам, и профинансировать создание прототипа танковой конструкции, возвращаясь к прототипу, построенному во время правления рамы VI, чтобы помочь стимулировать нашу оружейную промышленность, а также получить преимущество над любыми потенциальными врагами."
+ SIA_petrochemicaldepartment: "Новый нефтехимический отдел"
+ SIA_petrochemicaldepartment_desc: "Создав новый нефтехимический отдел, мы можем обеспечить, чтобы процесс переработки и добычи природного газа и нефти лучше управлялся и осуществлялся более эффективно."
+ SIA_new_forestry_concessions: "Новые концессии на лесное хозяйство"
+ SIA_new_forestry_concessions_desc: "Открывая девственные леса на севере для лесозаготовительных компаний, мы можем надеяться, что сможем обеспечить больше рабочих мест в северных районах страны. Это будет способствовать созданию рабочих мест на границах, а также обеспечит столь необходимые лесоматериалы для общественных работ в других местах."
+ SIA_nakhonsiwolfram: "Вольфрамовые рудники в Накхонситхаммарате"
+ SIA_nakhonsiwolfram_desc: "Вольфрам неимоверно редкий ресурс, но он нужен для большей части продукции электроники и новых промышленных инструментов."
+ SIA_kanchanaburiironreservoir: "Эксплуатировать железную шахту в Канчанабури"
+ SIA_kanchanaburiironreservoir_desc: "Эксплуатация железного резервуара в Канчанабури в значительной степени поможет нам увеличить и без того богатый объем ресурсов в нашей стране, а также увеличить возможности торговли по всему миру."
+ SIA_expandloeimines: "Расширить железные рудники Лоэя"
+ SIA_expandloeimines_desc: "Расширение железные рудники в Лоэ должно быть главным приоритетом, как мы можем лучше улучшить количество ресурсов в нашей стране и, как следствие, помочь предоставить рабочие места для тех, кто их ищет."
+ SIA_tigereconomy: "Тигр в мировой экономике"
+ SIA_tigereconomy_desc: "Благодаря нашей общей политике оживления экономики, инвестициям в ключевые отрасли, а также новым методам исследований нам удалось значительно увеличить благосостояние нашего народа и нации."
+
+### Agricultural Path ###
+ SIA_agriculuralmechanisation: "Механизация сельского хозяйства"
+ SIA_agriculuralmechanisation_desc: "В то время как рисоводство использовало половину пахотных земель и занимало большое количество рабочей силы в Сиаме, они состояли в основном из крестьян, обрабатывающих небольшие площади и производящих небольшое количество риса. Субсидируя цены на тракторы, мы можем освободить некоторых из этих фермеров от погони за прибылью и направить их на заводы, а также увеличить урожайность."
+ SIA_agrarianscoop: "Сельскохозяйственная кооперация"
+ SIA_agrarianscoop_desc: "Хотя первые [SIA.GetProperAdjective]ие курятники были созданы еще в 1916 году, сами по себе они еще не были обычным явлением среди сельских общин. Убедив этих рисоводов объединить свои сбережения и организовать кооперативы, они могут иметь достаточно денег, чтобы купить крайне необходимое сельскохозяйственное оборудование в эти трудные времена и большую переговорную силу против торговцев рисом."
+ SIA_communalapproach: "Коммунальный подход"
+ SIA_communalapproach_desc: "Рис занимает центральное место в [SIA.GetProperAdjective]ом обществе. Сиам был относительно самодостаточным, устойчивым к правительственному вмешательству и эгалитарным. Большинство рисоводов владели собственными землями и обменивались рабочей силой между фермерами. Давайте сосредоточимся на этих аспектах Сиамского общества и будем поощрять дальнейшее сотрудничество внутри сообщества, защищая их от аристократических землевладельцев и помогая им получить доступ к новым землям."
+ SIA_newfarmingtheory: "Новая теория землеобработки"
+ SIA_newfarmingtheory_desc: "Создавая "образцовые фермы" по всей стране в качестве мест, где рисоводы могут изучать новые методы ведения сельского хозяйства, диверсифицируя то, что они выращивали, и как дальше развивать свой продукт - эти фермеры могут узнать, как в дальнейшем использовать свои земли и, таким образом, увеличить производство сельскохозяйственной продукции."
+ SIA_selfsufficiencyeconomics: "Экономическая Самодостаточность"
+ SIA_selfsufficiencyeconomics_desc: "Наш план работает до сих пор и с таким большим сельскохозяйственным избытком на рынке, теперь мы можем полностью сосредоточиться на нашем плане индустриализации."
+ SIA_exportrice: "Экспортное производство риса"
+ SIA_exportrice_desc: "Рис занимает центральное место в [SIA.GetProperAdjective]ом обществе. Производство риса, как правило, было ненамного больше, чем нужно фермерам, чтобы выжить, что плохо для нашей экономики. Возможно, торговцы рисом и крупные компании по его производству могут оказать некоторое давление на этих ленивых фермеров, если мы позволим свободному рынку делать свою работу, если нет, должно произойти дальнейшее увеличение налога на рис."
+ SIA_ricesubsidyscheme: "Схема субсидирования рисовых плантаций"
+ SIA_ricesubsidyscheme_desc: "Создавая стимулы для тех фермеров, которые добились огромного увеличения производства риса и позволяя крестьянам владеть землей, которую они очистили для сельскохозяйственных целей должно еще больше увеличить конкуренцию с рынком, а также преумножить общий урожай."
+ SIA_worldgranary: "Зернохранилище мира"
+ SIA_worldgranary_desc: "Сейчас мы являемся одним из крупнейших экспортеров риса в мире - даже если это связано с эксплуатацией 'позвоночника нации' - и мы будем стремиться дальше."
+
+### Transportation Path ###
+ SIA_nationalhighway: "Национальная дорожная комиссия"
+ SIA_nationalhighway_desc: "Расширение маршрута Бангкок-Ройон и маршрута Бангкок-Лопбури было рассмотрено правительством в течение некоторого времени - с созданием Национальной дорожной комиссии, возможно, все будет развиваться более гладко."
+ SIA_railwaygauge: "Стандартизация железнодорожной колеи"
+ SIA_railwaygauge_desc: "Вследствие различных стандартов иностранных государств и добывающего назначения железных дорог [SIA.GetName], наш подвижной состав отличается от провинции к провинции. Запуская долгосрочный проект стандартизации железных дорог, мы можем упростить соединение наших городов в будущем."
+ SIA_isanrailway: "Расширение железной дороги Исан"
+ SIA_isanrailway_desc: "Являясь крупнейшим единым [SIA.GetProperAdjective]им регионом и ключевой зоной между нашими камбоджийскими и лаосскими провинциями, транспортные связи Исан представляют жизненно важный национальный интерес."
+ SIA_southernrailway: "Расширение южной железной дороги"
+ SIA_northernrailway: "Расширение северной железной дороги"
+ SIA_maritimesilkroad: "Инициатива морского шелкового пути"
+ SIA_transtensassarimrailway: "Транс-Тенасаримская железная дорога"
+ SIA_maptaphuthawaiport: "Новые порты"
+ SIA_kloengtoeidocks: "Верфи Клонгтая"
+ SIA_expandmapthaphut: "Развитие Маптапхута"
+ SIA_merchantmarines: "Модернизация морской пехоты"
+ SIA_foreigninvestment: "Иностранные инвестиции"
+ SIA_twooceantradinghub: "Торговля через два океана"
+
+### Army Path ###
+ SIA_royalsiamesearmy: "[ROOT.GetSIAprefixEN]ская [SIA.GetProperAdjective]ая армия"
+ SIA_royalsiamesearmy_desc: "Сначала сформированные в 1874 году, отчасти в ответ на новые угрозы безопасности, вызванные соглашением 1855 года, которое открыло нам международную торговлю - это старейшая и самая большая история [ROOT.GetSIAprefixEN]ских [SIA.GetProperAdjective]их вооруженных сил, которые все еще выполняют свою роль защитника королевского суверенитета."
+ SIA_phibunsongkhramplan: "Реформа Фибунсонгхрама"
+ SIA_phibunsongkhramplan_desc: "Общая стратегия [SIA.GetName] будет следовать совету Луанга Фибунсонгхрама. Будучи хорошо известным, благодаря переводу французского руководства полевой артиллерии эпохи Вельткрига на тайский язык, он выступает за централизованную и хорошо экипированную армию, в которой основное внимание уделяется использованию артиллерии."
+ SIA_seriroengritplan: "Реформа Сериенгрита"
+ SIA_seriroengritplan_desc: "Общая стратегия [SIA.GetName] будет следовать совету Луанга Сериенгрита. Будучи лидером армии Фаяп, которая страдала от многочисленных трансграничных набегов из Бирмы после британской революции, его доктрина подчеркивает использование децентрализованного командования региональной армии, состоящего в основном из Милиций, подобных тем, которые существуют в Швейцарии."
+ SIA_phrayaphahonplan: "Реформа Пахонполпаюхасена"
+ SIA_phrayaphahonplan_desc: "Общая стратегия [SIA.GetName] будет следовать совету Прайа Пахонполпаюхасена. Он учился в немецком военном училище в молодые годы и рассматривал обширное планирование немецкого генерала Штастера во время Вельткрига в качестве ключа к победе - он выступает за реализацию аналогичной доктрины."
+ SIA_jungletraining: "Тренировки в джунглях"
+ SIA_jungletraining_desc: "Суровые джунгли Индокитая уже давно являются кладбищем империй, друзей и врагов. Мы должны обучать все наши войска в джунглях, чтобы они лучше действовали в таких враждебных условиях."
+ SIA_femalecorps: "Сунарский батальон"
+ SIA_femalecorps_desc: "В то время как "Ja-Khlone" - женские дворцовые стражи - обычное зрелище для внутреннего дворца с эпохи Аюттхая - наличие женских солдат в активных боях на другом уровне. Сам Луанг Фибунсонгхрам даже ручается за поддержку в петиции, но нужно ли нам это делать? Учитывая тот факт, что это может раздражать консерваторов."
+ SIA_asymmetricalwarfare: "Асимметричная война"
+ SIA_asymmetricalwarfare_desc: "Анализируя тактику, применяемую вьетнамцами в восстании Сайгона, которая быстро стала Индокитайским Восстанием и некоторыми из подвига Луанг Чумэннютхасарта в Шане еще в 1928 году, мы теперь получили некоторые идеи о том, как разместить наши войска и эффективно сражаться на городской местности."
+ SIA_newstandardrifle: "Стандартизация винтовок"
+ SIA_newstandardrifle_desc: "Старый Тип 46 Siamese Mauser склонен к сбоям в жарком и влажном климате, возможно, пришло время получить замену?"
+ SIA_artilleryresearchdivision: "Подразделения артиллеристов"
+ SIA_artilleryresearchdivision_desc: "Ведущий Луангом Вичитонгхрамом, новый отдел артиллерийских исследований отвечает за разработку нашего собственного артиллерийского проекта, чтобы уменьшить наши возможности по импорту артиллерии из других в случае войны."
+ SIA_defensetechnologyinstitute: "Институт оборонных технологий"
+ SIA_defensetechnologyinstitute_desc: "После удавшейся предыдущей попытки, будет создано новое подразделение по исследованию артиллерии, которое будет отвечать за другие области военных исследований, чтобы убедиться, что наши вооруженные силы находятся на переднем крае."
+ SIA_salacheepphurchard: "За Родину!"
+ SIA_salacheepphurchard_desc: "Наши предки пролили так много крови на этом участке земли, который теперь называется [SIA.GetSIAshortname], мы будем следить за тем, чтобы их жертвы не пошли напрасно."
+ SIA_expandsupportcapacity: "Расширить поддержку"
+ SIA_expandsupportcapacity_desc: "Тахарн Чанг (военные инженеры) и Тахарн Консонг (логистическая команда) — это то, что удерживает нашу армию так долго во временах Вельткрига, давайте дадим им лучшие инструменты, чтобы они могли лучше выполнять свою роль."
+ SIA_armyaffairs: "Реорганизация армии"
+ SIA_armyaffairs_desc: "В нашей армии в настоящее время используется различные винтовки и артиллерийские модели, которые оказались катастрофой для логистики. Принимая единый размер боеприпасов для каждого типа оружия и либо постепенно стандартизируя их, либо перекрашивая их, мы уменьшим наши проблема с поставками."
+ SIA_specialforce: "Новое военное командование"
+ SIA_specialforce_desc: "Сформированный после немецкого Люфтелендертруппе и австрийского ГебиргструппеGebirgstruppe, Кром Сонгкрам Пизеет будет отвечать за вербовку и обучение наших новых специализированных подразделений, способных сбить врага."
+ SIA_counterinsurgencytactics: "Тактика борьбы с повстанцами"
+ SIA_counterinsurgencytactics_desc: "Наши подразделения Тахарн Пранn продемонстрировали некоторый успех в обнаружении проникновения противника за нашу границу, возможно, они также могут действовать как наши глаза и уши в зоне захвата тоже?"
+ SIA_taharpran: "Тахарн Пран"
+ SIA_taharpran_desc: "Также известные как "сиамские рейнджеры" на английском языке, Тахарн Пран является военизированным вспомогательным подразделением легкой пехоты Королевской сиамской армии, состоящим из добровольцев, которые обучаются патрулировать пограничный акт как силы быстрого реагирования в случае иностранного вторжения. Местные добровольцы также убеждаются, что у нас всегда будет преимущество местности над врагом."
+ SIA_royalmilitaryacademy: "[ROOT.GetSIAprefixEN]ская военная академия"
+ SIA_royalmilitaryacademy_desc: "Объединив [ROOT.GetSIAprefixEN]ую [SIA.GetProperAdjective]ую военную кадетскую школу (основанную в 1887 году) с [ROOT.GetSIAprefixEN]им [SIA.GetProperAdjective]им военным политехнических институтом, недавно названный \"[ROOT.GetSIAprefixEN]им Военной Академией\" должна получить лучшие результаты, поскольку они получают доступ к большему финансированию, чем когда-либо прежде."
+ SIA_royalmunitionsfactory: "[ROOT.GetSIAprefixEN]ский завод боеприпасов"
+ SIA_royalmunitionsfactory_desc: "Будучи окруженным со всех сторон, [SIA.GetSIAshortname] почти израсходовал все артиллерийские снаряды, не имея возможности получить новые поставки из Германии во время Вельткрига. Это приводит к массивному запросу артиллерийских снарядов параноидальным логистическим отделом на протяжении многих лет, но дополнительный завод по производству боеприпасов определенно поможет нам лучше в случае продолжительного конфликта."
+ SIA_industrialmobilization: "План военной индустриализации"
+ SIA_industrialmobilization_desc: "Во времена войны ключевая индустрия будет временно поставлена под власть правительства, чтобы обеспечить выживание нашей страны. В то время как это оказалось непопулярным, оно наверняка обеспечит нашу армию адекватно вооруженной и увеличит наши шансы на победу в будущей войне."
+ SIA_phaopoliceintegration: "Интеграция полицейского командования"
+ SIA_phaopoliceintegration_desc: "Генерал полиции Фао Сриянонд предлагает, чтобы мы подняли полицейские силы на тот же уровень, что и другие 3 ветви [ROOT.GetSIAprefixEN]ских [SIA.GetProperAdjective] Вооруженных сил. Это приведет к более эффективной организации в случае чрезвычайной ситуации и дополнительному финансированию для невооруженных полицейских сил, но также потребует гораздо большего сокращения налоговых средств, чем когда-либо прежде."
+ SIA_nationalreserveact: "Закон о национальных резервах"
+ SIA_nationalreserveact_desc: "”...Все мужчины с возрастом от 18-45 с Сиамским гражданство должны быть зарегистрированы в местных казармах и закончить базовый курс обучения хотя бы один раз, не могут быть отданы под трибунал, армия...”-отрывок из 2484 Б. Национальный заповедник Билл Э."
+
+### Navy Path ###
+ SIA_royalsiamesenavy: "[ROOT.GetSIAprefixEN]ский [SIA.GetProperAdjective]ий флот"
+ SIA_royalsiamesenavy_desc: "Созданная в 1887 году, [SIA.GetSIAnavyName] похвасталась аналогичными организационными структурами, как ВМС Соединенных Штатов, так как она состоит из военно-морского флота и [ROOT.GetSIAprefixEN]ского [SIA.GetProperAdjective] корпуса морской пехоты. Это была также вторая азиатская страна, которая приобрела подводные лодки, после Японии."
+ SIA_expandmarinescorps: "Расширение корпуса в Навиккайотине"
+ SIA_expandmarinescorps_desc: "Хотя "Тахарн Ма-Райн" были впервые основаны еще в 1833 году, подразделение служило в основном в качестве Королевского почетного караула на протяжении всего 19-го века. Только в 1913 году сиамские морские пехотинцы были реорганизованы в современную военно-морскую Десантную группу, которая видела некоторые действия еще в Вельткриге. Возможно, морские пехотинцы могут послужить еще одним козырем в наших руках для предстоящего конфликта?"
+ SIA_improvedlandingcraft: "Улучшенный транспортный корабль"
+ SIA_improvedlandingcraft_desc: "[ROOT.GetSIAprefixEN]ские морские пехотинцы в настоящее время используют захваченные нами в Вельткриге бывшие британские торговые суда в качестве единственного средства передвижения. Выделив им десантные корабли, наши ребята смогут быстрее встать на берег и обезопасить плацдарм."
+ SIA_newflagship: "Новый Флагман"
+ SIA_newflagship_desc: "Быть вооруженным нашими соседями, иметь что-то, что может надежно пробить броню линкора, может быть хорошей идеей. Это также обеспечит нашим морякам чувство гордости и долга."
+ SIA_coastaldefenseships: "Корабли береговой охраны"
+ SIA_coastaldefenseships_desc: "В то время как эти тяжеловооруженные крейсера не сравнятся с немецким или японским флотом и имеют ограниченные возможности в открытом море. Они, несомненно, будут хорошо служить нашему военно-морскому флоту, особенно в прибрежных водах, усеянных островами, которые можно легко найти как в Сиамском заливе, так и в Андаманском море."
+ SIA_riverpatolunit: "Речные патрули"
+ SIA_riverpatolunit_desc: "Реки Салуин и Меконг должны служить естественной защитой от врагов. Отправляя наших многообещающих младших капитанов учиться у своих коллег из "Браун уотер", возможно, они смогут извлечь урок или два о морской организации из этой учебной программы."
+ SIA_destroyerfleet: "Эсминцы Класса 'Чонбури'"
+ SIA_destroyerfleet_desc: "Названный в честь покойного Адмирала князя Абхокары Киартивонгса, Принц Чумпхон — это новый эсминец, который будет служить основой нашего флота."
+ SIA_subships: "Проект 'S-Ships'"
+ SIA_subships_desc: "Эти Руа-Сор впервые были представлены покойным принцем Махидолом Адульядеем, который учился в Маринешуле Мюрвик, как важные для защиты Бангкока, а в дополнение к Сиамскому заливу. В то время как уже были закуплены 4 небольшие подводные лодки для первой линии обороны, хорошей идеей может стать продолжение второй фазы плана, которая включает еще 5 подводных лодок для внешней линии обороны."
+ SIA_twooceannavy: "Флот двух Океанов"
+ SIA_twooceannavy_desc: "Наш военно-морской флот, возможно, слишком мал, чтобы противостоять морским пехотинцам Кайзерличе или IJN. Некоторое дополнительное финансирование определенно поможет."
+ SIA_expandsattahip: "Развернуть Sattahip"
+ SIA_expandsattahip_desc: "Sattahip был впервые построен как основная военно-морская база еще в 1914 году. Поскольку база довольно мала и уже достигает предела пропускной способности, расширение ее объектов, безусловно правильно."
+ SIA_wolfpacks: "Охота на конвои"
+ SIA_wolfpacks_desc: "Адмирал Луанг Юттасарт Косоль, окруженный более крупным и тяжело вооруженным флотом, предлагает нам играть в прятки с вражеским флотом вместо того, чтобы смотреть им в лоб, пока мы бьем их издалека нашими торпедами."
+ SIA_alargefleet: "Расширение флота "
+ SIA_alargefleet_desc: "Находясь в окружении больших и более тяжело вооруженных флотов, Адмирал Луанг хочет, чтобы мы направили, чтобы хотя бы выводить ис строя вражеские корабли, и, если возможно, потопить их"
+
+### Air Forces Path ###
+ SIA_royalsiameseaircorps: "[ROOT.GetSIAprefixEN]ские [SIA.GetProperAdjective]ие авиаполки"
+ SIA_royalsiameseaircorps_desc: "Впервые основан в 1913 году как сиамский летающий корпус, они помогли нам достичь многочисленных побед, помогая нам с неба, так что это может быть отличной идеей, если мы создадим [ROOT.GetSIAprefixEN]скую [SIA.GetProperAdjective] авиационную службу в Сиамском воздушном корпусе."
+ SIA_airportauthority: "Сиамское управление аэропортов"
+ SIA_airportauthority_desc: "Строительство дополнительных государственных аэропортов может помочь нам запустить собственный национальный авиаперевозчик и послужить авиабазой для наших ВВС."
+ SIA_antiairsystem: "Подготовка воздушных налетов"
+ SIA_antiairsystem_desc: "Согласно исследованию Луанга Азукевадета, создание корпуса противовоздушной обороны может помочь защитить столицу и другие важные места от вражеских воздушных атак."
+ SIA_thaiaviationindustries: "[SIA.GetProperAdjective]ая авиационная индустрия"
+ SIA_thaiaviationindustries_desc: "Инвестируя в компанию '[SIA.GetProperAdjective]ая Авиационная Индустрия' ([SIA.GetSIAairIndustryAcronym]), которая ранее отвечала за техническое обслуживание наших ВВС, они смогут внести больший вклад в военные усилия с помощью своих собственных самолетов, разработанных на местном уровне."
+ SIA_newfighterdesign: "Новый вариант истребителя"
+ SIA_newfighterdesign_desc: "Наш собственный истребитель Праджадхипок оказался устаревшим для современной войны. Под руководством Луанга, этот проект может помочь нам укрепить столь необходимую воздушную мощь."
+ SIA_navalbomber: "Изучение морских бомбардировщиков"
+ SIA_navalbomber_desc: "Находясь между индийским и Тихим океаном, наличие морского бомбардировщика может помочь нам защитить эти воды от вражеских флотов."
+ SIA_CASfocus: "Фокус близкой поддержки с воздуха"
+ SIA_CASfocus_desc: "Наша собственная поддержка истребителей и бомбардировщиков на земле оказалась недостаточной-возможно, нужен специальный самолет-перехватчик с мобильностью и надлежащим вооружением?"
+ SIA_tacticalbombers: "Разработка тактических бомбардировщиков"
+ SIA_tacticalbombers_desc: "Наши собственные бомбардировщики Барипатр, также разработанные Луангом, хорошо служили в качестве испытательного стенда для нашего собственного конструкторского бюро, но не в реальном бою. Давайте использовать наше собственное ноу-хау, чтобы создать правильные бомбардировщики, подходящие для современного боя."
+ SIA_furtherairdevelopment: "Продолжить разработку авиации"
+ SIA_furtherairdevelopment_desc: "С ростом ответственности необходимы изменения в нашей тактике воздушного боя, чтобы лучше подготовиться к ее новой роли."
+ SIA_bangfai: "Проект Пи Фа"
+ SIA_bangfai_desc: "Частично вдохновленные лаосским фестивалем Бун Банг Фаи в Исане, надлежащие исследования и разработки могут превратить эти самодельные ракеты в ужасное оружие убийства и двигатель для питания наших самолетов."
+ SIA_electronicsresearch: "Инновации в электронике"
+ SIA_electronicsresearch_desc: "Появление Ханиттакорна, вычислительного устройства от компании Танин может чрезвычайно помочь нашим военным усилиям."
+ SIA_rulerofheskies: "Защита неба"
+ SIA_rulerofheskies_desc: "Как и Гаруда, мы будем одним из лучших военно-воздушных сил в регионе, с силой, которая может быстро идти куда угодно, быть бдительнее врага и тех, кто осмелится напасть на нас."
+
+### Decision system ###
+# War Measures
+ SIA_capital_relocation: "Экстренное перемещение столицы"
+ SIA_capital_relocation_desc: "Сам Бангкок стратегически расположен в устье реки Чао Прайя, подходит для эвакуации морем и торговли, но это, к сожалению, не относится к современной войне, которая подвергает его риску морского вторжения. Временное перемещение нашей столицы на север в Чиангмай сохранит нашу бюрократию и цепочку командования на некоторое время."
+ SIA_move_capital_back: "Вернуть столицу в Бангкок"
+ SIA_move_capital_back_desc: "Теперь, когда ситуация успокоилась, давайте перенесем нашу столицу туда, где она действительно находится."
+ 
+ SIA_join_internationale: "Вступить в Интернационал"
+ SIA_join_internationale_desc: "После революции Сиам оказывается во все большей изоляции в международных делах, что является опасной ситуацией, учитывая наши непредсказуемые, а то и откровенно антагонистические отношения с соседями, а также постоянно присутствующую опасность империалистического вторжения в нашу страну. Учитывая эти обстоятельства, некоторые представители нашего правительства предложили нам присоединиться к нашим товарищам в Интернационале, поскольку они уже преуспели в своей революции и занимают все более заметное место на мировой арене. Однако некоторые отвергают эту идею, ссылаясь на то, что это поставит под угрозу нашу независимость."
+
+ SIA_surrender: "Вынужденный мир с врагом"
+ SIA_surrender_desc: "Война превратилась из плохой в худшую - возможно, это единственный вариант спасти нас от полного уничтожения..."
+
+# Siamese-Burmese Wars
+ SIA_Siamese_Burmese_War_category: "[SIA.GetProperAdjective]о-Бирманская война"
+ SIA_capture_Taunggyi: "Победа в Таунгги"
+ SIA_capture_Taunggyi_desc: "Как главный город и столица Южного Шаня во время британской оккупации, захват Таунгги послужил бы одновременно и центром снабжения, и плацдармом для подчинения Бирмы."
+ SIA_capture_Mandalay: "Победа в Мандалае"
+ SIA_capture_Mandalay_desc: "Как королевская столица династии Конбаунг и коммерческая связь в Верхней Бирме, завоевание Мандалая и его окрестностей послужило бы для бирманского народа твердым сигналом о [SIA.GetProperAdjective]ом возрождении."
+ SIA_capture_Taungoo: "Победа в Таунгу"
+ SIA_capture_Taungoo_desc: "Происхождение \"Победителя десяти дорог\" короля Байиннауна и крупного железнодорожного узла между Янгоном и Мандалаем - такое завоевание определенно стало бы для нас пропагандистским переворотом, а также отрезало бы две бирманские метрополии друг от друга."
+ SIA_capture_Yangon: "Победа в Янгоне"
+ SIA_capture_Yangon_desc: "\"Город-сад Востока\", Янгон, служит главным торговым центром и современной столицей нового независимого бирманского государства. Их захват создаст хаос и неразбериху среди руководства Бирмы, которые мы сможем использовать и в дальнейшем."
+ BRM_capture_Mawlamyine: "Победа в Моламьяйне"
+ BRM_capture_Mawlamyine_desc: "Известный как \"Маленькая Англия\" из-за большого присутствия англо-бирманской общины, Моламьяйн является третьим по величине городом и главным торговым портом в юго-восточной колониальной Бирме. В отличие от многих моламьянистов, живущих в его окрестностях, городские маламьянисты с нетерпением ожидают своего освобождения от [SIA.GetProperAdjective]ого желтка."
+ BRM_capture_Kengtung: "Победа в Кенгтунге"
+ BRM_capture_Kengtung_desc: "Кенгтунг выступает в качестве центра [SIA.GetProperAdjective]ой администрации в их части Шанских государств, взятие Кенгтунга должно быть в состоянии убедить других Шанских князей присоединиться к нашей стороне."
+ BRM_capture_Chiang_Mai: "Победа в Чиангмае"
+ BRM_capture_Chiang_Mai_desc: "будучи \"Розой Севера\" Чиангмае выступает в качестве главного культурного и торгового центра со времен своего существования в качестве столицы королевства Лань На. Может быть, пришло время снова ощипать розу и вернуть наш законный \"Главный Диамант\" из короны [SIA.GetSIAshortname], как мы делали это раньше 200 лет назад."
+ BRM_capture_Dawei: "Победа в Давее"
+ BRM_capture_Dawei_desc: "Как оплот в регионе Танинтайи на протяжении веков и один из самых южных портов Бирмы, наш долг - приветствовать наших братьев и сестер."
+ SIA_resume_research_funding: "Возобновить финансирование исследований"
+ SIA_resume_research_funding_desc: "Теперь, когда у нас достаточно денег в казне, пришло время перезапустить многие из наших исследовательских проектов, от которых мы были вынуждены отказаться во время наступления Черного Понедельника."
+
+# Political Actions
+ SIA_country_namechange_decision: "Переименовать страну в Тайланд"
+ SIA_country_namechange_decision_desc: "Кампания, поддержанная министрами в правительстве, военными лидерами и националистической интеллигенцией, предложила переименовать нашу нацию из Сиама в 'Ратча Аначак Тай', Королевство Таиланд, в честь нашей основной этнической группы - тайского народа."
+ SIA_country_namechange_back_decision: "Изменить наше имя обратно на Сиам"
+ SIA_country_namechange_back_decision_desc: "Сторонники многих людей со всей нашей страны - предложили переименовать нашу нацию обратно в Сиам, так как новое название вызывает некоторые разногласия среди китайского, малайского и лаосского меньшинств, одновременно снижая престиж нашей страны."
+ SIA_tarutao: "Коррекционный Центр Тарутао"
+ SIA_tarutao_desc: "В 22 километрах от побережья Сатун и в середине, кишащей акулами области, остров Тарутао ('залив пресной воды' на Малайском языке) был выбран Департаментом исправительных учреждений"
+ SIA_recrew_the_navy: "Восстановить флот"
+ SIA_recrew_the_navy_desc: "Большая часть флота КСФ была законсервирована после начала Сиамской гражданской войны. Теперь пришло время пополнить флот людьми, преданными нашему делу."
+ SIA_reclaim_left_bank_mekong: "Отвоевать левый берег Меконга"
+ SIA_reclaim_left_bank_mekong_desc: "§RМы вернем то, что принадлежало нам по праву! Никакая граница не отделит нас от наших братьев на другом берегу реки.§! "
+ SIA_can_declare_war_on_left_mekong_tt: "Мы не можем объявить войну владельцу (владельцам) этих регионов."
+
+# Infrastructure Investments
+ SIA_infrastructure_category: "Инвестиции в инфраструктуру"
+ SIA_hire_foreign_engineers: "Нанять иностранных инженеров"
+ SIA_hire_foreign_engineers_desc: "Наши люди, которых мы отправили за границу, не вернутся в ближайшее время... давайте, наконец, наймем иностранных инженеров для ускорения плана строительства инфраструктуры."
+ SIA_north_road_1: "Расширение трассы Праджим - Фаза 1"
+ SIA_north_road_1_desc: "Также известная как шоссе Chedi Sam Ong, мы начнем строительство Шоссе 5 от Канчанабури до Морлумлернга."
+ SIA_north_road_2: "Расширение трассы Вачиравут - Фаза 2"
+ SIA_north_road_2_desc: "Также известный как дорога Пибунсонгхрам, мы начнем строительство шоссе маршрута 1 от Лопбури до Така"
+ SIA_north_road_3: "Расширение трассы Вачиравут - Фаза 3"
+ SIA_north_road_3_desc: "Названное шоссе Вачиравут в честь принца Лампанга, который частично финансирует проект, мы начнем строительство шоссе маршрут 1 от Таки до Чианграя"
+ SIA_north_road_4: "Расширение трассы Вачиравут - Фаза 4"
+ SIA_north_road_4_desc: "Названный шоссе Suay Thek в честь Саофы из Янгве, которая частично финансирует проект, продолжим строительство трассы 1 из Чианграя в Таунджи"
+ SIA_isan_road_1: "Расширение шоссе Чайякон - Фаза 1"
+ SIA_isan_road_1_desc: "Также известная как шоссе Сундандат, мы начнем строительство шоссе 2 из Бангкока в Накхонратчасима"
+ SIA_isan_road_2: "Расширение шоссе Чайякон - Фаза 2"
+ SIA_isan_road_2_desc: "Также известная как шоссе Джейджбтид, мы начнем строительство автомагистрали от Накхонратчасимы до Нонгкхая"
+ SIA_isan_road_3: "Расширьте шоссе Чайякон - Фаза 3"
+ SIA_isan_road_3_desc: "Также известная как шолле Виангчан, мы начнем строительство шоссе 2 от Нонгкхая до Луанг Прабанга"
+ SIA_east_road_2: "Расширить шоссе Сукхумвит - Фаза 2"
+ SIA_east_road_2_desc: "Также известная как дорога Йоммарат, мы начнем строительство шоссе 3 от Чонбури до Прачанкирихает"
+ SIA_east_road_3: "Расширить шоссе Сукхумвит - Фаза 3"
+ SIA_east_road_3_desc: "Также известная как шоссе Апайвонг, мы начнем строительство шоссе 3 от Прачанкирикаета до Пномпеня"
+ SIA_pakt_road_1: "Расширение шоссе Петкасем - Фаза 1"
+ SIA_pakt_road_1_desc:"Также известный как шоссе Сричумпорн, мы начнем строительство шоссе 4 из Бангкока в Чумпорн"
+ SIA_pakt_road_2: "Расширение шоссе Петкасем - Фаза 2"
+ SIA_pakt_road_2_desc: "Также известная как шоссе Канчаннаванит, мы начнем строительство шоссе 4 от Чумпорна до Сатуна"
+ SIA_pakt_road_3: "Расширение шоссе Петкасем - Фаза 3"
+ SIA_pakt_road_3_desc: "Также известная как дорога Алор Сетар, мы начнем строительство шоссе 4 от Сатуна до Баттерворта"
+ SIA_Electrification: "Электрифицировать страну"
+ SIA_Electrification_desc: "В то время как Бангкок и его окрестности надежно электрифицированы с 1884 года электростанцией Ват Либ и Сэм Сен - внешнее освещение в лучшем случае пятнистое (Ратчабури, Накхон Пратхом, Прачинбури, Пхукет, Накхон Найок, Чонбури, Бан Фонг, Чантхабури и Чианг Май) ). Строительство электростанций в Исане и Южном регионе должно быть в состоянии стимулировать создание производственных узлов в этих регионах."
+ SIA_Electrification_2: "Продолжить программу электрификации"
+ SIA_Electrification_2_desc: "В связи с быстрым ростом спроса на электроэнергию как со стороны населения, так и со стороны промышленности, дефицит электроэнергии в последнее время становится повседневным явлением. Возможно, нам следует увеличить производство электроэнергии, выделив больше бюджетных средств Столичному и Провинциальному Управлению Электроэнергетики (СПУЭ) на строительство дополнительных электростанций."
+
+# State Integration
+ SIA_integration_decisions: "Интеграция территорий"
+ SIA_integration_decisions_desc: "Прежде чем мы сможем §Cинтегрировать новые территории§! в нашу собственную администрацию,\nнеобходимы все §Y3§! следующие реформы для каждого отдельного штата:\n\n - §OМуниципальные реформы§!:  Замена верховных комиссаров на провинциальные советы.\n - §YПравовые реформы§!:  Адаптация [ROOT.GetProperAdjective]ого закона для лучшего соответствия местным условиям.\n - §GРасширение государственной службы§!:  Образование/Санитария/Законодательство/Телеграф.\n\n§RЕсли мы потеряем право собственности на собственные штаты, все завершенные реформы будут потеряны.§!\n"
+ SIA_implement_municipal_reform_state: "§OМуниципальные реформы§! в гос-ве [From.GetName]"
+ SIA_implement_municipal_reform_state_desc: "Благодаря перекройке административных границ в [From.GetName] и замене должности верховного комиссара на провинциальные советы, местные проблемы с большей вероятностью будут услышаны и приняты к исполнению."
+ SIA_reinforce_local_police_state: "§YУсилить местную полицию§! в гос-ве [From.GetName]"
+ SIA_reinforce_local_police_state_desc: "Поддерживая местные полицейские силы, будь то в виде рабочей силы или обучения, [From.GetName] теперь будет более безопасным местом как для местных жителей, так и для наших недавно переведенных бюрократов, которые работают над централизацией нашей власти в регионе.."
+ SIA_expand_civil_service_state: "§GРасширить госслужбу§! в гос-ве [From.GetName]"
+ SIA_expand_civil_service_state_desc: "Благодаря расширению доступа к гражданской службе в [From.GetName] жизнь тех, кто жил здесь, все больше и больше соединяется с жизнью тех, кто живет в других местах в [SIA.GetSIAshortname], чем когда-либо прежде"
+ SIA_integrate_state: "§CИнтегрировать§! гос-во [From.GetName]"
+ SIA_integrate_state_desc: "Освободив [From.GetName], мы §Cреинтегрируем их обратно в нашу страну§! снова.."
+
+ SIA_integration_more_unlocked_tt: "Откроет повторяющиеся решения §YУсилить местную полицию§! и §GРасширить госслужбу§! в этом регионе.\n"
+ SIA_integration_repeatable_tt: "Это решение повторяющееся и появится снова.\n"
+
+ SIA_250_inf_10_CP: "£rifle_texticon §H250§! £command_power §Y10§!"
+ SIA_250_inf_10_CP_blocked: "£rifle_texticon §R250§! £command_power §R10§!"
+ SIA_250_inf_10_CP_tooltip: "Это решение стоит $SIA_250_inf_10_CP_blocked$"
+
+# Diplomatic Matters
+ SIA_diplomatic_matters_category: "Дипломатические вопросы"
+
+# Siamese Civil War
+ SIA_civil_war_category: "Сиамская гражданская война"
+ SIA_secure_bangkok: "Безопасный Бангкок"
+ SIA_secure_bangkok_desc: "Чтобы обеспечить легитимность нашей фракции в гражданской войне, бьющееся сердце сиамской нации должно быть под нашим контролем. Несоблюдение этого требования нанесет огромный ущерб нашему делу."
+ SIA_secure_bangkok_tt: "§R$MODIFIER_ARMY_ORG_FACTOR$§!, §RАтака§!, §RОборона§!, §RПотребление снабжения§!, и §RСкорость восстановления дивизии§! нашей армии ухудшается еженедельно.\n\n"
+ SIA_naval_dissolution_tt: "§RКонтроль над большинством кораблей КСФ будет отключен на все время гражданской войны.§!\n\nРешение о восстановлении контроля над Королевским Сиамским Флотом можно будет принять позже, кто бы ни вышел победителем."
+ SIA_naval_reestablish_control_tt: "§GМы успешно восстановили контроль над довоенными флотами КСФ.§!"
+
+### Cosmetic Tags ###
+ SIA: "Сиам"
+ SIA_ADJ: "Сиамск"
+ SIA_DEF: "Сиам"
+
+ SIA_totalist: "Сиамская Народная Демократическая Республика"
+ SIA_totalist_ADJ: "Сиамск"
+ SIA_totalist_DEF: "Сиамская Народная Демократическая Республика"
+ SIA_syndicalist: "Социалистическое государство Сиам"
+ SIA_syndicalist_DEF: "Социалистическое государство Сиам"
+ SIA_radical_socialist: "Социалистическое государство Сиам"
+ SIA_radical_socialist_DEF: "Социалистическое государство Сиам"
+ SIA_social_democrat: "Королевство Сиам"
+ SIA_social_democrat_DEF: "Королевство Сиам"
+ SIA_social_liberal: "Королевство Сиам"
+ SIA_social_liberal_DEF: "Королевство Сиам"
+ SIA_market_liberal: "Королевство Сиам"
+ SIA_market_liberal_DEF: "Королевство Сиам"
+ SIA_social_conservative: "Королевство Сиам"
+ SIA_social_conservative_DEF: "Королевство Сиам"
+ SIA_authoritarian_democrat: "Королевство Сиам"
+ SIA_authoritarian_democrat_DEF: "Королевство Сиам"
+ SIA_paternal_autocrat: "Королевство Сиам"
+ SIA_paternal_autocrat_DEF: "Королевство Сиам"
+ SIA_national_populist: "Королевство Сиам"
+ SIA_national_populist_DEF: "Королевство Сиам"
+
+ SIA_REP_totalist: "Сиамская Народная Демократическая Республика"
+ SIA_REP_totalist_DEF: "Сиамская Народная Демократическая Республика"
+ SIA_REP_syndicalist: "Социалистическое государство Сиам"
+ SIA_REP_syndicalist_DEF: "Социалистическое государство Сиам"
+ SIA_REP_radical_socialist: "Социалистическая Республика Сиам"
+ SIA_REP_radical_socialist_DEF: "Социалистическая Республика Сиам"
+ SIA_REP_social_democrat: "Республика Сиам"
+ SIA_REP_social_democrat_DEF: "Республика Сиам"
+ SIA_REP_social_liberal: "Республика Сиам"
+ SIA_REP_social_liberal_DEF: "Республика Сиам"
+ SIA_REP_market_liberal: "Республика Сиам"
+ SIA_REP_market_liberal_DEF: "Республика Сиам"
+ SIA_REP_social_conservative: "Республика Сиам"
+ SIA_REP_social_conservative_DEF: "Республика Сиам"
+ SIA_REP_authoritarian_democrat: "Республика Сиам"
+ SIA_REP_authoritarian_democrat_DEF: "Республика Сиам"
+ SIA_REP_paternal_autocrat: "Республика Сиам"
+ SIA_REP_paternal_autocrat_DEF: "Республика Сиам"
+ SIA_REP_national_populist: "Республика Сиам"
+ SIA_REP_national_populist_DEF: "Республика Сиам"
+
+ THI: "Таиланд"
+ THI_ADJ: "Тайск"
+ THI_DEF: "Таиланд"
+
+ THI_totalist: "Тайская Народная Демократическая Республика"
+ THI_totalist_DEF: "Тайская Народная Демократическая Республика"
+ THI_syndicalist: "Социалистическое государство Таиланд"
+ THI_syndicalist_DEF: "Социалистическое государство Таиланд"
+ THI_radical_socialist: "Социалистическая Республика Таиланд"
+ THI_radical_socialist_DEF: "Социалистическая Республика Таиланд"
+ THI_social_democrat: "Королевство Таиланд"
+ THI_social_democrat_DEF: "Королевство Таиланд"
+ THI_social_liberal: "Королевство Таиланд"
+ THI_social_liberal_DEF: "Королевство Таиланд"
+ THI_market_liberal: "Королевство Таиланд"
+ THI_market_liberal_DEF: "Королевство Таиланд"
+ THI_social_conservative: "Королевство Таиланд"
+ THI_social_conservative_DEF: "Королевство Таиланд"
+ THI_authoritarian_democrat: "Королевство Таиланд"
+ THI_authoritarian_democrat_DEF: "Королевство Таиланд"
+ THI_paternal_autocrat: "Королевство Таиланд"
+ THI_paternal_autocrat_DEF: "Королевство Таиланд"
+ THI_national_populist: "Королевство Таиланд"
+ THI_national_populist_DEF: "Королевство Таиланд"
+ 
+ THI_REP: "Тайланд"
+ THI_REP_ADJ: "Тайск"
+ THI_REP_DEF: "Тайланд"
+ 
+ THI_REP_totalist: "Тайская Народная Демократическая Республика"
+ THI_REP_totalist_DEF: "Тайская Народная Демократическая Республика"
+ THI_REP_syndicalist: "Социалистическое государство Таиланд"
+ THI_REP_syndicalist_DEF: "Социалистическое государство Таиланд"
+ THI_REP_radical_socialist: "Социалистическая Республика Таиланд"
+ THI_REP_radical_socialist_DEF: "Социалистическая Республика Таиланд"
+ THI_REP_social_democrat: "Республика Тайланд"
+ THI_REP_social_democrat_DEF: "Республика Тайланд"
+ THI_REP_social_liberal: "Республика Тайланд"
+ THI_REP_social_liberal_DEF: "Республика Тайланд"
+ THI_REP_market_liberal: "Республика Тайланд"
+ THI_REP_market_liberal_DEF: "Республика Тайланд"
+ THI_REP_social_conservative: "Республика Тайланд"
+ THI_REP_social_conservative_DEF: "Республика Тайланд"
+ THI_REP_authoritarian_democrat: "Республика Тайланд"
+ THI_REP_authoritarian_democrat_DEF: "Республика Тайланд"
+ THI_REP_paternal_autocrat: "Республика Тайланд"
+ THI_REP_paternal_autocrat_DEF: "Республика Тайланд"
+ THI_REP_national_populist: "Республика Тайланд"
+ THI_REP_national_populist_DEF: "Республика Тайланд"
+ 
+ SIA_Parliament: "Парламентский Сиам"
+ SIA_Parliament_ADJ: "Сиам-парламентарск"
+ SIA_Parliament_DEF: "Парламентский Сиам"
+ 
+ SIA_Royalist: "Королевский Сиам"
+ SIA_Royalist_ADJ: "Сиам-королевск"
+ SIA_Royalist_DEF: "Королевский Сиам"
+
+### Characters ###
+ ## Head of State
+ SIA_prajadhipok: "Прачадипок"
+ SIA_prajadhipok_leader_desc: "Прачадипок, также известный под своим тронным именем Рама VII, взошёл на трон Сиама после смерти своего брата в 1925. Неподготовленный к правлению ввиду своего удалённого нахождения в порядке наследования, он на деле является марионеткой Сиамского Государственного Совета, управляемого его братьями. Прачадипок, получивший образование за границей и получивший офицерское звание в Британской Армии, тем не менее, честно забоится о судьбах своих подданных и делает всё возможное, чтобы облегчить их долю."
+ 
+ SIA_ananda_mahidol: "Ананда Махидон"
+ SIA_ananda_mahidol_leader_desc: "Ананда Махидол, также известный под своим тронным именем Рама VIII, взошёл на трон после смерти своего дяди, Рамы VII. Ананда Махидол изначально считался крайне маловероятным кандидатом на наследование трона, будучи ещё подростком и притом низкого происхождения. Изначально его ранг был 'Мом Чао' и был одним из самых низких из Сиамских принцев. Не смотря на свой возраст и неопытность, он быстро выиграл расположение народа Сиама. Иностранные наблюдатели, тем не менее, считают, что его правление не продлится долго."
+ 
+ SIA_bhumibol_adulyadej: "Пхумипон Адульядет"
+ SIA_bhumibol_adulyadej_leader_desc: "Пхумипон Адульядет, также известный под своим тронным именем Рама IX, взошёл на трон после загадочной смерти своего брата, Рамы VIII. Пхумипон Адульядет демонстрирует большее количество политической компетенции, чем его предшественник, с лёгкостью преодолевая запутанный лабиринт сиамской политики. Многие называют Раму IX спасителем однажды погибающей Сиамской монархии."
+ 
+ SIA_chula_chakrabongse: "Чула Чакрабон"
+ SIA_chula_chakrabongse_leader_desc: "Чула Чакрабон, на половину украинский внук короля Рамы V, был установлен на трон Сиама. Чула Чакрабон до своего прихода ко власти проводил своё время в эксцентричных развлечениях в Британии и Австрии. Он делегировал все свои королевские обязанности, и посвящает себя своему увлечению автомобильными и конными гонками."
+ 
+ SIA_paribatra_sukhumbhand: "Парибатра Сухумбандху"
+ SIA_paribatra_sukhumbhand_leader_desc: "Парибратра Сухумбханд, кузен престолонаследника сиамского трона Ананды Махидола, захватил власть в стране под предлогом молодости и неопытности Ананды. Пользуясь полной поддержкой Тайного Совета, он короновал себя и принял тронное имя Рама VIII, сделав ветвь Борипатров новой правящей династией Сиама."
+ 
+ SIA_chumbhotbongs_paribatra: "Чумбхотонгс Парибатра"
+ SIA_chumbhotbongs_paribatra_leader_desc: "Чумбхотонгс Парибатра, также известный под своим тронным именем Рама IX, взошёл на трон Сиама после своего отца Рамы VIII. Чумбхотонгс немного интроверт, но, тем не менее, политически компетентен. Он известен как спонсор искусств, который превратил несколько своих поместий в музеи и богато одарил артистов, как в стране, так и за рубежом."
+ 
+ SIA_sukhumabhinanda: "Сухумбхинанда"
+ SIA_sukhumabhinanda_leader_desc: "Сухумбхинанда, сын бывшего короля Рамы VIII и женщины низкого происхождения, был легитимирован своим братом Рамой IX, из-за неспособности последнего стать отцом наследника. Он унаследовал власть под именем Рама X. Сухумбхинада является широко известным филантропом, и тратит много денег, чтобы облегчить долю самых бедных жителей Бангкока. С его вхождением на трон, большая часть недовольства монархией быстро улетучилась."
+ 
+ SIA_supha_sirimanon: "Супха Сиринамон"
+ SIA_supha_sirimanon_leader_desc: "Журналист, поэт, а теперь и новый премьер республики - Супха Сирманон - поначалу выглядел странным выбором для национального лидера. Однако в левом интеллигентском сообществе он более известен под псевдонимом \"Jittin Thammachart\", а также как переводчик публикации Капитала на тайском языке.\n\nБудучи в глубине души приверженцем классического марксизма, Супха является прагматиком и рассматривал Плановую экономику как путь вперед - и что теперь рабочие и капиталисты могут примириться друг с другом."
+ 
+ SIA_pridi_phanomyong: "Приди Паномионг"
+ SIA_pridi_phanomyong_royal: "Луонг Прадитманутхам"
+ SIA_pridi_phanomyong_leader_desc: "Приди Фаномионг, также известный под своим министерским титулом 'Лянг Прадитманутам', сразу же после своего назначения министром начал работу по улучшению качества жизни сиамского народа после своего назначения.  Его скандальное ‘Досье в Желтой Обложке’ обрисовало программу политических и экономических реформ, а также вызвало раскол в правительстве Сиама, который помог развитию его политической карьеры."
+ SIA_pridi_phanomyong_victorious_leader_desc: "Приди Фанмионг, в прошлом известный под своим министерским титулом 'Лянг Прадитманутам', стал председателем Сафа Прахачон после краткой, но кровавой Сиамской Гражданской Войны. Теперь его радикальные парламентарные реформы и программы национализации могут продолжаться, несмотря на растущее недовольство радикальных членов Партии. Не смотря на свою репутацию, у Фанмионга возникают трудности с сохранением главенства, даже при помощи его соратников в ВМФ."
+ 
+ SIA_thawan_thamrongnawasawat: "Тавал Тамронгнавасават"
+ SIA_thawan_thamrongnawasawat_royal: "Луанг Тамронгнавасават"
+ SIA_thawan_thamrongnawasawat_leader_desc: "Прозванный 'Государственным деятелем с золотым языком', Таван известен своими навыками публичных выступлений и дебатов, которые он в полной мере использует для создания своей коалиции. Как поборник низовых взглядов, бывший адмирал предпочитает политику, которая помогает простым людям, например, установление потолка цен на бытовые товары и расширение общественного благосостояния. Однако эта политика также ставит его в противоречие с капиталистами и растущим тайско-китайским средним классом, которые обременены большими налогами."
+ # WIP
+ SIA_thawan_thamrongnawasawat_commander_desc: "§YОписание адмирала\n§YРодился:§L\nNovember 21st, 1901, in Krungkao Province, Monthon Ayutthaya, Королевство Сиам"
+
+ SIA_pote_sarasin: "Пот Сарасин"
+ SIA_pote_sarasin_leader_desc: "Тайско-китаец из высшего среднего класса, опыт Пот Сарасина в Министерстве финансов во время Черного Понедельника сформировал его мировоззрение. Как поклонник австрийского экономиста Хайека и строгого соблюдения закона, он выступает против расширения государственных предприятий, стараясь при этом обеспечить честную, свободную и открытую конкуренцию. Другая его политика - это распространение высшего образования по всей стране как средства оживления восстанавливающейся местной промышленности."
+ 
+ SIA_seni_pramoj: "Сени Прамот"
+ SIA_seni_pramoj_leader_desc: "Как член кадетской ветви династии Чакри с китайским происхождением, Сени может показаться странным выбором лидера для республиканского сиамского государства. Несмотря на это, этому 'Молодому Змею' удается собрать достаточно политического влияния среди многих консервативных кругов со своей собственной политической прозорливостью, а не семейными связями, чтобы получить рабочее большинство для того, чтобы новое правительство функционировало должным образом. Его политика 'Ngoen Phan' (Колебания денег) помогает сохранить сельскую местность довольной и защищенной от синдикалистских рук. Однако, остается открытым вопрос о том, заплатит ли он только на словах за республиканские дела..."
+ 
+ SIA_plaek_phibunsongkhram: "Плек Пибунсонгкрам"
+ SIA_plaek_phibunsongkhram_royal: "Луонг Пибунсонгкрам"
+ SIA_plaek_phibunsongkhram_leader_desc: "Маршал Пибун Сонгкрам, более широко известный под своими псевдонимами 'Чормпон Пор' среди тайцев и 'Пибун' на западе, единожды соратник Приди Панмоунга и Народной Партии, захватил власть после Кризиса Досье с Жёлтой Обложкой. Вместе с Луангом Вичитватакарном и его союзниками в армии он создаст культ своей личности, а монархию сдвинет на второй план. Он считает настоящий Сиам 'старым артефактом ушедшей эры', и считает, что национализм и милитаризм являются необходимыми свойствами современного государства."
+ SIA_plaek_phibunsongkhram_commander_desc: "§YОписание генерала\n§YРодился:§L\n14 Июля, 1897, в провинции Нонтхабури, Монтон Крунгтхеп, Королевство Сиам\n§YВоенная карьера:§L\nПхибун родился под именем Плаек Киттасангкха в семье тайского владельца фруктового сада, и его старший брат Пракит поступил в кадетскую школу Королевской сиамской армии в 1909 году. После окончания школы он недолго служил в 7-м артиллерийском полку (Пхитсанулок), где встретил свою жену, и в 1-м Королевском гвардейском артиллерийском полку, после чего получил Королевскую стипендию для продолжения учебы в k.u.k. Artillerie-Schießschule в Хаджмаскерере, Венгрия, а затем в Терезианской военной академии в Винер-Нойштадте, Австрия. Вскоре после возвращения в Сиам, Пхибун стал известен своими подвигами в Сиамской интервенции в Бирме 1928-1929 гг. при освобождении Мулмейна и Давея в Тенассериме - за свои достижения он получил титул \"Луанг Пхибунсонгкхрам\". Благодаря харизме и личным связям с молодыми офицерами и высшим командованием через принца Приди Дебьябонгса Девакула, своего старого начальника, неудивительно, что он достиг своего нынешнего положения в относительно молодом возрасте.\n§YВажные примечания:§L\nНа тайском языке его имя означает \"Странный\", так как его родители считали странным положение его ушей при рождении, и поэтому обычно предпочитали, чтобы его называли по имени П (Пор)."
+ 
+ SIA_phao_sriyanond: "Фао Шриянондо"
+ SIA_phao_sriyanond_leader_desc: "Шеф полиции Фао Шрианонда унаследовал позицую главы военного режима у Пибуна Сонгкрама при помощи клики Сои Ратчакру. Фао известен за свою жестокость и политические хитрости, и то, как часто его политические соперники ‘исчезают’. Он также верит, что Сиамская монархия – бессмысленное старьё, вредящее идее национализма, и поэтому поддерживает идею республики."
+ 
+ SIA_sarit_thanarat: "Сарит Танарат"
+ SIA_sarit_thanarat_leader_desc: "Генерал Сарит Танарат унаследовал позицию главы военного режима у Пибуна Сонгкрама при помощи клики Сисао Тавает. Он был лишь младшим офицером в армии, но, благодаря покровительству Пибуна и Пина, он быстро получал повышения. Ярый антисиндикалист считает монархию важной деталью в борьбе с красными и совершенствовании тайского национализма."
+ 
+ ## Field Marshals/Generals
+ SIA_boworadet_kridakorn: "Боворадет Кридакорн"
+ SIA_boworadet_kridakorn_royal: "Принц Боворадет Кридакорн"
+ SIA_boworadet_kridakorn_commander_desc: "§YОписание генерала\n§YРодился:§L\nApril 3rd, 1877, in Phra Nakhon Province, Monthon Krungthep, Королевство Сиам\n§YВоенная карьера:§L\nA grandson of King Mongkut/Rama IV, Boworadet completed his military studies overseas in the United Kingdom in 1898 while his father worked as the Siamese ambassador there. Not satisfied with his starting rank in the Royal Siamese Army, he went for another year at the School of Military Engineering in Chatham, the United Kingdom. However, with the pro-Entente military commanders quickly sidelined by the Siamese entrance to the Weltkrieg, it wouldn't be until 1928 when King Prajadhipok personally appointed him as the new Minister of Defense to shore up the king's support against the Siamese Supreme Council of State.\n§YImportant Notes:§L\nHas a close relationship with King Prajadhipok and is known as a populist commander within the Army."
+
+ SIA_jarun_seriroengrit: "Ярун Серироэнгрит"
+ SIA_jarun_seriroengrit_royal: "Луанг Серироэнгрит"
+ SIA_jarun_seriroengrit_commander_desc: "§YОписание генерала\n§YРодился:§L\nOctober 27th, 1895, in Phra Nakhon Province, Monthon Krungthep, Королевство Сиам\n§YВоенная карьера:§L\nA scion in the house of Rattanakul, whose family's history can be traced to the Ayutthayan period, Jarun entered the Royal Siamese Army Cadet School in 1907 and graduated with the highest score. Jarun quickly climbed up through the ranks as the protégé of Prince Purachatra Jayakara, Father of the Siamese Railway and Wireless Communication, in the Royal Siamese Army's Department of Engineering.\n\nJarun's name came to the forefront during the Siamese Intervention in Burma 1928-1929 when units under his Phayap Army command \"liberated\" the Shan states up to the Salween river defensive line, where better supply train and fast communication proved to be the decisive factor in the rugged terrain."
+
+ SIA_phot_phahonyothin: "Пхот Пхахонйотхин" 
+ SIA_phot_phahonyothin_royal: "Прайя Пхахонпхонпаюхасена"
+ SIA_phot_phahonyothin_commander_desc: "§YОписание генерала\n§YРодился:§L\nMarch 29th, 1887, in Phra Nakhon Province, Monthon Krungthep, Королевство Сиам\n§YВоенная карьера:§L\nBorn as Phot Phahonyothin to a Thai-Teochew Chinese father, Colonel Kim Phahonyothin, and a Thai-Mon mother Chap Phahonyothin. Phahon entered the Royal Siamese Army Cadet School in 1901 and graduated with the highest score. He was later sent by Royal Scholarship to study at the Kadettenschule in Potsdam, then Royal Prussian Main Cadet Institute at Groß-Lichterfelde, in Berlin where he became a classmate of Hermann von Göring and an acquaintance of Hideki Tojo through sword duels. Phahon was then sent to study at the Engineering College of Copenhagen in Denmark, he was however only able to complete one year as his scholarship funds had run out, he returned to Siam in 1912.\n\nPhraya Phahonphonpayuhasena (Phot Phahonyothin) later acted as a founding core member of the "The Musketeers", the influential clique of post-Weltkrieg officers, with Phahon himself serving as the Deputy Inspector of Artillery."
+
+ SIA_din_tharab: "Дин Тхараб" 
+ SIA_din_tharab_royal: "Прайя Сриситтисонгкхрам"
+ SIA_din_tharab_commander_desc: "§YОписание генерала\n§YРодился:§L\nMay 10th, 1891, in Phetchaburi Province, Monthon Ratchaburi, Королевство Сиам\n§YВоенная карьера:§L\nBorn as Din Tharab in a middle-class farmer family. Din entered the Royal Siamese Army Cadet School in 1901 and graduated with the highest score. He was later sent by Royal Scholarship to study at the Kadettenschule in Potsdam, then Royal Prussian Main Cadet Institute at Groß-Lichterfelde, in Berlin, along with Cadet Phot Phahonyothin (Phraya Phahonphonpayuhasena) before returning to Siam in 1914. Though supportive of democratic reform, Din himself remained a staunch royalist and detested any attempt to achieve that forcefully.\n\nPhraya Srisitthisongkhram (Din Tharab) later acted as a founding core member of the "The Musketeers", the influential clique post-Weltkrieg officers, with Din himself serving as the 1st Army's Chief of Staff."
+
+ SIA_sala_emasiri: "Сала Эмасири" 
+ SIA_sala_emasiri_royal: "Прайра Рити-Аркани"
+ SIA_sala_emasiri_commander_desc: "§YОписание генерала\n§YРодился:§L\nJanuary 14th, 1889, in Phra Nakhon Province, Monthon Krungthep, Королевство Сиам\n§YВоенная карьера:§L\nBorn as Sala Emasiri in a military family. Sala entered the Royal Siamese Army Cadet School in 1903 and graduated among the top of the class. Sala was serving as the Deputy Commander of the 8th Artillery Regiment in Nakhon Ratchasima when Siam entered the Weltkrieg, serving with distinction during the war on the Indochinese Front.\n\nPhrayra Rithhi-arkaney (Sala Emasiri) was later inducted as a core member of the "The Musketeers", the influential clique post-Weltkrieg officers, with Sala himself serving as the Commander of the 1st Royal Artillery Regiment in Bangkok, being the group's sole key member who has not studied in the German Empire."
+
+ SIA_wan_chuthin: "Ван Чутин"
+ SIA_wan_chuthin_royal: "Луанг Прасарпиттхайют"
+ SIA_wan_chuthin_commander_desc: "§YОписание генерала\n§YРодился:§L\nJune 9th, 1894, in Phra Nakhon Province, Monthon Krungthep, Королевство Сиам\n§YВоенная карьера:§L\nBorn as Wan Chuthin to a Thai-Teochew Chinese father, Judge Euan Chuthin, and a Thai mother Wong Chuthin. Wan entered the Royal Siamese Army Cadet School in 1908 and graduated with the fifth highest score. He was later sent by Royal Scholarship to study at the Kadettenschule in Potsdam, then Royal Prussian Main Cadet Institute at Groß-Lichterfelde, in Berlin though the start of the Weltkrieg forced him and many Thai cadets to relocate to Eidgenössische Technische Hochschule Zürich in Switzerland instead where he first learned about the Swiss Democracy. Following the Siamese entrance into the war, Wan applied for a military attaché position in Berlin and briefly served as the vice-commander of the small Royal Siamese Army contingent in Europe before returning to Siam in 1921.\n\nLuang Prasartpitthayayuth (Wan Chuthin) later acted as a founding core member of the "The Musketeers", the influential clique post-Weltkrieg officers, with Wan himself serving as the Director of the General Staff College."
+
+ SIA_phin_choonhavan: "Пхин Чхунхаван" 
+ SIA_phin_choonhavan_royal: "Луанг Чумнанюттхасарт"
+ SIA_phin_choonhavan_commander_desc: "§YОписание генерала\n§YРодился:§L\nOctober 14th, 1891, in Samut Songkhram Province, Monthon Ratchaburi, Королевство Сиам\n§YВоенная карьера:§L\nBorn to a family of Thai fruit orchard owners, Phin graduated from the Royal Siamese Army Cadet School with high distinction and was one with the quickest promotion to Major rank in his mid-thirties through his sheer will. He graduated from the same RSCAS class as Phibun and has huge respect for him, and is considered one of Phibun's prominent supporters as he is viewed as the next commander of the 3rd Military Region (Isan/Northeast).\n§YImportant Notes:§L\nHe loves his nation equally as much as his own fruit orchard and occasionally gives flowers he planted himself as gifts with hidden meanings."
+
+ SIA_thep_panthumasaen: "Теп Пхантхумасаен" 
+ SIA_thep_panthumasaen_royal: "Пья Сонгсурадет"
+ SIA_thep_panthumasaen_commander_desc: "§YОписание генерала\n§YРодился:§L\nAugust 12th, 1892, in Phra Nakhon Province, Monthon Krungthep, Королевство Сиам\n§YВоенная карьера:§L\nBorn as Thep Phanthumasaen in a military family. Wan entered the Royal Siamese Army Cadet School in 1904 and graduated with the highest score. It was in the RSACS that he first noticed the treatment gap between the aristocrat and commoner among the cadets. Songsuradet was later sent by Royal Scholarship to study at the Preußische Kriegsakademie in Berlin. He then entered military service as an army engineer in Magdeburg before returning to Siam in 1915, living in German Empire for eight years in total. Songsuradet briefly saw combat during the Weltkrieg on the Indochinese Front before serving as the Chief Engineer who played a huge row in the Siamese railway construction nationwide, with one of his biggest achievement being the 1.3km-long Khun Tan Tunnel which connected Chiang Mai to the rest of the country.\n\nPhraya Songsuradet (Thep Phanthumasaen) later acted as a founding core member of the "The Musketeers", the influential clique post-Weltkrieg officers, with Songsuradet himself serving as the Chief of Directorate of Operations, as well as the Chief of Education at the RCACS."
+
+ SIA_adul_adulyadejchrat: "Адул Адульядеджарат" 
+ SIA_adul_adulyadejchrat: "Луанг Адульядейчрат"
+ # WIP
+ SIA_adul_adulyadejchrat_commander_desc: "§YОписание генерала\n§YРодился:§L\nJune 28th, 1894, in Mueang Phra Nakhon, Monthon Krungthep, Королевство Сиам"
+
+ SIA_pichit_kriengsakpichit: "Пичит Криенгсакпичит" 
+ SIA_pichit_kriengsakpichit_royal: "Луанг Криенгсакпичит"
+ # WIP
+ SIA_pichit_kriengsakpichit_commander_desc: "§YОписание генерала\n§YРодился:§L\nJuly 20th, 1896, in Phra Pradaeng Province, Monthon Krungthep, Королевство Сиам"
+
+ SIA_karj_karjsongkhram: "Кардж Карджсонгхрам" 
+ SIA_karj_karjsongkhram_royal: "Луанг Карджсонгкрам"
+ SIA_karj_karjsongkhram_commander_desc: "§YОписание генерала\n§YРодился:§L\nApril 12th, 1890, in Princedom of Nakhon Lamphunchai, Monthon Phayap, Королевство Сиам\n§YВоенная карьера:§L\nBorn as Tian Kengradomying, Karj entered the Royal Siamese Army Cadet School before serving in the Phayap Army with an average performance. He later moved to Bangkok after finishing the Royal Siamese General Staff College to sit in military procurement commissions for the post-Burmese Intervention Royal Siamese Reform Plan of 2473 B.E. - thus wielding bigger influence compared to his title.\n§YImportant Notes:§L\nHe is known to be quite aloof and often butt-heads with those under his command, also for having at least 5 mistresses at once."
+
+ SIA_mangkorn_promyothee: "Мангкорн Промиоти" 
+ SIA_mangkorn_promyothee_royal: "Луанг Промиоти"
+ # WIP
+ SIA_mangkorn_promyothee_commander_desc: "§YОписание генерала\n§YРодился:§L\nNovember 16th, 1896, in Thonburi Province, Monthon Krungthep, Королевство Сиам"
+
+ ## Admirals
+ SIA_sindhu_kamolnawin: "Синдху Камолнавин" 
+ SIA_sindhu_kamolnawin_royal: "Луанг Синтхусонгкрамчай"
+ # WIP
+ SIA_sindhu_kamolnawin_commander_desc: "§YОписание адмирала\n§YРодился:§L\nJune 23th, 1901, in Samut Sakhon Province, Monthon Nakhon Chaisi, Королевство Сиам"
+
+ SIA_thongdee_suwanprueng: "Тхонгди Суванпруенг" 
+ SIA_thongdee_suwanprueng_royal: "Прайя Виччиколлати"
+ # WIP
+ SIA_thongdee_suwanprueng_commander_desc: "§YОписание адмирала\n§YРодился:§L\nOctober 23th, 1890, in Thonburi Province, Monthon Krungthep, Королевство Сиам"
+
+ SIA_bunchai_sawathasuk: "Бунчай Саватхасук" 
+ SIA_bunchai_sawathasuk_royal: "Прайя Вичарняккич"
+ # WIP
+ SIA_bunchai_sawathasuk_commander_desc: "§YОписание адмирала\n§YРодился:§L\nJune 17th, 1890, in Phra Nakhon Province, Monthon Krungthep, Королевство Сиам"
+
+ SIA_mongkol_mongkolnawin: "Монгкол Монгколнавин" 
+ SIA_mongkol_mongkolnawin_royal: "Пхра Монгколнававут"
+ # WIP
+ SIA_mongkol_mongkolnawin_commander_desc: "§YОписание адмирала\n§YРодился:§L\nNovember 1st, 1894, in Nonthaburi Province, Monthon Krungthep, Королевство Сиам"
+
+ SIA_prayoon_yutthasartkosol: "Праюн Юттхасарткосол"
+ SIA_prayoon_yutthasartkosol_royal: "Луанг Юттхасарткосол"
+
+ ## Air Chiefs
+ SIA_boonjeam_komolmit: "Бунджеам Комолмит"
+ SIA_boonjeam_komolmit_royal: "Луанг Атуэктевадет"
+
+ SIA_long_sinsuk: "Луанг Синсук"
+ SIA_long_sinsuk_royal: "Пхрая Вехасаярнсилпасит"
+
+ SIA_munee_mahasantana: "Муни Махасантана"
+ SIA_munee_mahasantana_royal: "Пхра Веджайантрунгсарит"
+
+ SIA_sunee_suwanprateep: "Суни Суванпратип"
+ SIA_sunee_suwanprateep_royal: "Пхрая Чалермаркарт"
+
+ SIA_thip_ketuthat: "Тип Кетутхат"
+ SIA_thip_ketuthat_royal: "Пхрая Тайарнпикарт"
+
+ ## Заместитель командира
+ SIA_kon_hutasingha: "Кон Хутасингха"
+ SIA_kon_hutasingha_royal: "Пхрая Манопакорн Нититада"
+
+ SIA_pramarn_adireksarn: "Прамарн Адирексарн"
+
+ SIA_sawaet_piampongsarn: "Савает Пьямпонгсарн"
+
+ ## Политическая
+ SIA_tiang_sirikhanth: "Тианг Сирикхант"
+
+ SIA_wan_waithayakon: "Ван Вайтхаякон"
+ SIA_wan_waithayakon_royal: "Принц Ван Вайтхаякон"
+
+ SIA_wichit_wichitwathakan: "Вичит Вичитватакан"
+ SIA_wichit_wichitwathakan_royal: "Луанг Вичитватакан"
+
+ ## Экономический
+ SIA_mangkorn_samsen: "Мангкорн Самсен"
+
+ SIA_sun_kijjumnong: "Сун Киджумнонг"
+
+ SIA_wichit_lulitanon: "Вичит Лулитанон"
+
+ SIA_wisuth_tonwanik: "Висут Тонваник"
+ SIA_wisuth_tonwanik_royal: "Пхрая Тонваникмонтри"
+
+ ## Исследовательская работа
+ SIA_jira_wichitsongkhram: "Джира Вичитсонгхрам"
+ SIA_jira_wichitsongkhram_royal: "Луанг Вичитсонгхрам"
+
+ SIA_pin_malakul: "Пин Малакул"
+
+ SIA_tua_lapanukrom: "Туа Лапанукром"
+
+ ## Строительство
+ SIA_jerm_arwuth: "Джерм Арвут"
+ SIA_jerm_arwuth_royal: "Пхрая Джинда Чаккарат"
+
+ SIA_narisara_nuwattiwong: "Нарисара Нуваттивонг"
+ SIA_narisara_nuwattiwong_royal: "Принц Нарисара Нуваттивонг"
+
+ SIA_purachatra_jayakara: "Пурачатра Джаякара"
+ SIA_purachatra_jayakara_royal: "Принц Пурачатра Джаякара"
+
+ ## Другой
+ SIA_bung_suphachalasai: "Бунг Супхачаласай"
+ SIA_bung_suphachalasai_royal: "Луанг Супхачаласай"
+
+ SIA_buntaeng_thongsawat: "Бунтаенг Тонгсават"
+
+ SIA_kulap_saipradit: "Кулап Сайпрадит"
+
+ SIA_pijarn_dullalampha: "Пиджарн Дуллаламфа"
+ SIA_pijarn_dullalampha_royal: "Пхра Пиджарнполлакий"
+
+ SIA_tianthai_apichartbhut: "Тяньтай Апичартбхут"
+
+ SIA_wart_sunthonjamorn: "Варт Сантонжаморн"
+
+ ##Operatives
+ SIA_jumkad_plangkoon: "Джумкад Плангкун"
+ SIA_puey_ungphakorn: "Пуэй Унгпхакорн"
+
+ ## Ranks & Medals Localization
+ # General, Field Marshal and Navy Commanders - Seems like placeholder by PDX but gonna put this here for now
+ # SIA_rank1: "Phon Tri"
+ # SIA_rank2: "Phon Tho"
+ # SIA_rank3: "Phon Ek"
+ # SIA_rank4: "Chom Phon"
+ # SIA_naval_rank1: "Phon Ruea Tri"
+ # SIA_naval_rank2: "Phon Ruea Tho"
+ # SIA_naval_rank3: "Phon Ruea Ek"
+ # SIA_naval_rank4: "Chom Phon Ruea"
+
+ # Division-level Officers
+ SIA_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0: "Фон Тхо"
+ SIA_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1: "Фон Эк"
+ SIA_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2: "Фон Эк"
+ SIA_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "Фон Чаттава"
+ SIA_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Фон Чаттава"
+
+ # Medals
+ # Independence Medal
+ SIA_military_medal_santimala: "Медаль Санти Мала"
+ SIA_military_medal_santimala_desc: "Также известная как \"Rian Santi Mala\" (Медаль Санти Мала), эта медаль является наградой для тех, кто боролся за сохранение независимости [SIA.GetProperAdjective]ой нации."
+ # Bravery Medal
+ SIA_military_medal_klaharn: "Медаль Клахарн"
+ SIA_military_medal_klaharn_desc: "Также известная как \"Rian Klaharn\" и ранее награжденная как \"Rian Dushdi Mala Khem Klaharn\" (Медаль Душди Мала (Отвага)) - эта медаль вручается тем, кто храбро сражался на поле боя. Если человек или подразделение имеет право на получение двух или более медалей 'За отвагу', золотая булавка 'Chor Chaiyapruk' (Венок победы) будет прикреплена к ленте существующей медали."
+ SIA_military_medal_rammala: "Орден Рамы (6-й степени)"
+ SIA_military_medal_rammala_desc: "Также известная как \"Rian Ram Mala\" (Медаль Рам Мала), впервые учрежденная в 1919 году, эта медаль служит второй высшей медалью за акты храбрости."
+ SIA_military_medal_rammala_gallantry_in_action: "Орден Рамы (за героизм в бою)"
+ SIA_military_medal_rammala_gallantry_in_action_desc: "Также известная как \"Rian Ram Mala Khem Kla Klang Samorn\" (Медаль Рам Мала за отвагу в бою), впервые учрежденная в 1919 году, эта медаль служит высшей наградой за акты храбрости."
+

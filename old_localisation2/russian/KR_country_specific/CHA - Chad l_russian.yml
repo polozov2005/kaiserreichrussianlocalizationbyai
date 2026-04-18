@@ -1,0 +1,73 @@
+﻿l_russian:
+
+### Country Names ###
+ CHA: "Чад"
+ CHA_ADJ: "Чадск"
+ CHA_DEF: "Чад"
+
+ CHA_totalist: "Федерация Чад"
+ CHA_totalist_ADJ: "Чадск"
+ CHA_totalist_DEF: "Федерация Чад"
+ CHA_syndicalist: "Федерация Чад"
+ CHA_syndicalist_ADJ: "Чадск"
+ CHA_syndicalist_DEF: "Федерация Чад"
+ CHA_radical_socialist: "Федерация Чад"
+ CHA_radical_socialist_ADJ: "Чадск"
+ CHA_radical_socialist_DEF: "Федерация Чад"
+
+ CHA_monarchy: "Вадаи"
+ CHA_monarchy_ADJ: "Вадайск"
+ CHA_monarchy_DEF: "Вадаи"
+
+ CHA_monarchy_social_democrat: "Империя Вадаи"
+ CHA_monarchy_social_democrat_DEF: "Империя Вадаи"
+ CHA_monarchy_social_liberal: "Империя Вадаи"
+ CHA_monarchy_social_liberal_DEF: "Империя Вадаи"
+ CHA_monarchy_market_liberal: "Империя Вадаи"
+ CHA_monarchy_market_liberal_DEF: "Империя Вадаи"
+ CHA_monarchy_social_conservative: "Империя Вадаи"
+ CHA_monarchy_social_conservative_DEF: "Империя Вадаи"
+ CHA_monarchy_authoritarian_democrat: "Империя Вадаи"
+ CHA_monarchy_authoritarian_democrat_DEF: "Империя Вадаи"
+ CHA_monarchy_paternal_autocrat: "Империя Вадаи"
+ CHA_monarchy_paternal_autocrat_DEF: "Империя Вадаи"
+ CHA_monarchy_national_populist: "Империя Вадаи"
+ CHA_monarchy_national_populist_DEF: "Империя Вадаи"
+ 
+# Parties
+ CHA_totalist_party_long: "Чадские социалисты"
+ CHA_totalist_party: "ЧС"
+ CHA_syndicalist_party_long: "Чадские социалисты"
+ CHA_syndicalist_party: "ЧС"
+ CHA_radical_socialist_party_long: "Чадские социалисты"
+ CHA_radical_socialist_party: "ЧС"
+ CHA_social_democrat_party_long: "Чадская Прогрессивная партия"
+  #Bechir Sow
+ CHA_social_democrat_party: "ЧПП"
+ CHA_social_liberal_party_long: "Чадский Демократический Союз"
+  #Gontchome
+ CHA_social_liberal_party: "ЧДС"
+ CHA_market_liberal_party_long: "Французские Интересы" 
+  #French Business by Pierre Olivier Lapie
+ CHA_market_liberal_party: "Французские Интересы"
+ CHA_social_conservative_party_long: "Вадайская аристократия" 
+  #Conservative Traditionalist Tobio dit Markinzaye
+ CHA_social_conservative_party: "Вадайская аристократия"
+ CHA_authoritarian_democrat_party_long: "Вадайские лоялисты\n§gНароды Вадайской Империи, в основном маба, а также некоторые суданские, арабские и берберские группы, проживающие в этом районе. Сильный акцент на исламе как объединяющей силе и связях с группами в Судане и Ливии, такими как сенуси.§!"
+ CHA_authoritarian_democrat_party: "Вадайские лоялисты"
+ CHA_paternal_autocrat_party_long: "Багирминские лоялисты"
+ CHA_paternal_autocrat_party: "Багирминские лоялисты"
+ CHA_national_populist_party_long: "Клика Логона"
+ CHA_national_populist_party: "Клика Логона"
+
+ ### Characters ###
+ CHA_ahmed_koulamallah: "Ахмед Куламалла"
+ CHA_mohamed_bechir_sow: "Мохамед Бечир Соу"
+ CHA_gontchome_sahoulba: "Гонтхом Сахульба"
+ CHA_pierre_olivier_lapie: "Пьер Оливье Лапи"
+ CHA_tobio_dit_markinzaye: "Тобио дит Маркинзайе"
+ CHA_muhammad_urada_ibn_ibrahim: "Мухаммад Урада ибн Ибрагим"
+ CHA_mahamat_abdelkader: "Махамат Абделькадер"
+ CHA_yorgui_koli: "Йоргуи Коли"
+
+ CHA_georges_koudoukou: "Жорж Кудуку"

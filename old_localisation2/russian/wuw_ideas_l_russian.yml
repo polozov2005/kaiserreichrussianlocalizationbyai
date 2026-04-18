@@ -1,0 +1,12 @@
+﻿l_russian:
+  
+ special_project_consumer_costs_high: "Секретная закупка ресурсов"
+ special_project_consumer_costs_high_desc: "Приглушенные голоса шепчут о том, что правительство перенаправляет огромное количество грузов в, казалось бы, безобидные места. Некоторые предполагают, что ресурсы потребляются в секретных научно-исследовательских проектах, но существует мало конкретных доказательств, подтверждающих это..."
+ special_project_consumer_costs_medium: "Секретная закупка ресурсов"
+ special_project_consumer_costs_medium_desc: "$special_project_consumer_costs_high_desc$"
+ special_project_consumer_costs_low: "Секретная закупка ресурсов"
+ special_project_consumer_costs_low_desc: "$special_project_consumer_costs_high_desc$"
+ fallout_atomic: "Ядерные осадки"
+ fallout_thermonuclear: "Интенсивные ядерные осадки"
+ sp_land_stronghold_network_collapse_workers_drafted: "Срочный призыв на работу"
+ sp_land_stronghold_network_collapse_workers_drafted_desc: "Большое количество рабочих было перенаправлено на спасательные операции и немедленные восстановительные работы, что значительно замедлило регулярное строительство, ремонтные работы и добычу ресурсов в этом районе."

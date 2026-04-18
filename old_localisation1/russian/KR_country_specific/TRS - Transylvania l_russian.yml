@@ -1,0 +1,83 @@
+﻿l_russian:
+
+### Country Names ###
+ TRS: "Трансильвания"
+ TRS_ADJ: "Трансильванск"
+ TRS_DEF: "Трансильвания"
+
+ TRS_totalist: "Социалистическая Республика Трансильвания"
+ TRS_totalist_ADJ: "Трансильванск"
+ TRS_totalist_DEF: "Социалистическая Республика Трансильвания"
+ TRS_syndicalist: "Социалистическая Республика Трансильвания"
+ TRS_syndicalist_ADJ: "Трансильванск"
+ TRS_syndicalist_DEF: "Социалистическая Республика Трансильвания"
+ TRS_radical_socialist: "Социалистическая Республика Трансильвания"
+ TRS_radical_socialist_ADJ: "Трансильванск"
+ TRS_radical_socialist_DEF: "Социалистическая Республика Трансильвания"
+
+### Parties ###
+ TRS_totalist_party: "ПСТ"
+ TRS_totalist_party_long: "Партия Социалистов-Тоталистов"
+ TRS_syndicalist_party: "ПСС"
+ TRS_syndicalist_party_long: "Партия Социалистов-Синдикалистов"
+ TRS_radical_socialist_party: "СПТ"
+ TRS_radical_socialist_party_long: "Социалистическая Партия Трансильвании"
+ TRS_social_democrat_party: "ПСД"
+ TRS_social_democrat_party_long: "Партия Социал-Демократов"
+ TRS_social_liberal_party: "ПЛ"
+ TRS_social_liberal_party_long: "Партия Либералов"
+ TRS_market_liberal_party: "ПК"
+ TRS_market_liberal_party_long: "Партия Крестьянов"
+ TRS_social_conservative_party: "РНП"
+ TRS_social_conservative_party_long: "Румынская Национальная Партия"
+ TRS_authoritarian_democrat_party: "РНП"
+ TRS_authoritarian_democrat_party_long: "Румынская Национальная Партия"
+ TRS_paternal_autocrat_party: "РНП"
+ TRS_paternal_autocrat_party_long: "Румынская Национальная Партия"
+ TRS_national_populist_party: "РНП"
+ TRS_national_populist_party_long: "Румынская Национальная Партия"
+
+### Events ###
+ transylvania_events.1.t: "Объдинение с Румынией?"
+ transylvania_events.1.d: "Трансильвания наконец-то стала независима от Венгрии. Мы - государство, населённое румынами, и наш народ мечтает объединиться со своими братьями из Бухареста. Мечта о Великой Румынии достигнута."
+ transylvania_events.1.a: "Объявите о вхождении в состав Румынии."
+ transylvania_events.1.b: "Ходатайство [ROOT.Overlord.GetNameDef] о разрешении союза."
+ transylvania_events.1.c: "Нет, мы сохраним свою независимость!"
+ 
+ transylvania_events.2.t: "Трансильвания хочет присоединиться к нам"
+ transylvania_events.2.d: "Трансильвания наконец-то стала независима от Венгрии. Их правительство заявило о вхождении в состав нашего государства. Мы приветствуем трансильванских братьев в нашей новой Великой Румынии."
+ transylvania_events.2.a: "Добро пожаловать, братья-румыны!"
+
+ transylvania_events.3.t: "Трансильвания желает союза с Румынией"
+ transylvania_events.3.d: "Вопреки тому, что могут сказать некоторые наши планировщики, [TRS.GetNameDef] - это искусственное государство. Государство, которое мы создали в регионе, населено в подавляющем большинстве румынами, которые могут иметь региональную идентичность, но, похоже, не превращают ее в поддержку постоянной трансильванской независимости - действительно, многие из тех, кто работал с нами при создании [TRS. GetNameDef] были под впечатлением, что это будет временная мера до тех пор, пока Румыния не станет единой, после чего Трансильвания будет включена в Великую Румынию.\n\nСейчас, когда Румыния находится под дружественным правительством, Трансильвания и Румыния совместно обратились к нам с просьбой позволить им объединиться. Как арбитры мира, мы ни в коем случае не обязаны разрешать этот союз, тем более, что оба государства зависят от нас в вопросах безопасности и не в состоянии изменить это. Несмотря на это, многие планировщики утверждают, что попытка создать искусственное государство в Трансильвании только подорвет нашу поддержку в регионе в долгосрочной перспективе. Однако другие утверждают, что нашим интересам может лучше служить разделенная нация. Должны ли мы удовлетворить эту просьбу?"
+ transylvania_events.3.a: "Конечно."
+ transylvania_events.3.b: "Нет, мы предпочитаем, чтобы они жили отдельно."
+
+ transylvania_events.4.t: "[FROM.GetNameDefCap] одобряет союз с Румынией"
+ transylvania_events.4.d: "Мы только что получили сообщение, что [FROM.GetNameDefCap] одобрил наш запрос на объединение с нашими румынскими братьями! Наконец, пришло время осуществить мечту о Великой Румынии!"
+ transylvania_events.4.a: "Отправьте посланника в Бухарест!"
+
+ transylvania_events.5.t: "[FROM.GetNameDefCap] отвергает союз с Румынией"
+ transylvania_events.5.d: "Ужасные новости - [FROM.GetNameDefCap] сообщили нам, что они не одобрят любой союз между нами и Румынией, ссылаясь на 'стратегические соображения'. Возможно, их намерения не столь альтруистичны, как мы надеялись..."
+ transylvania_events.5.a: "Черт бы тебя побрал!"
+
+### Characters ###
+ TRS_albert_wass: "Альберт Васс"
+ TRS_gheorghe_flondor: "Георге Флондор"
+ TRS_constantin_isopescu_grecul: "Константин Исопеску-Грекул"
+ TRS_samoila_marza: "Самойла Мырза"
+ TRS_miklos_banffy: "Миклош Банфи"
+ TRS_alexandru_borza: "Александру Борза"
+ TRS_octavian_codru_taslauanu: "Октавиан Кодру Тэслэуану"
+ TRS_miron_cristea: "Мирон Кристя"
+ TRS_iuliu_hossu: "Юлиус Хоссу"
+ TRS_vasile_goldis: "Василе Голдис"
+ TRS_iosif_jumanca: "Иосиф Джуманка"
+ TRS_aurel_vlad: "Аурел Влад"
+ TRS_georg_domaschnian: "Георг Домашнян"
+ TRS_michael_trapsia: "Майкл Трапсиа"
+ TRS_theodor_seracsin: "Теодор Сераксин"
+ TRS_ienache_ion: "Иэнаке Ион"
+ TRS_ladislaus_cenna: "Ладислав Сенна"
+ TRS_michael_schandru: "Михаел Шандру"
+

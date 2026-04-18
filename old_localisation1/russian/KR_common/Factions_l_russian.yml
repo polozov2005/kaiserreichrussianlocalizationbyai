@@ -1,0 +1,95 @@
+﻿l_russian:
+
+ ### STARTING AND MAJOR FACTIONS ###
+ 
+ austro_hungarian_monarchy: "Австро-Венгерская Монархия"
+ co_prosperity_sphere: "Сфера Сопроцветания"
+ entente: "Антанта"
+ moscow_accord: "Организация Московского Договора"
+ reichspakt: "Рейхспакт"
+ third_internationale: "Третий Интернационал"
+
+ ### REGIONAL FACTIONS ###
+ 
+ ## North America ##
+ joint_pacific_atlantic_command: "Обьединенные Северо-Аталантические Государства"
+ organisation_of_american_states: "Организация Американских Государств"
+
+ ## Central America & the Caribbean ##
+ democratic_alliance_of_the_caribbean: "Демократический альянс Карибского Бассейна"
+ liberal_pact: "Либеральный Пакт"
+ peoples_vanguard: "Народный Авангард"
+ revolutionary_front: "Революционный Фронт"
+
+ ## South America ##
+ andean_pact: "Андский Пакт"
+ argentinian_sphere_faction: "Аргентинская сфера"
+ asuncion_pact: "Асуньонский Пакт"
+ buenos_aires_lima_axis: "Ось Буэнос-Айрес-Лима"
+ coalition_to_dismantle_andesia: "Коалиция за роспуск Андезии"
+ montevideo_treaty: "Договор Монтевидео"
+ south_american_socialist_states: "Южно-Американские Социалистические Государства"
+ southern_syndicalist_alliance: "Южный Синдикалистский Альянс"
+
+ ## Western & Southern Europe ##
+ benesam: "БеНиСот"
+ celtic_confederation: "Кельтская конфедерация"
+
+ ## Central & Northern Europe ##
+ baltic_last_stand: "Baltic Last Stand"
+ donau_adriabund: "Дунай-Адриатический Союз"
+ intermarium: "Междуморье"
+ legion_of_the_slavic_nations: "Славянское Содружество"
+ nordic_council: "Северный Совет"
+
+ ## Eastern / Southeast Europe & Central Asia ##
+ andijan_alliance: "Анджанский Альянс"
+ pan_turkic_pact: "Пантюркистский Союз"
+ baikal_treaty: "Байкальский Договор"
+ balkan_defence_cooperation: "Балканская Оборонительный Альянс"
+ balkan_socialist_federation: "Балканская Социалистическая Федерация"
+ belgrade_pact: "Белградский Пакт"
+ black_sea_union: "Союз Черноморья"
+ bulgarian_hegemony: "Болгарская Гегемония"
+ communist_internationale: "Комуннистический Интернационал"
+ eastern_front_of_the_internationale: "Восточный фронт Третьего Интернационала"
+ eurasian_treaty_organisation: "Евразийский Союз"
+ europe_revival_front: "Фронт борьбы за Европу"
+ fourth_internationale: "Четвертый Интернационал"
+ holy_league: "Священная Лига"
+ petrograd_accords: "Организация Петроградского Договора"
+ kharkiv_accords: "Организация Харьковского Договора"
+ minsk_accords: "Организация Минского Договора"
+ riga_accords: "Организация Рижского Договора"
+ vistula_accords: "Организация Вильнюсского Договора"
+ warsaw_accords: "Организация Варшавского Договора"
+ belgrade_accords: "Организация Беградского Соглашения"
+ prague_accords: "Организация Пражского Договора"
+ league_of_european_states: "Лига Европейский Государств"
+ non_aligned_movement: "Движение Неприсоединения"
+ north_pacific_agreement: "Северо-тихоокеанское соглашение"
+ blood_pact: "Blood Pact"
+ pishkek_pact: "Пишпекский пакт"
+ small_pact: "Малый Пакт"
+ tabriz_accords: "Организация Тебризского Договора"
+ white_alliance: "Белый Альянс"
+ yugosphere: "Югосфера"
+
+ ## Caucasus & Middle East ##
+ cairo_pact: "Каирский Пакт"
+ golestan_pact: "Пакт Голестани"
+ istanbul_pact: "Стамбульский пакт"
+ league_of_arab_states: "Лига Арабских Государств"
+ sarajevo_accords: "Сараевское соглашение"
+
+ ## East Asia ##
+ chinese_united_front: "Китайский Обьединенный Фронт"
+ CHI_song_faction: "Китайско-Тихоокеанское Содружество"
+ CHI_totalist_faction: "Синосфера"
+ CHI_wang_faction: "Интернационал Востока"
+ GXC_RKMT_faction: "Китайско-тихоокеанский Совет Безопасности"
+ SHX_feng_faction: "Фронт Национального Освобождения"
+ SHX_yan_faction: "Азиатско-Тихоокеанское движение неприсоединения"
+
+ ## South Asia & Oceania ##
+ eastern_syndicalist_union: "Восточный Синдикалистский Союз"

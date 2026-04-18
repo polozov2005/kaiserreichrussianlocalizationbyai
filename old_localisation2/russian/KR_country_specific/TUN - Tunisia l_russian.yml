@@ -1,0 +1,37 @@
+﻿l_russian:
+
+### Parties ###
+ TUN_totalist_party: "Нео-Дустур"
+ TUN_totalist_party_long: "Новая либеральная конституционная партия"
+ TUN_syndicalist_party: "ВКТТ"
+ TUN_syndicalist_party_long: "Всеобщая конфедерация трудящихся Туниса"
+ TUN_radical_socialist_party: "ВКТТ"
+ TUN_radical_socialist_party_long: "Всеобщая конфедерация трудящихся Туниса"
+ TUN_social_democrat_party: "Федерация тунисских социалситов"
+ TUN_social_democrat_party_long: "Федерация тунисских социалситов"
+ TUN_social_liberal_party: "Дустур"
+ TUN_social_liberal_party_long: "Партия конституционного либерализма"
+ TUN_market_liberal_party: "Младотунисцы"
+ TUN_market_liberal_party_long: "Младотунисцы"
+ TUN_social_conservative_party: "Великий Муфтий Туниса"
+ TUN_social_conservative_party_long: "Великий Муфтий Туниса"
+ TUN_authoritarian_democrat_party: "Дустур"
+ TUN_authoritarian_democrat_party_long: "Партия конституционного либерализма"
+ TUN_paternal_autocrat_party: "Трон бея"
+ TUN_paternal_autocrat_party_long: "Трон бея"
+ TUN_national_populist_party: "Трон бея"
+ TUN_national_populist_party_long: "Трон бея"
+
+### Characters ###
+ TUN_mahmoud_el_materi: "Махмуд Эль Матери"
+ TUN_tahar_haddad: "Тахар Хаддад"
+ TUN_mohamed_ali_elhammi: "Мохамед Али эль-Хамми"
+ TUN_elie_cohen_hadria: "Эли Коэн-Хадриа"
+ TUN_abdeljelil_zaouche: "Абдельжелил Зауш"
+ TUN_moncef_bey: "Монсеф Бей"
+ TUN_ahmad_bin_ali: "Ахмад бин Али"
+ TUN_habib_bourguiba: "Хабиб Бургиба"
+ TUN_abdelaziz_thaalbi: "Абдельазиз Таальби"
+ TUN_hassen_belkhodja: "Хассен Белходжа"
+ TUN_hassan_ferjani: "Хасан Ферджани"
+ 

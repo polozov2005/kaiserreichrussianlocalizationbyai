@@ -1,0 +1,46 @@
+﻿l_russian:
+
+### Names ###
+ HYD: "Хайдарабад"
+ HYD_ADJ: "Хайдарабадск"
+ HYD_DEF: "Хайдарабад"
+
+### Parties ###
+ HYD_totalist_party: "Ассоциация товарищей"
+
+ HYD_syndicalist_party: "Ассоциация товарищей"
+
+ HYD_radical_socialist_party: "ПГКХ-Э"
+ HYD_radical_socialist_party_long: "Партия государственного конгресса Хайдарабада (Экстремисты)"
+
+ HYD_social_democrat_party: "ПГКХ-У"
+ HYD_social_democrat_party_long: "Партия государственного конгресса Хайдарабада (Умеренные)"
+
+ HYD_social_liberal_party: "ВСА"
+ HYD_social_liberal_party_long: "Великий совет Андхры"
+
+ HYD_market_liberal_party: "АБАД"
+ HYD_market_liberal_party_long: "Ассоциация библиотеки Андхра Деса"
+
+ HYD_social_conservative_party: "СЕМ"
+ HYD_social_conservative_party_long: "Совет единства мусульман"
+
+ HYD_authoritarian_democrat_party: "Разакары"
+
+ HYD_paternal_autocrat_party: "ИСХ"
+ HYD_paternal_autocrat_party_long: "Исполнительный совет Хайдарабада"
+
+ HYD_national_populist_party: "Хаксар Терик"
+ HYD_national_populist_party_long: "Хаксар Терик"
+
+### Characters ###
+ HYD_makhdoom_mohiuddin: "Махдум Мохиуддин"
+ HYD_ramanand_tirtha: "Рамананд Тиртха"
+ HYD_madapati_hanumantha_rao: "Мадапати Ханумантха Рао"
+ HYD_gadicherla_harisarvottama_rao: "Гадичерла Харисарвоттама Рао"
+ HYD_bahadur_yar_jung: "Бахадур Яр Джунг"
+ HYD_osman_ali_khan: "Осман Али Хан"
+ HYD_walayat_ali: "Валаят Али"
+ HYD_syed_ahmed_el_edroos: "Саид Ахмед Эль-Эдроос"
+ HYD_azam_jah: "Азам Джа"
+ HYD_kasim_razvi: "Касим Разви"

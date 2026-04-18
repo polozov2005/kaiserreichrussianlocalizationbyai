@@ -1,0 +1,12 @@
+﻿l_russian:
+ ######################################################## 
+ ### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ### 
+ ######################################################## 
+  
+ #changed to British spelling 
+ CONSTRUCTION_MINIMIZE: "Свернуть" #NT!
+ CONSTRUCTION_MAXIMIZE: "§GShift+щелкните, чтобы§! §Hразвернуть§!" #NT!
+ CONSTRUCTION_MAPMODE_DEMILITARIZED_BLOCKED_TOOLTIP: "Невозможно построить $BUILDING|H$ в демилитаризованной зоне." #NT!
+  
+ #not defined in vanilla 
+ rail_way_plural: "железные дороги" #NT!

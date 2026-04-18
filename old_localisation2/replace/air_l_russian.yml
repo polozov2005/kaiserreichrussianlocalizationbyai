@@ -1,0 +1,30 @@
+﻿l_russian:
+ ######################################################## 
+ ### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ### 
+ ######################################################## 
+  
+ #changed to British spelling 
+ AIRWING_REORG: "Реорганизация воздушных крыльев" #NT!
+ AIRWING_REORG_ONE: "Реорганизовать авиационное крыло" #NT!
+ AIRWING_REORG_BASE: "Реорганизация воздушных крыльев" #NT!
+ AIRWING_REORG_ONE_BASE: "Реорганизовать авиационное крыло" #NT!
+ AIRWING_MISSION_TRANSFER_CANCELED: "Трансфер отменен, возвращение на базу ($PERC|%H$)" #NT!
+ AIRWING_DEPLOYMENT_CANCELED: "Развертывание отменено, возвращение в резерв ($PERC|%H$, ожидаемое прибытие: $ETA|%H$)" #NT!
+  
+ #fixed typo 
+ AIR_DELETE_WINGS_DESC: "Вы уверены, что хотите удалить $COUNT|H$ Air Wings и вернуть все их оборудование в резерв?" #NT!
+  
+ #changed to British spelling + fixed missing "is" "является" #NT!
+ AIRBASE_NON_OPERATIONAL_DMZ: "Эта авиабаза §RНе работает§!, поскольку мы не можем получить доступ к аэропорту в демилитаризованной зоне." #NT!
+  
+ #changed to British spelling 
+ AIRWING_DEPLOYMENT_CANCELING: "§HCancelling§!" #NT!
+ AIR_VIEW_AIR_ATTACK_HIGHER: "Наш средний показатель §HВоздушная атака§! на §Gвыше§!, чем их §HПВО§!." #NT!
+ AIR_VIEW_AIR_ATTACK_LOWER: "Наш средний показатель §HВоздушная атака§! §Rниже§!, чем их §HПВО§!." #NT!
+ AIR_VIEW_AIR_ATTACK_EQUAL: "Наша средняя §HВоздушная атака§! §Hтакая же§!, как и их §HПВО§!." #NT!
+ AIR_VIEW_AIR_DEFENSE_HIGHER: "Наш средний показатель §HПВО§! на §Gвыше§!, чем их §HВоздушная атака§!." #NT!
+ AIR_VIEW_AIR_DEFENSE_LOWER: "Наш средний показатель §HПВО§! §Rниже§!, чем их §HВоздушная атака§!." #NT!
+ AIR_VIEW_AIR_DEFENSE_EQUAL: "Наша средняя §HПВО§! §Hтакая же§!, как и их §HВоздушная атака§!." #NT!
+  
+ #fixed typo 
+ AIR_MORE_GROUND_CREWS_CANCEL_DESC: "§RCancel§! повышение эффективности на $NAME|H$" #NT!

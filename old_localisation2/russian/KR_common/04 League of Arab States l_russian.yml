@@ -1,0 +1,18 @@
+﻿l_russian:
+  
+ ### Decisions ### 
+ LOAS_Arab_League: "$LOAS_faction$"
+ LOAS_Arab_League_desc: "Единые языком и верой, арабы всегда были разделены подлыми империями, что покоряли их. Но всё ещё теплится надежда, что различия между братьями-арабами не стали настолько велики, и что они ещё могут объединиться, как во времена Праведного Халифата. Многие верят, что объединившись, арабы переживут своё второе возрождение и смогут занять место на мировой арене.\n\nС целью ускорить это объединение, была создана фракция §Y$LOAS_faction$§!. Если мы хотим увидеть рождение пан-арабского государства, нам придётся убедить другие арабские страны отказаться от части своего суверенитета."
+  
+ LOAS_Invite_Country: "Пригласить государство [FROM.GetName] в Лигу Арабских Государств"
+  
+ ### Tooltips ### 
+ LOA_invite_countries_IRQ: "\n\nОткрывает £decision_icon_small §Yрешения§!, которые позволят пригласить государства §C [JBS.GetNameWithFlag], [HEJ.GetNameWithFlag], [SYR.GetNameWithFlag], [SAU.GetNameWithFlag]§!, и §C[YEM.GetNameWithFlag]§! в союз §Y$LOAS_faction$§!."
+ LOA_invite_countries_SYR: "\n\nОткрывает £decision_icon_small §Yрешения§! которые позволят пригласить государства §C [JBS.GetNameWithFlag], [HEJ.GetNameWithFlag], [IRQ.GetNameWithFlag], [SAU.GetNameWithFlag]§!, и §C[YEM.GetNameWithFlag]§! в союз §Y$LOAS_faction$§!."
+ LOA_invite_oman: "Открывает £decision_icon_small §YDecision§! §Yрешение§! которые позволми пригласить государств §C [OMA.GetNameWithFlag] §! в союз §Y$LOAS_faction$§!."
+  
+ LOA_every_member_state: "Каждый член фракции §Y$LOAS_faction$§!"
+ LOA_three_random_states: "Три случайных региона"
+  
+ ### Flags ### 
+ refused_loa: "§RОтказались§! присоединиться к союзу §Y$LOAS_faction$§!."
