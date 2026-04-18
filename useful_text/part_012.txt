@@ -996,7 +996,6 @@ A peace has been negotiated.
 We had no other choice.
 Peace in our time
 [FROM.GetNameDefCap] Refuses Our Offer to Compromise
-Локализируй мод для hoi 4 Количество отправленных строчек должно быть равно количеству полученных
 Despite our generous offer to cede the Han lands to [FROM.GetNameDef], they have refused our offers to compromise. At this time, the only likely option may be war.
 What must come will come.
 [FROM.GetNameDefCap] Refuses Compromise
@@ -1626,7 +1625,6 @@ Guangzhou was the home of the revolution after all!
 The Guominjun provide a fresh perspective.
 Guizhou was the last stand of the old NRA!
 This is going a step too far...
-Локализируй мод для hoi 4 Количество отправленных строчек должно быть равно количеству полученных
 Left Kuomintang
 Left Kuomintang
 the Left Kuomintang
@@ -2294,7 +2292,6 @@ United Provinces of China
 the United Provinces of China
 United Provinces of China
 the United Provinces of China
-Локализируй мод для hoi 4 Количество отправленных строчек должно быть равно количеству полученных
 China
 Chinese
 China
