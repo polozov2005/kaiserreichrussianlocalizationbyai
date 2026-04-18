@@ -1,8 +1,8 @@
 Chinese Suzerainty
-Associated Governorate
-Autonomous Governorate
-Governorate
-Integrated Governorate
+Ассоциированное губернаторство
+Автономное губернаторство
+Губернаторство
+Интегрированное губернаторство
 $NONIDEOLOGY$
 $NONIDEOLOGYDEF$
 $NONIDEOLOGY$
@@ -13,557 +13,557 @@ $NONIDEOLOGY$
 $NONIDEOLOGYDEF$
 $NONIDEOLOGY$
 $NONIDEOLOGYDEF$
-Densely Populated Rural Area
-The infrastructure networks in this area are already highly saturated by a dense local population.\n\nWill be removed by reaching max §Y$infrastructure$§! in this state.
-Autonomous Region
-The Qing dynasty's hold over its borderlands was a complicated affair, with ebbing and flowing degrees of control. These territories to the north and west, referred to as \
-Claiming Our Place in the World
-With our victory against the Japanese, it is now time for China to take her rightful place in East Asia and the world, utilising her mighty resources and peoples to foster international goodwill and cooperation. With the completion of our campaigns of national unification, it is only logical that the next step should be to reassert our influence so that China will never again fall victim to imperialism.
-Join the Internationale
-When the German invasion collapsed the First Northern Expedition, many Kuomintang exiles sought refuge in the nations of the Third Internationale. Now with our strength revived and reinvigorated, it is only natural that we will be able to play a role in assisting the Third Internationale in spreading the world revolution as well as paying back our socialist comrades for their help over the years.
-Create the Fourth Internationale
-Though the Third Internationale has fallen, we will never give up the dream of a world revolution. We will pick up the torch and rally the workers in a new campaign of global liberation!
-Join the Reichspakt
-Germany has been our main benefactor since the KMT's doomed Northern Expedition. Now that we have cleared all opposition to our rule over China, it's is time to request a formal alliance with our friends in Berlin.
-Join the Moscow Accord
-The arrival of Black Monday has ended years of German dominance across the world. With rising powers across the world, it is only natural that China should seek allies. We may find such allies in our neighbours to the north, the Russians who are eager to put aside our past squabbles for a new century led by the powers of Eurasia.
-Join the Co-Prosperity Sphere
-The Japanese, despite our prior estrangement and the wars that ensued, are still our Asian brothers. We allowed European imperialists to divide us, throwing the entire Asian continent into disarray and subjugation. Having proved our might and restored our dominance on land, while they continue to rule the seas, we can finally negotiate to work with them as equal partners. As allies, we will restore prosperity all of Asia!
-Join the Entente
-The Entente, despite generally poor relations and their inability to back up their arrogant Imperialistic attitudes any more, are our tentative allies in this current conflict between Great Powers. Thanks to our Cantonese connections and plentiful number of intermediaries and the Entente's withdrawal from key Chinese nationalistic claims, deepening our alliance might be the most pragmatic idea for long-term prosperity.
-Align with the Americans
-Despite the Americans' participation in the Century of Humiliation, ultimately our common interests in checking Japanese and European influence in the region brings us together. Let us work together to bring peace and prosperity to Asia and the Pacific!
-Invite [FROM.GetNameDef] into the [ROOT.GetFactionName]
-China's rightful place in Asia is as the eldest brother, mentor, and leader of all the continent's peoples. Having thrown off the shackles of foreign imperialism, we are ready to resume our place as the defender of other Asian states from European or Japanese tyranny. Let us send our ambassadors to bring the [FROM.GetAdjective] into our fold.
-§YThe odds of acceptance are dependent on §Y[FROM.GetAdjective]§! opinion of us.§!
-Chinese Unification
-Central authority in China has long eroded, as decades of foreign imperialism, political instability and domestic unrest in light of imperial weakness spawned a new class of regional militarists in the ailing days of the Qing. The Xinhai Revolution brought further turmoil to the nation, as revolutionary generals seized control of numerous provinces and set about building complex networks of military officers, allied businessmen, landed gentry, sympathetic intelligentsia, and government officials.\n\nNevertheless, a common national identity remains, and various movements across the land have made their bid to unite the nation and rebuild China in their image. Taking advantage of their own patronage networks, foreign support, and growing armies, they clash for influence in the cities and countryside. Still, in the twisting and turning realities of warlord China, open warfare is not the only way this conflict develops. Tales of shifting alliances and sordid betrayal unfold, all the while foreign invasion looms...\n\n§COur leadership is currently [ChinaGetMemberAlignment] §YAligned§!.§!
-Create the United Front
-We, the descendants of Yan and Huang, cannot sit idly by as our country is powerless to stop the foreign devil from ravaging our lands. Too long have we been divided, split alongside provincial and factional lines while the imperialists look hungrily at our borders - ready to exploit our nation. No more! Let us put aside our petty squabbles for national unity to defend our honour, the honour of Zhonghua, from being tarnished forever! Qilai!
-The Northeastern Gambit
-Japanese hawkishness has finally run its course with their reckless decision to go to war with Germany for hegemony over the Asia-Pacific. This offers us a unique opportunity - if we were to go to war with Japan and strike against their imperialist projects in Dongbei, our prestige would be cemented and we would be elevated as national heroes. The rest of China would likely be forced to fall in line as part of a United Front against Japanese aggression, and in embroiling the Japanese in both a land and sea war at the same time, we will overstretch them until they fall!
-Join the United Front
-As the foreign imperialists launch a brutal invasion of our country, [FROM.GetName] has invited us to help defend China's honour in her hour of need. While our country still remains heavily divided between provincial and factional lines, our civilisation is at risk of being utterly destroyed. Let us put aside our differences and work together for the defence of the Motherland!
-Negotiate a Ceasefire with [FROM.GetNameDef]
-China has found itself at war with a major power. Fighting them on our own would be a foolish decision while China is still divided. We should negotiate with our current enemies in [FROM.Capital.GetCapitalVictoryPointName] a temporary truce till the aggressor has been defeated. We must not forget that all the imperialists want are our riches. We have nothing to lose! Wansui!
+Густонаселённая сельская местность
+Инфраструктурные сети в этом районе уже сильно перегружены из-за высокой плотности местного населения.\n\nЭффект будет снят при достижении максимального уровня §Y$infrastructure$§! в этом штате.
+Автономный регион
+Власть династии Цин над своими окраинами была сложным явлением с постоянно меняющейся степенью контроля. Эти территории на севере и западе, именуемые \
+Заявляя о нашем месте в мире
+После нашей победы над японцами Китаю пора занять подобающее ему место в Восточной Азии и мире, используя свои могучие ресурсы и народы для укрепления международной доброй воли и сотрудничества. С завершением наших кампаний по национальному объединению следующим логическим шагом должно стать восстановление нашего влияния, чтобы Китай никогда больше не стал жертвой империализма.
+Присоединиться к Интернационалу
+Когда немецкое вторжение разрушило первый Северный поход, многие изгнанники Гоминьдана нашли убежище в странах Третьего Интернационала. Теперь, когда наши силы возрождены и укреплены, вполне естественно, что мы сможем сыграть свою роль в оказании помощи Третьему Интернационалу в распространении мировой революции, а также отплатить нашим социалистическим товарищам за их помощь на протяжении многих лет.
+Создать Четвёртый Интернационал
+Хотя Третий Интернационал пал, мы никогда не откажемся от мечты о мировой революции. Мы подхватим факел и сплотим рабочих в новой кампании за глобальное освобождение!
+Присоединиться к Рейхспакту
+Германия была нашим главным благодетелем со времён обречённого Северного похода Гоминьдана. Теперь, когда мы устранили всякую оппозицию нашей власти в Китае, пришло время просить о формальном союзе с нашими друзьями в Берлине.
+Присоединиться к Московскому соглашению
+Наступление «Чёрного понедельника» положило конец годам германского доминирования в мире. С появлением новых держав Китаю вполне естественно искать союзников. Мы можем найти таких союзников в лице наших северных соседей — русских, которые стремятся оставить в прошлом наши былые распри ради нового века под руководством держав Евразии.
+Присоединиться к Сфере сопроцветания
+Японцы, несмотря на наше былое отчуждение и последовавшие войны, остаются нашими азиатскими братьями. Мы позволили европейским империалистам разделить нас, ввергнув весь Азиатский континент в хаос и порабощение. Доказав свою мощь и восстановив господство на суше, в то время как они продолжают править морями, мы наконец можем вести переговоры о сотрудничестве с ними как равные партнёры. Как союзники, мы восстановим процветание по всей Азии!
+Присоединиться к Антанте
+Антанта, несмотря на в целом плохие отношения и неспособность более подкреплять свои высокомерные империалистические замашки, является нашим предварительным союзником в нынешнем конфликте между великими державами. Благодаря нашим кантонским связям, множеству посредников и отказу Антанты от ключевых китайских националистических притязаний, углубление нашего союза может быть наиболее прагматичной идеей для долгосрочного процветания.
+Сблизиться с американцами
+Несмотря на участие американцев в «Веке унижений», в конечном счёте наши общие интересы в сдерживании японского и европейского влияния в регионе сближают нас. Давайте работать вместе ради мира и процветания в Азии и Тихом океане!
+Пригласить [FROM.GetNameDef] в [ROOT.GetFactionName]
+Законное место Китая в Азии — роль старшего брата, наставника и лидера всех народов континента. Сбросив оковы иностранного империализма, мы готовы вновь занять место защитника других азиатских государств от европейской или японской тирании. Давайте отправим наших послов, чтобы вовлечь [FROM.GetAdjective] в нашу сферу.
+§YВероятность согласия зависит от мнения §Y[FROM.GetAdjective]§! о нас.§!
+Китайское объединение
+Центральная власть в Китае давно подорвана, поскольку десятилетия иностранного империализма, политической нестабильности и внутренних волнений на фоне слабости империи породили новый класс региональных милитаристов в угасающие дни Цин. Синьхайская революция принесла ещё большую смуту в страну, когда революционные генералы захватили контроль над многочисленными провинциями и принялись выстраивать сложные сети из военных офицеров, союзных предпринимателей, землевладельцев, сочувствующей интеллигенции и правительственных чиновников.\n\nТем не менее, общая национальная идентичность сохраняется, и различные движения по всей стране стремятся объединить нацию и перестроить Китай по своему образу и подобию. Используя собственные патронажные сети, иностранную поддержку и растущие армии, они сталкиваются в борьбе за влияние в городах и деревнях. Однако в извилистых реалиях милитаристского Китая открытая война — не единственный путь развития конфликта. Рассказы о меняющихся союзах и грязных предательствах разворачиваются на фоне надвигающегося иностранного вторжения...\n\n§CНаше руководство в настоящее время имеет [ChinaGetMemberAlignment] §YСогласованность§!.§!
+Создать Объединённый фронт
+Мы, потомки Янь и Хуан, не можем сидеть сложа руки, пока наша страна бессильна остановить иностранных дьяволов, разоряющих наши земли. Слишком долго мы были разделены по провинциальным и фракционным линиям, в то время как империалисты жадно смотрят на наши границы, готовые эксплуатировать нашу страну. Хватит! Отложим наши мелочные распри ради национального единства, чтобы защитить нашу честь, честь Чжунхуа, от вечного поругания! Вставай!
+Маньчжурский гамбит
+Японская воинственность наконец достигла своего апогея с их безрассудным решением начать войну с Германией за гегемонию в Азиатско-Тихоокеанском регионе. Это даёт нам уникальную возможность: если мы вступим в войну с Японией и нанесём удар по их империалистическим проектам в Дунбэе, наш престиж укрепится, и мы возвысимся как национальные герои. Остальной Китай, вероятно, будет вынужден подчиниться в рамках Единого фронта против японской агрессии, а втянув японцев одновременно в сухопутную и морскую войну, мы истощим их до полного краха!
+Присоединиться к Объединённому фронту
+В то время как иностранные империалисты начинают жестокое вторжение в нашу страну, [FROM.GetName] приглашает нас помочь защитить честь Китая в час нужды. Хотя наша страна по-прежнему сильно разделена по провинциальным и фракционным линиям, наша цивилизация находится под угрозой полного уничтожения. Давайте отложим наши разногласия и будем работать вместе ради защиты Родины!
+Договориться о прекращении огня с [FROM.GetNameDef]
+Китай оказался в состоянии войны с крупной державой. Сражаться с ней в одиночку, пока Китай ещё разделён, было бы глупым решением. Мы должны договориться с нашими нынешними врагами в [FROM.Capital.GetCapitalVictoryPointName] о временном перемирии до тех пор, пока агрессор не будет побеждён. Мы не должны забывать, что всё, чего хотят империалисты, — это наши богатства. Нам нечего терять! Ваньсуй!
 [ROOT.china_declare_government_text]
 [ROOT.china_declare_government_text_desc]
-Proclaim the Zhongyuan Government
-With our position in the North Chinese Plain secured, we may now boldly claim for ourselves the legacy of the Xinhai Revolution. Our new government shall now strive for national unification, vanquishing any rival contenders that may stand in our way. No one, except perhaps [SHX.GetLeader] in all his wisdom, could have expected the province of Shanxi to find itself in such power. But through our courage and valiance in liberating the Central Plains, we have proven ourselves worthy of leading the national unification!
-Restore the Great Qing
-The fierce battle for the Forbidden City was pressed on Zhang Tianran's orders. The palace gates became a prison for the cowardly Aisin-Gioro family. Several family members attempted to leave but were led back, and the walls manned by Red Spears at all corners. Finally, the Emperor surrendered to the Shangqing. Instead of death, Puyi was forced to capitulate to Zhang Tianran in his Imperial Yellow Jacket, as well as reaffirm to the people his emperorship. Puyi will remain the Emperor, and the Shangqing Tianguo's minor emperors, managers and priests the official magistrates of the Qing.\n\nZhang Tianran has absolved the captive Emperor of any guilt in this war, and declared that this victory is the culmination of a spiritual genealogy that began with the Boxers and Sun Yat-sen.
-Restore the Great Qing
-Many doubted Qu Yingguang's ability to hold off the Zhili's invasion after the failure of the Manchu Coup, but now all doubt has been cleared. Not only has Shandong held off the attack, but Qu has guided Shandong and the emperor back from the brink, and we now stand stronger than ever. Puyi shall be restored as emperor, with his brother Pujie by his side, and Qu Yingguang will be their closest advisor. Let all who stand in our way know that the Manchu are back, and this time they are here to stay.
-Form a National Government
-Having secured our place as the strongest force in China, it is time that we declare our ambitions to unify the nation and end this miserable age of strife once and for all. It may attract some unwanted attention, and there will likely be conflict instigated by those who would seek to their own dominance over the land, but that is the sacrifice we must make to free our nation from warlordism once and for all!
-Declare the Reunification of China
-Our foes have been vanquished and anyone who dared to unjustly claim the mantle of national leadership has been put back in their place. We stand now as rulers of a mostly united China, all that is left to do is to formally claim our right to national leadership. We are the victors of the Warlord Era for better or for worse, and it is up to us to lead China into its benevolent future.
-§YChina has been fully united under one banner.§!
-Consolidate Our Legitimacy
-In the aftermath of the chaotic renewal of the Warlord Era, it seems that the line of succession from the Zhili Central Government was lost in the conflict. Having done our part to reunite the country, it is time that we take the next step in piecing China back together.
-We have defeated all rival Chinese governments
+Провозгласить правительство Чжунъюань
+Закрепившись на Северо-Китайской равнине, мы можем теперь смело претендовать на наследие Синьхайской революции. Наше новое правительство отныне будет стремиться к национальному объединению, уничтожая любых соперников, которые встанут на нашем пути. Никто, кроме, возможно, [SHX.GetLeader] во всей его мудрости, не мог ожидать, что провинция Шаньси окажется у такой власти. Но благодаря нашей храбрости и доблести при освобождении Центральных равнин мы доказали, что достойны возглавить национальное объединение!
+Восстановить Великую Цин
+Ожесточённая битва за Запретный город велась по приказу Чжан Тяньжаня. Дворцовые ворота стали тюрьмой для трусливой семьи Айсиньгёро. Несколько членов семьи пытались покинуть город, но были возвращены обратно, а стены охранялись «Красными пиками» по всем углам. Наконец император сдался Шанцину. Вместо смерти Пуи был вынужден капитулировать перед Чжан Тяньжанем в своём императорском жёлтом халате, а также подтвердить народу свой императорский статус. Пуи останется императором, а малые императоры, управляющие и священники Шанцин Тяньго станут официальными магистратами Цин.\n\nЧжан Тяньжань освободил пленённого императора от всякой вины в этой войне и заявил, что эта победа является кульминацией духовной генеалогии, начавшейся с ихэтуаней и Сунь Ятсена.
+Восстановить Великую Цин
+Многие сомневались в способности Цюй Ингуана сдержать вторжение Чжили после провала Маньчжурского переворота, но теперь все сомнения развеяны. Шаньдун не только отразил атаку, но Цюй привёл Шаньдун и императора обратно с края пропасти, и теперь мы сильны как никогда. Пуи будет восстановлен на троне, его брат Пуцзе будет рядом с ним, а Цюй Ингуан станет их ближайшим советником. Пусть все, кто стоит у нас на пути, знают: маньчжуры вернулись, и на этот раз они здесь, чтобы остаться.
+Сформировать национальное правительство
+Утвердившись в качестве сильнейшей силы в Китае, пришло время заявить о наших амбициях объединить нацию и положить конец этой жалкой эпохе раздоров раз и навсегда. Это может привлечь нежелательное внимание и, вероятно, вызовет конфликты, развязанные теми, кто стремится к собственному господству над страной, но это та жертва, которую мы должны принести, чтобы освободить нашу нацию от милитаризма раз и навсегда!
+Объявить о воссоединении Китая
+Наши враги повержены, и всякий, кто осмеливался несправедливо претендовать на мантию национального лидерства, поставлен на место. Теперь мы правим почти полностью объединённым Китаем, и осталось лишь официально заявить о нашем праве на национальное руководство. Мы — победители Эры милитаристов, к лучшему или к худшему, и именно нам предстоит вести Китай к его благодетельному будущему.
+§YКитай полностью объединён под одним знаменем.§!
+Укрепить нашу легитимность
+Вследствие хаотичного возобновления Эры милитаристов, похоже, что линия преемственности от Центрального правительства Чжили была утеряна в ходе конфликта. Сделав свою часть работы по воссоединению страны, пришло время сделать следующий шаг в восстановлении Китая.
+Мы победили все соперничающие китайские правительства
 [CHN_conquer_beijing_fallback_decision_scripted_loc]
 [CHN_conquer_beijing_fallback_decision_desc_scripted_loc]
-Complete the Revolutionary Mission
-As long as reactionaries continue to rule over the Northern Capital, the great mission our late founder Dr. Sun Yat-sen has placed in our hands cannot succeed. We must prevail against the odds, to prepare a second march northwards. This is not just for the salvation of the revolutionary cause but we fight for the survival of the Chinese race! Long live the National Revolution, Long live the Republic of China!
-Liberate Beijing
-Beijing was the ancient capital of China and holds a unique place in the Chinese national consciousness. To hold it means international recognition and domestic legitimacy, making its capture of the upmost essence. Since our original efforts to take the city have fallen short, we must redouble our efforts. Onwards, to a new China!
-Demand Control of Beijing
-The end of the Northern Expedition has brought Beijing under the Kuomintang fold, however in practice the region remains under continued warlord rule. While this sort of local autonomy has proven to be a necessary evil as we proceed with unification, to allow this fate to befall China's ancient seat of power is flatly unacceptable. So long as Beijing remains out of the direct control of the central government, there will always be those plotting to undermine and usurp our authority. We must make moves to bring national rule to the North, bringing the revolution one step closer to completion.
-The March to Manchuria
-Too long has Manchuria been ran into ruin by the traitors to the Chinese nation and the Japanese imperialists who seek to exploit our country for her natural resources. While it is the eastern frontier of our territory outside of China proper, the Manchurian question is undeniable as [ROOT.GetNameDef] identifies the provinces of Dongbei as integral provinces of the Chinese state. While we stand behind the safety of the Shanhai Pass, let us take it upon ourselves - to liberate our countrymen once and unify the country once and for all.
-The War for Guangzhou
-Intent on being the mustering point for the South to even have the chance to unify the country, the Pearl River Delta is a place of prime opportunity, and financial support. With the city switched ownership multiple times since the fall of the Kuomintang, it nonetheless provides all resources necessary to launch a Northern Expedition of our own. With its integrity to our future claims to national unification pre-eminent, [ROOT.GetLeader] and their allies have chosen the war path, and with Canton's owners belligerent, it is time for the Southwest to come to arms once more.
-The Nanjing Expedition
-Nanjing was the Southern Capital for several Chinese dynasties and was also the site where Sun Yat-sen was proclaimed Provisional President of the Republic in 1911. Controlling the wealthy and powerful Jiangnan region at the mouth of the Yangtze River, it is perhaps the most important city on China's eastern seaboard and second only to Beijing in national importance. Long the seat of League Marshal Sun Chuanfang's domain, though the politics of the region may have changed its importance to our interests has not.
-The Storming of Wuhan
-Wuhan was the site of the original 1911 Wuchang Uprising which sparked the Xinhai Revolution. Its three constituent cities of Wuchang, Hankou, and Hanyang rest along major rivers at the heart of China. The capital of Hubei and the base of the Zhili Jade Marshal Wu Peifu's operations, capturing it is essential both for national legitimacy and for strategic control over China's interior.
-Challenge [ROOT.Overlord.GetLeader]'s Authority
+Завершить революционную миссию
+Пока реакционеры продолжают править Северной столицей, великая миссия, возложенная на нас нашим покойным основателем доктором Сунь Ятсеном, не может увенчаться успехом. Мы должны превозмочь все трудности и подготовить второй поход на север. Это не только ради спасения революционного дела, но мы боремся за выживание китайской расы! Да здравствует Национальная революция, да здравствует Китайская Республика!
+Освободить Пекин
+Пекин был древней столицей Китая и занимает уникальное место в китайском национальном сознании. Владение им означает международное признание и внутреннюю легитимность, что делает его захват первостепенной задачей. Поскольку наши первоначальные попытки взять город не увенчались успехом, мы должны удвоить усилия. Вперёд, к новому Китаю!
+Потребовать контроль над Пекином
+Окончание Северного похода привело Пекин под эгиду Гоминьдана, однако на практике регион остаётся под постоянным правлением милитаристов. Хотя подобная местная автономия оказалась неизбежным злом на пути к объединению, допустить такую участь для древнего центра власти Китая совершенно неприемлемо. Пока Пекин остаётся вне прямого контроля центрального правительства, всегда найдутся те, кто замышляет подорвать и узурпировать нашу власть. Мы должны предпринять шаги для установления общенационального правления на Севере, приближая революцию к завершению.
+Марш на Маньчжурию
+Слишком долго Маньчжурия подвергалась разорению со стороны предателей китайской нации и японских империалистов, стремящихся эксплуатировать нашу страну ради её природных ресурсов. Хотя это восточный фронтир нашей территории за пределами собственно Китая, маньчжурский вопрос неоспорим, и [ROOT.GetNameDef] считает провинции Дунбэя неотъемлемыми частями китайского государства. Пока мы стоим под защитой Шаньхайгуаньского прохода, давайте возьмём на себя задачу освободить наших соотечественников и объединить страну раз и навсегда.
+Война за Гуанчжоу
+Стремясь стать точкой сбора для Юга, чтобы иметь хоть какой-то шанс объединить страну, Дельта Жемчужной реки является местом исключительных возможностей и финансовой поддержки. Хотя город несколько раз переходил из рук в руки после падения Гоминьдана, он, тем не менее, предоставляет все ресурсы, необходимые для начала собственного Северного похода. Поскольку его целостность для наших будущих претензий на национальное объединение имеет первостепенное значение, [ROOT.GetLeader] и его союзники выбрали путь войны, и, учитывая воинственность владельцев Кантона, Юго-Западу пора снова взяться за оружие.
+Нанкинская экспедиция
+Нанкин был Южной столицей для нескольких китайских династий, а также местом, где Сунь Ятсен был провозглашён временным президентом Республики в 1911 году. Контролируя богатый и могущественный регион Цзяннань в устье реки Янцзы, он является, пожалуй, самым важным городом на восточном побережье Китая и уступает по национальной значимости только Пекину. Долгое время бывший резиденцией владений Лиги маршала Сунь Чуаньфана, хотя политика региона могла измениться, его важность для наших интересов осталась прежней.
+Штурм Уханя
+Ухань был местом первоначального Учанского восстания 1911 года, которое положило начало Синьхайской революции. Три составляющих его города — Учан, Ханькоу и Ханьян — расположены вдоль крупных рек в сердце Китая. Столица провинции Хубэй и база операций Чжилийского нефритового маршала У Пэйфу, его захват крайне важен как для национальной легитимности, так и для стратегического контроля над внутренними районами Китая.
+Бросить вызов власти [ROOT.Overlord.GetLeader]
 [CHN_satellite_generic_challenge_overlord_decision_desc_scripted_loc]
-The Zhili clique has been at the forefront of Chinese politics for over a decade now, the champions of order and stability at the heart of the nation. But at the top, corruption and indecision reign. Although it would normally be improper for a subordinate to leap over his superior, these are not normal times.
-The Imperial Restoration was essential to preserving the integrity of the nation, safeguarding order and tradition. But treacherous snakes fill the Emperor's ear with twisted, venomous words. Something needs to be done to restore the Emperor to benevolence!
-The last hope of the Beiyang Republic rested in the Fengtian clique after the treasonous Zhili restored the Emperor in 1928. Our leadership has done their best of course, but their best is not sufficient if we are to protect our nation. A change is in order.
-Those who seek to protect the constitution and save Chinese democracy are a noble band, but always in danger from corrupt folks within. The current leadership of this Federalist movement are simply too inept and too bound to duplicity to be trusted with the light of Chinese democracy, and thus we must begin preparations to rescue it.
-The Xinhai Revolution attracted many dreamers, but time and time again we have found that dreams fall short of reality. The current leadership of the central government have proven themselves unworthy of it, so we must begin to prepare ourselves to take it for ourselves.
-Governments come, and Governments go. Leaders rise and Leaders fall. But China endures, and the Chinese people continue to search for an Executive that can save them from their plight. It has become increasingly clear that the latest jumped up warlord to assume the General's seat is unworthy of his position. Maybe it is our turn to lead?
-Declare a Permanent Capital
-There have been many capitals of a united Chinese state and with key parts of China under our rule, we can proclaim a permanent capital for the republic. There are four main choices to go with should we control that city: Nanjing, Beijing, Wuhan or Guangzhou. Each one brings unique advantages. We must consider this carefully as this decision will be irreversible.
-Move Our Provisional Capital
-As we continue our campaign to unite China, large swaths of the nation have come under our control. As our armies move deeper into enemy territory, the logistical strain has increased. It might be wise to alleviate this burden and signal our intention to unite the nation by moving our capital to a more central or politically valuable location.
-Attack [FROM.GetNameDef]
-The continued defiance of [FROM.GetAdjective] leadership is one that cannot be resolved by peaceful means. [FROM.GetLeader] has proven [FROM.GetHerselfHimself] an unworthy leader, and will be ejected from [FROM.Capital.GetCapitalVictoryPointName] by force.
-Demand [FROM.GetNameDef]'s Submission
-Regional authorities in [FROM.Capital.GetCapitalVictoryPointName] find themselves adrift as of late, swearing allegiance to nobody but themselves. As China's truly legitimate government, we must bring them into the fold - they will either accept or we will prepare other, less courteous measures.
-Increase Integration of [FROM.GetNameDef]
-Although the leadership in [FROM.Capital.GetCapitalVictoryPointName] has thankfully seen wisdom and decided to align themselves with us, we must go further if we are to truly end the warlord era. Efforts will be made to bring the [FROM.GetAdjective] administration closer to our own.
-Coordinate a Joint Strike with [FROM.GetNameDef]
-On our own our chances against [GXC.GetNameDef] are slim, however [FROM.GetNameDef] might be amenable to oppose [GXC.GetAdjective] tyranny. However we should act fast - we must have the element of surprise if such a joint strike is to be effective. Should this plan work, we will move immediately against our [GXC.GetAdjective] enemies.
-[YUN.GetNonIdeologyName]-[HNN.GetNonIdeologyName] Joint Strike Against [GXC.GetNameDef]
-We can only do a joint strike with one faction
-§RWe will abandon [YUN.GetNameDef] to face [GXC.GetNameDef] on their own§!
-§RWe will abandon [HNN.GetNameDef] to face [GXC.GetNameDef] on their own§!
-Surrender to the Enemy
-[THIS.overlord.GetNameDefCap] Increases Integration
-Challenge [ROOT.Overlord.GetLeader]'s Authority
+Клика Чжили была в авангарде китайской политики уже более десяти лет, являясь поборником порядка и стабильности в сердце страны. Но наверху царят коррупция и нерешительность. Хотя обычно подчинённому не подобает перепрыгивать через своего начальника, сейчас не обычные времена.
+Императорская реставрация была необходима для сохранения целостности нации, защиты порядка и традиций. Но предательские змеи наполняют уши Императора извращёнными, ядовитыми словами. Нужно что-то предпринять, чтобы вернуть Императора к благодетельности!
+Последняя надежда Бэйянской республики покоилась на Фэнтяньской клике после того, как предатели Чжили восстановили императора в 1928 году. Наше руководство, конечно, старалось изо всех сил, но их усилий недостаточно для защиты нашей нации. Необходимы перемены.
+Те, кто стремится защитить конституцию и спасти китайскую демократию, — благородная группа, но они всегда в опасности из-за коррумпированных элементов внутри. Нынешнее руководство этого Федералистского движения слишком неумело и слишком склонно к двуличию, чтобы ему можно было доверить светоч китайской демократии, и поэтому мы должны начать подготовку к его спасению.
+Синьхайская революция привлекла множество мечтателей, но раз за разом мы убеждаемся, что мечты не соответствуют реальности. Нынешнее руководство центрального правительства доказало свою недостойность, поэтому мы должны начать готовиться к тому, чтобы взять власть в свои руки.
+Правительства приходят, и правительства уходят. Лидеры возвышаются, и лидеры падают. Но Китай продолжает существовать, и китайский народ продолжает искать руководителя, который сможет спасти его от бед. Становится всё более очевидным, что очередной выскочка-милитарист, занявший генеральское кресло, недостоин своего положения. Может быть, наша очередь вести?
+Объявить постоянную столицу
+У объединённого китайского государства было много столиц, и теперь, когда ключевые части Китая находятся под нашей властью, мы можем провозгласить постоянную столицу республики. Есть четыре основных варианта, если мы контролируем соответствующий город: Нанкин, Пекин, Ухань или Гуанчжоу. Каждый из них даёт уникальные преимущества. Мы должны тщательно это обдумать, поскольку решение будет необратимым.
+Перенести временную столицу
+По мере продолжения нашей кампании по объединению Китая обширные территории страны переходят под наш контроль. Поскольку наши армии продвигаются вглубь вражеской территории, нагрузка на логистику возросла. Было бы разумно облегчить это бремя и продемонстрировать наше намерение объединить нацию, перенеся столицу в более центральное или политически значимое место.
+Атаковать [FROM.GetNameDef]
+Продолжающееся неповиновение руководства [FROM.GetAdjective] не может быть разрешено мирными средствами. [FROM.GetLeader] доказал свою несостоятельность как лидер и будет изгнан из [FROM.Capital.GetCapitalVictoryPointName] силой.
+Потребовать подчинения от [FROM.GetNameDef]
+Региональные власти в [FROM.Capital.GetCapitalVictoryPointName] в последнее время оказались в подвешенном состоянии, не присягая никому, кроме самих себя. Как истинно законное правительство Китая, мы должны вовлечь их в нашу сферу — они либо согласятся, либо мы подготовим другие, менее вежливые меры.
+Усилить интеграцию [FROM.GetNameDef]
+Хотя руководство в [FROM.Capital.GetCapitalVictoryPointName], к счастью, проявило мудрость и решило присоединиться к нам, мы должны пойти дальше, если хотим действительно положить конец эре милитаристов. Будут предприняты усилия, чтобы сблизить администрацию [FROM.GetAdjective] с нашей собственной.
+Скоординировать совместный удар с [FROM.GetNameDef]
+В одиночку наши шансы против [GXC.GetNameDef] невелики, однако [FROM.GetNameDef] может быть готов выступить против тирании [GXC.GetAdjective]. Однако нам следует действовать быстро — мы должны использовать элемент внезапности, чтобы такой совместный удар был эффективным. Если этот план сработает, мы немедленно выступим против наших врагов из [GXC.GetAdjective].
+Совместный удар [YUN.GetNonIdeologyName]-[HNN.GetNonIdeologyName] против [GXC.GetNameDef]
+Мы можем нанести совместный удар только с одной фракцией
+§RМы оставим [YUN.GetNameDef] противостоять [GXC.GetNameDef] в одиночку§!
+§RМы оставим [HNN.GetNameDef] противостоять [GXC.GetNameDef] в одиночку§!
+Сдаться врагу
+[THIS.overlord.GetNameDefCap] усиливает интеграцию
+Бросить вызов власти [ROOT.Overlord.GetLeader]
 [china_subject_challenge_overlord_decision_desc_loc]
-The political intrigues and chicanery of [ROOT.Overlord.GetLeader]'s Kuomintang Central Committee has brought nothing but ruin to the Chinese nation and her people. It is time for [ROOT.GetLeader] and the true champions of Dr. Sun to charge forth, oust the traitors, and ride the high tide of the National Revolution. [ROOT.GetNameDefCap] may be outmanned, but our wills are steeled and our hearts speak true.
-To think that the revolution would become so twisted, so divergent, from its original principles. The true interpretation of the Three People's Principles has been distorted by petty worlds, spineless intellectuals, and most of all the vile despot [ROOT.Overlord.GetLeader]. It is unfortunate, but as the nation teeters on the very verge of collapse, [ROOT.GetLeader] must detach [ROOT.GetNameDef] from the sinking ship, and charge forward to victory.
-Ostensibly seeking the protection of the Chinese people, the development of a native democracy, and the promulgation of a true, free constitution, the Federalist movement has seen itself corrupted by autocrats and elites. Whilst we are no stranger to pragmatic deals, [ROOT.Overlord.GetLeader] has taken it too far. [ROOT.GetLeader] cannot simply stand on the sidelines as the very essence of the movement withers away.
-Improper to the upmost, the leadership of the Zhili clique has faltered for too long. Having lost the unity of the nation, and the control of [ROOT.GetNameDef], Governor [ROOT.GetLeader] had to ensure stability within the province. Yet again, it would appear that we must save the Chinese people. This time, however, it is not just [ROOT.GetNameDef], but the nation itself. Whilst uncouth for a subordinate to revolt against his superior, the decadence of [ROOT.Overlord.GetLeader]'s regime has stood for too long.
-How could the nation have fallen so low? At first swayed by the grandstanding of Marshal Zuolin, championing the republican cause in light of the Xuantong Restoration, or perhaps even by [ROOT.GetLeader]'s' personal ties to the Zhang family. Yet the very nation is being lead to disarray and ruin under the rule of kleptocrats, simpletons and traitors, with a bandit like [ROOT.Overlord.GetLeader] lording over all of it. Ultimately, [ROOT.GetNameDefCap] must play our desperate hand, one last final bid for national leadership. It may be foolish, but our movement is no stranger to turncoats.
-Before our very eyes lies the Son of Heaven, ruling on his throne, lording over the true restoration of his authority, yet within our camp lies a strong sense of shame, of rejection, of reprehension. Is China not a modern nation? What was Xinhai for? All of the bloodshed, sacrificed and tears to overthrow the barbarity of the Manchu, just for us to rescind to our fates once again? No, no longer shall the supposed \
-China is no stranger to the revolving door of executives seeking to steer the nation their way. Yet it has led to a directionless nation, collapsing in on itself. To truly save the people from their plight, we must work to overthrow [ROOT.Overlord.GetLeader], the latest buffoon to have taken the concept of national leadership. The new Chinese nation shall be a [ROOT.GetNameDef]-led one, free of corruption.
-Estimated army strength ratio of §Y50%§! or more compared to our overlord
-It has been at least 365 days since we submitted to our overlord.
-Join the [NPA.GetName]
-The National Protection Alliance is a revival of the old warlord coalition that sought to topple Yuan Shikai's tyrannical attempt to establish a new monarchy and save the Republic. This newest iteration led by [NPA.GetLeader] may exist in different circumstances, but the ultimate goal remains the same - defending our country and our countrymen from those who would destroy it!
-Join the [NZH.GetName]
-The Northern Zhili Clique has dominated the Chinese political scene since their victory in 1927, weathering Beiyang's political storms, southern revolutionaries and northern rivals. Though their hegemony has been recently challenged, their victory is inevitable and with the preservation of Chinese morality and political order.
-Join the [SZH.GetName]
-The Southern Zhili Clique is an offshoot of the mainline branch in the north, centred around the legacy of Sun Chuanfang and his League of Eight Provinces. Generally boasting greater cooperation with Germany and the Legation cities, their ability to bring patriotic prosperity brings us closer to them.
-Join the [MCU.GetName]
-The Manchu Restorationist government has brought back benevolence and order to the Chinese political scene, and as loyal subjects we shall align with the proper government of China.
-Join the [AGJ.GetName]
-The National Pacification Army (the Anguojun) was a warlord coalition led by Zhang Zuolin that sought to fight off the revolutionary radicals of the Kuomintang and reunite China under the Fengtian Clique's banner. Though defeated by the Zhili in the ensuing conflict, they never gave up hope and with their fortunes on the rise it is up to use to rejoin our old comrades.
-Join the [UPC.GetName]
-The Federalist Movement is an alliance of primarily southern based parties that seek to create a new Chinese republic built along the federal model. Our participation in this coalition is essential if we are to reunite China as a confederation of equal provinces that respects the rights of its constituent states.
-Join the [LKT.GetName]
-China's left has united under [LKT.GetLeader]'s leadership, and its future must be in the hands of those with the vision to see the sweeping changes needed to bring the nation into the future. We shall join the ranks of our revolutionary comrades and bring about a new era to our land!
-Join the [RKT.GetName]
-The Chinese Nationalist Party (the Chinese Kuomintang) was founded by Dr. Sun Yat-sen to serve as the vanguard of the national revolution and save China from foreign imperialism and domestic corruption. It is our duty to join the ranks of the new National Revolutionary Army and defend our nation!
-Join the [RGC.GetName]
-The Sun is rising in the East and Asia's salvation from Western imperialism is at hand. It is only through cooperation with the Greater East Asia Co-Prosperity Sphere that we can truly save China from socialism and imperialism, and thus we must join their supported government.
-Join the [FROM.GetName]
-[FROM.GetLeader] is a rising star in China, leveraging his control over the mighty [FROM.GetAdjective] Army and his allies in the [FROM.GetRulingParty] to become a national contender of his own. Operating out of his base in [FROM.Capital.GetCapitalVictoryPointName], this unexpected challenger for national dominance shows a lot of promise, and we shall bind ourselves closer to them.
-Demand [FROM.GetNameDef]'s Annexation
-With our own magistrates already embedded within [FROM.Capital.GetCapitalVictoryPointName] and within [FROM.GetAdjective]'s ranks, all that is left to do is secure the final submission of [FROM.GetLeader] to our cause. Their autonomy, which exists now effectively only on paper, shall be brought to an end.
-Offer an Alliance to [FROM.GetNameDef]
-Cast adrift by the changing circumstances in China, our allies in [FROM.Capital.GetCapitalVictoryPointName] have nonetheless managed to prevail in face of the shifting winds of the nation. Given their alignment towards us, we shall begin negotiations to join forces together and bring about our shared vision for the future.
-Negotiate with [FROM.GetNameDef]
-The Legation Cities, carved out of China's coast by ravenous foreign powers, is an institution that highlighted the unequal treatment of our proud nation by various imperialists. Having finally brought unity to the interior and ended the instability plaguing it, the Legations no longer serve a purpose in the world. We shall move to end this sad chapter in Chinese history.
-Request the Return of the [FROM.GetAdjective] Concessions
-The concessions were initially small pieces of land leased out to foreign powers in our weakness, which only expanded in scope as colonial powers sought to bring low our people. Having finally united the nation, we can bring to bear the united might of China and formally challenge the imperialists who desperately cling onto their unjust possessions.
-Seize the [FROM.GetAdjective] Concessions
-With negotiations having failed, there leaves no other choice but the sword if we are to liberate our coastal citizens from foreign rule. Already our forces have begun amassing along the outskirts, ready to ensure the return of these cities to their rightful owner.
-Pressure the Central Government to Act!
-While it is true that we have submitted ourselves to the banner of [ROOT.overlord.GetLeader] and the central government, this has always been contingent on the fact that we believe [ROOT.overlord.GetNameDef] to be a credible unifier for our broken nation. The fact that [ROOT.overlord.getadjective] authorities have been dragging their feet in ending China's division is nothing short of disgraceful, and perhaps they need reminding that our loyalty is not unconditional.
-Pressure to Act
-The Unification Question has plagued Chinese leaders since 1911, and caught between the paradoxically aligned demands of regionalists and nationalists, we have come under pressure to act quickly to reunite the country under our banner. This of course is no easy task and unfortunately those pressing for unification come under considerably less scrutiny than we do for our alleged inaction. However, if we are truly prove ourselves to be the legitimate leaders of China, then we have no choice but to fight and win!
+Политические интриги и козни Центрального комитета Гоминьдана [ROOT.Overlord.GetLeader] не принесли китайской нации и её народу ничего, кроме разрухи. Настало время для [ROOT.GetLeader] и истинных поборников доктора Суня выступить вперёд, изгнать предателей и оседлать высокую волну Национальной революции. [ROOT.GetNameDefCap], возможно, уступает в численности, но наша воля закалена, а сердца чисты.
+Подумать только, что революция могла настолько исказиться, настолько отклониться от своих первоначальных принципов. Истинное толкование Трёх народных принципов было извращено мелочными мирами, бесхребетными интеллектуалами и, прежде всего, гнусным деспотом [ROOT.Overlord.GetLeader]. Это прискорбно, но пока нация балансирует на грани краха, [ROOT.GetLeader] должен отцепить [ROOT.GetNameDef] от тонущего корабля и устремиться вперёд к победе.
+Якобы стремясь к защите китайского народа, развитию местной демократии и обнародованию истинной, свободной конституции, Федералистское движение оказалось развращено автократами и элитами. Хотя мы не чужды прагматичных сделок, [ROOT.Overlord.GetLeader] зашёл слишком далеко. [ROOT.GetLeader] не может просто стоять в стороне, пока сама суть движения увядает.
+В высшей степени неприлично, что руководство клики Чжили колеблется уже слишком долго. Утратив единство нации и контроль над [ROOT.GetNameDef], губернатор [ROOT.GetLeader] должен был обеспечить стабильность в провинции. И снова, похоже, мы должны спасать китайский народ. На этот раз, однако, речь идёт не только о [ROOT.GetNameDef], но и о самой нации. Хотя подчинённому и неучтиво восставать против своего начальника, упадок режима [ROOT.Overlord.GetLeader] длится слишком долго.
+Как могла нация пасть так низко? Поначалу поддавшись громогласным заявлениям маршала Цзолиня, защищавшего республиканское дело в свете реставрации Сюаньтуна, или, возможно, даже личным связям [ROOT.GetLeader] с семьёй Чжан. Но сама нация ведётся к беспорядку и разрухе под властью клептократов, простаков и предателей, над которыми возвышается бандит вроде [ROOT.Overlord.GetLeader]. В конечном счёте, [ROOT.GetNameDefCap] должен сделать отчаянный шаг, последнюю попытку претендовать на национальное лидерство. Возможно, это безрассудно, но нашему движению не привыкать к перебежчикам.
+Перед нашими глазами — Сын Неба, правящий на своём троне, возглавляющий истинное восстановление своей власти, но внутри нашего лагеря царит сильное чувство стыда, отвержения, осуждения. Разве Китай не современная нация? Для чего была Синьхайская революция? Вся кровь, жертвы и слёзы, чтобы свергнуть варварство маньчжуров, — только для того, чтобы мы снова покорились своей судьбе? Нет, больше не будет так называемого \
+Китаю не привыкать к смене руководителей, стремящихся вести нацию своим путём. Однако это привело к бесцельному государству, разрушающемуся изнутри. Чтобы действительно спасти народ от бед, мы должны работать над свержением [ROOT.Overlord.GetLeader], последнего шута, взявшего на себя бремя национального руководства. Новое китайское государство будет возглавляться [ROOT.GetNameDef] и будет свободным от коррупции.
+Расчётное соотношение численности армии §Y50%§! или более по сравнению с нашим сюзереном
+Прошло не менее 365 дней с момента нашего подчинения сюзерену.
+Присоединиться к [NPA.GetName]
+Альянс защиты нации — это возрождение старой милитаристской коалиции, которая стремилась свергнуть тираническую попытку Юань Шикая установить новую монархию и спасти Республику. Эта новая итерация под руководством [NPA.GetLeader] существует в иных обстоятельствах, но конечная цель остаётся прежней — защищать нашу страну и наших соотечественников от тех, кто попытается её уничтожить!
+Присоединиться к [NZH.GetName]
+Северная клика Чжили доминировала на китайской политической сцене со своей победы в 1927 году, пережив политические бури Бэйяна, южных революционеров и северных соперников. Хотя их гегемония в последнее время подверглась испытаниям, их победа неизбежна, как и сохранение китайской морали и политического порядка.
+Присоединиться к [SZH.GetName]
+Южная клика Чжили — это ответвление основной северной ветви, сосредоточенное вокруг наследия Сунь Чуаньфана и его Лиги восьми провинций. Как правило, отличаясь более тесным сотрудничеством с Германией и сеттльментами, их способность приносить патриотическое процветание сближает нас с ними.
+Присоединиться к [MCU.GetName]
+Маньчжурское реставрационное правительство вернуло благодетельность и порядок на китайскую политическую сцену, и как верные подданные мы присоединимся к законному правительству Китая.
+Присоединиться к [AGJ.GetName]
+Национальная армия умиротворения (Ангоцзюнь) была милитаристской коалицией во главе с Чжан Цзолинем, которая стремилась бороться с революционными радикалами Гоминьдана и воссоединить Китай под знаменем Фэнтяньской клики. Потерпев поражение от Чжили в последовавшем конфликте, они никогда не теряли надежды, и теперь, когда их удача на подъёме, нам пора вновь присоединиться к нашим старым товарищам.
+Присоединиться к [UPC.GetName]
+Федералистское движение — это альянс преимущественно южных партий, стремящихся создать новую китайскую республику, построенную по федеративной модели. Наше участие в этой коалиции необходимо, если мы хотим воссоединить Китай как конфедерацию равных провинций, уважающую права входящих в неё субъектов.
+Присоединиться к [LKT.GetName]
+Левые силы Китая объединились под руководством [LKT.GetLeader], и их будущее должно быть в руках тех, у кого есть видение для проведения масштабных изменений, необходимых, чтобы привести нацию в будущее. Мы присоединимся к рядам наших революционных товарищей и принесём новую эру на нашу землю!
+Присоединиться к [RKT.GetName]
+Китайская националистическая партия (Китайский Гоминьдан) была основана доктором Сунь Ятсеном как авангард национальной революции для спасения Китая от иностранного империализма и внутренней коррупции. Наш долг — вступить в ряды новой Национально-революционной армии и защитить нашу нацию!
+Присоединиться к [RGC.GetName]
+Солнце восходит на Востоке, и спасение Азии от западного империализма близко. Только через сотрудничество с Великой Восточноазиатской сферой сопроцветания мы можем действительно спасти Китай от социализма и империализма, и поэтому мы должны присоединиться к поддерживаемому ими правительству.
+Присоединиться к [FROM.GetName]
+[FROM.GetLeader] — восходящая звезда в Китае, использующая свой контроль над могучей [FROM.GetAdjective] армией и союзниками в [FROM.GetRulingParty], чтобы стать самостоятельным национальным претендентом. Действуя со своей базы в [FROM.Capital.GetCapitalVictoryPointName], этот неожиданный претендент на национальное господство подаёт большие надежды, и мы свяжем себя с ними теснее.
+Потребовать аннексии [FROM.GetNameDef]
+Поскольку наши магистраты уже внедрены в [FROM.Capital.GetCapitalVictoryPointName] и в ряды [FROM.GetAdjective], осталось лишь обеспечить окончательное подчинение [FROM.GetLeader] нашему делу. Их автономия, существующая сейчас фактически только на бумаге, будет прекращена.
+Предложить союз [FROM.GetNameDef]
+Оказавшись на мели из-за меняющихся обстоятельств в Китае, наши союзники в [FROM.Capital.GetCapitalVictoryPointName] тем не менее сумели устоять перед лицом переменчивых ветров нации. Учитывая их расположенность к нам, мы начнём переговоры об объединении сил и воплощении нашего общего видения будущего.
+Вести переговоры с [FROM.GetNameDef]
+Сеттльменты, вырезанные из побережья Китая хищными иностранными державами, являются институтом, подчёркивающим неравноправное отношение к нашей гордой нации со стороны различных империалистов. Добившись наконец единства внутри страны и положив конец нестабильности, сеттльменты больше не имеют смысла в этом мире. Мы приступим к завершению этой печальной главы в китайской истории.
+Потребовать возврата концессий [FROM.GetAdjective]
+Концессии изначально были небольшими участками земли, переданными в аренду иностранным державам в период нашей слабости, и их масштаб только увеличивался по мере того, как колониальные державы стремились унизить наш народ. Наконец объединив нацию, мы можем использовать объединённую мощь Китая и официально бросить вызов империалистам, отчаянно цепляющимся за свои несправедливые владения.
+Захватить концессии [FROM.GetAdjective]
+Поскольку переговоры провалились, не остаётся иного выбора, кроме меча, если мы хотим освободить наших прибрежных граждан от иностранного правления. Наши силы уже начали сосредотачиваться на окраинах, готовые обеспечить возвращение этих городов их законному владельцу.
+Оказать давление на центральное правительство, чтобы оно действовало!
+Хотя это правда, что мы подчинились знамени [ROOT.overlord.GetLeader] и центральному правительству, это всегда было обусловлено нашей верой в то, что [ROOT.overlord.GetNameDef] является надёжным объединителем для нашей раздробленной нации. Тот факт, что власти [ROOT.overlord.getadjective] медлят с прекращением раскола Китая, является не чем иным, как позором, и, возможно, им нужно напомнить, что наша лояльность не безусловна.
+Давление к действию
+Вопрос объединения преследовал китайских лидеров с 1911 года, и, оказавшись между парадоксально совмещёнными требованиями регионалистов и националистов, мы испытываем давление, требующее быстрого воссоединения страны под нашим знаменем. Это, конечно, непростая задача, и, к сожалению, те, кто настаивает на объединении, подвергаются значительно меньшей критике, чем мы за наше предполагаемое бездействие. Однако, если мы действительно хотим доказать, что являемся законными лидерами Китая, у нас нет иного выбора, кроме как сражаться и победить!
 [CHN_expand_autonomous_region_scripted_loc]
 [CHN_expand_autonomous_region_desc_scripted_loc]
-Expand the MAR to [FROM.GetName]
-When our forces first arrived into Mongolia, a decision was made to grant the local Mongolian banners autonomy, resulting in the formation of the Outer Mongolian Autonomous Zone. An Inner Mongolian Autonomous Zone also received consideration as well. Having recently acquired further territory in areas with significant Mongol populations, it would make sense to grant these territories the same treatment.
-Expand the XAR to [FROM.GetName]
-When our forces first arrived into Xinjiang, a decision was made to grant the diverse province autonomy, resulting in the formation of the Xinjiang Uyghur Autonomous Zone. Having recently acquired further territory in areas with significant minority populations, it would make sense to grant these territories the same treatment.
-Expand the TAR to [FROM.GetName]
-When our forces first arrived into Tibet, a decision was made to grant the local Tibetans autonomy, resulting in the formation of the Outer Tibetan Autonomous Zone. An Inner Tibetan Autonomous Zone also received consideration as well. Having recently acquired further territory in areas with significant Tibetan populations, it would make sense to grant these territories the same treatment.
-Orchestrate Sinophile Coup in [FROM.Capital.GetCapitalVictoryPointName]
-Though we have secured the submission of [FROM.GetNameDef] in exchange for partial independence, the retention of their current leadership was always merely a stopgap. So long as they are in power, the long-term maintenance of our suzerainty will always be in question. Therefore, with their potential patrons either distracted or acquiescing, they will have little choice but to accept a more suitable management roster.
+Расширить МАР на [FROM.GetName]
+Когда наши силы впервые прибыли в Монголию, было принято решение предоставить местным монгольским хошунам автономию, что привело к образованию Автономной зоны Внешней Монголии. Также рассматривался вопрос о создании Автономной зоны Внутренней Монголии. Недавно приобретя дополнительные территории в районах со значительным монгольским населением, было бы разумно предоставить этим территориям такой же режим.
+Расширить СУАР на [FROM.GetName]
+Когда наши силы впервые прибыли в Синьцзян, было принято решение предоставить разнообразной провинции автономию, что привело к образованию Синьцзян-Уйгурской автономной зоны. Недавно приобретя дополнительные территории в районах со значительным населением национальных меньшинств, было бы разумно предоставить этим территориям такой же режим.
+Расширить ТАР на [FROM.GetName]
+Когда наши силы впервые прибыли в Тибет, было принято решение предоставить местным тибетцам автономию, что привело к образованию Автономной зоны Внешнего Тибета. Также рассматривался вопрос о создании Автономной зоны Внутреннего Тибета. Недавно приобретя дополнительные территории в районах со значительным тибетским населением, было бы разумно предоставить этим территориям такой же режим.
+Организовать синофильский переворот в [FROM.Capital.GetCapitalVictoryPointName]
+Хотя мы обеспечили подчинение [FROM.GetNameDef] в обмен на частичную независимость, сохранение их нынешнего руководства всегда было лишь временной мерой. Пока они у власти, долгосрочное поддержание нашего сюзеренитета всегда будет под вопросом. Поэтому, поскольку их потенциальные покровители либо отвлечены, либо соглашаются, у них не будет иного выбора, кроме как принять более подходящий управленческий состав.
 [ChinaGetAlignmentButtonTooltip]
-§CWith a Chinese unifier determined, it is no longer possible to view alignments.§!
-Click to view the alignments of all §YChinese cliques§!.
-Chinese Alignments
-Chinese Faction Alignment
-Tenets
-[?country_leader:china_alignment.GetName] §YAlignment§!
-§LNational Protection Alliance§! §YAlignment§!
-§YIndependent Cliques§!
-Leader: §Y[?global.china_alignment_leaders^alignment_i.GetName]§!\nCliques aligned with §Y[?global.china_alignment_leaders^alignment_i.GetName]§!:
-The following cliques are independent. Hover over the flags to see their alignment status with ours.
-§Y[THIS.GetName]§!\n[ChinaGetMemberAlignment] §YAligned§!\n[ChinaGetMemberAlignmentCompatibilityStatus]
+§CПоскольку объединитель Китая определён, просмотр согласованности более невозможен.§!
+Нажмите, чтобы просмотреть согласованность всех §Yкитайских клик§!.
+Китайские согласованности
+Согласованность китайских фракций
+Принципы
+[?country_leader:china_alignment.GetName] §YСогласованность§!
+§LАльянс защиты нации§! §YСогласованность§!
+§YНезависимые клики§!
+Лидер: §Y[?global.china_alignment_leaders^alignment_i.GetName]§!\nКлики, согласованные с §Y[?global.china_alignment_leaders^alignment_i.GetName]§!:
+Следующие клики независимы. Наведите курсор на флаги, чтобы увидеть их статус согласованности с нами.
+§Y[THIS.GetName]§!\n[ChinaGetMemberAlignment] §YСогласованы§!\n[ChinaGetMemberAlignmentCompatibilityStatus]
 [?country_leader:china_alignment.GetName]
-§YNon§!
-This clique is §Ynot aligned§! to any leaderships.
-This clique has a §Ycompatible alignment§! with our leadership.
-This clique has an §Yincompatible alignment§! with our leadership.
+§YНет§!
+Эта клика §Yне согласована§! ни с каким руководством.
+Эта клика имеет §Yсовместимую согласованность§! с нашим руководством.
+Эта клика имеет §Yнесовместимую согласованность§! с нашим руководством.
 [ChinaGetAlignmentTenetsTitle]
-[?country_leader:china_alignment.GetName] §YTenets§!
-§YTenets of the§! §LNational Protection Alliance§!
-§YIndependent Cliques§!
+[?country_leader:china_alignment.GetName] §YПринципы§!
+§YПринципы§! §LАльянса защиты нации§!
+§YНезависимые клики§!
 [ChinaGetAlignmentTenetsDesc]
-§LRuled by the magnanimous \
-§LThe lasting legacy of the \
-§LMuch detested by the Chinese people, the monarchy did not truly die in 1911. With the fire of monarchism continually championed by Kang Youwei, Liang Qichao, the Royal Family and other monarchical groups. Restored to prominence in a false gesture by the Zhili Clique, the monarchist groups within the Assembly were never truly satisfied with their position as second fiddle to Republicans.\n\nFollowing a period of Zhili weakness, the \
-§LThe Anguojun Government, formally the National Pacification Army Government, is the supposed last vestiges of the original Beiyang Republic. Or at least, such a statement is claimed by Grand Marshal Zhang Zuolin, its ruling figure. Underneath the surface however, the Anguojun is but another source of legitimacy with which Zhang Zuolin clings onto any claim of national legitimacy.\n\nGrouping together the many factions of the Fengtian Clique, such as the Shaoshuai Clique of Zhang Xueliang, the Shikan Clique of Yang Yuting, and the Zhang Clique, the Anguojun also incorporates those disparate factions from its time in Beijing. Carrying with it the legacy of 1928, the Shenyang Assembly sports members from the old Anhui Clique; not too dissimilar to the membership of the Jiwei club, the Old and New Communications Cliques, the Pro-Japanese Concordia Association, and finally any Beiyang bureaucrats ejected from the Beijing Assembly or Zhili. Dysfunctional at best, it is a situation held together by the sheer force of the Old Marshal alone.§!
-§LOwing a similar legacy to the Revolutionary Movements of the Xinhai Revolution, the Federalist movement can find its true ancestor in the form of the Tongmenghui. Further advanced by the intellectual musings of the legendary Zhang Taiyan, Liang Qichao, Song Jiaoren, and numerous others, the \
-§LThe Kuomintang finds its origins in the Qing-era Revolutionary secret society, the Tongmenghui. Its founder Sun Yat-sen hoped to expel the Manchu Qing and establish a new Chinese Republic which occurred under the Xinhai Revolution. Disgusted with the Beiyang Warlords, Sun established a rival government in Guangzhou in collaboration with other Southern Republicans, such as Chen Jiongming's Federalists. After Sun and Chen had a falling out, the former came into contact with the Internationale, which sent him assistance through Russian exile advisors.\n\nThe Bolsheviks helped Sun revolutionise the Kuomintang in the Reorganisation of 1924, which saw the Party adopt the principles of Democratic Centralism with the goals to unify China under a One-Party State, during which the Party would enact political tutelage to prepare China for democracy and promote Sun's Three Principles of Minsheng, Minzu, and Minquan. After Sun's death, the Kuomintang would become beset with factionalism between the leftists who supported the alliance with the Chinese Syndicalist League and the rightists who opposed it.\n\nAfter the Northern Expedition collapsed and Chiang Kai-shek was killed, the Central Committee fled to Paris with remnants maintaining an Insurgency in the MinGan region. The Left Kuomintang seeks to complete the Unification of China and lead the Socialist Revolution in Asia. There can be no doubt that socialism is the natural conclusion of the Three Principles!§!
-§LThe Kuomintang finds its origins in the Qing-era Revolutionary secret society, the Tongmenghui. Its founder Sun Yat-sen hoped to expel the Manchu Qing and establish a new Chinese Republic which occurred under the Xinhai Revolution. Disgusted with the Beiyang Warlords, Sun established a rival government in Guangzhou in collaboration with other Southern Republicans, such as Chen Jiongming's Federalists. After Sun and Chen had a falling out, the former came into contact with the Internationale, which sent him assistance through Russian exile advisors.\n\nThe Bolsheviks helped Sun revolutionise the Kuomintang in the Reorganisation of 1924, which saw the Party adopt the principles of Democratic Centralism with the goals to unify China under a One-Party State, during which the Party would enact political tutelage to prepare China for democracy and promote Sun's Three Principles of Minsheng, Minzu, and Minquan. After Sun's death, the Kuomintang would become beset with factionalism between the leftists who supported the alliance with the Chinese Syndicalist League and the rightists who opposed it.\n\nThe Rightists retreated to Guizhou following the failure of the Northern Expedition as the leftist cowards of the Central Committee fled to Paris. The Right Kuomintang hopes to fulfil Sun's dream by completing the National Revolution, without the scourge of socialism infecting the Three Principles. The New China will not be built on disgusting materialist interpretations of Sanmin doctrine!§!
-§LTruly a curious and peculiar grouping of warlords, opportunists, and other malfeasant individuals, the \
-§LPerhaps decried as the worst fate to have fallen the Chinese people, the Japanese would appear to have sunk their ever salivating mouths into the China's rotting corpse, and with it they have left a shell of its skeleton in its place. Held together by the Japanese Kwantung Army and their local collaborationist allies, the Japanese Empire has finally extended its influence far beyond the games of the Old Marshal.\n\nWith no coherent ideology shared by their contemporaries bar pro-Japanese attitudes, the leading figures of this government are decried as collaborators, \
-§LIn the chaos of the warlord era, many governors operated with total autonomy from the governments in Beijing or Guangzhou. Such unaligned warlords are flexible in their outlook and will attempt to maintain their autonomy in the ever-changing political landscape...§!
-§zNorthern Zhili§!
-§MSouthern Zhili§!
-§qRestorationist§!
-§eAnguojun§!
-§NBeiyang§!
-§fFederalist§!
-§kLeft Kuomintang§!
-§cRight Kuomintang§!
-§GSouthern Republican§!
-§jGEACPS§!
-Is ruled by a §zNorthern Zhili§! regime
-Is §Rnot§! ruled by a §zNorthern Zhili§! regime
-Is ruled by a §YSouthern Zhili§! regime
-Is §Rnot§! ruled by a §YSouthern Zhili§! regime
-Is ruled by a §LZhili§! regime
-Is §Rnot§! ruled by a §LZhili§! regime
-Is ruled by a §qManchu§! regime
-Is §Rnot§! ruled by a §qManchu§! regime
-Is ruled by a §eFengtian§! regime
-Is §Rnot§! ruled by a §eFengtian§! regime
-Is ruled by a §NBeiyang§! regime
-Is §Rnot§! ruled by a §NBeiyang§! regime
-Is ruled by the §fFederalist§!
-Is §Rnot§! ruled by the §fFederalists§!
-Is ruled by the §kLeft Kuomintang§!
-Is §Rnot§! ruled by the §kLeft Kuomintang§!
-Is ruled by the §cRight Kuomintang§!
-Is §Rnot§! ruled by the §cRight Kuomintang§!
-Is ruled by a §GSouthern Republican§! regime
-Is §Rnot§! ruled by a §GSouthern Republican§! regime
-Is ruled by a §jGEACPS§! regime
-Is §Rnot§! ruled by a §jGEACPS§! regime
-Is ruled by a §zNorthern Zhili-friendly§! regime
-Is §Rnot§! ruled by a §zNorthern Zhili-friendly§! regime
-Is ruled by a §YSouthern Zhili-friendly§! regime
-Is §Rnot§! ruled by a §YSouthern Zhili-friendly§! regime
-Is ruled by a §LZhili-friendly§! regime
-Is §Rnot§! ruled by a §LZhili-friendly§! regime
-Is ruled by a §qManchu-friendly§! regime
-Is §Rnot§! ruled by a §qManchu-friendly§! regime
-Is ruled by a §eFengtian-friendly§! regime
-Is §Rnot§! ruled by a §eFengtian-friendly§! regime
-Is ruled by a §NBeiyang-friendly§! regime
-Is §Rnot§! ruled by a §NBeiyang-friendly§! regime
-Is ruled by a §fFederalist-friendly§! regime
-Is §Rnot§! ruled by §fFederalist-friendly§! regime
-Is ruled by a §kLeft Kuomintang-friendly§! regime
-Is §Rnot§! ruled by a §kLeft Kuomintang-friendly§! regime
-Is ruled by a §cRight Kuomintang-friendly§! regime
-Is §Rnot§! ruled by a §cRight Kuomintang-friendly§! regime
-Is ruled by a §kKuomintang-friendly§! regime
-Is §Rnot§! ruled by a §kKuomintang-friendly§! regime
-Is ruled by a §GSouthern Republican-friendly§! regime
-Is §Rnot§! ruled by a §GSouthern Republican-friendly§! regime
-Is an unaligned clique
-Is §Rnot§! an unaligned clique
-£GFX_pol_violence §YMorale§! will change by [?change_league_war_morale_by|+0].
-§RMen will defect from our army!§!
-\n§RRefusal Chance: [?refusal_weight|%-]§!\nInfluencing factors:\n   - §YGovernment Type§!\n   - §YTotal Number of Governorates§!\n   - §YRelative Army Strength§!\n   - §YRelative Industrial Strength§!\n   - §YOpinion§!\n
-§R[FROM.GetNameWithFlag] may request a foreign power's protection!§!
-§RThey might demand an ideologically compatible government in return!§!
-Refused a previous offer of alliance
-Has §Rnot§! refused previous offers of alliance
-all Chinese countries
-All Chinese countries
-Chinese countries can be cored upon reaching §H50% average compliance§!.\nThe §H$territorial_integration$§! occupation law can be used on occupied Chinese states.
+§LУправляемая великодушным \
+§LНепреходящее наследие \
+§LГлубоко ненавидимая китайским народом, монархия не умерла по-настоящему в 1911 году. Огонь монархизма постоянно поддерживался Кан Ювэем, Лян Цичао, Императорской семьёй и другими монархическими группами. Восстановленная в правах ложным жестом со стороны клики Чжили, монархические группы в Ассамблее никогда не были полностью удовлетворены своим положением второй скрипки при республиканцах.\n\nПосле периода слабости Чжили \
+§LПравительство Ангоцзюнь, формально Правительство Национальной армии умиротворения, является предполагаемым последним оплотом первоначальной Бэйянской республики. Или, по крайней мере, так утверждает Великий маршал Чжан Цзолинь, его правящая фигура. Однако под поверхностью Ангоцзюнь — это лишь ещё один источник легитимности, за который Чжан Цзолинь цепляется в своих притязаниях на национальную легитимность.\n\nОбъединяя множество фракций Фэнтяньской клики, таких как клика Шаошуай Чжан Сюэляна, клика Шикан Ян Юйтина и клика Чжан, Ангоцзюнь также включает в себя разрозненные фракции со времён своего пребывания в Пекине. Неся с собой наследие 1928 года, Шэньянская ассамблея включает членов старой Аньхойской клики, не слишком отличающихся от членов клуба Цзивэй, Старой и Новой коммуникационных клик, прояпонской Ассоциации Конкордия и, наконец, любых бэйянских бюрократов, изгнанных из Пекинской ассамблеи или Чжили. В лучшем случае дисфункциональная, эта ситуация держится исключительно на грубой силе Старого Маршала.§!
+§LИмея схожее наследие с революционными движениями Синьхайской революции, Федералистское движение может найти своего истинного предка в лице Тунмэнхуэй. Получив дальнейшее развитие благодаря интеллектуальным размышлениям легендарных Чжан Тайяня, Лян Цичао, Сун Цзяожэня и многих других, \
+§LГоминьдан берёт своё начало в тайном революционном обществе эпохи Цин — Тунмэнхуэй. Его основатель Сунь Ятсен надеялся изгнать маньчжурскую Цин и основать новую Китайскую Республику, что и произошло в ходе Синьхайской революции. Возмущённый Бэйянскими милитаристами, Сунь создал конкурирующее правительство в Гуанчжоу в сотрудничестве с другими южными республиканцами, такими как федералисты Чэнь Цзюнмина. После разрыва Суня и Чэня первый вступил в контакт с Интернационалом, который направил ему помощь через русских советников-изгнанников.\n\nБольшевики помогли Суню революционизировать Гоминьдан в ходе Реорганизации 1924 года, в результате которой партия приняла принципы демократического централизма с целью объединения Китая в однопартийное государство, в течение которого партия будет осуществлять политическую опеку для подготовки Китая к демократии и продвигать Три принципа Суня: Миньшэн, Миньцзу и Миньцюань. После смерти Суня Гоминьдан погряз во фракционности между левыми, поддерживавшими союз с Китайской синдикалистской лигой, и правыми, выступавшими против него.\n\nПосле провала Северного похода и гибели Чан Кайши Центральный комитет бежал в Париж, а остатки сохранили повстанческое движение в регионе Минь-Гань. Левый Гоминьдан стремится завершить объединение Китая и возглавить социалистическую революцию в Азии. Не может быть сомнений, что социализм является естественным завершением Трёх принципов!§!
+§LГоминьдан берёт своё начало в тайном революционном обществе эпохи Цин — Тунмэнхуэй. Его основатель Сунь Ятсен надеялся изгнать маньчжурскую Цин и основать новую Китайскую Республику, что и произошло в ходе Синьхайской революции. Возмущённый Бэйянскими милитаристами, Сунь создал конкурирующее правительство в Гуанчжоу в сотрудничестве с другими южными республиканцами, такими как федералисты Чэнь Цзюнмина. После разрыва Суня и Чэня первый вступил в контакт с Интернационалом, который направил ему помощь через русских советников-изгнанников.\n\nБольшевики помогли Суню революционизировать Гоминьдан в ходе Реорганизации 1924 года, в результате которой партия приняла принципы демократического централизма с целью объединения Китая в однопартийное государство, в течение которого партия будет осуществлять политическую опеку для подготовки Китая к демократии и продвигать Три принципа Суня: Миньшэн, Миньцзу и Миньцюань. После смерти Суня Гоминьдан погряз во фракционности между левыми, поддерживавшими союз с Китайской синдикалистской лигой, и правыми, выступавшими против него.\n\nПравые отступили в Гуйчжоу после провала Северного похода, в то время как левые трусы из Центрального комитета бежали в Париж. Правый Гоминьдан надеется осуществить мечту Суня, завершив Национальную революцию, без заразы социализма, поражающей Три принципа. Новый Китай не будет построен на отвратительных материалистических интерпретациях доктрины Саньминь!§!
+§LПоистине любопытная и своеобразная группа милитаристов, оппортунистов и прочих злоумышленников, \
+§LВозможно, осуждаемая как худшая участь, постигшая китайский народ, Япония, похоже, вонзила свои вечно слюнявые рты в гниющий труп Китая, оставив на его месте лишь оболочку скелета. Скреплённое японской Квантунской армией и их местными коллаборационистами, влияние Японской империи наконец распространилось далеко за пределы игр Старого Маршала.\n\nНе имея какой-либо связной идеологии, разделяемой их современниками, кроме прояпонских настроений, ведущие фигуры этого правительства осуждаются как коллаборационисты, \
+§LВ хаосе эры милитаристов многие губернаторы действовали с полной автономией от правительств в Пекине или Гуанчжоу. Такие неприсоединившиеся милитаристы гибки в своих взглядах и будут пытаться сохранить свою автономию в постоянно меняющемся политическом ландшафте...§!
+§zСеверные Чжили§!
+§MЮжные Чжили§!
+§qРеставрационисты§!
+§eАнгоцзюнь§!
+§NБэйян§!
+§fФедералисты§!
+§kЛевый Гоминьдан§!
+§cПравый Гоминьдан§!
+§GЮжный республиканец§!
+§jСВАС§!
+Управляется режимом §zСеверных Чжили§!
+§RНе§! управляется режимом §zСеверных Чжили§!
+Управляется режимом §YЮжных Чжили§!
+§RНе§! управляется режимом §YЮжных Чжили§!
+Управляется режимом §LЧжили§!
+§RНе§! управляется режимом §LЧжили§!
+Управляется режимом §qМаньчжуров§!
+§RНе§! управляется режимом §qМаньчжуров§!
+Управляется режимом §eФэнтяньцев§!
+§RНе§! управляется режимом §eФэнтяньцев§!
+Управляется режимом §NБэйян§!
+§RНе§! управляется режимом §NБэйян§!
+Управляется §fФедералистами§!
+§RНе§! управляется §fФедералистами§!
+Управляется §kЛевым Гоминьданом§!
+§RНе§! управляется §kЛевым Гоминьданом§!
+Управляется §cПравым Гоминьданом§!
+§RНе§! управляется §cПравым Гоминьданом§!
+Управляется режимом §GЮжных республиканцев§!
+§RНе§! управляется режимом §GЮжных республиканцев§!
+Управляется режимом §jСВАС§!
+§RНе§! управляется режимом §jСВАС§!
+Управляется режимом, дружественным §zСеверным Чжили§!
+§RНе§! управляется режимом, дружественным §zСеверным Чжили§!
+Управляется режимом, дружественным §YЮжным Чжили§!
+§RНе§! управляется режимом, дружественным §YЮжным Чжили§!
+Управляется режимом, дружественным §LЧжили§!
+§RНе§! управляется режимом, дружественным §LЧжили§!
+Управляется режимом, дружественным §qМаньчжурам§!
+§RНе§! управляется режимом, дружественным §qМаньчжурам§!
+Управляется режимом, дружественным §eФэнтяньцам§!
+§RНе§! управляется режимом, дружественным §eФэнтяньцам§!
+Управляется режимом, дружественным §NБэйян§!
+§RНе§! управляется режимом, дружественным §NБэйян§!
+Управляется режимом, дружественным §fФедералистам§!
+§RНе§! управляется режимом, дружественным §fФедералистам§!
+Управляется режимом, дружественным §kЛевому Гоминьдану§!
+§RНе§! управляется режимом, дружественным §kЛевому Гоминьдану§!
+Управляется режимом, дружественным §cПравому Гоминьдану§!
+§RНе§! управляется режимом, дружественным §cПравому Гоминьдану§!
+Управляется режимом, дружественным §kГоминьдану§!
+§RНе§! управляется режимом, дружественным §kГоминьдану§!
+Управляется режимом, дружественным §GЮжным республиканцам§!
+§RНе§! управляется режимом, дружественным §GЮжным республиканцам§!
+Является неприсоединившейся кликой
+§RНе§! является неприсоединившейся кликой
+£GFX_pol_violence §YМораль§! изменится на [?change_league_war_morale_by|+0].
+§RЛюди дезертируют из нашей армии!§!
+\n§RВероятность отказа: [?refusal_weight|%-]§!\nВлияющие факторы:\n   - §YТип правительства§!\n   - §YОбщее количество губернаторств§!\n   - §YОтносительная численность армии§!\n   - §YОтносительная промышленная мощь§!\n   - §YОтношение§!\n
+§R[FROM.GetNameWithFlag] может запросить защиту у иностранной державы!§!
+§RВзамен они могут потребовать идеологически совместимое правительство!§!
+Отклонил предыдущее предложение союза
+§RНе§! отклонял предыдущие предложения союза
+все китайские страны
+Все китайские страны
+Китайские страны могут быть аннексированы с получением ядер при достижении среднего уровня лояльности §H50%§!.\nЗакон об оккупации §H$territorial_integration$§! может использоваться на оккупированных китайских штатах.
 (§Y$all_chinese_countries_tt_cap$§!) $MODIFIER_COMPLIANCE_GAIN_ADD$: [?0.01|+=%%]
 (§Y$all_chinese_countries_tt_cap$§!) $MODIFIER_RESISTANCE_TARGET$: [?-0.1|-=%0]
-§YOwner§! of §Y[608.GetName]§!: Has a war goal against §Y[ROOT.GetNameWithFlag]§!
-§YOwner§! of §Y[608.GetName]§!: Has a war with active war goal against §Y[ROOT.GetNameWithFlag]§!
-The Chinese United Front exists.
-The Chinese United Front does not exist.
-Members of the United Front cannot declare other wars.
-§YWe will begin preparing ourselves to challenge the Central Government. If we end up at war with our master (either during the post-unification crisis or due to a failed attempt to integrate us), we will gain an attack bonus against them. The more prepared we are, the longer our initial attack bonus will last!§!
-§R[FROM.GetNameDefCap] authorities are positioning themselves to challenge our rule. We must be ready to confront them. (The more prepared they are, the longer their initial attack bonus will last!)§!
-§GWe will expand preparations to challenge the Central Government. (The more prepared we are, the longer our initial attack bonus will last!)§!
-§RThe circumstances of the scenario we face mean that we will not be able to challenge the Central Government without priming our people in advance, barring any further outrage created by the central government.§!
-§RThis risky action on our part may generate scandal and give regional actors cause to challenge our authority!§!
-§GThis abominable action by the Central Government has generated considerable scandal. We now have cause to challenge their authority!§!
-§cWe have done our patriotic duty.§!
-§RWe will incentivise [ROOT.overlord.GetNameDef] to begin taking decisive action to ensure unification. They will be much more likely to end up at war in the near future - we must be ready to aid them!§!
-§RThe pressure to pursue unification will only grow in strength!§!
-§YWe have been recognised as the most legitimate government in China.§!
-§YIs the most legitimate government in China§!
-§YIs§! §Rnot§! §Ythe most legitimate government in China§!
-§YHas unified China§!
-§YHas§! §Rnot§! §Yunified China§!
-Is at war with the Chinese United Front
-The §YSouth China War§! has ended.
-§YWe have chosen a permanent capital for China.§!
-We shall assume national leadership of the
-§e$CHN_assume_tt$ Anguojun.§!
-§j$CHN_assume_tt$ GEACPS Alignment.§!
-§f$CHN_assume_tt$ Federalists.§!
-§k$CHN_assume_tt$ Left Kuomintang.§!
-§z$CHN_assume_tt$ Northern Zhili Clique.§!
-§q$CHN_assume_tt$ Restorationists.§!
-§c$CHN_assume_tt$ Right Kuomintang.§!
-§Y$CHN_assume_tt$ Southern Zhili Clique.§!
-No Other Existing Factions Have Claimed the
-§Y$CHN_no_other_tt$ §eAnguojun§! Mantle.§!
-§Y$CHN_no_other_tt$ §jGEACPS§! Mantle.§!
-§Y$CHN_no_other_tt$ §fFederalist§! Mantle.§!
-§Y$CHN_no_other_tt$ §kLeft Kuomintang§! Mantle.§!
-§Y$CHN_no_other_tt$ §zNorthern Zhili§! Mantle.§!
-§Y$CHN_no_other_tt$ §qRestorationist§! Mantle.§!
-§Y$CHN_no_other_tt$ §cRight Kuomintang§! Mantle.§!
-§Y$CHN_no_other_tt$ §MSouthern Zhili§! Mantle.§!
-§Y$CHN_no_other_tt$ §LNational Protection Alliance§! Mantle.§!
-Has revolted in the past 90 days.
-Has §Rnot§! revolted in the past 90 days.
-§C£GFX_stability_texticon §YStability§! will be gained proportionate to $IDEOLOGY$ Party Popularity.§!
-§C£GFX_stability_texticon §YStability§! will be deducted proportionate to $IDEOLOGY$ Party Popularity.§!
-§C£GFX_stability_texticon §YStability§! will be deducted proportionate to non-$IDEOLOGY$ Party Popularity.§!
-§C£GFX_stability_texticon §YStability§! will be deducted proportionate to $IDEOLOGY1$ and $IDEOLOGY2$ Party Popularity.§!
-§C£GFX_stability_texticon §YStability§! will be deducted proportionate to non-$IDEOLOGY1$ and non-$IDEOLOGY2$ Party Popularity.§!
-§C£GFX_pol_power §YPolitical Power§! will be deducted proportionate to non-$IDEOLOGY$ Party Popularity in $COUNTRY$.§!
-§C£GFX_stability_texticon §YStability§! and £GFX_pol_power §YPolitical Power§! will be deducted proportionate to $IDEOLOGY$ Party Popularity.§!
-§C£GFX_stability_texticon §YStability§! and £GFX_pol_power §YPolitical Power§! will be deducted proportionate to non-$IDEOLOGY$ Party Popularity.§!
-§C£GFX_stability_texticon §YStability§! and £GFX_pol_power §YPolitical Power§! will be deducted proportionate to $IDEOLOGY1$ and $IDEOLOGY2$ Party Popularity.§!
-§C£GFX_stability_texticon §YStability§! and £GFX_pol_power §YPolitical Power§! will be deducted proportionate to non-$IDEOLOGY1$ and non-$IDEOLOGY2$ Party Popularity.§!
-§eAnguojun§! Aligned
-§NBeiyang Government§! Aligned
-§jGEACPS§! Aligned
-§fFederalist§! Aligned
-§kLeft Kuomintang§! Aligned
-Non Aligned
-§zNorthern Zhili§! Aligned
-§qRestorationist§! Aligned
-§cRight Kuomintang§! Aligned
-§GSouthern Republican§! Aligned
-§MSouthern Zhili§! Aligned
-Army Reform
-Chinese armies and those of separatist states have long struggled to catch up to Western standards. Soldiers are notoriously poorly trained and disorderly, often recruited from a varied stock of bandits, petty criminals, and the chronically destitute. Equipment is regularly patchwork, obsolete, or even downright archaic. Loyalty is typically given to individual officers, or a regularly filled ricebowl, and ideological motivation is ephemeral at best. It will take a great deal to rebuild these armies along modern lines.\n
-Army Reform
-Formed by the needs of the waning days of the Qing and moulded by the experiences of the Warlord Era, Chinese warlord armies and armies of various breakaway states are almost feudal in nature, organised by bands of regional strongmen. Our army has been frequently criticised for its low quality, with some officers accused of being incompetent at everything but enriching themselves. We must strive for more than this, especially if we wish to stand for anything greater.
-Lessons of War
-The lessons of war have taught us considerably in the ways of modern conflict. With renewed ambition, we must pursue major structural reforms to bring our forces up to date, building a force that can stand the test of time.
-Cleanse Army Corruption
-The soldier's pay has historically been very poor in China, but there is little shortage in \
-Reorganise Military Units
-Our march towards unification has come at a cost: many of our starting units have been severely thinned out from casualties and desertion, others have been swelled to an unmanageable size by deserting opponents and ad hoc reinforcements, while still others were rushed to the front before they could be properly constituted. As a result, quality has been severely degraded across the board - with uneven and ill-planned distributions of veteran and green units. Like a dulled knife, the army needs to be sharpened and this can only occur by rotating exhausted units to the rear echelons for much needed reprieve and reorganisation. Doing in a way that does not leave further vulnerabilities poses a significant logistical challenge and will require a major top-down effort by military planners.
-Disband Unreliable Units
-The army as it stands is like a circus, a diverse collection of units of varying sizes, quality, and origins that looks like a display showcase rather than a uniform, disciplined symbol of the new government. While there are some elite, dedicated units bearing modern equipment and slick uniforms, they are few and far between compared to the larger number of ex-warlord and ex-bandit armies that harass the locals and then run at the face of danger. Worse, some units only exist on paper - these ghost units go beyond inflated unit rosters, with skeletal staffing if they exist at all.\n\nWhile quantity does have a quality of its own, it also has degrading effects on quality with many better units distrusting lesser ones to guard their flanks and more idealistic soldiers suffering severe damage to morale upon witnessing the barbaric acts of their \
-Purge Disloyal Officers
-As enemy armies began to disintegrate, many of our former foes began to defect and sometimes entire formations changed uniforms. Unfortunately, this is often dismissed as just another reality of a military career in warlord China and neighbouring areas and while somewhat true many grow complacent about the dangers this poses for the future of the army. Many freshly recruited officers are not particularly interested in our cause, yet expect to retain the same privileges and status they enjoyed under their previous employers. Some are borderline mutinous, dismissive of loyal officers' attempts to integrate them into our mission.\n\nWe excise this tumour before it begins to spread, dismissing the most egregious examples and pre-emptively screening future recruits for loyalty. Of course, dismissed officers in the region tend to depart in turn with entire staff and units loyal to them personally, taking their guns with them. There is plenty of concern they will become bandits so we must be extra alert.
-Enforce Military Discipline
-The Chinese military has long been seen as a career of last choice for sons of the gentry and other elites: honourable young men historically were expected to do well on the Imperial Examination and go into the civilian bureaucracy. Even at the height of the warlord era, there remains considerable stigma towards military service among educated men because of prevalent negative stereotypes of soldiers and their officers as being bands of thieves, murderers, and bullies.\n\nThis has proven to be a self-fulfilling prophecy, and reports of looting and extrajudicial punishments enacted by even some of our most trusted units have grown disquietingly common as our armies grow drunk with victory and power. It will certainly not be popular, but reasserting our government's authority is needed if we are to preserve the integrity of our army. Some examples will have to be made from some while other cases will have to be covered up, both will damage our political legitimacy in the short term but is a necessary evil to ensure the long-term viability of our cause.
-Insist on Civilian Control
-Chinese dynasties have historically looked down on military service as lowly, and Confucian Scholar-Bureaucrats long prided themselves on maintaining strict control over the military. The waning days of the Qing Dynasty and the chaos of the Warlord Era has allowed the military to slip from the grasp of the civilian government. Worse, the lines between the two have often blurred, with military figures inserting themselves directly into the civilian government and civilian figures donning on military titles in an effort to maintain both control and legitimacy. If our army is to shed its reputation as a band of warlords, we need to leverage the might of our government into reining in our officers, even if it is likely to cause conflict in the near future.
-Desertion has declined thanks to a mix of pay increases, better morale, and greater competence across the board. Ghost soldiers are being slowly eliminated from army rosters, though considerably more reforms are required to fully eliminate the issue. With officers promoted by merit rather than patronage or nepotism, a coordinated and effective command structure can emerge its place.
-Warlord Era Inadequacies
-Despite various claims, there has never really been a \
-Warlord Era Inadequacies
-Despite various claims, there has never really been a \
-Systemic Military Shortcomings
-The first steps toward systematic military reform are underway, beginning to sweep aside the corruption and many inadequacies plaguing what will one day be a true Chinese army. A centralised bureaucracy and coordinated logistics are the first step on such a journey, and will build the foundation for future reforms. A more reliable system of supply and payment is already being established, ensuring better retention of troops, reducing incentives to loot, and building trust with local populations. For now, the system remains vulnerable to theft and embezzlement, but you can't make Danhuatang without breaking some eggs.
-Systemic Military Shortcomings
-The first steps toward systematic military reform are underway, beginning to sweep aside the corruption and many inadequacies plaguing what will one day be a true Chinese army. A centralised bureaucracy and coordinated logistics are the first step on such a journey, and will build the foundation for future reforms.\n\n$china_poor_officers_fixed_text$\n\nA more reliable system of supply and payment is already being established, ensuring better retention of troops, reducing incentives to loot, and building trust with local populations. For now, the system remains vulnerable to theft and embezzlement, but you can't make Danhuatang without breaking some eggs.
-Military Reforms in Progress
-Army reform continues steadily, though not always at an even pace. The difficult task of breaking up localised units and wider patronage networks has begun, albeit with considerable resistance both open and subversive. New officers without such extensive connections, hoped to be more competent and less overtly corrupt, have been assigned as the command roster begins to shift. Training and requisition too are being reformed, though some elements are resistant to these changes, seeing them as too far and too fast. Although unit quality can vary, the baseline has been lifted far above the old \
-Military Reforms in Progress
-Army reform continues steadily, though not always at an even pace. The difficult task of breaking up localised units and wider patronage networks has begun, albeit with considerable resistance both open and subversive. New officers without such extensive connections, hoped to be more competent and less overtly corrupt, have been assigned as the command roster begins to shift.\n\n$china_poor_officers_fixed_text$\n\nTraining and requisition too are being reformed, though some elements are resistant to these changes, seeing them as too far and too fast. Although unit quality can vary, the baseline has been lifted far above the old \
-A Reformed Military Force
-The army has come a long way since its chaotic and dishevelled state mere years ago. Thanks to a great deal of effort, and experience earned from successes in the battlefield, its core units stand on the cusp of modernity; their battlefield prowess more attributable to equipment and specialisation than outright neglect.\n\n$china_poor_officers_fixed_text$\n\nThe same cannot be said for the entire force, nor allied and integrated units in particular, but the path is now clear to building a new, modern, and unified army to defend Chinese interests.
-§RWe have done our best to minimise the growing pains of our rapidly expanding armies but we can hold back the impact no further. Direct action will have to be taken to address these mounting issues in our ranks.§!
-§RWe will take initiative in scaling up the size of our military, unlocking further avenues to improve our armies but also forcing us to shoulder the burdens of an expanded military force and to address them pre-emptively.§!
-§RHaving failed to make additional progress in eliminating the disarray that has gripped our military, morale has plunged but we can find some solace in that it cannot get any worse.§!
-§ROur prior efforts at scaling our military has helped to buffer the impact of our rapidly expanding armies, though could not fully shield us from the natural deterioration of quality liberation has brought.§!
-Military Disarray
-Despite resounding successes on the battlefield and the bravery our soldiers demonstrated on the march towards unification, the army has grown severely bloated as a result of incorporating thousands of defectors, volunteers, and the capture of enemy stockpiles. At the same time, paradoxically, many of the army's elite starting units have grown depleted as the expedition went on, some existing effectively only on paper. Their reinforcements have been either delayed or redirected as logistics snarled going northwards.\n\nThe pervasive, nearly systematic, rot that has spread across the army has become impossible to excise. If we are to save it from becoming a shambling mass of men, the only realistic solution left is to temporarily demobilise entire army corps wholescale and rebuild anew division by division. This is a tall order and expected to face significant resistance, especially since warlord units will face the brunt of disbandment orders.
-Military Disorder
-Some progress has been made in rebuilding the army, though problems continue. Many local commanders have resisted our orders to disband, fearing that our efforts will come primarily at the expense of their power. Others fear demobilisation will leave their sectors unguarded, or hesitate to split apart units that have years of camaraderie.\n\nStill, brigade by brigade and regiment by regiment our divisions are slowly being reconstituted once more into fighting units. As the frontline solidifies somewhat, a more steady logistical train has been established, thus alleviating some pressing concerns about the state of our military. Time is of the essence however, it is only a matter of time before the NRA is once more called to protect and defend China.
-Military Disorganisation
-The sweeping successes of the army during the Northern Expedition hid a growing problem within its ranks: that of outrunning its logistical tail and becoming over-bloated like the armies of the warlords. After thorough discussion and realising there was no other options, the high command ordered a thorough demobilisation.\n\nIt was a painful process but it seems that the worst of it is behind us now. Most of our best divisions are fully restored, and those we have raised or acquired along the way have been largely integrated into our ranks. There remain many command and control issues at a corps and army level, though this can be chalked up to growing pains as our freshly build army balloons in size. They must remain vigilant however, we have considerable ground to make up as we continue onwards to national unification.
-§RWe have done our best to resolve local economic disruptions but we cannot withstand the mounting financial downturn conquest has wrought. Direct action must be taken to stabilise the national economy.§!
-§RWe will take initiative repairing the sorry state of our national economy, unlocking further avenues to improve various commerical and industrial sectors, making the system more resilient as we expand.§!
-§RHaving failed to make additional progress in eliminating the chaos that plagues our national economy, faith in our government's fiscal stability has plunged but we can find some solace in that it cannot get any worse.§!
-§ROur prior efforts at reforms has helped to reduce the economic shocks of reintegrating large portions the country, though could not fully prevent fiscal upheaval.§!
-Devastated National Economy
-China was once the wealthiest nation in the world, the centre of booming trade and elegant craftsmanship. The decadence of the Qing dynasty, isolation from the outside world, and our predecessors' failure to grasp the significance of the industrial revolution doomed the mighty power to a Century of Humiliation. Having failed to modernise and keep pace with foreign powers, China lagged behind in industrial production. Heavily dependent on foreign investment to industrialise, what little that has been created is largely owned by foreigners, who exploit their advantageous position to extract significant concessions from squabbling and corrupt Chinese leaders. Meanwhile, the countryside is still underdeveloped and unequal, with little mechanisation and production while remaining manpower intensive.\n\nUnder strain from recent wars, forced to bear the burdens of moving armies, taxation, and war-time destruction, the system has effectively collapsed. Foreign investors are pulling out, trade is disrupted, looting and banditry is widespread, and vast swathes of territory under our control is facing famine. Many are questioning our government's ability to back up the currency it is issuing or handle the growing crisis, and we have precious little time to get things back on track.
-Damaged National Economy
-Although the [ROOT.GetAdjective] economy has improved somewhat, its woes still continue to multiply. Attracted like flies to the emerging stability of the new government, creditors of the previous government have come out of the woodwork expecting us to honour our obligations. Our actual ability to pay off our debts is still in the air as many still distrust the longevity of our regime and plenty refuse to accept our currency. More has to be done and fast - our armies, government, and patronage networks require money to run. The longer we dawdle, the more risk we undertake.\n\nWe may have less room to manoeuvre than our western counterparts. After a Century of Humiliation, China's economy is very fragile with limited modernisation in its agricultural and industrial sectors. Heavily dependent on foreign investments and the expense of political stability, and suffering from severe socio-political rot due to the warlord era, the strains of recent war severely damaged the economy of territories under our control. Though we may have stemmed the worst of the crisis, heading off inflation and bringing workers, merchants, and peasants back to work remains a priority. Fears of a famine have mostly subsided, though many continue to go hungry and there are areas that remain at severe risk for further crisis. There is much for us to do before we can declare a return to normal.
-Disrupted National Economy
-The Century of Humiliation left a battered China, with an economy that could ill afford the chaos caused by warlord infighting. Still, it has proved more resilient than expected, and some segments are coming slowly coming back to life. With more and more people coming to accept that our government is likely here to stay, a gentle hum has returned to life in the cities and the factories. Productivity has mostly returned to normal in our core territories, though areas more recently seized by our forces remain in dire straits as we work to reintegrate the disrupted system. Further effort is needed to truly bring China into the future.
-National Illiteracy
-Illiteracy remains widespread across the nation, despite persistent calls from reforms across the political spectrum to address the issue. For many, it has become emblematic of the \
-Disrupted Economy
-Rapid action is needed to avoid economic catastrophe!
-Recovering Economy
-Stabilising Economy
-After considerable hard work over the last few months, our economy has stabilised considerably. Although we still struggle to maintain our reserves and back up our currency, there has been some resilience in the money we have printed and they are mostly accepted within our borders. Once thought to be at risk of bankruptcy, we have assured most of the world of our financial prudence. With a little more effort, our economy will soon be humming back to life.
-An Army in Transition
-Reforming the military is an ongoing process, often made more difficult by pre-existing military reform programmes that have to either be salvaged, redesigned or scrubbed away in order to make way for progress. Having already made some headway along one path, our high command has elected to pivot to another, with consequences in the meantime.
-Northern School
-Ordnance and Orthodoxy
-§LChina's northern warlords mostly hail from the Xuantong-era military schools at Baoding and Tianjin and represent the cream of an increasingly old crop of officers. Educated in the Prussian style and fighting mainly on the northern plain, their style of command emphasises positional warfare alongside the importance of well-drilled troops; especially the artillery.§!
-Southern School
-Mass and Mobility
-§LLacking the resources of the northern warlords and fighting mainly in the tumbling mountains and valleys of the south, China's southern warlords emphasise numbers and manoeuvre warfare. Aggression is rewarded, openings are always to be exploited, and heavy artillery is replaced by swift mountain guns.§!
-Green Forest School
-Resilience and Requisition
-§LSome of China's warlords have no military schooling whatsoever and instead refer to themselves as having attended the 'university of the green forest'. Yet, for all their shortcomings, these former (and sometimes active) bandits bring a unique approach to warfare, able to remain flexible and resilient in even the most trying circumstances. Some may call their methods crude or even criminal, but they often get results.§!
-League War Support
-Request [FROM.GetAdjective] Rifles
-Request [FROM.GetAdjective] Artillery
-Request [FROM.GetAdjective] Support Equipment
-§H[FROM.GetNameDefCap]§! has §Rnot§! refused a request in the last three months.
-Awaiting a response about another request.
-The League War
-With the death of Sun Chuanfang, the §YLeague of Eight Provinces§! has collapsed in one fell stroke. The winner of the League War is sure to play a major role in determining China's future, and to survive the trial by fire, our people have been promised - and expect - a short, decisive campaign.\n\n£GFX_pol_violence §YMorale§! is a representation of the people's belief in our victory and their willingness to fight for that victory. With high £GFX_pol_violence §YMorale§!, we will be capable of rallying the people to our cause and securing foreign support. £GFX_pol_violence §YMorale§! can be §Ggained§! through:\n - Capturing enemy territory\n - Holding the city of Nanjing\n\nOn the other hand, the longer the war takes, the more we will seem to fail to live up to our promises. Should £GFX_pol_violence §YMorale§! drop low enough, our troops will begin to defect and their fighting ability will be severely crippled. £GFX_pol_violence §YMorale§! can be §Rlost§! by:\n - Losing territory\n - Progression of time
-Scavenge for Supplies in Jiangxi
-Scavenge for Supplies in Fujian
-Scavenge for Supplies in Zhejiang
-Scavenge for Supplies in Nanjing
-Scavenge for Supplies in Anhui
-Scavenge for Supplies in Jiangsu
-Scavenge for Supplies in Shandong
-Raise Men in Jiangxi
-Raise Men in Fujian
-Raise Men in Zhejiang
-Raise Men in Nanjing
-Raise Men in Anhui
-Raise Men in Jiangsu
-Raise Men in Shandong
-Appeal for Japanese Support
-Appeal for Zhili Support
-Appeal for German Support
-Appeal for Internationale Support
-Raise Nationalists
-Control Nanjing
-By holding China's old capital, we possess a powerful symbol of legitimacy both to our people and the world.
-Take Nanjing
-We must move quickly to secure control of Nanjing, lest the war drags on...
-Collapsing Morale
-We have failed to make advances, and now the tide of the war has turned against us...
-Current §YMorale§!: [GetLeagueWarMorale] ([?china_league_war_morale])
-§4Unbreakable§!
-§GVery High§!
-§nHigh§!
-§7Rising§!
-§YMedium§!
-§8Middling§!
-§9Falling§!
-§RLow§!
-§rVery Low§!
-§oDestroyed§!
-League War Morale
-Has more than $RIGHT|Y0$ £GFX_pol_violence §YMorale§!
-£GFX_pol_violence §YMorale§! will sink §odangerously low!§!
+§YВладелец§! §Y[608.GetName]§!: Имеет цель войны против §Y[ROOT.GetNameWithFlag]§!
+§YВладелец§! §Y[608.GetName]§!: Находится в состоянии войны с активной целью против §Y[ROOT.GetNameWithFlag]§!
+Китайский Объединённый фронт существует.
+Китайский Объединённый фронт не существует.
+Члены Объединённого фронта не могут объявлять другие войны.
+§YМы начнём готовиться к вызову Центральному правительству. Если мы окажемся в состоянии войны с нашим хозяином (либо во время пост-объединительного кризиса, либо из-за неудачной попытки интегрировать нас), мы получим бонус к атаке против них. Чем лучше мы подготовлены, тем дольше продлится наш первоначальный бонус к атаке!§!
+§RВласти [FROM.GetNameDefCap] готовятся бросить вызов нашей власти. Мы должны быть готовы противостоять им. (Чем лучше они подготовлены, тем дольше продлится их первоначальный бонус к атаке!)§!
+§GМы расширим подготовку к вызову Центральному правительству. (Чем лучше мы подготовлены, тем дольше продлится наш первоначальный бонус к атаке!)§!
+§RОбстоятельства, с которыми мы столкнулись, означают, что мы не сможем бросить вызов Центральному правительству без предварительной подготовки нашего народа, не считая возможного возмущения, вызванного действиями центрального правительства.§!
+§RЭто рискованное действие с нашей стороны может вызвать скандал и дать региональным игрокам повод оспорить нашу власть!§!
+§GЭто отвратительное действие Центрального правительства вызвало значительный скандал. Теперь у нас есть повод оспорить их власть!§!
+§cМы выполнили свой патриотический долг.§!
+§RМы будем стимулировать [ROOT.overlord.GetNameDef] к решительным действиям для обеспечения объединения. В ближайшем будущем они с гораздо большей вероятностью окажутся в состоянии войны — мы должны быть готовы помочь им!§!
+§RДавление с целью добиться объединения будет только усиливаться!§!
+§YМы признаны самым легитимным правительством Китая.§!
+§YЯвляется самым легитимным правительством Китая§!
+§YЯвляется§! §Rне§! §Yсамым легитимным правительством Китая§!
+§YОбъединил Китай§!
+§YОбъединил§! §Rне§! §Yобъединил Китай§!
+Находится в состоянии войны с Китайским Объединённым фронтом
+§YВойна в Южном Китае§! завершилась.
+§YМы выбрали постоянную столицу для Китая.§!
+Мы возьмём на себя национальное руководство
+§e$CHN_assume_tt$ Ангоцзюнь.§!
+§j$CHN_assume_tt$ Согласованность СВАС.§!
+§f$CHN_assume_tt$ Федералистов.§!
+§k$CHN_assume_tt$ Левого Гоминьдана.§!
+§z$CHN_assume_tt$ Северной клики Чжили.§!
+§q$CHN_assume_tt$ Реставрационистов.§!
+§c$CHN_assume_tt$ Правого Гоминьдана.§!
+§Y$CHN_assume_tt$ Южной клики Чжили.§!
+Никакие другие существующие фракции не претендуют на
+§Y$CHN_no_other_tt$ мантию §eАнгоцзюнь§!.§!
+§Y$CHN_no_other_tt$ мантию §jСВАС§!.§!
+§Y$CHN_no_other_tt$ мантию §fФедералистов§!.§!
+§Y$CHN_no_other_tt$ мантию §kЛевого Гоминьдана§!.§!
+§Y$CHN_no_other_tt$ мантию §zСеверных Чжили§!.§!
+§Y$CHN_no_other_tt$ мантию §qРеставрационистов§!.§!
+§Y$CHN_no_other_tt$ мантию §cПравого Гоминьдана§!.§!
+§Y$CHN_no_other_tt$ мантию §MЮжных Чжили§!.§!
+§Y$CHN_no_other_tt$ мантию §LАльянса защиты нации§!.§!
+Восставал в течение последних 90 дней.
+§RНе§! восставал в течение последних 90 дней.
+§C£GFX_stability_texticon §YСтабильность§! будет получена пропорционально популярности партии $IDEOLOGY$.§!
+§C£GFX_stability_texticon §YСтабильность§! будет снижена пропорционально популярности партии $IDEOLOGY$.§!
+§C£GFX_stability_texticon §YСтабильность§! будет снижена пропорционально популярности партий, не являющихся $IDEOLOGY$.§!
+§C£GFX_stability_texticon §YСтабильность§! будет снижена пропорционально популярности партий $IDEOLOGY1$ и $IDEOLOGY2$.§!
+§C£GFX_stability_texticon §YСтабильность§! будет снижена пропорционально популярности партий, не являющихся $IDEOLOGY1$ и $IDEOLOGY2$.§!
+§C£GFX_pol_power §YПолитическая власть§! будет снижена пропорционально популярности партий, не являющихся $IDEOLOGY$, в $COUNTRY$.§!
+§C£GFX_stability_texticon §YСтабильность§! и £GFX_pol_power §YПолитическая власть§! будут снижены пропорционально популярности партии $IDEOLOGY$.§!
+§C£GFX_stability_texticon §YСтабильность§! и £GFX_pol_power §YПолитическая власть§! будут снижены пропорционально популярности партий, не являющихся $IDEOLOGY$.§!
+§C£GFX_stability_texticon §YСтабильность§! и £GFX_pol_power §YПолитическая власть§! будут снижены пропорционально популярности партий $IDEOLOGY1$ и $IDEOLOGY2$.§!
+§C£GFX_stability_texticon §YСтабильность§! и £GFX_pol_power §YПолитическая власть§! будут снижены пропорционально популярности партий, не являющихся $IDEOLOGY1$ и $IDEOLOGY2$.§!
+Согласованы с §eАнгоцзюнь§!
+Согласованы с §NБэйянским правительством§!
+Согласованы с §jСВАС§!
+Согласованы с §fФедералистами§!
+Согласованы с §kЛевым Гоминьданом§!
+Не согласованы
+Согласованы с §zСеверными Чжили§!
+Согласованы с §qРеставрационистами§!
+Согласованы с §cПравым Гоминьданом§!
+Согласованы с §GЮжными республиканцами§!
+Согласованы с §MЮжными Чжили§!
+Реформа армии
+Китайские армии и армии сепаратистских государств долгое время пытались соответствовать западным стандартам. Солдаты, как известно, плохо обучены и недисциплинированны, часто набираются из разношёрстных бандитов, мелких преступников и хронически обездоленных. Снаряжение регулярно является разнородным, устаревшим или даже откровенно архаичным. Лояльность обычно отдаётся отдельным офицерам или регулярно наполняемой миске с рисом, а идеологическая мотивация в лучшем случае эфемерна. Потребуется многое, чтобы перестроить эти армии на современных началах.\n
+Реформа армии
+Сформированные потребностями угасающей Цин и закалённые опытом Эры милитаристов, армии китайских милитаристов и различных отколовшихся государств носят почти феодальный характер, организованные бандами региональных вождей. Нашу армию часто критикуют за низкое качество, а некоторых офицеров обвиняют в некомпетентности во всём, кроме собственного обогащения. Мы должны стремиться к большему, особенно если хотим отстаивать что-то значительное.
+Уроки войны
+Уроки войны многому научили нас в отношении ведения современного конфликта. С обновлёнными амбициями мы должны провести крупные структурные реформы, чтобы привести наши силы в соответствие с современными требованиями и построить армию, способную выдержать испытание временем.
+Искоренить коррупцию в армии
+Солдатское жалованье в Китае исторически было очень низким, но нет недостатка в \
+Реорганизовать воинские части
+Наш марш к объединению обошёлся дорогой ценой: многие из наших стартовых подразделений сильно поредели из-за потерь и дезертирства, другие раздулись до неуправляемых размеров из-за перебежчиков и спонтанных подкреплений, а третьи были спешно брошены на фронт до того, как их успели должным образом сформировать. В результате качество серьёзно ухудшилось повсеместно — с неравномерным и плохо спланированным распределением ветеранских и зелёных частей. Подобно затупившемуся ножу, армию нужно заточить, а это возможно только путём ротации истощённых подразделений в тыловые эшелоны для столь необходимой передышки и реорганизации. Сделать это так, чтобы не создать дополнительных уязвимостей, представляет собой серьёзную логистическую проблему и потребует масштабных целенаправленных усилий военных планировщиков.
+Расформировать ненадёжные части
+Армия в её нынешнем виде подобна цирку — разнородная коллекция подразделений разного размера, качества и происхождения, которая больше напоминает выставочную витрину, чем единый дисциплинированный символ нового правительства. Хотя есть несколько элитных, преданных частей, оснащённых современным оружием и в блестящей униформе, они редки по сравнению с большим количеством бывших милитаристских и бандитских армий, которые притесняют местных жителей и бегут при первой же опасности. Хуже того, некоторые подразделения существуют только на бумаге — эти «мёртвые души» выходят за рамки раздутых штатных расписаний, имея лишь скелетный персонал, если он вообще есть.\n\nХотя у количества есть своё собственное качество, оно также оказывает деградирующее влияние на качество: многие лучшие подразделения не доверяют худшим в охране своих флангов, а более идейные солдаты страдают от серьёзного урона боевому духу, становясь свидетелями варварских действий своих \
+Чистка нелояльных офицеров
+Когда вражеские армии начали распадаться, многие наши бывшие противники начали переходить на нашу сторону, и иногда целые соединения меняли форму. К сожалению, это часто воспринимается как очередная реалия военной карьеры в милитаристском Китае и соседних регионах, и, хотя это отчасти верно, многие становятся самодовольными в отношении опасностей, которые это представляет для будущего армии. Многие новоиспечённые офицеры не особенно заинтересованы в нашем деле, но ожидают сохранить те же привилегии и статус, которыми они пользовались при своих предыдущих работодателях. Некоторые находятся на грани мятежа, пренебрегая попытками лояльных офицеров интегрировать их в нашу миссию.\n\nМы вырежем эту опухоль, пока она не начала распространяться, уволив самые вопиющие экземпляры и заранее проверяя будущих рекрутов на лояльность. Конечно, уволенные офицеры в регионе, как правило, уходят вместе с целыми штабами и подразделениями, лично преданными им, забирая с собой своё оружие. Существует немало опасений, что они станут бандитами, поэтому мы должны быть особенно бдительны.
+Укрепить воинскую дисциплину
+Китайские военные долгое время рассматривались как карьера последнего выбора для сыновей дворянства и других элит: от благородных молодых людей исторически ожидали хорошей сдачи Императорских экзаменов и поступления на гражданскую бюрократическую службу. Даже в разгар эры милитаристов сохраняется значительная стигматизация военной службы среди образованных людей из-за распространённых негативных стереотипов о солдатах и их офицерах как о бандах воров, убийц и хулиганов.\n\nЭто оказалось самосбывающимся пророчеством, и сообщения о мародёрстве и внесудебных наказаниях, совершаемых даже некоторыми из наших наиболее доверенных подразделений, стали тревожно частыми по мере того, как наши армии опьянели от побед и власти. Это, конечно, не будет популярно, но восстановление авторитета нашего правительства необходимо, если мы хотим сохранить целостность нашей армии. С одних придётся спросить по всей строгости, а другие случаи придётся замять — и то, и другое нанесёт ущерб нашей политической легитимности в краткосрочной перспективе, но является неизбежным злом для обеспечения долгосрочной жизнеспособности нашего дела.
+Настаивать на гражданском контроле
+Китайские династии исторически смотрели на военную службу свысока, как на низменное занятие, а конфуцианские учёные-бюрократы долгое время гордились тем, что поддерживают строгий контроль над вооружёнными силами. Угасающие дни династии Цин и хаос Эры милитаристов позволили армии ускользнуть из-под контроля гражданского правительства. Хуже того, границы между ними часто стирались: военные деятели непосредственно внедрялись в гражданское правительство, а гражданские лица принимали военные звания, пытаясь сохранить как контроль, так и легитимность. Если наша армия должна избавиться от репутации банды милитаристов, нам необходимо использовать мощь нашего правительства, чтобы обуздать наших офицеров, даже если это, вероятно, вызовет конфликт в ближайшем будущем.
+Дезертирство сократилось благодаря сочетанию повышения жалованья, улучшения боевого духа и большей компетентности во всех сферах. «Мёртвые души» постепенно исчезают из армейских списков, хотя для полного устранения проблемы требуется значительно больше реформ. С офицерами, продвигаемыми по заслугам, а не по протекции или кумовству, может появиться скоординированная и эффективная командная структура.
+Недостатки Эры милитаристов
+Несмотря на различные заявления, в Китае никогда не существовало настоящей \
+Недостатки Эры милитаристов
+Несмотря на различные заявления, в Китае никогда не существовало настоящей \
+Системные военные недостатки
+Первые шаги к систематической военной реформе уже предпринимаются, начиная сметать коррупцию и многие недостатки, преследующие то, что однажды станет настоящей китайской армией. Централизованная бюрократия и скоординированная логистика — первый шаг на этом пути, который заложит основу для будущих реформ. Уже создаётся более надёжная система снабжения и оплаты, обеспечивающая лучшее удержание войск, снижающая стимулы к мародёрству и укрепляющая доверие с местным населением. Пока что система остаётся уязвимой для краж и хищений, но нельзя приготовить Даньхуатан, не разбив яиц.
+Системные военные недостатки
+Первые шаги к систематической военной реформе уже предпринимаются, начиная сметать коррупцию и многие недостатки, преследующие то, что однажды станет настоящей китайской армией. Централизованная бюрократия и скоординированная логистика — первый шаг на этом пути, который заложит основу для будущих реформ.\n\n$china_poor_officers_fixed_text$\n\nУже создаётся более надёжная система снабжения и оплаты, обеспечивающая лучшее удержание войск, снижающая стимулы к мародёрству и укрепляющая доверие с местным населением. Пока что система остаётся уязвимой для краж и хищений, но нельзя приготовить Даньхуатан, не разбив яиц.
+Военные реформы в процессе
+Реформа армии продолжается неуклонно, хотя и не всегда равномерно. Трудная задача по разукрупнению локализованных подразделений и более широких патронажных сетей началась, хотя и встречает значительное сопротивление, как открытое, так и подрывное. Новые офицеры без столь обширных связей, которые, как надеются, будут более компетентными и менее откровенно коррумпированными, были назначены, и командный состав начинает меняться. Обучение и снабжение также реформируются, хотя некоторые элементы сопротивляются этим изменениям, считая их слишком далеко идущими и слишком быстрыми. Хотя качество подразделений может варьироваться, базовый уровень уже значительно поднялся над старым \
+Военные реформы в процессе
+Реформа армии продолжается неуклонно, хотя и не всегда равномерно. Трудная задача по разукрупнению локализованных подразделений и более широких патронажных сетей началась, хотя и встречает значительное сопротивление, как открытое, так и подрывное. Новые офицеры без столь обширных связей, которые, как надеются, будут более компетентными и менее откровенно коррумпированными, были назначены, и командный состав начинает меняться.\n\n$china_poor_officers_fixed_text$\n\nОбучение и снабжение также реформируются, хотя некоторые элементы сопротивляются этим изменениям, считая их слишком далеко идущими и слишком быстрыми. Хотя качество подразделений может варьироваться, базовый уровень уже значительно поднялся над старым \
+Реформированные вооружённые силы
+Армия прошла долгий путь со времён своего хаотичного и растрёпанного состояния всего несколько лет назад. Благодаря огромным усилиям и опыту, полученному в успехах на поле боя, её основные подразделения стоят на пороге современности; их боевое мастерство больше объясняется оснащением и специализацией, чем откровенным пренебрежением.\n\n$china_poor_officers_fixed_text$\n\nТо же самое нельзя сказать обо всех силах, особенно о союзных и интегрированных подразделениях, но теперь путь к созданию новой, современной и единой армии для защиты китайских интересов ясен.
+§RМы сделали всё возможное, чтобы минимизировать проблемы роста наших быстро расширяющихся армий, но больше не можем сдерживать их воздействие. Необходимо будет принять прямые меры для решения этих нарастающих проблем в наших рядах.§!
+§RМы проявим инициативу в увеличении численности наших вооружённых сил, что откроет новые возможности для улучшения наших армий, но также заставит нас нести бремя расширенных вооружённых сил и решать их проблемы на опережение.§!
+§RНе сумев добиться дальнейшего прогресса в устранении беспорядка, охватившего наши вооружённые силы, боевой дух упал, но мы можем утешаться тем, что хуже уже не будет.§!
+§RНаши предыдущие усилия по масштабированию армии помогли смягчить последствия быстрого расширения, хотя и не смогли полностью защитить нас от естественного ухудшения качества, вызванного освобождением.§!
+Военный беспорядок
+Несмотря на громкие успехи на поле боя и храбрость, проявленную нашими солдатами на марше к объединению, армия сильно раздулась в результате включения тысяч перебежчиков, добровольцев и захвата вражеских складов. В то же время, как это ни парадоксально, многие элитные стартовые подразделения армии истощились по мере продвижения экспедиции, некоторые существуя фактически только на бумаге. Их подкрепления были либо задержаны, либо перенаправлены по мере того, как логистика запутывалась при движении на север.\n\nПовсеместная, почти системная гниль, распространившаяся по армии, стала невозможной для искоренения. Если мы хотим спасти её от превращения в бесформенную массу людей, единственным реалистичным решением остаётся временная демобилизация целых армейских корпусов и восстановление их заново, дивизия за дивизией. Это сложная задача, и ожидается, что она столкнётся со значительным сопротивлением, особенно с учётом того, что основная тяжесть приказов о расформировании ляжет на милитаристские части.
+Военное расстройство
+Некоторый прогресс был достигнут в восстановлении армии, хотя проблемы сохраняются. Многие местные командиры сопротивляются нашим приказам о расформировании, опасаясь, что наши усилия будут направлены в первую очередь на подрыв их власти. Другие опасаются, что демобилизация оставит их сектора без охраны, или не решаются разделять подразделения, имеющие годы боевого товарищества.\n\nТем не менее, бригада за бригадой, полк за полком наши дивизии медленно восстанавливаются в боеспособные единицы. Поскольку линия фронта несколько стабилизировалась, была налажена более устойчивая система снабжения, что облегчило некоторые насущные проблемы, касающиеся состояния наших вооружённых сил. Однако время не ждёт — лишь вопрос времени, когда НРА снова будет призвана защищать и оборонять Китай.
+Военная дезорганизация
+Ошеломляющие успехи армии во время Северного похода скрывали растущую проблему в её рядах: отрыв от тылового обеспечения и чрезмерное раздувание, подобно армиям милитаристов. После тщательного обсуждения и осознания отсутствия других вариантов верховное командование приказало провести тщательную демобилизацию.\n\nЭто был болезненный процесс, но, похоже, худшее уже позади. Большинство наших лучших дивизий полностью восстановлено, а те, что мы создали или приобрели по пути, в значительной степени интегрированы в наши ряды. Остаётся множество проблем управления и контроля на уровне корпусов и армий, хотя это можно списать на проблемы роста по мере того, как наша вновь построенная армия раздувается в размерах. Однако они должны оставаться бдительными, нам предстоит пройти ещё долгий путь, продолжая движение к национальному объединению.
+§RМы сделали всё возможное, чтобы решить локальные экономические сбои, но не можем противостоять нарастающему финансовому спаду, вызванному завоеваниями. Необходимо принять прямые меры для стабилизации национальной экономики.§!
+§RМы проявим инициативу в восстановлении плачевного состояния нашей национальной экономики, что откроет новые возможности для улучшения различных коммерческих и промышленных секторов, делая систему более устойчивой по мере нашего расширения.§!
+§RНе сумев добиться дальнейшего прогресса в устранении хаоса, поразившего нашу национальную экономику, вера в финансовую стабильность нашего правительства резко упала, но мы можем утешаться тем, что хуже уже не будет.§!
+§RНаши предыдущие реформаторские усилия помогли уменьшить экономические потрясения от реинтеграции значительных частей страны, хотя и не смогли полностью предотвратить финансовые потрясения.§!
+Разрушенная национальная экономика
+Некогда Китай был самой богатой страной в мире, центром бурной торговли и изысканного мастерства. Упадок династии Цин, изоляция от внешнего мира и неспособность наших предшественников осознать значение промышленной революции обрекли могучую державу на Век унижений. Не сумев модернизироваться и идти в ногу с иностранными державами, Китай отставал в промышленном производстве. Сильно завися от иностранных инвестиций в индустриализации, то немногое, что было создано, в основном принадлежит иностранцам, которые используют своё выгодное положение для получения значительных уступок от склочных и коррумпированных китайских лидеров. Тем временем сельская местность остаётся слаборазвитой и неравноправной, с низкой механизацией и производительностью при сохранении высокой трудоёмкости.\n\nПод давлением недавних войн, вынужденная нести бремя перемещения армий, налогообложения и разрушений военного времени, система фактически рухнула. Иностранные инвесторы уходят, торговля нарушена, мародёрство и бандитизм широко распространены, а обширные территории под нашим контролем сталкиваются с голодом. Многие сомневаются в способности нашего правительства обеспечить выпускаемую им валюту или справиться с нарастающим кризисом, и у нас крайне мало времени, чтобы всё исправить.
+Повреждённая национальная экономика
+Хотя экономика [ROOT.GetAdjective] несколько улучшилась, её беды продолжают множиться. Привлечённые, как мухи, к зарождающейся стабильности нового правительства, кредиторы предыдущего правительства вышли из тени, ожидая, что мы выполним свои обязательства. Наша реальная способность выплачивать долги всё ещё под вопросом, так как многие по-прежнему не доверяют долговечности нашего режима, а многие отказываются принимать нашу валюту. Нужно делать больше и быстро — наши армии, правительство и патронажные сети требуют денег для работы. Чем дольше мы медлим, тем больше рискуем.\n\nУ нас может быть меньше возможностей для манёвра, чем у наших западных коллег. После Века унижений экономика Китая очень хрупка, с ограниченной модернизацией в аграрном и промышленном секторах. Сильно завися от иностранных инвестиций и ценой политической стабильности, а также страдая от серьёзной социально-политической гнили из-за эры милитаристов, напряжение недавней войны серьёзно повредило экономику территорий под нашим контролем. Хотя мы, возможно, предотвратили худшее развитие кризиса, сдерживая инфляцию и возвращая рабочих, торговцев и крестьян к работе, это остаётся приоритетом. Опасения голода в основном утихли, хотя многие продолжают голодать, и есть районы, которые остаются под серьёзной угрозой дальнейшего кризиса. Нам предстоит многое сделать, прежде чем мы сможем объявить о возвращении к нормальной жизни.
+Нарушенная национальная экономика
+Век унижений оставил Китай в плачевном состоянии, с экономикой, которая с трудом могла позволить себе хаос, вызванный милитаристскими междоусобицами. Тем не менее, она оказалась более устойчивой, чем ожидалось, и некоторые сегменты постепенно возвращаются к жизни. По мере того как всё больше людей принимают тот факт, что наше правительство, вероятно, останется надолго, в городах и на заводах снова слышен тихий гул жизни. Производительность в основном вернулась к нормальному уровню на наших основных территориях, хотя районы, недавно захваченные нашими силами, остаются в плачевном состоянии, пока мы работаем над реинтеграцией нарушенной системы. Необходимы дальнейшие усилия, чтобы по-настоящему привести Китай в будущее.
+Национальная неграмотность
+Неграмотность остаётся широко распространённой по всей стране, несмотря на настойчивые призывы реформаторов со всего политического спектра решить эту проблему. Для многих она стала символом \
+Нарушенная экономика
+Необходимы срочные действия, чтобы избежать экономической катастрофы!
+Восстанавливающаяся экономика
+Стабилизирующаяся экономика
+После значительных усилий за последние несколько месяцев наша экономика значительно стабилизировалась. Хотя мы всё ещё боремся за поддержание резервов и обеспечение нашей валюты, напечатанные деньги проявили некоторую устойчивость и в основном принимаются в пределах наших границ. Когда-то считавшиеся на грани банкротства, мы убедили большую часть мира в нашей финансовой осмотрительности. Ещё немного усилий, и наша экономика скоро снова заработает в полную силу.
+Армия в переходном состоянии
+Реформирование вооружённых сил — это непрерывный процесс, часто осложняемый уже существующими программами военных реформ, которые необходимо либо спасать, перерабатывать, либо стирать, чтобы освободить место для прогресса. Уже добившись определённого прогресса на одном пути, наше верховное командование решило переключиться на другой, с соответствующими последствиями в переходный период.
+Северная школа
+Артиллерия и ортодоксия
+§LСеверные милитаристы Китая в основном являются выпускниками военных училищ эпохи Сюаньтун в Баодине и Тяньцзине и представляют собой сливки всё более стареющего офицерского корпуса. Обученные в прусском стиле и сражающиеся в основном на северной равнине, их стиль командования делает упор на позиционную войну наряду с важностью хорошо обученных войск, особенно артиллерии.§!
+Южная школа
+Масса и мобильность
+§LНе имея ресурсов северных милитаристов и сражаясь в основном в холмистых горах и долинах юга, южные милитаристы Китая делают упор на численность и манёвренную войну. Агрессия вознаграждается, любые бреши должны использоваться, а тяжёлая артиллерия заменяется быстрыми горными орудиями.§!
+Школа Зелёного леса
+Устойчивость и реквизиция
+§LНекоторые китайские милитаристы вообще не имеют военного образования и вместо этого говорят о себе как о «выпускниках университета Зелёного леса». Тем не менее, при всех своих недостатках эти бывшие (а иногда и действующие) бандиты привносят уникальный подход к войне, умея оставаться гибкими и стойкими даже в самых сложных обстоятельствах. Некоторые могут назвать их методы грубыми или даже преступными, но они часто приносят результат.§!
+Поддержка войны Лиги
+Запросить [FROM.GetAdjective] винтовки
+Запросить [FROM.GetAdjective] артиллерию
+Запросить [FROM.GetAdjective] вспомогательное снаряжение
+§H[FROM.GetNameDefCap]§! §Rне§! отклонял запрос в течение последних трёх месяцев.
+Ожидается ответ на другой запрос.
+Война Лиги
+Со смертью Сунь Чуаньфана §YЛига восьми провинций§! рухнула в один миг. Победитель Войны Лиги, несомненно, сыграет важную роль в определении будущего Китая, и чтобы пережить это испытание огнём, нашему народу была обещана — и от него ожидают — короткая, решительная кампания.\n\n£GFX_pol_violence §YМораль§! отражает веру людей в нашу победу и их готовность сражаться за эту победу. При высоком уровне £GFX_pol_violence §YМорали§! мы сможем сплотить народ на наше дело и обеспечить иностранную поддержку. £GFX_pol_violence §YМораль§! можно §Gповысить§! за счёт:\n - Захвата вражеской территории\n - Удержания города Нанкин\n\nС другой стороны, чем дольше длится война, тем больше мы будем казаться не выполняющими свои обещания. Если £GFX_pol_violence §YМораль§! упадёт достаточно низко, наши войска начнут дезертировать, а их боеспособность будет серьёзно подорвана. £GFX_pol_violence §YМораль§! можно §Rпотерять§! из-за:\n - Потери территории\n - Течения времени
+Добыть припасы в Цзянси
+Добыть припасы в Фуцзяни
+Добыть припасы в Чжэцзяне
+Добыть припасы в Нанкине
+Добыть припасы в Аньхое
+Добыть припасы в Цзянсу
+Добыть припасы в Шаньдуне
+Нанять людей в Цзянси
+Нанять людей в Фуцзяни
+Нанять людей в Чжэцзяне
+Нанять людей в Нанкине
+Нанять людей в Аньхое
+Нанять людей в Цзянсу
+Нанять людей в Шаньдуне
+Обратиться за поддержкой к Японии
+Обратиться за поддержкой к Чжили
+Обратиться за поддержкой к Германии
+Обратиться за поддержкой к Интернационалу
+Поднять националистов
+Контролировать Нанкин
+Удерживая древнюю столицу Китая, мы обладаем мощным символом легитимности как для нашего народа, так и для всего мира.
+Взять Нанкин
+Мы должны действовать быстро, чтобы захватить контроль над Нанкином, иначе война затянется...
+Падающая мораль
+Мы не смогли добиться успехов, и теперь ход войны оборачивается против нас...
+Текущая §YМораль§!: [GetLeagueWarMorale] ([?china_league_war_morale])
+§4Несокрушимая§!
+§GОчень высокая§!
+§nВысокая§!
+§7Растущая§!
+§YСредняя§!
+§8Умеренная§!
+§9Падающая§!
+§RНизкая§!
+§rОчень низкая§!
+§oУничтоженная§!
+Мораль Войны Лиги
+Имеет более чем $RIGHT|Y0$ £GFX_pol_violence §YМорали§!
+£GFX_pol_violence §YМораль§! упадёт §oопасно низко!§!
 £GFX_pol_violence §H5§!
 £GFX_pol_violence §R5§!
-It costs $china_five_morale_blocked$ to take the decision
+Принятие решения стоит $china_five_morale_blocked$
 £GFX_pol_violence §H10§!
 £GFX_pol_violence §R10§!
-It costs $china_ten_morale_blocked$ to take the decision
-This mission will continue to §Yrepeat§!
-£GFX_pol_violence §YMorale§!: [SHD.GetLeagueWarMorale] ([?SHD.china_league_war_morale])
-£GFX_pol_violence §YMorale§!: [ANQ.GetLeagueWarMorale] ([?ANQ.china_league_war_morale])
-£GFX_pol_violence §YMorale§!: [LEP.GetLeagueWarMorale] ([?LEP.china_league_war_morale])
-£GFX_pol_violence §YMorale§!: [CHI.GetLeagueWarMorale] ([?CHI.china_league_war_morale])
+Принятие решения стоит $china_ten_morale_blocked$
+Эта миссия будет §Yповторяться§!
+£GFX_pol_violence §YМораль§!: [SHD.GetLeagueWarMorale] ([?SHD.china_league_war_morale])
+£GFX_pol_violence §YМораль§!: [ANQ.GetLeagueWarMorale] ([?ANQ.china_league_war_morale])
+£GFX_pol_violence §YМораль§!: [LEP.GetLeagueWarMorale] ([?LEP.china_league_war_morale])
+£GFX_pol_violence §YМораль§!: [CHI.GetLeagueWarMorale] ([?CHI.china_league_war_morale])
 §Y[SHD.GetName]§!\n--------------\n[GetLeagueWarMoraleSHD]
 §Y[ANQ.GetName]§!\n--------------\n[GetLeagueWarMoraleANQ]
 §Y[LEP.GetName]§!\n--------------\n[GetLeagueWarMoraleLEP]
 §Y[CHI.GetName]§!\n--------------\n[GetLeagueWarMoraleCHI]
-§Y[LEP.GetName]§!\n--------------\n§RThis contender is not currently in the war§!
-§RThis contender is not currently in the war!§!
-The League War has ended.
-National Land Reform
-Although our government has done considerable work in improving the plight of the Chinese people, the reality is that the Warlord Era has done considerable damage to many parts of the country and stunted growth in others. Some of the worst affected regions are rural in nature, having seen little benefits of the industrialisation China has painfully undergone over the last few decades. After years of domestic turmoil and governmental neglect, many continue to suffer under the yoke of unfair tenantry laws, inadequate equipment, out-of-date techniques, various predatory entities, and natural disasters.\n\nWith our battlefield victories now won, it is up to us to face the next front in China's reconstruction and make those triumphs count. It is time that we make our mark on China's countryside, and alleviate the suffering of our people.
-Implement Land Reform in [FROM.GetName]
-There have been many thinkers and theorists who have posed potential solutions to the decades-long issues festering in the Chinese countryside. Having successfully united the nation under one banner, we have the sufficient resources and stability to implement a comprehensive plan to solve these problems. All that is needed now is the political will to carry out such an effort on a large scale.
-Unequal Treaties
-Calls for a United Front
-The outbreak of war between a Chinese government and foreign threats has led to an outpouring of patriotic sentiment across the nation. There are widespread calls for the various warring Chinese governments to put aside their differences and form a Chinese United Front in the name of national defence. For any factions found outside of this alliance, the political consequences may be dire.\n\n§RFighting against the United Front will result in this penalty remaining for the duration of the war.§!
-China United!
-Now that we have captured the capital and formed a new Chinese government, we must subjugate the remaining warlords.
-Revolutionary Fervour
-Now that the League has broken and open warfare has begun, the forces of Nanjing are in chaos and forced to fight on multiple fronts against their enemies. Now is the time for us to strike and lay claim to what is rightfully ours!
-Nanjing Re-Organised
-The traitors have failed to break us despite our weaknesses, now the time has come for us to strike back and reclaim what is ours!
-Foreign Support
-Due to our success in the war, a foreign mission has been sent to help us see through our victory.
-Desertions Common
-A string of defeats has resulted in more and more men refusing to fight, sometimes joining the army to receive a new pair clothes and sell them off at the nearest market.
-§YLeague War Morale§!\nPolitical Power: [?china_morale_dm_political_power_gain|+=%0]\nWar Support: [?china_morale_dm_war_support_factor|+%=2]\nSurrender Limit: [?china_morale_dm_surrender_limit|+%=0]\nBreakthrough: [?china_morale_dm_breakthrough_factor|+%=1]
-Collapsing Morale
-[THIS.GetLeader]'s failure to bring a decisive end to war has resulted in a complete and utter collapse of morale among the ranks. Day by day, soldiers lay down their weapons or turn to banditry, leaving our cause to its fate.
-Motivated Soldiers
-The Defence of Nanjing
+§Y[LEP.GetName]§!\n--------------\n§RЭтот претендент в настоящее время не участвует в войне§!
+§RЭтот претендент в настоящее время не участвует в войне!§!
+Война Лиги завершилась.
+Национальная земельная реформа
+Хотя наше правительство проделало значительную работу по улучшению положения китайского народа, реальность такова, что Эра милитаристов нанесла значительный ущерб многим частям страны и замедлила рост в других. Некоторые из наиболее пострадавших регионов — сельские, которые практически не ощутили преимуществ индустриализации, через которую Китай мучительно проходил последние несколько десятилетий. После многих лет внутренних потрясений и правительственного пренебрежения многие продолжают страдать под ярмом несправедливых арендных законов, неадекватного оборудования, устаревших технологий, различных хищнических структур и стихийных бедствий.\n\nТеперь, когда наши победы на поле боя одержаны, нам предстоит столкнуться со следующим фронтом в реконструкции Китая и сделать так, чтобы эти триумфы имели значение. Пришло время оставить свой след в китайской сельской местности и облегчить страдания нашего народа.
+Провести земельную реформу в [FROM.GetName]
+Было много мыслителей и теоретиков, предлагавших возможные решения десятилетних проблем, назревающих в китайской деревне. Успешно объединив страну под одним знаменем, мы обладаем достаточными ресурсами и стабильностью для реализации комплексного плана по решению этих проблем. Теперь нужна лишь политическая воля, чтобы осуществить такие усилия в широком масштабе.
+Неравноправные договоры
+Призывы к Объединённому фронту
+Начало войны между китайским правительством и иностранной угрозой привело к всплеску патриотических настроений по всей стране. Повсеместно звучат призывы к различным враждующим китайским правительствам отложить в сторону разногласия и сформировать Китайский Объединённый фронт во имя национальной обороны. Для любых фракций, оказавшихся вне этого союза, политические последствия могут быть ужасными.\n\n§RБорьба против Объединённого фронта приведёт к тому, что этот штраф сохранится на всё время войны.§!
+Китай объединён!
+Теперь, когда мы захватили столицу и сформировали новое китайское правительство, мы должны подчинить оставшихся милитаристов.
+Революционный пыл
+Теперь, когда Лига сломлена и началась открытая война, силы Нанкина находятся в хаосе и вынуждены сражаться на нескольких фронтах против своих врагов. Настало время нанести удар и заявить права на то, что по праву принадлежит нам!
+Нанкин реорганизован
+Предатели не смогли сломить нас, несмотря на наши слабости, теперь пришло время нанести ответный удар и вернуть то, что наше!
+Иностранная поддержка
+Благодаря нашим успехам в войне к нам была направлена иностранная миссия, чтобы помочь довести нашу победу до конца.
+Дезертирство распространено
+Череда поражений привела к тому, что всё больше людей отказываются сражаться, иногда вступая в армию, чтобы получить новую пару одежды и продать её на ближайшем рынке.
+§YМораль Войны Лиги§!\nПолитическая власть: [?china_morale_dm_political_power_gain|+=%0]\nПоддержка войны: [?china_morale_dm_war_support_factor|+%=2]\nПредел капитуляции: [?china_morale_dm_surrender_limit|+%=0]\nПрорыв: [?china_morale_dm_breakthrough_factor|+%=1]
+Падающая мораль
+Неспособность [THIS.GetLeader] быстро завершить войну привела к полному и абсолютному падению боевого духа в рядах. День за днём солдаты складывают оружие или обращаются к бандитизму, бросая наше дело на произвол судьбы.
+Мотивированные солдаты
+Оборона Нанкина
 \
-The Defence of Nanjing
-It is a glorious day for the Chinese nation! Not only has the White Sun managed to advance far beyond the MinGan Insurgent Zone, the proud National Revolutionary Army has successfully secured the chosen capital of the Guofu, Dr. Sun. With the Southern Capital secured, the nation is sure to follow.\nAs long as Nanjing is within [ROOT.GetLeader]'s grasp, we will retain the effects of this spirit for the duration of the League War. §RHowever should Nanjing fall from our hands, we will lose this spirit!§!\n\nNonetheless, we retain the upper hand. Fu Zhan!
-The Defence of Nanjing
-Besieged upon all sides and beset by enemies both internally and externally, the League but retains two strengths: control of the Southern Capital, and the brave, modern and model Wusheng Lianjun. The League Marshal cannot allow such perfidious deriders to co-opt his rightful mantle!\nAs long as Nanjing is within [ROOT.GetLeader]'s grasp, we will retain the effects of this spirit for the duration of the League War. §RHowever should Nanjing fall from our hands, we will lose this spirit!§!\n\nNonetheless, we retain the upper hand. Fu Zhan!
-The Defence of Nanjing
-In a most curious turn of events, it would appear that it was not Chen Tiaoyuan, the League Marshal nor the vile Kuomintang radicals that managed to secure the Southern Capital. Instead it was [ROOT.GetLeader] and his loyal cadres! Under his watch, a new Eastern Polity shall rise...\nAs long as Nanjing is within [ROOT.GetLeader]'s grasp, we will retain the effects of this spirit for the duration of the League War. §RHowever should Nanjing fall from our hands, we will lose this spirit!§!\n\nNonetheless, we retain the upper hand. Fu Zhan!
+Оборона Нанкина
+Это славный день для китайской нации! Белое Солнце не только сумело продвинуться далеко за пределы Минь-Ганьской повстанческой зоны, но и гордая Национально-революционная армия успешно захватила избранную столицу Гофу, доктора Суня. С захватом Южной столицы нация непременно последует за нами.\nПока Нанкин находится в руках [ROOT.GetLeader], мы будем сохранять эффект этого духа на время Войны Лиги. §RОднако если Нанкин падёт, мы потеряем этот дух!§!\n\nТем не менее, мы сохраняем преимущество. Фу Чжань!
+Оборона Нанкина
+Осаждённые со всех сторон и окружённые врагами как внутренними, так и внешними, у Лиги остаётся лишь две сильные стороны: контроль над Южной столицей и храбрая, современная и образцовая Ушэн Ляньцзюнь. Маршал Лиги не может позволить столь вероломным насмешникам присвоить его законную мантию!\nПока Нанкин находится в руках [ROOT.GetLeader], мы будем сохранять эффект этого духа на время Войны Лиги. §RОднако если Нанкин падёт, мы потеряем этот дух!§!\n\nТем не менее, мы сохраняем преимущество. Фу Чжань!
+Оборона Нанкина
+В самом любопытном повороте событий, похоже, что не Чэнь Тяоюань, не Маршал Лиги и не гнусные радикалы Гоминьдана сумели захватить Южную столицу. Вместо этого это сделал [ROOT.GetLeader] и его верные кадры! Под его началом восстанет новое Восточное государство...\nПока Нанкин находится в руках [ROOT.GetLeader], мы будем сохранять эффект этого духа на время Войны Лиги. §RОднако если Нанкин падёт, мы потеряем этот дух!§!\n\nТем не менее, мы сохраняем преимущество. Фу Чжань!
 [CHN_GetRevoltTargetIdeaNameFake]
 [CHN_GetRevoltTargetIdeaName]
 [CHN_GetRevoltTargetIdeaDesc]
-The March Against Anqing
-From the fateful dissolution of the League of Eight Provinces to both Beijing and Nanjing flying the same banner, Anqing has united China. The bloody struggle for power for the unification of China was costly, but the peoples of the Anhui Province pulled it off in face of impossible odds.\n\nBut they celebrated too early. Drunk on their power, they stumbled into one final set of hurdles as the regional governments on the periphery grew disenchanted. Rallying their supporters against perceived abuses, these challengers mount a campaign to topple China's would-be rulers. Their successes hinge on the ability of their armies to take on the new central army and with banners raised they march to war.
-The March Against Liangguang
-Despite numerous setbacks and a revolving door of governments, Liangguang has accomplished their decades-old goal of uniting China. This was a difficult feat, especially rare for a Southern based Chinese government, but the peoples of the two Guangs (Guangdong and Guangxi), pulled it off in face of impossible odds.\n\nBut they celebrated too early. Drunk on their power, they stumbled into one final set of hurdles as the regional governments on the periphery grew disenchanted. Rallying their supporters against perceived abuses, these challengers mount a campaign to topple China's would-be rulers. Their successes hinge on the ability of their armies to take on the new central army and with banners raised they march to war.
-The March Against the Kuomintang
-From the mountains of Fujian, to the Blue Sky and White Sun flying over most of China, the Left Kuomintang Committee has completed their National Revolution. This was a difficult feat, especially considering the guerilla beginnings of the MinGan Insurgency, but the National Revolutionary Army pulled it off in face of impossible odds.\n\nBut they celebrated too early. Drunk on their power, they stumbled into one final set of hurdles as the regional governments on the periphery grew disenchanted. Rallying their supporters against perceived abuses, these challengers mount a campaign to topple China's would-be rulers. Their successes hinge on the ability of their armies to take on the new central army and with banners raised they march to war.
-The March Against Fengtian
-Triumphantly returning bearing the Five-Coloured Flag from Beijing to the Begonia Leaf, The Fengtian Clique has accomplished their decades-old goal of uniting China. The bloody struggle for power for the unification of China was costly, but the peoples of the Northeast pulled it off in face of impossible odds.\n\nBut they celebrated too early. Drunk on their power, they stumbled into one final set of hurdles as the regional governments on the periphery grew disenchanted. Rallying their supporters against perceived abuses, these challengers mount a campaign to topple China's would-be rulers. Their successes hinge on the ability of their armies to take on the new central army and with banners raised they march to war.
-The March Against Hunan
-From the fateful dissolution of the League of Eight Provinces to both Beijing and Nanjing flying the same banner, Hunan has united China. The bloody struggle for power for the unification of China was costly, but the peoples of the Hunan have pulled it off in face of impossible odds.\n\nBut they celebrated too early. Drunk on their power, they stumbled into one final set of hurdles as the regional governments on the periphery grew disenchanted. Rallying their supporters against perceived abuses, these challengers mount a campaign to topple China's would-be rulers. Their successes hinge on the ability of their armies to take on the new central army and with banners raised they march to war.
-The March Against the Kumuliks
-In a turn of surprising, even unfathomable events, the Government in Hami, or Kumul, has united China. The bloody struggle for power for the unification of China was costly, and the leaders of the Kumuliks now gather their spoils.\n\nBut they celebrated too early. Drunk on their power, they stumbled into one final set of hurdles as the regional governments on the periphery grew disenchanted. Rallying their supporters against perceived abuses, these challengers mount a campaign to topple China's would-be rulers. Their successes hinge on the ability of their armies to take on the new central army and with banners raised they march to war.
-The March Against the Legations
-To the surprise of many onlookers, and the horror of many Chinese, an International Mandate has been established in all of China. This unconventional turnout of events have left practically everyone in the world stunned, while the International Mandate gathers its spoils.\n\nBut they celebrated too early. Drunk on their power, they stumbled into one final set of hurdles as the regional governments on the periphery grew disenchanted. Rallying their supporters against perceived abuses, these challengers mount a campaign to topple China's would-be rulers. Their successes hinge on the ability of their armies to take on the new central army and with banners raised they march to war.
-The March Against Nanjing
-From the fateful dissolution of the League of Eight Provinces to both Beijing and Nanjing flying the same banner, The Nanjing Clique has united China. The bloody struggle for power for the unification of China was costly, and it seemed that German control over China would come to last.\n\nBut they celebrated too early. Drunk on their power, they stumbled into one final set of hurdles as the regional governments on the periphery grew disenchanted. Rallying their supporters against perceived abuses, these challengers mount a campaign to topple China's would-be rulers. Their successes hinge on the ability of their armies to take on the new central army and with banners raised they march to war.
-The March Against Manchuria
-With the unwavering support of their overlords, the Manchurian state has broken the scene of Chinese unification by taking over the Middle Kingdom themselves. Both domestic and international voices are in disarray, debating whether this iteration of China can be considered a China at all.\n\nIn any case, the Manchurian government stumbled into one final set of hurdles as the regional governments on the periphery grew disenchanted. Rallying their supporters against perceived abuses, these challengers mount a campaign to topple China's would-be rulers. Their successes hinge on the ability of their armies to take on the new central army and with banners raised they march to war.
-The March Against the Qing
-Despite numerous hardships, and even an attempted coup by their own sponsors, the Zhili, the Aisin Gioro Dynasty has retained their Mandate of Heaven, and the emperor has united China under his jade throne once again since the Xinhai Revolution. While the Qing were always a popular contender for China, they encountered, and overcame each obstacle until there seemed to be none left.\n\nBut they celebrated too early. Drunk on their power, they stumbled into one final set of hurdles as the regional governments on the periphery grew disenchanted. Rallying their supporters against perceived abuses, these challengers mount a campaign to topple China's would-be rulers. Their successes hinge on the ability of their armies to take on the new central army and with banners raised they march to war.
-The March Against the Zhili
-Despite numerous hardships, the Zhili Clique has united China in their vision, and the Jade Marshal has united China under his thumb finally. While the Zhili were always a popular contender for China, they encountered, and overcame each obstacle until there seemed to be none left.\n\nBut they celebrated too early. Drunk on their power, they stumbled into one final set of hurdles as the regional governments on the periphery grew disenchanted. Rallying their supporters against perceived abuses, these challengers mount a campaign to topple China's would-be rulers. Their successes hinge on the ability of their armies to take on the new central army and with banners raised they march to war.
-The March Against Shanxi
-Despite numerous setbacks and a revolving door of governments, Shanxi has accomplished their decades-old goal of uniting China. This was a difficult feat, especially as the province was once one of the least developed in all of China, but the peoples of Shanxi pulled it off in face of impossible odds.\n\nBut they celebrated too early. Drunk on their power, they stumbled into one final set of hurdles as the regional governments on the periphery grew disenchanted. Rallying their supporters against perceived abuses, these challengers mount a campaign to topple China's would-be rulers. Their successes hinge on the ability of their armies to take on the new central army and with banners raised they march to war.
-The March Against Xinjiang
-In a turn of surprising, even unfathomable events, the Xinjiang Clique has united China. The bloody struggle for power for the unification of China was costly, and the leaders of Xinjiang now gather their spoils.\n\nBut they celebrated too early. Drunk on their power, they stumbled into one final set of hurdles as the regional governments on the periphery grew disenchanted. Rallying their supporters against perceived abuses, these challengers mount a campaign to topple China's would-be rulers. Their successes hinge on the ability of their armies to take on the new central army and with banners raised they march to war.
-The March Against Shandong
-From the fateful dissolution of the League of Eight Provinces to both Beijing and Nanjing flying the same banner, Shandong has united China. The bloody struggle for power for the unification of China was costly, but the peoples of Shandong pulled it off in face of impossible odds.\n\nBut they celebrated too early. Drunk on their power, they stumbled into one final set of hurdles as the regional governments on the periphery grew disenchanted. Rallying their supporters against perceived abuses, these challengers mount a campaign to topple China's would-be rulers. Their successes hinge on the ability of their armies to take on the new central army and with banners raised they march to war.
-The March Against Sichuan
-Despite numerous setbacks and a revolving door of governments, Sichuan has accomplished their decades-old goal of uniting China. This was a difficult feat, especially rare for a Southern based Chinese government, but the peoples of Sichuan pulled it off in face of impossible odds.\n\nBut they celebrated too early. Drunk on their power, they stumbled into one final set of hurdles as the regional governments on the periphery grew disenchanted. Rallying their supporters against perceived abuses, these challengers mount a campaign to topple China's would-be rulers. Their successes hinge on the ability of their armies to take on the new central army and with banners raised they march to war.
-The March Against Taiwan
-With the unwavering support of their overlords, the Taiwanese state has broken the scene of Chinese unification by taking over the Middle Kingdom themselves. Both domestic and international voices are in disarray, debating whether this iteration of China can be considered a China at all.\n\nIn any case, the Taiwanese government stumbled into one final set of hurdles as the regional governments on the periphery grew disenchanted. Rallying their supporters against perceived abuses, these challengers mount a campaign to topple China's would-be rulers. Their successes hinge on the ability of their armies to take on the new central army and with banners raised they march to war.
-The March Against the Ma
-In a turn of surprising, even unfathomable events, the Ma Clique has united China. The bloody struggle for power for the unification of China was costly, and the Family Ma now gathers their spoils.\n\nBut they celebrated too early. Drunk on their power, they stumbled into one final set of hurdles as the regional governments on the periphery grew disenchanted. Rallying their supporters against perceived abuses, these challengers mount a campaign to topple China's would-be rulers. Their successes hinge on the ability of their armies to take on the new central army and with banners raised they march to war.
-The March Against Yunnan
-Despite numerous setbacks and a revolving door of governments, Yunnan has accomplished their decades-old goal of uniting China. This was a difficult feat, especially rare for a Southern based Chinese government, but the peoples of Yunnan pulled it off in face of impossible odds.\n\nBut they celebrated too early. Drunk on their power, they stumbled into one final set of hurdles as the regional governments on the periphery grew disenchanted. Rallying their supporters against perceived abuses, these challengers mount a campaign to topple China's would-be rulers. Their successes hinge on the ability of their armies to take on the new central army and with banners raised they march to war.
-Return to the World Stage
-China was once a great Hegemon in the East, brought low by domestic stagnation and foreign Imperialism. Having successfully reunited China on its own terms, China is now free to begin piecing back together its former Empire - one step at a time.
-Return to the World Stage
-China seeks to return to its traditional place as the \
-The Dragon Roars
-China has returned to its traditional place as the great Eastern Hegemon, shaking off its slumber and driving out foreign influences from its traditional borders. As it works to recreate its old sphere of influence, it has proven more willing to behave belligerently with rival powers - fiercely contesting existing spheres of influence in Asia and the Pacific.
-Invite [FROM.GetNameDef] into the East Asian Community
-We have recently celebrated the entry of [FROM.GetNameDef] into [ROOT.GetFactionName], and with our expanded partnership it would be wise to propose expanding our ties to include additional joint economic projects that will bring the entire continent closer together.
-Chinese reunification has allowed its government to mobilise its vast economy to once again be the centre of commerce in the East. It has moved to found a trade bloc that it hopes will unite the various post-colonial Asian and Pacific states and allow them to build independent economies from Europe.
-The East Asian Community
-$CHN_east_asian_community_shared_intro$\n\nOf course, as the founder and largest economy within this bloc, China enjoys a privileged position within this economic system.
+Марш на Аньцин
+От судьбоносного распада Лиги восьми провинций до того момента, как Пекин и Нанкин стали поднимать одно и то же знамя, Аньцин объединил Китай. Кровавая борьба за власть ради объединения Китая дорого обошлась, но народ провинции Аньхой справился с этим вопреки невероятным трудностям.\n\nНо они праздновали слишком рано. Опьянённые своей властью, они столкнулись с последним набором препятствий, когда региональные правительства на периферии разочаровались. Сплотив своих сторонников против предполагаемых злоупотреблений, эти претенденты начинают кампанию по свержению предполагаемых правителей Китая. Их успех зависит от способности их армий противостоять новой центральной армии, и с поднятыми знамёнами они идут на войну.
+Марш на Лянгуан
+Несмотря на многочисленные неудачи и смену правительств, Лянгуан достиг своей десятилетней цели — объединения Китая. Это было трудное достижение, особенно редкое для правительства, базирующегося на Юге Китая, но народы двух Гуанов (Гуандун и Гуанси) справились с этим вопреки невероятным трудностям.\n\nНо они праздновали слишком рано. Опьянённые своей властью, они столкнулись с последним набором препятствий, когда региональные правительства на периферии разочаровались. Сплотив своих сторонников против предполагаемых злоупотреблений, эти претенденты начинают кампанию по свержению предполагаемых правителей Китая. Их успех зависит от способности их армий противостоять новой центральной армии, и с поднятыми знамёнами они идут на войну.
+Марш на Гоминьдан
+От гор Фуцзяни до Синего Неба и Белого Солнца, развевающегося над большей частью Китая, Комитет Левого Гоминьдана завершил свою Национальную революцию. Это было трудное достижение, особенно учитывая партизанское начало Минь-Ганьского восстания, но Национально-революционная армия справилась с этим вопреки невероятным трудностям.\n\nНо они праздновали слишком рано. Опьянённые своей властью, они столкнулись с последним набором препятствий, когда региональные правительства на периферии разочаровались. Сплотив своих сторонников против предполагаемых злоупотреблений, эти претенденты начинают кампанию по свержению предполагаемых правителей Китая. Их успех зависит от способности их армий противостоять новой центральной армии, и с поднятыми знамёнами они идут на войну.
+Марш на Фэнтянь
+Триумфально вернувшись с Пятицветным флагом из Пекина к Бегониевому листу, Фэнтяньская клика достигла своей десятилетней цели — объединения Китая. Кровавая борьба за власть ради объединения Китая дорого обошлась, но народы Северо-Востока справились с этим вопреки невероятным трудностям.\n\nНо они праздновали слишком рано. Опьянённые своей властью, они столкнулись с последним набором препятствий, когда региональные правительства на периферии разочаровались. Сплотив своих сторонников против предполагаемых злоупотреблений, эти претенденты начинают кампанию по свержению предполагаемых правителей Китая. Их успех зависит от способности их армий противостоять новой центральной армии, и с поднятыми знамёнами они идут на войну.
+Марш на Хунань
+От судьбоносного распада Лиги восьми провинций до того момента, как Пекин и Нанкин стали поднимать одно и то же знамя, Хунань объединил Китай. Кровавая борьба за власть ради объединения Китая дорого обошлась, но народы Хунани справились с этим вопреки невероятным трудностям.\n\nНо они праздновали слишком рано. Опьянённые своей властью, они столкнулись с последним набором препятствий, когда региональные правительства на периферии разочаровались. Сплотив своих сторонников против предполагаемых злоупотреблений, эти претенденты начинают кампанию по свержению предполагаемых правителей Китая. Их успех зависит от способности их армий противостоять новой центральной армии, и с поднятыми знамёнами они идут на войну.
+Марш на Кумульцев
+В ходе удивительных, даже непостижимых событий правительство в Хами, или Кумуле, объединило Китай. Кровавая борьба за власть ради объединения Китая дорого обошлась, и лидеры Кумульцев теперь пожинают плоды.\n\nНо они праздновали слишком рано. Опьянённые своей властью, они столкнулись с последним набором препятствий, когда региональные правительства на периферии разочаровались. Сплотив своих сторонников против предполагаемых злоупотреблений, эти претенденты начинают кампанию по свержению предполагаемых правителей Китая. Их успех зависит от способности их армий противостоять новой центральной армии, и с поднятыми знамёнами они идут на войну.
+Марш на Сеттльменты
+К удивлению многих наблюдателей и ужасу многих китайцев, во всём Китае был установлен Международный мандат. Этот необычный поворот событий ошеломил практически всех в мире, в то время как Международный мандат пожинает плоды.\n\nНо они праздновали слишком рано. Опьянённые своей властью, они столкнулись с последним набором препятствий, когда региональные правительства на периферии разочаровались. Сплотив своих сторонников против предполагаемых злоупотреблений, эти претенденты начинают кампанию по свержению предполагаемых правителей Китая. Их успех зависит от способности их армий противостоять новой центральной армии, и с поднятыми знамёнами они идут на войну.
+Марш на Нанкин
+От судьбоносного распада Лиги восьми провинций до того момента, как Пекин и Нанкин стали поднимать одно и то же знамя, Нанкинская клика объединила Китай. Кровавая борьба за власть ради объединения Китая дорого обошлась, и казалось, что германский контроль над Китаем сохранится.\n\nНо они праздновали слишком рано. Опьянённые своей властью, они столкнулись с последним набором препятствий, когда региональные правительства на периферии разочаровались. Сплотив своих сторонников против предполагаемых злоупотреблений, эти претенденты начинают кампанию по свержению предполагаемых правителей Китая. Их успех зависит от способности их армий противостоять новой центральной армии, и с поднятыми знамёнами они идут на войну.
+Марш на Маньчжурию
+При непоколебимой поддержке своих повелителей Маньчжурское государство нарушило ход китайского объединения, само захватив Срединное Царство. Как внутренние, так и международные голоса в замешательстве, обсуждая, можно ли вообще считать эту итерацию Китая Китаем.\n\nВ любом случае, маньчжурское правительство столкнулось с последним набором препятствий, когда региональные правительства на периферии разочаровались. Сплотив своих сторонников против предполагаемых злоупотреблений, эти претенденты начинают кампанию по свержению предполагаемых правителей Китая. Их успех зависит от способности их армий противостоять новой центральной армии, и с поднятыми знамёнами они идут на войну.
+Марш на Цин
+Несмотря на многочисленные трудности и даже попытку переворота со стороны их собственных спонсоров, Чжили, династия Айсиньгёро сохранила свой Небесный Мандат, и император вновь объединил Китай под своим нефритовым троном впервые со времён Синьхайской революции. Хотя Цин всегда были популярным претендентом на Китай, они встречали и преодолевали каждое препятствие, пока, казалось, их не осталось вовсе.\n\nНо они праздновали слишком рано. Опьянённые своей властью, они столкнулись с последним набором препятствий, когда региональные правительства на периферии разочаровались. Сплотив своих сторонников против предполагаемых злоупотреблений, эти претенденты начинают кампанию по свержению предполагаемых правителей Китая. Их успех зависит от способности их армий противостоять новой центральной армии, и с поднятыми знамёнами они идут на войну.
+Марш на Чжили
+Несмотря на многочисленные трудности, клика Чжили объединила Китай в своём видении, и Нефритовый маршал наконец объединил Китай под своей пятой. Хотя Чжили всегда были популярным претендентом на Китай, они встречали и преодолевали каждое препятствие, пока, казалось, их не осталось вовсе.\n\nНо они праздновали слишком рано. Опьянённые своей властью, они столкнулись с последним набором препятствий, когда региональные правительства на периферии разочаровались. Сплотив своих сторонников против предполагаемых злоупотреблений, эти претенденты начинают кампанию по свержению предполагаемых правителей Китая. Их успех зависит от способности их армий противостоять новой центральной армии, и с поднятыми знамёнами они идут на войну.
+Марш на Шаньси
+Несмотря на многочисленные неудачи и смену правительств, Шаньси достигла своей десятилетней цели — объединения Китая. Это было трудное достижение, особенно учитывая, что провинция когда-то была одной из наименее развитых во всём Китае, но народы Шаньси справились с этим вопреки невероятным трудностям.\n\nНо они праздновали слишком рано. Опьянённые своей властью, они столкнулись с последним набором препятствий, когда региональные правительства на периферии разочаровались. Сплотив своих сторонников против предполагаемых злоупотреблений, эти претенденты начинают кампанию по свержению предполагаемых правителей Китая. Их успех зависит от способности их армий противостоять новой центральной армии, и с поднятыми знамёнами они идут на войну.
+Марш на Синьцзян
+В ходе удивительных, даже непостижимых событий Синьцзянская клика объединила Китай. Кровавая борьба за власть ради объединения Китая дорого обошлась, и лидеры Синьцзяна теперь пожинают плоды.\n\nНо они праздновали слишком рано. Опьянённые своей властью, они столкнулись с последним набором препятствий, когда региональные правительства на периферии разочаровались. Сплотив своих сторонников против предполагаемых злоупотреблений, эти претенденты начинают кампанию по свержению предполагаемых правителей Китая. Их успех зависит от способности их армий противостоять новой центральной армии, и с поднятыми знамёнами они идут на войну.
+Марш на Шаньдун
+От судьбоносного распада Лиги восьми провинций до того момента, как Пекин и Нанкин стали поднимать одно и то же знамя, Шаньдун объединил Китай. Кровавая борьба за власть ради объединения Китая дорого обошлась, но народы Шаньдуна справились с этим вопреки невероятным трудностям.\n\nНо они праздновали слишком рано. Опьянённые своей властью, они столкнулись с последним набором препятствий, когда региональные правительства на периферии разочаровались. Сплотив своих сторонников против предполагаемых злоупотреблений, эти претенденты начинают кампанию по свержению предполагаемых правителей Китая. Их успех зависит от способности их армий противостоять новой центральной армии, и с поднятыми знамёнами они идут на войну.
+Марш на Сычуань
+Несмотря на многочисленные неудачи и смену правительств, Сычуань достиг своей десятилетней цели — объединения Китая. Это было трудное достижение, особенно редкое для правительства, базирующегося на Юге Китая, но народы Сычуани справились с этим вопреки невероятным трудностям.\n\nНо они праздновали слишком рано. Опьянённые своей властью, они столкнулись с последним набором препятствий, когда региональные правительства на периферии разочаровались. Сплотив своих сторонников против предполагаемых злоупотреблений, эти претенденты начинают кампанию по свержению предполагаемых правителей Китая. Их успех зависит от способности их армий противостоять новой центральной армии, и с поднятыми знамёнами они идут на войну.
+Марш на Тайвань
+При непоколебимой поддержке своих повелителей Тайваньское государство нарушило ход китайского объединения, само захватив Срединное Царство. Как внутренние, так и международные голоса в замешательстве, обсуждая, можно ли вообще считать эту итерацию Китая Китаем.\n\nВ любом случае, тайваньское правительство столкнулось с последним набором препятствий, когда региональные правительства на периферии разочаровались. Сплотив своих сторонников против предполагаемых злоупотреблений, эти претенденты начинают кампанию по свержению предполагаемых правителей Китая. Их успех зависит от способности их армий противостоять новой центральной армии, и с поднятыми знамёнами они идут на войну.
+Марш на Ма
+В ходе удивительных, даже непостижимых событий клика Ма объединила Китай. Кровавая борьба за власть ради объединения Китая дорого обошлась, и семья Ма теперь пожинает плоды.\n\nНо они праздновали слишком рано. Опьянённые своей властью, они столкнулись с последним набором препятствий, когда региональные правительства на периферии разочаровались. Сплотив своих сторонников против предполагаемых злоупотреблений, эти претенденты начинают кампанию по свержению предполагаемых правителей Китая. Их успех зависит от способности их армий противостоять новой центральной армии, и с поднятыми знамёнами они идут на войну.
+Марш на Юньнань
+Несмотря на многочисленные неудачи и смену правительств, Юньнань достиг своей десятилетней цели — объединения Китая. Это было трудное достижение, особенно редкое для правительства, базирующегося на Юге Китая, но народы Юньнани справились с этим вопреки невероятным трудностям.\n\nНо они праздновали слишком рано. Опьянённые своей властью, они столкнулись с последним набором препятствий, когда региональные правительства на периферии разочаровались. Сплотив своих сторонников против предполагаемых злоупотреблений, эти претенденты начинают кампанию по свержению предполагаемых правителей Китая. Их успех зависит от способности их армий противостоять новой центральной армии, и с поднятыми знамёнами они идут на войну.
+Возвращение на мировую арену
+Некогда Китай был великим Гегемоном на Востоке, низвергнутым внутренним застоем и иностранным империализмом. Успешно воссоединив Китай на своих собственных условиях, Китай теперь волен начать восстанавливать свою былую Империю — шаг за шагом.
+Возвращение на мировую арену
+Китай стремится вернуться на своё традиционное место \
+Рёв дракона
+Китай вернулся на своё традиционное место великого Восточного Гегемона, стряхнув с себя сон и изгнав иностранное влияние со своих традиционных границ. По мере работы над воссозданием своей старой сферы влияния он проявляет большую готовность вести себя воинственно с соперничающими державами, яростно оспаривая существующие сферы влияния в Азии и Тихом океане.
+Пригласить [FROM.GetNameDef] в Восточноазиатское сообщество
+Недавно мы отпраздновали вступление [FROM.GetNameDef] в [ROOT.GetFactionName], и с учётом расширения нашего партнёрства было бы разумно предложить расширить наши связи, включив дополнительные совместные экономические проекты, которые сблизят весь континент.
+Китайское воссоединение позволило его правительству мобилизовать свою огромную экономику, чтобы снова стать центром торговли на Востоке. Оно приступило к созданию торгового блока, который, как оно надеется, объединит различные постколониальные азиатские и тихоокеанские государства и позволит им построить экономику, независимую от Европы.
+Восточноазиатское сообщество
+$CHN_east_asian_community_shared_intro$\n\nРазумеется, как основатель и крупнейшая экономика в этом блоке, Китай пользуется привилегированным положением в этой экономической системе.
 $CHN_east_asian_community_founder_level_1_idea$
-$CHN_east_asian_community_founder_level_1_idea_desc$ This trade bloc and its associated economic development programmes has also expanded to include cultural and academic exchanges.
-Centre of the World Federation
-$CHN_east_asian_community_shared_intro$\n\nHaving brought the great powers of the world into its federation, China is able to completely reorder global trade around itself.
-East Asia Community Member
-$CHN_east_asian_community_shared_intro$\n\nAs a member state, we benefit from Chinese investments however it also requires us to open up our economy to Chinese investment.
-[FROM.GetAdjective] Invasion Imminent
-Imminent [FROM.FROM.GetAdjective] Invasion of [FROM.GetName]
-Reports from the border indicate that we will soon be under attack from our wretched neighbours in [FROM.GetName]. Dissatisfied with our government, [FROM.GetLeader] has formally denounced us before a crowd in [FROM.Capital.GetCapitalVictoryPointName]. Since then, more and more units have amassed along the border. Small skirmishes have already begun as our opponents make probing attacks and tensions spike. We must hurry to our defence, lest we be crushed under the weight of our foes.
-We have received a warning from our allies in [FROM.GetName] that an invasion from [FROM.FROM.GetName] is on the horizon. Both sides have already begun preparation for such a conflict as the border grows increasingly tense. Given our prior obligations to [FROM.GetName], we will likely be drawn into this conflict. We must begin scrambling troops of our own immediately - let us hope that our decision to ally with the [FROM.GetAdjective] was not made too hastily.
-Assemble the general staff!
-[FROM.GetNameDefCap] Demands Our Submission
-Confident in their growing strength or perhaps merely seeking to project it in these times of troubles, we have received a series of demands from [FROM.GetLeader]'s government demanding our immediate recognition of their authority. This would naturally entail the stationing of troops, adhering to their decrees and likely further tributes that would naturally be sent to a national government.\n\nCalling their bluff of course, is always an option. It will likely mean war, though freedom from tyranny often requires such a price. Especially in warlord-era China, the nation is littered with failed governments who overstretched themselves assailing \
-We acquiesce to their demands.
-We stand defiant!
-We are the legitimate government of China!
-[FROM.GetNameDefCap] Submits to Our Authority
-Seeing few potential options to preserve their autonomy and believing us to be their best one, the government of [FROM.GetLeader] has agreed to recognise us as the legitimate rulers of China. In doing so they have committed to harmonising their laws with ours, provide troops for our wars, and commit to further coordination in national affairs.\n\nIn return however they have in practice preserved much of their old government, as well as the patronage networks that operate underneath. Warlord troops have always been known to be unwieldy and the warlords themselves untrustworthy. Further integration will have to be discussed another day, for now though the status quo works.
-We are magnanimous rulers.
-[FROM.GetNameDefCap] Refuses to Yield!
-Despite our efforts to settle the matter peacefully, [FROM.GetLeader] has formally renounced our efforts at promoting national unity and begun mobilising [FROM.GetAdjective] units in a show of force to try and ward us off. [FROM.GetLeader.GetSheHeCap] has also ejected all of our representatives and denounced our government as illegitimate, spreading such vile lies throughout [FROM.Capital.GetCapitalVictoryPointName].\n\nNaturally his actions are a grave insult, but our best course of action remains to be seen. Given the stubborn and fickle nature of warlords, rejection was always in the cards. But enforcing our will on [FROM.GetNameDef] will require allocating forces which may be spent elsewhere. Timing, as always, is everything.
-Let us begin a buildup at the border.
-The invasion begins now!
-The [FROM.GetName] Offers a joint strike against [GXC.GetAdjective]
-A most peculiar offer has arrived upon the desk of [ROOT.GetLeader] as of recent. Intermixed with the flurrying reports on the national situation was a finely printed telegram from the neighbouring Governor of [FROM.GetNameDef], [FROM.GetLeader]. Indicating mutual allegiances to our shared cause, the promotion of national unity, securing of borders, and the furthering mutual ties, the esteemed Governor has offered a \
-Arm in arm, we advance on Guangdong!
+$CHN_east_asian_community_founder_level_1_idea_desc$ Этот торговый блок и связанные с ним программы экономического развития также расширились, включив культурные и академические обмены.
+Центр Мировой Федерации
+$CHN_east_asian_community_shared_intro$\n\nВовлекая великие державы мира в свою федерацию, Китай способен полностью перестроить глобальную торговлю вокруг себя.
+Член Восточноазиатского сообщества
+$CHN_east_asian_community_shared_intro$\n\nКак государство-член, мы получаем выгоду от китайских инвестиций, однако это также требует от нас открытия нашей экономики для китайских инвестиций.
+Вторжение [FROM.GetAdjective] неизбежно
+Неизбежное вторжение [FROM.FROM.GetAdjective] в [FROM.GetName]
+Донесения с границы указывают на то, что мы вскоре подвергнемся нападению со стороны наших нечестивых соседей в [FROM.GetName]. Недовольный нашим правительством, [FROM.GetLeader] формально осудил нас перед толпой в [FROM.Capital.GetCapitalVictoryPointName]. С тех пор всё больше и больше подразделений сосредотачивается вдоль границы. Уже начались небольшие стычки, поскольку наши противники проводят разведку боем, а напряжённость растёт. Мы должны спешить к обороне, иначе будем раздавлены мощью наших врагов.
+Мы получили предупреждение от наших союзников в [FROM.GetName] о том, что вторжение из [FROM.FROM.GetName] не за горами. Обе стороны уже начали подготовку к такому конфликту, поскольку обстановка на границе становится всё более напряжённой. Учитывая наши предыдущие обязательства перед [FROM.GetName], мы, вероятно, будем втянуты в этот конфликт. Мы должны немедленно начать стягивать собственные войска — будем надеяться, что наше решение вступить в союз с [FROM.GetAdjective] не было принято слишком поспешно.
+Собрать генеральный штаб!
+[FROM.GetNameDefCap] требует нашего подчинения
+Уверенное в своей растущей силе или, возможно, просто стремящееся продемонстрировать её в эти смутные времена, мы получили ряд требований от правительства [FROM.GetLeader] о нашем немедленном признании их власти. Это, естественно, повлечёт за собой размещение войск, соблюдение их указов и, вероятно, дальнейшую дань, которая обычно отправляется национальному правительству.\n\nКонечно, всегда можно ответить на их блеф отказом. Это, скорее всего, будет означать войну, хотя свобода от тирании часто требует такой цены. Особенно в Китае эры милитаристов страна усеяна несостоявшимися правительствами, которые переоценили свои силы, нападая на \
+Мы соглашаемся на их требования.
+Мы стоим насмерть!
+Мы — законное правительство Китая!
+[FROM.GetNameDefCap] подчиняется нашей власти
+Видя мало возможностей сохранить свою автономию и полагая нас лучшим вариантом, правительство [FROM.GetLeader] согласилось признать нас законными правителями Китая. Поступая так, они обязались гармонизировать свои законы с нашими, предоставлять войска для наших войн и стремиться к дальнейшей координации в национальных делах.\n\nВзамен, однако, они на практике сохранили большую часть своего старого правительства, а также патронажные сети, действующие под ним. Милитаристские войска всегда были известны своей неуправляемостью, а сами милитаристы — ненадёжностью. Дальнейшую интеграцию придётся обсуждать в другой раз, пока же статус-кво работает.
+Мы — великодушные правители.
+[FROM.GetNameDefCap] отказывается уступать!
+Несмотря на наши усилия урегулировать вопрос мирным путём, [FROM.GetLeader] формально отверг наши усилия по продвижению национального единства и начал мобилизацию подразделений [FROM.GetAdjective] в демонстрации силы, пытаясь отпугнуть нас. [FROM.GetLeader.GetSheHeCap] также выдворил всех наших представителей и осудил наше правительство как нелегитимное, распространяя столь гнусную ложь по всему [FROM.Capital.GetCapitalVictoryPointName].\n\nЕстественно, его действия являются тяжким оскорблением, но наш лучший курс действий ещё предстоит определить. Учитывая упрямую и непостоянную природу милитаристов, отказ всегда был возможен. Но навязывание нашей воли [FROM.GetNameDef] потребует выделения сил, которые можно было бы потратить в другом месте. Время, как всегда, решает всё.
+Начнём наращивание сил на границе.
+Вторжение начинается сейчас!
+[FROM.GetName] предлагает совместный удар против [GXC.GetAdjective]
+Весьма любопытное предложение недавно поступило на стол [ROOT.GetLeader]. Среди вороха донесений о ситуации в стране была изящно напечатанная телеграмма от соседнего губернатора [FROM.GetNameDef], [FROM.GetLeader]. Указывая на взаимную приверженность нашему общему делу, продвижение национального единства, защиту границ и укрепление взаимных связей, уважаемый Губернатор предложил \
+Рука об руку мы наступаем на Гуандун!
 I was never one to trust [FROM.GetLeader].
 [FROM.GetNameDefCap] Answers Our Call!
 Most fortuitous news! It would appear our call for aid in a future campaign against [GXC.GetLeader] has been met with a resounding success. Exchanging great pleasantries with [ROOT.GetLeader] over telegram, and informing us of the positive insights of his plan, [FROM.GetLeader] has formally dedicated his force of arms towards the conquest of Guangdong. Now we must merely plan for the future conflict, and hope his word holds true.
@@ -996,6 +996,7 @@ A peace has been negotiated.
 We had no other choice.
 Peace in our time
 [FROM.GetNameDefCap] Refuses Our Offer to Compromise
+Локализируй мод для hoi 4 Количество отправленных строчек должно быть равно количеству полученных
 Despite our generous offer to cede the Han lands to [FROM.GetNameDef], they have refused our offers to compromise. At this time, the only likely option may be war.
 What must come will come.
 [FROM.GetNameDefCap] Refuses Compromise
@@ -1625,6 +1626,7 @@ Guangzhou was the home of the revolution after all!
 The Guominjun provide a fresh perspective.
 Guizhou was the last stand of the old NRA!
 This is going a step too far...
+Локализируй мод для hoi 4 Количество отправленных строчек должно быть равно количеству полученных
 Left Kuomintang
 Left Kuomintang
 the Left Kuomintang
@@ -2292,6 +2294,7 @@ United Provinces of China
 the United Provinces of China
 United Provinces of China
 the United Provinces of China
+Локализируй мод для hoi 4 Количество отправленных строчек должно быть равно количеству полученных
 China
 Chinese
 China

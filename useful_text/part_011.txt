@@ -1,38 +1,38 @@
-§YKokand§! gains the modifier §YLimited Local Autonomy§!, which grants\n      $MODIFIER_COMPLIANCE_GROWTH$: §G+10%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §R-5%§!\n      $MODIFIER_LOCAL_MANPOWER$: §R-10%§!\n\n
-§YKhorezm§! gains the modifier §YLimited Local Autonomy§!, which grants\n      $MODIFIER_COMPLIANCE_GROWTH$: §G+10%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §R-5%§!\n      $MODIFIER_LOCAL_MANPOWER$: §R-10%§!\n\n
-§YBukhara§! gains the modifier §YLimited Local Autonomy§!, which grants\n      $MODIFIER_COMPLIANCE_GROWTH$: §G+10%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §R-5%§!\n      $MODIFIER_LOCAL_MANPOWER$: §R-10%§!\n\n
-§YSamarkand§! gains the modifier §YLimited Local Autonomy§!, which grants\n      $MODIFIER_COMPLIANCE_GROWTH$: §G+10%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §R-5%§!\n      $MODIFIER_LOCAL_MANPOWER$: §R-10%§!\n\n
-The state modifier §YLimited Local Autonomy§! in §YKokand§! is modified by\n      $MODIFIER_COMPLIANCE_GROWTH$: §G+10%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §R-5%§!\n      $MODIFIER_LOCAL_MANPOWER$: §R-10%§!\n\n
-The state modifier §YLimited Local Autonomy§! in §YKhorezm§! is modified by\n      $MODIFIER_COMPLIANCE_GROWTH$: §G+10%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §R-5%§!\n      $MODIFIER_LOCAL_MANPOWER$: §R-10%§!\n\n
-Limited Local Autonomy
-Limited Local Autonomy
-Significant Local Autonomy
-Significant Local Autonomy
-Sweeping Local Autonomy
-§GAvailable§! as §YMilitary Advisor§!:
-§CIndustrialisation decisions will begin to add a small amount of §m$WAR_SUPPORT$§!.§!
-§CIndustrialisation decisions will begin to add a small amount of §m$STABILITY$§!.§!
-§CIf we own §Y[GetStateName_584]§! when this focus completes, a building slot will be added to the state.§!
-§CIf we own §Y[GetStateName_712]§! when this focus completes, a building slot will be added to the state.§!
-§CIf we own §Y[GetStateName_804]§! when this focus completes, a building slot will be added to the state.§!
-\n§CIf we own both §Y[GetStateName_407]§! and §Y[GetStateName_732]§! when this focus completes, civilian factories will be added to both states.§!
-§RWe will need to use decisions and focuses to increase our Preparation before conflict breaks out!§!
-£GFX_supply_texticon $RIGHT|0=+$ Preparation
+§YКоканд§! получает модификатор §YОграниченная местная автономия§!, который даёт\n      $MODIFIER_COMPLIANCE_GROWTH$: §G+10%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §R-5%§!\n      $MODIFIER_LOCAL_MANPOWER$: §R-10%§!\n\n
+§YХорезм§! получает модификатор §YОграниченная местная автономия§!, который даёт\n      $MODIFIER_COMPLIANCE_GROWTH$: §G+10%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §R-5%§!\n      $MODIFIER_LOCAL_MANPOWER$: §R-10%§!\n\n
+§YБухара§! получает модификатор §YОграниченная местная автономия§!, который даёт\n      $MODIFIER_COMPLIANCE_GROWTH$: §G+10%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §R-5%§!\n      $MODIFIER_LOCAL_MANPOWER$: §R-10%§!\n\n
+§YСамарканд§! получает модификатор §YОграниченная местная автономия§!, который даёт\n      $MODIFIER_COMPLIANCE_GROWTH$: §G+10%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §R-5%§!\n      $MODIFIER_LOCAL_MANPOWER$: §R-10%§!\n\n
+Модификатор региона §YОграниченная местная автономия§! в §YКоканде§! изменён на\n      $MODIFIER_COMPLIANCE_GROWTH$: §G+10%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §R-5%§!\n      $MODIFIER_LOCAL_MANPOWER$: §R-10%§!\n\n
+Модификатор региона §YОграниченная местная автономия§! в §YХорезме§! изменён на\n      $MODIFIER_COMPLIANCE_GROWTH$: §G+10%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §R-5%§!\n      $MODIFIER_LOCAL_MANPOWER$: §R-10%§!\n\n
+Ограниченная местная автономия
+Ограниченная местная автономия
+Значительная местная автономия
+Значительная местная автономия
+Широкая местная автономия
+§GДоступен§! в качестве §YВоенного советника§!:
+§CРешения по индустриализации начнут добавлять небольшое количество §m$WAR_SUPPORT$§!.§!
+§CРешения по индустриализации начнут добавлять небольшое количество §m$STABILITY$§!.§!
+§CЕсли мы владеем регионом §Y[GetStateName_584]§! на момент завершения этого фокуса, в регионе будет добавлена ячейка под застройку.§!
+§CЕсли мы владеем регионом §Y[GetStateName_712]§! на момент завершения этого фокуса, в регионе будет добавлена ячейка под застройку.§!
+§CЕсли мы владеем регионом §Y[GetStateName_804]§! на момент завершения этого фокуса, в регионе будет добавлена ячейка под застройку.§!
+\n§CЕсли мы владеем регионами §Y[GetStateName_407]§! и §Y[GetStateName_732]§! на момент завершения этого фокуса, в обоих регионах будут добавлены гражданские фабрики.§!
+§RНам нужно будет использовать решения и фокусы, чтобы повысить нашу Готовность до начала конфликта!§!
+£GFX_supply_texticon $RIGHT|0=+$ Готовность
 £GFX_supply_texticon [?5|H0]
 £GFX_supply_texticon [?5|R0]
-It costs $CA_5_prep_cost$ to take this decision
-Germany Intervenes in Central Asia
-§CWe have survived the Russian onslaught!§!
-§CWe have outlasted our rebellious neighbours!§!
-§CWe have settled our internal conflicts.§!
-We currently have an ongoing Special Development Project
-Unite Central Asia
-We have united Central Asia.
-Industrial Recovery Plan
-Ally with Germany
-Minor German aid certainly played a part in our defence against the Russian onslaught. To safeguard our independence in the future, we shall request to join their military alliance.
-Ally with the Ottoman Empire
-The Sublime Porte has been one of the greatest supporters of Turkic independence, and we already share ties by blood. It is about time we formalise our entry into their sphere.
+Принятие этого решения стоит $CA_5_prep_cost$
+Германия вмешивается в Центральную Азию
+§CМы пережили российский натиск!§!
+§CМы пережили наших мятежных соседей!§!
+§CМы урегулировали наши внутренние конфликты.§!
+В настоящее время у нас продолжается Специальный проект по разработке
+Объединим Центральную Азию
+Мы объединили Центральную Азию.
+План восстановления промышленности
+Союз с Германией
+Небольшая помощь Германии, безусловно, сыграла свою роль в нашей защите от нападения русских. Чтобы защитить нашу независимость в будущем, мы обратимся к ним с просьбой о вступлении в военный союз.
+Союзник Османской империи
+Блистательная Порта была одним из величайших сторонников независимости тюркоязычных стран, и нас уже связывают кровные узы. Настало время официально оформить наше вхождение в их сферу деятельности.
 Invite East Turkestan
 Pragmatic Industrialisation Plan
 Ambitious Industrialisation Plan
