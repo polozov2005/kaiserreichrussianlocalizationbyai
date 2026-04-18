@@ -1,0 +1,612 @@
+South-West Africa Focus Tree
+Chaos in Südwest
+$unlocks_decisions$ to retake Africa!
+Increased Conscription
+Our current situation has caused us to raise our conscription policy. However, the natives of Namibia are less than pleased that they are being dragged into a German civil war.
+Forced Conscription
+Our conscription policies have been further extended due to us losing the current conflict. The natives are furious that so many of their people are dying on the front lines of a German war, but they don't get to decide much.
+Colonial Spirit
+With full German backing, our victory is inevitable and morale is as high as it's ever been before. Victory will be ours!
+German Military
+Due to our recent reintegration into the fatherland, our military has become very Prussian-styled, with a purely German volunteer force with limited Askari recruitment. While we can review our policy on this in the future, it remains as how our military functions for now.
+Civil War Industry
+The ongoing civil war has brought our already limited industry to a complete halt. This most likely won't end until the end of the civil war, and even then will continue to affect us even afterwards.
+Lack of Industrialisation
+Our country already had a very limited population density and industry, and the civil war has only made the problem even worse. Recovery from this might take ages if the government does not personally intervene.
+Repairing the Country
+We have undertaken a policy of working with the natives of Namibia in order to repair the country after the civil war, for the good of everyone involved.
+OMEG Influence
+We have decided to have more of our economic sector rely on the OMEG corporation, which helps us gather resources and build railways faster. This comes with the exchange of a slowly increasing OMEG influence within the government.
+OMEG Mining
+German Exports
+We have decided to have more of our economic sector rely on Germany itself, which assists us in producing equipment and for us to subsidise the people less. This comes with the exchange of increased German control in the government and the risk of another crash if Germany falls.
+Native Cooperation
+Our people are our allies, and cooperation is necessary to better all of our lives inside Namibia. This has resulted in an economic boom but also in a growth in popularity of Namibian nationalism.
+Cultural Cooperation
+Our focus on promoting cultural cooperation in order to prevent another disaster like the Ovambo revolt has increased the unity among our people.
+Recovery Effort
+With the help of outside forces in making our already small economy recover, the nation is almost ready to continue like normal again.
+True German Military
+Using the superiority of German equipment and professionalism, there is no need to worry about loses or recruitment of the local population.
+Native Recruitment
+The local population is the perfect cannon fodder to feed to our enemies, despite the loss of professionalism within our force.
+Askari Cooperation
+Askari are well-trained African forces, attempting to train a small amount of these will help with our recruitment.
+Campaign Preparations
+The Barotseland Resistance
+If Germany accepts:
+Germany has sent us volunteers
+Germany has sent a 2nd batch of volunteers
+Germany has assisted us in building fortifications
+The assault unit wasn't discovered
+Oil was found
+Once the campaign begins we will ask for German aid. If they agree, we will gain §Y1.00K§! units of §Yinfantry equipment§! and §G+1000§! manpower.
+Once the campaign begins we will gain '§YCampaign Preparations§!' which grants ($MODIFIER_ARMY_ORG_FACTOR$: §G+15.0%§!, $MODIFIER_ARMY_MORALE_FACTOR$: §G+15.0%§!) for §Y60§! days.
+Request German Support
+We are the last remaining German-ruled colony in Africa, causing Germany to have great interest in us. As such, they are willing to send us guns and soldiers if we request them, all we need to do is give the word.
+Request More Support
+The first batch of German reinforcements have arrived, but aren't enough. A second shipment of goods from Germany should be enough to carry us through the rest of the war.
+Fortify Windhuk
+If worst comes to worst, we might end up pushed all the way back to Windhuk. Having fortifications in the area will help us hold out if we're put on the defensive
+Colonial Spirit
+With the full backing of the Germans behind us, we have nothing to fear. We will win this war, no matter the cost.
+Increase Conscription
+We are beginning to lose the war and as such, a proposed policy has been put in place to raise our conscription of the native people living in the area. While they won't be pleased with this, it will help our war effort in the long run.
+Forced Conscription
+With our entire country being close to surrendering, we have no choice but to conscript more of the native population. While they were already furious about our previous conscription raise, winning this war is of higher priority than their happiness.
+Sneak Behind Enemy Lines
+At the start of the revolt, the revolters set up troops behind our lines as a distraction. Our generals have gotten similar ideas and wish to set the plan into motion. However, there is always the chance that our troops will get discovered.
+Launch the Assault
+Our troops have successfully made it behind the enemy and are waiting for the order to attack. The timing of this attack could determine our victory or defeat.
+Recover from the Ovambo Revolt
+The Ovambo people revolting has brought absolute disaster to our nation's economy, with full recovery not being an option for years to come.
+Promote OMEG
+The OMEG (Otavi Minen und Eisenbahn-Gesellschaft) is a German-promoted railway and mining company, signed off by the Germans themselves. Promoting the use of the company will help us make new discoveries of resources and the build-up of our industry into the future, along with helping us get over the industrial crash caused by the Ovambo Revolt
+Dealing with the Crisis
+Despite our best efforts, it seems our country is still destroyed from the Ovambo revolt. To achieve any further recovery, we'll need to rely on others, which can end up being dangerous in the end.
+Repairing the Country
+With all industry destroyed, everyone in the country is forced to live at a lower standard than they used to. Cooperating with the natives of countries we conquer, and our own, will help ensure more disasters like this no longer occur.
+Recovery through Corporatism
+The OMEG was proven effective in the railway from the coast to copper mines, with the railway still being used to this day. Creating similar systems across more parts of the country to increase foreign exports will help our industry recover.
+Mineral Processing
+The mineral industry is one of the main things the OMEG has been exploiting through the use of its railways, and has a lot of untapped potential with minerals not even known to be in Namibia hidden beneath the depths.
+Recovery through German Help
+Relying too much on local companies will end up harming us and our influence. We must always make sure that German control will remain absolute, no matter the satisfaction.
+German-backed Industrial Projects
+With German trust and support behind us, we can begin to industrialise Namibia and the rest of Africa the further we go along with the Mittelafrikan reformation.
+Recovery through Cooperation
+Relying on others for our economy to be fixed is asking for disaster, as it is up to the people to bring themselves off the ground and into a new age. We will aid them in this endeavour in the hopes of a bright future for our country.
+Cultural Integration
+Namibia is split between all kinds of different cultures, with some having absolutely no relation to each other, like the southern Germans and northern Ovambo. Forcing cooperation between the two groups will not be easy, but has to be done for the greater good.
+Recovery Effort
+With our backers behind us, we can begin to take the final steps to help the land recover from the revolt. It will be a long and difficult process, but we will come out better in the end.
+The Economy is Revived!
+Through our efforts, the economy has finally been revived and is thriving more than it was before! With this, we can now prepare to expand our domain, starting with Barotseland to the east of us. Of course, our army must be ready for this undertaking as well before we continue.
+Search for Oil
+Expanding the use of the OMEG company to not only mining, but also oil digging, could lead to possible discoveries in the future. After all, the rumour of Namibian oil is a hard opportunity to pass up.
+Retrieve the Oil
+Thanks to the work of the OMEG, minor amounts of oil have been discovered in Ovamboland, just like the rumours said. All that's left is putting the effort into exploiting it, but it might not make the already angered Ovambo people pleased.
+Integrate the Ovambo People
+The Ovambos to the north that make up the majority of our population, and were the ones behind the civil war, are continuing to terrorise the people in the north, lead by their own chief, Uushona Shiimi. Something has to be done about this before the situation ends up escalating.
+Preparing Barotseland
+The Barotseland Campaign, the first of many battles in our dream of conquering Mittelafrika will not be an easy one. We need to make sure we are ready to face off against the threat through thick and thin.
+German Campaign Involvement
+While we can handle the first campaign on our own, official German involvement in the war can help ensure our success in crushing the warlordism in Mittelafrika.
+Launch the Campaign
+With our country ready, we can launch the first of many campaigns in our quest to reunite Mittelafrika. Heia Safari!
+Calm Barotseland
+With our invasion of Yeta's kingdom behind us, we must crush the ongoing rebellion before it escalates further.
+Integrating Yeta's Kingdom
+With the rebellion against our government over, we can begin to fully integrate Barotseland within our regime.
+The Railway Reaches Barotseland
+The railway we have begun constructing in Namibia can have uses in Barotseland as well. Extending the railway to Barotseland can help us reach our hands into the rest of Africa.
+Retake Africa
+Mittelafrika may have fallen, but we are still standing. It is time to retake Africa and return German glory to all corners of the continent.
+The Reformation of Mittelafrika
+With most of the German African territories being recovered by our skilled administration, we can officially consider Mittelafrika to be rebuilt once again in the name of the empire.
+Re-establish German Rule
+With our crisis officially over, Germany is safe to come back to Africa through us. With us, the dream of making Mittelafrika whole again is not far off.
+A New Governor?
+Governor Heinrich Kirchheim has openly welcomed the remnants of the Schutztruppen to his domain. However, the question of leadership over the remnants of German Africa remains unsolved, and a true appointment to any such position was further delayed due to the Ovambo Revolt. Now that the country is at peace, we have a chance to finally appoint a new Governor.
+The Mittelafrika Claim
+The days of German overlordship of Africa are gone, but the dream is not. Today, we shall claim ourselves to be the successor to Mittelafrika, and vow to reunify it under the strong German banner.
+Naval Expansion
+Expanding simply by our land border will only end up causing us trouble in the future. Our only other option is to cross the great sea, in the hopes of gaining a foothold in West Africa so we can expand there.
+Study Leftover Mittelafrikan Ships
+Some leftover Mittelafrikan ships were left in the port of Swakopmund, and can be salvaged for future ship designs for us to use.
+German Naval Support
+Germany is much more experienced in naval affairs than us, and their government is willing to provide us with information on some of the latest naval tactics. We can use these in our coastal reclamation.
+Admiral Collection
+Admirals from Mittelafrika have since been recalled to Germany, and are awaiting further use. German has proved willing to let us recall these admirals for our own personal use.
+Naval Air Force
+With the recall of the admirals, we need to make sure the ships can get to the coasts of African warlords. Naval bombers leftover from Mittelafrika should be able to do the trick, even if they're not very many of them.
+First Namibian Marines
+The final preparation for the reclamation is getting troops specialised in invading coastlines, marines. They will prove vital in the reclamation for our country.
+Coastal Reclamation
+With the preparations complete, we can begin the process of invading the African warlords from the coast and reclaim our mandate once and for all.
+Land Expansion
+Our land border with these rebellious African warlords will be the key to our expansions, so we need to make sure our force on land is as strong and professional as possible.
+Native Policy
+With the recent establishment of our rule, our military is made nearly entirely of German volunteers and locally recruited German-Namibians. While this has led to a high amount of professionalism within the army, it's led to our army being minuscule in size. We'll need to review our policy to see how we will be moving in the future.
+Native Recruitment
+With Hans Hollander being our current choice for Governor, he has decided to put through a policy of native recruitment. While we will still be accepting German volunteers, he has granted permission to start recruiting integrated native populations, through peaceful or more violent means. While the size of our army has increased, it has put a drain on its professionalism.
+Askari Cooperation
+With Theodor von Hippel being our current choice for Governor, he has decided it is necessary to cooperate with the local Askari divisions. While this opens up our recruitment quite a bit, the Askari forces aren't as professional as the German ones, and our army is held back a bit by it.
+The Askari Resistance
+Askari's can easily blend into the background and assault the enemy within our occupied lands. Doing this will make it harder for the enemy to operate within our territory without facing stiff resistance.
+German Force
+Germany is our one and only defence, and we will rely on them for all things. The size of our forces doesn't matter in the end if we can overwhelm the enemy with superior equipment and firepower.
+Loyalty to the Empire
+Our loyalty to the German cause will forever be our one and only goal, and their glory comes. We will ensure our soldiers are always reminded of this fact.
+Native Labour
+Any and all natives must be put to work for the glory of our state, whether they consent or not. We will prepare to put them to work as we spread our influence all across Africa.
+Campaign-Ready Forces
+With our policy of our soldiers being decided, we are officially ready to move on with the reformation of Mittelafrika! Heia Safari!
+Südwestafrika Requests Supplies
+Although the entirety of Mittelafrika has collapsed, there is one place that remains loyal, Namibia. This is the last place in Mittelafrika under white rule and is requesting our assistance in their current conflict. Not helping them would be foolish, as it could mean losing our last land in Africa.
+Of course, we'll help.
+Africa is lost.
+Germany Send Support!
+It seems hope is not lost. Germany has sent us volunteers and supplies to assist us in our current struggle. Hopefully, we can trust them to help us in the future as well.
+We can win this.
+Germany Doesn't Help us
+Germany has decided that Africa is no longer a profitable place to invest in and has declined our request for support. We won't bother them with foolish requests like this in the future.
+We'll win on our own then.
+Südwestafrika Requests More Supplies
+The civil war in Namibia is still raging on, and they have requested more assistance. Ensuring our control in Africa is important, but we must be sure not to overextend ourselves there.
+We'll assist as much as necessary.
+Once was enough.
+Germany Sends More Supplies!
+The generous men up in Germany have sent us more men and volunteers, in order for us to defeat the menace to the north. This war will be over in no time at this rate.
+Victory will be ours.
+Germany Refuses our Second Request
+The Germans have understandably refused our second request for supplies claiming that 'Overextending themselves into Africa when they have to worry about Europe isn't wise.' We'll need to fight the rest of this war on our own.
+Disappointing.
+Namibia Requests Workers
+Namibia is still fighting its civil war in the name of our country, and is requesting assistance for the third time. This time they are trying to fortify their capital in case their forces are pushed back. This could help their survival in the long run, so it seems like a worthy investment.
+Send our workers.
+They'll be able to win on their own.
+Germany Assists Us
+Our generous allies up in Germany have given us a small number of workers in order to build the fortifications. Taking our capital will be much more difficult once this project is complete.
+Send the workers.
+The Fortifications are Complete
+The project has been complete, resulting in medium fortifications being built in our capital. This will help us in the civil war and in the long run for the future reunification of Mittelafrika.
+Victory is in our hands.
+Germany Doesn't Send Workers
+Germany has decided to not send workers to come to our aid, which will significantly increase the amount of time it will take to fortify Windhuk.
+We'll do it on our own.
+An Assault on Ovamboland
+At the beginning of the revolt, the Ovambo sent divisions behind our lines as a distraction for our forces. Our generals seem to have gotten a similar idea and wish to send a small expedition to sneak behind enemy lines and launch an ambush. Should we accept their plan?
+Approve the proposal.
+Deny the proposal.
+The Assault is Ready
+Our troops have successfully snuck through the disorderly lines of the Ovambo, and are ready to launch the assault whenever we give the word. The timing here is important, we don't want our units to be destroyed right as they arrive.
+We'll time it carefully.
+Our Units are Found
+Our units were almost at their destination in the back of the enemy lines, until a patrol discovered them. They were all massacred, leaving only one soldier to report the bloody incident. Trying something like this again would be futile and only result in more losses.
+Scrap the plan.
+Südwestafrika Launches an Assault
+Südwestafrika has adopted a similar tactic to us at the start of the war, and launched an assault in the middle of our territory. It's also right next to our capital, leaving it in grave danger of being captured. We must rush troops there now if we wish to win this battle!
+Send the army, quickly!
+Südwestafrika Wins the War!
+Südwestafrika has been embroiled in a civil war ever since Mittelafrika collapsed, but they have beaten back the foolish natives. With the conflict over, Südwestafrika has invited us to establish rule over them once again. Once our delegates arrived, there were talks floating about reforming Mittelafrika, but they remain rumours for now.
+Not all is lost.
+A New Governor?
+With the crisis finally being officially over, it is time we decide who the official Governor will be. There were various suggestions and three Weltkrieg veterans who fought in Sudwestafrika have been put up for the task. The first option is keeping Heinrich Kircheim, the current Governor who advocates for overwhelming the inferior African opponents with superior German firepower, the second is Hans Hollander, who advocates for mobilising the African population to see a quick and sudden reunification of Mittelafrika, and the third option, Theodor von Hippel who thinks careful planning and thinking three steps ahead is the key to our expansion.
+Heinrich Kircheim, who led us through the recent war.
+Hans Hollander, for a quick reunification.
+Theodor von Hippel, for his careful planning.
+Resistance from Ovambo
+Despite our victory in the Ovambo's revolt, there is still staunch resistance among a new group known as the 'Ovambo Movement', who raid towns in the hopes of letting the Ovambo people be free. This is all due to their leader, Uushona Shiimi managing to escape our clutches in the civil war. With towns being raided the conflicts do not show any signs of stopping, and the people demand we do something about the problem.
+Search for Uushona Shiimi.
+Focus on defending the people.
+Uushona Shiimi Killed
+Uushona Shiimi who has been a thorn in our side since our reunification has been killed by loyal Askari troops at 6:12 inside a hotel inside Onajena. Although the initial thought was that the people would resent us for our actions, a lot are thanking us for dispersing the Ovambo revolt.
+He's finally gone.
+Amboland Integrated
+With the end of the Ovambo Movement's momentum, the north of our country has finally entered a state of calm and healing. With this, we can finally stand under a strong, united nation that can face external threats.
+We are united.
+Local Village Destroyed
+Although we have placed military police at key locations within our country, it seems some areas got inevitably overlooked and The Ovambo Movement took notice. They have managed to raid a village of all it has, slaughtering the entire population and seizing many supplies. The peaceful section of the Ovambo people is also blaming us for painting their culture in a bad light by letting these actions continue.
+Spread out the police force.
+Uushona Shiimi Killed in Battle
+Following the recent wave of momentum in The Ovambo Movement, Uushona Shiimi himself decided to lead an expedition on a seemingly unguarded village. Little did he know that military forces were lying in wait for him, and attacked him on sight. The brave regiment managed to kill Uushona Shiimi, but the unit was wiped out by the grunts left over from the expedition. Although we have managed to end the momentum of the movement, this is a general distaste inside our population for letting this problem continue for so long.
+At least it's over.
+Rumours of Namibian Oil
+Rumours have been circulating as of late of possible oil hidden within Namibia's crust, the question is whether these are truly rumours or truth. If these rumours are indeed true, this will result in Namibia going from a depopulated wasteland to a place of much wealth and trade, transforming the entire economy. However, to even search for the black gold will require many resources Germany is not willing to give. All that remains is deciding how much we are willing to invest in this.
+Do a quick search.
+Divert some of our funds towards the project.
+This must be a priority.
+Let's not waste our time.
+Oil was Found!
+Oil! The black gold that was originally thought to be a simple rumour less than a month ago is now truth. With this brings significant wealth and resources that we can provide to the fatherland, all we need to do now is extract it all.
+Namibia is a gold mine.
+The Search goes Nowhere
+Despite vigorous searching, the oil is nowhere to be found. The entire project has proven to be a waste of resources and generally worthless. The hopes of Namibia ever being a profitable colony have been stomped to the ground and morale is at an all-time low.
+What a waste of time.
+Südwestafrika Requests Supplies
+Südwestafrika has found itself embroiled in a conflict with one of the treacherous African warlords, and is requesting our assistance. It would be wise to assist, as every gun we drop down there helps us get closer to the reformation of Mittelafrika, and our presence in Africa.
+Send the supplies.
+We can't spare anything at the moment.
+Germany Sends Help
+Germany has decided to assist us in our current conflict. It is always good to know that Germany itself will always have our back in our quest for vengeance against these traitorous warlords.
+Reunification is near.
+We Fend for Ourselves
+Germany has decided against helping in this current conflict, claiming to not have more important things to do on the mainland. We will have to fight this one on our own, but we will be fine against this barbarian scum.
+We'll win on our own.
+Barotseland Resists our Invasion
+The Barotseland campaign has caused the area to devolve into anarchy. Even as our armies still fight on the battlefield, the Barotseland people have begun to fight the troops trying to keep the peace and are disrupting further planning for expansion into Africa. The threat will need to be dealt with soon, before support can reach into other areas we control as well.
+Damn traitors.
+Generation of Awakened Youth
+Generation of Awakened Youth (Angkatan Pemuda Insaf)
+Malay Nationalist Party
+Malay Nationalist Party of Malaya (Parti Kebangsaan Melayu Malaya)
+PMGLU
+Pan-Malayan General Labour Union
+Malay Congress-Socialists
+Malay Congress-Socialists (Kongres Melayu)
+Malay Congress-Liberals
+Malay Congress-Liberals (Kongres Melayu)
+Singapore Malay Union
+Singapore Malay Union (Kesatuan Melayu Singapura)
+Malay Congress-Conservatives
+Malay Congress-Conservatives (Kongres Melayu)
+Muslim People's Party of Malaya
+Muslim People's Party of Malaya (Parti Hizbul Muslimin Malaya)
+All-Malaya Ulema Association
+All-Malaya Ulema Association (Persatuan Ulama Se-Malaya)
+Special Strength of the People
+Special Strength of the People (Kekuatan Rakyat Istimewa Semenanjung)
+Three Stars Army
+Three Stars Army (Bintang Tiga)
+PAC (Overseas Bureau)
+Provisional Action Committee (Overseas Bureau)
+Overseas Chinese Anti-Enemy National Salvation Society
+Overseas Chinese Anti-Enemy National Salvation Society
+Malayan Chinese Association
+Malayan Chinese Association (Malaiya Huaren Gonghui)
+Malaya
+Malay
+Malaya
+Democratic People's Republic of Malaya
+the Democratic People's Republic of Malaya
+Democratic People's Republic of Malaya
+the Democratic People's Republic of Malaya
+Democratic People's Republic of Malaya
+the Democratic People's Republic of Malaya
+Malaysia
+Malaysian
+Malaysia
+Democratic People's Republic of Malaysia
+the Democratic People's Republic of Malaysia
+Democratic People's Republic of Malaysia
+the Democratic People's Republic of Malaysia
+Democratic People's Republic of Malaysia
+the Democratic People's Republic of Malaysia
+Burhanuddin al Helmy
+§YBorn:§! §LAugust 29th, 1911, in Kota Bharu, Perak, Federated Malay States§!
+Zhuang Mingli
+§YBorn:§! §LFebruary 1909, in Quanzhou, Fujian Province, Great Qing§!\n§YBackground:§! §LZhuang Mingli, or Chuang Ming-li as he is known in Malaysian Cantonese, was born to a Fujian peasant family. Many men in the family had taken up employment abroad, and his father found work as a boatman in the British territory of Penang, on the Malay Peninsula, tragically passing away in 1926.\n\nMingli travelled first to Penang, then to Binjai in the Dutch East Indies, where he found employment at a garage run by one of his uncles. There he got politically involved with overseas Chinese community activists, protesting against European and Japanese exploitation of his homeland. He joined a charity for civilian victims of the Jade Wind Incident and was vice-chairman of a youth group that boycotted foreign goods. These activities caught the eyes of the Dutch and he was deported back to China.\n\nHe sought employment in the factories of Quanzhou but soon became enamoured with radical trade unionism, forcing him to flee to back to Penang in 1930, fearing he would be killed if he remained in China. Mingli joined a number of new political bodies, such as the Fujian Overseas Chinese Salvation Congress held in Singapore, the Penang Philomathic Union founded by Sun Yat-Sen, as well as a number of local guilds and trade unions.\n\nThough only in his 20s, Mingli became one of the most prominent Chinese politicians in all of Malaya, writing fiery socialist screeds in the overseas Chinese press, under the pseudonym \
+Ibrahim Yaacob
+§YBorn:§! §L1911, in Temerloh, Pahang, Federated Malay States§!
+Mustapha Hussain
+§YBorn:§! §LAugust 21st, 1910, in Matang, Perak, Federated Malay States§!
+Onn Jaafar
+§YBorn:§! §LFebruary 12th, 1895, in Bukut Jambu, Johore Bahru, Johore§!
+Haji Embok Suloh
+§YBorn:§! §L1891, in Singapore, Straits Settlements§!
+Tunku Abdul Rahman
+§YBorn:§! §LFebruary 8th, 1903, in Sultanate of Syburi, Monthon Syburi, Kingdom of Siam§!
+Abu Bakar al-Baqir
+§YBorn:§! §L1907, in Gunung Semanggol, Perak, Federated Malay States§!
+Ahmad Fuad Hassan
+§YBorn:§! §L1910, in Manong, Perak, Federated Malay States§!
+Onan Haji Siraj
+§YBorn:§! §L1912, in Ipoh, Perak, Federated Malay States§!
+Ibrahim I of Johore
+§YBorn:§! §LSeptember 17th, 1873, in Istana Bidadari, Singapore, Straits Settlements§!
+Peng Zemin
+§YBorn:§! §L1877, in Sihui, Guangdong Province, Great Qing§!
+Lai Teck
+§YBorn:§! §L1901, in Nghệ Tĩnh Province, Protectorate of Annam, Indochinese Union§!
+Abdul Hamid Halim Shah
+§YBorn:§! §LJune 3rd, 1864, in Alor Setar, Syburi, Kingdom of Siam§!
+Leong Yew Koh
+§YBorn:§! §LAugust 22nd, 1888 in Kuala Kangsar, Perak, Federated Malay States§!
+Mokhtaruddin Lasso
+Ishak Haji Muhammad
+Henry Lee Hau Shik
+Lim Bo Seng
+Tan Chong Tee
+Adnan Saidi
+Malaya Focus Tree
+Perjuangan Melayu
+Malay Economic Patronage
+People's Islamic Education Institutions
+Has not already received a research slot from a political focus.
+Enforcement of Sharia Law
+Strengthen Islamic Malay Identity
+Bersekutu Bertambah Mutu
+Formation of the Legislative Council
+The Malay Confederation
+Enforcing Ketuanan Melayu
+Federal Reformation
+Enshrine Multiethnic Citizenship
+Dual Justice System
+National Schooling
+Ensure Constitutional Oversight
+[MAL_satu_untuk_semua_semua_untuk_satu]
+Satu Untuk Semua, Semua Untuk Satu!
+Revolusi Nasional Malaya
+Satu Negara
+Cooperative Economy
+Towards New Consciousness
+Islamic Socialism
+Adopt Political Tutelage
+National Self Reliance
+Reject Racial Division
+Encourage Cultural Unity
+Comprehensive Land Reform
+Salvaging German Industry
+Union with East Malaya
+Integration of Singapore
+Reclamation of North Malaya
+Develop Kuala Lumpur
+Malacca Dockyards
+Johore Factories
+Support Rubber Plantation Expansion
+Pahang Bauxite Mining
+Reform the Malay Regiment
+Scavenge Abandoned Equipment
+Learning from our Liberators
+Establish the Malay Army
+Engineer Regiments
+Malay Armoured Corp
+Native Rifle Development
+Expand the Training Depot
+Incorporate the Rangers
+Organised Command Structure
+Multiracial Recruitment
+Territorial Army Regiment
+Warriors in the Skies
+Importation of Aircraft
+Simpang Airport
+On the Great Ocean
+Defending the Straits
+Disrupt Enemy Shipping
+Rubber Plantation Expansion
+Malaya has long been the largest producer of rubber in the world, and with the native government having much more control over the nation's rubber industry it has chosen to greatly support its development to hopefully reap the economic benefits that it can bring.
+Perjuangan Melayu
+To the [MAL.GetAdjective] government, the Malay identity is one that cannot be divorced from the Islamic faith to which a majority of the population adhere. To the government also, it is to these Malay Muslims to whom the nation belongs, and although it may not be explicitly opposed to those of other ethnicities or faiths, it makes clear that they are more akin to tolerated guests than a true part of the nation. Through this lens, the government ensures that it operates within a system which prioritises Malay Muslims over all others, while attempting to adhere to many core Islamic values to which its leaders view as fundamental to Malay society.
+Malaya Merdeka
+For the first time in centuries, the Malay peninsula has found itself free to mostly decide its own future, although of course supported towards this direction by those who aided in its freedom. With this newfound freedom, the [MAL.GetAdjective] government has set out to establish a democratic state in which the rights of both the nation's peoples, and the states which make up the nation, are equally respected.
+The Six Pillars
+Unlike many of the world's nations who in recent decades have embarked upon the path of socialism, those in the [MAL.GetAdjective] government are putting into practice their own vision as to how a state that balances socialist belief with nationalist thought may look. The values to which these views are derived are known collectively by the party as the Six Pillars, 'To Unite' the people, 'To Show Loyalty' to the nation, 'To Serve' the nation, 'To Be Happy', 'To Serve the People', and to show 'Courtesy' as leaders of the people.
+Satu Untuk Semua, Semua Untuk Satu!
+'One for all, all for one' is the phrase to which many within the government of [MAL.GetNameDef] chooses to represent its vision for Malay socialism. To the government socialism is a concept which must be enacted through a nationalist lens, one where Malay communities must band together to lift up the nation beyond its colonial past and lift all of its people up along with it.
+Merdeka Dengan Darah
+Inspired greatly by a combination of Chinese influence, Islamic theology, and wider Nusantaran politics, the [MAL.GetAdjective] government have developed a view of socialism in which all of these inspirations have coalesced into one socialist vision. It is through this vision that the future of the nation is seen as one in which all of its people must fight for their freedom, no matter their race, and it is through this fight that they may all be united under a singular banner and move past inequality or division.
+Three Principles of the People
+After liberation by the National Revolutionary Army, the new Malayan Government has followed the path of the Chinese National Revolution, embarking on a phase of one party party rule to implement the Three Principles of the KMT. The new Malaya will forge a new path, built upon the shared struggle of ethnic Malays and Chinese against Imperialist powers. The Malayan People have stood up!
+The Malay Confederation
+Rejecting a strong central authority, the [MAL.GetAdjective] government has chosen to greatly empower the rights of the individual states which make up [MAL.GetName]. While there remains a central government with direct authority over many matters of national interest and defence, power has been primarily placed in the hands of the local primarily Malay dominated governments of its member states.
+Federal Reformation
+Under colonial rule, under both British and German dominion, much of the Malay peninsula was governed as a federation united together under a central authority. Now free from the colonial shackles, the [MAL.GetAdjective] government has chosen to expand a reformed version of such a model to the entire nation, granting significant power to the states while investing executing authority in the nation's cabinet.
+The [MAL.GetAdjective] Armed Forces
+While historically the Malay states have fieled soldiers and even their own regiment for their colonial overlords, the burden of national defence is now one that cannot simply be pawned off to other people. As a result, the [MAL.GetAdjective] Armed Forces have been established to properly manage not only [MAL.GetName]'s national defence on land, but even on the sea and in the skies.
+Manchuria Focus Tree
+Manchuria
+Manchuria
+Manchurian
+Manchurian Peoples Federation
+the Manchurian Peoples Federation
+Manchurian Peoples Federation
+the Manchurian Peoples Federation
+Manchurian Peoples Federation
+the Manchurian Peoples Federation
+Republic of Manchuria
+the Republic of Manchuria
+Republic of Manchuria
+the Republic of Manchuria
+Republic of Manchuria
+the Republic of Manchuria
+Republic of Manchuria
+the Republic of Manchuria
+State of Manchuria
+the State of Manchuria
+State of Manchuria
+the State of Manchuria
+State of Manchuria
+the State of Manchuria
+SPM
+Socialist Party of Manchuria
+SPM
+Socialist Party of Manchuria
+SPM
+Socialist Party of Manchuria
+MDL
+Manchuria Democratic League
+MDL
+Manchuria Democratic League
+MDL
+Manchuria Democratic League
+MDL
+Manchuria Democratic League
+MSAC
+Manchurian Supreme Administrative Council
+MSAC
+Manchurian Supreme Administrative Council
+MSAC
+Manchurian Supreme Administrative Council
+Concordia Association
+Concordia Association
+Guan Xiangying
+§YBorn:§! §LSeptember 10th, 1902, in Daguanjia, Jinzhou, Shengjing District, Great Qing§!\n§YBackground:§! §LBorn to a Manchu family of the Guerjia clan, Guan Xiangying, from an early age, saw the horrors of imperialism firsthand as he toiled away in a Japanese-funded printing company. He saw Manchuria gradually fall under the influence of the Japanese and witnessed firsthand the rampant corruption of the Fengtian Clique, which holds dominion over the vast plains of Manchuria. At the age of 22, he joined a Socialist youth league, and when the Northern Expedition down south broke out in 1925, he joined the Chinese Syndicalist Party - joining many others in a fervour of anti-imperialist nationalism.\n\nUnfortunately, with the collapse of the Northern Expedition and the disintegration of the Kuomintang, the Chinese Syndicalist Party found itself even more disorganised. In those trying times, Guan was forced, like many others, to go into hiding and bid his time for the revolution. And yet the revolution has indeed come. With foreign socialist troops having freed Manchuria from the Japanese and Fengtian Clique, Guan has emerged out of hiding and guerrilla war to participate as the leader of a new revolutionary Manchuria - one that will champion and value the true labour of all the peoples in Manchuria!\n\nOr so he claims. In practice, the newly founded Socialist Party of Manchuria (modelled heavily after the Chinese Kuomintang) remains largely unpopular with the entrenched establishment they oppose and with the apathetic peasantry. Many resistance fighters feel betrayed by the foundation of an independent Manchurian state, and Chinese nationalism endures. Chairman Guan himself is said to be privately unhappy with recent developments, but has accepted this arrangement as a necessary evil to ensure the withdrawal of foreign occupiers.§!
+§YBorn:§! §LSeptember 10th, 1902, in Daguanjia, Jinzhou, Shengjing District, Great Qing§!\n§YAlignment:§! §aLCS§!\n§YBackground:§! §LWhile Manchurian by ethnicity, Guan Xiangying found himself rooted firmly in the camp of Chinese nationalism especially when he found himself in conflict with his Japanese employees at a Japanese-funded printing company. In April of 1924, under the introduction of Li Zhenying, he joined the Chinese Socialist Youth League and then went to Shanghai with Li to engage in secret activities with the Kuomintang. In December of 1924, he would go to study in France and returned to China following the May 30th Movement.\n\nAfter the fall of the Northern Expedition, Guan Xiangying operated in Shanghai and Tianjin as a secret labour organiser and worked with Chinese syndicalist cells of the LCS in the north of the country.§!\n\n§YNotes: A long-time guerrilla commander, he has had some difficulty adjusting to formal field command, however he has proven to be a quick learner.§!
+Zhao Xinbo
+§YBorn:§! §L1890, in Wanping County, Zhili Province, Great Qing§!\n§YBackground:§! §LA Manchu bannerman with the Imperial Guard during the waning days of the Great Qing, a young Zhao Xinbo enrolled in the Tianjin Beiyang University. Amid the growing turbulence of Xinhai, he joined the Beijing Wenming New Theatre Troupe as a female actor and also the revolutionary Tongmenghui.\n\nAfter the failure of Sun's second revolution 1913, the light of Chinese republicanism dimmed and Zhao fled to Dalian. He became a Chinese teacher for Japanese students before successfully enrolling in law classes at Meiji University. There he became the first Chinese student to receive a doctorate in law from the Tokyo Imperial University in 1925. Heavily connected to Japanese influence, he was a legal advisor to Zhang Zuolin after graduation. Under Zhang Xueliang's patronage, he founded the Northeast Law Research Association.\n\nAn otherwise minor, pro-Japanese figure in the Fengtian clique, he was nevertheless willing to make the jump when foreign authorities decided to create a new Manchurian state. Zhao proved to be an eager collaborator, helping establish the Liaoning Province Local Maintenance Committee, which issued a declaration of independence for Manchuria on behalf of his masters. He successively became mayor of Shenyang, President of the Supreme Court, and President of the Legislative Yuan, influencing the creation of nearly all of Manchuria's nascent institutions during foreign occupation.\n\nWith his power growing, the so-called \
+Fu Shuangying
+An ethnic Manchu from Manchuria, Fu Shuangying attended Fengtian Army School before graduating from Baoding Military Academy in 1918. He soon found himself a member of the Fengtian army, serving as an instructor where he once attended primary school. An infantry commander by training, he served in such a regiment in the 2nd Zhifeng War.\n\nAt one point his achievements caught the eye of his commander Zhang Xueliang. Not particularly successful during the Fourth Zhili-Fengtian war, he was rotated to various back-end positions working in logistics. To this end he served as director of the Jingxing Mining Bureau and also as a staff officer in the Fengtian government.
+§YNotes: Although he has some pro-Japanese connections, Fu is not a member of the Shikan clique or Concordia association.§!
+§YBorn:§! §L1894, in Liaoyang, Shengjing District, Great Qing§!\n§YAlignment:§! §LApolitical§!\n§YBackground:§! §L$MAN_fu_shuangying_bio$§!\n\n$MAN_fu_shuangying_notes$
+§YBorn:§! §L1894, in Liaoyang, Shengjing District, Great Qing§!\n§YBackground:§! §LA minor commander of Manchu descent in the Fengtian clique, Fu Shuangying was nothing special in the old order: a graduate from the prestigious Baoding military academy with a checkered record on the battlefield and some ties with Japanese interests in Manchuria. His lack of entrenched ties with the Zhangs or Tokyo, military education and bureaucratic experience gained administering (among other projects) the Jingxing Mining Bureau ultimately worked in his favour however when foreign authorities began searching for a candidate to lead an independent Manchuria.\n\nLargely a figurehead for foreign rule and with a questionable legitimacy even among ethnic Manchus, Fu has nonetheless taken on the role with stride. Installed as Chief Executive of Manchuria, he has concentrated his rule through the Manchurian Supreme Administrative Council, working with the local elite to protect the region's autonomy.\n\nThis government inherits a devastated Manchuria, with many of the previous decades investments having been either withdrawn with the Japanese retreat, looted by foreign occupiers, or destroyed in the fighting. Although expected to make some inroads with the old landed and bureaucratic establishment, the decision to create a fully independent Manchurian republic has stung many with lingering Chinese nationalistic sentiments, even among some of the fiercest Dongbei regionalists. The countryside remains embroiled in insurgency as reconstruction work begins.§!
+A New Nation in Dongbei
+Founding the Socialist Party of Manchuria
+Attract Foreign Educated Students
+Developing a Revolutionary Culture
+Create a Central Committee
+Recruit Ex-Guerrilla Leaders
+Three Stage Revolution
+Land to the Tiller
+Promoting Unionisation
+Dawn of the Manchuria Democratic League
+Harmony Among the Five Races
+Ensure the Life and Property of the People
+Empower the Legislative Council
+Rehabilitate the Old Fengtian Administration
+Draft a Republican Constitution
+Guarantee Civil Rights
+Open the Judicial Law College
+Following the Spirit of Meiji
+Promote the Spirit of National Foundation
+Forging the Future by Blood and Steel
+Divorcing from the Illegitimate State
+To secure our state, the Manchurian people must view themselves as Manchurian alone. While it may take decades to eliminate the idea that Manchuria is a part of China, we must initiate the process.
+Trust in the Supreme Administrative Council
+Towards the Corporatist Model
+Safeguarding Manchuria
+Reinforcing Local Militias
+Empowering the Chief Executive
+Youth Protection Corps
+Forging the East Asian Economic Bloc
+Enshrining the Kwantung Army
+Frontline of Pan-Asianism
+Rallying Local Officers
+Courting the Disenfranchised
+Federalising the New State
+The State Socialist Model
+The True Heir of Chinese Civilisation
+The Manchuria Project
+With Manchu domination over China shattered, the Manchu people have been overrun by Han chauvinists. The project of our state is to build a true home for the Manchu people, separate from China, without disregarding the other peoples of the land.
+Industrial Development Commission
+Manchuria is one of the foremost hotbeds of heavy industry in continental East Asia, and our industrial base continues to grow. To manage the growth and the movement of villagers to the cities, we should establish a central commission including business interests.
+Anshan Mines
+Anshan's steel production has risen rapidly but yields from the area's mines have stagnated. With a concerted state effort, we shall alleviate the issue.
+Aluminium Extraction
+Bauxite is abundant in Manchuria but Bauxite mines are few. We should jump start the foundation of Bauxite mines.
+Fushun Mines
+Fushun has ample deposits of coal. We should greatly expand its coal mines and build the rudimentary industries necessary to process it. Further development in the area and throughout our nation will surely follow.
+Yalu and Songhua Hydroelectricity
+The Yalu and Songhua rivers possess modern dams yet lack turbines. These dams should be retrofitted to produce power for their regions.
+National Transportation Commission
+Only for poor planning do many key industries lack sufficient rail connections. With proper planning, such issues would never have arisen. We need a bureaucratic entity for transportation.
+Develop Heilongjiang
+Heilongjiang, the furthest Eastern province of Manchuria bound by the Amur River, is no more developed than the great Siberian wilderness beyond. The first step to reversing the problem is to expand its rail connections and subsidise light industry.
+Jinzhou Industrial Zone
+Jinzhou with its many connections by rail and sea is the perfect site for experimentation in industrial policy. The new Jinzhou industrial zone shall be the basis for increased efficiency in the national bureaucracy.
+The Northeast Breadbasket
+Many scarcer industrial materials are abundant in Manchuria. We should bring them to market.
+Soy Agricultural Initiative
+Soybeans can be planted extremely closely together with only modest watering, bolstering yields. To feed the people, we must promote the cultivation of soy.
+Dyes & Textiles
+The textile industry has kickstarted industrial growth throughout the world. Underdeveloped areas, small towns, and even villages where the trade has traditionally been plied, should be encouraged to focus on the textile industry.
+Fuelling National Mechanisation
+A New Capital for a New Nation
+Buttress the Manchurian Central Bank
+Mobilise Manchurian Industrial Might
+Issue New Currency
+Streamline the Salt Gabelle
+Fund the National Foundation University
+Secure International Legitimacy
+Nationalise Japanese Assets
+Work with the Concordia Association
+The Jewel of the Northeast
+Renewed Mantetsu Profits
+The South Manchuria Railway Company, informally known as Mantetsu, has had a presence in Manchuria since the end of the Russo-Japanese War. Its operations once spanned the region's width, and formed the heart of its once booming industrial economy while also providing more gross revenue for the Japanese Government than the rest of its empire combined.\n\nThe tumultuous circumstances of the past few years has upended what was once a prospering enterprise. Our successful reclamation of Manchuria has allowed us to claw back some of our investment, but it is little more than a shadow of its former glory. Still, we are fortunate to have scavenged what we could, and with some careful investment we can slowly coax back the now reluctant business community to return.
+Restored Mantetsu Influence
+Mantetsu's economic influence once spread across the Manchurian countryside, bringing much need capital and expertise to our resource rich homeland. This partnership was upended by recent turmoil, leaving decades of investment in smouldering ruins. We have worked with our Japanese friends to scavenge what we could, however much of it has been irrevocably lost. Nevertheless, we will make do with what we can, hand in hand we march to tomorrow.
+Reorganise Regional Forces
+Pacify the Countryside
+Bandits have roamed the Manchuria countryside for decades, indeed, Zhang Zuolin was himself a bandit. We must succeed where past governments have failed and protect even the smallest villages from banditry. For this, we will have the people's loyalty.
+Expand the Guard Corps
+The Iron Stone Detachment
+Enlist Mongolian Cavalry
+Form the Public Security Division
+Establish the Central Training School
+Hire Foreign Advisors
+Fund the Automobile Corps
+Reconcile Warlord Officers
+Rebuild Shenyang Arsenal
+Capital Guard Units
+Authorise a River Defence Fleet
+Retain Fengtian Naval Staff
+Manchurian Navy Land Units
+Invest in Sukoda Dockyard
+Expand the Yingkou Port
+Yinkou is the largest port of the Liaodong bay. Its expansion up to this point has been rather haphazard and inefficiency is rampant. We must invest in bringing the port up to modern standards.
+Beyond Gunboats
+Underwater Menace
+Integrating Dalian Naval Infrastructure
+The Shipyards of Vladivostok
+Contest the Seas
+Scavenge Fengtian Air Projects
+Manchurian Aviation Company
+Charter the Manchurian Flying School
+Manchuria Airplane Manufacturing Company
+Import Fighter Designs
+Light Bomber Arm
+Naval Aviation Programme
+Air Defence Programs
+Airborne Infantry
+Madras
+Madrasi
+Madras
+Tamilakam
+Tamil
+Tamilakam
+Tamilakam
+Tamil
+Tamilakam
+Tamilakam
+Tamil
+Tamilakam
+Tamilakam
+Tamil
+Tamilakam
+Tamilakam
+Tamil
+Tamilakam
+Tamilakam
+Tamil
+Tamilakam
+Dravida Nadu
+Dravidian
+Dravida Nadu
+Socialist Party of Tamilakam
+SPTN
+Socialist Party of Tamilakam
+SPTN
+Socialist Party of Tamilakam
+SPTN
+South Indian Liberal Federation (Self Respect Movement)
+Justice (Self Respect)
+Independent Nationalist Party
+Independent Nationalist
+South Indian Liberal Federation
+Justice Party
+South Indian Liberal Federation
+Justice Party
+South Indian Liberal Federation
+Justice Party
+Executive Council of Madras
+Executive Council
+Dravidian Extremists
+Dravidian Extremists
+Periyar Ramasamy
+§YBorn:§! §LSeptember 17th, 1879, in Erode, Presidency of Fort St. George, British India§!
+Paramasiva Subbarayan
+§YBorn:§! §LSeptember 11th, 1889, in Tiruchengode, Presidency of Fort St. George, British India§!
+Ramakrishna Ranga Rao
+§YBorn:§! §LFebruary 20th, 1901, in Bobbili, Presidency of Fort St. George, British India§!
+Kannayiram Subramanian
+§YBorn:§! §LDecember 18th, 1912, in Madras, Presidency of Fort St. George, British India§!

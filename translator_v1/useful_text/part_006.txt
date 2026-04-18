@@ -1,0 +1,3113 @@
+Корсика
+[THIS.Controller.GetStateName_1]
+Корс
+Лацио
+[THIS.Controller.GetStateName_2]
+Лацио
+Швейцарское плато
+[THIS.Controller.GetStateName_3]
+Плато Сюис
+Швайцер Миттельланд
+Альтопиано Свиссеро
+Миттельланд
+Нижняя Австрия
+[THIS.Controller.GetStateName_4]
+Нидерэстеррайх
+Восточная Пруссия
+[THIS.Controller.GetStateName_5]
+Остпройсен
+Прусы
+Каленинград
+Фландрия
+[THIS.Controller.GetStateName_6]
+Вландерен
+Фландр
+Фландерн
+Голландия
+[THIS.Controller.GetStateName_7]
+$VICTORY_POINTS_6583$
+[THIS.Controller.GetStateName_8]
+$VICTORY_POINTS_11542$
+[THIS.Controller.GetStateName_9]
+$VICTORY_POINTS_3544$
+[THIS.Controller.GetStateName_10]
+$VICTORY_POINTS_6296$
+[THIS.Controller.GetStateName_11]
+Аукштайтия
+Ливония
+[THIS.Controller.GetStateName_12]
+Лиивинмаа
+Ливланд
+Видземе
+Видземе
+Лифляндия
+Эстония
+[THIS.Controller.GetStateName_13]
+Харью
+Виро
+Эстланд
+Эстляндия
+Верхняя Бретань
+[THIS.Controller.GetStateName_14]
+Брейз-Уэль
+От-Бретань
+Нормандия
+[THIS.Controller.GetStateName_15]
+Норманди
+Иль-де-Франс
+[THIS.Controller.GetStateName_16]
+Па-де-Кале
+[THIS.Controller.GetStateName_17]
+Нау ван Калес
+Штрасе фон Кален
+Шампань
+[THIS.Controller.GetStateName_18]
+Аквитания
+[THIS.Controller.GetStateName_19]
+Лионне
+[THIS.Controller.GetStateName_20]
+Прованс
+[THIS.Controller.GetStateName_21]
+Лангедок
+[THIS.Controller.GetStateName_22]
+Пуату
+[THIS.Controller.GetStateName_23]
+Пикардия
+[THIS.Controller.GetStateName_24]
+Пикарди
+Лимузен
+[THIS.Controller.GetStateName_25]
+Овернь
+[THIS.Controller.GetStateName_26]
+Бургундия
+[THIS.Controller.GetStateName_27]
+Бургонь
+Эльзас-Лотарингия
+[THIS.Controller.GetStateName_28]
+Эльзас-Лотринген
+$VICTORY_POINTS_575$
+[THIS.Controller.GetStateName_29]
+Мэн
+[THIS.Controller.GetStateName_30]
+Гаронна
+[THIS.Controller.GetStateName_31]
+Рона
+[THIS.Controller.GetStateName_32]
+Орлеане
+[THIS.Controller.GetStateName_33]
+Эно
+[THIS.Controller.GetStateName_34]
+Хенегоуэн
+Хеннегау
+Северный Брабант
+[THIS.Controller.GetStateName_35]
+Ноорд-Брабант
+Нордбрабант
+Фрисландия
+[THIS.Controller.GetStateName_36]
+Фрисланд
+Зеландия
+[THIS.Controller.GetStateName_37]
+Сьелланд
+Норрланд
+[THIS.Controller.GetStateName_38]
+Южный Тироль
+[THIS.Controller.GetStateName_39]
+Зюдтироль
+Альто Адидже
+$VICTORY_POINTS_1794$
+[THIS.Controller.GetStateName_40]
+$VICTORY_POINTS_3938$
+[THIS.Controller.GetStateName_41]
+Пфальц
+[THIS.Controller.GetStateName_42]
+Палатина Ренан
+Пфальц
+Центральная Венгрия
+[THIS.Controller.GetStateName_43]
+Миттельунгарн
+Кёзеп-Мадьярорсаг
+Тоскерия
+[THIS.Controller.GetStateName_44]
+Тоскерия
+Албания Меридионале
+Воеводина
+[THIS.Controller.GetStateName_45]
+Бачка
+Вайдашаг
+Бачка
+Мунтения
+[THIS.Controller.GetStateName_46]
+Центральная Греция
+[THIS.Controller.GetStateName_47]
+Стереа Элада
+$VICTORY_POINTS_949$
+[THIS.Controller.GetStateName_48]
+$VICTORY_POINTS_11747$
+[THIS.Controller.GetStateName_49]
+Вюртемберг
+[THIS.Controller.GetStateName_50]
+Восточный Рейнланд
+[THIS.Controller.GetStateName_51]
+Остайнланд
+Верхняя Бавария
+[THIS.Controller.GetStateName_52]
+Обербайерн
+Нижняя Бавария
+[THIS.Controller.GetStateName_53]
+Нидербайерн
+Франкония
+[THIS.Controller.GetStateName_54]
+Франкен
+Гессен
+[THIS.Controller.GetStateName_55]
+Хессен
+$VICTORY_POINTS_11360$
+[THIS.Controller.GetStateName_56]
+Вестфалия
+[THIS.Controller.GetStateName_57]
+Вестфален
+Шлезвиг-Гольштейн
+[THIS.Controller.GetStateName_58]
+Слесвиг-Хольстен
+$VICTORY_POINTS_6377$
+[THIS.Controller.GetStateName_59]
+Тюрингия
+[THIS.Controller.GetStateName_60]
+Тюринген
+Мекленбург
+[THIS.Controller.GetStateName_61]
+Передняя Померания
+[THIS.Controller.GetStateName_62]
+Форпоммерн
+Задняя Померания
+[THIS.Controller.GetStateName_63]
+Хинтерпоммерн
+Поможе Тыльне
+Бранденбург
+[THIS.Controller.GetStateName_64]
+Саксония
+[THIS.Controller.GetStateName_65]
+Заксен
+Нижняя Силезия
+[THIS.Controller.GetStateName_66]
+Нидершлезиен
+Дольны Слёнск
+Верхняя Силезия
+[THIS.Controller.GetStateName_67]
+Обершлезиен
+Гурны Слёнск
+Ноймарк
+[THIS.Controller.GetStateName_68]
+Земля Любушская
+$VICTORY_POINTS_11401$
+[THIS.Controller.GetStateName_69]
+Словакия
+[THIS.Controller.GetStateName_70]
+Словенско
+Словакей
+Фельвидек
+Словация
+Дунайская равнина
+[THIS.Controller.GetStateName_71]
+Подунайская ровина
+Донауэбене
+Дуна Менти Альфёльд
+Низина Наддунайская
+Верхний Шан
+[THIS.Controller.GetStateName_72]
+Анья Храм Пранынай
+Дунчжи
+Таунгьи
+Моенг Тай
+Интанакхон
+Закарпатье
+[THIS.Controller.GetStateName_73]
+Подкарпатско
+Зубкарпатиен
+Марамарош
+Закарпатье
+Закарпатье
+Закарпатье
+Чешская Силезия
+[THIS.Controller.GetStateName_74]
+Ческе Слезско
+Троппау
+Слёнск Чески
+Моравия
+[THIS.Controller.GetStateName_75]
+Морава
+Мерен
+Моравы
+$VICTORY_POINTS_6711$
+[THIS.Controller.GetStateName_76]
+Комитатсбоден
+Ардярул де Норд
+Силистрия
+[THIS.Controller.GetStateName_77]
+Силистра
+Кадрилатер
+Бессарабия
+[THIS.Controller.GetStateName_78]
+Басарабия
+Молдавия
+[THIS.Controller.GetStateName_79]
+Молдова
+$VICTORY_POINTS_9548$
+[THIS.Controller.GetStateName_80]
+Олтения
+[THIS.Controller.GetStateName_81]
+Банат
+[THIS.Controller.GetStateName_82]
+Баншаг
+Партиум
+[THIS.Controller.GetStateName_83]
+Крайшгебит
+Кёрёшвидек
+Кришана
+$VICTORY_POINTS_3676$
+[THIS.Controller.GetStateName_84]
+Басутоленд
+[THIS.Controller.GetStateName_85]
+Лесото
+$VICTORY_POINTS_6558$
+[THIS.Controller.GetStateName_86]
+Велькопольска
+$VICTORY_POINTS_9546$
+[THIS.Controller.GetStateName_87]
+$VICTORY_POINTS_9427$
+[THIS.Controller.GetStateName_88]
+$VICTORY_POINTS_11411$
+[THIS.Controller.GetStateName_89]
+$VICTORY_POINTS_6416$
+[THIS.Controller.GetStateName_90]
+$VICTORY_POINTS_11479$
+[THIS.Controller.GetStateName_91]
+$VICTORY_POINTS_3559$
+[THIS.Controller.GetStateName_92]
+Брест
+[THIS.Controller.GetStateName_93]
+$VICTORY_POINTS_13736$
+[THIS.Controller.GetStateName_94]
+$VICTORY_POINTS_560$
+[THIS.Controller.GetStateName_95]
+$VICTORY_POINTS_3320$
+[THIS.Controller.GetStateName_96]
+$VICTORY_POINTS_11301$
+[THIS.Controller.GetStateName_97]
+$VICTORY_POINTS_6259$
+[THIS.Controller.GetStateName_98]
+Ютландия
+[THIS.Controller.GetStateName_99]
+Юлланн
+Исландия
+[THIS.Controller.GetStateName_100]
+Исланд
+Гренландия
+[THIS.Controller.GetStateName_101]
+Грёнланд
+Крайна
+[THIS.Controller.GetStateName_102]
+Крайн
+Краньска
+$VICTORY_POINTS_11564$
+[THIS.Controller.GetStateName_103]
+Карнаро
+Босния
+[THIS.Controller.GetStateName_104]
+Босниен
+Босна
+Черногория
+[THIS.Controller.GetStateName_105]
+Црна Гора
+Македония
+[THIS.Controller.GetStateName_106]
+Македония
+Македония
+Македония
+$VICTORY_POINTS_11586$
+[THIS.Controller.GetStateName_107]
+$VICTORY_POINTS_3939$
+[THIS.Controller.GetStateName_108]
+Центральная Хорватия
+[THIS.Controller.GetStateName_109]
+Централькроатиен
+Кёзеп-Хорваторсаг
+Средишнья Хрватска
+Эстландет
+[THIS.Controller.GetStateName_110]
+Тавастия
+[THIS.Controller.GetStateName_111]
+Хяме
+Таммерфорс
+Тавастланд
+$VICTORY_POINTS_11805$
+[THIS.Controller.GetStateName_112]
+Лейнстер
+[THIS.Controller.GetStateName_113]
+Лайгин
+Сардиния
+[THIS.Controller.GetStateName_114]
+Сарденья
+Сицилия
+[THIS.Controller.GetStateName_115]
+Сичилия
+Мальта
+[THIS.Controller.GetStateName_116]
+Мальт
+Кампания
+[THIS.Controller.GetStateName_117]
+$VICTORY_POINTS_4135$
+[THIS.Controller.GetStateName_118]
+Северная Ирландия
+[THIS.Controller.GetStateName_119]
+Туайскерт Эйренн
+Шотландское нагорье
+[THIS.Controller.GetStateName_120]
+Гарвхриха на Халбан
+Хайлендс
+Лотиан
+[THIS.Controller.GetStateName_121]
+Лоуден
+Южный Уэльс
+[THIS.Controller.GetStateName_122]
+Де Кимру
+Корнуолл
+[THIS.Controller.GetStateName_123]
+Керноу
+Готланд
+[THIS.Controller.GetStateName_124]
+Восточная Англия
+[THIS.Controller.GetStateName_125]
+Большой Лондон
+[THIS.Controller.GetStateName_126]
+Домашние провинции
+[THIS.Controller.GetStateName_127]
+Уэст-Мидлендс
+[THIS.Controller.GetStateName_128]
+Ист-Мидлендс
+[THIS.Controller.GetStateName_129]
+Йоркшир
+[THIS.Controller.GetStateName_130]
+Нортумбрия
+[THIS.Controller.GetStateName_131]
+Солфордшир
+[THIS.Controller.GetStateName_132]
+Стратклайд
+[THIS.Controller.GetStateName_133]
+Коннахт
+[THIS.Controller.GetStateName_134]
+Мюнстер
+[THIS.Controller.GetStateName_135]
+Ан Мумайн
+Грампиан
+[THIS.Controller.GetStateName_136]
+Роинн а' Моней
+Крым
+[THIS.Controller.GetStateName_137]
+Крым
+Сконеланд
+[THIS.Controller.GetStateName_138]
+Сконеландене
+Смоланд
+[THIS.Controller.GetStateName_139]
+Вестергётланд
+[THIS.Controller.GetStateName_140]
+Свеаланд
+[THIS.Controller.GetStateName_141]
+Вестландет
+[THIS.Controller.GetStateName_142]
+Трёнделаг
+[THIS.Controller.GetStateName_143]
+Нурланн и Тромс
+[THIS.Controller.GetStateName_144]
+Нурланд я Тромсса
+Нурланд ог Тромс
+Аланд
+[THIS.Controller.GetStateName_145]
+Аландские Острова
+Карелия
+[THIS.Controller.GetStateName_146]
+Карьяла
+Карелия
+Карелен
+Прусская Саксония
+[THIS.Controller.GetStateName_147]
+Пройсиш Заксен
+$VICTORY_POINTS_11125$
+[THIS.Controller.GetStateName_148]
+Остроботния
+[THIS.Controller.GetStateName_149]
+Похьянмаа
+Остроботния
+Эстерботтен
+Луизиана
+[THIS.Controller.GetStateName_150]
+Восточная Швейцария
+[THIS.Controller.GetStateName_151]
+Сюис Ориенталь
+Остшвайц
+Свиссера Ориентале
+Верхняя Австрия
+[THIS.Controller.GetStateName_152]
+Оберэстеррайх
+Северный Тироль
+[THIS.Controller.GetStateName_153]
+Нордтироль
+Альфёльд
+[THIS.Controller.GetStateName_154]
+Транстизиен
+Кымпия Унгара
+Трансдунайская область
+[THIS.Controller.GetStateName_155]
+Трансдунабиен
+Дунантуль
+Калабрия
+[THIS.Controller.GetStateName_156]
+Марке
+[THIS.Controller.GetStateName_157]
+Марке
+Пьемонт
+[THIS.Controller.GetStateName_158]
+Пьемонте
+Ломбардия
+[THIS.Controller.GetStateName_159]
+Ломбардия
+Венето
+[THIS.Controller.GetStateName_160]
+Венето
+Романья
+[THIS.Controller.GetStateName_161]
+Тоскана
+[THIS.Controller.GetStateName_162]
+Тоскана
+Далмация
+[THIS.Controller.GetStateName_163]
+Дальматиен
+Дальмация
+Дальмация
+Додеканес
+[THIS.Controller.GetStateName_164]
+Додеканиса
+Ментеше Адалари
+Каталония
+[THIS.Controller.GetStateName_165]
+Каталунья
+Каталонь
+Каталунья
+Верхний Арагон
+[THIS.Controller.GetStateName_166]
+Альто Арагон
+$VICTORY_POINTS_6906$
+[THIS.Controller.GetStateName_167]
+Мурсия
+[THIS.Controller.GetStateName_168]
+$VICTORY_POINTS_7183$
+[THIS.Controller.GetStateName_169]
+Эстремадура
+[THIS.Controller.GetStateName_170]
+Галисия
+[THIS.Controller.GetStateName_171]
+Галиса
+Наварра
+[THIS.Controller.GetStateName_172]
+Нафарроа
+Наварра
+$VICTORY_POINTS_9979$
+[THIS.Controller.GetStateName_173]
+$VICTORY_POINTS_12738$
+[THIS.Controller.GetStateName_174]
+$VICTORY_POINTS_6832$
+[THIS.Controller.GetStateName_175]
+$VICTORY_POINTS_885$
+[THIS.Controller.GetStateName_176]
+Балеарские острова
+[THIS.Controller.GetStateName_177]
+Ильес Балеарс
+Ислас Балеарес
+Канарские острова
+[THIS.Controller.GetStateName_178]
+Ислас Канариас
+$VICTORY_POINTS_6933$
+[THIS.Controller.GetStateName_179]
+$VICTORY_POINTS_9817$
+[THIS.Controller.GetStateName_180]
+$VICTORY_POINTS_6996$
+[THIS.Controller.GetStateName_181]
+Крит
+[THIS.Controller.GetStateName_182]
+Крета
+Крити
+Крета
+Гирит
+Кипр
+[THIS.Controller.GetStateName_183]
+Зиперн
+Кипрос
+Чипро
+Кибрис
+$VICTORY_POINTS_11774$
+[THIS.Controller.GetStateName_184]
+Эпир
+[THIS.Controller.GetStateName_185]
+Чамёрия
+Ипирос
+Пелопоннес
+[THIS.Controller.GetStateName_186]
+Пелопоннисос
+Эгейские острова
+[THIS.Controller.GetStateName_187]
+Нисиа Эгеу
+Эге Адалари
+$VICTORY_POINTS_3288$
+[THIS.Controller.GetStateName_188]
+Жемайтия
+[THIS.Controller.GetStateName_189]
+Самогитиен
+Жемайтия
+Жмудзь
+Жемайтия
+Курляндия
+[THIS.Controller.GetStateName_190]
+Кууринмаа
+Курланд
+Курземе
+Куршас
+Курляндия
+Северная Ливония
+[THIS.Controller.GetStateName_191]
+Тарту
+Тартто
+Нордливланд
+Юрьев
+$VICTORY_POINTS_11670$
+[THIS.Controller.GetStateName_192]
+$VICTORY_POINTS_3568$
+[THIS.Controller.GetStateName_193]
+$VICTORY_POINTS_6232$
+[THIS.Controller.GetStateName_194]
+$VICTORY_POINTS_6174$
+[THIS.Controller.GetStateName_195]
+Инкеринмаа
+Ингерманланд
+Таврида
+[THIS.Controller.GetStateName_196]
+Таврия
+Таврида
+$VICTORY_POINTS_3755$
+[THIS.Controller.GetStateName_197]
+$VICTORY_POINTS_9481$
+[THIS.Controller.GetStateName_198]
+$VICTORY_POINTS_3457$
+[THIS.Controller.GetStateName_199]
+$VICTORY_POINTS_11405$
+[THIS.Controller.GetStateName_200]
+$VICTORY_POINTS_11514$
+[THIS.Controller.GetStateName_201]
+$VICTORY_POINTS_525$
+[THIS.Controller.GetStateName_202]
+$VICTORY_POINTS_488$
+[THIS.Controller.GetStateName_203]
+$VICTORY_POINTS_9359$
+[THIS.Controller.GetStateName_204]
+$VICTORY_POINTS_382$
+[THIS.Controller.GetStateName_205]
+$VICTORY_POINTS_11370$
+[THIS.Controller.GetStateName_206]
+$VICTORY_POINTS_233$
+[THIS.Controller.GetStateName_207]
+$VICTORY_POINTS_9098$
+[THIS.Controller.GetStateName_208]
+$VICTORY_POINTS_11202$
+[THIS.Controller.GetStateName_209]
+$VICTORY_POINTS_11234$
+[THIS.Controller.GetStateName_210]
+$VICTORY_POINTS_9919$
+[THIS.Controller.GetStateName_211]
+$VICTORY_POINTS_6923$
+[THIS.Controller.GetStateName_212]
+$VICTORY_POINTS_3134$
+[THIS.Controller.GetStateName_213]
+$VICTORY_POINTS_3338$
+[THIS.Controller.GetStateName_214]
+Белая Карелия
+[THIS.Controller.GetStateName_215]
+Виенан Карьяла
+Белая Карелия
+Олонец
+[THIS.Controller.GetStateName_216]
+Аунус
+$VICTORY_POINTS_3529$
+[THIS.Controller.GetStateName_217]
+$VICTORY_POINTS_9417$
+[THIS.Controller.GetStateName_218]
+$VICTORY_POINTS_6380$
+[THIS.Controller.GetStateName_219]
+$VICTORY_POINTS_3580$
+[THIS.Controller.GetStateName_220]
+$VICTORY_POINTS_418$
+[THIS.Controller.GetStateName_221]
+$VICTORY_POINTS_9355$
+[THIS.Controller.GetStateName_222]
+$VICTORY_POINTS_6262$
+[THIS.Controller.GetStateName_223]
+$VICTORY_POINTS_3335$
+[THIS.Controller.GetStateName_224]
+$VICTORY_POINTS_11462$
+[THIS.Controller.GetStateName_225]
+$VICTORY_POINTS_11437$
+[THIS.Controller.GetStateName_226]
+$VICTORY_POINTS_6474$
+[THIS.Controller.GetStateName_227]
+$VICTORY_POINTS_523$
+[THIS.Controller.GetStateName_228]
+Азербайджан
+[THIS.Controller.GetStateName_229]
+Азербайджан
+Азарбайджан
+Азербайджан
+$VICTORY_POINTS_12320$
+[THIS.Controller.GetStateName_230]
+Грузия
+[THIS.Controller.GetStateName_231]
+Сакартвело
+Грузия
+Дагестан
+[THIS.Controller.GetStateName_232]
+Дагъыстан
+$VICTORY_POINTS_9628$
+[THIS.Controller.GetStateName_233]
+$VICTORY_POINTS_3734$
+[THIS.Controller.GetStateName_234]
+$VICTORY_POINTS_748$
+[THIS.Controller.GetStateName_235]
+$VICTORY_POINTS_9753$
+[THIS.Controller.GetStateName_236]
+$VICTORY_POINTS_6794$
+[THIS.Controller.GetStateName_237]
+$VICTORY_POINTS_3417$
+[THIS.Controller.GetStateName_238]
+$VICTORY_POINTS_3578$
+[THIS.Controller.GetStateName_239]
+$VICTORY_POINTS_9449$
+[THIS.Controller.GetStateName_240]
+$VICTORY_POINTS_9288$
+[THIS.Controller.GetStateName_241]
+$VICTORY_POINTS_306$
+[THIS.Controller.GetStateName_242]
+$VICTORY_POINTS_9247$
+[THIS.Controller.GetStateName_243]
+$VICTORY_POINTS_9164$
+[THIS.Controller.GetStateName_244]
+$VICTORY_POINTS_11476$
+[THIS.Controller.GetStateName_245]
+$VICTORY_POINTS_11349$
+[THIS.Controller.GetStateName_246]
+$VICTORY_POINTS_3215$
+[THIS.Controller.GetStateName_247]
+$VICTORY_POINTS_121$
+[THIS.Controller.GetStateName_248]
+$VICTORY_POINTS_6338$
+[THIS.Controller.GetStateName_249]
+$VICTORY_POINTS_392$
+[THIS.Controller.GetStateName_250]
+$VICTORY_POINTS_11225$
+[THIS.Controller.GetStateName_251]
+$VICTORY_POINTS_11375$
+[THIS.Controller.GetStateName_252]
+$VICTORY_POINTS_378$
+[THIS.Controller.GetStateName_253]
+$VICTORY_POINTS_11248$
+[THIS.Controller.GetStateName_254]
+$VICTORY_POINTS_9258$
+[THIS.Controller.GetStateName_255]
+$VICTORY_POINTS_9259$
+[THIS.Controller.GetStateName_256]
+$VICTORY_POINTS_11381$
+[THIS.Controller.GetStateName_257]
+$VICTORY_POINTS_3346$
+[THIS.Controller.GetStateName_258]
+$VICTORY_POINTS_511$
+[THIS.Controller.GetStateName_259]
+$VICTORY_POINTS_413$
+[THIS.Controller.GetStateName_260]
+Огайо
+[THIS.Controller.GetStateName_261]
+Печора
+[THIS.Controller.GetStateName_262]
+$VICTORY_POINTS_117$
+[THIS.Controller.GetStateName_263]
+$VICTORY_POINTS_3140$
+[THIS.Controller.GetStateName_264]
+$VICTORY_POINTS_6506$
+[THIS.Controller.GetStateName_265]
+$VICTORY_POINTS_10837$
+[THIS.Controller.GetStateName_266]
+$VICTORY_POINTS_10737$
+[THIS.Controller.GetStateName_267]
+$VICTORY_POINTS_8124$
+[THIS.Controller.GetStateName_268]
+$VICTORY_POINTS_5068$
+[THIS.Controller.GetStateName_269]
+Остров Пасхи
+[THIS.Controller.GetStateName_270]
+Исла де Паскуа
+Шева
+[THIS.Controller.GetStateName_271]
+Шиоа
+Сенегал
+[THIS.Controller.GetStateName_272]
+Сенегаль
+Феццан
+[THIS.Controller.GetStateName_273]
+Фаззан
+Физан
+Золотой Берег
+[THIS.Controller.GetStateName_274]
+Кот-де-л'Ор
+Гольдкюсте
+Трансвааль
+[THIS.Controller.GetStateName_275]
+Южный Онтарио
+[THIS.Controller.GetStateName_276]
+Мехико
+[THIS.Controller.GetStateName_277]
+Мехико
+$VICTORY_POINTS_12364$
+[THIS.Controller.GetStateName_278]
+$VICTORY_POINTS_650$
+[THIS.Controller.GetStateName_279]
+Мату-Гросу
+[THIS.Controller.GetStateName_280]
+Мальдивы
+[THIS.Controller.GetStateName_281]
+Мальдивен
+Марудибу Шото
+$VICTORY_POINTS_1182$
+[THIS.Controller.GetStateName_282]
+$VICTORY_POINTS_1630$
+[THIS.Controller.GetStateName_283]
+Северный остров
+[THIS.Controller.GetStateName_284]
+Новый Южный Уэльс
+[THIS.Controller.GetStateName_285]
+Кохинхина
+[THIS.Controller.GetStateName_286]
+Прей Нокор
+Прайнакхон
+Сай Гон
+$VICTORY_POINTS_13390$
+[THIS.Controller.GetStateName_287]
+$VICTORY_POINTS_1330$
+[THIS.Controller.GetStateName_288]
+Сиам
+[THIS.Controller.GetStateName_289]
+Пак Гланг
+Риф
+[THIS.Controller.GetStateName_290]
+Ар Риф
+Эль Риф
+$VICTORY_POINTS_2097$
+[THIS.Controller.GetStateName_291]
+Джебаль Тувейк
+[THIS.Controller.GetStateName_292]
+Джабаль Тувейк
+Джебел Тувейк
+Йемен
+[THIS.Controller.GetStateName_293]
+Аль Яман
+$VICTORY_POINTS_10760$
+[THIS.Controller.GetStateName_294]
+$VICTORY_POINTS_5117$
+[THIS.Controller.GetStateName_295]
+$VICTORY_POINTS_12891$
+[THIS.Controller.GetStateName_296]
+Рио-Муни
+[THIS.Controller.GetStateName_297]
+Либерия
+[THIS.Controller.GetStateName_298]
+Либерия
+Пфефферкюсте
+Фолклендские острова
+[THIS.Controller.GetStateName_299]
+Ислас Мальвинас
+Уругвай
+[THIS.Controller.GetStateName_300]
+Цисплатина
+Уругуай
+Парагвай
+[THIS.Controller.GetStateName_301]
+Парагуай
+$VICTORY_POINTS_13469$
+[THIS.Controller.GetStateName_302]
+$VICTORY_POINTS_12997$
+[THIS.Controller.GetStateName_303]
+Панама
+[THIS.Controller.GetStateName_304]
+Панама
+$VICTORY_POINTS_12798$
+[THIS.Controller.GetStateName_305]
+Кундинамарка
+[THIS.Controller.GetStateName_306]
+Льянос
+[THIS.Controller.GetStateName_307]
+Подветренные острова
+[THIS.Controller.GetStateName_308]
+$VICTORY_POINTS_10906$
+[THIS.Controller.GetStateName_309]
+$VICTORY_POINTS_12885$
+[THIS.Controller.GetStateName_310]
+$VICTORY_POINTS_2077$
+[THIS.Controller.GetStateName_311]
+Гондурас
+[THIS.Controller.GetStateName_312]
+Гватемала
+[THIS.Controller.GetStateName_313]
+Сальвадор
+[THIS.Controller.GetStateName_314]
+$VICTORY_POINTS_7622$
+[THIS.Controller.GetStateName_315]
+Коста-Рика
+[THIS.Controller.GetStateName_316]
+$VICTORY_POINTS_13437$
+[THIS.Controller.GetStateName_317]
+Гаити
+[THIS.Controller.GetStateName_318]
+Аити
+$VICTORY_POINTS_7660$
+[THIS.Controller.GetStateName_319]
+$VICTORY_POINTS_10278$
+[THIS.Controller.GetStateName_320]
+$VICTORY_POINTS_1273$
+[THIS.Controller.GetStateName_321]
+$VICTORY_POINTS_5033$
+[THIS.Controller.GetStateName_322]
+Непал
+[THIS.Controller.GetStateName_323]
+Непала
+Бутан
+[THIS.Controller.GetStateName_324]
+Друк Юл
+Будан
+Жугьюл
+Бхутан
+$VICTORY_POINTS_1319$
+[THIS.Controller.GetStateName_325]
+$VICTORY_POINTS_10062$
+[THIS.Controller.GetStateName_326]
+Центральный Лусон
+[THIS.Controller.GetStateName_327]
+Мидден-Лусон
+Гитнанг Лусон
+Миттельлусон
+Лусон Тенга
+Лусон Сентраль
+$VICTORY_POINTS_6981$
+[THIS.Controller.GetStateName_328]
+Тува
+[THIS.Controller.GetStateName_329]
+Урянхай
+Урянхай
+$VICTORY_POINTS_4801$
+[THIS.Controller.GetStateName_330]
+Ньюфаундленд
+[THIS.Controller.GetStateName_331]
+Унгава
+[THIS.Controller.GetStateName_332]
+Северный Борнео
+[THIS.Controller.GetStateName_333]
+Ноорд-Калимантан
+Нордборнео
+Саравак
+Внутренний Борнео
+[THIS.Controller.GetStateName_334]
+Биннен-Борнео
+Иннерес Борнео
+Калимантан Далам
+Западная и Центральная Ява
+[THIS.Controller.GetStateName_335]
+Вест- эн Мидден-Ява
+Ява
+Ява
+$VICTORY_POINTS_12299$
+[THIS.Controller.GetStateName_336]
+Фарерские острова
+[THIS.Controller.GetStateName_337]
+Ферёерне
+Ферёйене
+Эйвон
+[THIS.Controller.GetStateName_338]
+$VICTORY_POINTS_4112$
+[THIS.Controller.GetStateName_339]
+$VICTORY_POINTS_947$
+[THIS.Controller.GetStateName_340]
+$VICTORY_POINTS_11842$
+[THIS.Controller.GetStateName_341]
+$VICTORY_POINTS_11917$
+[THIS.Controller.GetStateName_342]
+Мармарис
+Афьон
+[THIS.Controller.GetStateName_343]
+Дорилеон
+$VICTORY_POINTS_11746$
+[THIS.Controller.GetStateName_344]
+$VICTORY_POINTS_3903$
+[THIS.Controller.GetStateName_345]
+$VICTORY_POINTS_940$
+[THIS.Controller.GetStateName_346]
+$VICTORY_POINTS_7960$
+[THIS.Controller.GetStateName_347]
+Алашань
+[THIS.Controller.GetStateName_348]
+Алшаа
+Алашань
+$VICTORY_POINTS_8123$
+[THIS.Controller.GetStateName_349]
+$VICTORY_POINTS_4512$
+[THIS.Controller.GetStateName_350]
+$VICTORY_POINTS_9131$
+[THIS.Controller.GetStateName_351]
+$VICTORY_POINTS_6935$
+[THIS.Controller.GetStateName_352]
+$VICTORY_POINTS_4964$
+[THIS.Controller.GetStateName_353]
+Гьегумдо
+$VICTORY_POINTS_11853$
+[THIS.Controller.GetStateName_354]
+$VICTORY_POINTS_9932$
+[THIS.Controller.GetStateName_355]
+Понтос
+$VICTORY_POINTS_11881$
+$VICTORY_POINTS_6938$
+[THIS.Controller.GetStateName_356]
+Мэн
+[THIS.Controller.GetStateName_357]
+$VICTORY_POINTS_3878$
+[THIS.Controller.GetStateName_358]
+Нью-Джерси
+[THIS.Controller.GetStateName_359]
+$VICTORY_POINTS_6845$
+[THIS.Controller.GetStateName_360]
+Мэриленд
+[THIS.Controller.GetStateName_361]
+Вирджиния
+[THIS.Controller.GetStateName_362]
+Северная Каролина
+[THIS.Controller.GetStateName_363]
+Южная Каролина
+[THIS.Controller.GetStateName_364]
+Джорджия
+[THIS.Controller.GetStateName_365]
+Флорида
+[THIS.Controller.GetStateName_366]
+Алабама
+[THIS.Controller.GetStateName_367]
+Теннесси
+[THIS.Controller.GetStateName_368]
+Кентукки
+[THIS.Controller.GetStateName_369]
+Миссисипи
+[THIS.Controller.GetStateName_370]
+$VICTORY_POINTS_7552$
+[THIS.Controller.GetStateName_371]
+Арканзас
+[THIS.Controller.GetStateName_372]
+Миссури
+[THIS.Controller.GetStateName_373]
+Оклахома
+[THIS.Controller.GetStateName_374]
+Северный Техас
+[THIS.Controller.GetStateName_375]
+Норте де Техас
+Нью-Мексико
+[THIS.Controller.GetStateName_376]
+Нуэво Мехико
+Аризона
+[THIS.Controller.GetStateName_377]
+Северная Калифорния
+[THIS.Controller.GetStateName_378]
+Альта Калифорния
+Невада
+[THIS.Controller.GetStateName_379]
+Юта
+[THIS.Controller.GetStateName_380]
+Вайоминг
+[THIS.Controller.GetStateName_381]
+Колорадо
+[THIS.Controller.GetStateName_382]
+Канзас
+[THIS.Controller.GetStateName_383]
+Небраска
+[THIS.Controller.GetStateName_384]
+Орегон
+[THIS.Controller.GetStateName_385]
+Вашингтон
+[THIS.Controller.GetStateName_386]
+Айдахо
+[THIS.Controller.GetStateName_387]
+Монтана
+[THIS.Controller.GetStateName_388]
+Северная Дакота
+[THIS.Controller.GetStateName_389]
+Южная Дакота
+[THIS.Controller.GetStateName_390]
+Миннесота
+[THIS.Controller.GetStateName_391]
+Айова
+[THIS.Controller.GetStateName_392]
+Мичиган
+[THIS.Controller.GetStateName_393]
+Висконсин
+[THIS.Controller.GetStateName_394]
+Иллинойс
+[THIS.Controller.GetStateName_395]
+Индиана
+[THIS.Controller.GetStateName_396]
+$VICTORY_POINTS_6121$
+[THIS.Controller.GetStateName_397]
+$VICTORY_POINTS_7375$
+[THIS.Controller.GetStateName_398]
+$VICTORY_POINTS_6217$
+[THIS.Controller.GetStateName_399]
+$VICTORY_POINTS_6124$
+[THIS.Controller.GetStateName_400]
+$VICTORY_POINTS_11523$
+[THIS.Controller.GetStateName_401]
+$VICTORY_POINTS_10164$
+[THIS.Controller.GetStateName_402]
+$VICTORY_POINTS_1387$
+[THIS.Controller.GetStateName_403]
+$VICTORY_POINTS_4250$
+[THIS.Controller.GetStateName_404]
+Киргизская Степь
+$VICTORY_POINTS_9605$
+[THIS.Controller.GetStateName_405]
+$VICTORY_POINTS_11455$
+[THIS.Controller.GetStateName_406]
+$VICTORY_POINTS_1459$
+[THIS.Controller.GetStateName_407]
+$VICTORY_POINTS_957$
+[THIS.Controller.GetStateName_408]
+$VICTORY_POINTS_12189$
+[THIS.Controller.GetStateName_409]
+Систан
+[THIS.Controller.GetStateName_410]
+Систан
+$VICTORY_POINTS_2026$
+[THIS.Controller.GetStateName_411]
+Фарс
+[THIS.Controller.GetStateName_412]
+Фарс
+Бет Парсайе
+Хузестан
+[THIS.Controller.GetStateName_413]
+Хузистан
+Хузестан
+Бет Хузайе
+Хузистан
+$VICTORY_POINTS_10913$
+[THIS.Controller.GetStateName_414]
+$VICTORY_POINTS_4893$
+[THIS.Controller.GetStateName_415]
+Хорасан
+[THIS.Controller.GetStateName_416]
+Хорасан
+$VICTORY_POINTS_7604$
+[THIS.Controller.GetStateName_417]
+$VICTORY_POINTS_12333$
+[THIS.Controller.GetStateName_418]
+$VICTORY_POINTS_1896$
+[THIS.Controller.GetStateName_419]
+Мазендеран
+[THIS.Controller.GetStateName_420]
+Мазендеран
+$VICTORY_POINTS_12773$
+[THIS.Controller.GetStateName_421]
+$VICTORY_POINTS_7260$
+[THIS.Controller.GetStateName_422]
+$VICTORY_POINTS_1409$
+[THIS.Controller.GetStateName_423]
+Андхра
+[THIS.Controller.GetStateName_424]
+Андхра
+$VICTORY_POINTS_4344$
+[THIS.Controller.GetStateName_425]
+Орисса
+[THIS.Controller.GetStateName_426]
+Ориша
+$VICTORY_POINTS_8087$
+[THIS.Controller.GetStateName_427]
+Гуджарат
+[THIS.Controller.GetStateName_428]
+Гуджрат
+$VICTORY_POINTS_1349$
+[THIS.Controller.GetStateName_429]
+Восточная Бенгалия
+[THIS.Controller.GetStateName_430]
+Пурви Бангал
+Западная Бенгалия
+[THIS.Controller.GetStateName_431]
+Пашчим Бангал
+Ассам
+[THIS.Controller.GetStateName_432]
+Асам
+Раджпутана
+[THIS.Controller.GetStateName_433]
+Манипур
+[THIS.Controller.GetStateName_434]
+Бихар
+[THIS.Controller.GetStateName_435]
+Бихар
+$VICTORY_POINTS_10401$
+[THIS.Controller.GetStateName_436]
+Центральные провинции
+[THIS.Controller.GetStateName_437]
+Мадхья Прат
+Аудх
+[THIS.Controller.GetStateName_438]
+Авадх
+$VICTORY_POINTS_2086$
+[THIS.Controller.GetStateName_439]
+Восточный Пенджаб
+[THIS.Controller.GetStateName_440]
+Пурви Панджаб
+Кашмир
+[THIS.Controller.GetStateName_441]
+Кашмир
+$VICTORY_POINTS_12717$
+[THIS.Controller.GetStateName_442]
+Синд
+[THIS.Controller.GetStateName_443]
+Белуджистан
+[THIS.Controller.GetStateName_444]
+Балучистан
+$VICTORY_POINTS_5105$
+[THIS.Controller.GetStateName_445]
+$VICTORY_POINTS_7011$
+[THIS.Controller.GetStateName_446]
+$VICTORY_POINTS_4076$
+[THIS.Controller.GetStateName_447]
+$VICTORY_POINTS_1149$
+[THIS.Controller.GetStateName_448]
+Триполитания
+Траблусгарп
+Ла-Пампа
+[THIS.Controller.GetStateName_449]
+$VICTORY_POINTS_11954$
+[THIS.Controller.GetStateName_450]
+$VICTORY_POINTS_1127$
+[THIS.Controller.GetStateName_451]
+Ливийское плато
+[THIS.Controller.GetStateName_452]
+Ад-Диффа
+Либья Яйласы
+Синай
+[THIS.Controller.GetStateName_453]
+Сина
+Сина
+$VICTORY_POINTS_1086$
+[THIS.Controller.GetStateName_454]
+Карак
+[THIS.Controller.GetStateName_455]
+Аль Карак
+Карка
+Керек
+$VICTORY_POINTS_11999$
+[THIS.Controller.GetStateName_456]
+Восточная пустыня
+[THIS.Controller.GetStateName_457]
+Сахра аш-Шаркия
+Догу Чёлю
+$VICTORY_POINTS_11969$
+[THIS.Controller.GetStateName_458]
+$VICTORY_POINTS_1145$
+[THIS.Controller.GetStateName_459]
+$VICTORY_POINTS_12051$
+[THIS.Controller.GetStateName_460]
+Центральное Марокко
+[THIS.Controller.GetStateName_461]
+Л-Васат Л-Магриби
+Юго-Западное Марокко
+[THIS.Controller.GetStateName_462]
+Сусс ва-ль-Хауз
+Аляска
+[THIS.Controller.GetStateName_463]
+Арасука
+Аляска
+Новая Шотландия
+[THIS.Controller.GetStateName_464]
+Нью-Брансуик
+[THIS.Controller.GetStateName_465]
+Сагеней
+[THIS.Controller.GetStateName_466]
+Манитоба
+[THIS.Controller.GetStateName_467]
+Святого Лаврентия
+[THIS.Controller.GetStateName_468]
+Сен-Лоран
+Саскачеван
+[THIS.Controller.GetStateName_469]
+Альберта
+[THIS.Controller.GetStateName_470]
+Юкон
+[THIS.Controller.GetStateName_471]
+Нунавут
+[THIS.Controller.GetStateName_472]
+Британская Колумбия
+[THIS.Controller.GetStateName_473]
+Юкатан
+[THIS.Controller.GetStateName_474]
+Чьяпас
+[THIS.Controller.GetStateName_475]
+$VICTORY_POINTS_13451$
+[THIS.Controller.GetStateName_476]
+$VICTORY_POINTS_12810$
+[THIS.Controller.GetStateName_477]
+Халиско
+[THIS.Controller.GetStateName_478]
+Тамаулипас
+[THIS.Controller.GetStateName_479]
+Коауила
+[THIS.Controller.GetStateName_480]
+$VICTORY_POINTS_12804$
+[THIS.Controller.GetStateName_481]
+$VICTORY_POINTS_2037$
+[THIS.Controller.GetStateName_482]
+Сонора
+[THIS.Controller.GetStateName_483]
+Нижняя Калифорния
+[THIS.Controller.GetStateName_484]
+Баха Калифорния
+Герреро
+[THIS.Controller.GetStateName_485]
+Мета
+[THIS.Controller.GetStateName_486]
+Санта-Крус
+[THIS.Controller.GetStateName_487]
+Санта Крус
+$VICTORY_POINTS_6626$
+[THIS.Controller.GetStateName_488]
+Сулия
+[THIS.Controller.GetStateName_489]
+Пастаса
+[THIS.Controller.GetStateName_490]
+Пастаса
+Лорето
+[THIS.Controller.GetStateName_491]
+Луриту
+$VICTORY_POINTS_13674$
+[THIS.Controller.GetStateName_492]
+Карибе
+[THIS.Controller.GetStateName_493]
+$VICTORY_POINTS_5166$
+[THIS.Controller.GetStateName_494]
+Амазонас
+[THIS.Controller.GetStateName_495]
+Минас-Жерайс
+[THIS.Controller.GetStateName_496]
+Пиауи
+[THIS.Controller.GetStateName_497]
+Северо-Восточная Бразилия
+[THIS.Controller.GetStateName_498]
+Нордесте
+Баия
+[THIS.Controller.GetStateName_499]
+$VICTORY_POINTS_10980$
+[THIS.Controller.GetStateName_500]
+$VICTORY_POINTS_10513$
+[THIS.Controller.GetStateName_501]
+Риу-Гранди-ду-Сул
+[THIS.Controller.GetStateName_502]
+Парана
+[THIS.Controller.GetStateName_503]
+$VICTORY_POINTS_13251$
+[THIS.Controller.GetStateName_504]
+$VICTORY_POINTS_13268$
+[THIS.Controller.GetStateName_505]
+$VICTORY_POINTS_12994$
+[THIS.Controller.GetStateName_506]
+Магальянес
+[THIS.Controller.GetStateName_507]
+$VICTORY_POINTS_8216$
+[THIS.Controller.GetStateName_508]
+$VICTORY_POINTS_5143$
+[THIS.Controller.GetStateName_509]
+Ла-Месопотамия
+[THIS.Controller.GetStateName_510]
+$VICTORY_POINTS_8215$
+[THIS.Controller.GetStateName_511]
+Чубут
+[THIS.Controller.GetStateName_512]
+Южный Алжир
+[THIS.Controller.GetStateName_513]
+Джануб аль-Джазаир
+Территуар дю Сюд
+Гюней Бёльгелери
+Сахара
+[THIS.Controller.GetStateName_514]
+Ас-Сахра
+Сахра
+Чад
+[THIS.Controller.GetStateName_515]
+Тшад
+Таймыр
+[THIS.Controller.GetStateName_516]
+Виктория
+[THIS.Controller.GetStateName_517]
+Тасмания
+[THIS.Controller.GetStateName_518]
+Южная Австралия
+[THIS.Controller.GetStateName_519]
+Северная территория
+[THIS.Controller.GetStateName_520]
+Мареге
+Южный Квинсленд
+[THIS.Controller.GetStateName_521]
+Западная Австралия
+[THIS.Controller.GetStateName_522]
+Кайу Ява
+Юго-Восточная Новая Гвинея
+[THIS.Controller.GetStateName_523]
+З.О. Ньив-Гинея
+Зюдостнойгинея
+Ириан Тенггара
+Нанто Ню-Гиниа
+Тайвань
+[THIS.Controller.GetStateName_524]
+Кёнгидо
+[THIS.Controller.GetStateName_525]
+Цзинцзи
+Кейки
+Рюкю
+[THIS.Controller.GetStateName_526]
+Люцю Цюньдао
+Рюкю Шото
+Янсо
+[THIS.Controller.GetStateName_527]
+Лянси
+Рёсай
+Северный Кюсю
+[THIS.Controller.GetStateName_528]
+Кита-Кюсю
+Санъё
+[THIS.Controller.GetStateName_529]
+Санъё
+Сикоку
+[THIS.Controller.GetStateName_530]
+Кансай
+[THIS.Controller.GetStateName_531]
+Токай
+[THIS.Controller.GetStateName_532]
+Токай
+Южный Тохоку
+[THIS.Controller.GetStateName_533]
+Минами-Тохоку
+$VICTORY_POINTS_1117$
+[THIS.Controller.GetStateName_534]
+Хокурику
+[THIS.Controller.GetStateName_535]
+Хоккайдо
+[THIS.Controller.GetStateName_536]
+Хоккайдо
+Езовск
+Южный Сахалин
+[THIS.Controller.GetStateName_537]
+Нань Куедао
+Минами-Карафуто
+Южный Сахалин
+Чуапа
+[THIS.Controller.GetStateName_538]
+Чуапа
+Габон
+[THIS.Controller.GetStateName_539]
+Габун
+$VICTORY_POINTS_8248$
+[THIS.Controller.GetStateName_540]
+Лоанда
+Дамараленд
+[THIS.Controller.GetStateName_541]
+Бечуаналенд
+[THIS.Controller.GetStateName_542]
+Стеллаланд
+Ботсвана
+Мадагаскар
+[THIS.Controller.GetStateName_543]
+Мадагаскар
+$VICTORY_POINTS_2123$
+[THIS.Controller.GetStateName_544]
+Родезия
+[THIS.Controller.GetStateName_545]
+Мунхумутапа
+$VICTORY_POINTS_12911$
+[THIS.Controller.GetStateName_546]
+Кения
+[THIS.Controller.GetStateName_547]
+Кения
+Уганда
+[THIS.Controller.GetStateName_548]
+Верхний Нил
+[THIS.Controller.GetStateName_549]
+Аали ан-Нил
+Юкары Нил
+Эритрея
+[THIS.Controller.GetStateName_550]
+Эритра
+$VICTORY_POINTS_12806$
+[THIS.Controller.GetStateName_551]
+Западная пустыня
+[THIS.Controller.GetStateName_552]
+Сахра аль-Гарбия
+Баты Чёлю
+$VICTORY_POINTS_792$
+[THIS.Controller.GetStateName_553]
+$VICTORY_POINTS_4111$
+[THIS.Controller.GetStateName_554]
+Курильские острова
+[THIS.Controller.GetStateName_555]
+Цяньдао Цюньдао
+Чисима Ретто
+Курильские Острова
+$VICTORY_POINTS_12751$
+[THIS.Controller.GetStateName_556]
+Судан Франсез
+Мавритания
+[THIS.Controller.GetStateName_557]
+Моритани
+Южная Нигерия
+[THIS.Controller.GetStateName_558]
+Зюднигерия
+$VICTORY_POINTS_10928$
+[THIS.Controller.GetStateName_559]
+$VICTORY_POINTS_12559$
+[THIS.Controller.GetStateName_560]
+$VICTORY_POINTS_7851$
+[THIS.Controller.GetStateName_561]
+$VICTORY_POINTS_12518$
+[THIS.Controller.GetStateName_562]
+$VICTORY_POINTS_1672$
+[THIS.Controller.GetStateName_563]
+$VICTORY_POINTS_7835$
+[THIS.Controller.GetStateName_564]
+$VICTORY_POINTS_4868$
+[THIS.Controller.GetStateName_565]
+$VICTORY_POINTS_4797$
+[THIS.Controller.GetStateName_566]
+$VICTORY_POINTS_1813$
+[THIS.Controller.GetStateName_567]
+$VICTORY_POINTS_12691$
+[THIS.Controller.GetStateName_568]
+$VICTORY_POINTS_7757$
+[THIS.Controller.GetStateName_569]
+$VICTORY_POINTS_7274$
+[THIS.Controller.GetStateName_570]
+$VICTORY_POINTS_10696$
+[THIS.Controller.GetStateName_571]
+$VICTORY_POINTS_9292$
+[THIS.Controller.GetStateName_572]
+$VICTORY_POINTS_10329$
+[THIS.Controller.GetStateName_573]
+$VICTORY_POINTS_10641$
+[THIS.Controller.GetStateName_574]
+$VICTORY_POINTS_7828$
+[THIS.Controller.GetStateName_575]
+$VICTORY_POINTS_12595$
+[THIS.Controller.GetStateName_576]
+Северный Сахалин
+[THIS.Controller.GetStateName_577]
+Бэй Куедао
+Кита-Карафуто
+Северный Сахалин
+$VICTORY_POINTS_7789$
+[THIS.Controller.GetStateName_578]
+$VICTORY_POINTS_12306$
+[THIS.Controller.GetStateName_579]
+$VICTORY_POINTS_1880$
+[THIS.Controller.GetStateName_580]
+$VICTORY_POINTS_11537$
+[THIS.Controller.GetStateName_581]
+$VICTORY_POINTS_4261$
+[THIS.Controller.GetStateName_582]
+$VICTORY_POINTS_7874$
+[THIS.Controller.GetStateName_583]
+Кызылкум
+[THIS.Controller.GetStateName_584]
+Кызылкум
+Закаспийская Степь
+$VICTORY_POINTS_3653$
+[THIS.Controller.GetStateName_585]
+$VICTORY_POINTS_12581$
+[THIS.Controller.GetStateName_586]
+Мангышлак
+[THIS.Controller.GetStateName_587]
+Мангышлак
+$VICTORY_POINTS_7708$
+[THIS.Controller.GetStateName_588]
+Семиречье
+[THIS.Controller.GetStateName_589]
+Жетысу
+Семиречье
+$VICTORY_POINTS_10308$
+[THIS.Controller.GetStateName_590]
+Цюнъя
+[THIS.Controller.GetStateName_591]
+$VICTORY_POINTS_1047$
+[THIS.Controller.GetStateName_592]
+$VICTORY_POINTS_12095$
+[THIS.Controller.GetStateName_593]
+$VICTORY_POINTS_7137$
+[THIS.Controller.GetStateName_594]
+$VICTORY_POINTS_1138$
+[THIS.Controller.GetStateName_595]
+$VICTORY_POINTS_7191$
+[THIS.Controller.GetStateName_596]
+$VICTORY_POINTS_1069$
+[THIS.Controller.GetStateName_597]
+$VICTORY_POINTS_12067$
+[THIS.Controller.GetStateName_598]
+$VICTORY_POINTS_10404$
+[THIS.Controller.GetStateName_599]
+$VICTORY_POINTS_1053$
+[THIS.Controller.GetStateName_600]
+Сикан
+[THIS.Controller.GetStateName_601]
+Чуаньбянь
+Гардзе
+$VICTORY_POINTS_7097$
+[THIS.Controller.GetStateName_602]
+$VICTORY_POINTS_10763$
+[THIS.Controller.GetStateName_603]
+Цзоньи
+[THIS.Controller.GetStateName_604]
+Зюнмошонг
+$VICTORY_POINTS_4925$
+[THIS.Controller.GetStateName_605]
+$VICTORY_POINTS_1083$
+[THIS.Controller.GetStateName_606]
+$VICTORY_POINTS_11931$
+[THIS.Controller.GetStateName_607]
+$VICTORY_POINTS_9843$
+[THIS.Controller.GetStateName_608]
+$VICTORY_POINTS_10068$
+[THIS.Controller.GetStateName_609]
+Жэхэ
+[THIS.Controller.GetStateName_610]
+Халуунгол
+Жэхэ
+$VICTORY_POINTS_6904$
+[THIS.Controller.GetStateName_611]
+Силин-Гол
+[THIS.Controller.GetStateName_612]
+Шилийн Гол
+Шилын-Хол
+$VICTORY_POINTS_11913$
+[THIS.Controller.GetStateName_613]
+$VICTORY_POINTS_12043$
+[THIS.Controller.GetStateName_614]
+$VICTORY_POINTS_12432$
+[THIS.Controller.GetStateName_615]
+$VICTORY_POINTS_10451$
+[THIS.Controller.GetStateName_616]
+$VICTORY_POINTS_4709$
+[THIS.Controller.GetStateName_617]
+$VICTORY_POINTS_10674$
+[THIS.Controller.GetStateName_618]
+$VICTORY_POINTS_10870$
+[THIS.Controller.GetStateName_619]
+$VICTORY_POINTS_4009$
+[THIS.Controller.GetStateName_620]
+$VICTORY_POINTS_10424$
+[THIS.Controller.GetStateName_621]
+Юйлинь
+[THIS.Controller.GetStateName_622]
+Северный Лусон
+[THIS.Controller.GetStateName_623]
+Ноорд-Лусон
+Хилаганг Лусон
+Нордлусон
+Лусон Утара
+Норте де Лусон
+Южный Лусон
+[THIS.Controller.GetStateName_624]
+Зюйд-Лусон
+Тимог Лусон
+Зюдлусон
+Лусон Селатан
+Сур де Лусон
+Восточные Висайи
+[THIS.Controller.GetStateName_625]
+С. Кабисаан
+Палаван
+[THIS.Controller.GetStateName_626]
+Ла Палагуа
+Минданао
+[THIS.Controller.GetStateName_627]
+Западные Висайи
+[THIS.Controller.GetStateName_628]
+Вест-Висайяс
+К. Кабисаан
+Вествисайяс
+Висайяс Барат
+Бисайяс Оксиденталес
+Гавайи
+[THIS.Controller.GetStateName_629]
+Хавайи
+Хаваи
+Атолл Джонстон
+[THIS.Controller.GetStateName_630]
+Джонстонинзельн
+Калама Мокики
+Джонсутон-Каншо
+Остров Мидуэй
+[THIS.Controller.GetStateName_631]
+Мидуэйинзельн
+Пихеману Кауихелани
+Миназуки-то
+Остров Уэйк
+[THIS.Controller.GetStateName_632]
+Вейкинзельн
+Оторишима
+Маршалловы острова
+[THIS.Controller.GetStateName_633]
+Маршаллинзельн
+Ма:шару-гунто
+Соломоновы острова
+[THIS.Controller.GetStateName_634]
+Саломонен
+Кеп. Суварнадвипа
+Соромон-шото
+Новая Каледония
+[THIS.Controller.GetStateName_635]
+Нувель-Каледони
+Нойкаледониен
+Вануату
+Ню-Каредониа
+Фиджи
+[THIS.Controller.GetStateName_636]
+Фиджи
+Камчатка
+[THIS.Controller.GetStateName_637]
+Гуам
+[THIS.Controller.GetStateName_638]
+Омия-Дзима
+Гуахан
+Острова Гилберта
+[THIS.Controller.GetStateName_639]
+Гилбертинзельн
+Гирубато-шото
+$VICTORY_POINTS_1492$
+[THIS.Controller.GetStateName_640]
+Таити
+[THIS.Controller.GetStateName_641]
+Таичи
+Остров Феникс
+[THIS.Controller.GetStateName_642]
+Фёниксинзельн
+Фениккусу-шото
+Острова Эллис
+[THIS.Controller.GetStateName_643]
+Эллисинзельн
+Эрису-шото
+Яно-Колымская низменность
+[THIS.Controller.GetStateName_644]
+Яно-Колымская низменность
+Иводзима
+[THIS.Controller.GetStateName_645]
+Иото
+Марианские острова
+[THIS.Controller.GetStateName_646]
+Марианен
+Мариана-шото
+Ислас Марианас
+Палау
+[THIS.Controller.GetStateName_647]
+Палауинзельн
+Парао-шото
+Ислас Энкантадас
+Остров Маркус
+[THIS.Controller.GetStateName_648]
+Маркусинзель
+Минамиторишима
+Галапагосские острова
+[THIS.Controller.GetStateName_649]
+Ислас Галапагос
+$VICTORY_POINTS_6999$
+[THIS.Controller.GetStateName_650]
+$VICTORY_POINTS_1278$
+[THIS.Controller.GetStateName_651]
+$VICTORY_POINTS_12128$
+[THIS.Controller.GetStateName_652]
+$VICTORY_POINTS_1821$
+[THIS.Controller.GetStateName_653]
+$VICTORY_POINTS_4800$
+[THIS.Controller.GetStateName_654]
+Судовия
+[THIS.Controller.GetStateName_655]
+Зудауэн
+Судува
+Яцвежь
+Судовия
+Хаса
+[THIS.Controller.GetStateName_656]
+Аль-Ахса
+Эль-Ахса
+$VICTORY_POINTS_7763$
+[THIS.Controller.GetStateName_657]
+$VICTORY_POINTS_2048$
+[THIS.Controller.GetStateName_658]
+$VICTORY_POINTS_5074$
+[THIS.Controller.GetStateName_659]
+Убанги-Шари
+[THIS.Controller.GetStateName_660]
+Убанги-Шари
+Убанги-Шари
+$VICTORY_POINTS_11865$
+[THIS.Controller.GetStateName_661]
+Северная Нигерия
+[THIS.Controller.GetStateName_662]
+Норднигерия
+$VICTORY_POINTS_1060$
+[THIS.Controller.GetStateName_663]
+$VICTORY_POINTS_6751$
+[THIS.Controller.GetStateName_664]
+$VICTORY_POINTS_7005$
+[THIS.Controller.GetStateName_665]
+Западная Ботния
+[THIS.Controller.GetStateName_666]
+Ленсипохья
+Вестерботтен
+Бали и Сумбава
+[THIS.Controller.GetStateName_667]
+Бали эн Соэмбава
+Кляйне Зундаинзельн
+Нуса Тенггара
+Молуккские острова
+[THIS.Controller.GetStateName_668]
+Молуккен
+Малуку
+Северо-Западная Новая Гвинея
+[THIS.Controller.GetStateName_669]
+Н.В. Ньив-Гинея
+Нордвестнойгинея
+Ириан Барат Утара
+Хокусей Ню-Гиниа
+Лаос
+[THIS.Controller.GetStateName_670]
+Лао
+Тонкин
+[THIS.Controller.GetStateName_671]
+Бак Ки
+Восточное побережье Суматры
+[THIS.Controller.GetStateName_672]
+Оосткуст ван Суматра
+Остсуматра
+Суматера Тимур
+Целебес
+[THIS.Controller.GetStateName_673]
+Сулавеси
+Центральная Австралия
+[THIS.Controller.GetStateName_674]
+Кассим
+[THIS.Controller.GetStateName_675]
+Аль-Касим
+Эль-Касим
+$VICTORY_POINTS_10106$
+[THIS.Controller.GetStateName_676]
+$VICTORY_POINTS_12473$
+[THIS.Controller.GetStateName_677]
+Аравийская пустыня
+[THIS.Controller.GetStateName_678]
+Руб аль-Хали
+Рубульхали Чёлю
+$VICTORY_POINTS_5037$
+[THIS.Controller.GetStateName_679]
+$VICTORY_POINTS_1088$
+[THIS.Controller.GetStateName_680]
+Западный Кейп
+[THIS.Controller.GetStateName_681]
+Северный Онтарио
+[THIS.Controller.GetStateName_682]
+Гориция
+[THIS.Controller.GetStateName_683]
+Гёрц
+Горица
+Каролинские острова
+[THIS.Controller.GetStateName_684]
+Каролинен
+Каролинен
+Карорин-шото
+Ислас Каролинас
+Панамский канал
+[THIS.Controller.GetStateName_685]
+Каналь де Панама
+Пуэрто-Рико
+[THIS.Controller.GetStateName_686]
+Демерара
+[THIS.Controller.GetStateName_687]
+Северный Чако
+[THIS.Controller.GetStateName_688]
+Варанийи Чако
+Чако Бореаль
+Ямайка
+[THIS.Controller.GetStateName_689]
+Багамы
+[THIS.Controller.GetStateName_690]
+Тринидад и Тобаго
+[THIS.Controller.GetStateName_691]
+Наветренные острова
+[THIS.Controller.GetStateName_692]
+$VICTORY_POINTS_8059$
+[THIS.Controller.GetStateName_693]
+Французские Карибы
+[THIS.Controller.GetStateName_694]
+Караиб Франсез
+Кюрасао
+[THIS.Controller.GetStateName_695]
+Бермуды
+[THIS.Controller.GetStateName_696]
+Мадейра
+[THIS.Controller.GetStateName_697]
+Азорские острова
+[THIS.Controller.GetStateName_698]
+Асорес
+Рио-де-Оро
+[THIS.Controller.GetStateName_699]
+Вади ад-Дахаби
+Сахара Оксиденталь
+Сьерра-Леоне
+[THIS.Controller.GetStateName_700]
+Качин
+[THIS.Controller.GetStateName_701]
+Вунпавнг Мунгдан
+Кэцинь
+Джингпхау Мунгдау
+Кабо-Верде
+[THIS.Controller.GetStateName_702]
+Кабо Верде
+Вознесение
+[THIS.Controller.GetStateName_703]
+Остров Святой Елены
+[THIS.Controller.GetStateName_704]
+$VICTORY_POINTS_13015$
+[THIS.Controller.GetStateName_705]
+Реюньон
+[THIS.Controller.GetStateName_706]
+Иль де ла Реюньон
+Маврикий
+[THIS.Controller.GetStateName_707]
+Иль Морис
+Коморы
+[THIS.Controller.GetStateName_708]
+Комор
+Коморен
+Сейшельские острова
+[THIS.Controller.GetStateName_709]
+Сейшеллен
+Диего-Гарсия
+[THIS.Controller.GetStateName_710]
+Диего Гарушиа То
+Рождества и Кокосовые
+[THIS.Controller.GetStateName_711]
+Кызылкум
+[THIS.Controller.GetStateName_712]
+Кызылкум
+Перовск
+$VICTORY_POINTS_6761$
+[THIS.Controller.GetStateName_713]
+$VICTORY_POINTS_1588$
+[THIS.Controller.GetStateName_714]
+Ляобэй
+[THIS.Controller.GetStateName_715]
+Ляобэй
+Ляонин
+[THIS.Controller.GetStateName_716]
+Ляонин
+Хэцзян
+[THIS.Controller.GetStateName_717]
+Хэцзян
+Велле
+[THIS.Controller.GetStateName_718]
+Уэле
+Уэлле
+Наталь
+[THIS.Controller.GetStateName_719]
+Зулуленд
+Южная Георгия
+[THIS.Controller.GetStateName_720]
+Исла Сан-Педро
+Восточный Тимор
+[THIS.Controller.GetStateName_721]
+Оост-Тимор
+Осттимор
+Тимор Тимур
+Тимор Португез
+$VICTORY_POINTS_9140$
+[THIS.Controller.GetStateName_722]
+Южный остров
+[THIS.Controller.GetStateName_723]
+Кра
+[THIS.Controller.GetStateName_724]
+Ланденгте ван Кра
+Истмус фон Кра
+Сегентинг Кра
+Пак Тай
+Науру
+[THIS.Controller.GetStateName_725]
+Науру-то
+Самоа
+[THIS.Controller.GetStateName_726]
+Остсамоа
+Хигаси Самоа
+Лайн
+[THIS.Controller.GetStateName_727]
+Лайнинзельн
+Райн-шото
+Гуанчжоувань
+[THIS.Controller.GetStateName_728]
+Куанг-Чжоу-Ван
+Квангчжоуван
+$VICTORY_POINTS_4189$
+[THIS.Controller.GetStateName_729]
+Сен-Пьер
+[THIS.Controller.GetStateName_730]
+Сен-Пьер
+$VICTORY_POINTS_9837$
+[THIS.Controller.GetStateName_731]
+$VICTORY_POINTS_10671$
+[THIS.Controller.GetStateName_732]
+Андаманские и Никобарские острова
+[THIS.Controller.GetStateName_733]
+Андаман эн Никобар
+Нендо
+[THIS.Controller.GetStateName_734]
+Савойя
+[THIS.Controller.GetStateName_735]
+Савуа
+Савойен
+Савойя
+Истрия
+[THIS.Controller.GetStateName_736]
+Истриен
+Истра
+Архипелаг Бисмарка
+[THIS.Controller.GetStateName_737]
+Бисмарк-Архипель
+Кепулауан Барат Лаут
+Бисумаруку-шото
+Свазиленд
+[THIS.Controller.GetStateName_738]
+$VICTORY_POINTS_3778$
+[THIS.Controller.GetStateName_739]
+Остров Ванкувер
+[THIS.Controller.GetStateName_740]
+$VICTORY_POINTS_3488$
+[THIS.Controller.GetStateName_741]
+Абруццо
+[THIS.Controller.GetStateName_742]
+$VICTORY_POINTS_7014$
+[THIS.Controller.GetStateName_743]
+$VICTORY_POINTS_13669$
+[THIS.Controller.GetStateName_744]
+Кяучжоу
+$VICTORY_POINTS_1150$
+[THIS.Controller.GetStateName_745]
+Дайрен
+$VICTORY_POINTS_9974$
+[THIS.Controller.GetStateName_746]
+$VICTORY_POINTS_4196$
+[THIS.Controller.GetStateName_747]
+Цзоньи
+[THIS.Controller.GetStateName_748]
+Шуанху
+Тенассерим
+[THIS.Controller.GetStateName_749]
+Танинтари
+Танаосри
+$VICTORY_POINTS_7376$
+[THIS.Controller.GetStateName_750]
+Келантан-Тренгану
+[THIS.Controller.GetStateName_751]
+Цзиландан-Дэнцзялоу
+Курантан-Торенгану
+Клантан-Трангану
+Хадрамаут
+[THIS.Controller.GetStateName_752]
+Хадрамаут
+Хадрамут
+Суэцкий канал
+[THIS.Controller.GetStateName_753]
+Канат ас-Сувайс
+Каналь де Суэц
+Суэцканал
+Канале ди Суэц
+Сювейш Каналы
+$VICTORY_POINTS_10835$
+[THIS.Controller.GetStateName_754]
+$VICTORY_POINTS_11241$
+[THIS.Controller.GetStateName_755]
+Нижний Шан
+[THIS.Controller.GetStateName_756]
+Кьяинтонг
+Мэнгэн
+Кенгтунг
+Кхемараттабури
+Сахарат Тай Доем
+Северо-Восточная Новая Гвинея
+[THIS.Controller.GetStateName_757]
+Н.О. Ньив-Гинея
+Кайзер-Вильгельмсланд
+Ириан Тимур Лаут
+Хокто Ню-Гиниа
+Ионические острова
+[THIS.Controller.GetStateName_758]
+Иониа Нисиа
+Изоле Ионие
+Фриули
+[THIS.Controller.GetStateName_759]
+Фриауль
+Романдия
+[THIS.Controller.GetStateName_760]
+Романди
+Вельшшвайц
+Романдия
+Тичино
+[THIS.Controller.GetStateName_761]
+Тессин
+$VICTORY_POINTS_9909$
+[THIS.Controller.GetStateName_762]
+Альпы
+[THIS.Controller.GetStateName_763]
+Витербо
+[THIS.Controller.GetStateName_764]
+Косово
+[THIS.Controller.GetStateName_765]
+Косова
+Коссово
+Северный Эпир
+[THIS.Controller.GetStateName_766]
+Эпири и Вериут
+Вориос Ипирос
+Эпиро Сеттентрионале
+$VICTORY_POINTS_11887$
+[THIS.Controller.GetStateName_767]
+Фессалия
+[THIS.Controller.GetStateName_768]
+Фессалия
+$VICTORY_POINTS_6990$
+[THIS.Controller.GetStateName_769]
+$VICTORY_POINTS_3796$
+[THIS.Controller.GetStateName_770]
+$VICTORY_POINTS_9783$
+[THIS.Controller.GetStateName_771]
+$VICTORY_POINTS_9635$
+[THIS.Controller.GetStateName_772]
+$VICTORY_POINTS_9833$
+[THIS.Controller.GetStateName_773]
+Гэси
+[THIS.Controller.GetStateName_774]
+Хэси Цзоулан
+Штирия
+[THIS.Controller.GetStateName_775]
+Штайермарк
+Западная Пруссия
+[THIS.Controller.GetStateName_776]
+Вестпройсен
+Поможе Гданьске
+Мазуры
+[THIS.Controller.GetStateName_777]
+Мазурен
+Мазуры
+Емтланд
+[THIS.Controller.GetStateName_778]
+Емтланд
+Лабур
+[THIS.Controller.GetStateName_779]
+Ипарральде
+Лабор
+Баден
+[THIS.Controller.GetStateName_780]
+Западный Рейнланд
+[THIS.Controller.GetStateName_781]
+Вест Рейнланд
+Ренани Окс.
+Вестрайнланд
+Северный Шлезвиг
+[THIS.Controller.GetStateName_782]
+Нордслесвиг
+Нордшлезвиг
+Трентино
+[THIS.Controller.GetStateName_783]
+Вельштироль
+Бургенланд
+[THIS.Controller.GetStateName_784]
+Орвидек
+Лотарингия
+[THIS.Controller.GetStateName_785]
+Лотринген
+$VICTORY_POINTS_9541$
+[THIS.Controller.GetStateName_786]
+Терек
+[THIS.Controller.GetStateName_787]
+Терик
+Аба
+[THIS.Controller.GetStateName_788]
+Нгава
+Секейленд
+[THIS.Controller.GetStateName_789]
+Секейфёльд
+Секуимя
+Аракан
+[THIS.Controller.GetStateName_790]
+Рахкунг Пранынай
+$VICTORY_POINTS_11229$
+[THIS.Controller.GetStateName_791]
+Волынь
+[THIS.Controller.GetStateName_792]
+Волынь
+Волынь
+Астурия
+[THIS.Controller.GetStateName_793]
+Срем
+[THIS.Controller.GetStateName_794]
+Срием
+Зирмиен
+Серемшег
+Срем
+$VICTORY_POINTS_875$
+[THIS.Controller.GetStateName_795]
+$VICTORY_POINTS_9693$
+[THIS.Controller.GetStateName_796]
+$VICTORY_POINTS_9671$
+[THIS.Controller.GetStateName_797]
+$VICTORY_POINTS_9814$
+[THIS.Controller.GetStateName_798]
+Гуаньчжун
+[THIS.Controller.GetStateName_799]
+$VICTORY_POINTS_1120$
+[THIS.Controller.GetStateName_800]
+$VICTORY_POINTS_9938$
+[THIS.Controller.GetStateName_801]
+$VICTORY_POINTS_7071$
+[THIS.Controller.GetStateName_802]
+$VICTORY_POINTS_4013$
+[THIS.Controller.GetStateName_803]
+Памир
+[THIS.Controller.GetStateName_804]
+Памир
+$VICTORY_POINTS_7132$
+[THIS.Controller.GetStateName_805]
+$VICTORY_POINTS_1909$
+[THIS.Controller.GetStateName_806]
+Кот-д'Ивуар
+[THIS.Controller.GetStateName_807]
+Кот д'Ивуар
+Эльфенбайнкюсте
+Верхняя Вольта
+[THIS.Controller.GetStateName_808]
+От-Вольта
+Нигер
+[THIS.Controller.GetStateName_809]
+$VICTORY_POINTS_12594$
+[THIS.Controller.GetStateName_810]
+$VICTORY_POINTS_4690$
+[THIS.Controller.GetStateName_811]
+$VICTORY_POINTS_2089$
+[THIS.Controller.GetStateName_812]
+Южная Замбезия
+[THIS.Controller.GetStateName_813]
+Ливингстон
+Зюдзамбезия
+Сул де Ласердия
+Уттаранчал
+[THIS.Controller.GetStateName_814]
+Уттаранчал
+$VICTORY_POINTS_13854$
+[THIS.Controller.GetStateName_815]
+$VICTORY_POINTS_7965$
+[THIS.Controller.GetStateName_816]
+Руссильон
+[THIS.Controller.GetStateName_817]
+Россельо
+Росельон
+$VICTORY_POINTS_10149$
+[THIS.Controller.GetStateName_818]
+$VICTORY_POINTS_6826$
+[THIS.Controller.GetStateName_819]
+$VICTORY_POINTS_1550$
+[THIS.Controller.GetStateName_820]
+$VICTORY_POINTS_453$
+[THIS.Controller.GetStateName_821]
+Ланна
+[THIS.Controller.GetStateName_822]
+Зинме Пьи
+Ланна
+Исан
+[THIS.Controller.GetStateName_823]
+Районг
+[THIS.Controller.GetStateName_824]
+$VICTORY_POINTS_10177$
+[THIS.Controller.GetStateName_825]
+$VICTORY_POINTS_7645$
+[THIS.Controller.GetStateName_826]
+Аннам
+[THIS.Controller.GetStateName_827]
+Чунг Ки
+Сабах
+[THIS.Controller.GetStateName_828]
+Южная Калифорния
+[THIS.Controller.GetStateName_829]
+Медиа Калифорния
+Паттани
+[THIS.Controller.GetStateName_830]
+Бейданьянь
+Патани
+Паттани
+$VICTORY_POINTS_1403$
+[THIS.Controller.GetStateName_831]
+$VICTORY_POINTS_12149$
+[THIS.Controller.GetStateName_832]
+Южный Техас
+[THIS.Controller.GetStateName_833]
+Сур де Техас
+Гамбия
+[THIS.Controller.GetStateName_834]
+Гамби
+Каринтия
+[THIS.Controller.GetStateName_835]
+Кернтен
+$VICTORY_POINTS_688$
+[THIS.Controller.GetStateName_836]
+Апулия
+[THIS.Controller.GetStateName_837]
+Пулья
+Лигурия
+[THIS.Controller.GetStateName_838]
+Аравали
+[THIS.Controller.GetStateName_839]
+Нюланд
+[THIS.Controller.GetStateName_840]
+Уусимаа
+Нюланд
+$VICTORY_POINTS_7623$
+[THIS.Controller.GetStateName_841]
+$VICTORY_POINTS_9340$
+[THIS.Controller.GetStateName_842]
+Юго-Западная Новая Гвинея
+[THIS.Controller.GetStateName_843]
+З.В. Ньив-Гинея
+Зюдвестнойгинея
+Ириан Барат Селатан
+Нансей Ню-Гиниа
+Лапландия
+[THIS.Controller.GetStateName_844]
+Лаппи
+Лапландия
+Эстра Лаппланд
+$VICTORY_POINTS_13209$
+[THIS.Controller.GetStateName_845]
+Джохор
+[THIS.Controller.GetStateName_846]
+Жоуфу
+Джохору
+Яхо
+Бени
+[THIS.Controller.GetStateName_847]
+Винисую
+Потоси
+[THIS.Controller.GetStateName_848]
+Потуси
+$VICTORY_POINTS_8113$
+[THIS.Controller.GetStateName_849]
+$VICTORY_POINTS_5179$
+[THIS.Controller.GetStateName_850]
+Какета
+[THIS.Controller.GetStateName_851]
+Каука
+[THIS.Controller.GetStateName_852]
+Чоко
+[THIS.Controller.GetStateName_853]
+Путумайо
+[THIS.Controller.GetStateName_854]
+Акри
+[THIS.Controller.GetStateName_855]
+Дельта Меконга
+[THIS.Controller.GetStateName_856]
+Прек Руссей
+Путтаймарт
+Тай Нам Бо
+Донг Бак
+[THIS.Controller.GetStateName_857]
+Донг Бак Бо
+$VICTORY_POINTS_12730$
+[THIS.Controller.GetStateName_858]
+Цзаннань
+Аруначал Прадеш
+Оман
+[THIS.Controller.GetStateName_859]
+Уман
+Умман
+Азавад
+[THIS.Controller.GetStateName_860]
+Азауад
+Хорезм
+[THIS.Controller.GetStateName_861]
+Хоразм
+Пустыня Дарфур
+[THIS.Controller.GetStateName_862]
+Сахра Дарфур
+Дарфур Чёлю
+Финляндия Собственно
+[THIS.Controller.GetStateName_863]
+Варсинайс-Суоми
+Або-Бьёрнеборг
+Эгентлига Финланд
+Саво
+[THIS.Controller.GetStateName_864]
+Свято-Михайловск
+Саволакс
+Орес
+[THIS.Controller.GetStateName_865]
+Аврас
+Аврас
+Гелдерланд
+[THIS.Controller.GetStateName_866]
+Гелдерланд
+Траванкор
+[THIS.Controller.GetStateName_867]
+$VICTORY_POINTS_12295$
+[THIS.Controller.GetStateName_868]
+Руанда
+[THIS.Controller.GetStateName_869]
+Руанда
+Урунди
+[THIS.Controller.GetStateName_870]
+Ньясаленд
+[THIS.Controller.GetStateName_871]
+Ньяссаланд
+Ниассаландия
+$VICTORY_POINTS_5131$
+[THIS.Controller.GetStateName_872]
+Тарапака
+[THIS.Controller.GetStateName_873]
+Тарапака
+Атакама
+[THIS.Controller.GetStateName_874]
+Западный Банат
+[THIS.Controller.GetStateName_875]
+Вестбанат
+Ньюгат-Баншаг
+Банатул де Вест
+Западни Банат
+Дагомея
+[THIS.Controller.GetStateName_876]
+Тоголенд
+[THIS.Controller.GetStateName_877]
+Хаусаленд
+[THIS.Controller.GetStateName_878]
+Катанга
+[THIS.Controller.GetStateName_879]
+Гаранганжа
+Латгалия
+[THIS.Controller.GetStateName_880]
+Латгалия
+Латгаллия
+Леттгаллен
+Латгала
+Латгалия
+Нижнее Конго
+[THIS.Controller.GetStateName_881]
+Нидерконго
+Конго Сентраль
+Самабули
+[THIS.Controller.GetStateName_882]
+Сямабули
+Самабури
+$VICTORY_POINTS_7832$
+[THIS.Controller.GetStateName_883]
+Хулунбуир
+[THIS.Controller.GetStateName_884]
+Хулунбэйэр
+Хёлёнбуир
+Хулунбуир
+Сунцзян
+[THIS.Controller.GetStateName_885]
+Сунцзян
+$VICTORY_POINTS_7663$
+[THIS.Controller.GetStateName_886]
+$VICTORY_POINTS_12338$
+[THIS.Controller.GetStateName_887]
+Сикким
+[THIS.Controller.GetStateName_888]
+$VICTORY_POINTS_10255$
+[THIS.Controller.GetStateName_889]
+$VICTORY_POINTS_12708$
+[THIS.Controller.GetStateName_890]
+Западный Пенджаб
+[THIS.Controller.GetStateName_891]
+Пашчим Панджаб
+Джубаленд
+[THIS.Controller.GetStateName_892]
+Берар
+[THIS.Controller.GetStateName_893]
+Барар
+Санта-Катарина
+[THIS.Controller.GetStateName_894]
+Эспириту-Санту
+[THIS.Controller.GetStateName_895]
+Мараньян
+[THIS.Controller.GetStateName_896]
+Аксай-Чин
+[THIS.Controller.GetStateName_897]
+Аксай Цинь
+Аксай Чин
+Аксай Чин
+Пара
+[THIS.Controller.GetStateName_898]
+Рувума
+[THIS.Controller.GetStateName_899]
+Ровума
+Гуапоре
+[THIS.Controller.GetStateName_900]
+Южный Чако
+[THIS.Controller.GetStateName_901]
+$VICTORY_POINTS_5918$
+[THIS.Controller.GetStateName_902]
+Хухуй
+[THIS.Controller.GetStateName_903]
+Ла-Риоха
+[THIS.Controller.GetStateName_904]
+$VICTORY_POINTS_13551$
+[THIS.Controller.GetStateName_905]
+Огаден
+[THIS.Controller.GetStateName_906]
+Вигаде́ни
+Огаде́эн
+Бахрейн
+[THIS.Controller.GetStateName_907]
+Аль-Бахрейн
+Аваль
+Бахрейн
+Бохуслен
+[THIS.Controller.GetStateName_908]
+Бохуслен
+$VICTORY_POINTS_9147$
+[THIS.Controller.GetStateName_909]
+Аир
+[THIS.Controller.GetStateName_910]
+Аир
+Борку-Эннеди
+[THIS.Controller.GetStateName_911]
+Борку-Эннеди
+Дельта Амакуро
+[THIS.Controller.GetStateName_912]
+Дельта-Амакуро
+Борну
+[THIS.Controller.GetStateName_913]
+Борну
+$VICTORY_POINTS_2115$
+[THIS.Controller.GetStateName_914]
+$VICTORY_POINTS_7934$
+[THIS.Controller.GetStateName_915]
+Старый Конго
+[THIS.Controller.GetStateName_916]
+Альтконго
+Конгу-Антигу
+Южная Ангола
+[THIS.Controller.GetStateName_917]
+Зюдангола
+Ангола-Меридионал
+$VICTORY_POINTS_4171$
+[THIS.Controller.GetStateName_918]
+Сидамо
+[THIS.Controller.GetStateName_919]
+Си́дамо
+Сидама
+Бегемдер
+[THIS.Controller.GetStateName_920]
+Бегэми́дири
+Гондар
+Афар
+[THIS.Controller.GetStateName_921]
+А́фар
+Каффа
+[THIS.Controller.GetStateName_922]
+Кефа
+Галла
+Тыграй
+[THIS.Controller.GetStateName_923]
+Тигре
+$VICTORY_POINTS_13553$
+[THIS.Controller.GetStateName_924]
+Тешинско
+Брабант
+[THIS.Controller.GetStateName_925]
+Гренландский ледниковый щит
+[THIS.Controller.GetStateName_926]
+Грёнланс Иннландсис
+Дуала
+[THIS.Controller.GetStateName_927]
+Дуала
+Средний Конго
+[THIS.Controller.GetStateName_928]
+Муайен-Конго
+Миттельконго
+Западная Виргиния
+[THIS.Controller.GetStateName_929]
+$VICTORY_POINTS_11654$
+[THIS.Controller.GetStateName_930]
+Коннектикут
+[THIS.Controller.GetStateName_931]
+Массачусетс
+[THIS.Controller.GetStateName_932]
+Вермонт
+[THIS.Controller.GetStateName_933]
+Нью-Гэмпшир
+[THIS.Controller.GetStateName_934]
+Род-Айленд
+[THIS.Controller.GetStateName_935]
+$VICTORY_POINTS_10807$
+[THIS.Controller.GetStateName_936]
+Финнмарк
+[THIS.Controller.GetStateName_937]
+Руйя
+Оркнейские и Шетландские острова
+[THIS.Controller.GetStateName_938]
+Оркаден унд Шетланд
+Нордрейяр
+$VICTORY_POINTS_9869$
+[THIS.Controller.GetStateName_939]
+Нижний Арагон
+[THIS.Controller.GetStateName_940]
+Бахо-Арагон
+Западное Самоа
+[THIS.Controller.GetStateName_941]
+Дойч-Самоа
+Ниси-Самоа
+Форарльберг
+[THIS.Controller.GetStateName_942]
+Верхняя Савойя
+[THIS.Controller.GetStateName_943]
+От-Савуа
+Хохсавойен
+Альта-Савойя
+Харарге
+[THIS.Controller.GetStateName_944]
+Ха́рерге
+Харарге
+Харарге
+Северный Кейп
+[THIS.Controller.GetStateName_945]
+Восточный Кейп
+[THIS.Controller.GetStateName_946]
+Оранжевое Свободное Государство
+[THIS.Controller.GetStateName_947]
+Оранье-Фрейстаат
+Фрейстата
+$VICTORY_POINTS_11519$
+[THIS.Controller.GetStateName_948]
+Маниема
+[THIS.Controller.GetStateName_949]
+$VICTORY_POINTS_8245$
+[THIS.Controller.GetStateName_950]
+$VICTORY_POINTS_3874$
+[THIS.Controller.GetStateName_951]
+Адамава
+[THIS.Controller.GetStateName_952]
+Адамауа
+Адамауа
+Текеланд
+[THIS.Controller.GetStateName_953]
+$VICTORY_POINTS_13810$
+[THIS.Controller.GetStateName_954]
+Восточная Луангва
+[THIS.Controller.GetStateName_955]
+Остлуангва
+Аруангуа-Ориентал
+Северная Замбезия
+[THIS.Controller.GetStateName_956]
+Коппербелт-Централ
+Нордзамбезия
+Норте-де-Ласердия
+Северный Уэльс
+[THIS.Controller.GetStateName_957]
+Гогледд Кимру
+Бароцеленд
+[THIS.Controller.GetStateName_958]
+Баросе
+Восточная Ангола
+[THIS.Controller.GetStateName_959]
+Остангола
+Ангола-Ориентал
+Лапландия
+[THIS.Controller.GetStateName_960]
+Лянси-Лаппи
+Чечня
+[THIS.Controller.GetStateName_961]
+Нохчийчо
+Маруа
+[THIS.Controller.GetStateName_962]
+Маруа
+Перак-Селангор
+[THIS.Controller.GetStateName_963]
+Пили-Сюэланьэ
+Пэра-Сэранго:ру
+Пэра-Слангнгор
+Овамбо и Омахэке
+[THIS.Controller.GetStateName_964]
+Овамбо унд Омахэке
+$VICTORY_POINTS_2196$
+[THIS.Controller.GetStateName_965]
+Чхаттисгарх
+[THIS.Controller.GetStateName_966]
+Чхатти́сгарх
+Адрар
+[THIS.Controller.GetStateName_967]
+$VICTORY_POINTS_12857$
+[THIS.Controller.GetStateName_968]
+Рифтовая долина
+[THIS.Controller.GetStateName_969]
+Грабенбрух
+$VICTORY_POINTS_5210$
+[THIS.Controller.GetStateName_970]
+Новый Камерун
+[THIS.Controller.GetStateName_971]
+Нуво-Камерун
+Нойкамерун
+Острова Ару
+[THIS.Controller.GetStateName_972]
+Аруэ-Эйланден
+Кепулауан Ару
+$VICTORY_POINTS_2050$
+[THIS.Controller.GetStateName_973]
+Нижняя Санга
+[THIS.Controller.GetStateName_974]
+Ба-Санга
+Унтер-Занга
+$VICTORY_POINTS_11800$
+[THIS.Controller.GetStateName_975]
+Касаи
+[THIS.Controller.GetStateName_976]
+Касаи
+Киву
+[THIS.Controller.GetStateName_977]
+Киву
+Лимбург
+[THIS.Controller.GetStateName_978]
+Вестерсхелде
+[THIS.Controller.GetStateName_979]
+Зеувс-Вландерен
+Вестерсхельде
+$VICTORY_POINTS_11483$
+[THIS.Controller.GetStateName_980]
+$VICTORY_POINTS_13875$
+[THIS.Controller.GetStateName_981]
+Асир
+[THIS.Controller.GetStateName_982]
+Аси́р
+Бретань
+[THIS.Controller.GetStateName_983]
+Брейз
+Бретань
+Пиренеи
+[THIS.Controller.GetStateName_984]
+Пирене
+$VICTORY_POINTS_7859$
+[THIS.Controller.GetStateName_985]
+Северный Квинсленд
+[THIS.Controller.GetStateName_986]
+Кимберли
+[THIS.Controller.GetStateName_987]
+Пилбара
+[THIS.Controller.GetStateName_988]
+Халкидики
+[THIS.Controller.GetStateName_989]
+Халкидика
+Халкидики́
+Халкидики
+$VICTORY_POINTS_9771$
+[THIS.Controller.GetStateName_990]
+Сумман
+[THIS.Controller.GetStateName_991]
+Ас-Сумма́н
+$VICTORY_POINTS_1065$
+[THIS.Controller.GetStateName_992]
+Катар
+[THIS.Controller.GetStateName_993]
+Бет Катрае
+Катар
+$VICTORY_POINTS_10901$
+[THIS.Controller.GetStateName_994]
+$VICTORY_POINTS_11919$
+[THIS.Controller.GetStateName_995]
+Барга
+[THIS.Controller.GetStateName_996]
+Баэрху
+Полесье
+[THIS.Controller.GetStateName_997]
+Пале́сьсе
+Полесе
+Полесье
+Полесье
+Поли́сся
+Карабах
+[THIS.Controller.GetStateName_998]
+Гараба́г
+Гарабаг
+Караба́г
+Карабах
+Карабаг
+Кедах
+[THIS.Controller.GetStateName_999]
+Цзидачжоу
+Кэда
+Сайбури
+$VICTORY_POINTS_10472$
+[THIS.Controller.GetStateName_1000]
+Арарат
+Лазистан
+[THIS.Controller.GetStateName_1001]
+Лазети
+Лазики́
+Паханг
+[THIS.Controller.GetStateName_1002]
+Пэнхэн
+Пахан
+Долина Аосты
+[THIS.Controller.GetStateName_1003]
+Валле-д'Ост
+Аостаталь
+Валле-д'Аоста
+Эмилия
+[THIS.Controller.GetStateName_1004]
+Умбрия
+[THIS.Controller.GetStateName_1005]
+$VICTORY_POINTS_11668$
+[THIS.Controller.GetStateName_1006]
+Нубия
+[THIS.Controller.GetStateName_1007]
+Ан-Ну́ба
+Нюбье
+$VICTORY_POINTS_11974$
+[THIS.Controller.GetStateName_1008]
+Куфра
+[THIS.Controller.GetStateName_1009]
+Аль-Куфра
+Куфра
+Куфра
+Эль-Кюфре
+Дарфур
+[THIS.Controller.GetStateName_1010]
+Да́р Фу́р
+Нубийская пустыня
+[THIS.Controller.GetStateName_1011]
+Сахра́ ан-Ну́ба
+Нюбье Чёлю
+$VICTORY_POINTS_4050$
+[THIS.Controller.GetStateName_1012]
+$VICTORY_POINTS_7101$
+[THIS.Controller.GetStateName_1013]
+$VICTORY_POINTS_1099$
+[THIS.Controller.GetStateName_1014]
+$VICTORY_POINTS_10841$
+[THIS.Controller.GetStateName_1015]
+Южный Борнео
+[THIS.Controller.GetStateName_1016]
+Зёйд-Борнео
+Зюдборнео
+Калимантан-Селатан
+Западный Тимор
+[THIS.Controller.GetStateName_1017]
+Нидерландс-Тимор
+Весттимор
+Тимор-Барат
+Флорес и Сумба
+[THIS.Controller.GetStateName_1018]
+Флорес и Сумба
+Флорес-Инзельн
+Кепулауан Флорес
+Восточная Ява
+[THIS.Controller.GetStateName_1019]
+Ост-Ява
+Остьява
+Ява-Тимур
+Резиденция Батавия
+[THIS.Controller.GetStateName_1020]
+Резидентие Батавия
+Джакарта
+$VICTORY_POINTS_12268$
+[THIS.Controller.GetStateName_1021]
+Зюдсуматра
+Суматера-Селатан
+Западное побережье Суматры
+[THIS.Controller.GetStateName_1022]
+Весткюст ван Суматра
+Миттельсуматра
+Суматера-Тенгах
+Ачех и Тапанули
+[THIS.Controller.GetStateName_1023]
+Атье и Тапануэли
+Нордсуматра
+Суматера-Утара
+Дофар
+[THIS.Controller.GetStateName_1024]
+Зуфа́р
+Зуфар
+Конго-Убанги
+[THIS.Controller.GetStateName_1025]
+Конго-Убанги
+Конго-Убанги
+$VICTORY_POINTS_1950$
+[THIS.Controller.GetStateName_1026]
+Верхний Чако
+[THIS.Controller.GetStateName_1027]
+Альто-Чако
+Огненная Земля
+[THIS.Controller.GetStateName_1028]
+Санта-Крус
+[THIS.Controller.GetStateName_1029]
+Западный Амазонас
+[THIS.Controller.GetStateName_1030]
+Амазонас-Осидентал
+Северный Амазонас
+[THIS.Controller.GetStateName_1031]
+Амазония-Сетентрионал
+Большой Уньямвези
+[THIS.Controller.GetStateName_1032]
+Грос-Уньямвези
+Восточный Амазонас
+[THIS.Controller.GetStateName_1033]
+Амазонас-Ориентал
+Малабарское побережье
+[THIS.Controller.GetStateName_1034]
+Ма́лаба́р Са́гартат
+Анизза
+[THIS.Controller.GetStateName_1035]
+Ани́за
+Аниза
+Боливар
+[THIS.Controller.GetStateName_1036]
+Инини
+[THIS.Controller.GetStateName_1037]
+Суринам
+[THIS.Controller.GetStateName_1038]
+Бербис
+[THIS.Controller.GetStateName_1039]
+Джунгли Акри
+[THIS.Controller.GetStateName_1040]
+Селвас-ду-Акри
+Игуасу
+[THIS.Controller.GetStateName_1041]
+Игуасу
+Игуасу
+Бадахшан
+[THIS.Controller.GetStateName_1042]
+Бадахша́н
+Бадахша́н
+Понта-Поран
+[THIS.Controller.GetStateName_1043]
+Пунта-Пора
+$VICTORY_POINTS_3992$
+[THIS.Controller.GetStateName_1044]
+$VICTORY_POINTS_12732$
+[THIS.Controller.GetStateName_1045]
+$VICTORY_POINTS_1006$
+[THIS.Controller.GetStateName_1046]
+$VICTORY_POINTS_12055$
+[THIS.Controller.GetStateName_1047]
+Ухань
+[THIS.Controller.GetStateName_1048]
+Шихэ
+[THIS.Controller.GetStateName_1049]
+$VICTORY_POINTS_1001$
+[THIS.Controller.GetStateName_1050]
+$VICTORY_POINTS_4504$
+[THIS.Controller.GetStateName_1051]
+$VICTORY_POINTS_7577$
+[THIS.Controller.GetStateName_1052]
+Гегерия
+[THIS.Controller.GetStateName_1053]
+Геге́рия
+Альбания-дель-Норд
+Скадар
+$VICTORY_POINTS_10459$
+[THIS.Controller.GetStateName_1054]
+$VICTORY_POINTS_1597$
+[THIS.Controller.GetStateName_1055]
+$VICTORY_POINTS_4023$
+[THIS.Controller.GetStateName_1056]
+$VICTORY_POINTS_10801$
+[THIS.Controller.GetStateName_1057]
+$VICTORY_POINTS_10446$
+[THIS.Controller.GetStateName_1058]
+$VICTORY_POINTS_7656$
+[THIS.Controller.GetStateName_1059]
+$VICTORY_POINTS_4144$
+[THIS.Controller.GetStateName_1060]
+$VICTORY_POINTS_1188$
+[THIS.Controller.GetStateName_1061]
+$VICTORY_POINTS_7109$
+[THIS.Controller.GetStateName_1062]
+$VICTORY_POINTS_7189$
+[THIS.Controller.GetStateName_1063]
+$VICTORY_POINTS_1124$
+[THIS.Controller.GetStateName_1064]
+$VICTORY_POINTS_1184$
+[THIS.Controller.GetStateName_1065]
+$VICTORY_POINTS_11986$
+[THIS.Controller.GetStateName_1066]
+$VICTORY_POINTS_11920$
+[THIS.Controller.GetStateName_1067]
+$VICTORY_POINTS_3900$
+[THIS.Controller.GetStateName_1068]
+$VICTORY_POINTS_11947$
+[THIS.Controller.GetStateName_1069]
+Страна Басков
+[THIS.Controller.GetStateName_1070]
+Эускади
+Паис-Васко
+$VICTORY_POINTS_13688$
+[THIS.Controller.GetStateName_1071]
+$VICTORY_POINTS_1962$
+[THIS.Controller.GetStateName_1072]
+$VICTORY_POINTS_5229$
+[THIS.Controller.GetStateName_1073]
+Мисьонес
+[THIS.Controller.GetStateName_1074]
+$VICTORY_POINTS_13707$
+[THIS.Controller.GetStateName_1075]
+Верия
+[THIS.Controller.GetStateName_1076]
+Беру
+Ве́роя
+Караферье
+Сен-Мартен
+[THIS.Controller.GetStateName_1077]
+Синт-Мартен
+Барима
+[THIS.Controller.GetStateName_1078]
+Эссекибо
+[THIS.Controller.GetStateName_1079]
+Абхазия
+[THIS.Controller.GetStateName_1080]
+Апхазети
+Черноморье
+$VICTORY_POINTS_11825$
+[THIS.Controller.GetStateName_1081]
+$VICTORY_POINTS_13089$
+[THIS.Controller.GetStateName_1082]
+$VICTORY_POINTS_4704$
+[THIS.Controller.GetStateName_1083]
+$VICTORY_POINTS_7799$
+[THIS.Controller.GetStateName_1084]
+Пустыня Такла-Макан
+[THIS.Controller.GetStateName_1085]
+Такэламаган Шамо
+Сахра́ е Теклемака́н
+$VICTORY_POINTS_1961$
+[THIS.Controller.GetStateName_1086]
+$VICTORY_POINTS_9289$
+[THIS.Controller.GetStateName_1087]
+$VICTORY_POINTS_9452$
+[THIS.Controller.GetStateName_1088]
+Кырджали
+[THIS.Controller.GetStateName_1089]
+Кырджали
+Ка́рцали
+Кирджаали
+$VICTORY_POINTS_9692$
+[THIS.Controller.GetStateName_1090]
+Велега
+[THIS.Controller.GetStateName_1091]
+Уоллега
+Годжам
+[THIS.Controller.GetStateName_1092]
+Го́джам
+Годжам
+Волло
+[THIS.Controller.GetStateName_1093]
+Вело
+Уолло
+Бале
+[THIS.Controller.GetStateName_1094]
+Бале́
+$VICTORY_POINTS_10788$
+[THIS.Controller.GetStateName_1095]
+$VICTORY_POINTS_2080$
+[THIS.Controller.GetStateName_1096]
+Берег Скелетов
+[THIS.Controller.GetStateName_1097]
+Каоко-Фельд
+Намакваленд
+[THIS.Controller.GetStateName_1098]
+Гроснамаланд
+Самнам
+[THIS.Controller.GetStateName_1099]
+Саньнань
+Кванбук
+[THIS.Controller.GetStateName_1100]
+Гуаньбэй
+Канхоку
+Северный Канто
+[THIS.Controller.GetStateName_1101]
+Кита-Канто:
+Южный Кюсю
+[THIS.Controller.GetStateName_1102]
+Минами-Кю:сю:
+Санъин
+[THIS.Controller.GetStateName_1103]
+Хиого
+[THIS.Controller.GetStateName_1104]
+Хё:го
+Косинсэй
+[THIS.Controller.GetStateName_1105]
+Ко:синсэй
+Северный Тохоку
+[THIS.Controller.GetStateName_1106]
+Кита-То:хоку
+Караванки
+[THIS.Controller.GetStateName_1107]
+Драуланд
+Подравье
+Камбрия
+[THIS.Controller.GetStateName_1108]
+Мура
+[THIS.Controller.GetStateName_1109]
+Мургебит
+Муравидек
+Мурье
+Марокканская граница
+[THIS.Controller.GetStateName_1110]
+Ас-Сира́дж
+Долина Хукаунг
+[THIS.Controller.GetStateName_1111]
+Хукаунг Гьяйнхван
+Цзясиньпо
+Фюн
+[THIS.Controller.GetStateName_1112]
+Фюн
+Каутин
+[THIS.Controller.GetStateName_1113]
+Пустыня Гоби
+[THIS.Controller.GetStateName_1114]
+Гоби
+Гоби
+$VICTORY_POINTS_1834$
+[THIS.Controller.GetStateName_1115]
+$VICTORY_POINTS_10708$
+[THIS.Controller.GetStateName_1116]
+$VICTORY_POINTS_5064$
+[THIS.Controller.GetStateName_1117]
+Катаган
+[THIS.Controller.GetStateName_1118]
+$VICTORY_POINTS_10229$
+[THIS.Controller.GetStateName_1119]
+$VICTORY_POINTS_10724$
+[THIS.Controller.GetStateName_1120]
+Эйршир
+[THIS.Controller.GetStateName_1121]
+Уэссекс
+[THIS.Controller.GetStateName_1122]
+Западный край
+[THIS.Controller.GetStateName_1123]
+Остров Мэн
+[THIS.Controller.GetStateName_1124]
+Ойлеан-Ваннан

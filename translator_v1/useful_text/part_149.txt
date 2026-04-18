@@ -1,0 +1,703 @@
+Scandinavia Focus Tree
+Nordic Council
+Scandinavia
+Scandinavian
+Scandinavia
+Scandinavian Union
+the Scandinavian Union
+Scandinavian Union
+the Scandinavian Union
+Scandinavian Union
+the Scandinavian Union
+Nordic Federation
+Nordic
+the Nordic Federation
+Nordic Federation
+Nordic
+the Nordic Federation
+Nordic Federation
+Nordic
+the Nordic Federation
+Nordic Federation
+Nordic
+the Nordic Federation
+Nordic Federation
+Nordic
+the Nordic Federation
+Scandinavian Scientist Conference
+The Scandinavian Scientist Conference is an organisation devoted to scientific cooperation between the Scandinavian states.
+The Social Democrats are victorious in the Elections
+The Liberals are victorious in the Elections
+The Conservatives are victorious in the Elections
+The Nordic Council was rejected
+The Nordic Federation was rejected
+We have finished talks with Germany
+We have finished talks with Russia
+We have finished talks with the Third Internationale
+We have solidifed our neutrality
+Develop the Federation
+A strong economy should be developed in order to further integrate the Nordic countries into a single entity. New factories and plants will create more jobs and accelerate urbanisation throughout the Federation.
+Begin Stage Two.
+§WBegins the second stage of the §CNordic Economic & Development Plan§!.§!
+Begin Stage Three.
+§WBegins the third and final stage of the §CNordic Economic & Development Plan§!.§!
+§cThe Northern Giant§!
+§WWe shall show the world our true potential, through the powers of friendship and unity, the §cNordic Federation§! has awoken.§!
+Develop [908.GetName]
+By developing [908.GetName] we shall improve the prosperity for all of Scandinavia.
+Develop [124.GetName]
+By developing [124.GetName] we shall improve the prosperity for all of Scandinavia.
+Develop [143.GetName]
+By developing [143.GetName] we shall improve the prosperity for all of Scandinavia.
+Develop [778.GetName]
+By developing [778.GetName] we shall improve the prosperity for all of Scandinavia.
+Develop [38.GetName]
+By developing [38.GetName] we shall improve the prosperity for all of Scandinavia.
+Develop [666.GetName]
+By developing [666.GetName] we shall improve the prosperity for all of Scandinavia.
+Develop [909.GetName]
+By developing [909.GetName] we shall improve the prosperity for all of Scandinavia.
+Develop [144.GetName]
+By developing [144.GetName] we shall improve the prosperity for all of Scandinavia.
+Develop [937.GetName]
+By developing [937.GetName] we shall improve the prosperity for all of Scandinavia.
+Develop [145.GetName]
+By developing [145.GetName] we shall improve the prosperity for all of Scandinavia.
+Develop [148.GetName]
+By developing [148.GetName] we shall improve the prosperity for all of Scandinavia.
+Develop [337.GetName]
+By developing [337.GetName] we shall improve the prosperity for all of Scandinavia.
+Develop [100.GetName]
+By developing [100.GetName] we shall improve the prosperity for all of Scandinavia.
+Develop [141.GetCapitalVictoryPointName]
+With the progress made so far in the first stage of the §CNordic Economic & Development Plan§!, [141.GetCapitalVictoryPointName] is now ready for development.
+Develop [110.GetCapitalVictoryPointName]
+With the progress made so far in the first stage of the §CNordic Economic & Development Plan§!, [110.GetCapitalVictoryPointName] is now ready for development.
+Develop [37.GetCapitalVictoryPointName]
+With the progress made so far in the first stage of the §CNordic Economic & Development Plan§!, [37.GetCapitalVictoryPointName] is now ready for development.
+Develop [840.GetCapitalVictoryPointName]
+With the progress made so far in the first stage of the §CNordic Economic & Development Plan§!, [840.GetCapitalVictoryPointName] is now ready for development.
+Develop [140.GetCapitalVictoryPointName]
+With the progress made so far in the first stage of the §CNordic Economic & Development Plan§!, [140.GetCapitalVictoryPointName] as the capital of the Nordic Federation must be developed into a shining beacon of the north.
+Continue the Development of [100.GetCapitalVictoryPointName]
+Iceland while an equal member of our brotherly union still lags far behind the other member states. By developing [100.GetCapitalVictoryPointName] we shall create a more perfect union.
+Expand Norwegian Dockyards
+By expanding Norway's maritime industry the Nordic Federation will be able to dominate the global trade through a vast merchant marine.
+Expand Domestic Swedish Industries
+Sweden is without question the backbone of our industrial economy. By increasing the regions already hardy industrial base the prosperity of the peoples of the Federation will improve.
+Expand Danish Arms Industries
+Denmark, while not as advanced in arms production as Sweden, has a near perfect location for the expansion of its trade. Denmark's position next to the German behemoth and its access to the Baltic and North Seas means that the expansion of her military industry will both improve our domestic defence and national prosperity.
+Continue the Development of [100.GetName]
+Iceland continues despite countless investments to lag behind the other members of the Federation. With one final push to the nation it shall become a true equal to the others states of our union.
+Expand Finnish Military Production
+Finland is in a precarious position, under constant threat from the insidious Russians, expanding the defensive capacity of Finland has become a top priority for the Federation. Together we stand as brothers.
+§CNordic Economic Development Level§!
+Expand the Railway Network
+To improve regional connectivity, we should modernise and expand the railway network throughout Scandinavia. More goods will be transported, more people will travel faster, and in the event of an emergency, our troops will reach any location in the country without wasting time.
+Expand Göteborg to Oslo Railway
+Expand Göteborg to Stockholm Railway
+Construct the Øresund Bridge
+Modernise the Railway Connection with Europe
+Expand Finnish Railway Network
+Join the Scandinavian Scientist Conference
+Our Nordic allies have created the Scandinavian Scientist Conference, a joint research initiative with the objective of facilitating the exchange of technology between members of the [FROM.GetFactionName]. As a member of the latter, it's time we strengthen our partnership by joining the Scandinavian Scientist Conference as well.
+Negotiations for Our Neutrality
+Begin Negotiations with Germany.
+Begin Negotiations with Russia.
+Begin Negotiations with the Third Internationale.
+Finalise the agreements.
+§Y[SWE.GetName]§!, §Y[NOR.GetName]§! and §Y[DEN.GetName]§!:\n   $TRIGGER_EXISTS$\n   Current ruling party is §YSocial Democrat§!, §YSocial Liberal§!, §YMarket Liberal§! or §YSocial Conservative§!\n   $TRIGGER_IS_NOT_IN_FACTION$\n   $TRIGGER_IS_NOT_SUBJECT$\n   $TRIGGER_HAS_NOT_CAPITULATED$\n   At peace with each other\n   Not active or not generating wargoals related to each other
+§CCloser cooperation with our Nordic neighbours will ensure the stability of Denmark's government, and prevent radicals from potentially gaining power.§!
+By forming the §YNordic Federation§!, your country will reset its\n   £GFX_pol_power Political Power\n   £GFX_army_experience Army Experience\n   £GFX_navy_experience Naval Experience\n   £GFX_air_experience Air Experience\n   £GFX_command_power Command Power\n   Adopt the §YExport Focus§! trade law\n   Adopt the §YCivilian Economy§! economy law\n   Lose all active National Spirits, Political Advisors, Design Companies, and Military Staff.
+§YThis focus will allow several decisions for the beginning of the§! §CNordic Economic & Development Plan.§!
+§YThis will unlock all unique MIO traits associated with this focus.§!
+Increases the §CNordic Economic & Development Plan§! level by §Y1§!
+§YThis will make decisions available to negotiate for our neutrality§!
+§GVarious resource extraction decisions will be activated!§!
+§GThe federal council will remain the de-facto head of state of the Nordic Federation after the ratification of the constitution.§!
+§GA separate Nordic parliament will serve as the legislative branch of the Nordic Federation.§!
+§GA the lower houses of the national parliaments will serve as the legislative branch of the Nordic Federation with a directly elected upper house.§!
+§GA high court will be established that will supervise the national courts of law.§!
+§GThe constituent countries will enjoy full judicial autonomy.§!
+§GThe constituent countries' courts of law will be annexed into a joint Nordic court of law and judicial autonomy will be full revoked.§!\n§RThe constituent countries will not be amused.§!
+§GThe federal council is now the de-jure head of state.§!
+§GThe bonus of the Scandinavian research group will be further increased.§!
+§WThe Nordic Federation will inherit the §YArmies§!, §YFleets§!, §YAgency Upgrades§!, §YResearch§!, §YAdvisors§! and §YIndustrial Concerns§! of the Scandinavian Defence Union.§!\n
+Atlas Maskinfabrik
+Norsk Hydro
+Ericsson
+Novo Nordisk
+AGA
+Carl Gustafs Stads Gevärsfaktori
+Kongsberg
+Scandinavian Airlines
+Nordic Council
+Defence Acquisition Board
+Nordic Passport Convention
+Scandinavian Monetary Union
+Nordic Single Market
+Federal Army Organisation
+The Scandinavian Army
+National Army Organisation
+Jung's National Army
+Fleischer's National Army
+Prior's National Army
+Nordic Expeditionary Force
+Mobile Warfare
+Artillery Focus
+Artificially Divided Navy
+The Nordic Fleet
+Atlantic Fleet Focus
+Baltic Fleet Focus
+Nordic Air Authority
+United Intelligence Agency
+Nordic Safety Net
+Investment in Public Services
+The Nordic Model
+The Nordic Standard
+Subsidised Agricultural Sector
+Religious Education
+The Nordic Example
+Conflicting Services
+Language Barrier
+Mutual Understanding
+Scandinavian Intellectuals
+Clergymen provide us with §G3.00§! research points.\n(§Y3.94%§! of the population, 2.00% is optimal.)
+The Northern Giant
+The Nordic brothers long divided, have come together and created a nation greater than the sum of its parts.\nA §cTrue Giant§! has awoken!
+Nordic Neutrality
+The Nordic Federation, a miracle of the combustible 20th century, was formed not by the might of armies, but by mutual cooperation and free will. Scandinavians want to keep the peace for as long as possible, and the majority of the population is opposed to full-scale offensive military campaigns. At the same time, the people are ready to defend their homeland from anyone who dares to attack it.
+SF
+Syndikalistiske Fagforeninger (Syndicalist Trade Unions)\nSyndikalistiske Fagforeninger (Syndicalist Trade Unions)\nSyndikalistiska fackförbund (Syndicalist Trade Unions)
+SF
+Syndikalistiske Fagforeninger (Syndicalist Trade Unions)\nSyndikalistiske Fagforeninger (Syndicalist Trade Unions)\nSyndikalistiska fackförbund (Syndicalist Trade Unions)
+SF
+Syndikalistiske Fagforeninger (Syndicalist Trade Unions)\nSyndikalistiske Fagforeninger (Syndicalist Trade Unions)\nSyndikalistiska fackförbund (Syndicalist Trade Unions)
+SDK
+Socialdemokratiske Koalition (Social Democrats Coalition)\nSosialdemokratiske Koalisjonen (Social Democrats Coalition)\nSocialdemokratiska koalition (Social Democrats Coalition)
+LK
+Liberale Koalition (Liberal Coalition)\nLiberale Koalisjonen (Liberal Coalition)\nLiberala Koalition (Liberal Coalition)
+KK
+Konservativ Koalition (Conservative Coalition)\nKonservative Koalisjonen (Conservative Coalition)\nKonservativ Koalition (Conservative Coalition)
+Farmer's Coalition
+Bondekoalitionen (Farmer's Coalition)\nBondekoalisjon (Farmer's Coalition)\nBondekoalitionen (Farmer's Coalition)
+NTC
+Nordiske Overgangsråd (Nordic Transition Council)\nNordiske Overgangsråd (Nordic Transition Council)\nNordiska Övergångs Rådet (Nordic Transition Council)
+Federal Council
+Føderale Råd (Federal Council)\nFøderale Rådet (Federal Council)\nFederala Rådet (Federal Council)
+NK
+Nationalistisk Klike (Nationalist Clique)\nNasjonalistisk Klikk (Nationalist Clique)\nNationalistisk Klick (Nationalist Clique)
+NSAP
+Nordiske Socialdemokratiske Arbejderparti (Nordic Social Democratic Workers' Party)\nNordiske Socialdemokratiske Arbeiderparti (Nordic Social Democratic Workers' Party)\nNordiska Socialdemokratiska Arbetarepartiet (Nordic Social Democratic Workers' Party)
+LP
+Liberale Parti (Liberal Party)\nLiberale Parti (Liberal Party)\nLiberala Partiet (Liberal Party)
+KP
+Konservative Parti (Conservative Party)\nKonservative Parti (Conservative Party)\nKonservativa Partiet (Conservative Party)
+Farmer's League
+Bondeforbundet (Farmer's League)\nBondelaget (Farmer's League)\nBondeförbundet (Farmer's League)
+NLO
+Nordiske Landsorganisationen (Nordic National Organisation)\nNordiske Landsorganisasjonen (Nordic National Organisation)\nNordiska Landsorganisationen (Nordic National Organisation)
+Establish the Nordic Council
+The political aspects of Nordic integration should be organised in a separate political institution. Let us establish the Nordic Council for this purpose.
+Scandinavian Defence Union
+None of the countries in Scandinavia are particularly strong militarily. Only through a collective defence treaty can we provide a credible threat to would-be aggressors.
+Joint Military Acquisition
+Our individual militaries are relatively small. If we coordinate all Nordic military acquisitions, we will reap the benefits of larger orders and lower costs.
+Military Exchange Programme
+The increased cooperation between the Nordic armies requires officers with a special mind-set and certain skills. Let us exchange generals to further aid in this.
+Nordic Passport Convention
+Why should Nordic citizens require visas and permits to visit each other? We shall sign a convention to remove the internal borders of Scandinavia.
+Parliamentary Joint Sessions
+Nordic integration has so far been championed by the national governments. To change this, we shall propose inter-parliamentary joint sessions to let all voices be heard.
+Nordic Investments
+Scandinavia is our natural arena for investments. It might be a good idea to invest in further industrial projects.
+Scandinavian Monetary Union
+From 1873 to 1914 Scandinavia shared a currency. We shall re-establish the Scandinavian Currency Union and let all currency flow freely in Scandinavia.
+Found Scandinavian Airlines
+Why should the Nordic states have their own separate flag carriers? Let us make air travel a symbol of Nordic cooperation and establish Scandinavian Airlines.
+Propose a Single Market
+The natural continuation of economic cooperation is the abolishment of customs between the Nordic countries. Let there be no more limitation on Scandinavia trade.
+Scandinavian Scientist Conference
+Scandinavian scientists have met in irregular meetings since 1839. We should formalise these meetings to exchange our technical developments in a more efficient way.
+Technological Cooperation
+The success of the Scandinavian Scientist Conference means that we could increase our cooperation further. If we institute a fixed system for sharing knowledge, we would all benefit in the long run.
+The Nordic Federation
+Nordic integration and cooperation has proved an astounding success. Let us now join forces and found the Nordic Federation as a shining beacon of democracy and freedom in a troubled world.
+Ensuring Our Neutrality!
+One of the core ideals in the formation of our federation was of peace. We will abandon needless wars and to ensure that, we must begin negotiations with our powerful neighbours to ensure war never comes to our doors.
+The Nordic Constitution
+With the creation of a unified Nordic state, it is paramount that a constitution shall be adopted that counts for all the member states of the federation, emphasising the strength of the federal government.
+A Designated Nordic Parliament
+We should establish a designated Nordic parliament elected through proportional voting in the entire federation, thereby ensuring every Nordic citizen will have equal representation in the federal government in Göteborg.
+Use the Joint Sessions
+The joint sessions have proved a great success earlier, emphasising the existence and close cooperation of the Nordic countries. These joint sessions will function as the proper legislative branch of the Nordic government.
+A Council of Kings
+The monarchs of our member states ought to fulfil their role together on the federal level, establishing a council filled with monarchs who shall appoint the federal government.
+Judicial Autonomy
+Each member state should retain its own judicial branch and these judicial branches should retain their full autonomy. If a Dane were to judge a Swedish case this would be bound to create nationalist friction.
+A Nordic High Council
+While the local judiciaries ought to remain in place, the highest court of each country shall be replaced by a single Nordic High Council of Judges, which shall have the last word in the most controversial of cases.
+Federal Judiciary
+We should merge the judicial branches of all member states into a single federal judiciary. This will promote equal lawgiving in the entire federation and thereby promote ever closer federation.
+Ratify the Constitution
+With all of the most important questions out of the way, it is time to let representatives of the federal member states ratify the federal constitution, making our federation a little more real.
+The First Nordic Elections
+With the constitution properly established, it is time for NTC, mostly made up of civil servants, to transfer power to an elected federal government. To this end, the first pan-Nordic elections will have to be organised.
+Social Democratic Majority
+The NSAP successfully secured its place, and came victorious out of the Nordic elections. With them, a unified Nordic welfare state is looming, one that will be a shining example for the rest of the world to follow.
+Establish a Safety Net
+We should establish a safety net for those unfortunate enough to be unable to work. It is not fitting for a civilised nation such as ours to allow the people to starve to death, rather than to help them.
+Establish Fundamental Social Rights
+Several fundamental social rights hold significance. We should ensure that the Nordic government shall be bound to fulfil the social rights the Nordic people, and arguably the people of the rest of the world as well, deserve.
+Invest in Education
+Educating the young is an investment into the future. By ensuring our educational system is qualitatively superior, we can raise more people into higher paying jobs and thus increase our prosperity to an even greater extend.
+Improve our Healthcare
+Good healthcare is vital: without it, people may well die unnecessary deaths. We should ensure that healthcare is qualitatively good and affordable to common man of our federation!
+The Nordic Model
+As a result of our efforts, the Nordic welfare state has developed into a shining example for the world. A democratic utopia that cares for its citizens without the need of resorting to tyranny or violence.
+Liberal Coalition
+The liberals have surged throughout Scandinavia and secured themselves the majority needed to form the federal government. Their influence in these early days of the federation will certainly be felt.
+Safeguard National Autonomy
+We should ensure that we don't fall for the temptation of unnecessary centralisation. Such actions would only harm the popularity of the federation and keep it from improving the lives of its citizens. Local autonomy is therefore paramount.
+The Nordic Standard
+Our sound and down-to-earth approach has allowed to us to set a standard for other countries to try and emulate. A standard in controlling the government, if you will.
+Conservative-Agrarian Coalition
+The Conservative Party and the truly Scandinavian Agrarian League have formed an alliance on a conservative platform. In support of farmers and morality, the influence of this first federal coalition will not be insignificant.
+Strengthen the Nordic Bank
+It is important for us to strengthen the Nordic central bank to ensure the security of our Nordic currency and to ensure that investors will view the federation as a safe bet for their investments.
+Federal Economy Investments
+With the Nordic Bank's recent changes, it may now subsidise critical sections of our economy, significantly increasing the people's and Federation's economic success and prosperity.
+Solidify Federal Unity
+We should encourage the consolidation of the federal identity, ensuring that Nordic citizens shall view themselves as just that rather than as Danes, Norwegians and Swedes primarily.
+Support Religious Education
+Religion holds significance in our culture and religious schools exist. We should support this type of religious schooling as it can only further our educational efficiency.
+The Nordic Example
+Our moral and economic perfection is an example for all to see, the identity of the Nordic Federation is an enviable one, and this is thanks to our efforts to make it so.
+Merge the National Armies
+It is highly inefficient to maintain three separate armies for one federation, despite the close cooperation. We should merge them all into a single army with a single command structure.
+Integrating Our Command Structures
+Unifying the command structures of our constituent countries will greatly help with the coordination of our new federal army!
+A True Scandinavian Army
+With the command structure now perfect, it is time to start integrating the entire army and ensure they are prepared to defend our Federation!
+Jung's Mobile Warfare
+The Swedish general Helge Jung proposes we invest in the motorisation of the army. This will give us an advantage in manoeuvring throughout the stretched lands of Scandinavia and in the battlefield.
+Motorise our Army
+We can make our army significantly more mobile by adopting trucks to move their equipment. Let us motorise our army for the good of the federation.
+Fleischer's Superior Firepower
+Norway's Carl Gustaf Fleischer suggests a heavy focus on artillery, allowing us to use these heavy weapons to avoid giving up too many Scandinavians (whose numbers are limited regardless) to inflict casualties upon our enemies.
+Modern Equipment
+Important to minimise our losses and to maximise our army's fighting capacity is to invest in modern equipment for our army. We cannot allow ourselves to fall behind in this area.
+Maintain Separate Militaries
+While purely from the perspective of efficiency, a single merged army is best, it will be significantly easier to motivate the people's of our federation to fight under their own flag under that of the federation, where they may be subject to language differences as well.
+Prior's Grand Battleplan
+Danish senior officer William Prior has given his own pitch in favour of a very plan-based doctrinal plan for the coming years. According to him, by planning out the next war, we shall win it.
+The Supreme High Command
+We should establish a single Supreme Nordic High Command that has the last say over the strategy and deployment of our troops. This will allow for a greater degree of cooperation between our army divisions.
+Federal Tank Brigades
+Panzer brigades are key to winning wars in the modern era. These large armoured vehicles with significant firepower are capable of breaking through defences in which infantry forces would have been mowed down. All in all, we should invest in their development.
+Artillery Investment
+Artillery is vital to cover and support our forces in the dirt. By investing additional resources in the production of more artillery we can secure the support of our army delivered by them and gain an advantage in battles.
+The Joint Exercise
+We should let all Nordic soldiers participate in a single large exercise, to prevent the armies from rusting in inactivity as well as to teach them to work together as a single military force.
+Merge the National Navies
+Reality is that the navies of our member states are simply too small to be meaningful in the grand scale of things, but together the navies make for a decently-sized single navy. If we are to reap the benefits of this however, we are to merge these navies under a single command structure.
+Atlantic Focus: Blue Water Navy
+The primary aim of our navy is to give our federation influence on the grander theatre. A significant presence in the Atlantic is an objective towards reaching that goal. We should focus on making our navy ocean-worthy.
+Develop Cruisers
+If we are to secure a presence in the Atlantic west of Norway and Denmark, we should invest in extending our cruiser arsenal. Without them, we are bound to find ourselves unable to exert the power we are desiring.
+Focus on Modern Battleships
+No navy is complete without a series of battleships capable leading the navy against our foes, serving as the largest ships with the largest amount of firepower available.
+Baltic Focus: Green Water Navy
+While a hope of exerting our influence into the Atlantic, is hopeful, for the next couple of decades our focus should be on the Baltic Sea. With all our navies combined, we can become a significant player in this body of water.
+Destroyer Development
+We should develop destroyers. These relatively small naval vessels are crucial in defending our larger ships and convoys from the submarine dangers that remain significant to this day.
+U-Boat Tactics
+The U-Boat made a significant dent in the British navy, especially in the earlier portion of the Weltkrieg. In addition, they are relatively cheap to produce. We should invest in this technology; it will win the next naval war.
+The Nordic Navy
+The Nordic Navy shall be known as a significant fighting force, one that is determined to defend our shores from any enemy with the intention of invading the islands, fjords and Baltic coasts of Scandinavia
+Establish the Nordic Aerial Authority
+Before we can move towards merging the air forces of our member states, we should ensure that our civilian and military air authority is harmonised throughout the federation.
+Merge the National Air Forces
+Our regional air forces are not sufficient to defend the airspaces from a large power. However, if combined, the force grows exponentially and we will become a force in aerial warfare to be reckoned with.
+Invest in SAAB
+The Swedish company Svenska Aeroplan AB produces top of the line airplanes. By helping them expand throughout the federation we will secure ourselves a main plane supplier of high quality.
+Expand the Aircraft Industry
+We should construct and modernise aircraft plants throughout Scandinavia in order to produce more planes to reinforce the air force.
+Bombs Fall From the Sky
+Nordic bombs shall be dreaded by the enemy, obliterating industrial zones, cities, countries... And then to think they were sent from a country with such a beautiful countryside. Distressing.
+The Nordic Air Force
+With the merge and expansion of our federal air force complete, enemies will think twice about messing with us. There is a significant chance that they might find themselves, in the air at least, at the disadvantage.
+Advance the Integration
+While we may have come a long way, we are not there yet. There are still divisions between the different countries in the federation, and it is our task to erase them and bring the federation ever closer.
+Expand the Railway Network
+To improve regional connectivity, we should modernise and expand the railway network throughout Scandinavia. More goods will be transported, more people will travel faster, and in the event of an emergency, our troops will reach any location in the country without wasting time.
+The Pan-Scandinavian Highway
+We should work on building a highway that connects the far reaches of our federation with each other, increasing the amount of people interacting and mending cultural differences as a result. After all, if it is easy to go to Sweden, why stay only in Norway?
+Invest in the Excavation Industry
+Scandinavia is rich in resources, and using cutting-edge technology, we can expand existing mines and search for new deposits more efficiently.
+Subsidise Nordic Farms
+The Nordic farmers are what keeps this federation fed. It would only be right to support their work for this great federation by subsidising their activities, lowering their prices and giving them an edge over the competition.
+Nordic Business
+The countries of the north have a healthy private branch. We should encourage this entrepreneurship for the good of the member states and the federation as a whole.
+Unite Intelligence Agencies
+We can conduct more effective counterintelligence operations and get full information about prospective threats to Scandinavian democracy by forming a unified intelligence agency under the control of the federal government.
+Unify the Schooling System
+By unifying the differing schooling systems of our member states into a single system, we can increase interaction between schools from different states. Norwegians will then have an educational development that will be recognisable for Swedes, bringing about a greater similarity in the next generation.
+Mandatory Language Classes
+The difference - be they sometimes subtle - between the Nordic languages can result in nasty communication errors. By ensuring that the schools in the federation teach all the major federal languages, we can go this problem out of the way and make a cultural unification ever more possible.
+Federal Exchange Programmes
+By enabling exchanges from students throughout the federation, we will support cross-member state border friendships and cooperation, ensuring the growth of a solidarity between the youths of the Nordic nations.
+Nationalism Fades Away!
+Our efforts at expanding the interactions of the Nordic people in cultural and economic sense is paying off; while some will of course always remain stalwart nationalists, at least the amount of people identifying as Nordic citizen rather than say a Swedish citizen is lower than ever.
+Form a Nordic Council?
+Representatives and diplomats of all three major Scandinavian countries have gathered in [SCA_nordic_council_leader.Capital.GetCapitalVictoryPointName] for a treaty to kickstart closer cooperation between the Nordic countries. We share values that not everyone in the world shares with us, and against a hostile world the nations of Scandinavia ought to work together, they argue. No hard agreements have been set here, but it does look like the follow-ups to this gathering might be more instrumental.
+A toast to our brethren!
+The Treaty of [SCA_nordic_council_leader.Capital.GetCapitalVictoryPointName]
+We have invited diplomats and representatives from both [SCA_loc_formation_countries] to [SCA_nordic_council_leader.Capital.GetCapitalVictoryPointName] to negotiate a - for now non-binding - treaty to kickstart closer cooperation between the Nordic countries. We share value that not everyone in the world shares with us, and against a hostile world the nations of Scandinavia ought to work together!\n\nWhile indeed few hard agreements will be set here, the first impressions are positive, and it seems the follow-ups to this gathering might be more instrumental.
+A toast to our brethren!
+This is a waste of time.
+Norway and Denmark
+Sweden and Denmark
+Sweden and Norway
+[From.GetNameDefCap] Rejects Our Proposal
+[From.GetNameDefCap] has let us know that they don't see any gain in following through with the reform we proposed. It seems that, in this area of politics at least, the peak of Scandinavian cooperation has been reached.
+Disappointing, but so be it...
+[SCA_federation_initiator.GetNameDefCap] Proposes a Nordic Federation
+[SCA_federation_initiator.GetNameDefCap] has proposed to unite all the Scandinavian countries in a democratic federation. This would result in the integration of our country into the Nordic Federation.
+Agree to federate.
+Oppose this project.
+[From.GetNameDefCap] Accepts Our Proposal
+[From.GetNameDefCap] has expressed interest to join our proposal to unite all the Scandinavian countries in a democratic federation. We are one step closer to the establishment of a united Scandinavia.
+That's good!
+[From.GetNameDefCap] Rejects Our Proposal
+[From.GetNameDefCap] has waved off our proposal to unite all the Scandinavian countries in a democratic federation. It seems Scandinavian integration has, by all means, reached its peak.
+Disappointing, but not entirely unexpected...
+Creation of the Nordic Federation
+The other Scandinavian countries have agreed to our proposal regarding federation. According to its constitution, the Nordic Federation will, for now until it can be addressed by a proper federal government of course, be a democratic, federal monarchy. The executive will consists of a federal government, which holds power on behalf of a council consisting of the Swedish, Norwegian and Danish monarchs. The federal parliament will be based in Göteborg, but all the constituent kingdoms retains their individual institutions and autonomy.
+Great!
+Rise of the Nordic Federation
+Today a new giant rises in the North. After many tense sessions of negotiations, the Nordic unity that was once thought unachievable is now a reality. The past few years have seen much of the world drifting apart, but the Nordic nations have acted in defiance of this trend.\n\nThis brotherly union will be entering a world that is in many ways on the precipice, but they know that together they are much stronger than they could ever be apart. A joint session of parliament is being called to celebrate this landmark achievement. Three cheers for unification, three cheers for democracy!
+Hip hip hooray for Scandinavia!
+The Formation of the Nordic Federation
+After the signing of the Scandinavian Treaty, a transitionary government primarily composed of civil servants with little active powers has been left in place that will co-govern the federation with the national governments until we successfully ratify the federal constitution, which will then be established as the highest law within the federation; above those of the member states, which will then allow for coordinated elections to establish a government elected by the people.
+Prepare the Constitutional Convention!
+The First Federal Election
+We are ready to conduct our first federal election. This parliament is provisional and will only last until we can elect a more permanent assembly at a later date. While there are several smaller parties on the ballot, there are three that can realistically win the election. The Nordic Social Democratic Worker's Party is campaigning on the issue of public welfare and would like to keep the status quo in regards to federal and international affairs. The Liberal Party is promising to cut taxes and make itself strong for the civil liberties of the citizens. They are also in favour of maintaining the current status of the federation. Lastly, the Farmer's League is an agrarian party coming up for the interests of Scandinavia's farmers. Who will win?
+NSAP - The Social Democrats
+LP - The Liberals
+The Farmer's League - The Social Conservatives
+The [GetYear] Federal Election
+The time has come to elect a federal parliament to serve for a full four year term. Once again the different parties have campaigned vigorously, and it is to the Nordic people to decide who reigns supreme in the end.
+The Nordic Constitution
+Section 1:\n\nArt. 1:\n1. This constitution shall apply to all parts of all constituent countries of the Nordic Federation.\n2. Which nations are considered part of the Federation shall be determined by federal law.\nArt. 2: The form of government shall be that of a constitutional monarchy. The head of the federation as determined in part 2 shall hold royal power.\n\nArt. 3: Legislative power shall be vested in the Nordic Parliament and the head of the federation conjointly; the executive power shall be vested in the cabinet.\n\nThese are the first articles of the Nordic constitution. The debates are fierce, but an agreement shall be reached on the fundament of our federation's law.
+Hurrah!
+Section 3: The Head of the Federation
+Art. 34:\n1. The Federal Council shall jointly take upon themselves the office of 'Head of the Federation'.\n2. The heads of state of the constituent countries take seat in the federal council.\n\nArt. 35: The federal council shall appoint the federal prime minister and his cabinet on the advice of the Nordic Parliament.\n\nWith these words, the reality is solidified that the federal council will act as the monarch in a constitutional monarchy. A fair manner in which none of the constituent countries will be negatively impacted.
+A fair deal!
+Section 2: The Legislative Branch
+Art. 8: The Nordic Parliament shall be a separate body, elected by the people of each constituent country according to proportional representation.\nArt. 9: The Lower House shall consist of one assembly of not more than three hundred Members.\nArt. 10: The Upper House shall consist of one assembly of not more than one hundred and fifty Members.\nArt. 11: The Upper House and Lower House will together form the Nordic Parliament.\nWith these and more articles, the legislative branch of the Nordic Federation has been decided upon.
+We're moving forward!
+Art. 8: The Nordic Parliament shall refer to the joint sessionage of the parliaments of the constituent countries.\nArt. 9: The Lower House shall consist of one assembly of the members of the lower houses of the constituent countries, as each are established in their constitution.\nArt. 10: The Upper House shall consist of not more than one hundred and fifty Members that are elected directly by the people of the constituent countries of the federation.\nArt. 11: The Upper House and Lower House will together form the Nordic Parliament.\nWith these and more articles, the legislative branch of the Nordic Federation has been decided upon.
+We're moving forward!
+Section 5: The Judicial Branch
+Art. 58: The High Court of the Federation shall consist of up to twenty of the eldest - according to seniority of office—ordinary members of the courts of justice of the constituent states, and an equal number of members elected for six years by the Lower House according to proportional representation. One or more substitutes shall be elected for each elected member. No Member of Parliament shall be elected a member of the High Court of the Realm, nor shall a Member of Parliament act as a member of the High Court of the Federation. Where in a particular instance some of the members of the highest court of justice of the Federation are prevented from taking part in the trial of a case, an equal number of the members of the High Court of the Federation last elected by Parliament shall retire from their seats.\n\nAs such, a new high court was established, standing above the national courts to enforce federal law.
+This will bring stability.
+Art. 58: Federal laws shall be enforced by the national judicial organisations as if they were regular laws. The federal government may not impede on the national judicial systems, unless all constituent countries other than the one in question agree the integrity of the national judicial branch is under serious duress.\n\nWith this article, judicial autonomy is secured.
+The emergency clause was necessary to prevent misuse...
+Art. 58: Constituent countries may not entertain their own courts of law.\nThe exercise of the judiciary power shall be governed only by Federal Law. Extraordinary courts of justice with judicial power shall not be established. The exercise of the judiciary power shall be governed only by Statute.\nExtraordinary courts of justice with judicial power shall not be established.\nArt. 60: The administration of justice shall always remain independent of the executive power. Rules to this effect shall be laid down by Federal Law.\nArt. 61: The administration of justice shall always remain independent of the executive power. Rules to this effect shall be laid down by Statute.\nWith these articles, one Nordic judicial system for all constituent countries will be established. A few articles more, and their independence will be optimally secured.
+I don't know if the constituent countries will approve of this...
+The Scandinavian Internationale
+Leading members of the social democratic parties of Scandinavia; primarily of Socialdemokratiet of Denmark, the Labour Party of Norway and the Swedish Social Democratic Labour Party, as well as some smaller, often local, parties, gathered in Copenhagen to establish their electoral alliance in the federal elections that shall be held in the future.\n\nRightwing Danish media sportingly nicknamed this gathering the 'Scandinavian Internationale' after the international socialist gatherings. While they decided to go for the name of 'Nordic Social Democratic Workers Party', this sobriquet was enthusiastically adopted by the younger socialists, although the leader of the Danish youth wing, Hans Hedtoft, did clarify that the Nordic Social Democratic Party does not endorse syndicalism in any way. According to him, the name appeals based on the Second Internationale.
+Hmm, suspicious!
+Formation of the Conservative Party
+Several conservative parties around the federation have announced a fusion to optimally partake in the federal elections that are to be held soon. This alliance includes the Norwegian Høyre party as well as both the Danish Venstre party and the Danish KF party, which has left experts predicting that Denmark will be the main base of this party, even if it will still be a hotly contested region considering the strong presence of the social democrats. In Sweden, the traditional conservatives have joined this party, although some among them look with a certain suspicion to the limited commitment to some of the values of conservatism embraced in this new party, despite the name. Some members of the Swedish riksdag abandoned the party even completely when they agreed to join, leaving them independents.
+We wish them luck!
+Formation of the Liberal Party
+Board members from the Swedish Folkpartiet, the Danish Radikale Venstre and the Norwegian Venstre parties have declared their intention in the federal capital of Göteborg today to run together as the Liberal Party in the soon-to-be-held Nordic elections. As this group is composed of mostly smaller parties, experts predict that they will have a difficult time actually winning these elections, but they might well become influential as a smaller party as the junior party in a future coalition.
+Good luck with that!
+The Unification of Trade Unions
+As it becomes clear that the Nordic countries are starting to embark on a united path, the labour movement has not been sitting still. The Trade Union Congresses of Denmark, Sweden and Norway have convened in the Swedish capital of Stockholm. Here they voted to unify all three organisation into an even higher congress known as the Nordic Trade Union Congress. Unsurprisingly, the syndicalist elements followed suit in this, in spite of their alleged opposition to the Nordic project, meaning a unified syndicalist cause now exists on the Nordic level.
+Lightly worrying indeed...
+Ratification of the Constitution
+The Federal Constitution has been formalised. In a festive ambiance, it has been symbolically accepted by the federal parliament and then been signed by the each of the monarchs of the member states in the new federal capital of Göteborg. With this, the Federation has finally been made official and the constitution has been empowered. A truly glorious day for the boreal nations of Scandinavia!
+Hurrah!
+Switching of the Guard
+As the constitution provides, the chairman of the federation revolves between the monarchs of the constituent member states. 2 years have passed, and it is time for the next monarch to take this role upon themselves.
+Hurrah!
+Formation of the Farmer's Party
+Agrarian parties are a curious phenomenon in Northern European, especially Scandinavian politics that defend the interests. Naturally, they did not sit still as the Nordic countries are uniting and they too have formed their own unified party to compete in the elections.
+More concise parties are always good!
+The Formation of the Nordic Federation
+Delegates from Sweden, Norway and Denmark convened this morning in Stockholm to finalise a resolution for the federalisation of the three countries into one entity. Known now as the Nordic Federation, many political analysts have been debating what this will mean for the future of the balance of power in Europe. While some believe that the liberal ideas of the federation align with the interests of the Entente, most agree that the new nation will likely take a stance of neutrality on all matters. The balance of power once again shifts on the world stage.
+The Northern Lights Shine Bright
+The Nordic Federation Negotiates for Neutrality
+With the formation of the Nordic Federation, it seems the Scandivanians have decided to reject violence. They have approached us to negotiate a recognition of their neutrality, however, with two of their constituent nations having been in our economic sphere. We could push for them to return to it in exchange for neutrality.
+Demand they return to our sphere, then they shall have their peace.
+The German Response.
+The German's have responded to our request. If we join their economic sphere like Sweden and Denmark had, then they will agree to respect our neutrality.
+Well that's not so bad is it?
+The Nordic Federation Negotiates for Neutrality.
+With the formation of the Nordic Federation, it created the problem of a unified Scandinavia possibly joining the Reichspakt. However, the Nordic Federation has started talks with us to ensure they avoid any bloodshed. While they are forced back into the German's economic sphere, we can demand that they oppose any further German encroachment into their affairs. We will also give a promise of protection from other powers that they can invoke any time.
+A great opportunity for us
+The Russian Response.
+The Russians responded rather well to our negotiations, however their terms make it clear that we are to avoid any further terms with Germany and to oppose any invasion or perceived interference in our affairs by other powers, with Russia promising aid if we wish it. This makes it clear that the Russians see us in their sphere and we may need to tread a fine line between them and Germany.
+The cause requires sacrifice...
+The Nordic Federation Negotiates for Neutrality.
+The newly formed Nordic Federation have approached us for talks about their neutrality in European affairs. They could have been a formidable enemy on Germany's side but they have chosen to protect their own people instead. We can push them to allow for socialist parties and syndicalist unions to operate freely in exchange for recognising their neutrality.
+Open socialist parties will further socialism anyway.
+The Socialist Response.
+The Third Internationale have agreed to our request for neutrality on two conditions: First is that any socialist political party that wishes to organise and contest elections should be free to do so, and second, that syndicalist unions can freely operate in workplaces. These terms seem quite reasonable and a few new political groups are a small price to pay to secure neutrality.
+Hopefully they aren't the revolutionary kind...
+Federal Council
+§YBackground:§! §LThe Federal Council of the Nordic Federation is the federal head of state. The council, which consists of the monarchs of the constituent states, is mostly a symbolic institution as it is bound to follow the advice of the federal government.§!
+Scotland Focus Tree
+Scotland
+Scottish
+Scotland
+Scottish Workers' Republic
+the Scottish Workers' Republic
+Scottish Workers' Republic
+the Scottish Workers' Republic
+Scottish Workers' Republic
+the Scottish Workers' Republic
+SWP
+Scottish Workers' Party
+SSP
+Scottish Syndicalist Party
+SWRP
+Scottish Workers' Republican Party
+SNP (Left)
+Scottish National Party (Left)
+NPS
+National Party of Scotland
+Scottish Party
+Scottish Party
+Unionist Council
+Unionist Council
+Provisional Government
+Provisional Government
+SFC
+Scottish Freedom Committee
+Fringe Nationalists
+Fringe Nationalists
+SNP (Right)
+Scottish National Party (Right)
+Scottish Workers' Council
+§YFounded:§! §Lin Scotland§!
+James Maxton
+§YBorn:§! §LJune 22nd, 1885, in Glasgow, Lanarkshire, Scotland§!
+Roland Muirhead
+§YBorn:§! §LJuly 24th, 1868, in Lochwinnoch, Renfrewshire, Scotland§!
+Hugh MacDiarmid
+§YBorn:§! §LAugust 11th, 1892, in Langholm, Dumfriesshire, Scotland§!
+John MacCormick
+§YBorn:§! §LNovember 20th, 1904, in Glasgow, Lanarkshire, Scotland§!
+Compton Mackenzie
+§YBorn:§! §LJanuary 17th, 1883, in West Hartlepool, Durham, England§!
+Isaac Wolfson
+§YBorn:§! §LSeptember 17th, 1897, in the Glasgow, Lanarkshire Scotland§!
+Walter Elliot
+§YBorn:§! §LSeptember 19th, 1888, in Lanark, Lanarkshire, Scotland§!
+Council of State
+§YFounded:§! §Lin Scotland§!
+Arthur Donaldson
+§YBorn:§! §LDecember 13th, 1901, in Dundee, Forfarshire, Scotland§!\n§YBackground:§! §LA native of Dundee, Arthur Donaldson has had an unlikely life, initially leaving school to become an assistant registrar before becoming a Dundee Journalist. After a five year-stint in the United States working for Chrysler, Donaldson would return to Scotland in 1928 to campaign for the NPS and quickly become a close associate of John MacCormick. Attempting a career as a freelance journalist and poultry farmer in the Union of Britain, Donaldson would face continued harassment from the security forces and become increasingly anti-socialist. Despite following Douglas Young into the SNP, he would quickly carve out his own rightist and pro-collaborationist faction. Now in charge, Donaldson will do whatever is necessary to protect Scotland from British tyranny.§!
+Tom Bell
+§YBorn:§! §LSeptember 20th, 1882, in Glasgow, Lanarkshire, Scotland§!
+David Kirkwood
+§YBorn:§! §LJuly 8th, 1872, in Glasgow, Lanarkshire, Scotland§!
+George Buchanan
+§YBorn:§! §LNovember 30th, 1890, in Cairo, Governorate of the Capital, Khedivate of Egypt§!
+Andrew Dewar Gibb
+§YBorn:§! §LFebruary 13th, 1888, in Paisley, Renfrewshire, Scotland§!
+Hector McNeil
+§YBorn:§! §LMarch 10th, 1907, in Garelochhead, Dunbartonshire, Scotland§!
+Helen Crawfurd
+§YBorn:§! §LNovember 9th, 1877, in the Glasgow, Lanarkshire, Scotland§!
+Neil Maclean
+§YBorn:§! §L1875, in Scotland§!
+Jimmy 'Gabriel' Friell
+§YBorn:§! §LMarch 13th, 1912, in Glasgow, Lanarkshire, Scotland§!
+Alexander MacEwan
+§YBorn:§! §LJanuary 10th, 1875, in Calcutta, Presidency of Fort William in Bengal, British India§!
+Robert Gray
+§YBorn:§! §L1895, in Scotland§!
+Tom Gibson
+§YBorn:§! §LSeptember 2nd, 1893, in Glasgow, Lanarkshire, Scotland§!
+John L. Kinloch
+§YBorn:§! §LFebruary 12th, 1880, in Scotland§!
+John Reith
+§YBorn:§! §LJuly 20th, 1889, in Stonehaven, Kincardineshire, Scotland§!
+William Power
+§YBorn:§! §LAugust 30th, 1873, in Glasgow, Lanarkshire, Scotland§!
+Edmund Hakewell-Smith
+§YBorn:§! §LMarch 17th, 1896, in Kimberley, Northern Cape, South Africa§!
+Roy Urquhart
+§YBorn:§! §LNovember 28th, 1901, in Shepperton, Middlesex, England§!
+Alexander Biggam
+§YBorn:§! §LApril 14th, 1888, in Stranraer, Argyll, Scotland§!
+Anthony Miers
+§YBorn:§! §LNovember 11th, 1906, in Inverness, Inverness-shire, Scotland§!
+John Inglis Gilmour
+§YBorn:§! §LJune 28th, 1896, in Helensburgh, Dumbartonshire, Scotland§!
+Malcolm Stokes
+§YBorn:§! §Lin Scotland§!
+Donald Wickeford
+§YBorn:§! §Lin Scotland§!
+Edwyn MacAndrew
+§YBorn:§! §Lin Scotland§!
+Sandy Glen
+§YBorn:§! §LApril 18th, 1912, in Glasgow, Lanarkshire, Scotland§!
+Scottish Defence Committee
+§YFounded:§! §Lin Scotland§!
+John McGrew
+No Central Leadership
+§YBorn:§! §LDecember 25th, 1881, in Paisley, Renfrewshire, Scotland§!\n§YBackground:§! §LWilliam Gallacher founded the Labour Withholding Committee in opposition to the Weltkrieg era Munitions Act. Jailed in his native Glasgow for undermining the war effort, Gallacher became increasingly radicalised. Upon release from prison, Gallacher joined the Glasgow Trades Council, part of the greater British Trade Union Movement, and organised it into an effective militia force during the revolution.\n\nNow in charge of his native Scotland, he will no doubt pursue an orthodox syndicalist course.§!
+The §GModerate Democrats§! control the provisional government.
+The §PScottish Freedom Committee§! controls the provisional government.
+§CA state-building convention will be held to promulgate a provisional constitution.§!
+§GDemocratic elections will be held to decide the future nature of our government.§!
+§RMartial law will be maintained under the leadership of the Scottish Freedom Committee.§!
+§CThere is a medium chance we may adopt a figurehead presidency!§!
+Fledgling State
+Much of the population, Nationalist and Unionist, are supportive of the old syndicalist orthodoxy, leaving our more 'moderate' government on precarious ground. Our new benefactors can prop us up for now, but their help can't go on forever.
+The Unionist Question
+[SCO_unionist_question_focus_desc]
+Politically 'moderate' Unionists who wish to see a restoration of the United Kingdom have begun to assert themselves in the present political vacuum, becoming a lingering issue.
+Like in 1928, 'Tory Unionists' and pro-British syndicalists share a common goal of opposing an independent Scotland. While a minor headache, they are a headache none-the-less.
+Economic Breakdown
+Ravaged by war and occupation, the Scottish economy is in ruins.
+Disorganised Army
+The Scottish Provisional Army is under-equipped, poorly-staffed and mostly compromised of old Home Guard units. It will be necessary to build a proper army from scratch.
+Coastal Battery Construction
+The Scottish National Army
+Unionist Groups Banned
+For the safety of the Scottish state, treacherous organisations such as the Unionist Council or those with dubious loyalty such as the Scottish Party have been forcibly disbanded.
+Unionist Groups Repressed
+To ensure political stability, organisations of dubious loyalty to the new Scottish state, such as the Unionist Council, are being repressed by the authorities.
+Unionist Collaboration
+Despite their vocal opinions, many Unionists are prepared to collaborate with the new Scottish state. Their help is somewhat controversial if politically useful.
+Donaldson's Dictatorship
+The Special Intelligence Office
+Distributionist Economic Policy
+Emerging Democracy
+Presidentialism
+Social Liberties
+Scottish Democracy
+Caledonian Tourism
+The Scottish Welfare State
+Centralist Governance
+State-Economic Planning
+Celtic Syndicalist Democracy
+A Workers' Economy
+Socialist Welfare Programmes
+The Caledonia Convention
+Transition to Democratic Rule
+Maintain the State of Emergency
+Centralise the State Apparatus
+Ban Unionist Organisations
+Establish the Special Intelligence Office
+Purge Syndicalist Sympathisers
+The Internment and Sedition Act
+Press and Broadcasting Controls
+Found the Scottish Citizen's Watch
+Nationalise Utilities & Heavy Industry
+Towards a Social Republic
+Public Work Schemes
+Reintroduce Crofting Practices
+Empower the Presidency
+Restrict Syndicalist Organisations
+Nation Building
+Protect Social Liberties
+Support Scottish Cultural Programmes
+Promote Church Reconciliation
+Suppress the Unionist Council
+Recruit Unionist Collaborators
+Chart the Moderate Course
+Our Slice of Civilisation
+The Scottish Welfare State
+Embrace Workplace Democracy
+Schools and Libraries
+Universal Healthcare
+Expand the SGBC
+Establish a Tourist Industry
+Empower the Scottish Senate
+Maintain Republican Scots' Law
+Adopt a New Legal Code
+Reorganise the Provisional Army
+Form the Scottish Naval Service
+North Sea Oil Drilling
+Coastal Batteries
+Reopen the Ordnance Factories
+Dedicated Military Railways
+Refurbish British Air-Raid Shelters
+Invite Foreign Advisors
+Form the Joint Chiefs of Staff
+Recruit Republican Officers
+Regular Drilling Standards
+The Flying Scotsmen
+Establish the Joint War Council
+Mandatory Cadet Enlistment
+The Dream of Maclean
+Suppress Unionist Activities
+Pragmatic Collaboration
+Rule by Central Committee
+Model Worker Cities
+National Planning Committees
+Communal Housing
+Rubber-stamp the TUC
+Criminalise Reactionary Thought
+Empower the TUC
+Protect Worker Freedoms
+Celtic Syndicalism
+Revive the Clydeside Militancy
+Rekindle Internationalism
+Organise Factory Councils
+Radio Scotland
+Urban Education Programmes
+Revive the Highland Settlement Initiative
+Support Agricultural Cooperatives
+Vanguardist Worker
+Old Clydesider
+Pacifist Patriot
+True Scotsman
+The King
+Scottish Legalist
+Ambitious Engineer
+Cooperative Advocate
+Popular Cartoonist
+Public Health Advocate
+Old Stonemason
+Steel Magnate
+Cultural Organiser
+And-Jëf
+Parti And-Jëf
+UGTS
+Union Générale des Travailleurs Sénégalais
+PSS
+Parti Socialiste Sénégalais
+Négritudistes
+Parti de Négritude Sénégalaise
+Democrats
+Parti Démocratique Sénégalais
+Yakaar
+Alliance pour la République
+Évolués
+Évolués
+Customarists
+Customarists
+Serer Restorationists
+Serer Restorationists
+Serer Restorationists
+Serer Restorationists
+Lamine Gueye
+§YBorn:§! §LSeptember 20th, 1891, in Médine, Colony of Sudan, French West Africa§!
+Blaise Diagne
+§YBorn:§! §LOctober 13th, 1872, in Gorée, Sénégal, French Republic§!\n§YBackground:§! §LBorn in the Old Commune of Gorée, Diagne served as a customs official for the French colonial bureaucracy before becoming the first African elected to the Chamber of Deputies in 1914. He was an advocate for African equality with Metropolitan French citizens within the legal structure of the French Republic, and was a leading figure in Clemenceau's war cabinet, recruiting thousands of African servicemen with promises of rights and pensions. The failure of the Nivelle Offensive in 1917, in which the tirailleurs suffered severe casualties, complicated this relationship. Diagne felt a personal responsibility, having recruited many of the men who died in the offensive, and led an inquiry into the matter. He presented his findings to a secret session of the Chamber of Deputies, alleging that the French Army, and in particular General Charles Mangin, misused the tirailleurs under his command. Initially, Diagne was encouraged by the deputies' reaction, but any outrage among high political and military officials died out as the war stagnated and then turned against France. The tirailleurs were called upon again and again to sacrifice their lives, and Diagne watched as the men he promised liberty and peace died for a country that seemed to see them as little more than shock troops. His loyalty to the Republic profoundly shaken, Diagne turned his connections to the French Section of the Workers' International and his eminent position among the évolués of Senegal to the task of building a nationalist movement, a task that only became more urgent with the collapse of the Third Republic and the birth of the Algiers regime, and as his health began to fail him in old age.§!
+§YBorn:§! §LOctober 13th, 1872, in Gorée, Sénégal, French Republic§!
+Léopold Sédar Senghor
+§YBorn:§! §LOctober 9th, 1906, in Joal, Colony of Sénégal, French West Africa§!\n§YBackground:§! §LBorn to a wealthy family with customary royal connections, Senghor attended the Ngasobil Fathers of the Holy Spirit boarding school and in 1922 entered seminary school before dropping out to complete a secular education in the humanities, in which he achieved great distinction. He was offered a partial scholarship to study at the University of Algiers, which he accepted with the goal of becoming a teacher, but during his time at Algiers, he became involved with the nascent Négritude movement, which by that time had begun to spread to North Africa from salons in Paris. Driven by a desire to be close to the source of the revolutionary new ideas of the movement, Senghor dropped out of the University of Algiers and travelled to France by way of Spain. He completed his Agrégation at the Sorbonne in 1935 and taught for a time while writing prolifically for the chief Négritude journal, L'Étudiant Noir, publishing poems, treatises on black equality, and accounts of the wartime experience of the tirailleurs who fought for France before settling in the Commune after the war. With Senegal's declaration of independence, he returned home and settled in Dakar, eager to contribute to his country's political and artistic life.§!
+Ngalandou Diouf
+§YBorn:§! §LSeptember 14th, 1875, in Saint-Louis, Sénégal, French Republic§!\n§YBackground:§! §LNgalandou Diouf was to an upper-class Muslim family, and initially worked as a schoolteacher, before becoming involved in politics following his election to the General Assembly of Saint-Louis. He initially supported the political ascendancy of Blaise Diagne, but the two split following the Weltkrieg; Diouf believed that Diagne was too pro-French, and the Communard Revolution only intensified his anti-socialist sentiments even as it strengthened Diagne's socialist convictions. As a result, Diouf became popular among évolués who remained loyal to the French. He is seen as one of the only figures in French Africa capable of challenging Diagne's political dominance, even if his support is limited to the évolués and a handful of customary chiefs.§!
+Abdoulaye N'Diaye
+§YBorn:§! §L1894, in Thiowor, Colony of Sénégal, French West Africa§!\n§YBackground:§! §LAbdoulaye N'Diaye was one of the tirailleurs lucky enough to live through the Weltkrieg. Wounded twice and decorated with the Croix de Guerre and Médaille Militaire for his service at Verdun, N'Diaye returned to Thiowor after the war to tend to his family's farm, one of the even fewer tirailleurs to return to Africa following the Communard Revolution. When Diagne heard the news that Senegal was revolting against the French, he elected to stand with his countrymen and mustered in his old uniform before the Senegalese provisional government at Dakar. Blaise Diagne's affection for the old tirailleurs saw him take a shine to N'Diaye, and he was given command in the new Armée Sénégalaise.§!

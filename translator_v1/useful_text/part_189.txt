@@ -1,0 +1,1276 @@
+§GAllows§! the $ROLE|H$ role
+§GAllows§! the $ROLE|H$ role, but $FORBIDDING_MODULE|H$ §Rforbids§! it
+§RForbids§! the $ROLE|H$ role
+The role $ROLE|H$ is £trigger_yes£ by module $ALLOWING_MODULE|H$ but is £trigger_no£ by module $FORBIDDING_MODULE|H$.\n\n
+Engine Type
+Armour Type
+Tracked Suspension
+Light Turret Type
+Medium Turret Type
+Heavy Turret Type
+Super-Heavy Turret Type
+Modern Turret Type
+Small Armaments
+Medium Armaments
+Heavy Armaments
+Flamethrowers
+Super-Heavy Armaments
+Special Modules
+Radio
+Secondary Turret
+Non-tracked Suspension
+Main Armament
+Turret
+Suspension
+Armour Type
+Engine Type
+Special Features
+Special Features
+Special Features
+Special Features
+Gasoline Engine
+An Engine running on gasoline will be faster for a given Engine Size, but the fuel will be much more prone to catching fire.
+Diesel Engine
+An Engine running on Diesel fuel is more reliable than a gasoline engine, but not as fast for the same Engine Size.
+Petrol-Electric Engine
+A combination of a petrol-driven engine providing power to an electric motor. Complex, expensive and unreliable, it does however offer unmatched performance in tactical movements.
+Gas Turbine
+An turbine developed from jet engines. High fuel consumption, but the highest speed of any engine at a given Engine Size.
+Riveted Armour
+Armour Plates bolted to the frame and held together by rivets driven into the edges. A very proven technology that is fairly cheap, but the riveted edges provide weakpoints in the armour and might hurt the crew if the rivets are hit.
+Cast Armour
+The entire Chassis, including armour, is cast as a single unit. An expensive and time-consuming process that allows for much thicker armour with fewer weakpoints.
+Welded Armour
+Armour plates are welded to the chassis. A faster process than casting, while still providing good protection.
+Makeshift Armour
+Made out of sheets of iron instead of steel to save money. Better than no armour... Probably.
+Torsion Bar
+A fairly reliable suspension system of metal bars fixed to the vehicle chassis that provides a smoother ride than other suspension types.
+Christie Suspension
+Developed by an American inventor, this supension allows for exceptionally high speeds.
+Bogie Suspension
+A simple and fairly cheap type of suspension in which the roadwheels are mounted individually, allowing them to be easily replaced if damaged.
+Interleaved Roadwheels
+By overlapping the roadwheels, more of them can be fit in the same length of the hull, thereby improving mobility as well as providing some additional protection in the flanks.
+One Man Turret
+A small turret barely large enough to hold a single crew member, who is tasked with aiming and loading the main armament as well as keeping watch for targets and threats.
+Two Man Turret
+A turret that allows for two crew members to share the work of operating the armament and observing the situation. It still does not allow for an effective division of labour amongst the crew.
+Three Man Turret
+A turret big enough for the three crew members to divide the tasks of loading and aiming the main armament as well as staying aware of the situation around them.
+Light Fixed Superstructure
+A fixed superstructure only allows the main armament to traverse in a small arc without turning the entire vehicle. However, it allows the vehicle to mount a bigger armament while being overall of smaller size, making the vehicle perfect for ambushes.
+One Man Turret
+A small turret barely large enough to hold a single crew member, who is tasked with aiming and loading the main armament as well as keeping watch for targets and threats.
+Two Man Turret
+A turret that allows for two crew members to share the work of operating the armament and observing the situation. It still does not allow for an effective division of labour amongst the crew.
+Three Man Turret
+A turret big enough for the three crew members to divide the tasks of loading and aiming the main armament as well as staying aware of the situation around them.
+Medium Fixed Superstructure
+A fixed superstructure only allows the main armament to traverse in a small arc without turning the entire vehicle. However, it allows the vehicle to mount a bigger armament while being overall of smaller size, making the vehicle perfect for ambushes.
+Two Man Turret
+A turret that allows for two crew members to share the work of operating the armament and observing the situation. It still does not allow for an effective division of labour amongst the crew.
+Three Man Turret
+A turret big enough for the three crew members to divide the tasks of loading and aiming the main armament as well as staying aware of the situation around them.
+Heavy Fixed Superstructure
+A fixed superstructure only allows the main armament to traverse in a small arc without turning the entire vehicle. However, it allows the vehicle to mount a bigger armament while being overall of smaller size, making the vehicle perfect for ambushes.
+Four Man Turret
+A massive turret with additional space for a second loader to service the main gun.
+Three Man Turret
+A turret big enough for the three crew members to divide the tasks of loading and aiming the main armament as well as staying aware of the situation around them.
+Modern Turret
+A well-laid out turret allows three crew members to efficiently operate the main armament and keep track of their surroundings.
+Heavy Machine Gun
+A machine gun provides decent anti-infantry capability for a low cost. Even with special armour-piercing ammunition, its anti-armour performance leaves a lot to be desired.
+Flamethrower
+A device to project a stream of burning liquid. While very useful in urban combat and against fortifications, it offers no anti-armour capability and has to be used by a specially-trained crew in a separate unit to be effective.
+Advanced Flamethrower
+Enhanced flamethrower systems, ideal for clearing fortified positions and inflicting devastating damage in close-quarters combat.
+Automatic Cannon
+Adapted from a fast-firing anti-air gun, this automatic cannon can lay down a hail of fire that is devastating to soft targets. The small calibre does limit its anti-armour performance.
+Improved Automatic Cannon
+Adapted from a fast-firing anti-air gun, this automatic cannon can lay down a hail of fire that is devastating to soft targets. The small calibre does limit its anti-armour performance.
+Basic Anti-Air Gun
+A fast-firing automatic gun designed to engage aircraft. It has limited potential as a fire-support weapon against ground targets.
+Improved Anti-Air Gun
+A fast-firing automatic gun designed to engage aircraft. It has limited potential as a fire-support weapon against ground targets.
+Advanced Anti-Air Gun
+A fast-firing automatic gun designed to engage aircraft. It has limited potential as a fire-support weapon against ground targets.
+Medium Howitzer
+A medium field howitzer adapted to be mounted in a vehicle. Its primary purpose is indirect fire support against soft targets, but it can be fired directly at a target if necessary. Carrying only a small amount of armour-piercing ammunition, it is ill-suited for anti-tank work.
+Improved Medium Howitzer
+A medium field howitzer adapted to be mounted in a vehicle. Its primary purpose is indirect fire support against soft targets, but it can be fired directly at a target if necessary. Carrying only a small amount of armour-piercing ammunition, it is ill-suited for anti-tank work.
+Heavy Howitzer
+A heavy field howitzer adapted to be mounted in a vehicle. Its primary purpose is indirect fire support against soft targets, but it can be fired directly at a target if necessary. Carrying only a small amount of armour-piercing ammunition, it is ill-suited for anti-tank work.
+Small Cannon
+A small and cheap cannon, able to fire both anti-infantry and anti-armour rounds. Its small calibre limits its usefulness.
+Improved Small Cannon
+A small and cheap cannon, able to fire both anti-infantry and anti-armour rounds. Its small calibre limits its usefulness.
+Medium Cannon
+A general-purpose weapon well suited to a wide variety of tasks. It excells at neither anti-infantry nor anti-tank work, but it provides a vehicle with a lot of flexibility.
+Improved Medium Cannon
+A general-purpose weapon well suited to a wide variety of tasks. It excells at neither anti-infantry nor anti-tank work, but it provides a vehicle with a lot of flexibility.
+Basic High-Velocity Cannon
+A cannon specifically designed to achieve a high muzzle velocity. Using specialised ammunition, it has superb anti-armour characteristics, but its performance against soft targets suffers.
+Improved High-Velocity Cannon
+A cannon specifically designed to achieve a high muzzle velocity. Using specialised ammunition, it has superb anti-armour characteristics, but its performance against soft targets suffers.
+Advanced High-Velocity Cannon
+A cannon specifically designed to achieve a high muzzle velocity. Using specialised ammunition, it has superb anti-armour characteristics, but its performance against soft targets suffers.
+Basic Heavy Cannon
+A weapon that can fire a large shell. With exceptional armour penetration and decent performance against soft targets, its biggest drawbacks are the sheer size and cost, which make it too unwieldly to be mounted in most vehicles not specifically designed to carry it.
+Improved Heavy Cannon
+A weapon that can fire a large shell. With exceptional armour penetration and decent performance against soft targets, its biggest drawbacks are the sheer size and cost, which make it too unwieldly to be mounted in most vehicles not specifically designed to carry it.
+Advanced Heavy Cannon
+A weapon that can fire a large shell. With exceptional armour penetration and decent performance against soft targets, its biggest drawbacks are the sheer size and cost, which make it too unwieldly to be mounted in most vehicles not specifically designed to carry it.
+Super-Heavy Cannon
+An absurdly large weapon with unmatched performance. There are very few things that this weapon can not destroy, and none of them have any business shooting at a tank.
+Close Support Gun
+A small weapon designed to fire high-explosive shells against enemy field fortifications to help the infantry on the attack. While capable of engaging tanks, its short barrel and limited ammunition make it unable to deal with more powerful enemy tanks.
+Basic Radio
+A basic two-way radio allows tanks to coordinate their tactical manoeuvres on a small scale.
+Improved Radio
+An improved radio allows commanders effective control over larger formations of tanks, permitting large-scale operational manoeuvres.
+Advanced Radio
+With a more powerful transmitter and better reception, this radio allows communications over dozens of kilometers and in the face of enemy jamming.
+Amphibious Drive
+A set of floatation devices and a small screw allow this tank to quickly be rigged to traverse water, either from ship to shore or across a river.
+Heavy Machine Gun
+A heavy machine gun in a secondary turret. The placement of the turret limits its arc of fire, lowering the gun's overall effectiveness, but it does allow the tank to engage more targets. This is particularly useful when on the attack.
+Small Cannon
+A small cannon in a secondary turret. The placement of the turret limits its arc of fire, lowering the gun's overall effectiveness, but it does allow the tank to engage more targets. This is particularly useful when on the attack.
+Close Support Gun
+A close support gun in a secondary turret. The placement of the turret limits its arc of fire, lowering the gun's overall effectiveness, but it does allow the tank to engage more targets. This is particularly useful when on the attack.
+Sloped Armour
+Armour placed at an angle to an incoming shell has a much greater effective thickness than the same amount of armour placed vertically. It also increases the chance that the shell will simply bounce off harmlessly. However, it requires the entire tank to be designed around it, making the vehicle more difficult to assemble.
+Stabilizer
+A mechanical device to keep the gun pointing in the same direction when the tank is moving. While not advanced enough to allow accurate firing on the move, it does allow the gunner to fire accurately during a short stop, without having to re-acquire the target.
+Smoke Launchers
+A battery of pyrotechnic devices that can be triggered from inside the tank to create a thick cloud of smoke to hide the tank. Very useful when on the defensive or after driving into an ambush.
+Extra Ammunition Storage
+Additional racks of ready ammunition allow the tank to stay in the fight much longer without resupply. However, if the armour is penetrated, the results are likely to be catastrophic. This is particularly problematic when attacking.
+Wet Ammunition Storage
+Water jackets added to ammunition racks dramatically reduce the risk of the ammunition exploding after the tank is hit, which is greatly appreciated by the crews.
+Enables Armour Upgrade values of 5 and above.
+Enables Armour Upgrade values of 10 and above.
+Enables Armour Upgrade values of 15 and above.
+Enables Armour Upgrade values of 18 and above.
+Enables Engine Upgrade values of 5 and above.
+Enables Engine Upgrade values of 10 and above.
+Enables Engine Upgrade values of 15 and above.
+Enables Engine Upgrade values of 18 and above.
+Light Tank
+Medium Tank
+Heavy Tank
+Inter-War Light Tank
+A small and compact chassis, ideal for a cheap and light vehicle for duties such as reconnaissance and fire support. Its limited load capacity makes it unsuited for carrying heavy armour or large guns.
+Basic Light Tank
+Basic Light Tank
+1934 Light
+Technological advances have made the designs of the immediate post-war period effectively obsolete. The modern battlefield requires a new, clean design incorporating advances in metallurgy and interior layout.
+Improved Light Tank
+Improved Light Tank
+1936 Light
+A further iteration based on the experiences gained with previous light tanks, this chassis allows for better reliability and maintenance.
+Advanced Light Tank
+Advanced Light Tank
+1941 Light
+With medium tanks increasingly taking center stage in the fight, light tanks have largely been relegated to supporting roles. A new chassis design is needed that takes the needs of these roles into account.
+Inter-War Light Tank (Amphibious)
+Basic Light Tank (Amphibious)
+Improved Light Tank (Amphibious)
+Advanced Light Tank (Amphibious)
+Inter-War Light Amphibious Tank
+Inter-War Light SP Artillery
+Light SP Artillery
+A small and compact vehicle, primarily for fire support of advancing infantry.
+Basic Light SP Artillery
+Improved Light SP Artillery
+Advanced Light SP Artillery
+Inter-War Light Tank Destroyer
+Light Tank Destroyer
+A small and compact vehicle, carrying a powerful gun to destroy enemy armour.
+Basic Light Tank Destroyer
+Improved Light Tank Destroyer
+Advanced Light Tank Destroyer
+Inter-War Light SP Anti-Air
+Light SP Anti-Air
+A small and compact vehicle, carrying an anti-air gun to defend against enemy planes.
+Basic Light SP Anti-Air
+Improved Light SP Anti-Air
+Advanced Light SP Anti-Air
+Basic Medium Tank
+Inter-War Medium Tank
+Improved Medium Tank
+Advanced Medium Tank
+Basic Medium Tank (Amphibious)
+Inter-War Medium Tank (Amphibious)
+Improved Medium Tank (Amphibious)
+Advanced Medium Tank (Amphibious)
+Inter-War Medium Amphibious Tank
+Basic Medium Tank
+1938 Medium
+While light tanks have formed the backbone of mechanised formations in past years, it is becoming clear that their growth potential is nearly exhausted. In the future, we will need a bigger vehicle, which still retains a high level of mobility.
+Improved Medium Tank
+1940 Medium
+Building on the experiences of previous generation of medium tanks, it is clear that a new design with greater carrying capacity is needed to stay relevant.
+Advanced Medium Tank
+1943 Medium
+The rapid growth of weight in weapon systems and armour strength requires an even bigger chassis, creating a vehicle the size of earlier heavy tanks.
+A balanced, mid-sized chassis that offers a lot flexibility for building a wide variety of vehicles.
+Inter-War Medium SP Artillery
+Medium SP Artillery
+A well-balanced vehicle, primarily for fire support of advancing infantry.
+Basic Medium SP Artillery
+Improved Medium SP Artillery
+Advanced Medium SP Artillery
+Inter-War Medium Tank Destroyer
+Medium Tank Destroyer
+A well-balanced vehicle, carrying a powerful gun to destroy enemy armour.
+Basic Medium Tank Destroyer
+Improved Medium Tank Destroyer
+Advanced Medium Tank Destroyer
+Inter-War Medium SP Anti-Air
+Medium SP Anti-Air
+A well-balanced vehicle, carrying an anti-air gun to defend against enemy planes.
+Basic Medium SP Anti-Air
+Improved Medium SP Anti-Air
+Advanced Medium SP Anti-Air
+Inter-War Heavy Tank
+Basic Heavy Tank
+Improved Heavy Tank
+Advanced Heavy Tank
+Inter-War Heavy Tank (Amphibious)
+Basic Heavy Tank (Amphibious)
+Improved Heavy Tank (Amphibious)
+Advanced Heavy Tank (Amphibious)
+Inter-War Heavy Amphibious Tank
+Basic Heavy Tank
+A thorough analysis of the Great War has shown that there is a need for a heavy vehicle to break through the enemy trench line and open up the way for lighter forces to exploit the breakthough. Such a vehicle should heavily armed and well armoured, but doesn't have to be very fast.
+1934 Heavy
+Improved Heavy Tank
+While the nature of warfare has changed, there is still a place for a heavy vehicle with thick armour to create a breakthrough in the enemy lines, or to shore up defenses against an enemy attack.
+1940 Heavy
+Advanced Heavy Tank
+With the advances in armour and firepower, a modern tank needs to carry thick armour and a large gun to be effective. This necessitates a large vehicle.
+1943 Heavy
+A large chassis that can mount a heavy gun, thick armour, or both.
+Heavy SP Artillery
+Inter-War Heavy SP Artillery
+A large vehicle, primarily for fire support of advancing infantry.
+Basic Heavy SP Artillery
+Improved Heavy SP Artillery
+Advanced Heavy SP Artillery
+Inter-War Heavy Tank Destroyer
+Heavy Tank Destroyer
+A large vehicle, carrying a powerful gun to destroy enemy armour.
+Basic Heavy Tank Destroyer
+Improved Heavy Tank Destroyer
+Advanced Heavy Tank Destroyer
+Inter-War Heavy SP Anti-Air
+Heavy SP Anti-Air
+A large vehicle, carrying an anti-air gun to defend against enemy planes.
+Basic Heavy SP Anti-Air
+Improved Heavy SP Anti-Air
+Advanced Heavy SP Anti-Air
+Modern Tank
+Modern Chassis
+Modern Tank
+A modernised chassis that borrows heavily from previous medium tanks, but puts a much bigger emphasis on speed and manoeuvrability, while also allowing for more armour and bigger guns than usually carried on medium tanks. The result is a vehicle that can fill a wide variety of roles.
+Experience has shown that the designs of light, medium, and heavy tank are converging more and more. heavy tanks have gotten more mobile, while light tanks are carrying heavier armament and armour to survive. there is therefore value in unifying all three designs into a single type, which will be a universal Main Battle Tank.
+Modern Tank
+Modern SP Artillery
+A modern vehicle, designed to be a fully-functional artillery piece that can keep up with modern tanks and be protected against any threats found on the battlefield.
+Modern SP Artillery
+A modern vehicle, intended to provide a fast response to enemy tank attacks, while having comparable protection levels.
+Modern Tank Destroyer
+Modern Tank Destroyer
+A modern vehicle, intended to provide mobile and well-protected defence against enemy air attack.
+Modern SP Anti-Air
+Modern SP Anti-Air
+Super-Heavy Tank
+A gigantic vehicle, capable of mounting the heaviest armour and the biggest gun, but consequently fairly slow and unreliable.
+Super-Heavy Chassis
+Super-Heavy Tank
+A gigantic vehicle, capable of mounting the heaviest armour and the biggest gun, but consequently fairly slow and unreliable.
+Super-Heavy SP Artillery
+Super-Heavy SP Artillery
+A gigantic vehicle, capable of mounting the heaviest armour and the biggest gun, but consequently fairly slow and unreliable.
+Super-Heavy Tank Destroyer
+Super-Heavy Tank Destroyer
+A gigantic vehicle, capable of mounting the heaviest armour and the biggest gun, but consequently fairly slow and unreliable.
+Super-Heavy SP Anti-Air
+Super-Heavy SP Anti-Air
+Inter-War Light Flame Tank
+A small vehicle, carrying a flamethrower in its turret to attack fortifications and houses.
+Basic Light Flame Tank
+Improved Light Flame Tank
+Advanced Light Flame Tank
+Inter-War Medium Flame Tank
+A mid-sized vehicle, carrying a flamethrower in its turret to attack fortifications and houses.
+Basic Medium Flame Tank
+Improved Medium Flame Tank
+Advanced Medium Flame Tank
+Inter-War Heavy Flame Tank
+A large vehicle, carrying a flamethrower in its turret to attack fortifications and houses.
+Basic Heavy Flame Tank
+Improved Heavy Flame Tank
+Advanced Heavy Flame Tank
+Light Flame Tank
+Medium Flame Tank
+Heavy Flame Tank
+Amphibious Tank Chassis
+A small tank hull specifically designed to float. To achieve this, strict limits have to be set on the size of the weapon and the thickness of the armour the vehicle carries.
+Amphibious Tank Chassis
+Inter-War Tank Development
+The tank has proven itself a powerful weapon in the Great War. While development has slowed in the intervening years, it is no doubt going to play a major role in the wars to come.
+Interwar Chassis
+Basic Armour Protection
+Tanks during the Great War only had to contend with enemy small arms. As such, they got away with fairly thin armour. A new generation of anti-tank weaponry has made the battlefield a much more dangerous place for a tank, and much heavier protection is needed.
+Improved Armour Protection
+With heavier and heavier anti-tank weapons being fielded around the world, the next generation of tanks will require even better protection.
+Advanced Armour Protection
+While the limit of deployed anti-tank guns has likely been reached, a new generation of tanks will carry more advanced weaponry, which is able to pierce any current level of protection at long range.
+Modern Armour Protection
+During the war, the threats faced by tanks have multiplied, from enemy tanks, anti-tank guns, dedicated tank destroyers, all the way to modern infantry weapons firing shaped charges that can penetrate even heavy armour. We must develop new protection methods to keep our own tanks alive in the face of these threats.
+Basic Engine
+Where the tanks of the Great War were slow, lumbering beasts, the modern tank relies very much on speed and mobility to achieve victory.
+Improved Engine
+With bigger guns and heavier armour, the new generation of tanks requires a more powerful engine to remain mobile.
+Advanced Engine
+Mechanised warfare is a form of combat that requires fast decision making and fast movement of troops and supplies. If our tanks are to carry modern weapons and enough armour to survive on the battlefield, they require powerful engines to keep up with the motorised infantry.
+Modern Engine
+The numerous new additions to tanks made necessary by modern warfare have increased the weight of the vehicle substantially. To move all that mass around, we require engines that have a lot of power behind them.
+Chassis: 
+Modules: 
+Unsaved changes: 
+Rocket Launcher
+A multi-barrelled launcher for unguided, high-explosive rockets. The high volume of fire gives it excellent performance against soft targets, but even direct hits do little against armoured targets.
+Improved Rocket Launcher
+While there are a number of improvements to accuracy, the main advantage of this improved rocket launcher is that it can hold more rockets to fire at the enemy.
+Wheeled Suspension
+Derived from a truck chassis, this suspension is very limited in its carrying capacity and has limited cross-country performance, but has the advantage of being very cheap to make.
+Half-track Suspension
+A hybrid between a fully-tracked vehicle and a regular wheeled suspension, this setup has a pair of wheels up front for steering and a tracked rear axle to improve cross-country performance. While limited in its carrying capacity, it is still cheaper than a fully-tracked design.
+Squeeze-bore Adaptor
+A special adaptor at the end of the gun lowers the diameter of the barrel and squeezes a shell down to a smaller calibre. This significantly increases muzzle velocity and thereby the penetration power of the gun. It does require special ammunition made from rare materials.
+Armour Skirts
+A set of thin metal plates mounted on the side of the vehicle, giving additional protection against anti-tank rifles and shaped charges.
+Dozer Blade
+A dozer blade allows the vehicle to quickly build a fighting position in the field without the support of engineers.
+Auto Loader
+An automatic mechanism that loads shells and allows the tank to keep a high rate of fire for a prolonged period of time.
+Easy Maintenance
+Hatches around the vehicle give access to many different components of the vehicle, and allow the crew to perform even complex maintenance fairly easily.
+Additional Machineguns
+A set of machineguns in sponsons and special pintle mounts give the vehicle improved defence against close-in infantry attack.
+Amphibious Tank
+Light Flame Tank Company
+A company of light, flamethrower-equipped vehicles to provide support in assaulting cities and fortifications.
+Medium Flame Tank Company
+A company of mid-sized, flamethrower-equipped vehicles to provide support in assaulting cities and fortifications.
+Heavy Flame Tank Company
+A company of heavy, flamethrower-equipped vehicles to provide support in assaulting cities and fortifications.
+A light tank equipped with floatation devices and a propeller.
+A medium tank equipped with floatation devices and a propeller.
+A heavy tank equipped with floatation devices and a propeller.
+Fuel Drum
+An externally mounted fuel drum designed to extend the operational range of an armoured vehicle.
+Land Cruiser Chassis
+A gargantuan chassis, heavily-armoured and designed to support super-heavy weaponry and withstand immense battlefield punishment, but with high fuel consumption and slow speed due to its enormous size.
+Land Cruiser Chassis
+Main Armament
+Secondary Armament
+Additional Armament
+Additional Armament
+Additional Armament
+Additional Armament
+Special Features
+Special Features
+Special Features
+Main Armament
+Secondary Armament
+Additional Armament
+Special Features
+Radio Systems
+Structural Features
+External Features
+Aerial Deployment
+Heavy Naval Guns
+The standard main armament for such a massive armoured vehicle, these powerful naval-grade cannons are adapted for direct confrontation, delivering devastating firepower against both armoured and fortified targets.
+Super-Heavy Railway Gun
+This massive gun, originally built for railway platforms, is capable of bombarding targets from extreme ranges with unparalleled destructive power.
+High-Impact Obliterator Cannon
+Specifically designed to penetrate extremely thick armour, this weapon's high kinetic energy makes it a formidable counter against other super-heavy tanks.
+Heavy Anti-Air Platform
+A platform mounting multiple high-calibre flak guns, designed to defend against enemy bombers and reconnaissance aircraft that threaten the Land Cruiser.
+Medium Naval Guns
+Offering a balanced combination of rate of fire and firepower, this guns are effective at engaging lighter vehicles and providing support against unarmored targets.
+Hull-Mounted Railway Gun
+A repurposed railway gun built directly into the hull for maximum stability, it provides heavy fire support and can engage distant targets with high precision.
+Super-Heavy Howitzer
+A massive howitzer designed to smash fortifications and urban defenses. This variant specialises in delivering high-explosive shells, ideal for clearing entrenched positions and obliterating fortified structures.
+Heavy High-Velocity Cannons
+Anti-tank guns designed to engage and destroy enemy armour with pinpoint accuracy. Their high-velocity projectiles ensure excellent penetration at long ranges.
+Heavy Anti-Air Battery
+An anti-air battery equipped with large-calibercaliber guns to target high-speed and high-altitude aircraft, providing a defensive bubble around the vehicle.
+Coaxial Medium Cannon
+A standard turret-mounted cannon, capable of engaging infantry and light vehicles. Its compact design makes it versatile for close-quarters combat and secondary roles.
+Assault Gun
+Designed for close-range urban warfare and bunker busting. This weapon delivers powerful, high-explosive shells to clear out infantry and hardened targets.
+Coaxial High-Velocity Cannon
+A turret fitted with a high-velocity cannon to engage enemy armour. Its smaller size allows it to provide quick and responsive fire support against lighter armoured threats.
+Light Anti-Air Battery
+A light anti-aircraft battery designed to target low-flying aircraft and protecting the vehicle from strafing runs and dive-bombers.
+Flamethrower Array
+A specialised turret that projects a stream of fire, perfect for clearing out fortified positions, infantry, and ambush points. Ideal for close-quarters engagements in dense urban environments.
+Rocket Launcher
+A modular rocket system mounted on the Land Cruiser, delivering devastating rocket barrages to suppress enemy defenses and overwhelm large formations.
+$tank_radio_1$
+$tank_radio_1_desc$
+$tank_radio_2$
+$tank_radio_2_desc$
+$tank_radio_3$
+$tank_radio_3_desc$
+Command Center
+A fully integrated command center that transforms the Land Cruiser into a mobile headquarters, equipped with advanced communication systems to coordinate large-scale military operations.
+Radar
+An early detection system that increases awareness of enemy aircraft and nearby forces, allowing the Land Cruiser to prepare for potential aerial or ground threats.
+Aircraft Catapult
+A launch system for small reconnaissance aircraft, enabling the Land Cruiser to scout distant areas and provide real-time battlefield intelligence.
+Helipad
+A platform for launching helicopters, designed to provide advanced aerial reconnaissance and improved situational awareness on the battlefield.
+Armoured Skirts
+Reinforced armour plating mounted along the sides to protect vulnerable tracks and suspension systems from anti-tank weapons and small arms fire.
+Bunker Emplacement
+An internal fortified structure, transforming the Land Cruiser into a mobile bunker. It allows the crew to hold defensive positions and fire back at the enemy, even when under heavy fire.
+Obstacle-Clearance Gear
+Heavy-duty attachments, such as massive bulldozer blades and cranes, designed to clear debris, create paths through difficult terrain, and assist in entrenchment operations.
+Internal Fuel Tanks
+Expanded fuel compartments within the hull, increasing the vehicle's operational range and reducing the need for frequent refueling stops during extended campaigns.
+Internal Ammunition Compartments
+Reinforced storage areas for carrying additional ammunition, allowing the Land Cruiser to sustain prolonged engagements without resupply.
+Wet Ammunition Storage
+Specialised compartments filled with liquid coolant to minimize the risk of ammunition detonations from enemy hits, greatly enhancing crew safety.
+Smoke Generators
+A system designed to deploy thick smoke screens, masking the vehicle's movements and reducing its visibility to both ground and air-based threats.
+Stabilizers
+Mechanical devices that reduce the recoil and maintain gun alignment when firing, allowing for quicker target reacquisition and more accurate shooting during short halts.
+\n\nEach member with a tech reduces time by $VALUE|+%0$:\n
+Base: $VALUE|0%Y$\n
+Bonus: $VALUE|0%Y$\n
+\nEffective Technology Sharing modified to $VALUE|-%0$ due to:\n
+\nResearch Opportunities:
+\n@$TAG$$COUNTRY|H$: §Y$VALUE$§! technologies
+\n\nLimited to: $LIST|Y$.
+A Technology Sharing group get stronger the more nations are in it. For each member that has researched a certain Technology it will speed up researching of that Technology for someone in the group lacking it.
+Technology Sharing (max $MAX|H%0$): $VALUE|+%0$\n
+Licensed production: $VALUE|+%0$\n
+\n$NAME|H$ membership provides $VALUE|G%0$ bonus from countries:
+\n@$TAG$$COUNTRY|H$
+Faction Research
+Reduced research time by nations in your faction because of your active Continuous Focus.
+Is not part of a technology sharing group
+General
+Field Marshal
+Admiral
+Recruit
+Agent
+Sea Wolf
+§LThe Sea Wolf is particularly skilled in Convoy Raiding§!
+Superior Tactician
+§LA master of Fleet Positioning.§!
+Old Guard
+§LWhile not the most brilliant officer, he is unlikely to cause trouble.§!
+Old Guard
+§LWhile not the most brilliant officer, he is unlikely to cause trouble.§!
+Trickster
+§LDoing the unexpected in combat can give you a large advantage.§!
+Logistics Wizard
+§LSupplies are never late, nor are they ever early. They arrive precisely when I mean them to.§!
+Defensive Doctrine
+§LEspecially skilled in fighting on the Defensive.§!
+Offensive Doctrine
+§LMore Offensive-minded than most.§!
+Winter Specialist
+§LPossesses an intuitive understanding of the difficulties of fighting in Cold conditions.§!
+Engineer
+§LAdept in the arts of crossing rivers and constructing field fortifications.§!
+Fortress Buster
+§LAssaulting a Fort holds no terror for this officer.§!
+Armour Leader
+§LA natural with Tanks and Mechanised forces.§!
+Commando
+§LSkilled in Amphibious operations, Air Assaults, and Cold weather conditions - the Commando is a man of many talents.§!
+Fast Planner
+§LKnows all the shortcuts when preparing for battle - Efficiency is key!§!
+Thorough Planner
+§LA strategic master mind. Given time, the well-laid plan will be the strongest.§!
+Organisation First
+§LKnows every trick to get reinforcements faster than anyone.§!
+Charismatic
+§LA natural leader. Men will face their worst fears when backed by a powerful leader.§!
+Desert Fox
+§LEntirely at home when fighting in a Desert.§!
+Swamp Fox
+§LWhile somewhat soggy, the Swamp Fox knows his way around Swamps and Marshes.§!
+Mountaineer
+§LAn excellent climber and skilled at Mountain warfare.§!
+Hill Fighter
+§LExcels at fighting in Hilly terrain.§!
+Jungle Rat
+§LUndeterred by rodents of unusual size, and skilled in Jungle warfare.§!
+Ranger
+§LRangers lead the way, especially when it involves fighting in Forests.§!
+Urban Assault Specialist
+§LAn expert in Fighting In Someone's House and Causing Havoc In People's Streets.§!
+Blockade Runner
+§LAble to rapidly Disengage from Naval Combat.§!
+Spotter
+§LThe Spotter pays special attention to keeping an eye out for enemy fleets.§!
+Fly Swatter
+§LRealising the danger posed to even our most powerful ships by airplanes, the Fly Swatter swiftly disposes of anything that flies.§!
+Ironside
+§LDetermined to defend our home waters with the most powerful ships our navy can muster.§!
+Air Controller
+§LAn expert in the nascent field of naval aviation, the Air Controller is a natural choice to command carriers.§!
+Invader
+§LAn expert in performing naval invasions. The perfect guy for preparing an invasion of a hostile beach and carrying it out.§!
+Exiled
+§LUnder threat of persecution they have spent much of the recent years of political turmoil abroad.§!
+Organiser
+§LAble to plan and organise the movement of large armies.§!
+Nationalist Symbol
+Deal Broker
+§LPeople don't like to see how sausages and laws get made. This man knows why.§!
+Armour Expert
+§LExperience and training makes this leader an expert at commanding tanks.§!
+Combined Arms Expert
+Comb. Arms Expert
+§LAble to combine the strengths of both armour and infantry.§!
+Cavalry Leader
+§LSkilled at using mobile forces to achieve victory.§!
+Cavalry Expert
+§LAn expert at using speed and mobility in battle.§!
+Infantry Leader
+§LSkilled at leading infantry in combat.§!
+Infantry Expert
+§LA true expert in leading infantry.§!
+Unyielding Defender
+§LRetreat is not an option.§!
+Aggressive Assaulter
+Aggr. Assaulter
+§LThe best defence is a strong offence.§!
+Scavenger
+§LMore likely to scavenge and repair captured equipment for use by their own troops.§!
+Ambusher
+§LExpertly able to trick enemy forces into ambushes.§!
+Amphibious
+§LNaval invasions may need to fight for a long time before resupply can arrive.§!
+Naval Liaison
+§LA good relationship with the navy will ensure that naval fire support will be more plentiful.§!
+Improvisation Expert
+Improv. Expert
+§LAn expert in solving problems with whatever means are available.§!
+Guerrilla Fighter
+§LThe skilled guerrilla fighter is an expert at using natural terrain and obstacles to their advantage.§!
+Winter Expert
+§LHard earned experience has taught this leader how to fight in harsh winter conditions.§!
+Skilled Staffer
+§LSurrounded by some of the best staff, this leader is able to organise and manage a larger number of units.§!
+Adaptable
+§LA natural understanding of how to fight in various terrains and adapt to different environments.§!
+Terrain Traits
+Traits
+Earned Traits
+Field Marshal Traits
+General Traits
+Admiral Traits
+Admiral Traits are the Traits that can be manually assigned to an Admiral.
+Background
+Leader Details
+Show leader details.
+Enables Ability: $NAME|H$
+$NAME|H$: $DETAILS$
+Earned Traits can only be unlocked by gaining experience or by events.\n
+Field Marshal traits are only assignable to Field Marshals.\n
+The general already has maximum amount of assignable traits.\n
+The trait is not allowed.\n
+Not all prerequisites are completed.\n
+A mutually exclusive trait is already assigned.\n
+All parent traits must be unlocked to be able to assign this trait.\n
+You need at least $NUM$ parent traits unlocked to be able to assign this trait.\n
+§HAttack§!
+§LAttack skill boosts offensive stats of the units that are being led by the general.§!
+§HDefence§!
+§LDefence skill boosts defensive stats of the units that are being led by the general.§!
+§HPlanning§!
+§LPlanning skill boosts planning speed of the units that are being led by the general.§!
+§HLogistics§!
+§LLogistics skill reduces the supply usage of the units that are being led by the general.§!
+§HAttack§!
+§LAttack skill boosts offensive stats of the ships that are being led by the admiral.§!
+§HDefence§!
+§LDefence skill boosts defensive stats of the ships that are being led by the admiral.§!
+§HManoeuvre§!
+§LManoeuvre skill boosts combat capabilities of the ships that are being led by the admiral.§!
+§HCoordination§!
+§LCoordination skill boosts the range and the mission efficiency of the ships that are being led by the admiral. Also it allows the admiral to control larger fleet.§!
+The leader is already at max level.
+Your general needs $VALUE|H$ experience to advance next level.
+Your admiral needs $VALUE|H$ experience to advance next level.
+Current progress: $VALUE|H%0$
+After leveling up, a general gains 3 random stat points. The type of the traits that a general has increases the chances of gaining a point in relevant stats.
+After leveling up, an admiral gains 3 random stat points. The type of the traits that an admiral has increases the chances of gaining a point in relevant stats.
+Pick Trait
+Earned Traits are the Traits that can not be manually assigned but can be gained by gaining experience in relevant areas or by events.
+General Traits are the Traits that can be manually assigned to a General.
+Field Marshal traits can only be assigned to Field Marshals. Field Marshals also can use regular traits, but their effects will be reduced while commanding more than one Army.
+Terrain Traits give bonuses to generals that fights in specific terrains. They can be manually assigned or gained through experience like Earned Traits.
+Assign Trait to $TITLE$
+Are you sure you want to assign $TRAIT|H$ to $LEADER|H$?
+After assigning this trait, you will have $NUM|H$ more available trait slots to assign for this $TITLE$.
+After assigning this trait, you will have §Rno§! available trait slots to assign for this $TITLE$.
+More likely to gain §HAttack§! skill on level up
+More likely to gain §HDefence§! skill on level up
+More likely to gain §HLogistics§! skill on level up
+More likely to gain §HPlanning§! skill on level up
+More likely to gain §HManoeuvre§! skill on level up
+More likely to gain §HCoordination§! skill on level up
+Increased chance of executing §HBlitz§! and §HEncirclement§! tactics
+Increased chance of executing §HCounterattack§! tactics
+Increased chance of executing §HAssault§! and §HShock§! tactics
+Skirmisher
+§LSkilled at using probing attacks to test the enemy's strength and to wear them down.§!
+Camouflage Expert
+§LThe proper use of camouflage can significantly reduce the threat of enemy air strikes.§!
+At Least 1 Terrain Trait
+§HPrerequisites§!\n
+Expert Delegator
+§LThe art of delegation allows this leader to efficiently command several armies.§!
+All Stats: $VAL|+=0$
+Attack: $VAL|+=0$
+Defence: $VAL|+=0$
+Planning: $VAL|+=0$
+Logistics: $VAL|+=0$
+Manoeuvre: $VAL|+=0$
+Coordination: $VAL|+=0$
+Sick
+§LConfined to a bed due to severe sickness.§!
+Wounded
+§LA bad wound will take some time to recover from.§!
+Reassigned
+§LThis leader is returning from a far-away post the government had assigned him to to keep him from plotting.§!
+Disgruntled
+§LThis man is not happy and makes no secret of it.§!
+Demoted
+§LBeing demoted won't make anyone happy and this leader is no exception.§!
+Substance Abuser
+§LAddiction can be a bad thing, but it's really under control. Really.§!
+Substance Addict
+§LThis man's addiction is clearly affecting his judgement, and not in a good way.§!
+Brilliant Strategist
+§LA natural born strategist that is able to adapt to the dynamics of the battlefield.§!
+Inflexible Strategist
+§LSkilled but stubborn. A good enough plan can survive contact with the enemy.§!
+Politically Connected
+§LThis leader has political connections which has smoothed the way for his career. Perhaps too quickly.§!
+War Hero
+§LHailed as a hero from their actions in war.§!
+Career Officer
+§LDedicated to the life as an officer, with ambitions to match.§!
+Cautious
+§LTakes their time and plans carefully.§!
+Reckless
+§LA good officer needs to lead from the front.§!
+Media Personality
+§LThis general will go out of his way to talk to the media and will always try to be in the limelight.§!
+Harsh Leader
+§LDiscipline is necessary to lead an army, but some leaders take it a bit too far.§!
+Infantry Officer
+§LTrained as an infantry officer.§!
+Cavalry Officer
+§LTrained as a cavalry officer.§!
+Armour Officer
+§LTrained as an armour officer.§!
+Engineer Officer
+§LTrained as an engineer officer.§!
+Irregulars Officer
+§LSkilled at leading irregular units in combat.§!
+Colonial Officer
+§LTrained to lead colonial units in combat.§!
+Militia Officer
+§LTrained to lead militia units in combat.§!
+It will cost $VAL|R$ £command_power to assign this trait.
+§HExperience:§! $CUR|.0$/$MAX|.0$
+§HExperience gained while:§!
+Hidden Sympathies
+§LThis general has voiced some disloyal opinions in private spheres, and will most likely lend his support to insurrections started by subversive elements.§!
+Is using battle plans
+Cavalry, motorised and mechanised ratio > §H40%§!
+Infantry ratio > §H80%§!
+Armoured ratio > §H40%§!
+Is flanking enemy or getting flanked by them
+Controlling at least §H24§! divisions
+Controlling at least §H100§! divisions
+Click to read more on the web
+$NAME|H$ experience factor: $VAL|H%.0$
+Recently Promoted
+§LAdjusting to the responsibilities of the new rank.§!
+Motivated
+A competent man is good. If he is motivated, then that is better.
+Trait will expire in $DAYS|H$ days.
+§RTrait not active when commanding an army.§!
+§Y$TRAITNAME$§!
+Unlocked by: §Y$TRAITNAME$§!\n\n
+\n\nRequires a Skill level of at least §Y$RANK$§! to become an advisor.
+Unlocks §Y$ADVISORSLOT$§! role: §Y$ADVISORNAME$§!\n
+At Skill §Y$RANK$§!:\n\n$TEXT$
+§YRequires all of the following:§!
+§YRequires $NUMBER$ of the following:§!
+- One of the following:
+- $NAME$
+Movement Bonus On Land: §G+10.0%§!
+Exiled Leader
+This officer fought on after the defeat of their homeland. They excel in commanding other exiles that share their drive and enthusiasm for fighting.
+Inshore Fighter
+§LAn expert in fighting close to shore, this officer understands how to hide behind islands and in fjords to rain destruction upon the enemy.§!
+Green Water Expert
+§LFighting in shallow waters has its own challenges. This officer has mastered them.§!
+Blue Water Expert
+§LThis officer is an expert in fighting on the high seas.§!
+Cold Water Expert
+§LThis officer has spent a lot of time in arctic waters and learned how to avoid most of the icebergs.§!
+Fleet Protector
+§LAn expert in keeping small ships away from the big ships.§!
+Silent Hunter
+§LA master of stealth, this submarine officer has learned how to escape his pursuers.§!
+Lancer
+§LThis officer knows torpedoes like no other, and is able to get the most out of them.§!
+Destroyer Leader
+§LBalancing boldness and discretion, this officer has become the ideal commander for light forces.§!
+Lone Wolf
+§LWhile organising a large fleet is a difficult task, so is using a small force to its maximum potential.§!
+Concealment Expert
+§LThis officer has completed the government-mandated training course on how not to be seen.§!
+Mine Craft
+§LAll sailors know the terror of these creeping weapons, the low hiss of the fuse, and the sudden BLAST!§!
+Cruiser Captain
+§LThis officer has shown great skill in operating cruisers.§!
+Big Guns Expert
+§LThis officer likes big guns and is incapable of lying.§!
+Ground Pounder
+§LShooting at a stationary target on land with naval artillery is almost unsporting. Almost.§!
+Safety First
+§LThere is nothing wrong with our bloody ships. Not today, not tomorrow, not ever!§!
+Flight Deck Manager
+§LLaunching a plane from the deck of a ship is fairly simple. It's launching the other two dozen at the same time that's the problem.§!
+Smoke Screen Specialist
+§LUsed correctly, smoking can in fact save lives.§!
+Torpedo Expert
+§LHitting a ship moving at a speed of 25 knots with a relative angle of 72 degrees at a distance of 8 kilometres is really just a bit of simple math.§!
+Loading Drill Master
+§L
+Hunter-Killer
+§LIn the deadly game of cat and mouse, this officer is most certainly the cat.§!
+Marksman
+§L
+Crisis Magician
+§L
+Fighter Director
+§LThis officer ensures friendly - or at least neutral - skies.§!
+Torpedo Bomber
+§LBombs make holes that let in air. Torpedoes make holes that let in water. Guess which sinks a ship faster?§!
+Search Pattern Expert
+§LInformation is ammunition!§!
+Gentlemanly
+§LThis officer instills a sense of respect in subordinates and enemies alike.§!
+Gunnery Expert
+§LThis officer has studied the fine art of ballistics.§!
+Cuts Corners
+§LWhat's the worst that could happen?§!
+Chief Engineer
+§LThis officer knows how the ship actually works.§!
+Bold
+§LThe difference between a bold attack and a stupid attack is that the bold attack succeeds.§!
+Career Officer
+§LDedicated to the life as an officer, with ambitions to match.§!
+Battleship Adherent
+§LNaval air power will never become a viable alternative to big guns.§!
+Aviation Enthusiast
+§LNaval air power is the superior alternative to big guns.§!
+Caustic Personality
+§LThis officer is a bit more salty than most people.§!
+Craven
+§L
+Naval Lineage
+§LIt takes 3 years to build a ship. It takes 300 years to build a tradition.§!
+Media Personality
+§LThis Admiral has a knack for giving the right quote to the right person.§!
+Dive Bomber
+§LAn expert in the use of dive bombers.§!
+More than 80% submarines in fleet
+More than 50% screening vessels in fleet
+Having the advantage in combat
+Spotting the enemy
+Fighting enemy air units
+Commanding or fighting capital ships
+Have a task force in combat where every ship in it has over 37 knots speed
+Commando
+This Operative has completed the commando training course.
+Seducer
+This Operative has shown an aptitude to get into people's heads - sometimes via the bedroom.
+Infiltrator
+This Operative is quick to adapt to any environment and able to blend in flawlessly.
+Master Interrogator
+This Operative has ways of making people talk.
+Linguist
+This Operative is a natural at picking up new languages.\n\n §GIncreased chance§! to acquire target nationality on completion of an operation.
+Double Agent
+This Operative has been turned from the enemy into our service.
+Tough
+The torturer's fist will break before this Operative does.
+Safe Cracker
+This Operative has come to our attention for an aptitude to open safes and other locks.
+Well Groomed
+This Operative maintains a wardrobe of stylish clothes and a meticulous grooming regime.
+Natural Orator
+This Operative has a knack for finding the right words.
+Escape Artist
+The prison that can hold this Operative has yet to be built.
+Demolition Expert
+This Operative is proficient with all the different ways in which one can blow stuff up.
+Peasant Sympathiser
+§LHolds sympathies for the peasants and working class of the nation.§!
+Determined
+Emboldened by rising conviction, this officer is swept up in the fervour of national struggle.
+Foreign Military Advisor
+Time spent abroad is an opportunity to study tactics we may one day find ourselves pitted against.
+Traits
+Officer Corps Roles
+$NAME$
+(Specialist)
+(Expert)
+(Genius)
+Officer Corps
+Available Advisor Role
+Promoted from the Ranks
+This character has been promoted due to their skill, being excellent at planning and taking the initiative.
+Light Infantry Officer
+§LExpert in asymmetric warfare and sabotage operations behind enemy lines.§!
+Officer
+Brigadier
+Brigadier
+Major-General
+Major-General
+Lt-General
+Brigadier-General
+Brigadier-General
+Major-General
+Major-General
+Lt-General
+Commander
+Commander
+Major-Commander
+Major-Commander
+Lt-Commander
+Brigadier-General
+Brigadier-General
+Major-General
+Major-General
+Lt-General
+Brigadier-General
+Brigadier-General
+Major-General
+Major-General
+Lt-General
+Generalmajor
+Generalmajor
+Generalleutnant
+Generalleutnant
+Gen. der Waffengatung
+Gen de Brigade
+Gen de Brigade
+Gen de Division
+Gen de Division
+Gen de Corps d'Armée
+Gen de Brigade
+Gen de Brigade
+Gen de Division
+Gen de Division
+Gen de Corps d'Armée
+Rikugun-Shōshō
+Rikugun-Shōshō
+Rikugun-Chūjō
+Rikugun-Chūjō
+Rikugun-Chūjō
+Colonel
+General-major
+General-major
+General-lieutenant
+General-lieutenant
+Colonel
+General-major
+General-major
+General-lieutenant
+General-lieutenant
+Colonel
+General-major
+General-major
+General-lieutenant
+General-lieutenant
+Gen di Brigata
+Gen di Divisione
+Gen di Divisione
+Gen di Corpo d'Armata
+Generale d'Armata
+Asmacc
+Grasmacc
+Cagnasasmacc
+Fitaurari
+Degiacc
+Brigader
+Brigader
+Generalmajor
+Generalmajor
+Generalløytnant
+Prikaatikenraali
+Prikaatikenraali
+Kenraalimajuri
+Kenraalimajuri
+Kenraaliluutnantti
+Shàoxiào
+Zhōngxiào
+Shàngxiào
+Shàojiàng
+Zhōngjiàng
+Shàoxiào 
+Zhōngxiào
+Shàngxiào
+Shàojiàng
+Zhōngjiàng
+Shàoxiào
+Zhōngxiào
+Shàngxiào
+Shàojiàng
+Zhōngjiàng
+Shàoxiào
+Zhōngxiào
+Shàngxiào
+Shàojiàng
+Zhōngjiàng
+Shàoxiào
+Zhōngxiào
+Shàngxiào
+Shàojiàng
+Zhōngjiàng
+Shàoxiào
+Zhōngxiào
+Shàngxiào
+Shàojiàng
+Zhōngjiàng
+Shàoxiào
+Zhōngxiào
+Shàngxiào
+Shàojiàng
+Zhōngjiàng
+Shàoxiào
+Zhōngxiào
+Shàngxiào
+Shàojiàng
+Zhōngjiàng
+Shàoxiào
+Zhōngxiào
+Shàngxiào
+Shàojiàng
+Zhōngjiàng
+Shàoxiào 
+Zhōngxiào
+Shàngxiào
+Shàojiàng
+Zhōngjiàng
+Shàoxiào
+Zhōngxiào
+Shàngxiào
+Shàojiàng
+Zhōngjiàng
+Shàoxiào
+Zhōngxiào
+Shàngxiào
+Shàojiàng
+Zhōngjiàng
+Shàoxiào
+Zhōngxiào
+Shàngxiào
+Shàojiàng
+Zhōngjiàng
+Shàoxiào
+Zhōngxiào
+Shàngxiào
+Shàojiàng
+Zhōngjiàng
+Shàoxiào
+Zhōngxiào
+Shàngxiào
+Shàojiàng
+Zhōngjiàng
+§HPromote Field Officer§!\n\n
+Promote Field Officer
+Are you sure you want to promote $CHARACTER$ to the rank of General?\n\nThis will reset the experience of this division, and cost us\n$COST|H$ £command_power.
+£trigger_no Division must have at least experience rank $RANK$.
+£trigger_no This action cannot be performed on volunteers.
+\n£trigger_no Not enough command power.
+$UNIT$
+Field Officers
+Officers
+§HOfficers§!
+Officers are the ones in charge of the units under your command. They can be promoted to Generals once they and their unit have reached a certain §HExperience§! threshold.
+Exp.
+$NAME$ was promoted to the rank of General after a successful field career leading the $DATA$.
+No valid traits can be gained by this commander, if promoted.
+With at least $REQUIRED|H0$ experience (Current: $CURRENT|R0$), they would gain one of the following on promotion:\n$LIST|H$\n\nYou can still promote, but §Rno trait will be granted§!.
+If promoted, will gain one of the following:\n$LIST|H$
+\nThis action would cost £command_power $COST|H$.
+Officer
+Promote
+History
+Command History
+Secured $PROVINCE$ from $SUBJECT$ forces.
+Orchestrated the surrender of $SUBJECT$ during the battle of $PROVINCE$.
+Commanding officer, $SUBJECT$ was granted a field promotion in $PROVINCE$.
+$SUBJECT$ was appointed as new commanding officer.
+Was first onto the beaches in the landing at $PROVINCE$.
+Liberated $PROVINCE$ on behalf of $TARGET_COUNTRY$.
+Marched into $PROVINCE$, liberating our people from $SUBJECT$ oppression.
+Took part in the siege of $PROVINCE$.
+Casualties taken: $VALUE|R$
+Seized airfields at $PROVINCE$.
+Took part in the occupation of $PROVINCE$, former seat of $SUBJECT$ government.
+Successfully paradropped into $PROVINCE$ ahead of main deployment.
+Changed regimental designation to $SUBJECT$.
+Took part in a raid on $PROVINCE$
+Was cited for continued action in $SUBJECT$.
+Commended for exceptional bravery in $SUBJECT$.
+Details
+$TYPE$\n§LAwarded for Action in $LOCATION$§!
+$DESC|L$
+Honours:
+§H Grant Citation§!\n\nClick to grant the commander of this unit a citation related to this action.
+Click to grant a§H $TYPE$§! citation to the commander of this division. If they are promoted from the unit, the medals will travel with them.
+Details ($VALUE$)
+Details
+Field Citations
+§H$TITLE$§!
+Citation
+Base Cost: £pol_power $VALUE|H$
+This is then multiplied by $VALUE|H$ due to current number of medals.
+Total Cost: £pol_power $VALUE|H$\n\nBreakdown:
+£pol_power $VALUE|H$
+£pol_power $VALUE|R$
+Grant Citation
+Do you wish to grant the following citation?\n\n$MEDAL_NAME|H$\n\nIt will cost us £pol_power $COST|H$.
+§HGrant Medal Cost§!\n
+§HDivisional Citations§!\n\nThis character has earned citations while commanding a division in the field. Click here to view them.
+If §HUnit Commander§!:
+If §HGeneral§!:
+x$VALUE$
+Our $TYPE|H$ citations are granting us:
+The modifiers for granting several instances of the same medal type are subject to diminishing returns.
+§HField Citations§!\n\n
+Cannot perform this action on expeditionary units
+No valid history entries to award medals for
+Star
+Cross
+Medallion
+Iron Cross
+Medal
+Grand Cross
+Medal
+Cross
+Star
+Iron Cross
+Star
+Medal
+Cross
+Cross of Valor
+Medallion
+Pin
+Grand Star
+Red Star
+Iron Cross (1st Class)
+Knight's Cross
+Knight's Cross (Oak Leaves)
+Knight's Cross (Swords & Diamonds)
+Bronze Star
+Silver Star
+Distinguished Service Cross
+Medal of Honor
+Battle Merit Medal
+Order of Kutuzov
+Order of Suvorov
+Hero of the Republic
+Oak Leaves (Dispatches)
+Order of the Union
+Distinguished Service Order
+Victoria Cross
+Combatant's Cross
+War Cross
+Order of Liberation
+Legion of Honour
+War Merit Cross
+Cross of Valor
+Order of Savoy (5th Class)
+Order of Savoy (1st Class)
+Military Medal of Honour
+Order of the Sacred Treasure
+Order of the Golden Kite
+Order of the Chrysanthemum
+Great East Asia War Medal
+Order of the Rising Sun
+Order of the Paulownia Flowers
+Genghis Khan Military Merit Badge
+Medal for Gallantry
+Legion of Honour
+War Cross
+Order of the Lion
+Distinguished Service Medal
+Red Star
+Medal of Military Merit
+Hero of the Revolution
+Medal for Bravery
+Military Merit Cross
+Order of the Brave
+Cross of Heroism
+Cross of Bravery
+The Military Order
+Order of the Sword
+Order of Military Virtue
+Military Medal of Merit of the Order of St. George
+Order of the Grand Star of Honour of Socialist Ethiopia
+Distinguished Military Medal of Haile Selassie the First
+Distinguished Military Medal of Haile Selassie Gugsa
+Distinguished Military Medal of King Hailu Tekle Haymanot
+Distinguished Military Medal of Sultan Abba Jofir
+Distinguished Military Medal
+Gold Medal
+Silver Medal
+$FIRST$ and $SECOND$
+, 
+, and 
+Officer Experience: $VALUE|H0$
+Gains $VALUE|H0$ experience on promotion.\n\n
+Experience
+$VALUE|0$
+\nOn Medal Granted:
+Held fast despite sustaining extreme casualties in the line of duty.
+Valorous $TYPE$
+Type
+$COMMANDER|H$\nCommanding $UNIT|g$\n\n
+§HGrant Citation§!\n\nClick to select a citation to grant this commander.
+§HOfficer Experience§!\n\nThis commander would gain $XP|H0$ XP if promoted to an Army General.
+Medal for Extreme Bravery
+§HField Officer Experience Gain§!\nField Officer experience is gained at $MULT|%H$ of the usual rate.\n\nEach medal granted to this division increases the gain by $PER_MEDAL|%H$.
+This division's veterancy will be reduced by $RESULT|%H$.
+The following modifiers are then applied:
+Norwegian Defense Cross of Honor
+Mannerheim Cross
+Order of the Red Star
+Order of the White Rose
+Order of the Lion
+Cross of Liberty
+Medal of Merit
+Order of the Dannebrog
+Hero of the Danish Civil Union
+Krigskorset
+Haakon VII's Cross of Freedom
+Krigsmedaljen
+Haakon VII's Medal of Freedom
+Deltagermedaljen
+Haakon VII's 70s Anniversary Medal
+Order of Saint Olav
+Norwegian Peoples Cross
+Norgeskors
+§G$NAME$§! victory points = §Y$POINTS$§!
+st
+nd
+rd
+th
+$ORDER$$FIRST$-$SECOND$ War
+$ORDER$$SECOND$ Civil War
+$ORDER$$FIRST$ reclamation of $STATE$
+$ORDER$$FIRST$ Aggression for $STATE$
+$ORDER$$FIRST$ War of Independence
+Foreign Support
+War Measures
+Women in the Workforce
+As men leave to go to war, thousands of women take up jobs in factories to keep the war machine running.
+Scientist Refuge
+With the current political climate in Europe, a number of scientists have decided to leave their home country. They have applied for an entry visa in our country. Granting it will give us a bonus to research, but will also upset some people who consider this to be an internal matter that we shouldn't get involved in.
+Operations
+Emergency Factory Conversion
+More equipment is desperately needed on the front. We urgently need to convert more factories to produce arms and vehicles to defend our country.
+Emergency Factory Conversion
+The our troops urgently need more equipment. More factories are needed to produce the equipment required to win the war.
+Propaganda Efforts
+War Propaganda
+As the world burns around us, our people are woefully unprepared for war. We must rally their support to take up arms for our nation.
+Desperate Defence
+We can't fall back any further. Our soldiers have to dig in and hold the line.
+War Bonds
+We need more resources for our war economy, and war bonds are just the way to obtain these.
+Political Actions
+Object to Attaché
+Our enemies are receiving foreign aid! We must issue a strong objection and demand the removal of any attachés.
+Region-wide Industrial Integration
+Has not already received an extra building slot from infrastructure.
+Industrial Land Appropriation
+Has not already received an extra building slot from land appropriation.
+Special Projects
+Foreign Policy
+Good foreign policy is vital to the survival of a nation, no matter its size. While some nations prefer to focus on building alliances, other, more aggressive, powers opt to challenge their opponents head-on in open conflict. Whatever we choose, we must not be foolhardy, for only through tactful foreign policy can we build friendships and destroy our enemies.
+Prospect for Resources
+Our geologists have found a number of promising resource deposits within our territories. We can spend some capital to develop these fields. Advances in extraction technology might make more deposits viable for exploitation.
+Economic Policy
+War Propaganda Against [From.GetName]
+We must stand up against the threat of [From.GetName]. Our nation depends on every man doing their part to keep us safe.
+War Propaganda Against [From.GetName]
+The nation calls for every man, woman and child to contribute to the fight against [From.GetNameDef]!
+War Propaganda Against [From.GetName]
+Tomorrow [From.GetName] could be our enemy. We need YOU to defend your country TODAY!
+Ongoing Crisis
+Already attempting to resolve the crisis.
+Crisis
+Draft Dodging
+Extensive Draft Dodging
+Widespread Draft Dodging
+Strikes
+Widespread Strikes
+General Strike
+Address the Strike Crisis
+Restore Order in the Military
+Mutinies
+Extensive Mutinies
+Widespread Mutinies
+Demobilisation
+Demobilise Our Economy
+Ease up Conscription
+Demobilise Our Economy
+Ease up Conscription
+With the threat of war seeming distant, people are no longer willing to accept the hardships of wartime laws. We need to review our laws and consider changing them to quiet the protestors before the situation escalates.
+With the threat of war seeming distant, people are no longer willing to accept the hardships of a war economy. We should review our economic laws and consider changing them to produce more consumer goods to meet their demands.
+Solve the Draft Evasion Crisis
+Unless solved quickly, the issue of recruits refusing the draft will only get worse and may lead to people questioning the authority of the government itself.
+Foreign Policy
+Promises of Peace
+History has taught us the horrors of war. We must never let it happen again. It is time for our nation to know peace and prosperity.
+National Prestige
+ Already running a war propaganda campaign
+Secret Resource Procurement
+Hushed voices whisper of a tremendous amount of supplies being diverted by government to seemingly innocuous locations. Some suggest that the resources are being consumed in secretive research and development projects but little concrete evidence exists to confirm this...
+Secret Resource Procurement
+$special_project_consumer_costs_high_desc$
+Secret Resource Procurement
+$special_project_consumer_costs_high_desc$
+Nuclear Fallout
+Intense Nuclear Fallout
+Emergency Labor Draft
+A large number of workers have been redirected to rescue operations and immediate reconstruction efforts, significantly slowing down regular construction, repair activities, and resource extraction in the area.

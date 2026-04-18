@@ -1,0 +1,75 @@
+localisation\russian\KR_common\03 Caribbean l_russian.yml
+
+l_russian:
+
+ CUR: "Кюрасао"
+ CUR_ADJ: "кюрасаоский"
+ CUR_DEF: "Кюрасао и Антильские острова"
+
+ CUR_maarten: "Синт-Мартен"
+ CUR_maarten_ADJ: "синт-мартенский"
+ CUR_maarten_DEF: "Синт-Мартен"
+
+ ANT: "Антильско-Гвианский союз"
+ ANT_ADJ: "антильско-гвианский"
+ ANT_DEF: "Антильско-Гвианский союз"
+
+ GYA: "Гвиана"
+ GYA_ADJ: "гвианский"
+ GYA_DEF: "Гвиана"
+
+ JAM: "Ямайка"
+ JAM_ADJ: "ямайский"
+ JAM_DEF: "Ямайка"
+
+ SUR: "Суринам"
+ SUR_ADJ: "суринамский"
+ SUR_DEF: "Суринам"
+
+ TRI: "Тринидад и Тобаго"
+ TRI_ADJ: "тринидадско-тобагский"
+ TRI_DEF: "Тринидад и Тобаго"
+
+### Party Names ###
+
+ CUR_totalist_party: "Jong Curaçao"
+ CUR_totalist_party_long: "Jong Curaçao (Молодой Кюрасао)"
+ CUR_syndicalist_party: "$CUR_totalist_party$"
+ CUR_syndicalist_party_long: "$CUR_totalist_party_long$"
+ CUR_radical_socialist_party: "$CUR_totalist_party$"
+ CUR_radical_socialist_party_long: "$CUR_totalist_party_long$"
+ CUR_social_democrat_party: "AVP"
+ CUR_social_democrat_party_long: "Antilliaanse Volkspartij (Антильская народная партия)"
+ CUR_social_liberal_party: "Democraat"
+ CUR_social_liberal_party_long: "Partido Democraat/Democratische Partij (Демократическая партия)"
+ CUR_market_liberal_party: "Liberale"
+ CUR_market_liberal_party_long: "Curaçaose Liberale Partij (Кюрасаосская либеральная партия)"
+ CUR_social_conservative_party: "CRKP"
+ CUR_social_conservative_party_long: "Curaçaose Rooms-Katholieke Partij (Кюрасаосская римско-католическая партия)"
+ CUR_authoritarian_democrat_party: "CPU"
+ CUR_authoritarian_democrat_party_long: "Curaçaose Politieke Unie (Кюрасаосский политический союз)"
+ CUR_paternal_autocrat_party: "CPU-JC"
+ CUR_paternal_autocrat_party_long: "Curaçaose Politieke Unie - Jonge Curaçaoenaars (Кюрасаосский политический союз — Молодые кюрасаосцы)"
+ CUR_national_populist_party: "NF-A"
+ CUR_national_populist_party_long: "Nationaal Front in de Antillen (Национальный фронт на Антильских островах)"
+
+### Characters ###
+
+ CUR_medardo_de_marchena: "Медардо де Марчена"
+ CUR_medardo_de_marchena_leader_desc: "§YДата рождения:§! §L29 июня 1899 г., Кюрасао, колония Кюрасао и Зависимые территории§!"
+ CUR_jan_hendrik_eman: "Ян Хендрик Эман"
+ CUR_jan_hendrik_eman_leader_desc: "§YДата рождения:§! §L7 августа 1887 г., Аруба, колония Кюрасао и Зависимые территории§!"
+ CUR_willem_de_regt: "Виллем де Регт"
+ CUR_willem_de_regt_leader_desc: "§YДата рождения:§! §L8 июня 1906 г., Роттердам, Южная Голландия, Королевство Нидерландов§!"
+ CUR_haim_cohen_henriquez: "Хаим Коэн Энрикес"
+ CUR_haim_cohen_henriquez_leader_desc: "§YДата рождения:§! §LКюрасао, колония Кюрасао и Зависимые территории§!"
+ CUR_jacob_rudolf_arends: "Якоб Рудольф Арендс"
+ CUR_jacob_rudolf_arends_leader_desc: "§YДата рождения:§! §L14 июня 1892 г., Аруба, колония Кюрасао и Зависимые территории§!"
+ CUR_isaac_capriles: "Исаак Каприлес"
+ CUR_isaac_capriles_leader_desc: "§YДата рождения:§! §L1873 г., Кюрасао, колония Кюрасао и Зависимые территории§!"
+ CUR_corneille_jonckheer: "Корней Йонкхер"
+ CUR_corneille_jonckheer_leader_desc: "§YДата рождения:§! §LКюрасао, колония Кюрасао и Зависимые территории§!"
+ CUR_bastiaan_van_der_flier: "Бастиан ван дер Флир"
+ CUR_bastiaan_van_der_flier_leader_desc: "§YДата рождения:§! §LКюрасао, колония Кюрасао и Зависимые территории§!"
+
+### Tooltips ###

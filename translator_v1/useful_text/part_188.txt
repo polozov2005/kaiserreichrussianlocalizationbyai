@@ -1,0 +1,987 @@
+Establishing
+Initial research
+Prototype
+Research completed
+Stopping research
+Stopped research
+Experimental Facilities
+Scientist
+Stopping project: $DAYS|Y$ day(s)
+Scientists
+Recruit Scientist
+Select one §YScientist§! to recruit
+§YClick§! to sort according to $REASON|Y$
+Name
+Search text
+Filter §YScientists§! by name or traits
+History
+Available Projects
+§GClick§! to filter on $SPECIALIZATION|Y$\n§GShift-Click§! to add to filter\n\n$PROJECT_COUNT|Y$ project(s) available with specialisation
+Select a §YScientist§! for the facility in $STATE|Y$
+$SCIENTIST_ROSTER_WINDOW_TITLE$
+$HISTORY_ROSTER_WINDOW_TITLE$
+$PROJECT_SIMPLE_ROSTER_WINDOW_TITLE$
+Recruit Scientist
+Facilities
+Available Projects
+§RMissing $SPECIALIZATION|Y$ facility building§!
+Breakthroughs
+Owned Facilities:
+§GClick§! to filter owned facilities on $SPECIALIZATION|Y$\n§GShift-Click§! to add to filter
+$NAME|Y$
+As a §HSupportive Scientist§!, they will work at $VALUE|.0Y$% effectiveness at the §Hfacility§!, in return once an §Hiteration§! is done their country will receive $PROG|.0Y$% of the §Hprogress§! to that §Hproject§! and will get $CONT|.0Y$ §Hcontribution§! per day in your faction.\n\nIn addition, each §HSupportive Scientist§! in your faction will increase the §HResearch Sharing§! bonus by §H5%§!.
+§GClick§! to §Yassign§! to the facility in $STATE|Y$
+§GClick§! to §Runassign§! from the facility in $STATE|Y$
+§RCan't assign this Scientist to the facility in $STATE$§!
+$LEVEL$
+£trigger_no Already assigned to the facility in $STATE|Y$
+§YSkill levels§!
+($LEVELNAME|Y$) ($CURRENT_XP|0$ / $NEEDED_XP|0$)
+($CURRENT_XP|0$ / $NEEDED_XP|0$)
+($LEVELNAME|G$)
+Inadequate
+Inexperienced
+Skilled
+Experienced
+Expert
+Mastermind
+$SPECIALIZATION_NAME$ skill
+$SKILL_NAME$ $SKILL_LEVEL_NAME|Y$
+§RScientist does not have the required skill: §! $SKILL|Y$
+£pol_power §Y$AMOUNT$§!
+£pol_power §R$AMOUNT$§!
+Recruit scientist
+Spend £pol_power §R$AMOUNT$§! to recruit $NAME|Y$
+Cost is based on available scientists:
+$AMOUNT|Y$ Scientist(s): $COST|Y$ £pol_power 
+$AMOUNT|Y$§Y+§! Scientist(s): $COST|Y$ £pol_power 
+Scientists assisting in this project:
+$NAME|Y$ ($COUNTRY$)
+$STATE$
+$SPECIALIZATION$
+$SPECIALIZATION|Y$
+$PROJECT_NAME$
+No active project\n§GClick§! to start
+Providing $BREAKTHROUGH_PROGRESS$% breakthrough progress and $TECHNOLOGY_BONUS|1%$ technology research bonus for $SPECIALIZATION$. Gains $EXP|2$ experience daily
+Gains $BREAKTHROUGH_PROGRESS|Y$§Y%§! daily breakthrough progress towards $SPECIALIZATION|Y$ per skill level.\n  Skill Level $SKILL_LEVEL|Y$: $BREAKTHROUGH_TOTAL|Y$§Y%§! daily breakthrough progress
+Gains $TECHNOLOGY_BONUS|1%Y$ research bonus for $SPECIALIZATION|Y$ technologies per skill level.\n  Skill $SKILL_LEVEL|Y$: $TECHNOLOGY_TOTAL|1%Y$ technology research bonus
+§RAdditional research bonus in the same specialisation is reduced by $AMOUNT|1%Y$§!
+Daily experience gain: $VALUE|2H$
+Providing breakthrough progress $VALUE|%%H$ for $SPECIALIZATION|H$
+Providing technology research bonus $VALUE|H%$ for $SPECIALIZATION|H$
+Assign a Scientist to start a project
+Can't assign scientist
+§Y[Building.GetName]§! in §Y[State.GetName]§!\n\n§GClick§! to open details\n§GRight-Click§! to pan to building
+§Y[Building.GetName]§! in §Y[State.GetName]§!\n\nPerforming basic research towards a new breakthrough.
+§GClick§! to open details\n§GRight-Click§! to pan to building
+§GClick§! to assign a §YScientist§! to the §Y[Building.GetName]§! in §Y[State.GetName]§!
+§YClick§! to replace §Y[Character.GetName]§! in the §Y[Building.GetName]§! in §Y[State.GetName]§! with another §YScientist§!
+§RClick§! to remove §Y[Character.GetName]§! from the §Y[Building.GetName]§! in §Y[State.GetName]§!
+[Building.GetName] in [State.GetName]
+§GSelect§! which project to start
+Approximate time: $DAYS|0$ day(s)
+§RRequires a §! §YScientist§! §Rto start§!
+$PHASE$ phase estimated to complete in: $DAYS|Y$ day(s)
+Project progress: $PROGRESS|0%$
+Completed projects
+§GOn research completed:§!
+§YMay have facility state effects§!
+§YMay have scientist effects§!
+§YSub units:§!
+§YEquipment:§!
+§YEquipment module(s):§!
+§YHidden location§!
+Scientist will be removed in $DAYS|0Y$ day(s)
+Scientist has been injured and will recover in $DAYS|0Y$ day(s)
+Project Output
+Cancelling the project before an iteration has been completed will refund breakthrough points:
+$SPECIALIZATION|Y$: $AMOUNT|Y$
+Will be refunded after the project has been stopped. Stopping a project takes $DAYS|Y$ days
+Project Iterations Completed: $NUMBER$
+Event $NUMBER|0$ / $TOTAL_NUMBER|0$
+§GClick§! to go to next event\n§GShift-Click§! to go to latest event
+§GClick§! to go to previous event\n§GShift-Click§! to go to first event
+Confirm
+§GClick§! to show the $ONGOING_PROJECT_OUTPUT_HEADER$
+§GClick§! to show projects events
+Start
+Back
+You have $AMOUNT|Y$ unread prototype iteration events
+Output
+Iterations
+$COUNT|G$
+§G0§!
+$COUNT|G$ project(s) available
+§R0§! project(s) available
+§GShift-Click§! to build $FACILITY|Y$
+[Character.GetName] will be injured for $DAYS|Y$ day(s)
+[Character.GetName] is injured for another $DAYS|Y$ day(s)
+$CHARACTER|Y$ is assigned to $PROJECT|Y$
+$DAYS|0$ day(s)
+$MIN|0$-$MAX|0$ iteration(s)
+x$FACTOR|2$
+Research speed: $FACTOR$
+Facility research speed: $FACTOR$
+Supply utilisation: $RATIO$
+The facility consumes $SUPPLY|2Y$ £supply_texticon£
+Needs $NEED|2Y$ £supply_texticon£, but currently only have $CURRENT|2Y$ £supply_texticon£
+The facility will operate at a reduced capacity if the supply needs are not met. Thanks to the ingenuity of the engineers, the utilisation will never drop below §R20%§!
+Resource usage: §YNone§!
+Resource usage
+ ($VALUE$) 
+Resource usage: $RESOURCES$\n§gDuring $PROTOTYPE_STATE$ iterations§!
+§gInsufficient resources will slow down research.§!
+Resource utilisation: $FACTOR$
+Building health: $FACTOR$
+§YStop research of this project§!
+§YRestart research§!
+Stop project
+Do you want to stop the current project?
+Restart project
+Do you want to restart the current project?
+Dismantle facility
+Abort dismantling
+Do you want to dismantle the facility in $STATE_NAME|Y$?
+Facility Captured in $STATE|Y$
+Our facility in $STATE|Y$ was captured and we did not manage to escape with all our prototypes.\n\n $PROJECT|Y$: $LOST_PROGRESS|+%1$ Progress
+Minor Breakthrough
+This iteration produced $AMOUNT|Y$% progress
+§YPrototype decision available§!
+A prototype decision is available for:
+If no choice is selected, the default will be selected on the next iteration reward.
+§GClick§! to see effects.
+This option will be automatically chosen if a new iteration completes, or if the project is completed.
+§YAvailable special project§!
+A special project can start in:
+§YFacility with unassigned scientist§!
+Assign a scientist to start §YBasic Research§! or start a new Special Project for:
+§RFacility is being dismantled§!
+§R-Cannot assign supportive scientists to your own facility§!
+§R-Cannot afford§!
+§R-You can only assign one supportive scientist per facility§!
+§RRequires breakthrough point(s):§!
+Requires breakthrough point(s): $AMOUNT$ $SPECIALIZATION|Y$
+$SPECIALIZATION|Y$: $AMOUNT|G$
+$SPECIALIZATION|Y$: $AMOUNT|R$
+$PROGRESS|Y$§Y%§! Daily progress gained from $BUILDING|Y$ in $STATE|Y$ doing basic research
+$PROGRESS|Y$§Y%§! Daily progress gained from $TECHNOLOGY|Y$ research
+$PROGRESS|Y$§Y%§! Daily progress gained from $AMOUNT|Y$ $BUILDING|Y$§Y(s)§!
+$PROGRESS|Y$§Y%§! Daily progress gained from $AMOUNT|Y$ $BUILDING|Y$§Y(s)§!
+§GHas at least $AMOUNT$ breakthrough points in $SPECIALIZATION$§!
+§RDoes not have $AMOUNT$ breakthrough points in $SPECIALIZATION$§!
+$PROJECT_NAME|Y$ History
+Output(s)
+Sub units(s)
+Equipment module(s)
+Equipment(s)
+Country effects
+Scientist effects
+State effects
+Unit bonus
+Equipment bonus
+§GClick§! to hide/show unavailable projects
+£trigger_yes Special project $PROJECT$ is researched
+£trigger_no Special project $PROJECT$ is researched
+Can construct a $BUILDING|Y$ in $STATE|Y$
+Can't construct a $BUILDING|Y$ in $STATE|Y$
+Construct a $BUILDING|Y$ in $STATE|Y$
+§GClick§! to dismantle the facility building.\n\nIt will take $DAYS|Y$ days
+§GClick§! to abort the dismantling of the facility building.
+Abort dismantling of the facility building?
+Dismantled in $DAYS|Y$ days
+$PROGRESS|0%Y$
+Stole research
+Stole advancements in project $PROJECT|Y$ from $COUNTRY|Y$. Gained $GAIN|1%Y$ progress towards our own project.
+Captured $FACILITY|Y$ in $STATE|Y$
+Current progress towards a new breakthrough: $PROGRESS|1%Y$
+$AMOUNT|Y$ breakthrough(s) acquired
+$AMOUNT|Y$ project(s) available
+Gaining $AMOUNT|1%G$ extra bonus from scientist research
+Gain breakthrough points:
+$SPECIALIZATION|Y$: $AMOUNT|G$
+Gain breakthrough progress:
+$SPECIALIZATION|Y$: $AMOUNT|2%G$
+Produces $AMOUNT|Y$§Y%§! daily breakthrough progress towards: 
+- $SPECIALIZATION|Y$
+Specialisation(s)
+Nuclear Research
+Naval Engineering
+Aerodynamics and Avionics
+Land Warfare
+Physics
+Naval
+Air
+Land
+Special Project Completed
+Special Project completed in $STATE|Y$ by $FACILITY|Y$
+§RThis project is unavailable§!
+§GThis project is available§!
+$MODIFIER_NAME$: $MODIFIER_VALUE$
+($SCIENTIST_NAME$) $SCIENTIST_TRAIT|Y$ $MODIFIER_NAME_AND_VALUE$
+As supportive scientist: ($SCIENTIST_NAME$) $SCIENTIST_TRAIT|Y$ $MODIFIER_NAME_AND_VALUE$
+Approx. time to research: $REMAINING_DAYS|Y0$ day(s)
+Time until stopped: $REMAINING_DAYS|Y0$ day(s)
+Progress: $CURRENT_PROGRESS|Y0%$ (gains $PROGRESS_PER_ITERATION|Y0%$ each iteration)
+Progress: $CURRENT_PROGRESS|Y0%$ (gains $PROGRESS_PER_ITERATION_MIN|Y0%$ to $PROGRESS_PER_ITERATION_MAX|Y0%$ each iteration)
+requires $TOTAL_NEEDED|Y0$ protoype iteration(s) - $NUMBER_DONE|Y0$ done
+requires $TOTAL_NEEDED_MIN|Y0$ to $TOTAL_NEEDED_MAX|Y0$ protoype iteration(s) - $NUMBER_DONE|Y0$ done
+$SCIENTIST_NAME$ ($SKILL_LEVEL_NAME|Y$): $MODIFIER_VALUE|%+=$
+Supportive scientist: $SCIENTIST_NAME$ ($SKILL_LEVEL_NAME|Y$): $MODIFIER_VALUE|%+=$
+Any scientist
+All scientists
+Any active scientist
+All active scientists
+Has scientist with specialisation: $SPECIALIZATION$
+Does not have a scientist with specialisation: $SPECIALIZATION$
+Has $SPECIALIZATION$ facility
+Does not have a $SPECIALIZATION$ facility
+gains $LEVELS|0Y$ level(s) in $SPECIALIZATION|Y$
+gains $XP|0Y$ experience in $SPECIALIZATION|Y$
+gains $TRAIT_NAME|Y$
+Scientist $NAME|Y$ is assigned to a project
+Scientist $NAME|Y$ is not assigned to a project
+$NAME|Y$ is injured
+$NAME|Y$ is healthy
+Not:
+Unlocks building: $BUILDING|Y$
+Unlocks building: $BUILDING|Y$\n\n£GFX_buildings_strip|$ICON_FRAME$\n\n$BUILDING_DESCRIPTION$
+Missing special project $PROJECT|Y$ prerequisite
+Unlocks Special Project: $PROJECT|Y$
+Unlocks Technology $TECH|Y$.
+In combination with the Special Project $EXTRA_PROJECT|Y$, unlocks Technology $TECH|Y$.
+In combination with the Technology $EXTRA_TECH|Y$, unlocks Technology $TECH|Y$.
+Small
+Medium
+Large
+Insane
+No changes will be applied to the $EQUIPMENT$ equipment.
+Multi-Charge Large Calibre Gun
+With its multi-charge propulsion system and large calibre, this weapon is capable of delivering devastating bombardment over vast distances.
+Catastrophical Explosion
+Successful Firing Test
+Breakthrough in Propulsion Technology
+Small-Scale Multi-Charge Calibre Gun
+$multi_charge_large_caliber_gun_small_size$
+Super-Heavy Railway Gun
+A colossal weapon of unmatched power and precision that will stand as a testament to the military superiority of any country capable of deploying it.
+Stronghold Network
+A complex network of heavily fortified bunkers and strongpoints, built to withstand intense assaults and protect critical strategic locations from enemy incursions.
+Flamethrower Tank
+An armoured vehicle equipped with devastating close-range firepower, designed to unleash torrents of flames upon enemy positions.
+Military Engineering Vehicles
+Specialised vehicles to enhance battlefield mobility, fortification construction and obstacle clearance under combat conditions.
+Super-Heavy Howitzer
+A formidable artillery piece boasting a large calibre, that can wreak havoc on enemy defences with unprecedented destructive force.
+Self-Propelled Super-Heavy Howitzer
+A self-propelled massive artillery piece with greater manoeuvrability on the battlefield than its towed counterpart, while accommodating an even larger calibre.
+Land Cruiser
+A massive armoured behemoth designed to dominate the battlefield. With unparalleled size and firepower, this vehicle represents the pinnacle of armoured warfare.
+Radar
+By using pulsed radio waves and detecting their reflections, we will be able to monitor enemy movements from land, air and sea.
+Centimetric Radar
+Developing centimetric radar will allow for detection of much smaller targets and the use of much smaller antennae.
+Overheating during Trials
+Chassis Stress Failure
+During stress testing, the chassis of the [SpecialProject.GetName] was found to be unable to handle the immense weight, causing structural deformations. The design team is split on whether to add additional reinforcement, which would further increase the vehicle's weight, or to use lighter materials, potentially compromising durability.
+Redesign the Chassis Entirely
+Redesigned Chassis
+Reinforce the Chassis
+Reinforced Chassis
+Use Lighter Materials
+Lighter Materials for Chassis
+Engine Output Insufficient
+Early trials show that the prototype's massive frame is putting a strain on the current engine, making the [SpecialProject.GetName] sluggish and unresponsive. The team suggests two options: develop a new, more powerful engine, or attempt modifications to boost the output of the existing one, risking engine failure.
+Leave as Is
+Modify Current Engine
+Improved Engine
+Develop a New Engine
+Redesigned Engine
+Complex Turret Mechanism
+The enormous multi-turret design is causing severe alignment and aiming issues, delaying weapon integration. The engineering team recommends simplifying the turret layout to improve reliability, but doing so will reduce the [SpecialProject.GetName]'s planned firepower.
+Keep Original Design
+Simplify Turret Design
+Simplified Turret Design
+Redesign Turret Mechanism
+Redesigned Turret Mechanism
+Track System Failure
+The weight of the [SpecialProject.GetName] has overwhelmed the track system, leading to constant breakdowns during testing. The options are to reinforce the tracks, which would require significant re-engineering, or reduce the vehicle's armour to lighten the load.
+Proceed with Current Tracks
+Reduce Armour Plating
+Reduced Armour Plating
+Reinforce the Track System
+Reinforced Track System
+Communication System Issue
+The sheer size of the [SpecialProject.GetName] requires a complex internal communication system to coordinate its crew. The current system is proving inadequate, with orders getting delayed or lost. The team suggests redesigning the internal layout to improve communication flow, or installing a more advanced, yet untested system.
+Leave Current System
+Install New Advanced System
+Advanced Communication System
+Redesigned Internal Layout
+Redesigned Communication System
+Precision Assembly
+During the assembly phase, engineers successfully refined a precision alignment technique for fitting the massive components of the [SpecialProject.GetName], such as the turret ring and hull plating, significantly reducing the risk of mechanical stress fractures. We can integrate this innovative technique throughout the project to increase structural reliability overall. How should we apply it?
+Across All Assembly Stages
+Precision Assembly
+Only to Key Components
+Hydropneumatic Suspension System
+The team has perfected a cutting-edge hydropneumatic suspension system that balances the immense weight of the [SpecialProject.GetName], ensuring stability and reducing strain on the tracks even when traversing rough terrain. [Character.GetName] is confident that this suspension can be reliably implemented for better performance in the field.
+Full Hydropneumatic Suspension
+Limit to Rear Units
+Ammunition Storage Solution
+During testing, concerns arose regarding safe storage and transport of the [SpecialProject.GetName]'s high-calibre ammunition, as the standard racks couldn't handle the explosive shell weight safely. A novel compartmentalised storage system, using reinforced bulkheads and hydraulic loaders, has been proposed, allowing for safer handling and faster shell loading under combat conditions.
+Maintain Current System
+Use a Simplified Version
+Adopt the New Storage System
+Design Focus
+As development progresses, a critical decision must be made: We can prioritise fast production and smaller-calibre guns, or we can invest in bigger and heavier guns, sacrificing production efficiency for unparalleled firepower and devastating impact.
+Keep Balance
+Focus on Firepower
+Focus on Fast Production
+$sp_land_reward_super_heavy_howitzer_focus_preference$
+$sp_land_reward_super_heavy_howitzer_focus_preference_desc$
+$sp_land_reward_option_super_heavy_howitzer_focus_preference_balance$
+$sp_land_reward_option_super_heavy_howitzer_focus_preference_firepower$
+$sp_land_reward_option_super_heavy_howitzer_focus_preference_production$
+Structural Weakness Discovered
+Delayed by Concrete Shortage
+Underground Rail Systems
+Integration of Anti-Blast Doors
+Communication System Overhaul
+While testing the internal communication network of the testing complex, the team identified inefficiencies that could be used to refine similar systems in traditional fort designs.
+Standardise
+Further Study
+Leadership Approach
+As the project advances, [Character.GetName], the lead scientist, must decide how involved [Character.GetSheHe] will be in day-to-day operations. [Character.GetSheHeCap] can choose to oversee construction directly on the field, ensuring precise execution, or remain in the office, focusing on strategy and planning.
+Oversee Work Personally
+Office Planning
+Breakthrough in Concrete Reinforcement
+One of the junior engineers has discovered a new reinforcement method that could be applied to standard fortifications. Documenting it now could give our scientists and engineers an edge in future research.
+Apply and Document Discovery
+Use in Current Project
+$sp_land_reward_stronghold_network_breakthrough_in_concrete_reinforcement_01$
+A new reinforcement method discovered by one of the junior engineers has been forwarded to an outside research team for further evaluation. While the findings are still under review, the technique can still be applied to the current project if deemed suitable.
+Collapse During Tunnel Construction
+A tunnel under one of the main bunkers collapsed unexpectedly, trapping several workers and the lead scientist, [Character.GetName], who was overseeing operations, under the rubble. Emergency measures must be taken to rescue the trapped personnel, but the incident has already caused a delay in overall progress.
+Prioritise our Lead Scientist
+Prioritise Workers' Safety
+Continue Without Delay
+$sp_land_reward_option_stronghold_network_collapse_01$
+A tunnel under one of the main bunkers collapsed unexpectedly, trapping several workers and stalling construction. Emergency measures must be taken to address the situation and safely extract the trapped personnel, but the incident has already caused a delay in overall progress.
+New Learnings
+Refined Expertise
+Insightful Discovery
+Battlefield Innovations
+Operational Insight
+Adapted Field Tactics
+Promising Prototype
+Critical Test Successful
+Pivotal Discovery
+Testing Inconclusive
+Design Flaw Detected
+Minor Test Failure
+Pioneering Techniques
+Innovative Advancements
+Experimental Methodology
+Experimental Tank Research
+$sp_land_generic_reward_armor_tech_1$
+$sp_land_generic_reward_armor_tech_2$
+$sp_land_generic_reward_armor_tech_3$
+Experimental Artillery Research
+Enhanced Plating
+Ballistic Resistance Improvements
+Improved Armour Alloys
+Fuel Efficiency Engines
+Enhanced Engine Reliability
+Optimised Engine Performance
+Improved Ranged Accuracy
+New Recoil Reduction Systems
+Advanced Muzzle Design
+Resource Scarcity
+Critical Failure
+Nuclear Reactor
+Experiments have proven that splitting atoms through fission releases vast amounts of energy, which could be used for power generation. Or perhaps as fuel for bombs...
+Commercial Nuclear Reactor
+Nuclear reactors are good for producing materials for bombs. But the amount of energy produced could instead supply civilian and military industry with power.
+Nuclear Engines
+Engines that can run forever - without needing to refuel. This is the promise of atomic energy. A promise our engineers say that we are very close to fulfilling.
+Nuclear Fission Bomb Project
+A bomb using the process of nuclear fission to release the stored energy of the atom in one apocalyptic moment. With such a weapon in our arsenal, who would dare oppose us?
+Nuclear reactors start producing §YNuclear Bombs§!.
+Thermonuclear Bomb
+It is truly hard to imagine anything beyond the fission bomb, but with nuclear fusion, it is possible to create an explosion far larger than anything built before.
+Nuclear reactors start producing §YThermonuclear Bombs§!.
+Nuclear Warheads
+By creating condensed nuclear weapons, we will be able to utilise them as a payload upon a wide range of rocket-based launch systems, allowing us to strike across vast distances.
+Reactor Design
+When trying to design a reactor, we need to choose what material to use for the moderator. This will dictate the design of the entire reactor. We can use Heavy Water, or we can use Graphite, both of which have their pros and cons...
+Purified graphite is the better moderator
+Heavy water will be cheaper
+Major Breakthrough in Nuclear Reactions
+A controlled experiment with some of our limited nuclear material has demonstrated the feasibility of our intended design. This has propelled the project forward with renewed enthusiasm.
+Isotope Separation Facilities
+In order to supply our reactors with nuclear fuel, we need to decide on a process for separating the useful isotopes of uranium from the rest. There are a number of proposals for separation facilities but the two frontrunners are gaseous and centrifugal.
+Gaseous is a proven technique.
+Centrifuges will be more efficient in the long-run.
+New Learnings
+Technological Advancements
+During the work on the project, our engineers have made several new inventions, that could very likely be adapted for use in other areas as well.
+Advanced Industrial Research
+TODO_TA
+Minor Breakthrough
+Our scientists made some really groundbreaking discoveries while working on the latest prototype. Their findings have advanced our knowledge and research into the field considerably.
+Technological Innovation
+Significant learnings were made during the last iteration on the project. Hopefully, we will be able to put this to practical use, which should allow us to speed up research in related areas.
+Advanced Electronics Research.
+Public Support
+A successful test, and some related, tightly controlled, media coverage has led to the public understanding the we are getting closer to develop some kind of super weapon that can be used to defeat any and all enemies.
+Major Political Interference
+The [SpecialProject.GetName] project has come under increased scrutiny and interference from political leaders, causing delays and potentially forcing changes in project leadership. This has enraged [Character.GetName]. We need to deal with these political challenges to keep the project on track
+Keep [(Character?.GetName:'CAP_SCIENTIST)]
+Remove [(Character?.GetName:'CAP_SCIENTIST)]
+Theoretical Breakthrough
+[Character.GetName] has managed to solve a complex theoretical problem during the work with the latest prototype. This has led to streamlining of the bomb design, which will make it less difficult to produce.
+Critical Mass Experiment Goes Wrong
+A critical accident occurred during experiments to determine critical mass, leading to radiation exposure and casualties among key personnel.
+Information Leak
+One of the workers at the [SpecialProject.GetName] has apparently been leaking information to foreign agents. Whether this was intentional or not is as of yet not known. It is likewise hard to determine the damage this has done to the project.
+Gains Project progress
+Radioactive Leak - Under Control
+Unfortunately there was a serious incident during the work with the reactor. Thanks to the rapid response by the staff, the damage has been contained and the team was able to get valuable data from the incident.
+Minor Explosion, No Injuries
+While working on the latest iteration of the nuclear reactor prototype, there was a small incident. A minor explosion occurred, damaging parts of the lab, but the fire that ensued could easily be put out. Once the lab is repaired, work should be able to continue as planned, with only a slight delay.
+First Successful Nuclear Reactor Test
+Our first nuclear reactor has been successfully tested, proving the feasibility of controlled nuclear fission. This breakthrough promises a new era of energy production, and potentially much more.
+Celebrate the achievement publicly
+Keep the information classified for now
+Other countries might benefit from this
+Received Information on Nuclear Testing
+Concerns Over Nuclear Safety
+[Character.GetName] has raised concerns over the lack of filters in the cooling towers of our new reactors. [Character.GetSheHeCap] insists that filters must be added to prevent radiation escaping from the reactor during an emergency. The engineers meanwhile argue they will delay the project significantly.
+Add the filters.
+Utter folly!
+Prototype Bomb
+A Prototype Bomb has been produced by [Character.GetName]'s team. Making, and evaluating, a successful test would improve our progress significantly. On the other hand, we have a nuclear bomb now...
+Test it under controlled forms
+We can put this to use against our enemies
+Espionage Threats
+Security officers argue that there is a need to increase security at the site of ¨[SpecialProject.GetName] project and all surrounding activities. The researchers, with [Character.GetName] in the lead, argue that freedom to move about and communicate is vital for the progress.
+Don't increase security
+Increase Security
+Increased Security lowers the risk of information theft
+Breakthrough in Plutonium Production
+Our scientists have made a significant breakthrough in Plutonium production techniques, increasing the efficiency of bomb production. This can hopefully accelerate the development timeline.
+Accidental Fire
+A fire broke out in one of the warehouses at the facility. Initial investigation points towards it being an accident. But was it really?
+Simple or Complex Bomb Design
+There are two designs for an atomic weapon being pursued by our scientists and debate has emerged over how to proceed with them. One design, known as the gun type, is far simpler to create but also less efficient in its use of nuclear material. The other is the implosion type, a much more challenging design but theoretically more efficient in its use of nuclear material.
+The gun is a safer bet.
+Implosion is the superior design.
+Test Proposal
+In order to confirm the theory behind a thermonuclear bomb, our scientists have requested the opportunity to carry out a test detonation. This would require the allocation of an existing atomic bomb to initiate the chain reaction but would significantly accelerate the progress of the project.
+Carry out a test.
+We can't spare the material.
+$sp_thermonuclear_bomb_test_reward_option_no$
+Experimental Rockets
+$experimental_rockets_desc$
+Flying Bomb
+An unmanned aircraft, using a rocket engine, carrying a significant payload, should be able to strike fear in the hearts of our enemy, demoralising them.
+Ballistic Missile
+A guided ballistic missile, capable of delivering a warhead from great distances with unprecedented speed and accuracy.
+MRBM
+Medium range ballistic missiles shall enable us to deliver a warhead across a continent with astonishing accuracy and devastating impact.
+ICBM
+An intercontinental ballistic missile, likely the largest missile we need ever build, capable of delivering a warhead with great accuracy basically anywhere on the globe.
+Surface to Air Missiles
+A large rocket powered anti-air missile, capable of knocking a bomber out of the sky with a single hit. This will shape the future of air defence, for sure.
+Rocket Interceptor
+Combining the power of a rocket with the manoeuvrability of a small chassis, we will create an unmatched interceptor aircraft.
+New Learnings
+Our Scientists have made several new learnings during the course of the work with the latest prototype
+Political Interference
+Politicians dabbling where they shouldn't have led to the project being forced to redo things that were already done, for reasons that make sense to no-one.
+Onsite Explosion
+A major explosion during one of the tests resulted in severe damage to parts of the facility, but has also led to new insights for our scientists
+Major Breakthrough
+During the last prototype iteration, we managed to make a major breakthrough.
+Avionics Advancements
+During our work we have made many findings in the general Avionics and Aerodynamics field that can benefit our aircraft production.
+Accuracy Improvements
+Improved Rocket Flight Stability
+Range versus Payload?
+When designing our flying bomb, our engineers argue that it is important to decide what the main aim of the design of the bomb is. Do we want to maximise range, or is the payload the most important issue.
+Balanced
+Range
+Payload
+Technical Breakthrough in Pulse jet Design
+Our engineers have overcome significant hurdles in designing the missile's pulse jet engine, crucial for its range and speed.
+Launch Ramp Innovations
+Our engineers have made significant improvements in the specialised launch ramps necessary for the deployment of the missiles.
+Good news
+Mass Production Scaling
+We've successfully managed to come up with production improvements, that will allow us to scale up to mass production much faster.
+Engine Optimisation Breakthrough
+Our engineers have managed to significantly improve the pulse jet's range and reliability, enhancing the missile's operational capability.
+Technological Innovation in Guidance Systems
+During the latest round of prototyping, significant improvements have been made to the guidance system's accuracy and jam resistance, advancing our technological edge.
+Test Flight Failures
+Early test flights have resulted in failures due to guidance system malfunctions and structural weaknesses. Our scientists have learnt a lot from it, but we need to take a step back and rethink.
+Ground Control Improvements
+[Character.GetName] managed to solve several outstanding issues with the ability to track and control the missile from the ground. This marks a significant step towards being able to target enemy high flying aircraft.
+Vertical Launch System
+After a few failed attempts, [Character.GetName] finally managed to solve the problems around vertical launching of these missiles. The new system should allow the missiles to be launched without problems and reach high altitudes without delay.
+High Speed Flight Control
+We have finally managed to get a working control system that can function at high speeds and react to changing flight dynamics. This knowledge can certainly be useful in other areas as well.
+High Speed Flight Controls
+Warhead Detonation Mechanisms
+An important part of the whole development is to get the weapon to explode at the right point. It appears that [Character.GetName] has managed to come up with a solution that allows us to detonate it at as favourable time as possible.
+Surface-Air Missile: Improved Warhead Detonation
+Engineers Request Wind Tunnel
+Engineers on the ballistic missile project have requested the construction of a supersonic wind tunnel to test scale models of their designs earlier. This would rapidly speed up their iteration process and save resources in the long run.
+The resources are needed elsewhere.
+Allocate the resources.
+Ice Forming on Reentry
+During the reentry phase of the rocket's flight, ice seems to be forming around the fuel tanks and interfering with the rocket's internals. Although a setback, our engineers have suggested adding glass wool around the tanks to prevent this from happening in future.
+Unfortunate, but necessary.
+Guidance System
+Our engineers are debating the guidance system for the rocket. Some wish to stick with a tested mechanical computer while others wish to utilise new radio technologies to control and monitor the rocket post launch.
+Mechanical is reliable.
+Radio is the future!
+Turbopump Frothing Issue
+During high altitude testing, an issue regarding the turbopump was isolated. It seems that the lubricant inside the pumps begins to froth under the strenuous conditions which impacts the overall performance and reliability of the current design.
+We have to figure this out!
+Relay Failure
+A defective relay used for the internal control systems of the rocket was detected while preparing for our test launch. Engineers believe we should replace the relay before carrying on, but concerns are mounting over political ramifications of a delay.
+Get those relays fixed.
+We can delay no longer.
+Rocket Rust
+Concerns have been raised regarding the external casing of the rocket. When left for an extended period, the materials often rust and corrode. This could leave the rocket inoperable if a solution is not found.
+Perhaps a lubricant could be applied?
+Launch Site Issues
+The sheer scale of the new rocket is causing constraints at the intended launch site. The project managers are therefore requesting funding for a new purpose-built site to be constructed elsewhere.
+Find a way to make the current site work.
+We shall invest in a new facility.
+In order to effectively use $PROJECT|Y$ we need to construct a Rocket Site or have Submarines with missile strike capability.
+In order to effectively use $PROJECT|Y$ we need to construct a Rocket Site.
+Cruiser Submarine
+A submarine with superior range, designed for traversing long distances, without support, would be ideal for attacking enemy shipping.
+Cruiser Submarine
+Nuclear Submarine
+We should be able to make nuclear engines small enough to fit in a specialised submarine, making the vessel silent and providing it with extreme range.
+Nuclear Submarine
+Missile Launching Submarine
+By equipping our submarines with missiles and launch systems, we should be able to hit our enemies' strategic targets anywhere, and with no prior warning.
+Torpedo Cruiser
+We can inflict significant damage on our enemies' most important and expensive ships, utilising Torpedo Cruisers, according to the last century's concept - Jeune École.
+Torpedo Cruiser
+Fleet Submarine
+A long-range submarine capable of acting as a fleet escort but without the flaws inherent in the design of the previous cruiser submarines.
+Fleet Submarine
+Dreadnought
+The Dreadnought Race may be a thing of the past for over a decade... yet, it is hard to deny the sheer majesty of the dreadnought, and its potential for unparalleled naval firepower.
+$ship_hull_super_heavy_1$
+Nuclear Missile Submarine
+If we are able to surface a submarine, fire a missile with a nuclear charge, and then submerge again, our first-strike potential becomes almost limitless.
+Modern Battleship
+Others may believe that the future of the naval combat will be dominated by the carriers, we are here to convince them that they are wrong.
+Modern Battleship
+Midget Submarine
+There exists a niche in our naval capabilities for a lightweight, cheap, and versatile submarine, that could be used for anything from harbour sabotage to convoy raiding.
+Midget Submarine
+Nuclear Torpedo
+With the advent of low-yield tactical warheads, long-range torpedos with these warheads attached could theoretically be deployed by any conventional submarine.
+Modern Carrier
+With the latest developments on ship-building techniques we could build a new generation of aircraft carriers, with vastly improved size and capabilities.
+Modern Carrier
+Anechoic Tiles
+This special rubber-tiled coating for submarines, which contains small empty spaces between them; reduces the threat of detection by enemy sonars.
+Enables Submarine Stealth Upgrade value of 6 and 7
+Air-Independent Propulsion
+A new propulsion system that could eliminate the weakness of submarines needing to resurface in order to recharge their batteries and replenish oxygen supply.
+Enables Submarine Engine Upgrade value of 6 and 7
+Ice Aircraft Carrier
+In order to assert our air superiority over the vast oceans, we need carriers that could store and launch long-range regular airplanes, and not just carrier aircraft.
+Ice Aircraft Carrier
+Underway Replenishment
+Supplying navies far from their home bases was always a limiting factor. With our fleets operating on extreme ranges, we need to develop new methods for resupply.
+Proximity Fuze
+With improved and more reliable radio technology, we can develop new kind of fuzes, that would explode by just being in the proximity of the target, and damaging it.
+Support Ships
+Support Ships will help maintain our superiority at sea, by keeping our fleets afloat and effective even during prolonged deployments.
+Escort Carrier
+To safeguard our supply lines, we want to develop smaller, more economical carriers, providing cost-effective air cover and anti-submarine capabilities across oceans.
+Escort Carrier
+Submarine Carrier
+We are looking to develop a new kind of submarine, capable of storing and launching multiple planes, to carry out missions beyond aerial reconaissance.
+Submarine Carrier
+Armoured Cruiser
+An Armoured Cruiser, or Panzerschiff, is a small capital ship filling the gap between the venerable battleship and more recent heavy cruiser designs. These are meant to be long-ranged and capable of independent action, especially surface raiding. They are popularly, but erroneously, known as Pocket Battleships because of their heavy armament despite their hull size.
+Armoured Cruiser
+Raiding Protocol
+While the large size of our new submarines presents an opportunity to dramatically increase deck armament capacity, we should also consider utilising the space to increase tactical range.
+Flexible Operations
+Armaments
+Design Principles
+We have to know on what we need to focus our efforts when designing our new type of long-range submarines. Should our submarines be silent and deadly hunters, or do we want for them to be a more reliant and resilient to dangers
+Attack Capability
+Sturdier Structure
+Cost Concerns
+As we are working on a completely new type of submarine, there are growing concerns that the ship production costs will ultimately be too high. How should we proceed with the design?
+Cut Corners
+Current Plans
+Highest Quality
+Question of Payload Delivery
+We need to answer a pressing question, what is the best method to ensure our missiles launched from submarines will reach our foes?
+Range
+Reliability
+Stealth
+Escaping the Hunt
+If the information about our planned nuclear strike would reach our enemies, they would start a massive search for our nuclear missile submarines. In order to escape hunters, we need to...
+Lay Low
+Remain Calm
+Endure Storm
+New Torpedo Course
+With the nuclear torpedoes being close to hitting end target of the project, we must aim for...
+Powerful Warheads
+Safer Storages
+Squeezing in More
+We have realised that we can potentially specialise parts of our midget submarines, though that will have a few trade-offs.
+Bit Stealthier
+Bit Less Prone to Explode
+Bit Longer Range
+Independent Improvements
+Our scientists working on this technology shared their findings with their colleagues working on improving more conventional engines. Don't hold your breath yet, as the resulting improvements likely won't be breathtaking.
+Quieter Engines
+Faster Engines
+Less Fuel-Consuming Engines
+New Learnings - Submarine Hull Construction
+During the development of anechoic tiles, we realised that we can adapt our findings to conventional submarine construction in order to enhance our stealth capabilities, or save a bit on costs, while maintaining the current levels of visibility.
+Aggressive Patrol Patterns
+Reduced Acoustic Signature
+Reduced Hull Costs
+Second Chance - Torpedo Cruiser
+With the reviving of the old concept of a Torpedo Cruiser, we need to make an important decision about its role within our fleet: should we focus on their strength - torpedoes; or should we address their primary weakness - fighting Destroyers?
+Strength - Torpedoes
+Weakness - Destroyers
+Matter of Priorities - Attack
+Designing a new class of battleships allows us the opportunity to focus our efforts on improving our ability to dominate the naval battlefield. What should we prioritise?
+Heavy Guns
+Speed
+Light Guns
+Matter of Priorities - Defence
+Our top naval commanders gave us an impossible task, to make this ship nigh invincible - and while we know it to be impossible, we can at least try to make it so. This time, what should be our priority?
+Reinforced Armour and Hull
+Anti-Air Artillery
+Anti-Torpedo Measures
+Modern Battleship - Hope
+While many are claiming that the age of the battleship is over, we still believe in them. This ship has a chance to become a new hope for us. Which aspect should we focus on in order to make the dream come true?
+Raw Firepower
+Manoeuvrability
+Precision
+Modern Battleship - Strikes Back!
+In order to prove our point, and maintain our position, we will have to withstand enemy strikes. What should we improve in order to be able to strike back at those who dare to stand in our way?
+Structure
+Anti-Air
+Torpedo Protection
+Modern Carrier - Purpose
+With the new generation of carriers we could focus on certain aspects of our ship, in order to better suit our needs. Where should we concentrate our efforts?
+Awareness
+Speed and Weatherproof
+Light Ship Deterrence
+Modern Carrier - Safety
+Carriers are undisputedly the kings of naval warfare, however we need to provide them with proper protection and security. What should be our main concern?
+Enemy Artillery
+Enemy Aircraft
+Enemy Torpedoes
+Reinforcing Ice-Aircraft Carrier
+While investing a tremendous amount of time into constructing this gigantic carrier, we need to be sure that we are giving the best protection we could for it. What is our biggest concern?
+Forces of Nature
+Enemy Forces
+Scale of Resupply
+While we are still working on making the system of underway replenishments run as smoothly as possible, we have to make one more decision - do we want to alter our original estimations or not?
+Longer Range
+Lower Convoy Usage
+Find a Balance
+Efficiency or Effectiveness
+Proximity Fuzes greatly reduce the amount of shells needed to score a hit against enemy aircraft. As we prepare to use them in our mobile anti-air units, we can adjust amount of ammo supplied, while retaining the expected daily 'hit' ratio.
+Adjust Ammo Supplies
+Retain Current Ammo Supply
+Auxiliary Ships - Support Focus
+While the value of support ships is not in dispute, we need to decide what their operational focus shall be: focused replenishment of a small number of ships, or generalised topping-up of the whole fleet's stores.
+Needs of the few
+Find the balance
+Needs of the many
+Auxiliary Ships - Repair Efforts
+The key question for our repair ship organisation: either a larger number of small repair crews, able to service a great number of ships slowly, or a smaller number of more lavishly equipped crews that can repair fewer ships more comprehensively.
+Wider Coverage
+Find the balance
+Concentrated Efforts
+Improving Submersible Carriers
+Our submarine carriers push the limits of naval engineering, and cannot be equally strong in every area. Shall we prioritise range, hull strength, or stealth?
+Extended Range
+Reinforced Structure
+Reduced Visibility
+Escort Design Drafts
+The escort carrier attempts to cram a lot of capability in to a quite small hull. We need to choose between an emphasis on range, durability, or speed.
+Operational Range
+Stronger Hull
+Higher Speed
+Spotting Priorities
+An escort carrier's air group is necessarily limited in size. Shall they specialise in antisubmarine warfare, or spotting surface targets, or adopt a generalised, multi-role approach?
+Submarines
+No preferences
+Surface Ships
+Armoured Cruiser Philosophy
+Due to limited size and resources, we must decide what our Armoured Cruiser designs should focus on. Focusing on Speed will allow the ship to outrun heavier warships and pursue lighter ones, much akin to a larger cruiser or a smaller battlecruiser. Focusing on Light Attack will create a strong \
+Speed will ensure greater flexibility.
+Light Attack to destroy smaller vessels.
+Heavy Attack; give it battleship guns!
+Cruiser Submarine - Extended Range
+Cruiser Submarine - Raiding Efficiency
+Fleet Submarine - Offensive Focus
+Fleet Submarine - Structural Focus
+Nuclear Submarine - Cheaper Construction
+Nuclear Submarine - Quality Focus
+Missile Launching Submarine - Extended Range
+Missile Launching Submarine - Reliability Focus
+Missile Launching Submarine - Stealth Focus
+Nuclear Missile Submarine - Stealth Focus
+Nuclear Missile Submarine - Enhanced Durability
+Midget Submarine - Stealth Focus
+Midget Submarine - Reliability Focus
+Midget Submarine - Extended Range
+Torpedo Cruiser - Enhanced Torpedo Capability
+Torpedo Cruiser - Light Artillery Improvements
+Super Heavy Battleship - Heavy Artillery Improvement
+Super Heavy Battleship - Improved Engines
+Super Heavy Battleship - Light Artillery Improvement
+Super Heavy Battleship - Stronger Hull & Armour
+Super Heavy Battleship - Improved Anti-Air
+Super Heavy Battleship - Better Anti-Torpedo Measures
+Modern Battleship - Heavy Artillery Improvement
+Modern Battleship - Better Engines
+Modern Battleship - Light Artillery Improvement
+Modern Battleship - Reinforced Hull and Armour
+Modern Battleship - Modern Anti-Air Measures
+Modern Battleship - Better Torpedo Damage Control
+Modern Carrier - Increased Detection and Awareness Capability
+Modern Carrier - Speed Improvement
+Modern Carrier - Light Ship Deterrence
+Modern Carrier - Modern Carrier Deck Armour
+Modern Carrier - Modern Anti-Air Defence
+Modern Carrier - Increased Torpedo Damage Protection
+Ice Aircraft Carrier - Increased Resistance to Weather
+Ice Aircraft Carrier - Stronger Construction
+Escort Carrier - Enhanced Range
+Escort Carrier - Reinforced Structure
+Escort Carrier - Faster Engines
+Escort Carrier - Anti-Submarine Focus
+Escort Carrier - Universal Application
+Escort Carrier - Surface Ships Spotting Focus
+Submarine Carrier - Extended Range
+Submarine Carrier - Sturdy Construction
+Submarine Carrier - Reduced Visibility
+Fast Armoured Cruiser
+Large Armoured Cruiser
+Pocket Battleship
+Swimming in Ideas
+Drowning in Creativity
+Bathtub - Eureka!
+Change in the Flow of Ideas
+Wave of Ideas
+Tsunami of Innovations!
+Major Breakthrough!
+Great Success!
+Massive Progress!
+Project Delay!
+Merely a Setback!
+Disastrous Results
+Torpedo Explosion
+Ship Gunnery Learnings
+Naval Guns Innovations
+Ship Batteries Insights
+New Armour Studies
+Naval Armour Innovations
+Future Armour Insights
+Naval Armour Experimental Research
+Naval Artillery Experimental Research
+Bouncing Bomb
+A bomb that can skip and bounce over water surfaces could be the perfect tool to breach dam defences, and could prove useful in other situations as well.
+Unlocks §Y$raid_type_dam_bombing_raid$§! and §Y$raid_type_lock_bombing_raid$§!
+$sp_air_bouncing_bomb$
+$sp_air_bouncing_bomb_desc$
+Earthshaker Bomb
+A heavy bomb that is constructed in such a way that it penetrates the ground before it detonates, causing massive structural damage to the target.
+Unlocks §Y$raid_type_mega_gun_emplacement_strike$§! raids
+$sp_air_earthshaker_bomb$
+$sp_air_earthshaker_bomb_desc$
+Intercontinental Bomber
+A huge aircraft loaded with bombs and fuel, designed specifically for long-distance high-altitude flying granting it the ability to cross oceans and continents.
+Mothership Aircraft
+A massive aircraft that carries fighter planes into battle, enabling deep escort missions into enemy territory — truly the swarm-lord of the skies.
+Jet Engine
+Jet engines are far more powerful than propeller engines, potentially revolutionising aircraft design and sparking a new era of aeronautical engineering.
+Axial Jet Engine
+The first jet engines developed can only compress air to a limited degree. It might be possible to line multiple compressors in serial to boost the thrust even further.
+Supersonic Jet
+Advancements in jet engine technology are paving the way for aircraft capable of reaching Mach 1 and breaking the sound barrier.
+Helicopter
+The development of a helicopter, with its unique ability to hover in place, could offer critical tactical advantage in military operations.
+New Discoveries
+Our Scientists have made several new discoveries during the course of the work with the latest prototype.
+That is good
+Political Interference
+Politicians dabbling where they shouldn't have led to the project being forced to redo things that were already done, for reasons that make sense to no-one.
+Two steps forward, one step back
+Major Breakthrough
+During the last prototype iteration, we managed to make a major breakthrough.
+Excellent!
+Aerodynamics Advancements
+During our work we have made many findings in the general Aerodynamics field that can benefit our aircraft production.
+Good News
+New Related Findings
+During the course of the work, our researchers have come up with a number of ideas that might prove useful in other situations.
+Interesting
+Valuable Insights
+Increased Theoretical Knowledge
+Limitless Discoveries
+Breath of Fresh Air
+Breeze of Innovation
+Winds of Change
+Project Takeoff
+Expert Landing
+Stroke of Genius
+Experiment Fell Flat
+Breaking Bomb
+Creative Disaster
+Backspin Mechanism
+Our scientists have come up with an ingenious solution for stabilising the bomb once dropped. The mechanism starts a backspin, which keeps it on track to the target.
+Great
+Training Accidents
+Unfortunately we have lost a few planes when we have tried low altitude approaches. We need to intensify security procedures and training regimen.
+That's most unfortunate
+Aircraft Modifications
+During the last test run, we finally managed to nail what modifications are needed to the airframe in order for the release mechanism to be properly fitted.
+As long as it works now
+Type of Explosives
+By using Torpex rather than TNT, we can significantly reduce the size of the bomb while keeping the explosive power.
+This can prove useful
+Design Direction
+During our development process we have realised that we can use our new findings to further enhance our bomb's destructive power. We could focus on improving bomb's precision, or focus on increasing their destructive strength.
+Precision is the Key
+Destructive Power
+Why Not Both?
+Long-Range Delivery
+In order to make sure our bombers will be able to reach across the continents, we need to decide what should we focus on in order to achieve the most satisfactory results.
+Greater Payload
+Small Improvements
+Greater Protection
+Peak Mothership Performance
+In order to get peak performance from mothership aircraft, we could try to specialise them and increase their capabilities in certain aspects. Question is - on which aspect should we focus on?
+Agility and Speed
+Safety and Reliability
+Durability and Stronger Guns
+Development Priority
+We need to make a decision, whether we should concentrate our efforts on making the jet engines best suited to our fighters or bombers. We can also try to make them as universal as possible
+Fighters
+Universal Engines
+Bombers
+Development Déjà Vu
+It is happening again. It is happening AGAIN. We are once again standing at the dilemma - should we focus on one type of the planes or try to have a more universal solution
+Fighters
+Universal Solution
+Bombers
+Cost Concerns
+We realised that the potential costs of supersonic jets may be quite staggering. We could try to lower the costs, stay on the current projected costs or we could go all-in, and use the highest quality materials
+Lowered Costs
+This is Fine
+Costs Do Not Matter
+Safety Concerns
+This new equipment will be quite exposed to all kinds of danger, making us concerned about its longevity on the battlefield. We could try to address that by focusing on helicopter...
+Speed and Manoeuvrability
+General Safety Precautions
+Increased Armour
+Earthshaker Project Integration - Precision
+Earthshaker Project Integration - Payload Increase
+Earthshaker Project Integration - Precision and Payload
+Intercontinental Bomber - Increased Payload
+Intercontinental Bomber - Reliable Improvements
+Intercontinental Bomber - Increased Protection
+Mothership - Improved Speed and Dogfighting Capability
+Mothership - Safety Improvements
+Mothership - Stronger Frame and Better Armaments
+Jet Engine - Fighter Focus
+Jet Engine - General Improvements
+Jet Engine - Bomber Focus
+Axial Jet-Engine - Fighter Focus
+Axial Jet-Engine - General Improvements
+Axial Jet-Engine - Bomber Focus
+Supersonic Jet - Cheaper Construction
+Supersonic Jet - Small Tweaks
+Supersonic Jet - Highest Quality Materials
+Helicopter - Speed Preference
+Helicopter - Safety Preference
+Helicopter - Protection from Small-Arms Fire
+Supersonic Small Airframe
+Medium Airframe
+Small Airframe
+Special Projects - Aircraft Bonus
+Special Projects - Medium Aircraft Bonus
+Special Projects - Light Aircraft Bonus
+Tank Projects
+Artillery Projects
+Surface Ship Projects
+Submarine Projects
+Nuclear Warfare Projects
+Nuclear Power Projects
+Aircraft Projects
+Helicopter Projects
+Jet Projects
+Bomb Projects
+Rocketry Projects
+Guided Bomb Projects
+Radar Projects
+Genius
+§LA visionary mind that pushes the boundaries of science and technology with unparalleled innovation. This is a kind of talent that emerges only once in a generation.§!
+Gifted Engineer
+§LA naturally talented engineer, adept at solving complex technical problems across a variety of fields.§!
+Brilliant Theorist
+§LA master of abstract concepts and theories, able to revolutionise military strategy and scientific research.§!
+Bright
+§LA sharp, quick-thinking scientist who excels at grasping new concepts and applying them efficiently.§!
+Fast Learner
+§LQuickly adapts to new challenges, learning faster than peers and excelling in diverse scientific fields.§!
+Resourceful
+§LAlways finds creative solutions, even when resources are scarce or situations are dire.§!
+Schrödinger's Trait
+$MODIFIER_SCIENTIST_XP_GAIN_FACTOR$: §G+10%§!\n$MODIFIER_SCIENTIST_XP_GAIN_FACTOR$: §R-10%§!
+§LBefore an observer opens the box, the wave function describing the trait forms a superposition of the states ''good'' and ''bad''.§!
+Aircraft Specialist
+§LA specialist in aerodynamics and aircraft design, capable of developing superior airframes, engines, and designs to dominate the skies.§!
+Rocket Specialist
+§LSpecialised in rocket technology, focusing on the principles of propulsion in ballistic and guided rocketry programmes.§!
+Electronics Specialist
+§LSpecialised in communication, radar, and computing systems, essential for modern warfare.§!
+Helicopter Expert
+§LA pioneer in rotary-wing aircraft, specialising in the mechanics of vertical flight, rotor systems, and early helicopter models.§!
+Jet Expert
+§LAn authority on jet propulsion, advancing research into early jet engines and their application in military aircraft.§!
+Bombs Expert
+§LSkilled in developing explosive devices and precision bombs that can be used in new refined strategies for aerial bombing.§!
+Guidance Systems Expert
+§LAn expert in the early development of guidance technologies, with experience improving control systems for long-range, unmanned explosive devices.§!
+Armoured Specialist
+§LA seasoned engineer specialised on the design and improvement of tanks and other armoured vehicles.§!
+Artillery Specialist
+§LA specialist in artillery systems with experience in the refinement of long-range firepower and large-calibre guns.§!
+Submarine Specialist
+§LA specialist in submarine warfare, focused on the development of new submarines technology to improve their role in stealthy naval operations.§!
+Surface Ship Specialist
+§LSpecialised in the design, development, and deployment of large surface warships, as well as the research of new technology to equip military vessels.§!
+Nuclear Specialist
+§LA physicist at the forefront of atomic research, deeply immersed in the study of nuclear fission and chain reactions.§!
+Nuclear Warfare Expert
+§LAn expert in the practical application of nuclear physics to weapon development, specialising in the theory behind atomic bomb design.§!
+Nuclear Power Expert
+§LA leading authority in nuclear physics, versed in the field of nuclear fission with a focus on power generation.§!
+Information Leak
+Although entirely coincidental, our agents in [FROM.GetNameDef] have managed to acquire information about an apparent secret project. A worker involved in development of a secret weapon, an atomic bomb, spoke about his work at a small social gathering where one of our agents were also attending.
+This could prove useful

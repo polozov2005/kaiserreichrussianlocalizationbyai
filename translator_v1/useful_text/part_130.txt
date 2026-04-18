@@ -1,0 +1,1056 @@
+Panama 1940 Focus Tree
+Panama Focus Tree
+Partido Marxista de Panamá (Marxist Party of Panama)
+PMP
+Partido Sindicalista de Panamá (Syndicalist Party of Panama)
+PSP
+Partido Laborista (Labour Party)
+PL
+Partido Revolucionario Democrático (Democratic Revolutionary Party)
+PRD
+Partido Nacional Liberal - Progresista (National Liberal Party - Progressive)
+PNL (Progresista)
+Partido Nacional Liberal - Conservador (National Liberal Party - Conservative)
+PNL (Conservador)
+Partido Conservador (Conservative Party)
+PC
+Partido Nacional Revolucionario - Conservador (National Revolutionary Party - Conservative)
+PNR (Conservador)
+Policía Nacional de Panamá (National Police of Panama)
+PNP
+Partido Nacional Revolucionario - Radical (National Revolutionary Party - Radical)
+PNR (Radical)
+Partido Nacional Conservador (National Conservative Party)
+PNC
+Coalición Constitucional (Constitutional Coalition)
+CC
+Ejercito Nacional de Panamá (National Army of Panama)
+ENP
+Coalición Patriótica Nacional (National Patriotic Coalition)
+CPN
+Panama
+Panamanian
+Panama
+Socialist Republic of Panama
+the Socialist Republic of Panama
+Socialist Republic of Panama
+the Socialist Republic of Panama
+Socialist Republic of Panama
+the Socialist Republic of Panama
+GFX_PAN_intro
+Status of Panamá
+In 1931, following accusations of government corruption and inability to handle the economic depression, the public rose up, led by Acción Comunal, a nationalist movement, and appointed Harmodio Arias Madrid and his National Revolutionary Party, formed from Acción Comunal itself, as leader of the Provisional Government.\n\nOne year later, they held elections and the Arias-led NRP won easily. Immediately, Arias' government began to stimulate the economy with public work programmes, improving economic conditions and creating jobs. However, despite the economic stimulation, the Panamanian economy is still struggling. The next elections are scheduled for April of 1936, four years after the first election, with economic recovery on the minds of both the parties and voters.
+§MPartido Nacional Revolucionario§! ($authoritarian_democrat_coloured$)\n£white_dot Have the National Revolutionary Party win the 1936 elections.\n£white_dot Choose to give some money to ensure the loyalty of the police after completing the \
+$CEN_pre_guide$
+1936 General Elections
+With economic recovery finally obtainable, the 1936 elections may be the most important elections in Panamanian history. The two major parties are the National Liberal Party, led by Ricardo Joaquín Alfaro Jované, and the National Revolutionary Party, led by Harmodio Arias Madrid.
+National Revolutionary Party.
+National Liberal Party.
+National Police Coup
+The National Police up to now has been silently sitting in the background waiting for our government to make a mistake. Now, with the country more disjointed than ever, they have stepped in to 'restore order' to Panama. This could spell the end of Panamanian democracy.
+What?!
+Conservative Government
+Due to instability in the populace and the government, Ricardo Joaquín Alfaro Jované has been forced to resign alongside his cabinet, and has requested that Juan Arosema forms a new cabinet as President. Arosema's government will likely undo many of the reforms of the Progressive government, especially those regarding the encouragement of labour unions.
+Hopefully the worst is now over.
+Canal in Crisis
+Since the outbreak of the Second American Civil War, the Panama Canal Zone has been weak and unguarded. We could seize it to protect trade along the Canal and to appease the public, whose opinion is largely against the existence of the Canal Zone.
+Very well.
+Canada Demands that Panama Joins the Entente
+The Canadians have demanded that we join the Entente so they can have the Canal under their influence. They guarantee that the Canal will remain in Panamanian hands, with a small peacekeeping force deployed to assist us. They will also likely redirect some of the canal profits to their own empire, reducing our own profits from the Canal.
+We have no choice but to join.
+We shall never surrender our sovereignty!
+Canada Demands Panama Canal
+The Canadians have demanded that we hand over control of the Panama Canal to them. This would essentially be a restoration of the status quo for us, with the Canal Zone acting as foreign sovereign territory. In return, the Canadians promise not to harm our sovereignty.
+We have no choice but to accept.
+Never again shall our lands be foreign!
+Canada Prepares Invasion
+Canada has not taken our refusal well. They have begun planning an all-out invasion to be executed within the next few days.
+Once more unto the breach, dear friends.
+The National Police
+Our policy of foreign investments does not fit well with the National Police, and they are likely to coup us, should we step too far into that direction. We should find some way to pacify them as to avoid such a destabilisation.
+Perhaps some money shall influence their viewpoint...
+Purge all disloyal elements!
+Leaving them alone is surely the best choice.
+Status of Trade Unions
+Trade Unions do not have a long history in our nation. As we begin to become a truly modern, 20th century nation, it may be a good idea to emphasise the government's policy regarding unions. The conservative faction and the National Police both are strongly against unions, fearing events similar to the British and French collapses, and we'll have to deal with their opposition should we encourage unions.
+Encourage unions, but regulate them.
+Encourage unions and leave them unregulated.
+Say nothing on the matter.
+Status of Trade Unions - Followup
+The conservatives have long complained about our policy regarding trade unions, and strongly suggests that we simply opt to ban trade unions to preserve the de facto coalition between the conservatives and liberals.
+Ban the unions.
+Stay the course.
+Status of Trade Unions - Followup
+Our complete removal of restrictions on trade unions is going poorly. Both the conservatives and the National Police are urging us to immediately revoke the policy, or they will be forced to take 'significant action'. Unfortunately, at this point, there truly is not much our government can do. Banning the unions would now cause widespread panic and riots, and we can really only appease one of the two factions on our back.
+Suppress political resistance.
+Suppress police resistance.
+Hopefully, it will blow over.
+Who Should We Ask to Invest?
+Our options for investment are quite thin since no one in Europe or Asia is particularly interested in us, and South America is dealing with its own issues.
+Ask Canada.
+Ask the USA.
+Ask our overlord...
+Panama Asks for Investment
+Panama has asked us for a 'generous sum' of investment money, promising profit within a year. There is an obvious benefit to this, but it will come with a small hit to our economy.
+Let us invest.
+Sounds like some sort of scam.
+Investments Declined
+Unfortunately, our generous request for investments have been declined.
+Sad.
+Investments Accepted
+Our investments have been accepted, and we now have funds to continue along with our plans!
+Excellent!
+Harmodio Arias Madrid's Retirement
+Harmodio Arias Madrid has been ill for some time, and he has deemed himself unable to hold office. He is therefore retiring permanently from politics and is appointing his brother Arnulfo as the head of the PNR. Arnulfo promises some reforms to the previous PNR doctrine, although it will follow the same basic teachings.
+Farewell, Harmodio.
+Removing Progressive Reforms
+The Liberal government implemented several socialist reforms during their tenure, and we now have the task of removing them. Issue is, the people have become adjusted to their new reforms, and removing it could be problematic. As such, we have to choose between compromising and removing some of the reforms or removing all of them.
+Remove all reforms!
+Remove only some reforms.
+Status of the Party
+Many have suggested that we finally branch off of the liberal party. We have two choices to do so. We may either merge with the existing conservative party, or form a new party, which many have suggested we call the Partido Nacional Conservador, or the National Conservative Party.
+Merge with PC.
+Create PNC.
+Military Junta Established
+A military government has officially been established in Panama. It turns out that even the most stable of Central American democracies fall to authoritarianism eventually.
+Stability, but at what cost?
+The New Constitution
+The military junta has been creating its own constitution for Panama. Much of it is agreed upon to be stereotypical for a military government, but there is one thing that very few agree about - elections. There are three schools of thought - we can choose to have rigged elections every four years, have no elections at all, or restore democracy with the military as a legitimate party serving the remainder of the incumbent term.
+Let us rig future elections.
+No elections!
+Free elections!
+[GetYear] Presidential Elections
+It's April 20th, election day. Shops, schools, and businesses are closed as the whole populace waits for the election results. It is a particularly contested election this year, and could go any way.
+National Revolutionary Party Wins.
+National Liberal Party Wins.
+Conservatives Win.
+[GetYear] Presidential Election
+It's April 20th, election day. Shops, schools, and businesses are closed as the whole populace waits for the election results. It is a particularly contested election this year thanks to the formation of the Coalition, and the election could go either way
+The CPN wins.
+The coalition wins.
+Democratic Opposition Holds Meeting
+The opposing democratic parties - the Liberals, Conservatives, and the PNR, are holding a meeting to discuss their response to the surge in popularity for our government.
+We shall keep an eye on them.
+Opposition Forms Coalition
+The CPN's popularity among the people has forces the opposition to form a coalition of its own - the Constitutional Coalition. This could spell trouble for us in future elections, but their own lack of cohesion could be their undoing.
+Arnulfo Arias Madrid shall lead the coalition!
+Ricardo Joaquín Alfaro Jované shall lead the coalition!
+Juan Demóstenes Arosemena shall lead the coalition!
+What to Do with Land?
+We have zoned out and begun clearing land for the creation of new farms and factories, but this leaves us with an important question. What do we do with the land? We could either choose to give the land to corporations and farmers, or choose to keep it for ourselves.
+State-owned.
+Private-owned.
+Land Clearing
+As part of our ambitious modernisation project, we must clear some of the jungle in our nation. Our politicians, however, are debating on whether we should prioritise agriculture or industry. Industry would likely take more time, but would leave us more modernised, while farming has near-immediate bonuses and gives us more crops to export worldwide.
+Prioritise Industry.
+Prioritise Agriculture.
+The Union Compromise
+So far, the coalition has been very successful in dealing with major political issues. Now, we face one of our largest, the status of trade unions. Overall, there are three reasonable ideas. We could either create government-owned trade unions, which allows us to have control over the unions while still protecting the workers, or we could allow unions with some safeguards in place to ensure stability, or we may simply leave them disallowed.
+Create government-owned unions.
+Allow unions.
+Ban unions.
+The Constitutional Coalition
+So far, we have managed to hold the coalition together reasonably well, but with our victory over the CPN, bickering among the many factions has become common. It may be advantageous for us to split the coalition now that we have dethroned the military from our country. We may, however, never again have the opportunity to unify our politics under such a popular system, so it may also be worth it to stick with the coalition and hope it holds together.
+The coalition stays!
+Dissolve the coalition!
+Panama Pressures Coto!
+The Panamanians have launched a small-scale military assault on the Coto region, which they have claimed for a long time now. If we are not careful, this could escalate to a large-scale conflict. Fortunately, thanks to the Monroe Doctrine, the US will likely put an end to this rather quickly.
+Those Panamaniacs!
+Panama Pressures Costa Rica
+The Panamanians have begun a small-scale military assault on the Coto region of Costa Rica, which they have had a claim on for some time. We should threaten intervention to prevent this turning into a full-scale war.
+Let us intervene.
+The US Threatens Us!
+The United States has decided to threaten us, and has ordered us to turn our troops back or to suffer the consequences. We are now forced to obey the order, as our military forces do not stand a chance against the might of the USA.
+Issue the retreat.
+The US Intervenes!
+The US has intervened on our behalf, and is ordering Panama to restore the status quo. They would be fools not to comply.
+Let us hope this stability remains.
+The Coto Region
+The Coto Region of Costa Rica has been legitimately claimed by us for many years now, and many in the newly elected government feel now may be the time to attempt to take it back.
+Perhaps it is time to pressure the region.
+Panama Requests Investments
+Panamanian diplomats have come to us requesting investments, claiming that, after a short period in the red, we will profit greatly from investing.
+Okay, sure!
+Sounds like a scam.
+Investments Allowed!
+Businessmen have scrambled into our country, and are investing money into our own businesses. The economy is thriving, and hopefully both sides will profit greatly.
+Excellent!
+Investments Denied
+Sadly, our request for investments has been declined. Neither side will be profiting from the other any time soon.
+Unfortunate.
+Panama Backs Down
+After hearing of American support for Costa Rica, and not willing to escalate the situation into a full-blown conflict, the forces of Panama have begun to back down across the region. This is a victory for American diplomacy abroad.
+The Monroe Doctrine stands.
+Panama Seizes Canal
+Upon the start of the American Civil War, Panama took the 13-mile long Panama Canal Zone from the US, officially to 'safeguard it from radicalism'. This could be advantageous for us, as we could demand that Panama either joins the Entente or hands over the Canal, and they would not be in a good position to refuse.
+Leave them alone.
+Demand they join the Entente and redirect some trade to the Entente.
+Demand the canal and offer them protection.
+Panama Seizes Canal
+Upon the start of the American Civil War, Panama took the 13-mile long Panama Canal Zone from the US, officially to 'safeguard it from radicalism'. Unfortunately, there really isn't much we can do about this for the time being, as we have a civil war to fight.
+Oh, well.
+Panama Agrees to Terms
+Panama has agreed to our generous terms, and we now have the Panama Canal under our influence.
+Excellent.
+Panama Declines Terms
+Despite our highly generous terms, Panama has declined our request to have the Panama Canal in our sphere of influence. We can either admit defeat or prepare an invasion.
+Onwards!
+Do nothing.
+Calls for Peace
+Throughout our country and Canada, the populace calls for an end to the war. We should take advantage of this and propose a peace to the Canadians.
+Send the proposal.
+Panama Proposes a Peace
+Resounding calls for peace have surfaced in both our nations, and Panama has taken advantage of this to publicly propose peace. We can either accept a white peace or continue fighting to the bitter end.
+Let us lower our arms.
+Not until we are at Panama City!
+Peace in Panama
+Panama has triumphed over an invading foreign power! We have shown the world our might, protected our sovereignty, and kept the Panama Canal's profits!
+Peace is soon at hand.
+Canada Stands Down
+Canada has decided against any further action following our refusal of their demand.
+Lucky for them.
+Panama Renounces Monroe Doctrine
+Panama has renounced the Monroe Doctrine, citing that, since all surrounding countries have done so, they should also do so to ensure their own safety.
+A shame.
+The Panama Canal Crisis
+Finished in 1914, the Panama Canal is one the most important trade passageways on the American continent, controlled by the United States until now. With the outbreak of the Second American Civil war, the Federal government was forced to withdraw the canal's marine forces, leaving it open to invasion, and to little surprise, Panamanian troops launched an operation to take back such a valuable area.\n\nThis move, however, was opposed by Canada, which presented to them an ultimatum - Panama's sovereignty over the canal would be recognised, but the country must agree to a military alliance or face invasion. In the face of Canadian pressure, the small Latin American nation has backed down, defusing the crisis.
+Finished in 1914, the Panama Canal is one the most important trade passageways on the American continent, controlled by the United States until now. With the outbreak of the Second American Civil war, the Federal government was forced to withdraw the canal's marine forces, leaving it open to invasion, and to little surprise, Panamanian troops launched an operation to take back such a valuable area.\n\nThis move, however, was opposed by Canada, which presented to them an ultimatum demanding influence over the canal. Though heavily outmatched in both industry and men, Panama has refused to back down, sparking war in Central America.
+Finished in 1914, the Panama Canal is one the most important trade passageways on the American continent, controlled by the United States until now. With the outbreak of the Second American Civil war, the Federal government was forced to withdraw the canal's marine forces, leaving it open to invasion, and to little surprise, Panamanian troops launched an operation to take back such a valuable area.\n\nThis move, however, was opposed by Canada, which presented to them an ultimatum, attempting to guarantee the continued security of and access through the canal. Though heavily outmatched in both industry and men, Panama refused to back down, calling Canada's bluff and to the surprise of many, succeeding. To the Entente's embarrassment and Panama's pride, crisis has been averted.
+Finished in 1914, the Panama Canal is one the most important trade passageways on the American continent, controlled by the United States until now. With the outbreak of the Second American Civil war, the Federal government was forced to withdraw the canal's marine forces, leaving it open to invasion, and to little surprise, Panamanian troops launched an operation to take back such a valuable area.\n\nThis move, however, was opposed by Canada, which presented to them an ultimatum - Panama would immediately cease their invasion while the Entente would safeguard the canal for the time being. In the face of Canadian pressure, the small Latin American nation has backed down, defusing the crisis.
+The balance of power is at stake.
+The canal is ours!
+They made the right choice.
+Damn them!
+National Police
+Since the Army tried to coup the government in 1904, the Panamanians have had no official standing army, with national security being handled by the National Police. However, since the police assisted the public coup in the early 1930s, spending on the National Police has increased, and officers have attended several other Latin American military academies, turning it into a de facto army that could overthrow any government that it considers to be out of line.\n§RShould a civilian government mismanage a situation or stray too far into radicalism, the National Police can coup the government.§!
+Slight Economic Depression
+The Great Depression hit us hard in the past, but since the coup in 1931, we've finally managed to start recovering. The worst of its effects are far behind us, but there are lingering effects which leave our economy uncompetitive. Finding new trade partners or stimulating the economy somehow should fix this rather quickly.
+Farming Encouraged
+We have encouraged agrarianism among our nation, and this shall help us to increase export goods and food for our people.
+Foreign Investments
+We have been lucky enough to have a foreign nation invest in our country, and our economic productivity has increased greatly.
+Further Investments
+We have had more investments for foreign nations, propelling our economy even further.
+Economic Prosperity
+Our economy has completely recovered and is now more prosperous than ever.
+Worker Rights Protected
+We have protected our workers to have a productive workweek while ensuring the worker still can spend time home with his family.
+Unregulated Unions
+Regulated Unions
+Business Investments
+We have invested in our businesses, and they are spending their new money wisely, increasing hiring and buying new machinery.
+Economic Stimulation
+By putting some of our reserve money into the economy, the economy has begun to increase, and both spending and selling are at high levels.
+Liberal Panama
+Our economic strategies have worked perfectly, and our economy is stronger than ever.
+Creating Export Goods
+Creating export goods is one of the surefire ways of fixing the Panamanian economy. It may hurt us economically at first, but the money from sales can be put back into the economy and will increase our productivity massively.
+Curtailed Unions
+New Conservative Government
+Our new government has been founded and is highly popular, even contesting the PNR.
+National Police Government
+The National Police has couped the government, and the problems that the government attempted to avoid by removing the army in 1904 have occurred regardless. Political opposition is imprisoned for 'public safety' and Manuel Pino's government rules with an iron fist.
+Military Government
+Regardless of legitimacy, the armed forces rule our government with an iron fist.
+Military Jobs
+The armed forces have begun creating jobs for the unemployed, spanning from public works such as infrastructure to work in state-owned factories.
+Fake Democracy
+It's an open secret that the democracy in Panama is fake, but it gives some people a sense of reassurance.
+Dictatorship
+The military rules with an iron fist, oppressing political opposition and suppressing freedoms.
+Democratic Military Government
+The military government has restored full democracy to Panama. While the CPN is cruel against those who would cause harm to Panama, it is surprisingly generous to the people. The political opposition, however, is completely against this government.
+War Preparations
+Regardless of whether we're on the offensive or defensive, our military must be prepared to defend the country at all times.
+Construction Effort
+We are raising our construction abilities to have an easier time constructing our new projects.
+Land Clearing
+We are clearing land as part of our grand modernisation programme.
+State Owned Land
+We have choose to keep the lands and any profit they may produce for ourselves.
+Private Owned Land
+Selling parts of the reclaimed lands has help to lower the economic burden they carried.
+A Modern Panama
+Our grand modernisation programme's fruits can be seen all over Panama, factories are fuming, crops are blossoming, everyone can already see the bright future of our nation.
+New National Police
+We have made compromise with the army and partially restored National Police, starting now it shall slowly reduce the influence of the army on our proud democracy after years of military rule.
+Government-owned Unions
+A Common Goal
+With the coalition still standing, we have reached a compromise on where the budget and country will be moving forward. Sadly, the cost of keeping all parties compliant has stopped us from enacting useful projects.
+Modern Construction
+The modernisation of our construction has come with a small, but still significant cost. Let's hope the profits will cover this eventually.
+Economic Growth
+Our industrialisation projects are recording record profits for our nation.
+Industrialised Nation
+We have industrialised Panama! While it does not match European powers or the USA, it is still formidable.
+Agriculture Reforms A - Part I
+By providing incentives for farming, many are purchasing land and starting farms, boosting our exports and providing food for the nation.
+Agriculture Reforms A - Part II
+Alongside the farming incentives, as part of our agrarian reforms we have been forced to take drastic action and switch banana crops at our farms. While it will cause the loss of some of our bananas in the short term, our overall productivity will increase greatly.
+Agriculture Reforms A - Part III
+In addition to incentivising farming and providing a new banana crop, we have purchased foreign-owned land and industries and are now using them to directly boost our own economy.
+Agriculture Reforms B - Part I
+As part of the government's plan to improve agriculture, it has invested in sugar farming and technology, improving our yearly output.
+Agriculture Reforms B - Part II
+In addition to already investing in sugar farming, we have increased the exports and production of bananas, boosting our economy.
+Agriculture Reforms B - Part III
+In addition to investing in sugar farming and increasing exports of bananas, we have encouraged coffee production. Many farmers throughout Panama are now growing coffee beans and are selling them for export.
+Agrarian Nation
+We have focused on agriculture in Panama. Our exports are constantly growing and our economy is booming.
+Top Notch Army
+Our army will be trained to outcompete any others even in the worst positions by teaching and giving them the best equipment to work with.
+Defensive Build-up
+We will mobilise our economy to outproduce our enemies and build fortifications to not even let them enter our lands.
+Increased Recruitment
+We have increased recruitment of the defence forces to ensure that we have the manpower for such a war.
+Improved Logistics
+Protecting Our People
+Fighter Escorts
+All-Weather Training
+An Air Force of Our Own
+Trade Protection Tactics
+Convoy Raiding Tactics
+Better Torpedoes
+By improving our torpedo designs, our submarines have a better chance of hitting and destroying targets.
+Anti-Submarine Tactics
+Increased Naval Production
+Cooperation with the Entente
+Thanks to our trade we are managing to overcome our lack of resources for industrial development.
+Investing
+We are currently spending money and directing production towards Panamanian businesses.
+Investments Profit
+The effects of the investments will vary depending on choices in previous events and focuses.
+The §lPNL§! is currently in power following the 1936 elections
+The §aPNR§! is currently in power following the 1936 elections
+§RThis may anger the Conservatives.§!
+\n§RThis will likely anger both the Conservatives and the National Police.§!
+§CCompleting this focus, while we own the Panama Canal, will also build infrastructure there.§!
+This decision can only be taken three times.
+The party will take a §cconservative§! turn.
+§GThis focus can be taken multiple times.§!
+§ROnce our war is over, the bonuses will be lost.§!
+If the §lPNL§! are in power:
+If the §cPC§! are in power:
+If the §aPNR§! are in power:
+If the §MCC§! is in power:
+The 1936 Elections
+It all comes down to this. Will the PNR hold on to the presidency or will the PNL manage to secure victory?
+PNR Holds On
+The Partido Nacional Revolucionario, focused on economic recovery through farming and investment, has won the 1936 elections.
+Encourage Farming
+In order to recover economically, we need to create a strong economic backbone through crop exports.
+Encourage Foreign Investments
+While the government is able to provide some money, it is not nearly enough for our economic plans. Despite our party's pledge against foreign influences, we will have to turn to the nations of the world.
+Ensure National Police Loyalty
+The highly conservative National Police is likely to not sit by while we encourage these major economic reforms in our nation. We should take steps to ensure their loyalty.
+Support Further Investments
+Now that we have ensured the National Police's loyalty, we can encourage further investment into our farming plan, and further our economic recovery.
+Economic Recovery
+Now that we have foreign investments for our farming plans, we have begun to implement them, and the depression is starting to fade into the pages of history.
+PNL Victory
+The Partido Nacional Liberal, focused on economic recovery through business investment and worker protection, has won the 1936 elections.
+Protect Worker's Rights
+To ensure a functioning society, we need to protect our agrarian and factory workers and ensure their rights are upheld.
+Encourage Trade Unions
+Although maybe not the best idea, encouraging trade unions will fully ensure that our workers are protected. Depending on how we manage this, we can either end up regulating or deregulating unions. On paper, unregulated unions would be the best choice, leaving the workers fully satisfied. However, unregulated unions would make other parties, and even the conservative faction of our own party, upset.
+Invest in Panamanian Businesses
+To ensure economic recovery, we should spend what funds we have investing on newly formed businesses in our nation. It has the added bonus of reducing our dependency on foreign nations.
+Stimulate the Economy
+We should encourage the upper classes to invest and spend more, giving the economy more money, leaving us in a far better position.
+A Liberal Panama
+The economic strife has ended, and now the economy is better than ever. We have truly made Panama great again.
+National Police Coup
+The National Police has couped the government!
+Military Dictatorship
+In order to ensure order and conservatism, we must establish a permanent presence in government.
+New Panamanian Economy
+We should use the vast resources of the Police to seize foreign investments and make a truly self-sufficient economy.
+A Standing Army
+Although we have seized foreign investments, the National Police will most likely be unable to compete on an international scale. To combat this, we should form a modern army.
+A New Constitution
+We should draft a new constitution for Panama so that all affairs will run through the military.
+Preemptive Buildup
+Both Costa Rica and Colombia have claims on our land. We should build up our military to ensure that we can defend our homeland.
+Conservative Government
+The Conservative wing of the PNL holds the presidency.
+Create Export Goods
+For our economic plans to work, we need private corporations to create goods to export.
+Capitalist Economics
+We should reduce taxes on the upper class so that they shall be more inclined to invest in businesses. Increased spending and hiring will also assist the lower class, and will solve our economic depression.
+Remove Progressive Reforms
+We should revoke the previous government's encouragement of unionising, or at least modify it to reduce their power. We do not wish to end up with a Syndicalist revolution on our hands.
+Status of the Party
+Our government has existed for several months now. Officially, we are still the Partido Nacional Liberal, but some in our government suggest that we reform into a new Partido Conservador.
+Forming a New Government
+With the economic depression mostly solved, the progressive reforms gone, and exports ever-increasing, we should look to form a new government instead of sticking to the provisional post-Alfaro government.
+Canal in Crisis
+With the civil war in the US, the Panama Canal is up for grabs.
+Entente Support
+We have aligned with the Entente. They will protect us, and we will grant them use of the Panama Canal.
+Request Naval Technology
+While the Canadian Navy likely isn't about to spare ships that could help in regaining their Home Isles, they might be willing to share technology for us to develop our own defence fleet.
+Encourage Entente Trade
+It's time that we turn this into a more mutually beneficial agreement. We will encourage trade between us and the various states of the Entente.
+We Stand Alone
+We shall have no masters, and the Canal shall belong to us and only us.
+Hold the Canal
+We can not hold the Panama Canal without preparing defences. We should quickly assemble defensive lines along the coast.
+Fortify the Coast
+We should expand our coastal fortifications to cover more than just the Canal. After all, what good is a canal if the rest of Panama is under occupation?
+Panama on the Global Stage
+We should open up the nation to foreign trade and investments.
+Defend our Homeland
+We have threats on all sides, therefore we must prepare to defend our homeland to the last man.
+Elastic Defence
+By preparing for the inevitable fall of certain parts of the nation to a foreign invasion, we can strengthen defensive lines along natural barriers - rivers, forests, jungles, et cetera.
+New Weaponry
+We should invest into improving the quality of our small arms, even if it comes at a cost.
+Invest in Support Artillery
+We should invest in acquiring the means to produce artillery pieces to support our armies.
+Professionalise the Police
+The National Police has taken more and more the role of the army following the 30's coup, but most of their training has not evolved to match the standards of a proper army, so let's remedy this.
+Jungle Training
+Our nation is covered in jungles that will aid is us in our defence, once our troops and officers have learn how to take advantage of them.
+Static Defence
+We shall not give an inch of ground to foreign invaders!
+Build New Ammunition Factories
+Our domestic arms industry is weak at the moment. We should build it up to match all our future needs and even more.
+Fortifying Our Nation
+Building fortification in our borders and other key locations, will allow us to protect much better and to lose less Panamanian blood.
+Mobilise Economy
+We must ensure that our civilian economy isn't disrupted by our military needs.
+Divert Production to the Military
+With our economy mobilise, we will shift the production of some of our factories to help to produce more military equipment.
+Increase Recruitment
+We should strengthen our recruitment campaigns and encourage more people to join the defence of our great nation.
+Fighting for Our Survival
+Panama is fighting for her continue survival and sovereignty, and the population will bravely serve to protect her.
+Protecting Our Interests
+We should invest in our defence forces to ensure we are prepared for foreign invasion.
+Protecting by Air
+We should invest in an air force.
+Study Foreign Designs
+We can study designs from other nations to influence our own designs.
+Purchase Foreign Aircraft
+We should use some of our funds to purchase foreign aircraft. We can use it for design influence and as the first planes of our air force.
+Close Air Support Focus
+We should gear parts of our air force towards supporting troops on the ground.
+Logistical Improvement
+By distributing radios and improving the way information can get from headquarters or infantry to front line bases and our pilots, our armed forces will be far more effective.
+Fighter Interceptors
+We should invest in designing interceptors to intercept enemy bombing before it reaches populated areas.
+Our Own Aircraft
+We should design our own aircraft to reduce our dependency on foreign manufacturing.
+Tactical Bombing Focus
+We should invest in medium-size bomber aircraft to bring the fight to the enemy.
+Fighter Escorts
+We should design our fighters to escort our own and our allies bomber aircraft.
+All-Weather Training
+We should train our pilots for operation in all weather conditions.
+Protecting by Sea
+We should invest in a navy to protect our interests in the Caribbean and the Pacific.
+Protecting Trade
+We should invest in protecting our trade from enemy attacks.
+Convoy Hunting
+We should invest in attacking the enemy's trade.
+Submarine Fleet
+We should focus our navy on submarines and their tactics.
+Convoy Raiding Tactics
+We should plan tactics for raiding enemy convoys while minimising our own losses.
+Improved Torpedo Designs
+We should improve our torpedo designs so they are more accurate and so they have less failures.
+Increase Naval Production
+We should increase our naval production to create a formidable fleet to protect our interests.
+Escort Fleet
+Our fleet should consist of destroyers and cruisers and be geared towards the protection of our trade.
+Countering Submarines
+We need to ensure that our destroyer and cruiser crews are trained in defending our convoys from submarine attacks.
+Designing New Cruisers
+We need to design new cruisers geared towards protecting our convoys from surface and submarine attacks.
+Create a Combined Military Academy
+We should establish a combined army, navy, and air force academy to research new designs, plan strategies, and train officers.
+Invest in Industry
+We should invest in our factories greatly to create jobs and modernise our nation.
+Build New Factories
+Building new factories creates jobs in both the short term and the long term, and improves our production capacity.
+Military Production
+We should build military factories so we can produce new weapons for the armed forces.
+Survey New Industrial Zones
+Our lack of any big organized area dedicated for industry has severely slow down our industrialization efforts. The government has sought to fix this by surveying the country to begin the construction of new industrial zones.
+An Industrialised Panama
+We have fully industrialised Panama, and it's starting to show. The economy is booming, unemployment is down, and Panama is turning into a truly modern nation.
+Improved Roads
+We should improve our infrastructure to fit modern vehicles.
+Developing Advance Construction Methods
+Our industrialisation efforts have been slow and expensive because of the previous government lack of interest in more advance construction methods. While slightly costly, improving them will help our tiny nation do much more with less.
+Widespread Economic Growth
+The increased in connectivity of our nation and in profits from recent factories, is bringing a unprecedented growth to our economy.
+Improve Agriculture
+By investing in our already agrarian society, we can create more goods for export and expand jobs.
+Domestic Farms
+By clearing land to make new farms, we can export more goods and earn more money.
+Countering Panama Disease
+Panama Disease has been ruining our banana farmers for years now, with focus on agriculture we must help our fellow men and wipe this problem once and for all.
+Purchasing Foreign Assets
+Using our new funds from exporting, we should purchase some of the foreign-owned businesses and farms.
+An Agrarian Panama
+We have modernised our agrarian ways, and our economy is booming thanks to the crop exports.
+Improve Sugar Farms
+We should invest in our sugar farms specifically, to increase the yield and encourage efficient harvesting.
+Increase Banana Exports
+By increasing our banana exports, both the farmers and we can earn far more money.
+Encourage Coffee Production
+We should encourage the production of coffee among our farms, both for the populace and for export.
+Found the University of Panama
+We should create a state institution of education that will help teach the youth of Panama specialised fields such as commerce, engineering, law, and sciences.
+1940 Elections
+Quite possibly the strangest elections in Panama history - there are only two running parties. The CPN military party who advises centralising the government under the hands of the military with the consent of the people, and the Constitutional Coalition, who advise a return to the status quo in Panamanian politics.
+CPN Victory
+The Coalición Patriótica Nacional, advising centralisation and a larger government, while protecting personal freedoms, has won the 1940 elections.
+Start Modernisations
+We shall begin our ambitious modernisation programme.
+Clear New Land
+We should clear new land for factories and farming.
+Industrial Projects
+We should invest in businesses so they can build factories on our newly cleared land.
+Status of the Land
+We should choose whether to make the newly-cleared land in our nation state-owned or private-owned.
+A Modern Panama
+Panama is now a fully modernised nation. We have truly made Panama great.
+Coalition Victory
+The Constitutional Coalition, a broad coalition between most of the major non-military parties, has won the 1940 elections.
+New National Police
+We should compromise with the new military to create a new national police force. While we reduce its powers, we can surely find a compromise that benefits both us and the CPN/Army.
+The Union Compromise
+Some factions in our party want labour unions, some don't. We need to hammer out a compromise before it tears the coalition apart.
+Export-based Economy
+We need to encourage exports to other nations and continue our recent economic success.
+Encourage Factional Cooperation
+The factions within the coalition still see themselves as their respective parties. We need push the idea that we are not members of individual parties, but of a grand Coalition.
+A Common Ideology
+Our economy is booming, our compromises are successful, and we have created our own ideology based upon compromising between our various factions in different areas.
+The Panama Canal
+The Panama Canal has been governed by the USA for a long time. Now, we can finally make it part of Panama.
+Seize the Canal
+Renounce the Monroe Doctrine
+Resist the Canadian Invasion
+The Coto Region
+Pressure the Costa Ricans
+Foreign Investments
+Seek [From.GetAdjective] Investments
+Civilian Investments from the Entente
+Let's use our new trade partner to strengthen our lacking civilian industrial sector.
+Industrial Development
+Land Development
+Continue Industrial Expansion
+Fuel for our Industries
+Demetrio Augusto Porras Juárez
+§YBorn:§! §LOctober 3rd, 1897, in Las Tablas, Department of Panama, Republic of Colombia§!
+Ricardo Alfaro Jované
+§YBorn:§! §LAugust 20th, 1882, in Panama City, Sovereign State of Panama, United States of Colombia§!
+Juan Demóstenes Arosemena
+§YBorn:§! §LJune 24th, 1879, in Panama City, Department of Panama, Sovereign State of Panama, United States of Colombia§!\n§YBackground:§! §LJuan Arosemena, despite being politically liberal, is the leader of the Conservative faction of the Liberal party. He is popular among many Panamanians, even non-Liberals. Many see him as the only man who can lead Panama out of these trying times.§!
+§YBorn:§! §LJune 24th, 1879, in Panama City, Department of Panama, Sovereign State of Panama, United States of Colombia§!\n§YBackground:§! §LJuan Arosemena, despite being politically liberal, has found himself leading the conservative party because of his previous involvement with the Conservative faction of the Liberal party. He is popular among many Panamanians, even non-Liberals, which made him one of the most popular choices to lead the new conservative government.§!
+Harmodio Arias Madrid
+§YBorn:§! §LJuly 3rd, 1886, in Penonomé, Department of Coclé, Sovereign State of Panama, United States of Colombia§!\n§YBackground:§! §LHarmodio Arias Madrid is the founder of the National Revolutionary Party. Alongside his brother, Arnulfo Arias Madrid, he has led the new government since the coup in 1931. He is popular among the people, despite not having the most experience in political matters. This has lead for some to say that his brother, Arnulfo, would be a more effective President.§!
+Manuel Pino
+§YBorn:§! §LMay 20th, 1888, in David, Department of Panama, Republic of Colombia§!\n§YBackground:§! §LManuel Pino, the head of the National Police and its underground political front 'Coalición Patriótica Nacional', has introduced many modernisations into the National Police and plans on evolving it into a true army now that he is the President. Politically, he is a wildcard. He is seen as an authoritarian brute by many in the public, but he may be willing to make a compromise with the democratic factions if it means he may stay in power...§!
+§YBorn:§! §LMay 20th, 1888, in David, Chiriquí Province, Department of Panama, Republic of Colombia§!
+Arnulfo Arias Madrid
+§YBorn:§! §LAugust 15th, 1901, in Penonomé, Department of Panama, Republic of Colombia§!
+Saturnino Flórez
+§YBorn:§! §Lin the Republic of Panama§!
+José Antonio Remón Cantera
+§YBorn:§! §LApril 11th, 1908, in Panama City, Panama Province, Republic of Panama§!
+Alcibiades Arosemena
+§YBorn:§! §LNovember 20th, 1883, in Department of Los Santos, Sovereign State of Panama, United States of Colombia§!
+Roberto Francisco Chiari Remón
+§YBorn:§! §LMarch 2nd, 1905, in Panama City, District of Panama, Panama Province, Republic of Panama§!
+Daniel Chanis Pinzón
+§YBorn:§! §LNovember 20th, 1892, in Panama City, Department of Panama, Republic of Colombia§!
+Ricardo Adolfo de la Guardia Arango
+§YBorn:§! §LMarch 14th, 1899, in Panama City, Department of Panama, Republic of Colombia§!
+Augusto Samuel Boyd
+§YBorn:§! §LAugust 1st, 1879, in Panama City, Sovereign State of Panama, United States of Colombia§!
+Henrique de Obarrio Vallarino
+§YBorn:§! §LMay 8th, 1879, in La Libertad, La Libertad Department, Republic of El Salvador§!
+Marcos Gelabert
+§YBorn:§! §LJanuary 25th, 1908, in Panama City, Panama Province, Republic of Panama§!
+Arturo Osborne Irraga
+§YBorn:§! §Lin the Republic of Panama§!
+Papal States Focus Tree
+Papal States
+Papal
+the Papal States
+Rome
+Roman
+Rome
+The Holy See
+[PAP.GetNameDefCap] is the seat of power for the Catholic Church and the Pope, the Bishop of Rome and ex officio leader of the Church. With more than 300 million worshippers across the world, the actions and words of the Papacy carry a unique weight that is seen nowhere else on earth.
+The Holy See
+Having been exiled from their traditional seat of power by the SRI, Pope [PAP.GetLeader] and the rest of the papal conclave have migrated to [FROM.GetNameDef] for temporary, or permanent, refuge. Despite this, with more than 300 million worshippers across the world, the actions and words of the Papacy still carry a unique weight that is seen nowhere else on Earth.
+Black Monday
+The collapse of the economy in Germany has had ripples throughout the world, no less so in our state where German- and Austrian-owned businesses have closed their doors and our national debt has escalated beyond our control.
+Soup Kitchens
+Aid for Refugees
+Call to the People
+Christian Trade Unions
+Welfare Programmes
+Industrial Incentives
+Traditional Values
+Patron of Rome
+Culture of Virtue
+Culture of Order
+Call to the Faithful
+Holy War
+Aid for Farmers
+Agricultural Incentives
+Heavy Industry
+Captains of Industry
+Armed Citizenry
+Men of Rome
+Legionary Spirit
+Zouave Officers
+Sicilian Advisors
+Siculo-Papal Planning Staff
+Papal Gendarmerie
+Renewed Impetus
+Actiones Secundum Fidei
+Per Aspera ad Astra
+Syndicalist Guerrilla Campaign
+§GThis focus path will unlock once the Papal Conclave has elected a new Pope.§!
+§RWarning!§! If [SIC.GetNameDef] accepts, we will become their puppet!
+§RWarning!§! If [SIC.GetNameDef] accepts, we will be annexed and will play as them instead!
+Declare Crusade Against Syndicalism
+While we would prefer peace, against the great evil of syndicalism there can be no compromise. We have put off the inevitable for far too long. Our military is ready and prepared to defend the Catholic faith and liberate the land from the godless syndicalists that have desecrated the north.
+Declare the Papacy's Independence
+While we are grateful to the Sicilians for protecting the Holy See, it does not do to have the Papacy under another nation's control, even unofficially. The Pope shall issue a declaration of independence, and we shall see our own destiny.
+Claim the Donation of Pepin
+The lands of Central Italy rightfully belong under the purview of the Catholic Church, dating back more than a thousand years to the Donation of Pepin. We will not see them in enemy hands, so long as we have anything to say about it.
+Rally the Faithful
+Now that war with [SRI.GetNameDef] has finally arrived, the time has come to send out the call to the Catholic faithful and let them rise up to aid our holy cause!
+Join the [From.GetFactionName]
+We must send an envoy to [From.GetNameDef] and ask about joining the [From.GetFactionName]. It is the best option we have for protection and fulfilling our national interests.
+Clear the Pontine Marches
+Divert Further Resources to the Clearance
+Call Papal Conclave
+With the death of Pius XI, a conclave will need to be called by the cardinals to select a replacement - a Pope who will determine our path for the years to come.
+Pope Stephen X
+Elia dalla Costa is a man most favoured by the people due to his charitable nature. However, he is not a man overly interested in politics, and his election will most likely result in the Papacy giving way to the rule of the people.
+Helping Those in Need
+The poor of our country need to be fed, just as our Lord commands us to do. The new system of charity will make use of popular donations, allowing the government to invest its resources elsewhere.
+Help Displaced Families
+The collapse of Italy following the Weltkrieg and rise of syndicalism in the north caused many refugees to flee south, and even today along the border some seek shelter from syndicalist tyranny. Despite our duty to help we have largely neglected these refugees and left them in squalid conditions, something which the new Pope is determined to rectify.
+A Call to the People
+The thing about the poor and the common people is that they exist in multitudes. Fed, clothed, and provided the fire of inspiration which only God can provide, they can be marshalled to support the will of the Pope with a fervour unmatched by any mercenary.
+Pope John XXIII
+A socialist at heart, Achille Lienart would do his utmost to prevent another Weltkrieg by decreasing the political tension. Electing him could even mean limited friendship with the syndicalists, no matter how unpopular such a move would be among devoted anti-syndicalists.
+Welfare Programme
+There needs to be no revolution to reach the necessary social changes. As times change, so shall our law.
+Christian Trade Unions
+Trade unions are the bedrock of the modern social state. In our country, they should be completely Catholic, inspired by the Christian trade unions of Germany and Flanders-Wallonia. Through the unions, we can also encourage the worker-priest missionary initiative, allowing the priesthood to take up work in factories and rediscover the working masses who have become disaffected with the Catholic Church.
+Economic Incentives
+With the unions empowered, we must mobilise the workers of the Papal State to expand our industry and make it the heart of our growing state. To begin this process we must assist our industry by creating artificial demand through public projects requiring industrially manufactured goods and materials.
+Focus on Ecclesiastical Matters
+As was to be expected the new Pope intends to restore democratic government to Rome, allowing him to focus on ecclesiastical matters. His legacy will be extending the rule of the Papal State to its people.
+Relinquish Temporal Power
+The last step in social reform is recognising that God's place is to guide, not to rule. True power belongs in the people, and a democratic state must be erected to look after their welfare.
+The People's Rule
+Some in the Curia and even among the ordinary priesthood remain opposed to the establishment of democracy in Rome, if we are to promote a stable system in the long-term we must seek to promote the new government and relinquishment of temporal power within the Church and clergy.
+Pope Pius XII
+Eugenio Pacelli is a man of peace and stability. His rule is perhaps sure to strengthen our country in many ways, making sure a mighty Italy walks the true path of God.
+Promote Traditional Values
+A Christian population is a loyal one. Focusing our propaganda on this fact may prove fruitful.
+Patron of Rome
+Let the government patronise some of the most promising artists and architects. They will not forget it, and neither will the people of Rome.
+Fight Corruption
+Pope Pius XII intends to issue a new encyclical, one aimed at corruption - both in the soul and within the government. It offers guidance to a nation struggling with finding its path.
+Pope Julius IV
+Alfredo Schuster is a man described by many as leaning too far right ideologically. He warns against the evils of radical socialism, and declares he is willing to take up arms to defend Christendom by any means necessary.
+Promote Order
+The new Catholic way of governance will ensure every man of every occupation will be represented accordingly, leading to a much more stable government.
+A Call to the Faithful
+The heart of Christianity itself is threatened by the godless syndicalists. With the enemy so close to the Holy See the faithful of Rome and the Papal Zouaves must fight with all their strength to ensure that the Lateran Palace remains untouched by our vile foes.
+Holy War
+The time has come for the Papal State to take on its role as the defender of God and virtue, and for the people to rise up to its service in an Eleventh Crusade against syndicalism.
+Reinforce Temporal Power
+The increasing secularisation of society means a lessening of the Pope´s influence. However, there are ways by which we can reinforce his influence inside his own borders.
+Condemn Mob Rule
+Syndicalism is a scourge of all things holy. It is unacceptable to let Catholics join syndicalist movements. The pope must publish an encyclical to make this clear.
+Strengthen the Border
+If an invasion comes, it will be by the evil syndicalists to the north. We must strengthen our border, fortify it to withstand the onslaught.
+The Senate of the Kingdom of Rome
+Now that the new Pope has chosen to delegate the administration of the Papal State to the people, we can bring back the Senatus Romanus for the first time in centuries with effective power to make sure the people's voice is heard
+Call for General Elections
+Following the revival of the Roman Senate the next step to bringing democracy to Rome will be to call for a general election to elect a civilian government that will oversee the task of administrating and developing the revived Rome into a modern nation.
+Dealing with Black Monday
+The entire nation has fallen into despair and unemployment with the collapse of the economy. Finding our way out will be a long road, though we are better off than some.
+Subsidies in Lazio
+The collapse of the Kingdom of Italy dealt a major blow to the economy of Lazio, and the industries that did survive have been dealt a harsh blow by the Black Monday crisis. If we are to maintain Lazio's industry and economy we must start with subsidies so that they may weather the crisis and expand in future.
+Reviving our Industry
+The industries hit hardest in Rome by the fall of Italy were those that depended on supplying the military, which was no longer needed after the war by the Papal State who saw themselves as protected by the Kingdom of Two Sicilies and saw no need for anything larger than an enlargened Palatine Guard. Now we must begin to revive our military industries so that we may field a modern army of our own.
+Aid Farmers
+Black Monday has hit the farmers of the primarily agricultural Lazio hard due to a lack of sales from exports, and some farmers have even fallen into bankruptcy and forced to sell their farms. If we are to help both our people and economy we must begin to aid our farmers and save them from bankruptcy through subsidies and limiting production of agricultural products to create demand.
+Agricultural Incentives
+One way to further improve our agriculture and recover from the Black Monday crisis would be to reduce taxes on agricultural equipment and raise protectionist tariffs in order to encourage domestic farming over foreign goods and provide another source of revenue for the government.
+Black Monday Recovery
+The burst of industrial and agricultural development in our country has clearly been enough to spur the Papal State's recovery from the financial nightmare. Let us all celebrate!
+Fulfil Campaign Promises
+We have promised much to the people of Rome during the former Papal government and the first elections. Now that we are in power we must begin to live up to our promises and build the Kingdom of Rome into a nation worthy of sharing the name of the greatest empire in history.
+Urban Renewal in Rome
+Rome was last given a fresh start when rebuilding from the 1527 sack by the Charles V's armies. Since then, the population has boomed, but many of these new citizens find themselves living in ramshackle houses, as slums crowd ancient Roman buildings. We must engage in a programme of urban renewal to make our great city both more beautiful and more efficient. The people in the slums may not see it that way, though.
+Military Railways
+A critical part of waging war that often gets overlooked is logistics. If we are to keep our armies well supplied in the coming war against the syndicalists up north we must ensure that our military railways are in top working order so that supplies and equipment may be delivered quickly to the front with few complications.
+Educational Reform
+We have so far neglected the need for a modern and highly efficient education system and the necessity of keeping the scientists well supported. Our new progressive reform will improve our situation in this area greatly.
+Papal University Grants
+We know of many bright minds in our universities, but unfortunately, they need more funding to continue their projects, which the Church is ready to provide. It is time to improve the qualities of our scientists.
+Expand Ports
+While the Papal State invested much into rebuilding the Pontifical Navy for a new age, the ports themselves and especially the shipbuilding industry were often neglected. With enough development, the docks of Rome shall become an ideal centre of shipping in the Mediterranean.
+Attract Heavy Industry
+For Rome to be an effective military power as it once was we will need to build artillery, vehicles and armour to assist our troops in battle against the larger and stronger armies of our enemies, as well as steel for building modern military equipment. To do this we will need to adjust our laws and spending to attract and encourage heavy industrial production.
+Military Airfield Expansion
+Our air force leaders have long been demanding additional funds. Our air bases do indeed need expansion.
+Roman Army
+Our former government, confident in the unlikelihood of a war and the protection of the Kingdom of Two Sicilies, did not invest much in an army leaving the defence of the nation to only a small Palatine Honour Guard. With war seemingly becoming an inevitability it is essential that our army is fit to inherit the legacy of Rome and isn't reliant on Sicilian protection.
+Armed Citizenry
+If Rome is to protect its independence from the northerners or the exiled Savoyards its citizens must be prepared to resist any invading armies. Inspired by our Swiss Guards we can begin to implement a Swiss-style militia system, requiring our citizens to own a personal rifle and ammunition and to engage in periodical combat and marksmanship training so that our people can fight effectively when the time comes.
+Captains of Industry
+While the days of Rome being the world's greatest power are gone we must foster the Roman economy as much as possible. The greatest decider of economic strength in this era is industry, which the previous government under Pius XI viewed negatively and was reluctant to encourage. Now that Rome is under new governance we must undo these previous policies and ensure that Roman industry flourishes.
+Men of Rome
+Should our nation be invaded every man in Rome must be ready and determined to resist and drive out the invaders by any means necessary, using guerrilla warfare and their knowledge of the terrain to outwit and ambush the occupying forces.
+Legionary Spirit
+Through the discipline, organisation, persistence and motivation of the Roman Legions Rome emerged from an Italian city-state to become the world's greatest power and forever left a glorious mark on history. In these precarious times, we must revive this legendary discipline and make the legions of Rome internationally renowned once again.
+Army Reorganisation
+Ever since the re-establishment of the Papal State the defence of Rome was left purely up to the small Palatine Guard and the protection of the Kingdom of Two Sicilies. With the new civilian government reforming the nation and army it is time to establish a professional army so that we may stand up for ourselves against the northerners.
+Latin Perimeter
+Our northern border lies exposed. It must be reinforced.
+Combined Arms
+Now that we have begun to field a proper infantry army and fortified our borders for war with the North we should begin to fully modernise our army by researching motorised vehicles and tanks to assist our infantry in battle and encircle the enemy forces.
+The Pontifical Navy
+Despite our state's small size we have rebuilt the Pontifical Navy following independence from the Italians. However, our current fleet, including the former Italian battleship Roma, is becoming old and outdated, and will only be able to stall the enemy for a while should war break out. If we want to rule the seas we will need to continue building and modernising our navy.
+Fleet in Being
+The Pontifical Navy must gallantly face the enemy's naval forces head on and claim the Mediterranean as our sea, as our ancestors did long ago.
+Trade Interdiction
+While we may have dominated the Mediterranean long ago our small state has no hopes of achieving such an ambition today. If our navy is to compete successfully against stronger opponents we must focus on hitting the enemy's trade.
+A Roman Fleet
+Long ago, we exercised the absolute control over the Mediterranean. It would be shameful if our ambitions were not to once again rule the area by large and powerful ships.
+Submarine Focus
+Submarines are an exceptionally powerful weapon. Relatively easy to build and deadly to even the biggest ships, they need to be focused on.
+Cruiser Focus
+Cruisers and Destroyers are useful in many ways and it is imperative to have a fleet to patrol our waters. They should be included in our navy.
+The Pontifical Air Force
+While we have built up a sizeable navy by the standards of a small nation such as ours, we have not yet invested in an air force, giving our enemies a critical advantage over us. We must quickly rectify this if Rome is not to be destroyed from above in the event of war with the Socialist Republic of Italy.
+Defend the Skies of Rome
+Without air superiority, we can never make use of aircraft. Improving our fighters should be our top priority.
+Bomber Focus
+Bombers are seeing massive improvements all around the world. We must keep up and make use of them ourselves.
+CAS Focus
+Our land forces need proper air support to fight effectively. Our new CAS designs will help us achieve this.
+Naval Bomber Focus
+We can achieve a certain level of naval superiority without even using our ships. However, better bomber models will need to be developed.
+Radar Focus
+With the syndicalists having an industrial advantage over our small nation we must stay a step ahead if we are to defend ourselves in the air, the building of radars could help us achieve this advantage by allowing us to detect our enemy beforehand and react accordingly.
+Anti-Air Defences
+While we have begun to fortify our borders and have an effective navy to combat syndicalist invasions from the sea we have neglected our defences from the air. We cannot allow the precious works of art and history in Rome to be destroyed by syndicalist bombing raids.
+Reformed Temporal Power
+The Pope has established that his temporal power over the Papal State and its claimed territories offered to us by the Donation of Pepin and stolen by the Piedmontese in 1860 shall continue. To enforce this and quell dissent ultramontane groups have proposed that we establish the temporal power of the Pope as a dogma, divinely revealed by God himself.
+Call to Arms for the Faithful
+The Papacy has a history of using foreign soldiers to defend it, and with the Catholic nations of France and northern Italy under syndicalist rule there are many devout Catholics and war veterans with grudges against the Communards who will flock to our cause and help us bolster our forces for the coming fight.
+Expand the Palatine Guard
+The current Palatine Guard, while expanded since the years following the fall of Italy with the incorporation of the Swiss Guard, still remains far too small an army for our protection against the growing Syndicalist might. We must expand the Palatine Guard into reborn Zouaves if we are to be able to field a proper army against our enemies.
+Zouave Officers
+While we have received many Catholic volunteers willing to join our army, a majority are inexperienced exiles fleeing Syndicalist rule in the north of Italy and the French Commune. We will need to recruit some experienced Catholic officers to successfully train and lead our reformed Zouaves into battle.
+Zouave Mobilisation
+Now that war has broken out we must rally the Catholic world to our cause and encourage foreign volunteers to join the Zouaves and protect the Universal Church from Syndicalist desecration.
+Financial Aid
+The Black Monday crisis has severely affected our state and sent our national debt spiralling out of control, encouraging dangerous democratic and syndicalist sentiments and unrest among our people. If we are to maintain order and bring our economy back to normal we must seek financial aid from our longtime protector, the Kingdom of Two Sicilies.
+Budget Rebalancing
+With the effects of the crisis still affecting our state despite our attempts to get financial aid from the Sicilians we must enact austerity measures if we are to quickly recover from Black Monday, even if it is unpopular with our people in the short-term.
+Ending Temporal Debt
+Unfortunately our austerity measures while having a positive effect have not been yet completely eliminated our national debt or the economic repercussions of Black Monday. One radical idea to end the crisis would be to use Papal gold to repay those whom we are indebted to, which would be popular among the people but unpopular within the Church.
+Military Aid
+The Black Monday crisis has greatly emboldened the syndicalist powers, who see it as an opportunity to strike while other nations are weakened by the crisis. The chance of such an attack on our state is a major worry for many in the Curia, who have recommended reaching out to our protectors, the Kingdom of Two Sicilies, for military aid in modernising our armies so as to defend the Holy See in such an event.
+Sicilian Advisors
+While we have recruited many foreign soldiers and officers into our military, we will need training from Sicilian military advisors if the strategy of our armies is to be modernised and effective.
+Technical Aides
+One other advantage we can gain from our close relationship with the Two Sicilies is to request the sending of some educated technical aides to Rome to bolster our technological capabilities with the aim of aiding both our nations in the fight against syndicalism.
+Joint Planning Staff
+The Kingdom of the Two Sicilies is the closest ally we have, and when either of us go to war the other will undoubtedly follow. We must integrate our militaries together in order to remain strong against the menace to the north.
+Papal Gendarmerie
+The security of our borders is one matter, but we must also look to the enemies within. A new Papal gendarmerie must be created to combat chaos in the name of God. They will watch the people closely indeed.
+Renewed Impetus
+In the years following the defeat of the Syndicalist attempt to seize Rome, we became lax and idle, confident in Sicilian protection. Now that we have reformed our army and economy into one befitting a modern nation-state we must now begin to prepare our state for war with the Syndicalists.
+Preparing for War
+Dangerous times lie ahead of us. While we have been reluctant to industrialise, seeing it as resulting in less freedom for the individual and reducing a society of individuals to a mass-class society, we must nonetheless prepare our country for expanded military production if our army is to be supplied for a protracted war against the Syndicalists.
+Labor Omnia Vincit
+The marshlands in the Lazio region of central Italy have stood since the time of the Romans. A concerted effort to clear them will provide ample farmland, as well as work for many thousands of idle hands.
+Action Follows Belief
+We must be diligent in producing a holy arsenal for the protection of the Catholic faith.
+Experto Crede
+With radical and totalitarian socialist movements gaining power throughout the world, great faithful scientists are at risk of persecution. Let's make sure our state is the place they can and will emigrate into. To assist them, we can finish the late Pius XI's plan to open a Pontifical Academy of Scientists that was postponed indefinitely by his death.
+Through Difficulties to the Stars
+The Catholic Church has historically been a great patron of science despite the claims of the syndicalists and anti-clericalists that defame us with the lies of conflict thesis. Faith and reason are of mutual help to each other, and to overcome our current hardships we must adapt that reason and scientific mindset to military research.
+Begin Risorgimento
+The time has come. Italy, this wonderful land of abundance, shall again be united. Viva l'Italia!
+Naval Exercises
+As a display of power and to promote naval morale, we should organise a series of naval exercises in the Adriatic Sea. Let our nation's enemies tremble.
+Military Exercises
+As a display of power and to promote the morale of our army, we should organise a series of near-combat training exercises near the Po River. Let our nation's enemies tremble.
+Italy is United
+It is done, Italy, beautiful Italy, is whole again. In the hearts of all patriots, this moment shall forever be remembered.
+Recruit Sicilian Generals
+The Sicilian officer corps, however detestable its former King may have been, undoubtedly has many competent generals. Should these generals be allowed to serve Italy?
+Recruit Sardinian Generals
+Many good men fought and died for Sardinia. Now, with the wounds of war beginning to heal, the fate of Sardinia's generals must be decided.
+Italian Irredentism Policy
+With Italy united and some of the most pressing issues of domestic policy resolved, we can look outwards, especially at those lands which, by right, should be Italian.
+A Stable Italy
+Our politics have been unstable since the civil war ended, but now, with an Italian Republic ruling over all Italy, we can finally end the instability that has been plaguing us for years.
+ACD
+Alleanza Cristiana Democratica
+USL
+Unione Sindacale del Lazio
+MSL
+Movimento Sociale Latino
+NP
+Nuovo Papato
+UM
+Ultramontanisti
+PPD
+Partito Popolare Democratico
+SE
+Stato Ecclesiastico
+LL
+Lega Liberale
+PSI
+Partito Socialista Italiano
+IU
+Italia Unita
+With the formation of a united Italy, it had seemed the time for the Papal States to have secular power was a thing of the past. Then came the collapse of the kingdom, and the civil war which followed, and central Italians once again turned to the Papacy and its Sicilian allies to help maintain stability. Now Pope Pius XI is ill, and on his deathbed, he laments an Italy that remains divided, with the syndicalists growing ever stronger in the north. Whoever his successor is, he will need God on his side in order to prevail.
+GFX_PAP_intro
+The State of the Papacy
+In 1919, the Italians concluded an armistice with the Austrians, permitting Austrian forces to occupy Lombardy and Venetia pending a formal peace settlement. The subsequent §YTreaty of Vicenza§! was a humiliating affair, disgracing both the nation and the old political order. Within mere days, enraged nationalists proclaimed the new Republic of Italy in Milan, which maintained that all treaties signed by the House of Savoy were to be considered null and void.\n\nThough it seemed that Rome was in danger of capture by the republican rebels fighting against the old Kingdom, the blurry battle lines of the civil war mostly spared Rome due to the protection of the southern royalist forces, which, together with local right wing militias, crushed uprisings in Rome. The Pope soon emerged from the Vatican to take back up the administration of his God-ordained domain, but the debilitated state had no armed forces loyal to it, and it had scarce chances at resisting any Syndicalist offensive. However, the white generals in the south would not stand by while the centre of Catholicism fell to syndicalism, and led a counter-offensive to secure Rome, bringing the Papal State under royalist, later Sicilian, protection, receiving support from foreign volunteers in Rome, the reborn Zouave corps.\n\nAfter the war ended, the Papal States joined the Italian Federation along with its protectors in Naples, but controlled only a small fraction of its nominal territory, and was and is in most respects a rump, puppet state of the Sicilians. Following the declaration of independence along with Sardinia and the Two Sicilies in 1926, it has been recognised as an independent state by the majority of nations in the world, though it is extremely limited in its diplomatic options.\n\nIn the sphere of Curia politics, the fading health of Pius is in everyone's minds, and it remains to be seen who will succeed him should he pass in the coming years.
+§MThe New Pope§! ($national_populist_coloured$ / $paternal_autocrat_coloured$ / $authoritarian_democrat_coloured$ / $social_democrat_coloured$)\n£white_dot After completing the focus \
+Black Monday Hits the Papal State!
+Almost two weeks ago, the Berlin Stock Exchange plunged into bottomless depth, throwing Germany's economy into an unprecedented crisis. Now the crash's shock waves have reached us. German and Austrian-owned companies have closed down or laid-off their workers, our currency is losing value, industrial exports are shrinking, and our national debt is beginning to grow out of control...
+Let's hope the government will save us from the worst...
+Quadragesimo Quinto Anno
+Quadragesimo Quinto Anno (Latin for 'In the 45th Year') is a new encyclical written by Pope Pius XI that discusses the ethical implications of the social and economic order (45 years after Leo XIII's Rerum Novarum encyclical). The encyclical describes the major dangers for human freedom and dignity arising from unrestrained capitalism and syndicalism, calling for the reconstruction of the social order based on the principle of solidarity and subsidiarity. In the first part, he reviews and applauds the encyclical of his predecessor, which helped the development of a new social conscience.\n\nAccording to Pius XI, three elements determine a fair wage: the worker's family responsibilities, the economic condition of the enterprise and the economy as a whole. The family has an innate right to development, but this is only possible within the framework of a functioning economy and sound enterprises. For this, Pope Pius concludes that solidarity, not conflict, is a necessary condition. The pope, therefore, demands more solidarity, especially between employers and employees through new forms of cooperation and communication among Catholic citizens. A new era of Catholic Corporatism is just beginning.
+Excellent.
+Donations from the Faithful
+With the very seat of God's church under threat from non-believers for the first time in centuries, donations have been pouring in from Catholics throughout the world.
+Every bit counts.
+The Pontine Marshes
+The order has been given to clear the Pontine Marshes and thus open the once-useless land for farming or industry. The plan will require the employment of thousands of Romans and take many months to get the bulk of it done, but the outcome may be worth it.
+So long as it keeps them working, I'm happy.
+The Pontine Marshes Are Cleared
+The areas formerly known as the Pontine Marshes are now cleared, with factories and farms springing up throughout the area, further strengthening our nation economically.
+A monumental achievement!
+The Death of Pius XI
+All Christendom mourns the death of His Holiness, Pope Pius XI, who died following a heart attack after having been in declining health for the past several years, something which rapidly worsened following Black Monday. The Holy Father will soon be interred with the rest of his predecessors in the Tomb of the Popes. Until the next pope can be chosen, The Papal State will be ruled by the College of Cardinals in Rome.\n\nThe succession of His Holiness is made all the more important due to the Catholic Church's role in governing the reborn Papal States as well as its vehement opposition to syndicalism, a force which has divided Italy and seeks to once again unify the Italian peninsula.
+How terrible.
+The Successor to St. Peter
+The Holy See has finally come together to deliberate the election of a new Pope following Pius XI's death. In the end, they choose to...
+... elect the pious and popular Eugenio Cardinal Pacelli as Pius XII
+... elect the charitable Elia Cardinal dalla Costa as Stephen X
+... elect the socialist cardinal, Achille Liènart, as John XXIII
+... elect the hardline cardinal Alfredo Schuster as Julius IV
+The First Roman Elections
+With the Pope relinquishing his temporal power and the transition from Papal rule to democracy under way, free elections shall take place in Rome for the first time since the Roman Republic of 1849. The question is, which party shall come out victorious?
+Il Movimento Sociale Latino!
+L'Alleanza Cristiana Democratica!
+The [GetYear] [Root.GetAdjective] Elections
+With approval granted by Pope [Root.GetLeader], elections are once again held in [ROOT.GetName].
+Il Movimento Sociale Latino is victorious!
+L'Alleanza Cristiana Democratica is victorious!
+Financial Aid from the Two Sicilies?
+While we have determined that the best way to get the Black Monday crisis under control is to seek a bailout from the Kingdom of Two Sicilies we must decide how much of our debt we shall ask them to take. If we were to ask them to take on all of our debts it would greatly improve our financial situation but would also give away much of our sovereignty to the Sicilians. If this proves unacceptable we could instead request that they take on only some of our debt, although should we do this we would have to enact measures ourselves to clear the remaining debt and economic damage.
+Ask the Sicilians to take our whole debt
+Only ask them to take some of our debt
+The Papal State's Request
+The Papal State has been hit hard by Black Monday and in particular they are unable to handle their international debts. Despite our own economic troubles, they have requested that we take on all of their debts and while we have protected them ever since the collapse of Italy and accepting their request would give us far more control over their state, many question if our economy would be able to handle the stress.
+Accept their request
+Take on some of their debts
+Refuse - our own nation must come first
+Two Sicilies Accepts!
+The Sicilians have agreed to take on our debt! While we have given significant concessions and the Sicilian government now has far more influence over us, at least our debts have been cleared and our economy is running again.
+Great!
+Two Sicilies Partially Accepts
+Unfortunately the Sicilians were unwilling to take on our full debt due to their own economic problems following Black Monday, but they have still agreed to take part of it, helping to relieve the burden on ourselves even if we will have to take steps for our economy to fully recover.
+It's better than nothing.
+Two Sicilies Refuses!
+The Kingdom of Two Sicilies have refused our generous request, claiming that their nation's economy comes first! This will make the road towards improving our state's economy more expensive than we had hoped.
+How unfaithful.
+The Papal State's Request
+The Papal State has been hit hard by Black Monday and in particular they are unable to handle their international debts. Despite our own economic troubles they have requested that we take on some of their debts and while we have protected ever since the collapse of Italy and our people are faithful to the Church and the Pope, many question if our economy would be able to handle the stress.
+Accept their request
+Refuse - our own nation must come first
+Two Sicilies Accepts!
+The Sicilians have agreed to take on some of our debts! Although we have not reached the light at the end of the tunnel yet, the elimination of some of our debts will lighten the load on our economy and make our recovery an easier task.
+Great!
+Military Aid for the Papal State?
+As international tensions grow and the possibility of a second Weltkrieg arises the Papal State has begun to see the need to rebuild its army in order to defend the Holy See from desecration by the vile syndicalists just across our border, and have reached out to us to aid them in modernising their forces. How shall we respond?
+Assist them as much as possible!
+We can spare them some help.
+No need - we can protect them ourselves.
+The Kingdom of the Two Sicilies Accepts!
+The Kingdom of the Two Sicilies has accepted our request and begun to aid us in modernising our military technology so that we may defend ourselves from the tyranny of syndicalism.
+Great!
+Two Sicilies Supplies Some Aid
+The Kingdom of Two Sicilies have accepted our request and while they have not given us as much military aid as we had hoped what they have seen fit to give should hopefully assist us in modernising our army.
+It's better than nothing.
+Two Sicilies Refuses!
+To our disappointment, the Kingdom of Two Sicilies have refused our request for military aid, claiming that doing so would be a waste of time and resources for their own nation and that the Sicilian army is capable of defending Rome themselves.
+How foolish and arrogant.
+Syndicalist Guerrilla Campaign
+While we have thwarted the syndicalists in their attempt to bring about a second Risorgimento and reclaimed the land stolen by Piedmont in 1860, it appears that our troubles have not ended there. Syndicalists in the liberated territories, refusing to recognise our rightful rule, have taken up arms against our government and are engaging in a campaign of guerrilla warfare against us!
+These subversives must be brought to justice!
+Syndicalist Riots
+Today many syndicalist sympathisers turned out for protests and demonstrations against our rule in the formerly Italian territories. The protests soon turned into rioting, causing much damage in acts of vandalism and injuring many.
+Damn!
+Syndicalist Ambushes
+Syndicalist guerrillas have staged ambushes against our troops throughout our nation!
+Damn!
+Syndicalist Bombing
+The syndicalist guerrillas carried out a bomb attack today, dealing large damage to our infrastructure in that area.
+Damn!
+Syndicalist Sabotage
+The syndicalist guerrillas have bombed one of our factories in an attempt to sabotage our industry!
+Damn!
+End of the Syndicalist Resistance
+After many long months of guerrilla warfare we have finally been successful in rooting out and destroying the syndicalist remnants still opposing our rule.
+At last!
+Effects of Black Monday End!
+While it was a hard and trying time for our nation and economy, the effects of the Black Monday crisis are at last at an end, and our country can begin to move on.
+Finally!
+The Papal Conclave
+With the passing of Pius XI, the cardinals of the Catholic Church have convened within the Sistine Chapel to elect the new Pope. They will remain in seclusion until a consensus has been reached, and a new successor to St. Peter has been chosen by the electors.
+Let us pray they choose wisely.
+The Siculo-Papal Joint Planning Staff
+The Papal State has just proposed that our nation and theirs create a joint planning staff, so as to coordinate our future wars against the threats that plague Italy better.
+Our enemies have no chance!
+The Papacy Declares Independence
+Pope [PAP.GetLeader] declared today that [PAP.GetNameDef] would no longer be subject to overlordship by [SIC.GetNameDef]... this despite the fact that the threat of [SRI.GetNameDef] still looms to the north, as well as despite all the assistance we've offered the Pope in the past. Many officials in the [Root.GetAdjective] government feel that this is an ill-advised move on the part of the Pope.
+Pope [PAP.GetLeader] declared today that [PAP.GetNameDef] would no longer be subject to overlordship by [SIC.GetNameDef]... this despite the fact that the threat of [SRI.GetNameDef] still looms to the north. Many officials in the [Root.GetAdjective] government feel that the Pope is only weakening our defence, allowing the syndicalists to pick us off separately.
+Pope [PAP.GetLeader] declared today that [PAP.GetNameDef] would no longer be subject to overlordship by [SIC.GetNameDef]... this despite all the assistance we've offered the Pope in the past. Many officials in the [Root.GetAdjective] government feel that the Papacy is taking advantage of the Sicilians, now that the syndicalist threat has been eradicated. Where is the gratitude?
+Pope [PAP.GetLeader] declared today that [PAP.GetNameDef], with the syndicalist threat gone, would no longer be subject to overlordship by [SIC.GetNameDef]. Many officials in the [Root.GetAdjective] government feel that this is an ill-advised move on the part of the Pope.
+We demand they repay the aid we've granted
+No, this cannot be permitted
+We still offer them protection against the syndicalists
+If that is the Pontiff's wish, then so be it
+[From.GetNameDefCap] Demands Repayment of Debt
+King [From.GetLeader] has informed Pope [Root.GetLeader] that it's all very well and good if the Papacy wishes to leave [SIC.GetNameDef]'s protection... but his nation has offered the Papacy a great deal of aid in the past, both to help with Black Monday as well as in the form of military assistance. He would expect that first such debts would be repaid.
+King [From.GetLeader] has informed Pope [Root.GetLeader] that it's all very well and good if the Papacy wishes to leave [SIC.GetNameDef]'s protection... but his nation underwent great sacrifice to help [PAP.GetNameDef] after Black Monday. He would expect that first such debts would be repaid.
+King [From.GetLeader] has informed Pope [Root.GetLeader] that it's all very well and good if the Papacy wishes to leave [SIC.GetNameDef]'s protection... but his nation undertook considerable personal costs to assist [PAP.GetNameDef] with its military. He would expect that first such debts would be repaid.
+If money is what he wants, he can have it
+And we thank him for his donation to the Church
+The Papacy Repays its Debt
+Though it can hardly afford to do so, [From.GetNameDef] has dug deep into the Church coffers and repaid the assistance provided by [SIC.GetNameDef] in the past. The Pope expressed His gratitude and considered the matter done.
+So be it.
+The Papacy Refuses to Pay
+Pope [From.GetLeader] expressed his misgivings at what he called the king's 'impiety', and said he considered [SIC.GetNameDef] previous assistance a gift to the Holy Church.
+We won't push this further
+Then the Church's land is forfeit
+The Sicilians Refuse
+[From.GetNameDefCap] has informed the Papacy in no uncertain terms that it cannot allow a separation. Already its soldiers are gathering on our border.
+Then we reluctantly return to their fold
+We shall see about that!
+Sicilians Offer Protection
+King [From.GetLeader] has informed the Pope that, while he fully supports whatever decision He makes on the matter, with [SRI.GetNameDef] still in the north perhaps it would be wise to still have Sicilian protection, even if not overlordship.
+We would be grateful for it
+That is not necessary
+Papacy Refuses Protection
+Inexplicably, Pope [From.GetLeader] has refused the offer of Sicilian protection. Has the Holy Father gone mad?
+He can't mean aggression, can He?
+Papacy Accepts Protection
+Pope [From.GetLeader] offered His relieved thanks for the offer of Sicilian protection. He sends his blessings to the king.
+That's a relief
+[From.GetNameDefCap] Wishes Us Well
+Making no promises or demands, [From.GetNameDef] has wishes us well out from under their protection. It was, King [From.GetLeader] reminds us, always a voluntary association for mutual protection against the syndicalists.
+Good
+Pope Rallies the Catholic Faithful
+Pope [PAP.GetLeader] has issued a call to the Catholic faithful within [SRI.GetNameDef], asking them to rise up against the 'godless syndicalists'... and helpfully supplying them with equipment and training. The partisans' numbers are hardly overwhelming, but they may prove annoying appearing behind our lines as they have.
+It changes nothing!
+$papal_state_events.7.t$
+$papal_state_events.7.d$
+$papal_state_events.7.a$
+Pius XII Elected as New Pope
+Catholic faithful in Rome breathed a sigh of relief as the Sistine Chapel's chimney billowed forth white smoke, signifying the election of a new pope.\n\nA short time later, it was announced that the pious and popular Eugenio Cardinal Pacelli had become His Holiness Pope Pius XII, leader of the Catholic Church and head of state of the Papal States.\n\nIt is anticipated that he will continue the policies of his predecessor, whose Pontifical name he has taken.
+Good luck, your Holiness.
+A useless man elected by useless men.
+Stephen X Elected as New Pope
+Catholic faithful in Rome breathed a sigh of relief as the Sistine Chapel's chimney billowed forth white smoke, signifying the election of a new pope.\n\nA short time later, it was announced that the charitable and withdrawn Elia Cardinal dalla Costa had become His Holiness Pope Stephen X, leader of the Catholic Church and head of state of the Papal States.\n\nMany speculate that it will not be long before His Holiness surrenders the Church's control over the government to a secular institution.
+Good luck, your Holiness.
+At least he knows his place.
+Pope John XXIII, the \
+Catholic faithful in Rome were initially relieved today as the Sistine Chapel's chimney billowed forth white smoke, signifying the election of a new pope.\n\nA short time later, it was announced that the new pope was none other than Achille Liènart, the infamous \
+Good luck, your Holiness.
+An interesting development.
+Julius IV Elected as New Pope
+Catholic faithful in Rome breathed a sigh of relief as the Sistine Chapel's chimney billowed forth white smoke, signifying the election of a new pope.\n\nA short time later, it was announced that the hardliner Alfredo Ildefonso Schuster, a true political player and staunch opponent of syndicalism, had become His Holiness Pope Julius IV, leader of the Catholic Church and head of state of the Papal States.\n\nIt is anticipated his election will deepen the Italian ideological divide... even more than it already has.
+Good luck, your Holiness.
+And so their true face is shown.
+Pope Arrives in [refuge.GetNameDef]
+Pope [PAP.GetLeader] arrived in [refuge.GetNameDef] today, having sought refuge there since his exile from Rome was decreed by [SRI.GetNameDef] more than a week ago.\n\nWhile exhausted from his journey, the Pope addressed an enormous crowd of well-wishers and faithful gathered outside his hotel, and called on the rest of the world to seek endurance and strength of heart in the face of the syndicalist menace.
+At least he's safe.
+Good riddance.
+Pius XI
+§YBorn:§! §LMay 31st, 1857, in Desio, Kingdom of Lombardy-Venetia, Austrian Empire§!\n§YBackground:§! §LPope Pius XI, formerly Cardinal Achille Ratti, was elected to the Holy See in 1922, having spent most of the previous years as a papal representative in the newly re-established state of Poland, and was named a cardinal in 1921. Thus, he avoided most of the turmoil of the civil war and the danger that the Papacy underwent in its later stages. He was the first pope since the unification of Italy to give an ascension speech at Saint Peter's, as the practice has been abandoned during the 'Hostage Years' under the Savoyard monarchy. His papacy has been also marked by increasing tensions between factions in the Curia, and the troubled re-establishment of temporal authority.§!
+College of Cardinals
+§YFounded:§! §L1150, in Rome, Papal States§!\n§YBackground:§! §LWhile the conclave is in session, Carmelengo Eugenio Pacelli holds de facto administrative roles. However, the Holy See is officially empty, and the Papal State thus lacks a Head of State formally. The conclave is usually a time consuming process that may set the State and the Church itself in a brand new path for decades to come.§!
+Eugenio Pacelli
+§YBorn:§! §LMarch 2nd, 1876, in Rome, Kingdom of Italy§!
+Pius XII
+§YBorn:§! §LMarch 2nd, 1876, in Rome, Kingdom of Italy§!\n§YBackground:§! §LPope Pius XII, formerly Cardinal Eugenio Pacelli, is a man of great spiritual fervour. He is renowned for his piety, but has a strong authoritarian streak that is matched only by his desire to protect the people.§!
+Elia dalla Costa
+Stephen X
+§YBorn:§! §LMay 14th, 1872, in Villaverla, Vicenza, Kingdom of Italy§!\n§YBackground:§! §LPope Stephen X, formerly Cardinal Elia dalla Costa, is a gentle man renowned for his charitable nature and love of the poor. Most assume he will eventually turn the Papacy away from its direct rule of the nation, and already forces are gathering within the Papal State to determine who will undertake that role.§!
+Achille Liénart
+John XXIII
+§YBorn:§! §LFebruary 7th, 1884, in Lille, Nord, French Republic§!\n§YBackground:§! §LPope John XXIII, formerly Cardinal Achille Liènart, is a controversial choice as Pope. He is a well-known socialist, considered by some to even be a radical, and it's possible he was chosen by the Papacy due to the possibility his socialist leanings will lead to a reconciliation with the north.§!
+Alfredo Schuster
+Julius IV
+§YBorn:§! §LJanuary 18th, 1880, in Ospedale Santissimo Salvatore, Rome, Kingdom of Italy§!\n§YBackground:§! §LPope Julius IV, formerly Cardinal Alfredo Schuster, is a man renowned for his passion. He has been involved in the running of the Papal State for many years, and, as the former Archbishop of Milan, has declared syndicalism to be an evil he will battle until it is eradicated from the Earth.§!
+Giuseppe Pizzardo
+§YBorn:§! §LJuly 13th, 1877, in Savona, Genoa, Kingdom of Italy§!
+Eugène Tisserant
+§YBorn:§! §LMarch 24th, 1884, in Nancy, Meurthe-et-Moselle, French Republic§!
+Luigi Maglione
+§YBorn:§! §LMarch 2nd, 1877, in Casoria, Naples, Kingdom of Italy§!
+Giovanni Battista Montini
+§YBorn:§! §LSeptember 26th, 1897, in Concesio, Brescia, Kingdom of Italy§!
+Filippo Cremonesi
+§YBorn:§! §LAugust 22nd, 1872, in Rome, Kingdom of Italy§!
+Pietro Campilli
+§YBorn:§! §LNovember 30th, 1891, in Frascati, Rome, Kingdom of Italy§!
+Filippo Andrea Doria Pamphili
+§YBorn:§! §LMarch 1st, 1886, in Rome, Kingdom of Italy§!
+Sergio Fenoaltea
+§YBorn:§! §LJune 9th, 1908, in Rome, Kingdom of Italy§!
+Leone Cattani
+§YBorn:§! §LJanuary 5th, 1906, in Rieti, Umbria, Kingdom of Italy§!
+Alberto Cianca
+§YBorn:§! §LJanuary 1st, 1884, in Rome, Kingdom of Italy§!
+Ludovico Chigi Albani dalla Rovere
+§YBorn:§! §LJuly 10th, 1866, in Ariccia, Comarca di Rome, Papal States§!
+Heinrich Pfyffer von Altishofen
+§YBorn:§! §Lin the Kingdom of Italy§!
+Felix Morlion
+§YBorn:§! §LMay 16th, 1904, in Diksmuide, West Flanders, Kingdom of Belgium§!
+Luigi Alois Hirschbühl
+§YBorn:§! §LOctober 11th, 1883, in Chur, Grisons, Swiss Confederation§!
+Pier Ruggero Piccio
+§YBorn:§! §LSeptember 27th, 1880, in Rome, Kingdom of Italy§!
+Angelo Cerica
+§YBorn:§! §LSeptember 30th, 1885, in Alatri, Rome, Kingdom of Italy§!
+Reginaldo Giuliani
+§YBorn:§! §LAugust 28th, 1887, in Turin, Kingdom of Italy§!
+Georg von Sury d'Aspremont
+§YBorn:§! §LSeptember 17th, 1887, in Solothurn, Swiss Confederation§!
+Luigi Sansonetti
+§YBorn:§! §LFebruary 22nd, 1888, in Rome, Kingdom of Italy§!
+Junio Valerio Borghese
+§YBorn:§! §LJune 6th, 1906, in Artena, Rome, Kingdom of Italy§!
+Palatine Honour Guard Command
+§YFounded:§! §LDecember 14th, 1850, in Rome, Comarca di Rome, Papal States§!

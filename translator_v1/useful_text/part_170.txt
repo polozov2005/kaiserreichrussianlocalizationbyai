@@ -1,0 +1,140 @@
+Transylvania
+Transylvanian
+Transylvania
+Socialist Republic of Transylvania
+the Socialist Republic of Transylvania
+Socialist Republic of Transylvania
+the Socialist Republic of Transylvania
+Socialist Republic of Transylvania
+the Socialist Republic of Transylvania
+PST
+Partidul Socialist-Totalist
+PSS
+Partidul Socialist-Sindicalist
+PST
+Partidul Socialist din Transilvania
+PSD
+Partidul Social Democrat
+PL
+Partidul Liberal
+PT
+Partidul Taranesc
+PNR
+Partidul National Român
+PNR
+Partidul National Român
+PNR
+Partidul National Român
+PNR
+Partidul National Român
+Union with Romania?
+Finally Transylvania is independent from Hungary. We are a Romanian state and the population has since long desired to join our brethren in Romania, to form one state together. Finally, the dream of a Greater Romania can be achieved.
+Proclaim the Union with Romania.
+Petition [ROOT.overlord.GetNameDef] to allow the union.
+No, we should keep our independence!
+Transylvania Proclaims Union with Romania
+Transylvania has managed to become independent from Hungary. Their government has unanimously declared a Union between Romania and Transylvania. Finally, we can welcome our long lost siblings into one Greater Romania.
+Welcome, Romanian brethren!
+Transylvania Desires Union with Romania
+Contrary to what some of our planners might say, [TRS.GetNameDef] is an artificial state. The state that we have established in the region is populated overwhelmingly by Romanians that may have a regional identity, but do not appear to translate this into support for permanent Transylvanian independence - indeed, many of those working with us in establishing [TRS.GetNameDef] were under the impression that it would be a stopgap measure until such time that Romania proper could be aligned, after which Transylvania would be incorporated into a Greater Romania.\n\nNow that Romania is under a friendly government, Transylvania and Romania have jointly petitioned us to be allowed to merge. As the arbiters of the peace, we are by no means required to allow this union, especially since both states are dependent on us for their security and are in no position to change this. Even so, many planners argue that attempting to prop up an artificial state in Transylvania would only serve to undermine our support in the region in the long term. However, others argue that our interests may be served better by a divided nation. Should we grant this request?
+Of course.
+No, we prefer them kept separate.
+[FROM.GetNameDefCap] Approves Union with Romania
+We have just received word that [FROM.GetNameDefCap] has approved our request to join with our Romanian bretheren! Finally, the time has come to realise the dream of Greater Romania!
+Send an envoy to Bucharest!
+[FROM.GetNameDefCap] Denies Union with Romania
+Horrible news - [FROM.GetNameDefCap] has informed us that they will not approve of any union between us and Romania, citing 'strategic concerns'. Perhaps their intentions not as altrustic as we had hoped...
+Damn you!
+Albert Wass
+§YBorn:§! §LJanuary 8th, 1908, in Válaszút, Kolozs County, Kingdom of Hungary, Austria-Hungary§!
+Gheorghe Flondor
+§YBorn:§! §LAugust 31st, 1892, in Roman, Neamţ County, Kingdom of Romania§!
+Constantin Isopescu-Grecul
+§YBorn:§! §LFebruary 2nd, 1871, in Czernowitz, Duchy of Bucovina, Austria-Hungary§!
+Samoilă Mârza
+§YBorn:§! §LSeptember 18th, 1886, in Galtiu, Alsó-Fehér County, Kingdom of Hungary, Austria-Hungary§!
+Miklós Bánffy
+§YBorn:§! §LDecember 30th, 1873, in Kolozsvár, Kolozs County, Kingdom of Hungary, Austria-Hungary§!
+Alexandru Borza
+§YBorn:§! §LMay 21st, 1887, in Alba Iulia, Alsó-Fehér County, Kingdom of Hungary, Austria-Hungary§!
+Octavian Codru Tăslăuanu
+§YBorn:§! §LFebruary 1st, 1876, in Bilbor, Csík County, Kingdom of Hungary, Austria-Hungary§!
+Miron Cristea
+§YBorn:§! §LJuly 20th, 1868, in Topliţa, Maros-Torda County, Kingdom of Hungary, Austria-Hungary§!
+Iuliu Hossu
+§YBorn:§! §LJanuary 30th, 1885, in Milaş, Kolozs County, Kingdom of Hungary, Austria-Hungary§!
+Iosif Jumanca
+§YBorn:§! §LDecember 23rd, 1893, in Folea, Temes County, Kingdom of Hungary, Austria-Hungary§!
+Aurel Vlad
+§YBorn:§! §LJanuary 25th, 1875, in Turdaş, Hunyad County, Kingdom of Hungary, Austria-Hungary§!
+Georg Domaschnian
+§YBorn:§! §LOctober 20th, 1868, in Mehadia, Krassó-Szörény County, Kingdom of Hungary, Austria-Hungary§!
+Michael Trapsia
+§YBorn:§! §LMarch 25th, 1838, in the Austrian Empire§!
+Theodor Seracsin
+§YBorn:§! §LFebruary 6th, 1836, in the Austrian Empire§!
+Ienache Ion
+§YBorn:§! §Lin the Kingdom of Hungary, Austria-Hungary§!
+Ladislaus Cenna
+§YBorn:§! §LOctober 15th, 1844, in the Austrian Empire§!
+Michael Schandru
+§YBorn:§! §LMarch 10th, 1852, in Mehadia, Krassó-Szörény County, Kingdom of Hungary, Austria-Hungary§!
+Trucial States
+Trucial
+the Trucial States
+Socialist Federation of the Gulf
+the Socialist Federation of the Gulf
+United Socialist Syndicates of Arabia
+the United Socialist Syndicates of Arabia
+Socialist Federation of the Gulf
+the Socialist Federation of the Gulf
+Hamad ibn Isa Al-Khalifa
+§YBorn:§! §LFebruary 6th, 1872, in Muharraq, Bahrain§!
+Shakhbut ibn Sultan Al Nahyan
+§YBorn:§! §LJune 1st, 1905, in Abu Dhabi, Trucial States§!
+Zayed ibn Sultan Al Nahyan
+§YBorn:§! §LMay 6th, 1918, in Qasr Al-Hosn, Abu Dhabi, Trucial States§!
+Néo-Destour
+Nouveau Parti libéral constitutionnel
+CGTT
+Confédération Générale Des Travailleurs Tunisiens
+CGTT
+Confédération Générale Des Travailleurs Tunisiens
+Fédération Tunisienne Socialiste
+Fédération Tunisienne Socialiste
+Destour
+Parti libéral constitutionnel
+Jeunes Tunisiens
+Jeunes Tunisiens
+Grand Mufti of Tunis
+Grand Mufti of Tunis
+Destour
+Parti libéral constitutionnel
+Beylical Throne
+Beylical Throne
+Beylical Throne
+Beylical Throne
+Mahmoud El Materi
+§YBorn:§! §LDecember 1897, in Tunis, Regency of Tunis§!
+Tahar Haddad
+§YBorn:§! §LDecember 4th, 1899, in Tunis, Regency of Tunis§!
+Mohamed Ali el-Hammi
+§YBorn:§! §LOctober 15th, 1890, in El Hamma, Regency of Tunis§!
+Elie Cohen-Hadria
+§YBorn:§! §LDecember 8th, 1898, in Tunis, Regency of Tunis§!
+Abdeljelil Zaouche
+§YBorn:§! §LDecember 15th, 1873, in La Marsa, Beylik of Tunis§!
+Moncef Bey
+§YBorn:§! §LMarch 4th, 1881, in Tunis, Beylik of Tunis§!
+Ahmad bin-Ali
+§YBorn:§! §LApril 13th, 1862, in Dar al-Taj Palace, La Marsa, Beylik of Tunis§!
+Habib Bourguiba
+§YBorn:§! §LAugust 3rd, 1903, in Monastir, Regency of Tunis§!
+Abdelaziz Thâalbi
+§YBorn:§! §LSeptember 5th, 1876, in Tunis, Beylike of Tunis§!
+Hassen Belkhodja
+§YBorn:§! §LMarch 10th, 1916, in Ras Jebel, Regency of Tunis§!
+Hassan Ferjani
+§YBorn:§! §L1907, in Hammamet, Regency of Tunis§!
+Mohammed Dagbaji
+§YBorn:§! §L1885, in Wadi Ezatoun, Regency of Tunis§!
