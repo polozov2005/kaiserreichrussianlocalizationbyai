@@ -36,4 +36,4 @@ def find_first_difference(file1_path, file2_path):
             line_num += 1
 
 # Запуск сравнения
-find_first_difference('split_output/part_005.txt', 'split_input/part_005.txt')
+find_first_difference('split_output/part_181.txt', 'split_input/part_181.txt')
