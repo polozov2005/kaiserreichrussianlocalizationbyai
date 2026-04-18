@@ -106,6 +106,33 @@ Two of §Y[IRE.GetNameWithFlag]§!'s generals will be §YWounded§! for 120 days
 §GNorthern Ireland will slowly begin the process of fully integrating itself into the United Kingdom to become an integral part of the newly restored nation and its politics.§!
 Britain has chosen to pursue full integration of Northern Ireland.
 Britain has chosen to allow continued Northern Irish devolution within the Union.
+The Future of Northern Ireland
+While much of the focus of the newly restored rightful government is of course upon the future of Britain itself, one must not forget that the nation extends across the Irish sea to its loyal subjects in Ulster. A delegation led by [NIR.GetLeader] himself recently visited [GBR.Capital.GetCapitalVictoryPointName] to not only congratulate the government upon its restoration, but also to request input on what the future shall hold for Northern Ireland's place in the Union and how their own provisional government can begin moving towards that future.\n\nAt present there are two primary suggestions regarding the future organisation of Northern Ireland within the nation, with the first of these being a return to a similar devolved status as the province previously enjoyed for a brief period following the Partition. Under these plans the province will continue to remain part of the United Kingdom, but it will be granted a privileged status not too dissimilar to that of a dominion with its own government and prime minister to handle its own political affairs.\n\nThe alternative proposal, one which the provisional government seems to favour, is the return once more to a fully integrated Northern Ireland within the United Kingdom. Instead of being granted any form of devolved self-governance as it held previously, Northern Ireland would be treated almost no differently than Lancashire or Kent. To the fervorous loyalists this is seen as the only way to ensure that they are never separated again from the nation they hold dear. Ultimately however, the choice between these options is one for Britain to now make.
+Full integration should be pursued.
+A devolved administration would be more preferable.
+Choosing a Secretary for Northern Ireland
+As part of the efforts to fully integrate Northern Ireland into the Union once more, the provisional government has looked to Scotland's historical place within the nation as an example to follow. As a result they have petitioned for the appointment of a Secretary of Northern Ireland to help properly manage the many affairs of the province, much akin to the role of the Secretary of Scotland and even somewhat to the position held historically by the Chief Secretary for Ireland. While ultimately the exact person in this role is likely to have little impact upon the wider nation, the creation of the role will primarily be an excellent symbolic gesture to show that the people of Northern Ireland are valued members of the Union.\n\nAfter consultation on the matter with the provisional government and relevant ministers, three choices for who to appoint to the position have become apparent. Chief among these is James Hamilton, Duke of Abercorn, who previously served as the Governor of Northern Ireland before the revolution and so may be fitting to reappoint to this similar role. William Leveson-Gower, the Earl Granville, is also seen as a potentially popular choice, having made somewhat of an impressive name for himself for his excellent work during the period of exile. Finally there is Maxwell Ward, Viscount Bangor, an Ulsterman with support from those who wish to see this position held by one of their own. The final decision is now on [GBR.Capital.GetCapitalVictoryPointName] to make.
+The Duke of Abercorn is an excellent choice.
+The Earl Granville seems most suited for the job.
+Ward's an Ulsterman and a Viscount, who could be a better fit for the position?
+Northern Ireland Constitution Act
+\
+Quis separabit?
+Arms Shipment from the Exiles
+This event should never fire for a player. If you see this, report it as a bug.
+Understood.
+Canadian Military Mission Arrives
+This event should never fire for a player. If you see this, report it as a bug.
+Understood.
+The Northern Rising
+As part of a takeover ironically reminiscent of the Easter Rising, the UVF have seized buildings across the six counties of Northern Ireland, most notably at Belfast City Hall where, in imitation of the Ulster Covenant of 1912, they have signed a document proclaiming independence from Dublin.
+Ever since Aontas Náisiúnta first rose to power, tensions have been brewing between the [IRE.GetAdjective] government and the country's primarily Protestant loyalist population. Now with reports coming in from [119.GetCapitalVictoryPointName], it is clear that these tensions have finally boiled over into full blown revolt against [IRE.GetAdjective] rule.\n$northern_ireland_events.1690.d.mid$ Although yet to receive any official support from the British Exiles, their intentions to return to the Crown seem clear, provided their revolt is not crushed by [113.GetCapitalVictoryPointName].
+Ever since the socialist seizure of power in Ireland, tensions have been brewing between the [IRE.GetAdjective] government and the country's primarily Protestant loyalist population. Now with reports coming in from [119.GetCapitalVictoryPointName], it is clear that these tensions have finally boiled over into full blown revolt against [IRE.GetAdjective] rule.\n$northern_ireland_events.1690.d.mid$ With the Entente's war against the Internationale waging on, Northern Ireland seems set to become the frontline for the Exile's attempted Homecoming, provided their revolt is not quickly crushed by socialist forces.
+Would they prefer to die at the hands of syndicalists?
+Brave, if foolish.
+The last gasp of a dying empire.
+Brave sons of Ulster, all.
+Will Ireland ever be a nation at peace?
 Namibia Focus Tree
 Mandume Movement
 Mandume Movement (Revolutionaries)
@@ -197,3 +224,23 @@ The Windhuk Fortress
 In the case of an invasion, we must be prepared to defend Windhuk to our last man. Creating the equivalent of a fortress there should ensure it will stand before any invader.
 A United Namibia
 With all the reforms held within the country, Namibia is now seen as a united entity ready to face off against foreign threats.
+[GetYear] Syndicalist Convention
+With the revolution finally being brought to Namibia, we must hold a convention like all formal Syndicalist countries. Three main parties have ended up being contenders. There is the Radical Socialist RAP, which is run by young revolutionaries who wanted to be free from Mittelafrika, the SSP which wanted to bring a revolution to the entirety of Mittelafrika, and the Internationale aligned SPI which believes a European Revolution is necessary before an African one. The victor turned out to be...
+The Internationale aligned SPI.
+The revolutionary SSP
+The young ARP
+The First Namibian Elections
+With Namibia recently being liberated from German rule and put under a Democratic mandate, the conditions are right to host the First Namibian Elections. There are four main parties running: the Republikanische Partei which focuses on more rights for the native tribes in the area, the Otavi Minen und Eisenbahn-Gesellschaft which wants to build more railways within Namibia, the Südwestafrikanischer Nationalverein which argues for consolidation in the country and largely removing tribal rule, and the Südwestafrikanische Volksorganisation, an Ovambo based party which wants greater cooperation between tribes and an increase of Christian morals. All these parties have a chance of winning, but the party which came out on top is...
+The Südwestafrikanische Volksorganisation
+The Südwestafrikanische Nationalverein
+The Otavi Minen und Eisenbahn-Gesellschaft Verwaltung
+The native Republikanische Partei
+[From.GetNameDefCap] Requests Guns
+[From.GetNameDefCap] due to its small industry and population is trying to build up an army to defend itself in order to not inconvenience us. They request 2000 guns to build up this force, and promise to not bother us again after this.
+Give them what they need
+We have our own military to worry about
+[From.GetAdjective] Supplies Arrive!
+[From.GetNameDefCap] has been very generous and sent us what we desired! We have gotten a shipment of 2000 rifles, which is more than enough to build up our military.
+[From.GetNameDefCap] has realised that defending their country takes priority over defending their autonomies. We'll have to rely on the local guards we raised earlier to defend our country.
+We must thank [From.GetNameDef]!
+That is a shame...

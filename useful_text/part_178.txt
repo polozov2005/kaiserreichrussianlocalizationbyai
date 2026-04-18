@@ -238,6 +238,56 @@ Victory after victory has been accomplished on the battlefield and the defeat of
 Spread Anti-War Propaganda
 As this war pits brother against brother, calls for peace have grown louder. The failure of the ANI to produce a swift victory is causing major morale issues which we can exploit. With the assistance of Austria, we can smuggle propaganda calling for the overthrowal of Ciano. With many already questioning the ability of the ANI to win the war with thousands already dead and a common sentiment that Ciano has left Italy vulnerable to the socialists, this is sure to be effective.
 §MCatholic League / Republicans / Christian Liberals, People's Party§! ($social_conservative_coloured$ / $market_liberal_coloured$ / $social_liberal_coloured$ / $social_democrat_coloured$)\n£white_dot After completing the focus \
+First Session of the Great Council
+For the first time in over a hundred years, the Great Council of Venice convenes once more. Members from across the republic gather in Venice to discuss how the Venetian Republic should be structured. Already two camps have emerged between those that want Venice to be a modern republic with greatly expanded civil rights and liberties, and those that want to see the Republic of Venice restored to as it was during its golden era.
+Let us begin
+Election and term of the Doge
+The first question to come up is the election of the Doge. In the old republic, the Doge was elected for life by the Great Council. 30 members were chosen by random lot, who would then be reduced to 9 by random lot. Those 9 would name 40 members who had to be approved by 7 of the 9. The 40 were reduced by lot to 12, who named 25 members. Those 25 had to be approved by 9 of the 12. The 9 would name 45, and each member had to be approved by 7 of the 9. The 45 members were then reduced by lot to 11. These 11 named 45 who had to be approved by 9 of the 11. These 45 were finally reduced by lot to 25, and they would finally choose the Doge, who kept the position for life.\n\nNaturally, the old system is considered rather archaic. Those within the Great Council seeking to modernise the Republic instead propose that the Doge should be elected directly by the people and with a four-year term, subject to re-election.
+The old system is ridiculous. The Doge shall be elected by the people every four years!
+Why change what worked for centuries? Keep the old system!
+A New Republic has been Established!
+After  days of voting and intense debate, the Great Council has decided to establish itself as a new, modernised and liberal republic. This marks a new chapter in Venice's history.
+Fon sù i fondaminti de un nóvo doman!
+The Serene Republic has been Reestablished!
+After many days of voting and intense debate, the Great Council has chosen to re-establish the mercantilist, oligarchic Serene Republic of old. This marks a new chapter in Venice's history.
+Viva San Marco! Viva Venezia!
+We are Losing to Venice
+Unbelievably, we are losing ground to the Venetians. Either we give them what they want now, and hope they stop there, or we may end up facing a rather humiliating defeat at their hands, one where we lose everything.
+End this war now
+No, this is too early to call yet
+[From.GetNameDefCap] Sues for Peace
+Our war against [From.GetNameDef] has been going well, but at a cost to both nations. We have received an offer of peace promising Istria and our other claims if we lay down our arms. What should we do?
+Let's end this
+Why stop here? We will take everything!
+Restarting the Marriage to the Sea
+For centuries starting in 1000 CE there was the Festa de la Sensa and the Marriage of the Sea held on Ascension Day. However, when Napoleon destroyed the Republic in 1798 the festival stopped being celebrated. Now that the Republic is reformed, we can celebrate  the Venetian Republic's Marriage to the Sea once again.
+We wed thee, sea, as a sign of true and everlasting domination.
+[GetYear] Sposalizio del Mare
+Today we once again celebrate the marriage of the sea. Decorated ships with both Venetian and foreign dignitaries have been coming and going from the harbor, and the mood in the city has been nothing short of ecstatic. After a lengthy speech, Doge [Root.GetLeader] tossed a ring into the lagoon signifying the marriage of Venice to the Sea. Later in the night, fireworks exploded celebrating our national day, both in the city and throughout the hinterlands of the country.
+We wed thee, sea, as a sign of true and everlasting domination.
+Reviving Venetian Carnival
+During the days of the Venetian Republic, Carnival was a popular festival that celebrated the end of Lent and before Ash Wednesday began. Even after the end of the Republic in 1798, the festival was always popular and private festivals would remain celebrated. However, now that the Republic is restored we can begin to celebrate Carnival once again.
+Long live Venice!
+Venetian Carnival
+Today the cities of the Republic fill with people in colourful costumes and intricate masks celebrating Carnival. Our ancient tradition has been revived, and throughout the night music, fireworks, and laughter can be heard.
+Long live Venice!
+Ponte della Libertà
+Today marks the opening of the Ponte della Libertà or the Bridge of Liberty, connecting the city of Venice to the Mainland. With the republic once again founded and the city of Venice the heart of the Republic once more, the bridge was created to celebrate the freedom that which the republic stands for.
+Defendemo la paxe e la libarta!
+Sebastiano Venier Naval Military School
+Today the Sebastiano Venier Naval Military School opened to train a new generation of Venetian Admirals. Named after the famed Venetian admiral Sebastiano Venier who won the battle of Lepanto, the  School also helps to ensure a love of the sea by offering numerous water activities from sailing to swimming. Many of the teachers and faculty are active or retired members of the Venetian navy.
+To the next generation of Venetian sailors!
+The [GetYear] [Root.GetAdjective] Elections
+The months leading up to the elections for the new Doge and his party this year in [Root.GetNameDef] have been as divisive and charged as ever. With people flooding to the polls, the winner turns out to be...
+... the Partito Liberałe Cristian!
+... the Partito Repubblicano Veneto!
+... the Lega Catòłega!
+... the Partito Popolare Veneto!
+Electing the Doge
+The byzantine process to select the new Doge-for-life has taken weeks, but now it is down to two candidates: Giuseppe Volpi, hero of the revolt, and Giovanni Ponti. Volpi has widespread popular support thanks to his status as war hero, but there are many conservatives who believe his ideas of reform are too liberal. Ponti, on the other hand is favoured by the newly-reestablished nobility. The vote is sure to be a close one.
+The byzantine process to select the new Doge-for-life has taken weeks, but now it is down to two candidates: the liberal, Giuseppe Volpi, and the conservative, Giovanni Ponti. Considering Volpi and his party were not even in favour of returning to the ways of the old republic, Ponti is the heavy favourite. Even so, Volpi has numerous connections from his many stints in provincial government, and there is still a chance he could win.
+Giuseppe Volpi is our new Doge!
+Giovanni Ponti is our new Doge!
 Umberto Merlin
 §YBorn:§! §LFebruary 17th, 1885, in Rovigo, Kingdom of Italy§!
 Giuseppe Volpi
@@ -389,6 +439,247 @@ Half Track Innovation
 Walloon Merchant Marine
 Established Centre of Trade
 §MMonarchy§! ($authoritarian_democrat_coloured$ / $market_liberal_coloured$ / $social_democrat_coloured$)\n£white_dot To go absolute monarchy: send armed forces to deal with the trouble at Seraing.\n£white_dot To go constitutional monarchy: listen to the reds' demands at the trouble at Seraing.\n£white_dot Give in to syndicalist demands when the negotiations with them begin.\n£white_dot Complete the focus \
+The Dissolution of Flanders-Wallonia
+Flanders has seceded from our Kingdom and has declared its independence. German citizens and the Royal Family have fled the region and are re-establishing their hold on our nation. Meanwhile the Revolution still rages on and is destabilising the region with no clear end in sight. Quick and decisive action will be required to avoid the Red Menace that wants to destroy our nation. Walloon capitalists and liberals look on however, fearing the revolution but equally unhappy with German rule. Their efforts to form a republic have proven fruitless over the last decade but a new opportunity may well have now presented itself.
+Hoist the Coq, Wallonia is born.
+Trouble at Seraing
+With riots and protests throughout the entire Sillon Industriel, members of the Syndicalist resistance have holed up in the Seraing Steel Mills refusing to allow the factory to reopen and holding twelve members of the administration hostage. Troops retreating from Flanders are massing near Namur but a small contingent could be relocated to Liège to help quell the issue. Shareholders of the company meanwhile are desperately urging the government to leave the facility intact and are lobbying as much as possible to preserve their interests.
+Send an armed force to Seraing.
+Listen to the reds' demands.
+Negotiations With the Syndicalists
+One of the leaders of the rebels trapped inside the mills has come out and given us their demands. They promise to leave the factory intact if the King adheres to the terms won during the 1935 strikes, signs a new Labour Act enacting the promised forty-hour working week and sets out measures providing more transparent employee-employer relations. The Liberal party has already declared their opposition to the demands as it would suppress free trade and strip privileges from them. Still, if we were to cave in to their demands we might be able to weaken support for an outright syndicalist revolution and change the mind of the more liberal POB members.
+Give in to their demands.
+Stall the negotiations.
+Send in the Feldgendarmerie.
+Stalled Negotiations
+Two days have passed since the syndicalists' demands were received and no answer has been given as of yet by the government. News of the situation has spread like wildfire throughout the nation and similar actions have been undertaken in the glass factories of Charleroi and have even struck the arms producer FN. The situation is reaching a boiling point and with terrorist attacks in Hainaut, we need to act now or the army will be spread too thin to counter large uprisings. Our commanders are advising us to make an example of the Seraing strikers and to send in the army to flush them from their stronghold. Liberal lobbyists are still warning the King not to act violently and advise him to seek a middle ground.
+Send in the Feldgendarmerie.
+Sign a reduced version of the Labour Act.
+Labour Act Adopted
+With the promise of better working conditions and the announced Labour Act, many of the smaller strikes have been calmed and left the factories without causing too much damage. The Strikers of Seraing however are still holding out and are once more demanding the government sign the full Labour Act or to resign at once. The POB, which has seen its influence greatly increase in the last decade, has joined the syndicalists' call and have demanded the immediate resignation of the government.
+We must gain support from the liberals!
+Liberal Party Refuses to Assist
+Smelling their chance, the Liberals have decided to throw their own hat into the ring and have joined the POB in their demands for resignation. They state that the only way to solve this crisis now is by listening to the people and holding emergency elections.
+Where do we get our support from now?
+Protest in La Louvière
+It appears that in La Louvière thousands of disgruntled miners have come down to the town square to protest against the pro-German government and to demand Adelbert's abdication. Feldgendarmerie have been keeping watch on the protest and so far have been able to discourage violence between the Walloons and the much smaller counterprotest by German citizens. Though only small in size, the protest marks the end of an era. Further protests around the nation are already being organised and a general strike has now kept the nation paralysed for two weeks. The situation is becoming completely untenable with many Germans leaving the nation to avoid repression by the syndicalists.
+The monarchy is faltering!
+The Namur March
+Further protests are engulfing the nation, with many people leaving their homes to gather on the streets of Namur. A product of the prestigious regional glass industry, a life-sized sculpture of Adelbert has been toppled in the town square and symbolically smashed to bits with mining pickaxes. Though police were able to arrest the perpetrators it was already too late as shards of glass were quickly grabbed by bystanders permanently memorialising the events of the day.
+We must fortify the Palace.
+Royal Councillor Resigns
+Not willing to risk his life for that of his king anymore, the royal councillor has announced his resignation and was seen leaving the palace to loud applause. The Feldgendarmerie have been used to push the crowd away from the fences and avoid violent escalation. Their efforts have been met by a grand crowd-driven performance of the Chant Des Wallons
+Summon Parliament to the Palace.
+Final Royal Meeting
+Only a small faction of politicians with nearly no members of the POB has answered the call and have come to attend what may be the last Royal Meeting. The King asked every single person in the room whether they believe his current predicament is solvable. He was met with no clear response until the leader of the Liberal Party, Auguste Buisseret, stepped forward and told the King that there was no way he would be able to return to power. The people have spoken and it's abdication they demand. Only then will we be able to calm down the populace and resume our work.
+Abdication is the only dignified way out.
+But what about a referendum?
+Referendum Refused
+In a last ditch effort to retain power Adelbert requested the government hold a referendum on the future of the monarchy but was turned down. Support for the King has almost reached single digits, making a costly referendum pointless. The proposal was put to a vote and unanimously voted down. The reign of King Adelbert is over.
+Sign the abdication papers.
+King Adelbert I Abdicates
+Turned down by both the Flemish and the Walloons, Adelbert has finally given in and at 4pm put down his final signature as King of the Flemish and Walloons. Although German rule is far from over, the monarchy has reached its end.
+Hoist the Coq Wallon!
+First Walloon Elections
+After two decades of strict German rule, the first free elections have been held. Even the syndicalist branch of the POB has been allowed to participate and has spend the last week desperately amassing as much popularity as possible. The PL has also gathered substantial support and is particularly popular around the city of Namur and among the remaining German minority. However no party seems capable of achieving an absolute majority and a political impasse may drag on for multiple weeks if no agreement is reached.
+The POB wins the election.
+The PL wins a close victory.
+PL Wins the Most Seats
+Closely beating the POB and the Catholics, the PL under its leader Auguste Buisseret has won the most seats and been given the right to begin forming a government. While a Catholic-Liberal alliance is the most likely outcome, the POB has offered to assist the PL if they can guarantee more freedom for the worker class and immediately pass the Labour Act through Parliament. A so-called 'Red-Yellow alliance' would grant almost complete control over the government but may be more difficult to keep intact than a Swedish coalition.
+The real work starts now.
+Adelbert Caves in to the Strikers
+With his back against the wall and his position as strong sovereign growing increasingly fragile, King Adelbert has agreed to sign the Labour Act. The syndicalists left their position and their leader could be seen shaking hands with the King, publicly indicating a curious softening of Adelbert's absolutist obsession.
+The Labour Act is signed.
+Support for the King Increases
+Impressed by the decisive actions of their King, Parliament gave a standing ovation on their next sitting. The leader of the POB, Fernand Dehousse, gave a speech openly praising Adelbert and announcing his push for a more democratic constitutional monarchy.
+Public adulation, interesting...
+Truce Offered to the Resistance
+With the Liège province partially pacified, Adelbert has offered a truce to the syndicalist resistance which still fiercely defends the western villages of Hainaut. Promising a royal pardon and the option for them to create their own legal party, the King has demanded a complete end to hostilities. The syndicalist rebels however have refused this offer and increased their raids on our military camps.
+They have had their chance.
+Syndicalist Resistance Crushed
+After the syndicalist refusal, a strike force consisting of both Walloon and German troops was assembled with orders to push into Mons and secure the city while the detachments flanked the rebels, enveloped them and began successfully clearing the villages street by street. Though two weeks of heavy fighting ensued, in the end we regained control with relatively minimal casualties.
+The Syndicalists have been defeated for now.
+Troops Storm Seraing
+Just like last year Adelbert has yet again given the order to disperse any protestors violently and break up the strikes with force. Within two hours the factory complex was cleared of all opposition. The floor is red with blood as the last of the syndicalists are slaughtered, a clear warning to all others willing to protest.
+The resistance will be quelled again.
+Mons Liberated
+After our defeat at Mons during the Belgian revolution, our troops have been licking their wounds. Now they are however fully prepared and ready to attack the syndicalist barricades.
+Fire at will, men.
+POB Banned From Parliament
+Though no clear connection can be found between the moderate faction of the POB who has been part of the government since 1919 and the radical syndicalist splinter faction, Adelbert has signed a royal decree outlawing the party and kicking it out of the government. Although loud protests erupted as expected, all were quelled by the prospect of prison.
+Another step towards the end of Syndicalism.
+A New Wallonia
+Much has changed during the last two weeks, with the remaining syndicalist cells being destroyed and mass arrests throughout the Sillon Industriel. Experts estimate the death toll at about 15,300 citizens and the arrest of around 800 leading members of the organisation. German control has once again been largely established in Wallonia, kept intact by a regime of fear and repression.
+I think a toast is in order.
+Search For Assistance Against Flanders
+The political situation has stabilised and the economy is slowly recovering, yet much remains to be done. Flanders, which declared its independence during the Belgian Revolution, is still a rightful part of our country. However ti has fallen out of our sphere of influence and is now a direct member of the Reichspakt. Only by carefully manoeuvring our way on the German political battlefield can we secure their support for the reunification.
+Send word to Germany.
+Wallonia Requests Our Support
+After the chaos of the Belgian revolution, the nation of Flanders-Wallonia split into two separate states. The Dutch speaking region of Flanders has successfully achieved its separation from the union and has become a somewhat autonomous member of the Reichspakt. Wallonia however is still under our more direct control and has finally defeated the revolution. Now they request our aid in reconquering their lost land and reuniting Flanders-Wallonia. While this may reestablish our rule over the region it may lead to further trouble in the future. Denial of their request may once again throw the nation into turmoil as the power of the government may be called into question.
+Support the Walloon cause.
+No, the Flemish are good allies.
+Germany Supports Us
+The Kaiser has seen the right way and has acceded to our request. No German aid will be sent to Flanders in case of war and no other members of the Reichspakt will be allowed to intervene.
+Prepare the invasion.
+Germany Denies Our Request
+The Kaiser has denied our request and expelled the emissaries who came up with this supposedly ridiculous idea. If we attack Flanders, we can be sure to feel the full wrath of the German behemoth. Unrest is already brewing in Parliament with many seeing this as the first signs of weakness. We will have to tread carefully to counter nationalist uprisings.
+Wilhelm has failed us!
+The Government is Failing!
+After the disastrous campaign to gather support against Flanders and the failure to completely solve the syndicalist problem, nationalists are flocking to the banner of Léon Degrelle who promises Wallonia for the Walloons and a strong answer to syndicalism. While the Liberals have already spoken against his outrageous populism, the Catholics seem to be unsure about whether to speak out against him. Trouble is also brewing in the army where many who joined up to defeat the Flemish are disappointed by their government and are requesting a stronger response.
+Arrest Degrelle!
+Arrest of Degrelle
+Although Degrelle was easily captured by our police force, this has caused massive outrage across the cities. Many see this as curbing of freedom of speech and Rexist propaganda is starting to appear on every street corner with small skirmishes occurring between police and members when caught.
+This situation is starting to escalate.
+Trouble at the University of Liège
+The populist rhetoric of Degrelle has spread far and wide and has become a breeding ground for students having trouble finding work after the Black Monday crisis. Peaceful protests are being organised on campus and in the streets calling for his release and the creation of new jobs.
+Disperse the crowds.
+Mutiny in the Army
+In many of the smaller kazernes troups conscripted specifically for the unification wars, Walloon soldiers seem to be plotting against their German commanders. Disobeying orders and deliberately damaging military equipment seems to have become popular passtimes amongst our young soldiery.
+Disperse these regiments across the nation.
+Message From the Vatican
+The Pope has decided to interfere in the Degrelle case calling for clemency. It appears that supporters of Rex were able to reach the nuntius of München, Eugenio Pacelli who contacted the Pope. Impressed by Degrelle's devotion to God, the Holy Father has requested that our government grant Degrelle clemency. It would be in our best interests to keep this request secret as it may cause severe trouble if this leaks out. Cardinal Mercier has offered to speak on the prime minister's behalf in Parliament denying the whole affair.
+Allow Mercier to go ahead.
+Betrayed By Mercier!
+Although his speech was screened by the cabinet and given to him before the speech, Mercier decided to speak out against the government questioning their resolve and explaining the Papal affair in its entirety. This evidently led to outrage in Parliament with supporters of Degrelle demanding his release and praising Mercier for his efforts in whistleblowing about the scandal.
+This is not going too well.
+Release Degrelle?
+With popular opinion turning against the government and demand for Degrelle's release increasing by the day, we will soon be forced to decide whether to release him and hope that it calms down the crowds gathering in front of Parliament, or keep him imprisoned and risk the people's wrath. The minister for internal affairs however is pushing the prime minister to speed up the trial and have Degrelle executed before the situation gets out of hand.
+Release Degrelle.
+Move the trial forward.
+Degrelle Released
+To avoid further escalation the government has decided not to press their case against Degrelle and dropped charges against him. Although this act served initially to stem the growing unrest, most of the damage has already been done. Pictures showing a frail and weakened Degrelle leaving the prison are front page news across the entire country. Rexists in the government are pushing for a motion of no confidence saying that the current government clearly doesn't speak for its people and should resign at once. Degrelle himself has in the meantime announced his candidature for prime minister and is helping to fuel the Rexist propaganda machine.
+A catastrophe!
+The Motion of No Confidence Succeeds!
+Defeated in a motion of no confidence by 103 to 75, the entire cabinet has reluctantly resigned and the government has fallen. Early elections have been called for the end of the month while all regular government affairs have ceased. It has already become clear that this going to be a close election with REX appearing to be on the verge of becoming the largest party in Wallonia.
+The POB, DC and PL band together.
+The DC speaks out in favour of Degrelle.
+Rex Wins the Election!
+Rex has become the largest party in Wallonia closely followed by the POB. Though Rex failed to reach an outright majority, with support from the DC a working coalition has been established. The POB and PL have called for a recount but have been turned down by the Courts, with the judges stating that REX has won fair and square.
+Degrelle assumes control.
+The Grand Coalition Wins the Election!
+By combining their efforts and denouncing REX, the grand coalition of POB, DC and PL was able to win the election. REX only achieved 19% of the votes and has been excluded from the government. Although many of Degrelle's supporters still remain, the party will most likely never achieve the same momentum.
+A victory for democracy!
+The Trial of Degrelle
+Thousands have gathered outside Wallonia's highest court as Degrelle is brought before the judge. After many hours of proceedings the judge has finally given his trial verdict. Degrelle has been variously found guilty of committing an attack on the nation aimed at overthrowing or changing its form of government and bringing citizens under arms against the legal state and its lawfully appointed organs. This assortment of crimes is to be punished by the death penalty, an outcome to be fulfilled before the end of the week.
+Hopefully this means an end to REX.
+Rexist Coup
+Fuelled by the unjust condemnation of Degrelle and the severity of his punishment, ever more supporters have flocked to the Rexist banner. On Sunday night, with most government agencies closed military putschists launched a pro-Rexist coup, lifting the prime minister from his bed and capturing many key military installations. Freed by his supporters, Degrelle has declared the beginning of a new Rexist era as his troops captured the last remaining government strongholds. When the sun rose the next day, REX had fulfilled its coup objectives and assumed full control over the state.
+A new era awaits!
+Degrelle Shot!
+During a visit to the FN Herstal factory, Léon Degrelle has been shot dead by a factory worker. Though his bodyguards immediately returned fire, killing the assailant, with Degrelle rushed to the closest hospital, medical attention came too late and at around 16:00 our great leader died. Due to his consolidation of power over the last few years, it seems that there is no clear successor to his legacy and while the leaders of REX are fighting each other, the other parties smell a chance to recover their lost popularity. Whether or not REX will be able to retain power after the loss of their charismatic leader is to be seen but dark clouds are definitely brewing over Wallonia.
+No doubt REX will tear itself apart now.
+Infighting Within REX
+In the wake of the death of Degrelle, his second in command Victor Matthys has wrested control of the party to the consternation of other major players like Louis Collard and the minister of propaganda Georges Prosper Remi. Matthys' leadership qualities have quickly been outed as lacklustre at best after he decided that the populace can only be kept in line with extreme repression. While it seems order has temporarily been restored, behind the façade of violence resistance keeps brewing and Matthys' rule may be short-lived.
+Yet more turbulence.
+Coup D'état in Wallonia!
+The succession crisis seems to have finally affected the army, which has risen up in protest against the cruel massacres commissioned by Matthys to eliminate his opponents. Supported by the PL and the POB, officers have ordered their soldiers to disobey all Rexist commands and tanks have been be seen rolling through the avenues of Liège towards the party headquarters. All the same, the remaining hardliners are unwilling to give up so easily and without a surrender by the Rexists a bloodbath is almost inevitable.
+Demand they lay down their weapons.
+Consultation with Remi
+While Louis Collard has fortified himself with the REX hardliners inside the party headquarters, Georges Prosper Remi has been cooperating with the resistance since Degrelle's death seeking a return to democracy and a peaceful transition of power. While his efforts have proven futile in avoiding armed conflict so far, he still holds some sway within the nation and has convinced many of the other Rexists outside of the capital to surrender themselves to the army. While he has tried mediating with the remaining hardliners, all have come to naught and it seems that they will not go down without a fight.
+Launch the attack.
+Georges Deffontaine Assumes Temporary Control
+After a short but bloody siege of the party headquarters, the army has emerged victorious and has proclaimed Georges Deffontaine leader of provisionary government until elections are held. The POB and PL have immediately restarted their propaganda efforts and with REX having been disbanded by the military, Georges Prosper Remi has announced that he will be running for office to contain the remaining Rexist elements and help Wallonia on its way towards full democracy.
+We'll prepare elections!
+Post-REX Elections
+After the downfall of REX and the military coup, the elections are finally upon us. The POB under Fernand Dehousse has been polling excellently but has received some hits due to a damaging scandal concerning one of their party members. Auguste Buisseret is also doing well with his message of liberal democracy and has attracted many of the German capitalists. Georges Prosper Remi is, to the surprise of many, still following closely as well and might even pull a close victory out of the elections with his message of solidarity and national unity.
+Fernand Dehousse and the POB.
+Auguste Buisseret and the PL.
+Georges Prosper Remi and the UNW.
+POB Wins the Election
+Unsurprising to many, the POB was able to sway the voters and win a landslide victory. Internal strife however is damaging the party and long discussions can be heard in parliament discussing the future of the socialist party. Subfactions under Lucie Dejardin, Julien Lahaut and Walter Dauge are damaging Fernand Dehousse standing and may force his hand into a dangerous position. The syndicalists demand a quick and painless revolution while the more conservative faction prefers upholding the status quo with small socialist reforms.
+Difficult negotiations are approaching.
+Question of Leadership
+As the POB tries to settle in and form its cabinet, a motion of no confidence has been proclaimed against Fernand Dehousse calling him a traitor to the working class and unfit to rule. Though the syndicalist members support this motion, other sub-factions led by Julien Lahaut and Walter Dauge are less inclined to support them as this would result in syndicalist dominance within the party.
+Fernand Dehousse remains head of the Party.
+Lucie Dujardin becomes Chairwoman.
+Bloodbath at Liège
+With no consensus within the POB, members of the extremist syndicalist and totalist factions have decided to handle the matters their own way. During yet another failing meeting between Fernand Dehousse and members of a new social liberal faction, masked assailants stormed the room butchering Fernand Dehousse and his staff. Over sixty high-ranking members of the POB were massacred after which the assailants left. Shocked by these events, Parliament has announced a day of national sorrow mourning the casualties of the attack.
+Chaos reigns once more.
+Lahaut Assumes Control
+With all opposition dealt with and no immediate response from the moderate syndicalists, Julien Lahaut has taken control of the POB and is starting to push for full on revolution, breaking the chains and liberating the worker class from capitalist oppression.
+Dark times are upon us.
+Military Disbanded
+To avoid problems with the military, Lahaut has fired all officers and cut off their funding. Only a small faction called the Red Guard ahs been allowed to remain extant, a praetorian guard consisting of Lahaut's fiercest supporters.
+The military has been dismantled.
+Walloon Ultimatum
+The Walloon government has presented us with an ultimatum demanding our immediate reunification with them and the recreation of Flanders-Wallonia. Troops have been seen performing military exercises along our southern border and even the remnants of the former Flemish-Walloon navy have acted particularly brashly off our coast. We do technically outnumber them though so should be able to defend ourselves.
+Well, I suppose it is in both of our interests...
+Flanders is an independent nation!
+Ultimatum Refused!
+The ultimatum was denied and our neighbours now fortify their border in preparation for war.
+Launch the invasion.
+We can do nothing.
+Wallonia Requests Deutsch-Wallonia
+The Walloon government has approached us over the Walloon province we annexed after the Weltkrieg. They state that returning it to them would solve unrest in the region and strengthen our borders. We can easily deny them this land however and remind them of their defeat at our hands.
+Return German Wallonia.
+To the victor, the spoils.
+Wallonia Requests Flanders
+Wallonia, claiming all those lands once held by Belgium, has demanded that our nation transfer control over Flanders to them.
+Return Flanders.
+To the victor, the spoils.
+Request Refused!
+The request was denied and our neighbours now fortify their border in preparation for potential conflict.
+Damn.
+Wallonia Requests Entry into the Internationale
+Our Northern neighbour has successfully broken the chains and wants to join our alliance. German repression against their revolution may be approaching though so we should consider whether we want to take this risk.
+Let them in.
+Refuse them.
+The Internationale Denies Membership
+We have been betrayed by our socialist brothers and have to face German might all alone now.
+Is the revolution lost?
+Syndicalism in Wallonia
+It appears that syndicalism has spread to our puppet state of Wallonia and that Adelbert has once again been deposed. Our armies are already preparing for an invasion but may still be called off and prevent retaliation from the Commune of France.
+Prepare the attack!
+Wallonia is no longer pressing.
+POB Spreads Propaganda
+In the days leading up to the contentious election, all parties are scrambling their best propaganda teams to advocate their strengths and denounce the others. Their main focus seems to be to portray the PL-DC coalition as the enemy and to try and instil fear in the working class.
+The election is approaching!
+PL Spreads Propaganda
+The PL has focused on countering the fear instilled into the middle class by the Catholics against the Socialists. 'Carnaval... after Easter, the Citizen has become wise enough to see through these lies!'
+REX Spreads Propaganda
+Led by their mildly popular leader Degrelle, REX is seeking to sway voters by promising the complete cleanup, or 'groote kuisch' of career politicians and to restore Wallonia to its true Belgian borders.
+DC Spreads Propaganda
+Afraid of Catholics voting against them and for REX, DC has launched a smear campaign against Degrelle calling him alternately confused 'dwaashoofd' and mad with power, 'macht'.
+POB Spreads Propaganda
+To remember the workers of the pre-Weltkrieg situation, POB has sought to present the image of the failed PL-DC and their cronies drowning in failures. 'After their failure to hold Belgium, do you still trust them?'
+POB Spreads Propaganda
+'The time for socialism is now. The PL-DC are stuck in the past where the POB looks to the future! So the reign of money can end and the reign of the worker may commence!'
+Anti-German Propaganda
+Hung up in the middle of the night with no witnesses, large amount of anti-German propaganda has turned up showing the invaders as swine ravaging the corpse of Belgium. Police searches were unsuccessful in finding the perpetrators but many German citizens are fearful, and outrage is spreading.
+Foundation of the IBA
+Created by scientists from all Walloon Universities and even the Flemish, Ion Beam Applications has been launched aimed at boosting the high tech industry of Wallonia. With a large focus on prosthetics and cyclotron, they hope to revolutionise the niche and take the world by storm.
+Fund their projects.
+Observe their progress.
+Return on Investment!
+IBA was able to expand with our subsidies into the American market and has received attention from their government as well. A contract has been signed between them and IBA, allowing easier expansion and the takeover of a biotechnology firm in the States.
+Great success!
+Investment Failed!
+With the subsidies IBA has tried to enter the German market but was forced to sign harsh terms with their government and has been blocked off from further expansion. Even worse, it seems that one of their employees has leaked company secrets to their counterparts causing them to fall even farther behind.
+Truly a shame!
+Extraction of New Resources
+To combat the reliance on coal and heavy industry, the government has launched a large scale programme to overhaul part of the Hainaut industry seeking to turn it into the glass centre of Europe. Heavily based out of Charleroi new and existing companies have been funded and expanded.
+We'll need more than that though.
+Request From the Union Minière
+While the Belgian government lost our colony after the Weltkrieg, most of the Congolese economy is still controlled by our corporations. The Union Minière du Haut Katanga is the largest amongst them and has established itself as one of the world's most important players on the resource market. Mittelafrikan meddling however is starting to interfere with their interests and their government has imposed restrictions on the company. Therefore they have decided to withdraw most of their funds and to take loans with Walloon banks instead of German ones. To achieve this though, they will need support from our government and an adaption to our laws to enable them an easy transfer. While the benefits may be huge, we have to tread carefully to avoid German wrath.
+Support the UMHK.
+Distance ourselves from their efforts.
+Propose New Agreement With Mittelafrika
+To support our citizens and the UMHK abroad, the government has drafted up a proposal for Mittelafrika. They request easier access to the mines, permission to build infrastructure in Kongo and to lease the harbour of Boma to our nation. In return, UMHK will pay an increased amount of tax and will build housing, hospitals and schools for the local population. A new trade agreement will be signed increasing Walloon imports from Mittelafrika and at the same time offering more favourable arrangements for their government.
+We can all benefit!
+Let's not be hasty...
+[From.GetName] Seeks an Agreement
+To support their citizens and the Union Minière du Haut Katanga in Mittelafrika, the [From.GetAdjective] government has drafted up a proposal for us. They request easier access to the mines, permission to build infrastructure in Kongo and to lease the harbour of Boma to their nation. In return, UMHK will pay an increased amount of tax and will build housing, hospitals and schools for the local population. A new trade agreement will be signed increasing Walloon import from Mittelafrika while also granting more favourable arrangements for our government. Due to the economic troubles we are experiencing, allowing the Flemish-Walloons to invest in our nation would be hugely beneficial but would also increase their influence over the Congolese region. Turning them down however would be very costly as a very substantial part of our economy depends on the UMHK.
+A bold but welcome suggestion!
+We don't sign agreements with non-entities.
+Mittelafrika Accepts
+Mittelafrika seems to have agreed to our terms and have once more given UMHK free rein over the provinces of Congo. Our request to the harbour of Boma has however been refused for the time until we have accomplished our part of the bargain.
+Very well!
+Mittelafrika Refuses!
+It appears that the brutish Mittelafrikan regime refused all of our demands and has even increased the taxes levied on our firms by another two percent. The UMHK is furious at their actions and has announced to our government that the Mittelafrikan colonial administration will pay for their vindictive actions.
+Hopefully they don't act too drastically...
+Returns on Congo Investments
+After the expansion of the railroads connecting Boma and Katanga, the first shipments are entering the harbour of Antwerp. Due to our arrangements with the Flemish government, splitting the profits, most of the goods are reaching Liège. Copper, Uranium, Gold and much more are flowing through the Adelbert Canal ready for exporting into Europe.
+Money is flowing in.
 Preserve the Monarchy
 The Flemish may have kicked us out but the rule of Adelbert shall continue in the south.
 Consolidate Royal Power

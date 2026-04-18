@@ -102,6 +102,30 @@ The three major syndicalist factions must come to a conclusion as to which one w
 Apply the Constitution
 The ratification of a constitution will give much-needed legitimacy to Gabon's sovereignty and bring many in our nation together.
 §MDemocracy Survives§! ($social_conservative_coloured$ / $market_liberal_coloured$ / $social_liberal_coloured$)\n£white_dot Complete the focus \
+Dibantsa Challenges Government
+Following the destabilisation that came with the fall of Mittelafrika, Jean-Baptiste Ndende Dibantsa, leader of the Gabonese section of the League for Human and Citizens' Rights, has rallied popular support in order to seize control of the government.
+The popular revolution is a success!
+Our young democratic institutions survive against their first hurdle.
+[FROM.GetNameDefCap] Needs Guns!
+The African state of [FROM.GetNameDef] has requested our help in supplying their troops, this would be a good opportunity to gain a better foothold in former Mittelafrikan territory.
+Give them what they want.
+Refuse.
+[FROM.GetNameDefCap] Says Yes!
+[FROM.GetNameDefCap] has listened to our cry for help and supplied us with the weapons we desperately needed!
+Great!
+[FROM.GetNameDefCap] Says No!
+[FROM.GetNameDefCap] has refused to listen to our cry for help and left us to fend for ourselves!
+Who needs them?
+Gabon's First Election!
+Our newly drafted constitution calls for a democratic election of our first elected leader! Several parties have similar enough support that the election could swing in any direction tonight!
+The Social Conservatives Win!
+The Market Liberals Win!
+The Social Liberals Win!
+The First Gabonese Syndicalist Convention!
+After drafting the Constitution of Gabon, an argument breaks out on the convention floor, the three major syndicalist factions must come to a conclusion as to which one shall become the ruling party of Gabon! A great debate commences...
+The Radical Socialists reign!
+The Anarcho-Syndicalists have the majority!
+The Totalists shall have rule!
 Independence Push
 [ROOT.GetNameDefCap] has felt its first taste of freedom, and is not going to give up the opportunity to be independent so easily!
 Cooperation with Dahomey
@@ -131,6 +155,29 @@ Podolacy
 Stronnictwo Prawicy Narodowej - Podolacy (Party of the National Right - Podolachians)
 SND
 Stronnictwo Narodowo-Demokratyczne (National-Democratic Party)
+Galicia Seeks to Join Our Nation
+After centuries under Habsburg rule that began with the first partition of the Polish-Lithuanian Commonwealth in 1772, Galicia and Lodomeria sees herself independent. But being a weak state surrounded by impressive neighbours, the newly independent nation feels her very existence threatened. A diplomatic envoy arrived today to discuss an incorporation of Galicia into Polish and Romanian territory.
+Welcome home, brothers.
+The Ukrainian Galicians join Ukraine.
+Galicia Desires Union with Poland
+The former Austrian territory of Galicia-Lodomeria seems to have found itself in a state of limbo as of late. Acquired by the Habsburgs in 1772 during the partitions of Poland, the region is inhabited by a mix of Poles and Ukrainians who have not developed much of an attachment to a Galician identity - instead, they have preferred to identify more strongly with their respective countrymen elsewhere. As such, few have come to regard the satellite state that we have established in the region as anything more than a temporary measure that will be merged into another nation in time.\n\nNow that Poland is under the control of an allied government, the Poles of Galicia have decided that this time is now - we have received a request from [From.Capital.GetCapitalVictoryPointName] petitioning us to approve a union between Poland and Galicia-Lodomeria. While most among our government are sympathetic towards this request, there is a complication: this union would also bring a significant number of Ukrainians under the Polish flag, a prospect that not everyone is eager for. For their part, the government in Warsaw insists that the Ukrainians will be welcomed as fellow countrymen, but some diplomats believe that our needs are better met by keeping the states separate regardless. Should we allow the union to proceed?
+Of course.
+No, we prefer them kept separate.
+[FROM.GetNameDefCap] Approves Union with Poland
+Excellent news - our request to merge with our Polish countrymen has been approved! Preparations for the merger have already begun in earnest, as the border between us is set to become history.
+Send an envoy to Warsaw!
+[FROM.GetNameDefCap] Denies Union with Poland
+Tragically, [FROM.GetNameDef] denied our request for a union with Poland, citing strategic concerns. It seems that we are fated to remain apart for some time to come.
+Damn you!
+Galician Poles Join Us
+The Kingdom of Galicia and Lodomeria, established in 1772 as a crownland of the Habsburg Monarchy from the Partitions of Poland, has come to an end.\n\nWith its long history of ethnic and economic woes, the crownland was often neglected by Vienna, paving the way for significant autonomy and allowing the Polish and Ukrainian national movements to flourish- and compete. The Weltkrieg further led to the region becoming the 
+Welcome home, brothers.
+Karl Albrecht Elected as King of Poland
+The current Governor of Galicia and Lodomeria, Karl Albrecht von Habsburg, has just been elected as the new King of Poland after an intensely contested vote. Karl Albrecht is expected to leave the nation early tomorrow to take up his new position as leader of the Polish people, and has left Władysław Sikorski in charge of Galicia in his absence.
+Wish him luck.
+Galician Ukrainians Join Us
+The Kingdom of Galicia and Lodomeria, established in 1772 as a crownland of the Habsburg Monarchy from the Partitions of Poland, has come to an end.\n\nWith its long history of ethnic and economic woes, the crownland was often neglected by Vienna, paving the way for significant autonomy and allowing the Polish and Ukrainian national movements to flourish- and compete. The Weltkrieg further led to the region becoming the 
+Welcome home, brothers.
 Galicia
 Galician
 Galicia

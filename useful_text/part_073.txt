@@ -278,6 +278,151 @@ GFX_ETH_intro
 Ethiopia, an Empire at a Crossroads
 Abyssinia, also known as Ethiopia, is the only African state to have remained independent in the 19th century, having successfully repelled an Italian invasion in 1896. This victory was symbolic of the process of modernisation within the Abyssinian Empire, which sought to bring the country up to European standards in terms of its economy, military and administration.\n\nIn 1919, following the Italy's loss in the Weltkrieg, the former Italian colony of Eritrea was returned to our control. Control over the disputed area of Harar was however lost as the Somali forces who held much of the area could not and have not been dislodged to this day.\n\nWhen the old Empress Zewditu died without surviving children, her cousin, regent and often rival Ras Tafari Makonnen ascended to the throne as Emperor Haile Selassie. The new monarch announced his intention to introduce a new series of reforms in order to westernise Abyssinia, as the main leader of the reactionary faction, his predecessor, was now out of the picture. These initiatives, however, are fiercely opposed by the conservative nobility of the nation, lesser kings and dukes who saw in Zewditu someone much more amenable to their vision for the Empire.\n\nTies with Germany, the new owners of nearby Djibouti, were strengthened when a railway was built (largely with German capital) between this outpost, Addis Ababa, and Kenya. Relations have since been positive, despite reports of eccentric behaviour by the new Mittelafrikan governor. But relations with Somalia and its Ottoman backers remain strained at best, and confrontation seems inevitable. The Emperor knows that such a war would require a united Empire, under one banner and one cause, as the ambitious dukes might well side with an enemy if left unchecked and so matters at home must be dealt with first.
 §MMekawint's Constitution§! ($paternal_autocrat_coloured$)\n£white_dot In the event \
+The DKAEB Nears Bankruptcy
+The Deutsche Kaiserliche Abessinien Eisenbahn (DKAEB) railway was established in the early 20th century, linking Addis Ababa, in Ethiopia, to Djibouti. After a series of German-backed expansions, it is now used mainly to transport ore from the Congo Basin, in Mittelafrika, to Djibouti. The present economic downturn in the world has meant that ore is no longer being purchased at the rate it once was and so the future of the DKAEB railway is in question. This could be a great opportunity to rid ourselves of this economic domination.\n\nOf course, severing such economic ties with the Germans will also mean that they will be unlikely to invest in us in the future, and we will find ourselves diplomatically isolated from them. The correct course is uncertain, though the choice may be made for us should we not have our priorities clear.
+We must keep an eye out.
+It would be more trouble than it's worth.
+We would do well to take it off their hands.
+Mittelafrika Takes Control of the DKAEB
+With the looming bankruptcy of the DKAEB in mind, the Mittelafrikan administration in Dar-es-Salaam has bought the state-owned section of the railroad from the German government. If Mittelafrika is able to keep the conduit running throughout this Depression, we might emerge from this crisis with stronger ties to the German giant. If they fail, however, the consequences could be disastrous.
+Our relationship with Dar-es-Salaam grows stronger, for now.
+DKAEB Abandoned by the German Empire
+With the looming bankruptcy of the DKAEB in mind, the German government has offered to sell the state-owned section of the railroad to our government for a low price. If we do not accept, it is likely a European or North American consortium will take the railroad over, confirming foreign influence in our economy.
+We don't need to spend the money.
+We will buy the shares.
+The DKAEB Stays Afloat
+The choice of the Mittelafrikan colonial government to keep the railroad afloat has paid off, as Governor [MAF.GetLeader] has kept the DKAEB running throughout the crisis. Our relationship with the German Empire has grown stronger.
+Good news.
+The DKAEB Goes Bankrupt!
+The Deutsche Kaiserliche Abessinien Eisenbahn has gone bankrupt! This major transport link, running from the Congo to Djibouti through Ethiopia, has been forced to shut down. Large numbers of people now stand jobless, and our relationship with Mittelafrika has been damaged.
+We will take the railroad over.
+Find another foreign investor!
+Ethiopia's Place on the World Stage
+With the defeat of Somalia, Emperor Haile Selassie has declared it the right time to take stock of Ethiopia's diplomatic position. The Germans, our friends, are now fighting for the survival of monarchy - that is, just rule - against the ravages of anarchism from the decadent Western Europeans. Should we join the fight against these godless radicals, or remain neutral?
+With the defeat of Somalia, Emperor Haile Selassie has declared it the right time to take stock of Ethiopia's diplomatic position. The Germans, our friends, have defeated the godless anarchists of France and Britain. Perhaps it is best to join the Reichspakt, and ensure our security in a German world. Should we join our friends, or remain neutral?
+With the defeat of Somalia, Emperor Haile Selassie has declared it the right time to take stock of Ethiopia's diplomatic position. The Japanese, our friends, are now fighting for the survival of monarchy - that is, just rule - against the ravages of anarchism from the decadent western powers. Should we join the fight against these imperialists, or remain neutral?
+With the defeat of Somalia, Emperor Haile Selassie has declared it the right time to take stock of Ethiopia's diplomatic position. The Japanese, our friends, have defeated the imperialist Germans in Asia. Perhaps it is best to join the Co-Prosperity Sphere, and ensure our security in a free world. Should we join our friends, or remain neutral?
+We must contribute to the global fight against syndicalism!
+We must contribute to the global fight against western imperialism!
+We should join the Reichspakt!
+We should join the Co-Prosperity Sphere!
+We will ask for a German guarantee only.
+We will ask for a Japanese guarantee only.
+Drought!
+A great drought has swept through eastern Ethiopia. With the economy already weakened by the decline of the DKAEB, we are now at risk of facing mass starvation as crops continually fail.
+Damn!
+Use the newly nationalised railway to distribute food!
+Budget Readjustment
+Now that we have taxed our people and institutions enough to pay off our crippling debts, it is time we began the readjustment of our budget and ended this debt crisis once and for all. We can choose to refocus the aim of our budget on one of three things: military production, civilian production, or construction. Which one shall we choose?
+Military Production.
+Civilian Production.
+Construction.
+Reforms in Ethiopia
+Our emperor, Haile Selassie, is known to hold the ambition of modernising the country. This includes not only plans to build new factories, the reformation of our infrastructure, and the modernisation of our army, but also several legal and institutional reforms that will, hopefully, improve the Ethiopian quality of life. However, the broadening of these reforms will mean an end to the many privileges held by the nobility.
+Start the reforms.
+Question of Slavery
+The institution of slavery is still widespread in Ethiopia, with almost 2 million people currently living under its oppressive rule. This has brought much criticism from the west upon Ethiopia and it is quite obvious we must abolish this institution in order to truly westernise our nation. However, the nobility will be quite angry with this change and we may instead institute a new law, nicknamed the 'Freedom of Womb', to try and appease them and delay the death of slavery, yet slowly kill it off.
+Abolish Slavery!
+We must delay the abolition, Freedom of Womb.
+Land Reform
+Land ownership within Ethiopia still operates based on an archaic system, where the people who hold the land only do so because of their abundant power or wealth. Legal ownership of land is uncommon and this has been a problem for quite a long time. It is time we begin the reformation of land ownership and distribution and actively enforce those laws. There are a few ways we can go about doing so:
+Redistribute the land to the people.
+All land shall be owned in name by the Negus.
+Formalise the current ownership under the nobility.
+Tax Reform
+The Empire of Ethiopia has never, in its entire history, formalised an official tax code. In order to westernise we must begin the reformation and finalisation of our tax code. There are a few options: we can listen to the people and institute a land tax, which will fall primarily on the rich landowners, we can listen to our western advisors, who advise us to copy the progressive tax system of the European powers, or we can listen to the nobles and institute a low flat tax.
+Institute a land tax.
+Institute a progressive tax.
+Institute a flat tax.
+Governorship Reform
+It is time to decide who will govern the various provinces of the Ethiopian empire. There are a few options: we can either allow the people to elect their governors, we can allow the Negus to appoint them, or we can allow the nobles to govern their own land.
+Governors should be elected by the people.
+The Negus shall appoint his governors.
+Let the nobles govern their own land.
+Military Reform
+As it stands, our army is commanded by nobles and members of the Selassie family. Commoners are barred from most, if not all, of the high positions within the military — even if they possess a better understanding of military affairs or warfare than the nobles. Should we allow commoners to hold high ranking positions within the army?
+Military positions shall be meritocratic.
+Keep the army as it is.
+End of the Reforms
+Selassie's era of reforms is now over. For better, or for worse, the nation has changed radically and modernisation has been achieved. The Lion of Judah has been added to the empire's flag in order to symbolise the rebirth of the Ethiopian empire and it is now time to start looking towards the drafting and formalisation of a new constitution for the empire.
+God bless the Lion.
+Selassie's Constitution
+Selassie has managed to secure supreme power for himself, and this is reflected in the new constitution. It includes many articles which bestow powers upon the Negus, however it also contains reforms built towards modernising the legal framework of Ethiopia. Ethiopia is now very much the Emperor's nation.
+All hail the Lion of Judah.
+Mekawint's Constitution
+Through the blocking of many reforms and the institution of their own, the nobles have managed to secure power for themselves, and the new constitution reflects this. It contains articles that grant absolute power to the Upper House, which is dominated by nobles, and restricts democracy and the Emperor's power. The age-old traditions of Ethiopia have been protected and it will continue to remain a country of the nobles and for the nobles.
+The Negusa Nesat is weak.
+People's Constitution
+Haile Selassie has instituted reforms that have westernised and brought democracy to the country, and the new constitution reflects this. It contains articles that protect the freedoms of the people and empowers the Lower House, which is controlled by the people. The power of the nobles, and even Selassie himself, has been restricted and it is clear that Ethiopia is now a westernised, constitutional monarchy.
+The people are strong.
+The First Elections
+For the first time in Ethiopia's grand history, democratic, and fair, elections will take place. The main participants within the election are: the right-wing 'Democratic League', the centre-right 'United Ethiopian Democratic Forces', the centre-left 'Coalition for Unity and Democracy', and the left-wing 'Ethiopian People's Democratic Front'. The ballots have been counted, and the winners of the election are the:
+Democratic League.
+United Ethiopian Democratic Forces.
+Coalition for Unity and Democracy.
+Ethiopian People's Democratic Front.
+The Ethiopian Elections of [GetYear]
+As stipulated by our constitution, free and fair elections are to take place every five years. The main participants in the election are: the right-wing 'Democratic League', the centre-right 'United Ethiopian Democratic Forces', the centre-left 'Coalition for Unity and Democracy', and the left-wing 'Ethiopian People's Democratic Front'. The ballots have been counted, and the winners of the election are the:
+Democratic League.
+United Ethiopian Democratic Forces.
+Coalition for Unity and Democracy.
+Ethiopian People's Democratic Front.
+Power to the Council
+It is time for the council of nobles to seize full control of the government from Selassie's goons, as from now on, he will be ruling as a King among Kings, remaining a weak figurehead for the council to rally behind, if and when he is needed.
+Praise the council.
+Eritrean Revolt!
+The people of Eritrea have had enough of being taxed to oblivion, and with the tribal leaders and army officers remaining unintegrated, Eritrean nationalists have managed to organise a revolt against our rule during this desperate time of war. We must begin swift mobilisation in order to put them down and ensure stability!
+Damned backstabbers!
+The Empire of Ethiopia Requests a Military Mission
+The Empire of Ethiopia has been brought more closely into the German fold since Mittelafrika bought our shares in the DKAEB railroad in 1936, and they are now requesting a German military mission to modernise their army. If they are victorious in the upcoming war against their Somali foes, they may even join the Reichspakt.
+The Empire of Ethiopia has been brought more closely into the Japanese fold since we brought the DKAEB railroad under our management in 1936, and they are now requesting a Japanese military mission to modernise their army. If they are victorious in the upcoming war against their Somali foes, they may even join the Co-Prosperity Sphere.
+A small sacrifice for an ally!
+Do we really need Ethiopia?
+Germany Agrees to Send a Military Mission
+Japan Agrees to Send a Military Mission
+The Germans are agreeable to our motions of friendship and have dispatched a military mission to aid us in our struggle with our regional adversaries. Once again, our Christian brothers have given us the help we need.
+The Japanese are agreeable to our motions of friendship and have dispatched a military mission to aid us in our struggle with our regional adversaries. They have clearly seen the benefits of our mutual struggle against western imperialism.
+Even better than the Portuguese.
+Germany Refuses to Aid Us
+Japan Refuses to Aid Us
+The imperialist and Eurocentrist Germans have refused to help organise our army in any way. It seems our partnership with the German Empire has come to an abrupt end.
+The two-faced and arrogant Japanese have refused to help organise our army in any way. It seems our partnership with the Empire of Japan has come to an abrupt end.
+Alone, then!
+The Empire of Ethiopia Requests Alliance
+Our brother monarch in Addis Ababa has noticed our plight in Western Europe and has already declared war on the godless syndicalists. Should we agree to let Ethiopia into our alliance
+Our partner in Ethiopia has approached us, asking for an alliance between Ethiopia and Germany. With Sudan and Somalia no longer a threat to Ethiopia, we would be taking few risks in allying with them, but they could not offer us a lot, either.
+Our brother monarch in Addis Ababa has noticed our plight in Greater Asia and has already declared war on the German imperialists. Should we agree to let Ethiopia into our alliance?
+Our partner in Ethiopia has approached us, asking for an alliance between Ethiopia and Japan. With Sudan and Somalia no longer a threat to Ethiopia, we would be taking few risks in allying with them, but they could not offer us a lot, either.
+Accept their offer!
+Who needs Ethiopia?
+Germany Accepts!
+Japan Accepts!
+The Germans have agreed to let us join the Reichspakt! Our future in a German-dominated world is assured.
+The Japanese have agreed to let us join the Co-Prosperity Sphere! Our future in a world free of western imperialism is assured.
+Hurrah for diplomacy!
+Germany Refuses Alliance
+Japan Refuses Alliance
+The Germans have clearly indicated they feel they do not need our help or friendship. Although we will maintain a partnership, it seems the Germans will not be our allies.
+The Japanese have clearly indicated they feel they do not need our help or friendship. Although we will maintain a partnership, it seems the Japanese will not be our allies.
+Alone, then!
+Ethiopia Requests Guarantee
+Having vanquished Somalia, our partners in Ethiopia have decided not to involve themselves in more wars. They request a German guarantee of their territorial integrity, but offer little in return besides promises.
+Having vanquished Somalia, our partners in Ethiopia have decided not to involve themselves in more wars. They request a Japanese guarantee of their territorial integrity, but offer little in return besides promises.
+It's better than nothing.
+Germany Guarantees Us
+Japan Guarantees Us
+The Germans have guaranteed our independence - our position is secure, as long as the Germans triumph in Europe.
+The Japanese have guaranteed our independence - our position is secure, as long as the Japanese triumph in Asia.
+This was the best move we could have made.
+Black Monday!
+A massive breakdown occurred yesterday in Berlin's stock market. The German economy is in tatters, and with our largest trade partner in such straits, our economy is feeling the effects too. However, our lack of sophisticated financial infrastructure has shielded us rather well from the worst of the depression.
+Disastrous!
+The DKAEB and the Collapse of Mittelafrika
+With the collapse of Mittelafrika, our biggest trading partner is no more. The government of Ethiopia has now assumed control of the shares formerly owned by Mittelafrika, and a plan to industrialise our nation ourselves will soon be underway.
+We can rely on no one.
+Eritrea Revolts!
+The prized coastal possession of Eritrea, granted to Ethiopia by Treaty of Vicenza, is now in open revolt! Disgruntled by oppression, disrespect, over taxation, and now war, the oppressed Muslim and Christian forces of the nation have rallied under one flag, and wish to free their country. The Emperor of Abyssinia has already reacted with outrage, and the Eritrean War of Independence has begun!\n\nAs all the pieces are set in the table, the region watches closely; will this be the chance Somalia needs in this time of war to seize victory? Will Abyssinia manage to keep its only coastal port, or will the bravery of the outrageous rebels prevail?
+Time will tell.
 Ethiopia
 Ethiopian
 Ethiopia

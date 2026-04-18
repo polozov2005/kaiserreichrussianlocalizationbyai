@@ -77,6 +77,57 @@ GFX_BRM_intro
 Burma: A War-torn Nation
 In 1921, when the Indian Revolution went into full swing, Burma was quick to follow. By 1925, independence had been de facto won, with the Indian Civil War coming to a stalemate. Independence had been won - but peace was far-off, with the country in a quasi-civil war between the various minorities and the central government in Rangoon.\n\nIn 1928, after a skirmish on the southeast border, the Kingdom of Siam invaded and a year-long bloody war followed. The Treaty of Moulmein, negotiated by Germany and Japan, brought an end to the conflict but ceded Lower Shan to Siam and left the occupation of Moulmein and lower Burma undecided.\n\nHumiliated, Chit Hlaing's GCBA government collapsed in the 1930 elections and U Ba Pe's Nationalist Party won in a tight victory. In 1935, U Ba Pe and his reformed People's Party won another victory against the backdrop of allegations of corruption and fraud.\n\nSince then, U Ba Pe has struggled to cement his rule against an increasingly radical and politically demanding populace. All the while, India waits for an opportunity to spread the revolution east. When the day comes, will Burma be ready?
 §MPeople's Party§! ($authoritarian_democrat_coloured$) / §MNationalist Party§! ($paternal_autocrat_coloured$)\n£white_dot Once the Yenangyaung strikes begin, choose to crush them.\n£white_dot Then, choose to deploy the army against the 1300 revolution and crush them with the help of paramilitary forces.\n£white_dot Or, once the Yenangyaung strikes begin, attempt to placate them.\n£white_dot Maintain the coalition when 1300 Revolution is crushed to remain under the §aPeople's Party§! or have the coalition partners arrested to have U Ba Pe consolidate his power under the §PNationalist Party§!.\n\n§MElections§! ($social_conservative_coloured$ / $social_liberal_coloured$ / $social_democrat_coloured$)\n£white_dot Once the Yenangyaung strikes begin, choose to crush them.\n£white_dot When the 1300 Revolution Breaks Out, have the president assassinated and wait for new elections to be called.\n£white_dot In the elections, you can choose between the §cPeople's Party§!, the §lUnited GCBA§! or the §SPoor Man's Party§!.\n\n§MMonarchy§! ($social_conservative_coloured$)\n£white_dot Follow as the path above and choose the §cPeople's Party§! in the election.\n£white_dot A royal referendum will appear and choose the royalist to win out under prince Taw Phaya Gyi with princess Myat Phaya Lat as regent.\n\n§MSocialist Republic§! ($radical_socialist_coloured$)\n£white_dot Once the Yenangyaung strikes begin, choose to crush them.\n£white_dot Then, choose to deploy the army against the 1300 revolution, but have the army join the revolution.\n£white_dot Once the §RPeople's Revolution Party§! is in power, an event will appear to create a faction with the Bharatiya People's Republic, join the Third Internationale or remain neutral.
+Riots and Protests at Rangoon University
+Dissatisfaction with corruption in the government, the immense patronage systems permeating civic life and U Ba Pe's unscrupulous rule has sparked some of the greatest demonstrations seen in our country since independence was achieved in 1925. Stemming from the great and prestigious Rangoon University, radicalised leftist students have occupied several administrative buildings and held rallies denouncing the president and his wealthy backers as being corrupt and detrimental to the welfare of the nation. Still, the demonstrators haven't managed to garner the support of the industrial workers and rural farmers, restricting the budding movement to the intelligentsia.
+Send in the batons and sabres!
+Riots and Protests at Rangoon University
+In neighbouring Burma, riots are spreading among a political impotent youth, protesting against the rampant corruption at Rangoon University, at the lack of reform and at the illegitimate rule of president U Ba Pe. For now the demonstrations have been restricted to Rangoon, but the inactivity of the current regime might spell another outburst in the months to come, especially with workers at the oil fields in Yenangyaung, Chauk, and Minbu rumbling about lousy pay and poor living conditions. Should the two fractions unite, we might find ourselves with a friendly government on the other side of the Bay of Bengal.
+Let us keep a firm eye upon the Burmese!
+Strikes at Yenangyaung Oil Fields
+Workers at the oil fields around Yenangyaung, Chauk, and Minbu have commenced a crippling strike in protest against rampant corruption and deplorable living conditions. Police units and paramilitary forces have so far been completely unsuccessful in containing the protestors, who have occupied the oil fields, waving red flags and chanting socialist songs. Something must be done to placate their demands, lest national support for their cause explode.
+Upstarts! The labour movement must be crushed!
+Attempt to placate them...
+The Year 1300 Revolution Breaks Out!
+Catastrophe! Just like in 1936, students from Rangoon University have risen up against the presidency in critical demonstrations and protests. However, this year the radicalised student leaders have joined cause with the equally disgruntled oil workers, giving the movement a truly national scope. As the insurgents march on Rangoon, only a firm military reaction will solve this hopeless situation!
+This is outrageous; deploy the army against these youths!
+The president is assassinated and a provisional government forms!
+The Army is Ordered to Fire Upon Protestors
+After what seemed like an eternity, it has finally come down to a confrontation between the students protesting at Rangoon University and the Burmese Army. News has reached the local commanding officer that a march of striking oil workers is making its way towards the capital, gathering support from the rural villages along the way. On top of it all, orders are ticking in from the general staff for the army to disperse the protestors. As the day winds down, it seems that Burma's destiny is at hand.
+The army mutinies and joins the revolutionaries!
+Pro-government paramilitaries and the army crush the protests!
+The Proclamation of the Burmese Socialist Republic
+U Ba Pe's illegitimate republic has been driven out by a union of students, workers and the military, ushering in a provisional government under the leadership of the People's Revolutionary Party and comrade Aung San. As the revolution is complete at home, there is the question to be asked: should it be taken abroad? Practically everyone in the government wishes for Burma to align with either India or the Internationale - though we could instead opt to go it alone.
+Rekindle the Anti-Colonial Pact with India!
+Burma shall become a revolutionary outpost of the Internationale!
+Our comrades in China are the way to go!
+We must focus on the revolution at home!
+Burma Wishes to Join the Internationale
+In Burma, the corrupt U Ba Pe presidency has been toppled by a coalition of protesting workers, students and an army refusing to carry out the order to massacre the latter's peaceful demonstrations. Power now resides with a provisional Burmese government, still infant in its position and beleaguered to the East by a hostile Siam. Be it that they wish to help advance the international revolution or simply seek protection from stronger powers, they have petitioned us for entrance into the Internationale. How shall we respond?
+Let us go forward together then, united in our struggle!
+We want nothing to do with their conflicts.
+U Maung Gyee Calls for New Elections.
+With the death of the much-loathed president U Ba Pe, his more liberal Prime Minister U Maung Gyee has called for new and democratic elections to take place in one month's time. This appears to have placated the protestors and will hopefully save Burma from more corruption and tyranny.
+Burma is saved!
+The Emergency Elections
+Elections have finally arrived in Burma and for once they are totally free and fair! In the running are Kodaw Hmaing's reformed Peoples' Party which wishes to hold a referendum on the monarchy, Chit Hlaing's United GCBA now promising to atone for its previous failures and Dr. Ba Maw's Poor Man's Party. Who shall win the elections?
+The Reformed Peoples' Party!
+The United GCBA!
+The Poor Man's Party!
+The Royalist Referendum
+A royalist himself, Kodaw Hmaing had campaigned on a platform to restore the Burmese monarchy with Princess Myat Phaya Lat as regent until Prince Taw Phaya Gyi is of age to take the throne himself. With the referendum results coming in, what shall Burma be?
+The Royalists win out!
+Burma wishes to remain a republic!
+The 1300 Revolution Crushed
+Catastrophe! Just like in 1936, students from Rangoon University have risen up against the presidency in critical demonstrations and protests. However, this year the radicalised student leaders were crushed due to lacking support of the previously striking workers. As loyalist paramilitaries put down the student uprisings, there have been talks within the government about committing a self-coup and empowering U Ba Pe much as he has desired for years... Of course, we could instead maintain the veneer of democracy and the Five Flowers Coalition.
+Maintain the Coalition for internal stability!
+Arrest our coalition partners and reestablish the Nationalist Party!
+Revolution in Burma!
+Disastrous news! The Burmese republican government has been driven out by a union of students, workers and the military! Worse yet, they seek to align with their so-called comrades to the west and we have been given an ultimatum to either end our invasion or face the wraith of their alliance. How should we respond?
+We cannot stand against them. Sign the peace.
+Never! We fight on!
+Socialism Spreads to Burma
+Following a string of poor decisions by the Burmese government, culminating in an order to the Tatmadaw to open fire on protesting students and workers, the entire country turned against U Ba Pe's republic.\n\nThe newly founded National Council is now forming a new Syndicalist government and is reportedly already considering looking outwards for strong, like-minded allies.
+Country after country, the\nrevolution progresses.
 Aung San
 §YBorn:§! §LFebruary 13th, 1915, in Magwe, Magwe Division, Province of Burma, British India§!
 Than Thun

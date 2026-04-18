@@ -264,6 +264,201 @@ The range of our fighters and bombers are limited by the airfields to which they
 Rule the Skies
 We have triumphed over our foes, and now rule the skies of the central Pacific. Aim high, fly, fight, and win!
 §MRestore the kingdom§! ($social_conservative_coloured$ / $market_liberal_coloured$ / $social_liberal_coloured$ / $social_democrat_coloured$)\n£white_dot Choose to send the national guard or listen to the strikers to deal with the general strike.\n£white_dot Choose to declare the kingdom at the emergency meeting.\n£white_dot In 1940 and all following elections, you will be able to elect the §SProgressive Party§!, the §lNational Liberal Party§!, the §mRepublican Party§! and §cHui Aloha Aina§!.\n\n§MProclaim a Republic§! ($social_conservative_coloured$ / $market_liberal_coloured$ / $social_liberal_coloured$)\n£white_dot Choose to send the national guard or listen to the strikers to deal with the general strike.\n£white_dot Choose to declare the republic at the emergency meeting.\n£white_dot In 1940 and all following elections, you will be able to elect the §lNational Liberal Party§!, the §mRepublican Party§! and §cHui Aloha Aina§!.\n\n§MSuccessful Revolution§! ($radical_socialist_coloured$ / $syndicalist_coloured$ / $totalist_coloured$)\n£white_dot Choose to ignore the general strike, send the police to the march on Honolulu, and have the strikers win the battle of Honolulu.\n£white_dot In 1940 and all following elections, you will be able to elect the §oRevolutionary Party of Hawaii§!, the §rHawaiian Federation of Labor§! and the §RSocialist Party of Hawaii§!.\n\n§MForeign Policy§!\n§MCo-Prosperity Sphere§! / §MReichspakt§! / §MEntente§!\n£white_dot Restore the kingdom or proclaim a republic, and the decisions to join the mentioned factions will appear.\n\n§MThird Internationale§!\n£white_dot Have the revolution be successful, and a decision to join the Third Internationale will appear.
+The Territory of Hawaii Revolts
+With the civil war going on in the mainland, the island of Hawaii has fallen into chaos. They have decided to separate from the country and have declared a state of emergency upon the island. With the civil war raging all around us, we will have to deal with them at a later date.
+We should have expected this...
+We should have expected this... (Play Hawaii)
+The Emergency Directorate
+With all the chaos going on in the Mainland, James Dole has declared an Emergency Directorate. However, the country is now at a standstill and chaos is increasing day by day. Meanwhile, a massive strike uniting workers throughout Hawaii is undergoing that is threatening to spiral out of control and destroy Hawaii. Order must be restored.
+We shall weather this storm.
+Dealing with the General Strike
+Before the Emergency Meeting can be called to decide the fate of Hawaii, the strike must be dealt with. James Dole has three possibilities before him. He can send in the National Guard, he could ignore it, or he could just pay them off and fulfil some of their demands. What shall be done?
+Send in the National Guard.
+Ignore it.
+Listen to the Strikers.
+The Strike is Crushed
+The National Guard were assembled throughout Hawaii, and in doing so they had to deal with a number of more aggressive strikers. There was a number of causalities in this suppression throughout the country, but it looks like Order has been restored.
+Let's hope this was necessary.
+The March onto Honolulu
+The strikers have marched onto Honolulu and have presented their demands. This can be put off no longer, we can either agree to some of their demands or send in the police and national guard to end it once and for all.
+Agree to their demands.
+Send in the police.
+The Hilo Massacre
+As we sent out the National Guard and Police to deal with the strikers, in the town of Hilo on the island of Hawaii there was a massacre of the strikers. Around two hundred to three hundred people were killed and scores more were injured. When the news of this massacre reached Honolulu, the strikers became enraged they started to occupy government buildings and demand that the Emergency Directorate be overthrown and that a new government is in charge where the people rule Hawaii.
+This does not seem good.
+The Strike is defeated
+At long last the Great Hawaiian strike is over. We can now rest easy and focus on the Emergency Committee meeting that we have delayed at holding to deal with this crisis.
+This is finally over.
+The Battle of Honolulu
+The city of Honolulu has been turned into a battlefield as the strikers and the police clash. It has quickly turned into a bloodbath. Shops, churches governmental buildings, and homes have been wracked by riots and violence. By the end of the day victory belonged to...
+The National Guard.
+The Strikers.
+The Hawaiian Revolution
+It soon became apparent that the strikers had won in Honolulu and that they had control of the city. It did not take long for the revolution to establish control over the rest of the islands. With this act, the Commune of Hawaii was proclaimed.
+Victory for the People.
+The Emergency Meeting
+The national Emergency Committee has finally been gathered in Honolulu. The matter at hand is the fate and future of Hawaii. Should Hawaii become a kingdom, a republic? Should we rejoin America and if so which America is the legitimate America. What shall be decided?
+Declare the Republic.
+Declare the Kingdom.
+The Declaration of a Republic
+The emergency meeting has decided to create a republic. [Root.GetLeader] has been given the role as interim president while the elections can be arranged. Today throughout Hawaii the people are happy and celebrating a new page in their country's history.
+Long live the Republic.
+The Declaration of a Kingdom
+The Emergency Committee has declared that the constitutional monarchy - overthrown by a coalition of American and European businessmen in an 1893 coup - would be restored. Jonah Kuhio Kalaniana'ole, the last Hawaiian prince and heir to the throne, died in 1922 without issue. The House of Nobles thus chose Lydia Lili'uokalani, of the House of Kawananakoa, to become the new Queen of Hawaii. Born in 1905 and named after Queen Lili'uokalani, the last queen of Hawaii, Lydia proudly reclaims her house's right to rule and promises to establish a prosperous new Kingdom of Hawaii.
+Long live Queen Lili'uokalani II!
+The Royal Hawaiian Tour
+The Royal Family of Hawaii, despite being present and politically active for centuries, have yet to attract the respect of other monarchies around the world. This oversight obviously being due to the imperial yoke of America, only now corrected. The House of Kawānanakoa now prepares to reintroduce Hawaii to the world, in particular to the Yamoto and the Hohenzollerns. They may even pass by Brazil, as news of their royal family reviving brings us much comfort in our returned glory.
+Bon Voyage.
+Hawaiian Royalty visits Rio de Janeiro
+The Hawaiian royal family has come to Rio de Janeiro in order to meet with the Brazilian royal family. They spent their day touring the sites of Rio de Janeiro and as well as private meetings with the political leaders of the country. The relations between the Empire of Brazil and the Kingdom of Hawaii have improved because of this visit.
+Aloha from Brazil.
+Hawaiian Royalty visits Tokyo
+The Hawaiian royal family has come to Tokyo in order to meet with the Japanese royal family and other notable dignitaries. They spent their day touring the sites of Tokyo and as well as private meetings with the political leaders of the country. The relations between the Empire of Japan and the Kingdom of Hawaii have improved because of this visit.
+Aloha from Japan.
+Hawaiian Royalty visits Ottawa
+The Hawaiian royal family has come to Ottawa in order to meet with the British royal family and other notable dignitaries. They spent their day touring the sites of Ottawa and as well as private meetings with the political leaders of the country. The relations between the British Empire and the Kingdom of Hawaii have improved because of this visit.
+Aloha from Canada.
+Hawaiian Royalty visits Berlin
+The Hawaiian royal family has come to Berlin in order to meet with the German royal family and other notable dignitaries. They spent their day touring the sites of Berlin and as well as private meetings with the political leaders of the country. The relations between the German Empire and the Kingdom of Hawaii have improved because of this visit.
+Aloha from Germany.
+Hawaiian Renaissance
+The first Hawaiian renaissance occurred during the reign of Kamehameha V in the mid-1800s. It brought a revival of Hawaiian culture as well as spurring on construction projects including renovating Iolani Palace. However the Americans would come and overthrow the monarchy and much of the energy from this moment died then.\n\nHowever, now that the monarchy has been restored to the throne, [HAW.getleader] is pushing for a renewal of the same ideals that occurred during the first renaissance. For the first time in decades there is a revival and interest in all aspects of Hawaiian culture from the native language, traditional arts, hula, music and more. Similar to the first renaissance, the new renaissance has brought about energy into renovating buildings and improving the various buildings throughout the country.
+A new day for Hawaii.
+Hawaiian Orders
+In the past there were a number of orders that the Kingdom of Hawaii had established such as the Royal Order of Kamehameha, The Royal Order of Kalakaua, Royal Order of Kapi'olani Sash, The Royal Order of the Crown of Hawaii, and the Royal Order of the Star of Oceania. Now that the Monarchy has been restored again, these orders and the other medals the Kingdom gives out can resume having the proper prestige that they deserve.
+Shiny.
+Samoa and other Polynesian monarchies
+While the Monarchy of Hawaii is the largest of the islands, there are others in the pacific with their own monarchies, notably Samoa. To that end [HAW.getleader] has been presented with a proposal to revive the ideas of the Kalākaua who wished to create a Polynesian Confederation. This would support the rights of the various islands outside of the Hawaiian chain and their monarchies and work to form bonds of friendship between the various kings and queens.
+Give support to the Monarchies.
+Church of Hawaii
+In the old kingdom of Hawaii, the monarchy converted to the Anglican church and established the church of Hawaii, part of the Anglican communion, as the state religion of the Kingdom. When the monarchy was overthrown, the church of Hawaii was disestablished and made part of the American Episcopalian church and it lost its bishopric. Now that Hawaii is independent, the Church of Hawaii is gaining influence again and even had its stolen bishopric returned to it. The question though is should the Church be given state support again or should that be a personal matter for the royal family?
+It shall be given state support.
+The monarchy shall not pick sides in matters of faith.
+Aloha Festivals
+[HAW.GetLeader] has created a new festival called the Aloha Festival in order to promote Hawaiian culture, heritage and tourism. Part of the festival includes a parade with the Royal Family, Hula dances, and more displays of Hawaiian culture. It is already proving to be popular with locals and visitors.
+Aloha Hawaii.
+General Elections of [GetYear]
+It is time for another general election. The winner of the election will determine which party's leader shall be elected Kuhina Nui (Prime Minister). Who shall the people of the Kingdom of Hawaii vote for?
+Progressive Party.
+National Liberal Party.
+Republican Party.
+Hui Aloha Aina.
+Introducing Miss Dolcinea
+The competition with the United Fruit Company has entered into the mass media era with UFC's introduction of Miss Chiquita, a new mascots designed by Dik Browne. In response to this and in order to reach the young customers that UFC is targeting, James Dole has created a Mascot for Dole Fruit. Dolecinea, a Spanish woman who serves as a vehicle for Dole to criticise UFC's treatment of Latin Americans, as well as distract from their own hold in Hawaii. Ads are beginning to show up in children's' media of Dolecinea's adventures, enticing customers to buy 
+This'll help with sales.
+Status of Japanese Hawaiians
+There are approximately 150 thousand Japanese immigrants living in Hawaii today, a third of the total population, most of whom are first or second generation American citizens. The collapse of Federal authority on the islands has precipitated a new eminent influence from the Japanese Empire, which complicates future classification of Japanese residents. More liberal elements of the Hawaiian Republic wish to officially enfranchise Japanese residents as full citizens. The military elements, still attached to their exclusively white origins, have stated their position against Japanese citizenship. Thirdly the Japanese Empire itself has surprised us by asserting in telegrams that Japanese residents are still legally Japanese citizens. How do we respond?
+The Japanese here are citizens.
+The Japanese here are merely resident aliens.
+Dealing with the Hawaiian Militias
+The militias that have kept Hawaii free from invaders are in need of fresh blood. They traditionally only recruit white Hawaiians and only have access to military surplus weapons. While the weapon situation is easy to remedy, the recruitment is still stifled. Governor Dole has come to the militias to propose that they face the political realities of the territory and drop their racial requirement. The militia leaders continue to refuse the advice, and the Governor has come to consider an alternative solution. Fire the leaders of the militias and appoint yes-men. This would reflect negatively on the status of white Hawaiians in general however.
+Give up on reforms.
+Replace the militia leaders.
+Presidential Elections of [GetYear]
+It is time for another general election. The winner of the election will determine which party's leader shall be elected President. Who shall the people of the Republic of Hawaii vote for?
+National Liberal Party.
+Republican Party.
+Hui Aloha Aina.
+Radical art in Honolulu
+The Honolulu Museum of Art is a testament to the growing wealth and prestige of the Island under American rule. However, its use as a centre for art creation and promotion has been stifled by its overreliance on formalistic mainlander art. There exists no promotion of native art, nor any of the revolutionary art that other Communards across the world have created. We must rectify this with what little funds are available. We have cleared space for a new wing of the Honolulu Art Museum dedicated to...
+Modern Art.
+Native Hawaiian Art.
+Integrating American Communards
+The Commune of Hawaii itself has origins in the planning halls of California between Longshoremen and Unionists for Dole Fruit. This important tie to mainland United States has allowed for us to import bureaucrats and labour organisers to Hawaii in order to better achieve socialism. However, these last few months have shown some disunity between the longtime resident organisers and the newer arrivals. The new ministers are less than knowledgeable about agriculture and shipbuilding, and use their wages to import increasingly expensive goods from the mainland. This issue would be ignorable, if not for a growing resentment in the more egalitarian society we all are building. Several men and women have anonymously met to ask for \
+No! You knew what you signed up for.
+Fine! Take a seat.
+General Election of [GetYear]
+It is time for another general election to decide the makeup of the People's council of Hawaii. The party or faction with the most seats shall have their leader be elected as General Secretary. Who shall the people vote for?
+Revolutionary Party of Hawaii.
+Hawaiian Federation of Labor.
+Socialist Party of Hawaii.
+[From.GetNameDefCap] wishes to join the [Root.GetFactionName]
+[From.GetNameDefCap], have sent an ambassador to meet with our government in order to bring [From.GetNameDefCap] into the [Root.GetFactionName]. Should we accept the Hawaiians' offer?
+Of course they may join!
+We do not need Hawaii.
+[From.GetNameDefCap] refuses
+The [From.GetAdjective] government has refused our request to join the [From.GetFactionName]. Perhaps we are not good enough for their measure, or unworthy as an ally. Either way, the answer was clearly no.
+Drat.
+Peace with [JAP.GetNameDef]?
+Hawaii has been lost to the Japanese war machine, and six months have passed without any inroads into recovering the islands. Perhaps it would be better to cut our losses and seek peace with [JAP.GetNameDef] - surely tiny Hawaii isn't worth the costs of this war?
+Yes, let us end this.
+We will not abandon our allies!
+Peace with [FROM.GetNameDef]?
+Even though Hawaii is now firmly under our control, their allies in the [FROM.GetFactionName] have yet to concede defeat... until now. We have received a missive from the [FROM.GetAdjective] ambassador, offering to end this war in exchange for recognising our control over Hawaii. With neither side able to effectively contest the other, this seems like an acceptable offer.
+We are victorious once again.
+There will be no peace with Western imperialists!
+[FROM.GetNameDefCap] Refuses Peace
+Despite our hopes that [FROM.GetNameDef] and the [FROM.GetFactionName] would see the futility of trying to protect Hawaii against our mighty navy, it seems that they are yet to realise this. Already the [FROM.GetAdjective] government has stated their resolve to see Hawaii protected against \
+Despite our generous offer, the [FROM.GetAdjective] government has categorically refused any notion of peace with our alliance, denigrating our offer as \
+The war continues...
+[FROM.GetNameDefCap] Demands Reunion
+As the smoke clouds and crackles of gunfire above continental American have died down, many Hawaiians have questioned whether it is time to see ourselves return. Today, [FROM.GetLeader], the leader of [FROM.GetNameDef], has made a radio broadcast across America addressing the outcome of the bloody civil war, along with requesting that Hawaii abandon her alliance with the [ROOT.GetFactionName] and rejoin the republic as a state, instead of a territory. At the same time, a small group of delegates have arrived in Honolulu to await a reply.
+As the smoke clouds and crackles of gunfire above continental America have died down, many Hawaiians have questioned whether it is time to see ourselves return. Today, [FROM.GetLeader], the leader of [FROM.GetNameDef], has made a radio broadcast across America addressing the outcome of the bloody civil war, along with requesting that Hawaii rejoin the republic as a state, instead of a territory. At the same time, a small group of delegates have arrived in Honolulu to await a reply.
+Tell [ROOT.FactionLeader.GetNameDef] that we wish to rejoin.
+Ask [ROOT.FactionLeader.GetNameDef] to intervene.
+We have no choice.
+Absolutely not!
+Hawaii wishes to Rejoin [america.GetNameDef]
+After the recent radio broadcast made by [america.GetLeader] demanding the reunion of [FROM.GetNameDef] with [america.GetNameDef], [FROM.GetLeader] has informed [ROOT.GetLeader] that Hawaii intends to return to the protection of the continental United States. However, [FROM.GetLeader] also wishes to seek approval from us before contacting the delegates that have just arrived in Honolulu.\n\nAllowing them to rejoin will put us on speaking, if not friendly terms with [america.GetNameDef], but we would also give up a crucial staging ground for countering American aggression in the Pacific.
+By all means.
+Absolutely not!
+[FROM.GetNameDefCap] Approves Reunion with America
+[FROM.GetNameDefCap] has listened to the arguments of our diplomat in [FROM.Capital.GetCapitalVictoryPointName] present our arguments for rejoining continental America. After excusing our diplomats for a short period, summoned them again, and to great surprise and relief, agreed to allow us to rejoin continental America. [FROM.GetNameDefCap] wishes the best for our country.
+Excellent!
+Hawaii Rejoins America
+Today, a small garrison of American troops has landed in Pearl Harbour, marching through Oahu into the city centre of Honolulu. At noon, the [HAW.GetAdjective] flag on top of the Iolani Palace was lowered, and [america.GetNameDef]'s flag was raised. [HAW.GetLeader] then gave a speech, asking Hawaiians to celebrate the reunion between Hawaii and continental America.
+Excellent!
+[FROM.GetNameDefCap] Declines Reunion with America
+After consulting his advisors, [FROM.GetLeader] has declined our request of reuniting with continental America, citing political instability as the prime reason. As one of the many American possessions whose control had been lost during the American Civil War, the reunion of Hawaii with America will undoubtedly bring much needed legitimacy to the owner of the White House, rendering Hawaii as only a political tool and not seen with true equality within the legislature or the administration.\n\nWhile we may respect their decision and refuse a reunion, a notable portion of the Hawaiian population would undoubtedly prefer being under the same umbrella as the whole of America. We could secretly inform the delegates from America and organise a reunion all under [FROM.GetLeader]'s nose before they can react.
+Defy them!
+We must respect their decision.
+Hawaii Defies Us!
+Despite us presenting the possibility of Hawaii being used as a political tool for the victor of the American civil war, our informants have passed on reports that [HAW.GetLeader] has opted to organise their reunion in secret. The reports that have made their way back seem to be solid with little room for interpretation. We can either use all means possible to ensure they remain within our influence, including starting a war with their masters, or simply let the Pacific islands return to continental America.
+How dare they!
+Hawaii isn't worth a war.
+[FROM.FROM.GetNameDefCap] Threatens Us
+A furious telegraph has arrived in [ROOT.Capital.GetCapitalVictoryPointName] demanding that Hawaii's return to continental America be stopped, under threat of war with [FROM.FROM.GetNameDef]. Clearly, they underestimated the sentiment of the Hawaiians, yet wanted to retain whatever little influence they have upon the islands. We can hold our ground and refuse, potentially starting another brutal war after the recent conclusion of the American Civil War, or stand down and let them keep Hawaii.
+Then war it is.
+This isn't worth shedding blood over.
+Hawaii Requests Intervention
+An encrypted message has been sent by [HAW.GetLeader] to us, informing us of the [america.GetName]'s formal demands to see Hawaii returned and reintegrated. Implied in the demands are possibilities that military action will be taken to ensure their return. Thus, [HAW.GetLeader] has requested us to provide military support and back their desire for independence.
+We protect our allies!
+They are on their own.
+[FROM.GetNameDefCap] Intervenes
+Honolulu has given us a reply. They declined the reunion offer, but before our delegates could ask them to reconsider lest we use arms to ensure the reunion goes through. At this threat, [HAW.GetLeader] replies that the alliance Hawaii has joined, [HAW.GetFactionName] would support them were they attacked. The delegates were then quickly sent on a flight back to continental America. We are left with two options, going to war for Hawaii, or backing down.
+Then war it is.
+Hawaii isn't worth a war.
+[FROM.GetNameDefCap] Refuses to Intervene
+We have received a reply from [FROM.GetLeader], who has informed us that they will not back us in the case of an American invasion. We maintain a small military, definitely unable to stand up to the might of American industry. However, we still do have a fighting chance, and we could not surrender or go down without a fight. What shall our next step be?
+We have no choice now...
+We will not give up our independence!
+Hawaii Rejects Reunion
+Just now, our delegates in Honolulu have been told that Hawaii will not rejoin America. However, [FROM.GetLeader] has not elaborated on the reasons for declining the reunion and promptly sent our delegates away, showing little room for further negotiations. Needless to say, the only options we are left with are declaring a state of war with [FROM.GetNameDef] or backing down.
+War it is, then.
+Hawaii isn't worth a war.
+[FROM.GetNameDefCap] Demands the Return of Hawaii
+Hawaii has established an independent government during the American civil war and entered a defensive alliance to prevent the clouds of war from reaching the shores of the Pacific paradise. Earlier today, we received a message from [FROM.GetNameDef], informing us that they would like to see the peaceful return of Hawaii. Hawaii never belonged to us, and allowing them to return to the control of continental US would protect us from war between us and America, but at the same time, we should honour our alliance. What shall we do?
+Hawaii has established an independent government during the American civil war, protected by us, to prevent the clouds of war from reaching the shores of the Pacific paradise. Earlier today, we received a message from [FROM.GetNameDef], informing us that they would like to see the peaceful return of Hawaii. Hawaii never belonged to us, and allowing them to return to the control of continental US would protect us from war between us and America, but at the same time, we should defend our protectorate. What shall we do?
+We annexed Hawaii during the American civil war, and now America has come asking for their return, as the crown jewel of American possessions lost as they sorted their ideological differences out. The strategic importance of Hawaii in the Pacific, especially as a staging ground in the Pacific should we want to exert our influence, makes it a difficult decision, however, the potential of war between us and [america.GetNameDef] is not a small threat. What shall we do?
+We annexed Hawaii during the American civil war, and now America has come asking for their return, as the crown jewel of the American possessions lost as they sorted their ideological differences out. The strategic importance of Hawaii in the Pacific makes it a difficult decision, however, the potential of war between us and [america.GetNameDef] is not a small threat. What shall we do?
+Return the American lands.
+No, we shall keep it.
+Hawaii isn't worth fighting over.
+Hawaii belongs to us.
+[FROM.GetNameDefCap] Returns Hawaii
+We have received great news. [FROM.GetNameDefCap] has informed us that they would not want to jeopardise the precious peace we share currently, and has agreed to allow Hawaii to peacefully rejoin America.
+Excellent.
+[FROM.GetNameDefCap]'s Betrayal
+We have received news of an extraordinary betrayal! [FROM.GetNameDef] have refused to promise us of military intervention in case of an invasion. Without the backing of a military force, we are likely to be quickly overwhelmed by the American industry, however, we can also attempt to defend ourselves for as long as possible.
+This is an outrage!
+Hawaii isn't worth fighting over
+[FROM.GetNameDefCap] Leaves the [Root.GetFactionName]
+Honolulu, after receiving the news that we would not back them in case of an American invasion, has announced they will leave [Root.GetFactionName] and proudly stand alone against their invaders. This was followed by them denouncing us for cowardly self-preservation and having our diplomats dismissed rudely, despite best efforts to convince them to remain within the [Root.GetFactionName], however, their rage is understandable and we could only honour their decision.
+That could have gone better...
+[FROM.GetNameDefCap] Refuses To Return Hawaii
+As negotiations reached an impasse, our delegates messaged back to [FROM.Capital.GetCapitalVictoryPointName] with much disappointment and hesitation, that [FROM.GetNameDef] will not allow Hawaii to rejoin us. Our delegates wanted to convince them otherwise, however they have been dismissed and sent back to continental United States. As such, we have two options remaining, we can declare war to force the return of Hawaii, or we can back down and wait for another time.
+War it is, then.
+We cannot fight them.
 Hawaii
 Hawaiian
 Hawaii
@@ -407,6 +602,47 @@ Hejazi
 Hejaz
 Defence of Mecca
 Surrounded by enemies on all sides, it seems unlikely the Hejazi state can survive. If it were to prove its worth in battle, however, persuading Egypt to intervene on their behalf could be possible.
+The Second Hejazi Revolt
+Even though Ottoman control over the Hejaz was reestablished during the closing stages of the Weltkrieg, the prestige of the region and the martial deeds performed by its population during the 'Arab Revolt' have kept a certain romanticised image of the event alive. With Ottoman troops stuck fighting in Kurdistan and Anatolia itself against a rising tide of conservative opposition, many in Jeddah and Mecca see in this an opportunity to rekindle the old conflict and to dust off the Hashemite banner.\n\nThe presence of Ottoman garrisons in the region and the adjacency of the Hejaz railway however greatly complicate this new attempt at independence as a limited supply of both arms and manpower can only temporarily keep Ottoman reinforcements at bay.
+We've beaten them once before, we can do so again
+Medina Joins the Hejazi Revolt!
+Unrest has reached a breaking point in Medina as well today after a group of Arabs hoisted the Black, White, Red and Green flag above the office of the Ottoman governor. Shops owned by Turks and Jews have been destroyed in a burst of outrage against the Ottoman government as more and more Arabs see their future linked to the new Arab nationalist movement instead of the ancient Turkish relic.
+Damn!
+The Hashemite Revolt
+Although soundly defeated during the Weltkrieg, our former rivals in the Hejaz have seen a return to power. Rallying behind [HEJ.GetLeader], the new Hejazi state has joined forces with Cairo and has sworn to assist in bringing down the Turkish regime. This is an unfortunate event for us however as in exchange for our support in the Egyptian war effort, a tacit understanding was reached in relation to the Red Sea land.\n\nWith the Hashemites torpedoing these plans, a revision of our previous plans seems to be in order. Some are suggesting we pursue peace with the Ottoman regime and form a neutral bloc in the war. Others are less convinced and furthermore also don't believe that our nation will have any power without the much richer and important coastline. They suggest an immediate strike on the Holy Cities to shut down the Hashemites and lock the region down. Egypt will likely offer protest but if we do so before the Hashemite state can really organise itself, they will have no choice but to accept the situation.
+Send a delegation to the Sublime Porte
+Strike the Hashemites!
+A Peace Offer from the Peninsula
+It seems that unity in the Arab front has already suffered its first setback as the Arabs of the inner Peninsula refuse to fight together with the Hejazis. Therefore they propose a settlement in which they would withdraw their forces from all fronts in exchange for a recognition of their independence. Furthermore they also want confirmation from the Ottoman State that the Trucial States and the Al-Hasa coastal strip are forever Arab lands.
+Divide et Impera.
+There is no reason for peace!
+The Ottomans Refuse Our Offer
+Citing their clear military superiority and their plans to finally rid themselves of the Arab issue, the Ottoman government has rebuked our offers and announced it will not stop until Riyadh is forced to surrender and the red-white flag is hoisted above its ramparts.
+Most unfortunate.
+The Invasion of Hejaz
+Benefitting from our current weakness, the Arab of the inner peninsula have decided to strike Hejaz and take us out before we can reorganise ourselves. They hope that with a quick strike on Mecca and Jeddah, they can take control over the entire coastline and prevent Egyptian interference. With our forces stretched thin and most tribes still debating whether to even join the anti-Ottoman revolt, our odds are looking quite bad.
+Hopefully Egypt will intervene on our behalf
+The Invasion of Hejaz
+Benefitting from the Hashemite weakness, the Arab of the inner peninsula have decided to strike Hejaz and take us out before they can reorganise themselves. They hope that with a quick strike on Mecca and Jeddah, they can take control over the entire coastline and prevent an intervention by our army on behalf of the Hejazi state. As our troops are tied up fighting against the Turks further North and West, most in the Egyptian command believe that it would be best to stall for now and see whether the Arabs can make true on their threats. Should they not be able to, we shall take Hejaz under our wing, but if they are then it would be wisest not to break ties with our allies.
+Wait and see
+Intervene on behalf of the Hashemites!
+The Fall of Mecca
+With the fall of Mecca earlier today, it seems the Hejazi revolt was only short-lived. From Abu Dhabi to Medina, the Arab peninsula is now solidly under the control of the Arabs of the hinterland. As conflict continues to rage in other parts of the Ottoman territories, we have little choice but to recognise this victory and abandon all hope of a Hashemite peninsula.
+We recognise the victor.
+Egypt Recognises our Territory
+Despite holding out hope for a different turn of events, the Egyptian government has recognised our conquest of the Holy Cities and has extended us the offer to rejoin their military alliance. Whilst many of the Pan-Arabic voices in our court are happy to accept this, the less naive men recognise that further loss of life won't net us more influence in the new Middle East and that it may be wiser to shift our attention elsewhere.
+Accept their offer.
+We don't need allies!
+Arabia Abandons the Cause
+Seeing no further need for conflict now that their territorial claims have been fulfilled, the Arabs of the peninsula have refused to rejoin the Cairo Pact.
+Most unfortunate.
+Mecca Holds Strong
+Despite the odds, it seems that the Hashemite bastion has held on and can now be seen as the victor in the skirmish. With that, it is now almost entirely certain that the Hashemite forces won't budge, and the time has come to formally demand the inland Arab stand down.
+We don't need further distractions!
+Egypt Demands an End to Hostilities
+Our failed offensive in the Hejaz has now sparked the attention of the Egyptian government. Demanding that we immediately stand down and threatening with full military support for the Hashemites, it seems we have no choice but to comply.
+We fight till the end!
+We must fall back!
 Unruly Urban Nobility
 Contrary to the less developed interior, the great cities of Hejaz are home to a strong and well established urban elite who participate in the world economy. These individuals, often former members of the Ottoman bureaucracy, army and institutions, have opinions of their own and have grown accustomed to the ideas of democracy and republicanism which were widespread in the former Ottoman state.
 Guardians of the Hajj

@@ -566,6 +566,104 @@ GFX_BOL_intro
 Introduction to Bolivia
 Since her formation, Bolivia has not fared well in terms of her foreign policy, suffering many painful losses. A border conflict with Chile led to the 'Saltpetre War' (1879 - 1883), where Bolivia lost despite an alliance with Peru, and ended with the nation being forced to cede the coastal province of Antofagasta, losing its access to the sea. Later, In 1903, Brazil and Bolivia signed the Treaty of Petrópolis, ceding the important rubber producing province Acre to Brazil in a shameful agreement that still angers Bolivians to this day.\n\nWhile Bolivia's mining wealth increased over the years, so did the influence of mining companies in the government, and their capacity to influence policy. Then the Chaco War happened, where despite fleeting glory in a few victories that prolonged the war, Bolivia was defeated thoroughly, and Paraguay only sued for peace at Brazil's and Peru's request, both fearing a full collapse of the Bolivian state. The apocalyptic defeat at the hands of Paraguay was more than a crushing blow to Bolivian national pride, it was also a severe blow for Bolivian democracy and economy as most of the population now believes that the Chaco War was the doing of said mining corporations meddling in public affairs.\n\nConsidering Bolivia's status as instigator of the war in the disputed territory, the punishment was severe: the Chaco to the east of the Parapeti River, north of the Pilcomayo and east of the Andes was to be ceded to Paraguay in its entirety and in perpetuity; its oil wealth forever in foreign hands.\n\nThe corrupt civilian government was quickly blamed for the humiliation, as many generals and officers publicly decrying interference from the president Daniel Salamanca and his liberal allies. Germán Busch and David Toro, two decorated war heroes, couped the government in early 1934 and established a \
 §MJunta de Salvacion Nacional§! ($paternal_autocrat_coloured$)\n£white_dot In the event, \
+The [GetYear] Elections
+Bolivia has suffered greatly in the past few years but even though the Busch administration failed to achieve much, he was able to keep the nation together and has enabled us to go ahead with the [GetYear] elections. Tensions are high since the syndicalists have been allowed for the first time in our history to participate and are proving to be a worthy competitor.
+Tomás Manuel Elío.
+Demetrio Canelas Canelas.
+Enrique Baldivieso Aparicio.
+José Antonio Arze y Arze.
+The [GetYear] Elections
+Election day in Bolivia is once again upon us and it looks to be another close struggle between all major parties. Whilst the elections are less tumultuous than the previous election, votes in the outer provinces may yet sway the result in all directions.
+Alcides Arguedas.
+Enrique Hertzog.
+Carlos Montenegro Quiroga.
+José Antonio Arze y Arze.
+The [GetYear] Elections
+Election day is once again upon us and it looks to be another close struggle between all major parties for the highest office.
+Mamerto Urriolagoitia Harriague.
+Victor Paz Estenssoro.
+Carlos Salazar Mostajo.
+PSU Contests the Legitimacy of Elío!
+Elío has come out on top in this elections with the Partido Liberal's support. However, the Partido Socialista Unificado is contesting the election results! Stating that the elections results were influenced by the Tin King Patiño, one of our greatest supporters, who they accuse of having used his funds to buy votes and influence voting stations and have stated that the elections should be redone. Their opinion hardly matters as Arguedas now occupies the Palacio Quemado and they have merely become a minority in the National Congress.
+It was a fair vote.
+A Syndicalist Republic?
+Surprising much of the Bolivian establishment, the Syndicalists have not only achieved victory in the elections but have done so with a far greater margin than expected. As many of the leading industrialists and corrupt elite fear for their safety, the struggle is far from over as the revanchist RADEPA is contesting the results and has even taken up arms in a few of the outher regions.
+We restore Bolivia to its former glory!
+Democracy must be respected!
+Black Monday Hits the Nation
+The shockwaves of the global economic disaster have reached our markets with an immediate hit to the mining industry. Prices for the simplest of commodities are sharply rising and layoffs at the enterprises run by the mining oligarchs have already started.
+It never ends!
+Yearly War Reparations to Paraguay
+After our horrendous defeat at the hands of Paraguay in the Chaco war, we not only lost our dignity and petroleum-rich land but were also forced to pay the Paraguayans war reparations. These massive sums of money and goods have put a heavy strain on our economy and are making any recovery nigh impossible.
+We have no choice...
+Lake Titicaca Manoeuvres
+Created with a lavish opening ceremony, President [ROOT.GetLeader] has announced the creation of the Fuerza Naval Boliviana. Consisting of 4 patrol boats and over 1500 members of the Bolivian land forces, our fleet is the pride of the nation and a testament to our lost territories on the Pacific Coast.\n\nWhile some have raised concerns, asking whether this is really the best use of our taxes, the majority of our military sees this as a political statement desperately needed in these trying times to raise morale.
+We have a dream...!
+Tin Prices Collapse!
+As the Black Monday disaster takes the world in its grip, imports of Tin by the German sphere have fallen catastrophically bringing the price of the resource down with them. Being one of the key motors of our economy and already suffering from a recession in the last few years, the sector is torn into disarray with mining companies unsure how to proceed and mining jobs becoming less secure by the day.
+Oh no!
+Strike in the Tin Mines
+As tin profits remain in freefall and the nation descends into the greatest depression of its history, miners from the Siglo XX and Catavi mines in the Potosi province have approached their management demanding better conditions. Refusal by the Corporación Minera de Bolivia has prompted a strike by the miners who have laid down all work and are urging the other mines to stand with them against injustice.
+We must take decisive action!
+The miners are right! Down with the Barons!
+Massacre at Catavi
+In response to the strike at Catavi, Busch ordered the military to move in and solve the matter. 7000 miners who participated in the strike were marching towards the management offices when the army surrounded the group and ordered them to stand down and return to work.\n\nRefusal by the miners to do so resulted in the military opening fire on the crowds. For over 6 hours the army continued shooting at the mass, resulting in hundreds of wounded and according to state media 19 deaths. The organisers of the strike however claim that over 400 miners were killed in the incident and are outraged by the incident.
+A job well done.
+Find the ones responsible!
+Further Strikes at the Huanuni Mines
+Even though the break up of the Catavi strike caused hundreds of casualties, the miners of Huanuni have still dared to stand up to the army and are repeating the demands of their dead brethren. Likely inspired by the successes of the syndicalist movement in Patagonia and Chile, the miners don't seem afraid to defend their rights and are openly questioning the government and companies they work for.
+Break the strikes up with military force!
+PSU Endorses the Strike!
+Carefully observing the escalating situation at Catavi, the PSU has officially issued a statement today expressing their full support for the strikers and joining their call for better living conditions and higher pay.
+An escalating matter.
+PIR Endorses the Strike!
+A surprise to no one, the Syndicalist party has condemned the mining oligarchs and has called up all miners in the tin industry to strike as well. Hailing the success of the revolution in Chile, the party hopes that the Bolivian miners will also successfully throw off their yokes and receive better working and living conditions.
+An escalating matter.
+Huanuni Mine Joins the Strike
+As the strikes at Catavi keep escalating with no end in sight, the miners of the Huanuni mine have also laid down the work and have announced their support for their brethren at Catavi and Siglo XX. PSU and PIR politicians immediately replied by endorsing the action and encouraging the other tin mines to support the movement.
+We are losing control over the situation!
+Unrest in Oruro!
+With workers all across the sector laying down work, those of the La Salvadora tin mine have now also joined the movement. These miners, predominantly from the city of Oruro, have set up camp in front of the Tin Kings (Simón Iturri Patiño) company office echoing the demands for higher pay and safer working conditions.
+This has gone far enough! Send in the Army!
+We should seek assistance abroad!
+Recreate the Peru-Bolivian Confederation?
+The Confederation between our two nations was a short-lived state between 1836-1839 based on the idea that the two nations would be stronger together and prove a serious opponent to the other power blocs. Catastrophic defeat however at the hands of Chile and Argentina in the War of the Confederation broke the Union apart and recreated the two independent nations.\n\nNevertheless support for the Union in both nations remains at large to this day and has even gained popularity due to the failures of the Chaco war and the downspiralling economy. Incapacity by Busch to solve the strikers issue has reopened the case and serious proposals from various members of cabinet in favour of the Union are being presented.
+We can handle this on our own! Send in the Army!
+Propose the idea to Peru.
+Bolivia Offers to Recreate the Peru-Bolivian Confederation
+The Confederation between our two nations was a short-lived state between 1836-1839 based on the idea that the two nations would be stronger together and prove a serious opponent to the other power blocks. Catastrophic defeat however at the hands of Chile and Argentina in the War of the Confederation broke the Union apart and recreated the two independent nations.\n\nNevertheless support for the Union in both nations remains at large to this day and has even gained popularity in Bolivia due to the failures of the Chaco war and the downspiralling economy. Incapacity by Busch to solve the Labour issues troubling his nation and strong pushes from the other parties have forced him to propose a reinstatement of the Confederation to help prevent Bolivia from further tumbling into chaos.
+Ratify the Reunification!
+We don't want Bolivia dragging us down.
+Tin Strikes Defused
+As the streets run red with the blood of miners and the leadership behind the strikes is either dead or imprisoned, the strikes have lost their momentum and the workers have been forced to return to work. While the socialist parties have grown stronger in the wake of this crisis, it seems unlikely that they will break the might of the military any time soon.
+Stability... for now.
+The Future of Bolivia
+Germán Busch Becerra has ruled Bolivia for three years now, and his rule is illegitimate as best, as he had to coup Daniel Salamanca in 1934 in order to become president. However, many in the country still support Busch, and his reforms have done nothing but improve Bolivian livelihood and stability. While Busch Becerra respects the democratic process, he has shown willingness to stay in his role as president permanently. Should we call for elections? Or rewrite our constitution for him to become president for life?
+Long live El Presidente!
+The elections should be fair for all.
+Mounting Pressure for Elections!
+As the elections approach in Bolivia, some of our most trusted advisors have indicated that we may no longer have the majority and that the reign of Germán Busch may have reached its end. Luckily we have near total control over the elections and as such we have given the order to replace some of the boxes with our own.
+Nothing a little rigging can't fix.
+Mounting Pressure for Elections!
+As the elections approach in Bolivia, some of our most trusted advisors have indicated that we may no longer have the majority and that the reign of Germán Busch may have reached its end. Luckily we have near total control over the elections and as such we have given the order to replace some of the boxes with our own.
+Long Live El Presidente!
+Radical Coup Attempt!
+Inspired by the repeated failures by the Busch administration, several members of the military have launched a strike at La Paz to dethrone Busch and instate their own administration. Clamouring for the return of Bolivias rightful territories and the return of Bolivian greatness, the movement is quickly picking up steam especially amongst the lower classes and in the mines where workers discontent with the status quo are desperately looking for a way out.
+The coup succeeds!
+Busch reasserts control.
+Bolivia wants to join the Internationale
+The small South American nation has officially requested our permission to join the Internationale and aid our efforts in securing the liberation of the worker class everywhere in the world.
+Huzzah!
+Aren't those the guys that lost from Paraguay?
+The New South American Hegemon
+We have achieved what many thought to be impossible, a goal so ambitious that many world powers would never have believed could be done. Peru-Bolivia has restored itself to its former glory, reclaiming lost lands from its neighbours and cementing its place in the history books. While it may take decades for our recent conquests to accept our rule, our lifelong reign as the sole hegemon of South America is all but assured.\n\nThe world has now seen the might of Peru-Bolivia under its newfound Bolivian leadership, and our neighbours will do well to remember the cunning and sheer dominance of Bolivia.
+Perhaps we should restore the title of 'Supreme Protector' as well..?
+Nationalist Coup in Bolivia
+Angered by failings of the previous administration, a number of disgruntled nationalist Army officers have launched a coup in Bolivia today successfully deposing the La Paz government. In the wake of the takeover representatives of the Razón de Patria called for a return to national greatness, and it seems clear already that the new administration is keen to embark on a new revanchist foreign policy; one that is sure to set them on a collision course with Bolivia's neighbours.\n\nAlready there are whispers of figures within the RADEPA considering the outright dissolution of Parliament, and if these rumours are true it represents a decisive shift for the highland country's politics as well as the wider region.
+More proof that the world is polarising.
+Syndicalists Elected in Bolivia
+In an astonishing turn of events it appears that not only have the Partido Sindicalista de Bolivia achieved electoral victory in La Paz surprising the entire establishment, but the many reactionary threats against them such as the former national leader Busch as well as the nationalist PNB have seemingly accepted the outcome as fair and democratic. Though the risk of intervention was high, early efforts to contest the vote have already fizzled out and the legitimacy of the elections are now accepted by most Bolivian national leaders.\n\nThough many international figures, particularly in monarchy-led nations and military dictatorships, have warned that this test case proves the dangers of allowing Syndicalists near the ballot box, for now it seems that Bolivia is relatively stable.
+An intriguing outcome.
 Bosnia
 Bosnian
 Bosnia

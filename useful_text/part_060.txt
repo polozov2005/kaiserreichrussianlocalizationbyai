@@ -447,6 +447,401 @@ Costa Rica: A Central American Success Story
 Tucked away deep in the Central American jungles, our small but proud nation has flourished for many decades enjoying literacy rates higher than some European nations and a slow but steadily growing economy based on the banana and especially coffee trade.\n\nEnsured by a strict adherence of all parties to the constitution, there has been no military intervention or political coup in the nation since the failed dictatorship of Ticino in 1917 who was deposed mere months later under pressure from the people, refusing to endure a dictator in their republic. Ever since the nation has been controlled by a varied albeit egalitarian caste of politicians who have enjoyed the fruits of the growing German economy and the close ties between our two nations.\n\nUnder the wing of the PRN, president Ricardo Jiménez is able to look back on a successful term in which he dealt with both the economic depression caused by the American recession and the rising voices of socialist movements who enthused by the Atlantic Workers Congress have finally risen up from their slumber and demanded better representation. Although they somewhat succeeded in their aims and have forced the government to draft a labour accord, the law is far from passed yet and under the rising star of Manuel Mora Valverde trouble between companies and workers is far from over.\n\nNevertheless, the nation flourishes as the fruits of our relations with Mitteleuropa are flowing in in the form of cultural exchange programmes, scientific assistance and a strong bond between universities such as the KU Leuven in Flanders-Wallonia and the Costa Rican upper class.
 §MPRN (Conservadores)§! ($social_conservative_coloured$)\n£white_dot Nominate Cortés in the republican nomination.\n£white_dot Do not complete the focus §YAdapt the constitution§!.\n£white_dot After winning the 1940 elections, Calderón will take over and go down the §MPRN (Socialistas)§! path.\n£white_dot Accept the offer to restore stability and held emergency elections, that will be won by Ricardo Jiménez of the §cPRN§!.\n\n§MPRN (Socialistas)§! ($social_democrat_coloured$)\n£white_dot Nominating Calderón in the republican nomination or the §cPRN§! winning the 1940 elections, will see him announcing sweeping reforms and leading a socialist government.\n£white_dot After around 2 years, Calderón will demand emergency powers.\n£white_dot Around less than a year later, an offer to restore stability will appear, reject the offer to continue the socialist government.\n£white_dot In the next elections have Picado take control.\n\n§MPartido Liberación Nacional§! ($social_democrat_coloured$)\n£white_dot Nominate Cortés in the republican nomination.\n£white_dot Complete the focus §YAdapt the constitution§! and win the 1940 elections.\n£white_dot When Ferrer goes on the air, have him put on the first boat to Mexico, this will lead to him escaping and launching a coup.\n£white_dot Or, have Calderón announce his second term in the elections and Ferrer will go on the air and coup him regardless of your choices.\n£white_dot Or, follow the steps to make the army depose Mora, have the council retain control and Ferrer will go on the air and coup them regardless of your choices.\n\n§MPartido Vanguardia Popular§! ($syndicalist_coloured$) §CNote: If Central America or Nicaragua is syndicalist, they will annex Costa Rica. Otherwise, Costa Rica will return to a conservative regime.§!\n£white_dot Follow the same steps as the §MPRN (Socialistas)y§! path, but choose to accept the offer to restore stability and have Mora proclaim the Workers Republic.\n£white_dot If Central America or Nicaragua is syndicalist, they will offer to annex the country (making you switch to them), rejecting will make the army depose Mora shortly after.\n\n§MForeign Policy§!\n§MReichspakt§!\n£white_dot Ask for German protection after the Second American Civil War breaks out. Giving us a guarantee from them and a decision to join their faction once the Second Weltkrieg begins.\n£white_dot If Canada invades Panama, choose to remain neutral.\n§MEntente§!\n£white_dot Ask for Canadian protection after the Second American Civil War breaks out, set the game rule §YEntente§! in §YCosta Rican Foreign Policy§! to guarantee Canada accepts. This will give us a guarantee from them and a decision to join their faction once the Second Weltkrieg begins.\n£white_dot Or, if Canada invades Panama, send an offer to them, joining their war against Panama and their faction.\n§MDemocratic Alliance of the Caribbean§!\n£white_dot Follow the steps in the §MPartido Liberación Nacional§! path.\n£white_dot Complete the decision £decision_icon_small §YForm $faction_democratic_alliance_of_the_caribbean$§! to gain access to decision to invite all democratic Central American, Caribbean and northern South American nations into our faction.\n§CNote: Central America will also have the option to create this faction if they are democratic, but will wait until June of 1940 to do this if Costa Rica is player controlled.§!
 $CEN_pre_guide$
+Nomination of the Republican Candidate
+Whilst the supremacy of the PRN is unquestionable in the upcoming elections, the party is divided on who to push forward to serve as their Presidential candidate.\n\nLeón Cortés Castro has the support of the conservative coffee elite and has proven during the tenure of Jiménez to be a worthy successor to his legacy. Other members however have remarked that his aggressive anti-socialist stance and strict attitude could lead to further escalation amidst the socialist sphere and as such provide a feeding bottom for Valverdes syndicalist party.\n\nAs a compromise between the two extremes, the Church persuaded by the encyclical Rerum Novarum, has pushed forward Rafael Ángel Calderón Guardia. His political career is not very noteworthy and most people only know him as the 'Doctor' due to his medical profession. With both sides hoping to use him as a sock puppet whilst ruling in his stead, support for his candidacy is increasing by the day.
+Cortés will lead the nation.
+Let's give this 'Doctor' a chance.
+Manuel Mora Valverde requests approval for his candidacy
+As the leader of the Syndicalist Party, Manuel Mora Valverde is dead-set on representing his party in the upcoming elections. Due to a special clause in the Constitution however forbidding anyone to participate under the age of 30, his bid would automatically be canceled.\n\nHolding a fiery rhetoric in Congress in support of lowering the age requirement, the young but charismatic politician, has attempted to persuade the sitting government to reconsider this clause and to allow him and his party to run for office.
+The Constitution is sacred!
+It was a dumb rule anyway...
+1936 Elections
+Surprising no-one, the PRN has once again secured a dominant position in the elections and has delivered our next president. Whilst it seems that the worst is behind us, we should not automatically assume that our new president will have an easy time in office as the corporatist vultures and socialist agitators will make his term difficult enough as is.
+Viva Cortés!
+Viva Calderón!
+Disaster in the ZKG!
+In the aftermath of the American Depression, the largest coffee barons of our nation bound together and joined forces in the German headed ZKG or Zentralamerikanische Kaffee-Gesellschaft. Buying up the UFC and other American assets left and right, boosted by the economic golden age of Germany, the ZKG has come to control vast swathes of our land and economy, not only determining domestic policy but providing work to thousands of Costa Rican citizens.\n\nThe Black Monday Crash however has turned the tables on the ZKG and after stocks kept plummeting in Berlin, the company is being forced to file for bankruptcy dragging our national economy into the dirt. Careful spending by our former president has luckily allowed our government to build up a small reserve with which we will now attempt to stop the down-spiralling catastrophe that has hit the ZKG. This is however nothing but a temporary measure and foreign partners will be required if we wish to save the company from collapse.
+Oh, the humanity!
+Those Germans had it coming anyway.
+ZKG: Permanent Solution?
+Upon first review it seems that our initial measures have stopped the complete collapse of the ZKG but as our funds run dry at an alarming rate, we need to look to possible partners who can bail out the ZKG and save our economy from an even worse disaster. The Americans themselves have been suffering from a crisis with no end in sight whilst the Germans are watching with complete horror how the imperium they built up over the years slowly descends into chaos. Both however have powerful capitalists who have been following from the sidelines, hoping to cheaply buy the failing companies of the pre-Black Monday order.
+We shall ask the USA for assistance.
+We shall ask the Germans for assistance.
+[FROM.GetNameDefCap] Requests Our Assitance
+Disaster has struck the otherwise quiet little nation of [COS.GetName] when the ZKG (Zentralamerikanische Kaffee-Gesellschaft) crashed hard on the Berlin stock exchange just a few weeks earlier, dragging the nation into a hole out of which it will be unable to recover on its own. To save them from complete collapse, the small nation has requested us a loan to bail out the ZKG.
+Offer them assistance!
+We have more important matters to attend to.
+[FROM.GetAdjective] Support Arrives
+Tough negotiating with the [FROM.GetAdjective] delegation finally paid off when an accord was reached between [ROOT.GetLeader] and the [FROM.GetAdjective] government.
+$costa_rica_events.8.d_start$ Whilst we will be obligated to make further concessions to the American UFC, they have accepted to take part of the hit and have granted us a loan with which we can survive the crisis.
+God Bless the US of A.
+[FROM.GetNameDefCap] Refuses to Help
+Whilst not really surprising due to their domestic issues, the USA have refused our requests for a loan to bail out the ZKG and have left us stranded with no other alternative than the Germans.
+Get me the Germans on line 1!
+We are truly alone in the world.
+$costa_rica_events.8.d_start$ Whilst we will be obligated to make further concessions to the ZKG to pay off our debts, they have accepted to take part of the hit and have granted us a loan with which we can survive the crisis.
+Deutschland über alles!
+Whilst not really surprising due to their domestic issues, the German Empire has refused our requests for a loan to bail out the ZKG and have left us stranded with no other alternative than the Americans.
+Get me the Americans on line 1!
+Coffee Sector Recovers
+Five years have passed since the ZKG collapsed under pressure from failing stocks. Whilst the government was in no position to save them back then, leading to a period of poverty and 3 years ago even bordering on the edge of starvation, the coffee trade is finally recovering and under measures imposed by our President [COS.GetLeader] slowly but surely the economy is growing again.
+At last!
+Strikes on the Coffee Plantations
+Largely fuelled by the chaos in the ZKG and the massive lay-offs that followed Black Monday, the plantation workers nationwide have laid down the work and are protesting against the government. Claiming that [COS.GetLeader] is insufficiently assisting the people and is merely lining his pockets, their rhetoric has been taken over by Valverdes syndicalists whose movement grows by the day.
+Let's hope we don't get a repeat of the '34 Strike.
+Anti-Negro Protest in San José
+Ever since the UFC set foot in Costa Rica and started its banana imperium, black workers and their families moved into the nation to work on their plantations. Since the local Costa Ricans had little intention to join the UFC on their banana crusade and were perfectly content with the coffee trade, Keith was forced to import more and more Jamaicans to work his fields. Weary of outsiders in their land however, the Costa Ricans never fully embraced their new citizens and kept a distinct distance from them. Over the years this has led to friction between the two parties which only escaped escalation due to the geographical features keeping them apart.\n\nFaltering profits from the coffee trade however and a general consciousness amongst the negro population have let the two groups once more collide. Costa Ricans are protesting what they see as a threat to their culture, aliens escaping from their designated area in the Limón province whilst the Blacks urge that the government treats them as equal citizens of the republic.
+Loosen the restrictions.
+Force companies to hire native Costa Ricans.
+Enforce designated no-go zones.
+The German Cruiser \
+Officially running out of supplies whilst cruising the Caribbean but more likely curious as to whether the [COS.GetLeader] regime could prove to be a naval station in the West, the German Cruiser \
+Request a German Garrison.
+Request arms for our army.
+We will do just fine on our own.
+Costa Rica Requests a German Garrison
+Rising instability in the USA and the nearby regimes in Central America have forced the small nation to come to us for aid. Reminding us of the strong ties between our two nations and the significant German population living in their territory, they ask that we station a small regiment in San José to deter foreign threats.\n\nWhilst this has short term implications on our relations with the USA, we're sure that they will understand that we are acting for the greater good.
+Send the detachment.
+We seek no quarrel with the USA.
+German Garrison Arrives in Puerto Limón
+Travelling in an unmarked freighter carrying consumer goods for the Costa Rican people, a German garrison of just over a thousand men sat foot on the island under the cover of darkness and was directed by the commander of our army to their barracks. Gasping in awe at the superior equipment and discipline of these new soldiers, our troops are frightened that they would not be able to counter any rash actions by the German detachment.
+Willkommen meine Freunde!
+No Military Support From the Empire
+Calling our nation irrelevant to the global strategy of the Empire and a waste of resources, the German commission refused to concede any troops for our defence and have requested us not to bring up the matter again.
+We are sorry to hear this.
+Costa Rica Requests German Arms
+Rising instability in the USA and the nearby regimes in Central America have forced the small nation to come to us for aid. Reminding us of the strong ties between our two nations and the significant German population living in their territory, they ask that we send them a small cache of arms and other supplies to bolster their forces and deter foreign threats.\n\nWhilst this has short term implications on our relations with the USA, we're sure that they will understand that we are acting for the greater good.
+Send the guns.
+German Arms Arrive
+Transported amidst boxes of Swiss chocolate and Krupp machinery, dozens of boxes containing some of the latest Mausers fabricated at FN Herstal were brought into our nation on regular trade ships. Unaware of our deceit, our neighbours will be in for a rude awakening should they stumble upon our army!
+These are clearly \
+Calling our nation irrelevant to the global strategy of the Empire and a waste of resources, the German commission refused to concede any arms for our troops and have requested us not to bring up the matter again.
+Well screw you too!
+Civil War in the United States!
+The unthinkable has finally happened and once more the \
+Canada will surely save us!
+Germany will protect us!
+All this doomsday talk is bollocks. Costa Rica will do just fine alone.
+Costa Rica Requests Our Protection
+Horrified by the Civil War in the United States, the small nation looks in fear to its Eastern and Northern borders waiting for an attack now that its protector is at war and has requested we openly express our desire to keep Costa Rica a sovereign state.
+$costa_rica_events.24.d_start$ Whilst our interests in their neighbour Panama are far greater, we could potentially support their regime and establish another Entente foothold in the Caribbean.
+Offer them assistance.
+Panama is far more important to us.
+[FROM.GetNameDefCap] Grants Us Support
+Unwilling to see yet another nation in the region collapse into instability, the Canadian government has agreed to guarantee our independence so long as we stay friendly to the Entente cause.
+Huzzah!
+[FROM.GetNameDefCap] Denies Us Support
+Likely because of their interests in our immediate neighbour, Panama, the Entente has circumvented the question of our sovereignty and send our diplomats packing. Whether this is a sign of a combined Panama-Canadian invasion of Coto is not yet clear but it's most definitely a sign that stability in the region is rapidly declining.
+Maybe the Kaiser will come to our aid?
+Dig in lads!
+$costa_rica_events.24.d_start$ As Entente forces encroach on the Panama Canal determined to snatch it from a failing USA and socialist forces to the North look eagerly to the ill defended Costa Rican nation, it would be in our interests to establish a foothold on the American continent and keep a close eye on the region should the situation escalate even further.
+We are already overextended as is!
+Unwilling to see yet another nation in the region collapse into instability, the German government has agreed to guarantee our independence so long as we stay on friendly terms with their alliance and serve as a foothold for their ambitions in the region.
+Everything has a price...
+Citing their massive overextension and troubles in the colonies, the German Empire has sadly declined our request. Whilst they are saddened that they can't help any further, they hope we survive the coming tide and would be pleased if the trade connections between our two nations could continue per the usual.
+Maybe the Canadians will come to our aid?
+Business is more important than friends...
+Crisis over Coto!
+Ever since the independence of Panama from Colombia, they have laid claim over the Coto, a region in Panama's Chiriquí Province along the Panamanian-Costa Rican border. In 1911 the chief justice of the U.S. Supreme Court, Edward D. White, was asked to arbitrate. He rendered his decision in 1914, but Panama did not accept it, alleging that it favoured Costa Rica. Hostilities broke out in 1921, when Costa Rica invaded the area. Panama recaptured the area easily. The conflict spread, however, when Costa Rica moved into the province of Bocas del Toro. Fearing that its interests might be threatened, the United States forced Panama to accept the White decision.\n\n
+$costa_rica_events.30.d_start$As our American allies have now fallen into anarchy, the Panamanian government has reopened the dispute and is demanding that we hand over the territory or face their army on the battlefield. Whilst our troops have recently grown in size, we are still completely outmatched by our Panamanian neighbours and will need foreign assistance if we are to become victorious.\n\nOur allies however are less eager to fight yet another pointless war and would prefer a more diplomatic solution to the crisis by re-enforcing the Fallo White ruling and forcing Panama to back down once and for all.
+Request mediation from Canada.
+Request mediation from Germany.
+We will have to face them on our own!
+Costa Rica Stands Alone!
+Not only is their army pathetic and their people complacent, all former allies of Costa Rica have backed out thus giving us full authority to invade the nation and reclaim Coto!
+Tonight we dine in San José!
+$costa_rica_events.30.d_start$Well aware that the Americans are in no position to save Costa Rica once more, the Panama government has sent another ultimatum to San José demanding the extradition of the Coto region. Even though we have little reason to mingle in their small disputes, finding a peaceful resolution to the crisis will reaffirm our status as excellent negotiators and could force the Central American region back into submission.
+Offer to sit down with Panama.
+Issue a warning to Panama.
+[FROM.GetNameDefCap] Offers Mediation
+After being asked by Costa Rica to act as intermediary in the crisis, the [FROM.GetAdjective] government has scheduled a summit to discuss possible peaceful resolutions to the conflict and prevent war from breaking out. Negotiating on the part of Costa Rica, they are open to force them to pay us a compensation for the territory but they are determined to stick to the Fallo White ruling and keep Costa Rican territorial integrity intact.
+We shall accept the Fallo White Ruling.
+Demand monetary compensation for the territory.
+We won't negotiate, the time for war has come!
+Panama Accepts the Fallo White Ruling
+Unwilling to escalate the matter any further and afraid of our military might, the Panamanian government has agreed to end the dispute and adhere to the Fallo White ruling. $costa_rica_events.33.d_ending$
+Diplomats from both nations have gathered in David to finish the official documents and after the formalities are over, the situation will finally be resolved for good. Costa Rica will retain the Coto region and Panama will give up all claims on the territory.
+Another job well done.
+Unwilling to escalate the matter any further and afraid of the [FROM.GetAdjective] military might, the Panamanian government has agreed to end the dispute and adhere to the Fallo White ruling. $costa_rica_events.33.d_ending$
+Another success for diplomacy!
+Panama Demands Monetary Compensations
+Claiming that the loss in territory has come at a great cost to the Panamanian economy, the government in Panama City has demanded that Costa Rica compensates them for the hypothetical losses before any further discussion can continue.
+Propose the offer to Costa Rica.
+We don't negotiate with villains.
+Negotiating on our behalf, the [FROM.GetAdjective] delegation has received terms from the Panamanian government which state that Panama will give up its claims in the regions if they are compensated for the loss in profits. Whilst the legitimacy of this statement is shaky at best, it may be in our best interest to suck it up and thus prevent war from breaking out.
+Accept the deal.
+We don't negotiate with villains.
+Costa Rica Accepts the Solution
+Although the government is San José is unconvinced by the claims uttered by the Panamanian delegation, they have decided to accept the proposal to preserve peace in the region. During a period of 1 year, Costa Rica will pay 5% of its tax income to the Panamanians to compensate them for the loss and in return Panama will give up all its claims in the region for eternity.
+We truly make the best deals.
+Although the government is San José is unconvinced by the claims uttered by our delegation, they have decided to accept the proposal to preserve peace in the region. During a period of 1 year, Costa Rica will pay 5% of its tax income to the Panamanians to compensate them for the loss and in return we will give up all our claims in the region for eternity.
+[FROM.GetNameDefCap] Puts the Squeeze on Panama
+After a weak attempt from Panama to compromise, the Royal Navy has dispatched one of its cruisers to strong-arm Panama into giving up. Whilst it could lead to a quick end to the crisis, [FROM.GetNameDefCap] is playing with fire and further escalation by Panama could happen at any moment.
+They are playing with fire.
+[FROM.GetNameDefCap] Refuses to Cooperate Any Further
+Even though they claimed in the past that compensation for the Coto region could have been awarded, the [FROM.GetAdjective] delegation made a full turn today and denies that there was ever such an offer.
+$costa_rica_events.40.d_start$ Repeating that Panama will have to adhere to the Fallo White ruling, the cocky Brits believe that the crisis is all but over.
+$costa_rica_events.40.d_start$ Repeating that Panama will have to adhere to the Fallo White ruling, the cocky Krauts believe that the crisis is all but over.
+Then we shall take it by force!
+We have no choice but to comply.
+War Over Coto!
+Negotiations have broken down and Panama has officially declared war on Costa Rica. Since we sided on the Costa Rican side during the discussions, Panama has denounced us as well and dared us to prove our metal on the battlefield instead of in a damp office.
+Welp, that didn't go so well.
+As we already feared, the cocky behaviour of the Canadian delegation has pushed Panama too far and war has finally erupted. Whilst we have the support of our Entente allies, this all could have been prevented peacefully...
+As we already feared, the cocky behaviour of the German delegation has pushed Panama too far and war has finally erupted. Whilst we have the support of our German allies, this all could have been prevented peacefully...
+All men to battle stations!
+Costa Rica Refuses to Pay
+The deal we so diligently prepared for the Costa Ricans has been rejected by San José this morning, claiming that Panama has no valid base to demand anything from them and that they should be happy Costa Rica is even willing to negotiate. Whether these harsh words will escalate the situation is to be seen but a compromise is now fully off the table.
+Let's hope they don't anger Panama.
+[FROM.GetNameDefCap] Issues a Warning!
+At the request of their ally Costa Rica, the [FROM.GetAdjective] government has intervened in the crisis on their behalf. Demanding that we adhere to the Fallo White ruling, the Canadians have positioned one of their cruisers close to our shore to intimidate us into cooperating.
+Accept the Fallo White ruling.
+We aren't afraid of the [FROM.GetAdjective]s.
+National Strike
+Whilst [COS.GetLeader]'s austerity policy has started to improve economic disaster of last year and new trade agreements with foreign powers have brought in shipments of food for the malnourished population, the continued pressure from the cash crop companies to produce more and more has brought the Costa Rican people once more to the breaking point. Demanding new and better laws have ultimately culminated in the creation of the so-called Collective agreement between the workers and the companies responsible. No response has been granted yet by spokesmen of the companies but many fear that they will once again send in hit squads to pressure the workers into submission.
+Troubling news.
+Foundation of \
+Feeling under threat by what they call the \
+Officially slander the paper and demand they cease printing.
+Let the hypocrites enjoy their moment of fame!
+Signature of the Collective Agreement between Workers
+Years have passed since the Great Banana Strike of 1934 but the Costa Rican people have pushed on against the UFC. As the situation in the USA went from bad to catastrophe, the UFC saw that would they not cooperate with the local population their time in the nation may be coming to an end. Finally agreeing on many of the labour concerns pressed by the syndicalist Manuel Mora, the company was backed into a corner whilst the government refused to assist them in the matter.\n\nAchieving minimum wages that would not be given in company coupons, six hour shifts, recognition of injury law and many other concessions, this is a great success for the Costa Rican left and has also led to the creation of the first actual trade unions, expanding where the Atlantic Workers Congress had laid the foundations.\n\nSeeing the writing on the wall, the ZKG has also ratified the new Labour Accord and has expressed their full desire to work with the workers to create a better and safer work environment
+A success for all parties involved... except the stocks.
+Regulation of the Press
+Even though \
+Leave the Press alone.
+Strong-arm the papers into submission and arrest the troublemakers.
+Jewish Refugees Request Permission to Settle
+As antisemitism continues to rise in fallen America, and due to the increasing tension in the Middle East between the Ottoman Empire and the Egyptian nation, an American humanitarian organisation called Refugee Economic Management has asked our government to open ourselves up to 1500 Jewish families who have been driven from their homes. Guaranteeing [COS.GetLeader] that the resettlement procedure would not cost the state a penny, they are urging the government to set a side a small parcel of land for them build a Jewish community.
+Jews are propagators of socialism! Away with them!
+Offer the Tenorio farm as a possible colony.
+Second Wave of Refugees Arrive
+The war in the United States seems to have no end in sight and whilst many are dying on the front-lines of the various American battlegrounds, many more are attempting to escape the nation hoping for a safe place until the war has ended. Our renown reputation as one of the most democratic and accepting nations in the Caribbean region has made us an attractive destination and has prompted thousands to embark on cargo freighters towards our little state. Accepting these immigrants will lead to an increased amount of capital in the nation but tensions are already running high between the Native Costa Ricans and the black Jamaican population. Further immigration may lead to open conflict if we are not careful.
+Accept them with open arms.
+We are full, go try somewhere else!
+1938 Regional Elections
+Whilst some have appreciated the heavy handed interventionism by [COS.GetLeader], not everyone is equally content and with the Regional Elections approaching, the popularity of the PRN is tanking heavily in the polls. Especially the syndicalist PVP under Manuel Mora Valverde is making decent headway and seems set to deliver congressmen like Carlos Luis Sáenz this time around. In these trying times it's key that our resolve remains unshaken and therefore president [COS.GetLeader] is secretly planning to lift the syndicalists from office the moment they are elected and arrest them on charges of treason.
+The Elections should be fair and open to all.
+Dismiss Carlos Luis Sáenz from office!
+Teatro Nacional de Costa Rica receives Funding
+Constructed in the late 19th century, when San José's population was only around 19,000 people with the money earned during the coffee boom, the Teatro Nacional has long served as one of the prime institutes of high-quality musical and theatrical performances in Central America. Waning interest by the people however and a lack of homegrown plays suited for the prestige of the building however have left it in a somewhat neglected state.\n\nThat was until a company of Flemish-Walloon investors travelling through the nation during a trade mission sent out by Mitteleuropa came upon the site, instantly falling in love with the institution. Promising to send aid and performers from their homeland, the Teatro has received a sizeable grant to continue its operations with. When a recent reportage was subsequently featured in the Flemish-Walloon paper De Standaard, a public crowdfunding campaign to support the Teatro was started with great success across their nation.\n\nPresented today by the Ambassador from Mitteleuropa, a small ceremony was held in front of the building in which the grant was symbolically exchanged for a bag of Costa Rican coffee beans.
+Most generous of them.
+Jiménez Announces His Candidacy for the Presidency
+Malcontent with the heavy handed and authoritarian rule of Cortés, ex-president Ricardo Jiménez has once again thrown his hat in the ring for the presidency, hoping to build on the large supporter base his previous tenure has nourished. Reactions from the left have thus far been very warm as they hope that infighting within the PRN will allow them to take control in the upcoming elections. Cortés himself is all but pleased and has been seen secretly planning with his party members to sabotage the Jiménez campaign.
+The race has started!
+1940 Elections
+Although heavy weather seems to have deterred many from showing up at the voting stations, a surprising 72% of the electorate submitted their vote before the booths closed tonight at 9PM. Tensions are high as all parties involved are betting heavily on the outcome of these elections and surprising twists could suddenly arise.
+Calderón becomes president.
+León Cortés Castro starts a second term!
+Figueres Ferrer Takes to the Air
+\
+Release the man.
+Put him on the first boat to Mexico!
+Unrest in the Countryside
+All across the nation, farmers and plantation workers have started to push back against their local bureaucrats demanding the immediate resignation of Cortés and the removal of his cronies from office. Most likely invigorated by the recent upheaval caused by Figueres Ferrer, the protests and anti-government actions seem to continue with no end in sight.
+What can a few peasants do?
+Cortés announces his resignation.
+Cortés Resigns From Office
+Pressured by strikes and protests across the nation, the man known as the president of Iron Bars has been forced to resign and has handed the presidency down to his successor, Calderón. Whether this means that the Cortés regime has finally ended or merely changed heads is as of yet unsure but the Costa Rican populace is euphoric by the victory of democracy.
+Good luck Calderón!
+Ferrer Escapes!
+Even though he was transported in an unmarked truck heading for Puerto Limón, an armed band of his fanatics stopped the convoy in Siquirres and successfully secured the release of their leader. Free once more and burning with passion to overthrow our regime, he is an enormous danger for national security.
+Do I have to do everything myself?
+The Legion Caribe Executes a Coup
+700 armed loyalists of Ferrer were all it took to flawlessly execute a coup d'etat on the regime of [COS.GetLeader]. Taking the key cities of Puerto Limón, Cartago and San José, the under-supplied and understaffed forces of the national army were in no position to offer much resistance. Small shootouts occurred throughout the nation but in the end, the coup was executed without much blood spilled.\n\nProclaiming himself president of the nation, Figueres Ferrer has taken control into his own hands and has already announced sweeping changes.
+Figueres proclaims the Junta.
+Calderón Announces His Ambitions
+As is tradition, the new president was asked to give a speech during his ceremony lining out his plans for the future of our nation. What people however didn't expect the radical turn of policy Calderón announced.\n\nCalderón proposes sweeping social reforms, promising to found a national university, develop a social security programme, provide low-cost housing, provide more rural credit, enact land reform, and assist less-developed regions of the country. All of these announcements have completely stunned the members of the PRN who saw in Calderón nothing but a sock puppet for their conservative policy.
+H-he can't do this!
+Education Reform
+Ever since liberal reforms back in 1884 and 1894 put a stop to the Catholic influence in our education programme, the nation has prided itself on having an advanced level of literacy. \
+The separation between Church and State becomes less distinct by the day.
+\
+As the economic crisis keeps causing massive disruption, our government is becoming more and more a secretive hierarchy of patronage, bribery, theft and bullying.\n\nA striking example of this practice can be found in Calderóns brother, Francisco, previously an unknown bank teller, who now serves as Public Safety Minister and Third Designate to the Republic (a position somewhat like vice president). Though many leaders had placed family members in positions of power, Calderón's brother has become infamous for doling out non-competitive government contracts to cronies and people who pay him bribes. This has led him to acquire the nickname “Paco a Medias” because allegedly he demands a 50% kickback up front before offering contracts.\n\nEven though Calderón announced himself as a president of the people for the people, the economic mismanagement of his nation and the catastrophic increase in corruption are weighing heavily on the nation.
+While the people starve, the rich become richer.
+[COS.GetLeader] Demands Emergency Powers
+Claiming instability in the region and the looming threat of foreign invaders, [COS.GetLeader] has demanded Congress to immediately extend emergency powers to his office. He ensures that no misuse will be made of them but critics amidst the congressmen see this as yet another power-grab to further enrich his cronies.
+Dark times are ahead of us...
+Persecution of Foreign Landowners
+With war raging all across the globe and the Costa Rican treasury slinking by the day, President [COS.GetLeader] has set his sights on the valuable properties of the German coffee barons. By controlling public opinion through the state media and the emergency powers recently granted to our president, Calderón is now fully capable of stripping these Germans off their land and confiscating their properties to support his money slurping welfare state.
+Take their lands.
+Strip them from their rights and confiscate their property.
+Maybe we shouldn't...
+A Tempting Offer...
+Enraged by the suspension of constitutionally guaranteed individual rights due to Calderón's emergency powers has led both the Democratic party under Cortés (who broke ties with the PRN after Calderón seized full control and founded his own party) and the syndicalist party under Manuel Mora Valverde to openly denounce the President for infringing on electoral liberty.\n\nSince their complaints fell on deaf ears in the PRN dominated Congress and since president Calderón has no intention to give up his emergency powers, voices from the sidelines have started calling for a coup against the dictatorial regime. The conservative director of the Bank of Costa Rica, Jorge Hine was recently seen conversing with Mora and presumably asked him for his support in the coup, offering him seats in an upcoming unity government following its success.
+Together we shall restore stability!
+Mora declines the offer.
+Coup in Costa Rica!
+Executed with support from both sides of the isle, the military has executed a coup against Calderón's regime toppling him and lifting his cronies from their positions. Whilst the coup happened without much bloodshed, the Costa Rican people fears that the long period of political stability has finally ended.
+The Dictator is gone! Long Live Costa Rica!
+Future of Costa Rica
+Even though both the syndicalists and conservatives brought down Calderón together on the promise that they would form a unity government, cracks in the so called \
+Mora proclaims the Workers Republic.
+Emergency elections are held.
+Jiménez Wins the Elections
+Due to disagreements amidst the parties of the unity government, emergency elections were immediately declared and promptly won by ex-president Jiménez. Praising his steadfastness in the 1932-1936 tenure and his ability to keep a balanced budget has won him the elections with a landslide.
+Good Luck.
+[FROM.GetNameDefCap] Crosses the Border
+In support of the syndicalist Manuel Mora Valverde, the Nicaraguan government has decided to intervene in our succession crisis. Whilst officially denying that they have any part in it, small bands of Nicaraguan militias were seen crossing the border and converging in known syndicalist bastions. As our army stands divided and the conservatives are entangled in internal conflict, it seems that the Workers Republic is a fact.
+The World Revolution continues ever stronger!
+[FROM.GetNameDefCap] Requests Our Integration into the Central American Union
+It was the Nicaraguans that guaranteed the rise of our Workers Republic and it will be the Nicaraguans that shall end our nation as we know it. Urging Mora to accept their ideas of a Centro-America, pressure is building up between the two nations as the Costa Rican chairman is unwilling to compromise his nations sovereignty whilst Nicaragua has the arms and means to enforce the union they desperately seek.
+Costa Rica joins Centro-America.
+We reject their \
+An Opportunity in Costa Rica
+As President Calderón has been forcefully deposed in Costa Rica by a coalition of conservatives and syndicalists, an opportunity has presented itself to fully incorporate their nation into our dreams of a united Centroamérica. Whilst sentiment against our nation is fairly strong amidst the Costa Ricans, [NIC.GetLeader] believes that by sending covert operatives and guerrilla fighters to \
+Send them \
+We have no desire to interfere in their affairs.
+Valverde Folds
+Aware that without an army and the popular support to oppose our military takeover of his nation he has no choice but to give in, Valverde has officially announced the end of Costa Rica in front of Nicaraguan press and foreign media. Whilst this comes as a surprise to the outside community who knew the small nation as an outsider devoid of greater Central American ambitions, pressure from all sides proved too much to resist and the proud nation has finally been forced into submission.
+Another step closer to the World Revolution!
+Army Deposes Mora
+Frightened by the threats Nicaragua made to the sovereignty of our nation, the [THIS.GetRulingParty] government finally found the rallying beacon they needed and decided to unite against the syndicalist threat. Launching strikes on all major cities to take down the syndicalist militias, the army has successfully overcome the threat. Casualties were high however as covert Nicaraguan operatives fought as lions to keep the Workers Republic intact.
+Hold Emergency Elections.
+Council of National Security rules temporarily.
+[GetYear] Election Year
+After the successful coup deposing Manuel Valverde and disbanding his workers republic, the council of national security spearheaded by a coalition of parties all across the isle has governed the nation. Now the [GetYear] elections have approached and the question has come up whether they should proceed as scheduled or whether the Council should rule indefinitely on the base that the nation hasn't stabilised enough yet.
+Elections proceed as scheduled.
+Council retains control.
+[GetYear] Elections
+Tensions are running high amidst the parties as 2 weeks ago, the Council of National Security was finally disbanded, giving way to a returned form of democracy. Both ex-president Ricardo Jiménez and León Cortés Castro have announced their candidacies and even though their voter base is divided between the two, it looks to be a clear victory for
+Ricardo Jiménez.
+León Cortés Castro.
+Figueres Ferrer Takes to the Air
+\
+Release the man.
+Put him on the first boat to Mexico!
+Unrest in the Countryside
+All across the nation, farmers and plantation workers have started to push back against their local bureaucrats demanding the immediate abolishment of the Council and the removal of their cronies from office. Most likely invigorated by the recent upheaval caused by Figueres Ferrer, the protests and anti-government actions seem to continue with no end in sight.
+What can a few peasants do?
+Ferrer Escapes!
+Even though he was transported in an unmarked truck heading for Puerto Limón, an armed band of his fanatics stopped the convoy in Siquirres and successfully secured the release of their leader. Free once more and burning with passion to overthrow our regime, he is an enormous danger for national security.
+Do I have to do everything myself?
+The Legion Caribe Executes a Coup
+700 armed loyalists of Ferrer were all it took to flawlessly execute a coup d'état on the regime of [COS.GetLeader]. Taking the key cities of Puerto Limón, Cartago and San José, the under-supplied and understaffed forces of the national army were in no position to offer much resistance. Small shootouts occurred throughout the nation but in the end, the coup was executed without much blood spilled.\n\nProclaiming himself president of the nation, Figueres Ferrer has taken control into his own hands and has already announced sweeping changes.
+Figueres proclaims the Junta.
+Mora Offers an Alliance to the PRN
+Though Calderón has spent his career publicly denouncing syndicalists, after the thwarted coup, he was now grateful to Mora for preserving his very existence, realising that he would somehow have to broaden and energise his political base to continue to survive. Thus, in spite of his previous Christian Socialist rhetoric, in spite of his repeated denunciation of syndicalism, and in spite of his strong ties to the church, Calderón has begun discussing an alliance with Mora and the syndicalists.\n\nPerforming well in the last regional elections, bringing in 16% of the votes, the PVP has announced their support for the proposed alliance even though for years they have openly accused the PRN of jailing its members and censuring their opinions.
+The Left stand united.
+Coffee Elite Speaks Out Against Calderón
+Rampant corruption, unadulterated bribery and the now massive increase in taxation have pushed the coffee barons to the breaking point. In a recent meeting of the Club Unión de San José, the main social forum of the coffee elites, they gathered to discuss the policies of their president and how much longer they could support him. At the end of the session they were all asked to anonymously submit of vote of confidence in their leader. Out off all members, only 1 remained confident in Calderón's abilities.
+Unfortunate.
+[GetYear] Elections
+As Calderón's term comes to an end, the PRN looks to the future and decides on their candidate for the upcoming elections. Although willing to run a second time, Calderón is afraid of the backlash this may cause against his figure and has proposed that the party shoves Picado forward to take control and continue the reforms proposed by the PRN-PVP coalition.
+Picado takes control.
+Calderón announces his second term.
+Figueres Ferrer Takes to the Air
+\
+Release the man.
+Put him on the first boat to Mexico!
+Unrest in the Countryside
+All across the nation, farmers and plantation workers have started to push back against their local bureaucrats demanding the immediate resignation of Calderón and the removal of his cronies from office. Most likely invigorated by the recent upheaval caused by Figueres Ferrer, the protests and anti-government actions seem to continue with no end in sight.
+What can a few peasants do?
+Ferrer Escapes!
+Even though he was transported in an unmarked truck heading for Puerto Limón, an armed band of his fanatics stopped the convoy in Siquirres and successfully secured the release of their leader. Free once more and burning with passion to overthrow our regime, he is an enormous danger for national security.
+Do I have to do everything myself?
+The Legion Caribe Executes a Coup
+700 armed loyalists of Ferrer were all it took to flawlessly execute a coup d'etat on the regime of [COS.GetLeader]. Taking the key cities of Puerto Limón, Cartago and San José, the under-supplied and understaffed forces of the national army were in no position to offer much resistance. Small shootouts occurred throughout the nation but in the end, the coup was executed without much blood spilled.\n\nProclaiming himself president of the nation, Figueres Ferrer has taken control into his own hands and has already announced sweeping changes.
+Figueres proclaims the Junta.
+Local Merchants Sign Pact with Jiménez
+Not keen on the further austerity measures Cortés has announced for his second term, the merchants of Cartago have flocked to the banner of Jiménez who has promised them tax cuts and further benefits should he become the next president. This puts a huge thorn in our side as most of our support comes from these middle-class members.
+Screw them!
+Let me see how I can sweeten the deal...
+Hurricane Destroys the Limón Plantations
+Already struggling with the reduced demand for bananas in the USA and the terms indicted by the Labour Agreement, the Banana plantations of the UFC in the Limón region have now also been hit by a devastating hurricane taking 10 casualties and ruining much of the fields. Local spokesmen of the PVP were quick on the scene and have rallied the population against us, clamouring that the government does nothing to assist the struggling workers.
+I don't control Mother Nature!
+Divert further funds to aid the locals.
+An Interesting Proposition...
+Ricardo Jiménez and his campaign keep stealing voters out of our camp and further damaging the overall power of the conservative Republican Party. Since we share a voters base, this is especially damaging and is risking to further empower the already rising syndicalists. Chief of Police in San José has therefore offered the assistance of his men in tackling the problem. By sending in hit-squads targeting his rallies, he hopes to scare Jiménez out of the race and put an end to his campaign.
+You have my blessing.
+We will not steep so low!
+Jiménez Withdraws From the Race
+Constant police violence and targeting of his supporters have finally pushed Jiménez over the edge. Claiming that he won't participate in an election run by a con artist who doesn't shy away from violence, the disgruntled ex-president has stopped his campaign and pleaded his voters to vote for anyone but Cortés (and Mora of course).
+Good Riddance!
+Strike on the Plantations
+Rallied by Mora and both the PVP and Atlantic Workers Congress, yet another plantation has laid down work demanding that the government steps in and further enforces their demands on the plantation holders. As the message of the PVP keeps gaining popularity on the countryside, many fear that Costa Rica as well may ultimately fall to the revolution.
+Blast it!
+Crisis in Central America
+In an attempt to resist dictatorial rule from fully engulfing the region, the Costa Rican Caudillo José Figueres Ferrer has announced his crusade to liberate the people of the CAR from oppression and restore freedom and democracy. As both parties involved however are our allies, both are awaiting tensely to see how we will react if we so wish to.
+Remain neutral in this crisis.
+Back Costa Rica and \
+Back the Central American Republic.
+Victory in the Coto War!
+The Panamanians have once more been driven from our land and the integrity of our nation preserved. With international pressure to this time follow the Fallo Blanco Ruling, Panama has no choice but to renounce their claim on the region for all time.
+Long Live Costa Rica.
+It has taken blood, sweat and tears but finally we can proudly proclaim that Coto is back under our control. Whilst the international community looks down on us for denying a peaceful resolution, they have no desire to intervene a second time, leaving Costa Rica at our mercy.
+Long Live Panama.
+[COS.GetName] in our Faction?
+Since we took care of their little nation after the American Civil War broke out, the Costa Ricans have offered to join our war effort. Whilst their input in this war will be minimal of any, it's a nice gesture from them and is a morale boost for the people at home.
+Welcome aboard!
+Costa What?
+Offer Refused
+Even though we asked nicely and had already been preparing reforms to assist the war effort, our \
+Well that isn't nice.
+Punctuality in the Regime of Cortés
+Whilst often criticised for being harsh or severe in punishment, the government of [COS.GetLeader] has profiled itself as one of order, discipline and strict punctuality. Vigorously promoting the honesty and efficiency of the Public Employees, Cortés himself has on more than one occasion been seen patrolling the government offices early in the morning to inspect the punctuality and attendance of his employees. Should he spot that one of his subordinates is slacking or is taking bribes, he will immediately be requested to resign no matter his political affiliations.\n\nWhilst this policy has turned many of Cortés' former friends against him, he is praised by the common man for combating corruption and making the state run more efficiently.
+Discipline is key to a good working society.
+\
+Written by famous leader of the Atlantic Workers Congress, Carlos Luis Fallas, the novel \
+It's a good novel nonetheless.
+'Don Pepe' Disbands the Military
+In a ceremony at the Cuartel Bellavista earlier today, President José Figueres Ferrer has officially proclaimed an end to the military spirit of Costa Rica by symbolically smashing one of the walls of the citadel with a mallet.\n\nAs decreed in Article 12 of the constitution, the Armed Forces are hereby disbanded and replaced by the police forces, the National Guard. The entire budget that previously went to the military has been redirected to education and cultural projects as is symbolised by the government's decision to convert the fortress to the Museo Nacional de Costa Rica.
+Long live Costa Rica!
+Deutscher Aero Lloyd Flight 134
+The nation was taken by surprise today when Deutscher Aero Lloyd Flight 134 with destination Buenos Aires was rerouted to San José earlier this morning when an as of yet unidentified organisation, presumably syndicalist, hijacked the plane just over Portugal forcing the crew to reroute to Central America. Shortage of fuel however kept the plane from touching down in Nicaragua and forced the plane to refuel in San José, carrying 34 passengers.\n\nDon Pepe, who was holding a speech in Puriscal only 20 miles from the capital, was immediately notified of the situation and was requested authorisation to refuel the plane. What the terrorists however didn't count on was the response of our president who instead of complying to their demands jumped into the closest vehicle headed for the airport radioing the National Guard to refuse and act as he said to \
+In Costa Rica we terrorise the terrorists!
+An Interesting Proposition
+To secure the safety of democracies all across Latin America, the nation of [FROM.GetName] has created the Democratic Alliance of the Caribbean promoting peaceful cooperation and a mutual defence pact for all nations in the region. Due to our close ties in the past and our democratic government, they have invited us as honorary member and would be greatly pleased if we accepted.
+Of course we will join!
+Costa who?
+Crisis on the Canal
+As the American Civil War has finally started gripping around itself, the Canadians have dared to execute a power grab in the canal zone. The Panamanians however were prepared and have seized the canal for themselves, claiming that it has always been part of Panama and will stay forever so.\n\nThis puts us in an interesting position as we can provide the Canadians the perfect staging ground to land forces and take over Panama by land which could guarantee us Canadian protection should the need arise in the future.
+Send the offer to Canada.
+We will remain neutral.
+Unexpected Aid Arrives
+Aware of our trouble pacifying the Panamanians, the Costa Rican government has offered their ports and free access across their land to help us in taking down Panama. In exchange they expect us to protect them from the other nations in the region should the need arise.
+We accept!
+We don't need another liability in our alliance.
+Canada Accepts!
+The time for war has finally come as the first Canadian boots are landing ashore in Puerto Limón ready to force themselves the Panamanian heartland seizing the Canal and deposing their government with unrelenting force. Britannia has suffered enough humiliations and losing from Panama won't be one of them. Accompanied by Costa Rican scouts and a small detachment of 50 of our best soldiers, we can only hope that they succeed in their adventure.
+Onwards!
+Canada Refuses!
+To our great surprise the Canadian government has politely refused our offer, most likely out of fear that they would have to defend us should the time come.
+At least we tried.
+Formation of the Democratic Alliance of the Caribbean
+With our country being saved from tyranny by the Caudillo Figueres Ferrer, a new wave of hope for freedom and democracy has manifested.\nThis new spirit to fight for the less fortunate countries still oppressed by dictators has resulted in the proclamation of the Democratic Alliance of the Caribbean, an alliance open to all the democracies of the Caribbean, as well as to El Salvador and Ecuador. Its fundamental aims will be to strengthen democracy in the region and to act as one in defence of our common economic, military and political interests.\nWith one of its immediate goals being the creation of a democratic Central American Federation, uniting the five republics to use their combined might to bring the goals of the alliance to reality.
+For a brighter future for Central America!
+Invitation to the Economic Bloc
+Our [FROM.GetAdjective] allies have proposed an economic bloc to strengthen the economy of the members of the alliance.
+We appreciate the solidarity.
+[FROM.GetName] Offers us an Invitation to Democratic Alliance of the Caribbean
+[FROM.GetName] has offered us an invitation to their faction, claiming that our current alliance with Colombia will over time devolve into one of subjugation and that they are looking for the best for our democracy and sovereignty.\n\nWhile a very alarmist take on the issue, it is true that there is a big power imbalance between us and Colombia, but their strength is also beneficial because it helps deter forces to attacks us. Should accept this offer?
+Our destiny lies with in the Caribbean.
+The Colombians will offer better protection.
+Suspicious Activity from Panama
+We have received news of a meeting between Panama and [FROM.FROM.GetName], discussing Panama potentially leaving our alliance over fears of subjugation. This is a very obvious ploy of [FROM.FROM.GetName] to get Panama on their Alliance, but showing that we don't mean this at all could calm this distrust from spiralling out of control.
+Nothing to worry about.
+Let's reassure our ally of our true intentions
+Panama Aligns with Us
+Panama has seen reason and decided to join us.
+Another ally to the democratic cause.
+Panama Declines Our Offer
+Panama has decided to remain in the Andean Pact.
+Let's hope the best for them.
+A Union of Alliances?
+[FROM.GetName] has come today to sort our issues regarding our shared interest in the region of Panama. Their solution involved uniting both alliances to share such an important position.\nThey also argue that uniting our forces will help to better defend against any threats and give us benefits to our economies, but it's undeniable that this would come at the price of helping in their crusade against dictatorships and leaving our non-democratic members out.
+Unity will bring prosperity and security to all.
+We are better off on our own.
+Unification with Costa Rica
+The Costa Rican government surprised us today announcing their intentions of joining our country in hopes to create a stronger union and implement the democratic framework of their country into the Federation, to avoid the issues that brought down its predecessor.\n\nExpectedly, we will not reject such a deal and have work to make the union as smooth and fast as possible to have the five republics finally united under the banner of the Federation.
+The Federation reunited at last.
+Establishing Closer Ties with Central America
+As the first step in drawing our countries closer, [FROM.GetLeader] has suggested that we reduce our number of military personal as they are more fitting for taking the job of security.\nThis would hardly change our current situation as our army is already very small in comparison to them.\n\nBut something they demanded was a ban on all news that print anti-unification propaganda as they don't desire that these ideas later brew into rebellions and protest.
+Another meeting was held today about further ties, in which the Central American government offered to invest in our industrial sector to reduce the amount of control foreign owned companies have in our country.\nBut our experts see that this would only be transferring that control over to them as no promises have been made regarding the control of the land and factories outside of a good share of the profits coming back to us.\nThere isn't much pushback knowing the full end goal of the negotiation, but the few that still resist see this as our last chance to maintain our sovereignty.
+On today's meeting, we were surprised by Central America \
+Our final meeting is being held as the final paper is being completed for our government to transition to just a regional one and to have the five republics finally united under one banner once more.
+Closer relations will benefit both.
+This is unacceptable.
 Manuel Mora Valverde
 §YBorn:§! §LAugust 27th, 1909, in San José, San José Province, Republic of Costa Rica§!
 Rafael Ángel Calderón Guardia

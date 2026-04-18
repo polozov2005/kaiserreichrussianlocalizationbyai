@@ -60,6 +60,28 @@ Wu Zhenwu
 Zhong Qiming
 Qin Jinchun
 Xu Qingqing
+A Fleeting Independence
+Our recent separation from Japan, bringing an end to over forty years of exchange and integration, has not only left us economically adrift, but also bearing difficult questions of identity. Have we truly been liberated? Or have we been stripped of our own mother country? Do we belong with China, or do we deserve to decide our own fate?\n\nDifferent people have different answers. Those in urban areas, a significant portion of the population, benefited from decades of Japanese occupation. Many are themselves ethnically Japanese, and many more consider themselves culturally so. Others, particularly in rural areas, look to China for answers; countless generations spent on the periphery of China's empire cannot be ignored, no matter how distant that control may have been. Others still, a minority of intellectuals and representatives of the indigenous population, urge us to chart our own independent path.\n\nRecent events have created an opportunity to answer these questions once and for all. What will the people of Taiwan choose?
+Our recent separation from Japan, bringing an end to over forty years of exchange and integration, has not only left us economically adrift, but also bearing difficult questions of identity. Have we truly been liberated? Or have we been stripped of our own mother country? Could we again find a place as part of a greater whole, or could we chart our own, independent, path?\n\nDifferent people have different answers. Those in urban areas, a significant portion of the population, benefited from decades of Japanese occupation. Many are themselves ethnically Japanese, and many more consider themselves culturally so. Others, particularly in rural areas and among the indigenous population, instead endured oppression and exploitation at Japanese hands. Those experiences cannot be ignored.\n\nRecent events have created an opportunity to answer these questions once and for all. What will the people of Taiwan choose?
+Send an envoy to Tokyo.
+Send an envoy to [china.Capital.GetCapitalVictoryPointName].
+Petition [ROOT.overlord.GetNameDef] to allow us to rejoin Japan.
+Petition [ROOT.overlord.GetNameDef] to allow us to rejoin China.
+No, we should keep our independence!
+Taiwan Seeks Union with [ROOT.GetNameDef]
+Once, Taiwan was our most prosperous colony, a model for the rest of the empire, a model for the rest of the world. Then, everything changed when our enemies attacked. Taiwan's separation brought not only economic turmoil, but it also saw the mass evacuation of Japanese nationals, and countless separated families. While we may no longer be the empire we once were, there are still many who long to see Taiwan become a part of Japan once again. Today, they may finally get what they have been waiting for.\n\nRecent events have conspired to make Taiwan's reunification a real possibility, and we have received a petition to that effect from [TAI.Capital.GetCapitalVictoryPointName].\n\nWhat shall our answer be?
+Once, Taiwan was a part of China, but everything changed when the Japanese attacked. For over forty years, Taiwan chafed under Japanese occupation, the victim of a power bent on remaking Asia in its own image. Although few but the oldest of the islands' inhabitants remembers the rule of our predecessors, we can be sure that for every one of those years, the people of Taiwan were secretly weaving Chinese flags, preparing for the day when we would inevitably return.\n\nHaving received a message from [TAI.Capital.GetCapitalVictoryPointName] requesting reunification, it seems today is to be that day.
+Welcome, brethren!
+Taiwan Desires Union with [taiwan_union_target.GetName]
+Taiwan's recent separation from Japan, which brought to an end to over forty years of exchange and integration, not only left the island economically adrift, but also brought difficult questions of identity. It seems Taiwan has finally made a decision in that regard, as we have received a petition from [TAI.CApital.GetCapitalVictoryPointName], verified by our consulate there, requesting reunification with [taiwan_union_target.GetName]. Regardless of the island's inhabitants' preferences, as the victors, it is ultimately our choice to make.
+Of course.
+No, we prefer them kept separate.
+[FROM.GetNameDefCap] Approves Union with [taiwan_union_target.GetNameDef]
+Good news! Our overlords in [FROM.Capital.GetCapitalVictoryPointName] have approved our request to reunite with [taiwan_union_target.GetNameDef]!
+Hooray!
+[FROM.GetNameDefCap] Denies Union with [taiwan_union_target.GetNameDef]
+Our overlords in [FROM.Capital.GetCapitalVictoryPointName] have shown their true colours, and denied our request to reunite with [taiwan_union_target.GetNameDef]. Sadly, our small nation is but a small boat amid the powerful currents of international politics. For all the laws of nations, in the end, the strong eat up the weak.
+Damn them!
 Tibet Focus Tree
 Sacred Union Party
 Sacred Union Party
@@ -278,7 +300,222 @@ GFX_TIB_intro
 The Regency and The Tibetan People
 In 1936, Tibet is embroiled in a bitter leadership dispute. The 13th Dalai Lama died in 1933, leaving 5th Reting Rinpoche, Jamphel Yeshe Gyaltsen, as his regent until a new Dalai Lama can be found. As the leadership struggle unfolded, the Reting Rinpoche was instated as the Regent, however he serves as only a figurehead of the chaotic government. Four main factions unfolded in the conflict, Lungshar's Kyicho Kuntun, The Panchen Lama's Tibet Improvement Party, Tsarong's Young Tibet, and the Traditionalists, led by Jamphel Yeshe Gyaltsen and Trimön. The rest of the central government of Tibet, referred to as the Ganden Phodrang, is occupied by a collection of appointed officers both theocratic and civil. The Rinpoche are high ranking Buddhist monks that are confirmed by the public to be reincarnations of previous important monks. The Kashag is a four-way council traditionally appointed by civil servants, but after 1933 has been controlled by Marshal Trimön. The Thubten are feudal landowners that hold significant sway in the more prosperous eastern half of Tibet in Khampa. The people of Utsang, while still loyal to the Ganden Phodrang, are suffering from neglect and bandits coming out of Xinjiang and Kashmir.
 §MTraditionalists§! ($paternal_autocrat_coloured$)\n£white_dot After you ask Nepal to close the border and they refuse, send the Dob-dobs to Kham.\n\n§MReturn of the Panchen Lama§! ($social_democrat_coloured$ / $social_liberal_coloured$ / $totalist_coloured$)\n£white_dot After you ask Nepal to close the border and they refuse, send the Dob-dobs to the Sikkim border.\n£white_dot In the following event, choose to deploy the Dob-dobs to cut them off.\n£white_dot After completing the focus Return of the Panchen Lama, you can elect either the totalist Sacred Union, social democratic Tibet Improvement Party, or the social liberal Kyicho Kuntun.\n\n§MYoung Tibet Party§! ($authoritarian_democrat_coloured$)\n£white_dot After you ask Nepal to close the border and they comply, the Young Tibet Party will be stopped.\n£white_dot When bandit raids intensify, send the Dob-dobs to do their jobs.
+Restoration of the Dalai Lama
+The Regent has announced today that the 14th Dalai Lama, Tenzin Gyatso, has been restored to his rightful place as Head of State of Tibet. Although his power is mostly ceremonial and concentrated with other government members, he is finally here. The search has ended.
+May he live ten thousand years!
+The Regents Vision
+Sitting on the shore of the Lhamo La-tso Lake, the Regent has had a vision of the new Dalai Lama. Through a large monastery with a gilded roof and turquoise tiles, and a twisting path from it, the vision took the Regent to a hill to the east. Opposite to the hill stood a small house with distinctive eaves. The eaves of this house were distinctive of houses in Amdo. The vision ends, and the Regent awakens to alert the lamas of their journey.
+A Journey to Amdo!
+Preparing for the Journey
+Despite the intense political disruption of the past few months, the Taktra Rinpoche has remained loyal to the government, although the Kwetsang Rinpoche has sequestered himself in Kham, after refusing to join the Reting Rinpoche's government in 1932. Once the Kwetsang Rinpoche is added to their team, they must enter the Ma's territory in Amdo to retrieve the Dalai Lama. The feuding Ma family will surely not notice an expedition if it is done quickly, however waiting may bring harm to the next Dalai Lama, just as neutrality before Trimön caused the deaths of thousands of Golok Tibetans in 1921.
+Now for the escort.
+The Company of the Lamas
+It appears that the Ma family feud is still confined primarily to Qinghai and Ningxia, meaning most of their forces will be preoccupied. Our commander in chief recommends a detachment of elite Dmag-Sgar regulars, which would ensure no Ma patrol could harm the expedition. The Regent, however, does not recall any military encampment in his vision, and insists that a small escort will suffice. A small collection of Lamas in the Ganden Phodrang, all from Amdo, have professed that no escort will be safer than any escort, as they have been able to visit Amdo in recent years in disguises. The choice ultimately falls to the Regent.
+Faster with no escort.
+Bring a small escort.
+No less than two thousand guards.
+Meeting the Kwetsang Rinpoche
+The expedition has reached Gyêgu Monastery, outside of Yushu. The Kwetsang Rinpoche has been coordinating an effort there to protect Tibetans from the Ma family. The Kwetsang Rinpoche has reported that he has narrowed down the candidates for the Dalai Lama to three children, and is struggling currently to ensure the Tibetans of Amdo continue to follow their Buddhist traditions, lest another fish incident occur, when in 1924 the Lamas of Amdo abandoned their vegetarian diet while meeting westerners, and nearly caused the 13th Dalai Lama to die of imprudence. The Kwetsang Rinpoche would be invaluable in ensuring that each child be tested accurately, at the same time the thought of the new Dalai Lama dying because his fellow Tibetans did not adhere to their monastic vows is frightening.
+Wish him well.
+Send him home.
+Meeting A Poor Farmer
+Whilst enroute to the foretold destination in Yushu, the Lamas' happened upon the ruins of a desolate village, the smouldering piles of burnt wood and dirt craters turned up little evidence as to what had happened here. It was not until a day later, whereupon the company encountered a refugee caravan, that the truth revealed itself. Recent raids from the Ma Clique has annihilated large parts of the Yushu countryside, forcing the peasants to flee north-west, where they are being huddled into militarily occupied villages. While some refugees have hope of moving past the military checkpoints, others have more vengeful ambitions. One of the poor, destitute farmers that the Lamas' caravans passed struck up a conversation with the monastic lords, whilst eyeing their collection of guns, food and ammunition. It did not take long for this refugee to steer the conversation in the direction of what Lhasa can do to aid the downtrodden in Yushu. Perhaps, smuggling weapons and supplies to the northbound refugees will put the Ma Clique in for a surprise... On the other hand, it may very well compel the Ma Warlords to treat the refugees even more harshly, if they have reason to suspect them to be partisans.
+Help him
+Move along.
+Ma Forces Encounter Escort
+Not long after passing the refugee caravan, the Lamas laid eyes upon one of the very villages they had been warned of. Squalid hamlets, stitched together tents and all around air of misery surrounded the tiny settlement, which was brimming with guards proudly flying the Ma Clique's red and white flag. To many of the locals which had been relocated here, even the war-torn province of Gansu may be preferable to this. The mention of Gansu filled the Kwetsan Rinpoche with a sudden realisation. A smaller stream of refugees had been moving west, in an attempt to settle near Liulin village and avoid the northern checkpoints. By following this alternative route, then veering north into the wilderness for a few days, the Lamas' caravan could likely avoid the military checkpoints. As the guards near the occupied village began to eye the caravan suspiciously, the Kwetsan Rinpoche guided his comrades west, soon ordering them into a full blown march to maintain one step ahead of the Ma Clique patrol's pursuit!
+Run!
+Visiting Kumbum Monastery
+Although it has severely tired his men, and the enemy soldiers have mercilessly hounded them west, the journey to Amdo draws ever closer to its destination. After a couple of days along the trail to Liulin, the Ma Patrols' eventually gave up the chase, unleashing their greed and wrath upon some other caravan of helpless innocents. A few more days north through the wilderness, and the Lamas' caravans finally reached Kumbum Monastery, earning them a long rest in the company of friends and allies. The Monastery, which is ranked second only to Lhasa in terms of spiritual importance, has remained untouched by the Ma Clique's forces. The great temple of Je Tsongkhapa, the founder of the Gelug school, is simply too sacred of a shrine even for nonbelievers and warlords to pillage, even though they have attempted to sow divides between the Gelug school and the Nyingma school by meddling in Kumbum's affairs. Despite this, the Monastery welcomed the Caravan with open arms and helped guide them in the direction of Taktster, showing that there was still some brotherly love between the schools.
+We're getting closer.
+Reaching the Village of Taktser
+The Caravan entered the village of Taktser with a heavy heart. Out of the three names of children in Yushu the Kwetsang Rinpoche gave to the Regent, the first two were not him. The first child, in another village, was already deathly ill when the Caravan encountered him. The second child who was shown the items of the 13th Dalai Lama ran away, hopefully to his parents. This village was home to the Thubten Jigme Norbu, a young child who had been chosen for nobility in 1921. Hopefully here we will find the Dalai Lama.
+A non-Tibetan village? Interesting.
+Testing the Boy of Taktser
+A child was brought out to view the items of the 13th Dalai Lama who had demonstrated knowledge of Lhasan Tibetan. This child was repeatedly allowed to pick out an item from a set display, and every time he choose a former memento of the 13th Dalai Lama. In the few days the Regent has been in Taktster, the child has demonstrated incredible calmness to the strife broiling to the north. This child could be the reincarnation of the 13th Dalai Lama.
+The boy that lived...
+This is the Dalai Lama!
+With time running short, the Regent has consulted his thoughts. Truly the weight of the brewing conflict between the Ma Clique would leave so many more children destitute, even destroy towns like Takster. The child would certainly not survive the war. Ultimately the weight of all of Buddhism is impressed into the reincarnation of the Dalai Lama. The child is the reincarnation of the Dalai Lama and is thus the most precious symbol of Tibetan hope in this world.
+Now make haste to Lhasa.
+The Qinghai Army Approaches Taktser
+Before the Caravan could depart from Takster, a guide reported that the Qinghai army is nearby. Every measure must be taken to keep the Dalai Lama out of the hands of the Ma Clique, for they have no kindness for Buddhists, and we can only counter their aggression with our own. The Regent has taken the Dalai Lama to hide at a nearby farmhouse, hopefully the Qinghai soldiers will stray elsewhere.
+Hide the boy.
+Hide the boy, the escort will distract them.
+The Dalai Lama Hides
+Hiding in a nearby farm, the caravan containing the new Dalai Lama hides. Although the Qinghai Army spent several days in Taktser, the loyalty of the residents to our cause meant that the army could do nothing but search. After two days, the Qinghai Army passed out of Takster, and the caravan could start on their return journey in earnest.
+The coast is clear.
+The Dalai Lama Reaches Lhasa
+After a month of travel, the caravan containing the Regent and Dalai Lama have returned safely to Lhasa. Upon their return, the Regent gave a speech to the Lamas outlining the incredible danger posed to Buddhists in Amdo, including the very real threat posed by the Qinghai army. The Lamas, once sanguine in their positions, have begun agitating the Kashag towards war with the Ma Clique once again, fearful that another massacre like the one committed against the Golok people was imminent.
+Safe at last.
+Preparing the Procession of Lamas
+The 13th Dalai Lama suffered from both the shackles of imperialism and the apathy of the Buddhist world, which was exacerbated by his time in exile. In order to ensure that this Dalai Lama is protected and exalted by Buddhists all across Asia, a larger ceremony is necessary, one with western observers. Firstly our friends in the Gelug School must be gathered from their far flung reaches, from Mongolia, Tuva and Kalmykia. These Lamas will be the first to exalt the Dalai Lama before he is given the larger audience. The danger of invasion also means that, should Tibet fall, our Gelug allies can best coordinate a plan to save the Dalai Lama.
+Invite the Mongols, Tuvans and Kalmyk.
+Young Tibet Party Leaves Lhasa
+After being demoted, General Tsarong Dzasa has been a thorn in [TIB.GetLeader]'s side. Tsarong Dzasa has been agitating in Lhasa to escalate our diplomatic relations with the British in [RAJ.Capital.GetCapitalVictoryPointName], even as their power has waned following their syndicalist revolution. Thankfully Tsarong Dzasa and his Young Tibet party didn't support the blind Lungshar, who made his revolutionary intentions known in Kham, deserving of his blindness.
+We may need to blind Dzasa as well.
+Tibet Improvement Party Spotted in Shigatse
+Rumours circulating among the Dob-dobs that visit the Ganden Phodrang allege that the Nepalese border has seen an increase in tax resistance. This can only mean one thing, that the 9th Panchen Lama is plotting against the Regency again. The Panchen Lama was exiled a decade ago for resisting the 13th Dalai Lama's tax collection, and his domain in Shigatse was rightfully seized by the Ganden Phodrang to pay back taxes. Until The Panchen's name appeared on copies of \
+Send guards to Sikkim.
+[TIB.GetLeader] Grapples with Refugees
+The Regent, [TIB.GetLeader], has publicly reiterated his promise to protect West Xikang from the Sichuan clique. The people of West Xikang are so grateful to the Gaden Phodrang for liberating them from Chinese imperialism. [TIB.GetLeader] also spoke of how they shall continue to protect the Golok people, but they also spoke of avenging their loss inflicted upon them by the Qinghai Army.
+We will keep you safe.
+Young Tibet Party Arrives in Utsang
+Reports of General Tsarong Dzasa's insidious YTP has made a fresh set of promises to the people of Utsang. The Young Tibet Party has apparently promised the peasants liberation from banditry should Tsarong Dzasa be elevated to Regent. The Young Tibetans are not shy claiming a new Regent and the demotion of our most esteemed Trimön will allow Tibet to modernise faster. We owe the continued independence for Tibet to the right guidance of Trimön and [TIB.GetLeader], both of whom are deeply offended by Tsarong's politicking.
+That is nearly seditious speech.
+Tibet Improvement Caught Entering Through Sikkhim
+Nepalese monks have reported being accosted by radical Thubtens in Sikkim. What distinguishes the Thubtens is their promotion of Indian Socialist and Sun Yat-sen rhetoric. Surely these radicals are the rumoured Tibet Improvement Party, an easily transparent Indian plot to overthrow the Ganden Phodrang and bring in atheistic socialism. Although Sikkim is out of our ability to intervene, the Ganden Phodrang can lean on the Nepalese government to help disperse these socialist agitators.
+Nepal wouldn't help socialists, would they?
+Tibet Asks Us to close the Sikkim Border
+The Tibetan Regent claims the Tibet Improvement Party is secretly crossing from Bharat to Tibet through Sikkim. At some cost we can send troops there to ensure our relations with Tibet does not deteriorate. At the same time we could ignore this possibly spurious theory of theirs.
+Close Sikkim.
+Tibet cannot order us around!
+Nepal Agrees to Close Sikkhim border
+Without any access to Sikkim, the Tibet Improvement Party are apparently trying to pull their forces across the Himalayas back into the Bharatiya People's Republic. Hopefully this time they shall remain in exile.
+The liberal snake is gone!
+Nepal Refuses to Close Sikkhim Border
+The Tibet Improvement Party has continued to grow in Sikkim and it seems to have grown bold enough to finally cross into Tibet. We cannot mobilise the Dmag-Sgar out of Lhasa in time, but the Dob-dobs can be deployed in time to counter the rebels. The Dob-dobs can either be sent to hunt the Tibet Improvement militants in Kham province, or try to stem the flow of traitors coming in through Sikkim. Marshal Trimön believes a hunt for Khampa allies will shock the Tibet Improvement into retreating once more, while his understudy General Changra believes a direct assault against the Sikkim border is both necessary and legally justified.
+Send Dob-dobs to the Sikkim Border
+Send the Dob-dobs to Kham.
+Tibet Improvement Militia Defeat Dob-dobs
+The militia of the Tibet Improvement Party reportedly ambushed Dob-dobs patrolling in Kham and have taken some as prisoners. Following this victory the Tibet Improvement Party along with their militia horde appear to be carving a path towards Sichuan. Monks in the Ganden Pradong believe they can stop the Tibet Improvement's charge by pressuring all loyal Tibetans to ostracise the rebels, while Trimön believes the Dob-dobs in Kham could defeat them if ordered to.
+Deploy the Dob-dobs to cut them off.
+Rely on the Ganden Pradong's word.
+Our Dob-dobs End the Tibet Improvement Push
+The Tibet Improvement militia made the foolish mistake of attacking Dob-dobs patrolling Kham. Despite some early victories, the militias retreating into Sichuan were fired upon by Sichuanese border guards, assuming correctly that these were rebels and not our army. With no word from the Sichuanese monasteries, we can assume the militia have been separated from their foolish revolutionary leaders.
+We have you now!
+Tibet Improvement Militia are routed
+After a long chase through Kham, The Panchen Lama and Thubten Kunphela have been captured. The revolutionary leaders were caught by militiamen while hiding in an former estate of Thubten Kunphela. The estate has now been liquidated and the traitorous serfs repossessed by the Ganden Phodrang With this victory it looks like the Tibet Improvement Movement is dead. Trimön has another medal to pin on his chest.
+To the Potala prisons with them!
+Tibet Improvement Militia arrive in Longyan
+A strange sight befell the Central Committee this morning, as a ragged group of Tibetan soldiers and dignitaries arrived at Longyan, carrying copies of the Three Principles of The People, their leaders have beseeched the Central Committee for a task force to carry out revolution in Tibet. Proudly, the Central Committee has appointed Huang Musong as the General-Advisor of Tibet. Furthermore, the Central Committee has authorised a new division to leave for Lhasa and liberate the Tibetan People from the corrupt Regent and tyrannical Trimön.
+Take a general and troops to victory!
 §YHuang Musong§! becomes a Field Marshal.
+Tibet Improvement Party Take Lhasa
+On a quiet morning, General Trimön was inspecting a guard post outside of Lhasa. Suddenly and without warning, General Trimön was fired upon from the plains. Too slow to raise the alarm, General Trimön was shot dead outside of Lhasa, the most important victory that day of the Tibet Improvement Party, which was able to overrun the city by the next evening. The Reting Rinpoche is now justly imprisoned, and the Ganden Phodrang under watchful occupation.
+Our Country is Free!
+Young Tibet Party Angered Over Utsang
+Tsarong Dzasa's Young Tibet Party is reportedly giving ostentatious speeches throughout Utsang on their plight in Tibet. General Tsarong Dzasa, using his notability from his actions during the Xinhai Revolution, promises the end of hunger, banditry, and neglect they blame on the Ganden Phodrang. It is doubtless that this rabble rousing has garnered them support in the region.
+But they cannot help anyone!
+Bandit Raids in Utsang Intensifies
+Bandits from the west are a known spectre in Utsang. From the grave deceivers like Ja Lama that reportedly built a fortress in the Gobi Desert out of the bodies of his many slaves, to more obvious curs like the Uyghurs. Our monks are reporting that Tsarong Dzasa has recently won a string of victories against Turkic bandits, and is making a circus of his victories to the humble people of Utsang. Trimön recommends we send the Dmag-Sgar, the unit Trimön inherited from Thubten Kunphela, to make a bigger show of chasing Turks out of Utsang. However, this could be playing into Dzasa's plan to embarrass us, and [TIB.GetLeader] believes the Utsang Dob-dobs are merely lazy and need explicit orders to do their jobs.
+Deploy the Dmag-Sgar to Utsang.
+Tell the Dob-dobs to do their jobs!
+Dmag-Sgar Find British Guns on Bandits
+An elite Dmag-Sgar division has been sent from Lhasa to Utsang to root out Uyghur camps in the region. The Uyghur rebels, Trimön hopes, will retreat back to Kashgar and the Traditionalists can claim a political victory. Trimön has reported great success, and claims he has found British Lee-Enfield rifles held by the Uyghur bandits. There is only one thing this could mean.
+I knew it! British banditry.
+Dmag-Sgar Interrogate Bandits, British Collusion
+Shocking news came through Lhasa as Trimön paraded several Uyghur prisoners through the streets. In front of his home, Trimön reported that the Uyghur bandits confessed that they were being armed by the British Indian army. Furthermore, they were instructed to raid Utsang in order to raise a bounty for their Ottoman masters back in Kashgar. To the people of Utsang, this revelation fell neatly in line with the growing discontent over the violence in Xinjiang. To many in the crowd, this could even fortell the Kalachakra tantra, which promises a holy war between all Muslims and all Buddhists some day.
+But we got those bastards first!
+Dob-dobs Join Young Tibet, March on Lhasa
+A surprise parade in Lhasa drew out a large crowd, hoping it was another one of Trimön's pronouncements. Instead, at the head of the parade was Tsarong Dzasa, with a group of Uyghur prisoners. The most astonishing sight was a troop of Indian and Afghan riflemen, led by a British man. Tsarong introduced this guest to the crowd as General Philip Neame, and proclaimed that they had joined forces during a battle and captured many Uyghur bandits. From the Potala palace, Trimön watches on in horror.
+We are screwed, people.
+Trimön Declared Insane, Tsarong Dzasa New Regent
+The terrible embarrassment Trimön brought to Lhasa that day could not be forgotten. After wandering out of the Potala palace, Trimön was discovered by the crowd in a white robe, something far too pedestrian for his reputation. Upon being spotted, Trimön gave a dumb expression and looked upon his subjects as if they were strangers, then attempted to leave Lhasa. The crowd, believing him insane, captured Trimön and has placed him under house arrest. The Khenchen Lobsang Tashi will now serve as Prime Minister, and the Reting Rinpoche has graciously stepped down from the Regency in favour of Tsarong Dzasa.
+Begone corrupt and insane old men!
+Revolutionaries Announce Election in One Year
+With the creation of the new constitution, the Kyicho Kuntun, the Tibetan Improvement Party and the Sacred Union parties register to run candidates for the upcoming election. Already posters for various candidates have started to pop up in Lhasa and other major cities. Much ado is being made of the three candidates, especially the opposition leaders Nicholas Roerich and Lungshar. Lungshar's detractors still claim the aristocrat plotted to sell Tibet to foreigners, likewise with the foreign-born Roerich. Roerich's status as a candidate in the Tibetan elections is shaky, but has seen strong support from Tibetans living in exile in Bharat. Fortunately for Roerich's supporters, the Indian revolutionary militias have protected him and ensured his stay in Lhasa.
+Good luck everyone.
+Kyicho Kuntun Promises Moderation
+Kyicho Kuntun promises, if elected, they will reopen the Ganden Phodrang and empower the Tsongdu Gyendzom. The Tsongdu Gyendzom consisting of abbots and ex-abbots of the three biggest Gelugpa monasteries. This will separate the secular government from the Gaden Phodrang will still allowing them to represent us diplomatically. The supporters of the Kyicho Kuntun also claim that the incumbent Tibet Improvement Party is detrimental to Tibet through their dependence on the Chinese KMT. At the same time, the Kyicho Kuntun denounces the Sacred Union Party as a front for Indian socialism to impose itself on Tibet.
+How forgiving of Lungshar.
+Tibet Improvement Promises Sun Yat-sen Thought
+The Tibet Improvement Party promises that if they are elected to invest in the Kham province. Moreover they shall reform the education system to allow for women to be educated. They pledge to follow the Three Principles of the People of Dr. Sun Yat-sen. In recent speeches, the Tibet Improvement has had to fend off accusations that they are a front for Chinese interests in Tibet. TIP Chairman Thubten Kunphela has responded by making massive donations of his wealth in Kham to the poor serfs he helped emancipate.
+This is the good stuff.
+Sacred Union Promises Lamaist Socialism
+The Sacred Union Party promises that if they are elected to bring about Buddhist Socialism explaining that Buddhist Values are socialist values. They promise to land reform to collectivise agriculture and to preserve the material culture of Tibet. They have also announced that they will seek to improve relations with the Bharatiya People's Republic. Detractors claim the Sacred Union wishes for the eventual subjection of Tibet to the Bharatiya People's Republic, and strongly object to the foreign intrusion of Theosophy into Tibet.
+How utopian of them.
+Tibetan Election of [GetYear]
+Today is the election for the national legislature. As per the constitution only men can vote but still a number have come out to vote for who shall be the Sikyong of Tibet. The Sikyong, or Prime Minister, is the official title of leadership of the Kashag, which would be awarded to Thubten Kunphela should the TIP retain power. The Young Tibet Party, despite their opposition to Trimön was kept off the ballots. The Kashag has approved of this because the YTP's leader, Tsarong Dzasa, had too much influence in the pre-revolutionary Tibetan military. The question though who shall win the election?
+Tibet Improvement.
+Kyicho Kuntun.
+Sacred Union.
+Tibetan Election of [GetYear]
+Today is the election for the national legislature. As per the constitution only men can vote but still a number have come out to vote for who shall be the Sikyong of Tibet. The Sacred Union Party was kept off the ballots. The question though who shall win the election?
+Tibet Improvement.
+Kyicho Kuntun.
+Women's Suffrage Causes Split in Sacred Union
+The vote in the Kashag for women's suffrage has caused a rupture in the Sacred Union Party. The introduction of this policy comes shortly after Nicholas Roerich met with the ambassador to Bharat. The Sacred Union party meeting reportedly ended in a riot as Tibetan members left en masse. It is obvious to the observers that the Tibetans refused to vote on the issue of women's suffrage. This has allowed the Tibet Improvement Party to gain influence at the expense of the Sacred Union Party.
+Tibet Improvement undisputed.
+Pressuring The Regent to Emancipate his Serfs
+Serfdom is common throughout Tibet. For a long time no one had an alternative. However, recently a proposal has come before the Tibetan Regent, [TIB.GetLeader], to liberate the serfs that work directly in the various Ganden Phodrang's Estates. Supporters of the Young Tibet Party believe that this proposal can bring about a gradual end to serfdom in Tibet. However their opponents decry the proposal as being just more foreign interference in Tibet.
+Leading by example.
+We will not abandon our traditions!
+Pressure the Tse Laptra to Expand Education
+Education in Tibet is currently done by two agencies, the Tse Laptra and the Tsikhang. The Tse Laptra trains male boys in monastic and governmental duties while the Tsikhang trains the sons of the aristocracy for their role in the government. While this system has served Tibet for centuries, there is rampant poverty throughout the country. To that end a proposal to begin transforming the education system to a modern system for a modern Tibet. The first step being to open the Tse Laptra to allow lay people to enter the Tse Laptra. However others decry this as being foreign influence to destroy the traditional Tibetan ways of life.
+Laypeople may enrol.
+To do so is un-Tibetan.
+Boy of Amdo Ordained 14th Dalai Lama
+Rarely does news come out of Tibet, especially positive news. The papers are reporting that a child of less than two has been found by the Tibetan Ganden Phodrang and ordained as their next Dalai Lama.\n\nThis fourteenth Dalai Lama comes after a tumultuous regency following the previous Lama's death, that saw a number of high ranking Tibetan officials expelled. The journey the members of the Ganden Phodrang undertook, including lurid details of the danger, the other children the Gaden sought out, only to find them dead or missing, makes for a thrilling story. It is the hope of the Tibetan people, including the many Tibetans currently living in exile, that the new Dalai Lama will grow up into their \
+It is a cycle, not change.
+Exiled Military Leader from Tibet Arrives
+While our military does not reach the standard of loyalty seen in Western powers, we pride ourselves in meritocracy. The commanders and admiral you see on the battlefield have proven their loyalty to the leader and the people. On the other hand, victory could hinge on the deadly will exhibited by some of the more mercenary commanders, those willing to do-or-die. This man comes to us from the tumultuous kingdom of Tibet, whose cliques have relied heavily on mercenary commanders in the past. This general comes with a sob story of how the tides turned against him, and he came ragged to us ready to fight the good fight for once. Whether he is genuine is hard to determine, but we must decide if he is worth recruiting in this already-traitorous times.
+We need all the help we can get.
+Nice story, still going to say no.
+Frontier Corps Clash With Dob-dobs
+Clashes broke out recently as Philip Neame's Frontier Corps attempted to instruct Shigatse Dob-dobs in modern forms of warfare and discipline. However, as most of the Dob-dobs were traditionalists this only increased tension among the ranks. It got so bad that at one point when the Frontier Corps went to the nearby Shigatse town they were nearly mobbed by the villagers and Dob-dobs. Order has been restored to the guilty Dob-dobs, but not without some animosity between these new influences and the traditional custodians of Tibet.
+I blame the Panchen Lama
+The Last of the Rugby Boys
+Wangdu Norbu Kyipup, the last of the famous Four Rugby Boys, recounts the fate of the three other boys. Mondo went into mining but was chased off for disturbing spirits, Gongkar died of pnemonia in 1917, Ringang is imprisoned in the Union of Britain for his connections to the royal government. Each a reflection of the failure of the Ganden Phodrang of old to meet the expectations of the Tibetan people. In recounting this story, Wangdu Norbu Kyipup has given advice to [TIB.GetLeader] that without proper governance, the Tibetan people will stay in poverty.
+The day has been too long, my friend.
+Trimön's House Catches Fire
+Either as sabotage from an old rival, or Trimön's own doing by his deteriorated mental state, Trimön's house in Lhasa has burned down. Without support from his political allies, Trimön is forced to move into the Potala Palace. Despite the horrible circumstance that necessitated [TIB.GetLeader] to depose Trimön, it would be cruel to deny the patriot a retirement.
+Glad that he is safe
+Ja Lama's Old Fort Discovered
+Prior to his final return to Mongolia, the bandit king Ja Lama had lived on the edge of the Gobi Desert. Here he allegedly built a fortress with the slaves of his many raids, and was rumoured to have killed them all afterwards in order to conserve food. This tall tale was proven true when a Frontier Patrol happened upon the fort with its stragglers hiding in the nearby caves. This news has been sent to Mongolia, who can hopefully bring closure to some of the people Ja Lama enslaved during his cruel streak.
+Legend becomes reality.
+Dob-dobs Clash with Dmag-Sgar
+The more organised Dmag-Sgar have clashed with the monastic warriors of the Dob-dobs. While both fight for Tibet. The Monks accuse the Dmag-Sgar as turning their backs upon tradition while those same soldiers accuse the Dob-dobs of not wanting to adopt modern ways of warfare. Thankfully the tension hasn't boiled over into violence but it will take time to get them working together.
+Focus on the enemy not each other.
+Frontier Corps Clash with Dmag-Sgar
+There is tension among the Dmag-Sgar and the Frontier Corps. The Dmag-Sgar resent the fact that the foreign trained and lead Frontier Corps tend to have more influence within government. A number of the soldiers from both groups have come to blows as the tensions heats up. The commanders on both sides have prevented it from escalating it further yet tension remains among the soldiers.
+I blame the Panchen Lama
+A Second Rugby Four?
+When Tibet became free from China, we sent four sons of the respectable families to Britain to learn about the west and what could be gained for our country. As they went to the Rugby School in Britain these four boys have become known as the Rugby Four. It has been suggested that we support the formation of a new Rugby Four. However, since Britain has fallen to anarchy, it has been suggested that this new \
+When Tibet became free from China, we sent four sons of the respectable families to Britain to learn about the west and what could be gained for our country. As they went to the Rugby School in Britain these four boys have become known as the Rugby Four. It has been suggested that we support the formation of a new Rugby Four. However, since Britain has fallen to anarchy, it has been suggested that this new \
+Another rugby mission will be a benefit for Tibet!
+Another rugby mission is not needed.
+Tibetan Students Arrive in Victoria
+Tibetan Students Arrive in Sydney
+Today, four Tibetan students have arrived in Victoria to begin their studies at the University of British Columbia. These four students are the sons of prominent Tibetan families and have a surprisingly decent grasp of English. They have been sponsored by the Tibetan government so that they can learn more about the wider world.
+Today, four Tibetan students have arrived in Sydney to begin their studies at the University of Sydney. These four students are the sons of prominent Tibetan families and have a surprisingly decent grasp of English. They have been sponsored by the Tibetan government so that they can learn more about the wider world.
+Tashi deleg, and welcome to [ROOT.GetNameDef]!
+Tibetan Students Head Home
+As the four Tibetan students have completed their education, they are boarding a plane back to [TIB.Capital.GetCapitalVictoryPointName] in Tibet. The completion of this programme has provided them a bit more understanding of the wider world and us with such an isolated country at the roof of the world.
+Kha-lay-pheb.
+The Rugby Boys Return Home
+After years abroad, the four rugby students have returned to [ROOT.Capital.GetCapitalVictoryPointName]. People have lined up as the plane touched down to see the students. These students will help modernise Tibet and bring her into the modern world. Already, the recognition these young men are receiving in [ROOT.Capital.GetCapitalVictoryPointName] has shown the cultural evolution Tibet has undergone. The Second Rugby Boys gladly recommend studying abroad to the children who come to them.
+Welcome home!
+Memorial for the Golok Massacre
+Every year since 1932 the Golok People have burned incense for those that were massacred by the Ma Clique during their war against Tibet. During these memorial services, vows against the Ma Clique are often spoken aloud. The government in Lhasa which took them in following their brutal massacre has announced plans to build a memorial in honour of those that were killed. Such a move has not gone unnoticed by the Goloks or the Mas.
+We shall never forget the day when the Mas attacked.
+Austrian Explorers in Tibet
+The two Austrian Explorers Peter Aufschnaiter and Heinrich Harrer have arrived in the capital of Lhasa. They seem to have a surprising grasp on our language. Normally we would help transport them to the edge of our country to prevent them from. However, a small minority have suggested that we could use them to learn more about the rest of the world.
+We do not need Foreign Influence
+We shall learn from them
+Harrer's Influence
+Since Heinrich Harrer has decided to stay in Tibet we have made him a government employee, specifically the court photographer, this way so we can keep a better eye upon the foreigner. He has even introduced the foreign idea of ice-skating to our country. The more hardliner traditionalists are outraged at this but with Harrer's friendship to the Dalai Lama, they can only work to sideline him in Tibet and hope he decides to move on.
+We should have exiled them.
+Harrer decides to leave Tibet
+After his time within Tibet, Heinrich Harrer has decided to leave Tibet. Likely he intends to return to Austria. Most do not really care where he goes next. Still he has left an impact on Tibet, mostly in the friendship with the Dalai Lama. Let us hope that this does not bring ruin to Tibet in the future. Still many are glad that he has finally decided to move on.
+They are finally moving on
+French Explorer in Lhasa
+We have uncovered a French explorer by the name of Alexandra David-Néel in Lhasa. During her time in the capital, she has been masquerading as a Buddhist nun. Apparently she came in with other pilgrims during the Monlam Prayer Festival. It has been decided that she will be escorted to the border with Nepal and she can find her own way back to France.
+Good Riddance
+Dealing with Rebellious Shigatse Nobles
+Some nobles in Shigatse have supported the Panchen Lama and his rebels against Tibet. They wanted to bring foreign ideas that would destroy Tibet, such as radical ideas from the Kuomintang. For this the Regent, [TIB.GetLeader] has decided to punish them for their rebellion. They will be executed and have their lands confiscated.
+This shall teach the rebels.
+Dealing with Rebellious Kham Nobles
+Some nobles in Kham have supported the Panchen Lama and his rebels against Tibet. They wanted to bring foreign ideas that would destroy Tibet, such as radical ideas from the Kuomintang. For this the Regent, [TIB.GetLeader] has decided to punish them for their rebellion. They will be executed and have their lands confiscated.
+This shall teach the rebels.
+Questioning the Dalai Lama
+With the fair and democratic elections in Tibet righteously choosing [TIB.GetLeader], the democratic government can now evaluate the matter of the Dalai Lama free of his traditional influence. With the 14th Dalai Lama still far too young to represent the people of Tibet on his own, it falls to the Kashag to delineate his roles in this new revolutionary environment. [TIB.GetLeader], compelled by attractive revelations and supported by the Bharatiya establishment, has begun to question the absolute legitimacy of the young child as the new Dalai Lama. According to Roerich, revelations occurring across Tibet and India point towards there being a 9th Dalai Lama living, not a 14th. These objections are drawing a lot of criticism from Kham and Amdo, but the Khampa people seem to support this assertion.
+Should we conduct another search?
+Introducing Theosophy to Tibet
+The Sacred Union Party has finally convinced enough Lhasa residents to allow an official delegation of the Theosophical Society into Tibet. This office will inhabit Trimön's old residence in Lhasa, and has promised to be a positive factor in the country's stability. The delegates, arriving from India, have treated the occasion with the greatest gratitude. A shrine has appeared to the great philosophers Helena Blavatsky, Annie Besant and Jiddu Krishnamurti, representing the three descendants of the ancient peoples Theosophists believe came out of Tibet in ancient days.
+Lenin would be so proud!
+KMT and Indian Socialists Overthrow Tibet
+To most newspapers, news from Tibet is treated as fanciful stories of little consequence to geopolitics, only relevant to fellow Buddhists scattered throughout China. However, the modern world has finally entered Tibet in the ideology of Sun Yat-sen, toppling their Regent and installing the radical ideologue [TIB.GetLeader].\n\nThe new Regent is now guided by the Tibet Improvement Party, a collection of Khampa agitators trained by the KMT and grateful to Bharat for asylum. [TIB.GetLeader] has given statements to National Geographic, the only reporters currently allowed in Tibet, promising to fulfil his duties as Regent first, and locate the next Dalai Lama. More grandiose promises of free and democratic elections and repulsing the Ma Muslims from Yushu were also announced.
+It is a cycle, not change.
 Tibet
 Tibetan
 Tibet

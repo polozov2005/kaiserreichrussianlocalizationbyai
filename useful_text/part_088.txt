@@ -150,6 +150,29 @@ the Guararápes Confederation
 Confederation of the Equator
 Equatorian
 the Confederation of the Equator
+Democratising Our Administration
+In order to break with the old reactionary regime we must get rid of their influence in every corner of our new nation. The administration needs to be democratised, the teachers re-educated and the army restructured. A part of this process is to remove the honours they have awarded to jingoist slaughterers like Otto von Bismarck and Paul von Hindenburg, with the greatest examples being the countless Bismarck memorial towers all over our nation as well as the city of Hindenburg. Our president has come forward with the suggestion to name it in honour of Karl Marx, while the locals preferred to keep the preposterous name.
+Rename it in honour of Karl Marx.
+A name to represent its industrial background.
+Restoring the Old Order
+After defeating our socialist foes it is time to restore order on the local level as well. Their regime changed the names of the places, streets and boulevards named after heroes of our nation, because they were deemed unrepresentative or counter-revolutionary. Their original names shall be restored.
+It shall be Hindenburg forever.
+German Request for Independence
+The German government has spent a significant amount of time building itself up. For once, it seems like that it is no longer being regarded as a client state of ours. Perhaps it is finally time we fully grant them independence, free from our oversight.
+They have earned it.
+The Germans cannot be trusted.
+Operation: Bruder
+Our client state in Germany has been attempting to foment a revolution in Austria lately. Their actions are sure to bring about a war between them and the Austrians. We should consider whether we are ready for such a war.
+Approve the operation.
+Tell them to stand down.
+Operation: Vetter
+Our client state in Germany has been attempting to foment a revolution in Poland lately. Their actions are sure to bring about a war between them and the Polish. We should consider whether we are ready for such a war.
+Approve the operation.
+Tell them to stand down.
+Operation: Schwester
+Our client state in Germany has been attempting to foment a revolution in Prussia lately, attempting to stoke the flames of German reunification. Their actions are sure to bring about a war between them and the Prussian government. We should consider whether we are ready for such a war.
+Approve the operation.
+Tell them to stand down.
 BNS
 Bund Nationaler Syndikalisten (League of National Syndicalists)
 GRK
@@ -470,12 +493,102 @@ Intro to Guatemala
 Guatemala's political chaos started in 1898, when Manuel Estrada Cabrera came into power. Cabrera's “Liberal” party had a deep control over the government, with all elections up until 1920 being rigged towards the Liberal Federalist party under Cabrera. This period also vastly increased the influence of the United Fruit Company, an American owned business focused on increasing the amount of exports towards America for cheaper prices.\n\nThis changed in 1920, when the Liberal party faced extreme opposition following earthquakes in 1918 that destroyed the industry Cabrera had setup. His lack of response resulted in the Conservatives within the country forming the Unionist Party, with the people running the party consisting of José Azmitia, Tácito Molina, Eduardo Camacho, Julio Bianchi and Emilio Escamilla, while also being supported by the Catholic church within Guatemala.\n\nThe Unionist Party prepared the “Three-Fold Act”, which was the founding policy of the party, and they distributed these in Guatemala City on the New Year of 1920. This led to an extreme rise of the popularity of the Unionists, with protests occurring outside the capital on March 11th, 1920, with the crowd being fired upon and the populace left more angered than before. The final straw was in 1920, when Adrián Vidaurre, President of the National Assembly, declared Cabrera unfit to rule and deposed him, though still facing fierce resistance from Cabrera's supporters. They thereby made Carlos Herrera President of Guatemala.\n\nHerrara balanced a very careful political tightrope due to him having Liberal aligned views while representing the Unionist Party. This tightrope snapped in 1921, when he critically upset the Liberal party by refusing to offer concessions the UFC, resulting in a military coup led by José María Orellana. He represented the needs and demands of the Liberal Party, offering concessions to the UFC the following year.\n\nThe political situation has completely stagnated since then, with Orellana ruling over his regime while balancing the needs of both the left and right. Guatemala now stands frozen...
 §MLiberal Federalistas§! ($authoritarian_democrat_coloured$) / §MLiberal Progresistas§! ($paternal_autocrat_coloured$)\n£white_dot Do not prepare for elections in the Letter of the 311 event to keep Orellana and the §aPartido Liberal Federalista§! in power.\n£white_dot Or, prepare for elections to have Ubico coup the government with the §PPartido Liberal Progresista§!.\n£white_dot Focus on rooting out the opposition in the Opening Strategies event.\n£white_dot Advance onward to Quetzaltenango in the Choosing a Target event.\n£white_dot We will win the civil war and secure our rule.\n\n§MComunistas§! ($radical_socialist_coloured$) / §MUnionistas§! ($social_conservative_coloured$) / §MPartido Renovación Nacional§! ($social_democrat_coloured$)\n£white_dot Secure the temporary borders in the Opening Strategies event.\n£white_dot Advance onward to Quetzaltenango in the Choosing a Target event.\n£white_dot The §SPartido Renovación Nacional§! will win the civil war.\n£white_dot Choose the desired party when elections are held.\n\n§MUFC Counter-Revolution§! ($paternal_autocrat_coloured$)\n£white_dot Secure the temporary borders in the Opening Strategies event.\n£white_dot Advance onward to Quetzaltenango in the Choosing a Target event.\n£white_dot The §SPartido Renovación Nacional§! will win the civil war.\n£white_dot In the elections, choose either the §RPartido Comunista de Guatemala§! or the §SPartido Renovación Nacional§!.\n£white_dot Have Ubico defeat the government in the Counter-Revolution.
 $CEN_pre_guide$
+Black Monday hits us!
+Black Monday has hit the United States, making their economic recession even worse. Ripples are being felt all across Central America, our crops remain unsold and US companies shrink in size to avoid bankruptcy.
+What will this mean for Guatemala?
+Legal Issues
+Several peasants sued the United Fruit Company and certain provincial governors on flimsy grounds such as having their land sold by other parties without their knowledge, local governors seizing their land for the UFC without sensible reason, and ignoring the last wills for heirless people. It is obvious that the socialists pressured these peasants, instructing them to push their claims and helping them with the legal fees.
+Listen to their pleas, return the land and try to do something about corruption.
+These are surely just made up excuses!
+The American Civil War
+The American Civil war has broken out! Our biggest trading partner disappeared almost overnight. UFC officials are scrambling to save as much as they can in the chaos, selling off assets to stabilise their situation. Their support for Orellana has weakened considerably; a dark cloud now looms on the horizon of Guatemala.
+Guatemala will survive.
+Letter of the 311
+A group of democrats and socialists, mainly composed of university students, wrote a letter designated to President Orellana asking for his resignation and for free elections to start as soon as possible. Orellana knows his support is dwindling whilst the democratic movement has militarised and started talks with the socialists to declare open revolt to bring 'freedom' to Guatemala, with this letter just being the tipping point of the tensions. If the government rejects this apparently 'heart-felt' letter coming from the future of Guatemala, civil war is all but inevitable.
+Start preparing for elections as soon as possible, to avert disaster.
+This is just a socialist conspiracy! Guatemala will not be corrupted!
+Ubico's Coup
+Seeing the weakness of Orellana and the inevitable elections that would bring socialists into government, the popular hardline general Jorge Ubico Castañeda has entered the capital with his loyal army and deposed Orellana. As soon as the news hit the country, the democratic-socialist coalition, the National Renovation Party, started taking direct control of several cities and declared Ubico's regime illegitimate, starting a civil war. Some of the more moderate people, appalled by Ubico's power grab, joined their cause along with the Conservatives, who have been a long-standing rival of the Liberals.
+Ubico will save us from socialism!
+Ubico's Speech to the People
+Several days after the coup, as he managed to stabilise his rule in the capital, Ubico gave a speech to the people of Ciudad de Guatemala:\n\n'Fellow Guatemalans, I come to you in the wake of recent events to issue a call to reason. Let no Guatemalan deny the perils of our time. While we battle one another, divided by the petty strife of our common history, the tide of a greater conflict is turning against us, threatening to destroy all that we have accomplished. It is time for us as individuals to set aside our long-standing feuds and unite. The tides of an unwinnable war are upon us, and we must seek refuge upon higher ground, lest we be swept away by the flood.\n\nThe United States of America is no more! Whatever semblance of unity and protection it once provided is a phantom, a memory. With our enemies left unchecked, who will you turn to for protection? The devastation wrought by the communists and conservatives is self-evident. We have seen our cities occupied by the National Renovation Party. We have seen firsthand our friends and loved ones shackled by them. Unprecedented and unimaginable though they may be, these are the signs of our time.\n\nThe time has come, my fellow Guatemalans, to rally to a new banner. In unity lies strength. Out of the many we shall forge an indivisible whole, answering only to a single throne, and from that throne, I shall watch over you.'\n\nThe booing of the supporters of the PRN were drowned in the standing ovations of the crowds.
+We will fight for Guatemala! For Ubico!
+Opening Strategies
+As the chaos throughout the country subsided, vast areas have ended up controlled by the National Renovation Party. They are trying to expand their position in an aggressive manner, and underground cells have formed in most cities that still are nominally loyal to us. What would be the best course of action?
+Secure the temporary borders, not one mile will be ceded!
+Focus on rooting out opposition in the Capital.
+Choosing a Target
+[getgua8], the military staff had to decide their strategy for the war. Would they advance directly on the mountainous makeshift rebel capital of Quetzaltenango, ending the rebellion fast but in a very costly assault, or try to starve the rebels by moving onwards to Ciudad de Belize and then cut them off from the Mexican border, isolating them?
+They will fall like flies, onward to Quetzaltenango!
+We shouldn't waste honourable Guatemalan lives in vain, starve the rebels into submission.
 After we secured our borders
 After Ciudad de Guatemala and other urban centres were cleared of any rebel presence
+The Siege of Ciudad de Belize
+As the rebel defences are overstretched, the concentrated blow to their main port in Belize went by with no issues. We registered barely any losses, and already started marching to the Mexican border to encircle whatever remains of the rebel forces, as their resources grow scarcer. While it is obvious to all parties involved that Mexico heavily assists the rebellion, the spineless socialists will surely not declare war to protect their proteges, even when their means of supporting the rebels will disappear.
+The rebels know their demise is imminent.
+The Assault on the Capital
+As our troops were finishing securing the border with Mexico, the rebels moved against Ciudad de Guatemala! This time it was them pouring all their resources into a final attack to make us flee from the capital and break our will. With a good chunk of our forces guarding the western border, this fight will be a hard one. Some generals even suggested letting them in the capital, fighting them in the streets, buying time for our forces to occupy the now virtually defenceless rebel land.
+We will never let them enter Ciudad de Guatemala!
+It would be better for our long term goals to dye our capital red with blood.
+The End of the Civil War
+After weeks of fighting in the streets of Ciudad de Guatemala, our troops managed to return to the capital, encircling the rebels, forcing their surrender. Our victorious president called for a parade the very next day. Through the bloody streets of Guatemala, the troops paraded valiantly, holding the Guatemalan flag up high, to the cheers of the people, who can taste peace at last. [getgua12d]
+[getgua12a]
 The government started working towards making the civil war just a painful memory, and continue the path to a better Guatemala, as they did for the last 18 years, all under the guiding hand of Orellana, our dear president.
 The government already started working on plans to help the country heal and recover, preparing to enter a new era, all under the guiding hand of Ubico.
 Long live our President!
 Peace, at last. Praise Ubico!
+A Statue for Our Victor
+As Ciudad de Guatemala is being rebuilt, the people (mainly high-class aristocracy) expressed their earnest desire for a statue dedicated to [GUA_surname], to immortalise his role as the man who stopped the socialists from ruining Guatemala. It would be built in the likeness of the heroes of old, with [GUA_surname] on a fine steed, holding his sabre forward.
+We are truly grateful.
+Rebuilding Ciudad de Guatemala
+As Ciudad de Guatemala was badly damaged by the final skirmish with the rebels, a big reconstruction project has commenced. [GUA_surname] wants to make the roads better and wider, to prepare Guatemala to be a capital for a larger Central America. However, more sceptical members of the government proposed a more sensible plan, to increase the defences of the capital, to never again have such a bloodbath happen inside its borders.
+Guatemala will never again be threatened, rebuild it with grandeur!
+Better to be conservative and protect the capital from further threats.
+Civil War!
+The National Renovation Party has used the days since the letter to prepare themselves to declare open revolt! They were joined by the communists and conservatives and managed to take over Quetzaltenango and Ciudad de Belize, with most of the land between them and the Mexican border. The government is in disarray trying to come up with a plan to stabilise the situation and defeat the rebels.
+Rebel scum!
+Disaster!
+Quetzaltenango proved to be a formidable fortress. The loyalist armies were bogged down in its defensive layers and were incurring much heavier losses than the rebels. Feeling desperate, the government sent more and more troops to help the siege. After the defences of Ciudad de Guatemala were thinned enough, the PRN members hiding in the city came out and managed to take out the lightly protected leadership! The higher echelons fell into anarchy, with most of them escaping while the rebel alliance took hold of the country. Hearing this news, the army, tired after the fighting, held the white flag.
+Long live Guatemalan Freedom!
+Victory!
+The fighting was brutal. The rebels made Quetzaltenango into a formidable fortress. We incurred heavy losses. We needed to pledge all our reserves to the fight. The capital was virtually undefended. However, we succeeded. We broke through their lines yesterday, and captured their leaders. As most rebels were in this city, the rebellion was effectively broken. After a brief respite, the army marched in the rest of the country and made sure all the remaining pockets were defeated.
+Guatemala finds peace, at last!
+The Cost of Pride
+Refusing to let the rebels taint the capital, the defenders rallied in front of Ciudad de Guatemala. The battle was a bloody one, with many loses on both sides, but the numerical superiority of the rebels won over the smaller defending army. When it was clear that the rebels would win, the government escaped the capital, leaving it open to be liberated by the rebel alliance. Hearing this news, the rest of the army, scattered around the Mexican border, agreed to lay down their arms and swear allegiance to the new government.
+Freedom, at last!
+Elections of [GetYear]
+Elections are a healthy part of any democracy. Unfortunately in Guatemala, they have rarely been fair, with the opposition either non-existent or heavily disadvantaged and electoral violence. A major event in Guatemala's democratic spring will occur with the holding of free and fair elections. The Revolutionary Coalition, having served its purpose in overthrowing the Liberal dictatorship and restoring order after the civil war, will be disbanded and each party will run in the election. It will likely be a close affair with each party having separate and established support bases: the Unionist party appeals to conservative, religious folk, the PRN represents the progressive youth, and the PCG aims to sway the workers and peasants.
+Spiritual Socialism and the PRN will lead Guatemala into the future
+Vitalism and the Central American dream reign supreme.
+In an upset, the PCG come out on top.
+The Counter-Revolution!
+Ubico returned with an army of mercenaries paid for by the UFC! He landed in Belize and started to march towards the capital, while we're trying to prepare defences to meet him in battle, even though we're very weakened due to the previous civil war.
+Ubico defeats the government!
+Ubico is stopped, the revolution is saved!
+Naval Disaster
+As the Guatemalan navy finally had more than one lonely ship, they were sent out to do formation training. However, the sheer incompetence of the newly trained sailors resulted in one of the ships hitting the other during targeting training, forcing it to capsize. Fearful of an adverse reaction from the people that so much money has gone to waste, Ubico's propaganda machine tried to spin it as a reenactment of the battle of Trafalgar.
+That's an... interesting turn of events.
+Nobody Had The Guts To Leave The Temple!
+The legacy of extravagance and hedonism that president Cabrera embodies still remains scattered throughout Guatemala in the form of Minervan Temples. These buildings were used for Fiestas Minervalias, a holiday of Cabrera's own design. There were children singing, dances, and very unchristian attractions to behold in those days. Now the temples are deserted, and local priests ensure that no festivities are held. This would be the end of their use, if not for our inventive government. They have proposed we convert these halls of vice into baseball fields for children, or build them up into housing. The right would prefer to see them as baseball fields, while the left sees our housing issue as important enough to build up.
+Baseball Fields.
+Houses.
+Conflicts in the Unionist Party
+Today, a faction of the Unionist Party led José Azmitia and another led by Lázaro Chacón González have entered into an open conflict due to disagreements over the power of the President in the country. While González defends a more centralised state that gives more power to the president, Azmitia fears that this will just turn González into just another dictator for Guatemala, and their differences have finally spilled over to their followers that have openly clashed. However, both men had a meeting and have made joint public statement claiming they have reconciled their differences in order to keep the country up and running. It is not clear however if they have truly reconciled or they are just banding together out of necessity...
+Let's hope they have truly reconciled.
+Furthering of Central American thought
+One of the main objectives of the Unionist party has been since its inception to reinforce the idea of a Central American way of thinking, as well as establishing Guatemala as a key player in the independence of Central America as a whole. While the process to introduce these concepts will be slow, we're starting to see the first signs of improvement in our schools, where now many remember Guatamala as the leader of the Central American independence movement.
+The Unionistas are achieving their goals.
+Dealing with Arévalo
+With our alliance with the PCG now being broken, we have to deal with the remains of the PRN that kept us together. Juan José Arévalo, leader of the PRN and the man who tried to keep the PU and the PCG together against authoritarianism now stands questioned by his actions during such times of crisis. While he has certainly helped us to strengthen our position and take over power, he also provided aid for the PCG, even sometimes taking their side on internal arguments during our coalition days, and he might have flocked to their side if they had taken over instead of us. It is for this that many in our party are distrustful of Arévalo, and demand us to exile him from the country as a traitor. What should we do?
+Exile him, he has no place here.
+We all make mistakes, He is still an Ally.
+Introducing Miss Chiquita
+The banana as foodstuffs is no longer an exotic good to American buyers. This was expected after several decades of business. What isn't expected is competition from the likes of Dole in Hawaii to stir the pot in his favour. We commissioned Dik Browne to design a mascot for our banana division that will recapture the attention of young people. Her name is Miss Chiquita, and her song and dance now adorn radio broadcasts and newspapers across America. Sales are up as well.
+Even the Jingle works.
+Phantom Assassins Plot Against Ubico!
+A plot to assassinate our beloved Ubico has been found out by our intelligence service today. It detailed an extremely elaborate plan to infiltrate the Casa Crema and poison The President. However, our intelligence service hasn't been able to identify the perpetrators yet, and as the rumours of the conspiracy have conveniently reached the press, we need to choose a scapegoat to blame for the scandal.
+The Socialists are behind this.
+The Liberals are behind this.
 The UFC will obtain $RIGHT|Y0%%$ of our land!\n
 The UFC will obtain §Y70%§! of our land!\n
 The UFC will lose $RIGHT|Y0%%$ of our land!\n

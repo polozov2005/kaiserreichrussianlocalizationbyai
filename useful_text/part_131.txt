@@ -223,10 +223,57 @@ After our defeat against Paraguay, a puppet regime was installed in our country.
 Faction Decisions
 Invite [FROM.GetName] to the Research Group
 Brazil refused reconciliation
+Reconciliation Proposal from Paraguay
+Paraguay has proposed to us that the two nations should put aside the old wounds of the war that took place between 1864-1870. The war took the lives of over 100,000 people from our side and at least 175,000 from theirs, being a major problem in developing relations between us and Paraguay. Their diplomats propose opening a symbolic memorial to the victims of the war, presenting it as a commitment to peace and reconciliation in the region, and a recognition of the importance of building strong and positive relationships with its neighbours. They hope that Brazil will respond positively to the proposal, and that the two countries can work together to promote understanding, respect, and cooperation.
+It is time to bury the hatchet and move on in peace.
+We will not forgive them.
+Opening of the Memorial to the Victims of the Paraguayan War
+Brazil has welcomed Paraguay's proposal to forget the old wounds of the war that took place between 1864-1870. Today, the memorial was opened in Asunción in memory of all the fallen in the Paraguayan War. Brazilian diplomats were present, and after the ceremony they had a meeting with the Paraguayan leadership. This move is seen by the people of both countries as a sign of its willingness to work towards peace and reconciliation in the region, and a recognition of the importance of building positive relationships with its neighbours.
+[FROM.GetName] Has Refused
+Despite our best intent, [FROM.GetName] has refused our diplomatic approach. We have to move on without the cooperation from their side.
+An unfortunate development.
+Paraguay Proposes a Non-Aggression Pact
+Following the recent reconciliation between Paraguay and Brazil, Paraguay has proposed a non-aggression pact and a new trade agreement to solidify the growing friendship between our two countries. The proposed pact would ensure that the two nations work together to maintain peace and stability in the region, while the trade agreement would promote economic growth and cooperation.
+Sure, why not.
+Brazil Has Agreed
+Brazil has responded positively to Paraguay's proposal of a non-aggression pact and trade agreement. After many years of tension and conflict, both countries are eager to establish a new era of cooperation and friendship. The proposed agreement is seen as a promising step forward in the ongoing efforts to build stronger relationships between nations in the region.
+Hurray!
+Defence Cooperation with Paraguay?
+The leaders of Paraguay have come to us with the proposal that we enter a pact of mutual defence. Paraguay recently settled their issues with Brazil, and now they are asking us to exchange military experience in face of incoming threats. In these times of need, maybe having an ally would be beneficial to us.
+Agree to the pact.
+We need no allies.
+Uruguay Agrees to the Pact
+Uruguay has responded by agreeing with the mutual defence cooperation pact. Now, we can help each other's militaries to improve themselves.
+It's good to have a friend in these dangerous times.
+Uruguay Refuses Cooperation
+Uruguay has refused our offer to join us in a mutual defence cooperation pact. Unfortunately, we can't do anything about it.
+We are on our own.
+[FROM.GetName] Proposes Trade Agreement
+Paraguay has proposed a new trade agreement to us, seeking to import the latest tools and technologies while exporting its abundant resources of wood, cotton, and food products. The proposed agreement would create new economic opportunities for all involved, while also strengthening ties between the nations of our faction.
+Sure, we agree.
+We don't trust them.
+[FROM.GetName] Agrees to a Trade Deal
+The proposed trade agreement put forward by Paraguay has been met with a positive response from [FROM.GetNameDef]. They are excited about the potential benefits of importing Paraguay's resources and exporting goods, tools and technologies to help grow their economy. The agreement represents a promising step forward to promote cooperation and mutual benefit.
+Nice.
+Chile Protects Argentina
+We received disturbing news from the south - Chile has decided to support its ally, [FOP.GetNameDef], against a possible invasion from our side. They have publicly announced their military guarantee of [FOP.GetAdjective] independence. Our spies report that Chilean troops are already heading to [FOP.GetNameDef] to protect them. Little do they know, we are not going to fold. Let them come, our army will crush them all!
+More armies to defeat.
+Chile Sends Volunteers To Argentina
+We received disturbing news from the south - Chile has decided to support its ally, [FOP.GetNameDef], against a possible invasion from our side. Since they are busy and unable to intervene directly, they are only going to provide limited assistance to [FOP.GetNameDef]. Convoys with guns, munitions and soldiers are already moving to Buenos Aires in an attempt to intimidate us.
+Pathetic.
+There's Gonna Be a Parade!
+The streets of Asunción are filled with jubilant crowds, waving flags and cheering as the victorious Paraguayan soldiers march through the city in a grand parade. Banners emblazoned with the colours of Paraguay fly high as the soldiers march in perfect unison, their faces beaming with pride and satisfaction. The recent military victories against Brazil and the subsequent defeat of the Brazilian army has brought a renewed sense of patriotism and unity to the people of Paraguay, and the parade is a celebration of their hard-fought victory.\n\nOur glorious leader, [ROOT.GetLeader], led us through many hardships, but at last, the sacrifices made have paid off by [GetYear].
+Hooray!
 With the Brazilian downfall, we can execute an aggressive foreign policy without the fear of intervention. New §Ydecisions§! to attack other South American countries will be unlocked.
 §YThe entire continent is at your feet. Will Paraguay live a prosperous, peaceful existence, or will it continue its conquests - the choice is yours.§!
 §OAgainst all odds you prevailed - the Triple Alliance has been destroyed, the lost territories have been returned, and Paraguay is the master of South America. Your name will be written in the history books of the future.§!
 §YThanks for playing, hope you enjoyed the campaign as much as we enjoyed coding and playtesting it.§!
+Militarist Revolt in Paraguay
+The situation in the South American nation of Paraguay has reached fever pitch as the government of José Félix Estigarribia has finally collapsed in the wake of failed policy programmes. Politically charged officers across the nation led their respective barracks in revolts against both the administration and their syndicalist rivals but swiftly managed to seize the Presidential Palace in Asunción ending serious hostilities.\n\nThe nation now rests under the iron grip of General Higinio Morínigo Martínez and his troops, who are eager to - as they see it - restore Paraguay's lost glory and crush all of its enemies both domestically and beyond the nation's borders.
+More coups? My word.
+Paraguay Falls to Syndicalism Again
+The nation of Paraguay has been in crisis for several years, in part due to the failing policies of the José Félix Estigarribia administration which arose in the wake of the 1934 counter-coup against syndicalist rule. After a swift yet bloody battle today in the streets of Asunción between government, revolutionary and nationalist troops it is the Arbrilistas that have triumphed, seizing controlling of the Presidential Palace and declaring Estigarribia's government dead.\n\nHaving radicalised since their brief three month rule in 1934, Rafael Franco's arguably Totalist \
+Left. Right. Can't they just pick one?
 South American Research Treaty
 South American Research Treaty
 The South American Research Treaty is an research group of nations under Paraguay's boot in the Asunción Pact. The hope is that by cooperating with their neighbours, they can improve their technological progress of which Paraguay has long been behind in, in relation to some of its neighbours. The reality is that this group is mainly to the benefit of Paraguay rather than its subjects.
@@ -355,9 +402,150 @@ GFX_PAR_intro
 The Republic of Paraguay
 After the devastating War of the Triple Alliance, Paraguay was shattered and broken almost beyond recognition; the vast majority of its male population dead or orphaned. The extreme demographic and economic damage was not all, however, as both Brazil and Argentina took slices of land off the Guarani Republic and effectively only kept its sovereignty as a buffer state between the two nations. Rebuilding and recovering from that disaster was no easy feat, and political instability still corroded the nation. In 1904, a Liberal revolution against the rule of Colorados broke out. The Liberal rule started a period of great political instability, which culminated in a Civil War in 1922 between rival political factions.\n\nThen, in late 1929, war again came to Paraguay by the hand of Bolivia. That nation, under economic pressure to secure the rumoured oil wells of the Chaco region, aggressively started to assert its claims in the disputed area. The Chaco War took four gruesome years, and by 1933 Paraguay had completely routed the Bolivian forces and was starting to occupy their lands. The total victory did not come without a cost, however, as mounting debt and military expenses continue to be a burden on the government. The Bolivian military was poorly equipped and poorly trained to fight in the region, and its low morale meant the Paraguayan casualties were far smaller.\n\nThe political situation did not improve, however, and the Liberal rule was faltering. Rafael Franco and other radical leaders launched a coup in 1934 based on left-authoritarian principles but were deposed after a short three-month rule by Chaco War hero José Félix Estigarribia. Now, the age of liberal chaos is over, and José Felix's rule is one of great peace; his actions against the \
 §MEstigarribistas§! / §MColorados§! ($authoritarian_democrat_coloured$ / $market_liberal_coloured$ / $social_conservative_coloured$)\n£white_dot In the Snap Elections, elect the party of choice.\n£white_dot If taking the focus “Cut Military Incentives”, take the bottom option in the ensuing event to ensure continued democratic governance.\n£white_dot The §mMarket Liberals§! can be elected in the 1946, 1951 or 1956 elections if the §cSocial Conservatives§! were elected in a previous election.\n\n§MLiga de Defesa Independente§! / §MAbrilistas§! ($national_populist_coloured$ / $totalist_coloured$)\n£white_dot Choose any party in the Snap Elections.\n£white_dot After taking the focus “Cut Military Incentives”, take the top option in the ensuing event to turn $national_populist_coloured$ and allow Morínigo to seize power.\n£white_dot Alternatively, take the middle option to turn $totalist_coloured$ and allow Franco's units to seize power.
+Difficulty Settings
+Dear player, welcome. This event allows to change the difficulty of your Paraguay campaign. Please note - regardless of the selected option, the playthrough requires planning, careful execution and micromanagement of your army - you will face stronger enemies with very limited resources. Good luck, the heroes of the Chaco War are watching you!
+Easy difficulty
+Medium difficulty (default)
+Hard difficulty
 §7Easy difficulty removes most of the custom unit spawns and AI tweaks.§!
 §OMedium difficulty contains most of the new tweaks and improvements. Prepare to see stronger enemies. Chile behavior is changed as well - it will not tolerate your aggression against Patagonia should you attack it.§!
 §RHard difficulty introduces even stronger enemies. Proceed with caution.§!
+Anti LPA Rally
+Argentina's new President, Manuel Carlés, is relentless in his smear campaign against Paraguay and other countries he deems enemies of the Argentinian state. Today in Asunción, hundreds of people gathered to protest his insults and his rhetoric, demanding an official diplomatic break between our nations. While this is unlikely to happen, such a danger is politically good for the army, as the threat of war is a reminder of who saved Paraguay a few short years ago.
+Argentina can't regain its greatness; it never had any!
+Black Monday Ravages Our Economy
+Paraguay, despite being a landlocked nation, is connected to the wider global economy via the port in Asunción and the Rio de la Plata basin. The stock market crash news first arrived to us as a curiosity, but the effects were soon felt. Foreigners can't buy our products, and we are having immense difficulties in importing vital goods for our nation. Worse still, the budgetary situation has entirely collapsed, and retired military personnel are already up in arms, ready to defend their rights should we encroach on them in any way. Truly, bad times are ahead, and Paraguay may very well have to live in commercial isolation...
+We have to prepare for difficult times.
+Military Payment Issues
+Our budgetary issues predictably resulted in the reduction of the pay of several military officers, especially among lower ranks. This situation affects morale, leading to desertion, resignations and small protests in the army. Whatever we do, and even after we asked for their understanding considering the situation, the dissatisfaction continues to get worse.
+Please understand us!
+Pensioners Protest!
+Veterans and other pensioners have protested in very large numbers after the announcement of delays to their payments. Usually, such protests would have been quickly over, but now the payment delays also extend to low ranking officers and soldiers who are normally in charge of dealing with such rabble and now refuse to intervene. With both local soldiers and veterans united in protest, there isn't much left to do about it than to wait it out.
+Wait and the situation will improve.
+Military Discontent
+The payment issues have not affected every single Paraguayan soldier, but discontent spreads like the plague in the barracks as no improvement of the situation is visible to the common soldier. A few quartelazos and other minor revolts have been suppressed, but we are unsure for how long we can sustain the situation.
+Unfortunate.
+Rafael Franco in Exile
+Ever since he was ousted from the government due to his radical syndicalist ideas, Rafael Franco further delved into Left-Wing rhetoric in exile in Chile. Now styling himself a 'Solanist Totalist', he clamours for Revolution in Paraguay from his exile. For years, few paid any heed to him, just one of the many deposed despots in this world, but now, with our position threatened, he directly calls for a coup that would allow his return. And the worst part is that he actually finds some who are willing to listen...
+Ramblings of a madman.
+Disturbances in the Chaco
+Bolivia's foul plots are endless. As they again began a war of aggression to claim the Chaco from us and give it to their corporate masters, we are facing infiltrators and sabotage in the areas liberated in the previous war. Their disruptions, while small, are symbolic of how far Bolivian treachery can go.
+They will see things our way in time.
+Huey Long is Elected President of the United States
+Former US Senator Huey Long has been successful in his bid to be elected President of the United States of America in an incredibly contentious election. Running against Syndicalist and sell-out candidates alike, Long has managed to triumph in key states of that nation and prove that the people of the Americas had enough of the elites who seek to put us down and sell our wealth rather than share it! Many Paraguayan papers had begun to shower the man with praise before the ballots were even finished being counted. Time will tell if his foul foes will accept the loss gracefully.
+Congratulations Amigo!
+Paraguayan Congratulations!
+With the end of the conflict, it seems as though we finally have some time to breathe. Letters from Paraguayan citizens, personally thanking the Kingfish for his fight for freedom and against Syndicalism, keep flocking from the small South American nation that regards Long as a true hero.
+Peace is its own reward, but we thank them nonetheless.
+Military Revolt!
+The recent cut of the military budget was the last straw. Temporary cuts in wages and delays in payments could be accepted, blamed on the situation. But attacking the military of the Paraguayan state, the sole hero of the Chaco War, could not have been done without consequences.\n\nUpon hearing of this plan, rumours spread among the soldiers in the barracks and across the country: \
+Morínigo and the Patriotic Officers have saved the Nation!
+Franco's units have won, and the General was able to return!
+Units loyal to the Liberals and the Colorado were able to restore order!
+Huey Long Heading to Paraguay
+The War in North America took a turn for the worse, and Huey Long was forced to flee with the traitorous forces closing in on him. Nothing would please them more than his death, thus his request for asylum here in Paraguay was accepted immediately. The American hero is scheduled to reach Asunción shortly. A scheme involving ships with Paraguayan flags will ensure he evades capture by traitors, and once he gets here, he will receive a proper hero's welcome!
+We are waiting for him!
+1941 Elections
+It's election day in Paraguay, and the outcome of these elections is far from being clear, since in the previous ones no one got an absolute majority. The two main contenders are, as always, the Colorados led by Juan Manuel Frutos and the Liberals led by no others than José Félix Estigarribia. The results from the ballots are in, and the winner is...
+The Estigarribiato comes out on top.
+Frutos and the Colorados secure a majority.
+1946 Elections
+While the success in the previous elections for the Estigarribiato was a welcome surprise, now it is yet again time for elections. As per usual, the Colorados are the only other party besides the liberals that could achieve a majority, and with the ballots closed, the results are in.
+Unsurprisingly, Estigarribia wins again.
+Juan Manuel Frutos and the Colorados win.
+1951 Elections
+The liberals were able to secure a majority with ease five years ago, but yet again, the Colorados run for the elections and could achieve a majority in the parliament. The results are in, and the party with a majority in the parliament is...
+The Liberals again!
+The Colorados are able to secure a win!
+1956 Elections
+Unsurprisingly the only two parties that can hope to achieve a victory in this election are yet again the liberals and the Colorados, with both conducting a very fierce electoral campaign, luckily without violence. Now the election is over, and the results are in.
+The Liberals stay in power.
+A surprising Colorado victory!
+1946 Elections
+Despite the success in the previous election, the Colorado rule is anything but secure as the campaign rhetoric ramps up to new hostile levels. While violence was avoided, many worry the elections results may not be recognised, but the Army has already declared it will ensure the elections will be orderly. As the dust settles, the Paraguay's president is...
+Juan Manuel Frutos, a Colorado.
+Eusebio Ayala, and old school Liberal.
+1951 Elections
+They say politics makes for strange bedfellows. As the Liberal's struggled to settle on a candidate, Luis Alberto Riart, once deposed from office, tries to run again for that party, running against consistently fierce Colorado opposition. As the ballot counting ends, the winner emerges as being...
+Raimundo Rolón, a Colorado.
+Luis Alberto Riart, the Old Liberal.
+1956 Elections
+Two military men meet in the unique battlefield of Paraguayan bipartisan elections. Raimundo Rolón has the backing of the Colorado party behind him, but his opponent has weight all by himself: José Felix Estigarribia wants to become president yet again, this time under a democratic framework. The winner of this battle of battlers is...
+Raimundo Rolón for the Colorados.
+José Felix Estigarribia, the Old Marshall.
+Paraguay in the Internationale?
+The tiny South American nation has recently experienced a socialist revolution and after initial stabilisation now looks at its role on the global front. While their contributions to the Internationale will be mostly negligible, an ally is an ally and we are in no position to deny further members to our alliance.
+Welcome!
+Wasn't it called Uruguay? Doesn't matter, we don't need them.
+France Denies Us Membership to the Internationale
+Calling our nation an irrelevant backwater with no value whatsoever to their alliance, France has denied us membership and sent our ambassadors packing.
+They will regret this!
+The Status of Our Army after the Chaco War
+Our victory in the Chaco war came with a heavy price, we took on many casualties and left our country bleeding. Our troops were constantly underequipped and undersupplied, we were able to win only because of the fierce determination of our troops and because our generals excelled in leading them. However, many casualties could have been avoided. We need to reform if we want to avoid continuing in this path and suffering such catastrophe as the terrible war of the Triple Alliance again.
+Reform is needed!
+The Hardship of Building a Modern Army
+Tanks and bombers. Incredible machinery capable of turning the sides of a war, but they come with a price. A price we can't pay. Our small nation can't afford to produce them since these equipments are incredibly difficult and expensive to make. Our few industrial units can't keep up with the cost and expertise needed to produce them. Obviously, this might change one day, but for now we should focus on our expert infantry army. This doesn't prevent us from investing in obtaining these technologies however, as it might be useful one day.
+Let's hope we will see Paraguayan tanks!
+Snap Elections
+Adding to the economic crisis, a political crisis developed. The position of the Liberal Party which supports Estigarribia's regime was weakened, and the situation becomes more and more difficult to manage against the opposition. The conservative Colorado Party has been pushing for a while to hold an election to oust Estigarribia out of office. Today, the President announced that their wish has finally been granted, a snap election will indeed be organised. With the instability, Paraguayan citizens will be asked to choose between the security of Estigarribia's liberals and the fresh impetus from the conservative Colorados. Nothing is assured, and the ballots decree that the winner is...
+Estigarribia is able to hold but has to form a coalition with the moderate Liberals.
+The Colorados are able to come out on top by a slim majority.
+Mining Industries in the Chaco
+The Chaco War has been fought over the presence of oil in the region. While not present in the Chaco Boreal, this region has other resources to offer such as iron, bauxite and copper, very useful for our small domestic industry. Indeed we don't have the capacity to import a huge amount of resources, unlike other nations such as America, Germany or Russia, which have a huge mineral industry and a budget that allows them to trade and import resources without blinking an eye. Winning the Chaco war and acquiring oil helped us move towards that direction, but the deposits at our disposal are still very limited. Still, it's better than nothing, and we expect to be able to increase the amount of resources extracted year after year.
+We shall work on expanding this booming industry then!
+Oil in the Chaco
+The Chaco war has been fought over the presence of oil in the region. While initial prospects made us expect to find oil in all of it, we were able to find it only in a small border region with Bolivia, very close to the border, but still in our hands. By controlling the most important resource in the world, albeit in a small number, we expect to be able to gain the upper hand in many negotiations, since almost all of our neighbours don't have oil fields nor have the capacity to import it. While we lack the numbers that Americans or Azerbaijani oil fields can produce, this is still a relatively large amount, enough to be able to supply our small army, and with those refineries we expect to be able to produce even more oil both to export and to use for domestic use. This new industry should give a huge boost to our economy.
+Since oil makes the world move, we might as well get involved in the business.
+In the Hell of the Chaco
+This movie was shot in 1932 by Argentinian director Roque Funes. It describes the horrors of the Chaco war and how the proud Paraguayan army overcame difficulties until its victory. The movie was thought lost for years, but it has recently been discovered by the Estragó family. It has premiered in Asunción recently, was positively welcomed by the critics for its narrative and was praised by the army as very accurate and representative of the spirit of the Paraguayan army. This is a historical moment for the cinematographic scene of our nation, and we hope that this will inspire Paraguayan movie makers to be more enterprising.
+Very nice movie, 7.8/10, not enough water.
+Agustín Barrios Tours America
+Agustín Pío Barrios is a famous Paraguayan guitarist who was able to achieve one of his dreams, that being touring America, with the first performance being held in San Juan, on the island of Puerto Rico. During said tour he was even able to play the famous song 
+He was able to play Every man a king on a guitar? Mister Barrios is truly amazing!
+Snatching the Chaco
+Now that Paraguay is busy fighting a war with Argentina, it's our moment to strike and seize the Chaco. While we can't realistically hope to take all of it since our army is still recovering from the defeat of the Chaco war, we can occupy the border region known as the Upper Chaco. Considering that the Paraguayan army is busy fighting the Argentinians, we are sure they won't wage war against us if we occupy it.
+Occupy the region.
+No, I don't think I will.
+[From.GetNameDefCap] Demands Chaco!
+We received an ultimatum from [From.GetNameDef] - either we cede the entire Chaco region or they will declare war on us! It is a difficult decision; either we fight a two-front war or give away territories that were paid in blood by our nation several years ago. It may be wise to let it slide, since we can always come back later and focus on them once we have destroyed Argentina, but this move will be deeply unpopular. On the other hand, our national pride tells us to not surrender. We won against Bolivia once, we will do it again!
+We have to cede the Chaco.
+We won't give up our territory! Come and get it!
+Calls for Peace
+Most in the military and government had hoped for a repeat of the first Chaco war, but it seems we had overestimated our ability to wage a two front war. It has been over six months of continuous occupation of the Chaco and with no signs of that changing, combined with the soaring prices, the public opinion of the war has had a dramatical shift. Some still have a faint hope that Bolivia will break and offer peace before us, but maybe it is time to swallow our pride and recognise our inability to win.
+Send the deal, there is nothing more we can do.
+Never surrender! We have won once, we will win again!
+Paraguay Offers a Peace Deal
+Shocking news awaited us today, as we received a message from Paraguay. They offered us all of the Chaco region in exchange for ending the war. While we have firm military control of the region, all attempts to reach their capital have been futile. It would be wise from us to accept this and at least came out of this war with the important Chaco region.
+Accept the peace, with the Chaco in our hands, they don't have anything useful left for us.
+Reject it, we will only be satisfied with [ROOT.GetAdjective] flags flying in Asunción!
+Our Peace is Accepted
+Our peace agreement has been accepted by [FROM.GetName].
+Let's get over this as fast as possible.
+The Peace has been Signed
+The peace treaty has been ratified and the Chaco given to us.
+Our national pride has been restored.
+Socialist Coup in Paraguay!
+Worrying news from Asunción! We have received a report that Rafael Franco returned from his exile and has now couped the Paraguayan government. They have declared they have no interest in continuing being part of an anti-syndicalist defensive pact and the previous treaty is now null. From now on, we will have to rely on one less ally.
+You are joking - not another one! Oh, for God's sake, I can't, this is the second time a socialist coup happens in Paraguay in less than a decade.
+Victory Against Argentina!
+There is no man more heroic than he who stands against giants, and there is no nation more heroic than the small one which defies those that seek to dominate them - and the proud Paraguayan nation has been at the mercy of her powerful neighbours for her whole life. In 1864, she chose to fight to preserve the territory that rightfully belonged to her and assert her right as a sovereign state, a decision that we nearly paid for with our lives. The insistence of Francisco Solano López on fighting to the death has left his legacy fiercely disputed, and our nation deeply traumatised - the sheer death toll the War of the Triple Alliance took was beyond all comprehension.\n\nBut in 1932, Paraguay stood up - once more, we defied the infernal designs of our enemies, wading into a war against Bolivia that the world thought we could never win. In the Chaco War, we shocked the world by routing the Bolivians all the way back to La Paz despite being outnumbered, defending our right to our country and proving that we are a power to be respected. After 60 years, the sorrow of our near-destruction had given way to triumph and renewed pride.\n\nAt long last, our victory is now complete - once again, we have stood against Argentina, and today we have come out the better. The bravery and cunning of our soldiers have cast our enemies from Chaco and Misiones, and have finally returned these long-lost lands to our nation. In the streets of Asunción and across the countryside, the people shout 'Victory!' and celebrate the avenging of 1870 - no more will we be at the mercy of other nations, no more shall we be cast adrift in the world. Come what may, Paraguay shall fight, against all who would harm her - the Guaranì spirit shall never be destroyed! They will speak the names of the heroes of Paraguay on all corners of the world!
+Hurrah!
+Military Help From Paraguay?
+A military mission has been sent by Paraguay to help us prepare against the FOP. As Paraguay has participated in more wars than we have, having just emerged victorious against Argentina in fact, and are thus much more experienced. Our forces are wholly unprepared for a fight against the FOP, or any other conflict for that matter. Paraguay's mission can turn that around, but how should we respond?
+Their help will be vital.
+Thanks, but we are doing fine by ourselves.
+Uruguay Accepts Our Mission
+Uruguay has responded positively to our proposed military mission and accepted its help. Having not been at war for decades, our tested battlefield experience will help them adequately prepare for any future conflicts. This new cooperation will also help smooth over regional tensions between our two countries and boost mutual relations. The success of the mission may even convince those in our government who are unhappy that we have extended a hand to Uruguay that it is the necessary thing to do.
+Great!
+Uruguay Refused Our Mission
+Uruguay has refused our offer of a military mission and it has since returned to Asunción. Their military desperately needed the help, but it seems the tension between our two countries was too much for them to overcome. Unfortunately, we can't do anything about it.
+But, but, their military is rubbish!
+Paraguay Sends Advisors to Study Our Forts
+On the heels of our acceptance of their military mission, Paraguay has sent more advisors, this time to study our fortifications. We have been building up our defences along our border with Argentina since its Christmas Coup in 1935, and now Paraguay is planning to do the same. Our engineers will teach them the keys to entrenchment, and how force multipliers can turn the tide of a battle.
+We expect to learn from their military as well.
+Joint Exercises
+In yet another example of increased cooperation between our two countries, Paraguay has proposed joint military exercises. In preparation, they have sent two infantry battalions so we can coordinate planning and manoeuvres to better defend against the FOP.
+Si vis pacem, para bellum.
 §gThis unlocks focus §P$PAR_estigarribato$§! or §c$PAR_colorado_resurgence$§! depending on our ruling party.§!
 §gThis unlocks focus §n$PAR_protectors_of_paraguay$§! or §o$PAR_abrilist_recovery$§! depending on our ruling party.§!
 §gThis will merge our current ideas into a stronger one:§!

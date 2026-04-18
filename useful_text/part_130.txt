@@ -42,6 +42,185 @@ Status of Panamá
 In 1931, following accusations of government corruption and inability to handle the economic depression, the public rose up, led by Acción Comunal, a nationalist movement, and appointed Harmodio Arias Madrid and his National Revolutionary Party, formed from Acción Comunal itself, as leader of the Provisional Government.\n\nOne year later, they held elections and the Arias-led NRP won easily. Immediately, Arias' government began to stimulate the economy with public work programmes, improving economic conditions and creating jobs. However, despite the economic stimulation, the Panamanian economy is still struggling. The next elections are scheduled for April of 1936, four years after the first election, with economic recovery on the minds of both the parties and voters.
 §MPartido Nacional Revolucionario§! ($authoritarian_democrat_coloured$)\n£white_dot Have the National Revolutionary Party win the 1936 elections.\n£white_dot Choose to give some money to ensure the loyalty of the police after completing the \
 $CEN_pre_guide$
+1936 General Elections
+With economic recovery finally obtainable, the 1936 elections may be the most important elections in Panamanian history. The two major parties are the National Liberal Party, led by Ricardo Joaquín Alfaro Jované, and the National Revolutionary Party, led by Harmodio Arias Madrid.
+National Revolutionary Party.
+National Liberal Party.
+National Police Coup
+The National Police up to now has been silently sitting in the background waiting for our government to make a mistake. Now, with the country more disjointed than ever, they have stepped in to 'restore order' to Panama. This could spell the end of Panamanian democracy.
+What?!
+Conservative Government
+Due to instability in the populace and the government, Ricardo Joaquín Alfaro Jované has been forced to resign alongside his cabinet, and has requested that Juan Arosema forms a new cabinet as President. Arosema's government will likely undo many of the reforms of the Progressive government, especially those regarding the encouragement of labour unions.
+Hopefully the worst is now over.
+Canal in Crisis
+Since the outbreak of the Second American Civil War, the Panama Canal Zone has been weak and unguarded. We could seize it to protect trade along the Canal and to appease the public, whose opinion is largely against the existence of the Canal Zone.
+Very well.
+Canada Demands that Panama Joins the Entente
+The Canadians have demanded that we join the Entente so they can have the Canal under their influence. They guarantee that the Canal will remain in Panamanian hands, with a small peacekeeping force deployed to assist us. They will also likely redirect some of the canal profits to their own empire, reducing our own profits from the Canal.
+We have no choice but to join.
+We shall never surrender our sovereignty!
+Canada Demands Panama Canal
+The Canadians have demanded that we hand over control of the Panama Canal to them. This would essentially be a restoration of the status quo for us, with the Canal Zone acting as foreign sovereign territory. In return, the Canadians promise not to harm our sovereignty.
+We have no choice but to accept.
+Never again shall our lands be foreign!
+Canada Prepares Invasion
+Canada has not taken our refusal well. They have begun planning an all-out invasion to be executed within the next few days.
+Once more unto the breach, dear friends.
+The National Police
+Our policy of foreign investments does not fit well with the National Police, and they are likely to coup us, should we step too far into that direction. We should find some way to pacify them as to avoid such a destabilisation.
+Perhaps some money shall influence their viewpoint...
+Purge all disloyal elements!
+Leaving them alone is surely the best choice.
+Status of Trade Unions
+Trade Unions do not have a long history in our nation. As we begin to become a truly modern, 20th century nation, it may be a good idea to emphasise the government's policy regarding unions. The conservative faction and the National Police both are strongly against unions, fearing events similar to the British and French collapses, and we'll have to deal with their opposition should we encourage unions.
+Encourage unions, but regulate them.
+Encourage unions and leave them unregulated.
+Say nothing on the matter.
+Status of Trade Unions - Followup
+The conservatives have long complained about our policy regarding trade unions, and strongly suggests that we simply opt to ban trade unions to preserve the de facto coalition between the conservatives and liberals.
+Ban the unions.
+Stay the course.
+Status of Trade Unions - Followup
+Our complete removal of restrictions on trade unions is going poorly. Both the conservatives and the National Police are urging us to immediately revoke the policy, or they will be forced to take 'significant action'. Unfortunately, at this point, there truly is not much our government can do. Banning the unions would now cause widespread panic and riots, and we can really only appease one of the two factions on our back.
+Suppress political resistance.
+Suppress police resistance.
+Hopefully, it will blow over.
+Who Should We Ask to Invest?
+Our options for investment are quite thin since no one in Europe or Asia is particularly interested in us, and South America is dealing with its own issues.
+Ask Canada.
+Ask the USA.
+Ask our overlord...
+Panama Asks for Investment
+Panama has asked us for a 'generous sum' of investment money, promising profit within a year. There is an obvious benefit to this, but it will come with a small hit to our economy.
+Let us invest.
+Sounds like some sort of scam.
+Investments Declined
+Unfortunately, our generous request for investments have been declined.
+Sad.
+Investments Accepted
+Our investments have been accepted, and we now have funds to continue along with our plans!
+Excellent!
+Harmodio Arias Madrid's Retirement
+Harmodio Arias Madrid has been ill for some time, and he has deemed himself unable to hold office. He is therefore retiring permanently from politics and is appointing his brother Arnulfo as the head of the PNR. Arnulfo promises some reforms to the previous PNR doctrine, although it will follow the same basic teachings.
+Farewell, Harmodio.
+Removing Progressive Reforms
+The Liberal government implemented several socialist reforms during their tenure, and we now have the task of removing them. Issue is, the people have become adjusted to their new reforms, and removing it could be problematic. As such, we have to choose between compromising and removing some of the reforms or removing all of them.
+Remove all reforms!
+Remove only some reforms.
+Status of the Party
+Many have suggested that we finally branch off of the liberal party. We have two choices to do so. We may either merge with the existing conservative party, or form a new party, which many have suggested we call the Partido Nacional Conservador, or the National Conservative Party.
+Merge with PC.
+Create PNC.
+Military Junta Established
+A military government has officially been established in Panama. It turns out that even the most stable of Central American democracies fall to authoritarianism eventually.
+Stability, but at what cost?
+The New Constitution
+The military junta has been creating its own constitution for Panama. Much of it is agreed upon to be stereotypical for a military government, but there is one thing that very few agree about - elections. There are three schools of thought - we can choose to have rigged elections every four years, have no elections at all, or restore democracy with the military as a legitimate party serving the remainder of the incumbent term.
+Let us rig future elections.
+No elections!
+Free elections!
+[GetYear] Presidential Elections
+It's April 20th, election day. Shops, schools, and businesses are closed as the whole populace waits for the election results. It is a particularly contested election this year, and could go any way.
+National Revolutionary Party Wins.
+National Liberal Party Wins.
+Conservatives Win.
+[GetYear] Presidential Election
+It's April 20th, election day. Shops, schools, and businesses are closed as the whole populace waits for the election results. It is a particularly contested election this year thanks to the formation of the Coalition, and the election could go either way
+The CPN wins.
+The coalition wins.
+Democratic Opposition Holds Meeting
+The opposing democratic parties - the Liberals, Conservatives, and the PNR, are holding a meeting to discuss their response to the surge in popularity for our government.
+We shall keep an eye on them.
+Opposition Forms Coalition
+The CPN's popularity among the people has forces the opposition to form a coalition of its own - the Constitutional Coalition. This could spell trouble for us in future elections, but their own lack of cohesion could be their undoing.
+Arnulfo Arias Madrid shall lead the coalition!
+Ricardo Joaquín Alfaro Jované shall lead the coalition!
+Juan Demóstenes Arosemena shall lead the coalition!
+What to Do with Land?
+We have zoned out and begun clearing land for the creation of new farms and factories, but this leaves us with an important question. What do we do with the land? We could either choose to give the land to corporations and farmers, or choose to keep it for ourselves.
+State-owned.
+Private-owned.
+Land Clearing
+As part of our ambitious modernisation project, we must clear some of the jungle in our nation. Our politicians, however, are debating on whether we should prioritise agriculture or industry. Industry would likely take more time, but would leave us more modernised, while farming has near-immediate bonuses and gives us more crops to export worldwide.
+Prioritise Industry.
+Prioritise Agriculture.
+The Union Compromise
+So far, the coalition has been very successful in dealing with major political issues. Now, we face one of our largest, the status of trade unions. Overall, there are three reasonable ideas. We could either create government-owned trade unions, which allows us to have control over the unions while still protecting the workers, or we could allow unions with some safeguards in place to ensure stability, or we may simply leave them disallowed.
+Create government-owned unions.
+Allow unions.
+Ban unions.
+The Constitutional Coalition
+So far, we have managed to hold the coalition together reasonably well, but with our victory over the CPN, bickering among the many factions has become common. It may be advantageous for us to split the coalition now that we have dethroned the military from our country. We may, however, never again have the opportunity to unify our politics under such a popular system, so it may also be worth it to stick with the coalition and hope it holds together.
+The coalition stays!
+Dissolve the coalition!
+Panama Pressures Coto!
+The Panamanians have launched a small-scale military assault on the Coto region, which they have claimed for a long time now. If we are not careful, this could escalate to a large-scale conflict. Fortunately, thanks to the Monroe Doctrine, the US will likely put an end to this rather quickly.
+Those Panamaniacs!
+Panama Pressures Costa Rica
+The Panamanians have begun a small-scale military assault on the Coto region of Costa Rica, which they have had a claim on for some time. We should threaten intervention to prevent this turning into a full-scale war.
+Let us intervene.
+The US Threatens Us!
+The United States has decided to threaten us, and has ordered us to turn our troops back or to suffer the consequences. We are now forced to obey the order, as our military forces do not stand a chance against the might of the USA.
+Issue the retreat.
+The US Intervenes!
+The US has intervened on our behalf, and is ordering Panama to restore the status quo. They would be fools not to comply.
+Let us hope this stability remains.
+The Coto Region
+The Coto Region of Costa Rica has been legitimately claimed by us for many years now, and many in the newly elected government feel now may be the time to attempt to take it back.
+Perhaps it is time to pressure the region.
+Panama Requests Investments
+Panamanian diplomats have come to us requesting investments, claiming that, after a short period in the red, we will profit greatly from investing.
+Okay, sure!
+Sounds like a scam.
+Investments Allowed!
+Businessmen have scrambled into our country, and are investing money into our own businesses. The economy is thriving, and hopefully both sides will profit greatly.
+Excellent!
+Investments Denied
+Sadly, our request for investments has been declined. Neither side will be profiting from the other any time soon.
+Unfortunate.
+Panama Backs Down
+After hearing of American support for Costa Rica, and not willing to escalate the situation into a full-blown conflict, the forces of Panama have begun to back down across the region. This is a victory for American diplomacy abroad.
+The Monroe Doctrine stands.
+Panama Seizes Canal
+Upon the start of the American Civil War, Panama took the 13-mile long Panama Canal Zone from the US, officially to 'safeguard it from radicalism'. This could be advantageous for us, as we could demand that Panama either joins the Entente or hands over the Canal, and they would not be in a good position to refuse.
+Leave them alone.
+Demand they join the Entente and redirect some trade to the Entente.
+Demand the canal and offer them protection.
+Panama Seizes Canal
+Upon the start of the American Civil War, Panama took the 13-mile long Panama Canal Zone from the US, officially to 'safeguard it from radicalism'. Unfortunately, there really isn't much we can do about this for the time being, as we have a civil war to fight.
+Oh, well.
+Panama Agrees to Terms
+Panama has agreed to our generous terms, and we now have the Panama Canal under our influence.
+Excellent.
+Panama Declines Terms
+Despite our highly generous terms, Panama has declined our request to have the Panama Canal in our sphere of influence. We can either admit defeat or prepare an invasion.
+Onwards!
+Do nothing.
+Calls for Peace
+Throughout our country and Canada, the populace calls for an end to the war. We should take advantage of this and propose a peace to the Canadians.
+Send the proposal.
+Panama Proposes a Peace
+Resounding calls for peace have surfaced in both our nations, and Panama has taken advantage of this to publicly propose peace. We can either accept a white peace or continue fighting to the bitter end.
+Let us lower our arms.
+Not until we are at Panama City!
+Peace in Panama
+Panama has triumphed over an invading foreign power! We have shown the world our might, protected our sovereignty, and kept the Panama Canal's profits!
+Peace is soon at hand.
+Canada Stands Down
+Canada has decided against any further action following our refusal of their demand.
+Lucky for them.
+Panama Renounces Monroe Doctrine
+Panama has renounced the Monroe Doctrine, citing that, since all surrounding countries have done so, they should also do so to ensure their own safety.
+A shame.
+The Panama Canal Crisis
+Finished in 1914, the Panama Canal is one the most important trade passageways on the American continent, controlled by the United States until now. With the outbreak of the Second American Civil war, the Federal government was forced to withdraw the canal's marine forces, leaving it open to invasion, and to little surprise, Panamanian troops launched an operation to take back such a valuable area.\n\nThis move, however, was opposed by Canada, which presented to them an ultimatum - Panama's sovereignty over the canal would be recognised, but the country must agree to a military alliance or face invasion. In the face of Canadian pressure, the small Latin American nation has backed down, defusing the crisis.
+Finished in 1914, the Panama Canal is one the most important trade passageways on the American continent, controlled by the United States until now. With the outbreak of the Second American Civil war, the Federal government was forced to withdraw the canal's marine forces, leaving it open to invasion, and to little surprise, Panamanian troops launched an operation to take back such a valuable area.\n\nThis move, however, was opposed by Canada, which presented to them an ultimatum demanding influence over the canal. Though heavily outmatched in both industry and men, Panama has refused to back down, sparking war in Central America.
+Finished in 1914, the Panama Canal is one the most important trade passageways on the American continent, controlled by the United States until now. With the outbreak of the Second American Civil war, the Federal government was forced to withdraw the canal's marine forces, leaving it open to invasion, and to little surprise, Panamanian troops launched an operation to take back such a valuable area.\n\nThis move, however, was opposed by Canada, which presented to them an ultimatum, attempting to guarantee the continued security of and access through the canal. Though heavily outmatched in both industry and men, Panama refused to back down, calling Canada's bluff and to the surprise of many, succeeding. To the Entente's embarrassment and Panama's pride, crisis has been averted.
+Finished in 1914, the Panama Canal is one the most important trade passageways on the American continent, controlled by the United States until now. With the outbreak of the Second American Civil war, the Federal government was forced to withdraw the canal's marine forces, leaving it open to invasion, and to little surprise, Panamanian troops launched an operation to take back such a valuable area.\n\nThis move, however, was opposed by Canada, which presented to them an ultimatum - Panama would immediately cease their invasion while the Entente would safeguard the canal for the time being. In the face of Canadian pressure, the small Latin American nation has backed down, defusing the crisis.
+The balance of power is at stake.
+The canal is ours!
+They made the right choice.
+Damn them!
 National Police
 Since the Army tried to coup the government in 1904, the Panamanians have had no official standing army, with national security being handled by the National Police. However, since the police assisted the public coup in the early 1930s, spending on the National Police has increased, and officers have attended several other Latin American military academies, turning it into a de facto army that could overthrow any government that it considers to be out of line.\n§RShould a civilian government mismanage a situation or stray too far into radicalism, the National Police can coup the government.§!
 Slight Economic Depression
@@ -653,6 +832,169 @@ GFX_PAP_intro
 The State of the Papacy
 In 1919, the Italians concluded an armistice with the Austrians, permitting Austrian forces to occupy Lombardy and Venetia pending a formal peace settlement. The subsequent §YTreaty of Vicenza§! was a humiliating affair, disgracing both the nation and the old political order. Within mere days, enraged nationalists proclaimed the new Republic of Italy in Milan, which maintained that all treaties signed by the House of Savoy were to be considered null and void.\n\nThough it seemed that Rome was in danger of capture by the republican rebels fighting against the old Kingdom, the blurry battle lines of the civil war mostly spared Rome due to the protection of the southern royalist forces, which, together with local right wing militias, crushed uprisings in Rome. The Pope soon emerged from the Vatican to take back up the administration of his God-ordained domain, but the debilitated state had no armed forces loyal to it, and it had scarce chances at resisting any Syndicalist offensive. However, the white generals in the south would not stand by while the centre of Catholicism fell to syndicalism, and led a counter-offensive to secure Rome, bringing the Papal State under royalist, later Sicilian, protection, receiving support from foreign volunteers in Rome, the reborn Zouave corps.\n\nAfter the war ended, the Papal States joined the Italian Federation along with its protectors in Naples, but controlled only a small fraction of its nominal territory, and was and is in most respects a rump, puppet state of the Sicilians. Following the declaration of independence along with Sardinia and the Two Sicilies in 1926, it has been recognised as an independent state by the majority of nations in the world, though it is extremely limited in its diplomatic options.\n\nIn the sphere of Curia politics, the fading health of Pius is in everyone's minds, and it remains to be seen who will succeed him should he pass in the coming years.
 §MThe New Pope§! ($national_populist_coloured$ / $paternal_autocrat_coloured$ / $authoritarian_democrat_coloured$ / $social_democrat_coloured$)\n£white_dot After completing the focus \
+Black Monday Hits the Papal State!
+Almost two weeks ago, the Berlin Stock Exchange plunged into bottomless depth, throwing Germany's economy into an unprecedented crisis. Now the crash's shock waves have reached us. German and Austrian-owned companies have closed down or laid-off their workers, our currency is losing value, industrial exports are shrinking, and our national debt is beginning to grow out of control...
+Let's hope the government will save us from the worst...
+Quadragesimo Quinto Anno
+Quadragesimo Quinto Anno (Latin for 'In the 45th Year') is a new encyclical written by Pope Pius XI that discusses the ethical implications of the social and economic order (45 years after Leo XIII's Rerum Novarum encyclical). The encyclical describes the major dangers for human freedom and dignity arising from unrestrained capitalism and syndicalism, calling for the reconstruction of the social order based on the principle of solidarity and subsidiarity. In the first part, he reviews and applauds the encyclical of his predecessor, which helped the development of a new social conscience.\n\nAccording to Pius XI, three elements determine a fair wage: the worker's family responsibilities, the economic condition of the enterprise and the economy as a whole. The family has an innate right to development, but this is only possible within the framework of a functioning economy and sound enterprises. For this, Pope Pius concludes that solidarity, not conflict, is a necessary condition. The pope, therefore, demands more solidarity, especially between employers and employees through new forms of cooperation and communication among Catholic citizens. A new era of Catholic Corporatism is just beginning.
+Excellent.
+Donations from the Faithful
+With the very seat of God's church under threat from non-believers for the first time in centuries, donations have been pouring in from Catholics throughout the world.
+Every bit counts.
+The Pontine Marshes
+The order has been given to clear the Pontine Marshes and thus open the once-useless land for farming or industry. The plan will require the employment of thousands of Romans and take many months to get the bulk of it done, but the outcome may be worth it.
+So long as it keeps them working, I'm happy.
+The Pontine Marshes Are Cleared
+The areas formerly known as the Pontine Marshes are now cleared, with factories and farms springing up throughout the area, further strengthening our nation economically.
+A monumental achievement!
+The Death of Pius XI
+All Christendom mourns the death of His Holiness, Pope Pius XI, who died following a heart attack after having been in declining health for the past several years, something which rapidly worsened following Black Monday. The Holy Father will soon be interred with the rest of his predecessors in the Tomb of the Popes. Until the next pope can be chosen, The Papal State will be ruled by the College of Cardinals in Rome.\n\nThe succession of His Holiness is made all the more important due to the Catholic Church's role in governing the reborn Papal States as well as its vehement opposition to syndicalism, a force which has divided Italy and seeks to once again unify the Italian peninsula.
+How terrible.
+The Successor to St. Peter
+The Holy See has finally come together to deliberate the election of a new Pope following Pius XI's death. In the end, they choose to...
+... elect the pious and popular Eugenio Cardinal Pacelli as Pius XII
+... elect the charitable Elia Cardinal dalla Costa as Stephen X
+... elect the socialist cardinal, Achille Liènart, as John XXIII
+... elect the hardline cardinal Alfredo Schuster as Julius IV
+The First Roman Elections
+With the Pope relinquishing his temporal power and the transition from Papal rule to democracy under way, free elections shall take place in Rome for the first time since the Roman Republic of 1849. The question is, which party shall come out victorious?
+Il Movimento Sociale Latino!
+L'Alleanza Cristiana Democratica!
+The [GetYear] [Root.GetAdjective] Elections
+With approval granted by Pope [Root.GetLeader], elections are once again held in [ROOT.GetName].
+Il Movimento Sociale Latino is victorious!
+L'Alleanza Cristiana Democratica is victorious!
+Financial Aid from the Two Sicilies?
+While we have determined that the best way to get the Black Monday crisis under control is to seek a bailout from the Kingdom of Two Sicilies we must decide how much of our debt we shall ask them to take. If we were to ask them to take on all of our debts it would greatly improve our financial situation but would also give away much of our sovereignty to the Sicilians. If this proves unacceptable we could instead request that they take on only some of our debt, although should we do this we would have to enact measures ourselves to clear the remaining debt and economic damage.
+Ask the Sicilians to take our whole debt
+Only ask them to take some of our debt
+The Papal State's Request
+The Papal State has been hit hard by Black Monday and in particular they are unable to handle their international debts. Despite our own economic troubles, they have requested that we take on all of their debts and while we have protected them ever since the collapse of Italy and accepting their request would give us far more control over their state, many question if our economy would be able to handle the stress.
+Accept their request
+Take on some of their debts
+Refuse - our own nation must come first
+Two Sicilies Accepts!
+The Sicilians have agreed to take on our debt! While we have given significant concessions and the Sicilian government now has far more influence over us, at least our debts have been cleared and our economy is running again.
+Great!
+Two Sicilies Partially Accepts
+Unfortunately the Sicilians were unwilling to take on our full debt due to their own economic problems following Black Monday, but they have still agreed to take part of it, helping to relieve the burden on ourselves even if we will have to take steps for our economy to fully recover.
+It's better than nothing.
+Two Sicilies Refuses!
+The Kingdom of Two Sicilies have refused our generous request, claiming that their nation's economy comes first! This will make the road towards improving our state's economy more expensive than we had hoped.
+How unfaithful.
+The Papal State's Request
+The Papal State has been hit hard by Black Monday and in particular they are unable to handle their international debts. Despite our own economic troubles they have requested that we take on some of their debts and while we have protected ever since the collapse of Italy and our people are faithful to the Church and the Pope, many question if our economy would be able to handle the stress.
+Accept their request
+Refuse - our own nation must come first
+Two Sicilies Accepts!
+The Sicilians have agreed to take on some of our debts! Although we have not reached the light at the end of the tunnel yet, the elimination of some of our debts will lighten the load on our economy and make our recovery an easier task.
+Great!
+Military Aid for the Papal State?
+As international tensions grow and the possibility of a second Weltkrieg arises the Papal State has begun to see the need to rebuild its army in order to defend the Holy See from desecration by the vile syndicalists just across our border, and have reached out to us to aid them in modernising their forces. How shall we respond?
+Assist them as much as possible!
+We can spare them some help.
+No need - we can protect them ourselves.
+The Kingdom of the Two Sicilies Accepts!
+The Kingdom of the Two Sicilies has accepted our request and begun to aid us in modernising our military technology so that we may defend ourselves from the tyranny of syndicalism.
+Great!
+Two Sicilies Supplies Some Aid
+The Kingdom of Two Sicilies have accepted our request and while they have not given us as much military aid as we had hoped what they have seen fit to give should hopefully assist us in modernising our army.
+It's better than nothing.
+Two Sicilies Refuses!
+To our disappointment, the Kingdom of Two Sicilies have refused our request for military aid, claiming that doing so would be a waste of time and resources for their own nation and that the Sicilian army is capable of defending Rome themselves.
+How foolish and arrogant.
+Syndicalist Guerrilla Campaign
+While we have thwarted the syndicalists in their attempt to bring about a second Risorgimento and reclaimed the land stolen by Piedmont in 1860, it appears that our troubles have not ended there. Syndicalists in the liberated territories, refusing to recognise our rightful rule, have taken up arms against our government and are engaging in a campaign of guerrilla warfare against us!
+These subversives must be brought to justice!
+Syndicalist Riots
+Today many syndicalist sympathisers turned out for protests and demonstrations against our rule in the formerly Italian territories. The protests soon turned into rioting, causing much damage in acts of vandalism and injuring many.
+Damn!
+Syndicalist Ambushes
+Syndicalist guerrillas have staged ambushes against our troops throughout our nation!
+Damn!
+Syndicalist Bombing
+The syndicalist guerrillas carried out a bomb attack today, dealing large damage to our infrastructure in that area.
+Damn!
+Syndicalist Sabotage
+The syndicalist guerrillas have bombed one of our factories in an attempt to sabotage our industry!
+Damn!
+End of the Syndicalist Resistance
+After many long months of guerrilla warfare we have finally been successful in rooting out and destroying the syndicalist remnants still opposing our rule.
+At last!
+Effects of Black Monday End!
+While it was a hard and trying time for our nation and economy, the effects of the Black Monday crisis are at last at an end, and our country can begin to move on.
+Finally!
+The Papal Conclave
+With the passing of Pius XI, the cardinals of the Catholic Church have convened within the Sistine Chapel to elect the new Pope. They will remain in seclusion until a consensus has been reached, and a new successor to St. Peter has been chosen by the electors.
+Let us pray they choose wisely.
+The Siculo-Papal Joint Planning Staff
+The Papal State has just proposed that our nation and theirs create a joint planning staff, so as to coordinate our future wars against the threats that plague Italy better.
+Our enemies have no chance!
+The Papacy Declares Independence
+Pope [PAP.GetLeader] declared today that [PAP.GetNameDef] would no longer be subject to overlordship by [SIC.GetNameDef]... this despite the fact that the threat of [SRI.GetNameDef] still looms to the north, as well as despite all the assistance we've offered the Pope in the past. Many officials in the [Root.GetAdjective] government feel that this is an ill-advised move on the part of the Pope.
+Pope [PAP.GetLeader] declared today that [PAP.GetNameDef] would no longer be subject to overlordship by [SIC.GetNameDef]... this despite the fact that the threat of [SRI.GetNameDef] still looms to the north. Many officials in the [Root.GetAdjective] government feel that the Pope is only weakening our defence, allowing the syndicalists to pick us off separately.
+Pope [PAP.GetLeader] declared today that [PAP.GetNameDef] would no longer be subject to overlordship by [SIC.GetNameDef]... this despite all the assistance we've offered the Pope in the past. Many officials in the [Root.GetAdjective] government feel that the Papacy is taking advantage of the Sicilians, now that the syndicalist threat has been eradicated. Where is the gratitude?
+Pope [PAP.GetLeader] declared today that [PAP.GetNameDef], with the syndicalist threat gone, would no longer be subject to overlordship by [SIC.GetNameDef]. Many officials in the [Root.GetAdjective] government feel that this is an ill-advised move on the part of the Pope.
+We demand they repay the aid we've granted
+No, this cannot be permitted
+We still offer them protection against the syndicalists
+If that is the Pontiff's wish, then so be it
+[From.GetNameDefCap] Demands Repayment of Debt
+King [From.GetLeader] has informed Pope [Root.GetLeader] that it's all very well and good if the Papacy wishes to leave [SIC.GetNameDef]'s protection... but his nation has offered the Papacy a great deal of aid in the past, both to help with Black Monday as well as in the form of military assistance. He would expect that first such debts would be repaid.
+King [From.GetLeader] has informed Pope [Root.GetLeader] that it's all very well and good if the Papacy wishes to leave [SIC.GetNameDef]'s protection... but his nation underwent great sacrifice to help [PAP.GetNameDef] after Black Monday. He would expect that first such debts would be repaid.
+King [From.GetLeader] has informed Pope [Root.GetLeader] that it's all very well and good if the Papacy wishes to leave [SIC.GetNameDef]'s protection... but his nation undertook considerable personal costs to assist [PAP.GetNameDef] with its military. He would expect that first such debts would be repaid.
+If money is what he wants, he can have it
+And we thank him for his donation to the Church
+The Papacy Repays its Debt
+Though it can hardly afford to do so, [From.GetNameDef] has dug deep into the Church coffers and repaid the assistance provided by [SIC.GetNameDef] in the past. The Pope expressed His gratitude and considered the matter done.
+So be it.
+The Papacy Refuses to Pay
+Pope [From.GetLeader] expressed his misgivings at what he called the king's 'impiety', and said he considered [SIC.GetNameDef] previous assistance a gift to the Holy Church.
+We won't push this further
+Then the Church's land is forfeit
+The Sicilians Refuse
+[From.GetNameDefCap] has informed the Papacy in no uncertain terms that it cannot allow a separation. Already its soldiers are gathering on our border.
+Then we reluctantly return to their fold
+We shall see about that!
+Sicilians Offer Protection
+King [From.GetLeader] has informed the Pope that, while he fully supports whatever decision He makes on the matter, with [SRI.GetNameDef] still in the north perhaps it would be wise to still have Sicilian protection, even if not overlordship.
+We would be grateful for it
+That is not necessary
+Papacy Refuses Protection
+Inexplicably, Pope [From.GetLeader] has refused the offer of Sicilian protection. Has the Holy Father gone mad?
+He can't mean aggression, can He?
+Papacy Accepts Protection
+Pope [From.GetLeader] offered His relieved thanks for the offer of Sicilian protection. He sends his blessings to the king.
+That's a relief
+[From.GetNameDefCap] Wishes Us Well
+Making no promises or demands, [From.GetNameDef] has wishes us well out from under their protection. It was, King [From.GetLeader] reminds us, always a voluntary association for mutual protection against the syndicalists.
+Good
+Pope Rallies the Catholic Faithful
+Pope [PAP.GetLeader] has issued a call to the Catholic faithful within [SRI.GetNameDef], asking them to rise up against the 'godless syndicalists'... and helpfully supplying them with equipment and training. The partisans' numbers are hardly overwhelming, but they may prove annoying appearing behind our lines as they have.
+It changes nothing!
+$papal_state_events.7.t$
+$papal_state_events.7.d$
+$papal_state_events.7.a$
+Pius XII Elected as New Pope
+Catholic faithful in Rome breathed a sigh of relief as the Sistine Chapel's chimney billowed forth white smoke, signifying the election of a new pope.\n\nA short time later, it was announced that the pious and popular Eugenio Cardinal Pacelli had become His Holiness Pope Pius XII, leader of the Catholic Church and head of state of the Papal States.\n\nIt is anticipated that he will continue the policies of his predecessor, whose Pontifical name he has taken.
+Good luck, your Holiness.
+A useless man elected by useless men.
+Stephen X Elected as New Pope
+Catholic faithful in Rome breathed a sigh of relief as the Sistine Chapel's chimney billowed forth white smoke, signifying the election of a new pope.\n\nA short time later, it was announced that the charitable and withdrawn Elia Cardinal dalla Costa had become His Holiness Pope Stephen X, leader of the Catholic Church and head of state of the Papal States.\n\nMany speculate that it will not be long before His Holiness surrenders the Church's control over the government to a secular institution.
+Good luck, your Holiness.
+At least he knows his place.
+Pope John XXIII, the \
+Catholic faithful in Rome were initially relieved today as the Sistine Chapel's chimney billowed forth white smoke, signifying the election of a new pope.\n\nA short time later, it was announced that the new pope was none other than Achille Liènart, the infamous \
+Good luck, your Holiness.
+An interesting development.
+Julius IV Elected as New Pope
+Catholic faithful in Rome breathed a sigh of relief as the Sistine Chapel's chimney billowed forth white smoke, signifying the election of a new pope.\n\nA short time later, it was announced that the hardliner Alfredo Ildefonso Schuster, a true political player and staunch opponent of syndicalism, had become His Holiness Pope Julius IV, leader of the Catholic Church and head of state of the Papal States.\n\nIt is anticipated his election will deepen the Italian ideological divide... even more than it already has.
+Good luck, your Holiness.
+And so their true face is shown.
+Pope Arrives in [refuge.GetNameDef]
+Pope [PAP.GetLeader] arrived in [refuge.GetNameDef] today, having sought refuge there since his exile from Rome was decreed by [SRI.GetNameDef] more than a week ago.\n\nWhile exhausted from his journey, the Pope addressed an enormous crowd of well-wishers and faithful gathered outside his hotel, and called on the rest of the world to seek endurance and strength of heart in the face of the syndicalist menace.
+At least he's safe.
+Good riddance.
 Pius XI
 §YBorn:§! §LMay 31st, 1857, in Desio, Kingdom of Lombardy-Venetia, Austrian Empire§!\n§YBackground:§! §LPope Pius XI, formerly Cardinal Achille Ratti, was elected to the Holy See in 1922, having spent most of the previous years as a papal representative in the newly re-established state of Poland, and was named a cardinal in 1921. Thus, he avoided most of the turmoil of the civil war and the danger that the Papacy underwent in its later stages. He was the first pope since the unification of Italy to give an ascension speech at Saint Peter's, as the practice has been abandoned during the 'Hostage Years' under the Savoyard monarchy. His papacy has been also marked by increasing tensions between factions in the Curia, and the troubled re-establishment of temporal authority.§!
 College of Cardinals

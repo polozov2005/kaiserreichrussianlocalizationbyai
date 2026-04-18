@@ -5,7 +5,7 @@ INPUT_DIR = "split_output"
 USEFUL_DIR = "useful_text"
 OUTPUT_DIR = "split_input"
 
-line_pattern = re.compile(r'^\s*[\w\d_]+\s*:\s*["\']')
+line_pattern = re.compile(r'^\s*[\w.\-]+\s*:\s*["\']')
 
 def main():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
@@ -22,8 +22,7 @@ def main():
             print(f"[WARN] Файл {useful_path} не найден. Пропуск.")
             continue
 
-        # Читаем строки, удаляя только переносы. 
-        # Фильтруем полностью пустые строки (length 0), чтобы избежать сдвига из-за лишних Enter в редакторе.
+        # Читаем строки, оставляя "*" и обычные тексты, но убирая полностью пустые строки
         with open(useful_path, 'r', encoding='utf-8') as f:
             useful_texts = [line.rstrip('\n\r') for line in f if line.rstrip('\n\r') != ""]
         useful_iter = iter(useful_texts)
@@ -50,12 +49,12 @@ def main():
                             current_value = line_stripped[start_idx:end_idx]
 
                             if current_value == "":
-                                # Пропускаем пустые кавычки "", не расходуем строку из useful_text
+                                # Пустые кавычки "" пропускаем, не тратим строку из useful_text
                                 pass
                             else:
                                 try:
                                     placeholder_text = next(useful_iter)
-                                    # 🔑 Восстановление пробела из заглушки
+                                    # 🔑 Обратное преобразование заглушки в пробел
                                     new_text = " " if placeholder_text == "*" else placeholder_text
                                     line_stripped = line_stripped[:start_idx] + new_text + line_stripped[end_idx:]
                                     count += 1

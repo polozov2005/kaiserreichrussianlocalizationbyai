@@ -313,6 +313,164 @@ GFX_CHL_intro
 Chile in 1936
 After the Saltpetre War 1879 - 1883 in which Chile received the Peruvian saltpetre provinces Tarapacá and Arica in addition to the Bolivian coastal region of Antofagasta the country had command over vast copper deposits and monopolised the world trade in saltpetre. A phase of economic prosperity was initiated, supported by the high demand for saltpetre at the beginning of Weltkrieg. However, the chemical processes devised during that war to artificially produce saltpetre rendered Chile's deposits worthless.\n\nWorsening economic circumstances, together with the growth of the population increased social crisis. Workers and unions gained political influence, especially under the disastrous rule of Carlos Ibañez Del Campo, during which Chile bankrupted, in 1931. Shortly afterwards. Ibañez was deposed, and the navy and most of the army mutinied, and with the support of the people, and the arrival of reinforcements from the long exiled Marmaduke Grove arriving from the Union of Britain, the Syndicalist Republic of Chile was proclaimed.\n\nAfter 5 years of rebuilding under the first council, led at least nominally by Arturo Puga, the republican economy recovered greatly, and a military build-up has begun. Now, with Argentina's rhetoric becoming increasingly aggressive, the well respected Marmaduke Grove, military man veteran of two revolutions oceans apart, is at the helm of rebuilding the republic. However, not all Chileans are as hopeful for the future as the syndicalist leaders are...
 §MPartido Sindicalista Chileno / Alianza Socialista Nacional / Partido Revolucionario Permanente§! ($radical_socialist_coloured$ / $syndicalist_coloured$ / $totalist_coloured$)\n£white_dot When the third chairman event appears, select Carlos Labraca to go Totalist, Salvador Allende to go Radical Socialist or Clotario Blest Riffo to remain Syndicalist.\n£white_dot After 5 years, elections will come again, and you can choose the fourth chairman to be Syndicalist, Radical Socialist or Totalist and 5 years after that, another one will take place with the same options.
+Earthquake in Chile
+An earthquake in Chile killed 30.000 people and thousands of people are left homeless. We should do something to help them.
+Help the survivors!
+The needs of the many outweigh the needs of these unlucky few.
+The Third Chairman
+Our young republic now holds its second central elections; much fanfare and celebration is held, and 3 main candidates attempt to sway the votes of the workers. Blest Riffo, a long time fighter of worker's rights during the worst times of repression, is favoured both by Marmaduke and most of the mainline Syndicalists, and thus the majority of voters. Against him runs the young Salvador Allende, whose very opposition broad coalition us as diverse as it is rather un-cohesive, but they promise a better future for Chile. Also, with rather minute chances, the Totalists, influenced by the ideas of European Socialists like Mosley and Beira, are running with Labarca as their frontman. What will the people decide?
+Clotario Blest Riffo and the Orthodox Syndicalists.
+Salvador Allende and the Social Coalition.
+Carlos Labarca and the Mosleyists.
+The Fourth Chairman
+After 10 years of a stable government, the people of Chile rejoice at the prosperity and peace the revolution brought. And now comes the time to elect the Fourth Chairman of the Chilean Syndicalist Republic. Three candidates are running the ballot, and 2 of them are respected and well regarded poets and writers. Gabriela Mistral leads the Pacto de Calais, a broad coalition of intellectuals and politicians who defend the Republic's central government, but unlike Carlos Contrera Labarca's Totalists, do see regular elections and personal freedoms as of something of the utmost importance. The Orthodox Syndicalists are led by Pablo Neruda, yet another very accomplished writer and poet. But who will emerge as the dominant party in Chile?
+Lucila Godoy y Alcayaga, better known as Gabriela Mistral, and the Heterodox Syndicalists.
+Carlos Labarca and the Mosleyists.
+Ricardo Eliécer Neftalí, better known as Pablo Neruda, and the Orthodox Syndicalists.
+The Fifth Chairman!
+15 years of a stable government in Chile have passed, and the time has come once again to select the chairman of the republic.
+Aurelio Celedon Palma and the New Social Coalition.
+Carlos Díaz Loyola, better known as Pablo de Rokha, and the Mosleyists.
+Luis Emilio Recabarren and the Orthodox Syndicalists.
+[GetYear] Chairman Takes Office
+Now that the Chairman has officially taken office party supporters are cheering for their success.
+Viva!
+[GetYear] Democratic Elections
+The time has come for the Junta to end and for the people to finally decide upon a leader to bring them into democracy once more. Because this is the first election after the Junta, no one is sure which of the four candidates will emerge on top.
+Carlos Ibáñez del Campo and the Popular Freedom Alliance.
+Juan Esteban Montero and the Pact of Calais.
+Arturo Allessandri and the Liberal Party.
+Jorge González von Marées and the Committee of Officers Against Atheism and Traitors.
+[GetYear] Democratic Elections
+Six years have past since the first democratic elections since the syndicalist regime had been deposed, and the time has come once again to vote for the next ruling party of Chile's republic. Again there are 4 candidates on the ballot and the elections are expected to be a toss up again.
+Juan Pablo Bennett and the Popular Freedom Alliance.
+Gabriel González Videla and the Pact of Calais.
+Eduardo Alessandri and the Liberal Party.
+Jorge González von Marées and the Committee of Officers Against Atheism and Traitors.
+War of Liberation!
+A state of war now exists between us and Argentina, our army and navy are already mobilising for the coming conflict.
+We Must Aid our Argentinian Comrades!
+Negotiate for Tierra del Fuego
+Now that our comrades have control of Tierra del Fuego we have the unique opportunity to negotiate for the land as reparation for our support in the war. This would allow us to fully secure our control of ther Magellan Strait for Chile!
+Yes! Begin the negotiations.
+It's worthless, they can have it.
+Chile Asks for Tierra del Fuego
+Our comrades in Chile are asking for control over the state of Tierra del Fuego as reparations for their help in the war against Argentina.
+It's worthless, they can have it.
+Never!
+Seize the Galapagos
+We can use the war in mainland Ecuador as a distraction and pretence to seize the galapagos as a naval base for our fleet.
+Do it! Our mighty navy rules the Pacific.
+Better not.
+The Coup Succeeds!
+The committee of officers have succeeded! The two main factions of the group are the officers led by Bartolomé Blanche, who advocates for a temporary Junta to return to Democracy, and the second group led by Francisco Díaz Valderrama, who wants to secure the power of the state in a Nationalist Junta. Only one of these factions can emerge on top of Chile's new government though...
+Bartolomé Blanche keeps power in a Junta!
+Francisco Díaz Valderrama seizes the apparatus of state!
+Blanche Signals Elections
+Blanche has soothed fears of a permanent Junta by confirming that democratic elections will take place in Chile.
+Grand!
+The Hispanist Cultural Campaign
+The government, headed by Valderrama, has announced a campaign to promote Hispanist culture in Chile to bring it to the forefront of Chile's own culture.
+A Commendable Initiative.
+Rafael Franco Urges Us to Liberate Paraguay
+Our comrades in Paraguay have contacted us asking for our assistance in liberating them from their oppressive regime.
+We will do it if we can!
+Taking Down Goliath!
+The time has finally come for us to show Brazil that the size of your country isn't always what decides wars!
+Brazil can't stop us!
+Reactionaries Arrested
+Our recent efforts to weed out traitors have bore fruit, and many traitors and reactionaries have been arrested.
+Get them in the Planes and out of my sight.
+Mapuches Revolt Against us!
+With the current war causing strain on our country the Mapuches in the provinces south of Santiago have revolted against our government, and are using low level warfare to cause us problems.
+Blasted natives!
+A Peculiar Meeting
+Opposition leader Salvador Allende met with the respected officer Bartolomé Blanche over lunch today and discussed setting up another meeting to discuss 'Sensitive Topics'
+A Second Meeting
+Salvador Allende and Bartolomé Blanche met again, this time in Allende's home, where the officer suggested putting aside their differences to work together and overthrow the current Totalist government, but that he would need time to come up with a plan.
+Planning the Operation
+After the anxious wait Blanche returned to Allende with a finalised plan to take back the reins of the government from the Totalists, presenting it to the Socialist leader. Blanche was insistent that assassination was necessary to ensure the plan worked while Allende was hesitant and leaning towards forcing a resignation.
+We will kill the Chairman first, then execute it.
+Surround the Palace and force him to resign.
+The Coup Succeeds!
+Allende and Blanche's forces have successfully deposed the oppressive regime of the Totalists, but it remains to be seen which of the two will rise to take the mantle of Chile's leadership.
+A Junta is Formed Under Bartolomé Blanche.
+Moderate Socialists led by Allende are brought into power.
+Coup Foiled!
+Despite the conspirators best efforts Totalist forces have foiled the plot against their government! arresting many of the conspirators but the masterminds remain free. The public image of the Totalist regime has been bruised by the ordeal though.
+Blasted traitors! Start up the planes and call Easter Island, they are getting a lot of traffic.
+Lucila Godoy Joins Forces with Allende
+Better known as her pen name Gabriela Mistral, Lucila Godoy y Alcayaga has announced her membership and nomination as the candidate for Chairwoman in Allende's party of moderate socialists, which was recently renamed to the 'Heterodox Syndicalists'
+The broad front becomes even broader!
+Ricardo Eliécer Neftalí Rises Among Orthodox Ranks
+Ricardo Eliécer Neftalí, better known as Pablo Neruda, has risen amazingly fast in the ranks of the Orthodox Socialists, emerging as their frontrunner for Chairman in the upcoming election.
+A poet running against another!
+Labarca Will Try Again!
+Despite his loss in the previous election Labarca has lost none of his spirirt, announcing his second bid for Chairman earlier this morning.
+Indeed.
+Neftalí Releases Politically Charged Book!
+In a surprise move Neftalí published a book detailing his plans as the new chairman, as well as slandering the policies and weakness of both Lucila Godoy and Carlos Labarca and their parties.
+A brawl is surely brewing!
+Lucila Aggressively Responds to Neftalí's Claims
+In response to the slanderous claims launched by Neftalí in his book, Lucila has fired back with claims of cowardice and ill intent in what looks like the second shot of a political battle.
+So uncivilised!
+Pablo de Rokha Endorses Labarca and Mocks Neftalí
+A third poet has entered the stage of politics for this election. Carlos Díaz Loyola, known as Pablo de Rokha, has come out and announced his support for Labarca and the Mosleyists, while simultaneously mocking Neftalí's book and his capability to lead.
+So many poets, we may soon miss the usual politicians!
+Neftalí Responds to Accusations and Asks for Civility
+The Orthodox frontrunner has responded to the attacks by walking back on his previous hostility and asking for civility before the rapidly approaching elections, leading to some seeing him as weak while others see it as the professional response.
+Why can't we all get along?
+Netalí and Lucila Reconcile over Misunderstandings
+With the election behind them, Party leaders Lucila Godoy and Ricardo Neftalí have met to iron out the soured relations between their two parties and forge a closer bond to more effectively run Chile.
+A grand development!
+Pablo de Rokha Charges Again at Neftalí and Godoy
+Despite losing the election the totalists have continued their hostile rhetoric, and Pablo de Rokha has issued new claims against both of the leaders of his opposition parties. This has stirred up more trouble and vitriol in Chile's political scene, though the Mosleyist party leader Carlos Labarca has remained strangely silent on the affairs.
+How rude!
+Pablo de Rokha Takes Reins of the Totalists!
+Citing his ineffective leadership and failure to get elected, Carlos Labarca has stepped down as the party leader of the Mosleyists. The void was quickly filled by the brazen poet Pablo de Rokha who'd popularity is breathing new life into the ailing Mosleyist party.
+Will new leadership really aid them?
+Leading the Revolution in America!
+With the disastrous fall of [WCA.GetNameDefCap] we are the last major syndicalist country in America. we must take up the flame and lead the revolution bravely!
+Viva!
+Carlos Ibáñez del Campo Returns?
+Finally returning to Chile after being exiled following the revolution, Carlos Ibáñez del Campo has announced his bid for the Presidency as part of the Popular Freedom Alliance.
+He really thinks he can win?
+Socialist Rehabilitation
+While we are focusing on preparing Chile for a transition to democracy we have attempted, unsuccessfully, to implement plans to rehabilitate relations with the socialists, perhaps a government not in a Junta will have more luck?
+We will need time.
+Align with Carlés and Aguero?
+Our new government is much more closely aligned with our former enemies than previously thought, and they have expressed interest in us joining their alliance, perhaps we should join them?
+Dios y Patria!
+It is not a good idea.
+Chile Requests to Join the [ROOT.GetFactionName]
+We have received a request from the Chilean diplomatic representatives, asking that Chile will be allowed to sign with us a military agreement, and thus align with us formally in the increasingly complex balance of power.
+Wonderful, we fully agree.
+Entangling ourselves in such an agreement is not to our liking.
+Our Antarctic Claims
+Chile has long claimed ownership of parts of Antarctica, We could more aggressively enforce these claims if we wish.
+Why? There's just Penguins there.
+It belongs to Chile!
+Chile is Seizing the Galapagos
+Taking advantage of our conflict with Peru, Chile has made a move on the Galapagos, attempting to seize the islands while we are distracted by our war.
+Taking advantage of our recent annexation of Ecuador, Chile has made a move on the Galapagos, seizing the islands before we could garrison them.
+There is nothing we can do...
+Order the garrison to fight them off!
+Failure in the Galapagos
+Despite our brilliant plan to seize the Galapagos islands while Ecuador was distracted by their war, the islands were garrisoned far more heavily than we expected, and our invasion was sent back into the sea. This is an embarrassment for the nation, and Ecuador is unlikely to forget our transgressions.
+Damn them!
+Chile wishes to join the Internationale
+The workers revolution in Chile has been greatly successful, a shining model in the Southern Hemisphere of revolutionary ideals. However, they feel threatened by reactionary neighbours and other imperialist threats, and feel like it's high time to join the Internationale.
+Let us welcome them in the struggle for World Revolution!
+That is pointless!
+[From.GetNameDefCap] Has Agreed
+[From.GetNameDefCap] have accepted our request to join the Third Internationale. We now have strong allies all across the globe.
+Avante!
+[From.GetNameDefCap] Has Refused
+Inexplicably, [From.GetNameDefCap] has refused to allow our entry into the Third Internationale.
+Are they out of their minds?
+Counter-Revolution in Chile
+Though Chile was once viewed as the most successful bastion of syndicalist and socialist values in South America, it appears that its regime stands no more. Clear failings in leadership during the war against Argentina and the dire strategic situation facing the nation today led to a cabal of military officials seizing power in Santiago, and a number of key strong points in the city and across the country swiftly fell into their hands.\n\nWhere Chile's path now lies remains uncertain, but it appears that another junta rules in Latin America - for now at least.
+The hammer and torch suffers a blow.
 Join the Internationale
 Many of our men, including Marmaduke Grove himself, were part of the Revolution both there and in Britain. Now, with socialism having triumphed decisively in Argentina, we should take our place amidst our brothers and sisters of the international syndicalist community.
 Industrial Development
@@ -424,6 +582,16 @@ Jean Bolikango
 §YBorn:§! §LFebruary 4th, 1909, in Léopoldville, Belgian Congo§!
 Daniel Kanza Kinsona
 §YBorn:§! §L1909, in Manianga, Belgian Congo§!
+Portuguese Demands
+[POR.GetNameDefCap] has sent us a demand to submit to their rule and to reinstate the Mwene wa Kongo - the Kingdom of Kongo - with which they have prior arrangements of overlordship and submission. Should we do this, our young state becomes a pawn on the great board of the European powers once more. Yet, if we refuse, it's almost certain they will issue a declaration of war.
+Our survival in these trying times is more important than our pride.
+We will meet them in battle!
+A Congolese Approval
+Kinshasa has accepted our offer and submitted, bringing peace to the Manikongo's lands. In return for the restoration of the Manikongo to his rightful throne, we will allow a large degree of autonomy. Now, however, Portugal can finally claim ownership of the Congo.
+Welcome back!
+A Congolese Refusal
+Kinshasa has refused our offer of protection and guarantee of stability, leaving us with no other choice but to press the issue with the use of military force.
+An unwise decision.
 Colombia Focus Tree
 Andean Pact
 Colombia
@@ -697,6 +865,21 @@ GFX_COL_intro
 Colombia's Place in the World
 Weakened by civil wars (especially 1899 - 1903), Colombia had to acknowledge U.S. rights of control of the Panamá Canal in the Hay-Bunan-Varilla Treaty of 1903, ending the conflict between the two countries about the building of the Canal. When the Colombian Congress refused to ratify the treaty the United States forced the secession of Panamá from Colombia, compensating them between 1921 and 1930 with a payment of a total 25 million Dollars. Colombia formally recognised Panamá in 1921.\n\nThe conservatives pursued the modernisation of the country, expanding the railroad network. Since 1850 Colombia had been exporting tobacco, after 1900 coffee and bananas were added (with the aid of U.S. capital), after 1905 petroleum. The liberals formed a government in 1930 which enacted a land reform, dispossessing big landowners, and social reforms, with economic benefits for the middle class, the workers' class and the peasants.
 §MLiberales / Conservadores§! ($social_democrat_coloured$ / $social_liberal_coloured$ / $social_conservative_coloured$)\n£white_dot During the elections choose either the §SLiberals§! or the §cConservatives§!.\n£white_dot From the second election onwards, the Liberals become §lSocial Liberals§!.\n\n§MAcción Nacional§! ($paternal_autocrat_coloured$)\n£white_dot During the 1938 elections choose \
+The 1938 Presidential Election: Colombia at a Crossroads
+This year's Presidential election has begun and while it's predicted that the Liberal Party will continue control of the Presidency, the Conservative party can just as well win the post. More extreme factions from both sides have splintered and are also running mainly the socialist UNIR led by the charismatic Jorge Eliécer Gaitán, and sporadic violence between them and the right have emerged. From the sidelines, Gustavo Rojas Pinilla, fresh returned from his trip to Mitteleuropa to secure defence contracts, worryingly believes that the very fabric of the Republic may be at risk...
+The Liberals win it!
+The Conservatives win it!
+Jorge Gaitán sways the masses, and the UNIR and other radical liberals form a majority!
+The army shall put an end to this chaotic democracy! Order must be restored.
+The 1942 Presidential Election
+With the democratic establishment of Colombia strengthened, Gaitan and other hardline liberals fell into Party line, and the Leopardos lost their momentum. Now, the people of Colombia must choose their president, and either party can just as well win the post...
+The Liberals win it!
+The Conservatives win it!
+The 1946 Presidential Election
+Will this election bring us more unity or will it divide further?
+The Liberals, the only true way to rule.
+The Conservatives will lead the way.
+For the peasants, for the workers and for Colombia - Choose the Syndicalists.
 Gilberto Vieira
 §YBorn:§! §LApril 5th, 1911, in Medellín, Antioquia Department, Republic of Colombia§!
 Pedro Nel Gomez Agudelo

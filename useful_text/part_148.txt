@@ -192,6 +192,10 @@ Studying the Svobodniks
 While [SAR.GetNameDef]'s paramilitaries may have been disbanded in favour of a standing army, it does not mean that the nation's government does not recognise how effective the tactics employed by such troops can be. Seeing the paramilitaries that aided in the rise of Savinkov as the exemplary example of such tactics, they have begun to introduce elements into the army's training inspired by these Russian loyalists they have come to admire.
 Vyner's brother §YBertram Brooke§! will be chosen as the new Rajah of Sarawak, reigning as §YBertram I§!.
 Vyner's nephew §YAnthony Brooke§! will be chosen as the new Rajah of Sarawak, reigning as §YAnthony I§!.
+Succession in Sarawak
+While we may have chosen to reaffirm the rule of the White Rajah's over Sarawak, it has ultimately been decided by the Council Negri that Rajah Vyner I's return would be of little benefit to anyone. Instead, the council has moved to officially confirm Vyner's abdication and has begun to deliberate on the choice of successor, although the process has been complicated owing to Vyner's lack of male children. Discussions have however been narrowed down to two candidates from the Brooke dynasty, and the Council has requested advice on which to favour.\n\nThe most obvious choice to take the throne to many is Bertram Brooke, Vyner's younger brother who has for years acted as his heir apparent. Much like his brother, Bertram has expressed views that seem to favour the conservation of the status quo in Sarawak, although through a much more pragmatic lens than Vyner and so would be willing to take a step back from direct duties if that is the will of his people. Bertram has however also made clear his lack of desire to take up the crown, and despite not outright rejecting the idea he has directed the Council to instead consider if his son Anthony would be the better pick.\n\nCompared to his father, Anthony is regarded as somewhat of a radical firebrand, or at least as much as a prince can realistically be, with him notably presenting proposals for reforms to his uncle that received a very lukewarm response from the old Rajah. While willing to take a back seat to a more democratic government, if presented the opportunity the young prince will certainly make attempts to reform Sarawak into a much more modern monarchy fit for the current age.\n\nAll that is left for us to do now is to decide between these two candidates, and the Council shall take the final steps to officialise Vyner's abdication of the throne and confirm the appointment of the successor favoured by our advice.
+Sarawak would certainly be in steady hands under Bertram.
+Young Anthony seems very promising, the throne should go to him.
 $HEJ_totalist_party$
 $HEJ_totalist_party_long$
 $HEJ_totalist_party$
@@ -427,6 +431,56 @@ We live in an age of total war, where even limited conflicts put everything at s
 GFX_SAU_intro
 The Emirate of Najd
 The Weltkrieg was one of many signs that we, the House of Saud, are destined to rule this land. In the hour of their greatest hubris, the Hashemites were abandoned by their infidel puppet masters and left for dead to the Turks. While our inactivity in the war proved most fortuitous when it came time to avoid Ottoman retaliation, the decadent Turks held no real sway over us. Now we bide our time, gathering warriors, money, and expertise to strike at the Rashidis, who think they can play both sides by accepting Hashemite warriors and pay lip service to the Porte, and finally unite Arabia under our flag!\n\n§CDecisions to prepare for the war with Jabal Shammar are available.§!
+Saudi Arabia
+Today with our victory over the house of Rashidis and the conquest of the Hejaz, the Saudis stand dominant. With this victory we shall rule over all Arabs!
+Long live the House of Saud.
+The Sultan Claims Sovereignty over the Caliphate and the Holy Cities!
+In a solemn and sacred ceremony, the Saudi Sultan of Arabia has declared that he is the new Caliph of Islam. A new and pious dynasty will lead and guide the faithful once more.
+Long live the Caliph!
+Indian Muslims Celebrate the Renewed Caliphate!
+News of the Caliphate Reaches Indonesia
+The Sultan of Arabia Declares Himself Caliph
+The Sultan of Arabia has declared himself the Caliph of Islam. Many liberals in the cafés throughout Egypt were said to burst into laughter at the news, even King Farouk himself was said to find this ridiculous. Even among the conservative Ittihad party, Hassan al-Banna and Sayyid Qutb both came out and denounced it, calling the Sultan of Arabia immoral and not fit to hold the office.
+News has reached [ROOT.Capital.GetCapitalVictoryPointName] that the Sultan of Arabia has declared himself the Caliph of Islam. The Caliph of Sunni Islam specifically. The vast majority of people in [PER.GetNameDef] are Shia Muslim and consequently have little interest in what the Arab Sultan decided. We do not care about him.
+Throughout India, the Muslims have decided to celebrate the new Caliphate that has been declared by the Sultan of Arabia. While most of the elites have not taken part of this celebration, the masses of India have.
+News of the Sultan of Arabia's decision to declare himself the Caliph of Islam has reached Indonesia. Most of the Muslims in Indonesia have not approved of this decision.
+We have received news from Arabia that the people there have seemed to decide that we are not the Caliph in their eyes. This is an outrageous turn of events that we shall not forget.
+The Sultan of Arabia has declared himself the Caliph of Islam. This is an obvious ploy at power. We shall reject this claim, for we do not need to recognise this ridiculous pretence.
+Who cares what the Arab Sultan claims.
+Inshallah.
+Reject these ludicrous claims!
+He is not the Caliph.
+Indian Muslims Accept our Claims
+Indonesian Muslims Reject our Claims
+[FROM.GetAdjective] Muslims Reject our Claims
+We have received good news out of India. The Muslim population of India has accepted our claims as the Caliph.
+We have received news from Indonesia that the people there have seemed to decide that we are not the Caliph in their eyes. This is an outrage that we shall not forget.
+We have received news from [FROM.GetNameDef] that the people there have seemed to decide that we are not the Caliph in their eyes. This is an outrage that we shall not forget.
+We shall remember this.
+We shall not forget this.
+The Ikhwan Rebel!
+The Ikhwan has been a strong army presence in Arabia for decades. They were also one of the principle reasons we were able to succeed in defeating the other Arab states and assert Saudi dominance in the region. However, the Ikhwan have always been a traditional group, highly religious, and vehemently against change and reform. They do not seem to understand that modernisation is necessary when ruling a nation. Normally, we can control any anger felt by the Ikhwan with promises that we won't modernise any more. However, it seems we've pushed them too far this time. Ikhwan soldiers have united under the leadership of Faisal Al Duwaish, an Ikhwan commander, who has declared that the Saudis are unfit to rule Arabia. Many Ikhwan militia have risen up, and fighting has already begun...
+We will crush these rebels, for Arabia!
+Emirs Swear Loyalty to the Saudi State
+The tent city of Riyadh saw the procession of sabres upon many soldiers heads under Ibn Saud's orders. In its wake is the procession of captured Emirs. Ibn Saud has decided to spare the families of the Emirs on the condition that they swear total allegiance to the Saudi Arabia. This new form of vassalage is different from the ruthless precedence Ibn Saud's forefathers operated on, and is protected from the Ikhwan in perpetuity.
+Sufficient is Allah as our ally
+An Offer From [FROM.GetNameDef]
+We are involved in a war with [FROM.GetNameDef] due to our alliance with [OMA.GetNameDef]. However, with the capitulation of [OMA.GetNameDef], we have lost our only foothold in the Arabian peninsula. We are now faced with a choice - invade the peninsula by force, or seek peace and cut our losses.
+Oman was not of much use, anyway.
+We shall not betray our allies!
+[FROM.GetNameDefCap] Seeks Peace
+With the collapse of the [OMA.GetAdjective] defences, their allies in [FROM.GetNameDef] were left without a foothold in Arabia - and as such, without any means to threaten us. Unfortunately, we are also unable to threaten or invade them in any way. [FROM.GetNameDefCap] has approached us with an offer - in exchange for peace, they will cut any ties with the [OMA.GetAdjective] state.
+We are one step closer to uniting Arabia!
+No peace with the invaders!
+[FROM.GetNameDefCap] Declares Continuation of War
+While the collapse of the [OMA.GetAdjective] defences brought hope that their allies in [FROM.GetNameDef] would attempt to cut their losses and seek peace, it appears that Muscat has found itself an ally willing to bleed itself dry.
+The war goes on, then.
+[FROM.GetNameDefCap] Refuses our Offer!
+Despite our generous offer, the Arabs have refused any peace terms with the \
+What?
+The Saudi-Omani War
+Long divided into two distinct political entities: the Imamate of Oman in Nizwa and the Sultanate of Muscat in Muscat, the ever increasing weakness of the former thalassocracy has not gone unnoticed by the Emir of Najd who planning to divide and conquer, invaded the isolated Imamate over a most questionable border dispute.\n\nAlthough the Sultanate of Muscat, supported by foreign allies, has been able to escape a direct threat to its independence, it has nonetheless decided to interfere in the conflict, rallying together with the Imam against the shared Saudi threat.
+Can Muscat really take another hit?
 Najd and Hasa
 Saudi
 Najd and Hasa

@@ -336,6 +336,346 @@ GFX_NOR_intro
 The State of Norway
 Norway is standing at a crossroad in history. While the nation is relatively prosperous, civil society is plagued by political infighting and stagnation.\n\nThe left is divided as a result of schisms within the once dominant Labour party. In 1921 the moderate faction broke away and formed the Social Democratic Labour Party, while the radical syndicalist wing broke away to form the Norwegian Syndicalist Federation in 1923. In addition, the Norwegian Communist Party is struggling and there are rumours about forming a new vanguard party of the far left, based upon the principles of National-Syndicalism.\n\nOn the opposite end of the political spectrum, several nationalist organisations are jockeying for power and influence. While they are somewhat united in their opposition to socialism, their means and goals differ.\n\nWhile the political infighting has not resulted in violence, the ruling Liberal party is mostly powerless to handle pressing issues due to its minority government. As dark clouds are gathering once more over Europe, the people are anxiously awaiting the election in October 1936.
 §MDemocracy - NSA / Høyre§! ($social_democrat_coloured$ / $market_liberal_coloured$)\n£white_dot Empower the desired party in the 1936 elections, either the Social Democrats (§SNSA§!) or the Conservatives (§mHøyre§!), and in the subsequent election.\n\n§MSamfundsvernet§! ($paternal_autocrat_coloured$)\n£white_dot Empower the Radical Socialists (§RArbeiderpartiet§!) in the 1936 elections.\n£white_dot During the fighting in Oslo, let the Samfundsvernet capture Parliament and Quisling will form a new Government.\n\n§MRevolution§! ($radical_socialist_coloured$ / $syndicalist_coloured$ / $totalist_coloured$)\n£white_dot Same as above, but let the Worker's Militias take the Capital during the fighting in Oslo.\n£white_dot During the meeting of the Landsorganisasjonen, have any faction obtain a majority by supporting it 3 times or more.
+Trade Mission to Japan
+The lack of international trade has crippled the Norwegian economy since 1925. One of the underlying issues is the lack of work for our large merchant navy. A bright individual in the foreign department has recently proposed reaching out to the Empire of Japan, as it could prove a market for our dried-fish and whaling trade. We could also lease some merchant ships to the Japanese at favourable rates. If successful, an agreement would provide much needed contracts for our merchant navy.
+Send a trade delegation.
+The idea is ridiculous.
+Mission from Norway
+We recently received a trade delegation from the Kingdom of Norway. The country seeks new trading partners as it is not a part of the German 'Reichspakt' that dominates trade on the European mainland. They seek to trade, among other things, dried-fish and have offered us very favourable rates on Norwegian merchant shipping. Most of our trade experts are in favour of accepting, while a few oppose the use of foreign shipping in moving Japanese goods.
+We won't refuse a good deal.
+Politely decline.
+Norvego-Japanese Trade Agreement of 1936
+Our proposal for a trade agreement has been accepted by the Japanese government and was signed in Tokyo this morning. It will provide much needed relief for parts of our economy.
+Great!
+The Japanese Decline
+Unfortunately, the Japanese government has declined our trade agreement. It seems we will have to find other markets for our industry.
+Apparently, the idea was ridiculous after all...
+End of the NKP
+Today the NKP, the Norwegian Communist Party, disbanded itself. Having failed to capitalise on the current economic crisis, the party decided to disband itself and have its members join the newly created Norwegian National-Syndicalist Party. Based upon the new teaching of politicians such as Benito Mussolini and Oswald Mosley, popularly known as \
+Yet another party of the left?
+Protests Against Farm Foreclosures
+The current economic crisis has caused a lot of farmers to default on their loans and mortgages. As a result, their livestock and property is normally auctioned away to the highest bidder by local authorities. The practice is deeply unpopular among Norwegian farmers, but its proponents claim that debts must be repaid and that the auctions are a necessary evil in a free market economy. Yesterday, the Farmers Party proposed a bill that would ban the auctions. What is the governments position on the issue?
+Allow the auctions to continue.
+Pass the bill and ban the auctions.
+The Birth of Bygdefolkets Krisehjelp
+Today, a loose grouping of landowners, farmers and right-wing politicians announced the establishment of Bygdefolkets Krisehjelp. Partly political and partly economic, the goal of the organisation is to oppose the farm auctions and aid farmers in need. Questions have already been raised regarding its independence, as its founders are all members of the party Nasjonal Samling. While some newspapers have praised its creation, others are denouncing the organisation as nothing more than a ploy to increase support for Nasjonal Samling in rural areas.
+Unfortunate.
+Quisling's Speech
+Vidkun Quisling, a former minister of defence and the leader of the extremely nationalistic party Nasjonal Samling, recently held a public rally. In his speech, Quisling denounced the government for both its handling of the economic crisis and the lack of measures taken against the Norwegian syndicalists. He encouraged his supporters to join Samfundsvernet, a conservative paramilitary organisation, claiming that Samfundsvernet and Nasjonal Samling was Norway's last line of defence against syndicalism.
+Last line against syndicalism? Really...?
+Samfundsvernet and the State
+Since Samfundsvernet was founded in 1923, the paramilitary organisation has been a bulwark against syndicalism. Although controlled and supported by conservative and nationalist circles, it was even granted status as reserve-police by the Police Act of 1928. However, Quisling's recent speech has filled its ranks with his supporters and radicalised the organisation. Several voices have raised concern regarding this development and wants us to curtail the organisation.
+Revoke their status and suppress the organisation.
+They are a defence against Syndicalism.
+Failure at Suppression
+Our attempts at suppressing Samfundsvernet have failed. The right-wing parties would not accept any compromise regarding the organisation, while the left-wing parties demanded an outright ban. As a result, we couldn't build a parliamentary majority on the issue.
+They will remain a danger...
+The Formation of Red Guards
+Our intelligence service is reporting that the syndicalist parties and trade unions are covertly organising paramilitary red guards. While this is most likely a response to the radicalisation of Samfundsvernet, it is an unsettling development.
+What can we do...
+Influence from the UoB
+The Union of Britain has begun influencing our political system. It seems they are supporting syndicalist groupings with funds and attempting to undermine the legitimacy of our democracy in the left-wing press.
+Damned syndicalists!
+Stortingsvalget 1936
+Today, the Norwegian people elects a new parliament. The election is tightly fought and will decide the course of Norway in the foreseeable future. There are three possible outcomes. First of all, the radical-socialist Labour Party is campaigning on a platform of socialist reform. The Society Guard has declared that such a victory would force their hand, whatever that means. Another possibility is the social democratic Labour Party in coalition with the Liberal Party. Furthermore, the market liberal Conservatives could gain power with the Farmers party. Who will win?
+The Radical-Socialists wins a Plurality.
+The Social-Democrats and Liberals gain a Majority.
+The Conservatives and Farmers Party forms a Coalition.
+The Conservatives Protest
+The conservative and far-right parties have issued a formal protest against the formation of a radical Labour government. The claim said government is a threat to the stability of the nation and demand that the king appoints someone else. However, the king is not inclined to break with parliamentary procedure and has stated that 'I am also king for the syndicalists'.
+It is the will of the people!
+Governor Rygg Critise the Government
+Nicolai Rygg, former minister of finance and the current governor of the Norwegian Central Bank, has begun to harshly criticise the government in public. According to Rygg, the country is bound for economic devastation and he strongly encourage the opposition to defeat the government. Governor Rygg is quite the influential man and his opposition is bound to be shared by the established political parties.
+Why won't he shut up?
+The Scope of Socialist Reform
+With our party in government, we need to decide upon the scope of our reform agenda. As we only have a parliamentary plurality, we would need support from other parties to pass the laws. A majority of our party wants to enact some limited labour legislation, including work hours and safety regulations, that would easily gain support from the social democrats and liberals. A minority believes we should exploit our recent electoral victory and attempt to push for nationalisation of critical industries. While such a plan won't easily pass parliament, it could perhaps garner some support from certain right-wing elements.
+Minor Reform. Enact some labour legislation.
+Major Reform. Nationalise critical industries.
+Quisling and Samfundsvernet Mobilise
+This morning, Vidkun Quisling occupied at studio at the Norwegian Broadcasting Corporation and started broadcasting on the radio. He announced that parliament would pass a motion of no confidence against the government the following day. To keep the peace and secure an orderly transition of power, Samfundsvernet would mobilise and protect important public institutions. In the end, Quisling justified these actions by blaming the government for its dangerous, revolutionary plans.\n\nAs the guardsmen took to the street, the police refused to take action. Clashes soon developed between guardsmen and worker's militias as the situation rapidly escalated.
+We have a mandate for change!
+The Unions Mobilise
+As the crisis continue to escalate, the trade unions have mobilised and declared a general strike. Martin Tranmæl, one of the most important syndicalist figures in Norway, declared support for the government and denounced the bourgeois opposition. According to Tranmæl, the Labour Party will not be able to stand on its own, while the bourgeois establishment is plotting to crush the organisations of the common man. The worker must now take matters into his own hands, claims Tranmæl.\n\nAs battle rages in the streets of Oslo, it seems that the police and army have orders to remain in their barracks.
+The country is holding its breath!
+The Hour of Decision!
+As the battle of Oslo rages for the third day, power hangs in the balance. Both sides have a certain claim to legitimacy and whoever captures the capital will likely control the country. The worker's guards claim to be defending the legitimate government, while Samfundsvernet wish to enable the parliamentary downfall of said government. As the battle reaches its climax...
+The Worker's Militias take the Capital and impeach the bourgeois elements.
+Samfundsvernet capture Parliament and Quisling forms a Government.
+A Syndicalist Norway
+With the help of the Trade Unionists, the labour government has managed to survive the bourgeois attacks on the rightful government. Now they have the power and capacity to reform Norway in a manner that has not been seen before. At the end of this, Norway will have achieved socialism!
+All Power to the Workers.
+A Nationalist Norway
+Vidkun Quisling has formed a national government to combat the syndicalist threat. Today, parliament passed a law granting Quisling the power to enact laws, before Quisling suspended parliament indefinitely. There is no doubt that a new age has come to Norway. Also, the King has fled to Canada.
+Order and Justice.
+Stortingsvalget [GetYear]
+Today, the Norwegian people elects a new parliament. The election is tightly fought and will decide the course of Norway in the foreseeable future.
+The Social-Democrats and Liberals gain a Majority.
+The Conservatives and Farmers Party forms a Coalition.
+The Oslo Analyser
+The scientist Svein Rosseland recently proposed the construction of a large mechanical computer, The Oslo Analyser. With governmental support, he has now finished the theoretical parts of the project. His team will now attempt to construct this technological marvel. If successful, the computer should greatly increase our research capabilities.
+Good luck, Mr. Rosseland!
+The Oslo Analyser Is Complete
+Today, in a ceremony at the University of Oslo, Mr. Rosseland unveiled the Oslo Analyser. Based upon the work of Vannevar Bush and currently the most powerful differential analyser in the world, the machine has twelve integrators and will provide our scientist with unrivalled computing power.
+Who needs Konrad Zuse or Alan Turing!
+The DNL Wishes to Expand
+Our recent investments into 'Det Norske Luftfartselskap' has opened up several possibilities for our flag carrier. We could focus on the domestic market and try to bind Norway together by air. By investing in new airports and routes, we can move people, goods and mail much faster. We could also focus on the Scandinavian and North Atlantic market. However, some claim that the risks involved are too large and the possible rewards to small. What course of expansion should we pick?
+Limited Expansion.
+Grand Expansion.
+The Expansion Is a Success
+The expansion of the DNL has proven to be a success. Most of the flights have been full and the activity on routes between our largest cities have doubled.
+Great!
+The Expansion Is a Failure
+The expansion of the DNL has proven to be a failure. The international competition is fierce and the DNL was not able to turn a profit. As a result, it was decided to close down all international flights.
+Very Unfortunate Indeed...
+Opening of the Constitutional Convention
+Today marks the opening of the constitutional convention of our young republic. Hundreds of delegates, representing trade unions from all parts of society, have gathered to debate the organisation of the new state. As the Assembly of 1814 created an independent Norwegian kingdom, this convention will found a modern republic. Its achievements will surely impact all parts of society.
+An important moment in Norwegian History!
+Day 1. Autonomy for the Local Trade Unions
+The first question regards the autonomy of local trade unions.
+Keep power with the central government.
+Delegate power to the local unions.
+Day 2. Independence for the Judiciary
+The second question regards the independence of the judiciary.
+An independent judiciary.
+Keep the courts under political control.
+$norway_events.118.a$
+$norway_events.118.b$
+Day 3. Unions for the Armed Forces
+The third question regards control over our military. Shall we create dedicated unions for our soldiers or will a more traditional approach be better?
+Create Military Unions.
+Keep the armed forces under central control.
+$norway_events.119.a$
+$norway_events.119.b$
+$norway_events.119.a$
+$norway_events.119.b$
+$norway_events.119.a$
+$norway_events.119.b$
+The Convention Is Concluded
+As the convention is concluded, we can finally celebrate a constitution that will truly bring freedom and prosperity to all Norwegian workers.
+A day for celebration!
+Norway Petitions the Phalanstère
+We recently received a delegation from Norway. They seek aid from the Phalanstère to help industrialise their country. What shall be our response?
+Provide industrial aid.
+We have nothing to spare...
+[From.GetNameDefCap] Has Granted Our Request
+[From.GetNameDefCap] have decided to grant out request. They will begin work immediately.
+Great!
+Aid from the Phalanstère Has Arrived
+The industrial help from France has finally arrived.
+A thousand thanks to our French friends!
+[From.GetNameDefCap] Has Denied Our Request
+It seems that [From.GetNameDef] has decided to deny our request.
+A pity...
+Norway Seeks Military Aid
+We recently received a delegation from Norway. They seek weapons and volunteers to help them in their planned war against Sweden. What shall be our response?
+We recently received a delegation from Norway. They seek weapons and volunteers to help them defend against German aggression. What shall be our response?
+Send volunteers and surplus weapons.
+We have nothing to spare...
+[From.GetNameDefCap] has granted our request. They will send us weapons and volunteers to aid us in our struggle.
+Norway Supports Swedish Unions
+The syndicalist government of Norway has recently begun to support Swedish trade unions with funds, advisors and, most worryingly, weapons. Labour unrest has increased and the syndicalists seems to be gaining confidence.
+Issue a diplomatic protest.
+This means war!
+War Games on the Border
+To improve our military and change the defensive mindset of our soldiers, the Norwegian army will conduct large scale manoeuvres on the Swedish border.
+We'll be ready for the Swedes.
+The Norwegian syndicalists have massed their army on our border and conducted war games the latest days. While any aggression would already have taken place, the purpose of the exercises can not be mistaken. The cabinet is divided in regards to our response. Some wish to present an ultimatum to force the Norwegians to back down, while others have proposed holding our own exercises.
+Threaten them with war!
+Conduct exercises of our own.
+The Swedish Ultimatum
+The Swedish government has issued an ultimatum, demanding that we end our war games and pull our troops away from the border. Should we defy their ultimatum and continue our exercises or comply with their demands?
+Call their bluff.
+Back down, we're not ready for war.
+Our Ultimatum Was Refused
+This morning, our ultimatum expired and the Norwegian army is still conducting military operations on the border. They have clearly decided to ignore us.
+Then it's war!
+Damn, they called our bluff...
+The Norwegians Back Down
+This morning, the Norwegian army pulled their troops away from our border. Their attempt at preparing for war has been a failure.
+Great!
+Our War Games Are a Success
+Our wargames have proved to be a complete success. Our men have come to accept the necessity of liberating our Swedish brothers and army morale is at an all-time high.
+Great!
+Kompani Linge in Sweden
+A band of saboteurs and terrorists have recently begun operating in Sweden. 'Kompani Linge', named after some obscure former actor, has already blown up several rail lines and ammunition depots.
+They'll have to be dealt with...
+This is quite enough!
+Norway Seeks to Join the [ROOT.GetFactionName]
+Norway, with their new socialist government firmly entrenched, has requested to join our alliance.
+Yes, they be a valuable ally.
+No, they would only be a burden.
+[FROM.GetNameDefCap] Accepted Our Request
+[FROM.GetNameDefCap] has decided to accept us into their military alliance.
+Great!
+[FROM.GetNameDefCap] Refused Our Request
+Unfortunately, [FROM.GetNameDef] has decided to reject our petition to join the [FROM.GetFactionName].
+It seems we're on our own...
+State Visit to Canada
+The Norwegian and British royal families have strong family ties, especially since Haakon VII is [CAN_king_full_name]'s uncle through marriage. Recently the Norwegian government has considered approaching the Canadian government regarding closer diplomatic relations. It has recently been suggested to send his majesty on a state visit to Ottawa. The king could bring the matter to the attention of [CAN_king_full_name] and hopefully improve Norway's standing with the Canadian public.
+Give our regards to [CAN_king_full_name]
+Norwegian State Visit
+The Norwegian and British royal families have strong family ties, especially since Haakon VII is [CAN_king_full_name]'s uncle through marriage. Recently the Norwegian government has considered approaching the Canadian government regarding closer diplomatic relations. They have therefore decided to send Haakon VII on a state visit to us.
+He is most welcome.
+King Haakon in Canada
+Haakon VII's visit to Canada has proven a great success. In-between formal receptions and sightseeing, he managed to bring attention to our diplomatic situation. The king also had a very constructive session with his nephew and [CAN_king_first_name] promised to bring the matter to the attention of his ministers.
+A great success.
+Haakon VII's visit to Canada has proven a great success. In-between formal receptions and sightseeing, he has attempted to showcase the difficult situation of Norway to the Canadian public. The king also had a very constructive session with his nephew and [CAN_king_first_name] apparently promised to bring the matter to the attention of his ministers.
+The Kingdom of Norway has approached us with the intention of signing a mutual defence agreement. In practice, the agreement would make Norway a member of the Entente. While we would become responsible for the defence of territories on the European mainland, we would also improve our strategic position. The Norwegian coast is long and crucial to conduct operations into the North Atlantic and the North Sea.
+Restarting the Pomor Trade
+After the political and economic chaos of the Russian Civil War, trade between northern Norway and northern Russia has been at a minimum. It seems that Norway has now taken steps to reestablish the trade links by reaching out to local authorities in Murmansk and Arkhangelsk. While they really should have approached central authorities first, the idea of reestablishing the Pomor trade has merit. What shall be our response?
+Encourage the Pomor trade.
+No, trade is a governmental matter.
+The [GetYear] Norvego-Russian Trade Agreement
+In the end, the Russian government discovered our delegation to the local authorities in Murmansk and Arkhangelsk. Luckily, they thought our suggestions have merit and have agreed to reestablish the Pomor trade.
+Very well.
+The Russians Refuse
+In the end, the Russian government discovered our delegation to the local authorities in Murmansk and Arkhangelsk. Unfortunately, they were not interested in our proposal.
+Too bad...
+Trade Agreement with Norway
+Norway has recently approached us regarding a limited trade agreement. Since Norway isn't a member of our 'Reichspakt', their trade with continental Europe is very limited. We would normally not allow this, but after Black Monday, the promise of increased trade is tempting.
+Yes, we need a limited agreement.
+No, politely decline.
+The [GetYear] Norvego-German Trade Agreement
+Germany has agreed to our proposal for a limited trade agreement.
+The Germans Refuse
+Germany has refused our proposal for a limited trade agreement.
+Trade Agreement with Norway
+Norway has recently approached us regarding a trade agreement. They are one of the countries in Europe most geographically close to us, and closing down trade barriers with them would mean better relations and economic growth for both us and the Norwegians. This could also be beneficial in that we would be gaining an economic foothold in Northern Europe, which we could use as a stepping stone for greater ambitions.
+Agree to the proposal.
+Decline.
+The [GetYear] Norvego-Canadian Trade Agreement
+Canada has agreed to our proposal for a trade agreement.
+The Canadians Refuse
+Canada has refused our proposal for a trade agreement.
+Norway Demands Greenland
+In 1814, when the Treaty of Kiel entered Norway into a personal union with Sweden, we kept our Northern Atlantic possessions. The new, nationalistic Norwegian government of Vidkun Quisling has now demanded that we relinquish control over the island.
+In 1814, when the treaty of Kiel entered Norway into a personal union with Sweden, Denmark kept its Northern Atlantic possessions. Greenland is now in our possession and the new, nationalistic Norwegian government of Vidkun Quisling has now demanded that we relinquish control over the island.
+Refuse these preposterous demands.
+They are right, cede the territory.
+[FROM.GetNameDefCap] Accepts Our Demands
+Realising the futility of their position, [FROM.GetNameDef] has decided to accept our rightful claims. Greenland once again part of Norway.
+Welcome home!
+[FROM.GetNameDefCap] Refuses Our Demands
+[FROM.GetNameDefCap] has refused our rightful claims, calling them preposterous and completely unreasonable. The heads of our armed forces are awaiting word. What is the solution to the crisis?
+What they won't give, we'll take!
+Back down, we're not ready for war...
+[FROM.GetNameDefCap] Backs Down
+Realising the futility of their position, [FROM.GetNameDef] has decided to withdraw their irredentist claims.
+A victory for diplomacy.
+Peace with Canada?
+Our recent success against the Anglo-Canadian forces in the North Atlantic means that we are in a position to make terms. We should be able to demand all the North Atlantic possessions under Canadian control in exchange for peace. What is the position of the government?
+We have accomplished our goals. Sue for peace!
+No peace, total victory or death!
+Peace with Norway?
+Due to the unfortunate course of the war, the Norwegians are in a position to present terms and have recently sent a peace offer. They want all our Northern Atlantic possessions, but no 'true' Canadian lands. Do we accept?
+We have been defeated, accept the offer.
+No, the war isn't over.
+Victory over [FROM.GetNameDef]
+The [FROM.GetAdjective] government has accepted our peace offer. We have regained our long lost Northern Atlantic possessions.
+Hurrah!
+New Norwegian Demands
+There seem to be no end to Norwegians aggression as they've decided to demand the rest of our North Atlantic possessions. What shall be our answer?
+Never.
+We can't risk a war with Norway.
+[FROM.GetNameDefCap] Accepts Our Demands
+Realising the futility of their position, [FROM.GetNameDef] has decided to accept our rightful claims. They are once again part of Norway.
+Welcome home!
+[FROM.GetNameDefCap] Refuses Our Demands
+[FROM.GetNameDefCap] has refused our rightful claims, calling them preposterous and completely unreasonable. The heads of our armed forces are awaiting word. What is the solution to the crisis?
+What they won't give, we'll take!
+Back down, we're not ready for war...
+[FROM.GetNameDefCap] Backs Down
+Realising the futility of their position, [FROM.GetNameDef] has decided to withdraw their irredentist claims.
+A victory for diplomacy.
+[FROM.GetNameDefCap] Demand Our Annexation
+The [FROM.GetAdjective] government has demanded our submission. They want to re-establish [FROM.GetAdjective] rule on Iceland. What do we reply?
+No, Iceland is an independent nation!
+Yes, it is for the best.
+[FROM.GetNameDefCap] Submits
+The [FROM.GetAdjective] government has accepted our rightful demands. They are now a part of our nation.
+A great day for Norway.
+[FROM.GetNameDefCap] Refuses Our Demands
+[FROM.GetNameDefCap] has refused our rightful claims, calling them preposterous and completely unreasonable. The heads of our armed forces are awaiting word. What is the government going to do?
+What they won't give, we'll take!
+Back down, we're not ready for war...
+The [FROM.GetAdjective] Claims
+The [FROM.GetAdjective] government has decided to demand the return of [778.GetName] and [908.GetName]. These areas have been a part of Sweden for almost 300 years. Can we accept such an outrageous demand?
+Never!
+Well... Who cares about [778.GetName]...?
+[FROM.GetNameDefCap] Accepts Our Demands
+In a surprising turn of events, the [FROM.GetAdjective] government has decided to accept our demands. They have turned the contested areas over to us!
+What! Seriously...?
+[FROM.GetNameDefCap] Refuses Our Demands
+As expected, the [FROM.GetAdjective] government has decided to refuse our rightful requests. What shall be our response?
+We'll regain our lands with force!
+Fine, nobody cares about those places anyway.
+[FROM.GetNameDefCap] Backs Down
+Realising the futility of their position, [FROM.GetNameDef] has decided to withdraw their irredentist claims.
+A victory for diplomacy.
+Norway Wants to Join the [ROOT.GetFactionName]
+Norway, which is currently threatened by the Syndicalist menace, has requested to join our alliance.
+Norway, stating admiration for our strong ruling government, sees us as the future of Europe and has requested to join our alliance.
+Welcome.
+That Quisling has a bad name, we're better off without him.
+[FROM.GetNonIdeologyName] Has Accepted Our Request
+The [FROM.GetAdjective]s have decided to accept us into their military alliance.
+Together we'll crush the syndicalist scum!
+The weakness of the old order will be laid bare!
+[FROM.GetNonIdeologyName] Has Refused Our Request
+Unfortunately, [FROM.GetAdjective]s have decided to reject our petition to join the [FROM.GetFactionName].
+It seems we're on our own...
+The Abolition of the Monarchy
+With full control over the politics of Norway, the Labour party steams ahead. Today we declare the People's Republic and Haakon will be removed from his throne. Though the Danish prince proved himself friendly to or at the very least not biased against socialism, the monarchy is an archaic method of the forces of reaction to control the people and must therefore be abolished.
+Tranmael will serve as interim chairman.
+Norway Sponsors Føderationen
+It has come to our attention that Føderationen, the largest syndicalist organisation in Denmark, has recently received large amount of funds originating from shady sources. Our police has backtracked it to the syndicalist regime present in Norway, doubtlessly in the hopes of imposing their ideology on the Danish people.
+This is outrageous!
+The Great Patriotic War
+Once again, the perfidious Swedes are seeking to subdue us Norwegians, only a mere two decades after we finally cast off their yoke. Many Norwegians don't agree with the nature of our government, yet the whole Norwegian nation nearly unanimously despises the idea of a return of the Swedish-Norwegian union.\n\nThroughout Norway, volunteers to fight in our forces are enlisting, ready to confront the menace. And on the homefront, civilians help their soldiers to the best of their ability. While the Swedes outgun us and overpower us in terms of manpower, we shall make up for what we miss materially in spirit!\n\nWe shall go on to the end, we shall fight in Sweden, we shall fight on the seas and oceans, we shall fight with growing confidence and growing strength in the air, we shall defend our fylker, whatever the cost may be, we shall fight in the fjords, we shall fight on the border, we shall fight in the forests and in the streets, we shall fight in the mountains; we shall never surrender.
+We. Shall. Never. Surrender!
+The End of the Great Patriotic War
+For better or for worse, the great patriotic war has ended. With Sweden no longer actively fighting our nation, the anti-Swedish war enthusiasm is withering away at an ever-increasing pace... Leaving the question in its wake whether the continued wrongdoings between our people will allow for reconciliation, or whether an inherited rivalry has now definitively taken shape...
+At least the war is over...
+Vidkun Quisling's Counter Revolution
+This morning, Vidkun Quisling, an outspoken Norwegian nationalist executed a counter-coup against the recently instated Norwegian syndicalist government with the assistance of the army. Quisling has long been an outspoken critic of any socialist beliefs, and has ran a prominent radio broadcast on his thoughts on the state of the nation, and his steps to destroy socialism. Army units loyal to the syndicalist cause have engaged in sporadic combat with the Norwegian Armed Forces, who have sworn allegiance to their new leader.\nWhile it is believed that there will still be significant opposition to Quisling's regime, escalation to a civil war has been found to be unlikely. As Norway finally gives into its nationalist underbelly, the world can only watch as the hallmark of European liberal democracy slips into obscurity.
+For better or for worse, Norway's path is\nher own
+Socialists Assume Full Control in Norway!
+After winning the elections and forcing King Haakon VII to abdicate, the socialist party of Norway has today ratified a new constitution which fully turns the country in a syndicalist state, just like France and Britain before them.\n\nWith another piece of the chessboard joining the syndicalist cause, the balance of power in Europe shifted again in the great game of chess between the revolution and the old order - but we have yet to see how Norway itself will affect the overall state of affairs.
+Did they really betray King Haakon's trust so shamelessly?
+Norway finally broke its chains.
+Landsorganisasjonen - Foreign Policy
+As per the new constitution, the Norwegian Trade Union Confederation has been made the primary democratic institution of the new Norwegian people's state. Today they have assembled for the first time to decide on the foreign policy of this new nation for the coming years. Three factions within the confederation have solidified; the moderates, the closest to a continuation of the Labour Party, led by Einar Gerhardsen, the orthodox syndicalists of the NSF, led by Elias Volan and finally the maximists, basing themselves on the party of the same name in Britain, led by Albin Eines. Today we vote on foreign policy, and all three factions have their own ideas on this matter. The moderates consider the defence of the republic the most important, and call for a defensive attitude, while the syndicalists consider it our sacred duty to help the internationale liberate the rest of the world. Lastly, the totalists want our foreign policy to focus on Sweden, as according to them, our Swedish neighbour could well doom Norway if handled inadequately.
+It is our duty to export the revolution with the Brits and French!
+The Defence of the Republic is Paramount!
+Without Sweden pacified, Norway will never be safe!
+Landsorganisasjonen - Military Matters
+With the question of foreign policy resolved, the discussion has moved on to military matters. The moderates consider the old manner of military organisation not fit for the revolutionary status quo and want to make officer posts elected amongst the soldiers they lead. The syndicalists fear this will lead to popular but untalented officers to rise to the top at the cost of military efficiency but agree that some kind of democratic control is needed, and therefore argue in favour of reorganising our military into a trade union, where the soldiers elect representatives in a 'board' that instead assigns officers throughout the military. The maximists reject both attempts at democratising the military, which according to them will only result in inefficiency where it is least needed, and defend the status quo, preferring a traditional army.
+The syndicalists control the debate!
+The moderates win the day!
+The maximists secure the status quo!
+Landsorganisasjonen - The Economy
+Now the confederation has arrived to the matter of the economy. Disturbingly, the three factions once again can't find common ground. The moderates want to nationalise the economy and have them be controlled by way of the government, letting the people influence it through the elections on the central government. The syndicalists reject this idea and argue that the economy should be decentralised instead, letting the workers in one means of production decide over their own production through a trade union instead without influence of the government. The maximists take the middle ground, accepting the syndicalist plan to syndicalise the economy in its entirety but rejecting the notion that these unions should not be bound by government interference, lest they be needed for the national interest.
+A Syndicalised Economy.
+A Nationalised Economy.
+A Guided Syndicalised Economy.
+Landsorganisasjonen - The Youth
+The confederation agrees that the educational system should be changed as well in the coming years. The syndicalists want to educate the youth about the revolution and socialist thought, and the importance to cherish the freedom the Norwegian worker bled for and to defend it, while the maximists instead want to focus the political curriculum on the general secretary - a cult of personality of sorts. The moderates meanwhile reject the politicisation of the educational system, and argue for it to be purified from elements focused on keeping the proletariat down installed by the plutocratic government of old but that it be kept neutral going from there.
+The Revolution should be cherished by the youth!
+A neutral and objective educational system is what's needed.
+The youth should venerate the Chairman!
+Electing the Chairman of the Republic
+Against all odds, the once fringe faction of Albin Eines has achieved a total victory during the conference of the Norwegian Trade Union Confederation, the Landsorganisasjonen. As such, it surprised few that Albin Eines run for chairman went unopposed, with the leaders of the other factions unwilling to execute the maximist plans that came out of this conference.
+The Syndicalists stood victorious in several policy debates in the Norwegian Trade Union Confederation. With a majority of their latest proposals having been approved, it turns out that Norway is moving towards an orthodox syndicalist path. Elias Volan is now the only one to realistically become chairman, with the others dropping out or turning out to be too fringe to have a chance.
+The moderate faction of Einar Gerhardsen had always been the favourite to win in these elections, holding sway among a large part of the Norwegians loyal to the republic. After several successes in the policy debates, Gerhardsen's rivals have caved and dropped out of the race, sitting their opposition to the new government of Norway. The election of Gerhardsen as Norway's chairman is all but assured.
+Sectarianism clearly runs rife within the Norwegian state, because no majority has been found. As a result, the race for chairman is still extremely competitive, with both the maximist leader Albin Eines and moderate leader Elias Volan still being in it, a surprising turn of events considering the fringeness of the totalist spectre once. The last votes are being tallied and it appears that...
+Sectarianism clearly runs rife within the Norwegian state, because no majority has been found. As a result, the race for chairman is still extremely competitive, with both the maximist leader Albin Eines and moderate leader Einar Gerhardsen still being in it, a surprising turn of events considering the fringeness of the totalist spectre once. The last votes are being tallied and it appears that...
+Sectarianism clearly runs rife within the Norwegian state, because no majority has been found. As a result, the race for chairman is still extremely competitive, with both the syndicalist leader Elias Volan and moderate leader Einar Gerhardsen still being in it, which probably isn't too surprising an outcome. The last votes are being tallied and it appears that...
+Albin Eines is the new Chairman!
+Volan for a safe syndicalist Norway!
+Gerhardsen shall be a splendid Chairman.
+... Albin Eines is Norway's new chairman.
+... Einar Gerhardsen wins out after all.
+... Elias Volan is elected Chairman.
 The 1936 elections have been held
 §Y[DEN.GetName]§! and §Y[SWE.GetName]§! have not started §Y$SCANDINAVIA_nordic_council$§!
 Norway
@@ -539,6 +879,42 @@ Republic of Aotearoa
 Aotearoan
 the Republic of Aotearoa
 GFX_NZL_intro
+A Call for Peace?
+It has been many months since the war with the Australians began, and they are no closer to winning. This is a war that will go nowhere, and thus a suggestion has been raised that we should seek a white peace. Our preference would be to restore democracy in [AST.GetNameDef], but if we must we will be satisfied with democracy and safety here at home.
+It is time to call for a truce
+No! We will continue this war until it is finished!
+Peace with New Zealand?
+A peace envoy has arrived from the [From.GetAdjective] government, offering an end to hostilities. If we leave them be, they will forego their attempts to topple our government, and this conflict can come to an end... a conflict which, it seems, has been going nowhere for months now. This does, however, mean relinquishing any efforts to reclaim New Zealand, at least for the time being.
+Yes, let us end this now
+No! We will continue this war until it is finished!
+No Peace with [From.GetNameDef]
+Our envoys have returned from [From.GetNameDef] with a definitive response: there will be no peace.
+Ah well.
+Help from the Entente?
+Now that war with [AST.GetNameDef] has come, we must consider whether it's time to turn to the Entente for assistance. If we rejoin the Empire, it means once again becoming part of all their future wars across the ocean... but do we truly have any other choice?
+We desperately need their help!
+No, we will make it on our own.
+New Zealand Calls for Help
+Aided by the New Guard rebels, New Zealand has separated from [AST.GetNameDef] and called upon the crown for aid. Shall we accept them into the alliance and step up to their defence, even if it means waging war across the Pacific?
+Yes, of course we'll help them!
+No, we cannot afford to become embroiled in another war.
+[From.GetNameDefCap] Refuses Aid
+Much to our surprise, representatives from [From.GetNameDef] have informed us that [Root.GetNameDef] is on its own. They cannot, it appears, commit to a war across the Pacific, even for the sake of retaking Australia.
+So much for that idea.
+A Governor-General for New Zealand?
+Now that we have rejoined the Empire, the New Zealand government is considering whether to request a governor-general be appointed - as befits a proper member of the British Empire.
+Cyril Newall, 1st Baron Newall, is just the man for the job.
+Bernard Freyberg is a military man, and needed for the post.
+No, we've no need for such frippery.
+A Return to Democracy?
+With the end of the war, the question has been turned to Military Governor Freyberg as to whether the government should be returned to the control of the New Zealand people. Some members of the government say that the crisis is far from over, though most agree that the time has come for the military to step down. New Zealand is, after all, a democratic nation and it will not accept authoritarian rule for long.
+Yes, schedule elections to be held immediately.
+No, the military will remain in control.
+The First Free Elections
+Military Governor Bernard Freyberg has opted to allow free elections in New Zealand, the first the nation has seen in some time. The Labour Party appears most likely to obtain a majority, although the possibility remains that anti-syndicalist sentiment will yet see the Nationalist Party obtain power. Still, there is the lingering chance of the New Zealand Legion's campaign to stir up nationalistic support seeing success.
+The Labour Party wins the election handily.
+The National Party manages to secure a minority government.
+The people turn to the Legion to protect them.
 Fintan Patrick Walsh
 §YBorn:§! §LAugust 13th, 1894, in Pātūtahi, Colony of New Zealand§!
 Arthur Cook

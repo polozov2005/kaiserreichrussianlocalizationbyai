@@ -982,3 +982,6 @@ Nuclear Warfare Expert
 §LAn expert in the practical application of nuclear physics to weapon development, specialising in the theory behind atomic bomb design.§!
 Nuclear Power Expert
 §LA leading authority in nuclear physics, versed in the field of nuclear fission with a focus on power generation.§!
+Information Leak
+Although entirely coincidental, our agents in [FROM.GetNameDef] have managed to acquire information about an apparent secret project. A worker involved in development of a secret weapon, an atomic bomb, spoke about his work at a small social gathering where one of our agents were also attending.
+This could prove useful

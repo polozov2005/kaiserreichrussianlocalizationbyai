@@ -1,4 +1,61 @@
 Last Stand
+Portugal's Last Stand
+As the enemy forces have broken through our borders, our armies find themselves cornered. With little room to retreat and an overwhelming force on the other side, our chances of victory are slim. Nevertheless, we must press on and defend our people from the attackers, no matter the cost. So we shall fight on until Lisbon is occupied!
+Audaces Fortuna Juvat!
+The Fall of Portugal
+Despite the brave efforts of our armies, the truth is as bitter as it is undeniable. We cannot hold on the continent any more, as the enemy forces are overwhelming ours, swiftly advancing over our lands with little we can do about it. Thankfully, the Portuguese Empire is vast, and we can still retreat to our colonies for now, and plan for a way for us to liberate our homeland from there.
+Despite the brave efforts of our armies, the truth is as bitter as it is undeniable. We cannot hold on any longer, as the enemy forces are overwhelming ours, swiftly advancing over our lands with little we can do about it.
+We must resist!
+Rejoin the Entente?
+With the loss of our continental possessions, the return of our rightful government seems unlikely, at least not on our own, as we face overwhelming odds. Luckily, we still have diplomatic connections, and we can contact our former allies once more so that they can, hopefully, help us regain our homeland.
+Contact the [ENT.GetAdjective].
+Portugal Re-approaches Us
+With the Portuguese defeat in the mainland, and their retreat to the colonies, Portuguese emissaries have contacted us recently requesting Portugal to be able to rejoin the Entente. While the defeat in the Weltkrieg left a bitter taste on most Entente members, the Portuguese still remained in good terms with us, even if they slowly drifted away over the years. How should we respond to their request?
+Welcome Back.
+Without the Mainland, Portugal is Useless to Us.
+[FROM.GetNameDefCap] Accepts
+[FROM.GetNameDefCap] Refuses
+Despite the loss of our continental holdings, our allies still value us and have allowed us to join their efforts to reclaim their homelands as well as ours.
+With the loss of our continental holdings, our former allies have deemed us an unnecessary weight on the alliance and refused our request to join their faction. While we may still endure and retake our homeland, the chances of it ever happening have undisputedly grown dimmer...
+Together for Victory!
+Have the British gone mad?
+The Portuguese Collapse
+With the collapse of the Portuguese Mainland Army, the harassing forces having been pulled out of Africa. The funding has dried up and the weapons removed. This is both the final proof that they were behind the chaos at the border, as well as a great relief on our forces.
+With the collapse of the Portuguese Mainland Army, the meagre forces the Portuguese had left in Africa have left the front lines in a rout. Desperate, the Portuguese have been quick to sign a peace deal with Germany, and so we stand victorious once more!
+One less problem to worry about.
+Thus Ends the Bush War.
+The Portuguese Collapse
+With our forces swiftly pushing through the Portuguese lines, it seems that their government couldn't take the pressure any more and have embarked towards the colonies, cowardly evading revolutionary justice. While we have secured the Portuguese mainland, the threat of a Portuguese invasion, while unlikely, remains.
+Their Time Will Come, Eventually.
+Seizure Of Macau?
+With the collapse of the Portuguese Colonial Empire the port and naval base of Macau has become open to us, a small detachment could easily seize it as a base for us in South China...
+Seizure Of Goa?
+With the collapse of the Portuguese Colonial Empire the small enclave of Goa has become open to us. A small detachment could very easily claim it as our own...
+Seizure Of Timor?
+With the collapse of the Portuguese Colonial Empire the territory of Timor has become open to us. A small detachment could very easily claim it as our own...
+Do it!
+Better to leave it, actually...
+Eastern Possessions Seized!
+With the Empire facing collapse, and the mainland lost, the usual vultures have taken the opportunity to seize our possessions in the Far East. Macau, Goa and Timor are now lost, occupied by [729.Owner.GetNameDef], [321.Owner.GetNameDef] and [721.Owner.GetNameDef], respectively. With our armed forces routed in Iberia, there is little we can do to stop them.
+We'll come for them, eventually.
+Collapse of the Portuguese Empire
+With enemy forces approaching Lisbon, the Portuguese government has begun to collapse. They have nowhere to flee, no colonial holdings that their leaders could disembark.\n\nIn short, they have been cornered, and thus must face their fate along with the rest of their European citizens.
+With enemy forces approaching Lisbon, the Portuguese government has decided that their position was unsustainable, and given the relative protection of the Lisbon port and the cover of the Portuguese navy, they have embarked into their ships with as many soldiers and loyalist followers they could transport and fled into exile.
+$portugal_exile_events.13.d.start$\n\nThe only place they can do so are their Atlantic holdings, a weak place from which to hope for an eventual return to the continent. Thus the future of the Portuguese nation remains uncertain.
+$portugal_exile_events.13.d.start$\n\nAs they regroup in their far-away colonies, the future of the Portuguese nation remains uncertain, with their government on the run and their homeland occupied for the foreseeable future.
+Is this the end of the Portuguese Empire?
+The Final Collapse
+Despite the valiant efforts of our armies to retake our homeland, we have been thoroughly unsuccessful in our task, and the future of the Portuguese nation remains bleak. With morale collapsing, many of our soldiers and officers have begun deserting, asking for official pardons to the invaders in order to return to Portugal itself. Our government's position has become unsustainable, and the few ministers left still loyal to us have suggested that we should march into exile to a neutral nation to avoid capture, now that we cannot defend ourselves from those who would seek to unfairly judge us.
+Maybe One Day We'll Return...
+The Portuguese Government Collapses
+With the loss of the mainland finally catching up to them, the Portuguese government has officially marched into exile as their forces began wavering and returning to the occupied territory. With only token forces remaining in their colonies, we can quickly seize them if we act now, as they'll have little reason or even ways to oppose us
+Angola and Mozambique Are Ours Now!
+The Portuguese Government Collapses
+With the loss of the mainland finally catching up to them, the Portuguese government has officially marched into exile as their forces began wavering and returning to the occupied territory. With only token forces remaining in their colonies, we can quickly seize them if we act now, as they'll have little reason or even ways to oppose us
+Move troops into Guinea and Cape Verde.
+The Portuguese Government Collapses
+With the loss of the mainland finally catching up to them, the Portuguese government has officially marched into exile as their forces began wavering and returning to the occupied territory under our control, asking for forgiveness. While Portuguese partisans still roam the countryside, the growing strength of our militias and now the collapse of the Portuguese are bound to weaken the insurrection, and soon we may be fully in control of Portugal, once and for all...
+The Proletariat of Today Succeeds Where the Kings of Old Failed
 Portugal Focus Tree
 Portugal
 Portuguese
@@ -318,6 +375,50 @@ GFX_POR_intro
 The Kingdom of Portugal
 After the disaster in the Weltkrieg, and the collapse of our forces in Mozambique and France, Portugal's usurper republic simply lacked the face and the military support to resist the Glorious Restoration. It brought Manuel II back to the throne, and his once rival claimant Duarte Nuno as his heir. The restoration, which occurred shortly after the war's end, saw the beginning of the economic recovery.\n\nHowever, reliance on British imports and exports was too great for Portugal to properly weather the storm of 1925. We were unable to even unite our lands after the fall of the British Empire, for Germany, in an act of aggression, seized those lands. With such an extensive political crisis on his hands, the then Prime Minister Paiva Couceiro called for elections; the victorious Integralists have an extensive reform agenda, while viciously anti-republican policies have polarised opinions even amongst the most staunch monarchists. However, they defer to the King for now, and they claim that they will do so indefinitely.\n\nSpain's sickness seems to never end, as more chaos looms in the world and threatens Portugal. In Africa, [MAF.GetLeader] and his Hunnic goons sabotage our endeavours, forcing our hand to return the favour, and tensions are fast escalating. But no matter what may come, we trust that Portugal will stand tall.
 §MIntegralists§! ($national_populist_coloured$)\n£white_dot At the start of April, when the event \
+The Colonial Exposition of [GetYear]
+Thousands have gathered for Portugal's first large scale Colonial Exposition. While the Kingdom's restoration, and other trials and tribulations it has been forced to endure, have challenged it, Portugal did not shy away from its civilising burden and redoubled its efforts to improve the Ultramarine Provinces, which are as essential as Porto or Lisbon. Many wonders and trinkets from all over the world have been brought to Lisbon for the occasion, including an entire Angolan village as an anthropological curiosity. While the endeavour was expensive, it reinforces our commitment to the Colonial Cause.
+Grand!
+Black Monday Hits Portugal
+While economic ties between us and Germany have never been as large or interconnected as with other European nations, the cascade effect of the Black Monday Crisis has hit Portugal with great force. With an economy mostly based on agricultural exports, and most industries focused on the rearmament plan, our usual consumers cannot afford our products and, thus, Portugal's economic situation is, yet again, in dire straits. Let us hope that we've learnt much from the lessons of the '26 Crisis and that we can, hopefully, recover much quicker this time.
+This spells trouble!
+The Coronation of Maria Ana I
+As the old monarch was deemed unfit to rule and was forced into abdication, Maria Anna of Braganza has been crowned as Maria Ana I, and was recognised as such by the Chamber of Most Worthy Peers. Hopefully, her ascension will bring lasting peace to Portugal.
+Long Live the Queen!
+The Coronation of Maria Adelaide as Maria III
+With the passing of Duarte II, who remained childless for the duration of his life, the question of succession had the chance of devolving into a contentious affair. However, his youngest sister, Maria Adelaide, was almost unanimously agreed as the best fit for the next Queen of Portugal by both the upper and lower houses for, despite her young age, she always was the Princess of the people. Long may Maria III reign, hopefully under peace and stability.
+Long Live the Queen!
+Regicide!
+As Duarte II was returning from a routine trip to the Chamber of Most Worthy Peers, his convoy was assailed by four men, clad in black and well armed. The machine gun fire did not gravely wound the Queen, Maria Francisca of Orléans-Braganza, luckily enough, but innocent subjects of the Crown were gravely injured. The wounds of the 1908 terrorist attack were re-opened, and many in the Realm demand justice. While two of the 'soldiers' of the Legião Vermelha were shot down during the ensuing firefight, two terrorists spotted on camera, Mário Castelhano and Emídio Santana, who are apart of the well known Anarchist brigands, have fled, presumably to seek refuge in the Spanish regime of the CNT-FAI. Given the gravity of the crime committed, all options are on the table, including a harsh ultimatum. Careful analysis of diplomatic consequences would be advisable, but these two murderers will be brought to justice!
+The CNT-FAI must surrender those responsible!
+We must be remain cautious...
+Portugal demands the return of the Regicide
+While our struggle has been long, our problems are not yet over. Portugal's King, Duarte II, has been assassinated on the way back to his Palace after addressing the Upper House. Two men, Mário Castelhano and Emídio Santana, have crossed into our borders while on the run from Portuguese authorities. Despite the successful assassination, public reception has not been unanimous and many bystanders were wounded during the operation. However, the men were armed here and, by all accounts, even without the approval of the FAI, accepting the Portuguese demand of deportation could be seen by the world as an admission of guilt; not to mention the men are likely to face execution if we hand them over. Also it is important to remember the weight of this decision on a global level. Starting a war against Portugal and their reactionary allies while we are in a weakened state and so recently after the Civil War may prove unwise, even with our allies behind us. A choice must be made, regardless; Will we hand over the duo as demanded, or prepare for the Reactionary Retaliation?
+We are not in a condition to fight the Entente as of now. We must comply with their demands.
+We refuse to betray these heroes!
+The CNT-FAI Has Handed Over the Murderers
+Thankfully, the government of Spain has not completely lost its mind. They've refused to grant asylum to either of the two criminals and both are to be handed over to our authorities and be hanged in short order.
+We have no choice but to thank them for their help...
+The CNT-FAI Refuses Our Ultimatum
+The treacherous dogs in Spain have granted asylum to the duo of criminals responsible for murdering our Most Faithful Majesty. Now every man must do his duty, for the final struggle against Syndicalism will soon begin!
+As Armas!
+We must back down, whatever the cost.
+Portugal Backs Down
+After all that, the Portuguese cowards have backed down from their ultimatum. This truly shows just how spineless they are.
+Coward and Capitalist both start with C.
+Occupy Galicia?
+The region of Galicia, Portuguese speaking in all but in name, and long under Spain's yoke, is under the very real threat of falling under the Syndicalist menace. While some Integralists argue for an intervention to protect our brothers, many politicians have openly expressed their concern at allowing Santiago de Compostela and the relics there to be looted by Anarchist bandits. Doing that could potentially weaken the Carlists even more, however, and will ruin any chance of good relations with them if they ever manage to turn this conflict around.
+We must secure Galicia from the failing Carlists!
+By doing this, we would be helping the Syndicalist Hydra.
+Portugal Seizes Galicia!
+The slithering snakes in Portugal have occupied Galicia while our forces struggle against the godless forces of the CNT-FAI. While they claim it's to ensure their Galician 'brothers' are safe from the yoke of Syndicalism, it's abundantly clear that this land grab is little more than blatant opportunism!
+We will correct this later...
+For King and Country
+The Integralists and other manipulative demagogues have, for far too long, interfered in the nation's well being. The King, his advisors, and parliament should be making the decisions about Portugal's future; not pampered intellectuals living in Lisbon or hiding in Paris. We will shape the Monarchy into something truly grand, but who will head up this regenerated government?
+The Paladin will return to office to lead us into a new glorious age!
+The Catholic Centre will chart a measured course.
+The Burden We Bear
+We must rise above our petty differences and unite under our Faith, our Country, and our People. And most importantly, we must bring the light of civilisation to the poor and unfortunate souls who need Christ in their lives. It is neither an expensive nor glorious endeavour to build outposts in the dark of the jungle and spread civilisation, but, nonetheless, it is our ultimate goal. And, of course, so is defending our faith against those who seek to destroy it!
+Forward towards a better Portugal and a better World.
 José Carlos Rates
 §YBorn:§! §LFebruary 19th, 1879, in Setúbal, Extremadura, Kingdom of Portugal§!
 Manuel Joaquim de Sousa

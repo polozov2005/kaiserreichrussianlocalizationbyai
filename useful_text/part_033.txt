@@ -1,4 +1,86 @@
 Fifth Anglo-Afghan War
+The 5th Anglo-Afghan War?
+In the remnants of the Raj to our east, dissent has sprung up like wildflowers in the wake of [CAN_king_full_name]'s succession. In Kabul, we have our own troubles keeping the latent discontent of reform down. A repeat of the victorious Fourth Anglo-Afghan War might cement our own position whilst winning new lands and subjects for the crown!
+The time is ripe! Let us repeat our victories!
+What does India have but cows?
+Afghanistan Invades!
+Sensing a moment of weakness following the death of George V, Afghanistan has invaded! This is not the first time they have done this, as following the Weltkrieg, they attacked and occupied the North-West Frontier Province. We must protect the Dominion! Jai Hind!
+We will drive back these dogs and reclaim our lands!
+The Third Treaty of Rawalpindi
+Victory is ours! We have utterly routed the decadent British lapdogs and our forces are entrenched in the smouldering remains of their capital. Now might be the best time to demand concessions, whilst we still carry the lead.
+We shall demand the liberation of Quetta
+Demand both Quetta and Baluchistan
+Demand them both, and lay claim to even more!
+Demands of the Afghans
+Curses! The Afghan dogs have completely overpowered us and have reduced our proud nation to humiliation. Now the Afghan King demands our surrender of the princely state of Kashmir and access to the Mouth of the Indus. Although these are harsh terms, it might be wise to comply lest our rivals on the continent act on our exposed situation.
+We yield because we have no other choice...
+They must be joking! Hindustan Zindabad!
+[RAJ.GetNameDefCap] Refuses!
+Foolishly, the British lapdogs have refused our rightful claims.
+The war continues!
+[RAJ.GetNameDefCap] Surrenders!
+A great victory has been won today, the forces of [RAJ.GetNameDef] have been completely routed and their leadership has agreed to surrender to our demands. The nation has at last avenged all those who were felled by the British dogs, and ensured that it shall never again be subjugated by them.
+None shall ever again doubt our might!
+The 5th Anglo-Afghan War: Victory!
+Amanullah Khan's ambition of furthering Afghan influence in India has been crushed. The troops of the Dominion have crossed the Durand Line, and have retaken the lost North-West Frontier Province, whilst threatening Kabul itself. The Afghan state is in complete disarray and her populace is begging for peace. We have little reason to push for the return of the occupied land, and should most likely accept their surrender, but there are always those who believe we should keep fighting for even more...
+Expel the Afghans from the occupied lands, nothing more.
+The war will not end until the snake Amanullah is forced from Kabul!
+The Afghan Surrender
+With Kabul and the frontier both firmly under our control, the Afghans have been completely shattered. The warmonger Amanullah is now little more than our prisoner, and the Afghans have no choice but to accept their renewed subjugation.
+Their overconfidence has left them in ruins.
+Who shall rule Afghanistan?
+Now that Afghanistan is firmly within our sphere of influence, we must decide who its ruler will be.
+Let Amanullah Khan keep the throne, the people like him.
+Install Mohammad Nadir Khan, he will be loyal to us.
+The Third Treaty of Rawalpindi
+Catastrophe! Our campaign against [RAJ.GetNameDef] has been crowned with spectacular failure and our armies are fleeing in panic through the Pass of Khyber. Their leader, [RAJ.GetLeader], has offered peace, demanding a restoration of pre-1925 borders. Unfortunately, we are unable to decline lest our very nation be destroyed...
+Catastrophe! Our campaign against [RAJ.GetNameDef] has been crowned with spectacular failure and our armies are fleeing in panic through the Pass of Khyber. The leader, [RAJ.GetLeader], has offered peace - demanding a restoration of pre-1925 borders and the permanent submission of our government to theirs. Unfortunately, we are unable to decline lest our very nation be destroyed...
+We yield because we have no other choice...
+Shia Muslims Flee The War
+For decades, the situation of the Shia minority in Afghanistan has been bad. The post-war situation wasn't gold, and another war could only make it worse. Shia imams in the provinces of Herat and Farah have encouraged the Shia minority to flee into their friendly neighbour Persia. Let's hope the Persians send them back, as we need that manpower.
+Traitors!
+Refugees from Afghanistan
+Yet another war has started between Afghanistan and the Dominion of India. The Shi'a minority in Afghanistan fears this will only make their situation worse, and they have decided to start a new life here. However, this situation might be more problematic than we think. If we accept these people into our nation, the government of Afghanistan will be deeply upset with us.
+They shall be more than welcome, settle them in Meshad!
+This would be meddling in Afghan domestic politics, refuse them!
+Persia Closes Its Borders
+The Persians made the right choice and sent our people back home.
+Hurrah!
+Domestic Reaction to Afghan Defeat
+The defeat of our armies has sent shock waves through Afghanistan! Our secret service reports huge dissatisfaction with the royal government amongst both the peasants and the army! Even worse, radical clerics are drumming up support for a general insurrection against the royal reform programme! These are truly dark times for our small kingdom.
+The King can do as he likes! Suppress any rebellion!
+Mohammed Nadir deposes Amanullah and proclaims himself king!
+Order in Afghanistan
+The revolutionary tendencies in the people of Afghanistan have been suppressed, and we have restored order to the nation.
+Here's to a better tomorrow.
+Afghanistan in Chaos!
+Despite our best efforts, rebel forces have pushed the troops of king Amanullah out of Kabul and are in effect in control of the country!
+General Nadir's brigades defeat all opposition and proclaim him king!
+Mohammed Nadir Khan's Claim to the Throne
+As he assumed the throne through not-so-cordial methods and his relations to the royal family, Mohammed Nadir Khan desperately needs legitimacy to shore up his regime. It is suggested that his majesty convey a 'loya jirga' (grand assembly) of Pashtun leaders to confirm his ascension.
+Call a loya jirga to confirm my ascension!
+Mohammed Nadir Khan and the Loya Jirga
+Speaking before the Grand Assembly of tribal leaders, Nadir Khan hopes to receive enough support to continue his rule unhindered.
+The assembly hails Mohammed Nadir as king!
+Nadir Khan's Royal Oligarchy
+With the war-torn country finally restored to some semblance of order, Nadir Khan has resolved to reorganise his cabinet to secure continued stability for Afghanistan. Packing the government with relatives would be the obvious way to bind the state apparatus to Nadir's ambitions, but reaching out to some of Amanullah's supporters might also bridge a wide gap between the radical and moderate reformists.
+The meek academic Muhammed Ghobar shall 'lead' the cabinet!
+Woo Amanullah's clique and appoint Abdul Hadi Dawai!
+My mild mannered brother Mahmud Khan shall retain the position!
+Status of Amanullah's Reforms
+Mohammed Nadir Khan has taken control of our shaken nation after the failure of Amanullah Khan to enforce Afghan progress. Well aware that a great factor to his predecessor's downfall was the speed of his westernisation reforms, Nadir Khan nonetheless has to address the great issue of rebuilding Afghanistan.
+Discontinue social reform, but galvanise the improvement of our infrastructure!
+Cave in to the traditionalists and abandon all pretence of modernity!
+I shall succeed where Amanullah failed and bring Afghanistan into the modern world!
+Sarrafs Leave Afghanistan
+Sarrafs are a group of Indian merchants who travel between Afghanistan and [RAJ.GetNameDef], exchanging money and trading goods in both of them. Our economy hardly depends on their visits. Now, the war has come and borders are safe no more. Only a few of these sarrafs are brave enough to continue trading with us. With most of their caravans gone, we now suffer from an economic crisis.
+We don't need these Indian dogs anyway!
+Sarrafs Return
+The war is over and borders are now safe. Nothing more disturbs the sarrafs now and the first wave of them have already resumed their trading within Afghanistan. Soon, our economy will recover.
+Welcome, gentlemen!
+The Fifth Anglo-Afghan War
+After the Weltkrieg, as the British Raj collapsed into turmoil and warfare, the neighbouring Emirate of Afghanistan took advantage of this as an opportunity to seize the North West Frontier Province from the scrambling British. However, the Afghan government's attempts to modernise over the last decades have been met with fierce resistance from the conservative elements within the country. King Amanullah Khan now hopes to use the supposed turmoil in Lahore following the death of George V to his advantage.\n\nBy repeating the success of the Fourth Anglo-Afghan War, the king hopes to silence the conservative opposition and bring new lands to the crown. However, international experts do not put much hope in the tiny mountain nation winning this conflict.
+Who cares about Afghanistan?
 Kabul Student's Union
 Ettehadia-ye Muhasselin-e Pohantun-e Kabul (Kabul Student's Union)
 Kabul Student's Union
@@ -73,6 +155,155 @@ GFX_ALB_intro
 The Republic of Albania
 The outbreak of the Weltkrieg brought new problems for Albania as Austria-Hungary demanded Albanian soldiers to fight alongside them in the war. When Prince Wilhelm of Wied refused, citing the neutrality of Albania as set forth by the Treaty of London, the Austro-Hungarians quickly cut off the remuneration that he had been receiving. His regime collapsed and he left the country on September 3, 1914 to join the Imperial German Army despite formally remaining the Albanian head of state. In 1919, the Treaty of Vlora officially determined the status of Albania; it would be a restored principality under the authority of Prince Wilhelm, influenced by Austria.\n\nHowever, due to developments in Austria, Albania was able to break free in 1924 with the help of many Albanian nationalists such as Ahmet Zogu, Shefqet Vërlaci, Ali Kelmendi, Sulejman Delvina, Fan Noli, and Anvi Rustemi. They successfully chased out the prince and removed all Austrian influence from the nation. The Albanian Revolution of 1924, as it is known, saw the emergence of two political parties in Albania: the Unity Party under Avni Rustemi and the Progressive Party under Shefqet Vërlaci.\n\nWith the help of Vërlaci, the largest landowner in Albania, and other aristocratic elements in the nation, Ahmet Zogu and the rest of the Progressive Party were able to secure victories in the 1924, 1928, and 1932 elections. However, democratic elements within the nation and in the Unity Party have been agitating for land reform and the redistribution of power to the lower class. All of these reforms have been denied by the Progressives and, as it stands, Albania is a very polarised nation with tough times ahead...
 §MUnity Party§! ($social_democrat_coloured$)\n£white_dot Elect the Unity Party in the 1936 elections.\n£white_dot Complete the \
+Black Monday Has Hit Albania!
+On the 3rd of February, 1936, the Berlin Stock Exchange plunged, bringing the rest of the world down with it. Albania is a very new and agrarian nation and has struggled to find its standing in the world due to a lack of agrarian reform, industrialisation, and the concentration of power in the hands of aristocrats. Democratic elements within our nation, especially those in the Unity Party, have already been clamouring for the liberalisation and industrialisation of the nation. With unemployment rates skyrocketing and the economy in free-fall, the people have begun to turn against us and heed the words of Rustemi and Noli. In addition, the aristocrats who have continually funded the Albanian National Bank are now unable to do so due to the failure and shutting down of the bank. On top of all of this, the Albanian Elections of 1936 are coming up and economic developments seem to have tipped the balance of power in favour of the Unity Party.
+Dammit!
+The [GetYear] Albanian Elections
+The most anticipated elections in a long time, the [GetYear] Albanian Elections have every Albanian on the edge of his or her seat. In addition, the increased polarisation within the nation has had both the Progressive Party and the Unity Party, and their supporters, at each other's throats. The Progressive Party have campaigned upon a platform of minor industrialisation, banking reform, balancing of the budget, deflation measures to counteract the effects of Black Monday, and better conditions for sharecroppers. The Unity Party, meanwhile, have advocated for land reform, agrarian reform, the industrialisation of Albania, the liberalisation and westernisation of Albania, and the improvement of the condition of the people. This election shall decide the fate of Albania for years to come. The votes have been officially counted and the winner of the election is...
+The Unity Party!
+The Progressive Party!
+Progressive Resistance to Land Redistribution Efforts!
+Ahmet Zogu, and the rest of the Progressives, alongside the aristocratic landowners, have been violently resisting land redistribution efforts, citing the current government policy of agrarian reform as 'unfair' and 'disenfranchising towards a portion of the population'. In addition, after instituting the policy, Rustemi, the leader of the Unity Party, has already faced more than a few assassination attempts. If we do not bring about an end to the situation quickly, we may face collapse!
+Damn them!
+Rumours of Assassination Attempts on Rustemi
+The Progressives, now extremely unhappy with the land redistribution efforts and coming to the conclusion that the Unity Party has no intention to stop their extensive reforms, have begun to take matters into their own hands. Rumours of an assassination attempt on Rustemi and other ways to undermine the Unity Party have been surfacing...
+God help us.
+Attempted Assassination of Avni Rustemi!
+The Progressives have made their move and have hired an assassin to take out Rustemi and end his and the rest of the Unity Party's reforms.
+The assassin has just taken the shot and...
+Foiled Assassination Attempt
+Due to our investment in the Arm of Gendarmerie, we have managed to foil an assassination attempt on Avni Rustemi by the Progressive Party. The assassin was caught by the gendarmerie and all who were directly involved with the plot have been implicated.
+Thankfully, the situation was handled well.
+Alliance Offer From Albania?
+News has come of an Albanian delegation; apparently, they seek to form an alliance with us. While we had assisted them against the Serbian menace during the Weltkrieg, working side by side with Albanian guerrillas, they still continue to claim a portion of Macedonia as theirs due to the number of Albanians living in the area. Though the fact remains that we are not seen in a positive light by most nations in the Balkans and any aid in our favour could prove to be a smart choice down the line. What say we?
+Accept the offer; we could use the help.
+Reject the offer; we've no time for them.
+Bulgaria Has Accepted Our Offer!
+We've just received great news from the Bulgarians: they've accepted our offer of an Albanian-Bulgarian alliance. This will certainly help further our foreign policy goals and ensure that we can protect ourselves from neighbouring countries which eagerly await our downfall.
+Great!
+Bulgaria Has Rejected Our Offer!
+Bad news has just come from the Bulgarians: apparently, they've rejected our offer of an alliance, citing our claims on Macedonia and our precarious position in the Balkans as grounds for rejection.
+How dare they!
+Trade With Albania?
+Albania has just reached out to us in an attempt to foster relations and help open up trade relations between our two nations. This could certainly help us better fight off the effects of Black Monday while boosting relations between our two nations. With that in mind, we have decided to...
+Trade with the Albanians.
+Not trade with the Albanians.
+Albanian-Bulgarian Economic Ties!
+Word has come that the Bulgarians have decided to accept our offer of trade between Albania and Bulgaria, effectively ensuring better relations between our two nations while also helping us better combat the effects of Black Monday. This will surely be a great economic boon for years to come!
+A toast to our Bulgarian friends!
+Bulgarian Refusal
+Bulgaria has refused our offer of economic ties between our two nations, citing the current economic instability of Black Monday and are, therefore, unwilling to take risks they would have normally considered economically sound.
+Dammit...
+Trade With Albania?
+Albania has just reached out to us in an attempt to foster relations and help open up trade relations between our two nations. This could certainly help us better fight off the effects of Black Monday while boosting relations between our two nations. With that in mind, we have decided to...
+Trade with the Albanians.
+Not trade with the Albanians.
+Albanian-Romanian Economic Ties!
+Word has come that the Romanians have decided to accept our offer of trade between Albania and Romania, effectively ensuring better relations between our two nations while also helping spur the development of better economic ties. This will surely be a great economic boon for years to come!
+A toast to our Romanian friends!
+Romanian Refusal
+Romania has refused our offer of economic ties between our two nations, citing the current concentration of resources to build up their nation internally and recover from the effects of the civil war.
+Dammit...
+Riots Within Albania!
+Avni Rustemi, Fan Noli, and the rest of the Unity Party, alongside the lower class, have been violently rioting against our resistance towards land redistribution efforts, citing the current government policy of stalling agrarian reform as \
+Damn them!
+Rumours of Assassination Attempts on Vërlaci
+The Unity Party, now extremely unhappy with the stalling of land redistribution efforts and concluding that the Progressive Party has no intention to begin agrarian reform, have begun to take matters into their own hands. Rumours of an assassination attempt on Vërlaci and other ways to undermine the Progressive Party have been surfacing...
+God help us.
+Attempted Assassination of Shefqet Vërlaci!
+The Unity Party have made their move and have hired an assassin to take out Vërlaci and end his and the rest of the Progressive Party's rule.
+The assassin has just taken the shot and...
+Foiled Assassination Attempt
+Due to our investment in the Arm of Gendarmerie, we have managed to foil an assassination attempt on Shefqet Vërlaci by the Unity Party. The assassin was caught by the gendarmerie and all who were directly involved with the plot have been implicated.
+Thankfully, the situation was handled well.
+The [GetYear] Albanian Elections
+The [GetYear] Albanian Elections have finally begun, with the people on the edge of their seats, eager to see the victor of the elections. As usual, the two parties that have the greatest chance of winning are the social democratic Unity Party and the social conservative Progressive Party. The votes have been officially counted and the winner has come out to be...
+The Unity Party!
+The Progressive Party!
+Alliance Offer From Albania?
+News has come of an Albanian delegation; apparently, they seek to form an alliance with us. While we had been the first nation to recognise their independence during the Weltkrieg, Albania is not a nation strong enough to help assist us in any potential conflicts. Though the fact remains that any aid in our favour could prove to be a smart choice down the line. What say we?
+Accept the offer; we could use the help.
+Reject the offer; we've no time for them.
+Romania Has Accepted Our Offer!
+We've just received great news from the Romanians: they've accepted our offer of an Albanian-Romanian alliance. This will certainly help further our foreign policy goals and ensure that we can protect ourselves from neighbouring countries which eagerly await our downfall.
+Great!
+Romania Has Rejected Our Offer!
+Bad news has just come from the Romanians: apparently, they've rejected our offer of an alliance, citing our precarious position in the Balkans as grounds for rejection.
+How dare they!
+An Offer of Friendship From the Albanians
+In an attempt to cultivate ties and further expand their influence on the world stage, the Albanians have approached us in hopes of deepening Albanian-Egyptian relations. Seeing as the royal family has Albanian origins, the fact that Albania is a Muslim nation, and our common enmity towards the Ottomans, it is only natural that we accept their approach.
+Send word to our new friends!
+Successful Delegation to Egypt!
+Word has arrived from the Albanian embassy in Egypt that our efforts of cultivating ties between our two nations have been a monumental success. Citing the Albanian origins of the Egyptian royal family, shared religious heritage, alongside mutual enmity towards the Ottoman Empire, the Egyptians received our offer of friendship rather well.
+A rather joyous occasion!
+An Offer of Friendship From the Albanians
+In an attempt to cultivate ties and further expand their influence on the world stage, the Albanians have approached us in hopes of deepening Albanian-Sicilian relations. Seeing as there exist a large group of Albanian ex-pats within the Two Sicilies, it is only natural that we accept their advances.
+Send word to our new friends!
+Successful Delegation to the Two Sicilies!
+Word has arrived from the Albanian embassy in the Two Sicilies that our efforts of cultivating ties between our two nations have been a monumental success. Citing the presence of Tosk Albanians within the nation, the Sicilians received our offer of friendship rather well.
+A rather joyous occasion!
+The Reclamation of Kosovo
+Kosovo, the home of the Albanian National Awakening, has been in the hands of the treacherous Serbians for far too long. The land itself is rightfully Albanian, with most, if not all, of the inhabitants considering themselves to, rightfully, be ethnically Albanian. For years, we have had to sit idly, allowing the Serbians to hold on to the area. That ends today.
+Long live Albania!
+Albania Has Attacked Us!
+In a surprising move, the Albanians have declared war against us in an attempt to secure the rightful Serbian territory of Kosovo which they claim is Albanian. The territory has been with us ever since we had secured a victory against the Ottoman Empire following the conclusion of the Balkan Wars. It is only rightful that we retain the land and we shall do so.
+We shall never surrender!
+Partisan Attack on Newly Established German Schools!
+In an attempt to oppose, and destroy, the newly established German schools, Albanian nationalist partisans have taken to vandalising and destroying the property, hoping to scare us off and prevent us from building and funding the construction of German schools.
+They shall not succeed!
+Vërlaci Has Been Killed!
+In a surprising event for both the common Albanian and international observers, the assassination attempt on Shefqet Vërlaci has managed to succeed, with the former president of Albania being killed and the Unity Party, led by Avni Rustemi, assuming power. Today is a dark day, for many Albanians, while having an intense dislike of Vërlaci, do not view the Unity Party as the rightful leaders of Albania...
+It will take time to cement our rule.
+Vërlaci Has Survived!
+Thankfully, the assassin, who many had already expected to fail, has not managed to kill [Root.GetLeader], who is safe, yet still harmed, and recovering. The people who had hired the assassin, namely, the Unity Party, and the assassin himself have all been purged with Fan Noli now in charge of the declining party.
+Today is a joyous occasion!
+Rustemi Has Been Killed!
+In a surprising event for both the common Albanian and international observers, the assassination attempt on Avni Rustemi has managed to succeed, with the former president of Albania being killed and the Progressive Party, led by Shefqet Vërlaci, assuming power. Today is a dark day, for many Albanians, who had held high views of Rustemi, do not view the Unity Party as the rightful leaders of Albania...
+It will take time to cement our rule.
+Rustemi Has Survived!
+Thankfully, the assassin, who many had already expected to fail, has not managed to kill [Root.GetLeader], who is safe, yet still harmed, and recovering. The people who had hired the assassin, namely, the Progressive Party, and the assassin himself have all been purged with Ahmet Zogu now in charge of the declining party.
+Today is a joyous occasion!
+Partisan Attacks!
+Partisans, who have not taken kindly to the current changes that we've made, have begun to attack various important buildings in an attempt to force us to reverse our policies. This does not come as a shock, as we've prepared for this eventuality, but it still sets us back.
+Blasted nationalists.
+More Partisan Attacks!
+Partisans have continued to mercilessly attack us, this time focusing their efforts on taking out crucial supply lines we need to equip troops to deal with them. This has set us back by quite a bit and will take some time to recover from.
+Blasted nationalists.
+Sabotage Against Austrian Companies
+Albanian nationalists and anti-Austrians have taken to sabotaging new Austrian companies that have begun to set local branches in Albania, intending on driving away foreign businesses. This does not bode well for us.
+We must stand firm in the face of destruction.
+German Schools Showing Progress
+Due to pursuing our policy of instating and running German schools, alongside making sure that education within Albania, specifically with regards to the attendance of these schools, is compulsory, we have managed to lower illiteracy rates by a great amount. This will, of course, greatly assist us in our efforts in that it will help bring about a more educated, and loyal, populace.
+Rejoice!
+Albanian Oil Shipments
+Due to our control over Albania, with the installation of William of Wied, we have managed to procure oil shipments from Albanian which will most certainly assist us economically in that it will boost our overall industrial production.
+Excellent.
+Attempted Assassination of Wied!
+We should have seen this coming with the recent reforms that have been implemented. While the partisans had only acted against things that had directly affected Albania, such as new schools and the abolition of republican institutions, an assassin has been hired to take out Wied and liberate Albania from Austrian rule. If Wied dies, this could prove to be disastrous for everybody involved!
+The assassin takes the shot and...
+Wied Has Been Killed!
+News has reached us from Albania that Wied has been killed and all of our efforts to subjugate the nation have failed, with nationalists taking matters into their own hands and seizing power! What shall we do?
+We shall not stand for this!
+We are not ready for war...
+Chasing Down the Partisans
+We have found a trace of the partisans near key supply lines and other areas containing crucial infrastructure. While they had managed to escape before we had caught them in the act, this shows signs of good progress, and will, hopefully, lead us to them.
+Here's hoping.
+Continual Partisan Attacks!
+Traces of partisan attacks have, yet again, been detected with more crucial supply lines and railways being destroyed or broken beyond recognition. It seems as though the hunt to chasing down these fiends will continue.
+No matter, they shall be found!
+Catching the Partisans
+Finally, we've managed to track down the partisans and pinpoint their location to forests hidden within Albania. It seems as though leaders who were once nationalist guerrillas have taken to attacking us. No matter, for they are now in our custody and shall be dealt with shortly.
+Thankfully, they're now contained.
+Trade With Albania?
+Albania has just reached out to us in an attempt to foster relations and help open up trade relations between our two nations. This could certainly help us better fight off the effects of Black Monday while boosting relations between our two nations. With that in mind, we have decided to...
+Trade with the Albanians.
+Not trade with the Albanians.
+Albanian-Sicilian Economic Ties!
+Word has come that the Sicilians have decided to accept our offer of trade between Albania and the Two Sicilies, effectively ensuring better relations between our two nations while also helping spur the development of better economic ties. This will surely be a great economic boon for years to come!
+A toast to our Sicilian friends!
+Sicilian Refusal
+The Two Sicilies have refused our offer of economic ties between our two nations, citing the current concentration of resources to build up their nation internally and the distance between our two nations.
+Dammit...
 Aftermath of Black Monday
 Black Monday, an economic crash originating in Germany, has just hit Albania! Because of our agricultural economy, alongside minimal industrialisation and a poor financial system, we have been hit very hard by this event and our people continually grow dissatisfied as unemployment rates have skyrocketed while the economy is now in free fall.
 Balance the Budget

@@ -316,7 +316,73 @@ Join the [From.GetFactionName]
 We must send an envoy to [From.GetNameDef] and ask about joining the [From.GetFactionName]. It is the best option we have for protection and fulfilling our national interests.
 Develop Coal Mines in [159.GetName]
 §MRepublic§! ($national_populist_coloured$ / $social_conservative_coloured$ / $market_liberal_coloured$ / $social_liberal_coloured$ / $social_democrat_coloured$)\n£white_dot Choose to not turn back to the monarchy after completing the \
+Request the Crown of Lombardy
+The Iron Crown of Lombardy, which sat upon the heads of Holy Roman Emperors for centuries, was taken by Austria in the Weltkrieg. While we are unable to force Austria to return it, they may be amicable should we request the crown's return.
+The Iron Crown of Lombardy, which sat upon the heads of Holy Roman Emperors for centuries, was taken by Austria in the Weltkrieg. Following Austria's recent collapse, an agent of the Bourbon kingdom in the south spirited it away to Naples. While we are unable to force the Bourbons to return it, they may be amicable should we request the crown's return.
+The Iron Crown of Lombardy, which sat upon the heads of Holy Roman Emperors for centuries, was taken by Austria in the Weltkrieg. With Austria under occupation, perhaps the occupiers will return in to us.
+Surely the Austrians will heed us.
+Surely the Bourbons will heed us.
+Surely they will heed us.
+[From.GetNameDefCap] Requests the Crown of Lombardy
+The Iron Crown of Lombardy, which sat upon the heads of Holy Roman Emperors for centuries, was taken by Austria in the Weltkrieg. The Duke of Lombardia has personally requested the return of the crown in order so that he may be crowned King.
+It is rightfully Lombard, return it.
+Who cares about Lombardy? Keep it.
+[From.GetNameDefCap] Agrees to Return the Iron Crown
+[From.GetNameDefCap] has agreed to return the Iron Crown. At last, our great Duke may hold a title worthy of his excellent character!
+A great day!
+[From.GetNameDefCap] Refuses to Return the Iron Crown
+Our request to return the Iron Crown of Lombardy has been denied. As such, our good Duke will be unable to bear a title worthy of him.
+Unfortunate.
+The Coronation of Marcello I, King of [ITA.GetNonIdeologyName]
+Our most righteous monarch has been crowned King. Upon his enthronement, church bells throughout the country rang and a day of celebration was declared.
+Lunga Vita al Re!
+Hiring New Drill Instructors
+Our rapidly growing army needs new drill officers to properly train recruits. We can either hire instructors trained on the Prussian model, or those who adhere to an Italian model.
+Prussian drill is superior.
+Local instructors will motivate our troops.
+Lombardia Is Hiring Retired Prussian Generals
+Lombardia has been hiring a large number of retired Generals from the Weltkrieg to provide their undisciplined troops with proper Prussian drills. While this has greatly improved their combat readiness, it has also instilled a germanophile spirit in their general staff that is beginning to affect their foreign policy.
+This could be to our advantage.
+Lombardy Wishes to Purchase Small Arms
+Our puppet Lombardia wishes to purchase small arms from us at a discounted rate.
+Accept their request.
+Deny their request.
+[From.GetNameDefCap] Sells Small Arms to Us
+Our allies in [From.GetNameDefCap] have accepted our request to purchase small arms.
+Excellent.
+[From.GetNameDefCap] Refuses to Sell Arms to Us
+Our allies in [From.GetNameDefCap] have refused our request to purchase small arms.
+We will make our own arms!
+Lombardy Wishes to Purchase Heavy Artillery
+Our puppet Lombardia wishes to purchase artillery from us at a discounted rate.
+Accept their request.
+Deny their request.
+[From.GetNameDefCap] Provides Us with Heavy Artillery
+Our allies in [From.GetNameDefCap] have accepted our request to purchase artillery pieces.
+Wonderful.
+[From.GetNameDefCap] Refuses to Provide Us with Heavy Artillery
+Our allies in [From.GetNameDefCap] have refused our request to purchase artillery pieces.
+Unfortunate.
 The Duke is crowned King of Lombardia
+The [GetYear] [Root.GetAdjective] Elections
+The months leading up to the elections this year in [Root.GetNameDef] have been as divisive and charged as ever. With people flooding to the polls, the winner turns out to be...
+... the Partito Liberale Democratico!
+... the Partito Liberale Lombardo!
+... the Partito Popolare Lombardo!
+... the Lega Longobarda!
+... the Lega Democratica Riformista!
+The Question of Radicals
+Within our nation there are certain circles that aim for a more... radical form of governance, the largest of them being the Lega Longobarda. It was the rise of groups similar to these that lead to the downfall of the Republic of Italy, and if we want to avoid a similar fate we must grapple with the question of if we should ban these radical groups to protect our young democracy, or if we must let them grow in the name of free speech and liberty.
+We must defend democracy at all costs!
+We stand for freedom above all else!
+Lombardia's Future
+The government of Lombardia is currently in the hands of the military, which supports Duke Marcello Visconti... but the duke has expressed reservations about taking full control of the country. Despite the protests of some who say republicanism failed Italy, the duke maintains that the time for monarchies in Italy has also passed. Still, there are many in the country who support him and suggest his guidance is what the people want.
+Republicanism cannot be trusted!
+The Duke must step down!
+Lombardia's Future
+Lombardia is in a state of turmoil, and the people currently have a great distrust of republicanism. Many are openly expressing a preference for Marcello Visconti, the Count of Milan, to take his place as the ruler of Lombardia - and he certainly has the military's support. He also does not seem like a man who much wants to rule, so it seems likely he would turn the country over to elections anyhow... but can we trust that? Should we not pursue republicanism, so long as it is in our grasp?
+We must turn to the Count for help!
+No, we cannot turn back to the monarchy!
 Marcello I
 Giacomo Acerbo
 §YBorn:§! §LJuly 25th, 1888, in Loreto Aprutino, Teramo, Kingdom of Italy§!

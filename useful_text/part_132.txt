@@ -270,6 +270,264 @@ The Qajar dynasty, claiming descent from the Oghuz Turks settling in the northwe
 Oil Nationalisation
 In the year 1925, after the evacuation of the British garrison in Khuzestan and the fall of their empire, the Majlis, in celebration of the reunification of Khuzestan, nationalised the oil industry. Each year [PER.GetAdjective]s celebrate this event and let it be a reminder to them to not allow anyone to take control of their oil and land.
 §MMonarchy - Qajars (Absolutist)§! ($paternal_autocrat_coloured$)\n£white_dot When Ahmad Shah Qajar dies, choose to have Hassan Mirza flee Persia.\n£white_dot In the following event, choose to send loyalists to the Majlis.\n\n§MMonarchy§! ($authoritarian_democrat_coloured$ / $social_democrat_coloured$ / $social_liberal_coloured$ / $social_conservative_coloured$)\n£white_dot When Ahmad Shah Qajar dies, choose to have Hassan Mirza stay in Persia.\n£white_dot In the following event, choose to do nothing.\n£white_dot To get Shah Hamid Mirza, send loyalists to the Majlis, assassinate the Shah, and then make peace.\n£white_dot In the 1938 election, we will get the option to choose between the §SHD§!, a right coalition lead by the §cHET§! and a liberal coalition lead by the §lHEe§!.\n£white_dot In the following elections, the options will be between the §SHD§!, the §cHET§! or a right coalition lead by the §aKhandane Qajar§!.\n\n§MRepublic§! ($radical_socialist_coloured$ / $social_democrat_coloured$ / $social_liberal_coloured$ / $market_liberal_coloured$ / $social_conservative_coloured$)\n£white_dot When Ahmad Shah Qajar dies, choose to have Hassan Mirza flee Persia.\n£white_dot In the following event, choose to do nothing.\n£white_dot To get a radical socialist republic, choose to form a socialist republic.\n£white_dot To get a democratic republic, choose the democrats to form a republic.\n£white_dot If we formed a democratic republic:\n In the 1938 election, we will be able to choose between the §SHD§! and the §mHT§!.\n In the 1942 election, we will be able to choose between the §SHD§! and §cHET§!.\n And in the 1946, we will be able to choose between the §SHD§!, the §lHEe§! and §cHET§!.
+The Shah is Dead!
+Reports this morning have come in informing us about the passing of Ahmad Shah Qajar. After he was shot in an assassination attempt by a socialist a few years ago, his health was poor, and it seems that this, combined with the increasing stress of ruling the nation, has lead to his death. Hassan Mirza, Ahmad's brother and heir to the Sun Throne, has taken power, but a power struggle has already begun among the many factions in [PER.GetNameDef]. Mirza himself has greater ambitions for the Qajar Dynasty, bringing suspicion from politicians in the Majlis. The socialists, a group that has been banned for many years, may try and rear its head at the sight of potential power.\n\nCurrently, the only question is whether Hassan Mirza stays in the country, or flees for his safety.
+Mirza will stay in [PER.GetNameDef]
+Mirza flees.
+Loyalists storm Majlis
+People loyal to the Qajar Dynasty have stormed the Majlis under the command of Hassan Mirza, to try and eliminate potential threats. After all was done, many politicians were arrested to secure a safe transition in government. The Majlis have been closed until further notice.
+Power to the Shah!
+Absolute Monarchy formed
+The monarchy has seized full power in [PER.GetNameDef]. No longer will we have to worry about petty things like democracy or liberty, for they are not needed anymore.
+Long Live the Shah!
+What happens now?
+Mirza has decided to stay in [PER.GetNameDef]. There are many people loyal to him, willing to fight for him. We could command these people to storm the Majlis to keep order and capture any potential threats. We could also send these people to capture key points in [266.GetCapitalVictoryPointName] to try and secure power. However, Hassan Mirza could also not command the people at all to try and keep peace.
+Send the loyalists to the Majlis.
+Send the loyalists to capture key points in [266.GetCapitalVictoryPointName].
+Let's not stir up trouble.
+What happens now?
+Although Hassan Mirza has decided to flee [PER.GetNameDef], there are many people still loyal to him, willing to fight. We could command these people to storm the Majlis to keep order and capture any potential threats. We could also send these people to capture key points in [266.GetCapitalVictoryPointName] to try and secure power. However, Hassan Mirza could also not command the people at all to try and keep peace.
+Send the loyalists to the Majlis.
+Send the loyalists to capture key points in [266.GetCapitalVictoryPointName].
+Let's not stir up trouble.
+Loyalists capture key points in the city
+People loyal to the Shah have successfully captured key parts of [266.GetCapitalVictoryPointName]. The police and the army have stopped any rebellion from taking place. However, there are still some politicians that refuse to accept stronger rule from the Shah. These politicians are loyal to the Majlis, not the Shah. Do we allow these politicians to remain free, giving them the opportunity to unify against the Shah? However, we could temporarily arrest these politicians to prevent an uprising.
+Temporarily arrest them to secure power.
+Let them do what they want.
+Constitutional Monarchy remain
+With power to the Shah secure and the Majli loyal to him, a stable government has been created under the new Shah of [PER.GetNameDef], Hassan Mirza.
+Long Live the Shah!
+Democrats and Socialists Combine Forces
+Forces from multiple political parties, mostly from the Democrat party and members of the banned Edalat party, have unified against loyalist forces. Forces loyal to the Shah have failed to secure control, and a full revolution is imminent.
+Damn...
+Politicians are ready to fight Hassan Mirza
+It is not a surprise to anyone that Hassan Mirza is trying to secure more power for the Qajars. The death of Ahmad was the perfect opportunity that Hassan Mirza was waiting for. However, politicians knew this was coming, and are prepared for it. Forces have been gathered, and they are ready to fight. This could lead to a civil war. However, there is also the opportunity to assassinate Hassan Mirza, which could lead to a more peaceful transition of power.
+Let the fight for [PER.GetNameDef] begin!
+Assassinate Mirza.
+Hassan Mirza remains peaceful
+Hassan Mirza has surprised everyone by staying peaceful in this opportunity. Many people thought that given the death of his brother, Mirza would try to create an absolute monarchy for the Qajars. However, Mirza has not ordered his troops to do anything, claiming that he wants to keep a peaceful transition of power. Now, it seems things have settled since the death of Ahmad, and people are preparing for the coronation of Hassan Mirza as the new Shah.
+What a wise man Mirza is.
+Mirza gives no commands and leaves
+Hassan Mirza gave his men no orders before fleeing into hiding. This means that the loyalist forces have no direction, no central commands. This gives rebels the opportunity to gather their forces.
+Could the Qajars lose their power?
+Politicians are ready to fight Hassan Mirza
+It is not a surprise to anyone that Hassan Mirza is trying to secure more power for the Qajars. The death of Ahmad was the perfect opportunity that Hassan Mirza was waiting for. However, politicians knew this was coming, and are prepared for it. Forces have been gathered, and they are ready to fight. It appears the cities are breaking out into civil war.
+Let the fight for [PER.GetNameDef] begin!
+Hassan Mirza has been assassinated!
+A group of socialist rebels have successfully assassinated Hassan Mirza using a bomb while he was speaking to some of his officers. This is a great blow to the loyalists and the Qajar Dynasty. However, Hassan Mirza had a son, Soltan Hamid Mirza, who will now take the reins to try and resume stability. Currently, there are two options. The politicians have said that they are willing to negotiate with us for a peaceful transition. However, we could also ignore any negotiations, but this would tip the nation over the edge to civil war.
+We will fight for [PER.GetNameDef]!
+We should negotiate for peace in [PER.GetNameDef]
+Revolution!
+The people of [PER.GetNameDef] have decided; the royal system is over! A majority of the Qajars and their loyalists have gone into hiding or have been exiled from the country. An emergency meeting in the Majlis has been called to decide on the system of [PER.GetNameDef]'s government. Either we could form a fully democratic republic under the Democrat party, that previously ruled in together with the Shah, with elections every 4 years. Our other option is to bring in the socialist Edalat party. The party had been banned since the failed assassination attempt on Ahmad Shah but continued to have wide support across [PER.GetNameDef].
+The Democrats will form a republic.
+Edalat will form a socialist republic.
+Democrats form government
+It has been decided. The Democrat party has formed a democratic government and parliament. Sayyed Hasan Taqizadeh has become the first President of the new Republic of Iran.
+Democracy prevails!
+Socialists form government
+It has been decided. The Edalat party has formed a socialist government under Iraj Eskandari as president. The peasants of [PER.GetNameDef] rejoice as Eskandari gives his first speech, speaking of plans to give workers and their unions more power and to redistribute the wealth to the poor.
+A victory for the workers.
+Civil War in the cities!
+Everyone knew that civil war was a possibility in our disunified nation. Fighting has erupted in the major cities, with clashes between socialists, republicans and Qajar loyalists breaking out. However, it seems our disunity has been somewhat of a benefit, for outside the cities, most people do not care enough about their government to fight for it. This means that the fighting is fully contained in the cities. It will be a bloody fight going forward, and whoever comes out victorious will unify [PER.GetNameDef] under their government, and the losers will no doubt be stripped of any influence.
+Let the best party win.
+The fight for Isfahan
+Isfahan, once the capital of Safavid empire, is considered one of [PER.GetNameDef]'s most beautiful cities and has many historical sites. It is so popular that some refer to it as \
+Loyalist forces must push, even if it's dangerous.
+The loyalists will try to encircle the rebels by rowing to the other side.
+The fight for Tabriz
+Tabriz, one of [PER.GetNameDef]'s historical cities, dating back to the Sassanid era and gaining importance as the capital of [PER.GetNameDef] during the Ilkhanate era and the Safavids at their rise and an important economic centre throughout [PER.GetNameDef]'s history, has been eerily silent for the last couple of days. Just a few days ago with the death of Ahmad Shah Qajar, the revolutionaries present in the city, much like 1908's constitutional revolution, began to take control of the city. In a fast swoop of the important locations, including Constitution house of Tabriz, Tabriz Grand Bazaar and Kabud mosque, they manage to almost capture the entirety of the city. While those loyal to Hassan Mirza were surprised by the Tabrizi Revolutionaries, they managed to secure the Arg-e Alishah Mausoleum as it proved a good location to holdout against revolutionary forces, as was proven by Russians who took control of Tabriz in 1911.
+The Revolutionaries storm the Arg-e Alishah in order to defeat the royalists.
+The rebels delay the attack to negotiate peace terms with their commanding officer.
+The fight for Mashhad
+The Holiest city for Shias in [PER.GetNameDef], the resting place of the Shia 8th Imam Reza, is currently in a state of war, ever since the Shah died. Revolutionaries, having a small foothold in the city, have barely managed to hold their ground against the high concentration of royalist forces, so they have resorted to guerrilla warfare and damaging government buildings, attacking royalist patrols, and blowing supply caches. However, this most likely will not be successful.
+The rebels are soon rooted out by loyal citizens.
+The fight for Shiraz
+Shiraz is probably one of the oldest [PER.GetAdjective] cities to exist, dating back to the Achaemenid Empire and its foundation. Being one of [PER.GetNameDef]'s cultural capitals throughout history, Shiraz has an important role in [PER.GetNameDef]'s identity and political affairs. In the past couple of days since the death of the Shah, the revolutionary forces have managed to take control of different points around the city with minimum damage to famous historical and cultural sites, such as famous poets Hafez Shirazi and Sa'di's resting place alongside the Shah Cheragh Mosque, the Quran gate and the famous Zand Dynasty fortress titled Arg of Karim Khan. While the revolutionary forces have managed to take control of most of the city the Qashqai tribesmen, loyal to the Shah, are moving in to capture Shiraz and might bring the city to loyalist control. Unbeknownst to the Qashqai tribe, the Revolutionary Bakhtiari tribe, who have always been in favour of the constitutionalists and participated in the 1907 constitutional revolution dispatched a huge force to help out the revolutionaries. If they get there in time they might just be able to tip the balance in favour of the defending revolutionaries...
+The Bakhtiari tribe hasten their march to Shiraz in order to reinforce the rebels in the city.
+The Qashqai tribe launch an early offensive that could bring the city to their control.
+The fight for Bandar e'Abbas
+Bandar e'Abbas is one the most important trade cities of [PER.GetNameDef]. Due to its port and key location in the Persian gulf, historically the city has been a centre of trade for foreign merchants and a location where most [PER.GetAdjective] exports take place. The port city of Bandar e'Abbas for the past few days has witnessed heavy fighting between the supporters of Hassan Mirza and Revolutionaries. Although the city was initially well guarded by Qajar supporters, due to its importance, Edalat party members had been secretly importing foreign socialists into the city in order to fight the Qajar soldiers when the time was right. As soon as the news of Ahmad Shah's death spread, Qajar forces began to fortify important parts of the city, especially the port, putting it on lockdown until further notice. Meanwhile, the revolutionaries alongside the foreign fighters began to strike the weaker Qajar positions when they least expected it. In a few hours the smaller Qajar outposts had been wiped out entirely, and when the news reached the Qajar forces it was too late for them to do anything, but to fortify the last few major posts they held. Due to infrastructure problems, no reinforcements will get to the city in time.
+The revolutionaries attack the last fortified outposts and claim the city for themselves.
+End of the fighting
+It appears the fighting has begun to slow down. Hundreds of people were killed, both willing fighters and innocent civilians. Families have been torn apart over political beliefs, but order has somewhat been restored.
+And the winner is...
+Loyalists come out victorious
+As the dust settles, it appears the Qajar loyalists have come out of the fighting victorious. Any remaining rebels who refuse to accept the new government are being arrested to ensure stability.
+As it should be.
+Rebels come out victorious
+As the dust settles, it seems the anti-Qajar rebels, a union of republicans and socialists, have won in the cities and so gain control.
+As it should be.
+Black Monday hits [PER.GetNameDef]
+The German economy has been growing ever since their victory in the Weltkrieg, and have strong economic links to [PER.GetNameDef]. Due to the size of their economy and our large oil reserves, our economy has more and more become dependent on Germany's. Since the Weltkrieg ended, our economy has been recovering quite rapidly, and the effects of the Persian Famine have almost been solved.\n\nHowever, crisis has struck Germany in the form of Black Monday. The whole German economy has crashed, creating waves affecting many other nations around the world, bringing their economies down with them. It seems one of those waves has hit us. Suddenly, thousands of people have lost all their money and their jobs, and families are going to be starving again. The leadership has met in an emergency meeting to figure out a plan to solve this.
+Things can only get better...
+Wealth of the Astan Quds Razavi
+The Astan Quds Razavi is an autonomous charitable foundation based in [PER.GetNameDef], known as a Boyard. They look after estates, repairing and refurbishing old temples and other buildings, and even education orphan school children. They are a very popular and wealthy organisation, and even have influence inside our government. However, what we want to focus on is their vast amount of wealth. Seeing the effects of Black Monday on our citizens, the Astan Quds Razavi has agreed to give us some of their wealth to help deal with the problem. However, we have a second option. We could fully seize their wealth, giving us more money to work with for dealing with Black Monday. However, there is large support for Astan Quds Razavi, so seizing their wealth will lose us a lot of support from the public.
+The deal is good enough.
+Seize their wealth.
+Wealth of Sheikh Khaz'al
+Khaz'al ibn Jabir ibn Merdaw al-Ka'bi is one of the wealthiest men in [PER.GetNameDef], if not the whole Middle East. Having had a share in the Anglo-[PER.GetAdjective] oil company and having received yearly tributes from the British Empire alongside his subjects in the province of Khuzestan, he became unimaginably wealthy and influential to a point where the province of Khuzestan was his personal kingdom. With the economic reforms underway we need a huge source of income and we believe Sheikh Khaz'al's wealth is the answer. If we can convince him to supply us with his wealth willingly we can prevent any unwanted hostilities. On the other hand, we can seize all his possessions which will entirely remove him as a threat in the future and also give us more supplies to work with. Although the consequences of such action will be severe.
+We must try and convince him to supply us with his wealth.
+It is time to get rid of Khaz'al. For far too long his power has grown unchecked.
+Remove the opposition?
+Ever since the revolution took place and the socialists seized the government, there has been one central question: whether we should work with the politicians of the previous government, or whether we should completely remove anyone from the previous government to complete the full revolution. The previous government, although having the Qajars be a strong force, was a Social democratic one, proving that the politicians are able to somewhat work with us. However, there is the chance that these reactionary forces, if kept in government, will try to corrupt and inevitably destroy the revolution. Although in the short term purging the government will have a dangerous effect, in the long run it might preserve the revolution permanently.
+Time to choose.
+Clergies call Jihad!
+With our nation under the threat of destruction, clergies all around [PER.GetNameDef], especially in Qom and Mashhad, have declared a Jihad. This will inspire our men to fight harder, and will surely lead to victory against the outside threat.
+[PER.GetNameDefCap] fights on!
+End of Jihad
+With our nation at peace, clergies have announced that Jihad is at an end. We have survived through war and gained victory!
+[PER.GetNameDefCap] lives in glory!
+Socialist Protests
+Hundreds of people have gathered in the streets, in protest against our current government. These people are part of the banned socialist 'Edalat' party, the main socialist organisation in [PER.GetNameDef]. Although it is illegal, it still has much support from our populace. These protests always end in violent clashes with the police, and every day more and more people are losing faith in our government. If we want these protests to stop, we must end the political chaos inside the government itself, and create order throughout the nation.
+Someday, this violence might end.
+1938 Presidential Election
+As we promised when we took power in the government, the first presidential election is taking place in [PER.GetNameDef], and there are many options for the people of [PER.GetNameDef] to choose from. Things are still very shaky, and people have still not fully recovered from the chaos after the death of Ahmad. First is a Democrat-Edalat coalition, with Taqizadeh becoming president. They have formed a coalition due to both of their leaders being close associates, and both working together during the revolution against the Shah. They have some similar views, so can work together fine for now. However, they do differ in many ways, and it will remain being a shaky alliance. The other main candidate is Mohammad Ali Foroughi Zoka-ol-Molk, leading an Tajadod-Eslah Talaban coalition. These parties have come together to try to reduce the influence of the Edalat and Democrat party, and disagree with them on almost every field. These parties can work together well, for the Eslah Talaban, having lost some popularity due to their alignment with the Shah, can implement their social policies, while the Tajadod party can implement their economic reforms.
+Sayyed Hasan Taqizadeh wins the vote.
+Mohammad Ali Foroughi Zoka-ol-Molk wins the vote.
+1942 Presidential Election
+Once again it is election time in [PER.GetNameDef], and things have calmed down a lot. First is Sayyed Hasan Taqizadeh of the Democrat party. This time, there is no coalition with the Edalat party, due to tensions lowering politically. Taqizadeh believes in reforms to the economic system to help those who do not have much, like people who were affected by the famine. Second is Ahmad Qavam of the Eslah Talaban party. His beliefs are far more traditional, and believes that usually, less reform is more beneficial. These two parties have been in rivalry since the first constitutional revolution, and both wish to gain power in the new democratic state of [PER.GetNameDef].
+Sayyed Hasan Taqizadeh wins the vote.
+Ahmad Qavam wins the vote.
+1946 Presidential Election
+Once again it is election time in [PER.GetNameDef], and there are many options to choose from. Firstly is a coalition between the Democrat party and the Edalat party under Taqizadeh. The Edalat party have lost a lot of popularity since the first election, but have formed a coalition with the Democrats to try and regain their influence. Second is a coalition between the Tajadod party and the Eetedaliun party under Mohammad Mosaddegh. Although they disagree somewhat on social policies, economically they can work together effectively. Both are not major parties, so they need each others combined popularity to win. Finally is the Eslah Talaban party. They have gained much popularity since the revolution, for many people believe that if there hadn't been a revolution, there might not have been as many wars as there has been recently. Many people have died, and so more people turn to the Eslah Talaban party to solve this.
+Sayyed Hasan Taqizadeh wins the vote.
+Mohammad Mosaddegh wins the vote.
+Ahmad Qavam wins the vote.
+1938 Majlis Election
+Since the constitutional monarchy was set up, the Majlis have been a major part of politics in [PER.GetNameDef]. Acting as the parliament of [PER.GetNameDef], they have strong power in the day to day lives of all [PER.GetAdjective]s. Now, the time has come to elect new people into the Majlis, and to assign new people to be ministers.\n\nThe first cabinet is a Democrat party cabinet. They were the party that was in power under the previous Shah, before his health got the better of him. They remain very popular throughout the country, having proven their ability previously. They plan to remain moderate and bring stability and unity to [PER.GetNameDef]. The second cabinet is a coalition of members of the Eslah Talaban party and more authoritarian ministers. They all believe more power should be given to the Shah, and believe the Shah losing power was the cause of the chaos after the death of Ahmad. They are still against full control from the Shah, but want him to take a more direct approach to politics. They also want to put a tighter leash on the political scene, having the military general Reza Khan as security minister. Finally is a coalition of many parties, of Democrats, Eetedaliun and Tajadod ministers. They generally agree with the idea of the constitutional monarchy, but still want the Shah to have less power. They may disagree on economic and social policies, but can band together to pass some small reforms.
+Democrat party.
+Right wing coalition.
+Liberal coalition.
+1942 Majlis Election
+It is time once again to assign new people to the Majlis, and things have calmed down a lot more, so parties are more open to implementing their own policies and agendas. First is a coalition between members of the Democrat party and the Tajadod party. They agree entirely on social issues, so can pass social reform easily. However, economically they differ wildly, but they would rather have power shared between them rather than with other parties. Second is the cabinet of the Eslah Talaban party. They are more moderate, believing in traditional values and equal rule between the Shah and the Majlis, cooperating with the Shah closely. Finally is a coalition between members of the Tajadod party and more authoritarian ministers. The authoritarian ministers still want more power for the Shah, and are trying to achieve it in the Majlis through elections. The Tajadod have also changed their tactic, believing that a strong Shah will be beneficial for them, and will help them pass their reforms.
+Democrat coalition.
+Eslah Talaban party.
+Right wing coalition.
+1946 Majlis Election
+It is time once again to assign new people to the Majlis. First cabinet option is the Democrat party, who are now running independently. They have a very liberal agenda, and can now attempt to pass some social reform. Second is the cabinet of the Eslah Talaban party. They are more moderate, believing in traditional values and equal rule between the Shah and the Majlis, cooperating with the Shah closely. Finally is a coalition between members of the Tajadod party and more authoritarian ministers. The authoritarian ministers still want more power for the Shah, and are trying to achieve it in the Majlis through elections. The Tajadod have also changed their tactic, believing that a strong Shah will be beneficial for them, and will help them pass their reforms.
+Democrat party.
+Eslah Talaban party.
+Right wing coalition.
+[PER.GetNameDefCap] Demands Bahrain
+[PER.GetNameDefCap] has sent us an ultimatum, stating that we shall immediately give up the island of Bahrain to them. Their claim to Bahrain is hundreds of years old, but the [PER.GetAdjective] government still speaks passionately about retaking 'lost land'. They say that if we do not cede the islands, they will have to take military action.
+Give it up.
+We do not fear [PER.GetNameDef]
+[FROM.GetNameDefCap] Cedes Bahrain to Us
+We are now finally the sole owners of Bahrain, as it always should have been.
+Perfect.
+[FROM.GetNameDefCap] Refuses Our Ultimatum
+They have refused to give us Bahrain. Our only option of getting the island back is war.
+To war!
+The Annexation of Sulaymaniyah
+Now that the dust has settled, and we have emerged victorious over the Ottoman armies, it seems that our Kurdish ally has outlived his usefulness. [KUR.GetLeader] had only managed to maintain his shaky rule over the region thanks to the ongoing war against the Turks, and with their collapse, many of his former comrades-in-arms have already begun to turn against him, as he is far from a unifying figure in the region.\n\nTo restore order to the region, we have sent several divisions into both the city of Sulaymaniyah and in the countryside, giving the same ultimatum to the various warlords who are trying to take advantage of the chaos: lay down your arms or die.\n\nWith the disorganised forces that made up our former ally's armies are cut off from any foreign support, and facing a largely apathetic population that wishes for a return to stability, our army has been able to effectively occupy the entire region, and while we may have to deal with sporadic resistance, Sulaymaniyah is now ours.
+Really, we had no choice.
+Peace with Russia?
+We have pushed Russia back to the Black Sea. However, we do not want to overextend. We can approach Russia with an offer of peace.
+Offer them peace.
+We will push them to Moscow!
+Peace with [PER.GetNameDef]?
+The war with [PER.GetNameDef] has not gone at all in our favour. They have offered us a peace deal, with us losing much territory.
+Accept the peace.
+We will push them back!
+Peace with the Entente?
+We have successfully fought the Dominion of India and should now approach the Entente for peace.
+Propose peace.
+Fight on!
+Peace with [PER.GetNameDef]?
+[PER.GetNameDefCap] has defeated the Dominion of India. They have now offered us a deal - peace, in exchange for Baluchistan. What should we say?
+We have no choice but to accept.
+Never!
+Nowruz
+Today, all around [ROOT.GetNameDef], people celebrate Nowruz, an ancient tradition going back to the beginning of the Zoroastrian faith and ancient Persia. Nowruz celebrates the [ROOT.GetAdjective] New Year and the beginning of Spring, bringing people closer together for the duration of the festivities.
+Happy Nowruz!
+Peace with the Germans
+This war with the Germans has proven fruitless. We should offer them peace for the stability of our nation.
+Offer them peace.
+Peace is for the weak.
+Peace with [PER.GetNameDef]?
+We have been at war with [PER.GetNameDef] to defend our ally, Azerbaijan. However, evidently this has not worked. We should probably just make peace with them.
+Accept the peace.
+Never!
+Dehkhoda's Dictionary
+With the rise of nationalist and separatist movements all around the world, a united and unified [PER.GetNameDef] is needed. Recently we have discovered the efforts of Ali Akbar Dehkhoda, a prominent [PER.GetAdjective] linguist, on making the first ever Farsi dictionary. We can use this opportunity to further educate our people and, in the process, strengthen our unity.
+Pat Ali Akbar on the back and congratulate him on his little project.
+Fund the project and prepare to distribute the book all around the country for free.
+Persepolis Excavation
+In the recent years, historians around the world have begun to show more interest in [PER.GetNameDef]'s historical past. Recently Ernst Emil Herzfield, a German archaeologist and historian, excavated Persepolis' ruins. Recently he has asked for permission to renew his excavation of Persepolis. It is up to us to decide what to do with his request.
+Allow the excavation, but heavily regulate it to protect the site from theft and vandalism.
+Allow the excavation with no restrictions.
+Do not allow the excavation to proceed.
+Muharram
+Today marks the start of Muharram, first month of the Islamic calendar, a month of grief for Shias in [ROOT.GetNameDef]. In this month, Imam Husein, the third Shia Imam was martyred and the events leading to his martyrdom are still fresh in the memories of Shias in [ROOT.GetNameDef].
+We mourn him.
+Ramadan
+Today is the beginning of the ninth Islamic month, Ramadan. A month of fasting and prayer for the Muslims all around the world, going back to the first days of the rise of Islam. As [ROOT.GetAdjective]s begin preparations for the month's fasts and prayers, one can notice the harmony it has brought.
+Happy Ramadan!
+Yalda Night
+Today, 30th of Azar, the last day of the ninth month of the [ROOT.GetAdjective] calendar, marks the Yalda celebration. The longest and darkest night of the year which is the winter solstice in the northern hemisphere is the night where Iranic people gather together and their families to eat, drink and read poetry. Dating back to the beginnings of the Zoroastrian faith, Yalda is almost as important as Nowruz to all Iranic people.
+Happy Yalda Night!
+Bear Found by Soldiers
+Recently, a bear cub was found by one of our officers in [266.GetCapitalVictoryPointName]'s nearby fortifications. While initially we had planned to take away the bear due to military regulations, we have begun to reconsider, as troops stationed in the fort have petitioned for it to stay. We have decided to allow the bear to stay at the fort for the time being to increase morale. The troops have decided to name him Rostam.
+What a peculiar occurrence.
+Rostam the Bear
+Rostam the bear has been growing up alongside our army pretty well. Due to his owner being transferred to the 2nd Artillery supply company, Rostam was transferred to the company and has ever since been befriending its troops. They have taken the bear as their own mascot and it even helps them with carrying their artillery.
+Truly a bizarre occurrence in the history of the [PER.GetAdjective] army.
+Problems with Rostam
+Sadly, due to financial problems, the owner of Rostam is looking to sell him to the highest bidder. This will no doubt cause a loss of morale for the 2nd Artillery supply company. Several high ranking generals have begun discussing the situation and we must decide what to do.
+We have more important matters than a silly bear!
+We must purchase Rostam!
+Rostam Has Been Sold
+Rostam the bear was sold to a Polish merchant passing through [PER.GetNameDef]. It seems the Polish merchant caravan was deeply amused by the military bear and as soon as they found out he was up for sale they purchased him. They have even began to call him a new name, Wojtek.
+Alas, Wojtek's fate shall take him to Poland.
+[From.GetNameDefCap] Requests to Join the [ROOT.GetFactionName]
+As the revolutionary fires sweep through Asia, the need for solidarity and cooperation among the newly emancipated peoples becomes more and more evident. Aware of the dangers of remaining neutral in the quickly changing global scene, our comrades from [From.GetNameDef] have requested to join the [ROOT.GetFactionName]. Accepting this request would extend our influence in the Middle East, a region vital for our strategic interests. However, voices of dissent have warned about entanglement in unnecessary foreign ventures.
+We welcome our [From.GetAdjectiveCap] comrades.
+This is unnecessary, let's reject their petition.
+[From.GetNameDefCap] Accepts!
+As we expected, [FROM.GetNameDef] has accepted our request to join the [From.GetFactionName], setting in stone the growing ties between our nations. Whatever the future holds, we shall weather the storm together.
+We stand united.
+[From.GetNameDefCap] Refuses
+In an unexpected and disappointing move [FROM.GetNameDef] has rejected our request to join the [From.GetFactionName], and now we find ourselves further isolated from global affairs.
+We shall stand on our own.
+Republican Revolution in Iran
+With news reaching Tehran of the Shah's death a few days ago, the people of Persia took to the streets to demand the establishment of a republic. As of last night, it appears that republican protestors have successfully taken control and pushed the Qajar dynasty out of the country. Persia, or Iran as it is now called, has been a place of instability and troubles ever since the end of the Anglo-Russian occupation of the nation.\n\nWith the Middle East growing increasingly unstable, many wonder how the new republican government will respond to possible threats or challenges in the region.
+More instability...
+Socialist Revolution in Iran!
+With news reaching Tehran of the Shah's death a few days ago, the people of Persia took to the streets to demand the abolition of the Monarchy. As of last night, it appears that socialist protestors have successfully taken control and pushed the Qajar dynasty out of the country. The first socialist state in the middle east has been declared. Persia, or Iran as it is now called, has been a place of instability and troubles ever since the end of the Anglo-Russian occupation of the nation.\n\nWith the Middle East growing increasingly unstable, many wonder how the new socialist government will respond to possible threats or challenges in the region.
+Socialism in the Middle East?
+Workers of Iran, Break your chains!
+[PER.GetName] Asks For an Alliance
+Today, the Iranian ambassador to Russia explained to his counterpart that his country wishes for a military alliance between our two nations. Russo-Iranian relations have been warming in recent years, especially due to a shared hatred against the Turks, and it seems they wish to repay us for our help against them.
+Today, the Iranian ambassador to Russia explained to his counterpart that his country wishes for a military alliance between our two nations. Russo-Iranian relations have been warming in recent years, especially due to a shared hatred against the Turks, and it seems they wish to repay us for our help against them.\n\nIn a gesture of good faith they have also promised that Ashkabad, which has been under de-facto Iranian administration since 1929, will be returned to us.
+Such are the fruits of good relations.
+Seems unnecessary.
+Russia Accepts Our Offer For an Alliance
+Our ambassador to Russia has notified us that [RUS.Capital.GetCapitalVictoryPointName] is willing to enter a military alliance between our two nations.
+$persia_events.121.d.base$ Accordingly, [418.GetName] will be transferred back to Russian control.
+May it last for ages to come.
+Russia Denies Our Request
+The Russian ambassador to Iran stated that his country was not interested in a military alliance. Clearly he must be out of his mind, or desire our subjugation rather than partnership - maybe both?
+Whatever.
+[PER.GetNameDefCap] Discontinues the [PER.GetFactionName]
+Citing that our alliance has outlived its usefulness, the [PER.GetAdjective] government has today announced the end of its participation in the [PER.GetFactionName]. With that, the alliance has been effectively dismantled, leaving us without the protection of the [PER.GetAdjective] army.
+It's not like we needed them anyway!
+The [FROM.GetAdjective] Collapse
+When we entered the war against the Ottomans, we joined the Iranians, the Egyptians, the Arabs, and many more in their righteous struggle. Seemingly the entire Middle East had taken up arms against Kostantiniye, and back then, hopes were high that this war would be over quick, with overwhelming numbers working in our favour and the decadent Ottoman Empire simply collapsing under its own weight. But now, the situation is looking dire.\n\nNews has just reached [ROOT.Capital.GetCapitalVictoryPointName] that, with Teheran and other major [FROM.GetAdjective] cities having fallen to the advancing Ottoman forces, [FROM.GetNameDef] has officially surrendered to the Sublime Porte. With that, our closest allies, and by extension the Tabriz Accords, are no more. And now, we stand alone against an overwhelming enemy.\n\nStill, surrender is not an option. The Ottomans would accept nothing but the total annihilation of our nation - and we simply cannot allow that to happen. If we must die, then die we will - but we shall fight on in the name of our forefathers, defending our lands from the Turkish brute to our last breath!
+[ROOT.GetName] is not yet lost!
+[PER.GetNameDefCap] Joins the [future_persian_faction_leader.GetFactionName]
+Seeking to align themselves with a major power, [PER.GetNameDef] has recently informed us of their desire to apply for membership in the [future_persian_faction_leader.GetFactionName]. Unwilling to simply abandon their allies, however, they have offered us to join forces with [future_persian_faction_leader.GetNameDef] alongside them, continuing the [ROOT.GetAdjective]-[PER.GetAdjective] cooperation in a larger alliance framework than the now-disbanded Tabriz Accords.
+Let us join alongside our [PER.GetAdjective] brothers!
+We are fine on our own!
+[FROM.GetNameDefCap] Seeks Entry Into the [ROOT.GetFactionName]
+With [PER.GetNameDefCap] having chosen to disestablish the Tabriz Accords and instead align themselves with the [ROOT.GetFactionName], their former allies have been left with a choice: either follow the [PER.GetAdjective] lead or remain isolated and without protection. Wisely, [FROM.GetNameDef] has chosen the former option, and as such, has now officially petitioned to join the [ROOT.GetFactionName] and contribute to our military alliance. The question now is whether we should allow them in.
+They are welcome to join!
+We don't need them!
+[FROM.GetNameDefCap] Approves of Our Entry
+News has just reached us from our ambassador in [FROM.Capital.GetCapitalVictoryPointName] that [FROM.GetNameDef] has accepted our request, allowing us to join the [FROM.GetFactionName] alongside our [PER.GetAdjective] allies.
+Splendid!
+[FROM.GetNameDefCap] Denies Our Entry
+Citing that we, unlike our [PER.GetAdjective] allies, would be unable to contribute anything of value, [FROM.GetNameDef] has turned down our offer of joining the [FROM.GetFactionName].
+Damn it!
 Change Our Name to Iran
 Pressure is mounting from modernising elements within our nation to push for the international community to refer to us as \
 Oil Embargo to the Enemies of Socialism

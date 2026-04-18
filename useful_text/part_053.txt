@@ -41,6 +41,12 @@ Kingdom of Cambodia
 the Kingdom of Cambodia
 Kingdom of Cambodia
 the Kingdom of Cambodia
+The Death of Sisowath Monivong
+King Sisowath Monivong of the [CAM.GetName], the 2nd monarch of the House of Sisowath, has died of old age this morning. The monarch will be succeeded by his first son, Sisowath Monireth.
+$siam_events.15.a$
+The Death of Norodom Suramarit
+King Norodom Suramarit of the [CAM.GetName], the 2nd monarch of the House of Norodom, has died of old age last night. The monarch will be succeeded by his first son, Norodom Sihanouk.
+$siam_events.15.a$
 Tou Samouth
 §YBorn:§! §L1915, in the Colony of Cochinchina, Indochinese Union§!
 Son Ngoc Thanh

@@ -386,6 +386,8 @@ Kouloughli Cultural Programme
 The Kouloughlis are the children of Turkish men who settled in Libya after the Ottoman campaigns, and local women. In the eyes of the new Turkish government, these people symbolise the symbiosis between Turkish and Arabian culture, cuisine and brotherhood and the possibilities of future Turkish-Tripolitanian relations.
 Invite Turkish Military Advisors
 Our own military forces are lacking, and the Turks will gladly provide us with advisors to help strengthen our own military forces.
+Turko-Tripolitanian Economic Union
+Our economy is desperately weak and by establishing an economic union with the Turks we will have an easily accessible market to trade our goods.
 Anti-Colonial Committee Cooperation
 The Communard Anti-Colonial Committee has been instrumental in aiding our people as well as all those oppressed under the boot of imperialism. For our own benefit we should seek to cooperate with them.
 Partake in the Phalanstère
@@ -453,6 +455,180 @@ GFX_LBA_intro
 The Emirate of Cyrenaica
 Founded by the great Muhammad ibn Ali as-Senussi in 1843, the Senussi Order has become a synonym for the region of Cyrenaica in which it holds sway. Although we are technically a part of the Ottoman Empire and penetration of the Green Mountain by the urban elite of Benghazi is steadily growing, we have been able to maintain our independence for close to 100 years now.\n\nFighting the despicable imperialists at every turn, the previous grandmasters have led the charge against the Europeans from the deserts of Wadai to the Oasis of Siwa. When the Italian army invaded Tripolitania in 1911, we fought side by side with our Caliph to rebuke their formidable force and continued doing so when the Turks handed Libya over only a few months later. Our relation with the Turks has always been... complicated to say the least as whilst we joined forces in 1911 and 1915, it is abundantly clear that the Porte isn't too keen on an independent administrative body within its domain.\n\nNonetheless when the Weltkrieg ended in an Ottoman victory, the overstretched and bankrupt empire was forced to concede that it didn't have the means to contest our strengthened post-war status and contended itself with the return of nominal control exercised from its bureaucrats in Benghazi.\n\nSince the end of the war, little has happened in Cyrenaica as the lack of both means and will to change the status-quo prevents any substantial changes. This was to change slightly in 1933 when our supreme leader, Ahmed Sharif as-Senussi, died of old age leaving his son to take up the reins. The death of this pivotal figure in our history however has reignited tensions between the pan-Islamic supporters of the late grandmaster and the Senussi Princes looking to the rightful heir, Idris, who went into exile after the Ottoman victory.
 §MEmir Idris Returns§! ($authoritarian_democrat_coloured$)\n£white_dot In the event \
+[LBA.GetLeader] Incapacitated
+Personally leading the charge against forces loyal to the French State in Northern Chad, our Supreme Leader has suffered a serious blow to the head after his horse was shot from under him. Whilst it is currently unclear whether this will have lasting effects on his health, aggravated due to the complete lack of medical personnel in our state, this has emboldened the Idrisi loyalists to call for a vote amongst the Senussi Princes concerning the return of the legitimate heir from his exile in Egypt.\n\nThey are however receiving serious opposition from close friends and commanders of the previous supreme leader, seeing this as nothing but a power-grab by the Princes to enlarge their own influence and push out the last of the loyal pan-Islamists. Led by Umar al-Mukhtār, esteemed war hero of both the Chadian and Italo-Turkish wars, this clique may pose an issue to the Princes if not dealt with adequately.
+Tumultuous times are upon us.
+Idris Speaks at the Third Arab Congress
+Trying to gather foreign support for his claim on the Cyrenaican Emirate, Idris has used the Egyptian Arab Congress to sway the opinion of the gathered Arab notables and politicians. A prince of the Senussi family as well and strong supporter of Idris, Sayyid Hilal al-Sanusi of Jaghbub also went to the Egyptian capital, likely to discuss a way for Idris to retake the throne in his homeland. Although Egypt is likely to grant its support to the exiled prince, most eyes are turned towards Benghazi where the representatives of the Caliph are reporting the unfolding regency crisis to the Ottoman government in Kostantiniye.
+Those foreigners have no business in internal affairs!
+Scheming in Benghazi
+Seemingly making it their mission to restore Idris to the throne of Cyrenaica, Egypt has through connections within the Benghazi business community started to buy the support of various tribal leaders and the uncertain Senussi Princes. Their efforts will be in vain however if they can't persuade the ageing Umar al-Mukhtar who remains steadfast in his support for the incapacitated Ibrahim. To tackle this 'issue', shadier proposals to tip the balance in favour of Idris have been proposed, including the termination of al-Mukhtars life through means of poison.\n\nIf the plot were to fail however, this can backfire badly as the network of allies maintained by al-Mukhtar is likely to retaliate against such a despicable act of treachery.
+The plot succeeds!
+al-Mukthar escapes death...
+Death of al-Mukhtar
+That death would arrive in due time for the ageing al-Mukhtar was undoubtedly true but many were still surprised by the speed at which his health deteriorated these last few days. Prominent commander of the Senussi forces and respected by all, his death comes as a heavy blow in these uncertain times and the ceremony in Ajdabiya attracted a crowd of thousands wishing to wave their hero a final goodbye. Prince Osman Fuad, leader of the Turkish forces in Libya during the Weltkrieg, was quick to send a letter to our government praising his friend and compatriot whilst in Kostantiniye the Chamber of Deputies showered his valiant deeds during the war with the highest praise.\n\nWith the death of the most prominent defender of the sickly Ibrahim, it seems unlikely anyone will stand in the way of a return to power by Idris. Some stragglers in the opposition remain however, pointing out how odd the sudden death of their leader was and accusing the supporters of Idris of poisoning. As Muslim tradition however forbids delayed funerals, they have no way to acquire proof of this supposed plot.
+All of Cyrenaica salutes its hero!
+Assassination Attempt on al-Mukhtar
+Unrest is spreading through all of Cyrenaica as a plot to assassinate Umar al-Mukhtar was uncovered by close associates of the old guerrilla fighter. Outraged by this attack on his person and explicitly offended due to the choice of weapon, poison, for its cowardness, the commander has openly attacked the Senussi princes for their scheming and despicable actions. It is no secret that al-Mukhtar didn't hold a high opinion of the Princes, who he saw as having betrayed the values of the Senussi in exchange for earthly possessions. Whether this attack will have ramifications is as of yet unclear but if Mukhtar seeks to enact revenge, the Princes may soon find themselves under severe fire.
+An outrageous affair!
+Sayyid ‘Abid al-Sanusi Invites Idris to Kufra
+With all serious opposition to the Idrisian loyalists dealt with, Sayyid ‘Abid al-Sanusi of Kufra has sent word to Cairo calling for the return of the legitimate heir. Idris was quick to respond to the request and arrived in Kufra with his honour guard to officially ascend the Cyrenaican throne. Hundreds of Cyrenaicans in Kufra flocked to the streets to watch their Emir arrive but it is unclear if this enthusiasm is shared by the citizens of the Green Mountain and the Murabtin Masamir tribe.
+Long live the Supreme Leader!
+Civil War in Cyrenaica
+Outraged by the assassination attempt of al-Mukhtar, the tribal alliance that composes the Senussi state has fallen apart with former allies drawing swords to right wrongs. Umar al-Mukhtar himself hasn't called for any punitive actions and has even openly called those acting in his name to stand down and prevent further bloodshed amongst brothers but the dice have been rolled and there seems to be no immediate end to the fighting.\n\nThe situation is looking bleak for the Idrisi supporters as their cowardly act has shocked the Bedouin to their core as honesty and honour are pivotal for their way of life. The increasing decadence and passivity of the Princes had been deteriorating relations between the action-oriented middle commanders of the Order and the Princes themselves, which now prompted a violent outburst of these cropped up feelings.
+May Allah ensure a swift end to the fighting!
+Defeat of the Senussi Princes
+The inter-tribal conflict, caused by the assassination attempt on Umar al-Mukhtar, has reached its violent conclusion today as a final attack on the religious capital of Jaghbub was prevented when the last remaining Prince, Sayyid Hilal al-Sanusi, decided to flee instead of putting up a last stand. With his departure, the followers of Ibrahim have declared themselves victorious. The Supreme Leader however seems unlikely to recover as the blow he received months ago still hasn't healed fully, leaving him to the mercy of his regency council.\n\nTo solve the question of leadership, the council has decided to disband itself and proclaim Umar al-Mukhtar as the official regent of the Emir. Whilst he initially refused to accept the offer, citing his old age and his own deteriorating health, he was ultimately convinced by his two close friends al-Fadil Bu-‘Umar and Yusuf Bu-Rahil.
+May he maintain the peace in our lands!
+Anniversary of the Treaty of Rome
+Just a short twenty years ago, our struggle against the colonising oppressors ended in victory, as German and Austrian forces forced Italy to its knees. Celebrations for the anniversary are set to happen today in major cities, as we recall not only what we were, but what we could be!
+A Grand Day!
+The War of Independence Has Begun!
+To Arms! As Libya prepares itself for the inevitable counter-attack from Turkish forces, our people rally behind our cause like never before. Even men from abroad, including many from Tunisia, have come to join our liberation struggle, albeit we are unable to determine if they are acting on the behalf of the Bey of Tunis, the French, or themselves.
+March! To Victory!
+Anti-Imperialist Rhetoric
+Each day, more and more people here and abroad support our speeches against colonialism and imperialism. It will not be long before we have even syndicalists and republicans aiding our efforts in freeing Africa, for all see the folly and greed of the French and Germans.
+Onwards!
+What About the French Attack on Morocco?
+Morocco, disconnected from other Cairo allies, will need every help it can get in the coming struggle! We should send aid in men and weapons to help it reach victory!
+It's an ally we can't afford to lose.
+It is rash to deal in such absolute conclusions.
+Libyan Aid Arrives!
+Our friends in Libya have sent us supplies and some men to aid in the war against the perfidious French invaders!
+Huzzah!
+Conflict in the Jabal
+Trouble has been brewing between two of the largest Cyrenaican tribes as the Sa'adi tribes of the Bra'sa and 'Awagir have found themselves at odds over a matter of land distribution. The 'Awagir, larger than their counterpart have seen a recent increase in population due to some fortunate harvests and have started pushing into Bra'sa territory to feed their extra mouths. Evidently this has angered the Bra'sa who have sent a call to arms to their Murabtin fighters as a show of force and to deter further aggression.\n\nShots have already been fired between the two sides but thus far no casualties have been reported. The whole situation is a rather unfortunate situation for the Senussi Order as it seems impossible to please both sides.
+Assist the Bra'sa, it's their land!
+Assist the 'Awagir, we can't lose their support!
+Border Friction in Western Egypt
+After an unfortunate incident between an 'Abyadat trader and a Jwazi tribesman, it seems like the relations between the Cyrenaican and Western Egyptian tribes are once more coming to a head. As a retaliation for the supposed offence against the honour of the 'Aybadat tribe, a raid was launched by their Murabtin laying claim to at least a dozen sheep and plundering an outpost near the border. Worrying the Egyptian representatives in Siwa, they have demanded an answer to the issue and are calling on us to put an end to the fighting or they will take measures against our activities in the oasis town.
+Compensate the Jwazi for their losses.
+Punish the 'Abyadat!
+This does not concern us.
+Slavery on the Central African Route
+Despite the best attempts of the colonial and Ottoman powers to outlaw slavery and fight its widespread use in the Maghreb, the incapacity of the Ottoman government to extend authority over the Libyan interior has caused a revitalising of the ancient trade routes linking the Sahel to the Maghreb. Mainly coming through Chad and Sudan, the oasis town of Kufra has started to develop itself as the capital of the trade seeing frequent visits from caravans and organising auctions to send their 'produce' all across the Maghreb.\n\nCalls from abroad to solve the issue have been rising steadily however and representatives of the Porte have been grilled severely over their inability to put an end to such inhumane practices. Nonetheless it seems unlikely that the trade will halt anytime soon as it provides a vital source of income for the Order and has enabled it to expand their influence as South as Mittelafrika.
+It is as it is.
+The Ottoman Economic Recession
+Caused by the market crash in the German Empire, the internal market of the Ottoman Empire has suffered substantial blows as demand for agricultural produce in Europe, the main export, has collapsed.\n\nRipples of this crisis have moved to the Green Mountain of Cyrenaica where farmers have seen a decrease in prices for their wares on the markets of Benghazi. As our exports in and of itself are fairly negligible and only possible in excellent harvest years, the overall economy hasn't been hit too hard but there are fears amongst the traders that this could soon herald in a collapse of the caravan trade.
+Most unfortunate.
+Great Summit of the Cyrenaican Tribes
+As has been done a few decades ago, our great leader has called for a gathering of all the Cyrenaican tribes both inside of our domain and the Western Egyptian desert. Even though most feuds and issues between the two groups were solved back then, a recent increase in disputes has prompted us to once more gather the tribes and reaffirm the bonds of friendship and support.\n\nAssembled in Jaghbub, the gathering went ahead with little issues and all representatives were able to return to their homes content with the solutions hashed out. Although there were calls from amongst the Senussi leadership to make the gathering a more common event, this was rebuked by the tribes themselves as fears of centralisation once more rose to prominence.
+The bonds of cooperation strengthen us all!
+French Attack Zawiya
+In a brazen move, aimed at stopping our influence amongst their subjects the French army has sent a detachment deep into the Sahara to raid our oases. Supported with modern rifles and air support, our Ikhwan stood no chance at stopping them but we were able to harass the French columns before retreating back into the deserts.
+We live to fight another day!
+Caravan Lost
+Disaster has struck in the Sahara as a whole caravan has seemingly disappeared amidst its mighty dunes. Scheduled to arrive last week at the next stop on the route, the caravan of at least a hundred camels never showed up and has left merchants at the trading post fearing for the worst.\n\nCarrying the riches of the dark continent, the economic loss is substantial and a number of the merchants have pleaded for aid at their local Zawiya in the hopes of covering their costs.
+We shall burden the cost!
+We cannot help them...
+Caravan Plundered
+Despite our best efforts to keep the Caravan safe, a group of raiders were able to defeat our protectors and have run off with the valuable goods carried by the caravan. Whilst this is a catastrophe for the traders along the route, it is also a great hit to our prestige as confidence in our capabilities to ensure the safety of the Trans-Saharan routes has gone down as a result.
+Dammit!
+France Closes Down Operations in Timbuktu
+In an effort to gain better control over their Southern belt, the government in Algeria has sent Senegalese Tirailleurs to the desert city in the hopes of expelling our influence. Arresting traders linked to our operations, confiscating trading goods and setting fire to our Zawiya, all of our Brethren were forced to flee or hide themselves until the battalion returns home.
+In an effort to gain better control over our Southern belt, We have sent Senegalese Tirailleurs to the desert city in the hopes of expelling Senussi influence from the region. Arresting traders linked to their operations, confiscating trading goods and setting fire to their Zawiya, all of their Brethren were forced to flee or hide themselves until our battalion returns home.
+A dark day for the Order...
+A bright day for France!
+The Search for Zerzura
+Rumoured to lay deep within the Libyan desert, the mythical oasis town of Zerzura has long enchanted European explorers. In writings dating back to the 13th century, the authors spoke of a city which was \
+He is just chasing fairy tales.
+Fall of Misratah
+The centre of the Turkish community in Tripolitania and the de facto capital of the region since the end of the Weltkrieg, the fall of Misratah proved to be the final nail in the coffin of the Porte's representatives in Libya. The expulsion of Ottoman forces has however opened serious questions into the future of our state as the three regions of Libya (Tripolitania, Fezzan and Cyrenaica) differ greatly in their views on the future of the nation.\n\nFearful of the demographic and economic gravitas posed by Tripolitania, many in Fezzan are pushing for a federative government model in which they can retain their autonomy whilst in Cyrenaica many go even further. They believe that Cyrenaica and Tripolitania should not be united and that the two entities should remain independent of each other, further affirming the status that was bestowed on the Emirate of Cyrenaica during the Weltkrieg. In Tripolitania the situation is even more complex. Whilst many support a union of the 3 constituent states that make up Libya, they denounce the federal model as they believe it creates a powerless government incapable of solving the many issues that plague Libya. Another large group there aligns more closely with the views held by the Cyrenaicans and fight against the unification of the region in general, believing that only a republican model is fit for Tripolitania which is in sharp contrast with the Cyrenaican theocracy.
+Together we shall make Libya strong!
+Grant Tripolitania independence.
+Grant Tripolitania independence. (Play as Tripolitania)
+Formation of Political Parties
+Whilst Cyrenaica has been mostly spared of the folly that is party politics due to its strict theocratic structure, the region of Tripolitania has been far closer linked to the Ottoman centre and has been especially susceptible to the changes induced by the Young Turk revolution in 1908 and the subsequent democratisation of the state. Liberals, conservatives, socialists and much more have had the time to develop themselves, laying the foundations for a modern Libyan Assembly.\n\nThis landscape has led to the creation of three main power blocs, mostly consisting of ex-Ottoman bureaucrats and powerful urban families. The Nationalist Party, headed by Ahmad Faqih Hasan, has taken many cues from the Kemalist movement and pleads for a unitary Libyan state in which religion is removed from the political scene. They renounce the Senussis as an institution, seeing it as detrimental to the wellbeing of the nation but have little means to contest them. The National Congress, headed by Bashir al-Saadawi is their main opposition and symbolises a fragile union of Berber and Arab interests that is willing to cooperate with the Senussis for the betterment of Libya. They too favour a unitary state but they are willing to let that temporarily slide to ensure the stability of the nation. Lastly there is the Labour Party, headed by Bashir ibn Hamza. They refuse any compromise with the Senussis who they see as a decadent, anti-Libyan institution. Whilst their membership is insignificant compared to the other two blocs, many are fearful of the capital the Internationale has granted the organisation and the influence of French and Italian activists in the Tripolitanian cities.
+The daggers have been drawn...
+Local Authorities Raise Taxes
+Sensing easy profit in the caravan trade, local notables have started demanding larger cuts from the travelling merchants in exchange for passage through their lands and supplies from their oases. Our Zawiya has tried to intervene in the dispute but it is unlikely that the authorities will back down unless compensated through other means.
+Make up their \
+Let it slide.
+Local Mufti Closes Zawiya
+Weary of the ever expanding influence of the Senussi Order and their militant message, local members of the Ulemma have formed an alliance with the authorities to close down the Zawiya and rid their constituency of Senussi influence. Whilst this is a significant setback for our operations in the region, our Order has proven that it can bounce back with great ease once the temporary alliance of Ulemma and army inevitably breaks down.
+We'll be back!
+An Unexpected Encounter
+A caravan from Kufra, after returning home, tells a story of having met a lone Bedouin boy in their travels. The boy appeared out of nowhere, followed by a fox he tamed, and asked the caravan headmaster to draw him a sheep - after some miscommunication, the headmaster draws a box and tells him a sheep is inside, which, surprisingly, the boy says is exactly what he wanted.\n\nAfter that incident, he travels with the caravan for a few days where he explains that he is a prince from a faraway world which he used to maintain by cleaning volcanoes and uprooting baobab saplings, and fell in love with a rose which grew on the planet, and that he wants to return home. A few days later, the boy suddenly vanished from caravan camp, and was found a few hours later dead from a snake bite.
+The end of a thing marks the beginning of a new
+The Second Almásy Expedition
+Failing to find the mythical city of Zerzura, László Almásy has requested and received permission from the Ottoman representatives in Benghazi to explore the Southern Libyan desert and assist them in exploring the possibilities of 'border corrections' in favour of the Porte. Travelling from Wadi Halfa in Sudan to Uweinat then on to El Fasher, the veteran will be accompanied by prince Ferdinand of the House of Liechtenstein.
+Let the Kafir have his fun
+Rise of Pan-Arabism
+Although any sort of real political parties remain completely absent in Cyrenaica, a small group of younger citizens in the urban centres of Derna and Benghazi has proven susceptible to the ideas of the modern Arab thinkers in Egypt. Creating political clubs, reading texts and tuning in to the radio broadcasts from Cairo, these youngsters are expressing their desires for the incorporation of Cyrenaica within a greater Arab state, ideally led from Cairo.\n\nMore disturbingly however, they are questioning the validity of the Sharia within modern society and are taking cues from both the Turks and the Egyptian Wafd concerning the secularisation of the state.
+These youngsters don't know what's good for them!
+Increasing Desert Glass Exports
+A mysterious material, rumoured to possibly have extra-terrestrial origins, desert glass has seen a recent increase in popularity in European upper class society after a revitalisation of the Egyptian archaeological industry. Featuring prominently on many pieces of the Tutankhamun collection, discovered in 1923, many jewellers and other artisans for the richest of the rich have turned their eye to one of the most illusive materials on the planet, only found deep within the Libyan desert.
+Interesting.
+Crossroads of Destiny
+With the swords finally drawn, the two most powerful states in the Middle East have opened hostilities. As various groups and people now see themselves forced to choose between either Egyptian or Ottoman support, many in Cyrenaica are posing the same question. Our army, whilst not as modern or large as the two behemoths, could play a crucial role in the conflict and is a desired commodity for both sides.\n\nOpinion is divided in Cyrenaica though as going against the Caliph would in some ways be a betrayal of the Pan-Islamist ideals held so dear by our Order. On the other hand, many have seen in the steadily decreasing role of the Caliphate in Ottoman politics an irreversible trend towards secularisation and Turkish supremacy which poses a direct threat to our fledgling Emirate.
+The Ottoman Empire has exceeded its expiration date!
+We will stand by the Caliph!
+This war does not interest us.
+Cyrenaica Remains Neutral
+With war in the Levant raging on all sides, our high command had hoped to utilise the Senussi Order in Cyrenaica to flank the Egyptians and put a quick end to the war. These hopes were dashed today however as [LBA.GetLeader] has refused to extend any assistance to the crown, calling it a conflict between Egypt and Turkey that does not include them.
+If they are not with us, then they are against us!
+A most unfortunate situation.
+Death of al-Mukhtar
+Prominent commander of the Senussi forces and respected by all, his death comes as a heavy blow to the people of Cyrenaica and the ceremony in Ajdabiya attracted a crowd of thousands wishing to wave their hero a final goodbye. Prince Osman Fuad, leader of the Turkish forces in Libya during the Weltkrieg, was quick to send a letter to our government praising his friend and compatriot whilst in Kostantiniye the Chamber of Deputies showered his valiant deeds during the war with the highest praise.\n\nWith the death of this most ardent pan-Islamist and Libyan nationalist, a new era of instability begins for Cyrenaica as whilst he appointed a successor, many question whether he will be able to steer Cyrenaica towards the future without the prestige and gravitas of al-Mukhtar.
+All of Cyrenaica salutes its hero!
+Collapse of the French Colonial Empire
+Disaster has struck the French reactionary state after being defeated in Africa against us and other allied forces. Although the French colonial army was able to put up a decent fight, the government saw no choice to withdraw from the African continent after its European centres of Oran, Algiers, Constantine and Tunis fell to enemy forces.\n\nThis day which has already been marked as one of the darkest in French history seems to have definitively marked the end of French colonialism in northwest Africa, and hopefully forever.
+The imperialists are finally gone!
+Peace with the Senussi Order?
+Our military campaign in Tripolitania has been a far messier endeavour than originally thought. We have been unable to take back [450.GetName] after it was captured by the Senussi order, and all of Tripolitania has now fallen under rebel control. As we no longer have access to a port in the region, any further military endeavour would prove extremely challengine. Perhaps it would be best to accept the loss of Tripolitania, and avoid any further embarrassment.
+Let's end the suffering.
+Not so fast!
+Expanded Zawiya Network
+The vast Zawiya network of lodges has long proven to be a great asset. Now our friends in [From.GetNameDef] have expanded the network giving us access to even more resources. This will surely help us in the struggle against imperialism!
+Useful indeed.
+General Revolt in Fezzan
+With war between the Senussi and the Ottoman state in full swing, various tribes in Fezzan have joined forces with Jaghbub. Whilst their numbers are small, the entire province has become uncontrollable by their actions and after the garrison at Murzaq was defeated, Tripoli has decided to withdraw all forces to Tripolitania.
+This is only a small setback!
+Civil War in the Jabal
+As various tribes throughout Tripolitania sense an opportunity to rid themselves of Ottoman meddling, a civil war has broken out between those still supportive of our regime and those aligned with the Senussi cause.\n\nWith only the garrisons in Misrata and Tripoli fully reliable, it seems that we have lost control over almost the entire regency.
+We'll be back!
+Fall of Benghazi
+As fighting broke out on the streets of Benghazi between pro-Ottoman and anti-Ottoman forces, the Ottoman garrison was forced to surrender to the advancing Senussi army. A fire of which the origin is currently unknown is furthermore laying waste to the Eastern side of the city and has caused many of the residents to flee towards the coastline where vessels of the Ottoman navy have been repurposed to aid those still trapped inside.\n\nWith the loss of Benghazi, Ottoman rule in Cyrenaica is now completely over. Many of the European and Turkish minorities in the city are fearful of possible Senussi retaliation and have decided to flee the city.
+A dreadful event.
+Senussi Loyalists Restore the Emirate
+Although the garrisons in Libya tried their best to curb the power of the Senussi order, they were never able to completely crush the movement which fled deeper and deeper into the desert without ever fully surrendering. With Egyptian troops crossing the Sinai and many amongst the Arab soldiers of the Ottoman army questioning their own loyalty, various notables, tribes and military figures in Cyrenaica have restored Idris I to the throne. Whether their revolt will be successful or just another nuisance will be for the future to decide but it most definitely poses a significant threat to our holdings in Tripolitania.
+To arms!
+Tripolitania Pursues Closer Ties
+Unlike our other provinces in Mashriq and Egypt, the people of Tripolitania never shared the same hatred for the late Ottoman government. Their distance to the capital and the loose policy of the Porte in the region led to a large degree of autonomy, although the formation of nationalist thought never really took off. Divided amongst sectarian and tribal lines, there is a certain adherence to a Tripolitanian idea but few dared see this out of the Ottoman whole.\n\nWith the collapse of the Ottoman Empire, the former province finds itself in a difficult situation. Lacking the means to embark on state building and without the capital to create a self-sufficient economy, they have approached what remains of the Turkish Empire to embark on a programme of mutual assistance, exchanging cultural ideas and strengthening the economic ties.
+We salute our Tripolitanian brethren.
+Creation of the Turkish-Tripolitanian Economic Union
+Weeks of planning between representatives from the governments in [773.GetCapitalVictoryPointName] and Tripoli have ended in celebration today as the Turkish Grand Vizier came to Tripoli to sign the historic treaty. Linking the fate of the two nations more closely, a customs union has been established with immediate effect. Furthermore investments have been promised by Turkish companies to help rebuild the failing Tripolitanian economy and a direct airline linking the two capitals has seen a ceremonious opening.
+Unity makes Strength!
+Cooperation with the Tripolitanian Free National Bloc
+On the world's stage a complete mystery, the Free National Bloc has been stirring heads in Tripoli lately as its open pro-Internationale rhetoric and admiration for syndicalism has made policy makers throw a glance at an otherwise irrelevant spot on the map. Boasting no industry to speak of, illiterate almost to the last man and offering very little resources its geographical position could nonetheless prove essential in warding off any threat from the Pied Noirs.\n\nTo this end, observers from all across the Internationale have flocked down to Tripoli in the hopes of decisively pulling the nation into our alliance. Despite the boasting of their leader, Faqih Hasan, many in our own nations are doubting whether Tripoli wouldn't prove to be a liability rather than an asset, furthermore pointing out that the \
+We are nonetheless thankful for their praise.
+Tripolitania Applies for the Phalanstère
+Led by the energetic Faqih Hasan, the government in Tripoli has exchanged its flirtations with the Internationale for a direct plea for assistance. Hit severely by the collapse of the Ottoman Empire, the already fledgling economy of Tripolitania has been sent in a downwards spiral with no end in sight.\n\nTo remedy this catastrophe and with no aid forthcoming from either the capital lacking Cairo Pact or the German alliance, they are now calling on the Internationale to support their comrades across the Mediterranean. The lack of genuine socialism in the nation is however causing trouble in the anti-colonial committee as even though Hasan's government strives for many similar programmes like us such as secularism and support of Labour Unions, a radical transformation of society seems unlikely to occur.
+It is our duty to assist the downtrodden!
+What do we have to gain from this again?
+Tripolitania Applies for the Internationale
+Following up their reliance on the Internationale for military and economic assistance, a plan has been devised between the Libyan authorities and our General Staff to open a front against the Pied Noirs in North Africa and as such support the Algerian resistance in their efforts to rid themselves of the reactionary and oppressive regime. Many doubts remain however, mainly centred around the potential of the Tripolitanian army to stand its ground against the armies of Algiers and that through the participation of the Tripoli government in the Weltkrieg and its subsequent defeat we will lose an important partner of the African resistance.
+We stand shoulder to shoulder for the liberation of Africa!
+There is no need for rash decisions
+The Internationale Delays
+Unwilling to discuss the matter of Tripolitanian acceptance into the Internationale, the French government has sent our representatives packing whilst they reconsider their position in the Maghreb.
+This is an outrage!
+Tripolitania Applies for the Cairo Pact
+Unwilling to compromise its diplomatic position until the divide between Cyrenaica and Tripolitania was mended, the Tripoli government has today officially applied for membership in the Cairo Pact. Supporting the Arab cause, the Tripolitanian-Egyptian Unification Party has likely played a non-insignificant role in this change of policy and should be watched closely in the future if we are looking to extend our domains to the West.
+Welcome to the Pact!
+It would be better for us if they remain neutral.
+[FROM.Capital.GetCapitalVictoryPointName] Delays
+Unwilling to discuss the matter of Tripolitanian acceptance into the Cairo Pact, the Egyptian government has sent our representatives packing whilst they reconsider their position in the Maghreb.
+This is an outrage!
+Tripoli Proposes Unification
+Fiercely supportive of the Pan-Arab ideals, the new government in Tripoli has spoken out firmly in favour of a Union between their nation and Egypt which they see as the new capital of Arabia. Whilst many in Egypt are supportive of further expanding the Arab ideals, others question whether the addition of the impoverished, illiterate and unstable province is really a priority right now.
+We accept their offer!
+Let's not do anything too hasty.
+The Future of the Tripolitanian Republic
+With the proclamation of the First Tripolitanian Republic now a fact, the question arises which course we will embark on.\n\nThe Free National Bloc of Faqih Hasan has been causing shockwaves both before and after the Levantine War as his message of a modern, strong Arab state has received wide appeal from the younger generation who has grown disillusioned with the old systems of the Porte and listens filled with revolutionary fervour to the broadcasts of Radio Free Cairo and the Arab Liberation Front in Paris.\n\nNonetheless their revolutionary message and questionable adherence to the faith has left many of the older guard unconvinced. Built on the tribal alliances of yonder, the United National Front promises a strong government with the greatest respect for the Faith whilst also standing unwaveringly in favour of the Arab cause.\n\nThirdly there is the city of Misrata, Tripolitania's largest city, whose unwavering loyalty to former Ottoman commander Ramadan al-Suwayhli poses a significant threat to the democratic notions of the other parties. As his influence over the remnants of the former Ottoman army remains significant and his prestige from the Weltkrieg is unquestioned by all Tripolitanians, many are fearful that he may install himself and his allies \
+The Free National Bloc takes control.
+The United National Front takes control.
+al-Suwayhili takes power.
 Ibrahim ibn Ahmad as-Sharif
 §YBorn:§! §L1903, in Kufra District, Vilayet of Tripolitania, Ottoman Empire§!
 Senussi Regency Council

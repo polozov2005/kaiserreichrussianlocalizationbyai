@@ -434,7 +434,460 @@ As the civil war dragged on, the tides of war turned against the Whites, and whe
 The Status of the Republic of Italy: Recovery and Risorgimento
 Though at considerable cost to national pride, the Austrian connection slowly improved the economic standing of the Republic, which drew strength from the German Mitteleuropa and Austrian investment. As Italy recovered from the civil war's destruction, however, many in the Republic began to rue their government's deal with the Habsburgs, and popular support for the anti-Austrian Associazione Nazionalista Italiana (Italian Nationalist Association) grew in Lombardy and Friuli.\n\nIvanoe Bonomi's centre-left coalition has ruled the country since 1927, but their popularity is mainly due to the economic stability, and should that end other parties such as the staunchly republican Partito Liberale Italiano or conservative Partito Popolare Italiano might gain enough support to form a government. Should matters get completely out of hand and Federation-aligned forces restore order in the north by force, even the old Council of the Italian Federation might take power. One thing all parties have in common is a desire for a free, united Italy, however, and many are sure a second Risorgimento is coming.
 §MLiberal Democrats§! / §MLiberals§! / §MPeople's Party§! / §MDemocratic Reformists§! ($social_liberal_coloured$ / $market_liberal_coloured$ / $social_conservative_coloured$ / $social_democrat_coloured$)\n£white_dot During the 1936 snap election, choose to elect either §lPartito Liberale Democratico§!, §mPartito Liberale Italiano§!, or §cPartito Popolare Italiano§!.\n£white_dot After the election, §nAssociazione Nazionalista Italiana§! will dispute the election and ultimately aim to overthrow the government.\n£white_dot To prevent this either ban the §nANI§!, or keep an eye on them and when they eventually march on Milan choose for their coup to fail.\n£white_dot Afterwards there will be a no confidence vote in the government, surviving the vote will allow democracy to survive and in the 1941 election §SLega Democratica Riformista§! will be able to be elected if desired.\n\n§MNationalists§! ($national_populist_coloured$)\n£white_dot During the 1936 election choose to elect the §nANI§!.\n£white_dot Alternatively, win the elections as any other party without banning the §nANI§! and allow their march on Milan to succeed.\n£white_dot After their rise to power £KR_game_rule_flag_VNC  Venice will soon revolt against the government, win against this revolt to consolidate your power.\n\n§MItalian Federation§! ($authoritarian_democrat_coloured$)\n£white_dot Elect a democratic government during the 1936 election without having the §nANI§! seize power.\n£white_dot During the no confidence vote against the government, have the government lose the vote and fall.\n£white_dot This will allow you to restore the Italian Federation, either under the rule of Pietro Ferdinando I or Marcello I.\n£white_dot Alternatively during the Venetian revolt, switching to £KR_game_rule_flag_VNC  Venice and winning will allow you to restore the federation.\n\n§MThe Republic is Disbanded§! (£KR_game_rule_flag_LOM  / £KR_game_rule_flag_VNC )\n£white_dot Follow the above guide for restoring the Italian Federation, but during the event to restore the Federation instead choose to disband the Republic completely which will dissolve the Republic into an independent £KR_game_rule_flag_LOM  Lombardu and £KR_game_rule_flag_VNC  Venice.\n- If this is done as the Republic you will swap to £KR_game_rule_flag_LOM  Lombardy, otherwise if done as £KR_game_rule_flag_VNC  Venice you will remain as them.\n
+Black Monday Hits the Republic
+The economic crisis that started in Germany has spiralled out of control and has spread to Italy. The Republic of Italy's prosperity has been shattered by Black Monday and the confidence in the government has been shaken.
+May God Protect us!
+Ivanoe Bonomi calls for a General Election
+With Black Monday hitting the Republic of Italy, Prime Minister Ivanoe Bonomi has decided to call for an early general election. Elections will be held in 1936 instead of 1937 as was scheduled. Hopefully, with this election, the Prime Minister will be able to shore up support for his policies to resolve the economic crisis.
+Hopefully...
+Ciano's Speech
+[ITA_GetNatPopLeader] of the Associazione Nazionalista Italiana delivered a speech in the city of Verona today. During the speech, the old admiral blamed the government of the republic for causing the economic crisis. Moreover, he went on to describe Austria's role in keeping Italy divided and weak, and that the syndicalists were only allowed to continue to exist as a foil to the Republic. Ciano promises that it is only the ANI that is able to restore Italy to glory and destroy all her enemies. In spite of his radical and anti-republican views, the Hero of Buccari commands large influence - which makes him particularly dangerous to our young Republic.
+We should keep an eye on him
+The Church Comments on the Crisis
+A number of influential figures within the church have been rallying support for political figures during their sermons. Of particular note are the Archbishops of Milan and Venice, who have urged parishioners to follow traditional Catholic values during this crisis, a none too subtle nod of support for the conservative Popolare Italiano party. However some bishops, though not as influential as those in Milan and Venice, have instead urged support for Catholic Social Teaching and the ruling Liberal Democratic party. In both cases, people are listening to the advice of the church.
+Let us hope the Church is right
+Matteotti Supports Bonomi
+Giacomo Matteotti, leader of the Lega Democratica Riformista, the Social Democratic party in coalition with Ivanoe Bonomi, has given a speech in Milan supporting the prime minister. This has given valuable support to the besieged ruling party.
+Thank you, Matteotti
+Protests Against Farm Auctions
+The current economic crisis has caused a lot of farmers to default on their loans and mortgages, and their livestock and property are normally auctioned away to the highest bidder by local authorities. The practice is deeply unpopular among Italian farmers, but its proponents claim that debts must be repaid and that the auctions are a necessary evil in a free market economy. Yesterday, the Italian People's Party proposed a bill that would ban the auctions. What is the government's position on the issue?
+Allow the auctions to continue
+Pass the bill and ban the auctions
+Influence in the Italian Government
+In 1919, we signed an armistice with the Kingdom of Italy, which allowed us to garrison Lombardy and Venetia until a treaty was signed. The Italians were hardly pleased with the subsequent Treaty of Vicenza, and rose up in revolution against their Savoyard monarch. Soon, he and his son abdicated, and there was a power vacuum in Italy, as socialist rebels seemed primed to overrun the entire nation. We offered the desperate Italians the aid of our armies in stopping the socialist advance, in exchange for joining a new Italian Federation, a legitimate government we could deal with. The Savoyards, White republicans, and southern forces agreed to our terms, and our armies pushed the socialists out of Lombardy. We did concede to the republicans that a republican leader would be the interim head of the Federation, though the Federation Council would retain some power behind the scenes. However, when the socialists made moves to attack the southern states of the Federation in 1926, we were embroiled in the Illyrian crisis, and could not promise to attack the socialists in support. Outraged, Sardinia, the Bourbons in Naples, and even the Holy Father himself abandoned our Federation, leaving us with only Milan. Unfortunately, the Federation Council there was allowed to lapse in 1930, and has not been renewed since. Even worse, we recently withdrew our military from their nation due to the Black Monday crisis, leaving them far more independent than they were.\n\nNow the current liberal government under Ivanoe Bonomi has pushed forward the election in a bid for more support in the legislature. However, their victory is not a sure thing, and we have some leeway to influence the election. The three moderate parties that have a real chance at winning are the Liberal Democrats, currently in power, the People's Party, a conservative party who has enjoyed our support in the past, and the Italian Republicans, hostile to monarchy but also vehemently anti-ANI and anti-socialist. We can give our support and backing to one of the pro-Austrian political parties to ensure that the right one takes power in Milan. Some ministers, however, are concerned that overt involvement might result in further support for the far right and anti-Austrian Italian Nationalist Association.
+Support the Liberal Democrats
+Support the People's Party
+Overt influence would merely empower the ANI
+Austria Supports the Liberal Democrats
+The Austrians have given support to the ruling Liberal Democrats in an attempt to help them win the election. While this has indeed had the intended effect, and encouraged more support for the ruling Liberal Democrats, it has also drawn far more attention to the far right and Anti-Austrian ANI party.
+Hopefully this helps us stay in power
+Austria Supports the Partito Popolare Italiano
+The Austrians have given support to the Partito Popolare Italiano in an attempt to help them win the election. While this has indeed the intended effect, and encouraged more support for the Popolares, it has also drawn far more attention to the far right and Anti-Austrian ANI party.
+Even our allies want regime change, it would seem
+The General Election
+Today, the Italian people choose a new parliament. The election is tightly fought and very likely will decide the course of Italy for the near future, with four predicted outcomes. Firstly, the liberal democratic coalition under Prime Minister Bonomi can continue, or a liberal coalition led by the anti-autocratic and centre-left Liberale Italiano party could ride to victory. Alternately, the conservative coalition led by the Popolare Italiano could be victorious, but few can afford to forget the surprisingly popular Associazione Nazionalista Italiana. Who do the Italian people choose?
+Partito Liberale Democratico
+Partito Liberale Italiano
+Partito Popolare Italiano
+Associazione Nazionalista Italiana
+Partito Liberale Democratico Leadership Conference
+Today the Leadership Conference of the Partito Liberale Democratico begins. While Prime Minister Ivanoe Bonomi holds the vast majority of the party's confidence, some are wondering if he should step down and let Feruccio Parri lead the party. How shall the party vote?
+Today the Leadership Conference of the Partito Liberale Democratico begins. While party leader Ivanoe Bonomi holds the vast majority of the party's confidence, some are wondering if he should step down and let Feruccio Parri lead the party. How shall the party vote?
+Ivanoe Bonomi!
+Feruccio Parri!
+Partito Liberale Italiano Leadership Conference
+Today the Leadership Conference of the Partito Liberale Italiano begins. While Prime Minister Luigi Einaudi holds the vast majority of the party's confidence, some are wondering if he should step down and let Marcello Soleri lead the party. How shall the party vote?
+Today the Leadership Conference of the Partito Liberale Italiano begins. While Party leader Luigi Einaudi holds the vast majority of the party's confidence, some are wondering if he should step down and let Marcello Soleri lead the party. How shall the party vote?
+Luigi Einaudi!
+Marcello Soleri!
+The [GetYear] Elections
+The [GetYear] Elections are now upon us. Will President [From.GetLeader] remain as the head of the Italian Republic or shall a new party win the election?
+Partito Liberale Democratico
+Partito Liberale Italiano
+Partito Popolare Italiano
+Lega Democratica Riformista
+The ANI Holds a Rally
+Though our Federation government has gained a great deal of popular support, the ANI have continued to encourage illegal violence and political action against our government. Now, they have re-appeared in Udine, where [ITA_GetNatPopLeader] has called yet again for our removal from 'his great nation.' The local police were unwilling to arrest the man, and now some in our government are calling for military intervention.
+Send the military in
+His support will fade in time
+The Social Democrats Refuse to Participate
+Speaking in Venice, Giacomo Matteotti and other leaders of the Lega Democratica Riformista party have denounced the cowardly liberal parties for agreeing to the deal that restored the Federation, and have declared that they will boycott the elections as a 'farce' and a 'blight against democracy'.
+Traitors!
+Dealing with the Syndicalist Economy
+Now that we have taken control of the territory of the Socialist Republic of Italy the question of what to do with the Syndicalist factories and farms has been brought forth to the Parliament. Those on the left believe in largely leaving the collective farms and factories alone, and letting new companies be private enterprises. This notion has already been denounced by right-wing members of parliament as 'siding with syndicalism', and suggest they should be de-collectivised and privatised. Those in the centre believe that the economy should be de-syndicalised, but slowly, as to not arouse the anger of the syndicalists.
+Leave them alone
+Slowly de-syndicalise the economy
+Immediately de-syndicalise the economy
+Intervention in Italy?
+It has become increasingly clear that the ANI cannot control the situation in Italy - though neither can the Venetian revolt get the upper hand. If we were to consider intervening, now would be the time to do it - though with an eye towards restoring the power of the Italian Federation under a Habsburg Head, and not towards restoring the failed Italian Republic. Of course, it would require Venetian agreement, but surely they would not refuse our help?
+Offer help to the Venetians
+They are on their own
+Help from the Austrians?
+[AUS.GetNameDefCap] has offered to help in our battle against [ITA.GetNameDef]. If they intervene, and succeed, it will mean submitting to Austrian influence once the war is over - they will want to dispense with the Italian Republic, and instead restore the power of the Italian Federation of old... no doubt under the domination of a Habsburg ruler, such the Grand Duke of Tuscany. However, we have been assured that our autonomy will be restored to what it was before the election
+It doesn't matter - we need the help
+No, we can handle this on our own
+The Venetians Refuse
+Apparently too wary of our future interference, the Venetians have refused our help and are determined to fight the civil war on their own. We are forced to watch the situation unfold from the sidelines.
+So be it!
+The Time Has Come
+It is clear that [ITA.GetNameDef] has lost control of the situation in their country, unable to gain the upper hand against the Venetian rebels. This has brought [AUS.GetNameDef] into the war on the side of the Venetians, and it prompts a question for our government as well: should we make a move to attack? It will mean a race against the Austrians to be the first to capture Milan, and runs the risk of direct contact with Austrian units on the battlefield... a situation which could escalate, if we are not careful.
+It is clear that [ITA.GetNameDef] has lost control of the situation in their country, unable to gain the upper hand against the Venetian rebels. Perhaps good news for us is that the Austrians have refused to intervene, something which possibly leaves an opening for us to attack. Should we make a move while our enemies are weak?
+It is clear that [ITA.GetNameDef] has lost control of the situation in their country, unable to gain the upper hand against the Venetian rebels. Even better news is that the Whites have no Austria to protect them this time. They are fighting amongst themselves and vulnerable. Is now the time to strike?
+Now is our chance
+We can't risk it
+The Socialist Republic Attacks
+[SRI.GetNameDefCap] has reacted to our intervention in the Italian war by launching an assault on [ITA.GetNameDef]. It will mean a race to see who is the first to capture Milan! Let us hope this does not spiral out of control.
+[SRI.GetNameDefCap] has reacted to our decision to not intervene on behalf of the Venetian rebels by launching an assault on [ITA.GetNameDef]. Perhaps we will grow to regret our decision, though the possibility of meeting the socialists on the battlefield is not something we would relish.
+We'll be keeping a close eye on this...
+[From.GetNameDefCap] Refuses Peace
+Our attempts to sue for peace with [From.GetNameDef] have been rebuffed. They intend to fight with us until the very end.
+So be it!
+The Occupation of [759.GetName]
+With the annexation of [ITA.GetNameDef] by [SRI.GetNameDef], the state of [759.GetName] has been left cut off - and the locals have cried out to [Root.GetNameDef] to step in and save them from socialist control.
+A good idea
+The Occupation of [759.GetName]
+With the annexation of [ITA.GetNameDef] by [SRI.GetNameDef], the state of [759.GetName] has been left cut off from our forces - and the locals there have apparently appealed to [From.GetNameDef] to step in and save them from our control. There is literally nothing we can do, at present.
+We will deal with them in time
+Venetian Victory!
+We have control over the whole of Lombardia, and the ANI resistance has been all but crushed. Now we must decide what comes next for the country. Support is high for the restoration of the old Italian Federation in full - member states with broad powers of autonomy, with all but Venice itself returned to rule by the monarchy, all governed by the Federal Council. Who heads that council will have considerable power, and the main candidates are the Habsburg Grand Duke of Tuscany, Count Visconti of Milan, and Venice's own leader of the revolt, Giuseppe Volpi. Even so, there are others who say that Venice should remain independent, and has no reason to join a federation at all.
+We have control over the whole of Lombardia, and the ANI resistance has been all but crushed. Now the time has come to live up to our agreement with the Austrians - a restoration of the old Italian Federation in full. Its member states will have broad powers of autonomy, with all but Venice itself returned to rule by the monarchy, all governed by the Federal Council. Some say we should remain independent, but truly we should thank the Austrians for once again stepping in and defending us. If not for them, likely we would not have achieved victory at all.
+Restore the Federation under the Grand Duke of Tuscany.
+Restore the Federation under Count Visconti.
+Restore the Federation under Giuseppe Volpi.
+We shall remain independent as [Root.GetName].
+We shall remain independent as [Root.GetName]. (Play as Lombardy)
+The Italian Federation Restored
+The old Italian Federation has been restored, casting aside the republic in favour of autonomous states ruled by the aristocracy and headed by the Federal Council... with the Habsburg Grand Duke Pietro of Tuscany sitting at its head. The Grand Duke has reached out to us, welcoming friendly relations between the Federation and [Root.GetNameDef]. It is truly the best outcome we could have hoped for.
+The old Italian Federation has been restored, casting aside the republic in favour of autonomous states ruled by the aristocracy and headed by the Federal Council... though they have elected to put Count Visconti of Milan at its head rather than the Habsburg Grand Duke. Even so, it is perhaps a good sign that the Count has reached out to [Root.GetNameDef] and suggested that our countries continue their good relations.
+The old Italian Federation has been restored, casting aside the republic in favour of autonomous states ruled by the aristocracy and headed by the Federal Council... though they have elected to put the president of Venice, Giuseppe Volpi, at its head rather than the Habsburg Grand Duke. Even so, it is perhaps a good sign that Volpi has reached out to [Root.GetNameDef] and suggested that our countries continue their good relations.
+We welcome them into our alliance
+We will restore our guarantee of their independence, for now
+We look forward to future cooperation
+Lombardia Has Fallen
+Despite Austria's intervention, it was not enough to prevent Lombardia from being overrun by [SRI.GetNameDef]. Now [Root.GetNameDef] is on its own, with even less ability to protect itself against the socialist hordes than before.
+It appears our civil war provided [SRI.GetNameDef] exactly the weakness they were looking for. They have overtaken Lombardia, and now we are on our own with even less ability to protect ourselves against the socialist hordes than before.
+Turn to the Austrians for protection
+We will figure it out on our own
+Venice Asks For Protection
+Our intervention was not enough to prevent Lombardia from being overrun by [SRI.GetNameDef]. Now [Root.GetNameDef] is on its own, with even less ability to protect itself against the socialist hordes than before. They have asked for our protection... though offering it might bring us into war against the Third Internationale.
+It appears the civil war in Italy provided [SRI.GetNameDef] exactly the weakness they were looking for. They have overtaken Lombardia, and now [VNC.GetNameDef] has been left defenceless. They have asked for our protection... though offering it might bring us into war against the Third Internationale.
+Of course we will protect them however we can
+They are on their own
+Austria Offers Protection
+Thankfully, the Austrians have seen our value and have offered their protection. If the socialists come after us, they will be in for a bigger fight than they bargained.
+What a relief
+Austria Refuses Protection
+Austria has refused to offer us protection, at least for the time being. We are on our own.
+So be it.
+The Battle for the Lira
+The first of Four Economic 'battles' designed to fix the economy, the battle for the Lira will stabilise the currency of the State. As all battles are, it may be a struggle, but by stabilising the currency of the Republic we will be able to fulfil our Italian destiny.
+Viva l'Italia!
+The Battle for the Land
+The Second Economic Battle, the Battle for the Land, will bring a transformation to the land itself. Swamps and marshes shall be drained, farmland will be irrigated, and the people will be encouraged to move to the countryside in order to help our agriculture thrive.
+Viva l'Italia!
+The Battle for the Grain
+Following the success of the Battle for the Land comes the Battle for the Grain. The new farmlands will be made to support the growing population of Italy and her armies. An army marches on its stomach after all and the Italian army will be marching to war.
+Viva l'Italia!
+The Battle for the Births
+The final of the economic battles is the Battle of the Births. This is a programme designed to help couples have more children. The policies include paid maternal and paternal leave for families and tax benefits and loans for having children, while at the same time the government will only hire men and women who are married. Through such a policy the future generations of Italy shall be created and secured.
+Viva l'Italia!
+The Unitary State
+The laws have been passed swiftly in the capital, rescinding the rights and autonomies enjoyed by Lombardy and Venetia - or, indeed, any state that is part of the republic. The ANI party line is that this is 'for the good of the country', an explanation which also applies to the suspension of future elections. Italy cannot afford to weaken itself to greed and outside loyalties, not now and perhaps not ever. This news has not gone over well in Venetia, however, where the state legislators have expressed fury as what they see as a power grab by the central government. Already people are taking to the streets, and we may expect more formal action to be taken in the days to come.
+Let's hope this amounts to nothing
+Riots in Venice
+Opposition to the unitary state has grown throughout Italy, with much of it concentrated in the city of Venice. There, Partito Repubblicano Veneto leader Giuseppe Volpi has given fiery speeches denouncing the ANI and calling on 'loyal Venetians' to rise up and fight against its tyranny. Riots have broken out throughout the city, with violence concentrated against central government offices and troops. Officials fear it is just a matter of days before the state legislature takes a vote on whether or not to withdraw from the republic.
+As if we would allow such a thing!
+The Venetian Revolt
+As predicted, the vote in Venice - with the controlling Partito Repubblicano Veneto voting unanimously in favour - has led to the declaration of their opposition to the unitary state. Until, and if, state rights are restored they will see the Republic of Venice separated from [ITA.GetNameDef]. Last-minute talks are being held, but at the moment all government troops are being ordered out of Venetia, and militia forces are quickly being assembled - most likely with aid and assistance by the Austrians.
+This cannot be allowed to stand
+Fight for La Serenissima! (Play as Venice)
+The Venetian Revolt
+It appears the experiment of the Italian Republic is truly over. With the ANI having won the Italian elections, they have attempted to turn the nation into a unitary state, stripping the composite states of their rights - and now Venetia has rebelled against them. Venetia has called for our help, though we must wait at least a few months before we can directly intervene without it appearing like we are interested only in conquest. If we do intervene, many within the Austrian government are suggesting that our only interest would be in restoring the old Italian Federation, this time under a Habsburg ruler. Indeed, the Italians are so fed up with this failure of democracy, they might welcome such an option with open arms.
+We will need to watch this carefully
+The Verona Trials
+Today in the city of Verona the trial for the leaders of the Socialist Republic of Italy is has begun. Unsurprisingly Mussolini and his lot are found guilty of betraying Italy and sentenced to death. This turns out to be the fate for the rest of the leadership of the false republic. Syndicalism is now dead.
+Death to Mussolini and his traitors!
+Let Carina Massone Negrone Fly?
+With the republic now at war, Carina Massone Negrone has asked to fly for the Republic's Air Force. It is highly unusual that a lady would make such a request, and a number of ministers believe that she should be refused. However, as a personal friend, the great statesman [ITA_GetNatPopLeader] believes that a compromise could be reached where she can lead a force of female aviators to fly non-combat missions. This would allow more men to actually fly.
+Let her fly!
+She should stay at home.
+Let her set up a school.
+The Order of the Roman Eagle
+The order of the Roman Eagle has been created to reward people who brought merit to Italy. It is considered the highest reward that any person can receive in service of the country. This new order will help inspire people to do their all for Italy.
+Let us honour these men.
+The Corporatist State
+By decree of Il Duce himself, the National Council of Corporations has been created. The council is to be organised along corporatist lines with ten different sectors, with ministers representing the various sectors of the economy. In the official decree it was described as - 'the National Council of Corporations is to the Italian economy what the Staff is in the Armed Forces - the thinking brain which prepares and coordinates.'
+Avanti Italia!
+Opera Nazionale Balilla
+The Opera Nazionale Balilla was recently created by order from Il Duce. Taking its name from the nickname of the Italian boy which started a revolt against Hapsburg forces during the war of Austrian succession. The organisation is similar to a scouting group for children. The organisation has two similar structures one for boys and the other for girls with both being divided into three groups for different age brackets. The organisation is to help prepare the future youth to the roles that they will have within society as well as make sure that they are loyal Italians.
+Book and rifle, perfect Italian.
+Opera Nazionale Dopolavoro
+The Opera Nazionale Dopolavoro (National Recreational Club) has been created by decree from Il Duce. The OND supports a number of recreational activities for the people to help boost tourism, as well as help ensure the loyalty of citizens to the Italian State. Italian culture from Opera, plays, and music to book clubs and vacations through the countryside are sponsored by the OND. It has quickly proven to be highly popular throughout the Republic.
+Avanti Italia!
+Creation of OVRA
+In order to protect the Republic and all Italians from all threats, the Organizzazione per la Vigilanza e la Repressione dell'Antinazionalismo (Organisation for Vigilance and Repression of Anti-Nationalism) or, OVRA for short, has been created. The OVRA will function as the secret police for the republic and make sure that all those within the republic that dare betray the Italian State will be severely punished.
+Everything within the state, nothing outside the state, nothing against the state.
+The ANI and the House of Savoy
+Since its origins, the ANI has been a monarchist movement, coming from the liberal institutions of the Kingdom. With its few republican members following d'Annunzio and later on betraying anti-Socialism in the name of anti-Austrianism, the ANI under the old admiral Ciano made its monarchism a point of pride.\n\nHowever, being now empowered in Milan, we are in an awkward position; the royalist government in Cagliari refuses to recognise us, and many civil servants who have sworn their loyalty to the Republic have some reservations with our hails to the King. We remain in a limbo, an effectively republican government with clear monarchist sympathies; the question now is whether we continue hailing a King who might not sit on our throne in the foreseeable future.
+Tone down the monarchist slogans.
+We remain true to our convictions!
+Blueshirt Brigades
+The Blueshirts, founded during the Civil War, are formally the Sempre Pronti per la Patria e per il Re (Always Ready for King and Fatherland) or SP for short, but are most often called by their informal name due to their distinctive blue shirts. The Blueshirts are organised in a military fashion modelled on the Arditi soldiers, which also extends to the Uniforms. While they have been muscle for the ANI for some time, now that we are at war, they have stepped up to defend the nation from all enemies.
+Death to the enemies of Italy!
+Empower the Federation in Italy?
+The Italian Republic is a threat, whether they admit it or not. Though they may claim to be part of the Federation, they could easily betray us after taking Torino, thinking themselves powerful enough. We must request that they reorganise their government to be more like the Federation they ostensibly are.
+With the godless syndicalists in the Socialist Republic of Italy now destroyed, the question of what to do about the Republic of Italy has arisen. The threat of the Socialist Republic of Italy has always kept the alliance in check and the Republic acted as a bulwark against the tide of Syndicalism. Now that threat is gone, and the question is whether should we send an ultimatum to demand that the Republic reform into a Federation, something that will be more acceptable to Vienna. Alternately, we could always drop the matter.
+Send the Ultimatum
+Drop the Matter
+The Austrian Ultimatum
+The Austrians have renewed active foreign policy, and as part of this new drive has demanded that we reform our government to be more like the Italian Federation we claim to be. With [SRI.GetNameDef] watching us hungrily, we can hardly afford to squabble with our protector.
+The Austrians have sent us an ultimatum. With [SRI.GetNameDef] no longer around, we are no longer a necessary bulwark against syndicalism, and so they seek to make us empower the long behind the scenes Federation Council. We can, of course, accept and crown Peter Ferdinand as Head of the Italian Federation, or we can say no and risk war.
+We accept
+We refuse!
+The Italians Accept
+The Italians have accepted our ultimatum and Peter Ferdinand will soon be crowned Pietro Ferdinando of Tuscany and Head of the Italian Federation.
+God save Italia!
+The Italians Refuse
+The Italians have rejected our ultimatum. Should we show them what a foolish mistake they made, or drop the matter?
+War it shall be!
+Drop the matter
+Death of Costanzo Ciano
+News reach us that admiral Costanzo Ciano has died suddenly last night. The old Admiral had been hailed a hero due to his actions in Buccari during the Great War; a nationalist and a monarchist, he refused to follow Badoglio in Cagliari and instead remained \
+Admiral Costanzo Ciano, the Hero of Buccari, the new Duce of the Italian Nation, died suddenly during an official state dinner. While already in advanced age, the Admiral had not shown signs of disease prior, and his unexpected death caused great outpourings of grief from the proletarian masses of the country. A monarchist and a nationalist who did not compromise the nation's safety for political convenience, Ciano had refused to follow the cowardly Badoglio in Cagliari and instead remained \
+A fine patriot, ruined by his terrible politics.
+Let us mourn one of Italy's great heroes.
+Restore the Monarchy?
+With Italy unified, only one thing remains to be done before we can claim to have fulfilled the will of the Nation and brought it back from the brink of destruction; that is, the restoration of the Monarchy.\n\nOf course, despite our monarchist allegiances things are not so simple. For several years the State has gone on without the King at the helm; and the King in Sardinia made no overtures to our regime. However, now that Sardinia is no more we can restore the rightful King to the throne - that is Prince Umberto, who was illegally deprived of his titles in 1919. Still, in our years of rule many have cozied up with the idea of informal republicanism, and some even question the need to put any kind of roadblocks to the absolute power of the Italian Nationalist Association - which the Monarchy would eventually end up being.
+We shall reinstate the rightful King.
+We have grown beyond them.
+The Anni di Piombo
+A number of Blueshirts of the Associazione Nazionalista Italiana, led by their leader Alessandro Sardi, have denounced the government and proclaimed war against [ITA.GetNameDef] and her \
+They shall pay.
+Assassination Attempt Foiled
+Today an attempt on life of the head of the Federation, Grand Duke Pietro Ferdinando, was foiled by the brave men of the Carabinieri. The news has shaken the government and the people have already declared their wish for the ANI to be found. However, a spokesman for the ANI has declared that next time they will not fail at ridding the world of the 'Austrian lapdog'.
+Today an attempt on life of the head of the Federation, Count Marcello Visconti, was foiled by the brave men of the Carabinieri. The news has shaken the government and the people have already declared their wish for the ANI to be found. However, a spokesman for the ANI has declared that next time they will not fail at ridding the world of the 'false king'.
+Today an attempt on life of the head of the Federation, Giuseppe Volpi, was foiled by the brave men of the Carabinieri. The news has shaken the government and the people have already declared their wish for the ANI to be found. However, a spokesman for the ANI has declared that next time they will not fail at ridding the world of the 'Venetian poof'.
+Thank God!
+Minister assassinated
+Today a member of parliament, known for his outspoken royal views, was assassinated by one of the ANI as he was giving a speech in Padua. While the Assassin was caught, the leaders of the ANI still remain at large.
+Damn ANI.
+The ANI Strike
+Today the Blueshirts of the ANI managed to capture the city of Brescia. The fall of Brescia to these terrorists represents the greatest victory for the ANI in their war against the regime so far. The people of Brescia have welcomed them as liberators, flying a flag of Italy with its centre coat of arms cut out. Blueshirts patrol the streets of the city and violence against anyone suspected of being a monarchist has already begun.
+We must reclaim Brescia!
+Liberation of Brescia
+We finally were able to liberate the city of Brescia from the ANI scum. The battle was bloody and fighting was block by bloody block but we were able to drive them out of the city. Though the ANI were welcomed at first as liberators, the terror the Blueshirts inflicted in their purge of monarchists soured their opinions. Today the Army is being welcomed as the real liberators of the city.
+They're on the run.
+Ringleaders caught
+Earlier today, several of the ringleaders behind the ANI organisation were apprehended by Carabinieri investigators. This is a serious blow to the nationalistic terrorists, and brings the country one step closer to eliminating them for good.
+It's only a matter of time.
+The Anni di Piombo is over
+Today, we have declared victory against the ANI terrorists. They are finally destroyed. No more will these far-right nationalists trouble our country.
+Finally they are destroyed.
+Creation of the Mille Miglia
+With Italy once again reunited a number of automotive companies and auto-enthusiasts have come up with what they believe will be the premier racing competition in Italy - The Mille Miglia. The Mille Miglia or 'Thousand Miles' starts in Brescia and goes all the way down to Rome before returning via a different route to Brescia.
+See them go!
+The Palazzo Mezzanotte
+In Milan, the Palazzo Mezzanotte was unveiled today. The Palazzo Mezzanotte is to be the replacement for the old Stock Exchange of the Republic, designed with a tasteful mixture of neoclassical and modern architecture. With Black Monday now dissipating, the Palazzo Mezzanotte is already being considered the principal stock exchange in Italy.
+Money is good.
+Legnano
+Today, the Historical Epic film 'Legnano' was released across the republic to widespread acclaim. The film tells the story of the Holy Roman Emperor Barbarossa and his attempt to control Italy, leading to the creation of the Lombard League and the Battle of Legnano. It was directed by Romolo Marcellini, and stars Fosco Giachetti, Luisa Ferida, and Osvaldo Valenti and funded by the ANI. Due to obvious parallels with the Austrian Empire, it has drawn criticism from the Austrians, despite that the Italian public seems to enjoy the film.
+Today we expel the Black Eagle from Lombardy!
+1936 Cansiglio Earthquake
+In the early hours before dawn, the regions of Northeastern Italy on the Cansiglio were shaken by a terrific earthquake. Tragically 19 people were killed and countless more injured. Many of the smaller towns in the region were destroyed or damaged.
+May God save them.
+Anniversary of the Golden Ambrosian Republic
+500 years ago in Milan, the citizens of the city chased out the Visconti and set up a Republic in the city. Though the city would be betrayed and become a monarchy again, the ideas of the Republic still resonate with the people in and around Milan. Within Milan, there is a big celebration and a week-long festival celebrating the 500th anniversary of their attempt at a republic.
+Long live the Republic!
+Milan Fashion Week
+With the economy strong, a number of fashion designers in Milan have decided to set up a week-long event in the Spring so that Milan, and with her Italy, can become the fashion capital of the world. Already a number of the various fashion companies are working to make sure that Milan takes pride of place among the cultural and fashion capitals of the world.
+Milan shall be the fashion capital of the world!
+Carina Massone Negrone Sets a New Record
+The famed Italian aviator Carina Massone Negrone has set a new record for aviation by flying up to 12,043 metres (39,402 feet) in her biplane and breaking a new record. A personal friend of [ITA_GetNatPopLeader] himself, her new record has made her popular within the republic, especially in nationalist circles.
+A new record for Italy.
+Gabriella Angelini's Solo Flight
+Gabriella 'Gaby' Angelini has just completed her solo trip from Delhi. Already famous for visiting eight different countries, the young Aviator has become one of the most popular figures within Italy. At 25 years old she has captivated the people within the republic and even from outside of the republic. The Corriere della Sera was quoted as writing, 'This young Italian girl showed how females can be daring and not lose any of their truly exquisite femininity'.
+Three cheers for Gaby Angelini!
+The War Against Italy
+We are losing badly in the war against [ITA.GetNameDef]. While it's possible we might still be able to turn things around, we do have another option: offer them our lands in southern Tyrol and the Littoral, and hope they will take that offer and leave us be. If they do not... it is entirely possible they might reach all the way to Vienna, and then our empire is lost to us for good.
+Let's end this while we can.
+Surrender to the Italians? Never!
+Austria Proposes Peace
+The Austrians are on the run, and have clearly realised they stand no chance against our forces. They have offered to turn over all our claimed territory, though there are some in the [ROOT.GetAdjective] leadership who are suggesting that now might be the time to defeat them utterly and force their subjugation. That option does not enjoy popular support, though it does hold some appeal.
+The Austrians are on the run, and have clearly realised they stand no chance against our forces. The question before us now is how far we push our demands. Push too far, or refuse to make peace at all, and [GER.GetNameDef] might decide to intervene on behalf of their old ally. Defy them, and we could end up at war with the entire Reichspakt. That is, of course, if the Germans agree to intervene at all.
+The Austrians are on the run, and have clearly realised they stand no chance against our forces. Forced to attend peace talks, we are the ones who find ourselves in a conundrum. Austria is unwilling to give up anything they hold, and should we push our claims or refuse to make peace they have threatened to turn to [GER.GetNameDef] for support. Defy them, and we could end up at war with the entire Reichspakt. That is, of course, if the Germans agree to intervene at all.
 §Y[AUS.GetNameDefCap]§! will call on §Y[GER.GetNameDef]§! to intervene in the peace talks\n
+We will keep our land claims limited
+No, we will push for all our claims!
+Let us end this now
+We intend to wipe out the Austrians completely
+Venetia is Lost
+The war against [ITA.GetNameDef] has definitely not gone as planned. We were unable to prevent them from overtaking Venetia, and now we must make the decision whether to continue the war or pull out completely and leave Italy to its own fate. Any peace could be temporary, of course - it's not impossible that the Italians could turn around and attack us again, but perhaps the breather would be worth it?
+We must pull out at once
+Surrender to the Italians? Never!
+Austria Withdraws from Venice
+We have taken control over Venetia, despite the Austrian intervention, and now they are busy pulling their troops out as quickly as they can. So much for their lordship over Italy.
+We will come for them later.
+Venice Has Fallen
+Venice has fallen to the forces of [SRI.GetNameDef], and now they threaten [Root.GetNameDef] itself. Should we call an end to this war, while we still can?
+Austria in Trouble
+[From.GetNameDefCap] has pushed far into Austria, and apparently intends to conquer the entire thing instead of sticking to its claims. It is clearly dangerous.
+We should help Austria!
+There is nothing we can do
+The German Intervention
+It seems that [From.GetNameDef] has become alarmed by our aggressive invasion of [AUS.GetNameDef]. Fearing our intention is to conquer it outright, the Germans have come to the aid of their former Weltkrieg allies.
+Damn it!
+The Italian Demands
+The Italians have demanded every bit of land they have a claim on, owned either by us or our subject states. We do have the option of turning to our old allies in [GER.GetNameDef] and asking for their intervention... that would, at least, force the Italians to keep their demands more limited, even if it would make [Root.GetNameDef] look weak.
+We ARE weak - appeal to the Germans
+Give the Italians whatever they want
+No German Intervention
+It seems the Austrian threat was as much hot air as their military capabilities. There will be no German intervention in the peace talks, and we will get all the land we claim.
+Excellent!
+The Austrians are in Trouble
+Amazingly, it appears as if [AUS.GetNameDef] is incapable of holding [ITA.GetNameDef] at bay. The Italians have forced them into peace talks. The Austrians have approached us, however, saying that the Italians have demanded too much territory, and are asking for our intervention. Doing so makes us look good, but it does mean we risk war should the Italians refuse.
+Of course we will help our old allies
+The Austrians are on their own
+The Germans Have Refused
+It seems our ties with [GER.GetNameDef] do not run as deeply as we thought. They have refused our request, and we are left with no choice but to submit to the full Italian demands.
+Alas!
+The Germans Have Agreed
+The German government has agreed to our request for an intervention! Surely the Italians will back down on their unreasonable demands and make peace now?
+How humiliating for us, even so
+The Germans Have Intervened
+While it is outrageous that they would stick their noses where they're not welcome, the Germans have agreed to aid their old Austrian allies. Their diplomats have informed us that either we restrict ourselves to modest gains only or they will turn the power of the entire Reichspakt upon us.
+Very well, we accept their terms
+Never! Bring on all their armies!
+Withdrawal from the Italian Republic
+Black Monday has hit [AUS.GetNameDef] hard... hard enough that many of our companies have been forced to withdraw from [ITA.GetNameDef]. Not only has our economic hold over the Italians weakened, we also cannot afford to maintain our occupation forces there. For good or ill, [ITA.GetNameDef] is now effectively independent. We will have to maintain a working relationship with them, at least until we can restore our own strength.
+Our sphere of influence retracts.
+The Austrian Withdrawal
+Black Monday has hit [AUS.GetNameDef] hard. Their markets have plunged so low that many Austrian stockholders of Austro-Italian companies have panicked and sold countless bonds to native Italians, weakening the Austrian stranglehold over our economy. Not only have we rid ourselves of foreign economic influence, the Austro-Hungarian Reichskriegsminister has recalled the divisions stationed in our territory, unable to afford the financial burden of keeping us safe from what many in Vienna foolishly believe to be an empty Socialist threat. For good or ill, [ITA.GetNameDef] is now effectively independent of Austrian domination, at least until they regain their full strength. Many Italians are worried about whether or not this will leave us exposed to attack by [SRI.GetNameDef]. A war right now would be a terrible prospect.
+Is this a step towards a free Italy?
+ANI Protests Elections
+Massive demonstrations were held today in Milan as well as other cities throughout [Root.GetNameDef], with ANI leader [ITA_GetNatPopLeader], undoubtedly incited by the radical leadership of the Blueshirts, accusing the government of rigging the elections with Austrian assistance. Austrian influence is felt everywhere throughout the country, Ciano said, and suggested that Italians would never have true independence until they overthrew their oppressors. While Ciano has yet to show any true evidence of rigging, his words still found many eager listeners... and there is a growing concern that his cadre of followers might cause trouble for the government.
+Outlaw the ANI and shut them down.
+Keep a close eye on him - this is still a democracy.
+Blueshirts Wreak Havoc
+In response to the recent government crackdown, [ITA_GetNatPopLeader]'s most ardent supporters within the Associazione Nazionalista Italiana, dubbed 'Blueshirts' by the media, have been spreading chaos throughout the nation. Led by \
+How long will this go on?
+Anti-Government Demonstrations
+As the terror campaign by the Associazione Nazionalista Italiana continues, protests against the government's inept handling of the violence have erupted throughout the country. The largest of these drew well over a hundred thousand in Milan, bringing the nation to a standstill as protestors threatened to start a national strike if the government does not round up the ANI ringleaders soon. Despite the protests, it is clear that the police actions against Ciano's group are having limited effect - indeed, he appears to be gaining as many followers as he loses to the mass arrests.
+We are doing what we can!
+The March on Milan Fails
+With the government crackdown growing more severe in recent days, Consul-General Sardi called on the Blueshirts to march on the parliament building in Milan today - provoking a massive demonstration which turned into a full-on battle in the middle of the city as the police and military took prompt action. With hundreds of casualties, Sardi and his supporters were eventually dispersed. Sardi himself remains at large, however, and despite his failure to enact a coup there are now calls for the government to step down. Opposition parties claim the republic is in chaos and intend to force a vote of confidence in the Italian parliament as soon as possible. On the upside, the whole affair has left the formal leader of the ANI [ITA_GetNatPopLeader] completely politically isolated, as he struggles to retain control of his own party.
+At least Ciano is out of the picture.
+The Vote of Confidence
+Today the vote of confidence will be held in the Italian parliament. At stake is the very survival of the republic - if the government falls, it will be a clear sign that the system is considered dysfunctional, and many are reluctant to turn to yet another chaotic election campaign. Indeed, members of the nobility have been gathering supporters around them and are already suggesting that an empowerment of the monarchical Federation Council might be preferable. The threat of this has pulled other officials to call for votes in support of the government, no matter what.
+The government narrowly survives the vote.
+The government falls.
+Return to the Federation?
+With the government fallen and faith in the republic destroyed, there are two options for how the government can proceed. One is to restore the power of the Federation, where members of the nobility would take up administrative posts on the Federal Council, to be led either by the Habsburg Grand Duke of Tuscany, Pietro Ferdinando, or Count Marcello Visconti of Lombardy. Elections would be restricted throughout parts of the country and democracy as we know it would end. While many favour the stability that route would bring, there are others, among them Venetian nationalists, who suggest disbanding the Federation in its entirety - the states of Venetia and Lombardy would become independent entities, even though such a separation might only prove an opportunity for outside forces to pounce.
+Restore the Federation under the Grand Duke of Tuscany.
+Restore the Federation under Count Visconti.
+Disband the Republic completely. (Play as Lombardy)
+Disband the Republic completely. (Play as Venice)
+ANI Recruiting in the Military
+The popularity of the Associazione Nazionalista Italiana continues to grow unchecked, and now it appears [ITA_GetNatPopLeader] has been campaigning hard amongst the generals of the Republican army. It is unknown whether any have agreed to join his cause, but rancor against the government has been increasing and many officials fear a coup could be in the offing. Taking a stand against the ANI now, however, could provoke the kind of violence which might drive the army towards supporting Ciano even if they weren't already considering it. What shall we do?
+We must act now, no matter the consequences.
+Campaign for our own support and prepare for the worst.
+Massive ANI Demonstrations
+As support for the ANI increases, and violent riots in [ITA.GetNameDef] become commonplace, protests against the government's inept handling of the situation have erupted throughout the country. The largest of these drew well over a hundred thousand in Milan, bringing the nation to a standstill as protestors threatened to start a national strike if the government does not deal with the ANI ringleaders soon. Protestors are suggesting that the government's inaction is tantamount to incompetence.
+We are doing the best we can!
+The March on Milan
+Alessandro Sardi, leader of the Blueshirts, today called for a massive march on the royal palace in Milan, suggesting that a show of force is the only way to force the government to resign and clear the country of Austrian influence and corruption. Though Ciano himself doesn't seem to be directly involved in the plot, suggesting a potential collapse of his authority in his own party, Sardi's calls for a \
+Sardi's coup is successful.
+Sardi and his supporters are dispersed.
+Blueshirt Ringleaders Finally Caught
+After a long manhunt, it appears the leadership of the Blueshirts, including Consul-General Sardi, have been caught and arrested. Most are now awaiting trial, while the country breathes a sigh of relief. [ITA_GetNatPopLeader] has condemned the arrest of the leader of his party's militia; though its independent actions collapsed his authority in the ANI, Ciano has now regained control of a party that is a shadow of its former self. Some call for Ciano's arrest; but the collapse of the ANI as a political force put the government on the track to leniency, if only to avoid reopening this can of worms. Many consider this to be a sign that the worst of [ITA.GetNameDef]'s political struggles are over.
+It's about time!
+[From.GetNameDefCap] Claims [claimed_state.GetName]
+With a resurgence in irredentism since reuniting the country, [From.GetNameDef] has laid claim to the state of [claimed_state.GetName], currently held by [Root.GetNameDef]. [Root.GetAdjective] citizens in the region are understandably alarmed, although native Italians have already started protesting in the streets and demanding that they be reunited with the motherland.
+They dare!
+[From.GetNameDefCap] Abandons the [Root.GetFactionName]
+With a resurgence in irredentism since reuniting the country, [From.GetNameDef] has laid claim to the state of [claimed_state.GetName], currently held by [claimed_state.Owner.GetNameDef]. Since the state is already claimed by a member of the [Root.GetFactionName], the [From.GetAdjective] government has decided that its goals are incompatible with those of the alliance and has elected to withdraw. Whether this means a war with [From.GetNameDef] is in the offing remains to be seen.
+A foolish move
+Anti-Syndicalist Partisans Rise Up
+We've always had suspicions that there was an underground network preparing for the day when we and [ITA.GetNameDef] went to war. Their numbers are not overwhelming, but their appearance behind our lines is unexpected, and they have caused a fair amount of disruption throughout the country.
+It will change nothing
+[From.GetNameDefCap] Claims Libya
+Citing the fact that their Libyan colony was only unjustly wrested from Italy thanks to their loss in the Weltkrieg, the [From.GetAdjective] government today announced that it was now claiming the entirety of Tripolitania as their own. Whether that will mean a demand is forthcoming, or even war, remains to be seen.
+How dare they!
+[From.GetNameDefCap] Demands Libya
+The [From.GetAdjective] government has issued an ultimatum to us: turn over all our territory in Tripolitania at once - which they claim, in its entirety - or they will be forced to invade. Already, [From.GetAdjective] ships are crossing the Mediterranean and making their intentions rather obvious.
+The [From.GetAdjective] government has issued an ultimatum to us: turn over all our territory in Tripolitania at once. This includes cutting [LBA.GetNameDef] loose from our control. which [From.GetNameDef] would presumably then invade. Already, [From.GetAdjective] ships are crossing the Mediterranean and making their intentions rather obvious.
+Fine, give them what they want
+If it's a war they want, they'll get it!
+[From.GetNameDefCap] Abandons Us
+[From.GetNameDefCap] has responded to a demand by the [From.From.GetAdjective] government, which claims Tripolitania as its own, by agreeing to cut us loose - already [From.GetAdjective] officials and [From.GetAdjective] forces are busy leaving [Root.GetNameDef]. One assumes that a declaration of war from [From.From.GetNameDef] will be forthcoming shortly.
+We shall see!
+[From.GetNameDefCap] Has Relented
+Apparently too terrified at the prospect of starting a war with us over the territory, [From.GetNameDef] has relented to our ultimatum and turned over all their owned land within Tripolitania. Diplomacy has won the day!
+Apparently too terrified at the prospect of starting a war with us over the territory, [From.GetNameDef] has relented to our ultimatum and cut [LBA.GetNameDef] loose. They are no longer responsible for the [LBA.GetAdjective] government and will not protect them. We are free and clear to invade, if we should so wish.
+Excellent
+[From.GetNameDefCap] Has Refused
+The [From.GetAdjective] government has utterly refused our ultimatum. It seems we have little choice but to go to war.
+So be it!
+The Italians are Winning
+The war is going poorly. [libya_italy.GetNameDefCap] has succeeded in occupying Tripolitania, and we are so far unable to dislodge them from it. Nor have we been able to occupy any of their mainland territory. Many within the [Root.GetAdjective] government feel that now is the time to sue for peace and stop this war before it goes on any longer.
+End this now
+We must keep fighting!
+[From.GetNameDefCap] Sues for Peace
+It seems the [From.GetAdjective] government has decided it would rather sue for peace than keep on defending Tripolitania. If we end the war now, they will hand it over - and that will be that.
+That's all we want
+No, we shall pursue this to the end!
+We Are Losing
+Our attempt to regain Libya has led to disastrous results, and now we are in danger of losing the entire country. Perhaps if we offer to simply give up our claims on Libya entirely, and hand over any lands claimed by [peace_country.GetNameDef] or its allies, they might be willing to simply end things now?
+We must try
+No, we can still win!
+[From.GetNameDefCap] Sues for Peace
+It seems the [From.GetAdjective] government has decided its pursuit of Libya has come at too high a price. They have offered to give up their claims on Tripolitania entirely, and hand over any land that we or our allies claim (if any exist), if we will simply call off the war now.
+Yes, let's end this now
+They started this, now we will see it through
+The War Drags On
+The war against [peace_country.GetNameDef] and the [peace_country.GetFactionName] has dragged on for months, and considering we've already defeated their Italian allies it seems pointless to continue. Perhaps we can suggest they agree to a simple truce, where all we gain is the land we already have and any claims of ours held by [peace_country.GetNameDef] or their allies. Nothing more.
+Let's make the suggestion
+No - we will fight this to the bitter end!
+The [From.GetAdjective] Proposal
+[From.GetNameDefCap] has approached us suggesting peace - we end this war now, with them walking away with whatever they've already taken and any claimed lands still held by us or other members of the [Root.GetFactionName], and call it even. The alternative is to continue this war even longer, one where we have made absolutely no headway.
+Let's end this now
+No - we can still fight this!
+Italy United!
+Today His Holiness Pope [PAP.GetLeader] declared that Italy had finally been reunified and made whole. \
+A new power arises.
+Italy United!
+Today the King of Lombardy, [LOM.GetLeader], declared that Italy had finally been reunified and made whole. \
+Today the Duke of Lombardy, [LOM.GetLeader], declared that Italy had finally been reunified and made whole. \
+Today the Prime Minister of [LOM.GetNameDef], [LOM.GetLeader], declared that Italy had once again been reunified. \
+A new power arises.
+Italy United!
+Today the Doge of [VNC.GetNameDef], [VNC.GetLeader], declared that Italy had finally been reunified and made whole. \
+Today the Doge of [VNC.GetNameDef], [VNC.GetLeader], declared that Italy had once again been reunified. \
+A new power arises.
+ANI Wins Italian Elections
+The Italian Republic has been under the protection of Austria since the Italian civil war ended fifteen years ago. After Black Monday, however, Austria withdrew much of its influence and military from the nation, and left the Italian Republic to deal with their economic troubles themselves. In order to gain more support in the parliament to deal with Black Monday as they saw fit, the ruling Liberal Democrats under Ivanoe Bonomi called for early elections. These elections have concluded in the election of the anti-Austrian Associazione Nazionalista Italiana.\nThe new Prime Minister, [ITA.GetLeader], stated today in a speech in Milan that nothing shall ever stand in the way of Italy's greatness, and Black Monday was the direct cause of vile Austrian interference and colonialism, which will be eradicated by the new legions of Italy.
+Interesting.
+A new enemy, it seems.
+We will be stronger than ever!
+The Venetian Revolt
+With the recent electoral victory of the right-wing and vehemently anti-Austrian ANI party in the Italian Republic, there has been open sedition in the Veneto region by moderates opposed to the new government. Many regional rebels are openly calling for the restoration of the Serene Republic of Venice, the famous state that had been conquered in the Revolutionary Wars and ruled alternatively by France, Austria and Italy ever since.\n\nThough it is as yet unclear whether this is part of an Austrian scheme to further their influence on the peninsula or represents legitimate efforts by rebels to free themselves from ANI rule, already fighting is breaking out across northern Italy posing a substantial risk to the Milan government, surrounded as it is by enemies on all sides.
+Can the Queen of the Adriatic survive?
+The Italian Federation Restored
+Carried to victory by Austria in their revolt against [ITA_GetNatPopLeader] and the radical ANI, Venetian leaders today announced the restoration of the Italian Federation - the system of government put into place by Austria after the end of the civil war but allowed to lapse in 1929. This time the Consiglio della Federazione Italiana, or Federation Council, will not be led by the Republicans. Too many, it is said, have lost faith in democracy, and thus the Council will hold full power and be led by a leader of one of the states that comprise the Federation.\n\nThe Head of the Federation Council is, once more, Grand Duke Pietro Ferdinando of Tuscany. Many believe his return to power is no small coincidence, considering he is a Habsburg and Austrian influence in northern Italy has plainly been restored.
+Aided by Austria in their successful revolt against [ITA_GetNatPopLeader] and the radical ANI, Venetian leaders today announced the restoration of the Italian Federation - the system of government put into place by Austria after the end of the civil war but allowed to lapse in 1929. This time the Consiglio della Federazione Italiana, or Federation Council, will not be led by Republicans. Too many, it is said, have lost faith in democracy, and thus the council will hold full power and be led by a leader of one of the states within the Federation.\nThe Head of the Federation Council is Duke Marcello Visconti of Modrone, a surprising move, since the nation's Austrian protectors would have preferred the Habsburg Grand Duke of Tuscany. Anti-Austrian sentiment remains high in the country, however, and thus the move was thought safer.
+Aided by Austria in their successful revolt against [ITA_GetNatPopLeader] and the radical ANI, Venetian leaders today announced the restoration of the Italian Federation - the system of government put into place by Austria after the end of the civil war but allowed to lapse in 1929. This time the Consiglio della Federazione Italiana, or Federation Council, will not be led by the Republican Whites. Too many, it is said, have lost faith in democracy, and thus the Council will hold full power and be led by a leader of one of the states within the Federation.\nWhile some assumed the Head of the Federation Council would, once again, be the Habsburg Grand Duke of Tuscany, the Venetians instead opted to put their own Prime Minister, Giuseppe Volpi, in the position. Considering his instrumental role in the revolt against the ANI, many in Italy consider him a national hero.
+Successful in their revolt against [ITA_GetNatPopLeader] and the radical ANI, Venetian leaders today announced the restoration of the Italian Federation - the system of government put into place by Austria after the end of the civil war but allowed to lapse in 1929. This time the Consiglio della Federazione Italiana, or Federation Council, will not be led by the Republicans in Milan. Too many, it is said, have lost faith in democracy, and thus the council will hold full power and be led by a leader of one of the states that comprise the Federation.\n\nThe Head of the Federation Council is once more the Habsburg Grand Duke Pietro Ferdinando of Tuscany, a move that will be sure to please neighbouring Austria.
+Successful in their revolt against [ITA_GetNatPopLeader] and the radical ANI, Venetian leaders today announced the restoration of the Italian Federation - the system of government put into place by Austria after the end of the civil war but allowed to lapse in 1929. This time the Consiglio della Federazione Italiana, or Federation Council, will not be led by the Republican Whites. Too many, it is said, have lost faith in democracy, and thus the council will hold full power and be led by a leader of one of the states that comprise the Federation.\n\nThe Head of the Federation Council is Duke Marcello Visconti of Modrone. While this is a surprising move to some, anti-Austrian sentiment remains high in the country and the government did not wish to return to Austrian influence.
+Successful in their revolt against [ITA_GetNatPopLeader] and the radical ANI, Venetian leaders today announced the restoration of the Italian Federation - the system of government put into place by Austria after the end of the civil war but allowed to lapse in 1929. This time the Consiglio della Federazione Italiana, or Federation Council, will not be led by the Republican Whites. Too many, it is said, have lost faith in democracy, and thus the council will hold full power and be led by a leader of one of the states that comprise the Federation.\nWhile some assumed the Head of the Federation Council would, once again, be the Habsburg Grand Duke of Tuscany, the Venetians instead opted to put their own Prime Minister, Giuseppe Volpi, in the seat. Considering his instrumental role in the revolt against the ANI, many in Italy consider him a national hero.
+Let's see how long it lasts this time.
+Dissolution of the Italian Republic
+Successful in their revolt against [ITA_GetNatPopLeader] and the radical ANI, Venetian leaders today announced that they would not restore the Italian Republic, and that instead both it and the new state of Lombardy would go their separate ways as independent nations. Lombardy is currently under military rule, though the government is being assisted by Duke Marcello Visconti and most expect he will take the reins as the country's leader.\n\nThis is unsurprising, considering that faith in democracy has been severely shaken, and the military is concerned that ANI support has not yet been crushed. Whether this move will mean a new status quo of Venetian leadership in the region or leave both nations vulnerable to foreign threats remains to be seen.
+The old order fragments further.
+Austria Forces Italy to Restore Federation
+While the Consiglio della Federazione Italiana, the governing body of the Italian Federation, had lapsed in 1929, today the [AUS.GetAdjective] government announced its restoration as the official government of Italy... though this time without the Republicans, the leader of which the Austrians had been forced to accept as the Federation's head following the civil war. Though demonstrations throughout Italy signify this as an unpopular move, elections have been suspended and all power placed in the hands of the Council and its aristocratic members - with the Habsburg Grand Duke of Tuscany, Pietro Ferdinando, becoming the new Head of the Council.\nWhile Austria claims that it does not consider the Federation a puppet, this does very much signify a restoration of Austrian influence, lost after the events of Black Monday in 1936.
+Let's see how long it lasts this time.
+[ITA.GetNameDefCap] Defies Austrian Ultimatum
+While the Consiglio della Federazione Italiana, or Federation Council, had lapsed in 1929, [AUS.GetNameDef] has given Milan an ultimatum, insisting that the Council's rule in [ITA.GetNameDef] be restored - with or without the Republicans at the Council's head, as it was before the dissolution. The ultimatum has now expired, and it is clear the Italians mean to keep their newfound freedom.\n\nAlready, Austrian and Italian troops have begun skirmishing at the borders, and Italian Prime Minister [ITA.GetLeader] has held a speech in Milan, calling on all true Italians to fight the Habsburg Empire's \
+A dangerous move.
+[AUS.GetNameDefCap] Withdraws From Italy
+It is clear that Black Monday has hit [AUS.GetNameDef] hard. The Austro-Hungarian Reichskriegsminister today announced he was recalling divisions stationed in [ITA.GetAdjective] territory, unable to afford the financial burden of keeping them safe from [SRI.GetNameDef]. For good or ill, [ITA.GetNameDef] is now effectively independent of Austrian domination, at least until the Austrians regain their full strength and decide whether or not their interests in the Italian peninsula are worth regaining.\n\nMany in [ITA.GetNameDef] have expressed worry about whether or not this will leave them exposed to attack by [SRI.GetNameDef], a move which would plunge Italy into civil war once again.
+Austrian influence wanes further.
+An opportunity, perhaps?
+Italian Democracy Survives
+After many months of terrorist acts by the ANI rocked [ITA.GetNameDef] and caused many within the nation to doubt the government's ability to maintain order, a vote of no confidence was held in Milan today - if passed, many feared it would have signalled the republic's collapse.\n\nBy the narrowest of margins, the motion was defeated, and Prime Minister [ITA.GetLeader] has announced from the steps of the government buildings that democracy in Italy had survived its greatest challenge, and that the republic would live on.
+So it would seem.
+Italian Government Falls
+After many months of terrorist acts by the ANI rocked [ITA.GetNameDef] and caused many within the nation to doubt the government's ability to maintain order, a vote of no confidence was held in Milan today... a motion which passed, by the narrowest of margins.\n\nAttentions have now turned to the Consiglio della Federazione Italiana, the old government of the Italian Federation, which lapsed after 1929 but still technically existed, and it has stepped in to fill the void left by the republic. The Council, consisting of aristocrats from the states of the Federation and led by the Habsburg Grand Duke of Tuscany, Pietro Ferdinando, has suspended elections and declared the restoration of the Italian Federation in full.
+After many months of terrorist acts by the ANI rocked [ITA.GetNameDef] and caused many within the nation to doubt the government's ability to maintain order, a vote of no confidence was held in Milan today... a motion which passed, by the narrowest of margins.\n\nAttentions have now turned to the Consiglio della Federazione Italiana, the old government of the Italian Federation, which lapsed after 1929 but still technically existed, and it has stepped in to fill the void left by the republic. The Council, consisting of aristocrats from the states of the Federation and led by Marcello Visconti, Duke of Modrone, has suspended elections and declared the restoration of the Italian Federation in full.
+After many months of terrorist acts by the ANI rocked [ITA.GetNameDef] and caused many within the nation to doubt the government's ability to maintain order, a vote of no confidence was held in Milan today... a motion which passed, by the narrowest of margins.\n\nAfter much acrimony in the government's chambers, it was clear the republic had fallen and there was going to be no resolving the differences among politicians and the people. It seems Venice and Lombardy have elected to go their separate ways, each lead by their own governments and in charge of their own destinies.
+Interesting.
+ANI Overthrows Italian Government
+After failing in their attempt to take power in the 1937 elections, [ITA_GetNatPopLeader] and the ANI today overthrew the Italian government following months of insurrection and bombings. The republican government's attempts to keep order failed miserably enough that sentiment turned against them, and the ANI pounced on this weakness and gained considerable support within the Italian military.\n\nWith demonstrations filling the streets, particularly in Venice, [ITA_GetNatPopLeader] today announced that the ANI had taken complete control and would see that the nation remained strong in the face of the syndicalist threat.
+Seems like a recipe for instability.
+Italy United!
+Today the leader of [ITA.GetNameDef], the self-styled \
+Today the Head of the Consiglio della Federazione Italiana, or the Federation Council, [ITA.GetLeader], declared that Italy had finally been reunified and made whole. \
+Today the Prime Minister of [ITA.GetNameDef], [ITA.GetLeader], declared that Italy had once again been reunified. \
+A new power arises.
 Italy
 Italian
 Italy

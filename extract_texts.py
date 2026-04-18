@@ -4,7 +4,8 @@ import re
 INPUT_DIR = "split_output"
 OUTPUT_DIR = "useful_text"
 
-line_pattern = re.compile(r'^\s*[\w\d_]+\s*:\s*["\']')
+# Добавлена точка и дефис в набор допустимых символов ключа
+line_pattern = re.compile(r'^\s*[\w.\-]+\s*:\s*["\']')
 
 def main():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
@@ -36,7 +37,7 @@ def main():
 
                     if end_idx != -1 and end_idx > start_idx:
                         text = line[start_idx:end_idx]
-                        # 🔑 Замена одиночного пробела на заглушку
+                        # Замена одиночного пробела на заглушку, чтобы не обрезался редакторами
                         if text == " ":
                             text = "*"
                         extracted.append(text)

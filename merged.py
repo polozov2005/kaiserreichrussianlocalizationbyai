@@ -2,14 +2,14 @@ import os
 from pathlib import Path
 
 # Пути к папке и итоговому файлу
-INPUT_DIR = Path("split_output")
+INPUT_DIR = Path("split_input")
 OUTPUT_FILE = Path("yml_structure_input.txt")
 
 # 1. Находим все файлы part_*.txt и сортируем их
 files = sorted(INPUT_DIR.glob("part_*.txt"))
 
 if not files:
-    print("⚠️ Файлы не найдены в папке split_output")
+    print("⚠️ Файлы не найдены в папке split_input")
     exit()
 
 parts = []

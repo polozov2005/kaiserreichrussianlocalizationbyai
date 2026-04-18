@@ -494,6 +494,192 @@ GFX_VEN_intro
 Venezuela's Place in the World
 After Venezuela split from Gran Colombia in 1830, the country was rocked by a number of civil wars between conservative and liberals until the country was federalised in 1864. However, Venezuela still struggled to maintain stability through a number of intermittent military and civilian governments.What changed this was the discovery of oil deposits and General Juan Vicente 'The Catfish' Gómez's coup in 1908. Under Gómez, the petroleum industry became the nation's economic foundation and remained relatively stable through the Weltkrieg, staying neutral in the conflict and reducing the country's debt, albeit at the cost of making the country completely dependent on oil.\n\nThe Catfish's regime could only last so long, however. After failing to successfully push for Venezuela's claims on Essequibo due to American intervention as the British Empire practically collapsed, he was deposed by the military in 1928 after a scandal with British 'Reparations' and the Generación del 1926 soon formed a democratic government after elections were held.\n\nBy 1936, however, the Generación has grown heavily divided between three parties. Acción Democrática currently holds the reins of government, but their former liberal allies in the Unión Democrática Republicana are gaining momentum while the Internationale-aligned Partido Socialista de Venezuela continues to foment anti-capitalist dissent. Nevertheless, Venezuela is one of the few relatively stable and democratic nations in the region, but escalating tensions around the globe could easily destabilise the nascent democracy.
 §MAcción Democrática§! / §MUnión Republicana Democrática§! / §MSocialistas§! ($social_conservative_coloured$ / $social_liberal_coloured$ / $social_democrat_coloured$ / $syndicalist_coloured$)\n£white_dot Regardless of if a coup occurs as a result of the Black Monday, in the 1939 elections, you will be able to elect the §lUnión Republicana Democrática§!, the §SAcción Democrática§! and the §rPartido Socialista the Venezuela§!.\n£white_dot Later on, in the 1954 elections and onwards, the §cComité de Organización Política Electoral Independiente§! will also be able to be elected.\n\n§MJunta Nacional§! ($paternal_autocrat_coloured$)\n£white_dot Have a non-socialist America win their civil war and have them not isolated from the world (not going \
+Instability in Caracas
+With news of the collapse of the Berlin Stock Market reaching Venezuela and already affecting the economy, there have been numerous disturbances in Caracas and other cities as a run to the banks led to protests and riots. Many in the military believe that the Socialist Party is behind many of these disturbances and plan to use them to start a revolution in Venezuela. Eleazar López Contreras, one of the generals that helped restore democracy back in 1928, is ready to step in once again should the current government fail to restore order, but [Root.GetLeader] insists that the police can handle the excesses and things will settle down soon.
+The government restores calm.
+A temporary Junta seizes power.
+The 1939 Presidential Election
+Despite the crises caused by Black Monday, the presidential election scheduled for this year is still happening and the campaigning has been fierce as a result. The social-democratic Acción Democrática has a good chance of securing another term, promising to continue their policy of welfare expansion and industrial diversification. The social-liberal Unión Republicana Democrática, the other moderate party born from the Generación del 1926, also has a good chance of taking the presidency through promises of economic prosperity and use of nationalist rhetoric. Finally, while their chances are relatively low, the Internationale-aligned Partido Socialista de Venezuela has, surprisingly enough, been seriously campaigning, using Black Monday to push their radical anti-capitalist and socialist ideology.
+AD secures another term.
+URD wins the presidency.
+PSV achieves a revolution-by-ballot.
+The Spread of Syndicalism in Venezuela
+It has come to attention that a coalition of Internationale-aligned parties have taken over the Venezuelan government after an election. While we certainly cannot accept such a hostile ideology gaining ground in our backyard, we have been approached by a group of Venezuelan officers, led by General Marcos Pérez Jiménez, for our support as they wish to oust their newly-elected socialist government that threaten their and, as they reminded us, our interests.
+Support their coup and secure our interests.
+A waste of our resources.
+Marcos Pérez Jiménez seizes power!
+It appears that the socialist government had not only internal, but external enemies as well. General Pérez Jiménez, with support from many officers and the army, has seized power in a bloody coup to stop the PSV's revolutionary policies. After a brief showdown with a hastily-assembled militia loyal to the PSV, the army arrested a number of PSV politicians and blocked access to the Palacio Legislativo. Within a couple of days, Pérez Jiménez's supporters have secured the country and PSV leaders have either fled or in hiding. It appears that the United States of America is behind this.
+The Junta Nacional will save us from syndicalism.
+Importing Small Arms
+Because of how limited our domestic arms industry is, we are still reliant on foreign producers. We have two main suppliers: Fabrique Nationale in [BEL.GetName] and Österreichische Waffenfabriksgesellschaft Steyr in [AUS.GetNameDef] and we are certain that either company will be happy to be contracted for another batch of small arms for our expanding military.
+It appears that our first choice is unable to supply us with the quantity of firearms we requested. Thankfully, we have a second option who are hopefully able and willing to sell us much-needed rifles to the Venezuelan Army.
+Clearly, these foreign companies are not to be trusted as we feared. We will have to make due with local arms production or acquire them in some other way.
+Ask FN.
+Ask OEWG Steyr.
+We couldn't trust them after all.
+Exporting Arms to Venezuela?
+We have been approached by an officer from the Venezuelan military looking to buy a large amount of small arms to refit their troops. While we obviously will have to say goodbye to part of our arms stockpile, it would be a rather lucrative contract that would stimulate our arms industry.
+Sounds like a good deal!
+We can't spare any arms.
+Small Arms Shipment
+We have successfully acquired a sizeable shipment of small arms to outfit our troops or hold in reserve. Our soldiers will have no issue using them as they are similar or the same as what they are used to. Now, of course, we have to pay for the guns.
+Excellent.
+The 'Fifty-to-Fifty' Law
+President [VEN.GetLeader] has just signed into law a bill that will reduce the profit foreign governments make off Venezuelan oil. Termed the 'fifty-to-fifty' law, the bill will allow the government to take half of the proceeds generated by foreign drilling in Venezuela. This is a great step towards economic independence, and many have lauded the government for this action.
+A fairer deal.
+Black Monday Hits the Oil Wells!
+Venezuela's economy has been in a golden age since the discovery of our rich oil wells. The hungry industries of Europe, America and Japan have long bought all the oil they could afford. However, after the crash, things went sideways alarmingly, if unsurprisingly, quickly. Oil prices plummeted, and state revenue too. Soon basic services will suffer, and President [Root.GetLeader] will have to act before it is too late.
+Catastrophic!
+Importing Artillery
+Because of the limited size of our arms industry, heavy weapons and equipment such as artillery pieces are difficult to come by. Until our military industry is up to date, we must import them. Two major producers come to mind: Krupp in Germany and Škoda in Bohemia. Both of these companies offer the quantity of big guns we need at a price we can afford and have the best reputation.
+It appears that our first choice is unable to supply us with the quantity of artillery pieces we requested. Thankfully, we have a second option who are hopefully able and willing to sell us much-needed guns to the Venezuelan Army.
+Clearly, these foreign companies are not to be trusted as we feared. We will have to make due with local arms production or acquire them in some other way.
+Ask Krupp.
+Ask Škoda.
+We couldn't trust them after all.
+Exporting Arms to Venezuela?
+We have been approached by an officer from the Venezuelan military looking to buy a modest amount of artillery pieces to refit their troops. While we obviously will have to say goodbye to part of our arms stockpile, it would be a rather lucrative contract that would stimulate our arms industry.
+Sounds like a good deal!
+We can't spare any arms.
+Artillery Shipment
+We have successfully acquired a sizeable shipment of field guns to outfit our troops or hold in reserve. These will give us a much-needed boost in firepower. Now, of course, we have to pay for the guns.
+Excellent.
+Acquiring Surplus Fighters
+The aviation industry in Venezuela is practically non-existent, but aircraft have been already proven to be an integral part of modern warfare. The Germans and the United States, if stability has returned there, should have enough surplus aircraft to sell to us at a cheap price, letting us outfit our nascent air force and study their designs.
+Our first choice for surplus aircraft is unable to provide us with the equipment we requested. Thankfully, we have an alternative to fall back to and we can only hope that they will prove more willing than the first.
+It appears that we have ran out of options as the main players in the aeronautics industry are either unavailable to us or unwilling to spare us surplus aircraft. We will have to figure out another way to get new aircraft for our air force and to jump-start out own industry with limited help.
+Ask a German company.
+Ask an American company.
+We couldn't trust them after all.
+Exporting Planes to Venezuela?
+We have been approached by an officer from the Venezuelan military looking to buy a modest amount of fighters for use by their air force. While we obviously will have to say goodbye to part of our fighter stockpile, it would be a rather lucrative contract that would stimulate our arms industry.
+Sounds like a good deal!
+We can't spare any planes.
+Fighter Shipment
+We have successfully acquired a sizeable shipment of fighters for use by our air force or to hold in reserve. These will give us a much-needed boost in firepower. Now, of course, we have to pay for the planes.
+Excellent.
+Importing Small Arms
+Because of how limited our domestic arms industry is, we are still reliant on foreign producers. However, our main suppliers are unwilling to sell us arms because of our revolutionary government. Thankfully, our Comrades in France and Britain should be able to help us with our small arms deficit.
+It appears that our first choice is unable to supply us with the quantity of firearms we requested. Thankfully, we have a second option who are hopefully able and willing to trade us much-needed rifles to the Venezuelan Army.
+Clearly, these foreign companies are not to be trusted as we feared. We will have to make due with local arms production or acquire them in some other way.
+Ask our French comrades.
+Ask the revolutionary British.
+We couldn't trust them after all.
+Importing Artillery
+Because of the limited size of our arms industry, heavy weapons and equipment such as artillery pieces are difficult to come by. Until our military industry is up to date, we must import them. Our French and British comrades do produce enough high-quality guns and will hopefully be able to spare some to protect the revolution in Venezuela.
+It appears that our first choice is unable to supply us with the quantity of artillery pieces we requested. Thankfully, we have a second option who are hopefully able and willing to sell us much-needed guns to the Venezuelan Army.
+Clearly, these foreign companies are not to be trusted as we feared. We will have to make due with local arms production or acquire them in some other way.
+Ask our French comrades.
+Ask the revolutionary British.
+We couldn't trust them after all.
+Acquiring Surplus Fighters
+The aviation industry in Venezuela is practically non-existent, but aircraft have been already proven to be an integral part of modern warfare. Our French and British comrades, or even the revolutionaries in America, may be able to supply us with some aircraft to help us build up our air force.
+Our first choice for surplus aircraft is unable to provide us with the equipment we requested. Thankfully, we have an alternative to fall back to and we can only hope that they will prove more willing than the first.
+It appears that we have ran out of options as the main players in the aeronautics industry are either unavailable to us or unwilling to spare us surplus aircraft. We will have to figure out another way to get new aircraft for our air force and to jump-start out own industry with limited help.
+Ask our French comrades.
+The new Americans must have surplus to spare!
+Ask the revolutionary British.
+We couldn't trust them after all.
+Alliance with the USA
+It is no secret that since General Pérez Jiménez's coup that Venezuela is aligned with the USA. Now that the former has formalised the League of American States, we can join this alliance and formalise our close ties with the United States of America.
+The USA is our greatest ally.
+Opposition Organises in Venezuela
+Last week, an armoury was raided and hundreds of weapons stolen. Unsurprisingly, today, we received news that opponents to our government have been organising under the safety of Venezuela's reactionary regime. While we have no proof, we suspect that these disgruntled traitors are responsible for stealing Colombian Army rifles and smuggling them to Venezuela, preparing an insurrection.
+We must stay vigilant.
+Venezuela Prepares for War
+As we suspected, the reactionary Venezuelans have been preparing to overthrow our government. Not only have they been arming Colombian traitors in their country, but we have received intelligence reports that they are mobilising their forces and preparing to invade us.
+They won't take an inch of Colombian land.
+An Ultimatum From Caracas
+The Venezuelans have claimed the region west of the Essequibo River in Guyana since independence from Spain, even though in 1899 it was decided by the United States that the territory would remain British. Caracas never gave up however, and now Venezuela seems to have taken advantage of our fight against the British to make territorial demands on Guyana. They have declared that we have forty-eight hours to evacuate the territory before their troops move in, and woe to any of our personnel left at that time. This is a ridiculous demand, and it is clear that we will have to defend Guyana against the treacherous Venezuelans once more.
+We must prepare for war. There is no other choice.
+[WIF.GetNameDefCap] Refuses our Ultimatum
+Unsurprisingly, the perfidious, stubborn Anglos have refused to cede the occupied territory of Guyana Esequiba. It appears that we will have to retake it by force. All patriotic Venezuelans celebrate today as we move in to reclaim what is ours.
+We shall retake our rightful lands!
+Colombian Volunteers Return Home
+With their homeland liberated, the volunteers we armed to overthrow the oppressive syndicalist regime in Colombia have been disbanded and they have returned home, decorated and honoured.
+Their service will be remembered.
+Venezuela Purchases Shares in our Oil Industry
+Our petroleum industry controls a huge portion of Venezuela's oil. In an attempt to acquire a larger portion of the profits generated by their resources, the Venezuelan government has bought a larger share of our oil assets in their country.
+Such is the Free Market.
+Venezuela Seizes our Oil Assets
+As we are unable to protect our assets oversears, the Venezuelan government has taken advantage of our precarious situation and has seized our oil assets in their country. While this is a loss for [Root.GetAdjective] companies, there is nothing we can do to stop them.
+Damned Vultures!
+The 1944 Presidential Election
+As our constitution dictates, five years have elapsed since the last election and it is time for a new one. The Acción Democrática and Unión Republicana Democrática are still the main contender, while the Partio Socialista de Venezuela remains dedicated to the destruction of the bourgeois system through the system itself.
+AD secures another term.
+URD wins the presidency.
+PSV achieves a revolution-by-ballot.
+The 1949 Presidential Election
+As our constitution dictates, five years have elapsed since the last election and it is time for a new one. The Acción Democrática and Unión Republicana Democrática are still the main contender, while the Partio Socialista de Venezuela remains dedicated to the destruction of the bourgeois system through the system itself.
+AD secures another term.
+URD wins the presidency.
+PSV achieves a revolution-by-ballot.
+The 1954 Presidential Election
+As our constitution dictates, five years have elapsed since the last election and it is time for a new one. The Acción Democrática and Unión Republicana Democrática are still the main contender, while the Partio Socialista de Venezuela remains dedicated to the destruction of the bourgeois system through the system itself. This time, however, a conservative party has entered the fray: The Comité de Organización Política Electoral Independiente.
+AD secures another term.
+URD wins the presidency.
+PSV achieves a revolution-by-ballot.
+COPEI, the newcomers, wins.
+The 1959 Presidential Election
+As our constitution dictates, five years have elapsed since the last election and it is time for a new one. The Acción Democrática and Unión Republicana Democrática are still the main contender, with COPEI in third, while the Partio Socialista de Venezuela remains dedicated to the destruction of the bourgeois system through the system itself.
+AD secures another term.
+URD wins the presidency.
+PSV achieves a revolution-by-ballot.
+COPEI, the newcomers, wins.
+Venezuela in the Internationale?
+Venezuela, against all odds, has recently elected a syndicalist government and has made great strides towards a peaceful revolution. Now that they are stable, they wish to help us in our war against the reactionaries.
+Welcome, comrades!
+How are we supposed to help them? Swim?
+France Accepts us into the Internationale
+Good news! France has decided to welcome us into the revolutionary brotherhood of nations.
+¡Proletarios de todos los países, uníos!
+France Refuses
+For some reason, the Commune of France has refused our offer to join them in their crusade against the reactionaries.
+¿Qué?
+Venezuela in the Entente?
+It seems Venezuela is engaged in a state of war with the Syndicalists of the Third Internationale. Though we have had uneasy relations with the Venezuelans since the crises of 1895 and then 1902, they have reached out to the British Empire to protect them from the red menace of the Communards. However this strange turn of events has come to pass, Venezuela, with her vast oil reserves and strategic position, could prove a valuable ally in the fight against syndicalism. Some members of Parliament, however, have argued against involving ourselves in a foreign conflict. Other PMs argue that if we wish to be the protector of the Western Hemisphere in place of the failing United States, we need to intervene. What should we do?
+Welcome to the Entente, Venezuela.
+We do not need the liability.
+Canada Accepts Us into the Entente
+Good news! Canada has decided to allow us into their alliance. We shall now drive the Syndicalists out of the Caribbean and beyond together!
+God Save the King, then!
+Canada Refuses
+For some reason, Canada has refused our request for an alliance. We shall fight alone.
+¿Qué?
+Peace with Venezuela?
+We have been pushed out of Guyana, and our forces have failed to make a beachhead near their capital. It is clear to us we are losing this war, and it is clear to the Venezuelans too. They have offered us peace, demanding only the claimed regions of Guyana to the Essequibo River. Should we take their offer of peace, or fight until the bitter end?
+Take your damn jungle, Venezuela.
+We shall never surrender!
+Victory in Guyana!
+The West Indians have agreed to our offer of peace. Guyana Esequiba is ours once again, and will remain part of Venezuela forevermore! All over the country, the people are united in their patriotism - though there may be some trouble with the new territories, where our administrators report there is nary a Spanish-speaker to be found. Nevertheless, this is a great day for all Venezuelans!
+¡Dios y Federación!
+The West Indians Refuse Peace
+[WIF.GetNameDefCap] have treacherously refused our generous peace deal. They have once again declared they will never cede Guyana Esequiba to us, and so the war must carry on. Some in our government are privately wondering if we can truly win a drawn-out conflict, but the people are, for now, committed to go on.
+Damn Anglos!
+The Venezuelan Government Offers Alliance
+In the aftermath of our peaceful intervention in the troubled republic of Venezuela, stability has finally been restored under President Marcos Pérez Jiménez. In order to maintain the health and prestige of his regime, he has asked us to join with him in making a formal treaty of alliance and aid. Since we are part of a greater alliance, the [ROOT.GetFactionName], we will need to ask the leading country of our alliance if they would be willing to protect Venezuela. Since we will be doing most of the heavy lifting in protecting them, however, there is no reason to refuse.
+Pass on the request to our ally.
+We don't want the Venezuelans.
+America Forwards Venezuelan Alliance Request
+Our American allies have received a request from Venezuela to join the [ROOT.GetFactionName]. The United States seems interested in bringing their southern neighbour into its sphere, and has encouraged us to accept. While Venezuela would provide us with a stable oil supply and a base in the southern Caribbean, allying them risks entanglement in South American politics. Should we allow them to join?
+Naturally they are welcome!
+It would be too much of a liability.
+[FROM.GetNameDefCap] Accepts the Venezuelan Offer
+Our allies in [FROM.GetName] have accepted our request that Venezuela be allowed to join the [ROOT.GetFactionName]. Our reputation as the most influential country in the Americas has been reinforced, and we have a firm new ally to boot.
+Great!
+[FROM.GetNameDefCap] Accepts Alliance
+[From.GetNameDefCap] has accepted our request to join their global alliance, the [FROM.GetFactionName]. This is a great day for international cooperation, and a day that signals the coming death of worldwide radicalism and socialism!
+Our request for an alliance was forwarded by the Americans to the faraway nation of [FROM.GetName], and they have accepted our request to join their global alliance, the [FROM.GetFactionName]. This is a great day for international cooperation, and a day that signals the coming death of worldwide radicalism and socialism!
+To friendship!
+[FROM.GetNameDefCap] Refuses
+Although the Americans had clearly already shown their willingness to help us, their alliance has proved less friendly. Our offer of alliance has been rebuffed, on the grounds that we might drag them into wars with our neighbours. This is a national outrage, and has shaken our popularity with the people.
+We were foolish to trust the imperialists.
+Venezuela Elects a Syndicalist Government
+In what has no doubt come as quite a blow to many entrenched interest groups the Venezuelan people have elected the left wing Partido Socialista de Venezuela to run the country. The PSV was not the favourite to win by any stretch of the imagination and has many enemies.\n\nThe oil-rich and strategically vital country occupies a special place in South America in terms of importance for foreign, particular U.S, interests. As a result it is unclear whether Venezuela's so-called \
+A socialist Venezuela? Really?
+U.S-Backed Coup in Venezuela
+News from Venezuela has leaked out this morning that the recent electoral victory by the socialist PSV has been undone through the work of a major military putsch led by General Marcos Pérez Jiménez. After bloody street fighting against hastily assembled leftist forces the Army regained control of the Palacio Legislativo and arrested a number of leading PSV figures.\n\nThere is little doubt either domestically or internationally that a newly emboldened United States is in some way responsible for backing General Jiménez, for Venezuela's strategic importance makes it vital to American interests. Whether such a bold step represents a new U.S foreign policy shift is unknown, but for now Venezuela is under new management.
+The Eagle still has some life in her!
 Tomás Contreras Villalobos
 §YBorn:§! §Lin the United States of Venezuela§!
 Marcos Evangelista Pérez Jiménez

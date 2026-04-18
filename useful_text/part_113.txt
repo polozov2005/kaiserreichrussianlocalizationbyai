@@ -69,6 +69,109 @@ GFX_LIB_intro
 Liberian Introduction
 At approximately the size of Virginia, Liberia is an independent West African nation under the protection of the United States of America. The upper crust of society belongs to a solid voting bloc called the True Whig Party, which has won every major election since 1870. The Americo-Liberians were responsible for spreading Christianity to the natives, but have adopted some West African traditions along the way. Secret Societies, such as Poro for the lower classes and the Masonic Order of Liberia at the top ensure that the rich stay rich, and the poor can govern themselves in secrecy.\n\nThe Weltkrieg was a dark and conspiratorial time for Liberia. The French listening post in Monrovia was nearly discovered, the German Ambassador disappeared under suspicious circumstances, and the borders moved. During the Revolution in Britain, Sierra Leone was occupied and then annexed by France. Now Liberia is engulfed by debt from failed projects, her economy in the hands of Firestone Natural Rubber, and her future uncertain. Will President Edwin Barclay, a legitimist in the TWP, be able to save Liberia from disaster?
 §MFreemasons§! ($national_populist_coloured$)\n£white_dot After completing the focus \
+Race Relations in Liberia
+Since the founding of our Republic, the Americo-Liberian population, originally descended from freed black slaves from the southern United States, have held all political and economic power in the country at the detriment of the more numerous indigenous African peoples of the interior. The Citizenship Act of 1932 was intended as a trade-off between representation and taxation. In practice however, the Citizenship Act is unenforced, but taxed. Should we force our Governors to allow natives into provincial assembly halls, or are they right to withhold this right until the nation is again stable?
+Uphold our reputation, give the natives a voice.
+Uphold out traditions, they must know their place.
+Presidential Elections, 1939
+Today it's election day on our Republic, the first to allow both Americo-Liberians and Native Liberians. Four main candidates are participating. the incumbent Edwin Barclay of the conservative True Whig Party. The True Whig Party Centre under William Tubman. The True Whig Party New Guard under Louis Grimes, and the sensible socialist Thomas J. R. Faulkner of the Peoples Party.
+Edwin James Barclay, True Whig Party.
+William Tubman, True Whig Party (Centre).
+Clarence Simpson, True Whig Party (New Guard).
+Thomas J. R. Faulkner, Peoples Party.
+Black Monday Reaches Liberia
+After the total collapse of the German stock exchange, ripples have already begun to hit foreign shores. After the US stock market crashed, we had hoped a tragedy like this would not have happened to us so soon. Now we must pick up the pieces, again.
+We Must Act Soon!
+Allocation of Government Funds
+We have Funds in our annual budget that we use for dealing with our rivals, including bribing them. However, this year's global economic meltdown may be more important a use than paying all our rivals into submission. This may be risky for our regime though...
+Kickbacks ain't so bad.
+Put the money in the reserve.
+Secret Societies in Liberia?
+Secret Societies exist in both the American and Native traditions in Liberia. The Americo-Liberians at the top of society defer to the Masonic Order of Liberia for political advancement. At the lowest end of society, Poros solidify tribal identity through their role as tribal leaders. The propensity for secrecy in Liberia has led to a major disconnect in society, so much so we have a special word for it. Ifa Mo. We could empower Poros and the Masons to join the government, and help reconstruct our economy through community service. Or we could justify banishing them from the public eye, saying that their activities are frivolous wastes of public funds.
+Secret Societies must come out of the dark.
+Poros and Masons are abhorrent and sacrilegious, ban them.
+Liberalism Washes onto Africa
+In the past few days a liberal movement has gained steam and has been pushing across the Atlantic. Most strongly emanating from the U.S, where Afro-American culture promises a brighter future past racial segregation, which is still legal in Liberia. Crashing against not only colonial policy, but our elders' ways. Could women's suffrage be far away, or will this weaken our foundations of government?
+Where is this coming from?
+The Freemasons Attempt a Coup!
+During the first festival after legalising Secret Societies, an unusual sight marches through the streets of Monrovia. At its head is disgraced Grandmaster Frank Tolbert, who was denied the position of Vice President due to his violent temper. Along with several members of the Masonic Order of Liberia, Frank Tolbert leading an armed parade towards the Presidential Palace! Why would the powerful Freemasons betray us now?
+Abandon Monrovia! Leave Barclay to the wolves.
+These traitors have no power, arrest them!
+The Red Tide Hits Liberia!
+The banning of secret societies has left our own political sphere weakened. Nobody alerted us to the Liberian Destiny gang led by George Padmore tearing through the Hinterlands. Padmore an American immigrant who became excited by John Reed's syndicalist ideology, and intends to create syndicalism in Africa. Padmore's band of syndicalists has now entered Monrovia armed and dangerous, seeking out our President. The Fate of Liberia is at stake!
+I've got it! Defend the boats as we escape.
+The Liberian Frontier Force should fix them.
+The Foreigner Conspiracy
+With the new government now in our control, we need to understand our own position. Just as we overthrew Liberia, so could the foreigner American immigrants within Liberia do onto us. Since the listening outpost and bombardment of Liberia, foreigners from Europe have shown their ulterior motive to subdue us. While some of our members within the Lodge may have important business ties abroad, our Grandmaster knows that this will only erode our resolve.
+Unfamiliar people are a threat to Ifa Mo. Silence them!
+Persecuting foreigners is biting the hand that feeds.
+The Red Menace
+Socialism and Syndicalism have caused massive unrest in both the US and abroad. From the fall of France to this very day the growing red threat will not abate until we crush it ourselves! One only needs to look at the disgraced Thomas J. R. Faulkner, who adopted socialism save his failing political career. The only reservation shown by the Grand Lodge is the wealth from American immigrants would respond poorly. Persecuting immigrants could erode their confidence in the government, and thus their economic potential along with them.
+Syndicalism will never take this country!
+Yes, all of the two socialists in Liberia need our attention... next please.
+The End of the Republicans
+For too long the True Whig Party has suppressed our ideas for a free market economy. It took an economic catastrophe to correct our single party state. Should we enshrine in the Liberian Constitution the need to be in a Prince Hall Freemason Lodge in order to serve the public? Should we ensure our party's security in perpetuity, or is a two party system a better outcome.
+The Lodge own the Liberian Republic.
+A Two Party System is tradition.
+Liberia Demands Sierra Leone
+Liberia has long desired the state of Sierra Leone, seeing them as kind of a brother nation founded by slaves who were sent back to Africa from Canada. Now they have issued us an ultimatum. Either we turn it over to them, or there will be war.
+Fine, let them have it.
+Are they serious? Absolutely not!
+[From.GetNameDefCap] Has Refused
+Now that the [From.GetAdjective] government has laughed our diplomats out of the conference room after hearing our demands, we are left with few options about how to proceed. Is this insult the beginning of a great liberation war, or is it another failed dream in Liberia?
+That land shall be free, BY FORCE!
+We cannot hope to oppose them on the battlefield.
+Sierra Leone is Ours
+It seems the [From.GetAdjective] government was too fearful of becoming embroiled in a war with us - they have agreed to surrender Sierra Leone to us.
+Excellent.
+The French Defeat
+After brutal fighting with the exiled French, we have driven them from the countryside and deeper into the northern deserts. Our military cabinet believes we can negotiate with them on better terms. Signing a deal now would be a major political victory for us.
+Send the French the peace proposal.
+We are not ready for peace yet.
+The Liberians Offer Peace!
+After an improbable victory of the pseudo-Americans in Liberia, we have retreated. The Liberian Army is securing its gains and preparing to move inland, but they offer to end all hostilities if we cede them Sierra Leone.
+Let the American and British fools rejoice.
+Never! French Honour is on the line!
+[From.GetNameDefCap] Refuses Peace!
+It seems the [From.GetAdjective] government refuses to see reason. We'll have to keep fighting.
+They'll live to regret this.
+Liberia Marches into the Ivory Coast
+Liberia has long desired the Ivory Coast, seeing the region as kin. They have deluded themselves into wanting to free the Coast, and that having family in America makes them nobility. Today, however, their delusion has gone to far; with no respect for our borders they have sent troop into our lands and declare the Ivory Coast to be theirs!
+Fine, if they want it so badly they can have it.
+How dare they! We will push them back across the border and beyond!
+[From.GetNameDefCap] Has Refused
+Now that the [From.GetAdjective] government has laughed our diplomats out of the conference room after hearing our demands, we are left with few options about how to proceed. Is this insult the beginning of a great liberation war, or is it another failed dream in Liberia?
+That land shall be free, BY FORCE!
+We cannot hope to oppose them on the battlefield.
+The Ivory Coast is Ours
+It seems the [From.GetAdjective] government was too fearful of becoming embroiled in a war with us - they have agreed to surrender the Ivory Coast.
+A Bailout for Our Economy
+After years of economic downturn since the Great Depression and now the effects of Black Monday, our fledgling economy is in tatters. What few economists we have in Liberia suggest we ask for a bailout one of the powers whose economic sphere we are in. We have the USA whom we share closer ties with, but they have a long list of issues at home. Then there is the German Empire, who is in better shape than the US but far less friendly to us. Our last, and by far least, savoury option is asking the Firestone Corporation. They have large economic influence here and aren't burdened down by operating nations with shopping lists of issues, however they also have the weakest moral fibre and are by far the most exploitative. Who shall we ask?
+Our Old Friends Back in the States.
+Firestone will make us profitable.
+The Reich holds the Money and Power.
+Liberia Asks for Aid
+The Liberian government, crippled by the effects of Black Monday on top of their overwhelming national debt, has sent an envoy requesting the American government assist with a bailout. We have our own issues to deal with, but the amount they desperately need is small by comparison and will guarantee us a continued ally in Africa. How shall we respond?
+Of course we will help.
+They are on their own.
+The Liberian government, crippled by the effects of Black Monday on top of their overwhelming national debt, has sent an envoy requesting the German government assist with a bailout. We have our own issues to deal with, but the amount they desperately need is small by comparison... and, in return, it seems likely they will join our military alliance in time, for what that's worth. Is another African ally worth the expense of being so magnanimous?
+No [From.GetAdjective] Bailout
+The [From.GetAdjective] government has flatly refused to provide us the bailout we so desperately need, clearly wrapped up in their own problems. To whom do we turn to now?
+The Americans.
+The Germans.
+It seems Firestone is our only hope.
+[From.GetNameDefCap] Agrees!
+The [From.GetAdjective] government has graciously agreed to help Liberia with an economic bailout. It seems there is hope after all!
+What a relief.
+Liberia Declares Independence
+While Liberia has been a protectorate of [ROOT.GetNameDef] until now, today they declared their independence and have banished all [ROOT.GetAdjective] advisors from their government. There are concerns over the safety of [ROOT.GetAdjective] citizens remaining in Liberia, as well as a matter of national pride at stake... but is it truly even worth the cost of reprisal?
+While Liberia has been a protectorate of [ROOT.GetNameDef] until now, today they declared their independence and have banished all [ROOT.GetAdjective] advisors from their government. Word has it that they have aligned themselves with [FROM.FactionLeader.GetNameDef] and the [FROM.FactionLeader.GetFactionName], clearly believing they will be protected from any [ROOT.GetAdjective] reprisal.
+We have little choice but to let them be.
+They cannot escape so easily.
+America Has Fallen
+It seems the American government has collapsed in the face of its civil war. For better or worse, they can no longer help us.
+We will survive on our own!
+Maybe the Germans will be more long lasting...
 Assess the Economy
 Our government owes a total of 6.4 million dollars to a combination of private investors and the US government. With the economic crisis in America not lifting, the US government has decided to hold us accountable to our debts, and our investors are likely to do the same. We must find a new source of income, and fast.
 Increase Taxes

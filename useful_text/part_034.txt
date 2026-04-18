@@ -687,6 +687,569 @@ Deepen Army Cooperation
 If we wish to make our alliance stronger, we should consider seriously deepening military cooperation with the government of Beijing. This would allow us to be much more effective on the battlefield.
 Promote Nationalist Thought
 No longer do we need to be afraid of nationalists, because their goals now align with ours. Our new China is free of foreign influences and built on a singular Chinese nation, with significant autonomy for its subdivisions, of course. We should promote this nationalist thought to further build up public support for our governments.
+Anqing Forces Secure Hangzhou
+As the collapse of the League of Eight Provinces has devolved into a chaotic civil war, control of important coastal cities has been continuously shifting. However, it seems Chen Tiaoyuan was able to retain control of the city of Hangzhou, and in his time of need has set up a trade route between its port and Nagasaki. Though we have provided some support in the past few weeks, Anqing's lasting control over the city could allow us to make a larger contribution, and as a potential collaborator, helping Chen Tiaoyuan could prove worth the investment in the long run.
+Give them some help.
+Sounds like a waste of guns.
+Japan Offers Equipment
+With our continued hold over the port city of Hangzhou, we have secured shipping to and from Japan. Though until now their materiel support had been mostly discreet, we have been approached with an offer for a much more significant shipping of firearms. While this is a tempting offer, some have raised concern that this could lead to growing dependence on Japan for weaponry. Still, considering our currently lacklustre domestic production, this could very well be what we need to restore order.
+We need all the help we can get.
+Decline, we can do without.
+Anqing Accepts Materiel Support
+Chen Tiaoyuan has accepted our offer for more equipment, effective immediately.
+You're welcome.
+Anqing Declines Materiel Support
+Despite us having our mutual interest in mind, it seems Chen Tiaoyuan has refused our offer for more equipment.
+Their loss.
+Victory against Nanjing!
+A semblance of order has been restored to the former League. The fall of Nanjing, and the subsequent departure of pro-German traitors, has shown that a China free of Western meddling is still a possibility, and has given a significant morale boost to the Anti-Concessionist Movement. Furthermore, many of Nanjing's former troops have defected to us!\n\nThe road ahead however, is a long one, and although [ANQ.GetLeader] may now control his former enemy's seat of power, stability is still far away. To establish a strong basis for governing and to combat the continued threat posed by the Yiguandao and the Kuomintang, Chen will have to pull out all the stops. Should he succeed, however, China will once again have hope for a brighter and stronger future!
+The Nanjing Clique may have been defeated, but we do not yet hold their base of power, the Southern Capital, Nanjing. However, the defeat of the League has lead to a wave of increased morale among all Chinese freedom fighters and given our government much more significant support. Furthermore, some of Nanjing's former troops have defected to us! We must move forward against our remaining enemies and secure all of the Five Provinces. Only then can we think of the future.
+A semblance of order has been restored to the former League. The fall of Nanjing and the subsequent departure of pro-German traitors has shown that a China free of Western meddling is still a possibility and has given a significant morale boost to the Anti-Concessionist Movement. Furthermore, some of Nanjing's former troops have defected to us!\n\nThe road ahead however is a long one and although [ANQ.GetLeader] may now control his former enemy's seat of power, the threats to the north and south are still very real. We will need to move fast and ensure we control all of the Five Provinces.
+Peace is nearby.
+Border Skirmishes Between [ANQ.GetName] and [FROM.GetNameDef]
+The Nanjing regime hasn't been the only threat our forces have had to deal with, for the past few weeks we have been trying to ignore [FROM.GetNameDef]'s probes into our territory but [ANQ.GetLeader] has decided action might well be required. If we were to let this continue, our inaction would be viewed as a sign of weakness that may very well come back to hurt us later however, a weak display may be exactly what we want if a trap is decided as the plan of action. [ANQ.GetLeader] has a choice to make, and he favours...
+... striking [FROM.GetNameDef]'s lines immediately.
+... focusing on our current issues.
+Border Skirmishes Between [ANQ.GetName] and [ROOT.GetNameDef] Escalate
+The border clashes have escalated into a full invasion into our zone of control, it seems the unofficial cease-fire has been broken at last. We will need to divert troops to the front lest we risk our entire line collapsing around us. With [ANQ.GetName]'s entry into our war the struggle for the Five provinces has grown much bigger and the threat to our very survival also increases.
+... striking [FROM.GetNameDef]'s lines immediately.
+Five Provinces Together Again
+We have united the Five Provinces, which means our heartland is whole once more. We have dealt with the League and the threats to the north and south. It is now time to rebuild and consolidate our gains before we look further to Hunan and Liangguang to remake the League once more.
+Victory!
+Relocating the Capital
+We have reclaimed the Southern Capital - Nanjing. Whilst our current power base lies primarily in and around the city of Anqing, the city does not hold the industry or prestige that Nanjing provides and which we will require if we are to assert control over the various feuding warlords further down South.\n\nWhilst the relocation of the government to this city is thus inevitable, some are worried that doing so too early might open us up to public unrest in a region without the strong support we enjoy at home. On the other end, moving there as soon as possible will grant us access to its resources sooner and could shorten the war drastically.
+Commence preparations.
+It would be wise to delay.
+Relocating the Capital
+With our hold over the former lands of [LEP.GetLeader] somewhat stable, [ANQ.GetLeader] has decreed the relocation of the capital from the city of Anqing to Nanjing. Being both more prestigious and industrially capable than our war capital, many still fear however that this shift could prove a liability to Chen who will now no longer have a stable support base to coordinate his expeditions from and will be more affected by international meddling and local power-hungry politicians and businessmen.
+Commence preparations.
+Insurgents on the Anqing-Nanjing Line
+Although the transfer of power mostly went off without a hitch, the supply lines responsible for reinforcing our garrisons on the coast with manpower and equipment from Anqing, are suffering under increasing attacks by insurgents, in addition to simple banditry, causing the loss of a significant amount of much-needed support. Detachments from the army have been sent in to put down these troublemakers, but their actions are costing us both time and money.
+Most unfortunate.
+Bombing in Nanjing
+The capital was rocked by another act of insurgency today as a munitions depot was blown up by - presumably - Kuomintang terrorists. Whilst there is no hard proof that the socialist organisation was responsible, the attack has been spun by our government as a barbaric act designed to threaten Chinese sovereignty. Not only did the Kuomintang sell out to the imperialists in France, but they are now also acting as their cronies, in an attempt to bring down the legitimate Chinese government and to make the Century of Humiliation last for another 100 years.
+At least Chen wasn't hurt.
+Opening of the Military Tribunals
+Although we have taken over control in Nanjing, much of the old bureaucracy has been left intact with many of the commanders of our armies still harbouring questionable loyalties. To solve this and to make the Hanjian pay for the crimes they committed, [ANQ.GetLeader] has tasked general Yang Jingyu with the creation of a mobile military tribunal to eradicate possible disloyal factors. Although its aims are according to public broadcasts centred around ensuring a fair trial and not an attempt by Chen to rid himself of his enemies, many still wisely chose to flee the city under the cover of the night.
+All will answer to the law.
+Nanjing Trials: Military Command
+The Military command has grown steadily since the days of our rebellion in Anqing, bringing with it a whole slew of troubles. Forced by an ever-growing military force and an ever greater pool of candidates to command portions of this force, some with more questionable loyalties but decent military credentials have been given preferential treatment over our more dedicated supporters. Whilst this move has led us to final victory in the field, we now have a substantial number of these officers under our wings who as time goes on will likely abandon their current employer in the same way they did their former when they joined us.\n\nAs such we are presented with a choice: Ensure a loyal corps but with lacking experience and training or reward our new officers with a high enough price that they would no longer need other sources of income.
+Purge them!
+We will need them for our coming battles.
+Nanjing Trials: Bureaucracy
+The vast majority of bureaucrats currently serving in our administration have served Sun before and have only switched allegiances after the fall of their capital. Whilst they do have the experience necessary to govern the massive swathes of land currently under our control, they do not share the same dedication to the cause as many of our own do. Furthermore many still have contacts with German businessmen and corporations who are likely to use these bureaucrats as a way to secure their investments and strike up the profits.
+Purge them!
+We can still use them.
+Handling the Nanjing crime bosses
+As in most Chinese cities, crime bosses and agents of various criminal organisations control massive networks that can make or break local governments. When Sun still ruled Nanjing, he co-opted many of these and let them share in the profits so long as they left his assets alone, a move which was greatly appreciated by them and led to a spectacular increase in their wealth. Under Chen however, this privileged position is under serious threat as the governor has already announced his ambitions to rid the city of their influence.\n\nWell aware of this danger, a collection of crime bosses have through shady backchannels proposed a deal to Chen. In exchange for a continuation of the laissez-faire policy of his predecessor, they will offer the support of their network, provide protection to some of our assets and allow us to utilise their agents to ship weapons into the nation.
+We can come to an... arrangement.
+We don't negotiate with criminals!
+The matter of Zhejiang
+When our need was the highest and the united forces of the German lapdogs in Nanjing stood at our gates, the province of Zhejiang was the only one ready to stand by our side. Whilst not the most reliable of people, shown by his dedication to the cause in Fengtian and his ability to readily run into the arms of the Japanese Emperor, Chen Yi has proven his worth during the war and should be rewarded accordingly. For his service during the war, the man will accept nothing less than the continuation of his governorship and with no other candidates really able to match both his prestige or administrative qualities, it goes without saying that he will continue to serve us in this position for the wars to come.
+When our need was the highest and the united forces of the German lapdogs in Nanjing stood at our gates, the province of Zhejiang was the only one ready to stand by our side. Undercutting the treacherous Chen Yi, we found a dedicated ally in the form of his subordinate Shangguan Yunxiang. For his service during the war and to reward the great bravery the man showed, Chen has offered him the position of his former master and has officially appointed him governor of Zheijang.
+It's only logical.
+The matter of Jiangsu
+The former governor of Jiangsu province, Zheng Junyan, sadly did not see reason when the League collapsed and sided with our enemies in Nanjing. On top of that the man also failed horribly in stopping the spread of Yiguandao influence coming from the Shandong peninsula, key points that should normally immediately disqualify him.\n\nWe however don't have many options and with the limited size of our clique, the lack of qualified personnel has become quite apparent. Furthermore, Zheng still has many connections in the province that could prove vital for our own control over the region and which would make quelling unrest both quicker and more efficient.
+Re-appoint Zheng Junyan.
+He had his chance and he blew it!
+Confirmation of Ma Yuren
+After the former governor of Jiangsu province was dismissed, a temporary military government was installed until a better candidate could be found. This man, in the shape of Ma Yuren, has now been found and has ceremoniously been confirmed in this position by Chen himself from his headquarters in Nanjing. Whether or not the man will be more successful in stopping the influence of the Yiguandao sect than his predecessor remains to be seen but it finally solves one of the few loose ends still remaining.
+Good luck!
+The matter of Anhui
+The origin of our rebellion and the source of the brunt of Chen's support, the province of Anhui has been a tad neglected recently as its current governor - Chen himself - has been too preoccupied with the smooth transition of his government to Nanjing. To solve this issue, some of the people in his entourage have suggested that he should withdraw from this position and let someone else take over the day-to-day business of the province. Whilst this is a tough decision for Chen who feels a certain sadness that he would be forced to give up the province closest to his heart, it would greatly relieve the strain on the bureaucracy.
+Chen remains in charge.
+Install a puppet governor.
+Deng Ruzhou requests an audience
+The governor of Jiangxi province in the previous government, Deng Ruzhou, has requested a meeting with Chen in Nanjing to discuss the future of his position. It is no secret that the man wants to regain control of the province and he has been trying to butter up Chen and his associates ever since the fall of his previous master, Qi Xieyuan. Placed in our custody since the fall of Nanchang earlier this year, the man still possesses an expansive network of contacts and organisations that could greatly enhance our capacity to restore order to the region. His loyalty to our government remains an iffy matter however as he might be just as happy to abandon us as he did Qi Xieyuan.
+Re-appoint Deng Ruzhou.
+The man is a traitor, we will deal with his province later.
+The matter of Jiangxi
+Deng Ruzhou seems to have made good on his promises as order has been restored faster than expected to the province of Jiangxi. Benefiting from his agents on the ground and with the dedication shown by a man who knows his head is on the line, he has more than outdone himself in proving himself a capable and reliable governor for Jiangxi.
+Splendid.
+The matter of Jiangxi
+Jiangxi has remained a thorn in our side for quite some time as its previous governor in the shape of Deng Ruzhou was executed on the orders of Chen for siding with Qi Xieyuan during the war. A temporary military government was appointed to replace him but their efficiency in restoring order to the province has been less than stellar with ex-agents of Deng wreaking havoc and protests rocking the streets of Nanchang. Now, Chen has decided to firmly appoint a new governor and recall the military. A lack of qualified personnel for the job however has further complicated the matter as we had to scrape the barrel for a decent replacement.
+Jiangxi has remained a thorn in our side for quite some time as its previous governor in the shape of Deng Ruzhou was executed on the orders of Chen for siding with Qi Xieyuan during the war. A temporary military government was appointed to replace him but their efficiency in restoring order to the province has been less than stellar with ex-agents of Deng wreaking havoc and protests rocking the streets of Nanchang. Now, Chen has decided to firmly appoint a new governor and recall the military. Fang Benren has been chosen for the position. Having previously served as governor of Jiangxi from 1924 to 1926, when he was removed by Wu Peifu, he is more than suitable for the position. Still, much damage has already been done, and Fang will have to work hard to restore order to the province.
+That's less than ideal
+The matter of Fuijan
+After the fall of the League we took Zhou Yinren, Fujian's former governor, into custody. Like many others, he is poised to be executed as a traitor for failing to root out the KMT and for participating on the side of Qi Xieyuan. However, whilst we may not want the man as he was all things considered a failure, we need his network if we wish to install a proper government. Thankfully, one of his former officers, Kong Zhaotong, has proven to be willing to take over. Kong also participated on the side of Qi Xieyuan but he was not the one to make the decision so we can overlook that and as such speed up the process of re-establishing proper authority. If we are unwilling to overlook his crimes, we must install a new governor from among our own clique but he will have a hard time establishing full control without the networks of his predecessor.
+Appoint Kong Zhaotong.
+Let's keep this one closer to the chest.
+Construction of the Subei Canal
+The Northern Jiangsu Main Irrigation Canal or Subei Canal has been designed to provide a direct outlet to the sea for the waters of the Huai River, which discharged near the mouth of the Guan River. In the late 12th century the Huang He (Yellow River) changed its course to discharge south of the Shandong Peninsula, thus taking over the lower course of the Huai, which thereafter discharged into Hongze Lake and thence southward through a string of lakes and waterways into the Yangtze River (Chang Jiang) near Yangzhou (Jiangsu). The Huang He remained in that course until the 1850s, when it again shifted to its present course north of the Shandong Peninsula. In the early 20th century the drainage of the Huai area had become a perennial problem.\n\nTo solve this issue a canal linking Hongze Lake with the sea has been ordered, designed not only as a channel for the discharge of floodwaters but also as the main artery of an extensive network of drainage and irrigation channels.
+We commence at first light!
+Rampant War Profiteering
+As our troops fight the battles to decide the future of China, criminals and bandits hold sway in the vast agrarian regions of the hinterland. Extorting the local population and holding whole cities to ransom through their control on the supply of food, recent shortages have only aggravated the situation, leading to many calling for intervention by the army. Overstretched and barely capable of harvesting enough for themselves, there seems to be little hope for the time being.
+That's less than ideal.
+Revenue Tax Stamps
+An old but trusted way to generate extra revenue is the use of revenue tax stamps. These stamps which are required for a wide variety of legal documents have also been placed on more common goods such as alcohol, drugs, tobacco and a wide variety of other commodities.\n\nWith the treasury in a practically endless downwards spiral, the government has seen the need to increase the costs in an attempt to generate more revenue. Protests and civil discontent has broken out almost immediately after the announcement but there is little we can do to mediate their issues.
+What about a stamp for the colour of your carrot?
+Illegal Opium-smuggling
+Whilst we have taken a decisive anti-opium standpoint as it is the tool of the Western imperialist to weaken the spirit of China, we have been unable to effectively eradicate its influence. Flowing in from the triads in the legation cities and from the Chinese hinterland, we remain stuck with an epidemic plaguing both commoner and general alike.
+We are doing what we can!
+The Salt Tax
+As in all other regions of China, salt is one of the most essential commodities in existence. This has given rise to many of the warlords raising exorbitant taxes on this product to ensure a steady revenue flow. The already heavily taxed peasants, coupled with severe food shortages originating from the near-constant state of war, is almost at a breaking point. Nonetheless, the gears of war keep turning and these expenses need funding. To 'solve' the issue, some in Chen's entourage have suggested lowering the salt tax and get the revenue from other less essential commodities. Whilst the population would be grateful for this decision, it could potentially lead to severe shortages for our armed forces.
+Lower the Salt Tax
+They should be content with the knowledge that it's all for the greater good
+Instatement of Transit Taxes
+Another ingenious way employed by the warlords of China to increase their revenue is the exploitation of Transit Taxes. These taxes which are raised based on the distance travelled by products from their source can reach exorbitant levels. This furthermore worsens the effects of shortages as well off regions won't export their products to those less fortuned out of fear of new taxation which would eradicate their profit margin. Should the product against all odds still reach its destination then the cost for the local people becomes so immense in an attempt to offset the tax burden that only those with a certain degree of wealth can afford the products.
+All for the greater good!
+Tax on Pornography
+In another display of pure hypocrisy, some of the governors under our authority have instated a so called 
+We shall send them a strongly worded letter!
+Soldiers Ambushed
+While on a regular patrol today, a group of soldiers were ambushed by a band of Kuomintang guerrillas near [?ANQ_KMT_attack_location.GetCapitalVictoryPointName], who quickly overpowered them and killed them. Further war parties have been sent out to track them down, with little success.
+Damn
+Train Bombed in [?ANQ_KMT_attack_location.GetCapitalVictoryPointName]
+While stopping to load more supplies onto a train in [?ANQ_KMT_attack_location.GetCapitalVictoryPointName], multiple KMT agents snuck up to the train, and placed multiple bombs beneath it. When they went off, they completely destroyed the train, all the supplies, and the railway it was on. These terrorists have still not been tracked down, most likely having taken refuge in some of the peasants' houses.
+When will it end?
+Officers Assassinated in [?ANQ_KMT_attack_location.GetCapitalVictoryPointName]
+Tensions remain high in the South, as we are forced to send more and more troops and military police over to keep the region secure. During some training of new military police in [?ANQ_KMT_attack_location.GetCapitalVictoryPointName], multiple Kuomintang agents infiltrated the barracks and shot multiple officers before being killed by the training troops. Following the death of those agents, multiple small bombs went off around the barracks, injuring three and costing lots to repair.
+Damn them
+Factory Bombed in [?ANQ_KMT_attack_location.GetCapitalVictoryPointName]
+Even though the factory in [?ANQ_KMT_attack_location.GetCapitalVictoryPointName] was thought to be secure, it still fell victim to Kuomintang agents. Just around midnight, suddenly explosions echoed throughout the area, as a bomb was set off in the industrial district, damaging a factory. This is sure to be bad for business.
+Damn them
+Gunfight in [?ANQ_KMT_attack_location.GetCapitalVictoryPointName]
+Since the defeat of Chairman Wang Jingwei, tensions have remained high in [?ANQ_KMT_attack_location.GetCapitalVictoryPointName]. The military presence and Kuomintang sympathies have remained very high. It was bound to boil over eventually, as it has today. A man, dressed as a regular peasant, was walking past a group of soldiers, when suddenly he drew a pistol and began to shoot at them. Though that man was killed quickly by the troops, it was in fact a distraction, as while the man was being killed, a large group of Kuomintang troops charged at the soldiers from the other side, and shot them all. As the day went on, more loyal soldiers joined the fighting, but were countered by more Kuomintang attacks. Dozens, maybe hundreds were killed, but thankfully, by the evening, the fighting had dwindled, and order was secured.
+I'm sure it won't be the last
+Heavy Factory Bombing in [?ANQ_KMT_attack_location.GetCapitalVictoryPointName]
+Though the KMT have been defeated on the field, their terror campaign rages on. Today, multiple bombs were set off in [?ANQ_KMT_attack_location.GetCapitalVictoryPointName], centred around the main industrial complexes. Though there were no casualties, the factory has been very badly damaged, and will be unable to work for a while. From what the Kuomintang have said, we should probably get used to events like this, until we have rooted them out for good.
+Damn them
+Battle in [?ANQ_KMT_attack_location.GetCapitalVictoryPointName]
+[?ANQ_KMT_attack_location.GetCapitalVictoryPointName], still a hotbed of Kuomintang activities, has faced a massive confrontation by the KMT. Around 400 Kuomintang troops went into the main square of the city, killed any police and soldiers in it, and quickly entrenched themselves with hastily put together fortifications. It took multiple pushes from hundreds of our own troops to be able to get back into the square and clear it of their guerrillas, who quickly retreated into the back streets, eventually harboured in the homes of many of the peasants living there. However, the officer leading the attack decided that these KMT must be rooted out of [?ANQ_KMT_attack_location.GetCapitalVictoryPointName], and so sent out around 200 soldiers on a killing spree throughout the city. Hundreds of civilians were lined up and shot, and the houses of many were burned to the ground. When Chen heard of what some are calling the [?ANQ_KMT_attack_location.GetCapitalVictoryPointName] Massacre, he had the officer arrested, but that was too little, too late.
+The [?ANQ_KMT_attack_location.GetCapitalVictoryPointName] Massacre was the KMT's fault
+Mass Railway Bombings in the South
+Early today, multiple bombs were set off on a railway across the south of our territory. This was a very well organised attack, due to the number of bombings spread out across multiple provinces. The attack has crippled the railway and will be felt throughout, greatly hurting our abilities to move troops and deal with the KMT, not to mention repair the damage. This is a disaster.
+They must be dealt with
+Multiple Factory Bombings
+In the very early morning, multiple factories were bombed across the south in our country. The attacks were obviously coordinated closely and can have only come from the KMT. However, this time, there were already many workers present and dozens have been killed. This has been among the most brutal attacks the KMT have perpetrated.
+This must end immediately
+KMT Headquarters Encirclement
+Months of tracking KMT activities, months of frustrating their efforts and months of planning have finally paid off. The new headquarters of the few terrorists that remained after Wang Jingwei's defeat has been located and completely razed to the ground. Now that we have worked against them for so long, their resources are completely exhausted and we can finally call the movement of the Left KMT destroyed. Their traitorous rebellion is no more.
+Finally
+Opium Storage Warehouse in Xuzhou Destroyed
+Yiguandao followers, who are weirdly upset over opium use in Shandong and Jiangsu, have attacked and destroyed an illegal opium storage warehouse in Xuzhou. While having less opium isn't necessarily bad, they also killed everyone nearby. When soldiers arrived, they then continued to resist. We cannot let the Yiguandao religion continue to exist, as its followers cause too much chaos.
+Barbarians
+Assault on Merchant Caravan in the North
+Yiguandao adherents have robbed a merchant caravan and killed dozens that were travelling along with the caravan train. Again, this shows the kind of violence and brutality adherents of that crazy religion are capable of. We must root out the strange delusions of these people or things will get worse.
+Disgusting
+Soldiers attacked in Northern Village
+Soldiers on patrol in a northern village were attacked out of nowhere by a large band of dozens of homeless Yiguandao followers. These people, whose association with their religion has caused them to already lose everything, reverted to robbing and looting, which had caused the village to institute a patrol. But still, the village wasn't safe, as nearly twenty have now been killed.
+Those rats
+Town Invaded by Yiguandao Adherents
+Again the Yiguandao have caused massive chaos by invading and occupying an entire town. After the Yiguandao expelled all the former owners, soldiers were sent out to investigate, only for them to see the entire town barricaded. A large number of soldiers were required to drive off the Yiguandao adherents before the village people could return home. Hundreds of Yiguandao were killed, and many soldiers too. Things are getting too crazy.
+That is bad
+Yiguandao Fanatics Take Over Military Barracks
+In response to recent military actions against the Yiguandao, they have no chosen to attack and take over a military complex at the edge of a city in Jiangsu. Hundreds swarmed the barracks, killing many soldiers, after which barricaded themselves within. Soon, the city fell into chaos as looting became widespread. There are even reports of rapes. The military action required to take back the barracks was brutal, leaving nearly a hundred dead.
+Things are getting worse
+Railway Occupied in Jiangsu
+The Yiguandao, again showing their anger at their treatment, have barricaded and occupied an entire railway, even destroying it at some parts. The action required to take it back left many dead. While before they mostly left the infrastructure alone, they have now begun to also attack the lifeblood of our country, on which much of our economy rests. The Yiguandao has proven to be a major threat.
+Our railroads must be protected
+Massacre of Yiguandao Followers
+A stand-off between Yiguandao adherents and soldiers in a Yiguandao camp has escalated into a massacre. After the religious fanatics refused to leave, which they had been ordered by the soldiers as they were harassing nearby city folk, the soldiers began doing this by force. This lead to a counter-attack, which made the officer in charger decide to begin shooting. However, the shooting didn't stop until there was not a single Yiguandao follower left. Nearly a thousand are dead. While Chen Tiaoyuan has fired the officer for this excessive use of force, Yiguandao unrest is likely to only get worse.
+This doesn't look good
+End of the Yiguandao
+The Yiguandao threat can finally be said to be neutralised as the last sect was destroyed, its members thrown into jail. It took a lot of policies and military action, but now the northern countryside can finally be declared safe again. The damage that the rotten religion of the Yiguandao did to our country will long live in infamy. But now they are gone and we won't let them come back.
+Finally peace
+Training Mission to Anqing
+The Anqing Clique is in dire need of additional troops to be able to meet the League. Should we send a large training mission to them? While a victory for them would be an enormous boost to our influence within China, this training mission would constrain our own training abilities for at least a while.
+Let's do it
+Not worth the cost
+Fengtian Training Mission
+The Fengtian Government, in their support of our efforts, has sent a large training mission to us, consisting of Chinese and Japanese drill sergeants and other officers. This should help us set up the large army necessary for a conflict with the League.
+Great news
+Shandong is Defeated
+The vile regime in the Shandong Clique, which thought to expand its domain by attacking us when we were weakest, has been ousted. We now control the streets of Jinan and will make sure the memory of the former rulers of Shandong will disappear completely. However, we will have to soon decide what we will do with the region, as a continued military occupation is untenable.
+Excellent
+Left Kuomintang is Defeated
+The radical leftist regime that was the Left Kuomintang has now been defeated in the field. They will have to retreat back to their hidden bases and won't be a serious military threat any time soon, as all of their forces have been crushed.
+Excellent
+Anqing Takes Control of Shandong
+The Anqing Clique has emerged victorious against both the Nanjing Clique. However, the Shandong Clique intervened in their conflict and in the resulting struggle, Anqing has occupied Shandong.\n\nHowever, Anqing has no claim to Shandong and as they recognise us as the rightful national government, they must be willing to hand the Shandong Province over to us.
+Issue a request
+Let them have it, they'll owe us
+Qing Offers Us Shandong
+Qing Demands Shandong!
+Fate of Shandong
+The Qing government, knowing very well that we will owe them after this, offers us to remain the marshals of Shandong Province. For now, at least. We have no true claim to Shandong and the Qing government knows this. They will almost surely use this as leverage in future negotiations.
+We have recently begun a military occupation of Shandong after kicking out the vile regime there. However, we have no formal claim to Shandong and recognise our Qing benefactors as the legitimate government of China. They have reminded us of this and are now forcing us to hand over Shandong. Due to our current weak position, we have no choice but to accept and hand control over to them immediately. However, we will not forget that they were so eager to expand their dominion.
+We agree
+Anqing Occupies Shandong
+Our ally, the Anqing Clique, has successfully seized control of the Shandong Province, which foolishly intervened in Anqing's war with the Nanjing Clique. However, the Anqing government has little justification to annex the region and recognises us as the legitimate government. While we can't annex the region ourselves right now, as that would make Qing too wary, we can ask our allies to temporarily install an autonomous puppet government. Once the war begins, we can then proceed to take control of the region. Of course, our allies won't like doing this, but it's the best option.
+Excellent
+Puppet Shandong
+Our benefactors, Fengtian and Japan, have pressured us to not hold on directly to the Shandong Province. While this is unfortunate, we understand it as we have no rightful claim to the province. Thankfully, they will allow us to install one of our own, Liu Heding, to rule the province for the time being. He will have some autonomy, but remains loyal to us.
+It's the only option
+Shandong Threat
+The vile regime in Shandong has intervened in the conflict and in the process, occupied parts of our core territory. Their army is not strong and the only reason they were able to do this was that the League was distracted by us and the Kuomintang. We must act immediately.
+The vile regime in Shandong may not have taken any territory, but they are unable to keep Yiguandao adherents or opium addicts from swarming into Jiangsu. Furthermore, with their current leadership, they are likely to attack us very soon. We need to act soon.
+We'll prepare
+Declare war
+Wuchang-Anqing Railway
+The Qing city of Wuchang and our own city of Anqing are booming. Furthermore, they are located quite strategically in our interiors. As a result, developing them and the surrounding areas together with our Qing benefactors could be very useful. This should start with an expanded railway that serves to connect Wuchang and Anqing with our own railway networks. First, the railway from Nanjing to Wuhu will be extended along the Yangtze to Anqing and then further to Wuchang, passing by Jiujiang, which is already connected to Nanchang and Hangzhou by a large railway. This will not only link Wuchang and Anqing, but also Nanjing and Wuchang, bypassing the need to go north through Xuzhou, then west and then south through Zhengzhou.
+Begin the works
+It's not worth it
+Further Wuchang-Anqing Development
+The Wuchang-Anqing Railway has been completed! Using our experience from renovating the Longhai Railway and other projects, Anqing workers were able to turn the project into a massive success.\n\nHowever, railways are not enough as we also want to develop the region's industry, particularly its military industry. For that reason, we should work with Qing enterprises and also Nanjing enterprises to develop new armament factories.
+Make preparations
+The Beijing Liaison Council
+The Beijing Liaison Council is the official organisation representing the interests of the Qing government. Its goal is eventually achieving the complete unification of China, starting with the merger of the states controlling the Northern and Southern Capitals. It is hard to say exactly how much funding and support they will receive from the Qing government, but we can be sure they will try to get what they want.
+We'll wait and see
+Beijing Liaison Council Offices
+The Beijing Liaison Council has just opened their new office in Nanjing. The building is quite impressive and hard to miss, as it has been built in a classical Chinese Imperial style, right in the middle of the city and not far away from Chen Tiaoyuan's residence. They are definitely aiming big.
+Impressive
+Banditry Issue
+While we might have cleared out the countryside from the most egregious troublemakers, bandits remain all too common on the roads, something which we can do little about as we have an enormous population, of which many are poor. However, while we may not be able to reduce the number of bandits, we can protect trade and peaceful travellers. A problem is that our country is massive and our administration limited. The Chines Unity Council has approached us with a solution. If we allow Qing troops and local militias to cross the border to accompany travellers, that will take a lot of the pressure of our forces.
+Good idea
+We won't let Qing troops in.
+Safe Railways
+Not only our roads are dangerous, our railways can be too. Too often bandit gangs force trains to a halt and rob them blind. Since there is a lot of train traffic between our country and Qing, we should again allow Qing troops to remain with the trains in order to make guarding them much more efficient.
+Good idea
+We won't let Qing troops in.
+State of the Five Provinces
+While we have indeed brought together the Five Provinces and defeated the traitorous Nanjing Clique, this beautiful region of China no longer looks the same. Instead, war and destruction have descended upon it, and we have to admit that we played a role in bringing this devastation to the land. But now the time to rebuild has come - a time to return the currently militarily occupied provinces back to civilian rule and make the Five Provinces truly whole. We will have to begin reconstruction and repair not only the ravaged countryside but also our industry, which now lies derelict as a result of Westerners fleeing and damage in the war. There's a lot of work to do.
+We'll make this country whole again.
+Kuomintang and Yiguandao
+We have neutralised the state threats to our north and south, but unfortunately, the problems did not end there. The Kuomintang, though defeated in the field, have returned to their former bases hidden in Fujian. They will continue to wreak havoc if not dealt with swiftly.\n\nThe Yiguandao might no longer have Zhang Tianran, the fanatics continue trying to inspire a whole-scale religious revolution and are still heavily active within our territory. We will have to deal with them as well.
+We'll root both movements out.
+Qing Court Jurisdiction
+The Beijing Liaison Council has made a new request of Chen's government. They say that in order to ease cooperation and be sure of the safety of citizens in either country, it should now be possible to be tried by Qing courts in the Anqing Clique as a Qing citizen. Saying yes would give quite a lot away, as all our citizens are technically also Qing citizens. It would mean that in the end, it are the Qing courts that have supreme jurisdiction. However, if we say no, the Qing might be unwilling to lend valuable aid as they cannot be certain of the legal rights of their companies and citizens.
+Give the Qing courts power.
+Refuse them.
+Qing Legal Rights
+While we recently rebuffed the Qing request to allow supreme jurisdiction of their courts in our territory, they have demanded we guarantee the rights of their citizens and companies in a different way. We will have to make special definitions for them and afford them special rights that they would usually not have, as their judicial system is far more advanced than ours. This will most likely not fall well with our population.
+Grant special rights.
+Qing Businesses
+Qing businesses are becoming more and more eager to invest also in our country. However, they are telling us they have often been rebuffed by local governments and hurdles set up on a local level. The Beijing Liaison Council is now lobbying that we set up systems so the businesses can circumvent these local governments and operate partially under Qing law. While this might stimulate investment, it carries the risk of making it hard for local companies to compete.
+Accept the proposal.
+We won't be unfair.
+Qing Investments Soar
+While possibly dubious and very likely unfair, allowing Qing businesses to more easily do business in our resource-rich country has proven to be very beneficial as we have recently noticed a significant influx of investments from the north. It seems like cooperating does have its benefits.
+While we may not like the way it happened, we have to admit that the special considerations made for Qing enterprises have led to a significant increase in their investments. Maybe we should have accepted the first time around.
+Great news after all.
+Qing Sends Another Offer
+We had hoped that the Qing would not further pursue the issue, but alas, they did. The Beijing Liaison Council has voiced its very serious displeasure with our recent actions. They have also made another request, this time even more far-reaching. Not only do they want ways for Qing businesses to circumvent local governments, but they also want us to establish a special committee representing their interests and give them a formal voice in government. They have also let us know that the consequences for refusal will be far more significant this time around.
+We'll have to accept.
+We still can't accept this.
+Qing Punishes Businesses
+Qing was not happy at all with our actions and as a result, has implemented some temporary sanctions against companies operating in their territory. This will most likely hurt for a while.
+That's not nice.
+Puyi Visits Nanjing
+The Emperor Puyi himself has visited Nanjing in a grand ceremony. Both Wu Peifu and Chen Tiaoyuan were present and publicly reaffirmed the north-south friendship and Anqing's continuing recognition of Qing's supremacy over China. While in the past decades, the people of China had trouble accepting that an Emperor reigned over them once more, acceptance is growing of His Majesty. How will Nanjing react to his presence?
+Nanjing welcomes him with open arms.
+Protests litter the streets.
+Beijing Liaison Council Reprimands Chen
+Chen Tiaoyuan was called for an audience with the emissary of the Beijing Liaison Council, where he was reprimanded for his inadequate reaction to the protests when the Emperor visited Nanjing. The Council demands an apology as well as Anqing fully funding a project to build a large imperial palace for Puyi to visit in Nanjing.
+We're sorry
+They can't ask that!
+Imperial Palace in Nanjing
+The Beijing Liaison Council has relayed a message from Emperor Puyi himself in which he requests permission to construct a palace complex in Nanjing, so he can visit Nanjing more often and see his southern subjects. He says that due to our excellent handling of his visit, we will not have to pay anything ourselves. The palace, to be named as 'Dazhi Gong' (Palace of Great Governance), will hopefully serve as a symbol of the empire's enduring grandeur: from war has come a monument to last the ages, and peace within the realm secured along with it. Of course, whether the imperial treasury can really bear any such expense is very questionable indeed, but we'll let Beijing work that one out.\n\nThe design of the palace is to be along lines somewhat different from those of past imperial palaces; the overall design faces south as is traditional, but wings extending outwards from the central complex (which holds the imperial quarters) will offer a more expansive functionality along the lines of Western architecture's parliamentary complexes. Two houses branching off will maintain a symmetry in the design, with a special area to the rear reserved for veneration of the imperial family and the emperor's personal ancestral worship. Furthermore, behind each house there is to be a series of studies and collections reserved for books or meeting rooms, a practical layout rather than the (rejected) scheme for a system of gardens surrounding the houses. Of course, gardens will still be present in some form — koi ponds and rock gardens will dot the interior of the structure and, under careful supervision, an elegant design will be arranged in the central courtyard that suitably reflects the harmonious state of the empire.\n\nTranquillity will always reign there, even as we grapple with the realities of maintaining our tenuous rule.
+It's not like we can say no.
+Gathering of Intellectuals
+At the initiative of the Beijing Liaison Council, various Chinese intellectuals from across the country, especially Nanjing and Beijing, have gathered and come to the same conclusion: China must unite now, rather than later. While they admit political differences might be difficult to overcome and that a Qing monarchy is not ideal, they say that reform can always come later. The Qing government has broadcasted this far and wide, saying that now is the time to unite. Chen Tiaoyuan, pressured by nationalist groups, has made the following statement:
+We will accelerate the process!
+Local autonomy trumps unification.
+Qing Spreads Counter-Message
+Unfortunately, Qing did not take Chen's words about autonomy very well. In fact, they felt they were so bad that they began an active messaging campaign throughout our country, throughout all of China, actually. Their message mostly consisted of arguments 'debunking' Chen's words. It will be hard to prevent it from spreading.
+Unfortunate.
+Canal and River Authority
+Our recent experience with developing dykes and our effort to complete the Subei Canal has led the Beijing Liaison Council to approach us for projects of a scale not limited to our current territory, but also in Qing lands. Do we accept their offer and cooperate with Qing to construct additional canals? If we do, first we will aid them. After they have finished, they will aid us with additional construction in Jinhua and Hangzhou.
+Yes, help them.
+No we can't afford that.
+Deepen Army Cooperation
+Now that we share common goals and are united with Qing in an alliance, it is time our armies begin working together more closely. The Beijing Liaison Council in Nanjing has set up a new department known as the Army Cooperation Commission, which will work towards the goal of further integrating our military forces. The first steps have already been made. Now this Commission has come again to Chen and requested additional cooperation. Are we interested?
+While last time we rebuffed the Army Cooperation Commission's request for additional cooperation with Qing, they have now come again asking if we want to further integrate our militaries. They say we need not worry and that the units will continue to answer to Chen Tiaoyuan primarily.
+No, what we did is enough.
+We can take the next steps.
+Integrated Command Structure
+The Army Cooperation Commission has presented its plan for deepening military ties between the Qing and Anqing armies. First of all, they have proposed a limited integration of both countries' command structures. It especially involves introducing the more modernised Qing structure to the outdated warlordist armies of Anqing. While this may give Qing greater power over our armies, the benefits cannot be denied.
+Yes, execute the integration.
+No, we don't want to give away control.
+Shared Officer Training
+Recently, the Army Cooperation Commission has noticed that miscommunication is a frequent issue in the newly integrated command structures. To remedy this, and also to give Anqing officers a much needed tactical refresher, a shared officer training programme provided by Qing generals has been proposed. This should surely improve results further.
+Good idea.
+We don't want that.
+Defensive Training
+Now that there is some proper integration between our armies, it is time to test them in action. Large military exercises have been planned by the Army Cooperation Commission, focused primarily on defence against our enemy, Fengtian. This should hopefully better prepare our divisions for the gruelling work of defending against enemy invasion.
+Yes, participate in the exercises.
+No, we won't participate.
+Provisional Currency Backing
+A while ago, we have set up a provisional currency that is shared throughout the Provinces. It has been a great success, improving trade and easing limitations to moving around the provinces. But now [getanqally] has approached us if we are willing to let them back the currency, with their central bank controlling it. The currency would remain separate and technically their central bank would only make decisions with their approval, in reality, it would still amount to losing some control. However, [getanqally] backing the currency would make it significantly more stable and would also speed up adoption, further improving its use.
+Yes, we'll let them back it.
+No, we want full control.
+Wu Meets Chen
+Wu Peifu has come to meet Chen in a strictly personal meeting. Wu Peifu travelled with only a small entourage and it was clear that he was not here to propagandise Qing, but only to convince Chen. Wu appeared weary, but he also exerted an aura of power, one that even Chen could not match.\n\nThe meeting took no more than two hours, with Chen Tiaoyuan emerging from the room without a smile, sunken in thought. It quickly became clear that Chen had little retort to Wu's eloquence and arguments. China had to be united, and soon.
+We can trust Wu.
+Public Qing-Anqing Conference?
+The Qing have approached us with the suggestion of holding a large public conference between our leaders in Nanjing. Puyi's visit to Nanjing was a major success and as such the Qing have asked if we again allow Puyi to visit. They also mentioned it would be nice to hold the event in Puyi's new palace in Nanjing. Now the question is, do we agree to hold the event?
+The Qing have approached us with the suggestion of holding a large public conference between our leaders in Nanjing. Puyi's visit to Nanjing was a massive failure and as this time the Qing have decided to let Puyi stay home. They hope we can move past that unfortunate incident. They did mention his new palace in Nanjing could be used as the location. Now the question is, do we agree to hold the event?
+Yes, hold the event.
+No, they'll have to stay home.
+Outcome of the Conference
+The conference took multiple days. Tens of thousands of people visited to get a look at the national leaders of China. Wu Peifu and Chen Tiaoyuan seemed friendly and could frequently spotted shaking hands for a photograph. But now comes the big question, was any real progress made? Did Chen agree to new concessions to Wu?
+Unification is now a lot closer
+Progress was adequate.
+Almost no progress was made.
+Qing and the Dalu Yinhang Loans
+The Qing have approached us with the following enticing offer: they say they will significantly relax the lending conditions placed upon us by the Dalu Yinhang loans, practically making the debt service so low it's almost free. In return, they do want us to make some additional steps on integration and future unification. Is this worth it?
+The recent Dalu Yinhang loans we took out have provided much-needed capital for industrial expansion. Now the Qing approach us with an offer for additional loans, in similar vein to the ones we received from Dalu Yinhang. This requires us to make a decision. Are the loans worth the additional expectation that the Qing will certainly expect from us concerning unification?
+Yes, accept.
+No, not worth it.
+Wu Meets Anti-Concessionists
+The true leader of the Qing government, Wu Peifu, recently met with various leaders of the Anti-Concessions League. This news came to Chen's ears through one of the more pro-republican Anti-Concessionist leaders, who has been asking Chen to take a strong stance against Qing and proclaim an independent republic. Of course, Chen very well knows that he has neither the backing nor support required for such a move and has instead aligned much more closely with the Qing. Chen also forgives Wu Peifu, for he respects the man. Still, it is unfortunate Wu Peifu went behind his back.
+Sneaky bastard.
+Extra Aid from Qing
+Our cooperative approach to the rebuilding has already led to an influx of support from Qing, but much of this was handled by local governments and through smaller initiatives. However, their government has decided to also provide additional support, so reconstruction can be finished more swiftly and with fewer obstacles.
+All help is welcome.
+Emergency War Production
+To oversee our mobilisation and defence, a special committee has been organised with a Zhili liaison from Beijing and our own industrial experts. By constructing military rail networks and naval supply connections through China's many rivers, this specialised group will aid us in resisting the traitors surrounding us. Lu Gongwang has been appointed its head, and has already set about laying out the necessary plans. A corps of engineers will coordinate the restoration of rail networks; a group of merchants will aid us in streamlining river shipments (not for free, of course).\n\n[ROOT.GetLeader] is hopeful that this can lead to a much more productive war effort, since a great deal of our equipment must come from suppliers in Zhili territory; of course, the programme's success is dependent upon our retention of certain key points or else we may find ourselves unable to effectively ship in the (badly needed) armaments. Another, unspoken, factor worth considering is that our failure to hold them would be taken as a sign of our poor odds — and deteriorating relations with Beijing could prove catastrophic.
+A splendid initiative.
+Fortifications Commission
+There is no question that the port of Hangzhou is one of the most vital routes of supply for our army, and control of the surrounding lands is necessary to prevent an enemy from interfering with our logistics. Our benefactors in Tokyo are not inclined towards patience, and so we must secure it as soon as possible to allow the badly needed weapons they offer to flow into the hands of our soldiers.\n\nTo this end, a special commission has been set up, so that our friends across the sea and our men in the field will both be confident in our control of the region. If we can demonstrate our capabilities to the Japanese advisor who will be established as an aid to our own engineers, then further aid will doubtless be quick to arrive. Wu Yinchan has been appointed head of this commission, given his practical outlook and good grasp on the realities of our situation, unlike some younger officials who might balk at collaborating militarily with the Japanese. Hopefully the rest of the country will come to see it the same way, in time.
+Let's get to work!
+Instructors From Across the Sea?
+As part of our newfound cooperation with Tokyo, most recently exemplified by the university exchange programme, some of our officers have pointed out another opportunity for our partnership to bear fruit: Japanese-trained officers could be invited to further strengthen our ties.Of course, it's unlikely those the army can spare would be of the greatest quality, but even so — a group of men with experience in a top-notch military academy could be a great boon to our command structure.\n\nOn the other hand, if they fit the pattern we've noted so far, they'll quite likely be in possession of some egos to match their experience, and our younger officers in particular might not take it all that well. This initiative, spearheaded by Wu Yinchan, has in fact already provoked some controversy in the form of muted protests against this extension of our collaboration. The IJA is unlikely to deny our request, at least, though their motives are probably not entirely pure. After all, wouldn't this give the Japanese the perfect opportunity to observe our own training methods firsthand, too?
+Let's give them a warm welcome!
+We'd really best not...
+The People's Self-Reliant Army
+As part of our government's efforts to extend a helping hand to those in the countryside, [ROOT.GetLeader] has proposed a solution to the issues of defence against bandits or would-be looters from enemy armies. After all, Anhui Province is one of China's greatest agricultural regions, and indeed all of the Five Provinces have significant yields, so securing them for ourselves is crucial — and this scheme would likely make us quite popular to boot.\n\nThe arguments against stationing an army in these valuable farmlands are obvious: they would likely turn to terrorising the populace, as indeed many have in the past, and supplying them such that they wouldn't feel the need to is a logistical nightmare during wartime. There is, however, one group of people to whom neither problem would apply: the farmers themselves. If they were to be organised into a Min Zili Jun, a People's Self-Reliant Army, then protection could be delegated almost entirely to them. Of course, a small garrison of our own would have to be stationed at each stockpile of munitions, and we certainly won't give them any more guns or ammunition than we feel to be necessary, but who would be more determined than they to protect the crops?\n\nIn reality, the efficacy of this scheme is doubtful to say the least, but it is a relatively small expense which will earn us a good name and may even reduce unrest where it is implemented.
+Well, I guess it's worth a try.
+Coordinated Crackdown on Vice
+'Everywhere the people are enslaved to foreigners who would try to exploit the mountains and rivers. Everywhere it is a natural result that the people will rise up to defend the Great Qing and their emperor, yet some men are foolish and would endeavor to stop this. Can we yet allow such a conflict to persist?'\n\nSo spoke [ROOT.GetLeader] in a recent address to the governors, and the court in Beijing has responded by issuing an edict proclaiming a joint effort to put an end to all forms of corruption and drug use within our domain. Perhaps they were somewhat too eager to help, but it is appreciated nonetheless, and already we have established groups in charge of surveying these issues. The process will be a long and hard one, yet we are confident it will ultimately bear fruit, and even a limited success must be better than none at all. Of course, there is no question that we face many disadvantages in attempting such a project in an area both recovering from wartime devastation and well-inoculated against any form of meaningful government interference.\n\nEven so, we have already made significant strides in eradicating corruption from our administration, and as for the drugs... well, we'll do what we can, anyway. Ma Dengying is optimistic, having taken personal charge of these efforts, and predicts the total eradication of opium within this decade; others feel that launching such a campaign right now would do more harm than good. Regardless, perception is what matters here, and if we are seen to be taking a hard stance against the opium plague currently gripping our people then our popularity can hardly suffer for it.
+It's a start, and the first step towards prosperity.
+The Literacy Issue
+Literacy is essential to any productive populace, as the primary means by which new skills can be acquired — skills essential to economic growth and a better society overall. To increase our own (dismal) literacy rates, we have decided to institute several new programmes.\nFirst, soldiers will be given basic instruction in reading the characters most useful for military operations, so that they can independently comprehend written orders.\nSecond, all local leaders will be ordered to report for a review of their literacy; if it is found to be at a level too low for them to effectively do their job, they will undergo training to remedy this.\nThird, and perhaps most importantly, we need to increase the availability of basic education amongst the peasantry. Many live too far from any kind of school to possibly attend, or feel that the effort of sending their children away is simply not worth it. This has to be addressed: every child must have the opportunity to learn to read for their future development, or else we will surely begin to stagnate intellectually.\n\nIn fact, the Wu family serves as an excellent example of what proper education can lead to: Wu Zhuozhi is an accomplished mechanical engineer whose automobile designs are presently fashionable amongst our officials, his brother is also a well-known engineer, his sister-in-law is a celebrated teacher, and his niece Wu Jianxiong has an even more brilliant mind — her insights into physics are already making waves. All this was possible for them because of their access to the National Southeastern University (also known as Jiangsu University), and now it is our goal to spread this same potential to each and every province. It is no easy task, but perseverance will see us through.
+In teaching, there should be no distinction of classes.
+[ANQ_GetAngerChangeTitle]
+[ANQ_GetAngerChangeDesc]
+[ANQ_GetAngerChangeOption]
+Qing Government Unsatisfied
+Our Qing benefactors have let us know they are very much unsatisfied with how things are going in the relationship between us. While we have worked hard to cooperate and become closer, recently we have rebuffed plenty of their proposals. They have begun using their agents against us and are now actively sabotaging us if we do not show remorse.
+While their anger has reduced somewhat recently, the Qing government continues being unsatisfied with our actions and we most definitely cannot afford to anger them more. We must be careful.
+That's not good.
+Escalated Qing Conflict
+The conflict with our Qing benefactors has escalated as we have only angered them even more with our recent actions. Their sabotage has reached higher levels and it has become difficult to continue normal governance under these circumstances, partially because we have become so dependent on Qing. We need to do something soon.
+The Qing government is no longer furious, but the conflict between our governments remains very escalated. It is paramount we work on solving the problems between each other. We cannot afford a mistake.
+This may not end well.
+Qing Is Furious
+Our Qing partners have let us know they are absolutely furious. The Anqing Clique has failed all of their expectations and has backtracked on multiple promises. Our government has become increasingly unstable as tensions mount.
+The Qing have lifted the major obstructions to our government and relations have normalised somewhat, but they continue to be extremely bad. It will still require a lot of effort from our side before things start improving again.
+We should probably back down.
+Qing Obstructs Our Government
+As the conflict has escalated even further, Qing has now begun to obstruct all elements of our governments. They have sent troops and agents right into our territory to disrupt our communications and they have begun approaching our governors if they maybe want to switch allegiance. Knowing them, they might even be willing. We need to take back control or accept Qing demands.
+Placating them would be better.
+Qing Relations Restored
+The conflict with the Qing has been resolved as they are no longer as angry as before. We must be careful not to let this happen again.
+Back to normal.
+Chen and the Anti-Concessionists
+Chen Tiaoyuan is the undisputed leader of the Anqing Clique. He rules supreme, with his friends and allies holding all positions of government. However, Chen does not have the personal relations nor the military backing to fully rule autocratically. No, the only reason he is where he is now is his support for the Anti-Concessionist Movement. This support was a gamble, one that paid off very well. But it also means that he is dependent on them for his political support. Should he lose it, his governors and military will easily find someone else.\n\nThat is why Chen must remain friendly with the movement. But this is no easy task, as it is fragmented, consisting of numerous organisations and coalitions. By far the biggest player is the Anti-Concessions League active in all of Eastern China but now particularly influential within the Anqing Clique. This League is itself divided, with two groups being the most prominent, namely the Republicans and the Monarchists. Both groups advocate a swift reunification of China, but only with their government of choice. Within the Republican group, there is also a small minority who support neither the [QIE.GetName] nor the Fengtian government and instead advocate Chen proclaim himself a national leader.\n\nChen will have to balance many interests if his government is to succeed. On one hand, he must keep the former military men and local leaders who underpin the rural order as friends, but this means collaborating with those who supported Sun Chuanfang's traitorous government. He must also make significant reforms to appease Anti-Concessionist radicals, which again comes with its own problems. But it is certain that with much of Eastern China under his control, no one will be able to ignore Chen.
+Interesting.
+Zongchang Rules Shandong
+Zhang Zongchang, known also as the Dogmeat General and widely reviled and hated within China, rules Shandong. He is an old ally of Fengtian, meaning that we are, in a way, also allied. However, Zhang certainly has ambitions within the Five Provinces. So while for now his moves against the League make our war easier, in the end, we will have to deal with him somehow.
+Okay.
+No Intervention
+Fengtian has completely removed itself from the dispute between Shandong and us. This leaves us no other option than to immediately move on Shandong and deal with it ourselves. Words will not help when dealing with Zhang Zongchang.
+War it is.
+Talks Break Down
+Fengtian's mediation is failed and all diplomacy with Zhang has ceased. We must act now and move against him!
+War it is then.
+A Deal is Made
+A deal has successfully been brokered with Shandong, meaning that at least until the defeat of the Kuomintang, we have peace in the north. But the situation has most definitely not been permanently resolved.
+Temporary peace.
+Diplomat Offers Deal
+A lowly diplomat within our own bureaucracy has taken it upon himself to prevent war between Shandong and us, believing that Fengtian's failed mediation was no reason to give up hope. The diplomat went out on a limb and approached Shandong, meeting with Zongchang at the risk of his life. But for once, Zongchang was reasonable and accepted the diplomat's proposal, which involves Shandong giving up all of its territory outside of Jiangsu for now. This does mean they will, temporarily, administer Jiangsu, which is one of the Five Provinces. But considering the Kuomintang are the more acute threat, this should be acceptable.
+A lowly diplomat within our own bureaucracy has taken it upon himself to prevent war between Shandong and us, believing that Fengtian's failed mediation was no reason to give up hope. The diplomat went out on a limb and approached Shandong, meeting with Zongchang at the risk of his life. But for once, Zongchang was reasonable and accepted the diplomat's proposal, which involves Shandong holding onto the Jiangsu territory it acquired. This does mean they will, temporarily, administer at least parts of Jiangsu, one of the Five Provinces. But considering the Kuomintang are the more acute threat, this should be acceptable.
+A lowly diplomat within our own bureaucracy has taken it upon himself to prevent war between Shandong and us, believing that Fengtian's failed mediation was no reason to give up hope. The diplomat went out on a limb and approached Shandong, meeting with Zongchang at the risk of his life. But for once, Zongchang was reasonable and accepted the diplomat's proposal, which involves us ceding Jiangsu to them. This does mean they will, temporarily, administer Jiangsu, one of the Five Provinces. But considering the Kuomintang are the more acute threat, this should be acceptable.
+A lowly diplomat within our own bureaucracy has taken it upon himself to prevent war between Shandong and us, believing that Fengtian's failed mediation was no reason to give up hope. The diplomat went out on a limb and approached Shandong, meeting with Zongchang at the risk of his life. But for once, Zongchang was reasonable and accepted the diplomat's proposal, which involves us ceding only Xuzhou, a part of Jiangsu, to them. This does mean they will, temporarily, administer a part of Jiangsu, one of the Five Provinces. But considering the Kuomintang are the more acute threat, this should be acceptable.
+This deal is reasonable.
+War is the better option.
+Fengtian Backs Us
+The conflict with Shandong has escalated and led to war, but thankfully the Fengtian Government has decided to support us and not Zhang Zongchang.
+Good.
+Fengtian Backs Shandong
+The conflict with Shandong has escalated and led to war, but the Fengtian Government has decided to support Zhang Zongchang and not us!
+Bad.
+The Shandong Issue
+Now that the war is over, we will have to deal with the Shandong issue once and for all. We will not accept any temporary deals, only permanent solutions. Currently, Zhang Zongchang is stuck with only Shandong, something he most likely finds himself much too important for. As a result, we can soon expect Fengtian to approach us with some kind of suggestion to cede parts of Jiangsu to him. This, of course, is unacceptable. The unity of the Five Provinces must be preserved.
+Now that the war is over, we will have to deal with the Shandong issue once and for all. We will not accept any temporary deals, only permanent solutions. Currently, Jiangsu (Xuzhou, Yancheng, Nantong states) is split between us and Zhang Zongchang. This is unacceptable as Jiangsu should be united and under our control, as it is one of the Five Provinces. We will immediately lodge a diplomatic protest with Fengtian, who will hopefully back us against the madman that is Zhang Zongchang.
+Now that the war is over, we will have to deal with the Shandong issue once and for all. We will not accept any temporary deals, only permanent solutions. Currently, Jiangsu (Xuzhou, Yancheng, Nantong states) is under Zhang Zongchang's rule. This is unacceptable as Jiangsu belongs to our critical territory as it is one of the Five Provinces. We will immediately lodge a diplomatic protest with Fengtian, who will hopefully back us against the madman that is Zhang Zongchang.
+Let's see what happens.
+The Reclamation War
+The Shenyang Conference, held by Fengtian, has just concluded. They have, at our request, adopted a strong Anti-Concessionist stance. This is great news and will make it much easier for us to justify joining their Reclamation War against Beijing. However, we must also consider other factors if we wish to truly make the correct decision.
+The Shenyang Conference, held by Fengtian, has just concluded. They have blatantly disregarded our suggestions and have refused to adopt a firm Anti-Concessionist stance. However, before we refuse to join their alliance outright, we must weigh other factors. It is possible that joining the Reclamation War is the right decision after all.
+The Shenyang Conference, held by Fengtian, has just concluded. Time is of the essence, as the conflict against [QIE.GetNameDef] has already begun. We must swiftly come to a decision if we wish to have a say in the future of China.
+Much to our dismay, though no fault of Fengtian, we have already been drawn into the conflict with [QIE.GetNameDef] before we could make our own decision on whether to participate. We now have no choice but to give everything we have in order to survive.
+Much to discuss.
+Fengtian and Reconstruction
+The Fengtian government was quick to come to our aid when we required help with reconstruction following our victory in the League War. This has helped us recover faster and should positively influence our willingness to join them in the Reclamation War.
+The Fengtian government was quick to come to our aid when we required help with reconstruction following our victory in the League War. They even convinced Japan to help us as well. This has helped us recover faster and should positively influence our willingness to join them in the Reclamation War.
+The Fengtian government did not come to our aid when we needed them to, deciding to not expend capital and commit to helping us reconstruct. This has severely damaged our trust in them.
+Indeed.
+Conference with Shandong
+If we want to have a good measure of the competence of the Fengtian government when it comes to negotiations, which will almost certainly be necessary for a successful unification of China and proper unification with us, we can look to their efforts mediating the Shandong War Conference. They completely failed here, as they were not even able to engineer a temporary peace. That does not bode well for the future.
+If we want to have a good measure of the competence of the Fengtian government when it comes to negotiations, which will almost certainly be necessary for a successful unification of China and proper unification with us, we can look to their efforts mediating the Shandong War Conference. They were able to engineer a temporary compromise, which allowed us to focus on other threats first, but unfortunately, they then messed up and failed to give a good permanent solution.
+If we want to have a good measure of the competence of the Fengtian government when it comes to negotiations, which will almost certainly be necessary for a successful unification of China and proper unification with us, we can look to their efforts mediating the Shandong War Conference. Fengtian failed at first, but thankfully we were able to strike an independent deal with Shandong and eventually Fengtian did lead the way in providing a permanent solution.
+If we want to have a good measure of the competence of the Fengtian government when it comes to negotiations, which will almost certainly be necessary for a successful unification of China and proper unification with us, we can look to their efforts mediating the Shandong War Conference. Fengtian was able to defuse the situation and successfully engineer both a temporary compromise and a permanent solution.
+Indeed.
+Anti-Concessionists and [QIE.GetNameDef]
+Our republican stance has led to increased support from the Republican faction of the Anti-Concessions League. To the north, the Qing still rule, even though Puyi is little more than Wu Peifu's puppet. We must continue emphasising our republican ideals in order to keep the Anti-Concessions League as our ally.
+The Qing are no longer ruled by Wu Peifu's Zhili Clique. Instead, Puyi was restored to greater power in a coup known as the Manchu Restoration. This has greatly increased anti-monarchist sentiment among Anti-Concessionists within our country and cemented our pro-republican reputation. The Monarchist faction of the Anti-Concessions League, which used to emphasise the fact that the Qing government was a harmonious balance between the Zhili Clique and the Manchu Qing dynasty, have seen their arguments weaken with the destruction of the Zhili Clique. Of course, at the same time, some staunchly pro-Manchu Monarchists have gained support, but they are a minority. With the Manchus holding greater power and remaining unpopular, our popularity has increased. Increased calls have been made for us to join the Reclamation War with Fengtian against the Qing government.
+Much of our argument in siding with the Fengtian government was based on republican ideals. The 1911 Xinhai Revolution, which was wildly popular, was inherently republican and anti-monarchist and our reiteration of its ideals has increased the legitimacy of our denial of Qing being the true government of China. However, following an attempted coup, Wu Peifu has consolidated control over the government and ousted Puyi from the throne, declaring a republic in the process. This is bad news for us, as this undermines much of the fundamental premise of our support for Fengtian. The Republican faction of the Anti-Concessions League, always the most popular, has now seen members change their support from Fengtian for Wu Peifu's Zhili Clique. They have called on us to do the same, but unfortunately considering Fengtian's support for us in the League War, we are unable to do this. This will hurt our credibility.
+Alright.
+Great.
+That's not good.
+Anti-Concessions League Calls for Reclamation
+The Anti-Concessions League, the largest Anti-Concessionist organisation in China, was originally divided on whether it would support our intention to join our ally Fengtian in the Reclamation War. However, the recent Manchu Restoration in Qing has marginalised the Monarchists and emboldened the Republicans, who see it as an example of why even a 'constitutional monarchy' would not work. Even though they do not like Fengtian much,
+The Anti-Concessions League, the largest Anti-Concessionist organisation in China, was originally divided on whether it would support our intention to join our ally Fengtian in the Reclamation War. However, the break in relations between Fengtian and Japan have caused the Republicans who supported Fengtian to gain significant support, as the Japanese issue was the main reason why the League hadn't fully embraced our partnership with Fengtian. The Republican faction is much emboldened now and have called for our government to join Fengtian and end the Qing regime.
+The Anti-Concessions League, the largest Anti-Concessionist organisation in China, was originally divided on whether it would support our intention to join our ally Fengtian in the Reclamation War. However, our government has shown that it is not just any warlord government but has truly made effort to achieve proper legitimacy and credibility. As a result, because of our partnership with Fengtian, Republican Anti-Concessionists have now been swayed to our side and have come out in support of us participating in the Reclamation War, believing that we will make sure Fengtian behaves.
+Good.
+Anti-Concessions League Rallies Against Reclamation
+Recent events, particularly the Republican takeover of Beijing led by Wu Peifu, have caused great turmoil among Anti-Concessionists. Many believe that even though Wu Peifu cooperates with the Germans, he is still a principled man, much more so than Zhang Zuolin, who sells out to the Japanese instead. As a result, they have actively called for us to forgo participation in the Reclamation War. While we cannot afford to break ties with the Fengtian government due to their support of us, we can try to take a less active role in the conflict.
+Recent events that have led to a thorough increase in Japanese influence over Fengtian, have led to outrage within the Anti-Concessions League. Even some of the most ardent republicans have withdrawn their support for the Fengtian government, saying that we must instead seek a neutral position in Fengtian's desired Reclamation War against [QIE.GetNameDef]. While we cannot afford to break ties with the Fengtian government due to their support of us, we can indeed try to take a less active role in the conflict.
+We don't want to make them angry.
+Anti-Concessions League Divided on Reclamation
+The various factions within the Anti-Concessions League remain divided on the question of whether we should participate in the Reclamation War. Our partnership with Fengtian basically requires it, but we could also choose for a less active role.
+We can make our own decision.
+Japanese Influence in Fengtian
+We have not only the Anti-Concessions League to worry about when it comes to Japanese influence. It also concerns our own interests. High Japanese influence would also mean our autonomy would be under question more quickly, as the Japanese would most likely prefer us to be eliminated, in part due to our Anti-Concessionist stance. And right now, Japan has an extremely dominant position in the Fengtian economy and political sphere. This makes us very uncomfortable to join their Reclamation War.
+We have not only the Anti-Concessions League to worry about when it comes to Japanese influence. It also concerns our own interests. High Japanese influence would also mean our autonomy would be under question more quickly, as the Japanese would most likely prefer us to be eliminated, in part due to our Anti-Concessionist stance. And right now, Japan has a powerful position in the Fengtian economy and political sphere. This makes us seriously uncomfortable to join their Reclamation War.
+We have not only the Anti-Concessions League to worry about when it comes to Japanese influence. It also concerns our own interests. High Japanese influence would also mean our autonomy would be under question more quickly, as the Japanese would most likely prefer us to be eliminated, in part due to our Anti-Concessionist stance. And right now, Japan has a significant position in the Fengtian economy and political sphere. This makes us a bit uncomfortable to join their Reclamation War.
+We have not only the Anti-Concessions League to worry about when it comes to Japanese influence. It also concerns our own interests. High Japanese influence would also mean our autonomy would be under question more quickly, as the Japanese would most likely prefer us to be eliminated, in part due to our Anti-Concessionist stance. Thankfully, Japanese influence within Fengtian is currently somewhat limited, assuaging our fears.
+Fengtian no longer has ties to Japan, meaning they are a much more independent and credible government. This makes us much more eager to join their Reclamation War, purely from our own perspective. It also means Fengtian is more reliant on our support, as they no longer have a powerful benefactor
+This is important to consider.
+Our Japanese Reliance
+In order to determine our course of action, we must look not only at the negatives of Japanese relations with Fengtian but also at their benefits, as they allow us to enjoy considerable economic advantages. In fact, we have increased Japanese reliance to such a level that losing it could hurt our economy quite a lot. As a result, it is probably better to join Fengtian and not risk losing Japanese support.
+In order to determine our course of action, we must look not only at the negatives of Japanese relations with Fengtian but also at their benefits, as they allow us to enjoy considerable economic advantages. We do not have very high reliance, but there are still already significant benefits we receive from cooperation with Japan. We do not want to risk losing those.
+In order to determine our course of action, we must look not only at the negatives of Japanese relations with Fengtian but also at their benefits, as they allow us to enjoy considerable economic advantages. However, our reliance on Japanese support is not so large that this will have any real impact, so we can safely ignore this.
+We'll take this into account.
+Relations with Fengtian
+The final factor we should weigh in order to make a decision whether to join Fengtian's Reclamation War is our current opinion with them. Currently, relations with them are very strong and joining the Reclamation War will surely keep it that way.
+The final factor we should weigh in order to make a decision whether to join Fengtian's Reclamation War is our current opinion with them. Currently, relations with them are good, which means we should probably join their war.
+The final factor we should weigh in order to make a decision whether to join Fengtian's Reclamation War is our current opinion with them. Currently, relations with them are relatively low, but not so low we should think about abandoning the Reclamation War.
+The final factor we should weigh in order to make a decision whether to join Fengtian's Reclamation War is our current opinion with them. Currently, relations with them are very limited, meaning we probably shouldn't join their Reclamation War.
+Alright.
+Reclamation Decision
+There are many factors that have made it abundantly clear that committing to Fengtian's Reclamation War to capture Beijing is the right choice. As a result, no matter the credibility of our government, abandoning Reclamation would mean political suicide. This leaves us only one true choice, commit to coming to Fengtian's aid when they go to war against Beijing.
+Almost all the factors are pointing in the same direction, namely that we should join Fengtian's Reclamation War. But of course, almost all means there are at least some factors that allow a way out. Because it's a fact that there is little thirst for war among our population, especially one against their fellow Chinese people. However, our current government thanks to its legitimacy in large part to our stated desire to unify China under Fengtian rule. Abandoning Fengtian would also mean abandoning unification.[getanqreclamationdecisioncredenough2]
+Most factors point towards joining the Reclamation War, but we cannot ignore a significant amount of factors also indicating it might be a bad idea. However, our current government thanks to its legitimacy in large part to our stated desire to unify China under Fengtian rule. Abandoning Fengtian would also mean abandoning unification. [getanqreclamationdecisioncredenough3]
+The factors in favour and against joining the Reclamation War are roughly balanced. However, our current government thanks to its legitimacy in large part to our stated desire to unify China under Fengtian rule. Abandoning Fengtian would also mean abandoning unification. [getanqreclamationdecisioncredenough4]
+The factors are against us joining the Reclamation War. However, our current government thanks to its legitimacy in large part to our stated desire to unify China under Fengtian rule. Abandoning Fengtian would also mean abandoning unification. [getanqreclamationdecisioncredenough5]
+There are many factors pushing us against joining the Reclamation War. However, our current government thanks to its legitimacy in large part to our stated desire to unify China under Fengtian rule. Abandoning Fengtian would also mean abandoning unification. [getanqreclamationdecisioncredenough6]
+Due to circumstances, we have already been drawn into the war with [QIE.GetNameDef]. As such, we have no choice but to fully commit to the Reclamation War and join Fengtian, because we have no chance against [QIE.GetNameDef] on our own. Let us find the way to Beijing and end their reign over China.
+Commit to the Reclamation War.
+Abandon Fengtian.
 \nUnfortunately, we have too little credibility to stand alone as a separate national government and thus depend too much upon Fengtian. As a result, we cannot afford to lose their support and will lead to dire consequences if we don't join their Reclamation War.
 \nThankfully, our government has, also using the arguments against the Reclamation War, enough credibility to stand separately from the Fengtian government and decline to participate. This will force us to either make our own claim to national leadership, or seek another party to support.
+Shandong Handover to Fengtian
+As agreed upon when we seized Shandong Province, now that the conflict with [QIE.GetNameDef] has started, we must hand over Shandong Province to Fengtian, as we have no justifiable claims on the region. General Liu Heding, who we temporarily instated as governor of Shandong, has returned to our service.
+Very well.
+Fengtian Cuts Ties
+Due to our decision to not participate in Fengtian's Reclamation War to capture Beijing, they have cut ties with us and labelled us as just another warlord government. This is unfortunate but expected. We must now rely upon ourselves to see China's future secured and we will have to watch what happens in both the north and south very closely.
+Due to our decision to not participate in Fengtian's Reclamation War to capture Beijing, they have cut ties with us and labelled us as just another warlord government. They have also cancelled all remaining reconstruction aid. This is unfortunate but expected. We must now rely upon ourselves to see China's future secured and we will have to watch what happens in both the north and south very closely.
+It is how it is.
+Fengtian Tolerates Non-Participation
+Fengtian is, as expected, very unhappy with our decision not to participate in their Reclamation War to capture Beijing. However, as they are in dire need of allies and all possible help, Fengtian has decided to not cut ties with us and to continue to tolerate our presence among their group of allies. This allows us to still reap some of the benefits of cooperation with them and the Japanese. However, as the Reclamation War progresses, they will most likely cut us out anyway if we do not participate. We can decide to not agree to this and cut ties ourselves, fully distancing from the Fengtian government. The latter will give us some increased standing as we had already announced we would not be supporting Fengtian. [getanqcanannexshandong]
+Fengtian is, as expected, very unhappy with our decision not to participate in their Reclamation War to capture Beijing. However, as they are in dire need of allies and all possible help, Fengtian has decided to not cut ties with us and to continue to tolerate our presence among their group of allies. This allows us to still reap some of the benefits of cooperation with them and the Japanese. Unfortunately, they have decided to cancel their remaining reconstruction aid. Furthermore, as the Reclamation War progresses, they will most likely cut us out anyway if we do not participate. We can decide to not agree to this and cut ties ourselves, fully distancing from the Fengtian government. The latter will give us some increased standing as we had already announced we would not be supporting Fengtian. [getanqcanannexshandong]
+Alright.
+Cut ties anyway.
 If we cut ties, we can also take full control of our Shandong puppet.
+Keeping Shandong
+Since we have decided to no longer fight together with Fengtian and no longer recognise them as the national government of China, there is no reason to keep Shandong as an autonomous province and hand it over to Fengtian later on. We should recall Liu Heding and assume full control over the province.
+Great.
+End of Destruction
+Through many months of hard work and targeted programmes, we have repaired the majority of our industry and fixed the worst destruction in the cities and countryside. While there is still deeper damage that has yet to heal, at least most of the material value has been restored and our country can again function properly.
+Great.
+Full Civilian Government
+We have transferred the last of the Five Provinces from direct military occupation to more civilian governments. All the governors have been installed and the bureaucracy has returned to normal. All of these governments are loyal to our leader, Chen Tiaoyuan. Nanjing is also firmly under our control. We now truly control all of the Five Provinces.
+Fantastic.
+Healed Once More
+Under Chen Tiaoyuan's exemplary leadership, the Five Provinces have defeated Kuomintang insurgents and Yiguandao fanatics. The damage done by the brutal League War has been fixed and new civilian governments, different from the corrupt warlords that ruled before, have been installed in all regions. Chen Tiaoyuan has succeeded in bringing together his allies to make the League much greater than it was before. Because before it suffered under the German yoke, but now it stands free and in support of a great, independent China.
+Onward!
+The Grand Marshal's Proclamation
+Grand leader of the Fengtian Government, Zhang Zuolin, has made a bold proclamation indicating a Fengtian invasion of the [QIE.GetName] is imminent. We must prepare for war immediately.
+Good news.
+Recognising the Fengtian Government
+Now that the League War has concluded in our favour, we have no other choice but to make up our end of the bargain with Fengtian. We shall have to move forward and officially announce to the world that we recognise Fengtian as the official national government of China. This will prove to be a major shift within China and almost certainly upsets the careful balance further that kept the peace between the various states up until the League Collapse.
+Make the declaration.
+Anqing Breaks with Fengtian
+It seems the division between Anqing and Fengtian has finally led to an inevitable splinter. It's only a matter of time before this split turns into a full-blown conflict on the battlefield. With that being said, we still need to figure out how to handle our previous investment in Anqing. Chen has proven to be a worthy ally, not only by his hostile posture against the [QIE.GetName] and Germany, but also as an effective counterpart to balance out the growing strength of Fengtian.\n\nShall we continue our cooperation with Anqing?
+This is too risky, withdraw now.
+Retain the status quo, Chen is still useful.
+The Inevitable Split
+Despite our efforts in negotiation, the ties between Anqing and Fengtian remain severed; the fragile alliance has finally come to an end. The changing situation of China leaves our future uncertain.
+There's no more we can do.
+Mending the Split
+With our effort in negotiation, the split between Anqing and Fengtian has finally come to an end. This relationship might be fragile, but at least for now, we shall stand together and fight against a common foe.
+Great.
+Reconciliation with Fengtian
+Although Fengtian had betrayed us in our war against Shandong, we're still in a dire, isolated situation and could use their help. The General Staff and governors debated on this issue for days, but they couldn't come to an agreement. The burden of choice lies solely upon Chen Tiaoyuan, as if he is carrying the whole crumbling Mount Tai. The time has come for him to cast the dice of fate once again.
+Keep Shandong as our prize, see if they'll accept it.
+Give up Shandong in exchange for other supplies.
+Forget about it, we won't negotiate with traitors.
+Anqing's Proposal
+Chen Tiaoyuan sent a telegram to us early today, stating his desire to reconcile with our righteous cause. However, he demanded full control over Shandong in return for recognising us as the one and only legitimate government in China. Shandong could have been a strategic stronghold for our expedition against the [QIE.GetName], but the real question is whether we can trust him. We should consider his proposal seriously since his aid could make every difference in our future wars.
+Chen Tiaoyuan sent a telegram to us early today, stating his desire to reconcile with our righteous cause. He made a very tempting offer that we can't refuse, and promised that with our political and military support he would cede his control in Shandong to us. Shandong could be an important strategic stronghold for our expedition against the [QIE.GetName], shall we take the deal? We should consider his proposal seriously since his aid could make every difference in our future wars.
+Just a friend in need, welcome back.
+Offer other support in exchange for Shandong.
+Forget about it, he is not trustworthy.
+Our Final Decision
+To our surprise, Fengtian has agreed to our demand to keep our war gains. This is a very tempting offer. Some stubborn officers still warn of an unspecified future betrayal, but considering Fengtian's offer, shall we simply forget the past and align ourselves with Zhang Zuolin once again?
+Fengtian has refused to allow us control of Shandong, but still offers material aid in exchange. This isn't ideal, but with few allies and a hostile government in Beijing, we don't have a lot of choices. Some stubborn officers still warn of an unspecified future betrayal, but considering the situation, shall we simply forget the past and align ourselves with Zhang Zuolin once again?
+Accept it is the only option.
+Wonderful!
+We can't trust them.
+Anqing Breaks with Fengtian
+The Anqing Clique has officially broken all relations with Fengtian, denouncing them in the process. The leader of the Anqing Clique, Chen Tiaoyuan, has made a public statement saying that [FNG.GetLeader] cannot be trusted and that the [FNG.GetName] represents a step backwards for China. He has not stated exactly why relations broke down, but most likely the [FNG.GetName] could no longer guarantee Anqing's autonomy or compromised too much on the issue of Anti-Concessionism. Chen Tiaoyuan has not indicated if he will support other contenders for the national government, meaning the Anqing Clique stands alone, at least temporarily.
+We lose an important ally.
+China remains divided.
+The Mawěi Naval Mutiny!
+We have received word from Fuzhou that during the chaos of the League's collapse, a rebellion by cadets at Mawěi Naval school briefly seized control of the docks there. Spurred on by Wu Peifu's endorsement of the treacherous Governor Chen and decrying the lack of funding towards a naval force as a sign of our overreliance on foreign protection, a flotilla of ships were seized by the mutiny and were last seen departing the city, no doubt hoping to reach Anqing. The rebellion is believed to have been spurred on by two leading members of the faculty: Sa Benxin and Shen Jingchen. Both are younger admirals with a history of nationalistic thought and long-time disillusionment with the current system in China. They are no doubt probably grovelling at Chen's feet as we speak, begging for a better job at his camp. Treason of any sort will not stand and they must be brought to justice!
+We have received word from Fuzhou that during the chaos of the League's collapse a small contingent of Mawěi Naval school faculty and students have gone missing! While initially there were fears that the Kuomintang were responsible for their disappearance, an investigation soon revealed that there was no abduction but rather a defection! It would appear that a small clique of naval officers have grown disillusioned by our continued reliance on foreign support to stabilise the country and have instead sought greener pastures under Chen Tiaoyang's warlord state. Apparently they had made an effort to seize some of our ships but were rebuffed by our loyalists, no doubt buoyed in morale by Wu Peifu's recognition of our government. While most of the vanished were no names and are of little consequence to our small coastal defence fleet, two names stuck out: Sa Benxin and Shen Jingchen. These two young men were leading members of the faculty and the likely ringleaders of this plot. They are probably grovelling at Chen's feet as we speak, begging for a better job in his camp. Treason of any sort will not stand and they must be brought to justice!
+An unfathomable betrayal.
+The Young Admirals' Defection
+It would appear that Wu Peifu's words still carry weight around the League. Marshal Wu's endorsement paid off this morning when a flotilla of ships sailed up the Yangtze River waving a white flag. To the shock of our guards in Anqing, these patriots have asked to defect to our side! Inspired by our nationalistic cause and encouraged by the Jade Marshal's words, these sailors were organised by a leading member of the Mawěi Naval School in Fuzhou. This man, Sa Benxin, despite his young age, has several decades of naval experience and more importantly the knowledge base to meaningfully help organise a new fleet to defend southern China. Moreover, he is from an established naval lineage and can help us deepen our ties with the Beijing admiralty. All in all, this bodes well for the future of our anti-concessionist movement!
+The rising tide of anti-concessionism has born fruit today as our message reached the ears of some of the leading faculty of the Mawěi Naval School in Fuzhou. Disillusioned by chronic lack of funding during Sun Chuanfang's administration and disgusted by Qi Xieyuan's continued submission to German foreign interests, a small entourage of naval faculty pledged allegiance to our cause this morning. Notable among them is Sa Benxin, possessing years of experience studying foreign ship designs abroad and teaching at naval academies. Although some worry about his family ties with the Beijing naval establishment, Governor Chen has decided to welcome them onto his newly established Naval Department. Although the modernised fleet they dream of is a long way off, it is clear that our movement has inspired a new generation of officers towards a brighter future!
+Welcome aboard!
+Stirring in the Zhili-Alliance
+Ever since the King of Baoding and Jade Marshal's tentative support of General Chen Tiaoyuan's desperate gambit against Acting League-Marshal Qi Xieyuan's assumption of power within the League, and the precursor years of Wu's off-the-books support for Chen in the interregnum, \
+More loyal than Sun and Qi, but by how much?
+The Anqing Clique Recognises Fengtian
+Chen Tiaoyuan, leader of the Anqing Clique and now master of Eastern China, has officially recognised the Fengtian Government as the rightful national government of China. While not surprising given Fengtian's open support of the Anqing Clique during the League War, it still shocked many throughout China, but also Westerners wary of Japan's expanding influence throughout China.\n\nThis declaration will be remembered as an important day in Chinese history.
+Great news!
+A scary development.
+Anqing has Won!
+The Anqing Clique, which we supported during their war with the League and later Kuomintang and other warlords, have emerged victorious and united the Five Provinces. This is very good news, as this means we now have a very powerful ally lying to the south of our enemy! We will have to immediately think how we will use this advantage.
+Good news
+Ask Fengtian for Help
+The Fengtian government, our benefactors, hope that we will join them in their Reclamation War against Beijing. Chen Tiaoyuan would rather not wade into war, especially considering the damage done to the Five Provinces and the current weak state of the military. Hopefully, they will want to aid us in reconstructing our territory. If they agree, we might consider joining their Reclamation War.
+Make the request.
+Anqing Requests Reconstruction Aid
+The Anqing Clique has suggested a strategy. They are willing to go participate in the war, but only if we and our Japanese backers provide very generous and extensive aid to help them recover from the disastrous League War. This strategy would indeed bring them back to full strength quickly, but would cost us significant capital. We also do not know if the Japanese will accept. We can also think of other options.
+Commit support, ask Japan.
+We cannot help them.
+Anqing and Fengtian Ask Our Help
+The Anqing Clique, which recently emerged victorious against the League due to our help, has requested our help. The Fengtian government has committed to aid Anqing in its reconstruction, hoping that it will convince them to participate in the Reclamation War to retake Beijing. If we commit as well, this will surely improve their odds.
+We'll commit resources.
+This isn't worth it.
+Japanese Reconstruction Aid
+Despite our pleas, our continued kowtowing and welcoming of Japanese interests, the perfidious fools have refused to grant us any assistance in regards to the reconstruction of our ally's provinces within the new, revitalised League. Naturally the assembly in Shenyang is split on how to proceed. Some individuals, mainly those within the Recovery League and Communications Clique, most notably Liang Shiyi, have insisted on continuation of the proposed reconstruction plan, eyeing up potential Communications contracts in the profitable coastal provinces.\n\nOthers, notably the Zhang Clique and Concordia Association, have ran against such ideas, both arguing from separate angles. Zhang's clique insist that Anqing is far from a priority, and having to shore up both Fengtian and Japan's planned contribution to reconstruction would drain the army of the necessary funds for reclamation. Likewise, the Concordia Association argue that since the Japanese withdrew from the plan, it is clearly not necessary to see China united under the rightful government.
+The Japanese have also committed aid, we should notify Anqing.
+Begin reconstruction aid.
+Cancel reconstruction aid.
+Fengtian Commits Aid
+The Fengtian government has decided that it will indeed help us! This is excellent news, as this will allow us to recover much faster. However, they will also have greater expectations of us. What is unfortunate is that Japan did not agree to aid us.
+The Fengtian government and Japan have decided that they will indeed help us! This is excellent news, as this will allow us to recover much faster. However, they will also have greater expectations of us.
+Great.
+Fengtian Denies Aid
+Fengtian has denied us reconstruction aid, meaning that we must now do it alone.
+Bad news.
+Reconstruction Cooperation Begins
+The aid that the Fengtian government has committed towards us has begun arriving, meaning that we can now truly begin reconstruction.
+The aid that the Fengtian government and Japan have committed towards us has begun arriving, meaning that we can now truly begin reconstruction.
+Very good.
+Anqing Begins Reconstruction
+With our assistance, Anqing has started reconstruction.
+Good.
+Anqing Reconstruction Begins
+Marred by devastation throughout the League War, our humble request for our benefactors in Shenyang and Tokyo to assist in the reconstruction of the various League Provinces following our victory in the League War has rather unfortunately fallen on deaf ears. Citing significant financial costs, and waryness in regards to our true loyalties, the Old Marshal has only been able to provide a meagre amount of aid for reconstruction.\n\nThe Japanese, nowhere to be seen, have refused to answer our telegrams on the matter, perhaps deigning [ANQ.GetLeader] not worth the trouble, or other more malicious plans for the League Provinces.
+Marred by devastation throughout the League War, our humble request for our benefactors in Shenyang and Tokyo to assist in the reconstruction of the various League Provinces following our victory in the League War has been answered with a choir. Garnering full financial support from both Fengtian and the Japanese, the Old Marshal and Japanese Government has provided a full subsidy towards our provincial reconstruction.\n\nIn no time, we shall be playing our part in uniting the nation, and securing a strong China for decades to come.
+Either way, the assistance is invaluable.

@@ -438,6 +438,109 @@ GFX_PRU_intro
 Peru in 1936
 Although factually independent since 1821, Spain recognised the autonomy of her former colony not until 1871 when a peace between the countries was struck after a conflict of the two countries over the Chinchain Islands. An alliance with Bolivia drew the country from 1879 to 1883 in a border conflict between Chile and Bolivia in the Atacama Desert (Saltpetre War). During the war Peru lost her provinces of Tarapacá, Arica, and Tacna. British and U.S. financial circles exploited the opportunity, stripping the weakened Peruvian state of their state railroad, nullifying Peru's debts in exchange.\n\nAfter the Weltkrieg, Peru's democracy was threatened by the coup of Augusto Leguía in 1919. While the APRA was forming in 1924 in Mexico, Leguía's government was put to the test by the Wall Street Crash of 1925. After 11 months of failed reforms to combat the crisis, riots started, made up by workers with Aprist support. Fearing a socialist revolution, the military stepped in and overthrew Leguía, led by lieutenant colonel Luis Miguel Sánchez Cerro. Leguía was judged and executed for various crimes against the Peruvian state 4 months later.\n\nSánchez Cerro was initially not well received, but events in 1929 and 1930 propelled his popularity: putting down an Aprist revolt and winning a war against Colombia. As his party, the Unión Revolucionaria, continues to cement its rule, the democratic parties constantly lobbying for elections, and the Aprists waiting for their chance, what will happen to Peru?
 §MLinea dura del Ejercito§! — §MSánchez Cerro§! / §MBenavides§! ($paternal_autocrat_coloured$)\n£white_dot After the assassination attempt on Sánchez Cerro, have him survive to keep him as your leader.\n£white_dot Or, have him die and have Benavides be even harsher to quell all opposing voices!\n£white_dot When the Aprist Revolution breaks out, have the army crush it.\n\n§MAPRA§! / §MSocialistas§! ($radical_socialist_coloured$ / $totalist_coloured$)\n£white_dot After the assassination attempt on Sánchez Cerro, have him survive.\n£white_dot Or, have Sánchez Cerro die and have Benavides be even harsher to quell all opposing voices!\n£white_dot When the Aprist Revolution breaks out, have it miraculously win.\n£white_dot In the succeeding power struggle, favour the §RAPRA§! to stay radical socialist or the §oTupacamarists§! to become Totalist.\n£white_dot The Aprist will also rise up if elections were held and the §nHermandad Peruana§! were victorious.\n\n§MAcción Republicana§! / §MEl Frente Nacional§! / §MPartido Socialdemócrata§! ($social_conservative_coloured$ / $market_liberal_coloured$ / $social_democrat_coloured$)\n£white_dot After the assassination attempt on Sánchez Cerro, have him die and have Benavides prepare for elections.\n\n§MHermandad Peruana§! ($national_populist_coloured$)\n£white_dot After the assassination attempt on Sánchez Cerro, have him die and have Benavides prepare for elections.\n£white_dot In the election a month later, elect the §nHermandad Peruana§!. Elections will no longer be held.\n£white_dot When the Aprist Revolution breaks out, have the army crush it.\n£white_dot Castillo Riva-Agüero will pass away in 1947. His successor is chosen by focus. If Flores succeeds him, the state of Tawantinsuyu will rise up in a civil war.
+Peru Demands Antofagasta
+Peru demands we cede Antofagasta and Arica to them, lest they will declare war!
+We have no option... we must cede the province.
+If they want it, let them come and get it!
+Black Monday Hits the Andes
+As the Black Monday crisis snowballs out of control and spreads around the world, our economy, being mainly one of exports, is on the verge of collapse! The future is grim and uncertain, and as Peruvian investors see all their money disappearing, some even choose the easy way out.
+Díos Mio!
+Antofagasta Ceded
+The vile invaders have been driven from Antofagasta
+Many lives were spared!
+Our Demands Refused
+War it is! The Invaders refuse to give up their occupation of Antofagasta
+They will soon realise the magnitude of their mistake!
+Peace with Ecuador?
+The war with Ecuador has been a spectacular failure. They still control most, if not all, of their territory, while also starting to occupy Peruvian land. Many of our generals have come to us, begging us to sue for peace with the Ecuadorian government. Some of our spies in their government have even warned us that this may be the only chance we have to gain peace, for as the Ecuadorian military achieves victory after victory, their government grows bold, and will be less willing to accept peace with our government at all. Perhaps it is time to end the death.
+We Must Sue for Peace.
+We Will Fight Until the End!
+Peru Sues for Peace
+We have recently received an offer for peace from the Peruvian government. Evidently, they have been scared by our military might, and have been forced to try to end the bloodshed. Of course, we have no claims on Peruvian land, so there is little reason to continue the war.
+Peace For Our Time.
+We Must Push for Total Victory!
+Aprist Bombings
+The rampant Aprist militias have bombed another privately owned factory. Will these scoundrels never stop?
+Damn it!
+The Fate of Ecuador
+The tensions between us and [ECU.GetName] have reached a boiling point. We have tolerated the puny Ecuadorians long enough!
+It's time for war!
+War with [PRU.GetName]
+The tensions between us and [PRU.GetName] have reached a boiling point. The [PRU.GetAdjective] army is mobilising and marching towards our border right now.
+Time to teach those uppity bastards a lesson!
+An Attempt on Sánchez Cerro's Life!
+Grave news - our dear leader Sánchez Cerro has been shot at by an Aprist assassin. He was quickly taken to a nearby Italian hospital and doctors are now fighting for his life. Unfortunately, the damage appears to be serious and rumours are already spreading that the president will not survive this.
+Sánchez Cerro was dead in ten minutes!
+Sánchez Cerro managed to survive!
+Óscar Benavides calls Congress
+After Sánchez Cerro's death, the famous General Óscar Benavides called Congress, which appointed him interim president. In the state of emergency caused by the assassination of the president, the new head of state made his first address to the people where he promised:
+It's time to retire, let's prepare for elections.
+Never! We will be even harsher to quell all opposing voices!
+Elections in Peru
+After all this time, elections have finally started in Peru! The liberal El Frente Nacional, the conservative Acción Republicana, the social democrat Partido Socialdemócrata and the rabidly nationalist Hermandad Peruana have all participated, but who shall be victorious? While the liberals, conservatives and social democrats promise a continued democracy, the Hermandad Peruana promises to stop elections and allocate even more resources to hunt down and exterminate APRA.
+Acción Republicana.
+El Frente Nacional.
+Partido Socialdemócrata.
+Hermandad Peruana.
+Aprist Revolution!
+After the current government intensified their socialist reprisals, a last resort plan was hatched by the Aprists. A desperate march to the capitals with all the remaining militias would try to topple the government, ushering in a new era for the workers.
+The revolution is crushed by the army!
+The revolution miraculously wins!
+The Socialist Struggle
+After the revolution, the Aprists started crumbling, with the Tupacamarists trying to take power in the country by themselves. A fierce struggle started between the remaining Apra and the Tupacamarists.
+El APRA nunca muere!
+Tupacamarists win. Viva el Piruw!
+[GetYear] Elections in Peru
+The next round of elections have begun! Who would win this time? While the liberals, conservatives and social democrats promise a continued democracy, the Union Revolutionaria promises to stop elections and allocate even more resources to hunt down and exterminate APRA.
+Acción Republicana.
+El Frente Nacional.
+Partido Socialdemócrata.
+Hermandad Peruana.
+Aguero is Dead!
+Aguero had a stroke this morning. The whole country mourns him, but the upper echelons of the party had no clear successor.
+What will happen to Peru?
+The Quecha Revolt!
+Because of our latest policies set on proving the superiority of the Hispanics, the people inhabiting this land before Columbus have risen up to challenge our laws!
+Let's put them down!
+Incursions in Ecuador
+Let us start doing military exercises on the border with Ecuador, with some of our units 'wrongfully' crossing the border, to provoke them. We shall prepare for a war to subjugate Eduador!
+To war, Peruvians!
+Fiestas Patrias
+Our national holidays celebrating our independence and armed forces have begun! General José de San Martín, known as Peru's liberator, proclaimed Peru's independence on the 28th of July 1821, freeing Peru from the Spanish oppression. People all over the country are enjoying their holidays, and parades are being organised in all major cities.
+Viva el Perú!
+Death of Óscar Benavides
+Our great Caudillo Óscar Raimundo Benavides Larrea has died of natural causes. The whole nation mourns him, while his successor, the more radical and very racist Manuel Odria, takes his place to lead us into the future.
+One of our previous oppressors, Óscar Raimundo Benavides Larrea, has died of natural causes. While he was an enemy of the revolution and committed many atrocities against Peruvian socialists, some still mourn the man that ruled this country during this difficult time. The man that took control of his scattered clique is Manuel Odria, a most despicable man whose racism cannot be understated.
+Óscar Raimundo Benavides Larrea has died due to natural causes. Even though he was not Peru's best leader, he was able to keep the nation stable while also restoring elections, which indirectly lead to our ascension to power. His direct successor, Manuel Odria, is ideologically radical and bears a grudge against the native people.
+An era has ended.
+Death of Luis Mauricio
+Today during a skirmish in Barrios Altos between urristas and aprists, a young urrista by the name of Luis Mauricio was killed by a bullet. He was the son of an old family of oligarchs. To revenge him, his fellow urristas killed the aprist militants. This case shocked the Liman society, and the urristas in the congress proposed a public funeral for Mauricio. Our staff suggests to avoid the public funeral to not anger the common man, but that might alienate Riva Agüero...
+Allow the public funeral.
+Let them hold an inner ceremony in their party.
+La Piedra Cansada
+Today, our intelligence agency informed us about the publishing of a book by a Peruvian author exiled in Chile, Cesar Vallejo. The novel consists of a drama set during the colonial times about two indigenous miners and how they're exploited by the church and the colonial administration. The novel has strong criticism against aristocracy and religion. While the book is banned, it has managed to infiltrate the populace through illegal distribution.
+A small piece of propaganda won't affect us!
+The New South American Hegemon
+We have achieved what many thought to be impossible, a goal so ambitious that many world powers would never have believed could be done. Peru-Bolivia has restored itself to its former glory, reclaiming lost lands from its neighbours and cementing its place in the history books. While it may take decades for our recent conquests to accept our rule, our lifelong reign as the sole hegemon of South America is all but assured.\n\nNow, our task is to defend and develop what we have retaken in order to ensure that there is no foe capable of surpassing our greatness.
+Perhaps we should restore the title of 'Supreme Protector' as well..?
+Peru's Revolution
+Peru has fallen to revolution fallowing the Caudillo winning the election, and is now willing to join us in the liberation of the workers of the world. We really don't have many reasons to deny their entry as it could work as a start to revolution in South America, but denying their entry is always an option.
+Of course, accept their entry.
+Tell them they're denied.
+Into the Internationale
+The Commune of France has accepted us into the Internationale, expecting us to uphold the revolution within South America. Together, we shall liberate the workers of the world.
+For the revolution.
+Outside the Internationale
+For reasons we do not know, the Commune of France has denied our entry into the Internationale. We'll have to hold out on our own within South America.
+Disappointing...
+Assassination of Sánchez Cerro!
+Peruvian President Luis Miguel Sánchez Cerro was shot yesterday morning at the Hippodrome of Santa Beatriz while returning from a review of recruits going to fight in the war with Ecuador. The assassin, allegedly a supporter of the illegal socialist party APRA, managed to breach a police cordon and fired several shots into the President who was sitting in the back of an open car. Sánchez Cerro was immediately transported to a nearby Italian hospital, but he was confirmed dead 15 minutes later.\n\nIn the ensuing succession turmoil the Constitutional Congress elected general Óscar Benavides as interim president. In his address to the congressmen he made a promise:
+$peru_events.1003.d$ elections will be held after the APRA threat is finally eliminated.
+$peru_events.1003.d$ elections will be held as soon as possible to pacify the country.
+Once again bullets decide the fate of states.
+Aprist Revolution in Peru
+As a result of government crackdowns on socialist and syndicalist institutions and individuals across Peru, the opposition, feeling increasingly persecuted and fearing the worst, today launched a desperate coup attempt.\n\nThe march against the nation's capital in Lima was overwhelmingly successful, and flimsy national army detachments dissolved ahead of the Red militias, who quickly occupied key strategic points throughout the city and across the nation at large.\n\nIt seems that Peru has become yet another victim of the ideological conflict engulfing the globe.
+The red flood has reached the Andes.
 Peru
 Peruvian
 Peru

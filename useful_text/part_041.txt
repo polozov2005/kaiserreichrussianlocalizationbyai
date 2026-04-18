@@ -128,12 +128,22 @@ Socialist Promises
 Divided Society
 Almost half of the population is unhappy with the result of the elections. We should fix this.
 Aftermath of Black Monday
+Aftermath of Black Monday
+Aftermath of Black Monday
+Aftermath of Black Monday
 Tuned Economy
+Aftermath of Black Monday
+Aftermath of Black Monday
+Aftermath of Black Monday
 Workers' Spirit
 Imperial Development Scheme
 Faith in the Kaiser
 The people have come to trust in the new Realm. Gott erhalte unseren Kaiser!
 Military Integration
+Political Instability
+The National Personal Autonomy Principle is in place. The many ethnicities of Austria are currently re-organising them in nation-parties, leaving the political landscape a chaos. Such a radical change was sure to come with a lot of instability, but even sceptics didn't anticipate it being so bad.
+Political Instability
+The National Personal Autonomy Principle is in place. The many ethnicities of Austria are currently re-organising them in nation-parties, leaving the political landscape a chaos. Such a radical change was sure to come with a lot of instability, but even sceptics didn't anticipate it being so bad.
 Political Instability
 The National Personal Autonomy Principle is in place. The many ethnicities of Austria are currently re-organising them in nation-parties, leaving the political landscape a chaos. Such a radical change was sure to come with a lot of instability, but even sceptics didn't anticipate it being so bad.
 Modernisation of the Common Army
@@ -258,6 +268,10 @@ Modern Auftragstaktik
 Auftragstaktik, or Mission-type tactics, have been successfully adopted during the Weltkrieg. These tactics involve high command giving clearly-defined missions that subordinates work independently to accomplish, giving the latter great flexibility and encouraging initiative. Auftragstaktik can be adapted for modern war and applied to the new doctrine.
 k.u.k. Fliegerkorps
 Formerly known as the k.u.k. Luftfahrtruppen, the Fliegerkorps is the air service of Austria-Hungary. It was stretched thin during the Weltkrieg and had a limited number of aircraft at its disposal. Since the end of the war, little was done to rectify this as funding became scarce. With the military receiving substantial funds once more, modernising and expanding the Fliegerkorps is finally possible.
+Uzelac's Ground Support Plan
+Milan Emil Uzelac is the first commander of the Luftfahrtruppen and remains influential within the General Staff and the Fliegerkorps. He believes that the Fliegerkorps exists mainly to support the army in its operations. Therefore, the air force must focus on fighter aircraft to maintain air superiority and light bombers to attack enemy positions on the front.
+Löhr's Offensive Air Plan
+Generalmajor Alexander Löhr is a proponent of strategic bombing and granting the Fliegerkorps further independence from the Army. With heavy bombers, the Fliegerkorps could bring the fight to any enemies of the Monarchy and destroy their military capabilities and morale.
 Found the k.u.k. Flugschule
 While there are numerous flying schools across Austria-Hungary, there has never been a centralised academy to coordinate the training of pilots and officers for the Fliegerkorps. The creation of such an institution is essential to the reforms as it will create a new generation of officers and pilots, while also streamlining the Korps into something less ad-hoc.
 Fighter Trials
@@ -360,6 +374,8 @@ Ausgleich Renegotiations of 1947
 Once more, the Ausgleich is to be renegotiated, and this time, the Austrian half of the Empire is in a far stronger position than last time. We shall impose our will on them now.
 Embrace Pluralism
 The time has come to federate the Empire to a more democratic government. The founding of the centralised federated state will lead to a brighter future for all Austrian peoples.
+Nations within a State
+The old borders of the Empire and the old administration don't acknowledge how absurdly ethnically diverse our Empire is. There are no Bohemians, only Germans and Czechs - likewise no Galicians, only Poles and Ruthenians. The old administration doesn't even keep track which nationality people are. This has to end.
 A Federation of Equals
 The United States of Greater Austria, or 
 Decentralised Development Scheme
@@ -436,6 +452,108 @@ GFX_AUS_intro
 The Situation of Austria in 1936
 Despite standing amongst the victors of the Weltkrieg, the war revealed the divisions of culture, class and ideology within the Empire ever so clearly, and the inner unrest continued on as the war ended.\n\nKaiser Karl, following in the footsteps of the assassinated Franz Ferdinand in trying to reform the multinational Austro-Hungarian Empire into something that could survive in the twentieth century, launched a series of large scale reforms; however, his efforts were largely blocked by nobility of the Hungarian side of the Empire - leading to his plans of federalisation progressing only slowly, and only on the Cisleithanian side of the Empire.\n\nHowever, many feel that there is hope for Austria - the last decades were hard on the Empire, but the effort has started paying off. Cisleithanian Austria, now a federation-state, has calmed down - but the same cannot be said for Transleithania. It is, however, unlikely that the Carpathian basin will continue to remain in Magyar hands, since Hungary's peoples have been gazing upon the liberties across the Leitha, wishing to have such autonomy for themselves. Whether reform will be able to find its way to Hungary, only the Kaiser knows for sure.
 §MStatus Quo§! ($social_conservative_coloured$ / $social_democrat_coloured$)\n£white_dot During the 1937 Ausgleich favour Hungary enough over the other Crownlands to prevent their delegates from storming out or conflict breaking out.\n£white_dot After this you will be able to pick the Status Quo focus, keeping the empire decentralised.\n\n§MDanubian Federation§! ($social_democrat_coloured$)\n£white_dot In the 1936 election, have the popularity of the §SSozialdemokratische Arbeiterpartei§! be higher than the §cChristlichsoziale§!.\n£white_dot During the 1937 Ausgleich favour the Crownlands over Hungary, which will result in the Hungarian delegates storming out.\n£white_dot Issue an ultimatum to Hungary after their suppression of peaceful protests, this will lead to a civil war with Hungary if they refuse.\n£white_dot Once the Hungarians have been defeated, release Hungary and the other new Crownlands which will unlock the Pluralism tree for forming the Danubian Federation.\n\n§MUnited States of Greater Austria§! ($social_conservative_coloured$)\n£white_dot Follow the above guide for the Danubian Federation, but have the popularity of the §cChristlichsoziale§! be higher than the §SSozialdemokratische Arbeiterpartei§! during the 1936 elections which will instead allow you to form the United States of Greater Austria.\n\n§MEnd the Dual Rule§! ($paternal_autocrat_coloured$)\n£white_dot During the 1937 Ausgleich favour the Crownlands over Hungary and trigger the civil war as described above.\n£white_dot Do not release Hungary and the other Crownlands after winning the civil war, which will trigger a second civil war with the remaining Crownlands\n£white_dot Win the civil war against the Crownlands, after which you will be able to take the End the Dual Rule focus.\n
+Black Monday Hits Austria
+Black Monday has hit Germany and it would not be long before its shockwave rippled across Europe. Given its close proximity, Austria was among the first to be affected. The economy is struggling and troubling times lie ahead.
+Ach, Gott!
+The Death of Kaiser Karl
+Suffering from chronical bronchitis, Kaiser Karl has died today.
+Long Live Kaiser Otto!
+Emil Freiherr von Škoda Passes Away
+The grandson of the illustrious founder of the Škoda conglomerate passed away today from heart failure.\n\nEmil von Škoda, sharing the name of the company's founder, succeeded his father, Karl, as head in 1929. While his grandfather founded the company and led it soaring, Karl led the company through the Weltkrieg, seeing even greater heights. On the other hand, Karl never reached the same popularity as the founder, often treating his Czech employees poorly. Emil could not have been more different in this regard; perfectly fluent in Czech, he often sympathised with his workers and could speak with them with no issue. Furthermore, he led the company through some of its biggest hardships with the Creditanstalt Crisis and Black Monday.\n\nAlas, with his and his younger brother's passing earlier this year, the male line of the Škoda family dies with him. While the family's immense fortune will be split between his younger sister Hedwig and the family matriarch Hermine, leadership of the company will likely move away from their direction. The Škoda, however, is certainly not going anywhere and will continue to live on as titans of the arms industry.\n\nDe facto leadership of Austrian industry has moved towards the Federation of Austrian Industries and its founder, Hans Lauda, currently heading the Veitscher company.
+Their line ends, but their name continues.
+Alamut - Newest Book of Vladimir Bartol
+The Slovenes are one of the lesser talked-about minorities of our Empire, though even after hundreds of years of being part of it, they've stuck to their own language and culture. The newest best-seller in the Slovene-speaking territories, written by Bartol, is a story of Turkish and Persian struggles to control the fortress of Alamut. The action is set in the 11th century, when Seljuk Turks started expanding into Asia Minor. It is suspected that the book will be translated into German and various other languages soon enough.
+Great!
+Austria-Hungary Federalises
+For the past few decades, the Austro-Hungarian Empire has decentralised authority from Vienna and Budapest, most prominently with the creation of Illyria in 1927. Now that process has taken another great leap forward, with the creation of [AUS.GetNameDef].\n\nThe Monarchy has restructured its internal structures to be more representative, while institutionally bringing its lands closer together. With the replacement of a decentralised, squabbling Empire with a unified state, the balance of power in Europe has shifted against all enemies of the status quo and the Habsburgs.
+Will it truly change anything?
+Their conservative \
+Austrian Elections of 1936
+Since federalisation begun, and the 'Austrian elections' were mostly reduced to the German-speaking part of the Empire, two major parties have dominated Austrian politics: the CS and the SDAP.\n\nThis year's elections, too, are harshly fought; the SDAP and CS have very different ideas of dealing with the ongoing economic crisis. The SDAP's programme focuses on easing the worker's plight, with a focus on unemployment benefits and government intervention. The CS, on the other hand, follow a programme of severe austerity measurements.
+It is for the people to decide.
+Opening of School & SDAP Rally
+Even if the economic situation of Austria has been dire for a while, the first years after the Weltkrieg, when the CS and SDAP still cooperated in their governance, [Root.GetNameDef] saw widespread reforms in education and welfare. Academies for specialised workers began construction, workers' pensions were introduced, and child labour was once and for all eliminated. Vienna has been regarded as a front-runner in socialist circles.\n\nToday, a new academy is opened in the ninth district of Vienna, which the SDAP sees as a major success. Many speeches by various politicians are held, Karl Renner always standing in the background.\n\nRenner has been the effective head of the party since he found the goodwill of the Emperor during the Weltkrieg with a policy of Burgfrieden and cooperation with the Crown.
+Their efforts are praiseworthy.
+I'd prefer it if they didn't claim the successes of a joint government as their own.
+Adler Denounces the SDAP
+Friedrich Adler, son of the former head of the SDAP and a Radical Socialist mostly known for shooting Graf Stürgkh in protest of the Weltkrieg, has denounced the SDAP as 
+Radicals will be Radicals.
+The CS Invites Prince Otto to Hunt
+The CS, the party of the petite bourgeoisie, the Catholic church, and the conservative countryside, usually refrains from holding large public events. In Vienna, they instead focus their efforts on smaller, private meetings. One such planned meeting will be in the form of a hunt in the Wienerwald.\n\nPrince Otto was formally invited to join the hunt. Having enjoyed an aristocratic education, the Habsburg heir is already used to such social occasions.
+If he wants to...
+The Imperial Family is above such trivial things.
+Successful Hunt for the CS
+Following the hunt, a feast was held, during which a radio interview with several prominent CS figures, but also Prince Otto, was recorded. It seems like this was on purpose, as Prince Otto is now being associated with the party, and support amongst our most devoted subjects for the party has increased.
+Is this what they were hunting for?
+Hunting Accident: Is Prince Otto hurt?
+During what has been confirmed as an accident by all bystanders, the hunting rifle of the son of a prominent CS politician misfired, grazing Prince Otto's right leg in the process. While the heir to the throne sustained no serious injuries during the incident, the media are already spinning their conspiracy theories.
+Are they trying to kill off my heir?
+The Elections
+The final tally is in. After this hard-fought election campaign we shall now find out the winner.
+Isn't this exciting!.
+CS Win the Elections
+The final counts for the elections are in. While it was a close call, the overwhelming majority of the countryside votes have made the CS come first.
+Austria is Christlich-Sozial.
+SDAP Win the Elections
+The final counts for the elections are in. While it was a close call, the votes of the City of Vienna have made the SDAP the clear winner.
+Austria is Social-Democrat.
+Our Relations with Naples
+Though our Italian Federation and plans for an Austrian-dominated Italy failed, we are far stronger now than we were in 1926. Should we send an envoy to the court of King Ferdinand III, asking him to mend our broken ties, and help restore order to Italy?
+Renew our southern ties!
+Milan is a safer bet.
+A Message of Friendship from Austria
+Today, a distinguished Austrian ambassador arrived in the capital. He spoke of the great friendship our two nations have always enjoyed. He also said that the Imperial and Royal Government viewed with trepidation the threat to our west, and that Kaiser Karl encouraged swift reunification.
+This sounds like a great idea.
+The Austrians are our natural enemy.
+Austro-Italian Friendship
+Today, our ambassador returned from Italy. He informed us about the Italian agreement to our proposal of friendship. A great future lies before our countries.
+Good.
+Austro-Italian Rivalry
+Today, our ambassador returned from Italy. He informed us that the Italians have declined our proposal of friendship. This is an insult against all our country stands for. Maybe we should once more point our armies at them, as we did during the Weltkrieg.
+We will have our revenge.
+Austria Suggests a War
+The Austrian ambassador today suggested that we prepare our forces for an attack on the socialists. He said the time has come to strike at them and unite Italy.
+We will crush them!
+We cannot do that.
+War in Italy
+In response to our suggestion, Italy declared war on the SRI. While they have undoubtedly prepared for this day, we could augment their weapon stores with some of our own equipment, and even set up some volunteer regiments from our Italian-speaking lands. Should we send them this aid?
+Send them help.
+They will make do.
+Austrian Help Arrives
+Today, Austrian help has arrived in our land. They have sent us troops and weapons to defeat the enemy.
+Thank God.
+Naples Accepts
+The Kingdom of the Two Sicilies has, surprisingly, accepted our offer of friendship, even though we abandoned them in 1926. However, now that they have proven receptive once again to their rightful protector and ally, we shall be sure to never fail them again!
+We won't fail you again.
+The Bourbons Refuse
+Angry at our last betrayal and openly doubting the usefulness of our friendship, the Sicilian ambassador has informed our government that there is to be no deal between Naples and Vienna. We must rely on Milan and Venice for an Italian ally.
+Damn.
+Ausgleich Preparations
+Every ten years since 1867, Austrian and Hungarian delegations meet to discuss how much each side of the Empire puts into the Common ministries: the ministries for foreign, military and financial affairs.\n\nHowever, due to their loss and demand for reparations for the Croatian territories, the re-negotiations of 1927 came to a standstill, resulting in Hungary not having paid anything into the common treasury for the last decade.\n\nHungary's state as a renegade Crown under the Kaiser's reign has been a thorn in Austria's side for a while now, and at least some efforts have to be made to bring them back to the herd.
+Invite them formally.
+An Invitation to the Ausgleich
+The Viennese government has invited us to re-negotiate the Ausgleich. While this happens every ten years since 1867, when Hungary was put on the same level as Vienna, relations have been sour since the last time our countries met at the table in 1927, when the man in Vienna tried to force us to accept the loss of Croatia.
+We shall see what comes of this.
+Hungary Attends the Ausgleich Renegotiations
+While there was some doubt whether Hungary would be willing to sort out the diplomatic differences between our two halves of the Empire, they have agreed
+Naturally they do.
+Invite Others to the Ausgleich?
+The Ausgleich has always been conducted as a meeting of the Austrian and the Hungarian elite. However, we have had politicians from Bohemia, Galicia and Illyria petition for a more open, multi-ethnical negotiations this year, with delegations from all constituent states of Empire present.\n\nAlso, gathering delegations from all of Austria-Hungary's corners might help mediate some of the internal tensions that have been going on since the Weltkrieg has ended.
+No way. This is between us and the Magyars.
+You are right. Invite the Bohemians, Galicians and Illyrians.
+We need to think bigger. Invite all peoples of the Dual Monarchy.
+Other Nations at the Ausgleich
+Reportedly, Austria has sent for delegations from the other parts of the Empire to take part in the Ausgleich Renegotiations of 1937. Prominent Politicians have voiced their opposition to such an Ausgleich, calling it a political manoeuvre to give Austria the upper hand during the negotiations.
+Slovaks and Romanians Invited to the Ausgleich
+As if it weren't enough that the Viennese government has called for Czechs, Poles, and all the other ethnicities of the other side of the Empire to the negotiation table, reportedly they have done the same even for nationalist groups within our borders!\n\nThe Slovaks and Romanians in the Carpathian Basin had been subdued successfully for centuries, but support from Vienna has awoken underground nationalist movements from their slumber.
+This is an outrage. Formally protest their decision.
+Just protesting is not enough. We shall not take part in such an Ausgleich.
+We must go with the times.
+An Invitation to the Ausgleich
+The rumours that have been circulating amongst the members of our local government have turned out to be true. A courier has arrived in [Root.Capital.GetCapitalVictoryPointName] carrying an invitation to the Ausgleich negotiations. We are to send a [AUS_ausgleich_delegation] delegation to the negotiations. The Kaiser seems to have taken the opportunity of Hungary being willing to talk out their differences with the Cisleithanian Empire to allow us to bring our side to the discussion table.
+What an honour.
+What an honour. We shall do as commanded.
+[AUS_ausgleich_dominated_delegation]
 [Root.GetAdjective] delegation
 delegation of both Bohemian-Germans and Czechs
 delegation of both Poles and Ruthenians
@@ -443,13 +561,309 @@ delegation of all Illyrian peoples
 We can go a bit heavier on the Bohemian-Germans though, can't we?
 We are a Polish state. We will send our elite, not Ruthenian peasants.
 There is only one Illyrian people.
+Hungary Protests Against the Other Delegations
+Word has come from Hungary that they condemn the fact that we have invited other delegations than them to the negotiations. Whether this condemnation is backed with anything, we will have to see.
+[From.GetNameDefCap] Agrees to Attend
+Our courier has returned from [From.Capital.GetCapitalVictoryPointName], carrying a reply from the [From.GetAdjective] government. They are very happy to be able to attend the negotiations, and send their best wishes.
+It's the way forward.
+Excellent.
+The Hungarian Delegation Arrives
+The Hungarian delegation has arrived in Vienna yesterday, eager to discuss the future of the Dual Monarchy. The festivities lasted long into the night.
+The Delegations Arrive
+Despite the fear that Hungary would not take kindly to us having invited other delegations beside theirs to the negotiations, they have arrived in Vienna yesterday amongst the delegations from Bohemia, Galicia and Illyria.\n\nWhile this year's Ausgleich Renegotiations are attended by politicians and thinkers from all over the Empire, the Hungarians remain at the centre, since their problem is the most important to solve. The festivities lasted long into the night.
+The Delegations Arrive - With Hungary Absent
+It was feared that Hungary would not take kindly to us having invited other delegations beside theirs to the negotiations, and critics of the move had already suspected that they would boycott the occasion for that reason.\n\nNonetheless, the other delegations have arrived, and are willing to discuss how to solve the issue of a defiant Hungary. The festivities lasted long into the night.
+What a night.
+What is there to negotiate without Hungary?
+A Hungarian Delegate Holds a Speech
+On the first day of the negotiations, speeches were held. One Hungarian politician has delivered the following:\n\n'Are we not to be proud of the Austro-Hungarian Empire. For decades now the man in Vienna has strived to reform what was already perfect. I believe that Austria, and Hungary, together, have a part to play in the future of the world. Together, we shall make Austria-Hungary great again.'\n\nWhile his compatriots were visibly disturbed by this implication that Kaiser Karl's federalisation politics were a mistake, he himself seemed rather pleased, despite the absence of applause.
+How insolent.
+Remove him from the negotiations.
+He's right though, isn't he?
+Hungary Demands Reparations
+As anticipated, the Hungarian delegation once again demands compensation for the loss of the territories of Croatia-Slavonia, that were in vassalage under the Hungarian Crown until 1925, when said territories were occupied by the revolution of Southern Slavs, which ended with the cessation of the lands in 1926 to the newly reformed Kingdom of Illyria.\n\nThe Hungarian delegation still claims the lands as their own, but acknowledges that having them be under Hungarian control again is impossible. Therefore, like in 1927, they demand a hefty sum of money to be transferred to their treasury.
+Offer them to pay from our own coffers.
+This debt should be paid by the Illyrians.
+This debt should be paid by the Illyrians. Let's try to negotiate here.
+That is precisely why you pay less taxes now.
+If they miss Croatia-Slavonia that much, they might as well have it back.
+Bohemia Proposes a Slovak State
+In the vain of the discussions on the day before, the Bohemian delegation brings up the issue that is the Slovak people living under direct rule of the Hungarian Crown. Without any special rights or autonomy, the Slovak people have been the victim of an ongoing policy of Magyarisation.\n\nThe Bohemian delegation proposes the creation of an autonomous state for the Slovak people as a solution 'to free their brothers from the Magyar yoke'.
+This is certainly a thing Hungary should consider.
+It should be done. Still, this requires further planning.
+It should be done, and furthermore it should include all Slovak territory.
+Galicia Demands Transcarpathia
+Joining in on the recent trend of demanding Hungarian lands, the Ruthenian delegation reminds us that their brothers across the Carpathians are not even recognised by the Hungarian government.
+The Ausgleich Negotiations are not a place to ask for territorial concessions.
+It should be done. Let us work towards it.
+Illyria Demands the Bačka
+Joining in on the recent trend of demanding Hungarian land, Illyria now too demands cessation of the Bačka territory. While it is home to many Illyrians, claiming this strip of land in the southernmost region of Hungary is a rather audacious move by the Illyrian delegation, especially considering that Hungary is not yet formally recognising the South Slavic State.
+The Ausgleich Negotiations are not a place to ask for territorial concessions.
+It should be done. Let us work towards it.
+Illyria should control the entire basin.
+The Polish Propose a Polish Protectorate
+Several prominent members of the Polish delegation have endorsed a more active stance in our diplomatic relationship with Poland. While Poland was left to be in the German sphere after the War, the Galicians still see Poland as their homeland, now suppressed by Prussian rule. They wish for us to liberate their compatriots.\n\nPoland is not yet lost.
+We shall consider this.
+Romanians: an Autonomous Transylvania?
+While Transylvania hold some recognition by Hungary, it is by no means near the level Cisleithanian states enjoy. The Romanian delegation puts in a word for being put on the same level as the states of the Austrian half.
+The Hungarian delegation should consider this.
+Yes, it shall happen...
+... and it shall include Partium and the Banat.
+Hungary Abandons the Ausgleich
+Having had enough of the 'mockery of old traditions' that the Hungarian delegation calls this year's negotiations, they have left the discussions.
+This is bad, isn't it?
+The Delegation Returns Home Early
+Upset with the way the negotiations were going, our delegates returned home early. We will not be reimbursed for now.
+Suboptimal.
+The End of the Ausgleich
+Today at dawn, the Hungarian delegation left for Budapest, to inform their government of what has transpired the last days, of the open arms that welcomed them in Vienna, and of their promised gains. The Ausgleich renegotiations of 1937 were a success, and things are looking up for the Dual Monarchy.
+The Ausgleich came to an end yesterday - when Hungary decided to leave them prematurely.
+The Ausgleich came to an end yesterday. All delegations went home today.
+Despite Hungary's earlier departure, the Ausgleich came to an end yesterday, and the rest of delegations went home today.
+Let's hope this upholds peace within the Empire.
+It could have gone better, but also worse.
+The Ausgleich Negotiations Are Over
+Our delegation was successful in negotiating a resolution to our differences with Vienna.
+Good.
+Austria Agrees to Pay Reparations
+We have successfully negotiated for the payment of reparations for the loss of Illyria.
+Send the demand.
+Hungary Sends Her Demands
+Hungary takes us up on our offer for reparations.
+If that is what it takes.
+[From.GetName] Agrees to Pay
+[From.GetName] Agrees to Pay
+Good to know.
+Hungary Demands Reparations
+Hungary Demands Reparations
+Wait, what?
+If that has been decided...
+Illyria Refuses to Pay
+Illyria Refuses to Pay
+Well, let's start a war in the Balkans. What could go wrong?
+Not much we can do then.
+Hungary Declares War On Us
+Hungary Declares War On Us
+This isn't good.
+The Illyrian Crisis
+Following the refusal of the Illyrian government to pay what they've described as 
+This is outrageous.
+Leave them to it.
+It's happening.
+Austro-Hungarian Split of Former Illyria
+We must choose what to do with the occupied Illyrian lands.
+Restore the 1921 borders.
+Give Croatia-Slavonia to Hungary and restore Illyria in the rest of the land.
+Occupy the whole thing for now.
+Austria Occupies All of Illyria
+Austria has chosen not respect their promise. How should we respond?
+They'll pay for this.
+Delegation Returns From the Ausgleich
+Our delegation to the Ausgleich Renegotiations has arrived home in [ROOT.Capital.GetCapitalVictoryPointName] today. While no major diplomatic breakthroughs were made from our side, at least we were able to establish closer ties to Vienna.
+Our delegation to the Ausgleich Renegotiations has arrived home in [ROOT.Capital.GetCapitalVictoryPointName] today. A major diplomatic breakthrough was achieved, as Vienna now recognises some of our claims with regards to Hungarian lands.
+Certainly a valuable lesson for them.
+Good.
+[FROM.GetNameDefCap] Rebels!
+Incensed by our betrayal of the weaker member states of our Empire, [FROM.GetName] has revolted against us! However, the K.u.k. Kriegsminister assures us that Austria and Hungary combined should prove easily victorious.
+How dare they!
+[AUS_ausgleich_demonstrations] Nationalism
+Without doubt inspired by the support the King and his government in Vienna have given them during the Ausgleich Renegotiations, [AUS_ausgleich_demonstrations] protestors are marching the streets, holding pro-Austrian, but anti-Hungarian protests.
+Put them down.
 Slovak and Romanian
 Slovak
 Romanian
 Slovakia and Transylvania
 Slovakia
 Transylvania
+[AUS_ausgleich_demonstrations] Demonstrations Put Down in Hungary
+At the start of the week, peaceful demonstrations of support for Vienna in several cities of [AUS_ausgleich_demonstrations_cities] ended with the Hungarian police violently dispersing the crowd. However, this has only played into the narrative the resistance is pushing, and now [AUS_ausgleich_demonstrations] leaders are asking our government to mediate the dispute.
+Agreed. Hungary is to move its forces from the disputed territories.
+We cannot meddle with Hungarian affairs.
+Austria Demands Our Authorities Evacuate [AUS_ausgleich_demonstrations_cities]
+Austria has demanded our administration and armed forces leave [AUS_ausgleich_demonstrations_cities].
+We must do as they say.
+Never!
+Hungary Accepts Our Ultimatum
+Hungary has left the disputed territories, leaving our forces free to march into them and restore order - the order we want, of course.
+Great.
+Hungary Refuses Our Ultimatum
+Hungary declines our ultimatum and refuses to leave the disputed territories.
+You know what this means, don't you?
+Oh well.
+Hungarian Victory in the Crisis on the Danube
+It has become increasingly clear, with both the Armee-Oberkommando (Army High Command) and the Foreign Ministry in panic, that the war with our upstart crownland Hungary has taken a turn for the worse. With the core of the monarchy threatened, even the once-confident AOK is fearing for the worst and that not only is the territorial integrity of the Empire no longer salvageable, but that it may already be at the doorstep of complete collapse. To save face and prevent this potential collapse, it has been suggested to the Emperor-King that we must sue for peace or face the dismantlement of the Habsburg Monarchy altogether.
+We have no choice but to accept the Hungarians privileged status within the empire.
+There will be no negotiations with the Magyars!
+Austria Sues For Peace
+The tyrannical Habsburg Monarchy's troops who previously threatened to dismantle our country have been beaten on the field by our glorious armies. Seeing the writing on the wall, [AUS.GetNameDef] has sued for peace. They are willing to accept Hungary's rightfully earned position in the empire, cede our claims in Croatia, and guarantee to never threaten our status ever again. It is clear they are desperate to salvage what is left of the empire. With our position protected, there is little reason to refuse this generous offer even if the prospect of marching through Vienna's Heldenplatz and finishing off the dying corpse of an Empire is indeed tempting.
+We agree to their terms.
+No, we shall end the Habsburgs once and for all!
+Austria Demands Re-Integration
+They say we should be ruled directly from Vienna again.
+What can we do against Vienna?
+What about no.
+Isn't this where we rebel?
+[From.GetNameDefCap] Accepts Reintegration
+The [From.GetAdjective] government has agreed to our proposal of a more centralised state.
+Excellent.\n(Keep divisions)
+Excellent.\n(Disband divisions)
+[From.GetNameDefCap] Invades Hungary!
+The vultures in [FROM.GetNameDef] have decided to take advantage of our internal troubles by invading the Kingdom of Hungary. Despite their state of revolt, Hungary in its entirety is one of the core Habsburg realms and must be defended against our bloodthirsty neighbours. Even though we are already occupied with putting down the Magyar revolt, we must consider their invasion an attack against the Monarchy as a whole regardless of our state of affairs.
+We must protect our territorial integrity!
+We can do nothing...
+Austrian Betrayal
+Worrying news from Vienna! Austria has decided to revoke our home rule, placing our people under military occupation again. We need to protect ourselves, no matter the cost, even if that means asking Serbia for protection. We'd rather have other Slavs rule over us instead of some blood-thirsty Austrians.
+Austrian Betrayal
+ Worrying news from Vienna! It's been decided that Hungary, after being defeated, will be placed under military occupation, revoking the compromise of 1867. It's known that every German speaking nationalist considers Bohemia not as an independent nation with its own culture, but as a part of what they call Greater Germany. They will come for us, and it's not a matter of if, but a matter of when. We need to protect ourselves from Austria, even if that means war.
+Austrian Betrayal
+Worrying news from Vienna! It's been decided that Hungary will get back their Croatian lands, taking back the promises they made during the Weltkrieg. They will go after Illyria, and, knowing how German speaking nationalists consider Bohemia as part of Greater Germany, instead of a country with its own culture, they will come for us. It's not a matter of if, but a matter of when. We need to protect ourselves from Austria and their Hungarian lapdogs, even if that means war.
+Austrian Betrayal
+ Worrying news from Vienna! It's been decided that Hungary, after being defeated, will be placed under military occupation, revoking the compromise of 1867. We'd rather reunite with our Polish brothers than having some blood-thirsty Austrians rule over us. They will come for us, and it's not a matter of if, but a matter of when. We need to protect ourselves, even if that means war.
+Austrian Betrayal
+Worrying news from Vienna! It's been decided that Hungary will get back their Croatian lands, taking back the promises they made during the Weltkrieg. They will go after Illyria, and, knowing what they would do to them and Bohemia, we must ask our Polish brothers for protection. They will come after us, and it's not a matter of if, but a matter of when. We need to protect ourselves from Austria and their Hungarian lapdogs, even if that means war.
+We have no other choice.
+[FROM.GetNameDefCap] Revolts Against Occupation
+[FROM.GetNameDefCap] Revolts Against Illyrian War
+The reaction from Prague to our recent actions across the Leitha has been one of unmasked anger. Decrying the actions as tyrannical and a clear breach to the Monarchy's constitution, which they believe will be followed by the subjugation of the Crown of Saint Wenceslaus as well, the Bohemian government has declared the government in Vienna to be illegitimate and has deposed the governor, moving towards terminating Bohemia's personal union with Austria. We can only consider these moves as treachery from the perfidious Czechs, and the Bohemian crownlands is to be considered in open revolt.
+With the Czechs taking arms against us, the leadership of Galicia have wrongly concluded that Austrian protection is no longer in their interests and have approached the Polish government to step in and occupy Austria's \
+With Hungary under occupation and the other Slavs of the Empire in revolt, the Croats have finally made their move as well, and it is one of treachery. To make things more insulting, they have even approached the Serbs to come to their aid, potentially dragging the Balkans into our internal affairs.
+They will be crushed as Hungary was.
+They will be crushed.
+[FROM.GetNameDefCap] Requests Support
+Rebellion has once again begun in the Habsburg Empire. Austria has predictably tried to wrest control away from the three predominantly Slavic constituent parts of their Empire, ignoring what pitiful \
+This is our chance! To war!
+Austria is too strong...
+[BPL.GetNameDefCap] Declares war on [AUS.GetNameDefCap]
+The ambitions of the Belgrade Pact to regain their rightful lands at Austria's expense are no secret, and with the entrance of the Belgrade Pact's leader into the war we are now presented with our opportunity to end Vienna's hegemony over the Balkans once and for all. This may be challenging the Austrians sooner than we had otherwise planned, but if we believe we have chance, now is the time we must strike.
+This is our chance! To war!
+Austria is too strong...
+[SER.GetNameDefCap] Declares war on [CRO.GetName]
+The ambitions of the Belgrade Pact to regain lands at Austria's expense are no secret, and with [SER.GetNameDef]'s' declaration of war on [CRO.GetName] we are now presented with our opportunity to end Vienna's hegemony over the Balkans once and for all.
+This is our chance! To war!
+On second thought...
+[BPL.GetName] Accepts an Alliance
+[BPL.GetName] has accepted our call to arms and shall join us in our war against Vienna! Perhaps this uprising will not be so futile.
+[BPL.GetName] has accepted our call to arms and shall join us in our war against Vienna! Perhaps this uprising will not be so futile.
+We must rescue our Slovak brethren!
+Onwards, for victory!
+[BPL.GetName] Rejects an Alliance
+Though we were expecting [BPL.GetName] to be enticed by a chance to seize their territorial claims while fighting on our side, they have refused our call to arms, citing that they are not prepared for a war against Austria for the time being. We stand alone in the world...
+Oh no...
+[FROM.GetAdjective] Requests Belgrade Pact Membership
+Great news from [FROM.Capital.GetCapitalVictoryPointName]! [FROM.GetNonIdeologyName] will join our war efforts against Austria, but there's a problem: what to do with Bucovina? Our Romanian allies claim this territory as theirs, so we must decide if we will let Poland take it, or if we should pressure Warsaw to give it to our allies in Bucharest.
+Great news from [FROM.Capital.GetCapitalVictoryPointName]! [FROM.GetNonIdeologyName] will join our war efforts against Austria, and with Romania owning Bucovina, we have any possible dispute over it already set. However, should we let the Poles in our alliance?
+We welcome them, but they must return Bucovina to Romania.
+Allies are always welcome!
+We don't need them.
+The Pact Demands Bukowina
+Today, we received news from Romania, and they have demanded Bukowina as a condition for us to join the Belgrade Pact. We could give it to them in exchange for military cooperation, or we could keep it, considering that Austria will be busy on lots of fronts.
+Gladly.
+Bukowina is a rightful [ROOT.GetAdjective] territory!
+The Return of Bucovina
+[FROM.GetNameDefCap] has accepted our offer, and Bucovina will be transferred to us. This is another victory for Romanian diplomacy.
+Marvellous.
+[FROM.GetNameDefCap] Accepts Our Offer
+We received news that [FROM.GetNameDefCap] has accepted our offer, they will join the Belgrade Pact in exchange for handing Bucovina to Romania. Together we shall put down Austria once for all.
+Excellent.
+[FROM.GetNameDefCap] Refuses Our Offer
+[FROM.GetNameDefCap] refused our generous offer of military assistance in exchange of Bucovina. That means our war efforts shall go separate ways.
+Their loss.
+[FROM.GetNameDefCap] Sends an Ultimatum
+[FROM.GetName] has stabbed us in the back! Sensing weakness, they threaten us with arms to unify into a South Slavic state. Shall we surrender our brief independence or defend it with what we have?
+We have no choice...
+We will not replace one tyrant for another!
+Illyria Accepts the Ultimatum
+The artificial state of Illyria, the Austrian attempt to stifle South Slavic unity by creating a Croat-led monstrosity has finally been extinguished, and their leaders have surrendered to our regime.
+The South Slavs are finally united.
+Illyria Refuses the Ultimatum
+The Croatian regime in Zagreb has refused our ultimatum and would rather defend their artificial state at war. Thus, war is what they shall receive.
+So you have chosen death.
+[FROM.GetNameDefCap] Leaves the [ROOT.GetFactionName]
+Now that Austria has been dealt with, [FROM.GetNameDefCap] has decided to leave the [ROOT.GetFactionName]. From now on our paths will go down separate ways.
+Not unexpected.
+Fall of the Habsburgs
+With the defeat in the Fifth Balkan War, Austria has now fallen far. Once a great empire, one of the winners of the Weltkrieg, now chaos reigns in Vienna. The Habsburg family has been ousted and has been blamed for the defeat, most of the army has defected to a newly independent Hungary. Now a question arises, should we join Germany for protection? We currently can barely defend ourselves, and in case of a syndicalist invasion we would stand no chance.
+So it ends.
+Austria Seeks Union With Germany
+Today the Austrian government has officially asked us to become part of Germany, seeking protection from both external and internal threats. This might be the perfect occasion to achieve Greater Germany, but some argue it's not worth the risk.
+Greater Germany has finally been achieved...
+We don't need them.
+Germany Refuses the Union
+Berlin has refused our offer, stating they do not have enough resources to protect us, nor the interest to do so. We're alone.
+Are they out of their minds?
+Austria Collapses Into Anarchy
+Shocking news from Vienna! The Austro-Hungarian Empire, once the hegemon of the Balkans, has now collapsed into anarchy, its Emperor overthrown in ignominy. This chaotic state of affairs has led to a mutiny in the k.u.k. Army; much of the Imperial Army has defected to the newly independent Hungary.\n\nThe Belgrade Pact, victors of the Fifth Balkan War, have carved up the Empire for their own benefit, with Czechoslovakia proclaimed following Bohemian independence. Observers raise questions about the Pact's future.\n\nAustria itself is in a precarious state. With the Phoenix's influence in the Balkans now over, the balance of power has shifted.
+Shocking news from Vienna! The Austro-Hungarian Empire, once the hegemon of the Balkans, has now collapsed into anarchy, its Emperor overthrown in ignominy. This chaotic state of affairs has led to a mutiny in the k.u.k. Army; much of the Imperial Army has defected to the newly independent Hungary.\n\nAustria itself is in a precarious state. With the Phoenix's influence in the Balkans now over, the balance of power has shifted. Bulgaria nows stands as the sole hegemon of the Balkans, for the foreseeable future.
+Twice the pride, double the fall.
+A sad end to a grand empire.
+In the end, capitalism will destroy itself.
+Chaos on the Danube
+Once again, blood will paint the Danube red, as has war sparked between Austria and its former crownlands, following the abolition of the practise of dual rule. It is certain the Belgrade Pact will also be involved in the conflict, seeking an occasion to attack Austria and overwhelm the Austrian land forces to seize their claims.\n\nThe Austrian Empire now faces a dire situation, facing an aggression on all fronts - will they be able to overcome yet another crisis, or will this old empire crumble under the hits of new rising European powers?
+We will not fail!
+Austria delenda est.
+More troubles in the Balkans!?
+[FROM.GetNameDefCap] Annexes [CRO.GetNameDef]
+Taking advantage of the war between [AUS.GetNameDef] and [CRO.GetNameDef], [SER.GetNameDef] has pressured the [CRO.GetAdjective] government into annexation. What should our response be?
+This means war!
+We cannot fight them right now.
+It matters not.
+Vienna Gone Insane
+After a devastating ultranationalist coup against Emperor Karl, a highly authoritarian and German chauvinist regime has secured power in Vienna. This has created great unrest in the lands of the Dual Monarchy, especially in the Slavic Crownlands, now home to a widespread rebellious mood. We cannot in good consicience uphold our alliance with Vienna under these circumstances.
+Inform Vienna of our decision.
+Austrian Intervention
+Today, the ambassador from Vienna stated that our southern neighbours are keen on 'helping out' with the ongoing war against [threat_country.GetNameDef], joining our alliance at least for the duration of this conflict. While the Austrian army is no longer the trainwreck it was during the Weltkrieg, and thus might prove of more help, it's possible their participation could open a southern front should they prove unable to stand firm.
+Brothers-in-arms once more!
+We are doing well enough on our own
+Germany Declines Our Offer
+Berlin has responded to our offer, stating our help was neither needed nor wanted, and that we should look to managing our internal affairs.
+How rude!
+Germany Accepts Our Support
+Berlin welcomes the help we have offered in combating the [threat_country.GetAdjective] menace. The [Root.GetFactionName] will merge with the [From.GetFactionName], at least for the duration of this conflict.
+Brothers-in-arms once more!
 §YYou will have the option to reform the [Root.GetFactionName] with all existing members once you are at peace again.§!\n
+The Donau-Adriabund Reforms
+[AUS.GetNameDefCap] has decided to reform the Donau-Adriabund alliance, now that the war is done, and has called on [Root.GetNameDef] to take their place at their side once again.
+[AUS.GetNameDefCap] has decided to reform the Donau-Adriabund alliance, now that the war is done, and has called on [Root.GetNameDef] to take their place at their side once again. If we refuse, staying in the Reichspakt will not be an option - at least not for now. We will be on our own.
+Of course!
+We'd rather not...
+The Donau-Adriabund Reforms
+With the war now over, [AUS.GetNameDef] has elected to return to its former position as the head of the Donau-Adriabund alliance.
+We thank them for their assistance!
+We Are On Our Own
+The fall of Germany means [Root.GetNameDef] and the members of the Donau-Adriabund are now on our own!
+This can't be good...
+An Invitation from [From.GetNameDef]
+[From.GetNameDefCap] has rekindled her policy of acting as the 'Protector of the Balkans', and towards that end has formally invited us to join into her alliance. This would mean committing our forces to any [From.GetAdjective] wars, though we would also benefit from their protection.
+We agree to their protection
+We want our claimed lands back, first!
+No, we're doing well enough on our own
+[From.GetNameDefCap] Agrees
+The [From.GetAdjective] has let us know that [From.GetNameDef] is looking forward to closer cooperation with [Root.GetNameDef]. [Root.GetAdjective]-[From.GetAdjective] relationships are off to a good start.
+Splendid
+The [From.GetAdjective] Condition
+After some talks between our governments, it appears the main obstacle to [From.GetNameDef] joining our alliance is that some of their land - such as the state of [state_example.GetName] - is claimed by them and currently in possession of our subjects. Seeing as those subjects would have little choice in giving up whatever we tell them to, is it worth bribing [From.GetNameDef] in order to get them on-board?
+After some talks between our governments, it appears the main obstacle to [From.GetNameDef] joining our alliance is that some of their land - such as the state of [state_example.GetName] - is claimed by them and currently in possession of our subjects. That land, however, is considered a proper part of the empire. Giving it up to a country we don't control, even in exchange for an alliance, would not go over well with anyone in [Root.GetNameDef]. Is it truly worth such trouble to get them on board?
+After some talks between our governments, it appears the main obstacle to [From.GetNameDef] joining our alliance is that some of their land - such as the state of [state_example.GetName] - is claimed by them and currently in our personal possession. The land is not, however, a core part of the empire. Is it worth giving up control over it in order to bribe the [From.GetAdjective] government into joining our alliance?
+After some talks between our governments, it appears the main obstacle to [From.GetNameDef] joining our alliance is that some of their land - such as the state of [state_example.GetName] - is claimed by them and currently in our personal possession. The land is a core part of our empire, however, and giving it up to a country we don't control, even in exchange for an alliance, seems unthinkable. Would we truly consider such a thing?
+After some talks between our governments, it appears the main obstacle to [From.GetNameDef] joining our alliance is that some of their land - such as the state of [state_example.GetName] - is claimed by them and currently in the possession of our allies. Seeing as we can hardly tell our allies to give it up for their sake, it appears we have no choice but to refuse their request.
+We want that alliance, no matter the cost
+No, they ask for too much
+It was worth asking, at least
+The [From.GetAdjective] Command
+In order to broker an agreement with [receiver.GetNameDef] to join their alliance, the [From.GetAdjective] government has agreed to hand over [Root.GetAdjective] to them without even asking our leave. Sadly, considering our subordinate position, there is little we can do by object strenuously. Not that it matters - the deed is done.
+An outrage!
+[From.GetNameDefCap] Agrees to our Demand
+It came as a shock to some when the [From.GetAdjective] emissary returned with the news that we would, indeed, get our claimed territories returned to us forthwith. A fortuitous beginning to our new relationship with [From.GetNameDef], it appears.
+Splendid
+[From.GetNameDefCap] Refuses our Demand
+It's little surprise to any within the [Root.GetAdjective] government when the [From.GetAdjective] emissary returned and informed us that [From.GetNameDef] would not return any territory to us in exchange for our alliance, no matter the strength of our claims to it.
+So much for their offer, then
+[From.GetNameDefCap] Declines
+Without bothering to make a counter-offer, the [From.GetAdjective] government has refused our request... and, more over, has scoffed at our pretension to the title of 'Protector of the Balkans'. It appears our alliance will need to make do without them.
+Well then
+Expansion of the Vienna Circle
+[From.GetNameDefCap], a country with which we have many ties, has invited us to the Vienna Circle — a prestigious array of top scientists, mathematicians, and other thinkers who gather to discuss the great topics of the day and advance research through more practical means as well. The official paper reads that they look forward to working alongside the intellectuals of [Root.GetNameDef]. Our inclusion would lead to a significant boost in our own technological capacity, though a few note this may be yet another move to try and consolidate the [From.GetAdjective] sphere around its namesake member.\n\nStill, even these cynics cannot deny that it is a great step for our country's scientific sector and international prestige to be included in an organisation of such great repute.
+Excellent
 Austria
 Austrian
 Austria

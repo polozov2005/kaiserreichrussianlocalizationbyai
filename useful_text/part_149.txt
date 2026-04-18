@@ -349,9 +349,105 @@ Federal Exchange Programmes
 By enabling exchanges from students throughout the federation, we will support cross-member state border friendships and cooperation, ensuring the growth of a solidarity between the youths of the Nordic nations.
 Nationalism Fades Away!
 Our efforts at expanding the interactions of the Nordic people in cultural and economic sense is paying off; while some will of course always remain stalwart nationalists, at least the amount of people identifying as Nordic citizen rather than say a Swedish citizen is lower than ever.
+Form a Nordic Council?
+Representatives and diplomats of all three major Scandinavian countries have gathered in [SCA_nordic_council_leader.Capital.GetCapitalVictoryPointName] for a treaty to kickstart closer cooperation between the Nordic countries. We share values that not everyone in the world shares with us, and against a hostile world the nations of Scandinavia ought to work together, they argue. No hard agreements have been set here, but it does look like the follow-ups to this gathering might be more instrumental.
+A toast to our brethren!
+The Treaty of [SCA_nordic_council_leader.Capital.GetCapitalVictoryPointName]
+We have invited diplomats and representatives from both [SCA_loc_formation_countries] to [SCA_nordic_council_leader.Capital.GetCapitalVictoryPointName] to negotiate a - for now non-binding - treaty to kickstart closer cooperation between the Nordic countries. We share value that not everyone in the world shares with us, and against a hostile world the nations of Scandinavia ought to work together!\n\nWhile indeed few hard agreements will be set here, the first impressions are positive, and it seems the follow-ups to this gathering might be more instrumental.
+A toast to our brethren!
+This is a waste of time.
 Norway and Denmark
 Sweden and Denmark
 Sweden and Norway
+[From.GetNameDefCap] Rejects Our Proposal
+[From.GetNameDefCap] has let us know that they don't see any gain in following through with the reform we proposed. It seems that, in this area of politics at least, the peak of Scandinavian cooperation has been reached.
+Disappointing, but so be it...
+[SCA_federation_initiator.GetNameDefCap] Proposes a Nordic Federation
+[SCA_federation_initiator.GetNameDefCap] has proposed to unite all the Scandinavian countries in a democratic federation. This would result in the integration of our country into the Nordic Federation.
+Agree to federate.
+Oppose this project.
+[From.GetNameDefCap] Accepts Our Proposal
+[From.GetNameDefCap] has expressed interest to join our proposal to unite all the Scandinavian countries in a democratic federation. We are one step closer to the establishment of a united Scandinavia.
+That's good!
+[From.GetNameDefCap] Rejects Our Proposal
+[From.GetNameDefCap] has waved off our proposal to unite all the Scandinavian countries in a democratic federation. It seems Scandinavian integration has, by all means, reached its peak.
+Disappointing, but not entirely unexpected...
+Creation of the Nordic Federation
+The other Scandinavian countries have agreed to our proposal regarding federation. According to its constitution, the Nordic Federation will, for now until it can be addressed by a proper federal government of course, be a democratic, federal monarchy. The executive will consists of a federal government, which holds power on behalf of a council consisting of the Swedish, Norwegian and Danish monarchs. The federal parliament will be based in Göteborg, but all the constituent kingdoms retains their individual institutions and autonomy.
+Great!
+Rise of the Nordic Federation
+Today a new giant rises in the North. After many tense sessions of negotiations, the Nordic unity that was once thought unachievable is now a reality. The past few years have seen much of the world drifting apart, but the Nordic nations have acted in defiance of this trend.\n\nThis brotherly union will be entering a world that is in many ways on the precipice, but they know that together they are much stronger than they could ever be apart. A joint session of parliament is being called to celebrate this landmark achievement. Three cheers for unification, three cheers for democracy!
+Hip hip hooray for Scandinavia!
+The Formation of the Nordic Federation
+After the signing of the Scandinavian Treaty, a transitionary government primarily composed of civil servants with little active powers has been left in place that will co-govern the federation with the national governments until we successfully ratify the federal constitution, which will then be established as the highest law within the federation; above those of the member states, which will then allow for coordinated elections to establish a government elected by the people.
+Prepare the Constitutional Convention!
+The First Federal Election
+We are ready to conduct our first federal election. This parliament is provisional and will only last until we can elect a more permanent assembly at a later date. While there are several smaller parties on the ballot, there are three that can realistically win the election. The Nordic Social Democratic Worker's Party is campaigning on the issue of public welfare and would like to keep the status quo in regards to federal and international affairs. The Liberal Party is promising to cut taxes and make itself strong for the civil liberties of the citizens. They are also in favour of maintaining the current status of the federation. Lastly, the Farmer's League is an agrarian party coming up for the interests of Scandinavia's farmers. Who will win?
+NSAP - The Social Democrats
+LP - The Liberals
+The Farmer's League - The Social Conservatives
+The [GetYear] Federal Election
+The time has come to elect a federal parliament to serve for a full four year term. Once again the different parties have campaigned vigorously, and it is to the Nordic people to decide who reigns supreme in the end.
+The Nordic Constitution
+Section 1:\n\nArt. 1:\n1. This constitution shall apply to all parts of all constituent countries of the Nordic Federation.\n2. Which nations are considered part of the Federation shall be determined by federal law.\nArt. 2: The form of government shall be that of a constitutional monarchy. The head of the federation as determined in part 2 shall hold royal power.\n\nArt. 3: Legislative power shall be vested in the Nordic Parliament and the head of the federation conjointly; the executive power shall be vested in the cabinet.\n\nThese are the first articles of the Nordic constitution. The debates are fierce, but an agreement shall be reached on the fundament of our federation's law.
+Hurrah!
+Section 3: The Head of the Federation
+Art. 34:\n1. The Federal Council shall jointly take upon themselves the office of 'Head of the Federation'.\n2. The heads of state of the constituent countries take seat in the federal council.\n\nArt. 35: The federal council shall appoint the federal prime minister and his cabinet on the advice of the Nordic Parliament.\n\nWith these words, the reality is solidified that the federal council will act as the monarch in a constitutional monarchy. A fair manner in which none of the constituent countries will be negatively impacted.
+A fair deal!
+Section 2: The Legislative Branch
+Art. 8: The Nordic Parliament shall be a separate body, elected by the people of each constituent country according to proportional representation.\nArt. 9: The Lower House shall consist of one assembly of not more than three hundred Members.\nArt. 10: The Upper House shall consist of one assembly of not more than one hundred and fifty Members.\nArt. 11: The Upper House and Lower House will together form the Nordic Parliament.\nWith these and more articles, the legislative branch of the Nordic Federation has been decided upon.
+We're moving forward!
+Art. 8: The Nordic Parliament shall refer to the joint sessionage of the parliaments of the constituent countries.\nArt. 9: The Lower House shall consist of one assembly of the members of the lower houses of the constituent countries, as each are established in their constitution.\nArt. 10: The Upper House shall consist of not more than one hundred and fifty Members that are elected directly by the people of the constituent countries of the federation.\nArt. 11: The Upper House and Lower House will together form the Nordic Parliament.\nWith these and more articles, the legislative branch of the Nordic Federation has been decided upon.
+We're moving forward!
+Section 5: The Judicial Branch
+Art. 58: The High Court of the Federation shall consist of up to twenty of the eldest - according to seniority of office—ordinary members of the courts of justice of the constituent states, and an equal number of members elected for six years by the Lower House according to proportional representation. One or more substitutes shall be elected for each elected member. No Member of Parliament shall be elected a member of the High Court of the Realm, nor shall a Member of Parliament act as a member of the High Court of the Federation. Where in a particular instance some of the members of the highest court of justice of the Federation are prevented from taking part in the trial of a case, an equal number of the members of the High Court of the Federation last elected by Parliament shall retire from their seats.\n\nAs such, a new high court was established, standing above the national courts to enforce federal law.
+This will bring stability.
+Art. 58: Federal laws shall be enforced by the national judicial organisations as if they were regular laws. The federal government may not impede on the national judicial systems, unless all constituent countries other than the one in question agree the integrity of the national judicial branch is under serious duress.\n\nWith this article, judicial autonomy is secured.
+The emergency clause was necessary to prevent misuse...
+Art. 58: Constituent countries may not entertain their own courts of law.\nThe exercise of the judiciary power shall be governed only by Federal Law. Extraordinary courts of justice with judicial power shall not be established. The exercise of the judiciary power shall be governed only by Statute.\nExtraordinary courts of justice with judicial power shall not be established.\nArt. 60: The administration of justice shall always remain independent of the executive power. Rules to this effect shall be laid down by Federal Law.\nArt. 61: The administration of justice shall always remain independent of the executive power. Rules to this effect shall be laid down by Statute.\nWith these articles, one Nordic judicial system for all constituent countries will be established. A few articles more, and their independence will be optimally secured.
+I don't know if the constituent countries will approve of this...
+The Scandinavian Internationale
+Leading members of the social democratic parties of Scandinavia; primarily of Socialdemokratiet of Denmark, the Labour Party of Norway and the Swedish Social Democratic Labour Party, as well as some smaller, often local, parties, gathered in Copenhagen to establish their electoral alliance in the federal elections that shall be held in the future.\n\nRightwing Danish media sportingly nicknamed this gathering the 'Scandinavian Internationale' after the international socialist gatherings. While they decided to go for the name of 'Nordic Social Democratic Workers Party', this sobriquet was enthusiastically adopted by the younger socialists, although the leader of the Danish youth wing, Hans Hedtoft, did clarify that the Nordic Social Democratic Party does not endorse syndicalism in any way. According to him, the name appeals based on the Second Internationale.
+Hmm, suspicious!
+Formation of the Conservative Party
+Several conservative parties around the federation have announced a fusion to optimally partake in the federal elections that are to be held soon. This alliance includes the Norwegian Høyre party as well as both the Danish Venstre party and the Danish KF party, which has left experts predicting that Denmark will be the main base of this party, even if it will still be a hotly contested region considering the strong presence of the social democrats. In Sweden, the traditional conservatives have joined this party, although some among them look with a certain suspicion to the limited commitment to some of the values of conservatism embraced in this new party, despite the name. Some members of the Swedish riksdag abandoned the party even completely when they agreed to join, leaving them independents.
+We wish them luck!
+Formation of the Liberal Party
+Board members from the Swedish Folkpartiet, the Danish Radikale Venstre and the Norwegian Venstre parties have declared their intention in the federal capital of Göteborg today to run together as the Liberal Party in the soon-to-be-held Nordic elections. As this group is composed of mostly smaller parties, experts predict that they will have a difficult time actually winning these elections, but they might well become influential as a smaller party as the junior party in a future coalition.
+Good luck with that!
+The Unification of Trade Unions
+As it becomes clear that the Nordic countries are starting to embark on a united path, the labour movement has not been sitting still. The Trade Union Congresses of Denmark, Sweden and Norway have convened in the Swedish capital of Stockholm. Here they voted to unify all three organisation into an even higher congress known as the Nordic Trade Union Congress. Unsurprisingly, the syndicalist elements followed suit in this, in spite of their alleged opposition to the Nordic project, meaning a unified syndicalist cause now exists on the Nordic level.
+Lightly worrying indeed...
+Ratification of the Constitution
+The Federal Constitution has been formalised. In a festive ambiance, it has been symbolically accepted by the federal parliament and then been signed by the each of the monarchs of the member states in the new federal capital of Göteborg. With this, the Federation has finally been made official and the constitution has been empowered. A truly glorious day for the boreal nations of Scandinavia!
+Hurrah!
+Switching of the Guard
+As the constitution provides, the chairman of the federation revolves between the monarchs of the constituent member states. 2 years have passed, and it is time for the next monarch to take this role upon themselves.
+Hurrah!
+Formation of the Farmer's Party
+Agrarian parties are a curious phenomenon in Northern European, especially Scandinavian politics that defend the interests. Naturally, they did not sit still as the Nordic countries are uniting and they too have formed their own unified party to compete in the elections.
+More concise parties are always good!
+The Formation of the Nordic Federation
+Delegates from Sweden, Norway and Denmark convened this morning in Stockholm to finalise a resolution for the federalisation of the three countries into one entity. Known now as the Nordic Federation, many political analysts have been debating what this will mean for the future of the balance of power in Europe. While some believe that the liberal ideas of the federation align with the interests of the Entente, most agree that the new nation will likely take a stance of neutrality on all matters. The balance of power once again shifts on the world stage.
+The Northern Lights Shine Bright
+The Nordic Federation Negotiates for Neutrality
+With the formation of the Nordic Federation, it seems the Scandivanians have decided to reject violence. They have approached us to negotiate a recognition of their neutrality, however, with two of their constituent nations having been in our economic sphere. We could push for them to return to it in exchange for neutrality.
+Demand they return to our sphere, then they shall have their peace.
+The German Response.
+The German's have responded to our request. If we join their economic sphere like Sweden and Denmark had, then they will agree to respect our neutrality.
+Well that's not so bad is it?
+The Nordic Federation Negotiates for Neutrality.
+With the formation of the Nordic Federation, it created the problem of a unified Scandinavia possibly joining the Reichspakt. However, the Nordic Federation has started talks with us to ensure they avoid any bloodshed. While they are forced back into the German's economic sphere, we can demand that they oppose any further German encroachment into their affairs. We will also give a promise of protection from other powers that they can invoke any time.
+A great opportunity for us
+The Russian Response.
+The Russians responded rather well to our negotiations, however their terms make it clear that we are to avoid any further terms with Germany and to oppose any invasion or perceived interference in our affairs by other powers, with Russia promising aid if we wish it. This makes it clear that the Russians see us in their sphere and we may need to tread a fine line between them and Germany.
+The cause requires sacrifice...
+The Nordic Federation Negotiates for Neutrality.
+The newly formed Nordic Federation have approached us for talks about their neutrality in European affairs. They could have been a formidable enemy on Germany's side but they have chosen to protect their own people instead. We can push them to allow for socialist parties and syndicalist unions to operate freely in exchange for recognising their neutrality.
+Open socialist parties will further socialism anyway.
+The Socialist Response.
+The Third Internationale have agreed to our request for neutrality on two conditions: First is that any socialist political party that wishes to organise and contest elections should be free to do so, and second, that syndicalist unions can freely operate in workplaces. These terms seem quite reasonable and a few new political groups are a small price to pay to secure neutrality.
+Hopefully they aren't the revolutionary kind...
 Federal Council
 §YBackground:§! §LThe Federal Council of the Nordic Federation is the federal head of state. The council, which consists of the monarchs of the constituent states, is mostly a symbolic institution as it is bound to follow the advice of the federal government.§!
 Scotland Focus Tree

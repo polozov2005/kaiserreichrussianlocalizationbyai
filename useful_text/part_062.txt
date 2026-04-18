@@ -933,6 +933,889 @@ GFX_CUB_intro
 Cuba: A Brief History
 Cuba, having gained independence only in 1902, is a young nation. While many in the United States seem almost certain that the island will one day become another US State, Cubans hold their national identity close to their hearts. Throughout its first twenty-five years of self-rule, Cuba was plagued by political turmoil caused by American meddling in its internal affairs. On the twentieth of September, 1928, however, Cuban anger towards increasingly dictatorial president, Gerardo Machado, and his American puppet-masters seemed to boil over. By morning the next day, Cuba had a new government comprised of moderates, nationalists, and socialists alike and renewed hope for the future. Even when the leadership of this fleeting caretaker government was forced to appoint the young and inexperienced Rafael Trejo as President, Cubans remained cautiously optimistic. This was not to last.\n\nThe new regime, while resentful towards the United States, was forced to make concessions to the America-backed Army to maintain power and nominal authority as it struggled to rein in the effects of the Great Depression. By 1935, the coalition of revolutionaries which had toppled Machado was on the verge of collapse, and on election day, tensions between supporters of the Auténtic and Socialist parties boiled over. In the aftermath of that infamous day when the streets of Havana ran red, the socialists and Auténticos alike were expelled from congress and the moderates of the governing Unionist party then found themselves the only true opposition to the Army's influence, with what remained of the 'old-guard', supporters of the Liberal party and its more conservative allies, more concerned with securing power than preserving Cuban democracy. New elections for both the congress and the office of the Presidency are scheduled for the twenty-eighth of January, 1936, and as that date looms, so too, seemingly, does the fate of Cuba.
 §MUnionistas / Nuevo Liberales / Republicano§! ($social_democrat_coloured$ / $social_liberal_coloured$ / $market_liberal_coloured$)\n£white_dot In the January 1936 elections, elect any party.\n£white_dot When the strikes break out, choose offer concessions for peace, or continue to work with Díaz, the choice dependent on the current government.\n£white_dot Don't sign the National Protection Act, i.e., \
+Special General Election
+With the fall of Machado, the Cuban political landscape shifted dramatically. Machado's Liberal party, to which the majority of Cuba's Presidents belonged, and which was undoubtedly the most powerful political entity in the country, collapsed. Shortly before the ill-fated 1935 election cycle, the two largest successors to the Liberal Party, the Republican and New Liberal parties, entered into a coalition with the so-called 'Democratic Movement' of conservative ex-president, Mario García Menocal. Together, this coalition represents a legitimate challenge to the governing Unionist party of Rafael Trejo. The American-backed military, which has grown increasingly influential in the nation's political scene, has endorsed the former Liberal party Senate President, Clemente Vázquez Bello, as its Presidential candidate, and many Cubans worry that the military may attempt to intimidate voters or otherwise extra-legally skew the results of election. Vázquez's relationship with the Military is in of itself complex, as despite the Military's ties to the United States, it does strive to maintain total political independence, whereas Vázquez would seemingly be content to become little more than an American puppet. Necessity does indeed make strange bedfellows. Also, while many support the Auténticos or Socialists, those organisations have been declared illegal and thus are barred from participating in the election.
+Trejo is re-elected.
+Coalition victory.
+Vázquez, the army's man.
+The New Cabinet
+In a gesture of goodwill, following the Student Revolution, then interim President Trejo offered key cabinet positions to members of the Liberal Party. This practice was continued after the last election. Should this new tradition be upheld or should our highest ministers be drawn only from our own party?
+Unity cabinet.
+Mixed cabinet.
+American selected cabinet.
+Double-Dip Recession
+The Cuban people still reel from the Great Depression, which never truly came to an end, despite the limited success of President Trejo's economic policies. Now, the collapse of the German economy has reverberated throughout the world. Our nation has not been spared, and we are rapidly entering a period of renewed economic decline. Many Cubans speak openly about the radical proposals of the Socialists and Auténticos and doubt the ability of our government to deal with the crisis.
+Dear God...
+Havana General Strike
+In an attempt to capitalise on the turmoil brought on by renewed economic hardship, the Socialist Movement, officially outlawed following last year's election bloodbath, have emerged seemingly stronger than ever to stage protests throughout the city of Havana accompanied by a general strike. The strike has paralysed most of the city's major industries and sent the civilian government into panic. While so far Socialist activity has been limited to Havana proper, it appears to be growing rapidly. If left unchecked, the strike and general chaos could very well consume the entire nation. The military, headed by General Díaz, have been hesitant to act, and without their support, suppressing the strike will undoubtedly prove difficult. Fortunately, however, some opposition figures have expressed their willingness to end the strike in exchange for certain concessions from the government. For now, we can only wait and prepare to put an end to the strike one way or another.
+Horrid!
+Dealing with the Strike
+As was feared, the turmoil in Havana has not dissipated. Indeed, it has only grown and even infected other major cities throughout the country. Worse yet, guerrillas under the command of Socialist strongman Juan Blas Hernández, long relegated to the mountainous jungles of the south, have begun to raid nearby villages. The syndicalist paramilitary organisation, Joven Cuba has likewise resurfaced and begun a campaign of violence against government buildings and workers. While those elements of the military loyal to the civilian government have been critical in containing the chaos, Díaz and the majority of the army still refuse to act. While we can attempt to suppress the strike with what units we have available, that will likely prove insufficient and only serve to galvanise opposition. What should be done?
+As was feared, the turmoil in Havana has not dissipated. Indeed, it has only grown and even infected other major cities throughout the country. Worse yet, guerrillas under the command of Socialist strongman Juan Blas Hernández, long relegated to the mountainous jungles of the south, have begun to raid nearby villages. The syndicalist paramilitary organisation, Joven Cuba has likewise resurfaced and begun a campaign of violence against government buildings and workers. While President Vázquez has successfully appealed to he and Díaz's mutual benefactors in Washington to force the General into suppressing the strike, still the turmoil persists, and it is apparent that Díaz still refuses to commit the majority of his forces. What should be done?
+Publicly offer concessions for peace.
+Attempt to suppress the strike.
+Continue to work with Díaz.
+To hell with Díaz, we'll end this alone
+National Protection Act
+In the wake of the strike, congress has narrowly passed a bill suspending many civil liberties and empowering the executive to suppress opposition by any means necessary. Without a Presidential signature, the bill will certainly not accrue the required legislative support to be enacted regardless. President Vázquez has expressed his whole-hearted support for the bill and will undoubtedly give it his signature.
+In the wake of the strike, congress has narrowly passed a bill suspending many civil liberties and empowering the executive to suppress opposition by any means necessary. Without a Presidential signature, the bill will certainly not accrue the required legislative support to be enacted regardless. President Céspedes has not formerly indicated his intention. It is speculated that while he personally supports the bill, he fears the potential backlash in his breaking his earlier promises to the leaders of the strike.
+In the wake of the strike, congress has narrowly passed a bill suspending many civil liberties and empowering the executive to suppress opposition by any means necessary. Without a Presidential signature, the bill will certainly not accrue the required legislative support to be enacted regardless. President Trejo has openly expressed disgust at the mere existence of the bill and is certain to not give it his signature and has reasserted his commitment to making good on his promises to the strike's leaders. Perhaps if the Presidential Election had ended in a different result, the bill would have a chance at being enacted.
+This isn't worth the paper it's written on!
+Sign it.
+Chaos
+Our efforts to stop the strike failed; chaos consumed Havana and quickly swept the nation. With the civilian government fleeing the capital and its authority completely eroded, General Díaz made his move. All roads in and out of Havana were blocked by army units and several major government buildings came under military control. Now, a great standoff has developed just outside of the Presidential Palace, where the last revolution also came to a head, between armed protestors organised in an impromptu militia structure and Díaz's army. The winner it seems, will take all.
+The Army disperses the strikers.
+The strikers repulse the army.
+Auténtic Paramilitaries
+While the general strike succeeded in toppling the government and breaking the army, its internal divisions between moderates and radicals, and even between different socialist factions, prevented any new government from being formed. Seeing an opportunity, the Auténticos, who had laid low throughout the turmoil, once again emerged. Their paramilitaries, which have only grown in strength and discipline since their criminalisation, have already captured several important towns and cities. They are now readying to take complete control of the city of Havana, once and for all putting an end to their bitter rivals and former allies, the socialists. If the atrocities they have already committed against those accused of holding socialist sentiments in the areas under Auténtic control are any indication, Havana's streets will again run red.
+Socialists repulse the Auténticos.
+Auténticos seize Havana.
+The Cuban Revolution
+At last, with the Auténtico threat overcome, a new socialist government has been formed. While the old Constitution currently remains in effect and no significant structural reforms have yet been passed, Socialists have taken full control of the state. Antonio Guiteras of the dominant syndicalist faction within the rapidly disintegrating umbrella party, the 'Socialist Movement', has been appointed interim President while the form and structure of the regime is cemented. Already, bands of revolutionaries loyal to the new regime have stormed several American-owned plantations and done unspeakable things to any Americans found. As well, the militias, which were key to the success of the revolution, have been organised into the new Cuban Revolutionary Army.
+Break the chains.
+Socialist Power Struggle
+Once united in opposition, the various factions within the ruling 'Socialist Movement' coalition have been unable to cooperate and the resulting gridlock has prevented reform. The revolution, it seems, has been put on hold while its greatest exponents squabble. President Guiteras has worked tirelessly to resolve the various disputes at the heart of the gridlock, and in a last-ditch effort to preserve the revolution, Guiteras has proposed for the existing governmental structure to be thrown out entirely and an All-Socialist Congress be held to definitively set such issues to rest. Behind this veneer of benevolence however, the President fears the worst and has begun to quietly assemble an impromptu force of his most loyal supporters. Should the other factions not accept his proposal, he will move to occupy the legislature.
+The congress is called.
+The congress is refused.
+Agrarian Direction
+During Comrade Mella's long exile in Mexico, he did not simply allow the world to pass him by. He knew that the day would again come that Cuba would call on him. He spent much of his exile immersing himself in Mexico's own foray into the light of Socialism. While there, his already atypical dedication to the largely moribund ideals of the unsuccessful revolution in Russia and unequivocal rejection of syndicalism were tempered by the success of Mexico's agrarianism. He subsequently theorised an entirely new strain of Socialism tailored to the realities of an agrarian nation such as Cuba. 'Transformationism', as he labels it, advocates the complete and unending mobilisation of rural labourers as the only way to achieve a Utopian society. Socialist Democracy, which Mella championed while a student a decade ago, he now says is a farce, a mere distraction from the ultimate goal of societal transformation so complete that true democracy can be achieved. At last, now President, Mella's ideas can be put into practice.
+During Comrade Mella's long exile in Mexico, he did not simply allow the world to pass him by. He knew that the day would again come that Cuba would call on him. He spent much of his exile immersing himself in Mexico's own foray into the light of Socialism. While there, his already atypical dedication to the largely moribund ideals of the unsuccessful revolution in Russia and unequivocal rejection of syndicalism were tempered by the success of Mexico's agrarianism. He subsequently theorised an entirely new strain of Socialism tailored to the realities of an agrarian nation such as Cuba. 'Transformationism', as he labels it, advocates the complete and unending mobilisation of rural labourers as the only way to achieve a Utopian society. Socialist Democracy, which Mella championed while a student a decade ago, he now says is a farce, a mere distraction from the ultimate goal of societal transformation so complete that true democracy can be achieved. As part of our agreement with now Secretary Mella, many of his ideas have become integral to the structure of our government and can now be put fully into practice.
+Shunning the comfort that the station of his family provided him for the cause of those afflicted by rural poverty, few understand the necessity of rural development as acutely as Comrade Blas. With Comrade Blas now at the helm of our government, our primary policy focus should be the empowerment of the rural peasantry and the development of the many small villages which dot the countryside as well as the democratisation of the now state-controlled plantations which serve as the backbone of the rural economy. To do so, it is necessary that the people own the lands they work while still owing responsibility to state production directives. As such, these newly created parcels shall be grouped geographically with each region electing from amongst itself representatives to act as liaisons between it and our government.
+A bold new direction.
+Nothing can stop the revolution.
+Industrial Direction
+Comrade Peña, as new President and General Secretary of the Socialist Party seeks to do much the same now as he did as an aspiring young labour activist, fight wholeheartedly for the emancipation of the humble labourer, no matter the cost. To accomplish this, Peña has created and now begun to implement a plan to encourage our nation to rapidly industrialise.
+Comrade Guiteras, with his position now secure, can at last implement his reforms. Once a disciple of Mella, Guiteras has increasingly assimilated syndicalist ideas into his own platform. An ideal society, he says, must be democratic yet perpetually willing to do whatever necessary to repel transgressions against it. As a small nation, Cuba can only ever attain that ideal through efficient industrial development and the pursuit of productivity.
+Compromise rules the day, and while Congress has agreed to an economic platform similar to that advocated by Comrade Guiteras, concessions to both the Comunistas and Revolucionarios have been made. Cuban socialism must at its core promote economic democratisation without compromising the social consciousness of the people or the productivity of society.
+A new dawn for Cuba.
+¡Viva Cuba Libre!
+Return of Julio Mella
+Socialist student leader and mentor of President Guiteras, Julio Mella McPartland, was forced into exile in Mexico by the Machado regime and barred from returning by the ensuing Trejo government - an initial point of contention between Trejo and his Socialist then-allies. With the revolution, Mella has sent for permission to return to Cuba along with asylum for his Italian wife, who has grown increasingly at odds with the Mexican government. Advocating strongly on his behalf is Comrade Junco, who went with Mella into exile before returning in late 1928.
+Allow him to return.
+Deny his request.
+Socialist Revolution in Cuba
+Dire news has arrived from Cuba today. After weeks of instability and despite providing the Cuban military with ample equipment and training, Socialist agitators have overthrown the Cuban government. Worse, many American-owned plantations and other enterprises have been taken-over by Socialist hooligans. Already, the staff and Marines at our embassy in Havana are readying themselves to evacuate at a moment's notice. Something... anything must be done to stop this madness.
+Prepare to intervene.
+Be diplomatic.
+Reasserting Control Over Cuba
+We cannot sit idly by as American blood is spilled on foreign soil and liberty is extinguished. An embargo has already been declared on Cuban goods and obviously, we must directly undermine the new Cuban regime, but how?
+Give clandestine support to dissidents.
+Organise a coup immediately.
+United States Supports Dissidents
+Following the routine arrest of a violent dissident, a most troubling discovery was made. Upon interrogation, the man revealed that he had received a supply of weapons and ammunition from a small boat originating in the United States. It has quickly become apparent due to an uptick in violence that this is not an isolated occurrence.
+Damn the Americans.
+Whispers of a Coup
+The streets of Havana are quiet... too quiet. Where just yesterday dozens of reactionaries were caught plotting our downfall and more were stopped attempting to carry out such foolish fantasies, now there exists only an eerie silence and an atmosphere so thick with tension the cruel fingers of reaction could almost be physically felt pulling it taut. Whispers of American activity and an impending coup abound. While these rumours cannot be verified, surely something is happening? Right? Regardless, we must prepare for what is to come.
+Prepare for the worst.
+American-Backed Coup
+After days of heightened security in an around Havana and heightened military alert, the rumoured coup attempt has come to fruition. In the early hours of the morning, small groups of well-armed reactionaries rose up in every major city. After several hours of fighting, the attempt seemed destined to fail, but just as our success seemed all but assured, horrible news reached the capital: seemingly from nowhere, a force of several thousand led by none other than General Díaz, who had seemingly vanished following the success of the revolution, had landed around the village of Trinidad and seized control of the area. With the army occupied suppressing insurrection, mounting an effective defence has thus far proven difficult and Díaz has taken control of much of central Cuba, splitting our forces in two. He now marches his army towards Havana. It appears that he also has significant support in the form of poorly disguised American aircraft and surely set sail from the United States himself. The next few hours will decide the fate of our nation.
+Díaz's army is defeated.
+Díaz seizes control.
+Responding to the Coup
+As the reactionary rabble swept across the country, seeming to turn back the great march of progress with each step, a miracle befell our nation. From the outskirts of Pinar Del Rio, after days of heavy fighting against reactionary insurrection, a great many armed patriots rushed to Havana's defence. The ensuing battle just to the south of the city was the bloodiest on our nation's soil since the war of independence, but in spite of the odds, our men emerged triumphant, killing general Díaz in the process. [Root.GetLeader] has given a rousing speech from the balcony of the Presidential palace denouncing the United States for its hand in the coup attempt and boasted of the total defeat of American imperialism. As well, due to the comprehensive nature of the attempted coup, the strength of reactionary dissent in our nation has severely diminished.
+A great victory!
+Cuban Coup Fails
+Our attempted coup in Cuba has failed and with it our influence there has been further diminished. Future efforts to defeat their barbaric regime will surely prove more favourable, but no such opportunity yet presents itself.
+Horrible!
+Cuban Coup Succeeds
+Our coup in Cuba has succeeded and a new government led by General Martin Díaz has been established. Díaz, however, despite our benevolence towards him, has refused to return land owned by American citizens and companies which were unjustly seized by the Socialists. While this is obviously a betrayal, it may be best to drop the issue an accept the monetary compensation Cuba has offered instead. With Díaz at the helm, Cuba will surely be stable and receptive to our diplomatic endeavours. What should be done?
+Restore diplomatic relations.
+Pressure him to accept.
+Marines in Havana
+Our gamble in Cuba has succeeded. A small contingent of Marines has taken control of Havana with the support of the Cuban Progressive Party and established a new government. General Díaz and his ilk have been arrested and await the decision of the new Cuban President, Clemente Vázquez Bello.
+Success!
+US Demands Concessions
+Under Socialist rule many of the large American-owned plantations and estates were seized by the state. President Díaz, recognising the value of these properties refused to return these assets and instead offer monetary compensation. While it was initially thought that the United States would consider such an action only a minor slight, it has responded aggressively, all but threatening to invade Cuba to re-establish its control over the plantations. Should we accede to their demand?
+We have no choice.
+Never.
+Cuba Accepts
+Cuba has accepted our demand for control over properties seized by the former socialist government. Tensions have quickly dissipated and the embargo has been lifted.
+Great!
+Cuba Refuses
+Cuba has refused our demand for control over properties seized by the former socialist government. The State Department has been sent scrambling to find some solution to the problem, and overwhelmingly, the recommendation is to simply come to terms with the new Cuban regime and focus on developing our relationship. However, some also assert that we should threaten the Cubans with direct intervention, or perhaps even immediately intervene in the country. Which option is preferable?
+Back Down.
+Threaten them.
+Intervene now.
+US Backs Down
+The United States has abandoned its attempt to cow us into submission. Diplomatic and economic ties between our two nations, severed following the Socialist Revolution, have been restored.
+David has slain Goliath.
+US Threatens Intervention
+In response to our continued refusal to agree to return formerly American-owned plantations, the United States has openly threatened to overthrow our government. We will almost certainly be unable to properly defend against such an action. Has the time come to bend the knee?
+We can defy them no more.
+We shall never give in!
+Cuba Remains Defiant
+Despite our threats, Cuba still defies us. While conceding now would be an embarrassment, the other option, to send in the marines and seize Havana, poses great risk.
+It's too great a risk.
+Send in the Marines.
+American Marines in Havana
+As was feared, the Americans have made good on their threats. In the early hours of the morning, several hundred American Marines suddenly appeared throughout Havana as if from nowhere and took control of most of the city, placing General Díaz and other military leaders under arrest. American puppet, Clemente Vázquez Bello, has been installed as President and the legislature filled with his supporters.
+A new overlord.
+Start of the Revolutionary Congress
+The proposed All-Socialist Revolutionary Congress was found acceptable to all factions. Today, delegates from each faction and representatives of several unions and organisations critical to the success of the revolution have convened in the Capitol Building to develop a framework for a new government and draft a constitution. While most proposed resolutions have passed nearly unanimously, most notably, a new unicameral legislative structure was agreed upon and the illegality of non-Socialist political parties confirmed, one in particular was a source of conflict: the power and structure of the executive. Trabajadores delegates proposed that the executive be much the same as it has been - directly elected, independent and both head of the government and the state as well as head of the party apparatus. Comunista delegates argued in response that the executive must be appointed by the party to assure the development of Socialism in the face of reactionary infiltration of the legislature. Revolucionario delegates, outraged by both proposals instead put forth that the head of government and the party should be elected by members of the elected legislature and accountable to it. As well, the Presidency should be held in common by several popularly elected councilors nominally headed by the head of the legislature.
+The proposed All-Socialist Revolutionary Congress was found acceptable to all factions. Today, delegates from each faction and representatives of several unions and organisations critical to the success of the revolution have convened in the Capitol Building to develop a framework for a new government and draft a constitution. While most proposed resolutions have passed nearly unanimously, most notably, a new unicameral legislative structure was agreed upon and the illegality of non-Socialist political parties confirmed, one in particular was a source of conflict: the power and structure of the executive. Trabajadores delegates proposed that the executive be much the same as it has been - directly elected, independent and both head of the government and the state as well as head of the party apparatus. Comunista delegates argued in response that the executive must be appointed by the party to assure the development of Socialism in the face of reactionary infiltration of the legislature. Revolucionario delegates, outraged by both proposals instead put forth that the head of government and the party should be elected by members of the elected legislature and accountable to it. As well, the executive should be held in common by several popularly elected councilors nominally headed by the head of the legislature. In a move which shocked President Guiteras, his old mentor and friend, Mella, was among the harshest critics of the Trabajadores' plan, and even levelled insults against him personally.
+Keep the presidency.
+Replace it with the council.
+Strengthen the presidency.
+Issue Two: Status of the Judiciary
+After another day of progress, the Congress again hit a major roadblock: the Judiciary. The Trabajadores wish for judges to be directly elected by the people and serve only to preside over an elected council of jurors in each case. Other functions of a judge should be done collectively by these jurors. The Revolucionarios have mostly agreed to this proposal, but object to the election of jurors, instead proposing that they be methodically selected from the citizenry. The Comunistas reject the entire proposal instead preferring that judges be appointed by the executive and that no jury system be implemented.
+After another day of progress, the Congress again hit a major roadblock: the Judiciary. The Trabajadores wish for judges to be directly elected by the people and serve only to preside over an elected council of jurors in each case. Other functions of a judge should be done collectively by these jurors. The Revolucionarios have mostly agreed to this proposal, but object to the election of jurors, instead proposing that they be methodically selected from the citizenry. The Comunistas reject the entire proposal instead preferring that judges be appointed by the executive and that no jury system be implemented. As well, Mella was once again constantly at Guiteras' throat, and his time many delegates from the Comunista party seemed to emulate his sentiments. Even Comrade Peña seemed enraptured with Mella and his wild rants against the Trabajadores.
+Elected jury.
+Selected jury.
+Presidential appointment.
+Issue Three: Unionisation
+Throughout the entire Congress, the issue of Unionisation and the status of the many labour unions in Cuba has caused conflict and subsequently been pushed back on the congressional agenda. With the Congress coming to an end, it must now be addressed. The Trabajadores support mandatory union membership for all citizens depending on their occupation and integrating labour unions into the administrative structure of most localities with the eventual goal of unions becoming the primary institution of government and directly involved in the national political process. The Revolucionarios believe that union membership should be voluntary and their influence on government be purely local. The Comunistas advocate bringing all labour unions under the authority of a single state-controlled bureaucratic entity linked to the party.
+Throughout the entire Congress, the issue of Unionisation and the status of the many labour unions in Cuba has caused conflict and subsequently been pushed back on the congressional agenda. With the Congress coming to an end, it must now be addressed. The Trabajadores support mandatory union membership for all citizens depending on their occupation and integrating labour unions into the administrative structure of most localities with the eventual goal of unions becoming the primary institution of government and directly involved in the national political process. The Revolucionarios believe that union membership should be voluntary and their influence on government be purely local. The Comunistas advocate bringing all labour unions under the authority of a single state-controlled bureaucratic entity linked to the party. Strangely, the Comunista position was not outlined by Comrade Peña, it was Comrade Mella who spoke to ravenous applause. It seems that he has become extremely influential within the Comunista faction.
+Integrate the unions.
+Maintain voluntary membership.
+Amalgamate them.
+Trabajadores Victory
+The Trabajadores of incumbent President Guiteras have emerged from the Congress as the most influential faction with the Socialist Movement. Many within the Socialist Movement, however, were not pleased. Julio Mella even stormed out of the chamber after the latest Trabajadores political victories and promised to exact punishment on Guiteras. He and many supporters from within the Comunista faction have attempted to do just that. As Guiteras was walking out of the Presidential Palace a mob suddenly descended on him, killed his guards, and took him hostage. Meanwhile, several Comunista congressman openly brandished weapons in the hall of congress, calling for the abrogation of the new constitution and the appointment of Mella as President. So far, skirmishes between pro and anti-Mella gangs have been contained to the edges of Havana, but this coup attempt still threatens the stability of the new government, especially with Guiteras under their power.
+The coup fails.
+The coup succeeds.
+Trabajadores Victory
+The Trabajadores of incumbent President Guiteras have emerged from the Congress as the most influential faction with the Socialist Movement. Guiteras has been allowed to retain his position as President, despite calls for new elections by some members of the Revolucionario faction. It seems syndicalism has come to the Caribbean.
+A victory for syndicalism.
+Revolucionario Victory
+The Revolucionarios of Juan Blas Hernández have emerged from the Congress as the most influential faction with the Socialist Movement. While many hold Blas in disdain for his relatively moderate position on many issues and accuse him of flirting with the bourgeoisie the revolution struggled against, he is loved by rural labourers. After years of commanding anti-government guerrillas, he is undoubtedly a skilled leader of men. The victory, however, has driven the increasingly prominent Julio Mella to action. Mella ascended to the forefront of the Comunista faction in wake of their defeat and the young Peña's increasing irrelevance. Despite holding Juan Blas in high regard, Mella also believes that his ideals flirt dangerous close with social democracy. Mella has demanded that the honourable to a fault Blas agree to implement key aspects of his economic platform, which shares many similarities with Blas's own, in exchange for his full support for Blas's government.
+Accept his proposal.
+We won't be blackmailed!
+Revolucionario Victory
+The Revolucionarios of Juan Blas Hernández have emerged from the Congress as the most influential faction with the Socialist Movement. While many hold Blas in disdain for his relatively moderate position on many issues and accuse him of flirting with the bourgeoisie the revolution struggled against, he is loved by rural labourers. After years of commanding anti-government guerrillas he is undoubtedly a skilled leader of men.
+The voice of the voiceless!
+Comunista Victory
+The Comunistas have emerged from the Congress as the most influential faction with the Socialist Movement. While they were originally expected to appoint Lázaro Peña González as interim President, instead, the increasingly prominent Julio Mella McPartland has been selected and sworn in as President. Mella's views are still somewhat unknown to those outside his immediate circle, but it is rumoured that his views changed drastically while in exile in Mexico. Regardless, Cuba is definitely entering uncharted territory politically.
+A new Cuba dawns.
+Comunista Victory
+The Comunistas of Lázaro Peña González have emerged from the Congress as the most influential faction with the Socialist Movement. Peña advocates rapid state-sponsored industrialisation and supports the largely antiquated idea that a socialist government must act as the vanguard in the transition to a socialist system.
+Cuba reborn!
+No Majority
+The All-Socialist Congress has ended much the same as it began - in gridlock. No party has won a majority and many key issues remain only partially resolved. Fortunately, however, in a compromise between the Revolucionarios and Trabajadores, Guiteras has agreed to step down in favour of the more moderate Raul Roa García and promised key governmental positions to the Revolucionarios in exchange for their continued support and cooperation. While political parties are officially banned, this is as near to a coalition government as is possible. While angry at their exclusion, the Comunistas have nonetheless begrudgingly indicated their support for the new government.
+A coalition is formed.
+Dealing with Mella
+For several long hours, Guiteras remained defiant in spite of the brutality visited upon him by Mella's goons. In that time, the coup was put down and after a short but bloody gun fight, Guiteras was rescued. The coup has failed and Mella has been taken into custody. While it would be easy to have him executed, and he surely deserves that fate, some small part of Guiteras remembers the man who first instilled in him the revolutionary consciousness that would define his adult life and pities the man enough to spare him. What should be Mella's fate?
+Goodbye old friend.
+Let him rot in prison.
+Dealing with Guiteras
+With a gun to his head, that poor fool Guiteras squealed like a pig, begging for his life after only a brief moment of defiance. Ultimately his lack of resolve and acquiescence to Mella's demands enabled the coup attempt to succeed. Now, the victorious Mella must only give the slightest indication and his old friend Guiteras will be strung up like so many reactionaries during the revolution.
+Goodbye old friend.
+Let him rot in prison.
+Mella's Demands Refused
+With his demands of the new government rejected, Mella has taken to the streets, rallying his supporters against it. While not advocating outright resistance, his ramblings have already put a dent in the integrity of the regime. It would be easy to imprison him and put a stop to his troublemaking once and for all, but that would seem to fly in the face of our principles.
+Arrest him.
+Let him rant.
+Syndicalists Seize the Legislature
+In a move not entirely surprising to those familiar with the authoritarian sentiments held by Guiteras and others within the Trabajadores faction, the legislature has been occupied by militias loyal to the President. The congress has been dissolved and a new impotent unicameral legislative branch established and filled nearly exclusively by Trabajadores with many dissidents within the socialist party promptly arrested. The outrage which has consumed those opposed to the move has necessitated that Havana be temporarily placed under martial law while order is restored. It appears, however, that no coordinated opposition to the new regime has emerged.
+In a move not entirely surprising to those familiar with the authoritarian sentiments held by Guiteras and others within the Trabajadores faction, the legislature has been occupied by militias loyal to the President. The congress has been dissolved and a new impotent unicameral legislative branch established and filled nearly exclusively by Trabajadores with many dissidents within the socialist party promptly arrested. The outrage which has consumed those opposed to the move has necessitated that Havana be temporarily placed under martial law while order is restored. It is rumoured that opposition has rallied around the defiant Julio Mella, a seeming Messiah returned to lead the Cuban revolution to its true conclusion in the face of Guiteras' duplicity.
+Great!
+Worrying.
+Hell in Havana
+In the time since Guiteras and the Trabajadores took total control of the government, opposition under the leadership of Julio Mella steadily grew. Today, they have made their move. Militias loyal to the government have clashed with those which have defected to Mella's cause and Havana has once again become gripped by chaos. After hours of fighting, Mella was killed by a stray bullet and with news of his death, opposition slowly collapsed. The new syndicalist regime has withstood yet another challenge to its rule and again emerged triumphant.
+With friends like these...
+Hell in Havana
+In the time since Guiteras and the Trabajadores took total control of the government, opposition under the leadership of Julio Mella steadily grew. Today, they have made their move. Militias loyal to the government have clashed with those which have defected to Mella's cause and Havana has once again become gripped by chaos. After hours of fighting, Guiteras was killed by a stray bullet and with news of his death, pro-government forces slowly collapsed. Mella has now been appointed President and has promised to reverse the half-measures undertaken by the Trabajadores and bring a more complete revolution to Cuba. Already, he has replaced the Trabajadores-dominated congress and an ideological purge has begun with the socialist party.
+The true revolution!
+Protecting the Revolution
+The revolution is constantly under threat from within. It has become increasingly apparent that our nation will never truly be free from reactionary influence unless we actively combat counter-revolutionaries. To that end, the governing Revolucionario faction has begun to organise from the ranks of its former guerrillas a group dedicated to rooting out cabals and individuals that conspire against our regime. Members of the faction, however, disagree as to how this new organisation should be structured. One idea involves establishing what amounts to a permanent guerrilla army separate from the armed forces. This new army would be embedded in society with each cell becoming intimately familiar with the geography of its immediate area, capable of quickly organising a local militia to combat whatever army or rebel group threatens its zone of operations. During times of peace, guerrillas would be tasked with covertly promoting the regime and revolutionary values. Some however, criticise this far-fetched idea on the basis that it does nothing to actually combat non-violent and advocate for a more conventional organisation which operates as a domestic intelligence agency in all but name. Further, this proposed organisation, referred to simply as 'The Department' would be integrated into the party apparatus to ensure its absolute loyalty.
+It has become increasingly apparent that our nation will never truly be free from reactionary influence unless we actively combat counter-revolutionaries. With the need for a new counter-revolutionary organisation increasing, General-Secretary Mella has brought forward a plan to reform several militia groups which have proven thoroughly loyal and fanatically revolutionary to into a new paramilitary secret police organisation known as the 'Revolutionary Guard'. Alternatively, Mella has noted that it may before more effective to task the new guard not with ensuring discipline and loyalty among the militias, but to focus on investigating dissent and inefficiency among officers and military administration. The only question now is where the foul stain of reaction is hiding.
+Since its founding by Guiteras himself and subsequent radicalisation, Joven Cuba has been the foremost socialist paramilitary organisation in the country. Unfortunately, however, following the success of the revolution, it quickly fell in disrepair as the militias which were essential to the success of the Havana General Strike have taken on a much greater role both in safeguarding the party and the nation. Not one to forget his friends though, Guiteras has begun to attempt to revitalise the organisation. As it has become increasingly apparent that our nation will never truly be free from reactionary influence unless we actively combat counter-revolutionaries, Joven Cuba's leadership has proposed that the organisation be integrated into the structure of the militias to monitor their loyalty and promote discipline, ensuring that the stain of reaction never spreads throughout the ranks. Guiteras himself, however, favours keeping the organisations separate and instead investing in transforming Joven Cuba into the official paramilitary wing of the entire Socialist Movement and task it with preventing reactionary influence on the bureaucracy.
+The Confederación Nacional Obrera de Cuba (CNOC), one of the nation's largest trade unions before the revolution, gave significant support to Peña's proposals through the All-Socialist Congress and was integral in Comunista congressional victory. As it has become increasingly apparent that our nation will never truly be free from reactionary influence unless we actively combat counter-revolutionaries, former members of the CNOC familiar with its operation have proposed to President Peña that the tactics the CNOC once employed against the old regime could still be relevant to the prevention of reactionary corruption. Specifically, CNOC was incredibly effective at promoting a socialist consciousness among Cuba's workers and its membership increased year on year without fail. This mass mobilisation could be utilised in one of two ways. Either relevant ex-CNOC members could be tasked with mobilising the bureaucracy to fight reaction there or do the same among the militias. The proposed name of the organisation is 'La Oficina De Revolución'
+It has become increasingly apparent that our nation will never truly be free from reactionary influence unless we actively combat counter-revolutionaries. With the need for a new counter-revolutionary organisation increasing, President Mella must consider an emerging plan to reform several militia groups which have proven thoroughly loyal and fanatically revolutionary to into a new paramilitary secret police organisation known as the 'Revolutionary Guard'. Alternatively, Mella has noted that it may before more effective to task the new guard not with ensuring discipline and loyalty among the militias, but to focus on investigating dissent and inefficiency among officers and military administration. The only question now is where the foul stain of reaction is hiding.
+Since its founding by Guiteras himself and subsequent radicalisation, Joven Cuba has been the foremost socialist paramilitary organisation in the country. Unfortunately, however, following the success of the revolution, it quickly fell in disrepair as the militias which were essential to the success of the Havana General Strike have taken on a much greater role both in safeguarding the party and the nation. Comrade Roa has begun to attempt to revitalise the organisation while limiting Guiteras's personal influence. As it has become increasingly apparent that our nation will never truly be free from reactionary influence unless we actively combat counter-revolutionaries, Joven Cuba's leadership has proposed that the organisation be integrated into the structure of the militias to monitor their loyalty and promote discipline, ensuring that the stain of reaction never spreads throughout the ranks. Roa, however, favours keeping the organisations separate and instead investing in transforming Joven Cuba into the official paramilitary wing of the entire Socialist Movement and task it with preventing reactionary influence on the bureaucracy.
+A permanent guerrilla force.
+Organise the department.
+Keep it separate.
+Integrate it.
+Search low.
+Search high.
+The bureaucracy.
+The militias.
+Blas's Coup
+While Juan Blas Hernández and the Revolucionario faction of the Socialist Party had supported the overthrow of Guiteras in wake of his unlawful consolidation of power, Mella as President only proved to be more of a tyrant, immediately locking up political opponents and refusing to tolerate any opposition from within the party.\n\nNow, what started as a minor spat between Blas and one of Mella's many guards regarding the new President's strange personal eccentricities, has led Blas's infamous guerrillas to surround the Presidential Palace, apparently having secretly made their way north in stunning time. Whoever emerges victorious from the standoff, the Socialist Party will have been sufficiently exhausted of internal opposition.
+The coup succeeds.
+Long live Mella!
+Revolutionary Democracy
+With Mella, the people expected liberation and received despotism much like that of Machado. The Revolucionarios stand victorious, Mella's men are dead, and blood stains the gilded halls of the Presidential Palace. The man himself lies dead from a gunshot wound of his own making, and his wife and political protege, Tina Modotti, has vanished without a trace. Blas quickly announced the dissolution of the Socialist Party, angering many, and the new Revolucionario government's intent to establish a true democracy where any and all citizens may participate in the process of government free from the tyranny of both capitalism and perverse forms of socialism.
+A bright future stained red.
+In Control
+When the last of the Revolucionario dissidents threw his hands up in surrender, President Mella had become the unchallenged master of Cuba. While many still oppose the new direction of the nation, none now have the ability to effectively challenge it. The fate of Blas is unknown; while some allege that he escaped the massacre at the Presidential Palace, the regime has declared him dead, though it has been unable to produce a body.
+Resistance is futile.
+Returning What Was Stolen
+Following the revolution, many local elites, especially in the countryside, managed to resist initial attempts to forcibly seize their lands and assets. With the structure and direction of the government now sorted and in-fighting now longer rendering us impotent, those bourgeois who have managed to maintain their assets must be dealt with. While it is assumed and indeed expected that our regime forcibly deal with the problem, and failing to do so will not be popular, the economic disruption of such a seizure could have severe consequences on our nation.
+Approve the idea.
+It is too risky.
+Redistribution
+The decision to go through with the seizures has been made and with a healthy thousand militiamen around the country preparing to enforce the will of the people on these traitorous capitalists, there is no turning back. As news of the mobilisation has spread, some elite hold-outs have petitioned our government for clemency in exchange for their agreement to forfeit all but a small percentage of their wealth without a fight. They realise without a doubt that if a gang of militiamen descend upon their decadent estates, not only their property, but their very life is at stake.
+Be diplomatic.
+Roast the pigs!
+The March On Havana
+The motley band of socialist rabble-rousers that held the capital and the nation hostage were scattered to the wind with nary a shot fired. The Auténticos have seized control of Havana, the sound of their paramilitaries' boots against the ground as they marched down the hastily barricaded streets of the city in well-disciplined step seemingly all that could rise above the eerie din of desolation. Following Auténtico victory, known socialist figures who failed to escape the city were promptly brutalised by the Greenshirts, with or without the approval of Ramón Grau. This new government which has arisen is in some ways similar to the last, immediately promising economic reform and an end to foreign domination, but the radicalisation of the Auténtic party has left it with a burning hatred for socialism. Elections have been promised as well, much to the chagrin of the de-facto leaders of the Greenshirts.
+¡Cuba Para Los Cubanos!
+Seizing American Assets
+The Americans have foolishly scorned our offer of diplomacy and have left us with no choice but to take anything and everything belonging to their agricultural robber barons!
+The Americans and their businesses own most of our nation's plantations, and many of our own wealthy planters are beholden to them. The plantations themselves, however, do comprise a valuable sector of the economy and just taking them over with any sort of plan as to their continued use would be counter-productive. To avoid any disruption of the economy it may be best to formulate a compromise with the Americans whereby we pledge to continue to respect American-owned plantations in exchange for American acceptance of our right to regulate these plantations. Due to the need for a greater respect for our sovereignty, any agreement must be formulated on Cuban soil, preferably in Havana.
+With the United States engulfed in civil war, those who wished to negotiate with the Americans have been silenced. There is no better opportunity to at last return Cuban lands to Cuban hands than right now. Let the Americans be damned!
+No compromise.
+Negotiate.
+Dealing with the Socialists
+Some pockets of socialist resistance continue to hold out against our government and commit heinous acts of violence and terror throughout the country. While many members of the Socialist Movement have managed to escape from the country, some, including that jackal Juan Blas Hernández remain in Cuba and must be dealt with.
+Crush them.
+Nationalist Revolution in Cuba
+A group of nationalists, the Auténtico movement, has overthrown the Cuban government after weeks of strikes and protests by socialist sympathisers destabilised the old regime. While they have yet to move against our interests in Cuba, their rhetoric is firmly anti-American.
+Worrying.
+Cuba Seizes American Plantations
+As was feared, the new Cuban nationalist government has violently seized control of plantations and other business owned by our citizens and Cubans friendly to our interests. Obviously, we must respond to such a slight, but to what extent?
+Condemn the move.
+Embargo and support opposition.
+A Cuban-American Agricultural Summit?
+Surprisingly, Cuba's nationalist government has approached us in search of a diplomatic solution to the contested status of American-owned ventures in Cuba. Specifically, they wish to organise a diplomatic summit in Havana to deal with the issue. The initial offer from the Cuban government is not entirely unreasonable, in fact, the Cubans seem to be open to genuine discussion in the pursuit of a mutually beneficial agreement but does still limit our influence over their economy and annuls the current Treaty of Cuban-American relations.
+Agree to the summit.
+Refuse to negotiate.
+The United States Accepts the Summit
+The United States has agreed to send a delegation to Havana to reach an agreement regarding the status of their plantations and businesses in our nation. Negotiations are set to begin shortly.
+Negotiations begin...
+The United States Refuses the Summit
+The United States has refused to send a delegation to Havana and has outright rejected our demands of them.
+Damn them!
+Dealing With Socialist Leaders
+Guiteras and many of his most prominent supporters have been captured and await their fate. While the people want his head on a spike, and who are we to refuse them, it may be best to instead condemn him to a life in prison.
+Execute them.
+Let them rot.
+Cuban-American Agricultural Summit Begins
+Our delegation has arrived in Havana and negotiations will soon begin. We should now instruct our diplomats on how to conduct themselves at the summit.
+Be diplomatic.
+Play hardball.
+Negotiations Successful
+The Americans were willing and ready to work with our delegation and as a result, negotiations have succeeded and a fair framework for our agricultural dealings has been established.
+Great!
+American Negotiations Breaking Down
+The United States has been resistant to our demands at the summit and offered little more than the status quo. This is wholly unacceptable and some summit attendees now call for the immediate seizure of American assets as was previously planned.
+Recall our diplomats.
+Push back.
+Negotiations Fail
+Negotiations with the United States have fallen apart and their diplomats have returned to Washington. The lack of good faith on the Americans' part will not be forgotten as their countrymen's investments are repurposed for Cuba alone.
+Horrible.
+Negotiations Succeed
+Negotiations with Cuba have succeeded and our business interests there now not only breathe a sigh of relief, but no longer must contend with the volatile Cuban political environment. Business is sure to boom.
+Great!
+Besieging the Traitors
+Many socialists, including that bastard Guiteras, have taken refuge in what has served as the de-facto consulate of the Commune of France since that nation's establishment. We currently do not technically recognise the Commune, and as a result the Communard delegation is not endowed with the legal immunities typically granted to diplomats. Though capturing Guiteras and his ilk would surely be beneficial domestically and forcibly entering the building technically does not run afoul of any formal international agreement, it would nonetheless surely put us permanently at odds with the Commune and the International as a whole. What should we do?
+Storm the building.
+Disengage.
+Cuba Storms our Diplomatic Mission
+Cuba Storms French Diplomatic Mission
+For a brief moment, the eternal flame of revolution seemed flickered to life in Cuba, but just as quickly as it was lit, it was snuffed out. The new nationalist government which rose in its place has brutally repressed those who had once affiliated with the nation's socialists and have executed many socialist leaders. The most prominent member of the socialist movement there, however, managed to find refuge in our unofficial diplomatic mission in the country with reactionary mobs at his heels. Today, the Cubans have stormed our mission and detained any and all Cuban citizens in the building.
+For a brief moment, the eternal flame of revolution seemed flickered to life in Cuba, but just as quickly as it was lit, it was snuffed out. The new nationalist government which rose in its place has brutally repressed those who had once affiliated with the nation's socialists and have executed many socialist leaders. The most prominent member of the socialist movement there, however, managed to find refuge in the Communard unofficial diplomatic mission in the country with reactionary mobs at his heels. Today, the Cubans have stormed the Communard mission and detained any and all Cuban citizens in the building.
+Damn them!
+Cuba for the Cubans!
+At last, our party's motto and rallying cry has become a reality. Cuba is truly for the Cubans and the Cuban people are increasingly enthusiastic about our government. Just as we forced the Americans to come to terms with reduce sway over our nation and eliminated the treacherous socialists in spite of Communard protest, so too shall any and all future issues break before the might of Cuba united in purpose.
+At last, our party's motto and rallying cry has become a reality. Cuba is truly for the Cubans and the Cuban people are increasingly enthusiastic about our government. Just as we forced the Americans to come to terms with reduce sway over our nation and eliminated what socialists did not find refuge, so too shall any and all future issues break before the might of Cuba united in purpose.
+At last, our party's motto and rallying cry has become a reality. Cuba is truly for the Cubans and the Cuban people are increasingly enthusiastic about our government. Just as we righteously seized from the Americans their stranglehold over the Cuban economy and eliminated what socialists did not find refuge, so too shall any and all future issues break before the might of Cuba united in purpose.
+At last, our party's motto and rallying cry has become a reality. Cuba is truly for the Cubans and the Cuban people are increasingly enthusiastic about our government. Just as we righteously seized from the Americans their stranglehold over the Cuban economy and eliminated the treacherous socialists in spite of Communard protest, so too shall any and all future issues break before the might of Cuba united in purpose.
+Viva Cuba!
+Cuban Tariffs
+Though the Platt Amendment which governed Cuban-American trade and relations was annulled and its successor requires only minor trade concessions on the part of the Cubans, a delegation has arrived from Cuba to petition for the abrogation of one portion of the current treaty. As part of the new Treaty of Cuban-American Relations, Cuba is required to levy substantial tariffs against non-American products. This, the Cubans argue, has caused great economic harm and contributed to the recent near-collapse of its government. To prevent another incident such as that which recently befell their nation, they say, we must concede our position on this issue.
+They must respect the treaty.
+It is the only way.
+US Resists Tariff Adjustment
+Shockingly, the United States has refused our delegation's request to approve our lowering of tariffs on non-American goods. Despite their resistance, we must lower tariffs anyway lest another revolt break out. Surely, the Americans will come to understand our position in time.
+We will do it anyway.
+Trade Restrictions Lifted
+Following multiple rounds of heated discussion, the United States has agreed to our request to remove the tariffs on non-American goods required by the Treaty. This is a great day for Cuba!
+Great!
+The Guard Detains the President!
+Beyond the gilded halls of the Capitol Building, nothing would seem to be amiss, but within the seat of our government, what began as a quiet day has turned into a nightmare. As the President strode confidently to the podium before the gathered congress to give a rather mundane speech on the finer points of fiscal policy, his pompous guard at his flanks, a shot rang out and standing there at the back of the room stood general Díaz and the dozen or so guardsmen around the room suddenly turned on those they had sworn to protect. Díaz it seems, had retained enough influence in the army to subvert the guard's leadership in a matter of weeks; it is the next few hours, however, that are most critical to the future of our nation. Indeed, the President's own resolve and willingness to resist Díaz in the face of great personal harm will likely make or break the coup attempt.
+The President is cowed.
+The President is defiant and the coup is broken up.
+New Elections Called
+With Cuba at last out from under the tyrannical thumb of the army, new elections, expected at long last to be free and fair, have been called. Rumours abound that President Trejo, however, will not seek re-election despite his success.
+Against the odds, Cuban democracy has survived, albeit with its central figure, Rafael Trejo, no longer at the helm of the nation. Satisfied that his nation no longer needs him, the young Trejo announced not long after elections were called that he would not seek non-consecutive reelection and would retire from politics. Manuel Bisbé, despite rumours of his close association with still forbidden socialist organisations, has succeeded Trejo as leader of the Unionista party and will stand as its presidential candidate.
+I love democracy!
+Presidential Election
+Against the odds, Cuban democracy has survived with Rafael Trejo still at the helm of the nation. Satisfied that his nation no longer needs him and wishing not to establish a precedent of Presidents running until thrown out by voters, the young Trejo, as was rumoured previously, announced not long after elections were called that he would not seek reelection and would retire from politics. Manuel Bisbé, despite rumours of his close association with still forbidden socialist organisations, has succeeded Trejo as leader of the Unionista party and will stand as its presidential candidate. Whether this will lead to the party's defeat, only time will tell. As well, the coalition between the Nuevo Liberals, Republicanos, and conservative supporters of ex-President Mario García has broken down and each party has opted to run on a separate ticket. Due to his age and failing health, however, García's candidacy is only nominal and he has no real chance at securing the Presidency. The election is sure to be close, but there must, of course, be a winner.
+Following Trejo's decision to step down as Unionista party boss, the ruling coalition between the Nuevo Liberals, Republicanos, and conservative supporters of ex-President Mario García has broken down and each party has opted to run on a separate ticket. Due to his age and failing health, however, García's candidacy is only nominal and he has no real chance at securing the Presidency. The election is sure to be close, but there must, of course, be a winner.
+Republicano victory.
+The Liberals take it.
+Bisbé's Unionistas win.
+The New Cabinet
+The peculiar tradition of the victorious party in our national elections offering key ministerial positions to members of rival parties has continued. No law exists, however, requiring such and there exists a healthy debate as to whether the practice should continue or perhaps even be written into law.
+All Must Be Of Our Party.
+Continue the tradition.
+Enshrine the practice into law.
+Suspending the Constitution!
+In the final act of his Presidency and under the explicit threat of force from Díaz, the President has resigned. As Díaz was President of the Senate, he thereafter became president himself. President Díaz immediately declared a state of emergency and approved the 'emergency' suspension of the Cuban constitution. With these actions, Díaz's ambitions have been realised and his rule is now almost unchallenged. [CUB_hasherreraornot]
+The backing of the United States was critical in both the overthrow of the brief socialist regime and the destruction of General Díaz's power bloc. Luckily, with the political pressure of the collapsing United States no longer forcing our hand, we no longer need pay lip service to the rotten constitution is currently the official foundation of our regime. Already, a new constitution has been drafted to take its place which assures our continued rule and will afford our government greater stability. [CUB_hasherreraornot]
+The backing of the United States was critical in both the overthrow of the brief socialist regime and the destruction of General Díaz's power bloc. With these unsavoury groups defeated and the old liberal regime also marginalised, we no longer need pay lip service to the rotten constitution is currently the official foundation of our regime. Already, a new constitution has been drafted to take its place which assures our continued rule and will afford our government greater stability. [CUB_hasherreraornot]
+Díaz's rule is now uncontested and the old liberal constitution need no longer restrict his actions. Díaz, as new President of Cuba, has suspended the constitution under the pretence of national emergency and a new constitution more in with aims of his regime is being prepared. [CUB_hasherreraornot]
+Viva Díaz!
+A great weight lifted from our shoulders.
+Cuba rises from ruin.
+Chicago Boys
+Instability in the United States has driven large criminal organisations to seek to diversify their finances and if the Union is to collapse into civil war as many fear, have a refuge to physically relocate to. To this end, we sent a delegation to Chicago, under the guise of a diplomatic trip to place honour Lincoln's tomb in Springfield, to meet with representatives from the more civilised crime syndicates offering them to relocate their operations to Cuba and our government's acceptance of certain activities especially smuggling into the United States as well as the promise of amnesty in exchange for their commitment to invest in our nation's growing tourism and entertainment industries and combat domestic criminal organisations and assist our regime to that end. This arrangement was more than acceptable to all parties at the meeting and arrangements are being made to smuggle men and materiel to Cuba.
+Civil war in the United States has driven large criminal organisations to desperately seek to diversify their finances and have a refuge to physically relocate to. To this end, we sent a delegation to Chicago to meet with representatives from the more civilised crime syndicates offering them to relocate their operations to Cuba and our government's acceptance of certain activities especially smuggling into the United States as well as the promise of amnesty in exchange for their commitment to invest in our nation's growing tourism and entertainment industries and combat domestic criminal organisations and assist our regime to that end. This arrangement was more than acceptable to all parties at the meeting and arrangements are being made to smuggle men and materiel to Cuba.
+Despite the conclusion of the civil war in the United States, large criminal organisations, fearful of the political atmosphere emerging from the rubble, desperately seek to diversify their finances and have a refuge to physically relocate to. To this end, we sent a delegation to Chicago to meet with representatives from the more civilised crime syndicates offering them to relocate their operations to Cuba and our government's acceptance of certain activities especially smuggling into the United States as well as the promise of amnesty in exchange for their commitment to invest in our nation's growing tourism and entertainment industries and combat domestic criminal organisations and assist our regime to that end. This arrangement was more than acceptable to all parties at the meeting and arrangements are being made to smuggle men and materiel to Cuba.
+A wonderful arrangement.
+Senator Díaz
+While he was often uncooperative during the strike, General Díaz still commands more influence than any other figure within the military and as such, his loyalty is essential to the stability of our government. As he has made his political ambitions known, using the authority of granted by the Emergency Powers Act, President Vázquez has, in an unprecedented and wholly undemocratic move, appointed Díaz to the Cuban senate and subsequently the position of Senate President. With his own political survival now intertwined with the government's, surely Díaz will be a valuable asset in maintaining order and stability.
+A sensible move.
+Díaz Makes His Move
+Since his appointment to the Senate, General Díaz has effectively suppressed the remaining socialist cells operating in the countryside and has consolidated his control over the army. Not satisfied to merely hold the position of senate President, however, Díaz has demanded that the President dismiss his cabinet and appoint to every key ministerial position not already under control men loyal to him alone. The President has made no move to resist this political manoeuvre and in effect, the Cuban executive is now fully under general Díaz's control with Vázquez's authority existing only on paper.
+A necessary action.
+Into The Future
+Cuban history is rife with brutality and political strife, but little can compare to the great transformation our nation has undergone since the outbreak of Black Monday and the fallout from the Havana Strike. As our nation looks to the future, many dare to hope that the new Cuba arising from this black time may be far greater than that which came before. Let us do all we can to prove such optimists correct.
+History in the making.
+Oil Extraction Difficulties
+Some oil deposits which were initially thought to be easily accessible are much deeper than expected and lie beneath sediment which is not conducive to oil extraction. While many of these deposits are thus simply inaccessible with current extraction methods, with enough funding, some may become productive and our currently pathetic oil production may be stimulated a bit.
+Increase funding.
+It isn't worth it.
+Oil Effort Fails
+So far, despite receiving extremely generous state funding, oil extraction efforts have still not born fruit. Perhaps it is time to cut our losses and give up on furthering our oil output.
+Keep trying.
+Give up.
+Oil Effort Succeeds
+At last, we have properly surveyed and begun to properly exploit our nations bounty of oil, the black gold of the modern age. Our oil output is rising rapidly.
+Great!
+Further Chromium Exploration
+Initial efforts to increase chromium production have exceeded all expectations, but as with any new venture, many newly established chromium operations are still not operating as efficiently as they could be. With further funding, some of these mines could produce substantially more chromium.
+Approve further funding.
+We cannot afford it.
+Steel Production
+With the steel industry experiencing rapid growth as the result of state investment, the need to adopt more advanced methods of producing steel has become apparent. One promising new technology is the 'electric-arc furnace', which thanks to the awesome power of electricity has the potential to significantly boost steel production. These new furnaces, however, are prohibitively expensive for domestic steel mills and without governmental intervention will likely not be widely in use for several decades. Should we invest in electric arc furnaces?
+This is a steal...
+We'll only get burned.
+Rubber Importation
+American business interests deemed our nation, which sits on the edge of the so-called 'rubber belt', and particularly the area around Pinar del Río suitable for rubber cultivation. This idea, however, failed to ever attract much investment. Perhaps, with the backing of the state, imported rubber trees could become yet another valuable agricultural asset. Current rubber producing nations, however, would be none too happy to have yet more competition, however, so several advisors have drawn up a proposal to secretly purchase seeds of several different varieties of tree and bring them to Pinar del Río. The eccentricities of the plan are certainly questionable, but nonetheless, funding it could be one of the best investments our nation ever made.
+Greenlight the plan.
+This will never work.
+Rubber Importation Successful
+After over a month without contact, several men have returned from abroad bearing stores of seeds from rubber trees. Already, land is being cleared and prepared for a facility for their cultivation and experimentation in rubber production.
+Excellent.
+First Rubber Plantation in Cuba
+Wonderful news has just arrived from Pinar del Rio: the first true rubber plantation has finished construction small trees have been brought in to the site. Already, small amounts of latex are being siphoned from the trees and production of commercially viable rubber has begun.
+Great!
+Rubber Plantations Established
+Our efforts to established more rubber plantations have borne fruit and production in Pinar del Rio has doubled in the span of just a few days. Plantations have even been established in the south of the country, which was initially thought unsuitable for rubber cultivation.
+Great!
+Yet more rubber plantations are now operational both in Pinar del Rio and beyond.
+Yet more rubber plantations are now operational both in Pinar del Rio and beyond. While this is excellent news, rubber production has begun to run into production bottlenecks and state investment can no longer be nearly as effective in increasing output.
+It was a good run.
+A Few Good Men
+With the forces of reaction once so prominent among the military crushed upon the anvil of socialism, those imperialist traitors who sided with Díaz and the old regime must be dealt with. Unfortunately, however, these men represent much of the best and brightest in our armed forces and while certainly some of them could be allowed to return to service in an administrative capacity and our future military initiatives would likely benefit, the fallout from such clemency could severely destabilise our regime.
+The American-controlled bloc within the Army which once held our nation hostage, some among these men, however, may be redeemable. While they could never truly be trusted, some may prove valuable in administrative roles within the army and might be worthy of a pardon.
+With the failure of his attempted coup, General Díaz's power-bloc has been defeated and many of his top lieutenants await trial. While throwing the book at these corrupt officers might be in our nation's best interest in the long-run, doing so may jeopardise any efforts to improve the army and as such, it may be best to pardon those officers most redeemable and carefully integrate them back into our army administration.
+At last, that lecherous fool Díaz has been defeated and his fate is now entirely in our hands. While he will undoubtedly be executed, many of his allies within the military may yet still be useful enough to pardon and reintegrate into the armed forces, albeit in a purely administrative capacity, or at least grant some degree of clemency to. What should be their fate?
+Let them rot in prison.
+Execute them.
+Pardon them.
+Cuba Supports Opposition
+Since our federation's establishment with the collapse of the British Empire, our fate has become increasingly linked to that of the relatively populous and economically prosperous Cuba. Though by no means a powerhouse, Cuba does hold a good degree of influence within certain economic sectors. With the Cuban government now openly supporting our political opponents, our nation has become just a bit unrulier.
+Damn them.
+Relations With The West Indies Federation
+The West Indies are under the thumb of a regime fundamentally at odds with that of our own. Luckily, the close proximity of our two nations has allowed a network of dissidents open to cooperation with our regime to grow on its own accord. We would be smart to offer them funding. The West Indies will be liberated soon enough.
+With the West Indies possessing a regime amiable to our own, we can now work to foster tiers between our two nation. One proposal which has gained much traction among members of our government is to send a delegation to seek a joint resolution declaring our mutual friendship and desire to seek closer economic and political ties now and into the future.
+Fund opposition groups.
+Send the delegation.
+Regional Diplomacy
+As the gem of the Antilles, that shining beacon of economic success in an impoverished region, it is our duty to strengthen our diplomatic and economic ties with our neighbours. The idea of hosting a Caribbean diplomatic summit in Havana for a handful of our most important neighbours has the preliminary approval of our government, but to send invitations to even those with whom we hold deep political disagreements is a subject of much debate.
+As the gem of the Antilles, that shining beacon of economic success in an impoverished region, it is our duty to strengthen our diplomatic and economic ties with our neighbours. The idea of hosting a Caribbean diplomatic summit in Havana for a handful of our most important neighbours has the preliminary approval of our government, but as we hold deep ideological disagreements with all those who could be extended an invitation, such an invitation would necessarily be extended to many nations with whom we are often at odds.
+Invite Only Our Ideological Brethren.
+All should be given the courtesy.
+Denounce them instead.
+American Diplomacy
+While we have already linked our fate fully with that of the Americans, we can do more yet to foster closer ties. To that end, it has been proposed to send a permanent delegation to our neighbour to the North to handle lobbying efforts and address our other diplomatic initiatives there. While this idea would seem to garner overwhelming support, a few voices dissent, claiming we have already done as much as we should to foster mutual friendship.
+[WCA.GetNameDefCap] has won the American civil war. Now that we have committed to addressing our relationship with America, surely we would be fools not to send a permanent delegation to the world's new shining beacon of liberty to our north.
+[USA.GetNameDefCap] has won the American civil war. While we have long possessed a close relationship with the United States, perhaps the time has come for our two great nations to draw even closer. To that end, it has been proposed to send a permanent delegation to our neighbour to the North to handle lobbying efforts and address our other diplomatic initiatives there. While this idea would seem to garner overwhelming support, a few voices dissent, claiming we have already done as much as we should to foster mutual friendship.
+[USA.GetNameDefCap] has won the American civil war. While we have long possessed a close relationship with the United States, our present political disagreements have thrown a wrench in our mutual relations. Perhaps the time has come for our two great nations to end our dispute. To that end, it has been proposed to send a permanent delegation to our neighbour to the North to handle lobbying efforts and address our other diplomatic initiatives there. While this idea would seem to garner overwhelming support, many dissent, finding the prospect of drawing closer to the United States appalling.
+[ACC.GetNameDefCap] has won the American civil war. While we have long possessed a close relationship with the United States, which the new government of America claims to be the unbroken continuation of, perhaps the time has come for our two great nations to draw even closer. To that end, it has been proposed to send a permanent delegation to our neighbour to the North to handle lobbying efforts and address our other diplomatic initiatives there. While this idea would seem to garner overwhelming support, a few voices dissent, claiming we have already done as much as we should to foster mutual friendship.
+[ACC.GetNameDefCap] has won the American civil war. While we have long possessed a close relationship with the United States, which the new government of America claims to be the unbroken continuation of, our present political disagreements have thrown a wrench in our mutual relations. Perhaps the time has come for our two great nations to end our dispute. To that end, it has been proposed to send a permanent delegation to our neighbour to the North to handle lobbying efforts and address our other diplomatic initiatives there. While this idea would seem to garner overwhelming support, many dissent, finding the prospect of drawing closer to the new United States appalling.
+[APG.GetNameDefCap] has won the American civil war. As our nations hold no significant political disagreements, perhaps the time has come for our two great nations to draw closer. To that end, it has been proposed to send a permanent delegation to our neighbour to the North to handle lobbying efforts and address our other diplomatic initiatives there. While this idea would seem to garner overwhelming support, a few voices dissent, finding the notion of drawing closer to the new United States appalling.
+[ACC.GetNameDefCap] has won the American civil war. While we have long possessed a close relationship with the United States, which the new government of America claims to be the unbroken continuation of, perhaps the time has come for our two great nations to draw even closer. To that end, it has been proposed to send a permanent delegation to our neighbour to the North to handle lobbying efforts and address our other diplomatic initiatives there. While this idea would seem to garner overwhelming support, a few voices dissent, claiming we have already done as much as we should to foster mutual friendship.
+[NEE.GetNameDefCap] has won the American civil war. While we have long possessed a close relationship with the United States, which the new government of America claims to be the unbroken continuation of, our present political disagreements have thrown a wrench in our mutual relations. Perhaps the time has come for our two great nations to end our dispute. To that end, it has been proposed to send a permanent delegation to our neighbour to the North to handle lobbying efforts and address our other diplomatic initiatives there. While this idea would seem to garner overwhelming support, many dissent, finding the prospect of drawing closer to the new United States appalling, especially given the connection between the New England regime and Canada.
+Approach [WCA.GetNameDef].
+Approach the Federal Government.
+Approach [APG.GetNameDef].
+Approach [ACC.GetNameDef].
+Approach [NEE.GetNameDef].
+We shall not interfere in American policy.
+Cuba Extends a Hand
+Today, we have received a request to receive a special delegation from the Cuban government. From the proposed structure of the new Cuban mission, it seems it will be tasked both with assisting Cuba's existing diplomatic offices and, more discreetly, attempting to curry favour directly with our regime.
+$cuba_events.1240.d_1$ While the offer itself is surprising, as our nations are governed by regimes which would seem to be naturally opposed, perhaps through accepting their overture we could begin to repair our mutual relationship.
+Let us work together.
+Send the Cubans home.
+Openly denounce Cuba.
+The Americans Accept Our Delegation
+Our great neighbour to the north has agreed to the permanent presence of an additional Cuban delegation in their country.
+We drink to another era of cooperation!
+The Americans Reject Our Delegation
+Our great neighbour to the north has objected to the permanent presence of an additional Cuban delegation in their country.
+Damn!
+America Denounced Our Government
+Rather than accept or even deny our proposed delegation, the Americans have denounced our regime in full and all but mocked our 'brazen' attempt at 'subversion'. This unexpected development have sent many politicians into a panic, with many demanding that our armed forces mobilise immediately in case of American invasion.
+All men to the army!
+Let's not make any hasty decisions.
+European Relations
+Whilst our partners in the USA have long been the main market for our exports, the lingering depression and rising unrest in the nation have forced our hand and negotiations have been initiated with the European Powers. As both Austria and Germany control vast swathes of the European consumer base, it is only logical that we strike a (favourable) trade agreement with either of those which could perhaps later on lead to even closer relations both economic and geopolitical.
+The German Empire.
+The Austrian Empire.
+With our nation again looking outward, naturally we should engender a closer relationship with Europe's socialist powers. Humanity united through trade which avoids the exploitative trappings of capitalism and the bonds of national friendship is strong indeed.
+[INT.GetNameDefCap].
+While the Great Powers of Europe are currently unapproachable, many smaller nations may be amiable to a diplomatic campaign. Wherever possible, we should attempt to forge new trade and diplomatic relations with Europe's minor states.
+Establish ties with smaller nations.
+New Markets
+As the nations of Latin America are slowly but surely drifting out of the American trading monopoly due to the massive wave of unrest quelling the nation and their increasing unreliability, we should approach those with sizeable customer bases that would be open to Cuban exports. Whilst ideological differences between us and them may prove an issue, we hope to reach as many consumers with our products.
+Approach them.
+We should stick to our older partners.
+Our Allies on the Continent
+As stability has returned to the American continent, we should seek closer relations to the now dominant power there and discuss the possibilities of a far reaching cooperation pact, both economic and military.
+[APG.GetNameDefCap]
+[WCA.GetNameDefCap]
+[USA.GetNameDefCap]
+[ACC.GetNameDefCap]
+[NEE.GetNameDefCap]
+Change in Foreign Policy
+Since our old allies on the American continent no longer hold our interests dear and could potentially even prove a danger to our sovereignty, we should seek allies elsewhere be it on the European Continent or closer to home. One thing is certain though, Cuba will no longer watch from the sidelines.
+[GER.GetNameDefCap]
+[FRA.GetNameDefCap]
+[CAN.GetNameDefCap]
+[COS.GetNameDefCap]
+[AUS.GetNameDefCap]
+Canada shall save us from [WCA.GetNameDef]
+Cuba Seeks to Join Our Faction
+Fearing that the collapse of the old world order may put them on the wrong side of history, the nation of Cuba has today approached us with an offer of military assistance in case of global conflict breaking out.\n\nWhilst their contribution to the war effort would most likely be negligible, their influence in the Caribbean could provide some advantage should the theatres of war ever reach the Western Hemisphere.
+Welcome to the [ROOT.GetFactionName]!
+They would just be a liability.
+[FROM.GetNameDefCap] Has Refused Our Offer!
+Our request to join the [FROM.GetFactionName] has been denied.
+Well screw you too then.
+[FROM.GetNameDefCap] Has Accepted Our Offer!
+Our request to join the [FROM.GetFactionName] has been accepted.
+Together, we are strong.
+The island nation of Cuba has requested to join our faction.
+Petition our faction leader!
+Our Ally's Ally
+The island nation of Cuba has requested to join our faction, with our American allies advocating on their behalf.
+Welcome!
+Cuba Is Denied
+Our faction leader has declined to allow Cuba to join our faction.
+Unfortunate.
+Partnership With Cuba?
+Cuba has sent a delegation to form a bilateral pact of friendship and military cooperation. While not a true alliance per se, our fates will surely become linked.
+Sounds great!
+Partnership With America
+America has accepted our proposed bilateral military and political agreement.
+Now and forever!
+International Military Integration
+Our Cuban ally has made a small but welcome proposal. They have proposed that, as a junior partner in our military alliance, in times of war their military administration be placed, at least nominally, subordinate to our own. While in effect, this means little, it allows our armies to share crucial information more effectively and fight slightly more effectively together.
+A welcome development.
+The Cuban Delegation
+A Cuban delegation has arrived on our shores with only minimal notice. They have come to negotiate a new economic agreement whereby our two nations would each establish a new diplomatic mission dedicated to promoting mutual trade and economic cooperation. To sweeten the deal, Cuba has offered to pay for the renovation of some of our more outdated industrial sites.
+This can only benefit us both.
+We will not be beholden to Cuba.
+[FROM.GetNameDefCap] Accepts
+[FROM.GetNameDefCap] has agreed to meet with our delegation and has indicated their amiability towards fostering closer economic ties. While it required minor concessions on our part in order to close the deal, both of our nations' bureaucracies now work to establish formal economic offices in the other's nation. While it may take a short period of time before we can begin to reap the economic benefits, it is only a matter of time.
+Excellent!
+New Economic Activity
+Our economic mission in the West Indies Federation was quickly established and trade between our two nations has boomed. Due to increase West Indian investment, our industrial facilities also now operate a bit more efficiently.
+It yields fruit!
+[FROM.GetNameDefCap] Declines
+Our delegation has returned to Havana without a deal; [FROM.GetNameDef] has declined to seek to further our economic and political relationship.
+Unfortunate.
+An Invitation
+From the Cuban consulate in our capital, our government has received an interesting offer. While sporadic talks between the nations of then Caribbean and Central America have occurred to promote regional trade, deep ideological divisions and overlapping territorial claims have stymied any resolution. Cuba has proposed that such concerns be put aside for our mutual benefit to create a new permanent international body to work towards economic cooperation and mutually reduced barriers to trade. The body will have no authority over purely political disputes or formal relations between participant states. The exact details of this plan are to be discussed at a summit in Havana to occur as soon as possible.
+We will attend.
+Decline.
+Notices of Refusal
+Several states which we invited to the Caribbean summit have refused - some more politely than others.
+Invitations were sent to our most important regional trade partners, but unfortunately, all parties decline. The Caribbean summit has been unexpectedly cancelled.
+All who were invited have accepted our invitation to the Caribbean Summit in Havana.
+We'll carry on without them.
+Great!
+Back Disappointment
+In response to our previous refusal of Cuba's 'Caribbean Summit', the Cuban government has expressed a mild degree of anger with us, prompting our government to respond with a strongly wordly letter pushing back against their childish behaviour.
+Well then.
+Caribbean Summit
+The Caribbean summit has been a smashing success. The attending nations have managed to settle some small economic disputes and establish a foundation for future talks. All that is needed now is our own signature as both a party and primary observer of a treaty hammered out that convention with the intent to create an independent international trade advisory board to mediate trade disputes between signatories.
+Sign the agreement.
+News From Cuba
+The convention in Havana has been a success, our relations with Cuba and the other attending parties have improved.
+Amazing.
+Cuba Denounces Our Regime
+Cuba has issued a formal denouncement of our regime. While this may have seemed to come out of left field, tensions between our nation and the Cubans have been slowly rising for some time.
+To hell with them.
+The American War Effort
+While the American civil war is contained to the continent, given our close relationship with the embattled Federal government, the war has already had deep ramifications for our nation. In approaching the war and its participants, which stance should we take, cognisant of course that pursue a passive stance could anger our Federalist benefactors?
+While the American civil war is contained to the continent, its outcome will undoubtedly have deep ramifications for our nation. In approaching the war and its participants, which stance should we take?
+Take an active stance.
+Wait and see.
+Focus on limiting internal repercussions.
+Cuban Materiel
+Sympathising with our great struggle and the deep ideological divisions at its core, Cuba has sent military assistance consisting of small arms both old and new and stores of ammunition.
+¡Gracias!
+Our Place in the War
+[WCA.GetNameDefCap] are our natural brothers in arms, it is paramount that we provide them assistance.
+With the collapse of [WCA.GetNameDef], the future of socialism in the United States is in jeopardy. While many in our government have suggested that we work to evacuate socialist elements throughout the war-torn nation to our shores, perhaps a more consequential approach can be taken.
+Support [WCA.GetNameDef].
+Invade [APG.GetNameDef].
+The Federal Government is progressive, support them.
+[ACC.GetNameDefCap] is progressive, support them.
+Smuggle socialist remnants to our shores.
+Our Place in the War
+Our American benefactors are embroiled in a bloody civil war. While the influence of the Federal Government still holds fast in Cuba, that influence, and our mutually beneficial relationship, balances on a knife's edge. As we have rightly decided to fully honour this relationship and take an active stance in the American Civil War, the only question now is: how should we intervene?
+The American Civil War is sure to have massive ramifications on Cuba, now matter the outcome. As such, we must ensure that our nation does not come to harm by any means necessary. The only question is: how?
+Support the Feds.
+Fight for our friends.
+The WCA must be stopped!
+Support the People's Government.
+Cuba Refuses to Increase Assistance
+Despite our influence over Cuban politics, the Cuban government has indicated that it intends to maintain its present marginal level of support for our war effort. While Cuba is a small nation and their full support would have been but a drop in the bucket given the scale of our civil war, it is a worrying development nonetheless.
+Our control is limited...
+Cubans Assisting Manufacturing
+Our Cuban comrades have offered to coordinate closely with our government to manufacture war materiel and civilian products on our behalf completely without compensation. While smuggling the supplies into the country can at times be challenging, Cuba's support has freed up a small amount of essential industry for other use.
+Our Cuban friends have offered to coordinate closely with our government to manufacture war materiel and civilian products on our behalf completely without compensation. While smuggling the supplies into the country can at times be challenging, Cuba's support has freed up a small amount of essential industry for other use.
+Truly, humanity united knows no bounds.
+Praise the Lord, and pass the ammunition.
+Cuban Assistance Winds Down
+While Cuba's industrial capacity is relatively small, its industrial assistance was much appreciated. That assistance has now wound down however, while the war rages on. Should we ask the Cubans to pledge further support?
+Make the offer.
+The gesture was appreciated, leave it be.
+The Americans Propose A New Agreement
+With the civil war still raging, our American friends have offered monetary compensation in exchange for a new round of industrial assistance.
+A boon for us both.
+We cannot accept this.
+Cuba Accepts
+Cuba has agreed to provide further industrial assistance.
+Great!
+Cuba Declines
+Cuba has declined to provide further industrial assistance.
+Disappointing.
+Cuba Supports Dissidents
+While Socialist Cuba initially signalled its intention remain entirely uninvolved in our civil war, with the collapse of [WCA.GetNameDef], that position changed. The Cubans are now funnelling monetary and armaments support to socialist dissidents throughout the remain factions in the war, our own country included.
+Damn Them!
+Planning the War with [APG.GetNameDef]
+The potential for [APG.GetAdjective] victory in the civil war is an existential threat to our nation, and one that we shall at last attempt to resolve. However, two distinct plans have been proposed by our civilian and military advisors. We could, of course, organise a full-scale invasion, landing troops in [APG.GetAdjective]-controlled Florida. Alternatively, we could begin a campaign of sabotage across those areas under [APG.GetAdjective] control, perhaps weakening their war effort to the point of defeat.
+Prepare for all-out war.
+Send in the saboteurs.
+Cuba Attracting Dissidents
+Socialist Cuba, dismayed by the collapse of [WCA.GetNameDef], has proclaimed its intention to accept any and all Americans who choose to seek asylum on its shores. Rumours abound that Cuban agents have also entered our borders to facilitate the evacuation of socialists and other dissidents. While this has yet to cause much of an impact, some known opposition groups have begun to stir, perhaps in preparation of fleeing to Cuba.
+Troubling.
+Flow Of Dissidents To Cuba
+Over the past month, several thousand dissidents have left territories under our control for Cuba. While this has drained out reserves of men a fair bit, those who remain are more likely to be loyal to our government.
+We're better off without them.
+American Socialists Arrive
+We have assessed the influx of refugees from war-torn America for the first time, counting several thousand arrivals, most of them of age and fully willing to serve in our armed forces if the need ever arises.
+Welcome!
+Flow Of Dissidents To Cuba Slows
+While the rate of emigration has slowed considerably, in the last two months, a few thousand more disgruntled individuals left for Cuba.
+So be it.
+More American Socialists Arrive
+Over the past two months, several thousand more Americans of fighting age arrived on our shores. While the great influx following the start of the policy appears to be winding down, there should continue to be a steady trickle over time.
+Welcome!
+War with the People's Government
+Preparations for war have been completed and set in motion. While the odds are certainly against our victory in this war, like David slew Goliath, we shall fell the People's Government. Or, at the very least, weaken sufficiently to bring about its defeat in the civil war.
+Like David and Goliath.
+Saboteurs Ready
+After weeks of preparation and the smuggling of groups of trained soldiers into America, our saboteurs are ready to spring into action across our enemy's major cities, striking key infrastructure before pulling out, hopefully without being detected. All that is needed now is one final go-ahead.
+Do it.
+Saboteurs
+Our nation has been rocked by a series of explosions and sudden failures of key infrastructure and electrical systems. While the damage can be repaired relatively quickly and the damage is not too severe, in the short term our infrastructure may be partially impaired. Given the scale of the attacks, they were almost certainly carried out by a state actor looking to weaken our position in this terrible civil war. An investigation is under way to determine the culprit.
+We'll have our revenge.
+Cuba Declares War
+Shockingly, Cuba, nearly irrelevant militarily, has attack Florida, land troops in the southern portion of the state. While we lack formal diplomatic ties with that horrid socialist nation, Cuba has formally presented our government with a declaration of war. Of course, while fighting the Cubans should be akin to swatting a fly, the distraction could affect our position in the civil war, which we suspect is Cuba's goal anyhow.
+We'll crush those fools!
+Undermining [WCA.GetNameDef]
+[WCA.GetNameDefCap] poses an existential threat to our nation. As such, we must find a way to undermine their war effort.
+Join with Canada.
+Send in the saboteurs.
+Cuban Assistance?
+Cuba has offered to join our war with [WCA.GetNameDef]. While they wish to take up arms directly, perhaps the small nation could instead provide indirect support, assisting our arms production and supplying our troops.
+Brothers in arms.
+A support role.
+The Great White North
+While our nation and [WCA.GetNameDef] are not currently at war, such could break out at any time. Cuba as well fear socialist dominance and has offered to come to our aid, for whatever good that may do, it case of war.
+We stand as one.
+We don't need them.
+Our Place In The War
+Canada has accepted our proposal to join in their war with [WCA.GetNameDef]. While we have not fully thrown our lot in with the [ENT.GetFactionName], this represents a major step towards a formal military alliance with Canada.
+To arms!
+Cuba Joins The Fight
+Cuba has declared war upon [WCA.GetNameDef] on our behalf. While they are not a military powerhouse by any means, their support is appreciated.
+Wonderful!
+Canada Asks For Support
+Canada has declined our offer of direct military support in their war with [WCA.GetNameDef]. However, the nation has instead proposed that we produce arms on Canada's behalf in exchange for compensation. While some in our foreign service see this offer as something of a slight, it still could contribute to the defeat of the reprehensible [WCA.GetName].
+We Agree.
+Such disrespect!
+Cuba Accepts
+Cuba has agreed to support our armaments production. Perhaps this could be the start of a long and mutually beneficial relationship.
+A wonderful development!
+Cuba Declines
+Cuba has declined to support our armaments production, producing accusing our government of some sort of unspecified slight.
+An overreaction.
+Canada Accepts
+Canada has accepted our offer. Our promise of support against [WCA.GetNameDef] has been a major boon to mutual relations.
+Wonderful!
+Canada Goes To War
+War has broken out between [WCA.GetNameDef] and Canada. Per our earlier promise, we should also now declare war upon [WCA.GetNameDef].
+We must fight!
+Identity of Saboteurs Uncovered
+The nation responsible for the attacks of a month ago has been uncovered beyond a shadow of a doubt: Cuba. While we have protested diplomatically, the Cubans have been unrepentant, nearly mocking in response.
+Declare War.
+Once the war is over...
+Canada Disregards Us
+Canada has rejected our benevolent offer of support against [WCA.GetNameDef].
+To hell with them!
+The End of America
+Our benefactors in the United States are no more, and American influence in Cuba is collapsing rapidly.
+We're on our own then.
+Triumph Of Liberty
+Over the past few weeks, a strange feeling has settled over the nation. A Strange feeling, quite foreign, but by no means bad - far from it actually. Not only have the plethora of challenges to our democracy been vanquished, but the system that has emerged and the policy adjustments which were undertaken in response to the crisis have now become entirely normalised. Democracy itself, it seems, has not only survived, but become entirely mundane, entirely normal. With this shift in attitudes, we can at last begin to not just consolidate and protect the system, but look to the future.
+If only Martí could see us now.
+Constitutional Convention: Positive Rights?
+The constitutional convention has now begun, with delegates from all major political parties and influential figures from across the country attending as voting delegates and observers. While the first several hours were quite productive, the fundamental nature of much of the language used in the document has become a point of contention, with Liberals preferring to exclusively define what the government should be barred from doing and Unionistas preferring that language also imply a positive obligation of the government towards assuring certain realities for the people.
+Unionista arguments prevail.
+The Liberals are correct.
+Constitutional Convention: Discrimination
+The inclusion of a passage aimed at addressing racial discrimination has become the next significant point of contention in the drafting of the new constitution. Individuals within all the major political parties object to the inclusion of the passage, arguing that such an effort to end discrimination should be addressed through normal legislation rather than mar our constitution with such an ugly and inherently divisive issue.
+The passage is included.
+Never!
+Constitutional Convention: The Highest Court?
+One final issue has prevented the Convention from adjourning once and for all. Modelled on that of the United States, the Cuban Supreme Court was meant to be independent of the other branches of government, but it became anything but. While many insist that the court simply lacked the supporting institutions to function properly, others now wish to restructure it completely and state its political mission more explicitly within the constitution.
+Keep the status quo.
+Restructure the court.
+The General
+General Díaz, not even yet forty years of age, has become larger than life, larger than the nation itself in the minds of many and with time, his control has only solidified. With crisis now a thing of the past, he can at last transition from consolidation of his rule and truly grasp the reins of state and the people.
+Hail!
+Machado's Man
+Clemente Vázquez Bello, once a key ally of Machado has followed in his deposed mentor's footsteps, steadily consolidating his rule to now stand largely unopposed. While many common people bear great enmity towards our magnanimous President, his rule, it seems, will only be ended by the reaper himself.
+Live long and prosper.
+Vázquez Is Shot!
+Shocking news has arrived today from Havana; while leaving a theatre with his wife, President Vázquez was shot several times by a lone gunman and was pronounced dead at the scene. Succession to is entirely uncertain and various factions within our nation's government have begun to mobilise. Senator Mendieta, a moderate and once-opponent of Vazquez, has been appointed to the Presidency in an extraordinary Congressional session while a more permanent successor is decided upon.
+We stand on the brink.
+Reform?
+While President Mendieta has managed to contain the situation, Vázquez's sudden passing has upended the political order yet again and for fear of resurgent opposition, factions within our government now push for gradual reform as a means to maintain power. Chief among the prospective reformers is the influential José Agripino Barnet, whom the ex-Mambi Orestes Ferrara Marino himself has come out of retirement to throw in his lot with, within the foreign service. Mendieta himself, while not opposed to reform, is fearful of the return of the chaos that plagued the Unionista regime and has indicated his desire to resign the Presidency in favour of Barnet should the preservation of the status quo prove impossible.
+President Mendieta has proven totally incapable of containing the political fallout from Vázquez's sudden passing, and with our essential relationship with the United States weakened, reform seems now all but guaranteed. How that reform shall take shape however is anyone's guess. Within the foreign service, the influential José Agripino Barnet, whom the ex-Mambi Orestes Ferrara Marino himself has come out of retirement to throw in his lot with, gathers support for a more moderate agenda of gradual democratisation while the Nuevo Liberal party, which previous lent our regime its support, now calls for slightly more radical change. While the Nuevo Liberals are the more powerful political entity, Mendieta now must consider his own resignation in favour of Barnet in order to preserve some modicum of the status quo.
+Maintain the regime.
+Mendieta resigns.
+The New Liberals sweep to power!
+Constitutional Convention: Strength Of The Executive
+With delegates having arrived from across the country, mostly from local governments and the national legislature, the Constitutional Convention has just begun. While the first several hours were productive, the structure of the executive branch has become a point of contention. Some delegates wish that the Presidency remain much the same as it now while other delegates argue that Presidential powers to pardon criminals and appoint judges should instead be invested in the legislature, arguing that those powers had been abused flagrantly in the past. While President Barnet has agreed to abide by the spirit of the proposed restrictions as part of a 'gentleman's agreement', he and his cabinet members argue that writing such a provision into the constitution could be detrimental in times of war.
+Restrict presidential authority.
+Keep the status quo.
+Constitutional Convention: Unicameral Legislature?
+The convention is coming along well and our grand new founding document is a sight to behold. Another issue has caused great divide however: the nature of the national legislature. While our legislative body has been bicameral after the model of the United States, many reformers now wish to make it unicameral to simplify the legislative process and promote the ability of the populace to understand the division of political power. What should be done?
+Unicameral.
+Keep the bicameral structure.
+Constitutional Convention: Ugly Past
+Just as the convention prepared to adjourn, a group of average citizens burst into the chamber, shouting and screaming with security seemingly nowhere in sight. They demanded that some recognition of the state's obligation to not repeat its past behaviours both under Vázquez, Díaz, and the brief socialist regime. While they will almost certainly be removed from the building soon enough and do not appear armed, perhaps including such a provision could be wise and assuage public distrust.
+Write it in.
+Wait them out.
+The Future Of Socialism
+The fires of revolution have faded, and upon its ashes, the foundations for socialism have been built, the future of humanity of itself. Now we must look not simply to consolidation, but to our nation's future.
+Viva Cuba Libre!
+Settling In
+Full Democratisation
+What began with the revolution has come to fruition. Socialism has come fully to Cuba and the firm hand that guided this transition shall remain.
+With our rule cemented and societal norms undergoing a satisfactory shift, we can now begin the process of democratisation anew. Let the tyrants of the world hear our rallying cry as we build in Cuba a true syndicalist democracy.
+The immortal science!
+Mella Established Political Dominance
+The revolution left Cuba in a vulnerable position. Now our fearless leader, Julio Antonio Mella has returned to us, to guide the nation. We shall rise from the ashes of the reactionary, bourgeois dictatorship with our faces held high towards the dawn!
+The accord between the Comunista and Revolucionario factions has held and the Trabajadores have been reduced in influence as a result. As many predicted however, cracks have begun to form as our nation has stepped further into socialism's light. To what extent shall Mella's grand vision for Cuba come to pass?
+Onwards!
+The Status Quo?
+The initial deal forged in the aftermath of Revolucionario victory in the special session of the all-socialist congress is dead. The Revolucionarios and Comunistas are armed and fully at each other's throats. A battle is coming.
+Who shall be victorious?
+The Streets Again Run Red
+While the Revolucionarios held firm and retained political primacy in the informal coalition with the Comunistas, Mella's ambition is truly insatiable. Today, groups of Comunista fanatics with arms procured by Comunista leadership opened fire on a group of Revolucionario-affiliated government workers over some minor interpersonal dispute. The trouble quickly spread and now barricades have been erected across the city of Havana and intermittent gunfire is heard as both sides prepare for more violence. In the legislature, Blas, Mella, and their respective factions are likewise in a standoff.
+While the Revolucionarios flagged and lost political primacy in the informal coalition with the Comunistas, Blas is not to be outdone without a fight. Today, groups of Comunista fanatics with arms procured by Comunista leadership opened fire on a group of Revolucionario-affiliated government workers over some minor interpersonal dispute. The trouble quickly spread and now barricades have been erected across the city of Havana and intermittent gunfire is heard as both sides prepare for more violence. In the legislature, Blas, Mella, and their respective factions are likewise in a standoff.
+The Comunistas pull off a miracle.
+The Revolucionarios back down.
+The Revolucionarios are crushed.
+The Revolucionarios pull off a miracle.
+The Comunistas back down.
+The Comunistas are crushed.
+A Great Day
+After months of internal conflict, the Revolucionarios have been defeated. Conscious of appearances and having achieved many of his goals anyhow, Mella has signalled his intention to retain policies developed under the coalition government. Blas has disappeared seemingly into thin air, with his position within the Revolucionario faction now headed by the influential military-man Alberto Bayo.
+The real Revolucionarios!
+A Farewell To Arms
+After months of internal conflict, the Comunistas have been defeated. Mella, it seems, has fled the country once again. Perhaps one day he me yet again return...
+The storm is weathered!
+Two Revolutionaries Enter
+The highly publicised one-on-one meeting between Blas and Mella has begun. Within the first few minutes of conversation, pleasantries have turned to debate and anger. Primary among the issues so hotly contested is how our agrarian system might yet be improved. Mella stands firm that the institutions established in the initial wave of transformationist reforms following the socialist congress must be fine-tuned while Blas proposes that the rural masses must be the target of a campaign of political education and further attention paid to resource extraction.
+Blas concedes the point.
+Mella drops the issue.
+Optimisation
+With the economic issue out of the way for now, Blas and Mella now argue about the proper way by which efficiency might be ensured in highly politicised bureaucratic positions. Mella argue to simply enforce normal regulations and punishments without exception while Blas instead proposes that each department should create a directly elected board to supervise its activities and produce efficiency reports for our government.
+Use the stick.
+Create Blas's committees.
+Improving The Militias
+While reorganisation of the militia structure of our army is an ongoing debate within the armed forces, additional reforms have been proposed by both Blas and Mella, hoping to leverage their respective influences within various militias for political gain. Both plans hold substantial merit in of themselves however and our armed forces will surely benefit either way with the guiding hand of either man.
+Mella overwhelms Blas with facts and logic.
+Blas successfully makes his case.
+Social Equalisation
+Mella's antagonisation has prompted Blas and the Revolucionarios to propose a competing plan to Mella's plan to implement the social aspects of his transformationist ideology. While both plans call for aggressive state action to bring about gender and racial equality, the exact specifics differ.
+Mella's plan is superior.
+We'll go with Blas.
+Compromise.
+Opening Up
+Following the deposition of both Guiteras and Mella, Blas has stood alone as by far the most influential political figure in the country. While that power has allowed for Blas's desired reforms to be enacted and the nation's transformation begun, the undemocratic means by which he ascended to power have proven troublesome to he and his fellows, who claim to aspire to the highest of democratic ideals. Indeed, even the failed socialist congress proposed by Guiteras originally had seem to Blas to be but a sham masquerading as democratic. With the political direction the time to re-open the political sphere has come.
+Viva Cuba Libre!
+The New State
+Like when the guns fell silent in the Weltkrieg, the end of insurrection brought only an eerie silence, not peace. However, as our government has strengthened its rule and assuaged the economic woes which have plagued us for over a decade, we have re-awoken in the people that indomitable spirit that defined them in times of old. We can now at long last turn to the future; with President Grau at the helm, no man shall again wallow in poverty nor socialism again threaten our land. This bold new state which is in birth shall be a sight to behold indeed.
+Arise Cuba fair!
+Havana We Have A Problem.
+Thanks to our previous decision to expand the Greenshirts, the organisation grew rapidly. Its most radical members capitalised on this growth to bring new members to their cause. The so called National Revolutionary Legion that these men founded grew significantly in recent months, and it members grew further dissatisfied with the policies of the Grau administration.\n\nThough the legionaries are few in number, they rank highly in various bureaucratic entities, and their ambition knows no bounds. When President Grau left the city of Havana today, the Legionaries made their grab for power. Though many Greenshirts still remain loyal to Grau, the military has refused to intervene as the situation in Havana has developed. The situation, it seems, is that the Legionaries have seized control of the capital and declared their leader, the author Alberto Lamar Schweyer, as acting president.
+Surely this won't last.
+That Didn't Take Long
+Already, the provisional government, if it can even yet be called that, of the Legionary faction of the Greenshirts has begun to fray. Since his overthrow, Grau and his loyalists simply left the major cities while much of the armed forces have continued to refuse to take up arms at all, looking for an inroad back to power. That opportunity has now come in the form of the Legionary interior secretary, the famous aviator Agustin Parla Orduna. The famed Orduna, who personally commands the loyalty of many of the Legionaires, has begun to fall out of favour with his comrades. He has offered to assist the Grau loyalists in reclaiming Havana in exchange for a position in Grau's cabinet.
+President Grau is re-instated.
+Grau refused the deal.
+AND Reinvigorated
+The Asociación Nacional Democrática has become moribund in recent years. Even as part of the coalition that contested the 1936 elections, ex-president Menocal failed to make much headway. That has now all changed. The moderate Carlos Prío Socarrás, suspiciously soon after the government's announcement of a normalisation of the political sphere and the scheduling of new election, has begun to court prominent members of the AND, for all intents and purposes amidst present political realities, forming a new AND of sorts under his own, state sanctioned, leadership.
+Surely he is but a puppet of Grau.
+Opening Up The Political Sphere
+Though political parties remain, in theory, unrestricted, great institutional pressure has been placed on the opposition and many individuals have been subjected to intimidation by Greenshirt groups. President Prío, now in control, in poised to end these practices. As the Unionists, not entirely opposed to the Authentic party were subjected to a far lower degree of suppression, it is certain that they shall form the main opposition.
+Issue the decree.
+Corruption Scandal Rocks Cuba
+President Grau has been implicated in perhaps the most incompetent conspiracy in Cuban history. José Alemán Casharo, an upstart senator and Grau loyalists rumoured to have begun leveraging his political clout for monetary gain, has been caught in the process of bribing Grau with the ceremonial jewel of the Cuban legislature itself. Calls for the President's resignation have grown, even from within his own party.
+Ramón Grau has been implicated in perhaps the most incompetent conspiracy in Cuban history. José Alemán Casharo, an upstart senator and Grau loyalists rumoured to have begun leveraging his political clout for monetary gain, has been caught in the process of bribing Grau with the ceremonial jewel of the Cuban legislature itself. While Grau no longer acts as president of Cuba, he remains as a minister without portfolio, and with his considerable clout, involves himself with the executive. Calls for the Grau's resignation have grown, even from within his own party.
+Ramón Grau resigns his posts but refuses to retire from politics.
+Refuse to resign.
+National Symbolism
+The Cuban flag is beloved by the people for its association both with early struggles for independence and the great patriot José Martí. The flag, however, among other national symbols, is intertwined with bourgeois corruption contradictory to the socialist nature of our new nation. Some have called for such symbols to be replaced, beginning with the national flag. The most prominent proposal for a new flag is based upon the Céspedes flag, a banner still with a bourgeois designer, but also more explicitly revolutionary, with modifications to make the new flag sufficiently socialist. Besides the national flag, many also call for the independence holiday to be moved from May 20th, a date connected to American imperialism, to October 10th, the date when in 1868, the Cuban independence movement began in earnest.
+They must be changed.
+Never!
+The Woman From The Oriente
+While overwhelmingly Catholic, many Afro-Cubans incorporate elements of traditional West-African religions, especially the religion of the Yoruba people, into their religious practices. To those not born into this belief system, many of these syncretic customs are shocking and morally reprehensible, even bordering on satanic.\n\nRecently, rumours that some worshippers have begun to sacrifice young children as part of an occult ritual have run amuck. While for a time, the rumours seemed to have died down, today, a group of men have arrived in Havana claiming to have travelled from Oriente province with an alleged devil worshipper, a slight Afro-Cuban woman, trailing behind them with her hands and feet bound. The woman, they say, had murdered her own child to commune with some perverse demon and authorities in Oriente had refused to discipline her. While there is a lack of evidence to point to any actual wrongdoing on her part and a plethora to justify arresting the vigilantes, the case has caused a ruckus in Havana and calls for a national investigation into the alleged sacrifice are prominent.
+Arrest the men and release the woman.
+These men are heroes, investigate!
+A German Spy In Havana
+Several years ago, evidence of at least one German spy operating in Havana came to light, but the identity of the infiltrators remained uncertain. Today, a man known as Enrique Lüning, a business man originally from Germany, has been arrested on charges of espionage and the evidence is damning. Given our current war against Germany, he will be tried by military tribunal as an enemy combatant and likely given the death penalty. This is, of course, unless his sentence is commuted to mere jail time by our administration.
+Several years ago, evidence of at least one German spy operating in Havana came to light, but the identity of the infiltrators remained uncertain. Today, a man known as Enrique Lüning, a business man originally from Germany, has been arrested on charges of espionage and the evidence is damning. If allowed to stand trial, he will likely be executed and knowing this, the German government has pleaded for leniency and simple deportation.
+Allow him to stand trial.
+Just deport him.
+Execute him.
+Spare his life
+Death Of A Legend
+José Capablanca Graupera, among the greatest men to ever play the game of chess, and a wonderful unofficial cultural ambassador for our nation abroad, has passed away at the age of 53 of complications arising from a history of high blood pressure.
+All Of Cuba is in mourning.
+Independence Day
+Following a long struggle against Spanish rule, culminating in American intervention in Cuba during the Spanish-American war, on May 20th 1902 the Republic of Cuba was declared. Each year, this monumental date is remembered as our Independence Day and parades and celebrations occur throughout the country. For this single day, our deeply divided people can set aside their differences and for a brief moment breathe a sigh of relief.
+¡Viva Cuba!
+May 20th, our national independence day, has come again, and as always, the holiday is marked by celebration and joy.
+May 20th, while a monumental date in Cuban history, is tainted by the legacy of American imperialism. Today is the first Independence Day celebrated on October 10th; a day which marks Cuba's first declaration of independence declared at the onset of the Ten Years War. Concerns that the people may not take well to the new holiday were unfounded and the celebrations which have swept our nation are as jubilant as ever.
+October 10th, our new national independence day, has come again, and as always, the holiday is marked by celebration and joy.
+Trouble In The CNOC
+Following the death of Alfredo López Arencibia, the Confederación Nacional Obrera de Cuba (CNOC) was sent into disarray and competing labour organisations were established by socialists disillusioned with its new leadership. The young firebrand Lázaro Peña González eventually succeeded to the head of the organisation with the ascent of its former chair, Sandalio Junco Camellón, himself recently returned from exile in Mexico, on the basis that he would step down in favour of Junco at the end of a single two-year term.\nDue to the failure of Peña's agitation during the General Strike, he lacks the political power to maintain control of the organisation and must make good on his promise to Junco.
+Following the death of Alfredo López Arencibia, the Confederación Nacional Obrera de Cuba (CNOC) was sent into disarray and competing labour organisations were established by socialists disillusioned with its new leadership. The young firebrand Lázaro Peña González eventually succeeded to the head of the organisation with the ascent of its former chair, Sandalio Junco Camellón, himself recently returned from exile in Mexico, on the basis that he would step down in favour of Junco at the end of a single two-year term.\nDue to Peña's failure in the secure power following the success of the revolution, he lacks the political power to maintain control of the organisation and must make good on his promise to Junco.
+Following the death of Alfredo López Arencibia, the Confederación Nacional Obrera de Cuba (CNOC) was sent into disarray and competing labour organisations were established by socialists disillusioned with its new leadership. The young firebrand Lázaro Peña González eventually succeeded to the head of the organisation with the ascent of its former chair, Sandalio Junco Camellón, himself recently returned from exile in Mexico, on the basis that he would step down in favour of Junco at the end of a single two-year term.\nDue to the ascendence of Julio Mella McPartland to the forefront of the CNOC's political bloc and subsequent marginalisation of the CNOC itself, the question of leadership was never settled. Indeed, the victory of the Comunista faction in the recent election is quite the surprise as both Junco and Peña's reputation Peña's reputation were quite tarnished with the rest of the party due to Peña's failure to maintain control of the CNOC and its allies following the return of Mella and Junco's full reconciliation with his old comrade-in-exile.\nThough it was Peña who led the CNOC and the Comunistas to victory in the election, Junco was quick to rebuild his base of support. He is now demanding that Peña step down as not only chair of the CNOC, but also as Cuba's executive.
+Following the death of Alfredo López Arencibia, the Confederación Nacional Obrera de Cuba (CNOC) was sent into disarray and competing labour organisations were established by socialists disillusioned with its new leadership. The young firebrand Lázaro Peña González eventually succeeded to the head of the organisation with the ascent of its former chair, Sandalio Junco Camellón, himself recently returned from exile in Mexico, on the basis that he would step down in favour of Junco at the end of a single two-year term.\nThe success of the CNOC during the revolution and its subsequent integration into the Socialist party structure, however, has rendered the CNOC chairmanship and the office of the Presidency one and the same. While Junco his supporters still expect Peña to step down in both capacities in favour of Junco, with his newfound political power, Peña may well be able to hold onto power.
+Out with the new, in with the old.
+Peña refuses to resign.
+President Mella Shot!
+President Mella, while walking under guard with his wife, the increasingly politically influential Tina Modotti, was shot three times by a lone gunman. The perpetrator, a supporter of the marginalised Trabajadores, has been accused of being a foreign agent and awaits certain death in a cell beneath a police station. In the wake of Mella's shooting, Modotti has managed to cement her political position and secure appointment as acting secretary of the socialist party. Should Mella live through this ordeal, his manoeuvring wife will surely take up some of his duties.
+Mella lives. Modotti remains secretary.
+Mella passes away. May Modotti lead as he did.
+General Election
+January 28th, Election Day, has come. Which political party shall lead our fair nation for the next four years? Furthest to the left is he Revolucionario Party of Juan Blas Hernández led our nation from the brink of subjugation to its present form of democracy. To the right is the New Liberal party, the left wing of the old Liberal party of the much-maligned former President Machado. The moderate Unionist party which led the nation following the student revolution of 1929 is also in the running, it offers a more moderate political platform.
+The Revolucionarios.
+Unionista victory.
+Nuevo Liberals take it.
+January 28th, Election Day, has come. Which political party shall lead our fair nation for the next four years? Furthest to the left is Unionist party which led the nation following the student revolution of 1929, it offers a social democratic political and economic platform. In the centre is the New Liberal party, the left wing of the old Liberal party of the much-maligned former President Machado. The liberal Republican party offers the most right-wing platform, advocating laissez faire economic policies and reducing barriers to trade.
+The Republicanos.
+Unionista victory.
+Nuevo Liberals take it.
+January 28th, Election Day, has come. Which socialist faction shall lead our fair nation for the next four years?
+The Revolucionarios.
+Trabajadores victory.
+Comunistas take it.
+The Revolution Betrayed
+In spite of the political divisions which troubled the then new socialist government and the influence of thinly veiled authoritarianism from the many nations which claim to practise some form of socialism, the light of socialist democracy shone brightly in our fair nation. With the Comunista victory in the recent general elections, that reality is rapidly changing. Already, the newly ruling Comunistas have strong armed and threatened their way to securing institutional change and have marginalised the influence of the other socialist factions and their influence grows by the day. Our grand socialist experiment seems to be shifting in a bold new direction.
+No. The revolution is saved!
+The New Cabinet
+Keeping with tradition, executive cabinet positions have thus far been left vacant. Should only members of the ruling party be appointed to fill these vacancies or as in the past, cabinet positions be given to members of a variety of political parties?
+All must be of our party.
+Continue the tradition.
+Enshrine the practice into law.
+General Election
+January 28th, Election Day, has come. Which political party shall lead our fair nation for the next four years? Furthest to the left is the New Liberal party, the left wing of the old Liberal party of the much-maligned former President Machado. In the centre, the liberal Republican party offers the most right-wing platform, advocating laissez faire economic policies and reducing barriers to trade. To the right, the Progressive Party, formerly of the now deceased Clemente Vázquez, has moderated slightly and taken up a platform more compatible with our current liberal democracy.
+The Republicanos.
+Nuevo Liberals take it.
+The old guard returns.
+The Return Of Machado?
+Old and frail, these few years in exile in Miami have not been kind on ex-President Gerardo Machado. With the outbreak of the American Civil War, Machado has formally requested to return to Cuba. He has vowed not to return to politics and is physically unable to do so anyhow. Some among the people however would be disappointed by any display of kindness towards their old despot.
+Allow him to return.
+Never.
+A Sad Day
+The family of violinist and composer Amadeo Roldán Gardes have today announced his passing. Born to a mixed mother, Roldán was a legend among the Afro-Cuban community and thousands fill the streets to mark his passing.
+Farewell!
+Heavy Hearts In Havana
+A true renaissance man, Alejandro García Caturla beyond his passion for the violin and music more generally, was also a judge. Today, preparing to enter his courthouse, a young man who stood accused rushed him with a knife, stabbing García several times. With his passing, the musical world is once again in mourning.
+He won't be forgotten.
+Cuba Severs Trade Ties
+The Cuban government, ostensibly in solidarity with socialists the world over, have suspended all trade with our nation.
+We don't need those socialist hooligans anyhow.
+Autogyro Craze
+Originally developed in Spain, the autogyro, a traditional aircraft with a large rotor powered by the movement of air, has become quite the curiosity the world over. Recently, several of Cuba's renowned amateur aviators have flown autogyros past the nation's most prominent landmarks, inspiring a craze among well-off civilians. Autogyros are now a fairly regular sight around the nation's many airfields.
+A childish distraction! Rotorcraft hold no military value.
+Afro-Cuban Jazz
+A recent performance by local jazz artist Mario Bauzá has become the talk of Havana and the nation as a whole. The newest musical trend in certain African communities is a variation on American jazz music. While Bauzá's performance is by no means the first performance of this sort put on in Havana, it has brought the genre previously unheard of attention.\n\nHowever, many in our government and the political class in general find this new style to be irritating a best, some even accuse Bauzá and others of intentional political subversion. Whatever the case, it seems Pandora's musical box has been opened for good.
+Someone silence that infernal racket!
+A Country For Old Men?
+With the fall of General Diaz, the army lacks for competent generals. While new commissions could always be handed out, an interesting idea has been proposed by the new cabinet. José Martí Zayas-Bazán, hero of the war of independence and son of José Martí himself resigned his commission during the Machado years and refused to take up his old position after Machado's fall because of the direction of the new army-influenced government. With democracy now set to return in full, we could offer 'El Ismaelillo' his old commission.
+Make the offer.
+Since the turmoil that left Vazquez and his lot essentially the last political faction standing, the army has lacked for competent generals. While new commissions could always be handed out, an interesting idea has been proposed by the new cabinet. The commission of both Alberto Herrera Franchi, who fell from power with the Havana Strike and due to his opposition to General Diaz and longstanding feud with Vazquez, was not restored thereafter and José Martí Zayas-Bazán, hero of the war of independence and son of José Martí himself, who resigned his commission during the Machado years and refused to take up his old position after Machado's fall for the direction of the new army-influenced government, could be restored. With democracy now set to return in full, surely both men would accept?
+Make the offers.
+Dusting Off The Museum Pieces
+José Martí Zayas-Bazán has accepted our offer to once again take up his commission in the army.
+José Martí Zayas-Bazán and Alberto Herrera Franchi have both accepted our offer to once again take up their commissions in the army.
+Welcome back.
+General Election
+January 28th, Election Day, has come. Which political party shall lead our fair nation for the next four years?
+The Authentic party.
+The reborn AND.
+The resurgent Unionistas.
+Death of Mario García Menocal
+Mario García Menocal has unexpectedly died today in Havana. Though he opposed the revolution, his conservative movement was once an outlet for many of the same aggrieved who now are the backbone of our nation. Many of his most loyal supporters have begun to flock to the leadership of Carlos Prío Socarrás.
+Mario García Menocal has unexpectedly died today in Havana. Many of his most loyal supporters have begun to flock to the leadership of Carlos Prío Socarrás.
+For better or for worse, he greatly impacted Cuba.
+Upstart Naval Administrator Killed In Blast
+The young Rear-Admiral Carmelo González Arias was killed today in an explosion in Havana. The bomb, disguised as a package, was planted by one Luis Buch Rodríguez, a follower of the socialist leader Antonio Guiteras Holmes. He claims he carried out the attack in retaliation for González's betrayal of Guiteras a year ago, a move that almost resulted in the death of Guiteras himself.
+Worrying. And so close to the election too.
+Confronting An Old Foe
+Revolutionary governments now control both Peru and Cuba, transforming their respective societies according to radical policy platforms. While around the world such regimes have made fast friends, this state of affairs has only reopened old wounds for President Haya de la Torre.\n\nAs a young revolutionary, our President and the Aprist movement endured constant criticism from Cuba's Julio Mella. Today in a much publicised speech before a crowd of supporters, President Haya has issued a scathing denunciation of Mella and his regime in Cuba. A response from the Cubans is surely to come.
+A rousing speech.
+Peruvian Diplomatic Row
+Once criticised by President Mella, it seems Peru's Victor Haya de la Torre is not one to let sleeping dogs lie, issuing an attack on our President's character and government. President Mella, for his part, quickly concluded that the best course of action would be to recall our diplomatic mission in Lima and issue a denunciation of our own.
+The Aprists seemingly never learn.
+Cuban Ambassador Recalled
+In response to President Haya's denunciation, Havana has opted to simply recall its diplomats from Lima. While President Mella's own accompanying denunciation does not mince words, the situation, it seems, is unlikely to further escalate and relations should improve given sufficient time.
+A small price to pay for dignity.
+United States in Disarray
+The civil war has erupted in the United States, tearing apart the last shreds of unity in the Union. American influence on our government has in a matter of days all but collapsed and this development also presents us with the chance to fully remove the American presence from Cuba by occupying Guantanamo Bay naval base. There is very little that the US government can do to stop us at this point.
+Having broken free from the United States and the civil war raging still, the status of the US naval base at Guantanamo Bay has arisen. Should we seize this last piece of occupied Cuban soil?
+Seize the naval base!
+Rather not.
+Cuba Seizes Guantanamo Naval Base
+With America in turmoil, Cuba has moved its troops onto the USA-leased Guantanamo Bay naval base. There is very little that the US government can do to stop Cuba at this point.
+Too bad.
+Turmoil has broken the union and the United States had erupted into civil war. With the federal government unable to exert a modicum of the influence it once had, our status as all but a puppet of the United States has become increasingly flimsy. Should we expel the Americans from our government or remain loyal?
+Break free.
+Stay loyal.
+Cuba Defies Us
+Cuba has broken its obligations to us and treaties concerning our relationship and arrest several American citizens influential in Cuba. With the civil war raging, we have lost much of our influence in the country.
+Horrible.
+Our Friends in Havana
+In spite of the civil war and subsequent collapse of our influence in their nation, Cuba has promised to remain by our side and not only support our war against the traitors, but offer to provide us with materiel where possible as well. As their loyalty seems assured and we can no longer effectively administer our naval base at Guantanamo Bay, it may be wise to transfer control of the bay over to the Cubans. Whether this will be a temporary or permanent solution, only time will tell.
+Give it to them.
+Keep it.
+The United States Returns Guantanamo Bay
+In gratitude for our loyalty and recognising their inability to administer the area, the United States has returned their concession at Guantanamo Bay to us.
+Great!
+The United States Defeated
+The United States of America has been defeated. While this will of course also destroy their influence over our government and many loyalist politicians will be granted asylum, without our friend in Washington, our regime faces a great deal of uncertainty.
+On our own then.
+Reacting to the American Civil War
+Rebellion has broken out across America and our government was quick to issue a response, issuing a scathing denouncement of the socialists of [WCA.GetNameDef]. Our exact stance however, has been intentionally left vague for the time being.
+Rebellion has broken out across America and our government was quick to issue a response, recognising the moral righteousness of the socialist cause without formally recognising [WCA.GetNameDef] for the time being. We have also denounced the aggressive reactionary [APG.GetNameDef] of Huey Long.
+A house divided...
 Lázaro Peña González
 §YBorn:§! §LMay 29th, 1911, in Havana, La Habana Province, Republic of Cuba§!\n§YBackground:§! §LThe young Lázaro Peña succeeded Sandalio Junco as boss of the CNOC totally inexperienced. Peña's meteoric rise in the short time since caught many among even Cuba's left off guard. An advocate of complete collectivisation and industrial development, Peña wears the moribund label of 'communist' with pride. Despite this, the CNOC and its leadership both past and present, have both embraced many aspects of European syndicalism and paradoxically call for cultivation of a stronger Cuban national identity in an internationalist context.§!
 §YBorn:§! §LMay 29th, 1911, in Havana, La Habana Province, Republic of Cuba§!

@@ -139,6 +139,254 @@ Introduction to El Salvador
 Maximiliano Hernández Martínez's coup as Vice-President against the Laborista Party and Arturo Araujo in December of 1931 brought immediate strife to the nation, with a true restoration of democracy being ended right as it began. The cause of this coup was an alarming salary cut for the military in favour for the police, which helped him get a small amount of support from the population. With his policy of suppressing all opposition, militarisation of the state, and banning all other parties from elections besides his Pro-Patria Party, Martínez managed to consolidate his grip on El Salvador. While this was effective at first, this all changed on May 16th, 1932.\n\nThe 1932 Peasant Massacre began due to Martínez enacting policies against the natives in the west, who had been inspired by Agustín Farabundo Martí and Feliciano Ama. While they weren't a threat at first, the success of the Nicaraguan Revolution by Augusto César Sandino made more people flock to the rebel side. Despite the rebels not being able to make gains against the military, Zapata's victory in the Mexican elections meant they would get a steady supply of guns. The rebellion managed to last until January 22nd, 1933 with 70,000 dead and rebel leaders Feliciano Ama and Agustín Farabundo Martí retreating to Mexico.\n\nPartisans are no longer an uncommon sight within El Salvador, with Martínez's regime being hated by a significant portion of the people. Not only that but his way of handling the rebellion has caused disloyal elements of the military to emerge, and Martínez's regime being held on a tight string the Americans are holding up.
 §MFuerza Armada§! ($paternal_autocrat_coloured$)\n£white_dot Send in the army in the Moving the Army event.\n£white_dot Do not keep Salinas safe in The Confrontation event.\n\n§MPro-Patria§! ($national_populist_coloured$)\n£white_dot Do not send in the army in the Moving the Army event.\n£white_dot Support the anti-partisan force in the Brawling in the Streets event.\n\n§MFuerzas Populares de Liberación§! ($syndicalist_coloured$)\n£white_dot Send in the army in the Moving the Army event.\n£white_dot Keep Salinas safe in The Confrontation event.\n£white_dot Choose not to restore the presidency.\n£white_dot You can also choose to restore the presidency and elect the Syndicalists (see below).\n\n§MLaboristas§! / §MPartido Nacional Democratico§! ($social_democrat_coloured$ / $social_liberal_coloured$)\n£white_dot Do not send in the army in the Moving the Army event.\n£white_dot Support the main force in the Brawling in the Streets event.\n£white_dot Choose to restore the presidency.\n£white_dot Confront the military in the Confronting the Military event.\n£white_dot Take the Call for a Snap Election focus and select the desired party to win.\n\n§MPRUD§! ($authoritarian_democrat_coloured$)\n£white_dot Win the civil war as the revolutionaries and restore the presidency (see above).\n£white_dot Deny the request in the Confronting the Military event.\n£white_dot Take the Call for a Snap Election focus.
 $CEN_pre_guide$
+The Depression Worsens
+The recent German market crash has once again completely destroyed our economy due to its heavy reliance on foreign exports. With countries being unable to buy our coffee and the situation in the United States becoming less stable, the Martínez regime is being backed further and further into a corner politically as a result. We'll need to act carefully from now on if we wish for our country to survive the wave of socialism.
+Sure is nice that Martínez is good with the economy.
+Farabundo Martí Returns from Mexico
+Hero of the '32 Massacre Farabundo Martí has recently returned in response to the American Civil War and the chaos our country has entered as a result. People have begun to blame Martínez for this slip-up due to the lack of border control as a result of the ongoing conflict within the country itself. Regardless, his return has begun to rally more and more of the populace against us, and rumours within the military are beginning to spread of an eventual coup in order to restore order.
+The country bleeds.
+The Military Rebels!
+Despite our victory against the reactionary forces, most of the Salvadoran military still hasn't recognised our rule as legitimate. While their scattered resistance poses no threat to the continuity of our government yet, we must tread carefully as they still pose a hindrance to our government, as they can still recruit reactionary volunteers from throughout the country. More importantly, they attack villages and government's convoys for supplies in the northwest, where retreat back to their hideouts in the jungles near Metapán, allowing them an easy escape route towards Honduras or Guatemala if they need to.
+They won't stop the revolution!
+Confronting the Military
+As the attacks on the northwest intensify, our people are growing increasingly restless, and the governor of Santa Ana province, Ramón Davila, has requested the government for an intervention of the province with whatever forces they can muster. However, our cabinet is currently undecided on whether confronting the military is a wise idea. Those men have sworn an oath to defend El Salvador, and maybe they'll come around to see things our way if we wait a little further.
+Request denied, they'll come to terms with our government eventually.
+Confront them, it's the only way to secure democracy.
+Unrest in the Cities
+After four years of violent rule, Martínez still tries to rule El Salvador with an iron fist with the support of the American government. However, the recent developments in both the US and the world are slowly but steadily weakening the power of Martínez, with many now openly questioning his government...
+Uncertainty was to be expected in such a crisis.
+Salvadoran Exports Collapse
+Black Monday has finished killing the already weakened Salvadoran exports, forcing landowners to make massive layoffs in order to stay afloat. Now many shipments of Sugar, Coffee and Cocoa just sit in the capital city with nowhere to be sent to and not enough local buyers to deal with the increasing supply.
+This is a disaster!
+A Strike in a Sugar Mill of San Salvador
+Workers at a sugar mill in San Salvador City have gone on strike, demanding better working conditions and the payment of their wages, that are currently three months due. Martínez has issued a public statement claiming that he'll use violent force if necessary to break up the strike if they don't disperse on their own. Tensions are running high in the country, and this strike might be the last straw...
+Let's hope they take the hint and disperse...
+Martínez Suppresses the Strike
+Martínez summoned the army to the capital to deal with the strikers. Once the army was in range of the strikers, shots were ordered to be fired to scare them into dispersing. However, fearing a violent reaction, many soldiers shot the crowd head on, and chaos ensued in the city, with the strikers either trying to fight off the soldiers unsuccessfully or running away. Martial law was temporarily declared by Martínez to deal with any dissidents, and the strikers that have been caught have been already sentenced to death by Martínez's decree...
+He has gone too far this time...
+Rumours of a Coup Reach the Press
+Some anonymous sources have tipped the press about a secret meeting between high ranking officers within the army in the Centro del Ejercito Armado de El Salvador at San Esteban de Catarina. While the topics of the meeting have not been revealed, the recent developments have led the press to speculate that these officers have begun planning to overthrow President Martínez. The President has dismissed the claims as nothing more than fearmongering by the press, but the fear of a coup remains in public conscience.
+Who would believe such nonsense?
+Martínez Reduces Public Salaries
+In a bold move, President Martínez has decreed a reduction of all the public worker's wages from top to bottom, including his own salary. While this won't really have any real effects on the economy at large, the many workers of the country have found this move to be endearing, as the Salvadoran state was seen as corrupt and avaricious entity until now. With renewed support from the working class, he now has more room for improvement for his reforms, although that also comes with increased expectations...
+A token move by the President, but it's appreciated nonetheless.
+Close the Banco Central de la Reserva de El Salvador?
+The Central Bank of the Salvadoran Reserve was created in 1934 by Martínez in order to stabilise the value of the Salvadoran currency, the Colón. While this move was effective at the time, now that crisis has struck again, the Colón is in free fall regardless due to the overprinting of the currency done in order to pay for the state's debts. Many within the cabinet demand the Bank to be closed down, despite its usefulness in the past, and return to the times where private banks printed the currency of our country. What should we do?
+Keep it Open.
+Close it.
+Construction of Affordable Houses for the Working Class
+As the economic situation improves, President Martínez has decreed an ambitious construction programme in order to create new and affordable housing for the working class citizens and the peasantry. This programme, put in charge of the Junta Nacional de Mejoramiento Social, aims to provide for cheap housing and affordable mortgages to the many workers of the country that can't afford themselves a private mortgage. While the effects of this will not be immediate, this move is sure to secure the support at least some support within the working class for our President.
+¡Viva Martínez!
+Subsidies for the Rural Workers
+Some of the most hindered by Black Monday have been the small to medium land owners and their rural workers. While they have kept the same production levels, the fruit of their work just sits in harbours with no place to go, as there are no longer any foreign buyers to acquire them. This has caused our agricultural output to be reduced significantly, and many of the peasants to be fired due to the lack of funding to pay their wages. In order to solve this and kickstart the agricultural sector back into motion, President Martínez has decreed the creation of a new set of state subsidies. These will be given to all the farmlands that produce coffee, sugar and cotton and will be funded by the Federación de Cajas de Crédito Rural, with the objective of improving the production of these vital crops back to their pre-Black Monday levels.
+¡Viva Martínez!
+Finishing the Salvadoran Section of the Panamerican Road
+The Pan-American Road, a multi-national project between all American nations, has been expanding through El Salvador since Martínez took power. Today, after several years of hard work and investment the Salvadoran section of the road has finally been inaugurated. The President has made a public speech praising the efforts of the Salvadoran workers and talking about the benefits the road will bring to El Salvador.
+¡Viva Martínez!
+Final Ratification of the Guatemala-El Salvador-Honduras Border Treaty
+We've been working towards establishing the definitive borders between us, Guatemala and Honduras for years now. Due to the lack of natural barriers, our borders have shifted significantly before, but we're now ready to finally send them our final draft of the Common Border treaty, which shall be established in Rio Frio section at the Monte Cristo Hill. However, some members of our cabinet have advised us not to send the treaty, as we can take advantage of the shaky borders that we now possess to seize small portions of land in the future. What should we do?
+Send the Proposal.
+Keep the Status Quo.
+Sugar Exports Fall, but the Economy Stays Strong
+With the stabilisation of the world market, our rivals in the sugar market, mainly Brazil and Colombia, have begun to slowly but steadily recover their pre-Black Monday production levels. We cannot compete in the sugar market with their quantity nor quality of products, and our sugar plantations have started to suffer because of it. Nevertheless, we've still had a secure local market, and given that our agricultural output is not centred around sugar, this downturn is merely a minor hindrance.
+Our diversification efforts are successful.
+A New Political Dynasty?
+In order to secure the future of El Salvador, President Castro has decided to draft the blueprint of the political scene of El Salvador for the years to come. In his plan, he has detailed how will the next elections be rigged and who shall be appointed at the cabinet in order to keep the utmost secrecy. A new age of stability dawns for El Salvador!
+El Salvador must be protected from Extremism at all cost!
+Elections of [GetYear]
+Today, as scheduled by the new constitution, elections have been called by President Castro and the electoral campaign is on. While the Partido Laborista and the Partido Nacional Democrático accuse the Partido Revolucionario de Unificación Democrática, the truth is that the PRUD has been leading all the popular polls so far, and their claims are nothing more than mere complains of sore losers before the votes have even been counted.
+Salvador Castaneda Castro and his party take the win!
+Hmm, this ballot looks odd...
+As scheduled by the constitution, elections have been called and the people all over the country have gone to vote. The Partido Laborista has been focusing on appeal to peasantry and lower class voters, promising to ensure relief for them. While the Partido Nacional Democrático has seen success with the landowning elites and other groups that dislike the PL for their leftist ties, but still promises to appease all groups equally. After counting the votes, the winning party is...
+The Partido Laborista!
+The Partido Nacional Democrático!.
+Elections Cancelled
+Just some days before the presidential elections were to take place, the legislative assembly has announce their cancellation. It was expected for Martínez to win the elections just like the last one, so it is strange for the government to cancel them in such an abrupt manner. Many believe that the president is scheming something to further secure his rule, but what else can he do when his party is already the only legal one?
+Let's wait and see.
+Legislative Assembly Re-elects Martínez
+After many quite days, Martínez and the legislative assembly came forward to announce the approval of a new constitution. While very similar to the previous one, it extends the presidential term from 4 to 6 years and grants the assembly the ability to have the final say on the winner of all future election if there are deem to be any \
+The dawn of new era.
+As Martínez term comes to an end, elections have been once again cancelled. Now under the threat of disloyal military elements interfering with the election, the legislative assembly has proclaim Martínez once more as president.
+Are we even a democracy anymore?
+Salvador Castaneda Castro Defects!
+Today, we've found out that General Castro had abandoned his barracks in Talnique and we've received reports from our scouts that he has deserted to the rebel forces with a whole regiment. While he had displayed some concerns about the strength of the rebel forces, his desertion still came as a surprise to the general staff.
+Our situation grows even more dire.
+Native Population Begins Exodus Towards Honduras
+After the defeat of the rebel forces at the Sonsonante Department, many of the natives have begun to flee towards Honduras. After 1932's rebellion, Martínez carried out mass executions of the indigenous Pipil people, and with their new rebellion being crushed, the many tribe leaders have decided to flee. This news has not been well received, as Martínez has ordered a shutdown of the border, but that doesn't stop the people from finding ways to circumvent the border controls through the Sumpul River.
+They won't escape justice.
+Native Refugees from El Salvador arrive at Honduras
+El Salvador has suffered a peasant revolt recently, and now that President Martínez has crushed their short-lived revolution, many of them have decided to flee towards Honduras. While they're numbers are not large enough to cause any real concerns, the situation on our neighbouring country is troubling at best...
+Welcome those poor people in.
+Salinas Consolidates Power
+Salinas has been formally proclaimed President of El Salvador today. Now know by his victory over the native insurgents, he has decided to start restructuring the Salvadoran state to suit a now different sort of authoritarian regime: One that will try to listen to the people and safeguard them from extremism. In order to achieve this, Salinas has decreed the reintroduction of some civil liberties, opening up the old authoritarian regime to further changes down the line.
+¡Viva El Presidente Salinas!
+The Status of Foreign Assets
+An analysis of our commercial law system has revealed that many foreign companies within El Salvador were operating based on loopholes which allowed them to avoid regulations and the payment of certain taxes. While severe punishments have been proposed by several members of the cabinet, we have decided to spare these foreign companies, as long as they agree to follow the new laws we have made and the payment of the taxes that have been due.
+Pleasure doing Business with You.
+Seizing Foreign Assets
+An analysis of our commercial law system has revealed that many foreign companies within El Salvador were operating based on loopholes which allowed them to avoid regulations and the payment of certain taxes. While more lenient punishments have been proposed by several members of the cabinet, we have decided that we will not stand for such insult, and we shall immediately seize the assets of these companies in order to ensure the well-being of their workers and as a way repaying their misdeeds to our people.
+A Victory for the People!
+Supporting a Union
+Unions are something of a novelty in El Salvador, and as such, we should look to expand upon them. However, a debacle has come out recently regarding the unions that exist within El Salvador on whether which one should be chosen to lead the others. One of our options, the 'Federación Regional de Trabajadores de El Salvador' or 'FETRES' has largely radicalised during the last few years, and strengthening them is sure to align our economy towards bringing the world revolution to Central America and defend ourselves from foreign imperialism. Our other option is the newly-founded 'Unión Nacional de Trabajadores' or 'UNT', whose more moderate approach is sure to benefit our local industry and the livelihood of our people at the expense of our war time capabilities.
+Support the FETRES.
+Support the UNT.
+Final Ratification of the Guatemala-El Salvador-Honduras Border Treaty
+We've been working towards establishing the definitive borders between us, Guatemala and El Salvador for years now. Due to the lack of natural barriers, our borders have shifted significantly before, but El Salvador has proposed a final draft for the Common Border treaty, which shall be established in the Rio Frio section at the Monte Cristo Hill. What should we do?
+Accept the Treaty.
+Reject the Treaty.
+Final Ratification of the Guatemala-El Salvador-Honduras Border Treaty
+We've been working towards establishing the definitive borders between us, Honduras and El Salvador for years now. Due to the lack of natural barriers, our borders have shifted significantly before, but El Salvador has proposed a final draft for the Common Border treaty, which shall be established in the Rio Frio section at the Monte Cristo Hill. What should we do?
+Accept the Treaty.
+Reject the Treaty.
+Honduras Accepts the Treaty
+The Honduran government has sent an envoy back to us with their signature of the Common Border treaty. Hopefully this will be the start of a more stable friendship between our two countries
+Excelente.
+Guatemala Accepts the Treaty
+The Guatemalan government has sent an envoy back to us with their signature of the Common Border treaty. Hopefully this will be the start of a more stable friendship between our two countries
+Excelente.
+Honduras Rejects the Treaty
+The Honduran government has informed us that they do not agree with our draft of the Common Border Treaty, and that they refuse to sign it. Many within our cabinet have expressed their concern over their refusal, as this might mean that they may attempt to seize land from our border region until a solid border treaty is signed.
+Malditos Hondureños...
+Guatemala Rejects the Treaty
+The Guatemalan government has informed us that they do not agree with our draft of the Common Border Treaty, and that they refuse to sign it. Many within our cabinet have expressed their concern over their refusal, as this might mean that they may attempt to seize land from our border region until a solid border treaty is signed.
+Malditos Guatemaltecos...
+The American Civil War
+As the fires of revolution burn in the United States, President Martínez is left stranded in a dangerous position. Now, without the watchful eye of the US, many people take to the streets to protest the now lonely dictator, and the internal factions that hid in the shadows are bound to come to the light and face Martínez's dictatorship anytime soon. We have to worry about national security as well, as our external enemies might start looking at El Salvador with malicious intent...
+Por Dios...
+Farabundo Martí Returns from Nicaragua
+Hero of the '32 Massacre Farabundo Martí has recently returned in response to the American Civil War and the chaos our country has entered as a result. People have begun to blame Martínez for this slip-up due to the lack of border control as a result of the ongoing conflict within the country itself. Regardless, his return has begun to rally more and more of the populace against us, and rumours within the military are beginning to spread of an eventual coup in order to restore order.
+The country bleeds.
+The Second Western Rebellion
+After a few days of negotiations, it seems that Martí has managed to convince the remaining native population in the west to rise up against the government. Today, thousands of peasants, mostly from native origins, have risen up against the government. Armed with machetes, the peasants led by Martí have managed to seize control of several small towns and their arsenals in the Sosonante Department. As the rebellion spreads to the nearby Departments, our country is now thrown into chaos, with shootouts between the police and the rebels being common throughout the country.
+Time for Another Bloodbath.
+Moving the Army
+With the Rebellion in full swing, President Martínez has rallied the army at San Salvador in order to consolidate his grip on the capital. However, Martínez still has to decide on whether to face the rebels head on, or try to secure the parts of the country that still haven't been taken over by the rebels. While facing the rebels head on might seem tempting, our forces are demoralised and disorganised, with the chain of command being shady at best, but if we try to secure the areas not controlled by the rebels, we risk allowing them to consolidate their grip on the occupied area and to be able to entrench themselves.
+Send in the army, this ends now!
+Time for a war of attrition.
+The Army Mutinies
+After sending our army to face the rebels head-on, we're met with catastrophic failure. Upon arrival to the occupied area, our force was met by consecutive guerrilla attacks throughout the region, and those skirmishes culminated in a resounding defeat at the small town of Armenia, where several squadrons of our army outright defected, while others became completely paralysed due to internal strife between officers. The army is now making its way back to San Salvador, where Osmín Aguirre y Salinas has already sent a message back requesting an immediate meeting with the president.
+Well then...
+The End of Martínez
+Under the command of general Osmín Aguirre y Salinas, the army has entered the city of San Salvador and seized the city, breaking into the Presidential House before the day was over, and throwing Martínez into jail. Salinas has proclaimed himself president, and with the support of the army he has boldly proclaimed that the rebels in the west would be exterminated. With their moral renewed, the army is preparing to take defensive actions against the rebel troops rallying to attack in the near future.
+It's the start of a new age!
+Socialists Secure the West!
+The Socialist forces led by Agustín Farabundo Martí have finally dealt with the remaining small garrisons trapped in the western corner of the country and consolidated his grip on the western part of the country. The rebels are now growing in strength with foreign support, and the fate of El Salvador remains uncertain.
+Our Fate lies in the balance.
+Arturo Araujo Supports the Revolution!
+Ex-President Arturo Araujo, who was deposed by the coup led by Martínez in 1932, and who is now the current leader of the Partido Laborista, has expressed his support for the rebels, and has urged every Salvadoran who wants to defend democracy in the country to join the rebels in order to fight the tyrants. His influence over the populace can't be underestimated, and several patrols had to be dispatched to the border towns in order to ensure that the people wouldn't outright join the rebellion. Our situation grows dire by the day...
+¡Maldito Sea!
+Brawling in the Streets
+By Martínez's command, our forces have been scattered throughout the western border and they are ready to face the enemy in a protracted war. However, our forces have been spread thin, and now partisan groups have begun staging attacks on San Salvador itself. With the rebels renewing their offensive in the West, we now have to decide on whether we reinforce the front line or spread our troops to deal with these partisan groups.
+The capital needs to stay secured, support the anti-partisan force!
+We can't let the front fall, support the main force!
+The Front Holds
+Despite the lack of reinforcements, our front line troops have managed to repel the attacks, and with the partisan forces crushed, a significant part of the rebel forces have been finally put down. Our anti-partisan forces, now formed with hardened soldiers, have rejoined the front line and have begun the final push towards the heart of the Rebellion. Without any strong resistance to oppose our army as it tramples upon the rebel scum, the victory of Martínez seems all but assured.
+Pro-Patria always holds on.
+Partisans Take over the Capital
+Having chosen to reinforce the front line, our anti-partisan forces became unable to keep up with the partisan groups continuously attacking vital supply areas and arsenals in the capital. Eventually their forces became strong enough to take over the city, and San Salvador was lost. With the fall of San Salvador, the front line has collapsed and the rebels have secured most of the country by now. The fall of Martínez regime is now all but assured.
+An end to a terrible era.
+The Confrontation
+After being beaten back by the rebels, we've managed to rally the army back, and our soldiers are ready to take the fight to them as long as Salinas leads the charge. However, many within the army are concerned about Salina's safety, and have asked the popular President to remain in San Salvador while the battle rages on around it. While keeping him in the capital is sure to make a dent on our army's morale, risking Salina's life might lead him to be injured or killed, which would be the end of our army. What shall we do?
+We cannot fight without our Leader.
+Salinas needs to stay safe for the country's sake.
+Salinas is victorious!
+With Salinas leading our troops from the front line, our army has smashed the improvised rebel army and delivered the killing blow to the rebellion with victories at Sansonante and Ahuachapán. While there are still some partisan groups scattered around the countryside, the victory of Salinas is now all but assured.
+For the New El Salvador!
+Salinas was Injured!
+During the battle of Sansonante, a stray bullet has struck General Salinas, forcing him to fall back in order to get medical attention. The morale of his troops fell soon after rumours of his death began spreading around, allowing the rebel forces to organise a successful counter-attack that has routed the Salvadoran army. With partisans securing San Salvador, the victory of the rebels is now all but assured.
+For the Revolution!
+Menendez's failure
+In Salinas's stead, Menendez was sent to lead the army to fight off the rebels at Sansonante. While the president remained in relative safety at the Presidential House, a very demoralised Salvadoran army faced an entrenched enemy force. Feeling betrayed by Salinas, who now seemed no different to the tyrannical Martínez, many soldiers deserted, and the rest were quickly routed by the now strengthened rebel force. There are reports of Salinas having left the country to protect himself and his family, and now the victory of the revolution seems all but assured.
+For the Revolution!
+The New El Salvador
+After dealing with the last pockets of resistance in San Salvador and securing the Presidential house, the internal political factions of the rebel movement finally organise a meeting at the Presidential House. The topic of the meeting focus around the country's political future. While the Democratic faction led by Araujo wants to restore the presidency and the democratic system, the Syndicalist faction led by Martí wants to sweep the old system away and create a new syndicalist state from scratch. As the night draws near, the people await a public statement to be made about the future of El Salvador.
+Syndicalism is here to stay.
+The Presidency has always been optimal for El Salvador and shall be restored.
+The New El Salvador
+After dealing with the last pockets of resistance in San Salvador and securing the Presidential house, the internal political factions of the rebel movement finally organise a meeting at the Presidential House. The topic of the meeting focus around the country's political future. While the Democratic faction led by Araujo wants to restore the presidency and the democratic system, the Syndicalist faction led by Martí wants to sweep the old system away and create a new syndicalist state from scratch. As the night draws near, the people await a public statement to be made about the future of El Salvador.
+Syndicalism is here to stay.
+The presidency has always been optimal for El Salvador and shall be restored.
+The [GetYear] Salvadoran Snap Elections
+After nearly ten years of dictatorial rule, the first elections are finally being held as promised by the Provisional President Araujo. As the votes are being counted, the people await anxiously for the results of what seems to be the stepping stone of a new age in El Salvador.
+The Partido Laborista secures its victory!
+The Partido Nacional Democratico makes a comeback!
+Martí's Syndicalists secure a democratic victory!
+Salvador Castaneda Castro's takeover!
+On a surprising turn of events, a commando group has infiltrated the Presidential House and imprisoned the president as key strikes were carried out on democratic strongholds throughout the nation. The leader of this group, Salvador Castaneda Castro, claims to be safeguarding the Salvadoran democracy from the Syndicalist extremists and has proclaimed himself provisional president of El Salvador until this situation is resolved.
+Some stability, at long last...
+Restoration of Democratic Liberties
+Today, the democratic republic has been officially re-established and the old constitution has been restored. During Martínez time, the dissolution of this entities allowed him to crack down on other parties, forcing their dissolution and basically establishing a one-party system. Now, with these rights secured for our people again, the old political establishment is being kicked back into motion, with several minor parties announcing their refoundation.
+A Day for the People.
+Rebirthing of the Partido Nacional Democrático
+Alfonso Quiñónez Molina has announced today the reformation of the Partido Nacional Democratico or PND. A liberal coalition party, Quiñónez aims to restore the liberal policies that were prevalent during the 'Dinastía Meléndez-Quiñónez'. While largely unpopular within the working class, Quiñónez's promises of wealth have proven to be very effective with the entrepreneurial middle class, as well as with the more moderates in the armed forces which see the Partido Laborista as nothing more than a syndicalist ruse to take over El Salvador.
+The Future looks Bright.
+Foreign Investment Request
+As our economy grows stronger than ever, it'd be a wise idea to ask our trade partners for technical support. If we use our immense coffee reserve and production output, we could trade this valuable crop with the Canadians in exchange for tools and their technical expertise in order to improve our nation. Hopefully, the Canadians will see the benefits of such trade agreement and benefit our development on the long run.
+Let's see what the Canadians think of our trade deal.
+El Salvador Offers us a Trade Deal in Exchange of Support
+A Salvadoran delegation has arrived at Ottawa today with a trade proposal. They promise to fulfil our coffee needs in exchange of tools and technical support for the development of their nation. El Salvador, being such a small nation in Central America, doesn't represent a threat to the might of the Empire and its allies, and aiding its development will only prove to be beneficial to our interests. What should be our response?
+Accept the Trade Deal.
+Refuse the Trade Deal.
+Canada Accepts our Trade Deal
+Our delegation has contacted us from Ottawa informing us that the Canadians have agreed to the terms of our trade deal. This is a great day for El Salvador and its people!
+We are grateful for their help.
+Canada Refuses our Trade Deal
+Our delegation has contacted us from Ottawa informing us that the Canadians have refused to the terms of our trade deal. Without being able to improve upon our offer, they will now come home empty handed and our development will be slowed down temporarily. Nevertheless, our country is strong and we will overcome this setback.
+¡Maldita sea!
+Foreign Investment Request
+As our economy grows stronger than ever, it'd be a wise idea to ask our trade partners for technical support. If we use our immense coffee reserve and production output, we could trade this valuable crop with the British in exchange for tools and their technical expertise in order to improve our nation. Hopefully, the British will see the benefits of such trade agreement and benefit our development on the long run.
+Let's see what the British think of our trade deal.
+El Salvador Offers us a Trade Deal in Exchange of Support
+A Salvadoran delegation has arrived at London today with a trade proposal. They promise to fulfil our coffee needs in exchange of tools and technical support for the development of their nation. El Salvador, despite being such a small nation in Central America, could prove to be a valuable ally of the Internationale, and aiding its development will only prove to be beneficial to our interests. What should be our response?
+Accept the Trade Deal.
+Refuse the Trade Deal.
+[FROM.GetNameDefCap] Accepts our Trade Deal
+Our delegation has contacted us from London informing us that the British have agreed to the terms of our trade deal. This is a great day for El Salvador and it's people!
+We are grateful for their help.
+[FROM.GetNameDefCap] Refuses our Trade Deal
+Our delegation has contacted us from London informing us that the British have refused to the terms of our trade deal. Without being able to improve upon our offer, they will now come home empty handed and our development will be slowed down temporarily. Nevertheless, our country is strong and we will overcome this setback.
+¡Maldita sea!
+Prudencia Ayala Dies
+Today, the writer, journalist and suffragette Prudencia Ayala has passed away peacefully in her sleep. Ayala was born to a native family and became known in El Salvador for predicting the victory of the Kaiser in the Weltkrieg and the United States neutrality throughout the war, being associated initially with esoteric practices. However, she used that fame to push for the recognition of female rights and the female vote in El Salvador, publishing several books and articles about it, and even trying to run for President in 1930. Her political career was short lived as the supreme court rejected her attempt to run for president, but the attempt has sparked the debate on the woman's role in the Salvadoran society, and her legacy still continues to shape the national feminist movement.
+Que en Paz Descanse.
+Feliciano Ama Proposes to Create a Native Council
+Ama has proposed to Farabundo Martí a rather peculiar project: To create a Native Council so the natives may have a larger say in Salvadoran politics. While in theory this council wouldn't have more power than a traditional Trade Union, Ama considers this is the first step towards uniting all of the people within El Salvador. The council would be led by the Pipil and Lenca ethnic native majorities, but would guarantee the participation and respect of the other native minority groups, namely the Xinca, the Mixe, the Maya Poqomam, the Alaguilac and the Maya Chorti peoples in the west and the Cacaopera and the Mangue peoples in the east. With the government's approval, all these groups can come together in the council to voice their concerns and to provide support for our government.
+Of course! They're welcome.
+Flooding Destroys the Towns Valle Dolores and Apulo!
+Due to the recent weather, the Ilopango Lake overflowed and began flooding the small towns of Valle Dolores and Apulo along its shores. While there are no reported casualties by the flooding, there are still pockets of our citizens trapped by the flood which have limited supplies and will need government help in order to be rescued. Since we lack any formal navy or coast guard in order to help the victims immediately, many members of our staff are presenting plans to help the victims as the civilian populace has begun making donations to help their fellow countryman.
+It's still our duty to rescue them.
+Air Force Supplies the Flood Victims Through an Airlift
+While the government prepared several wooden boats in order to rescue the victims of the flood, the air force has volunteered to help the rescue efforts. In a manner never seen before, supplies and letters were loaded onto both old WACO and new Curtiss-Wright biplanes, who then flew over and dropped their valuable cargo over the pockets of survivors around the affected areas. With their supply grace extended, we were able to hastily assemble a wooden fleet to rescue the victims, and now we have to focus on salvaging what we can from the flooded villages and relocating the villagers.
+It seems that the Air Force's motto isn't just for show.
+Menendez asks to be Reintegrated into the Army staff
+General Menendez has made a written an open letter for us from his prison. In it, he provides a detailed account of his actions during the Martínez dictatorship, and he claims that unfortunately he was unable to help our efforts to democratise the country, but he was more than willing to join us. He then recited the 1916 'Oracion a la Bandera Salvadoreña', written originally by David J. Guzman, and he has finished his letter offering his services to his country once more. Should we accept him back into our ranks?
+Let him in.
+We can't trust old members of the military.
+Smallpox Epidemic in Santa Ana
+As our yearly reports come in, we have received an alarming report by our medical institutions that a smallpox outbreak has happened again in El Salvador last year. While it is smaller than the one in 1935, the smallpox outbreak is still troubling the authorities, as many of those people can't access medical care.
+It is unfortunate turn of events.
+Martínez takes action against the smallpox outbreak
+President Martínez has ordered today to the authorities throughout the nation to cover all lamps in all public plazas. Following his strictly theosophical views, he claims that covering those lamps will protect the citizens of the nation from the disease, and those already affected will eventually be cured from the disease.
+That's not exactly helpful...
+Martínez Strengthens the Personal Weapons Ban
+With the recent uprising, Martínez has decided to strengthen the Police Laws, extending the ban on any sort of weapon, regardless of any reason to own them, and turning its ownership into a crime, punishable by months of community service. While our gun owners have publicly expressed their disapproval of the extension of this ban, they are forced to comply and now we have acquired several firearms that we will be able to put to good use restoring order to our nation.
+They may not like it, but it's a necessary move to ensure order.
+The Fiestas Agostinas
+Since the colonial era, El Salvador has had a really strong Christian movement which has adopted many of Christian traditions into its national culture. One of the main celebrations in El Salvador besides Easter and Christmas is known as the 'Fiestas patronales de San Salvador' (Patron Saint Festivities of San Salvador) or simply the 'Fiestas Agostinas'. During these week-long festivities, several religious ceremonies and fairs are held to commemorate the transfiguration of Jesus as told in the New Testament. On the last day, the celebrations are paired with a procession from San Salvador Cathedral to the Parade Grounds, and donations are gathered by different organisations in order to provide support for the people and the government.
+Let's Celebrate!
+The Fiestas Agostinas
+The Fiestas Agostinas have begun once more, and our country is now rejoicing once more in celebration for our religious beliefs.
+Let's Celebrate!
+San Miguel Carnival
+In the town of San Miguel, considered to be the most important city on the Eastern Side of El Salvador, there's a yearly celebration the 8th of May to commemorate the foundation of the city 406 years ago by Captain Luis de Moscoso known commonly as 'The Carnavalon' or the 'San Miguel Carnival'. While this celebration would seem uneventful on a national scale, the parades and celebrations around this date have grown exponentially, quickly becoming one of the El Salvador's main national carnivals, attracting many artists and performers with the intention of turning the Carnival into an enjoyable event for every visitor. Besides that, the Carnival attracts thousands of tourists and many merchants and entrepreneurs to the city, and that provides us with a small but appreciated income through our taxation system.
+Cheers!
+Postponing of the San Miguel Carnival
+While the San Miguel Carnival has grown exponentially since its creation, the truth is that the date where it is celebrated makes the growth of the celebration difficult as it clashes with the 'dry season' of the region, making tourism both outside and inside El Salvador more difficult to actually make it to the celebration. With this in mind, the municipal council of San Miguel has passed a proposal to allow the celebration to be postponed to the last weekend of November, and it's awaiting for presidential approval to be official. While this would bring us greater profit and allow more people to attend the Carnival, it would also be a small breach to our traditions, what should we do?
+Accept their proposal
+Refuse their proposal
+San Miguel Carnival
+The San Miguel Carnival has started once more, as per our yearly schedule of celebrations, and our people are now enjoying the carnival while the influx of tourists is now bringing us extra profits for us to utilise.
+Cheers!
 The '37 Revolution
 Just like in 1932, the fires of revolution have once again reached El Salvador. As the west rallies once again under Farabundo Martí, the reactionary forces in the government have the duty to stop them dead in his tracks, but only time will prove who will gain the upper hand and manage to take over El Salvador.
 The Vanguard Stands

@@ -236,7 +236,483 @@ Ever since the coronation of King Rama VII in 1925 most, if not all, of the poli
 The Kingdom's Many Other Problems
 While seemingly economically and industrially prosperous to outside eyes, [SIA.GetSIAshortname] is actually very reliant on investments made by Germany and must cherish the economic ties it shares with the nation. Industry is a very fragile and small section of the economy, which is mainly built around rice, sugar, and timber exports. Nationalism among ethnic minorities has been rising, which raises the spectre of separatist movements in the near future. Moreover: the bloated bureaucratic system, which has been present since the reign of Rama VI, has siphoned off much needed taxes and thus allowed for bandits to continually run wild in the fringes of [SIA.GetSIAshortname].
 §MPrajadhipok's Reforms§! ($social_liberal_coloured$ / $social_democrat_coloured$ / $social_conservative_coloured$)\n£white_dot During Black Monday, have a recovery progress of 5 or more.\n£white_dot You will get to choose which of the parties you want to be in power.\n£white_dot Alternatively: reduce the tensions enough during the Yellow Dossier affair, or have Phibun choose to repeal martial law.\n\n§MTo get any path below, start with:§!\n£white_dot During Black Monday, have a recovery progress of 4 or less\n£white_dot The Khana Ratsadon will carry out a coup.\n£white_dot During the \
+Black Monday hits [SIA.GetSIAshortname]!
+Due to heavy reliance on economic ties with Germany, Black Monday has quickly dragged [SIA.GetSIAshortname] into an economic abyss as demand for her main agricultural exports has fallen sharply and shipments have been left to wither in their warehouses. Clerks working for foreign companies are continually being laid off, while the people have begun to gather around the Grand Palace looking for hope. It is apparent that something must be done about our economic situation lest it worsen and send the economy spiralling further down.
+Khun Prah!
+Jasmine Rice Problems
+One of the largest exporters of rice within [SIA.GetSIAshortname], the farmers across the Chao Phraya have asked for government intervention to deal with the excessive supply of rice due to a general fall in demand and fewer export opportunities after Black Monday.
+Purchase most of the rice to help stabilise the price.
+Agree to buy up some excess rice.
+The free market shall resolve the issue!
+Bloated Bureaucracy
+The modern bureaucratic system was formed during the reign of Rama V and had been greatly expanded by Rama VI. However, it has proved to be too large to effectively serve the state. Firing more people, however, would mean an increase in the unemployment rate at exactly the time when we want it to drop.
+Lay off a few of our clerks.
+Lay off managers and ministers.
+Allow the status-quo for now.
+Military Expenditure
+[SIA.GetSIAshortname] currently spends up to 25% of her annual revenue on the preservation and maintenance of the military-industrial complex, as she is surrounded by both historical enemies and imperialistic westerners who desire her land. However perhaps slightly cutting our military expenditures wouldn't hurt us too much?
+Cut any and all research funding.
+Cut everything bar the development of new rifles.
+We shouldn't show any weaknesses!
+Emergency Tax
+Even though many sweeping reforms have been enacted, there is still not enough money to sufficiently balance this year's budget. An emergency tax should help remedy this situation, but it will create more suffering for the loyal subjects of the Crown.
+Increase the income tax rate!
+Double the inheritance tax!
+Lift the ban on gambling.
+The Khana Ratsadon's Provisional Cabinet
+Following the bloodless revolution we must rebuild the nation from the ground up. Luang Praditmanutham, head of the civilian faction of the provisional government and a prominent leftist, is now working on the creation of a formal constitution while others are beginning to educate the masses about the merits and workings of parliamentary democracy. Alongside all of this Phraya Phahonponpayuhasena has readied his troops, in case of an opportunistic invasion by foreign powers.
+This is a great leap forward for [SIA.GetSIAshortname]!
+The Khanagummakarn Ratsadon's Provisional Cabinet
+Following the ratification of the constitution the People's Committee, a group chosen by Prajadhipok himself, has begun the education of the masses in the ways of proper parliamentary democracy.\n\nHeaded by the [SIA.GetProperAdjective] Court, the Committee is also responsible for educational, health, and industrialisation reforms. The path ahead for [SIA.GetSIAshortname] will hardly be a stroll in the park but a bright future does await our great nation.
+This a great leap forward for the [SIA.GetProperAdjective] people!
+The \
+Today Luang Praditmanutham, Minister of State and a member of the People's Party, presented the draft of his \
+His Majesty agrees with Praditmanutham.
+His Majesty supports a watered down proposal.
+His Majesty demands the arrest of the syndicalist sympathiser!
+Prajadhipok's Reply
+King Prajadhipok's reply has arrived and is heavily critical of Luang Praditmanutham's draft, going so far as to accuse Praditmanutham of being a syndicalist! An emergency session of the chief members of the People's Party has led to the party deciding to...
+... back down for the moment.
+... file a lawsuit against the King.
+Domestic Tensions
+Thawan Ritthidet, a private citizen, has recently filed a lawsuit against the King; accusing him of intervention in political, state, and economic affairs. The fallout over Luang Praditmanutham's plan has further divided the cabinet and has pitted the Royalists and the Parliamentarians against each other.
+Reconciliation is in order, it seems.
+Arrest those Syndicalists!
+Plaek Phibunsongkhram's Dilemma
+A political crisis is currently ongoing and has nearly reached the boiling point! Tensions are high and we must take steps to remedy the situation. What shall we do?
+It's treason then! (Side with the Parliamentarians)
+HM's dignity must be upheld! (Side with the Royalists)
+Try to end this factional bickering.
+Dawn of the Siamese Civil War
+Despite the chief of the armed forces declaring his allegiance to the monarchy, a small mutiny in Sattahip and Morlumlerng by the navy has quickly grown out of control and has now engulfed the entire nation in chaos.
+Despite the chief of the armed forces declaring his allegiance to the new cabinet, a small mutiny in Lopburi and Nakhon Ratchasima by the army has quickly grown out of control and has now engulfed the entire nation in chaos.
+For the country! (Rebel side)
+For the king! (Government side)
+For the country! (Government side)
+For the king! (Rebel side)
+The Reclamation of Bangkok
+The Siamese Civil War has recently taken an unexpected turn for the better, as our side has managed to reclaim Bangkok. This is a shattering blow to the opposition and thus, while some ministers in the illegitimate government have fled abroad, most have complied with our demands and have promptly laid down their arms.
+The Royalists have reclaimed power!
+Syndicalism shall guide our nation!
+End of the [SIA.GetNonIdeologyAdjective] Civil War
+After subduing most of the separatists and rebels we have received word that the remaining rebels have fled to Yunnan. No matter, for we shall catch what remains of the rebel scum later. We must first mourn the losses sustained by our loyal men, to that end the royal cremation ground has been converted into a public pyre. Prajadhipok, who was largely unrelated to the rebellion, has been permitted to return to the Grand Palace.
+After the reclamation of our eastern and southern regions by government forces the remaining revolutionaries have decided to flee to Saigon, where we must contend with extradition procedures. It is more important to first mourn the losses sustained during the war by our loyal subjects. A countrywide public funeral has been held, with the remains of our loyal subjects carried through [GetSIAprefixTH]damnoen road to Sanam Luang where King Prajadhipok has given us permission to set up a public funeral pyre on the sacred royal cremation ground.
+After subduing most of the rebels we have received word that the remaining royalists have fled to Yunnan with the king. No matter, for we shall catch what remains of the loyalist scum later. We must first mourn the losses sustained by our loyal men, to that end the royal cremation ground has been converted into a public pyre.
+After the reclamation of our eastern and southern regions by government forces the remaining revolutionaries have decided to flee to Saigon, where we must contend with extradition procedures. It is more important to first mourn the losses sustained during the war by our loyal subjects. A countrywide public funeral has been held, with the remains of our loyal subjects carried through [GetSIAprefixTH]damnoen road to Sanam Luang where King Prajadhipok has given us permission to set up a public funeral pyre on the sacred royal cremation ground.
+Long live may our Democracy be!
+Long live the King!
+Long live the King!
+Chaiyo for the Republic!
+Plaek Phibunsongkhram's Coup D'état
+As time has passed and people have adjusted to the seizure of power, the situation in [SIA.GetSIAshortname] has finally begun to stabilise. It is finally time to...
+... repeal martial law.
+... take power for ourselves.
+[GetYear] General Election
+Following the purge of the conservatives from all chambers of the government and the dismantling of the power of nobility, the results of the election are pretty clear.
+Following the purge of the socialists from all chambers of the government, in addition to the banning of their organisations, the results of the election are pretty clear.
+The predictions made in the polls with regards to this election have been very close. However, it seems as though one side has managed to eke out a majority in parliament.
+The liberals have emerged victorious!
+The socialists have emerged victorious!
+The conservatives have emerged victorious!
+The Question of German-Owned Factories
+Prominent German businesses within the [SIA.GetName] are mostly linked to the shipping, logging and railway industries. A large loan on good terms from the government might easily convince them to kick-start their operations again, though we could simply seize their factories as well. Doing so, however, could mean economic suicide for the [SIA.GetName]. How should we approach the situation?
+Seize the means of production!.
+Offer monetary compensation.
+Let's look elsewhere...
+[SIA.GetSIAshortname] Seizes Our Factories!
+The new [SIA.GetProperAdjective] government has begun their 'Industrial Nationalisation' programme in order to help strengthen their economy. Our factories in the [SIA.GetName] have been wrongfully seized by the military junta of Premier Plaek Phibunsongkhram.
+The new [SIA.GetProperAdjective] government has begun their 'Industrial Nationalisation' programme in order to help strengthen their economy. Our factories in the [SIA.GetName] have been wrongfully seized by the military junta of Premier Plaek Phibunsongkhram. He has, however, offered us monetary compensation for our losses.
+Those bastards!
+At least they've given us compensation.
+The Question of American-Owned Factories
+The American car company, Ford, have their South-East Asian operations based here in Ayutthaya. Due to political and economic strife in the States it is unlikely that the United States would retaliate if we were to seize the factory. What shall we do?
+The Question of British-Owned Rubber Plantations
+With the British in South-East Asia forced to retreat to Australasia following the British Revolution, many private rubber plantations in Sirat Malai have been left deserted for some time by their former owners. While we could simply seize the plantations, doing so would upset the Australasians who are a major naval power in the Asia-Pacific region and, potentially, allies. What shall we do?
+The Question of Japanese-Owned Iron Mines
+The Japanese own a few iron mines in Yala and Nakhon Si Thammarat which are used to transfer key raw materials to their home islands. While we could potentially seize the mines doing so would alienate us and permanently damage [SIA.GetProperAdjective]-Japanese relations, leaving us without a powerful ally to help challenge the German hegemony in the region. What shall we do?
+Phibunsongkhram Criticised For Weak Foreign Policy
+Due to the National Industrialisation Scheme bringing about little to no economic change our opponents in the media and political arena alike have accused us of weak and ineffective leadership.
+Damn it!
+Burmese Agitators Captured
+Eleven Burmese agitators in Morlumlerng, one of the Mon majority cities near the Salween River Delta, were caught today spreading pamphlets which bore the slogan 'Liberation From The [SIA.GetProperAdjective] Yoke'. Perhaps we can take advantage of this event to help rally support for our regime and finish off the Burmese threat once and for all!
+Who said we were cowards?
+A chance to show them who's boss!
+We aren't ready for that right now...
+[SIA.GetNameDefCap] Has Declared War!
+Bad news! Apparently the [SIA.GetProperAdjective] have caught eleven \
+To arms, citizens!
+Treaty of Thawai
+The decadent Burmese in Yangon have been routed and our forces are securely entrenched in the smouldering remains of their capital. Now is the best time to demand concessions from the Burmese government, victory is ours. The question is: should we seek peace or continue fighting the war until we've rid ourselves of the Burmese forever?
+We'll demand Upper Shan and reunite the Thais.
+No peace with the Burmese, total conquest!
+Demands of the [SIA.GetProperAdjective]
+The [SIA.GetProperAdjective] dogs have completely overpowered us and we are humiliated. Now they've demanded we surrender the Upper Shan states. Although these are harsh terms, it might be wise to comply, lest our rivals in the region act upon our weakened situation.
+We have no other choice...
+They must be joking, Kaba Ma Kyei!
+The Burmese Government Refuses!
+The foolish Burmese have refused our generous offer.
+The war must continue, it seems...
+Treaty of Thawai
+The decadent [SIA.GetProperAdjective] in Bangkok have been routed and our forces are securely entrenched in the smouldering remains of Chiang Mai. Now is the best time to demand concessions from the [SIA.GetProperAdjective] government, victory is ours. The question is: should we seek peace or continue fighting the war until we've rid ourselves of the [SIA.GetProperAdjective]?
+We shall take back our rightful territory.
+No peace with the [SIA.GetProperAdjective], total conquest!
+Demands of the Burmese
+The Burmese dogs have completely overpowered us and we are humiliated. Now they've demanded we surrender the Lower Shan and Morlumlerng states. Although these are harsh terms it might be wise to comply, lest our rivals in the region act upon our weakened situation.
+We have no other choice...
+They must be joking, Rao Suu Mai Thoi!
+The [SIA.GetProperAdjective] Government Refuses!
+The foolish [SIA.GetProperAdjective] have refused our rightful claims.
+The war must continue, it seems...
+Implementing The Ratthaniyom Reforms
+The Ratthaniyom, or \
+Who cares? Implement the reforms.
+On the second thought, this is probably a bad idea.
+Changing Siam's Name?
+While our country has been known as Siam since the late Ayutthaya era, intelligence within the [SIA.GetProperAdjective] community have pointed out that, since our nation is mostly made up by Thais, it would make sense to change our name to Pratet Thai, or Thailand, in order to reflect that fact. However, the could antagonise the minorities in our nation. What shall we do?
+We shall be a nation of the Thai people!
+We shall remain as Siam!
+The Tai Merger and New National Anthem Act
+Following the passage of the law which has officially made us Thailand, the use of Tai Lao, Tai Dam, Tai Daeng, Tai Puan, Tai Yai, Tai Sayam, Tai Khuean, Tai Lue, Tai Yuan and others in the Tai Kadai cultural group are now simply known as Thais. Minorities will retain the Thai prefix as they are, as mandated by law, also Thais. The national anthem shall also be changed to reflect this new reality, with a competition set to occur in thirty days to help decide the new anthem.
+Pass it!
+Rather not.
+[GetYear] National Language and Compulsory Education Act
+To further our policy of Thaification, or the integration of the minorities into Thailand, the central Thai dialect (the Bangkokian dialect) has now been designated the primary language, with northern Thai and Laotian dialects banned. The new law shall make the teaching of the central Thai dialect compulsory and will negatively affect ethnic and religious schools, such as Chinese-run schools, Catholic Assumption Colleges and Pornor Muslim Schools in the south, unless they agree to comply with the new law. Of course, we could also be less forceful in our implementation of the law or cancel the passage of it entirely.
+Thaification is the way forward!
+Let us simply promote the use of the Bangkokian dialect.
+Cancel the passage of the law...
+Foreigner Workforce Exclusion Act
+Due to the recent influx of Chinese immigrants-who had escaped the carnage and destruction of the Chinese Civil War-into [SIA.GetName], we have seen an increase in the unemployment rate. To tackle this problem, the government has decided to declare select jobs as off-limits to unskilled immigrants and set them aside for our own people. This will, however, have negatively impact on our economy due to our reliance on Chinese labour.
+We must preserve the [SIA.GetProperAdjective] market!
+We need the foreign labour; cancel the act!
+Completion of the Ratthaniyom Reforms
+All of the major laws regarding Phibunsongkhram's Ratthaniyom reforms have now been successfully implemented, in one way or another. We now eagerly await the public reaction to the news reforms.
+The [SIA.GetProperAdjective] nation is Strong!
+The [SIA.GetProperAdjective] nation is Strong.
+At least the reforms have some sort of impact...
+Can it be called a reform if nothing has been done?
+Phibunsongkhram Assassinated!
+Premier Phibunsongkram has just been assassinated by a [SIA.GetProperAdjective]-Chinese gunmen at [GetDateText] during his arrival at the Ananda Samakhom Throne Hall. While riding in his motorcade, he was shot in the heart and had died instantly. What followed was a political vacuum in which both Phao Sriyanond, the Chief of the Secret Police, and Sarit Thanarat, Phibunsongkhram's military strongman, sought to take power and fulfil their own ambitions.\n\nPhao views the monarchy as an archaic symbol and wishes to formally declare a republic, while Sarit views cooperation with the former Chakri Dynasty as the best thing for the nation.
+Phao Sriyanond has emerged victorious!
+Sarit Thanarat has emerged victorious!
+Phibunsongkhram Survives Assassination Attempt!
+Premier Phibunsongkram was shot in the jaw while dressing for work- by one of his own servants, no less! The culprit was quickly subdued by the security team and Phibunsongkram was rushed to the [SIA.GetProperAdjective] Army Hospital. As he was in the hands of an extremely professional medical team, he was able to make a swift recovery, and is planning on giving a speech at the Ananta Samakhom Throne Hall today.
+He isn't called the Iron Field Marshal for nothing!
+Phibunsongkhram Assassinated!
+Premier Phibunsongkram was shot in the head while dressing for work- by one of his own servants, no less! He was pronounced dead at the scene. What followed was a political vacuum in which both Phao Sriyanond, the Chief of the Secret Police, and Sarit Thanarat, Phibunsongkhram's military strongman, sought to take power and fulfil their own ambitions.\n\nPhao views the monarchy as an archaic symbol and wishes to formally declare a republic, while Sarit views cooperation with the former Chakri Dynasty as the best thing for the nation.
+Siamese exiles in Saigon
+Following the disastrous result of the Siamese Civil War, a few thousand Siamese troops has reached our shores after fleeing from Sattahip by ships.\n\nWe're now left to wonder what to do with these experienced troops - welcoming them to our ranks may have cause some frictions with our Laotian and Cambodian brethren, but not doing so may affect our war support by displaying the factionalism within our revolutionary ranks.
+Welcome to the Club!
+We have no need for the Pseudo-Imperialists.
+The Death of Field Marshal Phibunsongkhram
+Premier Phibunsongkram passed away peacefully his home today after suffering a heart attack. According to his wife, La-iade Phibunsongkhram, his last words were simply: 'Love, death is truly bliss'. Due to the lack of a political successor, a political vacuum followed in which both Phao Sriyanond, the Chief of the Secret Police, and Sarit Thanarat, Phibunsongkhram's military strongman, sought to take power and fulfil their own ambitions.\n\nPhao himself views the monarchy as an archaic symbol and wishes to formally declare a republic, while Sarit views cooperation with the former Chakri Dynasty as the best thing for the nation.
+Premier Phibunsongkram passed away peacefully his home today after suffering a heart attack. According to his wife, La-iade Phibunsongkhram, his last words were simply: 'Love, death is truly bliss'. He passed away surrounded by friends and family.\n\nBorn as 'Plaek Khittasangkha' in 1897, he received the title 'Luang Phibunsongkhram' due to his extraordinary service during the [SIA.GetProperAdjective] intervention in Burma. A moderniser, he was committed to bringing the [SIA.GetProperAdjective] Army up to date throughout his long service. A large event has been held in his honour by all four branches of the [ROOT.GetSIAprefixEN] [SIA.GetProperAdjective] Armed Forces in Bangkok, with a street in the city renamed Phibunsongkhram Road.
+May he rest in peace...
+King Prajadhipok's New Orchestral Piece
+Earlier today, King Prajadhipok's 3rd composed song - \
+Such a Powerful Overture.
+The first female officers finish training
+Today, the first 28 female officers of the [ROOT.GetSIAprefixEN] [SIA.GetProperAdjective] Army finished their rushed training course. As part of its progressive nature all female cadets were forced to go through the same training curriculum as their male counterparts and are supposed to serve at the front line as men do. In order to mollify conservative outrage however, they will have to leave active duty when they marry.\n\nOne of the outstanding recruits is Second Lieutenant Jirawat Phibunsongkhram, the oldest daughter of Field Marshal Phibunsongkhram, who will serve in the Suranaree company, Suriyothai regiment in Lopburi which shall be expanded to Battalion size later on should the pilot project proved to be successful.
+Cheers for the ladies.
+Creation of the Ministry of Transportation
+Originally part of the Ministry of Interior - the Department of Highways, the Department of Railways, the Department of Air Transportation and the Port Authority will now form a new separate Ministry in an effort to facilitate the construction of new highways and railways connecting major cities throughout the country. While ambitious the Ministry itself lacks the manpower to fulfil the plan by itself. Some suggest that we hire [SIA_engineers_target.GetAdjective] engineers to help us until those we sent to study overseas return home.
+Originally part of the Ministry of Interior - the Department of Highways, the Department of Railways, the Department of Air Transportation and the Port Authority will now form a new separate Ministry in an effort to facilitate the construction of new highways and railways connecting major cities throughout the country. While ambitious the Ministry itself lacks the manpower to fulfil the plan by itself. Some suggest that we hire foreign engineers to help us until those we sent to study overseas return home.
+Let's hire those engineers again.
+We shall stand on our own two feet.
 §YWe will be able to embark on a comprehensive infrastructure overhaul programme once the manpower issue is solved.§!\n
+Chao Phraya Dam Completed
+First conceived in the reigns of King Chulalongkorn in 1902 by Dutch Hydraulic Engineer Jan Homan van der Heide, the bend of Bang Kra Bian River in Chainat province was chosen as the site to build a giant irrigation dam to control the water level in the Chao Phraya river downstream but the project was soon canceled due to the lack of funds. The second attempt in 1913, restated again due to the 3 consecutive years of drought was also abandoned soon after with the start of the Weltkrieg.\n\nIt wasn't until 1932 during the 150th anniversary of the establishment of Rattanakosin (Bangkok) that the Royal Irrigation Department finally secured the budget needed for such endeavour. While the project faces brief stoppage during the Black Mondays - this has now reached its conclusion and awaiting the opening ceremony by [SIA.GetLeader].
+Would this finally tamed Chao Phraya's disastrous floods?
+Opening of the Democracy Monument
+After 2 years of construction time, the new Democracy Monument is now unveiled to the public just in time to celebrate the 5th anniversary since our adoption of the first constitution. As per Silpa Bhirasi's word, the architect behind the new monument, \
+A monument befitting of Bangkok's new status.
+Unveiling of the new Constitutional Defence Monument
+\
+\
+\
+They shall forever be remembered.
+National Day
+Today, everyone in [SIA.GetNameDefCap] celebrates the day we managed to seize power from the corrupted few and adopt the first constitution, the first step towards our transformation into a modern nation. We shall forever uphold the six values dictated in the Khana Ratsadon's Manifesto: Independence, Public Safety, Economic Prosperity, Equality, Freedom and Education.
+Today, everyone in [SIA.GetNameDefCap] celebrates the day we were granted the first constitution by King Prajadhipok, the first step towards our transformation into a modern nation. We shall forever uphold three core beliefs which define our national identity: Nation, Religion and the Monarchy.
+And so we shall!
+The First Tractor in Ayutthaya
+Mother, Mother! Uncle Daeng has bought a new machine! It can plough, pull, tear, move and you can ride on it! He says it called a 'Rot-thai'!\n\nThe advent of the tractor or, as it is now nicknamed by farmers, the 'Steel Buffalo' in Ayutthaya has led to a revolution in local agriculture, with farm output increasing on a scale unfathomable a mere generation ago. Truly, the boons of industry are good for [SIA.GetSIAshortname].
+Khun Phra Chuay!
+Behind the Painting
+Behind the Painting is a [SIA.GetProperAdjective] romantic novel by Kulap Saipradit, written under the pen name 'Sri Burapha'. It tells the story of Nopphon, a [SIA.GetProperAdjective] student from common background studying in Japan, who meets and develops a relationship with the aristocratic lady Mom Rajawongse Kirati, the newly married wife of a family acquaintance. Set post-Siamese Revolution to highlight the contrast between both characters, Nopphon and Kirati develop romantic feelings which they are unable to acknowledge; leading to tensions as the characters face the conflict between their feelings and familial duties.
+A well-written novel.
+Opening of the Tarutao Correction Centre
+After 6 months of construction the first shipment of political prisoners has now arrived on the island. Let's hope that we won't see them ever again.
+Off to Tarutao they go!
+Tarutao Pirates
+Being cut off from the mainland and left to their own devices, both the inmates and penal officers in Tarutao Correction Centre have resorted to maritime piracy in the Strait of Malakka to keep themselves alive. After some successful raiding attempts the nearby Kaiserlichemarine garrison from Penang has managed to pacify the island offers to extradite these prisoners back to us, with the expectation that we will pay an indemnity for the damage our folks have done...
+Send our 'compliments' to the Germans.
+Who cares about them anyway?
+Sunset at Chao Phraya
+Another bestseller written by 'Thomayanti'. Khu-gaam is a tragic love story between a [SIA.GetProperAdjective] girl Angsumalin, a Pak Sahachip member under the Pseudonym of Pichit Na Sukothai, and a German captain by the name of Karl von Staffener, a lowly German aristocrat in the service of the Kaiserliche Marine, German East Asia Singapurflotte Kommand.\n\nThe story escalates during both the Thamrongnawasawat Rebellion and the Indochinese Rebellion, where their fateful meeting and departure happens, with the climax set during an unexpected coup d'état by Phin Choonhavan in 1942.
+So that's where the 'Adalheida' craze came from...
+Sor Setthabut's [SIA.GetProperAdjective]-English Dictionary
+Luang Mahasithivoharn's [SIA.GetProperAdjective]-English Dictionary
+Compiled by Sor Setthabut (formerly Luang Mahasithivoharn) who is one of the political inmates in Tarutao, with the manuscript snuggled out by his mother during a prison visit. Based on his time when he was a Royal Scholarship student in the UK, his version of 'Pathanukrom' is highly regard among educational professionals as the most comprehensive [SIA.GetProperAdjective]-English Dictionary ever written.
+Compiled by Sor Setthabut (formerly Luang Mahasithivoharn) who is one of the political inmates in Bangkhwang, with the manuscript snuggled out by his friends during a prison visit. Based on his time when he was a Royal Scholarship student in the UK, his version of 'Pathanukrom' is highly regard among educational professionals as the most comprehensive [SIA.GetProperAdjective]-English Dictionary ever written.
+Compiled by Sor Setthabut (formerly Luang Mahasithivoharn) who now works as one of the journalist at Bangkok Daily Mail, his new book got debuted today with big reception and got quickly sold out as soon as it hit the shelves. Based on his time when he was a Royal Scholarship student in the UK, his version of 'Pathanukrom' is highly regard among educational professionals as the most comprehensive [SIA.GetProperAdjective]-English Dictionary ever written.
+Compiled by Luang Mahasithivoharn (Sor Setthabut), one of the rising star in the new privy council, his new book got debuted today with big reception and got quickly sold out as soon as it landed on the shelves. Based on his time when he was a Royal Scholarship student in the UK, his version of 'Pathanukrom' is highly regard among educational professionals as the most comprehensive [SIA.GetProperAdjective]-English Dictionary ever written.
+Such a shame that he was a dissident.
+A magnificent piece of literature.
+[SIA.GetNameDefCap] Offers Conditional Surrender
+Today [SIA.GetSIAshortname] sent us a diplomatic envoy, asking to negotiate a conditional surrender. Their troops will immediately cease hostilities, they will cede key territories and pay us a hefty sum of war reparations - all they ask in return is that we guarantee their independence against future foreign aggression.
+A few days ago [SIA.GetSIAshortname] sent our faction a diplomatic envoy, asking to negotiate a conditional surrender. While [ROOT.FactionLeader.GetNameDef] has chosen to accept the [SIA.GetProperAdjective] peace offering which includes war reparations and the immediate cessation of hostilities between our forces and the [SIA.GetProperAdjective] themselves - it is now up to us whether we want to continue the war on our own or not.
+A few days ago [SIA.GetSIAshortname] sent our faction a diplomatic envoy, asking to negotiate a conditional surrender. While [ROOT.FactionLeader.GetNameDef] has chosen to ignore the [SIA.GetProperAdjective] peace offering which includes war reparations and the immediate cessation of hostilities between our forces and the [SIA.GetProperAdjective] themselves - it is now up to us whether we wish to continue such needless war or not.
+Yes, let's end this war.
+No, they shall be crushed.
+[FROM.GetNameDefCap] Refuses Peace
+[FROM.GetNameDefCap] has declined the peace offering that our diplomatic envoy presented to them.
+Oh no...
+[FROM.GetNameDefCap] Defies Our Leadership
+Against our expectations, [FROM.GetNameDef] has chosen to ignore our decision regarding the war against [SIA.GetSIAshortname] and sought to continue the war on their own.
+Against our expectations, [FROM.GetNameDef] has chosen to ignore our decision regarding the war against [SIA.GetSIAshortname] and sought to accept the peace offering themselves not wishing to continue such needless conflict.
+We shall support them instead.
+Very well, let us have peace.
+Then they are on their own.
+Conditional Surrender Goes into Effect
+Conditional Surrender Refused
+Our enemies have decided to take a liking to our peace offering. While we will be under the shadow of their jackboots for the next few years as a guarantee for us to follow up with the details negotiated in the treaty, we can only hope to avoid falling into military adventurism again in the future.
+Our peace gamble is now a failure, and we may as well fight to the last men.
+At least we're still independent...
+Disaster!
+[SIA.GetNameDefCap] has Surrendered
+Being on the verge of collapse, [SIA.GetNameDef] has instead opted for a separate peace deal with our enemies instead of organising a government in-exile.
+Being on the verge of collapse, [SIA.GetNameDef] has instead opted for a separate peace deal with our enemies instead of organising a government in-exile with us. This will have grave consequences to our war effort and exposing our flanks within the Indochinese theatre.
+Well, that was unexpected.
+Traitors!
+Peace with [FROM.GetNameDefCap]
+Our deal with [SIA.GetSIAshortname] has now gone into effect, with their first instalment of war reparations now inside our own coffers.
+Our deal with [SIA.GetSIAshortname] has now gone into effect.
+Excellent.
+[From.GetNameDefCap] Requests to Join Us
+As the revolutionary fires sweep through Asia, the need for solidarity and cooperation among the newly emancipated peoples becomes more and more evident. Aware of the dangers of remaining neutral in the quickly changing global scene, our comrades from [From.GetNameDef] have requested to join us. Accepting this request would extend our influence in Southeast Asia, a region vital for our strategic interests. However, voices of dissent have warned about entanglement in unnecessary foreign ventures.
+We welcome our [From.GetAdjectiveCap] comrades.
+This is unnecessary, let's reject their petition.
+[From.GetNameDefCap] Accepts!
+As we expected, [FROM.GetNameDef] has accepted our request to join the [From.GetFactionName], setting in stone the growing ties between our nations. Whatever the future holds, we shall weather the storm together.
+We stand united.
+[From.GetNameDefCap] Refuses
+In an unexpected and disappointing move [FROM.GetNameDef] has rejected our request to join them, and now we find ourselves further isolated from global affairs.
+Disappointing, but perhaps there are alternatives.
+Songkran Day
+In the wake of the turmoil caused by Black Monday, a serene atmosphere enveloped [SIA.GetSIAshortname] today as the Songkran festival commenced. Families congregated at local temples to present offerings to the monks. Elders engaged in the traditional ritual of water pouring over Buddha statues, symbolising purification and the eradication of misfortunes and transgressions. As the celebration carry on into the afternoon, the streets buzzed with excitement as people of all ages partook in jubilant water fights, a festive highlight that continued into the evening.\n\nAmidst these celebrations, King [SIA.GetLeader] addressed the nation via radio, exhorting unity in the face of adversity. He reassured the citizens that together they would surmount the current crisis, just as they had overcome any crisis that had befell them.
+The Khana Ratsadon Coup has happened. And they've elected Pridi.
+The Khana Ratsadon Coup has happened. And they've elected Sawaet.
+The Khana Ratsadon Coup has happened. And they've elected Pramoj.
+The Khana Ratsadon Coup has happened. And they've elected Pridi. Also the economy is recovering.
+The Khana Ratsadon Coup has happened. And they've elected Sawaet. Also the economy is recovering.
+The Khana Ratsadon Coup has happened. And they've elected Pramoj. Also the economy is recovering.
+The Khana Ratsadon Coup has happened. And they've elected Pridi. Also the economy is recovered.
+The Khana Ratsadon Coup has happened. And they've elected Sawaet. Also the economy is recovered.
+The Khana Ratsadon Coup has happened. And they've elected Pramoj. Also the economy is recovered.
+The King had given us a constitution. With election being planned to held this year.
+The King had given us a constitution. With election being planned to held this year. Also the economy begun to recovered for a bit.
+Pridi is in charge and we're recovering
+Sawaet is in charge and we're recovering.
+Pramoj is in charge and we're recovering.
+Pridi is in charge and we're recovering. Part 2
+Sawaet is in charge and we're recovering. Part 2
+Pramoj is in charge and we're recovering. Part 2
+Pridi is in charge and we've recovered.
+Sawaet is in charge and we've recovered.
+Pramoj is in charge and we're recovered.
+King Prajadhipok had urged calm as the world found itself at war, and he told us to enjoy Songkran, while we still can.
+King Prajadhipok had called for unity in the face of war on Songkran. Also we're in a faction.
+King Prajadhipok had called for unity in the face of war on Songkran.
+Peace is upon Siam, and King Prajadhipok couldn't be more happy.
+Peace is upon Siam, and King Prajadhipok couldn't be more happy. We're also in a faction.
+Peace is upon Siam, and King Prajadhipok couldn't be more happy. We're also neutral the whole way.
+King Prajadhipok had passed away and Ananda Mahidol was crowned the new king. As the war is waged around the neutral nation. The King had urged calm and called for celebration of Songkran while the world around them are blowing up.
+King Ananda Mahidol had called for unity in the face of war on Songkran.
+Peace is upon Siam, and King Ananda Mahidol couldn't be more happy.
+Peace is upon Siam, and King Ananda Mahidol couldn't be more happy. We're also in a faction.
+King Ananda Mahidol had passed away and Bhumibol was crowned the new king. As the war is waged around the neutral nation. The King had urged calm and called for celebration of Songkran while the world around them are blowing up.
+King Bhumibol had called for unity in the face of war on Songkran.
+Peace is upon Siam, and King Bhumibol couldn't be more happy.
+Peace is upon Siam, and King Bhumibol couldn't be more happy. We're also in a faction.
+This is siam_events.77.d.SocRep
+This is siam_events.77.d.SocRep.bmr
+This is siam_events.77.d.SocRep.bmo
+This is siam_events.77.d.royalist
+This is siam_events.77.d.royalist.bmr
+This is siam_events.77.d.royalist.bmo
+This is siam_events.77.d.boworadet
+This is siam_events.77.d.boworadet.bmr
+This is siam_events.77.d.boworadet.bmo
+This is siam_events.77.d.parliamentarian
+This is siam_events.77.d.parliamentarian.bmr
+This is siam_events.77.d.parliamentarian.bmo
+This is siam_events.77.d.phibun
+This is siam_events.77.d.phibun.bmr
+This is siam_events.77.d.phibun.bmo
+This is siam_events.77.d.phibungaveup
+This is siam_events.77.d.phibungaveup.bmr
+This is siam_events.77.d.phibungaveup.bmo
+This is siam_events.77.d.phao
+This is siam_events.77.d.phao.bmr
+This is siam_events.77.d.phao.bmo
+This is siam_events.77.d.sarit
+This is siam_events.77.d.sarit.bmr
+This is siam_events.77.d.sarit.bmo
+This is siam_events.77.d.boriphat
+This is siam_events.77.d.boriphat.bmr
+This is siam_events.77.d.boriphat.bmo
+We've endured far worse than this!
+We'll make this country great again!
+Slow and Steady wins the race!
+We're thriving here!
+So begins the democratic process!
+So begins the democratic process and economy had recovered!
+Woooo!
+Awesome!
+Great!
+Yes baby!
+Perfect!
+A Great occasion.
+Pridi is in charge and we've recovered.
+Sawaet is in charge and we've recovered.
+Pramoj is in charge and we're recovered.
+King Prajadhipok will see us through neutrality period.
+King Prajadhipok will see us through war period.
+King Prajadhipok had see us through the war. Now let's enjoy peace.
+King Ananda Mahidol will see us through neutrality period.
+King Ananda Mahidol will see us through war period.
+King Ananda Mahidol had see us through the war. Now let's enjoy peace.
+King Bhumibol will see us through neutrality period.
+King Bhumibol will see us through war period.
+King Bhumibol had see us through the war. Now let's enjoy peace.
+Trust Pridi.
+Keep trusting Pridi.
+In Pridi. We Trust.
+The Royalist will fixed the nations!
+The Royalist is fixing the economy!
+The Royalist had fixed the nations!
+Boworadet had saved the nation!
+Boworadet is fixing the economy!
+Boworadet had fixed the economy!
+We shall never bow to the tyrants!
+We are fixing the economy!
+We have fixed the economy!
+We salute the Iron Marshal
+The Iron Marshal is fixing the economy
+The Iron Marshal fixed the economy
+The Iron Marshal saved the nation's democracy.
+We're fixing the economy
+We've fixed the economy
+Phao hailed in a new Republic
+Phao is fixing the economy
+Phao had fixed the economy
+Sarit had restored order.
+Sarit is fixing the economy.
+Sarit had fixed the economy.
+Boriphat had usurped the throne.
+Boriphat is fixing the economy.
+Boriphat had fixed the economy.
+A War in Europe
+We must preserve our neutral status.
+Time to liberate Asia.
+We must preserve the old order.
+The time has come.
+If we stand incredibly still they will not see us.
+The time for us Asians had come.
+We must stop the Japanese.
+Times for the Workers to rise!
+War founds its way to Siam
+We're at war and we're neutral.
+We're at war and we're with Japan.
+We're at war and we're with Germany.
+We're at war and we're proclaiming the world revolution.
+So you've awaken the elephant in the room.
+Time to strike the Germans!
+We must defend our territory from the Japanese at all cost.
+Time to spread the Workers Revolution!
+Peace for the Nation
+We're finally at peace. And we're neutral.
+We're finally at peace. And we're with Japan.
+We're finally at peace and we're with Germany.
+We're finally at peace and the world revolution succeeded.
+Yay 1
+Yay 2
+Yay 3
+Yay 4
+Coup d'Etat in Siam
+News emerged from Bangkok today that a group of officers and intelligentsia calling themselves the $SIA_authoritarian_democrat_party_khana_ratsadon_long$ had successfully seized control of the government. Key government officials are under arrest and the King and his heir are said to be safe and well-looked after by the new government.\n\nA statement was issued by the new prime minister announcing that this was not a military coup but rather a peaceful transfer of power while a constitution is put in place.
+Concerning.
+Siam's New Constitution
+King Prajadhipok of Siam has officially published the first constitution of the centuries old kingdom in South East Asia. Drawing inspiration from the Meji era Japanese constitution and the government of Germany it empowers the king and the common people above the powerful royal family, who have exerted a great deal of control over His Majesty.\n\nIn a statement today Prime Minister Phraya Manopakorn Nitithada confirmed that he had been asked to form a caretaker government to administer the upcoming elections, while the old cabinet is slowly but surely removed from office.
+Getting with the times it seems.
+The Boworadet Rebellion
+The recent Siamese Revolution, while outwardly successful, has seen its popularity plummet. Taking advantage of the controversial \
+The Siamese Civil War begins...
+Reactionaries last gasps.
+A few arms shipment to the Royalist side perhaps?
+Pro-German Clique's last gasps?
+We will crush these rebels!
+For King and Country!
+The Thamrongnawasawat Rebellion
+The recent Siamese Revolution, while outwardly successful, has seen its popularity plummet. Taking advantage of the controversial \
+It could not have been helped.
+Fellow Socialist comrades have our support!
+Inform Singapur to tighten up their border with Siam.
+Socialist rebels have no place in Asia.
+The Syndicalists have shown their true face!
+We will bring down the Old Order once and for all!
+Phibunsongkhram's Coup d'état
+The recent Siamese Revolution, while outwardly successful, has seen its popularity plummet. Taking advantage of the controversial \
+And when will that be?
+The 37th Siamese-Burmese War
+The new National-Populist regime of Plaek Phibunsongkhram in Siam has issued a declaration of war to the Burmese government in Yangon today, citing Burmese agitation in Moulmein as an act of war.\n\nThe Siamese themselves are clearly the aggressor here, as they had previously occupied lands up to the Salween River, violating the Stresemann treaty dictating the border between them and Burma back in 1929. For the Burmese the situation looks pretty bleak, should Siam emerge victorious it is likely that this will mark the rise of a new Thai hegemony in South East Asia, one European powers will have to be cautious of.
+A war more for hate's sake than true advantage.
+Parliamentarian Victory in Siam
+Sporadic fighting died down on the streets of Bangkok today as the Parliamentarians finally took control of the city. King Rama VII was confirmed to have been evacuated to Singapur mere hours ago and the whereabouts of other major government figures is still unknown.\n\nBack in the city a triumphant Pridi Phanomyong (formerly Luang Praditmanutham) proclaimed himself the new premier after a unanimous vote from Parliament. In a speech the new premier declared the beginning of a \
+A new republic rises from the ashes.
+Our new comrades in Asia.
+Another Syndicalist regime hiding behind a Democratic façade.
+Maybe we could've supported the Royalist side more...
+A new dawn awaits us!
+Royalist Victory in Siam
+Sporadic fighting died down on the streets of Bangkok today as the Royalists finally took control of the city, forcing Luang Praditmanutham and other republicans to hastily board a ship bound for Saigon.\n\nWhile prominent members of the royal family who previously dominated government have officially refused to take office this time, they do continue to hold immense power. They are likely to increase their control over King Prajadhipok after the disaster of his failed democratic reform. Prajadhipok and future Siamese monarchs will almost certainly be \
+A step back towards absolute monarchy?
+Our rescued Siamese comrades will fight for another day!
+Another bulwark in Asia secured.
+Another German pawn in Asia, we'll bring them down in time.
+The Old Order Triumphs!
+Order Restored in Siam
+The forces under Luang Phibunsongkhram, nicknamed \
+The status quo has been restored.
+A Pro-German scheme stopped in its track.
+Our rescued Siamese comrades will fight for another day!
+A Syndicalist threat neutralised.
+We could have supported our Royalist allies more...
+Threats to our potential ally vanquished.
+Time to rebuild and mourn for our loses.
+Conspiracy within the Army?
+While our regime consolidation has gone without a hitch, it would be bad to keep those commanders who might pose a risk to our new regime. While targeting Phraya Songsuradet, the direct rival to Phibun's legitimacy would totally crushed the democratic proponent within the army, the same can be said for Phraya Srisitthisongkhram and his fellow royalists. By doing a systematic purge for one of these factions, that would hopefully be enough to silenced the other.
+Songsuradet must go...
+... and so does the royalist threats.
+The Death of Rama VII
+King Prajadhipok of the [SIA.GetName], also known as Rama VII—the 7th monarch of the House of Chakri—has died this morning due to a heart failure. The childless monarch will be succeeded by his nephew, Ananda Mahidol, who has taken the regnal name Rama VIII.
+King Prajadhipok of the [SIA.GetName], also known as Rama VII—the 7th monarch of the House of Chakri—has died this morning due to pneumonia during his time in exile. The childless monarch will be succeeded by his nephew Ananda Mahidol, who has taken on the regnal name Rama VIII.
+Prajadhipok Sakdidej na Ayutthaya, formerly King Prajadhipok of the [SIA.GetName], also known as Rama VII—the 7th monarch of the House of Chakri—has died this morning due to pneumonia during his time in exile. The childless monarch will be succeeded by his nephew Ananda Mahidol na Ayutthaya, who has taken on the regnal name Rama VIII as the pretender to the [SIA.GetProperAdjective] throne.
+May he rest in peace.
+Paribatra Sukhumbhand's Scheme
+The new king is still young and currently away from home, studying in Switzerland. Should we take the initiative and quickly seize the throne and title of King of [SIA.GetSIAshortname] for ourselves? After all, we can't count on him to lead us through the war.
+The throne is vacant for us.
+We should stay true to the rightful king.
+The Death of Rama VIII
+King Ananda Mahidol of the [SIA.GetName], also known as Rama VIII—the 8th monarch of the House of Chakri—was found in his bed, shot dead. Although at first thought to have been an accident his death was ruled a murder by medical examiners and three royal pages were later executed following irregular and rushed trials. The mysterious circumstances surrounding his death have been the subject of much controversy. The childless monarch will be succeeded by his brother Bhumibol Adulyadej, who has taken the regnal name Rama IX.
+King Ananda Mahidol of the [SIA.GetName], also known as Rama VIII-the 8th monarch of the House of Chakri—has died from severe blood loss resulting from a severed radial artery after he crashed his car. The childless king will be succeeded by his brother Bhumibol Adulyadej, who has taken the regnal name Rama IX as the new King of the [SIA.GetName].
+Ananda Mahidol na Ayutthaya, also known as the former Rama VIII-the 8th monarch of the House of Chakri—has died from severe blood loss resulting from a severed radial artery after he crashed his car. The childless prince will be succeeded by his brother Bhumibol Adulyadej, who has taken the seat as the new head for the Royal House of Mahidol.
+Ananda Mahidol na Ayutthaya, formerly Prince of Sukothai, also known as Rama VIII—who would have been the 8th monarch of the House of Chakri—has died from severe blood loss resulting from a severed radial artery after he crashed his car. The childless prince will be succeeded by his brother Bhumibol Adulyadej, who has taken the regnal name Rama IX as the pretender to the [SIA.GetProperAdjective] throne.
+May he rest in peace.
+The Death of Rama IX
+King Paribatra Sukhumbhand of the [SIA.GetName], also known as Rama IX—the 9th monarch of the House of Chakri—had suffered a heart attack last night while walking around his bedroom in the Grand Palace. A medical team had arrived far too late and had tried in vain to resurrect him. The position of monarch will be succeeded by his eldest son, Crown Prince Chumbhotbongs Paribatra, who has taken on the regnal name Rama X.
+The Death of Rama X
+King Chumbhotbongs Paribatra of the [SIA.GetName], also known as Rama X—the 10th monarch of the House of Chakri—died peacefully in the Suan Pakkard Palace due to old age. Since he'd died without leaving behind a male heir, the monarchy will be succeeded by his brother from Rama IX's second marriage, Crown Prince Sukhumabhinanda, who has taken on the regnal name Rama XI.
 Prajadhipok's Reforms
 The ongoing economic crisis offers the perfect opportunity to enact new reforms, as the old guard and nobility within our nation will be panicking and willing to support our initiatives... or will they?
 Formation of the Ratthasapha
