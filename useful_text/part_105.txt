@@ -1,0 +1,336 @@
+§LWhile our troops will be disorganised in the wake of our reorganisation, we will receive a powerful national spirit upon its conclusion.§!
+§LWhile dredging the Kyzyl Su Harbor will be costly in the short term, the expansion of the docks and infrastructure will grant us a powerful national spirit, and will reduce the time it takes for smuggling shipments to arrive by§! §C15 days.§!
+Reduces the time it takes for smuggling shipments to arrive by §C15 days.§!
+§LWe will move to expand our smuggling network across Europe and beyond, starting with our current operations in Baku.§!
+§CThis spirit will slowly upgrade over time!§!
+With the death of General-Major Zaytsev, we have the opportunity to cast off the yoke of Russian domination and once again test the boundaries of our special relationship with our northern neighbor!
+§CDue to changes in the geopolitical situation, Khiva has temporarily slipped out of our grasp! Once we reassert our dominion and protection over the Khanate, they will return under our control.§!
+§CIf our current political power is §Y125§! or higher when this focus completes, then this focus will add additional civilian factories!§!
+§CIf we control Ashkhabad when this focus completes, then this focus will add additional infrastructure and civilian factories!§!
+§CIf we have more than §Y100,000§! manpower in the field, the national spirit will be stronger.§!
+Combine and Improve §YThe New Guard Secure§! and §YThe Military and the State§! into §YPrimacy of the Military§!\nEffective change:\nDivision Organisation: §G+5.0%§!\nSurrender Limit: §G+10.00%§!\nPlanning Speed: §G+10.0%§!\nGrant Medal Cost: §G-25.0%§!\n
+Combine and Improve §YThe New Guard Secure§! and §YThe Military and the State§! into §YPrimacy of the Military§!\nEffective change:\nDivision Organisation: §G+5.0%§!\nSurrender Limit: §G+20.00%§!\nPlanning Speed: §G+20.0%§!\nGrant Medal Cost: §G-50.0%§!\n
+§CIf we have §YKoshmamed Khan§!, §YGulyam Ali§!, §YShamurad Bakhshi§!, or §YMaksum Khan§! hired as an advisor, the national spirit will be stronger.§!
+§YUmar Khan§!, which grants (Political Power Gain: §G+15%§!).
+§YMuetdin Bek§!, which grants (Reconnaissance: §G+15.0%§!, Entrenchment speed: §G+10.0%§!).
+§YMuetdin Bek§! (Chief of Army), which grants (Army Experience Gain: §G+0.20§! daily, Division Organisation: §G+4.0%§!).\n§YMuetdin Bek§! (High Command), which grants (Special forces Attack: §G+5.0%§!, Special Forces Cap: §G+3§!).
+§CIf we had previously snubbed the rebellious Turkmen Tribal leaders (§YGulyam Ali§!, §YShamurad Bakhshi§!, §YMaksum Khan§!), they will return to the fold.§!
+§YKyzylkum§!, §YKokand§!, §YPamir§!, and §YBadakhshan§! gain the modifier §YSweeping Local Autonomy§!, which grants\n      $MODIFIER_COMPLIANCE_GROWTH$: §G+50%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §R-25%§!\n      $MODIFIER_LOCAL_MANPOWER$: §R-50%§!\n\n
+§YSamarkand§!, §YBukhara§!, and §YTashkent§! gain the modifier §YSweeping Local Autonomy§!, which grants\n      $MODIFIER_COMPLIANCE_GROWTH$: §G+50%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §R-25%§!\n      $MODIFIER_LOCAL_MANPOWER$: §R-50%§!\n\n
+(§YKyzylkum§!, §YKokand§!, §YPamir§!, §YBadakhshan§!):\nReplace §YSweeping Local Autonomy§! With §YSignificant Local Autonomy§!\nEffective change:\n      $MODIFIER_COMPLIANCE_GROWTH$: §R-10%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+5%§!\n      $MODIFIER_LOCAL_MANPOWER$: §G+10%§!\n\n
+(§YSamarkand§!, §YBukhara§!, §YTashkent§!):\nReplace §YSweeping Local Autonomy§! With §YSignificant Local Autonomy§!\nEffective change:\n      $MODIFIER_COMPLIANCE_GROWTH$: §R-10%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+5%§!\n      $MODIFIER_LOCAL_MANPOWER$: §G+10%§!\n\n
+Our smuggling network in §gMitteleuropa§! will provide $RIGHT|+0$ additional £rifle_texticon  Infantry Equipment.
+Our smuggling network in §gMitteleuropa§! will provide $RIGHT|+0$ additional £unit_motorized_icon_small  Motorised Equipment.
+Our smuggling network in §gMitteleuropa§! will provide $RIGHT|+0$ additional £unit_artillery_icon_small  Artillery Equipment.
+Our smuggling network in §RAnatolia§! will provide $RIGHT|+0$ additional £rifle_texticon  Infantry Equipment.
+Our smuggling network in §RAnatolia§! will provide $RIGHT|+0$ additional £support_texticon  Support Equipment.
+£unit_motorized_icon_small  §H40§!
+£unit_motorized_icon_small  §R40§!
+It costs $KHI_40_trucks_blocked$ to take the decision
+£support_texticon  §H25§!
+£support_texticon  §R25§!
+It costs $KHI_25_support_blocked$ to take the decision
+£support_texticon  §H20§!
+£support_texticon  §R20§!
+It costs $KHI_20_support_blocked$ to take the decision
+§LBy securing influence in the Mediterranean port of Smyrna, we can smuggle goods from around the world, providing us with a randomly selected smuggling opportunity every 100 days. Powerful new routes can be unlocked by expanding our influence in the Mediterranean further.§!
+Unlocks new and more lucrative trade opportunities for our Mediterranean smuggling route!
+§RWe will need to use decisions and focuses to increase our Preparation before conflict breaks out!§!
+Unlocks new §YPolitical Advisor§! and §YMilitary Advisor§! options.
+§CIn another life, Junaid Khan may be tempted to take more drastic action against the cities which lie undefended before him. For the time being, Junaid Khan will remain conservative – likely saving him and his family from ruin.§!
+§Ythe agent sides with our cause!§!\nIf war breaks out with §YBukhara§!:
+If war breaks out with §YBukhara§!:
+§Ybetrayal!§!\nIf war breaks out with §YBukhara§!:
+§CJunaid Khan has returned victorious from the East!§!
+Connections Established with Anatolian Elites.
+Connections Established with the Mitteleuropean Network.
+We are studying German doctrines.
+We are studying Ottoman doctrines.
+We have made contact with CUP remnants in Anatolia.
+We have made contact with Russian fugitives in Ashkhabad.
+We have allowed the rebellious Turkmen leaders to return.
+We have ended the Khan's strict house arrest.
+Has national spirit §YTurkmen First, But All Turks Together!§!
+Dazogus Student Society
+Dazogus Student Society
+$KHI_totalist_party$
+$KHI_totalist_party_long$
+$KHI_totalist_party$
+$KHI_totalist_party_long$
+Young Khivans
+Young Khivans (Yosh Xivaliklar)
+$KHI_social_democrat_party$
+$KHI_social_democrat_party_long$
+$KHI_social_democrat_party$
+$KHI_social_democrat_party_long$
+$KHI_social_democrat_party$
+$KHI_social_democrat_party_long$
+Qungrat Dynasty
+Qungrat Dynasty (Royalist Remnants)
+$KHI_authoritarian_democrat_party$
+Qungrat Dynasty (Junaid's Clique)
+Aziz Khan's Clique
+Aziz Khan's Clique
+Yomut Dynasty
+Yomut Dynasty
+Khiva
+Khivan
+$KHI$
+Khorezm Republic
+Khorezmian
+the Khorezm Republic
+$KHI_totalist$
+$KHI_totalist_ADJ$
+$KHI_totalist_DEF$
+$KHI_totalist$
+$KHI_totalist_ADJ$
+$KHI_totalist_DEF$
+Khorezm Republic
+$KHI_totalist_ADJ$
+the Khorezm Republic
+$KHI_social_democrat$
+$KHI_totalist_ADJ$
+$KHI_social_democrat_DEF$
+$KHI_social_democrat$
+$KHI_totalist_ADJ$
+$KHI_social_democrat_DEF$
+$KHI_social_democrat$
+$KHI_totalist_ADJ$
+$KHI_social_democrat_DEF$
+Junaid Khan
+§YBorn:§! §L1857, in Badirkent, Dashoguz, Khanate of Khiva§!\n§YBackground:§! §LThe son of powerful Junaid Yomut Turkmen headman Hoji Bek, the ambitious Muhammad-Kurban quickly rose to a position of prominence in his village, cutting his teeth in the failed resistance against Russian conquest of 1873. Though he could not read or write, Muhammad gained widespread fame among the Turkmen tribes as an impartial and just leader after sentencing his own cousin to death as a village judge. Strangled by the oppression of the Uzbek Khan of Khiva, Isfandiyar, and his Russian overlords, the Turkmen chiefs rallied behind him, proclaiming him Junaid Khan and marching on the capital. Isfandiyar Khan named Junaid Khan his Serdar Karim, or noble commander, in hopes of placating the Turkmen host, but would skirmish with his commander until the summer of 1917, when Khiva erupted into violence between the socialist Young Khivans and the Khan's loyalists, giving Junaid Khan the opportunity to decisively conquer the city.\n\nJunaid Khan put the milk-drinker Isfandiyar to death, installing his plyable brother Sayid Abdullah as the new puppet Khan and taking charge of the Khanate as an absolute military dictator. In the years following, Junaid Khan has crushed the rebellious Turkmen tribes, defeated the Red Army, and carved away huge swathes of Transcaspian land from Russian hands. While he ostensibly remains a loyal servant of Moscow, he strains constantly against the gilded leash holding him within Russia's orbit, seeking an opportunity to free the Turkmen people of foreign domination once and for all. Junaid Khan may be ancient, but he has not slowed down in his advanced age, and his enemies know well to tremble when they hear the sound of his advancing horns.§!
+Balysh Ovezov
+§YBorn:§! §LDecember 29th, 1915, in Badirkent, Dashoguz, Khanate of Khiva§!
+Eshi Khan
+§YBorn:§! §Lin Bayramaly, Khanate of Khiva§!
+Oraz Geldy Kandzhik
+§YBorn:§! §Lin the Transcaspian Oblast, Russian Empire§!
+Aziz Khan Chapykov
+§YBorn:§! §Lin the Transcaspian Oblast, Russian Empire§!
+Sayid Abdullah Khan
+§YBorn:§! §L1871, in Khiva, Khanate of Khiva§!
+Sayid Abdullah Khan II
+§YBorn:§! §Lin Khiva, Khanate of Khiva§!
+Bobooxun Salimov
+§YBorn:§! §L1874, in Gurlen, Khanate of Khiva§!
+Haji Sami
+§YBorn:§! §Lin Kostantiniye, Vilayet of Kostantiniye, Ottoman Empire§!
+Usman Yusupov
+§YBorn:§! §LMarch 1st, 1901, in Kaftarkhan, Fergana Oblast, Russian Empire§!
+Polvonniyoz Hoji Yusupov
+§YBorn:§! §L1861, in Khiva, Khanate of Khiva§!
+Shadzha Batyrov
+§YBorn:§! §L1908, in Desht, Transcaspian Oblast, Russian Empire§!
+Berdy Kerbabayev
+§YBorn:§! §L1894, in Kowki-Zeren, Transcaspian Oblast, Russian Empire§!
+Bekjon Rahmon
+§YBorn:§! §L1887, in Khiva, Khanate of Khiva§!
+Kaikhaziz Atabayev
+§YBorn:§! §LOctober 1st, 1887, in Mäne, Transcaspian Oblast, Russian Empire§!
+Ivan Zaytsev
+§YBorn:§! §LSeptember 1st, 1879, in Karagaysky, Orenburg Governorate, Russian Empire§!
+Aleksey Dorrer
+§YBorn:§! §L1885, in Kharkov, Kharkov Governorate, Russian Empire§!
+Fyodor Funtikov
+§YBorn:§! §L1875, in Saratov Governorate, Russian Empire§!
+Maksum Khan
+§YBorn:§! §Lin the Transcaspian Oblast, Russian Empire§!
+Koshmamed Khan
+§YBorn:§! §Lin the Transcaspian Oblast, Russian Empire§!
+Yakshi Geldy
+§YBorn:§! §Lin the Transcaspian Oblast, Russian Empire§!
+Shamurad Bakhshi
+§YBorn:§! §Lin the Transcaspian Oblast, Russian Empire§!
+Gulyam Ali
+§YBorn:§! §Lin the Transcaspian Oblast, Russian Empire§!
+[KHI.GetName] Focus Tree
+One Khanate, Two Khans
+The Qungrat Khans have long been a useful tool for our regime, granting us the legitimacy that an unambiguous tribal stratocracy would lack. In recent days, however, Sayid Abdullah has clamored for increased responsibilities. While concessions to the puppet monarch potentially threatens Junaid Khan's iron grip over the Khanate, investing in the image of Sayid Abdullah could give Khiva a true symbol to march for.
+Listen to the Councilors
+Many of the more entrenched administrators and advisors in Khiva have precious little in common with their leader, forced to follow the orders of a coarse Turkmen warchief who has only a tenuous grasp on literacy and little love for the complexities of bureaucracy. Junaid Khan knows well that he cannot rule alone and has increasingly turned to the advice of his closest advisors, who have steered the grizzled autocrat into a period of relative stability.
+Gateway into Central Asia
+With our position directly across the Caspian from Baku, our small Khanate serves as the axis between East and West. In recent years the European powers have looked more and more toward the last remnants of Russian colonial adventurism with curiosity and interest, and with our clever manipulation of Russian overseers and periodic misplacement of cargo, we will reap the rewards.
+Attract Adventurers and Exiles
+There are a great number of men in this world who want little more than the chance for gold and glory, or merely a fresh start. After all, the Russian Civil War bred many who value the indiscretion of Junaid Khan's government above all else, and many have invaluable experience fighting on the steppes. Who cares if they rose arms against us decades ago? What matters now is that they are willing to raise arms with us today.
+Our Clandestine Supporters
+While officially our government has remained squarely within the Russian sphere, even following its disastrous defeat in the Weltkrieg, a few dark back offices in Berlin and Istanbul have long been devoted to fermenting a Central Asian revolt in the event of another Great European war. If we hope to cast off the vestiges of Russian domination, we will need the help of her enemies, both through intelligence and materiel.
+Expanding the Network
+Opponents of Junaid Khan have often described him as a bandit or a criminal. While both of these titles are not fitting for the Noble Commander, it is no lie that he has pragmatically forged connections with smugglers and unscrupulous gun runners, who offer to transport dubiously procured foreign weaponry across the Caspian Sea...for a price of course.
+Expand the Kyzyl Su Harbors
+Over 200 years ago the Russian commander Aleksandr Bekovich-Cherkassky landed at the mouth of the dried Uzboy River with an expedition aimed at crushing the Khanate of Khiva. While our wily ancestors bested this foolish invader, his landing point would become the entryway of Russian influence and investment for nearly a century. Today, the port of Kyzyl Su is a major conduit between Europe and Asia, expanding it will serve us well.
+Connecting Transcaspia
+The Transcaspian Railway is both a lifeline for our nation and a symbol of our years of subservience to Moscow, connecting the great cities of Central Asia with the Caspian Sea trade networks. With the city of Ashkhabad under Persian control, however, the rail lines have been split and our cargo has fallen under increasing layers of scrutiny. By building a small connection to bypass this obstacle, we could solidify the stability of our Central Asian trade network.
+Hire Foreign Engineers
+The unfortunate truth is that there are few in Khiva who are well versed in matters of modern engineering, and thus our attempts to build any sort of industry or arsenal has been hampered by technical inadequacy and repeated setbacks and failures. The simplest solution would be to hire a cadre of experienced engineers from Europe and Anatolia to oversee our operations.
+Rebuild the Manufactories
+Khiva has never been an industrial city, and, like most of Central Asia, has suffered from a lack of investment and a colonial economic structure which disincentivizes industrial growth. However, some light industry was constructed in Kyzyl Su and Khiva itself at the height of German investment into the east, and the shadow remnants of this period of development remain, waiting to be exploited.
+Reinforce Khiva
+Khiva stands as a city outside of this era, isolated and ancient, the relic of a glorious past and a history of decline and stagnation. While Junaid technically rules from the capital, he is vulnerable within its walls, surrounded by dissidents and spies and disconnected from his Turkmen supporters. Expanding the connections between Khiva and the base of Junaid's support - namely the Turkmen controlled hinterlands of the Khanate - may be necessary if the Noble Commander hopes to survive.
+Unite the Tribes
+Junaid Khan rose to power on the back of widespread Turkmen tribal revolt, which threatened to unravel the Khanate of Khiva entirely. In the aftermath of this revolution, Junaid Khan assimilated the royal government's bureaucracy, losing the favour of some of the more independent Turkmen leaders. We cannot afford to appear impotent or weak and risk losing control of the Turkmen tribes! The rebellious chiefs will be brought back into the fold, or otherwise eliminated.
+Support Aral Farmers
+The fertile lands abutting the Aral Sea serve as both the breadbasket of our Khanate and our main source of exports. While our attempts to break into European markets with our foodstuffs has been rebuffed by the Mitteleuropa system's reliance on Ukrainian grain, increasing instability in those markets and across the Atlantic could prove to be a major boon for us. Our farmers must be supported so that they can be prepared for this opportunity.
+Junaid's Horsemen
+The core of Junaid Khan's personal army is a band of fierce Turkmen horsemen, loyal and committed warriors who have followed their chief since the days he first marched on Khiva. These once great warriors have grown old, however, and their days of fighting are numbered. We should use them to train a new generation of loyal fighting men, marked by the victories of their forefathers.
+Procure Advanced Designs
+While the heart of our military might is our cavalry, it would be foolish to disregard the specialized weapons and equipment which were developed during the Great European War. There are smugglers and merchants in our employ who can procure some designs which, while obsolete for the armies of Germany or France, would revolutionize our fighters.
+The Ideas of Aziz Khan
+While no one would dare to say it out loud, Junaid Khan is not exactly the most ideologically coherent leader, whose focus rarely strays from his personal patronage network and the protection of the Turkmen clans. To fill this gap, his lieutenant Aziz Khan has promoted a blend of rigid militarism, Islamic traditionalism and Anti-Russian sentiment to better sell our regime to all of Junaid's subjects.
+Eliminate Dissenters
+When the weak Khan Isfandiyar kowtowed to the whims of the Young Khivans, he doomed the city to a period of violence and disorder which threatened to dismantle the state entirely. Luckily, Junaid Khan rose to the occasion, casting out the Jadid ringleaders and securing the stability of the Khanate. He must complete the job he started in the spring of 1918, by crushing the last remnants of this fifth-column before they can once again rend our lands asunder.
+Purge Nepotistic Appointments
+Over time, our military hierarchy has been infected by a growing cadre of unqualified officers, the sons and nephews of prominent warriors and leading patriarchs. These blue blooded scions may have the right names, but they lack the experience required to lead. By shuffling these appointments into meaningless positions while weeding out the most promising candidates from among their ranks for training, we could revolutionize the quality of our officers.
+Streamline the Command
+Currently, we field a parallel military, with a mostly Uzbek Royal Army made up of militia units serving alongside a mostly Turkmen cadre of tribal riders. These two elements of our military use separate commanders, rely on separate baggage chains, speak through different codes and languages, and rarely work well together. By fully subordinating the Royal Army under the structure of the Turkmen riders, we can rectify some of these issues.
+The Tip of the Spear
+Our successes on the battlefield have been achieved on the back of audacious action and bold manoeuvring, making up for these technological deficits by fighting ferociously against our enemies in ways they neither expected or prepared for. The modern war is dominated by heartless metal and demoralized soldiery fighting in foreign battlefields, completely unprepared for the driven desire for victory in our own forces.
+Junaid Khan's Last Gambit
+Some armies fight to survive, while others fight to conquer. Some armies fight out of fear for their commander, and some fight out of love for their leaders. For Junaid Khan, it matters little whether his soldiers ride with him out of fear, love, greed, or duty, so long as they ride. The steppes are ripe for conquest, and Junaid Khan will be the man to see them united, behind an army of misfits and murderers, loyal tribesmen and opportunistic mercenaries.
+The Great Unifier
+Junaid Khan has long reigned as the undisputed leader of the Turkmen of the Aral Sea, but his role as leader of Khiva's Uzbek subjects is tenuous at best. While he has little personal interest in catering to the Uzbeks, we cannot afford to leave half of our population feeling like they have no place in our government and no figure advocating for their wellbeing. We must position Junaid Khan as the ruler of all our citizens, and as the great unifier of Khiva.
+Marshal Forces Against the Eagle
+Junaid Khan is, above all, a warrior - and warriors do not bow to foreign aggressors. When in 1929 the armies of Moscow showed weakness, the armies of Khiva showed strength. History shall repeat itself, and Russian blood will be shed in the Amu Darya!
+Forced Meritocracy
+When a clan's chief falls in battle, should his favoured lieutenant succeed him, or should his son? Neither, says Junaid Khan - the man who raises his chief's banner and charges back into the fray is best suited to lead. When Khiva's armies were tested in 1917, they showed their mettle. When they once again mounted the saddle at the height of the Tashkent Crisis, a new generation of men proved themselves. Arise, sons of Khiva! Our armies will be forged in the crucible of violence!
+Reinforce the Lifeline
+Since the ancient days of cross-continental trade, Khiva has relied on their connections with foreign empires to maintain its relevance and power. While the last centuries have left us isolated, the expansion of our port on the Caspian and increasing interest from the German and Ottoman Empires into Russia's backyard has reinvigorated our connections to the west. We must not now allow our enemies to outflank our newfound supporters.
+Rally the Clans
+Junaid Khan's base of support has always been the Turkmen clans of the Aral Sea. With the present crisis, we must call on our supporters, both young and old, to ride out and join us in our national struggle. If we allow our Turkemen allies to remain uncommitted to this struggle against Russian annihilation, we would be left fighting for our lives with one hand tied behind our back.
+Unification by the Sword
+Great orators from across Central Asia have given beautiful speeches espousing the righteousness of pan-Turkic unification. The failures of these men were not due to their conviction, but rather their timid insistence on meaningless dialogs and endless compromise. Luckily, we were never held back by such foolish notions. Central Asia is ours, taken by the sword, and thus, we shall rule it by the sword!
+Lessons from the Rebellion
+Our armies have clearly proven themselves capable of greatness, having repulsed the Russians and conquered Central Asia. However, this violent and horrible crucible has revealed deep-seated weaknesses in our army. Now that we have secured control of our neighbors, we must now patrol our conquests and protect our borders, a job which will require a truly modern army.
+All Roads Lead to Khiva
+The ancient cities of Central Asia rose from sleepy hamlets to metropoli on the back of vast overland trade routes. In the modern day, the region is checkered with lines of transport, ranging from underdeveloped rods to well maintained train lines. By redirecting these routes towards Khiva, we can better secure its position of prominence in the region.
+§YKhorezm§! gains the modifier §YAll Roads Lead to Khiva§!, which grants\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+25%§!\n      $MODIFIER_LOCAL_BUILDING_SLOTS$: §G+5§!\n\n
+All Roads Lead to Khiva
+Rebuild Transcaspian Rail
+When the Russians secured domination of the whole of Central Asia, they utilized the universal ownership of the region they held to build the Transcaspian Railway, a rail line which has unified this region and brought immense prosperity to our realm. Now that we dominate the region, we can rebuild and expand this critical infrastructure, a symbol of our dominion over the steppes.
+A New Silk Road
+The situation in the east and west is tragic, as fire and war engulf these regions. However, this apocalyptic conflagration cannot last forever, and eventually these two heartlands of civilization will rise from the ashes, hungry for trade. We will once again serve as the intermediary between east and west, forging a network of modern trade routes and railways to serve as a new Silk Road.
+Purge Royal Bureaucracy
+For years, we have been reliant on the will of the entrenched royal bureaucracy, a disloyal and ponderous body of sycophantic snakes. Now, our rivals have been wholly crushed, and we cannot afford to be held hostage by the whims of the bureaucrats. Flush out the rats and behead the serpent, and let the remainder cower in our presence. There will be no place in our new Khanate for the bloat and stagnation of the old Khans' failures.
+Pacify the Territories
+We have always ruled over the outlying territories of our realm through a mix of coercion and backroom dealing. Of course, the sort of gentle concessions which are instructmental in maintaining the peace and loyalty of our traditional subjects are not viable in handling the new regions under our rule. We will need to break the back of any resistance through the brutal but simple force of arms.
+The Coronation
+It has been decades since the traitorous Isfandiyar Khan attempted to sell our realm to the Russian dogs, stopped only by the bravery of Junaid. Seeing Isfandiyar for a treasonous snake, Junaid Khan replaced the hated ruler with a more pliable Qungrat Khan, the weak and impotent Sayid Abdullah. Our puppet Khan has long since outlived his limited usefulness, however, and the people are clamoring for a new dynasty, one led by a true warrior Khan.
+Form a Council of Wise Men
+Junaid Khan is intimately familiar with the councils of elders which largely form the basis of tribal administration across Central Asia. After all, Junaid first found prominence as a Judge and Water Distributor among the Yomuds. We will model the administration of our Khanate to emulate that of the tribes, where elders of prominent families are able to impart their wisdom and take an active role in the governance of our realm.
+Listen Only to the Generals
+It was the military prowess of Juniad Khan and his subordinates which secured us our independence, and it was the ambition and brilliance of our military manoeuvres which has delivered us all of Central Asia. Why should these brave men defer to the opinions of men who have never taken up arms? We shall instead form a council of Junaid's finest and most loyal generals, to better rule our lands.
+Rule from the Saddle
+Most men who climb from the post of Village Water Distributor to that of Khan of all Turks decide to hang up their saddle. Of course, Junaid Khan is not like most men: his crown is not a bejeweled diadem, but rather the Papakh of a soldier. Junaid will not make the same mistake as the late Isfandiyar, who sat in his palace as rebellion brewed against his rule. He shall rule from the saddle, and he shall die in the saddle!
+Preparations for War
+The fighting that broke out in Central Asia during the Russian Civil War and the Tashkent Crisis proved one thing definitively: when faced by a hail of machine gun fire and artillery bombardment, even the most zealous warriors do not last long. It is no surprise then, that the attention of all the Central Asian powers is towards the modernisation and centralisation of their armies before conflict once again erupts in the region, putting each of the roughshod Basmachi armies to the test.\n\nOur Current Preparation Level is £GFX_supply_texticon [?KHI_prep|H0]§Y%§!\n\nIf our Preparation is below §Y50%§! by the time that war breaks out, the quality of our soldiers will suffer from our neglect.\n
+Invade Bukhara
+Distribute Arms to the Tribes
+Sell Essential Supplies
+Consolidate the Heartland
+Build Up the Bukharan Borderlands
+Supply Emergency Caches
+Conduct Fresh Military Exercises
+Implement Young Officer Ideas
+Support our Engineering Corps
+Expand the Reach of the Bureaucracy
+Integrate Wayward Turkmen Chiefs
+Arm the Treasonous Turkmen Tribes
+Strengthen the Cult of Personality
+The Caspian Lifeline
+We currently receive the following resources every time shipments from §RAnatolia§! cross the Caspian Sea:\n£rifle_texticon  Infantry Equipment:    §Y[?KHI_tursmuggling_infantry_equipment]§!\n£support_texticon  Support Equipment:     §Y[?KHI_tursmuggling_support_equipment]§!\n\nWe currently receive the following resources every time shipments from §gMitteleuropa§! are smuggled across the Caspian:\n£rifle_texticon  Infantry Equipment:    §Y[?KHI_mitsmuggling_infantry_equipment]§!\n    £unit_artillery_icon_small   Artillery Equipment:    §Y[?KHI_mitsmuggling_artillery_equipment]§!\n    £unit_motorized_icon_small   Motorised Equipment: §Y[?KHI_mitsmuggling_motorized_equipment]§!
+Contraband on Cargo Ships
+Hidden Holds on Fishing Boats
+Expand Baku Operations
+Open the Black Sea Route
+Develop Contacts in Anatolia
+Bosphorus Black Market Connections
+Open the Mediterranean Route
+Forge Mitteleuropa Connections
+Inroads at Skoda
+Handshake with Opel
+Expand Odessa Operations
+Find Supporters in the Suez
+Look out to the Atlantic
+Arms from Across the Aegean
+Bits and Pieces from Benghazi
+Contraband from the Konspiracija
+Sicilian Automobile Shipment
+Bankrupt Barnstormer Bilked
+Intercepted Anti-Colonial Committee Aid
+American Automobile Shipment
+Siphoned Homecoming Supplies
+Contributions of the Faithful
+'Lost' Shipment from Mittelafrika
+Donation from the Princely States
+Examine German Electronics
+A Meeting with Siegmund Loewe
+Purchase Artillery Schematics
+Study Manoeuvre Doctrines
+Study Great War Doctrines
+Invite Foreign Teachers to the Khiva Military School
+Adopt Limited Motorization
+Emulate Ottoman Camel Corps
+Contact Former Members of the Ottoman Special Organisation
+Reach out to Russian Fugitives
+Network with Radical Sunni Movements
+Since the end of the civil war, Junaid Khan has clawed at every chance to make his fiefdom more independent from Moscow.\n\nIn 1929, his moment arrived - the chaos of Boldyrev's Coup and its ripple effects in Central Asia allowed him to seize de-facto control over southern Transcaspia.\n\nHe has long awaited yet another moment to strike against his neighbours, to expand his influence and wealth - and with tensions in the region boiling, that moment may just come.
+GFX_KHI_intro
+The Communists vs the Khan
+Squeezing Out of Moscow's Orbit
+Waiting to Seize the Occasion
+When the Tashkent Soviet was proclaimed, the effects of the Russian Civil War spread to the Khanate of Khiva. The Noble Commander of Khan Asfandiyar Khan, Muhammed-Kurban, overthrew the government and executed the ruling Khan. Taking the title Junaid Khan, he installed the late Khan's brother as a meek puppet ruler, while controlling the city from a position behind the throne. Now the commander of the Khivan Khanate, he led an army against neighboring Bolshevik villages, securing the borders of the old Khivan protectorate before pledging his Basmachi soldiers in support of the White Turkestan Army's rapid advance southwards towards Ashgabat.\n\nSoon after, the civil war had ended, and with the reaffirmation of the previous treaties with Moscow, the Khanate of Khiva remained a Russian protectorate. But though his control over Khiva was absolute, Junaid Khan chafed under the thumb of the Commander in Tashkent. Still, he was able to leverage Khiva's position to maintain a certain degree of independence.
+Junaid Khan paced like a cornered fox, uncomfortable with Khiva's weak position in the slow sedimentation of post-revolution Central Asia. Best suited to making the bold and calculated risks of the battlefield, Junaid had no head for taxation and trade squabbles, leaving much of the day-to-day administration to the remnants of the late Isfandiyar's administration. However, Junaid would soon prove to be a tough and unpredictable negotiator on the national stage, as Russian agents were soon to learn. Junaid was able to drag out negotiations between Khiva and her overlord, squeezing, cajoling, threatening, and bribing his way into a number of concessions for the rump Khanate which allowed it to retain some economic freedom, while guaranteeing the continued existence of his army of hardened horsemen - all supposedly necessary to defend the region against Bolshevik banditry.\n\nSensing opportunity amidst the chaos of 1929, Junaid Khan assembled a host of riders and rode against the rudderless and crumbling Transcaspian administration. With the effects of the New Year's Coup and the disintegration of command from Tashkent profoundly demoralizing his opponents and drawing a significant number of soldiers north towards the action, Junaid managed to outmanoeuvre his opponents in a number of quick victories, carving out a kingdom on the way south towards Ashgabat. With an army of bandit riders descending upon them, the Russian garrison at Ashgabat turned to unlikely allies, requesting that the Persians intervene to secure the rail junction until the situation in Transcaspia was stabilized and the Russian army arrived in force.\n\nThe arrival of the Persians ended any Khivan pretensions of a glorious conquest of Ashgabat, and instead Junaid turned his attention north. Riding to secure more Aral Sea coastline, he quickly came to blows with the militias of the Alash Autonomy. While his forces were able to escape from the expedition in one piece, the tenuousness of the situation caught up to Junaid, forcing him to lick his wounds and consolidate control over southern Transcaspia.
+The aftermath of the Tashkent Crisis stretched the administrative apparatus of the Khanate of Khiva to its limits. While Junaid Khan proved his prowess on the battlefield, the integration of former Transcaspian land proved to be a sloppy and haphazard affair, and revealed both personal and institutional deficiencies under his rule. In the following years, the Noble Commander's focused on forging a distinct Turkmen identity among the tribesmen of Khiva, a task which has been complicated by intertribal feuds and push back from the Uzbek merchants and laborers who make up the backbone of the Khanate's titular capital.\n\nWhile the economy and governance of the Khanate stagnated as the spoils and loot of the Tashkent Crisis ran ever lower, the army of Khiva did not suffer from these years of peace. In fact, after significant investment into their training and armament, the personal horsemen of Junaid Khan are perhaps the most dangerous force in Central Asia, an honor which they do not loathe to prove on the battlefield. With such an asset, Junaid eyes his neighbors hungrily, testing their defences with small raids and waiting for a sign of weakness to be exploited.
+The Central Asian nations will come with §Cadditional paths and content§! in future updates.\n£white_dot  Currently, Khiva can only remain $paternal_autocrat_coloured$.
+Bandit Kingdom
+Those who would disparage the Junaid Khan point to his illiteracy and ignoble origins, claiming that he is little more than an up-jumped bandit leading a kingdom of brigands. It does not help that the army he leads is a mismatched collection of peasant militias, palace guardsmen, and tribal horsemen, each with divided political loyalties and negligible discipline. Junaid Khan has proved the effectiveness of this rag-tag army on the field, though perhaps this is more a reflection of his own personal ability. There is only one thing which is certain in Khiva, however, and that is the primacy of the military, and the iron will of the true Khan they follow.
+The Many Sons of Oghuz
+The different Turkmen tribes, from the Khorezm Oasis to the Caspian and Aral Seas, have never before considered themselves a singular people. Even now, the unity of the Khivan Turkmen is one of united purpose, not of common culture, language, or geographical location. Junaid Khan became a hero among them when he unified the many disparate tribes and led his brave warriors to victory against the Bolsheviks. That grand victory was enough to begin building a unified Turkmen identity, but most of our Turkmen citizens still identify primarily with their tribal groups, despite Junaid's attempts to cultivate a united Turkmen identity.
+The Many Sons of Oghuz
+The different Turkmen tribes, from the Khorezm Oasis to the Caspian and Aral Seas, have never before considered themselves a singular people. Even now, the unity of the Khivan Turkmen is one of united purpose and devotion to the great noble commander, rather than that of a common culture, language, or geographical location. Junaid Khan became a hero among them when he unified the many disparate tribes and led his brave warriors to victory against the Bolsheviks. That grand victory has been used as the foundation to create a unified Turkmen identity, and while many of our Turkmen subjects still identify primarily with their tribal groups, Junaid Khan is largely seen as the father of all Turkmen, serving as a unifying figure for this newly coalescing ethnic identity.
+Abandoned Infrastructure
+Urban and Uzbek dominated areas has fallen into disrepair, a consequence of Junaid Khan's heavy-handed government policies favouring his rural and Turkmen supporters. Much of Khiva's urban infrastructure has been left neglected by Junaid Khan's Turkmen tribal favouritism, but we have begun to rebuild and refurbish these regions, bringing our nation to into the twentieth century.
+Rebuilding Infrastructure
+Urban and Uzbek dominated areas has fallen into disrepair, a consequence of Junaid Khan's heavy-handed government policies favouring his rural and Turkmen supporters. Much of Khiva's urban infrastructure has been left neglected by Junaid Khan's Turkmen tribal favouritism, but we have begun to rebuild and refurbish these regions, bringing our nation to into the twentieth century.
+Aral Breadbasket
+Khiva, surrounded by fertile lands and situated near the bountiful Aral Sea, has long been a prosperous bastion in Central Asia. Though the wars and banditry of the last decades left the fertile fields scorched and looted, it was not long before our resilient subjects returned them to their former glory. We produce a startling amount of food, feeding our citizens and filling our coffers from exporting it, though this growing dependence on trade leaves us increasingly vulnerable to international instability.
+Farming Communities Supported
+Refurbished Infrastructure
+Junaid's Horsemen
+Homeland Secured
+White Terror Renewed
+Influence of the Old Guard
+Officers Purged
+Meritocratic Officer Corps
+Dredging the Harbor
+Foreign Expertise
+Volunteers and Vagabonds
+Benefits of Transcaspian Trade
+The World's Saloon
+Pivot against Russia
+Fighting for Gold and Glory
+Purging the Royalists
+Rise of a New Guard
+The New Guard Secure
+Demanding Fealty and Tribute
+The Tributary State
+The Military and the State
+Primacy of the Military
+Modern Tribal Governance
+Turkmen First, But All Turks Together!
+Military Research Focus
+Bukharan Double Agent
+The Serdar Karim
+$KHI_serdar_karim$
+True Khan of Khiva
+Man of Action
+Studying the Past
+Studying Guile
+Studying Terrain
+Student of History
+$KHI_student_of_history_g$
+Student Activist
+Russian Attache
+Ottoman Exile
+The Khan's Shadow
+The Heir Apparent
+Puppet Khan

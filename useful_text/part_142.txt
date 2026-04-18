@@ -1,0 +1,557 @@
+Dominion of India Focus Tree
+INC (Maximists)
+Indian National Congress (Maximists)
+INC (Left)
+Indian National Congress (Left)
+INC (Agrarians)
+Indian National Congress (Agrarians)
+INC (Centre)
+Indian National Congress (Centre)
+AIHRP
+All-India Home Rule Party
+Liberals
+National Liberal Federation of India
+Unionists
+Unionist Party
+Council of Princes
+Council of Princes
+Indian Army
+Indian Army
+Hindu Mahasabha
+Hindu Mahasabha
+AISCF
+All-India Scheduled Castes Federation
+Bombay Pact
+(£KR_game_rule_flag_PRF §YPrincely Federation§!) Opinion of £KR_game_rule_flag_RAJ §YDominion of India§! §G+200§!\n(£KR_game_rule_flag_RAJ §YDominion of India§!) Opinion of £KR_game_rule_flag_PRF §YPrincely Federation§! §G+200§!
+§RThis will lead to war with the Dominion.§!
+§RThis will lead to our annexation.§!
+(§Y[RAJ.GetNameWithFlag]§!) $volunteer_limit_plus_one_tt$
+§MThis will remove 100 days from the Black Monday national spirit!§!
+§9Philip Walhouse Chetwode will step down as chief of the Indian Army.§!
+§9Philip Walhouse Chetwode will remain as chief of the Indian Army until reunification has been achieved.§!
+§9We will add the §SAll-India Scheduled Castes Federation§! to a coalition.§!
+The §m$RAJ_market_liberal_party_long$§! is led by §Y$RAJ_mukund_ramrao_jayakar$§!.
+The §m$RAJ_market_liberal_party_long$§! is led by §Y$RAJ_tej_bahadur_sapru$§!.
+§9After 6 months, whoever has the most party popularity will be elected.§!
+§9The §mNational Liberal Federation of India§! are projected to win the elections!§!
+§9The §lAll-India Home Rule Party§! are projected to win the elections!§!
+§9The §cUnionist Party§! are projected to win the elections!§!
+Chetwode has retired
+The §mNational Liberal Federation of India§! are in government
+The §lAll-India Home Rule Party§! are in government
+The §cUnionist Party§! are in government
+The Bombay Pact
+In the aftermath of the Indian revolution the southern princes, fearing the complete collapse of the old order to the tidal wave of socialism, chose to declare independence from British India as a united federation. [HND.GetNameDefCap] would however refuse to recognise this declaration, and would continue their attempts to take the south regardless. This overextension would allow British Indian troops to reorganise in the west, assuaging fears of their collapse, and eventually bring the war to a stalemate and subsequent uneasy ceasefire. Despite [PRF.GetNameDef]'s declaration of independence, both sides would quickly realise that they would have to work together to in the event of the war's resumption.\n\nWhile informal cooperation continued in the interim years, the increased militancy of the socialists would see the signing of a formal defensive alliance in 1933 known as the Bombay Pact. As part of this alliance, both parties agreed to greatly expand the ongoing military cooperation between them, and laid out promises to come to each other's aid in the event of any renewed socialist incursions.\n\nImportantly however, no official recognition of the Federation's independence or plans as to how India shall be reorganised if [HND.GetNameDef] were to be defeated was agreed upon.\n§RIt is therefore widely believed that upon the defeat of the socialists in Calcutta, the Bombay Pact will simply devolve into further conflict between its two signatories§!.
+Widespread Rural Poverty
+Even before the revolution and subsequent civil war, India was a nation filled with great poverty, with its largely agrarian population significantly more destitute than those in other nations under the British crown. Combined now with the devastation of the civil war, India finds itself shockingly backwards compared to many of its contemporaries.
+Power of the Princes
+The Dominion of India was only able to remain in government thanks to the loyalty of the northern princes. They share power with the government, but it is a difficult and archaic process that involves a great deal of waste.
+Indian Expeditionary Force
+While unable to fully commit their entire armies to the war, the leadership of the Entente alliance have organised a large expeditionary force in order to aid the Dominion of India in the resumed Indian civil war.
+Effects of Black Monday
+The crash of the Berlin Stock Exchange has formally hit our economy. This has resulted in a dearth of exports for our agricultural and industry and a blow to the integrity of the government.
+Agricultural Tariffs Imposed
+To better protect our domestic base, rough tariffs on all imported agricultural products have been imposed.
+Improved Wage Standards
+In an attempt to stabilise both the economy and the political situation, the Dominion of India has passed The Payment of Wages Act to protect workers from unfair wage practices.
+Industrialisation Drive
+In an effort to bring our industrial base up to modern standards, the government has announced a special focus on industrialisation. The effects of this, however, are likely to slowly strengthen the support bases of the Indian Liberal Party and the All-India Home Rule Party.
+Karachi Strike
+In reaction to unpaid wages and the threat of layoffs, dockworkers in the Dominion's staple port of Karachi have begun largescale strikes. Hoping to force the government to concede to labour protections, trade through the port has come to an almost complete halt, with fishing ports like Damb being hastily repurposed to handle the most urgent of shipments.
+Increased Mobilisation Efforts
+Although the smallest of the rival governments that formed as a result of the Indian Civil War, the Dominion's army remains able to compete with those of its enemies, and it has begun large campaigns to ensure it is able to continue to remain as large as them.
+Expanded Gurkha Rifles
+The Gurkha Rifle regiments are being heavily invested in with the aim of developing more elite and professional units for the army.
+Empowered Young Guard
+With the retirement of former Commander-In-Chief Philip Walhouse Chetwode, the reformist Young Guard of the Dominion's army have come to dominate doctrinal discussions. They advocate for an army based around mobility, relying on assistance from their allies in the Entente to give them the advantage over their rivals.
+Nascent Motor Industry
+India has always lacked a native industry for producing automobiles, especially with the devastation of the civil war scaring off any outside investment into the industry. Now however, with direct military contracts from the Dominion's armed forces, motor companies have begun to establish operations in Lahore to serve the Dominion's desire for military vehicles.
+Immovable Objects
+As part of their attempts to establish a proper tank force, the Dominion's army has elected to focus on heavily armoured vehicles, believing that these slow moving behemoths will give them the advantage they need.
+Immortal Bulwarks
+$RAJ_immovable_objects_idea_desc$
+Unstoppable Forces
+As part of their attempts to establish a proper tank force, the Dominion's army has elected to focus on light and fast tanks, believing that this speed will give them a major advantage compared to more heavily armoured vehicles.
+Steel Dragoons
+$RAJ_unstoppable_forces_idea_desc$
+The Pragmatic Approach
+Rather than give way to the Young Guard, the Governor General has reaffirmed his confidence in Commander-In-Chief Philip Walhouse Chetwode's leadership of the Dominion's army. It is hoped that the same tactics that stopped the complete destruction of the Raj so many years ago will now lead its successor to rise up from the ashes.
+Indian Martial Culture
+Attempting to emulate the successes of the Gurkhas in the Indian Army, the Dominion's armed forces have begun a major push to further reform brigades of the so-called \
+Streamlined Small Arms Production
+The loss of Ishapore during the Indian Revolution was a great blow to the British forces, and in the interwar many smaller facilities were established as substitutes for the lost plant. These hobbled together factories have long been recognised as unoptimised and ramshackle, and so as part of reform efforts these facilities have been nationalised in attempts to streamline and optimise their production of small arms.
+The Chetwode Motto
+$RAJ_the_pragmatic_approach_desc$
+The Most Feared Army of the Entente
+$RAJ_the_pragmatic_approach_desc$
+Subsidised Domestic Air Industry
+As part of their push to turn the Dominion's airforce into a major force to be reckoned with, significant subsidies have been issued for aircraft companies throughout the commonwealth to establish factories in India to hopefully allow a native air industry to properly develop.
+Deconceptualise Their Logistics
+With most of their rivals in Asia lacking the ability to defend against strikes from bombers, the Dominion's airforce has further refined and expanded their bombing capabilities, aiming to disrupt enemy supply lines and destroy their logistical networks.
+Improved Interservice Coordination
+As part of their airforce expansion, the Dominion has assigned dedicated coordinators to act as go between for its army and its airforce, with the goal of better coordinating aerial bombardment with attacks by their ground troops.
+Domination of the Skies
+The Dominion's airforce has recognised the major role of aerial supremacy in modern warfare, and have begun great training programs to hopefully produce the most skilled fighter pilots they can field, as well as engineering schemes to further hone the fighting abilities of their planes.
+The Indian Continental Airforce
+The fruits of the major investments into the Dominion's airforce have at last been harvested, with the force now one of the most premier in the world. Few can expect to come up against it and walk away still standing, let alone victorious.
+The Entente Lifeline
+Aid from their allies overseas has been vital for the Dominion for over a decade, and with uncertainty on the horizon there has been a major push to expand this aid to ensure that the Dominion does not fall to its adversaries.
+Indian Special Boat Section
+Marines have long been recognised as one of the most important parts of an army, one especially useful in much of the terrain in India and the surrounding nations. To this end, the Dominion has ordered the establishment of a proper permanent marine unit, hoping that these special forces will cut through any foe that is thrown at them.
+Acceleration of Naval Buildup
+With the Dominion desperate for new ships to meet naval demands, significant resources have been diverted from the regular production lines to produce parts for new ships instead as a temporary measure.
+The Indian Armada
+As part of their efforts to assert supremacy across the entire Indian Ocean, the Dominion has opted to focus on battleships and other large vessels, aiming to overwhelm their foes with superior firepower.
+Aerial Conquest of the Sea
+As part of their efforts to assert supremacy across the entire Indian Ocean, the Dominion has opted to focus on carrier vessels, believing that the dominance of naval aircraft will be vital in securing naval control.
+Reconstruction of India
+For the second time this century, India has found itself devastated by the horrors of civil war, with major cities and towns now little more than a shell of their former selves. Unlike last time however, India has found itself united once more, and it is hoped that with enough time and effort it can at last recover from this destruction.
+Resistance to Reunification
+Even with the nation now unified, there are many within India who refuse to recognise the authority of the new government, resisting attempts to restore order in any way they can. While unlikely to ever pose an organised threat against their rule, crushing this dissent must be made a priority by [ROOT.GetNameDef], whether through reconciliation or repression.
+India Restored!
+After years and years of death and destruction, the Indian people have at last seen the light at the end of the tunnel. The streets that were once filled with rubble are now bustling with activity, the farms filled with craters now see crops spring forth, and the factories that were once little more than scrap now see their lines whirring up once more.
+The New Dawn
+Even with the great devastation India has suffered, its people have refused to give up and wallow in their dearth. Great efforts have been made to not only restore what has been lost, but to build on top of the ruins, carving out a new dawn for the Indian nation.
+Growing Middle Class
+Through our economic programme, the middle class of India has slowly but surely been growing.
+Flourishing Middle Class
+Through our economic programme, the middle class of India has flourished tremendously!
+Standardised Civil Code
+A unified civil code has been implemented across India, ensuring Indians of all walks are subject to the same laws.
+Secularised Administration
+Religion has been excised from any involvement in government, relegating the pluralism of the previous administration to the past.
+Illiberal Democracy
+Despite nominally being a democracy, there is no universal suffrage, and the future for its expansion is very, very bleak.
+Torch of Liberalism
+The Dominion is the torch of liberalism across all of Asia, setting an example for other democratic nations and movements across the continent!
+Towards Social Justice
+The government has adopted a programme of social justice, ensuring fairness and upliftment are a priority in the governance of the nation.
+Support of the Princes
+The princes enthusiastically support our government, for our policies are benefiting them greatly.
+Granted Female Suffrage
+The women of the Dominion have been enfranchised, acquiring the right to vote and formally being invited to take part in the political arena. While the vast majority of women are still de facto unable to vote due to existing legislation surrounding enfranchisement for all Indians, those who belong to wealthy families/own land are now given a fair shot at having their voices heard.
+The Confederal Dominion
+The provinces and states of India have been given greater autonomy, so as to ensure Muslim provinces are minimally inflicted upon by a potential Hindu federal government, and vice versa.
+A Mixed Economy
+Rejecting the economics of the West, which hardly translate well to Indian life, a mixed economy has been implemented to ensure greater equity across the nation.
+The Dominion Reborn
+The Dominion of today is vastly different from the Dominion of yesterday. India is reborn, and energised for the trials that lie ahead.
+Support from the Elites
+The elites of India are crucial powerbrokers, playing the biggest role in electoral politics and policy implementation. With their support, our ability to govern is greatly increased.
+Sikhistan Autonomy
+The Sikhistan Autonomy is a specially designated division in India, giving the Sikh majority more say in how their day-to-day lives are governed.
+Loyalty to the Commonwealth
+The Commonwealth were the ones who granted India democracy, who helped save it from the clutches of princely absolutism and socialist dogmatism. Our loyalty to the Entente is not just quid-pro-quo; it is our moral duty.
+Entrenched Pluralism
+Future governments will now find it to be a terribly difficult task to undo the work that the Unionists have put in to ensure that India's governance and legislation are carried out with pluralist values.
+Economy at the Rural Level
+Economic policy is handled with rural agrarian needs at the forefront of consideration. The farmers shall never find themselves left behind in favour of the industrial cities.
+Masters of India
+Through the frontlines of the chambers and in the civil war, it is us that mastered the diverse Indian political field and reformed the nation in our vision.
+Exotic Exports
+Due to our investments in local industries, exotic goods have seen increased export, thus bringing in revenue to our great nation.
+Exotic Exports
+Due to our investments in local industries, exotic goods have seen increased export, thus bringing in revenue to our great nation.
+Modernise Madura's Roads
+The roads in the province of Madura are derelict, to say the least. Villages in the mountains are connected by haphazard pathways and what paved roads there are are already crumbling. Bringing it all up to modern standards is an utter necessity, to say the least.
+Resume the Bristow Plan
+Robert Bristow is a harbour engineer who developed a highly ambitious plan to expand the Port of Cochin in the early 1920s, though none of this came to fruition due to financial constraints and then the disaster of the Indian Revolution. Now that Travancore has been returned to the fold, we can begin restructuring the port as per Bristow's ideas.
+Man Singh's Buildup Plan
+The Maharaja of Jaipur, Sawai Man Singh II, has developed a massive urban development plan for his now reclaimed princedom. Unable to cover the costs by himself, he has requested some financial aid from the government.
+Rebuild the Manchester of India
+Ahmadabad, nicknamed the \
+Expand the Singareni Collieries
+The Singareni Collieries Company is a major coal mining company in the state and surrounding regions of Hyderabad. It is prudent that we make sure that not only this vital industry survives, but flourishes.
+Chota Nagpur Plateau Electrification
+The Chota Nagpur Plateau is a major region in central India, one that has lagged behind in electrification efforts in the past few decades. A thorough construction and connection plan will see this geographic locale brought up to modern standards
+Bringing Power to Baluchistan
+Baluchistan is one of the most backward provinces in the entire Dominion, if not perhaps the most decentralised and neglected. Through a sweeping electrification effort, we shall see it finally brought to the 20th century after decades of languishing.
+Expand the Sharda Canal System
+The Sharda Canal System is a major irrigation network in Oudh dedicated to improving agricultural survivability in the region, though there are still major flaws in the network. Through a considerable expansion effort, these flaws shall be mitigated and the subsistence/cash crop farms in the region shall then truly flourish.
+Unleash Andhra's Fishing Industry
+Andhra is the home of one of the most prolific fishing industries on the entire globe. Capitalising on this will be most fruitious for our economic output.
+Support Berar's Oilseed Export
+The cash-crop industry in Berar has a focus on oilseeds, primarily Sesamum. The civil war laid devastation upon farmers in the region, but by supporting their reconstruction efforts we will make great strides in restoring this agricultural sector.
+Impending Election
+The first election since the reunification of India is due to be held, one that will surely shape the future of the Dominion for the rest of the century.
+The Infrastructure Act of 1936
+The state of the roads in the mountains of Kashmir and the Thar desert are inadequate, to put it mildly. The Infrastructure Act shall allocate support and funds to improve key roadways in these locations.
+The Relief of Indebtedness Act
+The legal framework around debt payments is nebulous and abused by many banks and lenders. Even worse, in the wake of Black Monday, the system has been abused and many people are having land and crops confiscated due to unpaid debts, alleged or otherwise. The Relief of Indebtedness Act will establish proper debt conciliation boards and provide better protection for debtors, providing more stability to our ailing economy.
+The State Aid to Industries Act
+At the moment, our government does not have enough of an ability to provide direct support to our suffering industries and agriculture. The State Aid to Industries Act will provide a proper legal framework for us to provide aid via loans to individual industries, further mending the bleeding wounds of Black Monday.
+Reinforce the Western Coal Industry
+The far west frontier of Baluchistan and Quetta have wealthy reserves of coal, reserves we are yet to fully exploit. We shall ensure these mines have the funding and security to continue operations for the good of our raw material industry.
+Promote the Kashmir Sericulture Industry
+Sericulture refers to the method of raising silkworms for the production of raw silk, and the cultivation of mulberry trees to feed them. In the late 19th century, the silk industry eclipsed the Kashmir Shawl industry in export value, making it the region's most important industry. Promoting it will greatly enhance the state's economic value.
+Incentivise Kangra Tea Cultivation
+Kangra Tea was a once proud crop cultivated in the Kangra Valley, grown in both black and green varieties. The 1905 Kangra earthquake devastated the region and resulted in the British selling off the plantations. Since then, production of the tea is an utter shell of what it once was. We must incentivise its cultivation to improve the region's economic value.
+Incorporate the Liberal Economic Platform
+The National Liberal Federation of India has long advocated for the opening of our economic doors to international interests, rather than pursuing the protectionist economics that the Unionist Party platform supports. In the wake of our damaged trading sphere, perhaps we should heed their advocacy and attempt to attract investment from the international community.
+Champion the Unionist Tariff Policy
+The farms of the countryside have found themselves suffering immensely at the ramifications of Black Monday. To promote our domestic food economy in the wake of our slowed exports, we must champion the Unionist policy of protectionist economics, and draw more funds to our treasury in the process.
+Authorise Forced Labour Coercion
+The strike at the Port of Karachi is turning an already terrible economic crisis worse. We must send a message to these Syndicalist agitators that such nonsense will not be tolerated, and authorise the use of force to break up strikes and return order to our vital industrial centres.
+The Payment of Wages Act
+We must temper the anger of the employed lower class by providing superior protections to the stability of their wages. The Payment of Wages Act will clearly define when an employer can and can not deduct a worker's wages, and additionally constrict the percentage that they can deduct.
+Prepare the Industrial Machine
+Our industry is in a truly sorry state, leaving our production force inadequately prepared to handle a reignition of war with our adversaries in the Indian subcontinent. We must make great haste and pursue a hefty industrialisation scheme to ensure we can out-produce and out-gun anyone we face!
+Modernise the Indian Army
+The army of the Dominion, while certainly nothing to gawk at, is showing its wrinkles and is in need of further inspection and modernisation. If we are to survive the onslaughts of the Bharatiya People's Republic, and perhaps even the perfidious Afghans, we must ensure the army is not caught lacking.
+The Rails of the Frontline
+Wars are won with superior supply-lines. It is paramount that we make sure our troops on the frontlines are receiving enough equipment to sustain our military ventures. We will also refit an armoured carriage and create a rail gun to surprise and shock our immediate opponents, who have railway connections with us.
+Update Aging Equipment
+Much of our army's equipment is old, dating back to the days of the Weltkrieg and even before. We will make an effort to optimise the research of new modern equipment.
+Expand the Gurkha Rifles
+The fiercest and most respected regiments across the globe come from the Gurkhas, professional fighters who have been in the service of the Indian Army for generations. We must capitalise on their strength and expand their recruitment and share in our army, for they shall be our most dexterous piece on the chessboard of the battlefield!
+Expand Command and Staff College Quetta
+Command and Staff College Quetta is a prestigious military university, one which is sure to train the next generation of military officers. By granting them more funding, we shall see to the construction of a new research wing and a brighter future for the military of the Dominion.
+Advanced Land Warfare Innovations
+It has come to our attention that there have been many breakthroughs in the art of land warfare that are awaiting the funding and capacity to pursue to their most efficient extent. We shall give ourselves an edge over the enemy by endorsing the efforts of our tacticians and researchers.
+Ideas of the Young Guard
+The \
+Rectify Disorderly Communications
+Communications between our units is shoddy and rife with inadequate methods and a lack of proper equipment. We should rectify this so that this aspect of our army is brought up to professional standards.
+Elevated Engineering Methods
+The role of the engineering corps is underappreciated and underutilised. We will expand their role in our divisions and create unbreakable defensive lines against our enemies.
+New Training Initiatives
+Training standards in the army are shoddy and highly dated. We shall review our drills and establish brand new methods and initiatives so that our troops are properly equipped for the battlefield.
+Motorise the Sowars
+Cavalry is a far outmoded form of combat, now that mechanisation and tank warfare are in undeniable vogue among the western nations. We shall motorise our cavalry units and promote the use of trucks for purposes of warfare.
+Expand the Dominion's Military Industry
+India's military industry might not quite be at the tremendous power of nations like Germany or Russia, but we can certainly plant the seeds for one that shall some day make for a formidable equal. The motor industry is a good start, and we shall grant subsidies where appropriate to foster a proper home-grown industry.
+Immovable Objects
+The most effective tanks on the battlefield are monoliths which strike fear into a soldier's heart when they catch a glimpse of them on the horizon. Strong, heavy tanks shall be the backbone of our armoured corps.
+Immortal Bulwarks
+The Indian armoured corps shall present themselves upon the battlefield as colossi of war, mammoths of steel who shall be known across the world as the vehicle of choice for the grim reaper. An Indian tank must be one that can never be balked at.
+Unstoppable Forces
+Lightweight tanks are the most efficient, cost-wise and speed-wise, providing for excellent encirclement opportunities and overwhelming enemy lines with ease. They will be the foundation of our armoured corps.
+Steel Dragoons
+The Steel Dragoons of India shall cut across our enemies like knives through butter, leaving them disoriented and panicked. Our tank commanders will be able to hang their heads high, for they shall carry themselves virtuously and return home as legendary heroes.
+Maintain Chetwode's Primacy
+Philip Walhouse Chetwode's pragmatic approach to warfare on the Indian continent is the only one which the Dominion will be able to reasonably sustain. The unrealistic concepts of young upstarts must remain just as that, concepts.
+The Honourable Sowars
+The Sowars are the best cavalrymen on the entire continent of Asia. We will grant the veterans of these regiments high honours and expand their role in our army as cost-effective manoeuvrers.
+The Indelible Role of Artillery
+The role of artillery in warfare is undeniably tremendous, capable of taking down planes, tanks, fortresses, and enemy lines with relative ease. We must utilise them to our best ability.
+Streamlined Small Arms Production
+The production of small arms in the Dominion is currently not adequate enough to keep up with the needs of a continent-spanning war. We will streamline their production so that we should never be without a rifle in our hands.
+The Chetwode Motto
+\
+Promote a Martial Culture
+To increase the prestige of the military and the people's willingness to fight against enemies on our borders and beyond, we should promote a martial culture much like that of the Gurkhas. A simple propaganda campaign will be a great start to this end.
+Improve Our Support Companies
+Our support companies play a vital role in augmenting our divisions and propelling them to an advantage against the enemy. We shall initiate improvements where necessary and ensure they're a cut above the rest!
+The Most Feared Army of the Entente
+The Indian army is one which you see marching over the hills, whose bullets blot out the sun and leave all those who dare oppose or cross it wishing they had never, ever done so. The Indian Army shall be the greatest weapon of the Entente and the kingmaker of the battlefield!
+Refurbish the Indian Air Force
+In the face of potential competition controlling the skies of India when we are at war, it should be our imperative to make sure the airforce is in tip-top shape.
+India Rules the Radio Waves
+It is modern technology that shall define the victors of the future! If Britannia shall rule the waves, then India shall rule the radio waves!
+Aerial Transports
+Greater logistics and the potential to drop entire divisions behind enemy lines make transport planes quite possibly the most lucrative investment for our air capabilities.
+The Winged Pegasi of India
+Parachuting brigades hold the capability to damage supply lines, take entire cities and scramble the cohesion of enemy lines. Such a chess move will undoubtedly deplete the enemy's organisation.
+Improve Our Air Defences
+The threat of bomber fleets terrorising our precious industrial sectors is truly harrowing. Constructing air defences at our capital and other key locations will mitigate any potential disasters which may rain from the skies.
+Subsidise the Domestic Air Industry
+Industrialists such as Jehangir Dadabhoy Tata and Nevill Vintcent have made great inroads into the establishment of an Indian air industry with the advent of Tata airlines. Supporting their efforts would be a most enterprising endeavour.
+Deconceptualise Their Logistics
+Logistics serve as the most crucial deciding factor in an army's strength. It is thus necessary that the enemy be deprived of such things to such a degree that they might as well have never possessed such capabilities in the first place.
+Interservice Coordination Effort
+By standardising coordination efforts between forces on the ground and in the air, our advance on enemy lines shall be equally majestic as it will be terrifying.
+Dominate the Skies
+Wise nations do not only hold absolute dominion over the land and sea, they also see the importance of mastering their skies. Controlling the air covers a three dimensional flank and provides an enormous advantage.
+Birds of Prey
+The conduct of our servicemen in the skies shall be as elegant as it will be merciless. We shall descend upon our adversaries as a hawk descends upon its weak prey!
+The Indian Continental Airforce
+Our airforce does not only hold power over mere regions and areas, it controls an entire continent. Indians across the nation can look to the skies and shed a tear in pride, knowing no other nation matches our power projection.
+From the Indus to the Sea
+Is that grand expanse of water beyond our shorelines not named the \
+The Ganga Strategy
+We mustn't let the many torrential rivers of India stymy our advances. Through careful pre-planning and innovative strategies, crossing a river shall become no more difficult than stepping over a pebble.
+Prioritise Naval Assaults
+Our marine forces constitute some of our most elite units. We shall take great advantage of their prowess, and make great use of their power!
+Acquire Bombers from Fairey
+The Fairey Swordfish made by our friends across the seas is a tried and tested torpedo bomber design that's served them well for multiple years now. Why bother designing our own when our allies are more than willing to provide the blueprints to start producing it natively in India instead?
+Protecting the Entente Lifeline
+Supply from members of the Entente and the Commonwealth is vital for our survival. Our enemies shall seek to disrupt our naval routes; but we refuse to let them do so.
+Increase Convoy Production
+Through new contracts and quotas, we will make sure our planned expansion of the Indian merchant marine goes by swiftly and smoothly!
+A New Navy
+Now that we have reunited the continent, we must look to our future and envision a navy that accurately represents the might of the nation it serves!
+Accelerate Naval Buildup
+Time is of the essence, for the naval powers across the world have concerned themselves with expanding their power for much longer than we have. We must put more than our best foot forward if we're to catch up to the best of the world!
+An Indian Armada
+Through an armada of battleships and heavy cruisers, any naval battle we engage in will only have one possible conclusion; our decisive victory.
+Aerial Conquest of the Sea
+The future of naval warfare does not limit itself to the waves; it also seeks to utilise the winds. By investing in carriers and basing our new fleet around them, we will remain one step ahead of the outmoded navies of the past.
+Warriors of the Sea
+The brave Indian soldiers which choose to ford the rivers and storm the beaches exemplify a warring spirit unparalleled by any other warriors on earth. Our marines are warriors of the sea whose silhouette on the horizon should only be received by a white flag.
+End of the Indian Nightmare
+The nightmare that began once the INC declared \
+Reintegration of the Continent
+The time has come to finally solder shut the divisions between our original base in the northwest and the rest of the continent. Despite the fact that resistance still exists to our renewed rule, we will make sure that it is sure not to last.
+Resolve the Rebel Prince Debacle
+The rebel princes constitute quite the quandary, being rulers of their native lands for quite some time. However, it was the British Raj that ensured their continued survival, and it now shall be us that decides what will be done of those that betrayed us.
+Dealing with the Rebel Soldiers
+The rebel soldiers of the former Bharatiya People's Republic betrayed India by fighting for the socialist menace, however there are many in government defending their honour and claiming that they are guilty of nothing other than being conscripted and fighting for their country. We must definitively conclude what our policy shall be toward them.
+Healing the Damaged Dominion
+Suffering runs rampant across India due to famine and devastation, credited to the brutal civil war which only recently ended. It is our duty to ease our people's suffering by healing the damage sustained.
+Redouble Infrastructural Development
+The infrastructure of India has historically never been very good. We have the opportunity to ensure that the roads and highways leave no Indian isolated. After all, had we not formerly held such a significant portion of the Silk Road?
+Mass Electrification Campaigns
+To catapult the Dominion to the modern age, we will electrify each and every village, no matter how isolated. Power and light shall illuminate every village!
+Auction Socialised Industries
+The socialised industries of east India have found themselves abandoned and bordering dereliction on account of the fall of the INC's government. Through the magic of private enterprise, we won't leave these precious economic sectors to flounder anymore!
+Maintain the Momentum
+The reconstruction of India has brought on an economic miracle, due to the mass amount of jobs created by new industries and the ubiquity of public works projects commissioned by the government. We shall not let this momentum falter!
+Blossom, the Indian Granary!
+The continent of India, so geographically diverse and so agrarian, has the capacity to become one of the largest food exporters of the world. Now that India stands on her own two feet once more, the Indian Granary shall assume her righteous benevolence and provide food for millions!
+Deploy the Servants of India Society
+The Servants of India are a civil volunteering organisation which promote local initiatives and community service. Additionally, they have a lot of crossover with the National Liberal Federation of India. Either way, they'll be a great boon toward bolstering the reconstruction of India.
+Ascendance of the Liberal Federation
+The National Liberal Federation of India was formed in response to growing INC extremism; many moderate nationalists who preferred constitutional reform and peaceable negotiations as opposed to the revolutionary methods the INC employed. With Jinnah's failure to appeal to Indians used to the socialisation of the Bharatiya People's Republic and the Unionists having decimated their credibility, it's only natural the Liberals would pull through!
+Support the Middle Class
+The majority of our support base are elite and middle class Hindus. To fulfill our duty to our constituents and foster the new India, we must dedicate our resources toward supporting and expanding the middle class!
+Prioritise Urban Centres
+Committing to a build-up of urban districts will contribute heartily to the development of India as a modern nation, not to mention the increase in political capital we'll receive.
+Mass-Replicating Bombay Capitalism
+Industrial capitalism in India is best seen in the streets of Bombay, where the burgeoning textile industry caused a massive boon to the city's development and grew its working class greatly. We must emulate its success and ensure that all urban centers bask in the glory of western-style economic success!
+The Indian Leap Forward
+As a result of the unprecedented economic success the Indian continent has seen after the civil war, a new age of geniuses and intellectuals has emerged to support the development of the Indian people. We welcome their innovations and must offer critical financial support, for their efforts will launch India into the pantheon of international superpowers!
+Establish a Uniform Civil Code
+The civil code currently governs personal laws based on the scripture of the religion each Indian holds. This, of course, is a nonsensical system which only serves to legitimise the sectarian divide between what should be one indivisible Indian people. We must unify the civil code, and ensure these laws are applied equally; whether you are Hindu, Muslim, Sikh, Jain or even Buddhist.
+Sustain Limited Suffrage
+The unfortunate reality is that if suffrage was expanded to all the masses of India, we would largely die off in our urban constituencies. This is because the landowners and oligarchic politicians of parties like the Unionists would manipulate the system and coerce their tenants to vote for them over their own interests. We will kill the debate of universal suffrage and sustain the current system.
+Integrate the Hindu Mahasabha
+Due to its diverse membership, the Hindu Mahasabha suffered a tremendous fall in grace after it found itself on the wrong side of the ceasefire line, despite being tremendously marginalised by the INC. M.R. Jayakar's close ties with the organisation have seen its resurgence, and it seems prudent that we formally coalition with their members and reintegrate them into political life.
+Abolish the Reserved Seats
+Reserved seats make up a considerable portion of the parliament, specifically based on religion. We must crush this vestige of illiberal political bloat and free up seats for fairly elected politicians.
+Enshrining Secularist Governance
+Secular governance is the only way forward for India, if it wishes to be respected as much as its contemporary nation-states. The present system gives Sikhs and Muslims grossly inflated involvement in politics and will only lead to a rule of the minority over the majority.
+The Fundamental Rights of All Indians
+Casteism, illiberalism, and untouchability all fuel the primordial damper that has been placed upon the Indian people. We shall legislate fundamental rights, and pave the way for a future deconstruction of caste as soon as society becomes stable enough to accommodate such changes.
+The Torch of Liberalism Burns Bright
+With our reforms complete, the torch of liberalism has burnt its cleansing flame across India and eliminated princely authoritarianism and INC syndicalist extremism. Today's India is free, democratic, and ready to tackle the centuries ahead!
+Exploit Unionist Divisions
+The Unionists have many sectarian divides and cliques within the party itself. With careful manoeuvring, we shall exploit these divides and diminish their power so that they may never poison the minds of Indians ever again!
+Absorb Minor Parties
+We must seize the fluid political field and expand our influence, moving toward the image of an ultimate vanguard of the Indian people. In doing so, we shall ensure our program and vision moves forward with minimal interruption from selfish regionalists and those not concerned with the needs of all India.
+Encourage Minor Parties
+To foster a healthy democracy, we must encourage the development of smaller parties and organisations representing the diverse needs of the massive Indian continent. This shall ensure the stability of Indian politics and the nation as a whole for decades to come.
+The All-India Home Rule Party Triumphs
+Established as a breakaway party by Muhammad Ali Jinnah in response to his disillusionment with the INC's drift toward socialism and radical programme, the All-India Home Rule Party formally claims the legacy of the league of the same name founded by Annie Besant. Promoting a confederal and progressive agenda meant to overhaul Indian society in a positive direction, we are now tasked with following through with it.
+A Commitment to Social Justice
+Our government must be governed on the principle of inalienable and unbreakable social justice. We will emphasise this to the people, based on the best elements of Islamic-style social justice which shall be exported across the whole continent.
+Princely Patronage
+The primacy of the princes is a reality that we must unfortunately accept if we are to push our most ambitious reforms through parliament.
+Achieving the Confederal Dominion
+Having passed our legislative reform, the most ambitious project of our platform can now be pursued. Autonomy shall be granted to the provinces and the federal system shall evolve into a confederal system, birthing the new form of the Indian continent that shall last through the ages!
+Reform the Legislatures
+We shall constitute all elected bodies to be based on the principles of proper representation for all minorities, while ensuring that no majority may be unjustly reduced to a minority. Separate electorates will remain and there will be no further domination of one class, tribe, or group over another!
+Bringing Women Into the Political Fold
+The party founder, Muhammad Ali Jinnah, has always believed in the tremendous capability of women in the role of governance and leadership. We shall elevate their place in society by expanding their suffrage and providing them space for their voices to be heard.
+Help Workers Help Themselves
+Many of the party functionaries have had ties to moderate and non-syndicalist trade unions, including Jinnah himself. The quality of self-reliance and the development of their communities is one all Indian workers must exemplify. We shall guide the working class toward effective, patriotic organisation so that they may bring a brighter future to their communities of their own merits.
+Reject Deleterious Western Economics
+Western economics can be seldom applied to the culture and society of Muslims and Hindus. We must move toward the vision of the welfare state with a mixed economy, as it is the one best suited to propel India out of the effluvium of the 19th century.
+Reverse Educational Backwardness
+Educational backwardness permeates India across the entirety of the continent. We must fund our future by funding new schools and bolstering the future of education in the nation so that we are not left far behind in the coming decades.
+The Father of the Nation
+Muhammad Ali Jinnah has successfully purveyed his vision across the continent and remade the nation according to his vision. His primacy can no longer be questioned in the party itself and Indians across the nation now recognise him as the Father of the Nation. India has arisen from the ashes of civil war and proven to the world it shall not be beaten down!
+Uplifting Muslim Regions
+Muslim regions unfortunately make up some of the poorest areas across all of the Dominion. We must focus our efforts on uplifting these provinces to be on par with their Hindu counterparts, so that they are not left at a disadvantage.
+Against Hindu Rashtra
+Parties such as the National Liberal Federation of India only seek to enforce the dominance of the majority over the minority. A firm campaign against their ranks and that of the chauvinist Hindu Mahasabha will ensure that our India does not fall to tyranny of the majority.
+The Unionists Hold On
+The Unionist party was originally founded as a Punjab-centric organisation meant to represent the interests of the upper class. With the advent of the Dominion of India, it evolved to take on a pluralist, agrarian agenda. Having survived the onslaught of the NLFI and AIHRP's vicious attacks in the aftermath of the Black Monday recession, the Unionists have held on and earned a considerable mandate.
+Concessions to Shiromani Akali Dal
+Shiromani Akali Dal is a Sikh-centric organisation which advocates for increased autonomy for Sikh-dominated regions and represents the interests of Sikhs within India. They are parliamentary allies of ours as a result of our pluralist agenda, and we must ensure we follow through on our promises so that we don't betray them and ruin our credibility.
+Pluralism Without Compromise
+Pluralism in India is the only realistic way to reconcile the sectarian divides of the incredibly diverse beliefs that millions of Indians hold. There shall be no compromise and nobody left behind, all faiths shall find equal representation and be heard so that they do not become disillusioned with the necessity of a united Dominion of India.
+Indurate the Role of the Reserved Seats
+Reserved seats in parliament ensure representation for the faiths, as well as that landowners and the princes are properly heard and not muffled to practical silence. Many political forces do not entirely agree with this idea, which is why we should reinforce their primacy and ensure that they are here to say.
+Reward Loyal Princes
+The loyal princes in the northwest of the Indian continent, including the Maharaja of Jammu and Kashmir among others, were indispensable in ensuring the survival of the Dominion against the traitorous forces of Osman and the socialist deviousness of the INC. We shall show our appreciation for their loyalty and set a strong example that loyalty is always the correct choice.
+Propound Party Anglophilia
+Our dedication to the cause of the Entente shall be matched by their support for the cause of the Dominion. The Unionists are the most anglophilic party in India and we shall emphasise this, for good relations with the crown can only bear fruit for us.
+Empower the Panchayati Raj
+The Panchayati Raj is a system of local assemblies of elder community leaders who resolve disputes and lead communities at the municipal level. We will expand their administrative, financial, and legislative capabilities and increase the system's primacy in local governance.
+Institute Agricultural Price Controls
+Certain practices in the agricultural marketplace have resulted in farmers being forced to short prices, leaving them without enough of a profit to manage their own plots. This is going to be devastating in the long run, so in order to ensure the stability of the rural economy and our food sources we must institute price controls so that farmers can sell at a profit without worry.
+Restore the Lost Zamindars
+The Zamindari system in east and central India has been largely eradicated by the illegitimate former Bharatiya People's Republic. We shall restore these lost Zamindars and reverse the destructive \
+Peasant Educational Initiatives
+Education among the peasantry has never been up to standard. We shall fund state directed initiatives to make sure that poor Indians young and old have access to the education necessary to ensure they can serve their country and communities with utmost efficiency.
+The Unionist Legacy Cemented
+We have survived challenges that most would crumble and beg for mercy in the face of. We have fought tooth and nail and pushed our agenda and legacy for the good of India, and we succeeded. The Unionists have spread party chapters across all India and are now the premier body representing conservative Indian interests!
+The Preemptive Strike
+It is inevitable that the rebels in the east will attack us, no matter how long we may wish to delay the conflict. If however, the Republic falters with any invasion plan, it would be foolish to not strike at them first, while they are still stuck in a quagmire of confusion; and so we must be ready to invade if this comes to pass.
+Deal with Bhutan
+With our control over the India Subcontinent secure, it is time to look to our northern border. New great powers are rising in China, and the Himalayas are once again the forefront of a new great game. We must reassert our control over our old allies in Bhutan, whether it be by treaty or by force.
+Deal with Nepal
+Nepal expanded into the Indian lowlands in the chaos following the Weltkrieg. It is time to reassert our domain over those territories.
+The Burmese Territories in Siam
+The Siamese Kingdom was one of the more opportunistic of the 'Vulture States' that exploited the disorder of the Raj's demise. With the young Burmese nation hard-pressed by the socialist uprisings in Assam and Bengal, the government of Siam simply occupied several districts and prefectures, including the city of Moulmein - mentioned in Kipling's famous poem. These lands must be returned!
+Claim Goa
+The enclave of Goa is nothing more than a burr on the side of our proud nation. It is rightfully our territory, and must be returned.
+Claim Pondicherry
+The enclave of Pondicherry is nothing more than a burr on the side of our proud nation. It is rightfully our territory, and must be returned.
+Claim Ceylon
+By rights, Ceylon, the Maldives, and the other Indian Ocean islands are part of our nation's rightful territory. Their colonialism must come to an end.
+Incorporate Burma
+While distinct from the rest of the Raj in history and culture Burma was once under its rule. Like the rest of the Raj it had portions under direct rule while others were under the control of local rulers analogous to the princely states, and was under the firm authority of the British crown. With the rebel socialist and princely governments dealt with, we cannot allow a portion of the Raj to remain as an independent example to future traitors and rebels.
+Reaffirm the McMahon Line
+While we were occupied with the fight against the socialist menace and traitorous princes, the claims we secured through careful negotiation with Tibet were allowed to lapse and fall back into local hands. With our recent victories reestablishing our power over the subcontinent we have a renewed opportunity to establish our right to these regions, and renewed impetus to secure the Raj against external threats.
+Restore the Ardagh-Johnson Line
+Originally established to provide a strong forward presence against the then pressing threat of Tsarist Russia, the Ardagh–Johnson Line still stands as the furthest northern claim of the Raj, regardless of what threats now lurk beyond its walls. Securing it will once more give us a strong buffer should we once more come under threat from beyond the mountains.
+Too little and too late, the attempts to reform the Raj in the aftermath of the Weltkrieg could not bind the Jewel to the Empire. When the Home Isles was cast into the currents of Revolution, likeminded uprisings in India followed suit. What followed was a bloody civil war, ended only by an unsteady ceasefire in early 1927. Even those who had stayed loyal to Britain during this war could no longer stand the status quo, with the government in exile soon conceding to their demands for dominion status. These loyalists now find themselves in a defensive pact with the southern princes, preparing for when the rebels finally reignite the conflict.
+GFX_RAJ_intro
+History of the Indian Revolution
+When the Weltkrieg began, no place under the sun of the British Empire responded more loyally than India. 'The swords of the martial princes leapt from their scabbards', as one reporter put it. From the trenches of the Western Front to the deserts of Arabia, the troops of the British Raj fought doggedly for its King-Emperor and the glory of battle. However, it was also the expectation of the nascent Indian national movement that their full support for the war effort would in turn translate into political reforms at home, once the war had been concluded.\n\nDespite the best efforts of the Entente troops, by 1919 the war had been effectively lost, with the mass mutinies following the Battle of Saint-Mihiel being the final nail in the coffin. A peace heavily weighted towards the Germans was signed, although Britain, and by extension India, escaped the worst of the indemnities. The defeat did not deter the Indian reform movement, who now loudly demanded Home Rule to be put in effect. When these calls were instead met with a tepid implementation of devolution in the form of the diarchy system, alongside draconic extensions of emergency power, anger began to swell across the nation, spreading the idea of Swaraj throughout all of India.\n\nWhen the murder of 41 striking miners in Wales cast the Home Isles into the currents of Revolution, likeminded nationalist revolutionaries in India followed suit. While these initial uprisings were quickly put down, the brutality at which they were would soon flare up mass unrest throughout the subcontinent. This unrest would eventually culminate in the declaration of Purna Swaraj by the leadership of the Indian National Congress, and the establishment of a provisional independent government in Calcutta. The result of such a declaration would be bloody civil war between those loyal to the empire and those loyal to this new government.\n\nWith the metropole stuck in a quagmire of chaos, British troops in India would end up very much on their own against these rebels, especially after a wave of early defections left them unable to quell the rebellion in its infancy. Rebel troops loyal to the Calcutta government quickly seized control of much of the nation, with the fall of the provisional British capital in Delhi being widely celebrated as the sign of the rebel's victory. This hubris would ultimately end up being their undoing however, as the rebels began to redirect their efforts at taking over the south.\n\nFearing deposition if the Calcutta government were to win, and believing that the British had been completely shattered, the many disparate princes of the south would band together under the leadership of Osman Ali Khan of Hyderabad to declare their own independence as the \
+The Interwar Years to the Present
+Even with peace being reached, the chaos caused by the civil war would dramatically mould all of its belligerents. In the west, the remaining territories of British India and the princely states still under British suzerainty were reorganised into a united Dominion operated by an elected native government. The first election in 1929 would see a Liberal led government, but giving way to Khizar Tiwana's Unionists in 1934. Alongside this, 1933 would see the appointment of Maharaja and war hero Ganga Singh as the first native Governor General, contributing greatly to the normalisation of the new government.\n\nIn the east however, the interim years have been much more tumultuous. In the aftermath of the ceasefire, a constitution for the new republic would be drafted, modelled primarily after their fellow revolutionaries in the Union of Britain. Soon after, wartime leader Motilal Nehru would retire from his position, and politics in general, with the party electing Lajpat Rai as his replacement who would act as a unifying figure amongst the party's wings. Under Rai the Republic would pursue a more conciliatory policy towards the rival governments, operating under the belief that given enough time both would fold into the Republic.\n\nUpon Rai's own retirement in 1933, the unity in the party began to fracture. Although Fazlul Huq would be elected chairman, a notable unsuccessful challenge would be mounted by Subhas Chandra Bose, and Huq's abandonment of Rai's conciliatory positions and greater alignment with the Third Internationale would lead to significant dissent within the party. The disastrous clash at the border in Ajmer in 1935 would also greatly weaken Huq's position, leading to his deputy's resignation, but for now Huq has managed to hold on to his position as chairman.\n\nMeanwhile in the south, the Federation's government has likewise begun to buckle under opposition to its leader. While initially envisioned as a federation of equals, where its most powerful leaders would cooperate through the Council of Princes to ensure mutual benefit, the growing abuse of Osman's reserved powers has led to a slump into despotism. Despite their differences, the four other members of the Council have over time unified together in opposition to Osman's autocracy, becoming known by many as the \
+§MThe Promised Elections§!\n£white_dot Complete the focus §YEnd the Indian Nightmare§! to activate the mission Impending Election.\n\n §MThe Unionists Hold On§! ($social_conservative_coloured$)\n£white_dot Have the §cUnionists§! have a bigger party popularity than the §mLiberals§! and the §lAIHRP§! once the mission Impending Election finishes.\n\n §MAscendance of the Liberal Federation§! ($market_liberal_coloured$)\n£white_dot Have the §mLiberals§! have a bigger party popularity than the §cUnionists§! and the §lAIHRP§! once the mission Impending Election finishes.\n\n §MThe All-India Home Rule Party Triumphs§! ($social_liberal_coloured$)\n£white_dot Have the §lAIHRP§! have a bigger party popularity than the §mLiberals§! and the §cUnionists§! once the mission Impending Election finishes.
+India
+Indian
+India
+Dominion of India
+the Dominion of India
+Dominion of India
+the Dominion of India
+Dominion of India
+the Dominion of India
+Dominion of India
+the Dominion of India
+Dominion of India
+the Dominion of India
+Dominion of India
+the Dominion of India
+Dominion of India
+the Dominion of India
+British India
+British Indian
+British India
+$RAJ_social_democrat$
+$RAJ_social_democrat_DEF$
+$RAJ_social_liberal$
+$RAJ_social_liberal_DEF$
+$RAJ_market_liberal$
+$RAJ_market_liberal_DEF$
+$RAJ_social_conservative$
+$RAJ_social_conservative_DEF$
+$RAJ_authoritarian_democrat$
+$RAJ_authoritarian_democrat_DEF$
+$RAJ_paternal_autocrat$
+$RAJ_paternal_autocrat_DEF$
+$RAJ_national_populist$
+$RAJ_national_populist_DEF$
+Ganga Singh
+§YBorn:§! §LApril 6th, 1886, in Bikaner, Bikaner State, Rajputana Agency, India§!\n§YBackground:§! §LGanga Singh's military and aristocratic career is among the most prestigious of any Indian prince on the continent. Privately educated at Mayo College and additionally tutored by a British civil servant, the British Raj took care to cultivate loyalty in Singh. After serving with the 42nd Deoli Regiment, fighting in the Chinese Boxer Rebellion, he served as Aide-de-camp to George V in 1902 for the coronation of Edward VIII and later for George's own coronation. Fighting in the Weltkrieg, he was a member of the Imperial War Cabinet and was party to the Treaty of Hanover.\n\nAs the sovereign ruler of Bikaner, his reforms became known as some of the most progressive in any Princely State. Ganga Singh's service in the Indian Civil War and his persistent support for Dominion status have made him a tremendously respected figure across the spectrum of the Dominion of India's politics. As such, Singh's selection as the first Indian Governor-General was met with wide acceptance. Singh now faces the task of reuniting the subcontinent under the British Crown, an unenviably and difficult quest for certain.§!
+Jehangir Ratanji Dadabhoy Tata
+§YBorn:§! §LJuly 29th, 1904, in Paris, Seine, French Republic§!\n§YBackground:§! §LScion of the prestigious industrialist Tata family, J.R.D. Tata's life began in France, unusual for most Indians. As a result, French became his first language and he was educated in a French Lycée where he was commonly mistaken as an Egyptian. He attended some private schooling in Bombay before briefly moving to Yokohama, Japan, and then moved again to England in 1923 to enroll in Cambridge University to study Engineering. Upon the British Revolution, Tata returned to India and formally renounced his French citizenship for Indian citizenship once the Dominion of India came into being.\n\nSince then, much of his time has been spent expanding the Tata Company to encompass the aviation industry. While the aftermath of the Indian Civil War left the Indian economy in a sluggish state, he hopes that reunification will allow for India to reach it's true economic potential.§!
+Atul Chandra Chatterjee
+§YBorn:§! §LNovember 24th, 1874, in Calcutta, Presidency of Fort William in Bengal, British India§!\n§YBackground:§! §LChatterjee spent his younger years educating himself at the Presidency College in Calcutta, later transferring to a constituent college of Cambridge University where he graduated with honours. After passing his civil service examination in 1896, he worked in the United Provinces where he would later rise to become District Collector.\n\nChatterjee spent much of the immediate post-Weltkrieg period interested in labour issues, but rebuking the serpent of Syndicalism in all its forms. During the formulation of the Dominion's constitution, he contributed to the implementation of its labour codes, though not all of his suggestions made it into the final product. Though the Unionist government's failure to consult him during the 1936 Karachi Dockworker's Strike frustrated him, Chatterjee is committed to his role as an apolitical Governor-General.§!
+Philip Walhouse Chetwode
+§YBorn:§! §LSeptember 21st, 1869, in Westminster, London, England§!
+Archibald Wavell
+§YBorn:§! §LMay 5th, 1883, in Colchester, Essex, England§!
+Lewis Heath
+§YBorn:§! §LNovember 23rd, 1885, in Poona, Presidency of Bombay, British India§!
+Maharaja Rajendrasinhji Jadeja
+§YBorn:§! §LJune 14th, 1899, in Sarodar, Nawanagar State, Kathiawar Agency, India§!
+Thomas Wynford Rees
+§YBorn:§! §LJanuary 12th, 1898, in Cardiff, Glamorganshire, Wales§!
+Hastings Ismay
+§YBorn:§! §LJune 21st, 1887, in Naini Tal, North-Western Provinces and Oudh, British India§!
+Claude Auchinleck
+§YBorn:§! §LJune 21st, 1883, in Aldershot, Hampshire, England§!
+Digvijaysinhji Ranjitsinhji
+§YBorn:§! §LSeptember 18th, 1895, in Sadodar, Nawanagar State, Kathiawar Agency, India§!
+Geoffrey Scoones
+§YBorn:§! §LJanuary 25th, 1893, in Karachi, Presidency of Bombay, British India§!
+Charles Hamilton Boucher
+§YBorn:§! §LOctober 26th, 1898, in Multan, Province of the Punjab, British India§!
+Francis Tuker
+§YBorn:§! §LJuly 4th, 1894, in Tobago, Colony of Trinidad and Tobago§!
+Walter Lentaigne
+§YBorn:§! §LJuly 15th, 1899, in Rangoon, Rangoon Division, Province of Burma, British India§!
+Khengarji III Sawai Bahadur
+§YBorn:§! §LAugust 23rd, 1866, in Bhuj, Cutch State, Cutch Agency, India§!
+Ishar Singh
+§YBorn:§! §LDecember 30th, 1896, in Nainwa, Bundi State, Rajputana Agency, India§!
+Montagu Stopford
+§YBorn:§! §LNovember 16th, 1892, in London, England§!
+Douglas Gracey
+§YBorn:§! §LSeptember 3rd, 1894, in Muzaffarnagar, North-Western Provinces and Oudh, British India§!
+John Henry Godfrey
+§YBorn:§! §LJuly 10th, 1888, in Handsworth, Staffordshire, England§!
+Herbert Fitzherbert
+§YBorn:§! §LAugust 10th, 1885, in Kingswear, Devon, England§!
+Khizar Hayat Tiwana
+§YBorn:§! §LAugust 7th, 1900, in Chak Muzaffarabad, Province of the Punjab, British India§!\n§YBackground:§! §LAs a scion of the great Tiwana clan, one of the most powerful families that make up the Unionists, Khizar Hayat Tiwana's rise to the top of the party was hardly a surprise. Despite his own lack of experience, his father's influence combined with the backing of the Noon clan saw him made leader in the run up to the 1934 elections, and securing victory for the party during them. While there may be some in the party, especially amongst the Daultanas and Hayats, who wish to see Tiwana replaced with their own candidate, his tenure as prime minister has generally been viewed as a positive one.§!
+Muhammad Ali Jinnah
+§YBorn:§! §LDecember 25th, 1876, in Karachi, Presidency of Bombay, British India§!\n§YBackground:§! §LFirst entering into politics to promote the interests of India's Muslim minority, Jinnah organised the Lucknow Pact between feuding Muslim and Hindu independence leaders in 1916, and took part in founding the All-India Home Rule League during the Weltkrieg to advocate Indian self-determination. While also a member of the Indian National Congress during this time, the rise of Mohandas Gandhi and his domination of the INC in the years following the Weltkrieg would see Jinnah's resignation from the party and his exit from politics entirely.\n\nGandhi would soon be elected leader of the Home Rule League, effectively merging it completely into the INC, with its few remaining members turning to radicalism. The same radicalism would soon see India plunged into civil war, and the eventual creation of an Indian dominion in territories still loyal to Britain, although too little too late for many. For Jinnah however this new Dominion represented a great opportunity, for he could not sit by as chaos swept through the nation. Soon after he returned to politics, reviving the Home Rule name for his new party, and set out to create a new political movement to uplift all Indians regardless of faith or class, the same one he still leads to this day.§!
+Mukund Ramrao Jayakar
+§YBorn:§! §LNovember 13th, 1873, in Bombay, Presidency of Bombay, British India§!
+Tej Bahadur Sapru
+§YBorn:§! §LDecember 8th, 1875, in Aligarh, North-Western Provinces, British India§!
+Iskander Ali Mirza
+§YBorn:§! §LNovember 13th, 1899, in Murshidabad, Presidency of Fort William in Bengal, British India§!
+Sheikh Mohammad Abdullah
+§YBorn:§! §LDecember 5th, 1905, in Soura, Jammu and Kashmir, India§!
+Fatima Jinnah
+§YBorn:§! §LDecember 25th, 1893, in Karachi, Presidency of Bombay, British India§!
+Nevill Vintcent
+§YBorn:§! §LOctober 3rd, 1902, in Oudtshoorn, Cape Colony§!
+Mehr Chand Mahajan
+§YBorn:§! §LDecember 23rd, 1889, in Kangra, Province of the Punjab, British India§!
+Sikander Hayat Khan
+§YBorn:§! §LJune 5th, 1892, in Multan, Province of the Punjab, British India§!
+Ram Richpal Ohlyan
+§YBorn:§! §LNovember 24th, 1881, in Garhi Sampla, Province of the Punjab, British India§!
+Feroz Khan Noon
+§YBorn:§! §LMay 7th, 1893, in Hamoka, Province of the Punjab, British India§!
+Sundar Singh Majithia
+§YBorn:§! §LFebruary 17th, 1872, in Majithia, Province of the Punjab, British India§!
+Charles Tegart
+§YBorn:§! §LOctober 5th, 1881, in Derry, Co. Derry, Ireland§!
+Narasimha Chintaman Kelkar
+§YBorn:§! §LAugust 24th, 1872, in Miraj, Miraj Senior State, Southern Maratha Country, India§!\n§YBackground:§! §LWhile once a close ally of Chittaranjan Das and a member of his Swaraj Party faction of the Indian National Congress, Narasimha Chintaman Kelkar refused to join his fellow Swarajists in rebellion against Britain. Instead, he would join Mukund Ramrao Jayakar in the Liberal Party, aiming to ensure the prioritisation of Hindu interests in the newly formed Dominion. Kelkar is not only a man of politics, however; he is an accomplished playwright, and his works have been responsible for igniting increased national identity and political consciousness among the people of India.§!
+Girija Shankar Bajpai
+§YBorn:§! §LApril 3rd, 1891, in Allahabad, North-Western Provinces and Oudh, British India§!
+Hriday Nath Kunzru
+§YBorn:§! §LOctober 1st, 1887, in Allahabad, North-Western Provinces and Oudh, British India§!
+Balakrishna Shivram Moonje
+§YBorn:§! §LDecember 12th, 1872, in Bilaspur, Central Provinces, British India§!
+Narasimha Gopalaswami Ayyangar
+§YBorn:§! §LMarch 31st, 1882, in Tanjore, Presidency of Fort St. George, British India§!
+Roy Bucher
+§YBorn:§! §LAugust 31st, 1895, in Edinburgh, Edinburghshire, Scotland§!
+Frank Messervy
+§YBorn:§! §LDecember 9th, 1893, in Trinidad, Colony of Trinidad and Tobago§!
+Wamanrao Sawant
+§YBorn:§! §Lin Gwalior State, Central India Agency, India§!
+Arthur Bedford
+§YBorn:§! §LAugust 2nd, 1881, in Greenwich, Kent, England§!
+Jagdev Chandra
+§YBorn:§! §LOctober 6th, 1916, in Peshawar, North-West Frontier Province, British India§!
+Aspy Engineer
+§YBorn:§! §LDecember 15th, 1912, in Lahore, Province of the Punjab, British India§!
+Cecil Bouchier
+§YBorn:§! §LOctober 14th, 1895, in Fleet, Hampshire, England§!
+Mehar Singh
+§YBorn:§! §LMarch 20th, 1915, in Lyallpur, Province of the Punjab, British India§!
+Indra Lal Roy
+§YBorn:§! §LDecember 2nd, 1898, in Calcutta, Presidency of Fort William in Bengal, British India§!
+Mohammad Siddiq Choudri
+§YBorn:§! §LMay 10th, 1911, in Batala, Province of the Punjab, British India§!
+Hardit Singh Malik
+§YBorn:§! §LNovember 23rd, 1894, in Rawalpindi, Province of the Punjab, British India§!
+British Commander
+§LThis leader is a British officer, and will only serve us as long as we remain loyal to the Entente.§!
+Old Hussar
+Hindu Nationalist
+Aga Khan
+Nationalist Firebrand

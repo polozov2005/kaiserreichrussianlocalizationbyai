@@ -1,0 +1,476 @@
+National Protection Association
+National Protection Association
+Refused to join the NPA or was refused by the NPA
+Replace §H$CHS_empowered_legislative$§! or §H$CHS_empowered_executive$§! with §H$CHS_empowered_executive_centralist$§!\nEffective Change:\n$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+10.00%§!\n
+Replace §H$CHS_empowered_legislative$§! or §H$CHS_empowered_executive$§! with §H$CHS_empowered_executive_federalist$§!\nEffective Change:\n$MODIFIER_GLOBAL_BUILDING_SLOTS_FACTOR$: §G+10.00%§!\n
+Merge §H$CHS_empowered_executive_centralist$§! or §H$CHS_empowered_executive_federalist$§! with §H$CHS_NPA_legacy$§!\nEffective change:\n$MODIFIER_POLITICAL_POWER_GAIN$: §G+0.25§!\n$MODIFIER_WAR_SUPPORT_FACTOR$: §G+10.00%§!
+Merge §H$CHS_empowered_executive_centralist$§! or §H$CHS_empowered_executive_federalist$§! with §H$CHS_xinhai_legacy_idea$§!\nEffective change:\n$MODIFIER_POLITICAL_POWER_GAIN$: §G+0.25§!\n$MODIFIER_STABILITY_FACTOR$: §G+10.00%§!
+This focus is a work in progress and currently has no effect.
+Limited Legitimacy
+Now that the North and South have been reunified, we must now begin the gargantuan task of creating a new Central Government for China. Many throughout China, especially in the recently-conquered North, do not recognise us as legitimate in the first place. It will take time and effort to prove ourselves to those who doubt us, and only then can we truly claim to have reunified China.
+Overstretched Bureaucracy
+Overnight, our bureaucracy went from governing a number of provinces in the south to governing the majority of China. To say that our bureaucracy is overstretched is an understatement. Our civil service will need to be expanded manifold in order to serve the newly-annexed provinces. Until then, our economy and ability to reach the people will suffer.
+The New Chinese Army
+Now that China has been reunited, our victorious armies are now those of the new Central Government. As such, a number of arsenals and military academies need to be integrated after decades of independent development.
+Shipyards of the Republic
+Legacy of the National Protection Wars
+Empowered Executive
+Centralist Government
+Federalist Government
+Unitary Presidential System
+Federalist Presidential System
+Legacy of the Xinhai Revolution
+Empowered Legislative
+Federalist Government
+Centralist Government
+Federal Republic
+Unitary Republic
+The Provisional Government
+With the core of China under our control, we have set up a new Provisional Government that will work on a new, hopefully permanent, constitution and create a united Republic that will stand the test of time.
+Strengthen Parliament
+Democrats all over China agree that Parliament must be strengthened to secure democracy in the country and ensure that authoritarians are unable to usurp power in the young Republic once again.
+Empower the Presidency
+The failure of the previous republican government shows that the government's powers must be clearly defined and the importance of the presidency to ensure stability and proper governance.
+Legacy of Xinhai
+The Xinhai Revolution marks the birth of modern China and the Republic. It and its revolutionaries must be honoured and commemorated, as their legacy will live on as long as our Republic lives.
+National Protection Legacy
+The National Protection movements have become a symbol of our leaders' and armies' commitment to republicanism and constitutionalism, and they should be honoured along with the Xinhai Revolution that birthed our Republic, as they made sure that the Republic survived.
+Federalist Model
+The Federalist movement in China has risen and fallen several times since the Xinhai Revolution, but it remains an important movement in our provisional government. A federal system will ensure that powers are properly separated and that local affairs remain in the hands of the locals, who understand their own problems better than any central government.
+Attack Provincialism
+Provincialism is a tool to divide our nation into fiefdoms and federalism is an attempt to institutionalise this. The supremacy of the central government must be ensured, for it is the only way China will be properly reunited as a single nation and not a collection of local tyrants.
+The New Republic
+With the lessons from the old Republic, we can build a new Republic. A new order in China, one that truly respects the legacy of its founders, republicanism, constitutionalism, and democracy, will be born and, this time, endure.
+Personality Cult
+[Root.GetLeader] is the sole reason that the Republic of China was able to crush the monarchists, radicals, and pretenders and restore the legacy of the Xinhai Revolution. Without him, there would be no Republic, and his legacy as liberator of China will endure.
+The New Bureaucracy
+From ruling a province or two to ruling the core of China, our bureaucracy has been struggling to say the least. Whether we adopted a federalist or centralist model, new civil servants need to be hired and the entire service must be reorganised from scratch.
+New National Assembly Election
+The new government cannot hope to act legitimately as a Republic without assembling a new Parliament. New election to the National Assembly are to be held for the first time in decades (discounting illegitimate ones by the Manchu tyrants of course), helping bring legitimacy to our Provisional Government.
+National Reunification
+With a new National Assembly gathered and a new Constitution ratified, our government is no longer provisional, but the sole legitimate government of China. President [Root.GetLeader] will lead the nation towards National Reunification, and China will be once again united and free. Long live the Republic!
+Reintegrate Academies
+Military academies are scattered throughout China since before the Xinhai Revolution and have largely developed independently since the first collapse of the Qing Dynasty. They must be reintegrated and the curriculum of all officers standardised once more.
+Standardised Arsenals
+For several decades, the arsenals of China have been under the control of different and largely independent provincial and national governments. Now that a number of those arsenals are under our control, the logistical issues stemming from different arsenals producing different arms in different calibre for a single army are substantial and should be rectified as soon as possible.
+Fate of Northern Officers
+Since the defeat of the Northern warlords, we have many officers as prisoners of war. Chen Jiongming believes we should be lenient, as many of them are competent and the majority are willing to pledge their allegiance to the new Republic. Not many share this optimism, however, and that they should serve as an example as traitors to China
+Small Arms Development
+Despite attempts by the numerous national and provincial governments to upgrade, the most widespread rifle in service remains the venerable, yet severely obsolete, Model 88. Making the standardisation on a new, modern rifle a reality rather than a project on paper is a top priority in order to improve our lacklustre military capabilities compared to other modern militaries.
+Army Motorisation
+As the infrastructure of a unified China improves, not only is motorisation becoming a possibility, it is becoming a necessity due to the very size of our country. Increasing our mobility will increase our capabilities on and off the battlefield, allowing for greater flexibility and reach- especially in remote areas where bandits continue to prowl.
+Artillery Modernisation
+Artillery is the king of the battlefield and modern pieces were a luxury in the warlord era. With the capabilities of a united China, we can modernise our guns and bring our firepower closer to the global standard.
+Army Support and Logistics
+Amateurs study tactics, masters study logistics. With a country as large and varied as China, this proverb must be taken seriously - as many warlords learned the hard way. Improving our logistics will improve our armies' fighting capabilities far more than any modern firearm.
+A Tank Arsenal
+The development of armoured warfare has certainly been noticed in China, but to develop and use them here was but a pipe dream. Now that we are united and stronger than ever, now is the time to delve into these advanced technologies. An arsenal dedicated to armoured vehicles should be founded as an important stepping stone in China's modernisation.
+Formalise Aviation Schools
+While there are indeed schools for pilots in China, they are few and relatively disorganised. Formalising these schools and creating a proper curriculum for pilots and maintenance crews will help create a proper air force for China.
+New Aircraft Factories
+The South of the country has seen a number of small aircraft workshops created in the last decade or two, but remained fairly small, only able to repair what few planes there were. Creating proper factories is another step towards developing a fledgling aeronautics industry, a staple of the modern era.
+Domestic Fighter Design
+There have been a number of attempts at creating a Chinese aircraft, mostly based on foreign designs. With the help of foreign experts and an increasing pool of local technicians, we are now more than ever able to develop our own designs in the hopes of creating a modern air force to defend our skies.
+Tactical Bomber Fleet
+Medium tactical bombers offer versatility to an air force with the ability to accomplish different types of mission. Of course, designing such a large plane has been unheard of until now and will certainly be a challenge.
+Army Air Support
+Light bombers as some kind of flying artillery is the best way an air force can support land operations. It is only logical that we focus on these close-air-support crafts as we forge a modern air force.
+Southern Fleet's Legacy
+The Guangdong (or Southern) Fleet had a short and tumultuous history. Created in the late 19th century, its funding was siphoned towards the Nanyang Fleet in Shanghai, achieving little in the Sino-French and Sino-Japanese Wars, and was unceremoniously disbanded before the Xinhai Revolution. Nevertheless, it was one of the four modern fleets of China and its legacy endures in local memory.
+Extend a Hand to Beiyang Admirals
+With the reunification of the nation, the once numerous admirals and officers, alongside their knowledge and understanding, have found themselves amiss. Through an amnesty programme aimed at the old seafarers from the ashes of the Beiyang government, we can ensure that the new China can build a fleet worthy to protect its shores, and project its influence.
+Revive the Naval Academies
+The naval academies of China have been largely neglected through successive national and provincial governments. Now that there is a single, uncontested Central Government once more, we have the ability to renew naval interests and support a new cadre of officers for the Republican Navy.
+Modern Destroyer Flotilla
+Destroyers are the backbone of any modern navy, especially one as fledgling as China's. They will protect our coasts, shipping lanes and larger warships from submarines and small attack crafts.
+Develop Submarines
+Submarines are proving to be indispensable in modern naval warfare. For a navy as limited as ours, they may prove to be a life saver, allowing us to attack far stronger enemies by raiding their shipping lanes and harassing their larger fleets.
+Cruisers for our Fleet
+Cruisers are important for scouting and screening and, realistically speaking, may be the largest warships we are capable of building at this time.
+Focus on Coastal Defence
+It would be insane to start planning for a large fleet capable of rivaling the naval Great Powers. As such, we must focus on a more flexible navy capable to protecting our long coast and interests in the Pacific.
+A Grand Fleet?
+If China is to be considered a Great Power as it rightfully should be, a navy is indispensable. While it will certainly be a very long-term plan, our great navy must start somewhere and it must start now.
+Naval Bomber Project
+While ignored at first, naval bombers armed with torpedoes and armour-piercing bombs are quickly becoming a serious threat to even the largest warships currently at sea. This technology might be exactly what China needs: A cost-effective way of destroying a vastly-larger enemy fleet threatening our coastline.
+National Protection Alliance
+The National Protection Alliance is a loose confederation of southern warlords with the aim at overthrowing the Beijing government and restore the republican rule.
+The Second Northern Expedition
+Invading the North is a very difficult feat, as demonstrated by the Kuomintang's attempt that led to their demise. It will require thorough planning, secured logistics and, of course, an army united in purpose. We will succeed where the KMT has failed and reunite the nation!
+[From.GetFlag] Invite [From.GetNameDef]
+[From.GetFlag] Secure [From.GetNameDef]
+[CHI.GetFlag] Purge the Leftists
+Reuniting the Country
+The National Protection Alliance has restored the Republic. Now, it is time to consolidate and reintegrate the country by destroying rebellious provinces and dismantling opposing paramilitaries.
+[From.GetFlag] Ultimatum to [From.GetNameDef]
+[43.GetCapitalVictoryPointName]
+[4.GetCapitalVictoryPointName]
+$league_of_arab_states$
+United by language, the Arab people have always formed a distinct group within the empires they inhabited. Some people, however, feel that this connection doesn't go far enough and that it's the destiny of the Arab world to reunite as it did in the times of the great Caliphates. They believe that through the creation of such a united Arabia, the entire region will finally experience its true renaissance and regain its rightful place in global politics.\n\nTo hasten this unification, a supranational organisation (§Y$league_of_arab_states$§!) has been created and granted significant power. Should the dream of a Pan-Arab state ever be realised however, we will need to convince the other Arab states to partake in this initiative and surrender part of their sovereignty.
+Invite [FROM.GetNameDef] to the Arab League
+\n\n$unlocks_decisions$ to invite §C[JBS.GetNameWithFlag], [HEJ.GetNameWithFlag], [SYR.GetNameWithFlag], [SAU.GetNameWithFlag]§!, and §C[YEM.GetNameWithFlag]§! to the §Y$league_of_arab_states$§!.
+\n\n$unlocks_decisions$ to invite §C[JBS.GetNameWithFlag], [HEJ.GetNameWithFlag], [IRQ.GetNameWithFlag], [SAU.GetNameWithFlag]§!, and §C[YEM.GetNameWithFlag]§! to the §Y$league_of_arab_states$§!.
+Unlocks a £decision_icon_small §YDecision§! to invite §C[OMA.GetNameWithFlag]§! to the §Y$league_of_arab_states$§!.
+Every member of the §Y$league_of_arab_states$§!
+Three random valid states
+§RRefused§! to join the §Y$league_of_arab_states$§!.
+Taking the Initiative
+Compared to the Ottomans, our infrastructure is insufficient for a prolonged war. We must strike swiftly and decisively, ending the conflict before the enemy can regroup and fortify their defences.
+Halt the Egyptian Advance
+The General Staff is in disarray over the Levant Crisis, but one thing is certain: the Egyptian Army cannot sustain a prolonged war against us. A defence-in-depth strategy can wear them down, forcing them to overextend their lines - but we must turn the tide before they threaten the heartland.
+Levant Crisis: on the Initiative
+Levant Crisis: Initiative Lost
+Levant Crisis: Counteroffensive
+Paying Reparations
+Railway Transport Disrupted
+Levant Crisis
+Guinea
+Guinean
+Guinea
+Union of Guinea
+the Union of Guinea
+Union of Guinea
+the Union of Guinea
+Union of Guinea
+the Union of Guinea
+Fuuta Jaloo
+Jaloo
+Fuuta Jaloo
+Elhadj Abdoulaye Diallo
+§YBorn:§! §LNovember 1916, in Konsondougou, Colony of Guinea, French West Africa§!
+Albert Liurette
+§YBorn:§! §LJuly 3rd, 1904, in Kouta, Colony of French Guinea§!
+Koumandian Keita
+§YBorn:§! §L1916, in the Colony of Guinea, French West Africa§!
+Yacine Diallo
+§YBorn:§! §LOctober 18th, 1897, in Labé, Colony of French Guinea§!
+Georges Olivier
+§YBorn:§! §LAugust 30th, 1870, in Marseille, Bouches-du-Rhône, French Empire§!
+Louis-Placide Blacher
+§YBorn:§! §LOctober 5th, 1883, in Saint-Pierre, Colony of Martinique§!
+Elhadj Camara Baba
+§YBorn:§! §L1915, in Kissidougou, Colony of Guinea, French West Africa§!
+Aguibou Mody
+§YBorn:§! §Lin the Imamate of Futa Jallon§!
+Barry Diawadou
+§YBorn:§! §LMay 10th, 1916, in Dabola, Colony of Guinea, French West Africa§!
+Tierno Abdourahmani
+§YBorn:§! §L1916, in Donghol Thiernoya, Colony of Guinea, French West Africa§!
+Karamoko Dalen
+§YBorn:§! §L1871, in Satina, Imamate of Futa Jallon§!
+Reymond Sarif Easmon
+§YBorn:§! §LJanuary 15th, 1913, in Freetown, Colony and Protectorate of Sierra Leone§!
+Ivory Coast
+Ivorian
+the Ivory Coast
+Félix Houphouët-Boigny
+§YBorn:§! §LOctober 18th, 1905, in Yamoussoukro, Colony of the Ivory Coast, French West Africa§!
+Mali
+Malian
+Mali
+Malian Commune
+the Malian Commune
+Malian Commune
+the Malian Commune
+Malian Commune
+the Malian Commune
+Modibo Keïta
+§YBorn:§! §LJune 4th, 1915, in Bamako, Colony of Upper Senegal and Niger, French West Africa§!
+Mamadou Konaté
+§YBorn:§! §L1897, in Kati, Colony of Sudan, French West Africa§!
+Mamby Sidibé
+§YBorn:§! §L1891, in Niamefero, Colony of Sudan, French West Africa§!
+Émile Bélime
+§YBorn:§! §LJuly 28th, 1883, in Villeurbanne, Rhône, French Republic§!
+Hamallah ibn Muhammad al-Tishiti
+§YBorn:§! §L1882, in the Colony of French Sudan§!
+Noukoun Kone
+§YBorn:§! §LFebruary 16th, 1909, in Ségou, Colony of Sudan, French West Africa§!
+Mauritania
+Mauritanian
+Mauritania
+Trarza
+Trarzan
+the Emirate of Trazra
+Horma Ould Babana
+§YBorn:§! §LMarch 1st, 1912, in Mederdra, Colony of Mauritania§!
+Sidi el-Mokhtar N'Diaye
+§YBorn:§! §LSeptember 13th, 1916, in Atar, Colony of Mauritania§!
+Merebbi Rebbu
+§YBorn:§! §LFebruary 13th, 1881, in Tiris, Colony of Rio de Oro§!
+Ahmed al-Hiba
+§YBorn:§! §LSeptember 9th, 1877, in Smara, Saguia el-Hamra, Sultanate of Morocco§!
+Niger
+Nigerien
+Niger
+Boubou Hama
+§YBorn:§! §L1906, in Fonéko Tédjo, Colony of Upper Senegal and Niger, French West Africa§!
+Ibrahim Niass
+§YBorn:§! §LJuly 9th, 1900, in Tayba Ñaseen, Colony of Upper Senegal, French West Africa§!
+Sultan Barma Mustapha
+§YBorn:§! §Lin the Sultanate of Damagaram§!
+Mohamadou Djibrilla Maïga
+§YBorn:§! §LJuly 8th, 1908, in Colman, Colony of Upper Senegal, French West Africa§!
+Senegambia
+Senegambian
+Senegambia
+Jolof State
+Jolofi
+the Jolof State
+Sierra Leone
+Sierra Leonean
+Sierra Leone
+Banja Tejan-Sie
+§YBorn:§! §LAugust 7th, 1917, in Moyamba, Colony and Protectorate of Sierra Leone§!
+George Giffard
+§YBorn:§! §LSeptember 27th, 1886, in Englefield Green, Surrey, England§!
+Lashmer Whistler
+§YBorn:§! §LSeptember 3rd, 1898, in Kasauli, Province of the Punjab, British India§!
+John Karefa-Smart
+§YBorn:§! §LJune 17th, 1915, in Rotifunk, Colony and Protectorate of Sierra Leone§!
+Amadu Wurie
+§YBorn:§! §LAugust 27th, 1898, in Gbinti, Colony and Protectorate of Sierra Leone§!
+Mohammad Sanusi Mustapha
+§YBorn:§! §LJune 1st, 1903, in Freetown, Colony and Protectorate of Sierra Leone§!
+Isaac Wallace-Johnson
+§YBorn:§! §L1894, in Freetown, Colony and Protectorate of Sierra Leone§!
+Sudan
+Sudanese
+the Sudan
+Imamate of Sudan
+the Imamate of Sudan
+Imamate of Sudan
+the Imamate of Sudan
+Imamate of Sudan
+the Imamate of Sudan
+Imamate of Sudan
+the Imamate of Sudan
+Abd al-Rahman al-Mahdi
+§YBorn:§! §LJune 1885, in Omdurman, Mahdist Sudan§!
+Ali Abd al-Latif
+§YBorn:§! §L1896, in Wadi Halfa, Condominium of Anglo-Egyptian Sudan§!
+El Ferik Ibrahim Abboud
+§YBorn:§! §LOctober 26th, 1900, in Suakin, Condominium of Anglo-Egyptian Sudan§!
+Togoland
+Togolese
+Togoland
+Togo
+the Togolese Republic
+Togo
+the Togolese Republic
+Togo
+the Togolese Republic
+Togo
+Togo
+Tunisia
+Tunisian
+Tunisia
+Tunisian Commune
+the Tunisian Commune
+Tunisian Commune
+the Tunisian Commune
+Tunisian Commune
+the Tunisian Commune
+Ogaden War: Attack Phase
+Ogaden War: Defence Phase
+Adamawa
+Adamawi
+Adamawa
+Adamawa Commune
+the Adamawa Commune
+Adamawa Commune
+the Adamawa Commune
+Adamawa Commune
+the Adamawa Commune
+Adamawa Clique
+Adamawan
+the Adamawa Clique
+Adamawa Emirate
+the Adamawa Emirate
+Adamawa Clique
+the Adamawa Clique
+Angola
+Angolan
+Angola
+Inocêncio Matoso Andrade da Câmara Pires
+§YBorn:§! §LMarch 4th, 1898, in Luanda, Portuguese Angola§!
+Monsenhor Alves da Cunha
+§YBorn:§! §LSeptember 21st, 1882, in Codeçoso, Minho, Kingdom of Portugal§!
+Bechuanaland
+Bechuanaland
+Bechuanaland
+Seretse Khama
+§YBorn:§! §Lin Serowe, Bechuanaland Protectorate§!
+Urundi
+Urundi
+Urundi
+Mwambutsa IV
+§YBorn:§! §LMay 6th, 1912, in Nyabiyogi, Burundi, German East Africa§!
+Barotseland
+Barotse
+Barotseland
+Commune of Barotseland
+the Commune of Barotseland
+Commune of Barotseland
+the Commune of Barotseland
+Commune of Barotseland
+the Commune of Barotseland
+Yeta III
+§YBorn:§! §Lin the Kingdom of Barotseland§!
+Cameroon
+Cameroonian
+the Cameroon
+Alexander Duala Bell
+§YBorn:§! §LDecember 3rd, 1897, in Douala, Protectorate of Kamerun§!
+Karl Atangana
+§YBorn:§! §L1880, in Mvolyé, Ewondo Territory§!
+Joseph Ekwe Bilé
+§YBorn:§! §LDecember 13th, 1892, in Douala, Protectorate of Kamerun§!
+Kivu
+Kivu
+Kivu
+Kivu Regime
+the Kivu Regime
+Kenya
+Kenyan
+Kenya
+Kikuyuland
+Kikuyu
+Kikuyuland
+Stanley Mathenge
+§YBorn:§! §L1919, in Mahiga, Kenya, German Central Africa§!
+Tom Delamere
+§YBorn:§! §LAugust 19th, 1900, in Withington, Lancashire, England§!
+Philip Euen Mitchell
+§YBorn:§! §LMay 1st, 1890, in London, England§!
+Jomo Kenyatta
+§YBorn:§! §L1897, in Ngenda, East Africa Protectorate§!
+Harry Thuku
+§YBorn:§! §L1895, in Kiambu, East Africa Protectorate§!
+Ewart Scott Grogan
+§YBorn:§! §LDecember 12th, 1874, in London, England§!
+Madagascar
+Malagasy
+Madagascar
+Kingdom of Imerina
+Malagasy
+the Kingdom of Imerina
+Marie-Louise Razafinkeriefo
+Marie-Louise I
+§YBorn:§! §LMay 1st, 1897, in Saint-Denis, Colony of Réunion§!
+Mozambique
+Mozambican
+Mozambique
+CNAdM
+Congresso Nacional Africano de Moçambique (African National Congress of Mozambique)
+CNAdM
+Congresso Nacional Africano de Moçambique (African National Congress of Mozambique)
+CNAdM
+Congresso Nacional Africano de Moçambique (African National Congress of Mozambique)
+João Tomás Chembene
+§YBorn:§! §Lin Portuguese East Africa§!
+José Augusto da Costa Almeida
+§YBorn:§! §LJune 14th, 1912, in Province of Mozambique, Portuguese East Africa§!
+Ruanda
+Ruandan
+Ruanda
+Yuhi V
+§YBorn:§! §L1883, in the Kingdom of Rwanda§!
+Tshuapa Clique
+Tshuapan
+the Tshuapa Clique
+Justin Kokolo
+§YBorn:§! §L1913, in Mayombe, Belgian Congo§!
+Azania
+Azanian
+Azania
+East Africa
+East African
+the East African Federation
+East Africa
+East African
+East Africa
+Muhamed Husan
+§YBorn:§! §LFebruary 22nd, 1904, in Dar es Salaam, German East Africa§!
+Uganda
+Ugandan
+Uganda
+Mutesa II
+§YBorn:§! §LNovember 19th, 1924, in Kampala, Uganda, German Central Africa§!
+Ignatius K. Musaazi
+§YBorn:§! §L1905, in Timuna, Protectorate of Uganda§!
+Andrew Cohen
+§YBorn:§! §LOctober 7th, 1909, in Berkhamsted, Hertfordshire, England§!
+Zambesia
+Zambesian
+Zambesia
+Bembaland
+Bemba
+Bembaland
+Makumba Kanyanta
+§YBorn:§! §Lin Mthwakazi§!
+Ronald Storrs
+§YBorn:§! §LNovember 19th, 1881, in Bury St Edmunds, Suffolk, England§!
+Zanzibar
+Zanzibari
+Zanzibar
+Khalifa II ibn Harub Al-Said
+§YBorn:§! §LAugust 26th, 1879, in Zanzibar, Sultanate of Zanzibar§!
+African Minor Focus Tree
+Guarding our Sovereignty
+The collapse of Mittelafrika has given [ROOT.GetNameDef] the opportunity to claim itself as a sovereign state; let us not waste this.\n\nUnion, Work, Justice!
+The [AFR_FormerOverlord_ADJ] Remnants
+The hasty end of colonial rule has left behind many a soldier. It has, however, also left behind a decent amount of military materiel stashes in depots at key locations within our nation.
+Analyse their Equipment
+In the [AFR_FormerOverlord_ADJ] administration, our men were not taught the know-how of using modern equipment that our colonial masters used to keep the [ROOT.GetAdjective] nation subjugated. Although much of this equipment has fallen into our hands, we must learn how to use it before applying it to the battlefield.
+Petition the French Republic
+[ROOT.GetNameDefCap] needs guns, and this seems like the most obvious place to turn.
+Petition the French Commune
+The Commune may be sympathetic to our needs.
+Open Recruitment Programme
+Right now, [ROOT.GetNameDef] needs all the help on the front lines that it can get!
+The Independence Push
+[ROOT.GetNameDefCap] has felt its first taste of freedom and is not going to give up the opportunity to be independent so easily!
+A Modern African Army
+Our soldiers have realised what is on the line. We have gathered what scattered equipment we could find and learned how to use new weapons and tactics. Though much is to be done, we are on our way to creating a unified and powerful army, ready to face any warlord that we come across!
+A Homegrown Industry
+With the lack of any significant industrial output, our nation will crumble battling against others who are more advanced economically. We must not allow this to happen; our push towards industrialisation must begin, and quickly.
+A Push for Infrastructure
+Under our [AFR_FormerOverlord_ADJ] overlords, infrastructure was neglected. As we push for industrialisation, we must invest in basic facilities such as buildings and roads, not only to create prosperity for our citizens but also to support our soldiers on the frontlines.
+Industrial Machinery
+Developments in our agricultural and industrial tools have advanced our nation significantly. Although there is much work to be done, we have made the first steps towards a functioning, modern economy.
+A Nascent Heavy Industrial Base
+Investing in heavy industry will be costly, but it will be worth it, greatly contributing to our economic development and industrialisation. We will be able to produce military equipment at a greater rate this way.
+[ROOT.GetAdjective] Arms
+The collapse of the [AFR_FormerOverlord_ADJ] administration in [ROOT.GetNameDef] has left behind large numbers of military equipment. However, if we are to focus on the long-term prosperity and safety of [ROOT.GetNameDef], it would be wise to invest in armament factories, so we do not become reliant on foreign equipment.
+International Waters
+Ensuring that we have access to the sea is of utmost importance, especially in times of crisis such as this. With access to the sea, we will be able to get raw materials and aid that we desperately need.
+Join the International Community
+With our government's position solidified, we have declared ourselves a free and sovereign state and are ready to join the international community. We should first look to nations who are willing to offer us support; whether it be that they have taken an interest in supporting our independence or are simply looking for new opportunities, we cannot pick and choose, given our precarious situation.
+Materiel from [?AFR_benefactor_tag.GetNameDef]
+Not all of the ammunition we need can be produced domestically, nor can we find all of it lying on the ground somewhere. Petitioning our benefactor for guns will help us greatly.
+[?AFR_benefactor_tag.GetAdjective] Oversight
+Our officers may be brave and vigorous in fighting for our independence, but the unfortunate reality is that they are inexperienced. With [?AFR_benefactor_tag.GetNameDef] overseeing our military affairs, we will be able to create a modern army and learn new tactics.
+Economic Aid from [?AFR_benefactor_tag.GetNameDef]
+With the introduction of foreign goods and services from [?AFR_benefactor_tag.GetNameDef], we will be able to develop our economy much more efficiently.
+The [?AFR_benefactor_tag.GetAdjective] Miracle
+Regardless of our benefactor's intentions in assisting our development, none can argue that their help has allowed [ROOT.GetNameDef] to prosper. We are well on our way to an economic miracle.
+Join the IEDC
+Without our [?AFR_benefactor_tag.GetAdjective] friends, our nation would likely not have prospered to the extent it has. Due to our lack of industrial capacity, it's not likely we can pay back any debts to them anytime soon. However, we may repay them by formalising our entry into their economic bloc, the Imperial Economic Development Council.
+Join the Cairo Pact
+[?AFR_benefactor_tag.GetAdjective] investment, both economically and militarily, has been proven vital to the survival of our nation. We should repay their kindness by joining their faction, the Cairo Pact.
+Join the Phalanstère
+Without our [?AFR_benefactor_tag.GetAdjective] friends, our nation would likely not have prospered to the extent it has. Due to our lack of industrial capacity, it's not likely we can pay back any debts to them anytime soon. However, we may repay them by formalising our entry into their economic bloc, the Phalanstère.
+Join Mitteleuropa
+Without our [?AFR_benefactor_tag.GetAdjective] friends, our nation would likely not have prospered to the extent it has. Due to our lack of industrial capacity, it's not likely we can pay back any debts to them anytime soon. However, we may repay them by formalising our entry into their economic bloc, Mitteleuropa.
+[BEL.GetAdjective] Military Advisors
+[CAN.GetAdjective] Military Advisors
+[EGY.GetAdjective] Military Advisors
+[ENG.GetAdjective] Military Advisors
+[FRA.GetAdjective] Military Advisors
+[GER.GetAdjective] Military Advisors
+[NFA.GetAdjective] Military Advisors
+[POR.GetAdjective] Military Advisors
+[RAJ.GetAdjective] Military Advisors
+[SAF.GetAdjective] Military Advisors
+Rapid Economic Influx

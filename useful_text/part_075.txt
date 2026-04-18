@@ -1,0 +1,397 @@
+Baikal Treaty
+White Alliance
+PSR(m)
+Partiya Sotsialistov-Revolyutsionerov (maksimalistov) (Party of Socialist-Revolutionaries-Maximalists)\n§LThe Maximalist cells have weathered many storms in the faraway mining towns and sawmill villages of Siberia. They remain as an underground organisation, agitating and preparing for the struggle to build communism once more.§!\n
+PSR-Left
+Partiya Sotsialistov-Revolyutsionerov (Party of Socialist-Revolutionaries)\n§LSiberia has always been an Eser stronghold, and they remain a major force among Siberian socialists. Some regional sections can even be described as anarcho-syndicalists.§!\n
+PSR-Left
+Partiya Sotsialistov-Revolyutsionerov (Party of Socialist-Revolutionaries)\n§LSiberia has always been an Eser stronghold, and they remain a major force among Siberian socialists. Most of them are agrarian socialists, drawing their strength from the land like the Narodniks of old.§!\n
+SSF
+Soyuz Sibiryakov-Federalistov (Union of Siberians-Federalists)\n§LThe Siberian-Federalists are a minor group largely based in the small, left-leaning city intelligentsia of Siberia. Their programme is moderately socialist but Siberian regionalist, championing a federal solution for all of Russia.§!\n
+DNPVS-Left
+Demokraticheskaya Narodnaya Partiya Volnoy Sibiri (Democratic Popular Party of Free Siberia - Left Faction)\n§LThe Free Siberians have their ideological roots in Siberian national liberalism, and they have rapidly grown to be the largest political party in Siberia. The DNPVS is an alliance of the independent peasants and growing middle class of Siberia's towns and cities. The leading figure among the progressive faction is Sergey Nikolayevich Markov, a former Kadet and the protégé of venerable Siberian leader Ivan Serebrennikov.§!\n
+DNPVS-Right
+Demokraticheskaya Narodnaya Partiya Volnoy Sibiri (Democratic Popular Party of Free Siberia - Right Faction)\n§LThe Free Siberians have their ideological roots in Siberian national liberalism, and they have rapidly grown to be the largest political party in Siberia. The DNPVS is an alliance of the independent peasants and growing middle class of Siberia's towns and cities. The leading figure among the right wing - and for the whole party - is Ivan Serebrennikov, an old Kadet and Right-Eser who once served in Kolchak's government.§!\n
+Independent Conservatives
+Independent Conservatives\n§LWhile there is not yet a Siberian-wide conservative party, various conservative communities across the lands exert considerable influence in local politics. The Old Believers form a particularly significant political group in the Transbaikal region.§!\n
+BOR
+Byuro Osvobozhdeniya Rossii (Bureau for Liberation of Russia)\n§LSemyonov would portray the BOR as a future ruling party and organisation to lead the struggle for Siberia, but in practice it is merely a propaganda department for Semyonov's army.§!\n
+Semyonov Clique
+Semyonov Clique\n§LThe man, the legend! Grigory Semyonov has always been a leader to inspire great personal loyalty from his trusted men, who came to follow him in his Manchurian exile. And it is this charisma that has enabled him to build a personal fiefdom around him, carving it with a Cossack sabre, but with lessons learnt from Chinese wars. His clique will follow him to any end.§!\n
+Circle of St. George
+Krug Svyatogo Georgiya (Circle of Saint George)\n§LThe Circle was founded by General Vyacheslav Volkov in 1931, after he and a number of other monarchist officers were expelled from the Russian Army as Kornilov's rivals. The Circle, receiving its name from the Soldier-Saint so often celebrated in Russian military symbolism, is a conspiratorial organisation centred around a few military men of great gravitas, like Mikhail Diterikhs and Volkov himself. Their goal is nothing less than the restoration of monarchy in Russia - and they will either succeed in achieving their vision or die trying.§!\n
+DNPVS-Semyonov
+Demokraticheskaya Narodnaya Partiya Volnoy Sibiri (Democratic Popular Party of Free Siberia - Semyonov's Faction)\n§LThe Free Siberians have their ideological roots in Siberian national liberalism, and they have rapidly grown to be the largest political party in Siberia. The DNPVS is an alliance of the independent peasants and growing middle class of Siberia's towns and cities - and with Grigory Semyonov's influence, there is a significant conservative and patriotic wing of the party under the leadership of Sergey Taskin, another former Kadet and Semyonov's right-hand man in politics.§!\n
+DNPVS
+$FER_authoritarian_democrat_party_3_long_tt$\n§LThe Free Siberians have their ideological roots in Siberian national liberalism, close to the Kadets, but under the leadership of Sergey Taskin. The DNPVS has turned into a political machine propping up Grigory Semyonov's regime. The DNPVS is populist, patriotic and, in truth, any ideology a potential voter might like at any given moment. After all, it is not formed around an idea, but a man, and that man took Russia with his sword, not by ballot.§!\n
+Demokraticheskaya Narodnaya Partiya Volnoy Sibiri (Democratic Popular Party of Free Siberia)
+VNP
+$FER_authoritarian_democrat_party_4_long_tt$\n§LThe VNP is a people's party - vaguely populist and patriotic, more show than actual policy. It has been created out of groups supporting Grigory Semyonov, under the leadership of his right-hand man Sergey Taskin, a former Kadet. The All-Russian Popular Party is not like other parties, obsessed with ideologies and dogmas - but instead it is only concerned with the well-being of the Russian people, and loyally supporting President Semyonov in his quest to restore Russian prosperity and greatness.§!\n
+Vserossiyskaya Narodnaya Partiya (All-Russian Popular Party)
+VVS
+$FER_paternal_autocrat_party_2_long_tt$\n§LThe VVS is not a party, but a movement. It is composed of the patriotic veterans and their allies, men who are to be thanked for Russia's liberation. And chief among them is Supreme Ataman Grigory Semyonov himself, whose regime is filled with brave men from the VVS.§!\n
+Vserossiysky Voinsky Soyuz (All-Russian Military Union)
+RMS
+$FER_national_populist_party_2_long_tt$\n§LThe RMS is a union of various monarchist organisations in Russia, forced underground by the earlier government. They were formed by General Mikhail Diterikhs' supporters as a political front for his rule, rallying all those who agree with the General's vision for a traditional and strong Russia. As a civilian organisation, the Union has quickly turned into a counter-balance to the military-oriented Circle of St. George. The membership of the Union has multiple well-known names, such as Ivan Solonevich, Ivan Ilyin and Metropolitan Iosif.§!\n
+Russky Monarkhichesky Soyuz (Russian Monarchic Union)
+Military Regime
+Military Regime
+Alliance of Mutual Dislike
+Alliance of Mutual Dislike
+Cossack Clique
+Circle of St. George
+Uneasy Cooperation
+Semyonovites Leading
+Semyonovite Dominance
+Cossacks Lead the Way
+Diterikhsites Leading
+Diterikhsite Dominance
+Towards the Empire
+Ataman of Amur
+Ataman of the East
+Supreme Ataman
+Supreme Ataman
+Liberator of Siberia
+President for Life
+Devout General
+Tsar and Grand Prince of All Rus'
+Restorer of the Romanov Dynasty
+Knight without Fear
+Green Ukrainian Nationalist
+Guerrilla Organiser
+Siberian Regionalist
+Old Believer Metropolitan
+Schismatic Metropolitan
+Shady Business Connection
+§RRival Commander§!
+[JAP.GetFlag] §RFavours§! from Tokyo will change by [?RUS_favour_change|=+0]\n
+National Spirit §Y$FER_japanese_assistance$§! may change.
+The number of spawned units increases with how much the Balance of Power is on §0Diterikhs'§! side.
+Number of spawned units increases depending on how much Balance of Power is on §PSemyonov's§! side.
+£army_experience §H50§! £pol_power  §H50§!
+£army_experience §R50§! £pol_power  §R50§!
+It costs $decision_cost_army_xp_50_pp_50_blocked$ to take the decision
+[JAP.GetFlag] §Y1§! Favour
+[JAP.GetFlag] §R1§! Favour
+It costs [JAP.GetFlag] §R1§! Favour to take the decision.
+Has at least [JAP.GetFlag] §Y3§! Favour
+Has at least [JAP.GetFlag] §Y4§! Favour
+§RExpelled the Japanese Interests§!
+Brigade of Holy Cross
+Restored the Republican Constitution
+Created the Semyonov Constitution
+If we own §Y[219.GetName]§!, this focus will be §Ybypassed§! and all the effects below will be executed.
+If we own §Y[219.GetName]§!, the focus §Y$FER_masters_over_siberia$§! will be §Ybypassed§! if not already completed and most of its effects will be executed.
+Riding to the West
+[FER_ride_to_west_scripted]
+Ура! The Siberian Riflemen and the brave Cossacks of Siberia are marching again against the Red Menace! Our way may be long and hard, but with sheer perseverance and faith we shall triumph over our Godless enemies. Ride after me, men: there are three thousand miles to the Urals, and beyond!\n\n§CWe must reach at least Irkutsk before we can dream of peace - or die trying.§!
+Ура! The tyrant sits in the Kremlin: a terrorist who scorns at tradition, a nihilist who glorifies sin. He has taken away the ancestral rights of the Cossacks, his goons are destroying all that is holy in Rus'. This cannot stand! Wake up, men of Siberia!\n\n§CWe must reach at least Irkutsk before we can dream of peace - or die trying.§!
+Defend Siberia
+§CSince we currently occupy §YChelyabinsk§! and §YYekaterinburg§!, we will §Ggain all of Siberia§! when the war ends!§!
+§CWith our current position in the war, the war will end with a white peace. Should we take §YChelyabinsk§! and §YYekaterinburg§!, we will §Ggain all of Siberia§! when the war ends.§!
+§CWith our current position in the war, [RSA.GetNameDef] will §rnot accept a peace offer§!. Fight on!§!
+Secure the Far East
+Secure Chita
+Secure Baikal
+Reach the Ob
+Reach the Urals
+The Last Crusade
+Men, one last fight! Over the Volga, and to the heart of Holy Rus' - and then we can rest!
+Discipline the Army
+Calm the Tensions
+Rifle Workshops
+Armoured Train Corps
+Yakut Self-Defence Corps
+Message Annenkov
+Boris Annenkov, notorious Russian mercenary has made career for himself and his men in warlord Zhang Zongchang's forces. But now his old comrade call him back to nobler ends.
+§RThis will lead to war with [RUS.GetName] in 10 days.§!
+Expand the Alliance
+Restore Transbaikal Host
+Kwantung Army's Northern Operation
+The Japanese Kwantung Army supported our uprising with arms and funds, and they expect returns on their investment. General Akikusa Shun is serving as [FER.GetLeader]'s advisor and de facto ambassador of Tokyo, with intent of securing Siberian resources for Japanese corporations, while smuggling more weaponry for the Far Eastern Army. We currently have [?FER_japan_favours] [JAP.GetFlag] §RFavours§! to use.
+Siberian Expectations
+Decision £GFX_decision_icon_small §YLease Resources§! has been taken at least once
+Lease Resources in [FROM.GetName]
+Unlock decision: £GFX_decision_icon_small §YLease Resources§!
+Seek Funding
+Buy Small Arms
+Acquire Heavier Firepower
+Import Japanese Bombers
+Rebuilding Mother Russia
+The Great War is over, and it is time to turn the swords into ploughs.
+Join the Entente
+Japanese Assistance
+Japan is our only major backer, and much of the insurrection has been funded and armed with help from Tokyo. However, in exhange, they do expect access to the riches of Siberia.\n\nThis national spirit changes at 2, 4, and 6 [JAP.GetFlag] §RFavour§! and is removed with under 1 favour.
+Russo-Japanese Industrial Company
+The Russo-Japanese Industrial Company is a Zaibatsu conglomerate largely owned by Mitsui and Nissan in cooperation with our government.
+Far Eastern Gold
+Booming Opium Trade
+Siberian Insurrection
+We are the hardy Siberians, used to the endless miles and brutal conditions.
+An Army of Bandits
+Semyonov's army has Amur-Ussuri Cossacks, it has Chinese mercenaries, it has Russians, and other peoples who share hatred towards the lord of the Kremlin. Bandits, some say - Freedom fighters, I say.
+Army of Free Cossacks
+The Cossacks of Ataman Yermak conquered this land, giving spark to the very nature of any Siberian force: wild, untamed, and dangerous.
+The Siberian Faithful
+Semyonovite Raiders
+Lands' Host
+The Archangels command the Heavenly Host; His servants on this earth lead the Land's Host against His enemies.
+Rival Government
+White Siberian Army
+Free Siberian Army
+Siberian Hetmanate
+Siberian Republic
+Scarred Nation
+The fratricidal bloodshed, the second in a century, has left us limping and scarred - but alive. Thank God with all your heart, and go forth into a new, better Russia.
+The Doomed Men
+There are those who do not welcome the rule of [ROOT.GetLeader], but continue their struggle in the woods and the mountains. Perhaps communist dilettante or Chechen terrorist, they will not lay down their arms.
+Christian Solidarism
+Inwards Perfection
+Cult of the Warrior
+Goseko
+A market economy is like an orchestra, and the State Economic Committee (Goseko) is its conductor. However, in addition to economic experts and businessmen, Semyonov and his inner clique are amply represented - and often profiting financially.
+The Last Anti-Communist Crusade
+Russian Air Force
+Russian Navy
+Reactionary Resistance
+Socialist Reconstruction
+New Far East Economy
+Far Eastern Focus Tree
+Ride of the Cossacks
+Since the times of Yermak Timofeyevich, Cossacks have ceaselessly pushed the Russian frontier eastwards. Once the white-blue-red tricolour was planted on the banks of the Amur river, several new hosts were created to protect the new territories - Amur and Ussuri Cossacks populate territories under our control to this day. Extremely dissatisfied with the callous centralism of the government in Moscow, they will form the core of our military.
+Arms from the Kwantung Army
+Japanese ambitions in East Asia have made it a consistent enemy of the governments in Petrograd and Moscow, and Japan has succeeded in pushing Russian influence out of Manchuria over the past decades. In our revolt, they see a possibility to permanently bar the northern rival from access to the Pacific, as well as a possibility to tap into the resource-rich lands of Siberia. The Kwantung Army is ready to supply us with arms posthaste, even without direct sanction from Tokyo.
+Assembly of the Free Far East
+Our rebellion draws its strength from two groups - Cossacks, who wish to fight against the centralisation efforts of the Moscow government, and the democratic opposition, who were attracted to our call to fight for a free Russia against tyranny. To achieve any kind of political legitimacy, we have to create some political body representing both of these groups. Naturally, no elections can be held until our state is more stable, so the first delegates will be appointed by the Ataman.
+All the Ataman's Men
+As time unfolds, our rebellion keeps growing stronger. Forces loyal to Moscow have been unable to suppress it, and many Cossacks, who had previously refrained from joining us, are now reconsidering their decision. War is a chance for many of them to enrich themselves beyond measure, and certainly beyond whatever honest service provides. Letting our Cossacks punish suspected Svobodniks and Socialists on their own initiative will allow our numbers to swell.
+Liberty Declaration of Buryats and Yakuts
+Cossacks are not the only people in the Far East who were deeply offended by the policies of the terrorist-turned-dictator. Savinkov's efforts to get rid of federalism and local autonomies have aggravated relations between Moscow and the country's many national minorities. Hearing of the success of our revolt, Buryats and Yakuts are now much more active in their resistance. If we provide them with support and relief, we will significantly expand our power base.
+The Mongolian Connection
+No amount of personal bravery and Japanese support can make up for the fact that we are completely outmatched by the forces still loyal to Moscow. The success of our campaign depends on our ability to seize control of Siberia before the enemy solves a multitude of crises on other fronts. To cause such a collapse of Muscovite authority, we need powerful allies - we can possibly find one in Mongolia.
+Expand the Khunkhuzs
+Who says that we can only rely on the peoples of Russia in our revolt against tyranny? The Khunkhuzs are bands of Chinese warriors who took up arms against the government in Beijing and made a living by taking property from the wealthy and distributing it to the poor. Some of them worked closely with our Cossacks and are already enlisted in our army. We can use those contacts to offer service to others who are still in Manchuria.
+Rule Through Personality
+The more we expand our domain to the West, the more diverse our army and groups of supporters become. To stay afloat, we already have to balance the interests of nationalistic and democratic Russians, particularist Cossacks and Yakuts, and even of Chinese and Japanese foreigners. To have any semblance of unity in our war camp, we will have to agree on the only moral principle applying to the men of the Far Eastern Army - personal loyalty to Ataman Semyonov.
+Army of Free Cossacks
+For centuries Cossacks have been chained to the Tsar's throne, with their liberties and honour laid at the feet of the faraway despot. Even our sacrifices in the war against the satanic Bolsheviks did not change the disposition of the new government in Moscow, which kept trying to eradicate our culture and traditions. We will have no more of this - Cossacks are now free and led by themselves, and the war will not stop until whoever rules in Moscow is forced to accept that.
+The Sword of the Spirit
+There is no greater affront to God than a terrorist sitting in the place of a divinely appointed Tsar. Fortunately, Russian people have always been zealous in upholding their faith. We will spread the word, and the people will rise up to defend the principles of divine authority.\n\
+Clerical Administration
+The Church, with its established administrative structures, can provide organisational infrastructure for the revolt. We can leverage parochial structure to create loyal local authorities.\n\
+The Cause of Imperial Restoration
+During the times of the Empire, Russia was ruled by God's appointed ruler and was the defender of Orthodox faith worldwide. The current illegitimate government will be brought down with fire and sword.\n\
+Holy Brigades
+With our message starting to spread all over the Far East, there is no shortage of faithful who are ready to take up arms against the pagans and idol-worshippers - they need only weaponry and training, which we are prepared to provide.\n\
+Abolish the Patriarchate
+The Moscow Patriarchate has always been an illegitimate institution, born out of separation between the State and Church. Righting this wrong by union of State and Faith will directly benefit our cause.\n\
+The Lands' Host
+Restoration of the monarchy in Russia will only be legitimate if it happens as it did in 1613. We will convene a new Lands' Host, with representatives from all stratas of the population, and formalise our commitment to finding Russia a just and kind monarch.\n\
+Mobilise the Far East
+In Moscow alone, there live more people than in all the lands that rose with us in revolt. To beat the enemy we will have to be more ruthless than he is - conscription into the army will be mandatory for all men of working age, with each exception needing personal authorisation from the Ataman. Of course, this will limit the amount of weapons our modest war machine can produce, but help from our Japanese friends should more than make up for the drop in productivity.
+The Green Ukrainian Army
+Yury Glushko has already earned himself a place in the history of the Russian Far East by his attempts to create here a Ukrainian state during the Russian Civil War. He failed then, and we aren't about to let him succeed now. Still, the Ukrainian movement of the Far East can be harnessed in support of our rebellion if we allow them significant cultural autonomy now and political autonomy after the war's end - by that time the Ukrainians won't be able to press their demands.
+Favour from the Business Elite
+Far East does not have many cities, but it does have its industry and its own business elite. Some of them ran as soon as it was clear that this territory is about to go into revolt, others remained and are waiting for us to formalise our economic policy. General Diterikhs is adamant that all industry relevant to war production has to be brought under the government's direct control. Still, others wonder - maybe we will benefit more from an alliance with the industrialists?
+Primorye Gold
+Considering our dependency on timely delivery of armaments from abroad to keep the rebellion going, the existing gold mines of Primorye become even more critical to us than they were for the tyrants we're fighting against. Considering that, it would only make sense to nationalise the mines and significantly increase our revenue stream. Of course, the legitimacy of our regime must be considered - we do not want to be perceived as corrupt and greedy bandits.
+For a Democratic Russia
+Before the convention of the Assembly of the Far East, we have already promised to hold free elections after the war's end. However, many drastic measures implemented by our government, as well as strict martial law introduced on all territories under our control, made many people doubt our democratic credentials. Ataman will personally reassure the people that his promise will be kept, perhaps winning the trust of some of the democrats of the Far East.
+Siberian Regionalism
+Our forces continue to achieve victory after victory, and from controlling just the banks of the Amur river, we have now become true masters of Eastern Siberia. This provides us with new opportunities to strengthen our revolt - moving away from a few ragtag groups of Cossacks and bandits armed with Japanese weaponry, we can now have a real army. Of course, to make use of all the resources under our control, the government will have to be reorganised.
+Organised Conscription
+Uniform conscription has already been our policy from the very beginning of the revolt, though implementing it in practice has proved to be a difficult affair. Lacking a loyal and robust administration, we could only conscript the men when our Cossacks rode through towns and villages. However, thanks to our administrative reorganisation, this is already beginning to change - with our men in all corners of Eastern Siberia, the stream of recruits will only be increasing.
+Stavka of the Siberian Army
+The Far Eastern Army could be run with some effectiveness in a semi-informal fashion by the Ataman - the Siberian Army is too large to allow that. Mirroring the organisation of the Russian Imperial Army, we will create Stavka - the supreme high command of our armed forces, always attending the Ataman and helping him with strategic decision-making, directing military operations on a large scale, and allocating our limited resources effectively.
+March of the Siberian Riflemen
+Through every conflict that they fought in, Siberian riflemen earned for themselves a fearsome reputation for exceptional bravery, tenacity, and resilience. In this conflict, this reputation will be defended once more. The Siberian army is filled with men who were accustomed to living in a harsh environment from early childhood, and their experience with hunting made them excellent marksmen. They will not stop their march until Siberia is freed from corrupt despots in the west.
+Far Eastern Military Industry
+Territories that came under our control are extremely rich in natural resources, like timber, minerals, and metals. They also provide us with a large domestic labour force that can be used to produce useful armaments and equipment. Industrial machines could be imported from the Japanese, who are eager to profit from our success. Thus, we have all the components necessary for a sizeable military industry at our disposal; we only need to organise it.
+Main Logistics Command
+At the outset of our rebellion, the multitude of different units at our command seemed to be a significant advantage, as it gave us the numbers over the forces loyal to Moscow. However, now that we're organising a proper military force, this is becoming a problem: our logistics operations are extremely decentralised and fragmented across different units. The Main Logistics Command (Glavnoye Upravleniye Snabzheniya) will be tasked with organising it efficiently.
+Dominate the Trans-Siberian
+The Trans-Siberian Railway is a constant defining all combat taking place in Siberia, as the majority of supplies and troops are inevitably moving through it. We need to improvise and construct armoured trains and railway guns from old outdated trains captured by us. Although most of them are useless to us in their present state, if we succeed in equipping them with armour and guns, they will serve us as a battering ram to smash the gates of the Moscow garrisons along the railway.
+§Y120§! units of §YArmoured Train§! is added to the national stockpile.
+Breakthrough Artillery
+Unfortunately for us, the majority of military production in Russia took place in the Ural region or in the European part of the country. Our industrial specialists have to learn on the fly, so by focusing their efforts on fewer types of equipment, we increase our odds of producing a good product. Our military is particularly interested in the production of heavy-calibre guns capable of providing enough firepower to penetrate enemy lines. Their request will be fulfilled.
+Armour on Budget
+Our current industrial capacity is simply not sufficient for the production of tanks that can be fielded by our adversary. However, this does not mean that we are going to give up on motorisation completely. Trucks will be distributed among our multiple cavalry divisions, significantly increasing their mobility and logistical support. We will also simplify tank designs, with the hopes of eventually putting cheaper and effective tanks in production.
+Far Eastern Aviation
+No modern conflict can be conducted without aviation. Of course, our limited resources require us to prioritise cheaper and more practical aircraft. We can never hope to match the size of the Russian air force, so we should instead focus on providing as much direct aid to our troops as possible. Given our industrial capacity, we have to settle for lighter aircraft for now.
+Line to Tokyo
+We already have a good working relationship with the Kwantung Army, but the support we are getting could increase tenfold if we managed to secure the official backing of Tokyo. Fortunately, many people in our high command had already worked with the Japanese during the Russian Civil War, so convincing them to aid us in this affair will not be too difficult. While Japan is wary of getting into a direct conflict with Russia, the rewards for aiding us are too great to pass up.
+Lease Vladivostok Docks
+Dalzavod has been the primary Russian shipyard on the Pacific since 1887, and its proud reputation is well established by now. However, with the current war taken into account, we won't have any money for shipbuilding any time soon. To save the jobs of the workers of Dalzavod, increase our revenue, and endear ourselves to our friends in Tokyo, the shipyards of Vladivostok will be leased to a subsidiary of Mitsui for the duration of 10 years.
+Mineral Extraction Zaibatsus
+With the majority of our financial resources going towards supporting the war, we are left with very little money for internal development. This is yet another field where our Japanese allies can help us - the possibility of the Empire to profit from Russian Far Eastern resources has been one of the primary reasons behind their decision to support our righteous rebellion, so they will gladly help us explore and extract new sources of raw materials.
+Contacts with Mitsui
+One of the Zaibatsus most interested in improving the relationship with us is Mitsui, who engaged in significant political lobbying efforts to garner support for the Far Eastern Army from the Japanese government. They hope that their actions will lend them a position of unique preference in regards to control over our natural resources, as well as expand their market presence in the Amur region. If we fulfil their requests, more aid will follow.
+Seek Heavier Equipment
+Japan has already provided us invaluable support in arming our divisions with infantry equipment, but we must continually push them for more. The government in Moscow believes us to be of little threat compared to the Germans, so the forces opposing us are the weakest Russia has to offer. Therefore, if we get our hands on tanks and airplanes, the balance of power will decidedly swing in our direction, securing freedom for us and profits for our benefactors.
+Expand Metallurgical Sector
+While armaments constitute a big part of the foreign aid that we are receiving, it is clear that this state of affairs won't be useful to us indefinitely. The more lands we conquer and the more men enlisted in our army, the more we will have to rely on domestic military production to cover our needs. To prepare for that future, we will ask Japanese industrial experts to establish a powerful metallurgical sector that will be the foundation of our military industry.
+Masters of Siberia
+The war is finally over; we have outlasted the tyrants from Moscow, and their decisive defeat leaves us as the new dominant power in Siberia. From a few bands of disgruntled Cossacks, we have grown to one of the largest states in the world in the span of a few years, so we will need to take an operational pause to consolidate our gains. The new geopolitical situation also has to be assessed: will we continue the fight to unite Russia or try to build a new state from its ashes?
+Declare All-Russian Government
+The reality we face is scary in its simplicity: the Russian State has fallen, and its core territories are now under the control of ruthless foreign occupiers. To preserve the principles of Russian sovereignty, we must fill the vacuum of power created by this tragedy. By officially positioning ourselves as the legitimate government of Russia, we will proclaim to the entire world our intention to see a Russia free from tyranny and foreign intervention, from Petrograd to Vladivostok.
+Integrate Old Administration
+After our official proclamation of ourselves as the legitimate Russian government, it would be reasonable to connect ourselves to the more well-intentioned members of the administration formerly loyal to Moscow. Naturally, all diehard Svobodniks and Socialists will be purged, but the integration of mostly apolitical technocrats and bureaucrats into our administration will serve as proof of continuity of government and significantly increase our control over Siberia.
+Remake the Russian Army
+The proclamation of the All-Russian Government positions us as a certain enemy to the powers that have conquered the European part of Russia. To have any chance of succeeding where the Moscow government failed, the reformed Russian army and air force have to be significantly increased, so we will continue to pour a large part of our resources towards the military even in peacetime. All true patriots will be allowed to join us in the crusade to restore Russia.
+Crusade to Restore Russia
+The two world wars have gone terribly for Russia: we lost our richest territories in the first one and let the enemy squat in the Kremlin in the second one. However, nothing can defeat the Russian spirit. Just like Minin and Pozharsky in 1612, we have mobilised the Russian people in a holy crusade to kick the foreigners out once and for all. The upcoming war will be long, gruelling, and hard, but with God and justice on our side, we are left with no choice but to win.
+Solidify Siberian Regime
+The reality we face is scary in its simplicity: the Russian State has fallen, and its core territories are now under the control of ruthless foreign occupiers. Our Ataman realises perfectly well that if a united Russia could not win in the Second Weltkrieg, we stand no hope of success in a potential campaign to free the western parts of the country. Therefore, it would be reasonable to consolidate our rule over Siberia and reap the spoils of our successful war for freedom.
+Align Japanese Empire
+We would never have been successful in our war for independence if it were not for the aid of the Japanese Empire. They supplied us with crucially important weaponry and armaments early on, saving our rebellion from being eliminated by better-armed loyalists, and they helped us build a strong economy in the later stages of the conflict. We can return the favour by welcoming all kinds of Japanese influence in our country, and officially join their military alliance.
+Banish the Japanese
+Japan was never a true friend to ourselves; they only supported the rising star of the Far Eastern Army to neutralise the Russian threat and extract economic benefits while doing so. With the war for our existence having come to a successful conclusion, we no longer have to tolerate their pervasive influence in our country. All economic concessions will be voided immediately, Japanese advisors will be sent home packing, and our natural resources will belong to us only.
+Home in the East
+Many of our citizens are still doubtful that an independent Siberian state will be a viable alternative to being a part of Russia, doubly so due to the military-centric way of governance that we have been adopting so far. To mollify their fears, we will considerably reduce our military expenditures and instead direct our revenues from exporting raw materials towards improving local industry and infrastructure throughout Siberia. Let no one feel forgotten.
+Siberian Atamanate
+Siberia exists as it does today mainly due to the heroics of the Cossacks of the past and present, who shaped the history of this land from the times when Yermak Timofeyevich crushed the Khanate of Sibir to Grigory Semyonov, who has freed this land from Muscovite centralism and tyranny. It is only natural that Siberia needs a unique form of government; much like the central role in Ukraine belongs to the Hetman, our country will be ruled by its Ataman.
+Siberian Republic
+We already have significant issues with legitimising our rule and our newfound state; the legitimacy can be improved by formalising Siberia as a democratic republic and holding the first free elections in the independent history of the country. This will show the people that Ataman keeps his promises, and he may be open to further concessions, unlike the government in Moscow. The independent Siberia though wouldn't exist without the Ataman - and politicians know it.
+Cossack Nationalism
+No matter the form of government, it is clear to all that our rule in Siberia bases itself on the support of the Cossacks, so their loyalty must be secured by further concessions. Cossacks will have guaranteed representation both in local and national governments, their history and culture will be included in our curriculum, and their organisations and communities will receive financial support from the state. Cossacks will feel at home in Siberia like nowhere else in the world.
+Federal Framework
+Our revolt began as the fight for freedom against centralism, and it was defined by this idea. Many different nationalities fought to make the day of our final victory come true, and they now expect to reap the political benefits for which they paid in blood. They will not be disappointed; all peoples of Siberia will be granted their autonomous republics, where they will be free to practise their own culture, religion, and traditions without interference from the federal government.
+Nation of Free Peoples
+The Siberians always differed from the rest of Russians by being more resilient, independent, and self-reliant. Thanks to our victory, they can now use those qualities for nation-building without being held back by the robbers seeking to extract all valuable resources from this land while investing the bare minimum for its development. The Siberia that we have built is free, federal, and powerful, allowing its citizens the opportunity to prosper under the protection of the mighty Cossacks.
+Return to the Kremlin
+Even Grigory Semyonov himself did not initially expect the rebels of Amur to eventually reach and occupy the seat of government in the Kremlin, and yet here we are. Our success did not come without its costs, and we have our work cut out for us before we can say that Russia is truly ours. With our power base remaining on the other side of the Ural Mountains, special efforts will be required to pacify and bring law and order to the European part of the country.
+Purge thy Enemies
+In the Russian lands to the west of the Urals, there are many more people than in the entirety of Siberia. Our rule over the country may be brief if we do not proactively oppose any kind of organised resistance in the liberated territories. We will establish offices of our intelligence agencies in all the Guberniyas in the west and assign to each a number of Socialists and Svobodniks that have to be found and prosecuted monthly; punishments will be determined and carried out locally.
+Pacify the Land
+The total collapse of authority on a large part of the Eastern European Plain has immediately led to a severe rise in banditism and lawlessness, with many trained killers discharged from the army now joining various bands of criminals. The situation here reminds us of the early days of the rebellion in the Far East. Back then, we managed to convince many of the soldiers without a cause to join our side, and we will try doing the same here; select few bands will be establishing order in our name.
+The Constituent Assembly
+With law and order brought to the vast expanses of Russia and Svobodnik and Socialist resistance deemed inconsequential, we feel secure enough in our power to convene a Constituent Assembly in Moscow. It will define the political structure of our country for years to come, so delegates will be appointed personally by [FER.GetLeader] from our loyalists in the business community, the military, the Church, and the nationalist political sphere.
+Holy Rus'
+The Russian people had to suffer a lot before our final victory; they lived through both godless governance and foreign oppression, with a lot of blood having been shed for causes not worth supporting. At last, they will be granted a reprieve, and a monarch will be restored who will once again rule the nation with good and wholesome laws. Naturally, he will be assisted by the elected Duma, Zemsky Sobor, and Supreme Voyevoda Diterikhs, who will retain command over the armed forces.
+The Russian Monarchic Union
+To avoid the mistakes of the past and stave off revolution, we will renounce the multi-party political system. By forming a singular party loyal to the Tsar to a fault, we will avoid the harmful conflict of interests and ideologies influencing the policy of the restored Russia. The Russian Monarchic Union will be formed with the help of renowned politicians such as Ilyin, Shulgin, and Solonevich, and it will attract all like-minded people of good moral character from all over the country.
+Memory of the Tsar-Martyr
+Several decades of decadent Republican rule have started to erode the traditional foundation of Russian Autocracy - the love of the people for the Tsar and his family. The Society for the Memory of Nikolay II will be formed by a royal decree, and it will be tasked with counteracting the republican influence. Our last Tsar Nikolay II will be remembered as a martyr, with the bloodshed and disasters that followed his death being the divine punishments for our sin.
+Rule by Voyevoda
+To ensure total military readiness in the future and avoid any more humiliating defeats, in the rebuilt Tsardom of Russia, the military should be granted supreme civilian power in the oblasts and governorates. From Oleg the Wise and Svyatoslav Igorevich to Aleksandr Suvorov and Mikhail Kutuzov, Russian military leaders have been men of distinguished moral character, and thus Voyevodas will hold supreme authority as military governors.
+For Thine is the Tsardom
+With all of the country now firmly united under our control, we can begin the most influential religious reform in decades. Patriarchy of the Russian Orthodox Church, who like the Whore of Babylon served all the interests of godless Republicans, will be thrown off its gilded throne. The organisation of the Church will be returned to pre-revolutionary times - the Most Holy Synod will be restored under the Tsar's control, allowing for the Byzantine symphony to begin again.
+The Golden Rule
+The Golden Rule is quite simple: 'Treat others as you would like to be treated yourself'. This rule is the core moral principle of Christianity, and ignoring it in statebuilding in favour of unrestricted chase after personal gain or treating history as a series of dialectical conflicts has several times led our country to ruin. We do not intend to repeat those mistakes; our economy will be constructed along corporatist lines, aiming for moral business practices and inter-class unity.
+Behind the Thistle
+Unlike the former rulers of Russia, we only pursued our reforms to return to a traditional society firmly grounded in Christian moral principles, not to chase material benefits or an ill-defined 'progress'. We have succeeded in building an island of traditionalism in an ocean of hostile and competing ideologies, whose tendency to multiply themselves across the world likens them to a plague. To avoid getting infected with their ideas, Russia will focus on self-sufficiency.
+Saviour of the Republic
+People all over Russia view Ataman Semyonov claiming total power over the country with apprehension. The irregular composition of our army and the stark disconnect between our democratic rhetoric and the omnipresent rules of martial law increase the people's willingness to resist, as they do not view our government as legitimate. To rectify this situation, we will loudly proclaim the restoration of the Constitution of 1922. Of course, some safeguards will remain in place.
+Russian Atamanate
+There is no need to restore a federal system that has already failed to prevent centralists from coming to power and attempting to subvert Cossack autonomy. There is also no need to invent a new political system from the ground up. The state of Ukraine under the rule of Hetman Skoropadskyi was transformed into a system that would ideally fit our vision of Russia - a state united around the powerful leader of the Cossacks, but allowing some democratic concessions.
+All-Russian Popular Party
+To keep power for a long time, we will need to integrate new allies into our governing coalition. We have already co-opted the democratic movement of Siberia in support of [FER.GetLeader], and there is no reason why we can't do the same in Europe. The old democratic parties understand that our government is the only chance they have of returning to prominence, so they will have to swallow their dislike of our leader and join the All-Russian Popular Party.
+Appeal to the Centre
+President Semyonov does not care that much for policy, content with leaving the actual governance to his political allies, as long as they do not attempt to act against the powers of the Cossacks or the personal power of the President. This political position allows us to find many allies among those who hope that Semyonov's rule will begin a period of normalisation that will eradicate extremism and return stability and peaceful governance to Russia.
+Formulate National Myths
+Russia has seen a lot of wars and a lot of revolutions in the 20th century - we can use the former to prevent the latter. All far-reaching civilian projects that promised to turn our country into Heaven on Earth have failed. Only the brave men of the army have saved the nation from total collapse and subjugation by foreigners - it is only natural that Russia will be led into the future by military men. We will launch a far-reaching campaign of promoting new national heroes.
+Rally the Veterans
+The stability of our rule cannot depend solely on the Cossacks, who wholeheartedly recognise Semyonov as their supreme commander and Ataman. All other military men must also recognise him as their leader and supporter of their interests. We shall form the Vserossiysky Voinsky Soyuz (All-Russian Military Union), an organisation that will integrate all veteran paramilitaries across Russia. With loyal men in charge of it, our position will be greatly strengthened.
+Cult of the Supreme Ataman
+Skoropadskyi's great authority and power in Ukraine stemmed from his success in creating a larger-than-life image for himself - a successful military officer, the leader of the Cossacks, the creator of the Ukrainian state. To repeat his success, we will have to create a similar cult of personality around the great Ataman Semyonov - the saviour of the Russian nation from tyranny and foreign oppression, chosen by destiny to lead our people to greatness.
+Empower Old Elites
+The revolution of 1917 began with the dissatisfaction of the Russian elites, who lost faith that the Tsar represented their interests sufficiently well. To avoid such a scenario from repeating itself when the central government is even weaker than back then, we will endeavour to fulfil their wishes. Our regime will stand staunchly on guard of private property rights, principles of economic deregulation, and conservative moral values.
+Restore the Autonomies
+To further improve our legitimacy and entrench our regime for good, we can fulfil another of the key promises our revolt was based on: the protection of autonomies. Minorities of Russia will all receive a right to self-governance, preservation, and promotion of their national cultures - rights that have been trampled by the old governments. Naturally, Cossack hosts and Siberians will receive the most benefits under this system, as they were the ones who brought us into power.
+Relax the Economy
+We have already begun the programme of freeing up the economy, as our most influential businesses have received tax breaks, deregulation, and investment incentives in return for their loyalty. This will continue as we start applying the same principles in economic relations with other countries. Russia is unrivalled in the amount of natural resources we could export to the world; if we can make some new trade deals, we could enrich ourselves beyond measure.
+Restore the National Army
+Deeds of the heroes who marched from the Pacific to the Kremlin shall live on forever, but they are not enough to garrison our vast empire. Army structures built by the interwar years are still needed, and must be restored to glory.
+Restore the Air Force
+We had no industrial ability to field large air force in the East, but now with all of Russia in our hands, we need to build proper organisation for that.
+Rebuild the Navy
+Russian Fleet cannot be ignored in defence of our Empire from Petrograd to Vladivostok. Battleship strength is where our might will lie in the future.
+Great Power Renewed
+A country spanning more than one ninth of the world's landmass, populated by tens of millions of people, and located on the critical intersection of Europe and Asia would naturally arise to be a great power. Of course, recent wars and even complete collapses of our statehood have shaken that image of our country, but through a committed programme of rebuilding our army and navy, we are once again strong enough to project our power abroad and influence world affairs.
+Crusade to the West
+[FER_crusade_against_communism_loc]
+The world can only be safe for the restored Russia if the menace that once brought it near destruction is utterly eradicated. The Reds will pay for what they did to Russia in 1917: we shall get our ultimate revenge.
+The world can only be safe for the restored Russia if the menace that once brought it near destruction is utterly eradicated. The Germans will pay for what they did to Russia so many times: we shall get our ultimate revenge.
+The Pretender to Rome
+One must almost feel bad for the Turkish oppressors - they would have been destroyed in the First World War had it not been for the hated Germans. But with Russian power restored, the Turks must be brought into the fold as soon as possible, and the Holy City of Constantinople restored to the Faithful.
+The Siberian Peripheries
+Our insurrection was not a European one, but an Asian one. While we need not retreat from European affairs, we must remember that our natural sphere of influence is along our southern and eastern borders.
+Revenge for Varyag
+The Japanese were foolish to believe that they could bankroll our rebellion and use us for their own interests. Seemingly thinking that they could use the Far East as a buffer against Russia, their plan has failed spectacularly, and now we are in a position to get back at them for all the trouble they caused us years ago. Like famous last stand of cruiser Varyag, we will fight to the last!
+Eradication of Western Influence
+Russia, the great defender of the Orthodox Faith, was destroyed by modernity and westernism ever since the ascension of Peter to the throne. Deeming all that was traditional and rooted in faith as 'backwardness', they declared war on the Russian spirit. But this spirit did not die - and only by destruction of the modernist warmongers can we be sure it stays aflame.
+Declares war on every $market_liberal_coloured$, $social_liberal_coloured$, $social_democrat_coloured$, $radical_socialist_coloured$, $syndicalist_coloured$, and $totalist_coloured$ nation in Europe.
+Rekindle the Old Alliance
+The Entente has been both a friend and enemy of circumstance. In the new era, where Germany further attempts to cement its dominance over the world, the Entente is the only bastion that stands against it. Russia's inclusion in this bloc of powers would at least give Berlin a reminder that its foes have been beaten, but they will never be defeated.
+Red Vladivostok
+Crush the Reactionaries
+Secure Regional Allies
+Foster Socialist Education
+Create the PRA
+Revolution of the East
+Revive the Port of Vladivostok
+Rebuild the Mining Industry
+Expand the Fishery Industry
+Build Political Legitimacy
+GFX_FER_intro
+$RUS_country_intro_header$
+$RUS_country_intro_content$
+$RUS_country_intro_header_1$
+$RUS_country_intro_content_1$
+$RUS_country_intro_header_2$
+$RUS_country_intro_content_2$
+$RUS_country_intro_header_3$
+$RUS_country_intro_content_3$
+§MSemyonov - Saviour of the Republic / Russian Hetmanate§! ($authoritarian_democrat_coloured$ / $paternal_autocrat_coloured$)\n£white_dot Remain $paternal_autocrat_coloured$ in the §YBalance of Power§!.\n£white_dot After Russia is defeated in the Second Weltkrieg, complete the national focus §Y$FER_rival_government$§! and conquer the rest of Russia.\n£white_dot Choose the sub-path through picking either focus §Y$FER_saviour_of_republic$§! or §Y$FER_russian_hetmanate$§!.\n\n§MSemyonov - Siberian Republic / Siberian Atamanate§! ($authoritarian_democrat_coloured$ / $paternal_autocrat_coloured$)\n£white_dot Remain $paternal_autocrat_coloured$ in the §YBalance of Power§!.\n£white_dot After Russia is defeated in the Second Weltkrieg, complete the national focus §Y$FER_home_in_east$§!.\n£white_dot Choose the sub-path through picking either focus §Y$FER_siberian_republic$§! or §Y$FER_siberian_hetmanate$§!.\n\n§MDiterikhs - Holy Rus'§! ($national_populist_coloured$)\n£white_dot Become $national_populist_coloured$ in the §YBalance of Power§! through reaching Diterikhs' end.\n£white_dot After Russia is defeated in the Second Weltkrieg, complete the national focus §Y$FER_rival_government$§! and conquer the rest of Russia.
+The Balance of Power between §PSemyonovites§! and §0Diterikhsites§! is fickle, and all military personnel have alignment to one direction or the other. Ideally, sides are able to cooperate, but too many failures on Semyonov's part may expose him to Diterikhs' schemes.
+§RLike so many conquerors before you, you lost.§!
+Far Eastern Republic
+Primorian
+the Far Eastern Republic
+Far Eastern Socialist Republic
+the Far Eastern Socialist Republic
+Far Eastern Socialist Republic
+the Far Eastern Socialist Republic
+Far Eastern Socialist Republic
+the Far Eastern Socialist Republic
+Far Eastern State
+the Far Eastern State
+Far Eastern Army
+Semyonovite
+the Far Eastern Army
+Far Eastern Army
+Diterikhsite
+the Far Eastern Army
+Siberia
+Siberian
+Siberia
+Siberian Federative Republic
+the Siberian Federative Republic
+Siberian State
+the Siberian State
+Siberian State
+the Siberian State
+Russia
+Russian
+Russia
+Russian Labour Republic
+the Russian Labour Republic
+Russian Labour Republic
+the Russian Labour Republic
+Russian Labour Republic
+the Russian Labour Republic
+Russian Republic
+the Russian Democratic Federative Republic
+Russian Republic
+the Russian Democratic Federative Republic
+Russian Republic
+the Russian Democratic Federative Republic
+Russian Republic
+the Russian Democratic Federative Republic
+Russian State
+the Russian State
+Russian State
+the Russian State
+Russian State
+the Russian State
+Green Ukraine

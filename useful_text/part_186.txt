@@ -1,0 +1,1582 @@
+£GFX_pol_power_icon $VALUE|H$/day
+£GFX_pol_power_icon $VALUE|H$/day
+£GFX_army_experience $VALUE$
+£GFX_air_experience $VALUE$
+£GFX_navy_experience $VALUE$
+£GFX_neutral_experience $VALUE$
+£GFX_pol_power_icon $VALUE|H$
+Name
+Capacity
+Cost
+Military Industrial Organisation
+Organisation Details
+Details
+Open Military Industrial Organisation details.
+$NAME|Y$ has $NUMBER|Y0$ Trait points to spend.
+$NAME|Y$
+Trait Queue
+§HSave to File§!\nSave this trait queue to file so that you can access it in future playthroughs.
+§HDelete Saved Queue§!\nClick to clear the current trait queue and delete the currently selected saved trait queue. If a saved queue is selected, then this will §Rdelete the saved queue permanently§!.
+§HDelete Saved Queue§!\n§RClick to delete the saved trait queue permanently§!.
+Import valid traits from trait queue for another Military Industrial Organization: $ORG|Y$.
+$INDUSTRIAL_ORG_DETAIL_WINDOW_OPEN_QUEUE_BUTTON$ ($NUMBER_ITEMS$)
+When this Organisation has trait points, the first available trait in this queue will be completed.\n§GShift + Click§! on a trait to §Yadd it to this queue§!.\n§GDrag & Drop§! to §Ychange the queue order§!.
+§GCompleted§!
+§GDrag & Drop§! to change order in queue
+Remove from Queue
+Traits
+History
+Research and designer history
+Production line history
+§gThe equipment is obsolete.§!
+§gThe equipment already has the bonuses from the latest traits. There is no need to upgrade the variant.§!
+§RYou don't have enough Experience to upgrade the variant.§!
+$NAME|H$
+$NAME$
+Researched: $DATE$
+Designed: $DATE$
+Units Produced: $NUMBER|0H$
+Upgrade with latest trait(s)
+Are you sure you want to upgrade $EQUIPMENT_NAME|Y$ with latests traits ?\n\nIt will cost $XPCOST|Y$ to upgrade.
+§GClick§! to §Yassign§! to this production line.
+§GClick§! to §Yassign§! to ship refit.
+§GClick§! to §Yassign§! to this equipment variant.
+§GClick§! to §Yassign§! to this technology.
+§GClick§! to §Runassign§! from this design.
+§GClick§! to §Runassign§! from this production line.
+Tanks
+Ships
+Planes
+Materiel Equipment
+Show only Military Industrial Organisations for $CATEGORY|Y$
+§GClick to show Military Industrial Organisations for§! $CATEGORY|Y$
+Show only Military Industrial Organisations with Trait points to spend 
+Attributes
+Total: $VALUE$
+  Base: $VALUE$
+  From Traits & Policy: $VALUE$
+  From Country: $VALUE$
+$VALUE$
+$VALUE|+=0%$
+Equipment Bonuses
+Initial Trait
+Trait points: $VALUE|H$
+Trait points are used to unlock traits for your §YMilitary Industrial Organisation§!. You get these by collecting enough §YFunds§! from completing §YResearch§! or being assigned to a §YProduction Line§!
+Research bonus: $VALUE|0%$
+Task Capacity: $VALUE|0%$
+$NAME$: $VALUE$
+$NAME|Y$
+§YFunds§!
+$VALUE|H0$ / $LIMIT|H0$ ($PERCENT|0%$)
+§YFunds§! represent the §YMilitary Industrial Organisation's§! progress towards increasing in §YSize§!. Once it does you gain a trait point with which you can use to unlock a trait.
+Producing:
+$EQUIPMENT_NAME|Y$ ($FUNDS|+2$ funds/day)
+Researching:
+$TECH_NAME|Y$ ($FUNDS|+0$ funds in $DAYS|Y$ day(s))
+When you add §YMilitary Industrial Organisations§! onto equipment variants it will cost you §YExperience§!. Depending on the equipment type, it will either be £GFX_army_experience Army Experience, £GFX_navy_experience Navy Experience or £GFX_air_experience Air Experience.
+$NAME|H$
+$EQUIPMENT|H$ will get:
+Task capacity: $USED|Y0$/$TOTAL|Y0$
+§RThis Industrial Manufacturer can only be assigned to $NUM$ out of $TOTAL$ refit lines.§!
+They have §Rreached§! their §YTask capacity§! and can't be assigned to any more tasks for now.
+Size: $SIZE|Y0$ ($PERCENT|Y%0$)
+Every time your §YMilitary Industrial Organisation§! increases in §YSize§! you gain a trait point with which you can use to unlock a trait.
+Cost: 
+Research bonus: $VALUE|0%+=$
+Funds: $VALUE|+2$/§HIndustrial Capacity§! produced
+(max. $MAX|Y0$/day).
+Funds: $VALUE|+0$
+Funds: $VALUE|+0$ (on completion)
+§YMilitary Industrial Organisation§!
+Industrial Manufacturer
+Design Team
+$NAME|H$
+§GClick§! to assign.
+§GClick§! to change.
+§GRight-Click§! to §Rremove§!.
+§YUpgrade with latest traits§!
+Update your equipment to have the latest §YDesign Team§! traits applied.
+This will create a new variant.
+Upgrading will add to new variant:
+There has been no new traits applicable to this equipment. There is no need to upgrade.
+Equipment that was made with an older version of a §YMilitary Industrial Organisation§! needs to be upgraded in order to have the latest §YDesign Team§! traits applied.
+You §Rdon't§! have any to assign to this equipment type.
+§RLicensed equipment are not eligible§!
+$NAME|H$
+Only for $TYPE|H$:
+$TYPES|H$:
+When assigned to a technology:
+When assigned to an equipment variant:
+When assigned to a production line:
+When assigned technology is cancelled:
+When assigned technology is completed:
+When unassigned from a production line:
+Cost §Y1§! Trait Point
+$NAME$: $VALUE|G=0%$
+$NAME$: $VALUE|R=0%$
+Upgrade
+$NUM_ASSIGNED$ / $CAPACITY$
+§HTask Capacity§!
+Capacity: $NUM_ASSIGNED|H$/$CAPACITY|H$
+Producing: $EQUIPMENT|H$
+Researching: $RESEARCH|H$
+Refitting: $NAME|H$
+Currently not assigned to any task.
+Task capacity is how many §HResearch Slots§! or §HProduction Lines§! a Military Industrial Organisation can be assigned to.
+Produce without a §HMilitary Industrial Organisation§!
+Refit without a §HMilitary Industrial Organisation§!
+Research without a §HMilitary Industrial Organisation§!
+Do not use a §HMilitary Industrial Organisation§!
+§GClick§! to research
+§GClick§! to research\n§GShift + Click§! to research without a Military Industrial Organisation
+§GClick§! to research\n§GShift + Click§! to research with $ORG|H$
+§GClick§! to start producing\n§GShift + Click§! to produce without a Military Industrial Organisation
+$ORGANIZATION_NAME$: $VALUE|2+=$
+Complete Trait
+Are you sure you want to complete the Trait $TRAIT|Y$ in $INDUSTRIAL_ORG|Y$\n\nIt will cost §R1 Trait point§! to complete this trait.
+Update $VALUE|H0$ equipment variants with latest §YDesign Team trait(s)§! for $XPCOST$
+Update $VALUE|H0$ equipment variants with latest §YDesign Team trait(s)§!
+§gUpdate equipment variants with latest §!§YDesign Team trait(s)§!
+§YUpgrade with latest trait(s)§!\nUpdate your equipment to have the latest §YDesign Team trait(s)§!. This will create a new variant.
+§gThere are currently no equipment variants impacted by this trait. There is no need to upgrade.§!
+§RYou don't have enough Experience to upgrade the impacted variants.§!
+Cost: $XPCOST$
+- $VARIANT|H$: $XPCOST$
+Equipment that was made with an older version of a §YMilitary Industrial Organisation§! needs to be upgraded in order to have the latest §YDesign Team traits§! applied.
+§RUnlocking this Trait is not valid anymore§!
+§GClick§! to §Ycomplete trait§!
+§GShift + Click§! to §Yadd trait to completion queue§!
+§GShift + Click§! to §Yremove trait from completion queue§!
+§RTraits can only be completed by gaining funds from assigning to Research or Production lines.§!
+§GThe Military Industrial Organisation is available§!
+§RThe Military Industrial Organisation is not available§!
+§GThe Trait is available§!
+§RThe Trait is not available§!
+§RThis Trait has parent not completed yet§!
+§RThis Trait is mutually exclusive with an already completed Trait§!
+Select or preview a §YSpecialisation§! in order to see the traits
+When complete:
+Policies
+Select a §YPolicy§!
+Attach Policy
+Are you sure you want to attach the Policy $POLICY|Y$ to $INDUSTRIAL_ORG|Y$ ?
+Remove Policy
+Are you sure you want to remove the Policy $POLICY|Y$ from $INDUSTRIAL_ORG|Y$ ?
+Change Policy
+Are you sure you want to replace the Policy $OLDPOLICY|Y$ with the Policy $NEWPOLICY|Y$ on $INDUSTRIAL_ORG|Y$ ?
+It will cost £GFX_pol_power_icon $VALUE|H$
+You won't be able to change Policy for $VALUE|H$ days.
+§GThe Policy is available§!
+§RThe Policy is not available§!
+§RCannot change Policy until $NBDAYS$ days§!
+§RNeed $NBPOWER$ to attach Policy§!
+When attached: 
+When removed: 
+All Military Industrial Organisation Equipments
+§YCost§!: £GFX_pol_power_icon $VALUE|H$
+§GClick§! to §Yattach to Military Industrial Organisation!§!
+§GClick§! to §Yunattach from Military Industrial Organisation!§!
+§GClick§! to select a §YPolicy§!
+§YPolicies§!
+$NAME|Y$
+No §YPolicy§! is available
+No §YPolicy§! is selected
+You §Rcan't§! change your §YPolicy§! for $NUMBER|Y$ days
+Policies help your §YMilitary Industrial Organisation§! specialise in specific aspects of research or production.
+Once you select a §YPolicy§! it can't be changed for $NUMBER|Y$ days
+$TYPE|Y$ §Rdoes not match this type of equipment. The completed traits will not apply.§!
+§RThis technology does not unlock new equipment, therefore the completed traits will not apply.§!
+§YBonuses for equipment variants:§!
+§YBonuses for production lines:§!
+§YAffected equipment:§!
+Only for $TYPE|H$:
+Also only for $TYPE|H$:
+Matching §YMilitary Industrial Organisations§!:
+ - $NAME|H$
+$INDUSTRIAL_ORG_AVAILABLE_TOOLTIP_ITEM$: (Task capacity: $TASKS|Y$/$CAPACITY|Y$)
+$INDUSTRIAL_ORG_AVAILABLE_TOOLTIP_ITEM$: (Task capacity: $TASKS|R$/$CAPACITY|R$)
+$TOTAL|H$
+Giving a §YMilitary Industrial Organisation§! a production line task will apply production bonuses to that line.
+Giving a §YMilitary Industrial Organisation§! a research task will increase the research speed and may apply equipment specific bonuses.
+Queue:
+Overwrite
+Rename
+Replace
+Save the current trait queue to file so it can be used in future playthroughs.
+Select which trait queue to overwrite, leave empty to create a new saved trait queue:
+Enter a (new) name for the trait queue to be saved:
+Save as
+Save
+§RThe trait queue needs a non-empty name to be saved.§!
+§GClick§! to save the trait queue.
+§GClick§! to save the trait queue \
+§GClick§! to §Rdiscard changes to the current trait queue§! and load trait queue \
+§GClick§! to §Rdiscard changes to the current trait queue§! and create a new trait queue.
+Save Trait Queue before loading
+§YYou have unsaved changes that would be lost.§!\n\nDo you want to save or discard the current trait queue   \
+Save
+§GClick§! to save the trait queue \
+Discard
+§YYou have unsaved changes that would be lost.§!\n\nDo you want to save or discard the current trait   queue \
+Save
+Discard
+Load shared traits from queue for $MIO|Y$
+Unknown Military Industrial Organisation
+Delete Saved Trait Queue
+Are you sure you want to delete the saved trait queue $QUEUE|Y$ for MIO $MIO|Y$?\n\nThis will clear the saved traits   from the queue and §Rdelete it permanently§!.
+Delete
+Clear Trait Queue
+Are you sure you want to clear the current trait queue?
+Clear
+Light and Amphibious Tanks
+Medium and Modern Tanks
+Heavy and Super-Heavy Tanks
+Tank Destroyers
+All Tank Equipment
+Carriers
+Cruisers
+Destroyers
+Battleships
+All Warships
+Small and Carrier Planes
+Medium Planes
+Large Planes
+Fighters and Carrier Fighters
+Land-Based Fighters
+Fighter and CAS
+Tactical Bombers
+Strategic Bombers
+Carrier Aircraft
+All Artillery Equipment
+All Infantry and Support Equipment
+Artillery
+Carrier Fighters
+All Aircraft
+SP Artillery
+SP Anti-Air
+Amphibious Tanks
+Flame Tanks
+All Artillery and Rocket Artillery
+All Surface Ships
+All Ships
+Close Air Support
+Naval Bombers
+CAS and Naval Bombers
+All Mechanised Equipment
+Light Tank Department
+Medium Tank Department
+Heavy Tank Department
+Production Department
+Design Department
+Operational Department
+Engines Department
+Armour
+Systems
+Support
+Weapons
+Chassis
+Design and Production
+Production
+Design
+Mechanical Design
+Armament and Ammunition
+Engines
+Wings
+Engine and Suspension
+Armament
+Armour and Armaments
+Engine and Drive System
+Guns and Turret
+Tank Construction
+Equipment and Specialisation
+Long Range Focus
+Stealth Focus
+Supremacy Focus
+High Speed Focus
+Trains
+Fighter Aircraft
+Bomber Aircraft
+Naval Aircraft
+Light Aircraft
+Medium Aircraft
+Motorised
+Mechanised
+Anti-Tank
+Protection
+Specialisation
+Light Assault Gun Department
+Armoured Cars
+Medium Assault Gun Department
+Heavy Assault Gun Department
+Helicopter Construction
+Single Rotor
+Tandem Rotor
+Ruthless Contracts
+Assembly Line Optimisers
+Vertical Integration
+Mechanical Genius
+Experimental Development Teams
+Armour Welding Specialists
+Casting Specialists
+Heavy Gantry Cranes
+Factory Applied Camouflage
+Cutting Corners
+Perfect Finish
+Heavy Gantry Cranes
+Propulsion Experimenters
+Wind Tunnel Pioneers
+Modular Assembly
+Welding Specialists
+Space Efficient Design
+Stable Gunnery Platforms
+Great Sea Keeping
+Coastal Battlefleet
+Has already completed this trait in another organization
+§RThis Trait will no longer be available in other organizations§!.
+§CThis trait can be assigned to a single organisation only§!
+General Tank Manufacturer
+General Tank Designer
+Standardised Production
+Simplified Suspension
+Crew Ergonomics
+Improved Tracks
+Command Upgrades
+Standardised Components
+Improved Tooling
+Quality Improvements
+Defensive Equipment
+Long-Barreled Guns
+Anti-Tank Specialisation
+Infantry Support Tanks
+Infantry Tank Manufacturer
+Infantry Tank Designer
+Single Engine
+Dual-Engine Redundency
+Interleaved Track Wheels
+Overlapped Track Wheels
+Battle Tank Specifications
+Adaptable Turret Ring
+Turret Sights
+Close Support Role
+Anti-Tank Role
+Adaptable Chassis
+Light Tank Specialisation
+Medium Tank Specialisation
+Heavy Tank Specialisation
+Thick Armour
+Even Thicker Armour
+Mobile Tank Manufacturer
+Fast Tank Designer
+Improved Boogies
+Engine Optimisation
+Reduced Fuel Usage
+Improved Ventilation
+Improved Tracks and Suspension
+Sloping Armour
+Lighter Materials
+Armour Hardening Process
+Enlarged Breech
+Gunner Sight Improvements
+Quality Assurance Routines
+Streamlined Production
+Medium Tank Manufacturer
+Medium Tank Designer
+Power Traverse
+All-Round Cupola
+Simplified Turret Design
+Specialist Shells
+Improved Gun Metallurgy
+Advanced Shells
+Armour Steel-Working
+Spaced Armour
+Crew Survival Layout
+Sloped Side Armour
+Truck Engines
+Aircraft Engines
+Improved Suspension
+Heavy Tank Manufacturer
+Heavy Tank Designer
+Wide Tracks
+Fire Extinguishers
+One-Piece Hull Side Coverings
+Simplified Transmission System
+Improved Engine Output
+Sloping Armour
+Improved Crew Ergonomics
+Reinforced Construction
+Fully Cast Turret
+Commander Cupola
+Simplified Layout
+High-Explosive Shells
+APCR/HVAP Shells
+Tank Refurbishment Plant
+$generic_tank_refurbishment_plant_organization$
+Enemy Tank Refitting
+Efficient Scrap Recycling
+High-Volume Smelter
+High-Powered Engine Production
+Heavy Duty Machine Tools
+Multi-Plant Cooperation
+Standardised Secondary Armament
+Mass Small Arms Ammunition Production
+Plant Tech Exchange
+Dual Plant Main Armament Production
+24h Rotation Shifts
+Long Distance Train Escort
+Barrels of Hell
+Assault Guns Manufacturer
+Assault Guns Designer
+Mobile Artillery
+High-Explosive Armour-Piercing Ammunition
+Improved Cannon Stabilisation
+10.5cm Howitzer Ammunition
+Armoured Artillery
+Lighter Materials
+Extensive Armour Hardening Processes
+Mounted Rocket Tubes
+75mm 43M Tank Gun
+Low-Slung Superstructure and Fighting Compartment
+Mobile Firebases
+Fully Cast Turret
+Strengthened Tracks
+Carrier Task Force Ship Manufacturer
+Carrier Task Force Ship Designer
+Long Range Cruising
+High Speed Cruising
+Splinter Protection
+Transom Stern
+Underway Replenishment Equipment
+Secondary Fire Director Control
+Flight Deck Edge AA Mounts
+Gyro-Stabilised Mounts
+Rapid Fire Guns
+Advanced Fitting Works
+Carrier Flight Operations Centre
+Primary Fire Director Control
+High Velocity Guns
+Battle Line Ship Manufacturer
+Battle Line Ship Designer
+External Armour Belt
+Internal Armour Belt
+Hardened Critical Components
+Advanced Hydrodynamic Design
+Advanced Armour Design
+Anti-Air Layout Trait
+Secondary Battery Layout
+Combat Information Centre
+Primary Battery Layout
+Super-Heavy Shells
+Semi-Armour-Piercing Shells
+Escort Ship Manufacturer
+Escort Ship Designer
+Submarine Hunters
+High-Speed Mine-Hunting Equipment
+Fleet Escorts
+Anti-Air Ships
+Escort in Force
+Improved Anti-Air Gun Mounting
+Mass Production
+Improved Light Gun Mounting
+Raider Ship Manufacturer
+Raider Ship Designer
+Long Range Raiding
+High Speed Raiding
+Diesel Powerplants
+High-Speed Operation Stores
+Raiding Capital Ships
+Long Range Engagement Ethos
+High-Quality Optics
+Raider Escort Requirements
+Unescorted Raider Requirements
+Raiding Cruisers
+Raiding Submarines
+Spotting Tops
+Large Torpedo Banks
+Mass-Produced Raiders
+Submarine Manufacturer
+Submarine Designer
+Decalin Fueled Torpedo
+Efficient Fuel Engines
+Highly Efficient Diesel-Electric Propulsion Systems
+High-Powered Engines
+Open-Cycle Propulsion
+Experimental Anechoic Tiles
+Improved Torpedo Detonators
+Simplified Pressure Hull Design
+Advanced Periscope
+Emergency Main Ballast Tank Blow
+Radar Warning Receiver
+Crash-Dive Flood Tanks
+Submarine Mass Production
+Advanced Sonar
+Deck Guns
+High-Capacity Mine Storage
+Green-Water Ship Manufacturer
+Green-Water Ship Designer
+Submarine Hunters
+Efficient Patrolling Scheme
+Advanced Sub-Scanners
+High-Altitude Catapult
+Armour-Piercing Guns
+Brass-Case Reloader
+Anti-Air Defence
+Heavy Guns
+Advanced Periscope
+Piercing Rounds
+Base Defence
+State Sponsored Growth
+State Sponsored Research
+24h Shifts
+State Subsidising
+Deck Guns
+Refurbishment and Repair Dockyard
+$generic_refurbishment_repair_dockyard_organization$
+Refurbishment and Repair Designer
+Heavy Armoured Hull
+Isolated Firemains
+Counter Flooding Systems
+Anti-Torpedo Bulge
+Foam Fire Extinguishers
+Bulkhead Shoring Procedure
+High Powered Steering
+Flooding Boundries
+Protected Pumps
+Advanced Scanners
+Capital Destroyer Shells
+All-Purpose Defence Systems
+General Aircraft Manufacturer
+General Aircraft Designer
+Conservative Designs
+Fighter Aircraft Specialists
+High-Speed Design
+Agility Wing Design
+Fighter Aircraft Production
+Bomber Aircraft Specialists
+Bomb Trucks
+Fast Bombers
+Bomber Aircraft Production
+Naval Aircraft Specialists
+Naval Strike
+Naval Air Patrol
+Naval Aircraft Production
+Light Aircraft Manufacturer
+Light Aircraft Designer
+Expanded Production Facilities
+Fixed Tailwheels
+Removable Wings
+Liquid-Cooled Engines
+Maritime Duties
+Advanced Aerodynamics
+Fuselage Ordinance Rack
+Ongoing Developmental Upgrades
+Heavier Airframe
+Maximum Wing Loads
+Gun Pods
+Multi-Purpose Aircraft
+Fighter Specialisation
+Close Air Support Specialisation
+Flexible Design
+Fighter Expertise
+Close Air Support Expertise
+Medium Aircraft Manufacturer
+Medium Aircraft Designer
+Narrow Build
+Mixed Material Construction
+Multi-Role Transport
+Refined Engines
+Twin-Tail
+Reinforced Wing Braces
+Expanded Cockpit
+Metal Nose Replacement
+Streamlined Fuselage
+Extra Machine Guns
+Adaptable Build
+Heavy Fighter Specialisation
+Tactical Bomber Specialisation
+Skip Bombing
+High-Frequency Direction Finding
+Heavy Aircraft Manufacturer
+Heavy Aircraft Designer
+Reinforced Frames
+Transport Conversions
+Standardised Alloys
+Drop-Hammer Alloy Straining
+Refined Secondary Aluminium
+High-Quality Aluminium Alloys
+Pressurised Cockpit
+Advanced Turbochargers
+Extended Rear Fuselage
+Auto-Levelled Bombsights
+Air-Deployed Sonobuoys
+Cockpit-Controlled Remote Gun Turrets
+Flying Fortress
+Advanced Instruments
+Close Air Support Manufacturer
+Close Air Support Designer
+Selectional Construction
+Low Altitude Attacks
+Canopies and Firewalls
+Automatic Pull-Out
+Integrated Armour Designs
+Gull Wings
+Reinforced Wings
+Heavily Armed Aircraft
+Air Brakes
+Wingborne Fuel Tanks
+Bombs
+Rockets
+HEAT Bombs
+Cluster Bombs
+Naval Aircraft Manufacturer
+Naval Aircraft Designer
+Navigation Equipment
+Patrol Fuel Tanks
+Internal Torpedo Mountings
+High-Speed Torpedo Relase
+Reinforced Fuselage
+Agility Wing Design
+Strength Wing Design
+High-Capacity Ammunition Stores
+Larger Bomb Loads
+Air-Cooled Engines
+Multi-Stage Super Charger
+Water Injection
+Advanced Materials
+Multi-Role Aircraft Manufacturer
+Multi-Role Aircraft Designer
+Armoured Cockpit
+Escort Designs
+Light Airframe
+Medium Airframe
+Hardened Frames
+Belly Shackles
+Oversized Propeller
+Variable Pitch Propellers
+Upgraded Air-Air Weapons
+Reinforced Wing Hardpoints
+Transport Duties
+Upgraded Engines
+Not Enough Guns, Never Enough Guns
+Lengthened Wings
+Bubble Canopy
+Bomber Specialisation
+High-Agility Fighter Manufacturer
+High Agility Fighter Designer
+Bigger Engines
+Cantilever Wing Structure
+Minimum Weapon Requirements
+Fabric Skin
+Metal Skin
+Shortened Wings
+High Octane Fuels
+Interceptor
+Gunboat
+Fuel Injection Engines
+Stiffened Wings
+Subsidiary Suppliers
+Fighter Interceptors
+Range-Focused Aircraft Manufacturer
+Range-Focused Aircraft Designer
+Large Rudders and Flaps
+Variable Dihedral
+High Capacity Ammunition
+Extra Cargo Doors
+Improved Air Frame Strength
+Glider Hook Modifications
+Advanced Production Techniques
+Low Drag Wings
+Strafing Techniques
+Long Range Modifications
+Anti Interception Tactics
+High Explosive Payload
+Long Range Fighters
+Heavy Fighters
+Tactical Bombers
+Artillery Manufacturer
+Artillery Designer
+Mobile Limbers
+Stable Platforms
+Hydraulic Recoil System
+Improved Direct Fire Targeting
+Advanced Anti-Air Targeting
+Advanced Trajectory Calculations
+Sliding Breech Block
+Rapid Fire
+Advanced Barrel Forging
+Big Guns
+Gun Mass Production
+Super Charges
+Light Weight Barrels
+Infantry Equipment Manufacturer
+Infantry Weapons Designer
+Drum Pattern Sights
+Reinforced Stocks
+Bolt-Action Rifles
+Semi-Auto Rifles
+Medium Machine Guns Production
+Mass Rifle Production
+Quality Materials
+Improved Small Arms Bullet Design
+Armour-Piercing Rounds
+Heavy Anti-Armour Ammunition
+Vehicle Mounted Capabilities
+Improved Rifle Recoil
+Anti-Vehicle Land Mines
+Automotive Manufacturer
+Automotive Designer
+Composite Cargo Bed
+Steel Cargo Bed
+All Wheel Drive
+Attached Wood Gas Generator
+High-Powered Engine
+Side-Mounted Medium Machine Guns
+Armoured Pulpit Mount
+Heavy Mounted Machine Gun
+Advanced Artillery Racks
+Mounted Light Anti-Tank Gun
+Open Chassis
+Closed Chassis
+Bulletproof Panels
+Light Flame Projectors
+Land Mine Racks
+Support Equipment Manufacturer
+Support Equipment Designer
+Material Recycling
+Scrap Melting
+High-Quality Material Blend
+Research Programme
+Efficient Scale-up
+Private Scientists Programme
+Private Tenders
+Anti-Tank Rifle
+Single-Shot Man-Portable Anti-Tank System
+Small Sidearms
+Light Mortar
+Pontoons
+Armoured Car Manufacturer
+Armoured Car Designer
+Flash Suppressor
+Glacis Armour
+Heavy Mounted Anti-Tank Rifle
+Light Anti-Personnel Machine-Gun
+Combat Group
+Machine Gun Group
+Transceiver Station
+Water Tank
+Reinforced Suspension
+Reverser
+Officer Support Car
+Heavy Anti-Tank Gun
+Reinforced Wheels
+Helicopter Manufacturer
+Helicopter Designer
+Tandem Rotor Innovations
+Single Rotor Innovations
+Side-Venting Exhaust
+Improved Engine
+Extra Seating
+Co-Axial Rotors
+Mass Production Certification
+Raids
+Military Raids
+Raid Categories
+Air Raid
+Nuclear Strike
+Paratrooper
+Marine Commando Raid
+Army Raid
+Air Raids
+Nuclear Strikes
+Paratrooper Raids
+Marine Raids
+Land Raids
+§HAir Bombing raids§!\nAir strikes by a single air wing aimed at striking a specific target.
+§HNuclear raids§!\nStrikes carried out by strategic bombers or ballistic missiles carrying nuclear weapons.
+§HParatrooper raids§!\nSmall scale raids performed by Paradropping special forces dropping behind enemy lines, to conduct dangerous sabotage missions.
+§HMarine Commandos raids§!\nSmall scale raids performed by Marines on coastal areas, using small speedboats and similar equipment to make a quick strike and then disappear before the enemy has time to react.
+§HLand raids§! \nSmall scale raids performed by land forces behind enemy lines, using stealth and subterfudge to conduct quick hit and run tactics.
+§GClick§! to launch all ready raids
+$NUM|H$ raids are ready to launch
+§GClick§! to launch the raid
+§RThe raid is not ready for launch§!
+§GClick§! to expand
+§GClick§! to collapse
+§RNo items§!
+Facility Strike
+An Airstrike against an enemy Experimental Facility with the goal of inflicting serious damage to the facility, and any project there.
+Lock Bombing Raid
+Aircraft equipped with special bouncing bombs try to destroy the locks, in order to prevent passage through the canal.
+$raid_type_lock_bombing_raid$
+$raid_type_lock_bombing_raid_desc$
+Dam Bombing Raid
+Aircraft equipped with special bouncing bombs try to destroy the dam, reducing the effectiveness of it, and making it harder for the enemy to move in the area.
+$raid_type_dam_bombing_raid$
+$raid_type_dam_bombing_raid_desc$
+Gun Emplacement Strike
+A flight of bombers equipped with an earthshaker bomb try to destroy an emplacement for a $mega_gun_emplacement$
+$raid_type_gun_emplacement_raid$
+$raid_type_gun_emplacement_raid_desc$
+Mega-Gun Emplacement Strike
+A strike against a Mega-Gun Emplacement using Earthshaker Bombs
+$raid_type_mega_gun_emplacement_strike$
+$raid_type_mega_gun_emplacement_strike_desc$
+Oil Field Raid
+An Airstrike aimed at knocking a major oil field and it's connected Refineries out, in order to seriously disrupt enemy fuel production for an extended period of time.
+Nuclear Strike
+A strategic bomber and its escort will fly to the designated target and deploy an atomic bomb. The bomber will then attempt to escape the area to avoid being caught in the blast wave.
+Nuclear Missile Strike
+A long range missile will take a sub-orbital ballistic trajectory from the designated launch site towards the intended target. At the appropriate moment, the warhead onboard will detonate an atomic explosion.
+Submarine $raid_type_nuclear_missile_strike$
+$raid_type_nuclear_missile_strike_desc$
+Facility Sabotage Raid
+A team of paratroopers drop on an enemy facility and try to destroy vital equipment using fixed charges, in order to disrupt their scientific progress.
+Mine Sabotage Raid
+A team of paratroopers drop on a major enemy mine complex and try to set off charges that will disrupt production for a long time.
+Pathfinder Raid
+A team of paratrooper drop behind enemy lines to prepare for an upcoming invasion by destroying critical bridges, setting up ambushes, and generally creating distractions
+Marine Port Raid
+A group of marines is sent to damage a large, enemy controlled, $naval_base$. Ships in the port might suffer damage as well.
+Marine Facility Raid
+A group of marines is sent to damage an Experimental Facility in a coastal province.
+Airfield Raid
+Supply Hub Raid
+Demo Dambusting Raid
+Thermonuclear Strike
+A strategic bomber and its escort will fly to the designated target and deploy a thermonuclear bomb. The bomber will then attempt to escape the area to avoid being caught in the blast wave.
+Thermonuclear Missile Strike
+A long range missile will take a sub-orbital ballistic trajectory from the designated launch site towards the intended target. At the appropriate moment, the warhead onboard will detonate a thermonuclear explosion.
+Submarine $raid_type_thermonuclear_missile_strike$
+$raid_type_thermonuclear_missile_strike_desc$
+Operation Huansheng
+Our intelligence states that though valuable targets, the Yawata steel works and the Sasebo Naval Arsenal are too difficult for our airforce to properly strike at this moment. It has therefore been decided that the most effective way to stop this war would be to raise the conscience of the Japanese people against the atrocities committed by the imperialist Japanese warmongers in China, by dropping leaflets over cities such as Nagasaki, Fukuoka, Saga and Osaka.
+Tokyo Imperial Palace Bombing
+By sending a group of bombers to attack the enemy's main headquarters, and the symbolic place of Japan's imperial power, we can boost our people's morale, while inflicting a blow to our enemy's morale at the same time.
+National Diet Bombing
+By sending a group of bombers to attack the enemy's main headquarters, and the symbolic place of Japan's power, we can boost our people's morale, while inflicting a blow to our enemy's morale at the same time.
+Hakko Ichiu Bombing
+By sending a group of bombers to attack the enemy's symbol of imperialism, we will show Japan's weakness, while we boost our own people's morale.
+Great Wall Infiltration Raid
+The wall does not hold the same defensive status it has done in the past, but can still give an entrenched enemy an upper hand. By sending in a small group of soldier we will infiltrate the enemy lines and detonate well placed charges we could negate their advantage.
+$WHAT|H$ in $LOCATION|H$
+§GClick§! to raid $CONTROLLER_FLAG$$TARGET_NAME$
+§RCannot§! raid $CONTROLLER_FLAG$$TARGET_NAME$
+Target Information: $CURRENT|H$
+§LMultiple raids available:§!
+£trigger_yes£ $RAID|H$
+£trigger_no£ $RAID|H$
+$TEXT|L$
+§RLaunch conditions not met:§!
+Currently working on:\n  $PROJECT_NAME|H$
+No ongoing project
+Current project unknown due to insufficient Target Information ($CURRENT|R1$/$REQUIRED|H1$)
+Plan Raid
+Select Raid Unit
+$NUM|H$ raid units available
+- $NAME|H$ ($SUCCESS$)
+§GClick§! to select unit
+Target
+Unit
+Origin
+Current Raids
+$TYPE$ on $TARGET$
+Raid on $TARGET$
+Create £command_power£$COST|H0$
+Start
+Cancel
+Auto-launch
+§gDisabled§!
+Auto-launch is currently §Rdisabled§!.
+High
+Low
+Medium
+$NAME$
+$NAME$
+$NAME$
+Source: $NAME$
+§RAlmost Zero§!
+§OLow§!
+§YMedium§!
+§7High§!
+§GVery High§!
+§R$VAL|0%$§!
+§O$VAL|0%$§!
+§Y$VAL|0%$§!
+§7$VAL|0%$§!
+§G$VAL|0%$§!
+$VAL|R0%=$
+$VAL|Y0%=$
+$VAL|G0%=$
+$PHASE$: $PROGRESS|0%$
+Launch
+None
+Assembling
+Preparing
+Prepared
+In progress
+Ended
+None
+Critical Failure
+Limited Success
+Success
+Critical Success
+Canceled
+$WHAT|H$ in $LOCATION|H$
+Launch from $WHAT|H$ in $LOCATION|H$
+Risk Taking
+Preparation
+Likelihood of Success
+Additional Equipment
+Equipment
+Collected
+Required
+Raid unit receives $VAL|H0%$ experience towards the max level.
+Raid units take §R$VAL|0$§! damage
+Raid units are damaged by §R$VAL|%0$§!
+Raid units lose §R$VAL|0$§! organisation
+Raid units lose §R$VAL|%0$§! organisation
+Raid unit takes §R$STR_VAL|0$§! damage and loses §R$ORG_VAL|0$§! organisation.
+Raid unit takes §R$STR_VAL|%0$§! damage and loses §R$ORG_VAL|%0$§! organisation.
+§R$VAL|0$§! planes are lost
+§R$VAL|%0$§! of planes are lost
+Chance of success: $VAL|%+=0$
+    §g(exact probability:§! $VAL|%1$§g, base value: §! $BASE_VAL|%1$§g)§!
+$VAL$ §gfrom $MODIFIER$§!
+    §g(modifier: §! $VAL|%1+=$ §g, source value:§! $SOURCE_VAL$ §g)§!
+Base chance: $VAL|%0H$
+Base risk: $VAL|%0H$
+preparation time
+Time remaining: $DURATION|H$
+Preparation time: $DURATION|H$
+Create Raid
+Raid Assembling
+Raid Preparing
+Raid Ready to Launch
+Raid Launching
+Raid Ended
+The raid requires the listed equipment to be assembled before preparation can start.
+The raid is §Hassembling§!
+The raid is preparing ($PROGRESS|H0%$)
+§HRaids§! allow you to do precision strikes against important targets, gaining strategic advantages.
+§HRaid Targets§! are shown on the map. The filter buttons below can be used to configure which targets are shown.
+§GClick§! to show $CATEGORY|H$ in this map mode
+§GClick§! to hide $CATEGORY|H$ in this map mode
+§GClick§! to start planning a $CATEGORY|H$
+§GClick§! to stop planning a $CATEGORY|H$
+§GClick§! to show raid categories
+§GClick§! to hide raid categories
+Risk taking: $VAL$
+Risk taking: $VAL|%0-=$
+$VAL|%0+=$
+Risk of critical failure: $VAL|%-0$
+§gShould the raid end in §Rcritical failure§!, our units will not only be unable to effectively strike the target, but will also suffer devastating losses.§!
+Risk taking: $SETTING|H$
+By taking higher risks, you can increase the §Gchance of success§! at the cost of risking that unsuccessful raids end in §Rcritical failure.§!
+Increases chance of success by $VAL|%0+=$
+Increases risk of critical failure by $VAL|%0-=$
+§RSuccess chance capped due to high risk of critical failure (§!$RISK|%0H$§R)§!
+$VAL|%0-$
+Select a unit:
+Modifies success chance by: $VAL|%0+=$
+$SOURCE_TYPE|H$
+Select $SOURCE_TYPE|H$:
+Select starting point:
+$DIST|0H$ km
+Use this $SOURCE$ as the starting point for the raid
+Distance from target: $DIST|0H$ km
+Launch the raid automatically when prepared and the §Hsuccess chance§! is above the specified threshold.
+Launch the raid when the §Hsuccess chance§! is above $VAL$
+§RMission Aborted§!\n
+Missile Failed to Explode
+Missile Hit the Wrong Target
+Hit by nuclear strike
+Failed to properly hit intented target
+[THIS.GETName] suffers Reduction to Ship Repair Speed for 30 days
+Any ships in port suffer §R$DAMAGE$%§! damage
+The Experimental Facility suffers §R$DAMAGE$%§! damage. Projects in the facility will be slowed down until repaired.\n
+The §Y$BUILDING$§! is §Rdestroyed§! by the raid.
+The §Y$BUILDING$§! loses §R$DESTROY$§! level, and §R$DAMAGE$§! levels are damaged.
+Having successfully taken part in a $raid_type_commando_port_raid$
+Dam Blown
+Oil Refineries Damaged
+Steel Mines Damaged
+Pathfinder infiltration
+Kiel Canal Damaged
+Canal blocked due to damage to locks
+$kiel_canal_damaged_tt$
+Panama Canal Damaged
+§GTo increase the chance of a successful defense:§!
+§GTo increase the chance of a successful raid:§!
+  §g(current effect: §!$VALUE$/$MAX$§g from§! $SOURCE$§g)§!
+Chance to repel the raid: $VALUE|H%1$
+§HPreparation§!
+lack of §HPreparation§!
+enemy §HAnti-Air§!
+- Construct §HAnti-Air§! in the region
+$VAL|H0$/$MAX|H0$ anti-air
+enemy §HRadar§!
+- Construct §HRadar§! in the region
+$VAL|H0$/$MAX|H0$ radars
+enemy §HDefending Divisions§!
+- Place §HDivisions§! defending the target
+$VAL|H0$/$MAX|H0$ divisions
+enemy §HInterception Missions§!
+- Start §HInterception Missions§! in the region
+$VAL|H0$/$MAX|H0$ planes
+§HAir Superiority§!
+- Increase §HAir Superiority§! over the region
+- Decrease enemy §HAir Superiority§! over the region
+$VAL|H%0$ air superiority
+$VAL|H%0$ enemy air superiority
+§HResistance§! §gin target location§!
+- Increase §HResistance§! in the region
+- Decrease §HResistance§! in the region
+$VAL|H%%0$ resistance
+unit §HExperience§!
+low unit §HExperience§!
+unit §HAir Defense§!
+low unit §HAir Defense§!
+unit §HAgility§!
+low unit §HAgility§!
+unit §HReliability§!
+low unit §HReliability§!
+raid unit §HStrategic Bombing§!
+low raid unit §HStrategic Bombing§!
+unit §HRecon§!
+low unit §HRecon§!
+unit §HOrganisation§!
+low unit §HOrganisation§!
+§HTarget Information§!
+- Increase §HTarget Information§!
+$VAL|H0$/$MAX|H0$ target information
+unit §HStrength§!
+low unit §HStrength§!
+enemy §HCountermeasures§!
+£command_power£$COST|H0$
+£command_power£$COST|R0$
+§RInsufficient command power§! (£command_power£$COST|R0$ needed)
+$RAID_TYPE$ outcome
+$RAID_TYPE|H$ finished
+Hit by $RAID_TYPE|H$
+§RNo unit fulfills the requirements:§!
+§RThe target cannot be reached§!
+§RThis raid has already been launched and can only be used once§!
+This raid can only be launched §Honce§!
+§RThis raid cannot be used against this target again for another $DAYS$ days.§!
+Raid $OUTCOME$
+§RMissing equipment in stockpile:§!
+- $EQUIPMENT$ x$AMOUNT|H$
+§RWaiting for equipment:§!
+§RInsufficient target information for launch ($CURRENT|0H$/$REQUIRED|0H$)§!
+Dismiss
+Close the report and dismiss it.
+§RIncoming raid detected:§!
+$COUNTRY$: $RAID$
+The $RAID_DESC|H$ ended in $OUTCOME_TYPE|H$.
+§GClick§! to view details
+§GRight Click§! to dismiss the report
+Confirm Cancellation
+Are you sure you want to §Rabort§! the $RAID|H$?
+Target Information: $AMOUNT|H0$
+Minimum: $AMOUNT|H0$
+§HTarget Information: $AMOUNT|0$§!
+- From civilian intel over country: $AMOUNT|+1$
+- From army intel over country: $AMOUNT|+1$
+- From navy intel over country: $AMOUNT|+1$
+- From air force intel over country: $AMOUNT|+1$
+- From network strength: $AMOUNT|+1$
+- From controlled neighbour states: $AMOUNT|+1$
+- From air superiority: $AMOUNT|+1$
+- From having broken enemy ciphers: $AMOUNT|+1$
+- From enemy counter intel: $AMOUNT|+1$
+Unlocks Raid: $RAID_TYPE|Y$
+Unlocks: $RAID_CATEGORY|Y$
+§LAir Force Command§!
+§LStrategic Command§!
+§LNavy Command§!
+§LAirborne Command§!
+§LShady Infiltrator Company§!
+- $EQUIPMENT$ x$AMOUNT|H$
+§HModules:§!
+$NAME$
+- $LIST$
+- $NAME$: $LIMIT|H$ battalions
+§RWarning: moving ships assigned to§! §HRaids§! §Rwill cancel the raid if the target goes out of range!§!
+Distance from $SOURCE$ to $TARGET$: $TOTAL_DISTANCE|0H$ km\nDistance covered: $COVERED_DISTANCE|0H$ km\nSpeed: $SPEED|1H$ km/h
+$UNIT|H$ is waiting at $SOURCE$
+$UNIT|H$ is moving towards $TARGET$
+$UNIT|H$ is on its way to $SOURCE$
+Distance to starting point: $DISTANCE|0H$ km
+§GClick§! to select and pan to the unit
+Assigned to a raid
+Raid Canceled
+$UNIT|H$ is currently busy with other orders and cannot be unassigned.\n\n$RAID|H$ has been canceled.
+$UNIT|H$ was unable to reach $SOURCE$.\n\n$RAID|H$ has been canceled.
+$SOURCE|H$ was moved out of range of its raid target.\n\n$RAID|H$ has been canceled.
+The unit assigned to $RAID|H$ does no longer exist.
+$UNIT|H$ is on its way to $SOURCE$.
+Nuclear Bomb
+Thermonuclear Bomb
+Defences in $LOCATION|H$
+$VICTORY_POINT|H$
+£resources_strip|5 §HMine§! in $LOCATION|H$
+£resources_strip|1 §HOil Field§! in $LOCATION|H$
+$LOCATION|H$ landings
+$LOCATION|H$
+§H$supply_node$§!
+§H$the_great_wall$§!
+$TITLE|H$:
+$governments_in_exile$
+$governments_in_exile_desc$
+Governments In Exile
+Although their homelands are under enemy occupation, some brave soldiers and citizens are willing to continue the struggle. If we extend our recognition to friendly governments in exile, they can harness the resources of the expatriates, emigrés and refugees, forming new units which will fight at our side.
+[toggle_exile_decisions_text]
+[toggle_exile_decisions_desc_text]
+Disable Exile Decisions
+Hide decisions related to exile governments. You can re-enable them later.
+Enable Exile Decisions
+Show decisions related to exile governments. They can be hidden again.
+Request Reinstatement from [From.GetNameDef]
+Our faithful allies have helped us to recapture the lands occupied by our mutual enemies and the [Root.GetAdjective] homeland is relatively secure. We should request permission from our host to relocate our government and establish a [Root.GetRulingPartyLong] cabinet in preparation for the end of the war.
+[From.GetAdjective] Parliamentary Speech
+The abuses by the occupation forces terrorising [From.GetNameDef] are utterly intolerable. Let us bring representatives of the [From.GetAdjective] nation before our legislature to testify to the [Root.GetAdjective] people of our just cause for war.
+Lobby for Support
+Public Recognition of the [From.GetAdjective] Exile Government
+Request Faction Support for [From.GetNameDef]
+[Root.GetAdjective] Exile Recruitment Campaign
+Thanks to our friends in [From.GetNameDef], we have a base from which to operate, growing our strength in preparation for our triumphant return to [Root.GetNameDef]. We should focus on gathering useful personnel to aid in the war effort.
+[From.GetAdjective] Extraction Campaign
+Although most of the standing army formations were captured and interned when the [From.GetAdjective] government capitulated, there are still demobilised troops in [From.GetNameDef] who would jump at the chance to leave the occupied regions and assist our war effort. We will formulate plans to help retrieve stranded units who can then be armed and trained to fight for their homeland.
+Expatriate Donations from [From.GetNameDef]
+The suffering populace in [From.GetNameDef] has relatives and refugees living abroad. By appealing to these [From.GetAdjective] communities to make a special sacrifice to free their homeland sooner, we can gather more resources for the war effort.
+Request Control of [From.GetAdjective] Navy
+For the sake of efficiency, our alliance would benefit greatly from the integration of the [From.GetAdjective] navy into our own.
+Exile Forces
+Our united front will smash the hated enemy! By joining forces, we will combine the best of the assets available to our nation and overcome any obstacle the aggressor may throw at us!
+Weapons for the [From.GetAdjective] Resistance
+Patriotic [From.GetAdjective] elements behind enemy lines will wreak havoc upon our mutual foes, if we can deliver reliable munitions to them.
+Purge [From.GetAdjective] Infiltrators
+Our friends in the legitimate [From.GetAdjective] government are concerned by the increasing support for Bolshevist and ultranationalist movements within the volunteer forces serving us. We should remove disloyal officers and disarm mutinous formations before things get out of hand. The influence this will win us inside their country will be invaluable, especially post-war.
+[From.GetAdjective]-[Root.GetAdjective] Unity Parade
+The veteran soldiers of the [From.GetAdjective] volunteer forces have won many victories against the hated enemy, and our shared sacrifices are a source of pride. We will parade the troops around the Home Front and demonstrate our indefatigable might! Critics of the legitimate [From.GetAdjective] government might oppose this as a waste of resources but our successes will silence the doubters.
+Joint [From.GetAdjective]-[Root.GetAdjective] Training Exercise
+By land, sea and air, our combined forces will smash the tyrannical aggressors who drove our [From.GetAdjective] allies from their homes and threatened the future of world civilisation! We will launch a training exercise to learn better methods of waging war against our shared belligerents.
+Proshchaniye Slavyanki
+Main Theme
+Hearts of Men
+The War Ends
+A Song For the Children of WW2
+Morning of D-day
+End of the Tour
+Krakow
+Luftstreitkräfte March - Reprise
+Mother Russia
+Natsgvardiya
+Russian Victory
+Bring Forth the Tanks
+The Attack
+We Are Soldiers
+The Royal Air Force
+Reichspakt Theme
+Heavy Water
+Operation Barbarossa
+Days of Thunder
+The Might of the Russian State
+Moscow Accord Theme
+The Great Patriotic War
+Imperturbable
+Liberté, Égalité, Fraternité
+A Storm Coming
+Cloak and Dagger
+Achtung Panzer!
+A State of Grace
+Happy March
+Hearts of Iron 2 Overture/Menu
+Hoilero
+Japan Overture
+Kriegsgewitter
+Leaving Shore
+Lullaby of War
+March to the Front
+Montgomery's March
+R.A.F - Heroes of the Sky
+Stalingrad - Adagio in D-minor
+The 101st Airborne
+War
+Variations on the Russian Theme
+Allies Faction
+Sea Action
+Axis March
+Big Air Force
+Big Fleet
+Bombing Them
+Epic Battle
+Main Theme
+Hymn for the Ones Lost at Sea
+Land Actions
+Letters from Home
+Lots of Battles
+Offensive
+Soviet Suite - Finale
+Soviet Suite - Part 2
+Threatened
+United Nations
+Unity Low
+We Are Free
+Independent Air Force
+The Air Force is an independent branch, and just as important as the Army or the Navy.
+Industrial Destruction
+1000 bombers can change the course of the war in a single strike.
+Dive Bombing
+Scratch one flat top.
+Material Destruction
+Destruction of equipment and disruption of the enemy's lines of communication shall seal victory faster than any number of inflicted casualties.
+Air Modernisers
+It hasn't been long since the Fokker E.III was the best fighter in the world. Things change fast.
+Industry Liaisons
+Only frictionless cooperation between the aircraft industry, military, and government will ensure the highest quality.
+Air Crew Surveys
+After all, they are the ones using the equipment, so why not ask them?
+Maritime Patrol
+It it flots, we can find it.
+Long Range Patrol
+Dominating the air space away from home.
+Efficient Ground Crews Spirit
+Pilots and all that, but what really matters is getting the planes up in the air as fast possible.
+Effective Training Programmes
+Nothing beats a good education.
+Branch Independence Spirit
+No army or navy guy can order us around. We do things our way.
+Air Theory Spirit
+There's a science to air combat.
+Subservience To Army
+It's a simple job description really, bomb where the Generals tell you to bomb.
+Subservience To Navy
+Aircraft are only really useful as naval support weapons and reconnaissance.
+No Focus on Training
+Practice? Why should we do that? This is easy! Also; saves fuel.
+Disorganised Ground Crews
+Ground crew? Who are they? Why should they matter?
+Conflicting Branches
+But they said...
+Elite Fighter Pilots
+Remember boys, there's no points for second place.
+Long Range Navigation
+They can run, but they can't hide.
+Dogfighting Training
+That's not an Immelman turn, that's a half loop.
+Expert Marksmen
+It's all about knowing where to aim and when to press the trigger.
+Battlefield Air Interdiction
+Close cooperation between air and ground forces.
+CAG Night Fighting
+You think just flying in the dark is hard? Try landing on an aircraft carrier in the middle of the night!
+Veteran Air Instructors
+Letting the best train the rest.
+Steel Wings, Steel Hearts
+It takes a certain type of courage to wage war at 10,000 feet.
+Home Defence
+We shall defend our island, no matter the cost.
+Centralised Control
+Effective management of resources ensures that planes reach the locations where they are needed the most.
+Air Power Projection
+A special daring is necessary when fighting away from home.
+Massed Strike
+Disrupting the enemy ground forces is the best way to defeat them.
+Continuous Strike
+Destruction of key enemy equipment is vital.
+Total Devastation
+Massive strategic strikes at the heart of the enemy's core will break their ability to fight.
+Duelling Obsession
+Going one on one is the only honourable and gentlemanly way of fighting in the air.
+Lax Safety Regulations
+I mean, no-one really follows the instructions anyway, so what's the point?
+Officers Clique
+They may be pilots, but they are still just privates, right?
+Not Worth the Risk
+Planes are really expensive you know.
+Merchant Mariners
+Seamanship is second nature to us.
+Naval Wargames
+Theoretical tactical training saves lives, and fuel.
+Instilled Aggression
+Attack, attack, attack!
+Admirals: §G50% chance§! to gain §Y+1 Attack§! on level up.
+Calculated Restraint
+After careful consideration...
+Admirals: §G50% chance§! to gain §Y+1 Defence§! on level up.
+Signals Training
+In order for every man to do his duty, he must know what his duty is.
+Admirals: §G50% chance§! to gain §Y+1 Manoeuvring and Coordination§! on level up.
+Grand Fleet
+Large scale tactics training.
+New Admirals: §G50% chance§! to begin with §Y
+New Admirals: §G50% chance§! to begin with §Y\
+Convoy Warfare
+Merchant convoys require special tactics and training.
+New Admirals: §G50% chance§! to begin with §Y
+Integrated Air Arm
+Close cooperation between air and sea units is vital!
+New Admirals: §G50% chance§! to begin with §Y
+Damage Control
+Well drilled crews means less casualties on our side.
+New Admirals: §G50% chance§! to begin with §Y
+Best of the Best
+Tough competition and strict selection breeds the captains we want.
+New Admirals: begin without any personality traits.
+Academy Scholarships
+It's all about giving the right people the chance to shine.
+New Admirals: begin without any personality traits.
+Underfunded Naval Academy
+At least we have one...
+Traditionalism
+This is the way we have always done it. Why change now?
+Increased chance of new admirals having the §Y
+Political Appointments
+It's important that only teachers with the right attitude teach at our academy.
+Nepotism
+My father was a teacher at the academy, like his father before him, and his older brother...
+Decreased chance of new admirals getting favourable personality traits.
+Jeune École
+Destroyers are the future!
+Big Gun Club
+Battleships dominate not just the seas, but also politics.
+Aviation Enthusiasts
+The future of naval combat will be fought in the air.
+Cruiser Warfare
+Cruisers are the best type of ship there is, they can do any job.
+Wolfpacks
+The silent hunters of the sea.
+Flexible Contracts
+The best contract is one that can be terminated.
+Integrated Designers
+Constantly adapting our designs is top priority.
+Naval Reform
+War always changes.
+Naval Refit Yards
+Minimising time in the dock, maximises the time a ship can be at sea.
+Modernism
+The future is upon us.
+Global Presence
+Our ships shall patrol the oceans around the globe.
+Submarine Primacy
+Without supplies, a country cannot fight a war.
+Mobile Force
+Being able to strike anywhere, anytime.
+Landlocked
+Without access to the sea it is hard to build a naval tradition.
+Political Connections
+My command has nothing to do with my father being the Minister of Finance!
+Overbearing Army
+The Navy is but support for the Army.
+Bureau of Ordnance
+The Bureau of Ordnance influences any ship designs made.\n\n§GThis spirit is available due to our amazing torpedoes.§!
+Only the Big Guns
+Battleships are the undisputed queens of the high seas.
+Close Combat
+Getting in close is the key to victory.
+Night Fighting
+Being used to fighting in the dark gives distinct advantages.
+Surprise Attacks
+Hitting the enemy before he is aware of the threat.
+Efficient Communications
+Communication, communication, and communication.
+Discrete Valor
+Surviving to fight another day.
+Surface Raiders
+Why just let the subs do all the raiding?
+Decisive Battle
+Going all in for the battle will always give you the initiative.
+Inclement Weather Experience
+There's no such thing as bad weather...
+Brave Commanders
+Damn the torpedoes, full speed ahead!
+Litoral Fighting
+Navigating and fighting in the archipelago takes a special set of skills.
+Green Water
+Keeping close to the shore is the safest bet.
+Blue Water
+The deep ocean is the true home of a sailor.
+Poor Damage Control Training
+Who needs to train that anyway? We are supposed to be hitting the enemy, not the other way around.
+Limited Sea Time
+Keeping the fleet at sea makes it more expensive to run.
+Cult of the Signal Flag
+As long as everyone follows orders, no-one can get blamed.
+Overbearing Admirality
+Always check with the Admirality.
+Bold Attack
+As the saying goes: a strong offence is the best defence.
+Tenacious Defence
+They shall not Pass!
+Meticulous Preparation
+War is chaos, but chaos can be prepared for.
+Best of the Best
+Few people have what it takes to lead soldiers into battle. Fewer still have what it takes to win that battle.
+Academy Scholarships
+No one should be prevented from serving their nation due to a simple lack of money.
+Political Loyalty
+An unreliable military is a threat to the state it is meant to protect.
+New Officers: begin with either §Y
+Inventive Leadership
+A predictable General is a defeated General.
+New Officers: §G50% chance§! to begin with §Y
+Embrace the Future
+Wherever future battles are fought, armoured troops will play the decisive role.
+New Officers: §G50% chance§! to begin with §Y
+Engineering Schools
+There is a lot of science involved in digging a proper ditch.
+§G50% chance§! that new officers are created with the §Y
+Theatre Training
+Some officers may 'go native', but natives are very good at fighting on their chosen terrain.
+§G50% chance§! that new officers are created with the §Y
+The Queen of Battle
+Infantry is the Queen of Battle, and the Queen goes wherever she pleases.
+Underfunded Academy
+There are better things to spend money on than teaching people how to kill each other more efficiently.
+Nepotism
+My uncle runs the army and he says I can get my own division command whenever I want!
+Professional Officer Corps
+We are professionals, and war is our profession.
+Elevated Engineer Corps
+The best judge of a man's ability and character is to give him a shovel and a day to do something useful with it.
+Proper Heritage
+A good General may be trained, but a great General must be bred. Like horses, in a way.
+Quick Improvisation
+Understand faster, think faster, act faster - that is the key to victory.
+Adaptable Modernisers
+A doctrine that can not be changed may as well be called a dogma.
+Relief of Command
+The army does not exist to feed the ego of its Generals.
+Ideological Loyalty
+Someone who does not have the correct ideology can not be expected to achieve the correct result in battle.
+State Serves the Military
+The purpose of the state is to wage war against other states. Anything else is either in support of that or a useless distraction.
+Motorisation Drive
+Strike faster, go further, win harder!
+Overwhelming Firepower
+If artillery doesn't win you battles, you're not using enough of it.
+Tip of the Spear
+The dagger in the night is often more effective than the longsword in the day.
+Bayonet Strength
+When all is said and done, a tank or airplane can't hold a patch of ground.
+Political Connections
+Well, we'll see what the minister has to say about that!
+Entrenched Old Guard
+Who is this idiot, and why is he talking about this 'airplane' nonsense again?
+Doctrinal Orthodoxy
+That's not how we used to do it back in my day.
+Excessive Parade Drill
+A soldier's primary purpose is to look good on parade.
+Static Warfare
+There is no such thing as too much trench work. There is only 'insufficient' and 'barely adequate'.
+Flexible Organisation
+What counts is getting the job done, not following orders to the letter.
+Aggressive Reconnaissance
+If you want to know what the other side is up to, go over there and ask them directly!
+Reserve Officers
+Not everyone needs to make the military their profession. But in times of war, they can still serve.
+Upbeat Command
+A kind word or a shared joke with the common soldier often does more for the overall success of the unit than an extra artillery battery.
+Victory or Death
+It is better to die with glory than to live in the shame of defeat.
+Manoeuvre Warfare
+A proper, civilised war is more like a chess match than a brawl. Why fight an enemy you can manoeuvre around?
+Smoke and Fire
+A rolling barrage of shells is surprisingly effective at keeping the enemy from shooting back.
+Logistical Focus
+The troops can eat their belts but the tanks got to have gas.
+Operational Reserves
+Always have something up your sleeve. Always.
+Intercommand Rivalries
+The most important battles are fought in appropriation committees, and that is where the ugliest grudges are born.
+Disregard for the Common Soldier
+The average soldier is the dumbest, ugliest, laziest creature that could be fit in a uniform.
+Constraining Hierarchy
+If you don't pay close attention to where your subordinates are at all times, someone might end up stealing them.
+Disdain for Digging
+All this mud gets on the uniform and then the troops will have to spend a lot of time cleaning them.
+Traditionalism
+War. War never changes.
+Expeditionary Warfare
+Winning a war means going to the other guy's country and breaking a lot of things.
+Penny-Pinching
+Do you have any idea how much money it costs to fire this bullet? And you want to do it for 'training'?
+Officers: §G50% chance§! of §Y+1 Attack§! on level up.
+Officers: §G50% chance§! of §Y+1 Defence§! on level up.
+Officers: §G50% chance§! of §Y+1 Planning and Logistics§! on level up.
+New Officers: no personality traits gained on hiring.
+New Officers: no personality traits gained on hiring.
+New Officers: §G50% chance§! to begin with §Y
+§R-50% chance§! that new officers are created with positive traits.
+§R-20% chance§! that a new officer is recruited with the §YArmour Officer§! trait. §R20% chance§! that a new officer is recruited with lower §YAttack§! or §YDefence§! skill.
+Spirit of the Academy
+Spirit of the Army
+Spirit of Division Command
+Spirit of Naval Academy
+Spirit of the Navy
+Spirit of Naval Command
+Spirit of the Air Force Academy
+Spirit of the Air Force
+Spirit of Air Force Command
+Accomplished Heritage
+The history and accomplishments of our regiments stands testament to the heroism of our soldiers. By habitually recognising great deeds, every man might aspire to that same greatness.
+Europe
+European
+Asia
+Asian
+Africa
+African
+North America
+North American
+South America
+South American
+Oceania
+Oceanian
+Middle East
+Middle Eastern
+India
+Indian
+Central America
+Central American
+Neighbour
+Subject
+Living off the Land
+It is good to destroy the enemy with your own weapons, but even better to destroy him with his own weapons.
+Rapid Emplacement
+All the firepower in the world doesn't mean anything when it's in the wrong place.
+Direct Fire Support
+Crank it down to zero elevation and engage the enemy over open sights!
+Subsidised Contracts
+While replacing the horse with the tank is desirable in the long term, it cannot be done at the cost of national economic ruin.
+$subsidized_contracts_army_spirit$
+$subsidized_contracts_army_spirit_desc$
+All-Arms Anti-tank Defence
+Armoured breakthroughs can happen at any time, anywhere. The God of War helps those who help themselves.
+Spirit of Defiance
+A people cannot be conquered until they admit they are conquered.
+Intervention Specialists
+The enemy of my enemy is my friend.
+Naval Tripwire
+We may not fully stop the enemy from approaching our coasts, but we can make it bloody and expensive for him.
+Ship to Shore Training
+No land-based artillery can hope to match the firepower tens of thousands of tons of navy steel can bring to the dance.
+Scouting Force
+The sea is vast. Victory in battle usually goes to the side who detects and decisively strikes the other first.
+Fleet Defence
+Combat air patrol and light ships exist to allow our heavy hitters to do their jobs without being rudely interrupted.
+Fleet Interoperability
+Rapid logistical replenishment and efficient damage control don't win battles on their own, but they keep the guns of victory firing.
+Rapid Concentration
+Converge swiftly on the foe like a swarm of locusts, firing every weapon at your disposal: the quickest path to  victory.
+Anti-aircraft Curtain
+Like an ancient shield wall, every ship in a battle fleet is not only responsible for its own defense, but to aid its   neighbor.
+Stay at your Posts
+As long as one prop is turning and one gun remains above the waterline, we are still in the fight.
+Selective Engagement
+A fool stands still in front of a superior enemy and allows themselves to be destroyed. Decline fights you  cannot win.
+Sea Lane Denial
+Nothing eats a sea urchin, for good reason.
+Underdog Mentality
+If at first you don't succeed, torpedo again.
+Cult of Heroism
+Throughout history to the modern day, soldiers and citizens alike honor the sacrifices of their comrades.

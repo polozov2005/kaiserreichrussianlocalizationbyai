@@ -1,0 +1,442 @@
+Ha'il
+Ha'ilian
+Ha'il
+Ha'il Commune
+the Ha'il Commune
+Ha'il Commune
+the Ha'il Commune
+Ha'il Commune
+the Ha'il Commune
+Jabal Shammar
+Shammari
+Jabal Shammar
+Jabal Shammar
+Shammari
+Jabal Shammar
+Jabal Shammar
+Shammari
+Jabal Shammar
+Jabal Shammar
+Shammari
+Jabal Shammar
+Jabal Shammar
+Shammari
+Jabal Shammar
+Jabal Shammar
+Shammari
+Jabal Shammar
+Jabal Shammar
+Shammari
+Jabal Shammar
+Arabia
+Arabian
+Arabia
+Arabian People's Republic
+the Arabian People's Republic
+Arabian People's Republic
+the Arabian People's Republic
+Arabian People's Republic
+the Arabian People's Republic
+Rashidi Arabia
+Rashidi
+Rashidi Arabia
+Rashidi Arabia
+Rashidi
+Rashidi Arabia
+Rashidi Arabia
+Rashidi
+Rashidi Arabia
+Rashidi Arabia
+Rashidi
+Rashidi Arabia
+Rashidi Arabia
+Rashidi
+Rashidi Arabia
+Rashidi Arabia
+Rashidi
+Rashidi Arabia
+Rashidi Arabia
+Rashidi
+Rashidi Arabia
+Arabia
+Arabian
+Arabia
+Subhani Arabia
+Subhani
+Subhani Arabia
+Subhani Arabia
+Subhani
+Subhani Arabia
+Subhani Arabia
+Subhani
+Subhani Arabia
+Subhani Arabia
+Subhani
+Subhani Arabia
+Subhani Arabia
+Subhani
+Subhani Arabia
+Subhani Arabia
+Subhani
+Subhani Arabia
+Subhani Arabia
+Subhani
+Subhani Arabia
+Sultanate of Jabal Shammar and Hejaz
+Rashidi
+the Sultanate of Jabal Shammar and Hejaz
+Ha'il
+Shammari
+Ha'il
+$HEJ_totalist_party$
+$HEJ_totalist_party_long$
+$HEJ_totalist_party$
+$HEJ_totalist_party_long$
+$HEJ_totalist_party$
+$HEJ_totalist_party_long$
+Hizb al 'Ijtimā'ī
+Hizb al Hurriyyāt wa al 'Adālah
+Hizb Hurrat al 'Arab
+Hizb al Tahāluf
+$JBS_rashid_party$
+$JBS_rashid_party$
+$JBS_rashid_party$
+Āl Rashīd
+Āl Subhān
+§gIf the timer runs out, the nation with §GPositive War Score§! will §RAnnex§! the other:§!
+§RDark forces start moving against [JBS.GetLeader].§!
+§YUlemma§! support will §GIncrease§!, having the following effects:
+§YUlemma§! support will §Rdecrease§!, having the following effects:
+§YBedouin§! support will §GIncrease§!, having the following effects:
+§YBedouin§! support will §Rdecrease§!, having the following effects:
+§YUrban Nobility§! support will §GIncrease§!, having the following effects:
+§YUrban Nobility§! support will §Rdecrease§!, having the following effects:
+§RThe §YIkhwan§! will raise their flag in revolt if they have not yet been dealt with§!.
+§RThe §YPro-Saudi Loyalists§! will raise their flag in revolt if they have not yet done so previously§!.
+§Y[JBS.GetNameWithFlag]§! and §Y[HEJ.GetNameWithFlag]§! will be united in a §Csingular state§!, ruled from §CHa'il§!.\n\n
+§Y[JBS.GetNameWithFlag]§! and §Y[HEJ.GetNameWithFlag]§! will be ruled as two §Cseparate states§!, with split domestic and foreign departments ruled in a §Cpersonal union§! under [JBS.GetLeader].\n\n
+\n§gIf we directly control §YHejaz§!, we will receive the following effects:§!
+Gain $COUNT|Y$ $DIVISION|Y$ with an Experience Level of $EXPERIENCE|Y$ in $LOCATION|Y$.
+£nato_unit_cavalry_icon_small  Cavalry Division
+£nato_unit_cavalry_icon_small  Cavalry Divisions
+£nato_unit_cavalry_icon_small  Iraqi Camelry Corps
+£nato_unit_infantry_icon_small  Militia Division
+£nato_unit_infantry_icon_small  Militia Divisions
+£nato_unit_mountaineers_icon_small  Mountaineer Division
+§Y$IKH_faisal_al_duwaish$§! will remain §Gneutral§! in our conflict with §Y[SAU.GetNameWithFlag]§!!
+Lose 3 £nato_unit_cavalry_icon_small  §YCavalry Divisions§! with an Experience Level of §Y$UNIT_LEVEL_3$§!.
+Disables Decision: £decision_icon_small §Y$JBS_Ottoman_Weapons_Assistance$§!. Shall we have already taken this decision by the time this focus is taken, we will lose the offmap §YMilitary Factory§! it provided.
+As ATF isn't willing to do business with the enemies of the Sublime Porte, we will lose the offmap §YMilitary Factory§! provided by the £decision_icon_small §Y$JBS_Ottoman_Weapons_Assistance$§! Decision.
+Diplomacy with the Sublime Porte
+The Ottoman Empire, commonly referred to as the Sublime Porte, is our largest ally in the region and also its strongest military. Even though we should not expect direct intervention from them should the Saudis strike, we can still rely on the Sultan's favour in times of need.
+Invite Experts from the Erkân-ı Harbiye Mektebi
+The Ottomans have fought a bloody war with us at their side two decades ago but even then it was clear who had the doctrinal advantage. Fighting war for close to a decade on end, the Ottomans are battle hardened, trained and capable of providing us with all the assistance necessary to reform our army.
+Military Contract with ATF
+The facilities of Ankara Tüfek Fabrikasi are producing the finest weapons in the Middle East which we will dearly need should we expect to stand a chance against the forces of Ibn Saud on our own.
+Support the Ottomans
+Allies in the Weltkrieg, the Porte once more calls on all decent muslimfolk to defend the values of the Caliphate and oust the invaders of its territory. Although we don't really have a stake in the fighting, we may be greatly rewarded for our loyalty once the Porte inevitably crushes the weak King in Cairo.
+Join the Cairo Pact
+Times have changed and the once undefeatable Ottoman war machine has lost steam. With Arab nations and groups flocking to the green banner of Egypt who clamours to fight for the liberation and glory of the Arab peoples, our Emir as well questions his relation to the Porte. We already had a whiff of freedom these last few years so after all... why not? Why shouldn't we keep it?
+Preparations for the War of Unification
+Time has not been very kind to the House of Rashid. Losing most of their male family members at the hands of the Ibn Saud and suffering from continuous raids into their territory by the Ikhwan, the power and prestige emanating from Ha'il have severely waned under the weight of the Wahhabists. Support by the Ottoman Empire is keeping our dominion on its feet however as their continued partnership and alliance with our Emir ensures his lands are safe from any immediate threat.\n\nSome have argued however that this partnership is the only thing keeping our realm together and should disaster befall the Ottomans, Ibn Saud may see it as his destiny to unite the peninsula under his rule.\n\n§gThe strength of our £in_combat §GAllies§! will determine the size of our army at the start of the war with [SAU.GetNameWithFlag]. Courting the Central Arabian tribes and securing assistance from forces in Hejaz and Iraq could help tip the scales in our favour.§!\n      [JBS.GetNameWithFlag] : [?num_divisions|H0] ([?tribes|H0])\n      [SAU.GetNameWithFlag] : [?SAU.num_divisions|H0] ([?SAU.tribes|H0])\n
+Arab War of Unification
+The final struggle for control over the Arab interior is rapidly approaching, as the Ottoman behemoth is cracking under the weight of the worldwide economic depression, temporarily unable to maintain peace on the peninsula. All Emirs will have to pick a side, for the future of the Arab world will be written in blood. Those who win will have the chance to shape the destiny of the Arabs. The losers will find themselves disgraced, cast aside or slain on the field of battle.
+Imminent Collapse
+Whilst the deserts of Arabia are no strangers to war, its economy and agrarian base can not sustain long conflicts without intermittent armistices and decisive victories. Should either the House of Rashid or Saud find itself on the verge of victory, the other will have no choice but to admit that it does not have the capacity to sustain a lengthy siege or a war of attrition.
+Sway the §YHarb§!
+Tightly bound to the tribes of Hejaz, the Harb nonetheless form a formidable power bloc in Central Arabia. In the conflict between Ibn Rashid and Ibn Saud, they have nonetheless thus far remained neutral as they have little stakes in the tug of war and are protected by the Sharif in Mecca.\n\nMore recently however they have become concerned by attacks of the Ikhwan whose seemingly endless desire for the glory of the battlefield have started to raid the outer reaches of the Harb domain.
+Sway the §YHutaim§!
+Inhabiting mostly the coastline, with a large subsection near Hejaz, the Hutaim are one of the 'Lesser Tribes' of Arabia. They are mostly hunters/gatherers with little stakes in the Arab conflict, largely stemming from the fact that neither side recognises them as True Arabs.\n\nOften serving as slaves or filling the lower positions in Arab society, they could perhaps be persuaded to support our side if we were to make concessions.
+Sway the §YMuntafiq§!
+A Shi'ite tribal confederation led by Sunnis, the Muntafiq are one of the largest groups in Iraq and play an important role in its politics. Besides that, they also serve as border guards preventing the further expansion of Ibn Saud and the raids of the Ikhwan.\n\nLed by §YAjami al-Sa'adun§!, the §RIraqi Camel Corps§! is a distinguished part of the Ottoman Army in Iraq and could if need be prove decisive in defeating the troops of Ibn Saud when properly supported by the Turks.
+Sway the §YAnizzah§!
+The largest and most powerful tribe of Central Arabia, the allegiance of the Anizzah is of vital importance to any group looking to unite Arabia. Despite this, the Anizzah are considered one of our traditional enemies and it will prove extremely difficult to convince them into coming over to our side. To further his case, Ibn Saud also proudly calls himself a descendant of the Annizah who he called the tribe with the 'Bluest Blood'.\n\nDespite these factors however, the Anizzah have had an especially bad run in with the Ikhwan and have called on Ibn Saud to show where his true loyalties lay. It is this difference that we can exploit and hopefully use to our advantage.
+Sway the §YMutair§! (Faisal al Duwaish)
+One of the most formidable tribes, the Mutair can be seen as a sort of wildcard amongst tribal loyalties, flocking to the banner of the power most beneficial to their situation. Whilst the Ikhwan count a significant amount of Mutair amongst their numbers and has assisted Ibn Saud on multiple occasions, their leader is well known for switching sides to his own advantage.\n\nThe great §YFaisal al Duwaish§!, their leader and commander is seen as the greatest military mind on the peninsula and may very well prove to be the decisive factor in the wars to come if his loyalty can be ensured.
+Sway the §YMutair§! (Mishari ibn Busayis)
+Although for most Mutair, Faisal al Duwaish can be seen as their hero, saint and father, it may be possible to sow dissent amongst their ranks and drive a wedge between those disillusioned by the endless violence and religious rhetoric of the Ikhwan.\n\nCommanding a substantial part of the Western Mutair, §YMishari ibn Busayis§! could potentially be swayed to our side if we promise to reward him in return with lordship over the Western Qasim tribes.
+Sway the §YAjman§!
+The Ajman have been among the most unmanageable tribes for almost a century and submit to the central government only reluctantly. Attempts by Riyadh to bind them closer to the crown turned into disaster in 1915 when the Ajman rose their flag in revolt and after achieving an initial victory over Ibn Saud, almost succeeded in killing him. They would however not prove a match for his combined forces and after a short setback, he returned to enact his vengeance.\n\nThe command after their defeat to be broken up in small parts and settle in the Hijra of the Ikhwan has been received especially poorly and it is no secret that their leader, §YZaidan ibn Hithlain§!, has been preparing the downfall of his suzerain ever since.
+Sway the §YUtaibah§!
+The second largest tribe of Central Arabia, the Utaibah have always been staunch allies of the Saudis and fought on their frontlines against threats both from within and abroad. Nonetheless a feud has developed within their ranks between the Ikhwan aligned Sultan ibn Humaid ibn Bijad and §YAbd al-Rahman ibn Rubayin§!. It is this division that we could potentially exploit and use to our advantage if we play our cards right.
+Sway the §YAwazim§!
+Much like the Hutaim, the Awazim are seen as an \
+We have tried convincing §YFaisal al Duwaish§!
+We have tried convincing §YMishari ibn Busayis§!
+§CTurkish Petroleum Company§! has purchased the §Yal Hasa§! concession
+§CDAMAG§! has purchased the §Yal Hasa§! concession
+The War of Unification has ended
+Shammar Chauvinism
+Although the Shammar form only part of the tribal confederation that has sworn fealty to the Emirs of Ha'il, they are without a doubt the lifeblood of it. Unlike their rivals in Riyadh, the Shammar do not share the belief that all the monotheists should be united or that they are equals. For them, it is clear that the Shammar are a group above their other 'countrymen' and it is their right to rule and fight. Their martial prowess, famed in the entire subcontinent has strengthened this conviction although it has over the last few decades had no choice but to recognise that what their troops may make up in quality can't match the sheer numbers Ibn Saud brings to the field.\n\nThis attitude has in the past led to severe issues with the other tribes of Arabia who see the Shammar as unreliable chauvinists, further exacerbated by their short reign over the entire Najd region when their ruthless attempts at subjugation left the region a burning ruin.
+§RThe integration of other parts of the Peninsula will lead to frequent frictions with tribes and harsher penalties due to the Shammari unwillingness to share power§!.
+Ottoman Lapdogs
+Ever since the fall of the Saudi state, the Emirs of Ha'il have fostered close ties with the Turkish Caliph. Partially out of economic necessity as the merchants and citizens of Ha'il depend on the influx of pilgrims going from Ottoman Iraq to Ottoman Hejaz and partially out of opportunism. As the Saudi state continued to crumble, the Shammar used this window of opportunity to expand their own power with the backing of Turkish arms.\n\nTheir inability to stop the resurgent Ibn Saud would however prove their undoing and their reliance on the Turks to help them quell the young Saudi state, gave them the reputation of Turkish lapdogs and traitors to the traditions of the Arab peninsula. Suffering defeat after defeat, the Shammar attempted to regain their position by shedding any ambiguity that may have remained and threw themselves fully behind the Ottoman cause. Although this decision would lead to their survival as a state independent from Riyadh, it also bound them closely to the Turkish state. With Ibn Saud ever expanding his power and influence, Najds undoubtedly greater military potential and the constant infighting of the Rashidi dynasty, the Turks have become the only reason the Emirate still stands.
+§GSo long as we maintain our close ties with the Porte, they will fund our dynasty, arm our troops and protect our domains§!.
+Guardians of the Hajj
+Merchant Princes of Ha'il
+Radiant Prestige
+Defending against Najd
+War is looming on the horizon with the dogs to the south. It is time for all men to take up arms in defence of the country.
+Rashidi Directory of Military Affairs
+Royal Horse-Breeding Department
+Our horsemen, equipped with the finest steeds and steeled by years of raids, have answered the call and will fight for us in the coming war for the world.
+Desert Logistics
+Khuwa
+Intensified Wahhabist Rhetoric
+Absolute Royal Power
+Expanded Majlis Authority
+Growing Political Consciousness
+Rashidi Nizam
+Ikhwan Hijras
+Rashidi Arabia
+Unification Fervour
+Hejazi Separatism
+War of Unification
+Unbridled Fratricide
+Brother versus brother, nephew versus uncle, the delicate balance within the family that our previous Emir worked so hard on to maintain has broken apart and Ha'il is suffering from one of the worst palace crises in modern Arab history. With no clear end in sight, many are fearful that the House of Rashid will intrigue itself into oblivion if they don't quickly reach an agreement.
+Looming Invasion
+In the fallout of the overthrowal of the Rashidi dynasty, sinister forces both within the country and abroad are plotting to overthrow the al-Subhanis and restore the Rashidis to the throne.
+Revolt Suppression
+Ankara Tufek Imports
+\n§YWill be removed if:§!\n [ROOT.GetATFRemovalTrigger] Is not ally of §Y[OTT.GetNameWithFlag]§!\n
+Rashidi Focus Tree
+Merchant Princes of Ha'il
+Ha'il is the pride and glory of the Shammar state and the Rashidi dynasty. Once a key trading hub on the lines between Iraq and the Hejaz, the city has established its reputation as a religiously tolerant and wealthy city in the Arabian Desert. Although its glory has sharply faded since the heydays of the First Rashidi State, the princes of al Rashid continue to exert their power over Northern Arabia.
+Guardians of the Hajj
+For the merchants of Ha'il and the Arab subcontinent in general, few activities are as important as the yearly Haji. The duty of every Muslim to at least once visit the Holy Cities in the Hejaz has brought with it a gargantuan economic and logistical operation. The Tribes of Jabal Shammar are one of the cogwheels and it is our duty (and source of income) to provide safe passage to those travelling from Iraq to Hejaz.
+Ottoman Economic Integration Programme
+In the past, the merchants of Shammar were able to compete with those of the Ottoman centre and the caravan routes crossing the subcontinent brought riches and splendour to Ha'il. These times are over and with the industrialisation of the Ottoman Empire, our value has greatly diminished. There is hope however that through integration of Ha'il into the Mesopotamian economy, we can achieve a new role.
+Invite Syrian Educators
+Although our tribesmen have a reputation as great warriors and merchants, they severely lack the education to play any significant role in the world of today. Whilst for many this lack is regarded with pride, the import of modern technology has necessitated the presence of an educated class. With Syria traditionally in close relation to us, we have been granted the right to send our brightest minds to their academies.
+Renegotiate Ottoman Subsidies
+These days sadly one of our main sources of income, the Ottoman payments made out to our Emir for his continued loyalty and his wage as Wali of Jabal Shammar form a vital lifeline for our struggling Emirate. As tensions rise both on the subcontinent and in the greater Arab world, coupled with the wage reductions for governors in the core Ottoman lands, a renegotiation of our allowance is more than due.
+Cooperate With ATF
+One of the main suppliers of the Ottoman army, the ATF can provide the tools we desperately need to modernise our army and as such maintain our hold over the tribes.
+Renovate Barzan Palace
+Ordered by Prince Muhammad ibn Abdul-Muhsin Al Ali in 1808 and only completed under the rule of Talal ibn Abdallah, the Barzan Palace stands as a symbol of wealth and power above the sands of Arabia. Consisting of three floors and covering an area of more than 300,000 square metres, it is the pride of our dynasty and also a vessel of our legitimacy.
+Protect Shia Merchants
+Unlike our Saudi neighbours in Riyadh, the Emirs of Ha'il have a much laxer policy towards the non-monotheists and this has enabled the rise of a prospering cosmopolitan atmosphere within the city walls. With Ikhwan rhetoric calling for the execution of all non-believers and the Shia population of al-Hasa suffering under their attacks, Ha'il has developed itself as a safe-haven for those fearful of the Ikhwan.
+Encourage Local Manufacturing
+Primarily a people of merchants, herders and farmers, there is little in the shape of manufacturing performed locally with simple commodities such as clothes imported from Syria. Although this arrangement has served us well in the past, the volatility of the world market has led to severe shortages in Ha'il. To remediate this situation, we will need to establish at least a minimal local industry.
+Promote Date and Fruit Production
+The desert sands of Arabia make for hard farming and with freshwater primarily limited to Oases and the cooler highlands, the cultivation of dates and fruit have taken precedence over traditional grains or rice. With rapid growth in population both within our lands and Greater Syria, the demand for these goods has seen a rise. A rise which we will take advantage of!
+Found the Directory of Military Affairs
+The military of Ha'il consists mainly of Bedouin allies called upon during times of war and conscripts from amongst the settled population. This latter group has seen its importance rise spectacularly over the years as a disciplined, standing army has proven its advantage in conflicts with Ibn Saud as the reliance on fragile alliances with the tribes of Arabia has led to countless unexpected defeats.
+Recruit Tribal Levies
+Traditionally the tribes who swear fealty to the Emirs of Ha'il are only subject to conscription or the duty to deliver men for the army when called upon in times of war. As Ha'il slowly moves towards a professional standing army, we will need to impose a quotum on our tribal allies and as such provide the manpower for this new force.
+Expand the Rajail
+As the Emirs of Ha'il found the Bedouin of Central Arabia an untrustworthy force, in the 19th Century the then ruler of Ha'il ordered the creation of a personal guard, the Rajails, consisting of hardened Turkish, Albanian or Circassian soldiers. This force has survived and even expanded on as their status as a mainly mercenary guard proved less susceptible to the Wahhabist rhetoric of Riyadh.
+Study Ottoman Doctrine
+What was once an alliance of opportunity between the city of Ha'il, unaffected by the collapse of the Second Saudi State, and the Porte to wrest control over the Arabian interior has deteriorated into a clear master-vassal relation. Ottoman soldiers have garrisons in many of the major oases whilst their military theorists hold major sway within the army of Ha'il, defining its tactics and organising its conscription.
+Create the Ha'il Camel Corps
+Inspired by the Iraqi Camel Corps, maintained by the powerful Muntafiq tribe as a division of the Ottoman Sixth Army, officers of the Ottoman Empire are working in cooperation with the House of Rashid to establish a second Camel Corps based in Ha'il and aimed at further protecting the Southern flank of the Ottoman Empire from possible incursions.
+Royal Horse-breeding Department
+As many men in the West now look at their newfashioned automobiles with great pride, for the common Arab there can be no question about the divine status of the horse. Not only is the horse used for tasks of warfare but the breeding of the most beautiful, fastest and most capable horses is regarded as a major source of prestige in Arab society and one the House of Rashid can never pay enough attention to.
+Import Modern Weapons
+Although the forces of Riyadh and Ha'il have progressed since the days of the musket and scimitar, many of our troops still wield unstandardised pre-Weltkrieg rifles with very questionable reliability. To replace these and to ensure that at least our standing army is capable to enforce order in the entire realm, the directorate of military affairs has given the order to replace the dated arsenal.
+Revised Infantry Tactics
+Whilst foreigners might expect conflict on the Arabian subcontinent to be solely waged from camel or horseback, the tactics used in Arab warfare have just like in the West shifted towards a larger focus on large contingents of infantry. These groups need different tactics, a sort our commanders aren't used to as they still regard a war on foot as degrading and reserved for the tribes of lesser blood.
+Curb Authority of the Majlis al-Shura
+Set up after the Weltkrieg under pressure from the urban nobility, inspired by the bureaucracy established by the Turks in Hejaz, the Majlis serve as a royal council with certain authority over matters of state. It has become apparent however that this institution only serves to enrich the men who take part in its meetings and is an insult to the monarchic right to rule. We will no longer tolerate this weakness!
+Relinquish Absolute Power
+Although the Majlis have seen their power expanded since the 1910s, they still have only very limited control over the realm and mostly just an advisory role to the absolute monarch. Inspired by systems set up in the Ottoman Empire, predominately in the Hejaz, some have proposed a system wherein the Majlis serve more as a parliament or council of ministers with executive power than solely an advisory organ.
+Modernise Zakat Collection
+One of the 5 Pillars of Islam, the Zakat is a religious duty for all Muslims who can afford it. Serving as a mandatory, charitable contribution, it is in practice a thinly veiled tax and one that contributes to a significant part of our revenue. As collection however greatly depends on the local religious authorities, with questionable loyalty to the state, a modernisation of the practice is clearly in order.
+Settle the Bedouin
+Although detribalisation has been a major force in the Ottoman Mashriq and Egypt, Central Arabia due to its isolated nature and vast territory has seen very little effects of this. This means that the majority of our population is still of Bedouin nature and thus quasi independent from the state. If we are to govern effectively and wield a modern army, there can be no doubt about their future status.
+Re-arrange Irrigation Obligations
+In the arid deserts of Central Arabia, the real gold is not found in the mines of Hejaz but in the oases of the highlands. As water greatly determines the prosperity and survival of our citizens, control over water and more specifically the administrative structures that determine who can use how much is highly critical to the future of our state.
+Outlaw Slavery
+Although slavery was technically banned within the Ottoman Empire and by extension our lands, on the ground the practice has more than endured. Despite bringing us great wealth, we can't help but recognise that continuation of the practice closes more doors than its profits open. Furthermore, many of the lesser blooded tribes might see us in a friendlier light if we abolish the practice that long oppressed them.
+Fight Wahhabist Influence
+Preaching from their ivory towers in Riyadh, the Ulemma of the Wahhabist sect have served as nothing more than the tools of their Emir in spreading hate, disunity and mistrust amongst the ranks of our followers. Their fatwas are sadly finding a willing ear amongst many of our susceptible citizens and if we don't take decisive action, the Wahhabist alliance will soon outgrow anything we can muster.
+Consolidate Ties with the Sharifians
+Both tied to the Sublime Porte, the Houses of Rashid and Hashmid have throughout their history from time to time entertained the most fragile of alliances. As they both see the forces of Najd and the Wahhabist Sect as a great danger to their rule and with the Hajj a key component of both Hashimid and Rashid policies, we should rekindle our old ties and form a strong constructive relation.
+Enforce Rashidi Nizam
+With multiple different law systems being used interchangeably, it is hard to maintain a just and stable society. To remedy this, some of our notables together with Ottoman legal experts have been commissioned to draft up a legal system based on the Turkish Nizamiye. Although there have been ideas that aimed at instilling it with a secular character, ultimately the Sharia (indirectly under the form of the Mecelle) will still be utilised as the baseline.
+Modernise the Bureaucracy
+As our state largely relies on Bedouin traditions, oaths and more often than not a firm handshake, it goes without saying that the efficiency of our bureaucracy (or more often lack of) has severely hampered the growth and adaptation of our realm to the ever-changing world. Furthermore, Ottoman reforms in Sham and Iraq have started to spread towards Ha'il, causing great concern amongst its citizenfolk and instigating a call for reform.
+Install Qadis
+Although they in theory should apply these laws to the cases presented to them, magistrates of Sharia Courts, or 'Qadis', are more often than not also representatives of the ruler in their region. The limited size of Ha'il has in the past made it subservient to Qadis from other powers in the region, be that Riyadh or [773.GetCapitalVictoryPointName]. To better assert our power, we should designate our own Qadis independent from these foreign institutions and loyal to the House of Ibn Rashid.
+Establish the Bait al-Mal
+Originally founded as a form of Treasury under the rule of the great Caliph Umar, various Islamic sultanates and caliphates have set up their own Bait al-Mal to manage personal finances and state expenditures. Although our state already has a personal treasury of the Emir, it lacks the oversight and power that a Bait al-Mal could give our the finances of the entire realm. Furthermore it would also bring the much desired Zakat collection under direct state supervision.
+Establish a National Budget
+The concept of a national budget is completely alien to the rulers of Ha'il who at best used tax surpluses to maintain ghadîrs and other irrigation structures, ensuring trade is protected and wrong-doers punished. Pressured by our Ottoman and Syrian allies and partners however, the palace has decided for the first time to draft up an income/expenses report and designate certain funds to projects based on reasons not solely linked to nepotism.
+Maintain Arabian Customary Law
+Contrary to the Saudis, the Shammari serve more as a representation of the Arabia of old, that of Bedouin tribes living free from the pressure of the settled population and true to their own code of honour, customs and duties. Although it is becoming clear that the 20th century doesn't look kindly upon these decentralised, traditional ways of life, we should nonetheless strive to maintain our unique society for as long as possible!
+Increase Khuwa
+Where the Wahhabists in Riyadh mainly rely on the levy of Zakat (a religious tax), the Emirs of Ha'il have traditionally used the system of Khuwa. Herein, the weaker tribes pay a tribute to the Emir both in the shape of material resources and in the form of manpower to serve in the Shammari armies. In exchange the Emir pledges to protect the weaker tribe, ensure the borders of their Dira and solve feuds without bloodshed.
+The Second Rashidi State
+With our victory over Riyadh complete, the victories of the First Rashidi State have finally been matched. Nonetheless a long road remains ahead as not all Arab tribes recognise Ha'il as the rightful ruler of all Arabia and more urgently, the power of the Ikhwan remains unbroken.
+Integrate Qasim
+The battlefield of Central Arabia, Qasim has seen dynasties rise and fall on its lands as its central location on the Arabian chess board made it one of the most contested places, attracting even Ottoman divisions. With it now firmly brought to heel, the time has come for its tribes and the twin cities of Buraida and Unaizah to submit to our rule.
+Integrate al-Hasa
+A former province of the Ottoman Empire, the region of al-Hasa is home to a unique blend of Gulf cultures and religions. Nonetheless, it's mainly the Shiite population which characterises it and whose responsible for the lion share of its economic output. Part of the lucrative Gulf trade, it is also the richest province of Arabia (besides Hejaz) and as such an absolute necessity for our struggling Emirate.
+Integrate Central Najd
+Without a doubt the most populous and strongest province of Central Arabia, Najd has been the birthplace of the Saudi Wahhabists and is still a strong pro-Saudi bastion within our domains. Whilst we may have defeated Ibn Saud in open battle, it is more than likely that repeated insurrections and revolts will attempt to bleed us dry if we do not take decisive action.
+Destroy the Ikhwan Hijras
+The Ikhwan (or Brotherhood) has long been in a torn in our sight as their Hijras, a sort of camps/lodges spread all across Arabia, have organised themselves into quasi independent entities paying lip service to the Wahhabist Ulemma in Riyadh. With the defeat of the primary Wahhabist forces, we no longer need to tread carefully and should finally clear out the vermin that they are.
+Protect the Non-Monotheists
+In the eyes of Wahhabists, especially the Ikhwan, all that follow their specific set of rules and obligations are worthy of the title 'monotheist' whilst all others should either convert or be put to the sword. Ibn Saud never fully gave in to the wishes of the extremists (relying on the wealth of al-Hasa) but the Ikhwan has been less merciful and repeated raids have spread fear amongst the peoples of Arabia.
+Distribute Exploration Rights
+Based on successful exploration in Kuwait and Bahrain these last few years, it seems likely that al-Hasa may also be home to the black gold. As we ourselves lack any ability to reap its benefits and many Princes eagerly look at the rich subsidies paid out to the Shaykhs of the Gulf, our Emir has decided that he will allow foreign companies to negotiate drilling rights (in exchange for a more than royal salary).
+Commence Oil Drilling
+Success! Although initial failures had made our Emir lose hope, stubborn attempts by the chief engineer to continue tests ultimately led to a grand success. With the presence of oil in commercial quantities now confirmed, the time has come to commence its exploitation and spread the joys of oil to our partners abroad.
+Establish Naval Connections
+The First Rashidi state had a major disadvantage that whilst it controlled Najd, the al-Hasa coastal strip remained under Ottoman control thus deriving us off sea access. As the Saudis were so kind as to provide us with this valuable province, the time has come for Ha'il to establish connections all across the Persian Gulf and even the Indian Ocean.
+Create the al-Hasa Coast Guard
+With the importance of oil quickly becoming apparent to both foreign and internal forces, so has control over and security in the Persian Gulf. Therefore it is seen as of the utmost importance that Ha'il lays the foundations of a navy in the shape of the al-Hasa coast guard and utilise that limited force to ensure our coasts are protected and safe from hostile incursions that may wish to disrupt our trade.
+Fulfil the Unification of Arabia
+A dream held by many an Arab warlord or Emir, Ha'il now also sees itself as the unifying force on the Arab subcontinent. From the lucrative ports on the Indian Ocean to the Holy Cities of Mecca & Medina to the Tigris & Euphrates, the dream of a great Arab empire keeps our Emir awake at night. The road is long however and Ottoman loyalists rule supreme outside our borders but fortune favours the bold!
+Integrate Qatar & Bahrain
+Important trading and pearling hubs on the Persian Gulf, the former Sheikhdom of Qatar and Bahrain have finally been brought under the protection of Central Arabia, once and for all affirming that it is an Arab, not Persian, Gulf. Although the local autonomy of the royal houses is maintained for the sake of transition, it seems likely that in due time these will be replaced by Rashidi governors.
+Integrate the Trucial Coast
+In the olden days referred to as the Pirate Coast, the 7 Sheikhdoms of the Trucial Coast have been brought under Rashidi protection, linking ourselves directly to the Indian Ocean, bypassing Muscati-Persian control over the Strait of Hormuz. The decentralised rule of the Sheikhdoms is likely to survive but close contacts with the Bani Yas could harm the autonomy of the Sheikhdoms outside Abu Dhabi.
+Conquest of Mecca
+By some called the centre of Islam, the Holy City of Mecca is the pearl in the crown of any would-be Arabian warlord. Not only does it entail a degree of prestige otherwise impossible to acquire, it is also the end-point of the Hajj which even today is already our primary economic drive. Far more developed and with a modern bureaucracy, its incorporation into our realm will however not be a sinecure.
+Form the Constituent Assembly
+Favoured by the remnants of the Ottoman civil service and other urban notables in Hejaz, the creation of a constituent assembly composed of Hejazi would lay the foundations of the new Shammari state. A state, wherein Central Arabia (ruled from Ha'il) and Hejaz (ruled from either Mecca or Jeddah) form part of a federal and personal union. Both parts would thus retain their autonomy in both internal and foreign affairs.
+Enforce the Fundamental Provisions
+'The Sultanate of Arabia within its defined boundaries shall be an integral whole, whose parts shall be interconnected and shall not be divided or separated in whatsoever manner...'. Continuing the 'Fundamental Provisions', a de facto constitution, outline the various joint ministries in the new state with a heavy centralisation of power around the monarch who also commands the united army.
+Found the Majlis al Wukala
+To handle the much more complicated task of ruling Hejaz compared to Central Arabia, the Majlis al Wukala or the Council of Ministers (for Hejaz) will be formed and tasked with the administration of the realm under the watchful eye of our Emirs trusted son. It includes a head of cabinet (the viceroy), the minister of foreign affairs, the minister of finance, the minister of interior and the members of the advisory council.
+Regulate the Hajj
+Supervised by the department of the Kaaba under the interior ministry and the department of Hajj under the foreign ministry, the regulation of the yearly Hajj has been paid the utmost attention by our rulers in Ha'il. Breaking with the Ottoman tradition of subsidising the Hajj and returning to the Hejazi administration of 1917, pilgrim taxes and other financial arrangements will be set up to enrich the state.
+Re-open Foreign Consulates
+The port-city of Jeddah under Ottoman times was home to a wide variety of foreign consulates, mostly from Empires and states with large Muslim populations as to provide for their citizens during the yearly Hajj. Although many of these buildings were cleared out during the Levantine War, various governments have expressed interest in recognising us as an independent state and have offered to re-open their consulates.
+Shipping Port of Jeddah
+The largest and most important harbour in the Red Sea, the port of Jeddah is of fabulous importance to our state. Not only is it the primary entrance to hundreds of thousands of Muslims worldwide to the Holy Cities, it is also a bustling mercantile centre with expansive docks, a shipyard and a railroad connection to Mecca, Medina and Syria. It is clear that to expand our economy, Jeddah can not be overlooked.
+Motor Transport & Radio Department
+To deal with the arduous task of governing such a massive state with little to no roads and even less governmental oversight over its inhabitants, the advent of the truck and especially the radio have revolutionised the way our government can exert control. To further stimulate and regulate these efforts, the department of motor transport & radio has been set up under the wings of the ministry of interior.
+General Directorate of Police
+Based on the General Security Board set up in Mecca during the war and consisting largely of remnants of the Ottoman gendarmerie, the Majlis al Wukala have ordered the formation of the General Directorate of Police. To ensure a steady supply of officers capable to maintain order, quell smuggling and protect pilgrims, a police school will also be opened in Mecca.
+Secure our Southern Frontier
+Hiding behind the Asir Mountains, Yemen remains hostile to our surging sultanate. With their close proximity to Hejaz and the Holy Cities, a potential attack from Yemenis will always be a threat to our security. In order to properly defend our newly acquired dominions, we must strike South and secure Yemen once and for all.
+Integrate the Yemeni Hinterlands
+With our campaign against Yemen successful, our sultanate now controls the Asir Mountains and the Najran region, both areas formerly part of the Imam's territories. As the dust settles from war, it's crucial that we effectively integrate these regions into our nation, so they may be secured in times of peace.
+Establish Mudiriya
+To handle the growing economic needs of our state, the government has decreed the creation of the Mudiriya or General Directorate of Finance. Establishing it with the authority of a wikala (ministry), foreign financial experts have also been invited to assist in organising the greatly expanded finances of the realm and to oversee the departments of supplies, pilgrimage, agriculture and public works.
+Department of Petroleum & Mining
+Although our primary source of income is as of today still the Hajj and what little agriculture exists, the riches underneath the surface of Arabia are slowly inching closer to the forefront. The gold mines of Hejaz form in this key aspect but it is primarily the newly discovered black gold that is turning heads. With America in chaos and oil in short supply, the opportunity presents itself for Arabia to leave a mark on history.
+Once rulers of Arabia, the Rashidi dynasty has come a long way since its peak in the late 19th century. A resurgent Ibn Saud and questionable loyalties amongst their allies have put the Emirate of Ha'il on the back foot, forced to ever more increase its reliance on the Ottoman Turks. To make matters worse, the dynasty is plagued by scheming and intrigue with various ambitious princes eyeing Saud's throne all for themselves...
+GFX_JBS_intro
+The Emirate of Jabal Shammar
+Founded on the ruins of the Second Saudi State, the great emirs of Ha'il built the foundations of the Rashidi state. That this state was to last only a few decades, until the ascent of Ibn Saud in 1904, was not foreseen but was nevertheless inevitable as the brutal reign of the Shammari over the folk of Najd distanced the proud Rashidis from the main brunt of the Arabian population and economy. Through a series of battles, the Rashidi armies were pushed back first from Riyadh and later from all parts of the Arab interior until all they had left was their homeland in the region of Jabal Shammar.\n\nDifferently from the other Arab warlords however, the emirs of Ha'il maintained close relations with the Sublime Porte whom readily used them as the shield to defend their Southern flank. This relationship would continue into the Weltkrieg as whilst the Hashemites sided with Britain and the Saudis sided with themselves, the Emirs of Jabal Shammar put all their money on the Ottoman Empire, remaining loyal even during the Porte's darkest days. Whilst this loyalty was greatly rewarded after the war, it put a large target on the Rashidis who became seen as Ottoman lapdogs and traitors to the Arab cause.\n\nDespite 'victory' in the Weltkrieg, the Emirate has not seen the fortune it hoped to acquire by siding with the Turks and although relations with Kostantiniye remain warm, the industrial revolution and its spread to the Middle East have greatly harmed the already fragile Shammari economy. Reliant on pilgrims travelling through the Arab interior towards Mecca for their Hajj, the advent of steam ships, cars and most importantly the Ottoman rail network have struck massive blows to this ancient trade.\n\nBacked in by a prospering but apathetic Ottoman state and an expansionist Saudi state, the Emirs of Ha'il will have to reinvent themselves, seek new sources of revenue and maintain the loyalty of their remaining supporters or be definitively erased from the history books.\n\n§CDecisions to prepare for the war with Najd and Hasa are available.§!
+§MSaūd ibn Abd al Azīz§! ($authoritarian_democrat_coloured$ / $paternal_autocrat_coloured$)\n£white_dot Defeat Najd in the Arab War of unification.\n£white_dot In the event \
+Saūd ibn Abd al-Azīz
+§YBorn:§! §L1898, in Ha'il, Emirate of Jabal Shammar§!
+Abdallah ibn Talal al Rashid
+§YBorn:§! §L1897, in the Emirate of Jabal Shammar§!
+Abdallah ibn Mitab ibn Abd al-Aziz al Rashid
+§YBorn:§! §L1906, in Ha'il, Emirate of Jabal Shammar§!
+Muhammad ibn Talal al Rashid
+§YBorn:§! §L1904, in Ha'il, Emirate of Jabal Shammar§!
+Saud al-Subhan
+§YBorn:§! §L1896, in Ha'il, Emirate of Jabal Shammar§!
+Dulaim ibn Barrak
+§YBorn:§! §Lin the Emirate of Jabal Shammar§!
+Abd al-Rahman ibn Rubayin
+§YBorn:§! §Lin the Emirate of Jabal Shammar§!
+Mishaal bin Saūd
+§YBorn:§! §L1913, in the Emirate of Jabal Shammar§!
+Ulemma
+§YBackground:§! §LLiterally translated as \
+Bedouin
+§YBackground:§! §LForming the majority of our 'citizens', the Bedouin are the life and blood of Arab society. Known for their carefree and apolitical lifestyle, they are nonetheless also a great enemy of those wishing to centralise the state as it has proven nigh impossible to impose reliable taxes or conscription quotas on the highly volatile Bedouin tribes.\n\nA common element in Arab politics, power is not so much derived from positions or political parties but from family relations and affiliation to one of the dozens of tribes that roam our domains. These families function quasi autonomously and it is vital for any Emir to maintain good relations with their heads, lest an Emir may soon find himself without allies, income and an angry host on his doorstep.§!
+Urban Nobility
+§YBackground:§! §LAlthough it may seem strange that urban notables hold so much sway in such an empty nation, don't be fooled. Around the various oases of the Arab interior, large settled communities have developed that rely on the wisdom and administration of urban notables. Nowhere is this more visible than in the city of Ha'il where merchants, princes and aristocratic figures have for centuries ruled supreme. These groups, often mostly concerned with increasing their own profits, have significant influence on the throne and have in the past already played the role of kingmaker.\n\nMost famous amongst these nobles is the al-Subhan family, cleverly using the young age of the Emir at the time of his coronation to increase their power and cement themselves as the real power behind the curtains.§!
+§GExalted§!
+§GHappy§!
+§GPleased§!
+§LNeutral§!
+§tDiscontent§!
+§RUnhappy§!
+§rOutraged§!
+§GExalted§!
+§GHappy§!
+§GPleased§!
+§LNeutral§!
+§tDiscontent§!
+§RUnhappy§!
+§rOutraged§!
+§GExalted§!
+§GHappy§!
+§GPleased§!
+§LNeutral§!
+§tDiscontent§!
+§RUnhappy§!
+§rOutraged§!
+Kachin Focus Tree
+Maximists
+Maximist Party of Kachin
+Maximists
+Maximist Party of Kachin
+KMT
+Jingpho Kuomintang
+SCP
+Socialist Congress Party (Wunpawng Soshallait Hpung)
+DCP
+Democratic Congress Party (Wunpawng Demokarayhce Hpung)
+Golden Triangle Society
+Golden Triangle Society
+JCP
+Jingpho Congress Party (Jingpho Wunpawng Hpung)
+KLF
+Kachin Liberation Front
+Kachin
+Kachin
+Kachin
+The Jingpho Military
+If we are to have any chance of success on the battlefield, we must have a real national army of career soldiers and a core operational doctrine.
+Sabaw Tu's Plan
+The Jingpho nation is decentralised and our land is rugged. Sabaw Tu advocates an unorthodox doctrine and system of organisation to suit these realities.
+Agu Di's Doctrine
+Agu Di advocates conventional warfare, the creation of a modern command structure and the rapid construction of physical military infrastructure.
+Lower Conscription Age
+Much of the population is below the minimum age of conscription. We should press adolescents strong enough to fight into the army.
+Enforce Conscription
+Our land is rugged and rural. As a result, actually enforcing conscription is difficult. A concerted state effort is needed to ensure compliance.
+Guerrilla Fighters
+We lack modern materiel and the great palaces of industry which fuel modern armies. The tenacity of the people and their familiarity with the land shall be our saving grace. We must focus on rousing the people to fight according to their own methods.
+The Mountain-walkers
+Within the heterogeneous Jingpho are men who live as one with the mountains. The most educated of these men should be brought into the command structure in an advisory role.
+A Streamlined Training System
+Currently, units are trained until felt 'ready' by instructors. We should introduce a set standard for readiness and basic examinations that all recruits must pass.
+Encourage Military Production
+With many small facilities now experienced in producing and modifying small arms, that expertise can collected and distributed to villages across the land. While what can be produced in a small village will be quite rudimentary, it is better than nothing.
+Standardised Equipment
+We have to make due with what few firearms we have. Luckily, many firearms use similar calibres and rechambering of the small number we possess can be accomplished fairly easily.
+Die For Your Country
+A decentralised fighting force relies on the tenacity of its men. Our men must be the most fierce of all. We should direct state resources to encouraging a near fanatic devotion to duty and offer compensation to widows of those who die honourably to further incentivise such behaviour.
+Myitkyina Military Academy
+Modern armies possess central institutions for doctrinal development and training new officers. We must have one of our own.
+New Officers
+The bulk of our officers are men who once served for the British. Some of these men should be rotated off of individual units and set to work instructing a new generation of officers.
+A Concentrated Force
+Our new divisional structure should be reorganised according to a European model. As many are familiar with how the British once organised their colonial units in Burma, that should be our new standard.
+Modern Tactics
+With organisational reform accomplished, we can now begin to adapt these units to warfare as understood by westerners. Through careful planning and modern organisation, any foe can be overcome.
+Elite Mountaineer Corps
+Given our rugged terrain, specially trained mountaineers should be embedded within every division, providing drilling and expertise to their fellow men as much as fighting.
+Fortifying the Mountains
+With peace at hand and a growing modern army, we can fortify the eastern frontier, from which invasion after invasion has historically come. The mountainous terrain there naturally suits a defensive to boot.
+Streamlined Training
+A modern system of standards and examinations has been adopted for the training of new infantrymen.
+Myitkyina Military Academy
+A central officer academy has been founded in Myitkyina. All reports from the field eventually passed through the facility where they are analysed and interpreted by the nation's fledgling officer corps and passed on to those in training.
+Abysmal Armaments
+Brutal past initiatives to reduce the proliferation of firearms among the Jingpho and geographic isolation have contributed to a massive dearth of materiel for the new Jingpho army. Many new 'regulars' in the army are equipped with little more than modified farming tools.
+Abysmal Armaments
+Brutal past initiatives to reduce the proliferation of firearms among the Jingpho and geographic isolation have contributed to a massive dearth of materiel for the new Jingpho army. Many new 'regulars' in the army are equipped with little more than modified farming tools.
+Village Gunsmiths
+Information about the production of modern armaments has been distributed across the nation and villages encouraged to produce their own copies of firearms used by national army. While guns produced in such villages are quite rudimentary, they are good enough.
+Sama Duwa Sinwa Nawng
+§YBorn:§! §L1905, in Kachin State, Province of Burma, British India§!
+Duwa Zau Lawn
+§YBorn:§! §Lin Bhamo District, Kachin State, Province of Burma, British India§!
+Sabaw Tu
+§YBorn:§! §Lin Kachin State, Province of Burma, British India§!
+Sao Shwe Thaik
+§YBorn:§! §LOctober 16th, 1895, in Yawnghwe, State of Yawnghwe, India§!\n§YBackground:§! §LEducated at the Shan Chiefs' School in Taunggyi and entering the British military service during the Weltkrieg, Shwe Thaik served in the Northeast Frontier Service from 1920-1923. In September of 1927, he was chosen as successor to his uncle as Saopha of Yawnghwe by the Federated Shan States' Council of Ministers, officially assuming office on March 8th, 1929.\n\nSao Shwe Thaik entered politics in post-British Burma, becoming a strong advocate for democracy and autonomy of the Shan States, becoming well respected amongst other political leaders in Burma.\n\nWith the occupation of the Shan States and the horrible treatment by their overlords, Sao Shwe Thaik decided to take initiative and break free from the Shan States' oppressive controllers, declaring the Shan Confederation with a number of other saophas. He now leads his newly-independent country, hoping to steer it into a new age.§!
+Sao Yang Wen Pin
+§YBorn:§! §L1897, in the State of Kokang, India§!

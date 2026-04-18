@@ -1,0 +1,199 @@
+Northern Ireland Focus Tree
+ICA
+Irish Citizen Army
+NIWLC
+North of Ireland Workers Liberation Committee
+NILP
+Northern Ireland Labour Party (Unionist)
+NILP
+Northern Ireland Labour Party (Moderate)
+UPLA
+Ulster Progressive Loyalist Association
+NLCL
+National League for Civil Liberties
+UDP
+Ulster Democratic Party (Moderates)
+UDP
+Ulster Democratic Party (Hardliners)
+UPL
+Ulster Protestant League
+NG
+National Guard/Blueshirts
+No Surrender!
+Willing to fight and die for their freedom, their king, and their country, the loyalists of Ulster show an unwavering ferocity that is unmatched by most, save for their most ardent Irish rivals. Although small in number, this unbreakable spirit may be enough to turn the tide of any war in their side's favour.
+Ulster Catholics
+While Northern Ireland may bill itself as a \
+Canadian Advisors
+In an effort to aid Northern Ireland in their revolt against the Irish government, Canada has sent a team of military advisors to help reshape the rebels into a proper fighting force, rather than a collection of ragtag volunteers.
+To the Shores of Blighty
+While small in number, the loyalists of Ulster are some of the most committed subjects of the British crown and will fight to see its restoration, or die trying.
+IEDC Aid
+While some loyalists may refer to Ulster as Ireland's \
+Executive Committee of Northern Ireland
+The devolved administration of Northern Ireland, first established following partition, has been restored to the province. While the powers granted to the province are those often reserved for Dominions of the Crown rather than direct parts of the United Kingdom, few in government regard its present status as anything but an integral part of the nation.
+Royal Ulster Rifles
+Having originally been established in 1881 as one of the eight Irish raised regiments of the British army, the Royal Ulster Rifles have been re-commissioned by the government of Northern Ireland to fight once more for the crown and the Union they hold dear.
+Quartering the King's Men
+With Northern Ireland's strategically important position to the Entente's armed forces, provisions have been put in place to allow the region to properly facilitate and quarter allied troops when necessary.
+Northern Ireland
+Northern Irish
+Northern Ireland
+Basil Brooke
+North of Ireland Workers Liberation Committee
+Harry Midgley
+Denis England
+William Stewart
+James Hanna MacCormick
+Wilfred Spender
+§YBorn:§! §LOctober 6th, 1876, in Plymouth, Devon, England§!
+J.M. Andrews
+Brian Maginess
+Clarence Graham
+Tommy Henderson
+William Grant
+George Robinson
+Duncan James Shaw
+Harry Lauder
+Cecil Longstreet
+Donald Harbridge
+Ulster War Council
+Prime Minister of Northern Ireland
+For God and Ulster!
+Londonderry Line
+Bastion of Belfast
+Rally Against the Fenians
+Call up the Constables
+Fight Fire with Fire
+Ulster Says No!
+The Provisional Government
+Fighting the Catholic Fifth Column
+Rooting Out the Trade Unions
+The Royal March
+For King and Country
+Aid from the IEDC
+To Blighty's Shores!
+Prosperity Province
+The New, Old Order
+Protestant Parliament for Protestant People
+Dominion of the Union
+Reforming Stormont
+Restoring the Premiership
+The Model Province
+Quis Separabit?
+Establishing the Northern Ireland Office
+Appointing a Secretary for Northern Ireland
+An Integral Union
+Royal Ulster Army
+Rebuild the Fusiliers
+Catholic Exclusion
+Modernise \
+Volunteer Backbone
+Bring up the Rifles
+The Entente's Slipway
+Sydenham Airfield
+The Docks of War
+Quartering the King's Men
+Send Rifles to [NIR.GetName]
+Ulster has said no to Irish rule, and we cannot allow loyal subjects of the crown to fall by the wayside. To aid their uprising, we should send a shipment of rifles so that every man who wishes to fight has the means to do so.
+Belfast Military Attaché
+If we wish to ensure that our loyal subjects in Ulster win their freedom, it is vital that we send a military attaché to help reorganise their ragtag volunteers into a proper fighting force able to shake off their Irish oppressors.
+Join the Entente
+If we are to become part of the United Kingdom once more, first we must join the Entente alliance - where we belong.
+Secure Northern Ireland
+Despite their valiant efforts, our loyal subjects in [NIR.GetName] have been beaten back by the Irish reds. Unless we get to them in time, the precarious nature of their position will mean that their uprising will collapse, and our foothold onto Britain will be lost to us.
+Two of §Y[IRE.GetNameWithFlag]§!'s generals will be §YWounded§! for 120 days.
+§GNorthern Ireland will remain an autonomous province of the United Kingdom, returning to the same status it held in the brief period following partition.§!
+§GNorthern Ireland will slowly begin the process of fully integrating itself into the United Kingdom to become an integral part of the newly restored nation and its politics.§!
+Britain has chosen to pursue full integration of Northern Ireland.
+Britain has chosen to allow continued Northern Irish devolution within the Union.
+Namibia Focus Tree
+Mandume Movement
+Mandume Movement (Revolutionaries)
+Mandume Movement
+Mandume Movement (Revolutionaries)
+Mandume Movement
+Mandume Movement (Revolutionaries)
+Mandume Movement
+Mandume Movement (Moderates)
+Mandume Movement
+Mandume Movement (Moderates)
+Mandume Movement
+Mandume Movement (Moderates)
+League of Kapteins
+League of Kapteins (Ovamboland Faction)
+League of Kapteins
+League of Kapteins
+League of Kapteins
+League of Kapteins
+League of Kapteins
+League of Kapteins
+Eliaser Tuhadeleni
+§YBorn:§! §LJanuary 1st, 1918, in Omatangela, German South West Africa§!
+Theophilus Hamutumbangela
+§YBorn:§! §LFebruary 6th, 1917, in Onghala, German South West Africa§!
+Eino Johannes Kambonde Yanamene
+§YBorn:§! §Lin German South West Africa§!
+Hosea Kutako
+§YBorn:§! §L1870, in Okahurimehi, Ovaherero Territory§!
+Namibia
+Namibian
+Namibia
+Freedom of Speech
+After a long period of complete colonial control, the Namibian people will have the right to speak their minds openly.
+Promoting Immigration
+With Namibia having one of the lowest population densities in the world, we have to expand our horizons. Inviting foreigners from beyond who are willing to commit to our culture much like the German settlers have benefited us.
+Namibian Defence Corps
+Now that we have finally achieved our independence, we must be sure to never lose it again. For an independent Namibia!
+United and Ready
+Now that we have finally achieved our independence, we must be sure to never lose it again. For an independent Namibia!
+Calming the North
+Syndicalist Liberation
+The Syndicalist tides have managed to truly free Namibia from the chaos of German rule. The revolution in Africa begins!
+First Namibian Syndicalist Congress
+Like all traditional European and Syndicalist countries, we must hold the first-ever Namibian Syndicalist Convention. There are three main contenders to win: the RAP (Revolutionäre Arbeiterpartei), the SSP (Südwestafrikanische Syndikalistische Partei), and the SPI (Südwestafrikanische Partei der Internationale).
+Cultural Assimilation
+With the congress over, we must make sure that the many tribes within Namibia see each other all as Namibians rather than their own people group.
+Integrating the German Settlers
+The German settlers are a small minority within Namibia, preserving a distinct community even after the end of German rule. While integrated in many respects, their estates and holdings remain a legacy of the colonial administration and present challenges for local governance.
+End Cultural Division
+With our many preparations for a truly unified Namibia being put in place, we have made a place where the people who live here can truly call themselves 'Namibians'.
+Industry for the People
+With our reforms and policies being decided, we can finally focus on defending our people and country.
+Calm the Ovambo
+The Ovambo people to the north have been quite resistant to our rule, with multiple raids being carried out against our people. Giving the people to the north various rights and autonomy should help calm the situation.
+Windhuk to Olukonda Railway
+With the Ovambo calmed, we can work on increasing the connection between the north and south of our country by connecting the two major cities.
+Expand the Swakopmund Airport
+The airport in Swakopmund is the only airport and airway within Namibia and is vital for our connection with the outside world. Expanding it will ensure it remains valid for use into the future.
+The Democratic Mandate
+With the fall of the Mittelafrikan regime and the creation of a Namibian Republic, we can proceed into the future.
+First Namibian Election
+With our recent liberation, we can now hold the first Namibian elections.
+Freedom of Speech
+With the elections over, we must ensure that the rights of the people are improved compared to the old Mittelafrika regime. Increasing the liberties of speech could help the situation.
+Promote Immigration
+With the southern part of our country already being home to many Germans who have integrated well with our culture, we should extend our horizons and allow immigrants from other countries as well.
+End the North-South Divide
+Through our various efforts, we can put an end to the divide between the north and south of Namibia culturally and create a united Namibian identity.
+The Namibian Miracle
+With our country more united than ever before, we can put great efforts into our economy for our people.
+Namibian Defence Corps
+Our current military size is less than good and almost non-existent. With the assistance of our new ally, we can hope to create a self-reliant Namibian military.
+Help from our Overlords
+With the formation of the Namibian Defence Corps, we must try to make sure the army remains equipped through thick and thin.
+Prepare for Conflict
+With our troops supplied and ready, we can hope to take on the majority of oncoming threats to our country and people.
+The Stern State
+The liberation of our country has allowed a stronger state to be created under the mantle of our overlords.
+Strengthen the State
+With the new state established, we must strengthen it from within against any foreign threats. Silencing opposition within our country can be a start to that.
+Silence the Opposition
+With our opposition becoming more and more censored by the state every day, we can hope to stamp out the last flames of rebellion within our country.
+Seizing German Settler Estates
+We shall uproot the legacy of German colonial rule by taking control of estates and properties, redistributing or repurposing them to strengthen the national administration and economic development.
+Close the Country
+With our country being secured from within, we must close off our country from any foreign threats besides our overlord, to ensure the protection of the state.
+The Windhuk Fortress
+In the case of an invasion, we must be prepared to defend Windhuk to our last man. Creating the equivalent of a fortress there should ensure it will stand before any invader.
+A United Namibia
+With all the reforms held within the country, Namibia is now seen as a united entity ready to face off against foreign threats.

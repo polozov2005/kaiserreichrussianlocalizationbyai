@@ -1,0 +1,398 @@
+Hizb al 'Ijtimā'ī
+Hizb al 'Ijtimā'ī
+Hizb al Tahāluf
+Hizb al Tahāluf
+Āl Sa'īd
+Al Said Dynasty
+Āl Sa'īd
+Al Said Dynasty
+'Imbrātūrīyat 'Umān
+'Imbrātūrīyat 'Umān
+Hizb al Hurriyyāt wa al 'Adālah
+Hizb al Hurriyyāt wa al 'Adālah
+Hizb al 'Umānī al Lībirālī
+Hizb al 'Umānī al Lībirālī
+Tahāluf al 'Ummāl al 'Umānī
+Tahāluf al 'Ummāl al 'Umānī
+Hizb al Ishtirākī al 'Umānī
+Hizb al Ishtirākī al 'Umānī
+Hizb al Shuyū'ī al 'Umānī
+Hizb al Shuyū'ī al 'Umānī
+Oman
+Omani
+Oman
+Socialist Republic of Oman
+the Socialist Republic of Oman
+Socialist Republic of Oman
+the Socialist Republic of Oman
+Socialist Republic of Oman
+the Socialist Republic of Oman
+Muscat and Oman
+Muscat and Oman
+Muscat and Oman
+Muscat and Oman
+Muscat and Oman
+Muscat and Oman
+Muscat and Oman
+Muscat and Oman
+Muscat and Oman
+Muscat and Oman
+Muscat and Oman
+Muscat and Oman
+Muscat and Oman
+Muscat and Oman
+Disorganised Armed Forces
+Our army still has large swaths of tribal militias, leading to mass disorganisation, and an overall lack of support across the country.
+Defence of Oman
+Our training across Oman has left our regiments better able to defend our country.
+Advisors from the Raj
+Advisors from India are giving our armed forces better organisation!
+Advisors from Persia
+Advisors from Persia are giving our armed forces faster recovery!
+Black Monday Ripples
+Ripples from the collapse of the German stock exchange have ravaged our economy!
+Economic Recovery
+While our economy has somewhat recovered from the ripples of Black Monday, we have long ways to go before complete recovery.
+Modern Tax Code
+Our new tax code is bringing in even more money, and with it, the power to get things done in government.
+Tribal Autonomy
+The tribes of Oman's interior remain fiercely autonomous, pledging loyalty to local sheikhs rather than the Sultan. Recruitment beyond Muscat and the coastal towns is slow and unreliable.
+The Imamate-Sultanate Divide
+The Ibadi Imamate of Oman does not recognise the Sultan's authority. Much of the interior owes allegiance to the Imam, not the Sultan, limiting the reach of central rule and complicating efforts to govern or mobilise the country as a whole.
+Reformed Budget
+Our factories are more productive and efficient than ever!
+Widespread Armament Effort
+Economic incentives are speeding up military factory construction!
+Industrialisation Plan
+Economic incentives are speeding up civilian factory construction!
+Oman Focus Tree
+Defence of the Realm
+The Sultan has demanded the utmost protection for our new realm. We need to get the right people into the right positions as a good start. All branches of the military including the army, the navy, and we need to develop an air force at some point.
+Rebuild the Omani Royal Navy
+The Omani Navy is a decrepit, out of date mess of Weltkrieg ships. We need to see what we can salvage and update our naval training for the more modern ships we are planning on including in our new trade fleet.
+Muscat Dockyards
+A new navy needs a new shipyard for construction. Let's set the concrete for the docks and erect cranes for the glory of God!
+The New Merchant Fleet
+Our trade vessels are full of holes and nearly can't hold the cargo our burgeoning society needs to import. Let's commission a fleet of 20 new ships that can ply the world's waters to build up Oman!
+Foreign Naval Officers
+Just because we have the ships doesn't mean we know how to use them well. Let's offer a high salary to a few foreign officers who can teach our sailors how to make the best of our new navy!
+Royal Army Reform
+What remains of our army was designed to deal with tribal uprisings, not the larger scale warfare we seem to be moving towards. We need to reform our units to deal with such engagements.
+The Northern Threat
+Be it Saudi's or others, those to the North have always had designs on the entire Arabian Peninsula. Let's fortify the obvious areas of attack to deter potential aggression.
+Muscat Armament Plan
+We have a plan for how our ground forces will engage the enemy, but they will need arms to do so. We need a new factory dedicated to producing military hardware for our divisions.
+Artillery Purchases
+Guns only shoot so far. Fighting on the open ground of the desert we need long range artillery to destroy enemy forces before they engage ours. The best way to acquire this is to petition a foreign government for prototypes.
+Infantry Equipment Reorganisation
+The Weltkrieg rifles our units are currently using are breaking down in the field, and our diplomats have come back with far more advanced weapons from other countries. It's time to update our equipment from at least this decade.
+Dealing with Tribal Militias
+The tribes in the outlying desert areas have been sapping our manpower and state support for far too long. They need to be dealt with, and swiftly, if we are to get our armed forces into fighting shape.
+Regular Regiments
+Our former tribal units are equipped with a wide variety of arms and sundries. This has made it expensive to re-equip regiments in the field, as we don't always know what they need. Standardising a field kit will increase the effectiveness of our units and reduce attrition, since we can pick and choose the best for our men.
+Military Hierarchy Reorganisation
+We need to have a better top-down organisation of our chain of command, to better facilitate fast, accurate decision making. Having a few people make the major decisions and implement our grand strategy is the best way to do this.
+Indian Advisors
+India's troops have to fight long and hard in conditions that are at least as poor as our own. Let's invite a few advisors from the peninsula to increase the organisation of our troops.
+Persian Advisors
+[PER.GetNameDefCap] has fought in terrain similar to our own for centuries, and they have avoided being conquered for decades. Let's invite [PER.GetAdjective] advisors and see if they can teach this resiliency to our troops.
+Omani Royal Air Force
+We have heard tales of how planes changed the face of the Weltkrieg, and seen German planes buzzing through the desert sun. Maybe it's time we invest into an air force of our own.
+Urban AA Defences
+With few places of high population concentration in our country, a concentrated air assault on our urban areas could be devastating. We need to find a way to protect ourselves from such an onslaught.
+Aerial Training
+The few plane pilots we do have don't know how to work together toward a common objective. We have to train them using common techniques, and standardise our flying formations.
+Foreign Fighter Purchases
+We don't have the necessary resources to design our own planes from scratch. Send a few advisors abroad to look at foreign ones, and try to copy the best one for the Sultan's air force!
+Administrative Reform
+If we are to administer all the outlying desert areas and the myriad of tribes that reside there, we are going to have to expand and reorganise our ancient bureaucracy. While not cheap, we will reap the benefits for years to come.
+Tax Reform
+We need to standardise the way we collect taxes from the populace, and potentially separate it from the tithe that the Sultan collects. While this reform will be initially expensive, it will pay itself off in a few short years, and we desperately need to invest in the future of our country.
+Commence Economic Reorganisation
+Vast tracts of land are under the protection of the Sultan and other members of our oligarchy. If we open this land up for business development, our greatest entrepreneurial minds will find the best use for it.
+Educational Reform
+Other than attending the mosque a couple times a week, most people in our country have no access to education, and very few can read. If we are to continue our reforms, we need a literate, intelligent population to implement our agenda and come up with new ideas.
+Muscat Airstrip
+To improve transportation for our increasingly modern government, and facilitate an expansion of our military air force, let's build a new air strip outside the capital of Muscat.
+Foreign Blueprints
+As our advisors and diplomats continue to travel the globe, promoting our country and researching in its best interests, let's continue to make use of the best of what we find around the world.
+Incorporate the Hinterlands
+Regular clinics and schools, road improvements and the like will persuade the outlying areas that they are a valued member of the Sultan's family. We can worry about how we will pay for it later, it's important to bring the entire country together now.
+Tax Inner Oman
+Now that we have a standardised tax system, we need to get our collectors out from the urban areas into remote villages and tribal communities in the desert. Incorporating the outlying areas wasn't cheap, and they have to bear some of the burden.
+Call Banners from the Hinterlands
+If we only recruit our armies from the coastal regions of our country, we are missing out on a huge proportion of our manpower pool. We should call on the banners of the largest tribal warlords to augment our armed forces.
+Kneel to the Imam
+We have tribal warlords, rich business leaders, and powerful religious figures, all doing whatever they want and destabilising our great nation. We have shown the people our beneficence, now these major leaders of Oman shall show us the deference we deserve, and bend the knee to the Imam.
+Plan Recovery
+Our budget has been decimated by the aftereffects of Black Monday. We need to implement some austerity measures to recover enough funds to make sure necessary state functions continue working. We will have to re-balance this in the future, but we need to get things working now.
+Budget Re-balancing
+Now that our budget is at least somewhat recovered, it is time to re-balance how our money is spent between military endeavours and nation building. We need to set our priorities and fund vital pursuits first, and worry about extraneous budget items later.
+Fund Rebuilding
+Now that the economy of Oman is humming along, we can take the profits of our national industry, and re-invest them into healthcare and training for our workers. This will need not just more output for our companies, but more efficient output as well.
+Muscat Railway Company
+The industrial revolution largely passed Oman by in the 19th century, and we are determined to catch it ourselves in the 20th. Let us establish a solid state company for managing rail networks, and lay the ties for the first line through the capital to some outlying areas immediately.
+Dhofar Railway
+Now that we have at least one major rail line though Muscat itself, we need to integrate the rest of Oman with this rail line. Goods and citizens from as far away as Dhofar will be able to get across the entire country in less than a day's travel. Of course this stands to benefit our military as well, as faster transportation means faster troops!
+Port of Muscat
+We have always been a sea trading society, and while our rail makes moving products easier in the country, the real profit comes from when we export goods by sea. Connecting the rail lines to the seaways and building infrastructure to facilitate transportation between them will really get our economy flowing!
+Local Manufacturer Incentive
+We need to provide local incentives in Oman to utilise all the spare labour the state cannot effectively utilise. Manufacturing all the small things citizens need, including appliances and tools, cheap clothing and the like, will reduce our imports and expand our trading opportunities with our trade partners.
+Commercial Industries Plan
+Providing incentives to small military manufacturing companies will allow them to expand their production base, speeding up the process of industrialising the process of manufacturing military vehicles and small arms. We need more military factories if we are to keep up with our increasingly aggressive neighbours!
+Intensify Industrial Initiatives
+We are confident that with our current industrial plan we will be able to expand our military capacity in an adequate fashion. It still remains to be seen if we can keep up with an increasing middle class and their ever larger demand for commercial goods. To keep the people pacified, let's provide the same incentives to civilian companies that we do to military ones.
+Finish Economic Plan
+We can finally reap the efforts of our years-long reform effort in our country. With improved transportation, support for expanded civilian and military factories, and an increased capacity to trade, our economy is humming along, and we continue to add capacity as time goes along.
+Compromises for Our Freedom
+We are surrounded by hostile forces on the entire peninsula. We will have to make some compromises if we want to survive the coming decade.
+Call Upon the Raj
+India has worked with the Entente to secure the rest of their country. Since we have a common experience with India and old ties with the British, let's petition them and the Entente for protection from the outside forces that are assembling against us.
+Indian Business Ties
+Now that we're once again under the British umbrella, we can access extra funding from influential Indian entrepreneurs. Convincing them to invest in [ROOT.GetNonIdeologyName] shouldn't be very hard.
+Royal Navy Cooperation
+Canada is now leading the Entente, and focusing on building larger ships of the line. They have offered to help us with the technology of building destroyers cheaper and more efficiently than we thought possible. We need to do our part to support the alliance that is keeping us from ultimate destruction.
+A Special Relationship
+India has offered to help us run our government in a way that will benefit the Entente. We hesitate at such a bargain in return for our freedom, but the alternative, total annihilation, is not a real option. Let us bend the knee to India in return for our freedom! Others will not be as kind, and our old new overlords will let the Sultan keep his place as the head of state.
+The Rauf Orbay Mission
+It is a harsh truth that we cannot face the strength of the Saudis by ourselves. If we don't want Muscat to fall to the invaders, we must accept the military expedition the Sublime Porte has offered us, as difficult as it might be to convince ourselves of the good intentions of the Ottomans.
+Implement Ottoman Military Reforms
+The mission led by admiral Rauf Orbay has shown us the inadequate state of our military, both in organisation and tactics. With the assistance of the Ottomans, we can kickstart a modernisation of our army.
+Reorganise the Administration
+Among the things we should adopt from our new benefactors is their drive to modernise their government. It is necessary for us to begin a grand reorganisation of our administration, to make it more functional and suitable for modern times.
+Dismantle the Protectorate
+With the Saudi threat gone, we don't need the protection of the Ottomans anymore. It's time for Rauf Orbay to return to Basra, and for us to recover our precious independence.
+GFX_OMA_intro
+Introduction to Oman
+Oman's splendid isolation did not end with the Weltkrieg and the Sultan hoped it wouldn't end any time soon. However, the wheel of fate stops for no one, and their protectors in Britain and India fell into utter and complete disarray. With Ottoman forces moving into the Trucial States, and an ever more aggressive Ibn Saud in Najd, it seemed war was coming fast to Oman, and the tale of the Ibadi Sultanate was to finally end.\n\nHowever, the much feared war never came. The warriors mobilised by the state never saw battle against the Ikhwan and the Saudis... Perhaps Ibn Saud has other, more obscure plans in his mind? Regardless of reason, Oman stood alone, and has not received aid from British India in a decade. This may very well become an extremely worrisome state of affairs as instability rapidly spreads throughout the region.\n\nBut to properly fight external threats, internal ones must be properly dealt with. More specifically the Imamate of Oman, and the tribes that have their allegiance to the Hinterlands Imam higher than to Muscat; not to mention the degraded and archaic state of the Monarchy. But if these challenges can be overcome, Oman's tale is not to end so soon.
+Said ibn Taimur
+§YBorn:§! §LAugust 13th, 1910, in Muscat, Sultanate of Muscat and Oman§!\n§YBackground:§! §LThe Al Said dynasty, which had reaped the benefits of British support in the 19th century, still lives. After the Weltkrieg, the young Said ibn Taimur accelerated through his political education in Muscat. The former Sultan Taimur ibn Feisal had prepared a wise council for his son in 1935 when he abdicated the throne. Said ibn Taimur was left with a sense of superiority over the Shia in the Trucial coast and the Ibadi tribesman in Oman proper. More concerning was the new Sultan's attitude towards Dhofaris. Said ibn Taimur has taxed them mercilessly, and remained silent to the slave trade that oppresses Dhofar.§!
+Suleiman ibn Himayer Al Ryami
+§YBorn:§! §Lin the Sultanate of Muscat and Oman§!
+Talib ibn Ali Al Hinai
+§YBorn:§! §Lin the Sultanate of Muscat and Oman§!
+Ali ibn Serhan
+§YBorn:§! §Lin the Sultanate of Muscat and Oman§!
+PAWS (NS)
+Jam'īyat al 'Ummāl al 'Arabīyah al Filastinīyah (al Niqābiyyāt al Watani)
+PAWS
+Jam'īyat al 'Ummāl al 'Arabīyah al Filastinīyah
+PAWS (S)
+Jam'īyat al 'Ummāl al 'Arabīyah al Filastinīyah (al Sha'b)
+Hizb al Sha'b al Filastini
+Hizb al Sha'b al Filastini
+OİÂMF
+Osmanlı İdaresi Âdem-i Merkeziyet Fırkası (Ottoman Party for Administrative Decentralisation)
+International Council
+International Council
+MMF
+Milli Muhafazakâr Fırkası (National Conservative Party)
+OHF
+Osmanlı Halk Fırkası (Ottoman People's Party)
+SIF
+Selamet-i Osmaniye Fırkası (Ottoman Salvation Party)
+Al Fidā'īyah
+Al Fidā'īyah
+Palestine
+Palestinian
+Palestine
+Mutasarrifate of Jerusalem
+the Mutasarrifate of Jerusalem
+Mutasarrifate of Jerusalem
+the Mutasarrifate of Jerusalem
+Mutasarrifate of Jerusalem
+the Mutasarrifate of Jerusalem
+Mutasarrifate of Jerusalem
+the Mutasarrifate of Jerusalem
+Mutasarrifate of Jerusalem
+the Mutasarrifate of Jerusalem
+Mutasarrifate of Jerusalem
+the Mutasarrifate of Jerusalem
+Mutasarrifate of Jerusalem
+the Mutasarrifate of Jerusalem
+Suez
+Suez
+Suez
+Suez International Zone
+the Suez International Zone
+Suez International Zone
+the Suez International Zone
+Suez International Zone
+the Suez International Zone
+Suez International Zone
+the Suez International Zone
+Suez International Zone
+the Suez International Zone
+Suez International Zone
+the Suez International Zone
+Suez International Zone
+the Suez International Zone
+Suez International Zone
+the Suez International Zone
+Suez International Zone
+the Suez International Zone
+Suez International Zone
+the Suez International Zone
+Attended the Third Arab Congress
+Let Iran Attend the Third Arab Congress
+The Third Arab Congress has convened
+The §YMutasarrifate of Jerusalem§! will be abolished, returning the land to the full authority of the Sublime Porte.\n§REgypt will invade the Sinai if not compensated§!\n
+§YUnrest has escalated in the M.O.J.§!
+§YThe Congress of Haifa has been concluded§!
+All §Y[TUR.GetAdjective]§! ships in the §Y$STRATEGICREGION_69$§! receive [?0.5|Y%0] damage
+Fervent Educator
+As he taught Grand Vizier Mustafa Kemal Gelibolu before, this man will now use his knowledge to teach his people the Ottoman script to ensure that no one will be left behind once the Empire completes its great leap forwards.
+International Gendarmerie
+Third Aliyah
+Proclaimed in the Balfour Declaration and later enshrined in the Treaty of Hanover, the Mutasarrifate of Jerusalem (M.O.J.) was opened up to Jewish settlement. Flooding in from the aftermath of the war in Eastern Europe, thousands of Jews have settled in the International Zone, to the great anger of both the locals and the Sublime Porte alike.\n\nNonetheless, these immigrants and settlers bring with them their skills and crafts, which have greatly enriched the economy of the Mutasarrifate, both for the Muslim Palestinians and the Jewish arrivals.
+Sectarian Divide
+Feeling betrayed by the international community and their Caliph alike, the Sunni Arabs of the region are vehemently opposing the rapid growth of the Jewish community within their homeland leading to civil disobedience, protests and strikes. The International Gendarmerie, stationed in the zone to maintain order is struggling as tensions keep rising with every new arrival.
+Jewish Immigration Halted
+To combat rising unrest in the M.O.J. concerning the growth of the Jewish community, the Council has officially decreed the end to Jewish immigration to the region. Even with this measure in place however, illegal immigrants, often using third parties to get in, are still flooding into the nation further decreasing the opinion Palestinians hold in regards to the International Council.
+Effects of Black Monday
+The collapse of the Berlin Stock Exchange has left its mark on the Levant as well as the international nature of the M.O.J. has made it exceptionally susceptible to foreign interference. As the German economy prepares itself for the worst recession in its history, so does our province find itself nearing complete chaos.
+Foreign Relief Funds
+Sent by various Zionist organisations across the globe to help the fledgling little state, vast flows of most often just cash is being sent in by mail and ships to Jaffa in the hopes of avoiding Ottoman encroachment.
+Ottoman Economic Reintegration
+Efforts undertaken by the International Council to drive the Ottoman protectionist measures out of the region are being reversed as the chronic lack of basic goods in the M.O.J. is taking a serious toll on both investments and the Palestinian population.
+Shortage of Basic Supplies
+As the downward trend continues across the globe, the import and export of agricultural goods are seriously hit across the entire Zone. The protectionist Ottoman Empire has drastically increased tariffs in an effort to stop its own decline but due to the special nature of our entity, this has caused massive ramifications to even the most basic of supply lines. Inflation is skyrocketing, shortages increasing and the docks of Jaffa and Tel-Aviv have almost completely stopped working.
+Fourth Aliyah
+$pal_alijah_desc$
+Great Arab Strike
+Outraged at the response of the International Gendarmerie and the continued refusal of the international coalition to leave Palestine, the Arabs of Palestine have organised a massive strike aimed at completely shutting down the region and forcing the Council to accept their demands. Arabs all throughout the Porte and Egypt have also laid down their work in solidarity for their Palestinian brethren.
+Radio Cairo
+The regime across the Suez Canal has taken to the airwaves as various pan-Arab organisations and intellectuals are preaching their message to the people of the M.O.J. Incapable of effectively cracking down on them and with the Egyptians unwilling to intervene themselves, there is little we can do to stop their message from reaching the ears and hearts of our citizens.
+Profits from the Suez Canal
+The International Legislative Assembly of the Suez
+The International Hospital of Port Said
+The Frontline of Western Imperialism
+Department for the Procurement of Supplies
+Mutasarrifate of Jerusalem Focus Tree
+Finish the 1935 Population Census
+An extremely detailed census of the rapidly evolving population of areas affected by the Treaty of Hanover was begun last year. It has proven difficult to complete, however.
+Investigate the Pole Report
+In 1935, Sir Felix Pole, former chairman of Britain's Great Western Railway, was charged with investigating the possibility of infrastructural expansion in Palestine. To alleviate the new economic depression, perhaps we should now consider his recommendations.
+Financial Backing from the Council
+The nations of the Council possess far greater financial resources than the Turks. Through cooperation with the nations of the Council we shall rebuild our nation's economy stronger than ever before.
+The Jaffa Harbour Project
+Jaffa has been deemed suitable for the development of modern naval facilities by Western technicians. We should implement their recommendations.
+Strengthen the Port Said Link
+Port Said is capable of unloading the world's largest and most modern cargo ships. From the Port, however, certain goods cannot be directly shipped to Palestine. We should improve Palestine's shipping infrastructure in accordance with the suggestions of local Suez authorities.
+Palestinian Railroads Initiative
+To ensure the survival of the Palestine Railways company, new profitable passenger lines between the largest settlement should be built with international funding.
+Auction Railroad Concessions
+With new management, failing rail lines could once again turn a profit. With the council's guidance, we should seek the international liquidation of all unprofitable lines.
+Expand the Beersheba-Sinai Line
+To resist Ottoman domination and ensure the flow of goods over the Sinai, new rail connections across the region are needed.
+Attract Jewish Private Investment
+Many wealthy European Jews, though disinclined to themselves make Aliyah, are sympathetic to the Zionist movement. We should directly approach such individuals to 'strongly suggest' their financial patronage of Jewish and European communities within Palestine - with benefit for themselves of course.
+Agricultural Imports
+We should not drag our feet. We must ask the council to facilitate agricultural imports to alleviate the present shortages.
+Relieve Food Shortages
+With the state coffers filling up and the cities restocked with food and provisions, we should look to alleviate the food insecurities of the people of the countryside. A plan has been proposed to buy excess foodstuffs from the most recovered cities and establish western-style food banks in the important villages of stricken regions.
+Ottoman Economic Reintegration
+While the nations of the council control much of the world's wealth, by virtue of proximity alone, Constantinople would be a more effective financial backer. Indeed, if the region's issues are ever to be settled, it must be entirely integrated with the rest of the empire.
+Complete the DDY Takeover
+To save the Palestine Railways from bankruptcy and ensure the integration of Palestine with the rest of the Empire, the Ottoman state rail company has placed a bid to acquire Palestine Railways. This acquisition has been resisted by the council, but no more!
+Refurbish the Haifa-Jerusalem Line
+Passenger connections between the population centre of Jerusalem and the Haifa shipping hub are insufficient. With financial support from Constantinople, this can be addressed.
+Haifa Deep Water Harbour
+Haifa is more naturally suited to military naval production than anywhere within Palestine. To meet our growing shipping needs we should reallocate funds to modernising Haifa and creating sufficient rail connections.
+Relieve Goods Shortages
+In time, Palestine's production shortfalls can be permanently resolved. For now, however, while the signatories may complain, we must simply ask Constantinople for assistance.
+Technicum Cooperation Programme
+We should ask Constantinople to send advisors from Turkish technical colleges in order to further our agenda of technical education.
+Encourage Local Manufacturing
+To free Palestine from European influence, it must not rely on Europe for basic finished goods. With financial backing from Constantinople, we can ensure the flourishing of modern centres of industry in certain cities.
+Promote the Damascene Link
+More rail connections are required to connect Palestine with the markets of the metropolis of Damascus.
+Restructure the Gendarmerie
+The signatories have agreed to the amalgamation of the Gendarmerie units drawn from their own armed forces into a single unit answerable to the council as a whole and under our direct authority. We should implement the plan.
+Pan-Arabic Broadcast Disruption
+Over the airwaves, the Egyptians provoke Arab nationalism and encourage hostility towards non-Arab speaking citizens. We must acquire new radio transmitters ourselves and broadcast thunderous white-noise on whatever frequencies their drivel appears.
+Sinai Border Patrol
+To combat Egyptian infiltration, we have been slowly increasing military patrols throughout the entire Sinai peninsula. To brave the elements for sustained periods there, we must draw on Turkish expertise to appropriately train our men.
+Organise the Congress of Haifa
+Arab resentment towards Jewish settlement and land acquisition has become a problem that the participants in the Hanover Conference can no longer ignore. To deal with the issue, foreign signatories must be convinced of the Sublime Porte's good intentions towards Palestine and recognise its full authority once again. A general conference of signatories should be called to achieve that in one fell swoop.
+Mutasarrif [Root.GetLeader]
+A military theorist and instructor, Esat Sagay has a particular passion for practical education. He now has the political capital to begin pursuing his educational agenda. Let us educate the people of Palestine.
+Restructure Palestine Education
+Through education and development, all people can learn to live in harmony within the same cultural framework. We should establish and amalgamate the administration of Palestine's many private and confessional schools and ensure that all students receive basic technical training.
+Reaffirm Ottoman Authority
+While most Arabs mistrust our rule, many have faith in the Sublime Porte. Surely, only Constantinople can set Palestine right now. We must ask the Empire to invoke emergency powers over Palestine and simply request the understanding of the signatories.
+Abolishment of the M.O.J.
+At the Congress of Haifa, the parties to the Hanover Conference acceded to a new set of guidelines for the administration of Palestine, including the area's full reintegration into the Empire. The reintegration process will not be immediate however.
+Settle Algerian Immigrants
+The social position of the Algerian Jews was upended by French defeat in the Weltkrieg. Among the discontented seeking Zion are many administrators who would serve us well. Surely we cannot help but allow them entry!
+Settle Russian Immigrants
+While much of the old Russian Empire's Jewish population now reside within the independent nations of Eastern Europe, Russia is still home to the single largest Jewish population in the world. Long faced with discrimination, the largely impoverished Jews of Russia clamber to see their Zion.
+Settle Eastern European Immigrants
+The Jews of Eastern Europe are many, and quite a number of them possess valuable technical and mercantile knowledge. We should allow such Jews to settle in Palestine.
+Settle American Immigrants
+Though a world away, American Jews have provided substantial financial backing for many Zionist organisations. By settling interested American Jews, we could take advantage of their financial resources and fully ensure proper compensation for state expenditure to achieve their settlement.
+Coordinate Jewish Land Acquisition
+Our settlement efforts have given rise to new disputes amongst the Jews and between Jews and Arabs, placing strain on local administrations. To minimise these issues and introduce a degree of uniformity to disputes, the existing haphazard process for land acquisition and settlement must be replaced with a single framework for all of Palestine.
+Western Jordan Irrigation Programme
+The rolling hills of western Jordan have always suffered from prolonged periods of drought. Yet, throughout the ages, only localised irrigation projects were ever completed. We should establish a regional agricultural development body for the management of irrigation projects in the region on the basis of previous European assessment of the region.
+Urban Planning Commission for Tel Aviv
+The city of Tel Aviv has grown from a small Jewish settlement in the shadow of Jaffa to a vibrant slice of modernity in Palestine. Though depopulated during the war, it has grown rapidly in the years since, often without any sort of organisation due to the city's confrontational relationship with Ottoman authorities. We should establish an urban planning committee for the city administered at the mandatory level to serve as an intermediary between the Jews and Turks.
+Close Jewish Immigration
+With ethnic tensions rising and populations rapidly shifting, the time has come to prohibit Jewish immigration to Palestine while ensuring the full integration of those admitted thus far.
+Suez Focus Tree
+The Port Said Convention
+To ensure the permanent flow of goods through the Suez canal, a deal was reached between the Sublime Porte and various foreign powers. A free state is to be established around the Suez canal zone under the rule of various international commissioners.
+Rebuild the Civilian Administration
+The complex multinational delegations in Port Said were dispersed by the war and many buildings were damaged. We must rebuild and seek the return of these experienced expatriates.
+Port Abdulmecid Housing Project
+To house all the new international dignitaries, a new planned city will be needed. Port Abdulmecid, as it has been designated, shall be a slice of Europe in the Eastern Mediterranean.
+Clear the Port Said-Suez Fairway
+To ensure that the canal would not fall into enemy hands, several small craft were scuttled within the fairway. They must be raised and removed.
+Restore Suez Refuelling Station
+Much of the cutting edge refuelling equipment was irreversibly damaged. We must bring in replacement parts from abroad in order to restore the canal to full operation.
+Re-Open the Canal
+Now that the canal has been repaired, we should prepare for its re-opening.
+Electrification of Ismailia
+The full electrification of Ismailia would benefit international trade significantly. We should provide state support to the effort.
+Expand Rail Connections
+While the canal zone is first and foremost a global hub, it must be economically able to stand on its own two feet. New railways connecting not just with major international junctions, but throughout the populated areas of the zone, should be established.
+Create the Port Said Industrial Zone
+Areas with existing industrial enterprises should be subject to different laws than the rest of the zone. These laws for the promotion of development above all else shall ensure its prosperity, and our income.
+Expand Textile Manufacturing
+Bolstered by low transportation costs, a small textile industry has developed within the confines of the canal zone, drawing workers from the Egyptian heartland. We should recognise the importance of this industry to the health of the labour market needed to maintain the canal and ensure its survival come what may.
+Increase Shareholder Dividends
+With the Canal zone fully repaired, a greater share of tax revenue can be assigned to the signatories of the Port Said Convention.
+Rebuild the Port Said Refinery
+While not essential for the operation of the canal, refining crude oil on-site was a great boon to the economy of the zone in the past. With sufficient state investment, it can be again.
+Found the International Assembly
+All foreign citizens residing within the canal zone should have shared representation to some degree. A special legislature for expatriates should be created.
+Expand the Suez Garrison
+The canal is the beating heart of international trade. We cannot allow it to fall to hostile forces again. We must expand the garrison to a size capable of ensuring its operation.
+Establish the Port Said Naval Authority
+The canal zone will need a small fleet under its direct control. Let us establish facilities capable of maintaining military vessels.
+Modernise Repair Facilities
+Cargo ships require special facilities for maintenance. We must expand ours to accept the newest vessels.
+Found the Procurement Department
+The import of foodstuffs into the canal zone should be centrally administered. Let us create a new entity to handle that.
+Re-Establish the Port Said Hospital
+Established by the British army during the Weltkrieg, the Hospital of Port Said, protected by the Red Cross, has ensured great advancements in medical sciences. It also serves as a place for soldiers and civilians of all nations fighting in the Greater Middle Eastern region to receive fast treatment.
+Expand the Port Said Arsenal
+In order to keep the canal open in the face of a prolonged siege, we must have armament depots of exceptional size and at least basic munitions production capabilities within the zone itself.
+Found the Egyptian Auxiliary Corps
+To ensure that the Egyptians do not again desire to disrupt the canal's operation, their people must have a stake in it. To that end, we should augment the ranks of the international gendarmerie with Egyptian volunteers, ensuring their equal treatment and fair pay to win their good graces.
+The Frontline of Imperialism
+With plans for the protection of the canal now fully implemented, we should directly recruit western veterans both to serve as advisors and form the elite core of the garrison.
+Radwan al-Hilu
+§YBorn:§! §L1909, in Jaffa, Mutasarrifate of Jerusalem, Ottoman Empire§!
+François Charles-Roux
+§YBorn:§! §LNovember 19th, 1879, in Marseille, Bouches-du-Rhône, French Republic§!
+Musa Al-Alami
+§YBorn:§! §LMay 3rd, 1897, in Jerusalem, Mutasarrifate of Jerusalem, Ottoman Empire§!
+Awni Abd al-Hadi
+§YBorn:§! §L1889, in Nablus, Vilayet of Beirut, Ottoman Empire§!
+Mehmet Esat Sagay
+§YBorn:§! §LOctober 16th, 1874, in Karaferye, Vilayet of Selânik, Ottoman Empire§!
+Abraham Antébi
+§YBorn:§! §L1873, in Damascus, Vilayet of Syria, Ottoman Empire§!
+Abd al-Qadir al-Husayni
+§YBorn:§! §L1907, in Jerusalem, Mutasarrifate of Jerusalem, Ottoman Empire§!

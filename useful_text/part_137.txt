@@ -1,0 +1,618 @@
+Princely States Focus Tree
+§YSayajirao Gaekwad III§! becomes §YMaharaja of Maharashtra§!
+§YMadras§! will become a §YFull Member§! of the Council.
+§YMadras§! will be §Rremoved§! from the Council.
+§YHari Singh of Kashmir§! will become a §YMember§! of the Council.
+§YJiwajirao Scindia of Gwalior§! will become a §YMember§! of the Council.
+§GAn election between the Princes for a national Diwan will be held in six weeks time.§!
+§GA general election within the entire federation will be held in six weeks time.§!
+The §YAftershocks of Black Monday§! have hit [PRF.GetNameDef]
+The Council of Princes has achieved full control.
+§CIf the $TAG|Y$ has 50 or higher opinion of us:§!
+§GTaking focuses in the economic branch will now reduce time left on Black Monday.§!
+§RContinued overreach by the Nizam is bound to have consequences...§!
+Enables Decision: £decision_icon_small §YJoin the Moscow Accord§!
+Enables Decision: £decision_icon_small §YJoin the Istanbul Pact§!
+INC (Maximists)
+Indian National Congress (Maximists)
+INC (Left)
+Indian National Congress (Left)
+INC (Agrarians)
+Indian National Congress (Agrarians)
+CPI
+Communist Party of India
+Hyderabad Congress
+Hyderabad State Congress
+All-India Mahasabha (Left)
+All-India Mahasabha (All-India Grand Assembly - Left)
+Andhra Mahasabha
+Andhra Mahasabha (Andhra Grand Assembly)
+All-India Mahasabha
+All-India Mahasabha (All-India Grand Assembly)
+Andhra Mahasabha
+Andhra Mahasabha (Andhra Grand Assembly)
+All-India Mahasabha
+All-India Mahasabha (All-India Grand Assembly)
+Justice Party
+South Indian Liberal Federation
+BDA
+Bharatiya Democratic Alliance
+Council of Princes
+Council of Princes
+National Government
+National Government
+Executive Council
+Executive Council of Hyderabad
+MIM (Razakars)
+Majlis-e-Ittehadul Muslimeen (Council for Muslim Unity) - Razakars
+Disorder-In-Council
+Initially forming during the Indian Revolution, the Council of Princes was envisioned as a way for the major rulers of south India to collectively rule the newly independent nation. As the years have gone on however, the uniquely privileged position occupied by the Nizam within the Council has slowly led the nation towards one led solely by Osman. Such a situation is one the other council members have refused to take sitting down, and now only time will tell if the council will survive much longer.
+Aftershocks of Black Monday
+While increased reliance on German markets was a necessity to survive in a post Imperial world, the Black Monday collapse has as a result inflicted great damage on the Indian economy, like it has much of the world.
+Federal Railway Company
+Historically the railways in India have been divided between a wide assortment of owners, ranging from foreign capital to even Osman Ali Khan himself. In an attempt to improve this system, these disparate railways have all been placed under the authority of one central Federal enterprise.
+Growth of Indigenous Business
+As argued by leading businessmen in [PRF.GetNameDef], if the nation is to survive into the modern age it must facilitate the growth of indigenously owned companies rather than tying itself so heavily to foreign imports as it has been historically. To that end, the government of [PRF.GetNameDef] have greatly invested in native companies, hoping to build a self sustaining economy.
+The New Federal Army
+The first Federal Army of the [PRF.GetName] could hardly be described as a professional force, having been hastily assembled together in the chaotic years of the Indian Revolution. Aiming to address the shortcomings this has caused, the [PRF_GetCountryTitle]'s government has set out grand reforms to fully reorganise it into a force capable of defeating any enemy of the Indian people.
+The First Federal Navy
+While [PRF.GetNameDef] has always had a few ships to its name, it could hardly be described as a navy, being more just whatever could be salvaged from Britain's collapse. Such a situation could not last for long however, especially as the [PRF_GetCountryTitle] begins to stretch out its wings, and so their government has begun to fund the creation of a proper navy to serve the nation.
+Diverting Funds to the Navy
+In an effort to massively increase its naval output, [PRF.GetNameDef] has chosen to cut back on funding of less important ventures, with the saved funds being redirected to the nation's navy.
+The Deccan Air School
+The Deccan Air School is Hyderabad's leading pilot school. With government investment, we will have the best pilots in the subcontinent.
+Father of the Federation
+While Osman may now be the sole ruler of the Indian Federation, the Nizam has shunned any symbolic elevations of status, instead opting to reinforce his image as the Federation's founder. Despite in practice having powers akin to a national monarch, the Nizam has set out to paint himself as simply a \
+Rule by Firman
+When Osman was simply the Nizam of Hyderabad, little happened within his realm without a direct decree from him endorsing it. Now as the subcontinent's mighty emperor, such administration has been expanded to the whole Indian nation; with local ministers and councils being expected to carry out his will expressed via firman as swiftly as possible.
+One Nation Under Osman
+While Osman may be a Muslim, he has made clear that he does not intend to rule the nation as a conqueror, imposing his beliefs onto others and disadvantaging those of other faiths. While not everyone in the nation is convinced by such promises, his great purge of the Razakars has gone a long way in reassuring people of his intentions.
+Right of Conquest
+As expressed by Razakar leader Qasim Razvi, Osman's right to rule India has derived solely from his conquest of its peoples, and no concessions should be granted to the vanquished. With Osman granting the Razakars unchecked levels of power to ensure his rule stays uncontested, those amongst the \
+Fight Against Famine
+For millennia famine has been one of the greatest threats to the Indian people, killing more than any conqueror. With recent decades seeing great advances in the world of artificial nitrogen fertilizers, the elimination of famine is in sight, and to that end Osman has chosen to massively fund these efforts so that this great evil will never threaten India's people ever again.
+Royal Sadaqah
+Osman's authoritative rule is not one that the Indian people are so easily willing to accept, but being the richest man in the world has its advantages, even if spending a single rupee pains him. To help ensure that Osman maintains the support of as many of his subjects as possible, he has ramped up his personal spending on many great projects across the realm for the benefit of the little people of the nation, of course naming these projects after himself to remind the people of their great benefactor.
+The Charitable Miser
+$PRF_royal_sadaqah_idea_desc$
+Image of the Rajarshi
+The Rajarshis, or Royal Sages, are those amongst the Hindu ruling castes who truly display pure devotion and care for their people, always choosing to enrich the nation over themselves. While not directly referring to themselves as such, the leadership of the Council of Princes have begun to unofficially encouraged the promotion of the image of each of them being Rajarshis, nobly leading the nation forward and giving everything they have to benefit the lower castes that they rightfully rule over.
+The Supreme Council of India
+During the days of the East India Company, the Supreme Council of Bengal acted as India's highest authority, being comprised of four primary members, with a fifth position being fulfilled by the governor general as effective head of the Council, although notably lacking a veto power over decisions. Now over a century later, a similar such system has arisen again, ruled however now by the native rulers of the subcontinent rather than colonial leaders. It is through this new \
+Royal Patronage Fund
+It is right for the wealthy to give back to society, and with the princes of the Federation now acting very much in unison a collective fund has been set up to allow each prince to donate towards a common goal. This fund is then spent upon infrastructure and development throughout the nation, attributed collectively to each prince, ensuring that every Indian recognises the vital role that every prince plays in uplifting the nation, rather than simply highlighting the richest amongst them.
+Wall Street of Asia
+The city of Madras has long been an important centre of finance in India, and now with a major government push to frame it as the \
+Cultivation of the Administration
+With power being divided between the Council of Princes, the National Assembly, and even the parties within the Assembly, cultivating an effective and efficient administration is a seemingly impossible task. If there is anyone however who can successfully do so, it is the diwan Ramaswami Iyer, a man who so far has been extremely successful in navigating such a challenge.
+Revitalising the Council
+While historically the Council of Princes has kept voting rights solely to its royal members, a representative from Madras has always maintained an observer seat on the Council. Now in an attempt to revitalise the Council and bring the nation further towards modernity, Madras has been elevated to full status on the Council, at last giving further representation for the nation's common peoples.
+Building a Mass Movement
+The Andhra Mahasabha may have been little more than a regional pressure group just a few short years ago, but now as the party leading the nation the new Mahasabha has taken great strides to include those from all of India, ensuring that it truly represents the nation's masses.
+A New Federation
+Indian democracy may not be as developed as it is in other great nations of the world, but under the leadership of the All-India Mahasabha the Federation has taken great strides towards having a truly democratic system that represents all of the nation's people; a far cry from the princely controlled state of yesteryear.
+A New Federation
+Indian democracy may not be as developed as it is in other great nations of the world, but under the leadership of Iyer the Federation has taken great strides towards embracing modernity and uplifting those throughout the country. While the diwan's authority may be growing uncomfortably large for some people, most remain confident that Iyer has the best intentions in mind for India's peoples.
+The Sovereign Statesman
+Despite the Council of Princes maintaining a great deal of authority and power on paper, the nation's diwan C.P Ramaswami Iyer has ensured through his reforms that the true ruler of the nation is Iyer himself, with neither the Council nor the Assembly being able to challenge his position. While Iyer's power may now be effectively absolute, he has remained steadfast in his goal of bringing his vision to the nation rather than simply enriching himself, believing that he alone can truly modernise the nation and lead India forward as a new great power.
+Defending the Downtrodden
+For almost as long as people have existed in India there has always been a downtrodden group amongst them, whether they be Dalits, women, ethnic or religious minorities. Such oppression is regarded as a relic of the past by the Federation's government, who have made it their mission to ensure that these downtrodden groups are protected and uplifted, so that they may play an equal part in society.
+Madras Autonomy
+Following agreements reached between the newly formed All-India Federation and the Madras Legislative Council during the Indian Revolution, the former British presidency joined the federation as a distinct member. Under these agreements, the State of Madras has continued to operate much as it did under British rule, being in the unusual position within the Federation of functioning as a democratically elected republic rather than being ruled by an absolute or executive monarchy like its fellow states.\n\nAdditionally under the agreements, matters concerning Madras itself have been almost entirely devolved to its Legislative Council, and a representative chosen by its members sits on the Council of Princes, ostensibly to ensure that Madras maintains a say on national laws that may also affect them.
+Southern Autonomy
+As part of the reunification agreement between the Dominion and the Federation, the south of the nation has been allowed a great deal of autonomy to manage its own affairs while recognising the government in [RAJ.Capital.GetCapitalVictoryPointName].
+Industrialising the Nation
+Begin the Rajasthan Canal
+The Rajasthan region has long been in need of a proper irrigation system, and an interesting proposal by Bikaner's chief engineer, Kanwar Sain, has been approved by the Diwan. Under this proposal work will begin taking water from the Harike Barrage, fed by many major Himalayan Rivers, and directing it with a canal to supply most of western Rajasthan. While this will likely take decades to finish in full, it is certainly a project worth investing in for, and even the short term benefits can be fruitful.
+Malwa Canal Network
+The drought prone region of Malwa in central India has long been in need of more canals, and luck would have it that the Narmada running through the area would be perfect for this purpose. Work will begin shortly on a network of canals along the river, and from other smaller nearby bodies of water, to help stave off the worst effects of any drought.
+Expand Doab Irrigration Channels
+The Upper Doab in northern India is one of the most important regions for food production in the entire nation, producing not only most of the nation's wheat but also rivalling Bengal for rice production. Aiding farmers in the region through a mass expansion of irrigation channels will almost certainly bring the region's output to even greater heights.
+Dig in Digboi
+Digboi, as the legend goes, was named as such when Canadian engineer W.L Lake told his men to 'Dig boy dig!' upon seeing the first signs of oil. Despite the oil being first discovered almost a century ago now, the well has seemingly been barely tapped, and so we should make a great effort at resolving this mistake to capitalise further off this black gold.
+Orissa Bauxite Extraction
+Orissa is home to some of the richest bauxite reserves in all of Asia, yet little has been done to harvest and process this increasingly valuable material. Still, there is no time like the present to get to work, and so expanding our mining infrastructure in the region should be a priority.
+Hematite in Bailadila
+Two things seem certain in life, the first being death, and the second being man's constant demand for more iron. The Bailadila mountain range is home to rather high quality hematite ore, which should help towards filling this great demand.
+Bridging the Teesta
+The regions of Darjeeling and Sikkim have many disconnected communities separated from each other by the mighty gorges formed by the Teesta river. While there have historically been plans to properly bridge the river, they have historically fallen to the wayside due to the revolution and its consequences. Now however seems like a perfect opportunity to revive these plans.
+Rebuilding the Dufferin Bridge
+The Dufferin Bridge of the Ganges was at one point one of the greatest bridges in India, but was mostly destroyed as part of the Battle for Varanasi. The bridge's importance to the local city means that we cannot simply allow it to remain destroyed, and so a great effort should be made to see it return to full operational capacity.
+Paving Baluchistan
+The frontier regions of Baluchistan may be little more than a backwater as far as most are concerned, but they are still an important part of the nation that should be uplifted along with the rest of it. To that end, we should seek to build a proper modern road network in the region, allowing easy travel to and from major nearby cities like Karachi and Quetta, and also travel within the region between Kalat and Kharan.
+Expand the Sukkur Barrage
+The Sukkur Barrage provides irrigation to farmers in the arid region of Sind, supplying water from the Indus to regions that otherwise get very little. Reinforcing its installations and expanding its associated canals will provide local farmers quite a bit of relief.
+The Pallivasal Hydro-Electric Project
+The Pallivasal Hydro-Electric Project is a proposal for a hydro-electric plant that will increase the electrical output in the state of Travancore, as well as providing new opportunities for irrigation in the region. By accepting and moving forward with this installation, the region will see greatly increased development.
+Subsidise the Chakhao Plantations
+Chakhao, also referred to as Manipuri Black Rice, is a highly nutritious rice plant grown in the region of Manipur. It's vibrant purple colorisation additionally makes it an exotic food for importing nations abroad. A generous series of subsidies should see the region attain great prosperity.
+Uplifting Delhi to Modern Standards
+The site of the former Sultanate of Delhi, the former capital of the British Raj and perhaps the most coveted city for any conqueror wishing to attain control of the vast Indian continent. Socialist rule has done the city absolutely no good, however. Many streets are cramped, Indians packed like sardines into poorly constructed apartments and slums popping up just after another has been cleared. Through thorough public works projects, Delhi shall finally claim its spot as the city of the century.
+Invest in the Jubbulpore Armaments Industry
+The city of Jubbulpore has a considerable armaments industry that received heavy damage during the civil war. By directing some capital toward this sector, we shall be rewarded with a stronger arms industry than we had beforehand.
+The Karachi Shipyard Project
+The Port of Karachi has had a most turbulent history in recent times, enduring a strike during the initial aftershock of Black Monday and straining to meet demand as the former Dominion's sole major harbor. A series of enhancements and upgrades will remedy any issue it may have in the future with regards to capacity, and further improve our domestic ship-building industry.
+Fund Kashmiri Carpet Exports
+Kashmiri Carpets are coveted by the world's wealthy and elite for their intricate beauty and exceptional quality of craftsmanship. We will fund an advertisement campaign and subsidise local carpet weavers so that our great nation will benefit from the income of this luxurious export.
+Issue Executive Firman
+While most laws go through the Council, the Nizam still retains the authority to bypass them when needed, and passing a firman that will help ensures things develop to his advantage is certainly a situation he views warrants it.
+Rely on the Razakars
+The Razakars may be dangerous violent thugs, but they are the Nizam's dangerous violent thugs, and will ensure that those who speak ill of him in public are reminded why such actions are normally done behind closed doors.
+Buying Good Will
+It is the duty of those with wealth and power to ensure that their lessers are properly cared for, and the Big Four are certainly no strangers to providing such care. In turn, it is expected that those provided for will be much more amenable to supporting the goals of their benefactors.
+Combatting the Nizam's Propaganda
+As the so called \
+Concessions to the Assemblies
+While most bills that make their way through the Council are drafted by the advisors of the members, or developed initially in the Chamber, on certain occasions the advisory assemblies in each constituent state are allowed to submit their own bills through their relevant prince. If needed, allowing some additional bills from the assemblies could strengthen the sway of these assemblies over the lawmaking process, helping balance the situation in the Council.
+The Berar Road
+With every passing day making it clear that war will soon return to India, preparations must immediately begin for this eventuality. In the event of an attack from the north, Berar is almost certain to become the most active part of the frontline, being the least defendable section of the border, and so we must guarantee a proper supply network between Hyderabad and the Berar front if we wish for any hope of holding the area.
+Merging the Railways
+Despite the vital role the nation's railways serve, there still remains no central authority overseeing them all. Instead, control lays split between private companies, foreign ownership, and many of the princes themselves. To properly streamline this mess, it would be wise to merge these disparate companies together, operating through the existing administration of the Nizam's Guaranteed State Railway.
+Hyderabad-Madras Express
+Madras is the third most important city in south India, behind only Bombay and Hyderabad itself, yet the connections between the [PRF_GetCountryTitle]'s heart and Madras have for too long remained woefully lacking. Now is the perfect time to finally address this problem, and create a proper direct line between the two.
+Bombay to Bangalore
+Bangalore acts as an important hub for connecting the far south to the rest of the nation, with many of the raw materials produced in these areas being routed through it to reach the industrial heartland of Bombay. An expansion of the rail infrastructure between the two should greatly aid any future industrial expansion.
+Importing European Models
+We cannot easily afford to dedicate any substantial amount of our heavy industry towards the production of modern diesel and electric trains entirely from scratch, but acquiring them would be a major boon for the nation. To remedy this, we should see to importing a sizable number of models from Europe, alongside acquiring difficult to produce parts from which we can more easily put together trains of our own.
+Finish the Nizam Sagar Dam
+While the Nizam Sagar Dam was started many years ago, the project was never able to reach full completion as a result of the Revolution. With the dam in an almost finished state already, it would be foolish to not simply dedicate the resources needed to give it the final push over the edge towards being complete, especially when considering the great electrical and irrigational benefits from it that we sorely need.
+Shroff Development Plan
+Responding to the Black Monday crisis, a team of economists and industrialists led by Ardeshir Shroff have put together a development plan to ensure swift recovery from this temporary economic shock. The plan in itself advocates for stronger intervention in favour of Indian business, the importation of new crop variants to attempt to ensure better harvests, and the increased involvement of native companies in the exploitation of our many untapped resources.
+Hope Wheat Trials
+The fear that we are one bad season away from major famine and the amount of time that has to be devoted to farming to simply sustain the nation are two of the biggest issues facing the [PRF_GetCountryTitle]'s potential for growth, especially in the wheat reliant west. In an attempt to remedy both of these problems, we have agreed to trial new crop breeds originating in the Americas which are said to be resistant to common diseases like rust, while greatly increasing yield.
+Andhra Irrigation Schemes
+The region of Andhra is one of the most important rice producing areas of the entire subcontinent, and we have yet to get anywhere near the limits of the potential yield we can achieve. With enough investment in improving the irrigation infrastructure in the region we can expand the viable farmland, as well as allow further rice production during the Rabi season.
+Prioritise Indigenous Business
+In a completely free system, many native Indian businesses will simply fail to compare to their much more firmly established foreign competition. To avoid the nation once again being ruled by foreign business, we must guarantee economic protections so that our own businesses can thrive long enough to compete against these foreign heavyweights.
+Favouring a Private Approach
+While we may guarantee protections for Indian businesses, we cannot risk simply abandoning the fundamentals of capitalism lest we risk becoming a second Calcutta. It is therefore important to ensure that where possible we favour and foster private business, instead of resorting to increased nationalisation as some have called for.
+Increased Federal Intervention
+There are certain areas of the economy where no matter how hard private businesses try, they will never be more effective than the government at providing important services. We should therefore move towards nationalisation where needed in these key areas, to ensure the most effective utilisation of national resources.
+Exploiting the Chandradrona Deposits
+The Chandradrona mountain range is a rich, and mostly untapped, source of iron ore, something that the nation is in desperate need of. Proper exploitation of these deposits and the expansion of steel processing facilities to accommodate should be one of our most important economic priorities.
+Strengthen Madrasi Heavy Industry
+Despite Bombay being south India's industrial heartland, Madras's importance in this field cannot be understated. With enough government support, the industry throughout the entire Madras region can easily get to a position where it could rival, and perhaps even overtake Bombay, and such a scenario would greatly benefit the nation.
+Phasing Out British Equipment
+The nation is not going to survive further conflicts armed with just old rifles from Ishapore and whatever the Bombay garrison left behind. It is therefore vital that we begin producing new rifles of our own, with whatever we can muster.
+Developing the Poona Officers' Academy
+The Indian nation has long been starved of good native officers, a very intentional policy from the British in their failed attempt to prevent a repeat of 1857; something that obviously worked so well for them. To rectify this dearth, an academy was set up a few years ago in Poona to train more officers, and we should help ensure this academy is developed as much as possible.
+Streamlining the Command Structure
+The initial iteration of the Federal Army was hastily thrown together in the chaotic days of the revolution, made up from the personal armies of the princely states, British defectors, and anyone willing to take up arms against the socialists. While there has been a slow effort to untangle the jumbled mess of units in the past few years, we must accelerate these efforts to stay competitive.
+The New Federal Army
+While our reform efforts may only just be beginning, for the first time in our short history the Federal Army is now actually worthy of such a name; no longer being a ragtag enthusiastic force of soldiers. Hopefully when the time comes, it will be enough to not only defend the nation, but restore it to greatness.
+Negotiating Equipment Deliveries
+Winning over the friendship of an Indian nation that does not simply follow the orders of the British king or Calcutta's new red kings in London is a very attractive prospect to many of the major powers of the world. Such interest is something we can easily exploit to fill the many holes that still remain in our army's stockpiles.
+Support the Bangalore Defence Industry
+Almost as soon as the revolution ended, Maharaja Wadiyar IV began a major campaign to build a new defence industry in Bangalore's old British Cantonment. Such an effort is one that is sure to bear great fruit for the [PRF_GetCountryTitle], and we should divert federal funding to aid Mysore in furthering these efforts for the sake of national security.
+Updating Shivaji's Tactics
+The first Maratha realm was carved out by the great Maharaja Shivaji, who recognised that a large advanced army is not needed to win wars when one truly understands the land around them, properly utilising a flexible irregular army. The tactics he pioneered can still hold true even in the modern age, except of course enhanced greatly by the technology of our era.
+Prioritising Adaptability
+We will not win against our enemies if we simply expect every battlefield to be in our favour. We must instead focus on ensuring that no matter the situation, our men can not only fight at their peak strength, but fight continuously even if they find themselves isolated from our supply lines.
+Learn from the Battle of Ahmadabad
+Ahmadabad was nothing short of a disaster, one in which many good men were slain by the socialist marauders in a valiant last stand in the city. The mistakes made that led to such a slaughter cannot be repeated, and next time our soldiers end up fighting in the streets they will be ready.
+A New Generation of Armoured Cars
+British import restrictions meant that historically, many of our soldiers were stuck utilising armoured cars rather than the much more powerful tanks that they provided their loyal lapdogs. The experience this granted us however has taught that we should not underestimate the armoured car, for it has great use in supportive reconnaissance roles, and with the right tools can be produced much more cheaply than any decent tank, perfect for a flexible army such as ours.
+Integrating Elephants into the Sappers
+War elephants charging into the enemy line may be nothing but a historical relic, but it is a mistake to think that elephants cannot still serve an important purpose in a modern army. In terrain unsuitable for mechanised options, elephants excel as part of sapper corps, being perfect for building bridges across rough terrain and hauling large equipment where other options simply cannot.
+Guerrillas of the Deccan
+Ganimi Kava is the blueprint that many forms of asymmetric warfare have been based upon, a blueprint that was perfected in the great mountains of the Deccan we call home. Bringing this style of warfare once again to the Ghats, and even beyond, shall hopefully win us the victories we desire as it did for Shivaji.
+Refine Mahadaji's Legacy
+It was under Mahadaji Scindia that the rulers of southern India first realised that simply relying on courage and prowess will win you nothing but a flowery legacy told only by your subjugated sons. Unless we wish to befall such a fate, the army must not only be modernised to European standards, but hopefully one day even surpass them!
+Modernising Ayurveda
+A sick soldier might as well be a dead one without the proper treatment, and for centuries Ayurveda has been used to ensure that they get back on their feet. In the modern day, the more mystical aspects of the system have slowly eroded away to create a new more scientific approach, and although many sceptics still believe it to be nothing more than pseudoscience it is hard to deny that it gets our soldiers back on their feet; even if it's just a placebo.
+Refitting the Lancers
+Our many units of lancers have long been the pride of the armies of all the south Indian states, yet without continued advancement this pride will quickly morph into nothing more than a relic. These men must be equipped with the latest guns, and artillery designed to match their great mobility, so that they can continue to be the swift hammer that crushes our foes.
+Encouraging Native Innovation
+'It's good enough' has for too long been the motto of many of our quartermasters, for it is always good enough until you face an enemy who outguns you while your weapon falls to pieces. It is vital that our soldiers be equipped with the latest technology as soon as possible, developed at home rather than imported from abroad years after our enemies first get their hands on it.
+Reforming the Deccan Invincibles
+The Deccan Invincible were once a great elite force that won many a battle for the Marathas. In the present day such achievements are made by the specialist elite troops that punch well above their weight when needed, your marines, your mountaineers, and even your paratroopers. If we wish to emulate the successes of the Deccan Invincible, we should establish our own units of specialist troops to clinch victory.
+Strengthening the Gardi Core
+At the heart of any army is its core infantry line, for a glut of elites ready to crush the enemy's army is of little used if your lines fold before they get the chance to. Ensuring that even the lowest soldier is equipped and ready to fight as hard as he can will be the most vital step in creating a world class army for the Indian nation.
+Growing the IISc
+The Tata Institute, or more formally the Indian Institute of Science, is one of the most important research facilities in all of India, and furthering its growth is a cause that even the most argumentative of princes can easily get on the same page about doing. Ensuring that the [PRF_GetCountryTitle] remains at the forefront of science will not only help in every day life, but will aid in the development of cutting edge technology for our military, hopefully giving a great advantage.
+India United!
+The socialist menace has been driven from the north, and the rump Raj has at last been put down. It is now our duty to restore the nation to its former glory, recover from the damage this devastating war has brought, and lead all of India into a bright new future.
+Reconstructing the Nation
+India lies in tatters, devastated by two major wars in the span of a decade; but it shall never be defeated. Repairing the damage should be the government's highest priority, and hopefully in time we can not only recover from the destruction, but even one day surpass the pre-revolution years.
+Fate of the Loyalist Rulers
+When Osman declared independence to save India from socialism, many cowardly princes in the north refused to rally behind him, being too scared to take a stand for their freedom. Those who were lucky enough to not be invaded during the revolution were able to keep their place under the British, and although they may have chosen to back our enemies, we must still consider whether they should be allowed to maintain their positions.
+Restoring the Ousted Princes
+The Federation's members may have fought hard against the socialist marauders, yet it was not enough to save all of them. Many of their lands were overrun, and many a good man cut down; even the great house of Scindia were driven from their lands in Gwalior, having resided in Hyderabad ever since. It is time now to correct this injustice, and restore these lands back to their rightful rulers.
+Federal Reorganisation
+To think we can simply roll back the clock to a time before the revolution, restoring all the princely lands as they were then, is nothing short of a fantasy. Their people have been radicalised against them by the Calcutta regime, and forcefully installing the princes back would simply prime us for further unrest much further down the line. The lands should instead should be managed as federal states, reorganised as needed to incorporate them into the administration.
+Armed Forces Rehabiliation
+At the end of the day the common man rarely fights for his ideological convictions, have him born a few miles down the road and he'll just as easily fight under another banner. We therefore should grant blanket amnesty to the low ranking soldiers of our enemies, hopefully earning us some good will, and discuss what should be the fate of their more committed officers.
+Reversing Socialist Destruction
+The socialists of the north wreaked havoc wherever they managed to spread their tendrils, under false claims of liberating the Indian people from oppression. It will take years, maybe even decades, to properly repair this damage, but for now we can at least begin with reversing some aspects of their economic sabotage.
+Protecting the Farmers
+Agriculture is the nation's backbone, one to which everything would crumple without, and yet the war has devastated countless fields and farms from mortar shells and tank treads. Ensuring that these farmers get back on their feet and keep producing enough food to both sustain the nation and maintain reasonable exports should be one of our highest priorities.
+The Bridge and Road Project
+A town is nothing more than an isolated island if its people cannot easily leave it, and the state of the nation's roads at this point is nothing short of a catastrophe. With enough effort however, we may be able to once again reconnect much of the nation together, facilitating further growth and recovery.
+Increasing Agricultural Exports
+Without capital, many of the projects needed to restore the nation are little more than niceties, worth less than the paper they are written on. Even with the damages, agriculture remains our strongest export and so to gather the money needed to cover these grand projects we must up our exports in this field as much as we reasonably can.
+Urban Restoration Projects
+Nowhere was hit harder in the recent conflict than the country's great cities, even settlements like Nagpur are more rubble and graves than homes at this point. The nation cannot hope to move forward until these urban centres have been properly restored, and so doing so should be one of the first major projects we embark on.
+Focus on Capital Growth
+While simply recovering to the levels of yesteryear would greatly improve the lives of many of our people, it is foolish to believe that this alone will be enough to actually restore the nation. We should further our previous support for Indian businesses, relying heavily on them to also aid in recovery efforts, so that we can not only recover but continue to thrive and grow even greater.
+Competitive Industry
+Under British rule Indian industry was intentionally kneecapped to stop its true growth, with the overlords back in Britain fully aware that Indian industry could easily put every British factory out of business without these restrictions. Now that we are no longer held back, it is time to prove their fears correct, and begin on the path of outcompeting European production.
+Tapping India's Potential
+The natural wealth of the earth has for centuries granted the opportunity to turn even the poorest pauper into the wealthiest prince if he can properly control and exact nature's bounty. Even with much of the country still devastated, great capital can still be raised through prioritising the extraction of raw resources like oil and iron, and selling them to the highest bidder, especially the desperate war ridden nations who have few other choices for suppliers.
+Using our Natural Wealth
+While the expansion of the many existing mines, quarries, and other such operations has so far served us well in quenching our resource thirst, it is not enough as many of these sites will quickly find themselves depleted. We must therefore begin developing new sites, those to which have great potential to output large amounts of resources if given the right time and attention. From these we can easily supplement our needs, and significantly increase our exports.
+Greatness Belongs to Osman!
+With the tyrannical princes having been put back in their proper place, the great Nizam is now free to rule India as he sees fit. The Age of Osman shall bring a bright new era for the Indian people!
+Declare the Kaisar-i-Hind
+With the Nizam firmly in control, the time has come to declare a change: the stolen title of Kaisar-i-Hind shall at last be reclaimed from the British, with Osman himself serving as the nation's emperor. All power will rest with him, and the people will cheer him as the great restorer of the nation!
+Father of the Federation
+While some might have assumed the Nizam held imperial ambitions, the truth is that he intended solely to centralise the government's power in his hands for the benefit of all. With the princes no longer able to slow the nation's growth with their in-fighting, the time has come for the Federation to become the great power it has always been destined to be.
+Harness the Razakars
+While the Princes may have been dealt with, there is never an end to usurpers wishing to see the nation collapse into chaos once again. We must therefore increase our reliance upon the Razakars, to properly instil fear in any potential threats and nip in the bud any who are not smart enough to be scared.
+Ensure Muslim Supremacy
+As advocated by Razakar leader Qasim Razvi, Muslim rule over India is justified solely by the right of conquest, for there is no better justification needed. No concessions shall be made to the vanquished, and so we shall ensure that all major positions are occupied by Muslims, as they deserve to be.
+Dissolve the Razakars
+Qasim Razvi's violent thugs cannot be trusted, and they have already outlived their usefulness. It is time to ensure that they are properly dissolved, and Razvi himself is swiftly dealt with.
+Protector of All Faiths
+Attempting to rule over all of India's many peoples, rather than rule with them, will only lead to disastrous results. We must therefore ensure equal legal protections and advancement for all Indians, whether they be Hindus, Muslims, Christians, Buddhists, or anything else; and we will also ensure that they know these benefits come solely from the great benevolence of Osman himself.
+Appoint a National Diwan
+While Osman may be the ultimate authority in the land, authority is meaningless if there is no one to ensure your will is carried out. A national Diwan will therefore be appointed directly by Osman, who will act as the primary enforcer of Osman's orders.
+Establish the National Executive Council
+As ruler of Hyderabad, Osman made the decision to establish an Executive Council to advise him on important matters and help ensure his will was carried out as effectively as it could be. Now with all of India operating under his authority, it is only logical that a similar council be established at a national level, made up of those who have truly demonstrated their loyalty and usefulness.
+Assert Authority Over the Realm
+While the Madras Autonomy has existed for barely over a decade, it has already become an outdated relic of a bygone era. It is time now to dissolve this useless autonomy, and fully assert Osman's authority over the entire realm rather than continuing to allow their perverse democratic government to fester.
+Royal Sadaqah
+As a good Muslim, and especially as the world's richest man, it is the duty of Osman to provide for his subjects; the wayward travellers, those burdened with debt, and especially the poorest amongst them. It is through Osman that all of these people will be properly cared for, and they will be sure to associate his name with benevolence.
+Expand the \
+For millennia famine has been one of the greatest threats to the Indian people, killing more than any conqueror. With recent decades seeing great advances in the world of artificial nitrogen fertilizers, the elimination of famine is in sight, and to that end we should expand the existing Main Experimental Farm into a major agricultural university; hopefully ensuring India becomes the forefront of agricultural development to lead this fight against famine.
+Begin Agricultural Reforms
+For centuries there has been little technological advancement when it comes to farming as far as the average peasant is concerned, save for maybe the seed drill. With mechanised farming equipment becoming cheaper and easier to produce however, we are on the cusp of a great new technological revolution in farming, and with enough support we can begin the path towards the mass mechanisation of Indian agriculture.
+Enshrine Compulsory Primary Education
+For India to evolve from the colonial backwater it was under Britain to a modern great power, we cannot continue to be a society in which the vast majority of the population are completely illiterate. It is vital therefore that we make primary level education compulsory for all Indians, and greatly expand government funding for education to guarantee that as many children as possible are properly educated, ready to truly contribute to society.
+Reign of the Princes
+With Osman's ambitions thoroughly quashed, it is now time for the Big Four to realise the ambitions of their own. The future of the Indian nation will at last be one decided by its own native rulers, those who are clearly the most fit to rule.
+The Image of the Rajarshi
+The Rajarshis, or Royal Sages, are those amongst the Hindu ruling castes who truly display pure devotion and care for their people, always choosing to enrich the nation over themselves. While of course not directly describing themselves as such, it would be of great benefit to encourage the public to view the Council's leadership as such Rajarshis, nobly leading the nation forward and giving everything they have to benefit the lower castes that they rightfully rule over.
+Royal Patronage Fund
+It is right for the wealthy to give back to society, and with the princes of the Federation now acting very much in unison it only makes sense for a collective fund been set up to allow each prince to donate towards a common goal. This fund shall be spent upon infrastructure and development throughout the nation, attributed collectively to each prince, ensuring that every Indian recognises the vital role that every prince plays in uplifting the nation.
+A Path For Every Village
+Many of the small villages throughout the nation are almost entirely isolated from the outside world, with the few connections they have being often little more than dirt paths and decaying roads first lain centuries ago. A perfect use of the new Fund shall be to properly connect these villages to modern road networks, hopefully aiding greatly in their future development.
+Redistribute the Presidencies
+The former presidencies of the British empire represent nothing more than land stolen from their rightful rulers by foreign invaders. Now that they have been reclaimed, we are left with the issue of what should be done with them. To that end, it has been proposed that they be divided amongst the princes who sided with the Federation, along with loyal minor Zamindars and high ranking soldiers who were vital to our victory.
+Undermine the Special Status
+Moving against Madras would ultimately bring little gain for the amount of instability it would cause. It would instead be much more efficient to slowly whittle away at their autonomy, until we have effectively completely eroded it, and by then they will have no power to stop us.
+Control the Opposition
+The Justice Party may have collapsed in the face of the Andhra Mahasabha, but that just makes them even more useful for our purposes. Through government support via unofficial channels, the Justice Party can easily be maed to experience a great resurgence in Madras, and in exchange for such a resurgence they will surely be palatable to the interests of their benefactors.
+Partition the Madras Autonomy
+It was a mistake to allow the Madras autonomy to be created, a mistake that should be corrected post haste now that the Federation is in a position to do so. To that end Madras itself shall be completely abolished, with its lands being partitioned amongst the neighbouring princes to whom it more rightfully belongs.
+Madras Financial Zone
+While the Madras Autonomy may be gone and its lands partitioned, the issue of what to do with the actual city of Madras itself is now one we face, due to its immense value. It has therefore been proposed that instead of just being handed off to any of the princes, the city becomes a special administrative district, with a reduced tax rate compared to the rest of the nation, aimed at attracting as much foreign capital as possible to turn it into the Wall Street of Asia.
+House of Princely Representatives
+The Chamber of Princes may provide the lower ranking members of our great federation a voice, but it does not go anywhere near far enough in providing them an active role in the nation's governance. Therefore, it shall be reorganised into a proper House of Representatives, where legislation shall be first drafted and voted upon, before being presented by the Diwan to the Council for approval.
+The New Supreme Council
+During the days of the East India Company, the Supreme Council of Bengal acted as India's highest authority, being comprised of four members, with a fifth position being fulfilled by the governor general as head of the Council, although notably lacking a veto power over decisions. Now over a century later, a similar such system has arisen again, ruled now however by native rulers rather than colonial leaders, and through it the true will of the Indian people shall now be expressed.
+Iyer's National Government
+While Iyer may have been appointed by the Nizam to rule a non-partisan cabinet, with aid from the major parties of the Federation, the Nizam would be mistaken if he believes it will simply act as an extension of his rule. Soon the only person in the land who will truly have all the cards will be the Diwan, and neither the Nizam nor the Council will even realise what has happened.
+Extend the Temple Entry Proclamation
+Despite oppositions from some haughty elites who object to any level of progress, no matter the scale, the Temple Entry Proclamation by Varma is one of the most popular things any of the Council have done in years. With the Council fully on board with doing so, and the Nizam hardly in a position to object anymore, it should be extended to apply at a federal level, giving the government a much needed boost in popularity.
+Finalise Kongunadu Dam Projects
+Before the revolution many major hydroelectric projects were started in southern India, most notably the Krishna Raja Sagara dam along the Kaveri. The revolution and monetary issues that followed led to these projects being abandoned, yet now that we are in a much better position it would be trivial to finish them, providing irrigation to the region's farmers and a significant amount of power for the growing urban centres in Mysore.
+The Canal Campaign
+India is filled with bodies of water, ranging from the smallest mountain stream to the mighty Ganga, yet large sections of the country still suffer from droughts regardless. Such a problem can easily be tackled with a large series of public works, aimed at creating canals and irrigation networks all across the country, which should greatly aid the nation's farmers.
+Establish the FACT Plant
+Fertilisers and Chemicals Travancore, or as many involved in the planning have simply begun to call it, \
+Sponsoring Education Institutions
+Even with the revolution, many great universities have remained fully operational across the country, although with many lacking in needed funding to further expand, or even just fix the physical damage from years of fighting. Ramping up government funding for these institutions to address these shortcomings shall pay off significantly in the long run, with knowledge being one of the most powerful things we can possess.
+Cementing the Diwanship
+Iyer's appointment as Diwan over the Mahasabha's candidate can be described in many words, but \
+Reforming the Electorates
+The hastily thrown together electoral system in the Federation can hardly be described as perfect, with the Madrasi system it is inherited from maintaining many faults engineered by the British to benefit them and their backers. A great effort needs to be made to reform this system, guaranteeing that all those within the nation have their voices heard, without simply being stamped out by the loudest amongst them.
+Subverting the Council
+The idea of there being a Big Four is something rooted firmly in opposition to Osman, and with his tyranny now reeled further in, their veneer of unity can easily be shattered. With the right words, private conversations, and secret dealings, winning over enough Council members to get anything done shall be a simple task.
+Princely Patronage
+People rarely act against their own interests, even the most delusional of princes will often change their tune if things begin to work in their favour. With the application of enough grease, even the mighty Nizam can be made to do whatever one wishes, and as someone so familiar with each man on the Council Iyer is in a perfect position to exploit this weakness.
+Reshaping the Governorships
+As somewhat of a legacy of British rule, a useful legacy at least, the smaller princes of the Federation have found themselves often grouped together into administrative units to more easily handle their needs. These governorships are however still firmly modelled to suit the British administration, but with enough forethought they can easily be reshaped to work much more strongly in the Federal government's favour.
+The Sovereign Statesman
+While the Nizam and the Big Four both see themselves as having won out in their conflict against the other, the only man who can actually be considered the winner is none other than Iyer, an outcome engineered from the beginning. The Nizam may think he has a useful puppet, and the princes may think they still call the shots, but in the end the only sovereign of the Federation is their \
+The Spirit of Andhrodyamam
+The voice of the Indian people has at last been heard, and it has cried out for freedom and liberty. They have chosen the Mahasabha to carry out their will, and Diwan Rao will fight as hard as he can to do so.
+Elevate the Status of Madras
+Madras's lack of representation on the council, despite its great size and significance, is nothing short of a travesty. Calling in enough favours, and with the right words, the Council can hopefully be convinced to elevate Madras to full membership, at last correcting this injustice.
+Absorb Congress Remnants
+The Indian National Congress was not truly a socialist organisation, it was just swept up in the winds of revolution and misled by some of its most vocal members. There are still countless people who share their values of an independent and free India, a nation that can support itself rather than being reliant upon others, and those people shall be granted a new home as part of the Mahasabha.
+Linguistical Reorganisation
+While we may be all Indians, we cannot forget that we are still Telegus, Bengalis, Tamils, and so much more. The governorates and the nation's remaining federal states should reflect these internal divides, rather than paint over them like the British did, so that they may flourish as equal aspects of Indian culture rather than be suppressed with Hindi hegemony.
+Restrict the Vettichakiri
+The Vettichakiri system of forced labour is one of the most barbaric remnants of a bygone era left in the nation, and the doras who enforce it are no better than the worst criminals of the underworld. Its complete abolishment must be pursued as quickly as possible, even if compromises must be struck in the short term with its practitioners.
+Prioritise Rural Growth
+The rural parts of the nation are truly its heart and soul, for no one is more truly Indian than a humble farmer supporting himself and his family. These people are still however some of the most vulnerable in the nation, easily left behind while major urban areas move ahead with great advancements. We must ensure that this does not happen, and that our rural population benefit equally as much as those in the cities.
+Protecting the Rights of Dalits
+It is barbaric to consider that because of one's caste, they can not even walk along a road with other people or even wear shoes in the presence of their so called betters. We must introduce a wide range of protections for these Dalits, Adivasi, and all other depressed classes to fight against this discrimination.
+Subsidise Indian Business
+Even with prior government support, the businesses of the now united nation still trail behind their contemporaries across the globe. This cannot be allowed to happen, and further subsidies should be granted to ensure their eventual rise to the top of the world.
+Strengthen the Industrial Centres
+Even with damage sustained to them during multiple wars, the industrial centres of the nation like Ahmadabad still are our greatest shot at long term growth. Restoring them not only to their previous heights, but elevating them even further beyond, should be one of the highest priorities of the government.
+Fund Local Language Libraries
+Almost all those who speak English or Hindi cannot fathom the idea that they could walk into a library, and be unable to comprehend any book on the shelves. For millions across the nation, this has simply been a fact of life, and they have been pressed to learn these imposed languages instead. We shall tolerate this no longer, and help fund the creation of new libraries across the nation in local languages, so that everyone can be afforded the opportunity to read.
+Support the Navjeevan Mandali
+The Mahila Navjeevan Mandali has for years now been the women's wing of the Mahasabha, and it has helped bring about great improvements in the lives of many of the nation's women. Their efforts are highly commendable, and with the party now in charge of the government their key members should be granted a prominent role in positions aimed at uplifting Indian women.
+Controlling the Rivers
+The northern reaches of the Deccan are shielded from outside invaders not only by momentous mountains, but the mighty rivers that carve their way through the nation. Securing control of these rivers through frequent naval patrols is vital to ensure that our enemies cannot ford their way past them.
+Strikes from the Sky
+Building a proper navy is one of the most expensive ventures a state can embark on, a good ship can cost a state millions just to get it operational, not even including the constant operating costs. It is such a shame for these ship builders that a simple airplane, produced for a fraction of the cost, can completely scupper even the greatest battleship with a precise enough attack, and we will take advantage of this to level the playing field.
+Found the Federal Marine Force
+It seems almost guaranteed that an amphibious fighting force will one day be needed for the [PRF_GetCountryTitle], especially when considering the many islands in the Indian Ocean that fall under our sphere. We should get ahead of the curve, and order the formation of such a force at the earliest opportunity.
+Fund Mass Dockyard Expansions
+To say the infrastructure for building ships in India is pitiful would be giving things too much credit. There are few facilities in the entire [PRF_GetCountryTitle] able to produce anything resembling a warship, and fixing this must be a top priority if we wish to build a navy of our own.
+Conquest of the Beaches
+Landing on a coastline is a rather easy task with the right equipment, actually surviving the landing and then even taking advantage of it? That is the hard part. We must ensure that our men are properly trained, with the help of foreign advisors, so that we are not simply throwing them to their deaths the second they step onto the beach.
+Ambitious Navy Focus
+Critics be damned, even with our limited infrastructure we will build the grandest navy the world has ever seen! Soon no ship will depart anywhere in the Indian Ocean without the Federal Navy allowing it to do so, and anyone who thinks otherwise will be met with the full might of our fleet.
+Defend Our Waters
+Even if a large navy would be a great source of pride for the nation, we cannot spend millions just to feed our hubris, and have to think logically. The nation will be much better served with a small force that will prioritise the defence of our coastline, and secure our connections to the outside world against any hostile adversary.
+Restoring Facilities from the Reclaimed Lands
+With the rest of India now fully under our control, we now have a perfect opportunity to further expand our naval infrastructure. Many of the facilities in the reclaimed lands have been damaged by war, but are still filled to the brim with useful tools and equipment, which can easily be restored or repurposed, giving us a great head start on further production.
+Commission a Cruiser Fleet
+Cruisers sit in the happy middle ground for warships, being sizable vessels that put lowly destroyers to shame, yet nowhere near the cost of mainline battleships or carriers. Ordering the creation of a full fleet of these ships, using modern production techniques, will greatly benefit the Federal Navy.
+Divert Funding to the Navy
+While we may not have the budget to cover every expense, and fund a massive navy, who says that we must actually cover every expense? There are many things which receive Federal funding that can simply be cut back for a year or so, and these funds can instead be directed towards further battleship production.
+Regular Fleet Exercises
+Spending so much on a large navy is pointless if the men behind the helm do not even know the basics of operating their vessel. The fleet must be exercised as frequently as possible when not in use, to guarantee that our sailors know every inch of their ship, with punishments for anyone who falls behind our standards.
+Furthering Destroyer Technology
+Anyone in the modern era who knows how to build a ship could throw together a destroyer for you, and so almost every submarine has been designed with this in mind. If we wish to defend our convoys against this underwater threat, we will need much more modern and specialised vessels capable of handling them.
+Furthering Maritime Exports
+We cannot pretend that sea trade is not vital to the future of the nation, even if much of the population consider crossing the kala pani a taboo. Those who are willing to set out on sea voyages should be employed in our merchant marine, bringing in as many imports and exports as we can manage.
+Improving our Depth Charges
+A submarine may be vulnerable when it surfaces, but we cannot guarantee that we will always catch them when they do. Improving the strength of our depth charges, and increasing their sinking speed, should help ensure more destroyed submarines, and a safer world for our convoys.
+The Deccan Air School
+The Deccan Air School was established in Hyderabad to bring our airforce up to date in the short interwar years. We must continue to invest in our pilots least we be left behind.
+Found the Deccan Aeronautics Consortium
+We lack any sort of domestic aeronautics manufacturing. To compete with our northern rivals we must bring together business interests into a guided consortium to begin production.
+Foreign Air Instructors
+Though there are some foreign trained officers in [PRF_GetCountryTitle]'s air force, we will need more foreign instructors in the Deccan Air School if we are to train a whole generation of new pilots. It is time we look to Germany and Japan for expertise.
+Forward Air Bases
+In the inevitable clash over India's fate, it will be crucial that our airforce has bases close enough to strike the enemy.
+Assemble the Air Research Council
+It is not enough to bring the [PRF_GetCountryTitle]'s air force up to modern standards. To master the subcontinent we will need to assemble a council of experts to push our airforce into the future.
+Joint Officer Exercises
+Many of our officers insist the Airforce will play a curcial support role of our ground troops. We should run some joint Army-Airforce exercises to being to develop coorindation.
+Establish Air Defences
+We are not the only state in the subcontinent that is investing in an Airforce. To prapre for the unfortunate eventuality of bombing raids on our major cities we must develop air defence systems.
+Airborn Cannons
+To lay siege to the great cities of the north we will need new airborn cannons. Terrifying new bombs have already shown devastating effects.
+Flying Huzurat
+The elite Huzurat cavalry of the Maratha army once struck terror across the subcontinent. Our pilots shall reclaim their legacy.
+Princes of the Air
+As our airforce develops, many pilots have shown themselves to be a cut above the rest. Daring exploits, close shaves, these princes of the air have identified themselves as crucial to our war effort. We should encourage and invest in their elevation.
+The Deccan Aeronautics Consortium
+The Deccan Aeronautics Consortium is a collection of aeronautics concerns which have been assembled to facilitate the construction of the Federal airforce.
+Princes of the Air
+Through elite guidance [PRF.GetNameDef] has developed the educational, productive, and research capacities of the Federal airforce. The new Princes of the Air shall dominate the skies of the entire subcontinent.
+Our Own Sphere
+India has liberated itself from under the boot of both Britain and socialism, so why should it seek a new boot to crawl underneath? It is time to instead carve out our own alliance, one fit for a nation such as ours, so destined for greatness!
+Join the World Stage
+While we may have ambitions to lead a great sphere of our own one day, we must recognise the reality that isolating ourselves from the great powers of the rest of the world would be nothing but sabotage masked as bravado. Instead we should align with one of the great factions of the world that aided us in uniting the subcontinent, at least until we can strike out on our own in the distant future.
+Deal with Bhutan
+With our control over the India Subcontinent secure, it is time to look to our northern border. New great powers are rising in China, and we must secure our control over the Bhutanese kingdom as a buffer state in the Himalayas. They will act as the shield against Chinese incursions, whether they like it or not.
+Deal with Nepal
+Nepal expanded into the Indian lowlands in the chaos following the Weltkrieg. It is time to reassert our domain over those territories.
+Claim Ceylon
+By rights, Ceylon, the Maldives, and the other Indian Ocean islands are part of our nation's rightful territory. Their colonialism must come to an end.
+Incorporate Burma
+Now that the colonial and socialist threat has been crushed we can look beyond our current borders with the future in mind. While distinct from the rest of India in history and culture, Burma, too was under British rule, and lies within our natural sphere of influence. The time has come to incorporate it into our expanding realm.
+Claim Goa
+The enclave of Goa is nothing more than a burr on the side of our proud nation. It is rightfully our territory, and must be returned.
+Claim Pondicherry
+The enclave of Pondicherry is nothing more than a burr on the side of our proud nation. It is rightfully our territory, and must be returned.
+The Burmese Territories in Siam
+The Siamese Kingdom was one of the more opportunistic of the 'Vulture States' that exploited the disorder of the Raj's demise. With the young Burmese nation hard-pressed by the socialist uprisings in Assam and Bengal, the government of Siam simply occupied several districts and prefectures, including the city of Moulmein - mentioned in Kipling's famous poem. These lands must be returned!
+$HND_liberating_the_frontier_tracts$
+$HND_liberating_the_frontier_tracts_desc$
+$HND_restoring_the_unity_of_kashmir$
+$HND_restoring_the_unity_of_kashmir_desc$
+Control of the Council
+Council of Princes
+Power of the Nizam
+Disputed Dominance
+Partial Princely Control
+Significant Princely Control
+Complete Princely Dominance
+Partial Control by the Nizam
+Significant Control by the Nizam
+Complete Dominance by the Nizam
+When rebellion swept across India, it struck great fear into many of the nation's princes, who believed that the rebels would oust them as they had the British. Viewing the Raj as entirely shattered, they would declare their own independence as the \
+GFX_PRF_intro
+$RAJ_country_intro_header$
+$RAJ_country_intro_content$
+$RAJ_country_intro_header_1$
+$RAJ_country_intro_content_1$
+§MDeclare the Kaisar-i-Hind§! / §MFather of the Federation§! ($paternal_autocrat_coloured$)\n£white_dot Have the Balance of power be at §MPartial Control by the Nizam§!, §MSignificant Control by the Nizam§! or §MComplete Dominance of the Nizam§! by January of 1937.\n£white_dot After unifying India you will be able to declare the Federal Empire of India with Osman as Kaiser-i-Hind.\n\n§MFederal Elections§! ($authoritarian_democrat_coloured$ / $market_liberal_coloured$)\n£white_dot Have the Balance of power be at §MDisputed Dominance§! by January of 1937.\n£white_dot In the national elections, appoint Madapati Rao to have the §mAndhra Mahasabha§! take power or appoint Ramaswami Iyer to lead a §aNational Government§! and contain the radicals.\n\n§MReign of the Princes§! ($authoritarian_democrat_coloured$)\n£white_dot Have the Balance of power be at §MPartial Princely Control§!, §MSignificant Princely Control§! or §MComplete Princely Dominance§! by January of 1937.
+India
+Indian
+India
+Princely Federation
+Princely
+the Princely Federation
+Princely Federation
+Princely
+the Princely Federation
+Princely Federation
+Princely
+the Princely Federation
+Princely Federation
+Princely
+the Princely Federation
+Princely Federation
+Princely
+the Princely Federation
+Indian Federation
+the Indian Federation
+Indian Federation
+the Indian Federation
+India
+Indian
+India
+Indian Federation
+the Indian Federation
+Indian Federation
+the Indian Federation
+Indian Federation
+the Indian Federation
+Indian Federation
+the Indian Federation
+Indian Federation
+the Indian Federation
+Indian Federation
+the Indian Federation
+Indian Federation
+the Indian Federation
+Indian Federation
+the Indian Federation
+India
+Indian
+India
+Indian Empire
+the Federal Empire of India
+Indian Empire
+the Federal Empire of India
+Indian Empire
+the Federal Empire of India
+Indian Empire
+the Federal Empire of India
+Indian Empire
+the Federal Empire of India
+Indian Empire
+the Federal Empire of India
+Indian Empire
+the Federal Empire of India
+Princely India
+Princely
+Princely India
+Princely Federation
+the Princely Federation
+Princely Federation
+the Princely Federation
+Princely Federation
+the Princely Federation
+Princely Federation
+the Princely Federation
+Princely Federation
+the Princely Federation
+Princely Federation
+the Princely Federation
+Princely Federation
+the Princely Federation
+Princely India
+Princely
+Princely India
+Deccan Federation
+Deccan
+the Deccan Federation
+Deccan Federation
+Deccan
+the Deccan Federation
+Deccan Federation
+Deccan
+the Deccan Federation
+Deccan Federation
+Deccan
+the Deccan Federation
+Deccan Federation
+Deccan
+the Deccan Federation
+Deccan Federation
+Deccan
+the Deccan Federation
+Deccan Federation
+Deccan
+the Deccan Federation
+Empire
+Federation
+South Asian Association
+Osman Ali Khan I
+§YBorn:§! §LApril 6th, 1886, in Purani Haveli, Hyderabad, Hyderabad State, India§!\n§YBackground:§! §LOne of the richest men in the world and sometimes known by his regnal name Asaf Jah VII, Osman Ali Khan is one of the most powerful men in the entire Indian subcontinent. A polyglot in four different languages due to his prestigious childhood education, his and Ganga Singh's private tutor were one in the same, later enrolling in the same college as his counterpart while fated for a radically different future. He was coronated as Nizam on the 18th of September, inheriting Hyderabad's expansive diamond mines.\n\nWhile he greatly financially contributed to British efforts in the Weltkrieg, even earning the title \
+§YBorn:§! §LApril 6th, 1886, in Purani Haveli, Hyderabad, Hyderabad State, India§!\n§YBackground:§! §LOne of the richest men in the world and sometimes known by his regnal name Asaf Jah VII, Osman Ali Khan is one of the most powerful men in the entire Indian subcontinent. A polyglot in four different languages due to his prestigious childhood education, his and Ganga Singh's private tutor were one in the same, later enrolling in the same college as his counterpart while fated for a radically different future. He was coronated as Nizam on the 18th of September, inheriting Hyderabad's expansive diamond mines.\n\nWhile he greatly financially contributed to British efforts in the Weltkrieg, even earning the title \
+Emperor
+Nizam
+Council of Princes
+§YFounded:§! §L1925, in Hyderabad, Hyderabad State, Princely Federation§!
+Rajaram III of Kolhapur
+§YBorn:§! §LJuly 31st, 1897, in Lakshmi Vilas Palace, Kolhapur, Kolhapur State, India§!
+Krushna Chandra Gajapati
+§YBorn:§! §LApril 26th, 1892, in Paralakhemundi, Presidency of Fort St. George, British India§!
+Akbar Hydari
+§YBorn:§! §LNovember 8th, 1869, in Bombay, Presidency of Bombay, British India§!
+Mirza Muhammad Ismail
+§YBorn:§! §LOctober 24th, 1883, in Bangalore, Kingdom of Mysore, India§!
+Nawab Fazal Nawaz Jung Bahadur
+§YBorn:§! §L1894, in Hyderabad, Hyderabad State, India§!
+Chetput Pattabhiraman Ramaswami Iyer
+§YBorn:§! §LNovember 13th, 1879, in Wandiwash, Presidency of Fort St. George, British India§!
+Chintaman Dwarakanath Deshmukh
+§YBorn:§! §LJanuary 14th, 1896, in Nate, Presidency of Bombay, British India§!
+Umaid Singh
+§YBorn:§! §LJuly 8th, 1903, in Mehrangarh Fort, Jodhpur State, Rajputana Agency, India§!
+Harilal Jekisundas Kania
+§YBorn:§! §LNovember 3rd, 1890, in Navsari, Presidency of Bombay, British India§!
+T.G. Sanjeevi Pillai
+§YBorn:§! §L1898, in the Presidency of Fort St. George, British India§!
+Albion Rajkumar Banerjee
+§YBorn:§! §LOctober 10th, 1871, in Bristol, England§!
+Mokshagundam Visvesvaraya
+§YBorn:§! §LSeptember 15th, 1861, in Muddenahalli, Kingdom of Mysore, India§!
+Kishen Pershad
+§YBorn:§! §LJanuary 28th, 1864, in Hyderabad, Hyderabad State, India§!
+Khan Chhatari
+§YBorn:§! §LDecember 12th, 1888, in Chhatari, North-Western Provinces and Oudh, British India§!
+D.N. Mukerji
+§YBorn:§! §LFebruary 10th, 1903, in India§!
+Nathu Singh Rathore
+§YBorn:§! §LApril 22nd, 1900, in Gumanpura, Dungarpur State, Rajputana Agency, India§!
+Yashwantrao Martandrao Mukne
+§YBorn:§! §LDecember 11th, 1917, in Jawhar, Presidency of Bombay, British India§!
+Jagdish Chandra Varma
+§YBorn:§! §LJuly 3rd, 1918, in India§!
+Abdul Naeem Aziz
+§YBorn:§! §Lin India§!
+Syed Abbas Hussain
+§YBorn:§! §LFebruary 1st, 1912, in India§!
+Kaisar-i-Hind
+§ONational Diwan§!
+Council of Princes
+§Y[ROOT.GetLeader]§!
+Council Leader
+§Y[PRF_GetMaharajaOfMysoreShort]§!
+K. R. Wadiyar IV
+J. R. Wadiyar V
+§Y[PRF_GetMaharajaOfMysore]§!
+Maharaja of\nMysore
+§Y[PRF_GetMadrasNameShort]§!
+P. Subbarayan
+§Y$MDR_paramasiva_subbarayan$§!
+[PRF_GetMadrasStatus]
+Representative of\nMadras
+Madras\n(Observer)
+§Y[PRF_GetMaharajaOfBarodaShort]§!
+S. Gaekwad III
+P. S. R. Gaekwad
+§Y[PRF_GetMaharajaOfBaroda]§!
+[PRF_GetMaharajaOfBarodaTitle]
+Maharaja of\nBaroda
+Maharaja of\nMaharashtra
+§Y[PRF_GetMaharajaOfKashmir]§!
+§Y[PRF_GetMaharajaOfKashmir]§!
+[PRF_GetMaharajaOfKashmirTrait]
+Maharaja of\nKashmir
+§YC. T. B. Varma§!
+§Y$TRV_chithira_thirunal_balarama_varma$§!
+Maharaja of\nTravancore
+§Y[PRF_GetMaharajaOfKolhapurShort]§!
+Rajaram III
+Shahaji II
+§Y[PRF_GetMaharajaOfKolhapur]§!
+Maharaja of\nKolhapur
+§Y[PRF_GetMaharajaOfGwalior]§!
+§Y[PRF_GetMaharajaOfGwalior]§!
+Jiwajirao Scindia
+[PRF_GetMaharajaOfGwaliorTrait]
+Maharaja of\nGwalior

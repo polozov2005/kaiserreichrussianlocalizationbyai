@@ -1,0 +1,569 @@
+Venice Focus Tree
+Venice
+Venetian
+the Serene Republic of Venice
+Italia Unita
+Italia Unita
+USV
+Unione Sindacale Veneta
+PSR
+Partito Socialista Riformista
+PPV
+Partito Popolare Veneto
+PLC
+Partito Liberałe Cristian
+PRV
+Partito Repubblicano Veneto
+LC
+Lega Catòłega
+Consejo Ducałe
+Consejo Ducałe
+Maggior Consiglio
+Maggior Consiglio
+LIV
+Lega Integralisti Veneti
+Italy
+Italian
+Italy
+Serene Republic of Italy
+the Serene Republic of Italy
+Serene Republic of Italy
+the Serene Republic of Italy
+Serene Republic of Italy
+the Serene Republic of Italy
+Serene Republic of Italy
+the Serene Republic of Italy
+Serene Republic of Italy
+the Serene Republic of Italy
+Serene Republic of Italy
+the Serene Republic of Italy
+Italian National Republic
+the Italian National Republic
+The oligarchic republic of old has been restored
+A liberal republic has been established
+Foreign countries might intervene against the Italian National Republic.
+We will be §Yunable to preserve the independence of Venice§! once the ANI is defeated.
+The new Doge will be selected after two weeks of complicated voting\n
+May use irredentist decisions for states along the Adriatic coast\n
+Replace §Y$VNC_state_inquistors$§!, §Y$VNC_nobility_idea$§! and §Y$VNC_culture_idea$§! with §Y$VNC_old_republic_idea$§!\nEffective net change:\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: §G+10%§!\n$MODIFIER_POLITICAL_POWER_FACTOR$: §G+5%§!\n$MODIFIER_ARMY_ORG_FACTOR$: §G+5%§!
+Replace §Y$VNC_meritocracy_idea$§!, §Y$VNC_together_idea$§! and §Y$VNC_venetian_welfare_idea$§! with §Y$VNC_new_republic_idea$§!\nEffective net change:\n$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+5%§!\n$MODIFIER_STABILITY_FACTOR$: §G+10%§!\n$MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY_FACTOR$: §G+5%§!\n$MODIFIER_CONSUMER_GOODS_FACTOR$: §Y-5%§!
+Join the [From.GetFactionName]
+We must send an envoy to [From.GetNameDef] and ask about joining the [From.GetFactionName]. It is the best option we have for protection and fulfilling our national interests.
+Attack the Austrians
+Not only do the Austrians cling to the Italian city of Trieste, they also hold territories along the Dalmatian coast that are rightfully Venetian. It is time to reclaim our territory.
+Italy has been united under the banner of the Serene Republic! We must work on reintegrating and rebuilding our nation.
+Invite [From.GetNameDef] into the [VNC_GetInviteDecisionName]
+With the threat of the socialist republic now eliminated, perhaps now is the time to heal the rifts caused by the civil war. Since we are in a clearly dominant position on the Italian peninsula, it falls to us to lead the way.
+Serene Republic
+Federation
+Looming Intervention
+Our rebellion against the Italian Government has exposed its weakness to the entire world. If we last long enough against the ANI, our neighbours are sure to step in and interfere against them.
+Rebellion against Tyranny
+The ANI is facing significant internal pressure after the suspension of elections and our subsequent revolution. If they fail to bring a decisive victory and the war drags on, they will be unable to cope with riots and mutinies among the civilian and military population and will likely collapse.
+Venetian Welfare
+Together as One
+Meritocratic Principles
+A Democratic Future for the Queen of the Adriatic
+Inquisitors of the Old Republic
+Cultural Renewal
+Restored Nobility
+The Lion of Saint Mark Spreads its Wings Once More
+Venetian Business Schools
+Economic Miracle
+Merchant Marine
+Forsa Aerea Veneta
+Planning Schools
+Combined Arms
+Aviation Industry
+Wiel's Policy
+Thalassocracy
+Bounty of the Sea
+Military Confusion
+Defender of Democracy
+Austrian Aid
+Desperate Defence
+Defeatist Sentiment
+Convene the Great Council
+Now that we have secured our independence, we must convene the Great Council for the first time in over 100 years to decide the political future of our country.
+A New Future for Venice
+Although the Venetian Republic of old worked while it lasted, the liberal victory in the Great Council has shown that the people wish to move forward. We must begin work on creating a modern, liberal republic for the people of Venice.
+Together As One
+We must strive to create not only a belief in democracy and Venetian culture, but a belief that Venice must work together as a single unit and as a single mind. We must all dedicate ourselves to the purpose of advancement if we are to survive and thrive
+Institute a Meritocracy
+The time of political positions being chosen by lottery or by having noble blood is long since over. Any man or woman who is successful and capable should have the right to enter the halls of power.
+Pass the Universal Enfranchisement Act
+Women were fully excluded from the political process in the Old Republic- a mistake we will not make again. Women are just as capable of selecting our ruler as men, and as such shall be granted full suffrage.
+Apertura del Mazor Consegio
+The Great Council in the days of yore was a hall of wealth, power and above all privilege. With the Serrata del Maggior Consiglio or closing of the Great Council, it locked it off to many Venetians. In our efforts to liberalise and democratise the Republic we should reopen the Great Council.
+Create the Venetian Welfare State
+Caring for the people has long been part of Venice's history, dating back to the 15th century when the Magistrato alla Sanità was established to help manage public health. We should work to revive these institutions and modernise them so that the new republic will take care of the people.
+A New Future for the Queen of the Adriatic
+We have succeeded with Apertura and successfully transformed the Queen of the Adriatic into a shining example of modern democracy.
+The Old Order Restored
+During its heyday the Republic of Venice was one of the wealthiest nations in Europe and a leading power in the Mediterranean, in no small part thanks to its system of government centred around the Doge. The conservative victory in the Grand Council proves that the people want a return to this power and wealth, and who are we to say no to the people?
+Reinstate the Course of Honours System
+The old republic relied on a course of honours system where politicians were required to spend time in different councils, helping to strengthen the statesmen and better hone their skills of statecraft. By bringing this sysem back we can ensure our politicians are well-rounded and qualified individuals.
+Create the State Inquisitor Tribunal
+In the days of yore we had the State Inquisitors to help make sure that the republic was safe from internal threats. Working hand in hand with the Council of Ten they made sure that the Republic of Venice was safe from spies and saboteurs. Now more than ever this system is needed, as we are surrounded on all sides by enemies and more powerful states.
+Invite Exiled Nobles
+Many of the noble families that once made up the ruling class of Venice had their titles stripped by the Republicans or fled Italy during the civil war. By inviting them back and reinstating their titles, we can increase our legitimacy as a continuation of the Republic of Venice and open ourselves up for their investments.
+Encourage a Mercantile Elite
+Money, Power and Politics were all one during the medieval era of our heyday. In contrast to the rest of Europe which had a feudal nobility, we had a mercantile nobility. We should make sure to promote that spirit of business again.
+The Lion of St. Mark Flies Once More
+We have properly succeeded in restoring the Republic of Venice. La Serenìssima prospers like never before, and once again we shall take our place as the rightful rulers of the Mediterranean.
+Venice's Place in the World
+With the Council at an end, and our future decided, we should now look abroad. There is much opportunity for both expanding the Republic and intervening in the wider struggles of Europe.
+Reestablish the Stato da Mar
+During the days of the Old Republic, the whole eastern Mediterranean was under our dominion. The coasts of the Adriatic were home to our ports and dockyards; this was our Stato Da Mar. While that may no longer be the case, the Great Council has approved of a plan establishing a policy of how we should reclaim our rightful territories and reestablish our rule over the coasts and islands of the Mediterranean.
+Begin Risorgimento
+The time has come. Italy, this wonderful land of abundance, shall again be united. Viva l'Italia!
+Naval Exercises
+As a display of power and to promote naval morale, we should organise a series of naval exercises in the Adriatic Sea. Let our nation's enemies tremble.
+Military Exercises
+As a display of power and to promote the morale of our army, we should organise a series of near-combat training exercises near the Po River. Let our nation's enemies tremble.
+Italy is United
+It is done, Italy, beautiful Italy, is whole again. In the hearts of all patriots, this moment shall forever be remembered.
+Recruit Sicilian Generals
+The Sicilian officer corps, however detestable its former King may have been, undoubtedly has many competent generals. Should these generals be allowed to serve Italy?
+Recruit Sardinian Generals
+Many good men fought and died for Sardinia. Now, with the wounds of war beginning to heal, the fate of Sardinia's generals must be decided.
+Italian Irredentism Policy
+With Italy united and some of the most pressing issues of domestic policy resolved, we can look outwards, especially at those lands which, by right, should be Italian.
+A Stable Italy
+Our politics have been unstable since the civil war ended, but now, with an Italian Republic ruling over all Italy, we can finally end the instability that has been plaguing us for years.
+A Modern Consoli dei Mercanti
+The old republic employed a unique judiciary of seasoned merchants to solve trade disputes. While such a system would be antiquated today, a council of merchants could still provide valuable advice for trade and commerce.
+Kickstart Venetian Industry
+Although our Republic was known for its merchants and traders, it still had a flourishing glass and textile industry. We must begin to develop a more modern industrial base if we wish to live up to our past.
+Establish Inland Railway Links
+Although the city of Venice is without a doubt the heart of our country, the towns and cities in the interior are important economically and militarily as well, and we should improve the railways leading to and from them.
+Bounty of the Sea
+The Adriatic is the very soul of the Venetian people, and our history reflects this. By expanding our shipbuilding industries and utilising the natural resources of the Adriatic, we can once again become the trading hub of the Mediterranean.
+A Modern Venetian Arsenal
+The old Venetian arsenal was one of the largest industrial enterprises of its time. With state support for its expansion modernisation, it can take this place again.
+Expand Murano Glass Production
+The fine glass produced on the island of Murano is one of our largest exports, and represents a valuable opportunity for growth. By expanding production of the glass, we can start to recover the wealth and prosperity we once had.
+Cultural Renewal
+While overshadowed in popular memory by the greats of Florence and Milan, Venice was the birthplace of a good many men of note. Just as Tintoretto's brush illuminated the world, let us whet the people's nascent appetite for finer things.
+Specialised Research Academies
+While our education system is fairly modern, we shall never possess the same capacity for research as larger powers without investment. Specialised research academies, universities focused on specific subjects as directed by the state should be established to accomplish that.
+Venetian Radio
+Radio has become an important technology for both military and civilian use. We must ensure we have a strong grasp on this technology if we wish for our people to be entertained and our military to be informed.
+Open Modern Business Schools
+Our nation's commercial acumen will decline as the fervour of independence fades. To compensate, a new system of vocational schools focused on general business literacy should be opened.
+Commercial Research Academies
+Both the specialised research academies and system of business schools have seen success in educating our people and expanding our research capabilities. By merging the two systems we can develop the most innovative strategies in commerce and business and ensure we are present for all future developments.
+Synthetics Research
+Our nation lacks the oil it needs to sustain itself. Luckily, technology can provide the answer. It is now possible to convert other carbon compounds into usable liquid fuel. The industry just needs a bit of state support to get on its feet.
+The Venetian Economic Miracle
+Prosperity is slowly returning to the land. The days of great merchant ships packing the harbour will soon return, and with them the return of Venice's rightful place as one of the great powers of Europe.
+Modernise the Navy
+For centuries the Venetian Navy was the pride of our armed forces. However, times have changed and we are now struggling to even defend our coasts. We must begin a programme of naval modernisation if we wish to change this
+Expand the Dockyards
+The Venetian Arsenal worked hundreds of years ago, but is no longer the peak of military engineering it once was. We must build larger, modern dockyards if we want our navy to be a powerful force once more.
+Build Coastal Fortifications
+Until we complete the modernisation programmes, our navy will not be able to repel enemy invasions. We must build a series of fortifications along our shores to compensate for this.
+Modern Naval Doctrines
+Naval strategies have changed in the centuries since the height of our power, and we ensure our naval commanders are trained in the latest in naval military theory.
+Sottomarini
+Submarines were crucial to German victory in the Weltkrieg. Clearly any modern military must have them if they wish to have supremacy both over and under the waves.
+Distrutori
+We must also defend against enemy submarines. Developing new destroyers is the most effective way to accomplish this.
+Incrociatori da Bataja
+In order to support our fleet, large battlecruisers are needed. Producing these will be expensive, but it will surely be worth it.
+Corazzate
+While we lack the ability to produce dreadnoughts in sufficient number, smaller battleships are more than sufficient to repel any foe, and can easily be produced en masse.
+Life at Sea
+The sea and Venetians go hand-in-hand. We have lived on the sea for centuries, and as such our merchant marine is both large and capable.
+Fanti da Mar
+The Fanti da Mar were perhaps the first dedicated amphibious force. Let us build a new modern marine corps under their name to honour our heritage and bolster our armed forces.
+Proclaim Thalassocracy
+Venetian power has always been projected by the sea. While times have changed, our nation's place has not. With our naval reforms complete, we can once again assert our naval dominance. Our fleets shall be feared and revered for centuries to come!
+Upgrade the Army Air Arm
+Ensuring our army is backed by a capable air force is vital for modern warfare. We must begin to produce fighters to ensure air superiority.
+Upgrade the Naval Air Arm
+It is clear that carriers are the future of capital ships, and no carrier is complete without a squadron of naval bombers.
+Forsa Aerea
+The new air corps must focus on quality over quantity and have the leeway to operate without express permisson from the army or navy.
+Venetian  Aviation Industry
+Our region produced a disproportionate number of aircraft for the old Italy. With sufficient funding, we can capitalise on that experience to augment production.
+Offensive Priority
+Our small nation must strike quickly and decisively in order to remain afloat. The air force must be able to operate effectively far from home and without communications.
+Construct Long-Ranged Bombers
+We must have modern strategic bombers capable of destroying an enemy's industrial base.
+Defend La Serenissima
+Bombers threaten to destroy our homes and industry without any real fight. Our fighters must in turn have the capacity to intercept even the most advanced foreign designs.
+Support the Troops
+While some would like to forget the importance of close air support in pursuit of more independent air force command structures, we cannot afford to reject reality. Our aircraft must not work alone, but always in tandem with the men on the ground.
+Build Airports
+By integrating existing air infrastructure with future developments in the aviation industry, production shall be substantially more efficient and space freed in the cities.
+Esercito Veneto
+If we stay too reliant on our navy, our country will quickly be overwhelmed by foreign powers. The army must be expanded upon and brought into the modern age if we wish to survive
+Superior Firepower
+While we will never have the manpower to fight a prolonged conflict, our nation's industry can become the lynchpin of our national defence. By producing large numbers of high-quality heavy armaments to be used effectively in the field, our soldiers can inflict casualties disproportionate to their numbers.
+Produce Modern Small Arms
+As part of our focus on a small but professional army, we must make sure our soldiers have the newest in small arm technology to always have the edge over their opponents.
+Canóni of the Modern Age
+Artillery was key to German victory in the Weltkrieg. We must emulate their tactics and improve our own artillery if we wish to have similar success.
+Grand Battleplan
+Although focusing on the highest-quality equipment available may be effective, it is far too costly and our fledgling economy cannot possibly support it. We must instead focus on training our officers and commanders to have the sharpest strategic minds possible, with innovative strategies ensuring a tactical advantage over any foe.
+Experiment with Motorisation
+Infantry must be both motorised and sufficiently protected. Our plans must not only be implemented quickly, but remain intact beyond contact with the enemy.
+Expanded Support Brigades
+Non-standard support equipment allows divisions to fight more effectively and stay in the fight for longer. We must begin research on support companies and equipment to reach this goal.
+Combined Arms
+With the greatest land, air, and sea technologies all working in tandem, the Lion of Saint Marc shall truly roar again.
+Grant Officer Autonomy
+Sub-divisional commanders must have increased autonomy to interpret plans and implement them as they see fit.
+Planning Schools
+The drawing of maps and lines of battle is itself a science. Accordingly, specialised academies should be established for our officers.
+The Last Stand of Liberty
+The rescinding of state autonomies and the suspension of elections by the ANI was a flagrant violation of justice. It falls onto us to take arms against this tyranny and to stand for all that is good in the world. War with the Ultranationalists is coming and we must prepare by using all available stockpiles to arm anybody willing to fight.
+Unite the Rebel Forces
+The impromptu nature of our rebellion and the raising of militia forces has meant that our high command is facing difficulties with organising the armed forces. Confusion over orders within the military is common and must be remedied as soon as possible.
+Raise Partisan Units
+After the liberation of Friuli, many eager volunteers, who were unable to join the rebellion amongst the initial confusion in the rebellion, have petitioned to fight alongside our military against the tyrants in Milan. We must act upon this opportunity and recruit these men.
+Rally Sympathetic Defectors
+With the ANI facing increasing losses against Venetian forces, they are facing growing opposition both among the civilian population and the armed forces. What was promised to be a swift war has now turned into a quagmire while the prospect of foreign intervention is becoming more of a reality. We can capitalise on this opposition by appealing to disaffected soldiers to defect and help overthrow the tyrant Ciano.
+Promote Army Coordination
+Although our efforts to unify our rag-tag forces into a proper army have been bearing some success, the military is still facing issues of cohesion. Further effort must be undertaken if we are to defeat the ANI.
+Resist the Nationalist Offensive
+We are on the edge of defeat, which will surely spell for the rest of Italy. Propaganda will have to be spread among our soldiers to remind them of why they fight. Unfortunately we will have to resort to desperate measures to ensure our survival.
+Utilise Austrian Ties
+Our rebellion has been welcomed with open arms by the Austrians, since Ciano represents a threat to their interests. They are willing to send covert aid to assist us, which we can't refuse.
+Import Foreign Arms
+Our army requires more supplies if we are to stand a chance against the National Republic. Fortunately for us, the Austrian are willing to lend their old stockpiles for a cheap price.
+The Final Push
+Victory after victory has been accomplished on the battlefield and the defeat of Ciano and his ilk is all but assured. Morale among the military is at an all time high while the ANI is facing mass desertions.
+Spread Anti-War Propaganda
+As this war pits brother against brother, calls for peace have grown louder. The failure of the ANI to produce a swift victory is causing major morale issues which we can exploit. With the assistance of Austria, we can smuggle propaganda calling for the overthrowal of Ciano. With many already questioning the ability of the ANI to win the war with thousands already dead and a common sentiment that Ciano has left Italy vulnerable to the socialists, this is sure to be effective.
+§MCatholic League / Republicans / Christian Liberals, People's Party§! ($social_conservative_coloured$ / $market_liberal_coloured$ / $social_liberal_coloured$ / $social_democrat_coloured$)\n£white_dot After completing the focus \
+Umberto Merlin
+§YBorn:§! §LFebruary 17th, 1885, in Rovigo, Kingdom of Italy§!
+Giuseppe Volpi
+§YBorn:§! §LNovember 19th, 1877, in Venice, Kingdom of Italy§!
+Giovanni Ponti
+§YBorn:§! §LJanuary 19th, 1896, in Venice, Kingdom of Italy§!
+Giovanni Battista Gianquinto
+§YBorn:§! §LFebruary 12th, 1905, in Trapani, Kingdom of Italy§!
+Mario Balotta
+§YBorn:§! §LSeptember 7th, 1886, in Rome, Kingdom of Italy§!
+Ermacora Zuliani
+§YBorn:§! §LOctober 25th, 1897, in Magnano in Riviera, Udine, Kingdom of Italy§!
+Antonio Scaramuzza
+§YBorn:§! §LJanuary 7th, 1902, in Venice, Kingdom of Italy§!
+Michele Vaccaro
+§YBorn:§! §LDecember 21st, 1887, in Girgenti, Kingdom of Italy§!
+Upper Volta
+Voltan
+Upper Volta
+Union of the Volta
+the Union of the Volta
+Union of the Volta
+the Union of the Volta
+Union of the Volta
+the Union of the Volta
+Union of the Volta
+the Union of the Volta
+Christophe Kalenzaga
+§YBorn:§! §L1910, in Oualaga, Colony of Upper Volta, French West Africa§!
+Henri Guissou
+§YBorn:§! §LNovember 10th, 1910, in Koudougou, Colony of Upper Volta, French West Africa§!
+Joseph Ouédraogo
+§YBorn:§! §LJanuary 11th, 1919, in Saaba, Colony of Upper Volta, French West Africa§!
+Nazi Boni
+§YBorn:§! §LDecember 31st, 1909, in Bouan, Colony of Upper Volta, French West Africa§!
+Antoine Augustin Dim Delobsom
+§YBorn:§! §L1897, in Sao, Colony of Upper Volta, French West Africa§!
+Phillippe Zinda Kabore
+§YBorn:§! §LNovember 18th, 1920, in Koudougou, Colony of Upper Volta, French West Africa§!
+Mogho Naaba Kom II
+§YBorn:§! §L1889, in the Colony of Upper Volta, French West Africa§!
+Robert Louis Delavignette
+§YBorn:§! §LMarch 29th, 1897, in Sainte-Colombe-sur-Seine, Côte-d'Or, French Republic§!
+Aboubakar Sangoulé Lamizana
+§YBorn:§! §LJanuary 31st, 1916, in Dianra, Colony of Upper Volta, French West Africa§!
+Joseph Issoufou Conombo
+§YBorn:§! §LFebruary 9th, 1917, in Tampinko, Colony of Upper Volta, French West Africa§!
+Sambo Joseph Sankara
+§YBorn:§! §L1919, in the Colony of Upper Volta, French West Africa§!
+CGT
+Confédération Générale des Travailleurs
+UNTHV
+Union Nationale des Travailleurs de Haute-Volta
+CATC
+Confédération Africaine des Travailleurs Croyants
+CATC
+Confédération Africaine des Travailleurs Croyants
+PNL
+Parti National pour la Liberté
+Francs-Maçons
+Francs-Maçons
+EV
+Entente Voltaïque
+Traditional Chiefs
+Traditional Chiefs
+Colonial Authorities
+Colonial Authorities
+MNV
+Mouvement Nana-Vo
+Wallonia Focus Tree
+Wallonia
+Walloon
+Wallonia
+Walloon Communal Republic
+the Walloon Communal Republic
+Walloon Communal Republic
+the Walloon Communal Republic
+Walloon Communal Republic
+the Walloon Communal Republic
+PTW
+Parti Totalitaire de Wallonie
+POB
+Parti Ouvrier Belge
+POB
+Parti Ouvrier Belge
+POB
+Parti Ouvrier Belge
+PLP
+Parti Libéral Progressiste
+PL
+Parti Libéral
+DC
+Démocrates Chrétiens
+Interim Government
+REX
+Parti Rexiste
+REX
+Parti Rexiste
+Royalists
+Supporters of the King
+UNW
+Union National Wallon
+Memories of the Revolution
+Loss of Faith in the Monarchy
+Royal Power Damaged
+Consolidated Power
+Royal Councillor
+Royal Constitution
+Royal Legion
+Lack of Majority
+Catholics Invited
+Socialists Invited
+POB-PL Coalition
+DC-PL Coalition
+Republican Constitution
+Le Chant des Wallons
+Weak Grasp
+Consolidated Power
+Rexist Corporatism
+Military Propaganda
+Liberal Dissent
+POB [BEL_HOS]
+Syndicalist Chairman
+Seized Basic Industry
+National Mining Company
+Expanded State Education
+Catholic Education Banned
+POB Control Established
+Syndicalist Control Established
+Resistance to Totalism
+First POB Congress
+Dismantled Army
+Royal Assets Seized
+Economic Depression
+Walloon Industrial Expansion
+Economic Direction
+Economic Revitalisation
+Solvay Research Institute
+Mining Improvements
+German Investments
+Frontaliers
+Increased German Export
+Congolese Profits
+Army in Tatters
+Returned Discipline
+Bilingual Staff
+German Staff
+Half Track Innovation
+Walloon Merchant Marine
+Established Centre of Trade
+§MMonarchy§! ($authoritarian_democrat_coloured$ / $market_liberal_coloured$ / $social_democrat_coloured$)\n£white_dot To go absolute monarchy: send armed forces to deal with the trouble at Seraing.\n£white_dot To go constitutional monarchy: listen to the reds' demands at the trouble at Seraing.\n£white_dot Give in to syndicalist demands when the negotiations with them begin.\n£white_dot Complete the focus \
+Preserve the Monarchy
+The Flemish may have kicked us out but the rule of Adelbert shall continue in the south.
+Consolidate Royal Power
+Once again it has been proven that only through harsh actions the population can be kept under control.
+Form Royal Guard
+We can't keep depending on the Feldgendarmerie, we need a strong and loyal royal guard.
+Strengthen German Ties
+Good relations with Berlin are vital for our reign as without them all may collapse once more.
+Appoint a Royal Councillor
+The Royal Councillor is our direct link to Parliament which he observes and intervenes in on our behalf. While [GetSecondInCommand] has served us well in the past few years, the recent uprisings may have caused the end of his career.
+Adapt the Constitution
+The political systems of our nation have changed drastically and a revision of the old Flanders-Walloon constitution is in order.
+Give Up Our Belgian Claims
+We should no longer strive for the conquest of Flanders. We are stronger on our own and can better focus on the needs of the Walloon people without them.
+Strengthen Control
+After victory in the election and the use of coalitions to manoeuvre ourselves into an ideal position, we can finally focus on strengthening our control over the total picture.
+Le Chant des Wallons
+Nationalism has been reinforced, the nation strengthened and new opportunities appear at every corner. Guided by our national anthem and the will of our people will we march towards the horizon!
+Reaffirm Belgian Claims
+The Flemish may have gotten the best of us during their revolution but the lion has been licking its wounds under the guise of a rooster. Soon we shall strike and take back our rightful land.
+War Games on the Flemish Border
+The Flemish invasion is imminent and close observation and training along the border may provide us with the edge we need.
+Lobby Abroad
+After their independence they were able to escape our wrath under the wing of Germany. We need to prove to Wilhelm that we are capable of holding the region and that splitting it up is detrimental to his greater vision.
+Send the Ultimatum
+The time for war has come. Flanders will bow beneath the rooster and will rejoin our union.
+Reform into a Republic
+The monarchy has proven to be a failure and has been replaced by the Walloon Republic
+Hold Elections
+With tensions high between the POB, PL and German royalists, elections have to be held as soon as possible to bring stability back to our nation.
+Invite the Catholics
+To secure a total majority in Parliament and consolidate our power base, we'll need the support from the Catholics in the south.
+Invite the Socialists
+We have to extend the olive branch to our friends in the POB to guide the way towards a stable and prosperous society.
+Form a Government
+The first round of negotiations has proven successful and it's now time to finalise the formation and announce the new Walloon government.
+Syndicalist Revolution
+The syndicalist revolution has arrived and is sweeping through the industrial centres of the Sillon Industriel. A steady hand will be necessary to avoid bloodshed and violence.
+Peaceful Transition
+The only way to truly win over the heart of the working class is by fair and democratic elections. Through a solid parliamentary powerbase, we'll start reforming and shaping Wallonia into our socialist ideal.
+A POB [BEL_HOS]
+Fernand Dehousse has led the party through the elections and should be the undisputed leader of the party. As the first Walloon [BEL_HOS], he will guide Wallonia towards the future.
+A Syndicalist Chairman
+Fernand Dehousse has grown soft and has abandoned all what the Syndicalist revolution stood for. He will need to be replaced by a true syndicalist so the revolution can continue.
+Nationalise the Basic Industry
+The Steel and Coal industry is our most important industrial branch but is nearly entirely controlled by Walloon and German capitalists. If we were to take control over these important sectors we can secure that workers are placed above profits.
+Found the National Mining Company
+To avoid an industrial collapse on the scale of Black Monday, we need to create a state-owned mining company to control and subsidise our own coal mines to secure the jobs of our people.
+Expand State Education
+To reduce the influence of the Catholics, we need to prove that state education can be just as good or even better.
+Abolish Catholic Education
+Through their vast education system, the Catholics control the mind and spirit of our youth. Church and Education should be completely separated and the latter be made solely state controlled.
+Introduce Women's Suffrage
+Some of our voters are starting to doubt whether the POB will stay on the revolutionary path or is starting to drift off into a status quo complacency. Therefore the leader of the Party has announced that he will press for voting rights for all citizens : men and women.
+The POB Retains Control
+With most large scale reforms passed, the popularity of the POB is reaching new heights prompting a stronger position for the coming elections.
+Disband the Parliamentary System
+It has become clear that a Syndicalist Revolution is the only way forward for Wallonia and therefore the POB has pushed for the complete abolition of the parliamentary structure, with it to be replaced with a syndicalist system based on our French neighbour.
+Declare the Walloon Commune
+The time has come for the workers to rise up and break the chains. The Walloon Commune will be declared ushering in a new era!
+Join the Internationale
+With ties between Wallonia and Germany completely collapsing, we need the support of our brethren in France to secure the continuation of the revolution.
+Revolution By Force
+It's clear that the workers need to be shaken out of their oppression and united by a strong leader.
+Seize Royal Assets
+The Royal Treasure has steadily been filled with the gains of our sweat. It is only right that those assets are returned to the working man at once.
+Combat Military Disorder
+With large disagreements erupting in the army between the German royalists and democratic supporters, we need a large scale cleanup of these resisting elements to restore order.
+Fight the Establishment
+The ruling class has been growing rich on the back of our work and will now have to pay for their treason.
+Defeat Loyalist Remnants
+Funded by Walloon and German capitalists, resisting cells of the former army have dug themselves in across the nation to resist to the last man against the Revolution.
+Seize German Companies
+The German companies have infested the Sillon Industriel and abused our population to finance the German Empire. No more!
+Unite the POB
+The POB is still divided due to moderate elements in the party. These will have to be eliminated or 'persuaded' to join our cause.
+Hold the First Party Congress
+The Revolution is in full sway and to announce their plans for the coming years, the POB leadership has announced the First Party Congress. Experts and important figures from the Commune of France, the Union of Britain and Italy have all been invited.
+The Government Has Failed
+The pathetic excuse of a government has finally been overthrown and has been replaced by a strong and centralised government surrounding Degrelle.
+Control Parliament
+The power of the parliament should be severely cut back as its constant meddling with government affairs has proven detrimental to our stability.
+Replace Our Ambassador to Germany
+To further outline our change in policy, the ambassador to Germany will be recalled and replaced by a close friend of Degrelle.
+The Revolution Has Failed
+The syndicalist revolution was a disgraceful ruse to trick the population in becoming slaves of the evil POB leadership. They should be happy that we are 'liberating' them from their own ambitions.
+Imprison Syndicalist Leadership
+We can't have syndicalist preachers rallying the populace of the sillon industriel. Therefore all leading members of the syndicalist resistance are to be tracked down and 'taken care' of.
+Introduce Corporatism
+It has become clear that traditional capitalism is a failure which should be replaced by a better economic model.
+Military Propaganda
+A weak army led to our defeat in the Weltkrieg. No more! With rejuvenated enthusiasm and a widespread propaganda campaign, our army will be the pride of the low countries.
+Demand our Rightful Land
+We won't settle for the humiliation imposed on us by the Germans and Flemish. All of Belgium belongs to Degrelle!
+Walloon Expansion
+The lands of Wallonia abound with unharnessed potential. Let the land finally be put to work for those who labour on them. We should develop the basis of a new economic plan under which our economy can stand upon its own two feet.
+The Sillon Industriel
+The Sillon Industriel is the industrial heartland of Wallonia, its output unparalleled. However, the region saw a number of strikes under the Flandro-Walloon administration which disrupted production and destabilised the nation. It is pertinant therefore that we placate the people and industrial centres of the region with even more pronounced state support.
+Direction of the Industry
+Wallonia was the beating heart of Belgian industry. It cannot be denied that the fate of the forges and factories are intimately linked with that of the entire nation. Our industrial apparatus must be comprehensively assessed in order to facilitate its expansion.
+Double Down on Heavy Industry
+While our economy has evolved with the times, heavy industry has remained its foundation. We should further industrialise our nation, offering generous incentives for the development of new industrial zones in the nation's middling cities.
+Redefine Walloon Expertise
+Wallonia has long been one of Europe's foremost industrial regions, and our people possess skills relevant to such an economy. The winds of change blow strongly however, and we must adapt. To begin with, we should offer increased funding to the cutting-edge Solvay Research Institute.
+Future Resource Extraction
+The natural wealth of Wallonia was critical to its industrialisation. New extraction methods allow both long-exploited resources and those whose economic relevancy is yet emerging to be more effectively extracted. We must keep our ear to the ground and offer support to industries dealing with resource extraction for experimental ventures.
+Breakthrough in Engineering
+New methods of building construction and optimisation allow industry to be more productive while consuming fewer resources. We should sponsor the redevelopment of older industrial facilities to take advantage oof these modern engineering techniques.
+Aviation Industry
+Our nation cannot rely even on our closest of allies to supply sufficient aeroplanes in times of war. To have peace of mind at last, we must fund the construction of new state aircraft factories.
+Build Our Own Cyclotron
+Cyclotrons have been the primary means by which a plethora of new discoveries in the field of particle physics have come about. While expensive, with sufficient government funding, our nation can create a cyclotron of its own.
+Expand Seraing Steel Mills
+The city of Seraing, while not extremely populace and often overlooked, has become an important centre of industry, particularly steel production. We should offer state support for the city's steel mills and work to turn them into the envy of the world.
+Build the Liege-Charleroi Highway
+Roadways between the industrial centres of Liege and Charleroi are woefully insufficient. We should build a long-proposed central motorway between them.
+Fund the University of Liège
+Liège has been a centre of learning since the middle ages, and today the city's primary university is perhaps our nation's most prestigious institution of higher learning. With further funding and integration of the institution into our military research and development system, our nation as a whole can further benefit.
+German Investments
+Our nation's connection to Germany has not only survived but continues to strengthen. Surely German investment is key to ensuring not only the end of our economic woes, but sustained growth into the distant future.
+Increase German Exports
+Given our present political situation, German markets are more important to our national economy than ever. we should work with the Germans to decrease mutual barriers to trade and subsidise businesses which primarily export to Germany.
+Krupp Wallonia
+The Krupp company's expertise in steel production has already a boon. With state support, Krupp can surely lead our steel industry into a golden age of productivity.
+Encourage Frontaliers
+Many of our people work abroad in the nations of Mitteleuropa and send remittances home. This represents a sizeable portion of our national economy, and while it hurts our industrial centres to some extent by shrinking the labour market, the increased disposable income this reality brings is surely economically beneficial. We should further encourage the practice and negotiate with Germany to reduce restrictions on individual Frontaliers.
+Create the Industrial Committee
+The nation's many great industrial companies compete vigorously for the slightest economic advantage. Through cooperation, perhaps these titans of industry could become even greater. We should establish an executive advisory board drawing from our largest industrial firms to foment economic policy and handle issues of international trade.
+Exploit the Charleroi Glass Industry
+Charleroi is one of the foremost producers of glass in the world. While reclaiming the near monopoly the city had during the early industrial revolution is all but impossible, with national support, the city can regain its pre-eminence in glassmaking.
+Tumult in the Army
+The breakup of Flanders-Wallonia has left our military command and organisation in tatters. A new general staff must be hastily created and the situation dealt with by any means necessary.
+Form a Bilingual Staff
+While the legacy of German military control holds fast and thus that language cannot be fully abandoned, we can begin to reintroduce French as the primary language of instruction in military academies and promote bilingualism among the existant general staff.
+Retain German Staff
+We continue to throw our lot in with Germany, and the military competency of the Germans cannot be denied. To ensure that military operations function as smoothly as possible, we should retain our German general-staff with few concessions to French-speaking officers.
+Trench Warfare
+Untold numbers of men went to their deaths in the trenches of the Weltkrieg. Such a style of warfare, however, favours the defender. As a small nation, we are likely to be on the defensive and perhaps by expanding upon the tactics of the last war, our nation could fight toe to toe with giants.
+Panzer Doctrine
+British combined arms operations nearly proved the achilles heal of the German Empire in the Weltkrieg. Unlike so many foolish generals who would hide in their trenches, we see the promise of an army built around panzers. Now is the era of armoured warfare.
+FRC Artillery Foundry
+The Fonderie Royale de Canons, like the renowned FN based out of Herstal, was the primary producer of artillery for Belgium and Flanders-Wallonia. With the need for artillery growing larger still since Walloon independence, the firm's manufactories must be expanded.
+Luxembourg Field Hospitals
+German military command in Spa has offered to fund a grand joint expansion of field hospital infrastructure in the Ardennes region directed through the main metropolitan hospital in Namur. We should take them up on the offer and get to work implementing the plan.
+FN Arms Production
+Based in Herstal, the FN state company has produced cutting-edge firearms in massive quantities for decades. The turmoil of the Weltkrieg, however, has left the group with insufficient facilities to meet the demands of the nation and the world. We should fund the construction of an entirely new FN factory.
+Light Tank Programme
+Light armour is both easy to produce in large quantities and capable of moving with blinding speed. To maximise agility, we should develop new tanks, that while small and lightly armoured, can execute complicated manoeuvres at a breakneck pace.
+Invest in Half-Tracks
+Half-tracks perform effectively both on roads and rough terrain and allow our infantry to keep pace with and support armoured united. We should subsidise factories which produce such vehicles.
+Project Seagull
+The noble coq does not fair well at sea; with a coastline now in our possession, we must adapt accordingly. We must learn to fly as the mighty seagulls do so over the majestic waves, developing a navy of our own.
+Study With the Kaiserliche Marine
+As we have maintained a strong relationship with Germany, we can directly study the administration and doctrine of the greatest naval force on the planet - the Kaiserliche Marine. The lessons we are to learn from such a venture are sure to be great!
+Enlist German Officers
+With our commitment to Germany reaffirmed, we can draw on the immense manpower and know-how of the German Imperial Navy. With German assistance and German officers in our employ, our burgeoning navy will surely become a force to contend with.
+Establish the Merchant Marine
+A well-formed national merchant marine organisation is critical to the wartime transport of goods and services. With a coastline now in our possession, we should establish our own.
+Boost Maritime Commerce
+The sea has always been the primary medium of international trade. Our newly won coastline now provides us with access to new promising locations. We should incentivise maritime traders to seek new markets for our goods to cement our place in the global market.
+Expand Our Drydocks
+Our naval expansion has placed great strain on the productive capacity of the existing infrastructure we have come to possess. We must build new drydocks and satisfy our national demand at long last.
+Commandeer Trade Vessels
+While the merchant marine operates many large ships, smaller vessels organised into makeshift conveys could serve a similar role. Due to our present need, we should requisition small trade ships and bring them fully under the governmental purview.
+The Flying Rooster
+Many falsely think the coq confined to earth. Let us make like a proud rooster and spread our wings, establishing a truly modern air force.
+Spreads Its Wings
+While some may argue that the air force should primarily work to support our forces on the ground, we know that force that cannot control its own skies is nothing. It is pertinant that we focus on the development of new fighter models to ensure air supremacy.
+Dives Down
+Control of the air is certainly important, but focusing entirely on such is foolish. Wars are ultimately won and lost on the ground. We must develop planes capable of properly supporting the troops.
+Territorial Air Defence
+No matter how skilled our pilots or numerous our planes, some enemies may elude them. We must have a network of anti-air emplacements throughout the nation.
+Invest in RADAR
+RADAR gained widespread usage in the detection of enemy aircraft. To allow our emplacements to detect enemies in the ever-changing landscape of modern war, we must be on the cutting edge of RADAR technology.
+Fighter Supremacy
+To ensure our dominion over our own skies, we must double down and make yet another effort to develop fighter aircraft.
+Bomber Supremacy
+Bombers can weaken the enemy's ability to effectively fight. With new and improved bomber aircraft and effective ground support, our men on the ground will be unstoppable.

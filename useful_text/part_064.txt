@@ -1,0 +1,620 @@
+Dutch East Indies Focus Tree
+GFX_DEI_intro
+The Indies in 1936
+Barring the syndicalist revolt in 1925, the crown jewel of the Dutch empire has been a beacon of stability, taking advantage of Dutch ascension into Mitteleuropa to sell its goods (sugar, coffee, oil) to the newly opened up markets. Despite the competition from the now properly set-up and rebuilt German competition, this economic growth managed to keep up and stability came along with it.\n\nDespite this, Dutch authorities suppress any call for independence, with the Dutch government believing they will not be able to survive without 'de oost', but despite this, the movements grow. Many in the colonial administration fear that if economic hardship were to appear again, events like 1925 might repeat, or worse...
+§MPalar becomes the new Governor-General§! ($authoritarian_democrat_coloured$)\n£white_dot The Netherlands should have a leftist government or should be game rule to PvdV/VVD-Wilhelmina, SDAP-VDB or any republic path.\n\n§MStarkenborgh-Stachouwer becomes the new Governor-General§! ($authoritarian_democrat_coloured$)\n£white_dot The Netherlands have a conservative government should be game rule to CNA-LSP coalition/LSP-Wilhelmina or CNA majority.\n\n§MFurnster becomes the new Governor-General§! ($authoritarian_democrat_coloured$)\n£white_dot The Netherlands should have an authoritarian or should be game rule to CNA-VHN coalition, military junta or any of the VNH Dictatorships.\n\n§CNote: Maintain the unity of the Indonesia rebellion at a medium level to have the Islamist coup happen and at a low one to have the royalist countercoup happen too when playing as Indonesia.§!
+SDAP
+Sociaal Democratische Arbeiderspartij
+VDB
+Vrijzinnig Democratische Bond
+LSP
+Liberale Staatspartij
+CNA
+Christelijke Nationale Alliantie
+Raad van Nederlandsch-Indië
+Raad van Nederlandsch-Indië
+RvNE
+Raad van Nationale Eenheid
+Black Monday Arrives!
+Black Monday has arrived, like a train hitting a solid object. Suddenly our exports to Europe declined dramatically, and we will have to take action to rectify this.
+Bypass Singapur
+In recent years, more and more goods directed toward Mitteleuropa are shipped through Singapur rather than Batavia, but we control our side of the strait of Malacca as well, we owe nothing in these taxes to Germany and can easily resupply in our own ports.
+Expand the Batavia Dockyards
+The Batavia Dockyards are well-known for the old wooden ships docked there which sail throughout the Indies to transport goods and people. We should expand it to handle more modern ships in greater numbers as well.
+Expand KPM
+The Royal Packet Navigation Company (Koninklijke Paketvaart-Maatschappij) has been maintaining inter-island shipping lines since 1888, and already bypassed Singapur. By helping them expand we will increase inter-island commerce as well as our amount of draftable ships.
+Fight Piracy in the Malacca Strait
+Piracy in the Malacca Strait has been infamous since a very long time for its ferocity. We should once more outfit convoys and expeditions to pacify this lawless strait.
+Limit Rice Imports
+Black Monday has caused the international prices for rice to plunge, making it hard for our subjects to make a living off their rice farm. We should limit the import of rice to force the price to go up again, so that we don't wind up with a famine when the prices start to rise again.
+A Self-sustainable Foodsystem
+By investing extra in the efficiency of rice farming, we can get rid of our dependence on other parts of Asia for rice to feed the colonial masses, which will make us in turn stronger.
+Agrarian Relief
+By helping farmers with support, we can limit the suffering caused by Black Monday, making our rule more secure.
+Purchase Sugar Fields
+With the arrival of Black Monday, one of the largest export goods of the Dutch East Indies, sugar, became a luxury item that no one in Europe would buy anymore. Those who invested in plots of land to build sugar suffer, often having incurred debts to buy their plot. By buying sugar-farming land, the colonial government can obtain land that could be used for the establishment of colonial industry.
+Expand the Coal Industry
+With the new free plots of land, we can establish colonial industry to increase our production and to bring prosperity to the archipelago and work to the Dutch overseers. Though of the backs of those incarcerated.
+Step Up Rubber Production
+With Black Monday, rubber was hit hard by the lower prices, perhaps no longer being the precious commodity it once was. To make up for the lower prices, we should expand the production to export greater amounts.
+Expand Shell Operations
+The Bataafse Petroleum Maatschappij controls all oil rigs in the Indies. By helping them expand, we can increase the oil production to make up for lower prices as Black Monday greatly lowered the petroleum demands.
+Expand Infrastructure
+By expanding the infrastructure of Java, we can more easily transport goods and people, increasing our national efficiency.
+Precrisis Levels Reattained
+Thanks to our actions, we have managed to return to the levels before the Black Monday crash. In some sectors, we've even surpassed all previous production levels.
+Industrialising the East Indies
+With our economy secure, we can start focusing on expanding our colonial industry towards amounts not seen before in the archipelago.
+Focus on Civilian Industry
+By expanding the civilian industry in the colony, we can decrease building times and increase our general production.
+Focus on Arms Industry
+The Indies is home to the Artillerie Constructie Winkel, an arms company reaching back to the times of the VOC. By working with them, we can expand our arms industry.
+A Modern Economy!
+With our recent industrialisation, our economy has become significantly more modern: a few years ago, most of the Indies economy was almost completely agrarian in nature, and now we have several industrial facilities. There is still a long way to go however.
+[GetYear] Review of the KNIL
+The KNIL has remained largely the same since the Weltkrieg. Perhaps a review could be positive towards their performance.
+Nederlandse Inkoopcommissie
+Accountable to the current Dutch government and the Governor General, the Netherlands Purchasing Commission (NI) is the merging of four other commission in an effect to streamline the modernisation of the KNIL.
+Arms Shipment from the Netherlands
+Our belated shipment of arms from the Netherlands has arrived, with it appearing they have sent their old surplus rifles.
+Local Munitions Factory
+The procurement of rifles is one thing, the manufacture of spare parts, ammunition, and other bits and bobs is another. With this in mind, a munition factory is to be setup within Soerabaja.
+Karabijnmitrailleur
+The Madsen Machine Gun has been in service with the KNIL since the 1915. To make it more portable, the barrel has been shortened, being then redesigned as a \
+Entice Foreign Pilots
+Reforming the Cavalry Regiments
+Though cavalry still have their uses within the colony, with further infrastructure investment has allowed for the deployment of motorised units albeit in a limited capacity. The NI seeks to reform the current cavalry regiment of the KNIL to a more modern standard, though supplying the required equipment is another thing.
+Bicycle Divisions
+What is a Dutchmen without his trusty bicycle. This is what thoughts have been echoed with those who are currently reforming the KNIL.
+The reality is that the Dutch East Indies does not have a large pool of \
+Long Term Contracts Offered
+The average contract offered to a foreign pilot is akin to a summer holiday in length, with no other real enticement but being able to fly in an exotic location, and maybe strafe a native uprising or two. With offering housing, limited subsidies, and of course long-term contracts, there is a hope that these foreign pilots will settle in the Dutch East Indies.
+Larger Salaries Offered
+The average contract offered to a foreign pilot is akin to a summer holiday in length, with no other real enticement but being able to fly in an exotic location, and maybe strafe a native uprising or two. With offering housing, limited subsidies, and of course, larger salaries, there is a hope that these foreign pilots will settle in the Dutch East Indies.
+Fokker Acquisition
+With a steady stream of foreign pilots supplementing our small pilot corps, the Netherlands Purchasing Commission has seen to obtain new fighters to expand the KNIL Air Corps.
+Reforming the High Command
+Ter Poorten wishes to shuffle up the current High Command, stating it has become stagnant. Though it really appears it's given ter Poorten a chance to move people around he doesn't like.
+From a Garrison to an Army
+The KNIL for all intents and purposes has been a small Police force designed to pacify native uprising, though on a smaller scale. With the need to crack down on a larger and more unified movement comes a need to reform the KNIL into a proper army.
+Old Artillery Officer
+With the reforms made to the high command, Ter Poorten has been able to procure further artillery pieces for the KNIL.
+Establish Signal Sections
+Currently no wireless radios are used by the KNIL, with the reliance of civilian services to aid planning, and organisation of KNIL units in the field. With an establishment of a Signal Section, we are able to slowly introduce wireless radios into the KNIL, to help overcome its current short falls.
+Welcome to the Jungle
+When Dylan Jaannsen joined the KNIL, as he saw it as an opportunity to advance himself within the bureaucracy of the Dutch Eash Indies. Little did he know that part of joining, was a 2-kilometre trek though the harsh jungles of Papua. His brow thick with sweat, he pushed to himself through the last of the thicket to trip. Looking up, a fellow soldier of Papuan descent, reached his arm out, and aided Dylan saying in terrible Dutch \
+Overvalwagen Procurements
+The Overvalwagens, are lightly armoured Chevrolet trucks designed by Captain R.J. Luijke Roskott, who is an Engineer within the Dutch Army. The Netherlands Purchasing Commission has secured the means to produce them locally, and several models as well for the KNIL. They are to be armed with the recently acquired \
+Procure Anti-Aircraft Guns
+Rolling tank battles are not expected to be occurring within the Dutch East Indies, though the use of lighter vehicles and aircraft have seen the need for smaller calibre auto-cannons to be procured for the KNIL.
+Procure CTMS-1TB1 Licences
+With the troubles of America aside, licences for the CTMS-1TB1 manufactured by Marmon-Herrington, have finally arrived though out of the 100 ordered, only 50 have arrived.
+A New Direction
+The new Governor-General, [DEI.GetLeader], is currently appalled by the current KNIL reforms, stating they debase Dutch culture, with that of the Inlanders. He will be steering the current reforms in another direction, to ensure that the Dutch culture is preserved within the Dutch East Indies.
+VNH Approved Instructors
+Like the Netherlands, Dutch within the Dutch East Indies are not promoting Dutch culture within the ranks, this must be rectified
+KNIL Parachutistenkorps
+By setting up a parachutists corps specific to the Indies, we can combine the abilities of the KNIL and its air force to allow us to act swiftly in case of an emergency by dropping parachutists above it. Also, the several aeroplanes used by civilian mailing services have \
+New Recruitment Standards
+Stricter recruitment standards are being enforced to ensure that the men of the KNIL epitome of Dutch martial prowess. Further to this, the enforcement of Dutch among its ranks has further helped edge out the undesirables.
+Labour Battalions
+[DEI.GetLeader] has pushed, and successfully achieved the creation of Labour Battalions. Men within these battalions, will provide the labour needed to provide infrastructure, and other military assets that are required. Also, it would appear that they strictly comprise of Inlanders who don't meet the current standards of the KNIL, and convicts.
+Support Battalions
+The Dutch East Indies environs range from the flats of Batavia to the tense Jungles of West Papua. To counter this, support battalions are being created to support the KNIL regardless of which environs they see themselves in.
+Procure Further Weapons
+With more control now given to the Governor-General via [DEI.GetLeader], the red tape has been cut, allowing for easier procurement of arms from the [HOL.GetName].
+VNH Approved Reforms
+Approved reforms from the VNH have made its way to the [DEI.GetLeader] desk. They appear to be very radical, but [DEI.GetLeader] is up to the challenge.
+Honorary Dutch
+The VNH radical reforms are the promotion of other cultures with the Dutch East Indies, with it these reforms mainly targeting the Javanese.
+Reform the Auxiliary Corps
+Not all Inlanders wish to serve in the KNIL, due to the current reforms. We must \
+Compliant European Officers
+European Officers, under the directions of the VNH are to ensure that all VNH standards are met, and that the Dutch culture is preserved. Either with the encouragement or discipline, these standards will be enforced.
+Limited Native NCOs
+The need for Inlanders within our rank and file is always going to be a factor, as not all Inlanders speak Dutch... for now. With this said, we should select those who proven themselves loyal, or are hail from our more enlightened natives to assist in this.
+Attract Like Minded Europeans
+Our cause is just; our methods are sound. With this in mind, we must seek those fellow Europeans, who are liked minded, and willing to embrace our proud culture.
+Zuid-Afrikaanse Vrienden
+Our South African Afrikaner friends within the South African nationalist party have shown a keen interest in the work of the VNH, with several dubbed \
+Reforms Complete
+The KNIL has now been reformed as the protector of Dutch culture within the East Indies. And also, to provide more than a rudimentary defence against any would be attacker. Though the locals are restless, with more and more police actions occurring.
+Back on Course
+With [DEI.GetLeader] now truly settled, ter Poorten has politely pushed for the reforms to continue for the KNIL, with it appearing his manners have served him well.
+Further Doctrine Refinement
+New tactics, and strategies are slowly making their way to into the KNIL. The gears may grind slow, but they still are grinding forwards.
+Recon Elements
+The KNIL suffers from having no dedicated reconnaissance elements embedded within it's infantry divisions, with the creation of said units to alleviate this.
+Standardised Training Routines
+Currently there are several training routines emplace, which appear to have arbitrary reasons behind them. With the standardisation of training routines, no matter where you hark from within the Dutch East Indies, we will be equated with the same drill sergeant, who will break you down, to build you back up again, to break you down again, and if he has time, to build you back up again.
+M.A.Z
+Being surrounded by harsh, and remote jungle, the needs for Mobile Army Surgical Hospital is sorely needed, allowing for our injured men to be treated as soon as possible.
+Expand de Post, Telegraaf en Telefoondienst
+By expanding the Post, Telegraph and Telephone services that are under the civilian sector, we will be greatly increase our communcation range throughout the archipelago.
+Expand Local Military Industrial Complex
+Shipments aren't always going to arrive on time, or at all from the Netherlands. With this, we must expand our local Military Industrial Complex to obtain a level of self-reliance.
+Koninklijke Militaire Academie Returnees
+Our cadets have returned form the King's Military Academy in the Netherlands, bringing with them the latest in military theorem.
+Weltkrieg Tactics
+Though the Netherlands, and ultimately the Dutch East Indies were neutral during the Wereldoorlog. It has not stopped the Koninklijke Militaire Academie seeking further knowledge on the tactics used during the war. Which the returnees have brought back with them.
+Review Foreign Pantser Designs
+From the Australasian Sentinel Tank to the Ostasien Panzer IV, for the KNIL to keep up with these professional armies, we must seek to review these designs for the betterment of the KNIL.
+NCO Training
+Most Inlanders have a rudimentary control of the Dutch language. Overtime, there are hopes that this will not be a problem. Till then, all NCOs, regardless of background are to act as an intermediary between the generally Dutch speaker Officers, and the generally Inlander speaking rank and file.
+Expand the Auxiliaries
+The Auxiliaries serve as a loyal militia and are usually stationed within the outskirts of the colony. In an effect to gain greater control of the archipelago, the KNIL is expanding the Auxiliaries, and the capabilities, in an effort to maintain control.
+Flow on Effect
+The reforms, which have been mainly on the top level of KNIL, are now beginning to flow down upon the rank and file.
+Female Auxiliary Units
+With the need of able-bodied men for front line duties, female Auxiliary units have been formed, allowing for women to fulfil roles that aren't on the front lines. Furthermore, a female Air Corps Auxiliary has been formed, though this has left many clutching on their pearls quite tightly.
+Reforms Complete
+The light at the end of the tunnel has grown brighter, and brighter. Though these reforms have not turned the KNIL into a professional standing Army, they have uplifted the KNIL from a Police Force, to a well-equipped Home Guard.
+Witte Fosfor Brandbommen
+White Phosphorous incendiary bombs appear to have been procured by unknown means to be used by the KNIL Air Corps. These incendiary weapons appear to be highly effective against enemies seek cover amongst the dense jungle environs that the Dutch East Indies provides.
+Night Fighting
+The KNIL Air Corps will never have the best fighters or equipment, but the use of unconventional tactics via the cover of darkness shall give us the edge we need.
+Royal Dutch East Indian Marines
+By establishing a Marine Corps specific to the Dutch East Indies, which is made up of local forces specialised in landings, a not-unimportant part of warfare in this insular region.
+Defending the Indies
+The Indies are the jewel of the Dutch empire. We shall defend it with all we have. no one shall take it!
+Fortifying Java
+Java is the political heart of the Indies. By fortifying it, we can make any foreign invasion at the very least highly costly in terms of men and equipment for the enemy.
+Military Aviation of the KNIL
+The Military Aviation of the KNIL acts as the air force of the colony. While we currently have a few planes already, it seems the war of the future shall be fought in the air, and we cannot allow our enemies to take the upper hand there.
+East Indian Bombers
+Bombers can cripple enemy industry as well as support our land-based operations. By investing heavily in them, we shall make our air force more complete.
+East Indian Fighters
+Bombers can do nothing if enemy fighters pull them out the air; we should invest in fighters to ensure the security of our airspace and to prevent enemy bombers from operating above our lands.
+Expand the Airfields
+The Indies are far and wide. By expanding the airfields, we cannot only serve a military purpose, but also increase the capacity of civilian airfields allowed goods, people and information to travel faster between the islands.
+Fokker Investments
+Fokker is Europe's largest plane producer and has strong ties to the Netherlands. By granting them advantages in regulation or tax we might be able to tempt them into investing here, perhaps as their first time branching out to Asia.
+Expand the Government Navy
+The Government Navy is officially not part of the KNIL, therefore we lack any jurisdiction over it, but its location here does make us the de-facto overseeing instance. We should invest in expanding it, right here!
+Local Dockyards
+By producing dockyards right here, we can build some ships separate from the Netherlands, allowing us a bit more freedom to produce new ships within our budget.
+Focus on Submarines
+In an open battle against the Japanese, it seems impossible to beat their navy. Instead, we should focus on our own advantages: the Netherlands maintains some of the most sophisticated submarines, an unique advantage that could win us an advantage in the naval battle.
+Naval Bombers
+Naval bombers have never been a top priority for the KNIL Air Corps, or the Dutch Navy contingent stationed within the Dutch East Indies. However, our naval bomber designs should be reviewed - even if procurement of anything more than a licence may be highly unlikely.
+Helfrich's Naval Guerrilla Plan
+Admiral Helfrich has devised a 'guerrilla' plan, using submarines to attack and then disengage, to wear out any enemy naval superiority as if it were a guerrilla war on land. Only the Dutch would think this is a viable turn of phase...
+Focus on Light Cruisers
+We should focus on light cruisers as strong ships that can safeguard our larger capital ships while still maintaining enough firepower to deter our enemies.
+Focus on Destroyers
+Destroyers are ideal to fight off enemy submarines and thus as screening vessels. Investing in them might be a sound idea.
+Review of the Nederlands-Indische Vloot
+A top to bottom review of the current state of the Royal Dutch Navy fleet station in the Dutch East Indies is to occur, with even the most positive outcome looking grim.
+Admiral Helfrich Vlootplan
+Much alike to his proposed plan for the Dutch Navy (be it popular or not), Admiral Helrich proposes the use of submarines to harry the enemy, and strike at their supply lines. This is both practicable, and affordable, also allowing for these new submarines to be constructed locally.
+Koninklijke Rotterdamsche Lloyd
+Founded in 1875, as a mail-ship service between the Netherlands, and the Dutch East Indies, has become one of the sole shipbuilding companies within the archipelago. They have won (to no one surprise) the contract to produce the K XIV-class submarine designed by J.J. van der Struyff.
+Batavian Submarine Pens
+To further expand local production, the construction of submarine pens within Batavia has been commissioned.
+K XIV-Class Submarine
+The K XIV-Class Submarine is a larger submarine designed to operate deeper into enemy territory. The prefect submarine for the conditions of South East Asian Sea operations
+Hunter-Killer Groups
+Admiral Helfrich's approach of \
+New Naval Tactics
+Admiral Helfrich reforms have trickled down throughout the ranks, though many are concerned his more \
+Bonifacius de Jonge Resigns
+Governor-General De Jonge has held office now since 1931 and had announced in advance that he would retire from it for a while. Time to invite our new governor-general to the palace in Batavia.
+Palar's Reform
+Nico Palar is a senior member of the SDAP party and would be the first native governor-general of the colonies. We're honoured to welcome him back to his homeland after he worked in the Netherlands for a while.
+Fund the Ethische Politiek
+The Ethical policy was a splendid programme, bringing welfare to the native population as is our duty as guardian of the Indian populace. Sadly, it has been greatly underfunded since the conservatives implemented it. With the social democrats available in the Netherlands, we can turn that around!
+Open More Schools
+Better education means a better future. By opening more schools, we can teach more natives how to read so they can take on more complicated task, which will in the future help both our economies and technological progress.
+Werkverschaffing for Inlanders
+The natives often fail to gain jobs just like the regular Dutch back home. By establishing Werkverschaffing programmes, we can lighten this burden.
+Lift Bans on Nationalist Organisations
+Previously, the Netherlands acted very frantically on the idea of allowing nationalist organisations, but we have to be honest with ourselves: we don't have the right to keep the Indonesians in chains forever, and if we help them and thus keep them happy, this will not be a detrimental move.
+Cross voting
+The current system is fairly odd, only enfranchising a very small elite. We should allow everyone in the Indies to vote for the seats in the Volksraad. We can't get this through however without giving in to the demands that Dutch votes weight heavier.
+Tjarda van Starkenborgh Stachouwer Reforms
+Tjarda van Starkenborgh-Stachouwer has been a dutiful civil servant since a long time, and it seems no surprise that the homeland decided to appoint him as our new governor-general. Let us welcome him!
+Limited Liberalisation
+We should cut down a bit on the authoritarian nature of the colonial government. While it is true that we must safeguard our presence here, pushing too hard will only have adverse effects.
+Extra Funding for the Volksraad
+The Volksraad is an important part of the colonial government, but severely underfunded. Even though it does not have a lot of power, it is essential in keeping policy in line with the interests of all groups in the Indies.
+Strengthen the Volksraad
+The Volksraad is currently merely an advisory body. There are sufficient safeguards keeping it in check, we can make it a bit more powerful, with more checks on the governor-general's office.
+Congress of Batavia
+It is time that we look into the future and recognise what is; in its current form the Dutch East Indies won't last forever, however, if we reform it can. We should negotiate with the local populace towards giving the Indies an equal status within the kingdom and granting them citizenship.
+Furstner's Reforms
+Admiral Furstner was an unexpected choice, having had few administrative jobs and being more a man of the navy. He was however a founding member of the VNH so perhaps it could've been expected...
+Expand the PID
+The Political Intelligence Service is the internal security service of the Indies. By expanding it we can more efficiently crack down on subversive movements in favour of 'independence'.
+Expand Camps in Western New Guinea
+The camps in New Guinea have always been ideal to store away dissidents. Locating in the middle of the New Guinea jungle, filled with hostile tribes, no one would even consider trying to escape. We should expand them to hold more dissidents.
+Red Scare Propaganda Campaign
+Contrary to popular belief, not everyone supports this 'Indonesian Independence' idea. We can improve this situation by putting out propaganda, amongst other things about the state of such a nation should it break away and overplaying the \
+Abandon the Ethical Policy
+The Ethical Policy was a mistake, it only resulted in an educated elite who immediately showed that they were not ready, ranting against our rule. We should abolish it and make sure the Inlanders stay in the rice fields until they're actually ready for education.
+Restore the Cultuurstelsel
+During the Cultuurstelsel system, profits from the colony were higher than ever, until subversive books started to undermine it. Time to bring old times back!
+East Indian Apartheid
+Enforcing segregation may be frowned upon, but it is clearly the only way to avoid natives from poisoning the minds of Totoks and Indos with ideas that they should be equal.
+Cultural Imperialism
+We have been here for over 300 years yet still they remain clenched to their own backwards culture. We should change this by actually starting to promote superior Dutch culture.
+Enforce Dutch Curricula
+Despite our prolonged stay, Inlanders still tend to use Malay as lingua franca. It is unacceptable that such a language could fill that role when Dutch is an alternative!
+Target the Javanese Independence Groups
+The Javanese hold plurality within the archipelago. By targeting only them, we can hope to create a power vacuum between the groups.
+Dissolve the Volksraad
+The Volksraad is a group of poor old sods who think they have the right to criticise the governor-general on everything he does. It is time we abolish this abomination once and for all and centre all power in the governor-general.
+The Exiles Arrive!
+The vile syndicalist menace has sadly taken over our home and haven. We shall arrive in the Indies and we shall liberate our homeland from this foreign occupation, for syndicalists are not Dutch at all!
+The Only Man in the Dutch Government
+If democracy had been a stable, helpful, defensive system then we wouldn't be in this situation. The queen should take full control over the direction of our nation, even if that means giving up some civil liberties.
+Samen Uit, Samen Thuis
+The Netherlands has a proud democratic tradition. Even in our darkest hour of occupation by tyrannical syndicalist thugs, we should not stray from this path as it would only put us on their level.
+The Batavia Bargain
+With the exiles alone, it seems highly unlikely that we will be capable of defeating the syndicalist menace. We should try to cut a deal with the locals, if only to avoid a revolt while we can't stop them.
+Reestablish the CID
+The CID has largely been forfeited in the chaos of the revolution, although many of its major officials are right here right now. We should refound the CID here. They shall help us defeat the syndicalist menace from the shadows.
+Internal: The PID
+The Politieke Inlichtingendienst is the internal security service of the Dutch East Indies. They should be held in high regard because they are our best defence against domestic syndicalist tendencies.
+Expand the New Guinea Camps
+The camps in New Guinea are ideal for keeping syndicalist thugs and other traitors away from the streets and more importantly, attacks. Located in New Guinea, no one will dare trying to escape through the rainforest with cannibalistic tribes hidden in the trees.
+Root out the Partai Murba
+Since the destruction of the ISDV, the proletarian party of Tan Malaka has been the foremost radically socialist independence movement. We should crack down on them lest they entice the Inlanders into trying to repeat the Batavian Revolution here.
+Outlaw Syndicalism
+Syndicalism is a disgusting system and should most definitely be outlawed to ensure our stability. It is bad enough that it has left its stain on the Dutch mainland.
+Extend Decryption Techniques
+We should improve on our decryption techniques to gain an advantage in intelligence against our enemies.
+External: The BBO
+The Bureau Buitengewone Opdrachten is the office overseeing resistance activities against the illegitimate Dutch government. They might just turn out to be the ones securing the liberation.
+Activate Stay-Behind Network
+Following the events of 1925 in Britain, the Dutch government realised that they might well be next to fall to the socialist menace. As such, a stay-behind network had been prepared, just in case. This has turned out to be a good choice as it will give our resistance network a huge start.
+A Natural Resistance
+Dutchmen are naturally resistant against oppression, and syndicalism is oppression by all means considering the limits they place on getting to be part of their government. By playing in to these feelings we can surely strengthen our internal forces.
+Prepare the 'Bevrijding'
+We should prepare the liberation of the Netherlands from the shadows to make it as swift as possible.
+The Shadowforce
+A force dawns upon [HOL.GetNameDef], a force of shadows. Peering from the dark we shall destabilise and destroy this menace!
+The Army in Exile
+We shall go on until the end. We shall fight in the Indies...
+Ter Land
+... we shall fight in the fields and in the streets, we shall fight in the polders...
+Ter Zee
+... we shall fight on the seas and oceans...
+En in de Lucht
+... we shall fight with growing confidence and growing strength in the air...
+Conscript Inlanders
+Even with the exiles, Dutchmen are in short supply, we should start conscripting Inlanders otherwise we stand little chance to defeat the menace in Holland.
+Establish the Bannelingenlegioen
+Many enthusiastic exiles are here and want to help rescue our homeland from that scum of the earth. We should welcome such tendencies and establish a specific branch in the army for them.
+Unite the Navy
+We should get together the loyalist navies from back home and the navy that was in the Indies to begin with to allow for a joint offensive!
+Bombers against the Reds
+We should bomb every last red production facility to shreds, let's see how 'effective' syndicalism is without its factories.
+Fighters against the Reds
+Bombers need a proper number of fighters to safeguard their missions. We should focus on those primarily to avoid making bombing runs a suicide mission.
+Light Armour Divisions
+We should invest in 'pantservoertuigen' - tanks - to take over our scouting duties, being much faster and better armoured than plain infantry. This is the future of warfare.
+Korps Mariniers in Exile
+To establish a proper landing we need specialised forces who are trained in making such a landing. As per such, we should re-establish the korps mariniers; they will be the front of our offensive!
+Naval Bombers
+By using naval bombers we harass the enemy navies from the sky. It shall not be their navy that will prevent us from liberating the homeland.
+Close Air Support
+Support from the air has become instrumental in warfare of today. We should focus on this portion of aerial warfare to further our battlefield performance.
+Ruling the Lands
+The Landmacht (landforce) is ready to liberate the Netherlands. The syndicalists won't know what's coming for them!
+Expanding our Navy
+Our navy needs to be expanded if we want to secure our chances when we launch a naval invasion.
+Ruling the Skies
+The Luchtmacht (air force) is ready to liberate the Netherlands. The syndicalists won't know what's coming for them!
+Focus on Cruisers
+We should focus on the construction of new cruisers to expand our navy to open the way for an invasion of the mainland that will be the way to go.
+Focus on Submarines
+Submarines have always been our specialty, the first of them having been discovered by a Dutchman at that. Let us harass their shipping with them!
+Ruling the Seas
+The Marine (navy) is ready to liberate the Netherlands. The syndicalists won't know what's coming for them!
+Ruling the Netherlands Soon!
+All three branches of our army are ready. Let us launch an invasion with a ferocity that is never seen before!
+Expertise of the Exiles
+Many of those exiled are the most successful entrepreneurs of our society. They have a lot of expertise, both technical and in terms of how to organise a workforce.
+Industrialising Java
+Java is relatively urbanised and we need a basic industrial sector to work with. If we invest in building factories now, it will aid the liberation.
+Build the Dockyards
+We will need a secure navy if we ever hope to get a chance at liberating the homeland. Sadly however, most docks were based in the Netherlands. Luckily, we have the expertise of the exiles to reconstruct them here.
+Build Arms Factories
+Weapons for our soldiers are needed for the liberation, we should work on the basis of the Artillerie-Constructie Winkel to build a potent arms industry right here in the east!
+Ships for the Liberation
+If we are to liberate the homeland, many ships will be needed. Let us get as much metal together as possible to build as many of them as possible.
+Resources for the Liberation
+We need resources if we are to liberate the homeland. These resources bring in money and money brings an army!
+Guns for the Liberation
+Guns are crucial for an army. We should gather as many guns as we can scrape together if we are to be taken seriously as a liberation force.
+Conversion focus
+We should focus on militarising the factories instead of building them from scratch if we are to have the liberation happen within our lifetime.
+Construction focus
+We should focus on constructing new factories unless we want to avoid locking our economy in a military system that will hinder growth.
+Expansion of Research and Development
+Taking on a technological edge on the syndicalists using the technical know-how of our men should be relatively easy. The brightest minds of our nation are here, let us use their talents!
+War Economy
+It is time to ready our economy for war. Undoubtedly, the syndicalists will be doing the same but with their flawed system. We can do better!
+Machine Fabriek Braat
+Billiton Maatschappij
+Black Monday
+Singapur Circumvention
+Secure Malacca Strait
+Limit Rice Imports
+Self-sufficient Foodsystem
+Welkom in de rijstvelden, Zakkenwasser!
+Agrarian Reforms
+Welkom in de rijstvelden, Zakkenwasser!
+Buying Out Sugarfields
+Industrialising the East Indies
+Centralising Indonesian Industry
+Modern Economy for the East Indies
+Colonial Government
+Nederlandsch-Indië, is the result of Dutch global prominence in spice and cash crop within South East Asia since the 19th century. Its wealth helps fuel the economy of the Netherlands, to much discontent from the locals.
+Colonial Government - Cultuurstelsel-Apartheid
+[DEI.getleader] has returned the Dutch East Indies to its 19th century cultivation system roots, though as a modern man, has added 20th century spin with a more formal segregation system.
+Staunch Defence
+Helfrich's Naval Guerrilla Plan
+Using submarines to attack and then disengage, Admiral Helfrich, wishes to fight his enemy akin to that of guerrilla war on land.
+Hunter Kill Groups
+Though Admiral Helfrich has concentrated on submarines, he still understands the need for the Dutch East Indies to be able to protect its shipping from enemy submarines.
+Ethische Politiek: Minor Funding
+Ethische Politiek: Funded
+Ethische Politiek: Fully Implemented
+Politieke Inlichtingendienst
+Abandoned the Ethical Policy
+Renewed Cultuurstelsel
+Cultuurstelsel-Apartheid System
+Indonesian National Revolution
+The Indonesian National Revolution has emerged, and we will remain fighting for order!
+Cultural Imperialism
+Cultural Imperialism
+Greater Tax Extraction
+Renewed Intelligence Activities
+Renewed Intelligence Activities
+Renewed Intelligence Activities
+Renewed Intelligence Activities
+Expanded Decryption Capabilities
+Natural Resistance
+The Dutch people are naturally inclined against tyranny, and the sad state of affairs is that those who rule our homeland are un-Dutch in every way. Resistance is rendered natural!
+Ruling the Land
+Ruling the Skies
+Ruling the Seas
+Naval Expansion
+Metropolitan Innovation Influx
+Militarised Oil Production
+Focus on Conversion
+Focus on Construction
+KNIL: Deficient
+Years of cutbacks to funding, neglect, and mismanagement have left the KNIL in a sorry state. Further to this, with growing resentment from the natives from the local population, recruitment has proven a challenge.
+KNIL: Slowly Modernising
+Current reforms have allowed for the KNIL to slowly gain a degree of professionalism, though it sorely needs a doctrinal direction.
+KNIL: Back on Course
+[DEI.GetLeader] has more or less settled in and has allowed for the KNIL reforms to continue.
+Creation of Recon Elements
+The KNIL still lacks any form of reconnaissance assets, with recon elements put emplace to overcome this.
+New Training Methods
+KNIL training has now been refined... somewhat, to allow for a steadier flow of raw recruits.
+KNIL: New Officer Corp
+Expand the Auxiliaries
+The need for greater control of the archipelago is required if the KNIL is to adequately defend it. The expansion of the Auxiliaries will achieve this.
+NCO Training
+Not all Inlanders speak the Dutch. The reforms would have NCO's act as an intermediary between the mainly Dutch speaking Officers, and the mainly Inlander speaking rank-and-file.
+KNIL: Modernised
+The KNIL has gone through several reforms to become a Home Guard Army, opposed to a Police Force.
+KNIL: A New Direction
+[DEI.GetLeader] has more or less settled in and is redirecting the KNIL reforms into a new direction.
+KNIL: Approved Reforms
+[DEI.GetLeader] has received further direction on the reforms to take place within the KNIL. They are radical to say the less.
+KNIL: Beschermers van de Nederlandse Cultuur
+The KNIL has now been reformed as the protectors of Dutch culture within the East Indies. And to provide more than a rudimentary defence against any would be attacker.
+Inlander Labour Battalions
+Putting the Inlanders to good use by forming Labour Battalions, to assist in the construction of infrastructure, and other military assets.
+Reform the Auxiliaries
+Not all Inlanders wish to serve in the KNIL, due to the current reforms. We must \
+Stricter Recruitment Standards
+Stricter recruitment standards are being enforced to ensure that the men of the KNIL epitome of Dutch martial prowess.
+Compliant European Officers
+European Officers, under the directions of the VNH are to ensure that all VNH standards are met, and that the Dutch culture is preserved.
+Zuid-Afrikaanse Vrienden
+The KNIL has attracted several South African instructors, providing the KNIL with much need expertise.
+KNIL Air Corp Expanded
+The KNIL Air Corp is still in its infancy and will be until the shortage of pilots is overcome.
+KNIL Air Corp Expanded
+The KNIL Air Corp is still in its infancy and will be until the shortage of pilots is overcome.
+Witte Fosfor Brandbommen
+Acquired by unknown means, White Phosphorus incendiary bombs have allowed for the KNIL forces to negate the cover of the jungle, though in the most unsavoury of ways.
+Night Fighting
+The KNIL Air Corps will never have the best fighters or equipment, but the use of unconventional tactics via the cover of darkness shall give us the edge we need.
+Aggressive Tactics
+The next war won't be fought with the roaring of cannons being fired from line ships, but with torpedoes being silently launched towards their targets.
+Limited Liberalisation
+Starkenborgh-Stachouwer has lifted several of the more authoritarian laws of the colony but is still maintaining the overall status-quo.
+Strengthening of the Volksraad
+With Starkenborgh-Stachouwer measures of strengthen the Volksraad, has allowed for a small flow on effect of more like minded Inlanders to join.
+A New Beginning
+With the Koninkrijksstatuut signed, the Dutch East Indies will slowly revert to allow the natives self-rule, though of course, with Dutch oversight...
+A New Beginning - Unitary Goals
+The Javanese-Malay representatives not happy with the speed and progression of the Koninkrijksstatuut and have pushed for an expedite of the progress.
+A New Beginning - Federation Goals
+The Javanese-Malay representatives not happy with the speed and progression of the Koninkrijksstatuut and have pushed for an expedite of the progress.
+The fight for our freedom has finally begun. We will not rest until our guerrilla forces drive the Belanda back into the sea!
+Independence Movement Unity: Very Low
+Independence Movement Unity: Low
+Independence Movement Unity: Medium
+Independence Movement Unity: High
+Independence Movement Unity: Very High
+Independence Movement Strength: Very Low
+Independence Movement Strength: Low
+Independence Movement Strength: Medium
+Independence Movement Strength: High
+Independence Movement Strength: Very High
+Sutardjo's petition has been rejected.
+The Indonesian National Revolution has happened.
+Isn't currently reducing the Independence Movement Strength.
+Isn't currently reducing the Independence Movement Unity.
+Indonesian National Revolution
+The Indonesian National Revolution has arrived. Republican forces have risen up across the country in the hopes of securing an independent Indonesia.
+Defend Java and Sumatra
+We have secured control over most of Java and Sumatra. If we manage to maintain this position, the Dutch will have to come to terms with us in due time.
+Recapture Java and Sumatra
+Republican forces have taken the overhand in Java and Sumatra. If we are to avoid being forced to come to terms with the republicans - likely calling in the end of our colonial government - we need to re-establish a significant foothold in these areas again.
+Indonesian National Awakening
+Some believe the Archipelagos of the Dutch East Indies to be calm and tranquil, with its residents not having a care in the world. This could not be further from the truth. The dubbed \
+The Archipelago Stirs
+There is never a dull moment within the colony.
+Movement Grows in Strength
+As the Indonesian Independent movements unity grow, so do their strength. Though keeping them divided also has its benefits...
+Indonesian National Revolution
+Divide the Movement
+[dei_rebel_hit_unity_desc]
+One of the only saving graces of the Indonesians and their little rebellion is their lack of unity. By either focusing our forces on one group or supporting another, we can keep the unity of the movement down.
+No longer held back by the \
+Weaken the Movement
+[dei_rebel_hit_strength_desc]
+Arresting random leaders, harsher curfews, and other distasteful methods help keep the movement in check. Though sometimes our forces may be overzealous in their duties.
+No longer held back by the \
+\n§RShould the Indonesian National Awakening movement gain enough strength, they will rebel against us soon after. Decisions to help curb growing native resistance are now unlocked.§!
+The §Ystrength§! of the independence movements §Rgrows§! slightly.\n
+The §Ystrength§! of the independence movements §Rgrows§!.\n
+The §Yunity§! of the independence movements §Rgrows§! slightly.\n
+The §Yunity§! of the independence movements §Rgrows§!.\n
+The §Ystrength§! of the independence movements §Gshrinks§! slightly.\n
+The §Ystrength§! of the independence movements §Gshrinks§!.\n
+The §Yunity§! of the independence movements §Gshrinks§! slightly.\n
+The §Yunity§! of the independence movements §Gshrinks§!.\n
+The §Yunity§! of the independence movements §Gshrinks§! slightly.\nThe §Ystrength§! of the independence movements §Gshrinks§! slightly.\n
+The §Yunity§! of the independence movements §Rgrows§! slightly.\nThe §Ystrength§! of the independence movements §Rgrows§! slightly.\n
+§RIf you pick this option, it will be you who will lead the Batavia conference when the time comes for it, rather than the local colonial government, but in the meantime the strength and unity of the independence movement will rise, making it less likely that this moment will ever come.§!
+§YIndonesia§! will be granted full independence when the Netherlands is recovered from the[HolexSyndicalistOrGerman]. This will disable the independence mechanic, but if recovery becomes too hopeless, it will undoubtedly return.\n
+§YIndonesia§! will be granted equal status within the Netherlands after the latter is recovered from the[HolexSyndicalistOrGerman].\n
+No concessions will be made to the Inlanders, there is no doubt they will not be happy with this decision.\n
+The §Yunity§! of the independence movements §Gshrinks§! significantly.\n
+The §Yunity§! of the independence movements §Rgrows§! significantly.\n
+If the operation is successful, a civilian factory in the Netherlands will be damaged.
+§Y4§! resistance members died, §Y2§! have been arrested, §Y19§! are forced into hiding.
+§Y7§! resistance members died, §Y1§! has been arrested, §Y17§! are forced into hiding.
+§YAn unknown amount§! of resistance members died, §YThe Rest§! has been arrested, §Y30§! unrelated members are being forced into hiding.
+§Y12§! resistance members died, §Y2§! have been arrested, §Y11§! are forced into hiding.
+§Y5§! have been arrested, §Y3§! of their contact persons are forced into hiding.
+If the operation is successful, a railway in the Netherlands will be damaged.
+If the operation is successful, an arms factory in the Netherlands will be damaged.
+§Y5§! trap is set. It will be activated next time the resistance executes an operation where we can catch them where they are.
+§Y8§! members of the resistance have been taken into custody.
+§Y4§! members of the resistance have been taken in o custody.
+No members of the resistance have been taken into custody.
+§Y9§! members of the resistance will need to go into hiding.
+§Y5§! members of the resistance will need to go into hiding.
+When we hold the Batavia conference, the Netherlands will lead the negotiations rather than us.
+After the Koninkrijksstatuut is enacted, the entire Great East Area, Batavia and Dutch New Guinea will become §Ycores§! and the Dutch East Indies will be integrated.
+After the Koninkrijksstatuut is enacted, the Moluccas, Westernmost lesser Sunda islands and Dutch New Guinea will become §Ycores§! and the Dutch East Indies will be integrated.
+After the Koninkrijksstatuut is enacted, the Moluccas will become §Ycores§! and the Dutch East Indies will be integrated.
+§Y750§! members of the resistance will become active.
+§CWill merge current KNIL ideas§!
+§CWill merge current KNIL ideas and provide the Complete Reform Idea§!
+Nederlandsch-Indië Apartheid-Cultuurstelsel\n§WUnder the direction of the VNH-strongman Johannes Furstner, the establishment of an Apartheid system has been installed, with strict laws and other etiquettes written to ensure that \
+Nederlandsch-Indië Apartheid-Cultuurstelsel - Batavia\n§WUnder the direction of the VNH-strongman Johannes Furstner, the establishment of an Apartheid system has been installed, with strict laws and other etiquettes written to ensure that \
+Nederlandsch-Indië Apartheid-Cultuurstelsel - Nederlands-Timor\n§WUnder the direction of the VNH-strongman Johannes Furstner, the establishment of an Apartheid system has been installed. The Timorese have always been overrepresented within the KNIL, and with the new \
+Nederlandsch-Indië Apartheid-Cultuurstelsel - Nederlands-Nieuw-Guinea\n§WUnder the direction of the VNH-strongman Johannes Furstner, the establishment of an Apartheid system has been installed. The Papuans are mainly tribal based, with little centralised representation, making them prefect to be moulded for our needs.§!
+Nederlandsch-Indië Apartheid-Cultuurstelsel - Molukken\n§WUnder the direction of the VNH-strongman Johannes Furstner, the establishment of an Apartheid system has been installed. It appears whilst these reforms were being made, the government turned a blind eye to those loyal to the government, and their actions against other natives. This has paid off, with both the Ambonese and Manadonese happy to align themselves with the current government§!
+Nederlandsch-Indië Apartheid-Cultuurstelsel - Flores en Soemba\n§WUnder the direction of the VNH-strongman Johannes Furstner, the establishment of an Apartheid system has been installed. These region is home to several cultures, though they have had a high amount of European influence, allowing for less restrictions to be enforced upon them.§!
+Nederlandsch-Indië - Failure\n§WWith the Javanese-Malay rebellion coming to an end, those states who didn't wish to join this new state, are still under Dutch protection... but for how long§!
+§RApartheid§! §Wwill be enforced within the Dutch East Indies.§!
+§WChanges will be made to the §RApartheid§! to promote certain cultures.§!
+The Independence Movement Unity must be §OMedium§! or higher
+The Independence Movement Strength must be §OMedium§! or higher
+Dutch East Indies M.A.Z
+Available members of the resistance
+Free hiding spots
+Informants
+Resistance Actions
+The Office of Special Assignments centrally directs the resistance actions against the tyranny of our homeland's current government by her majesty's loyalists on the ground in the Netherlands.\n\nAvailable Resistance Members: [?DEI.holex_active_resistance_members|-0]\n\nFree Hiding Spots: [?DEI.holex_free_hiding_spots|-0]\n\nHidden Resistance Members: [?DEI.holex_hiding_resistancemembers|-0]
+Counterresistance Actions
+The Secretariat for Revolutionary Safeguard, or Sereve as it's also known, is the main internal intelligence agency of the Batavian Commune. Since the exiles are organising a resistance in our country, they are responsible for cracking down on these reactionaries.\n\nInformants: [?DEI.holex_informants|-0]
+Recruit new members
+The more members our web of resistance harbours, the greater its strength! Let us recruit additional souls against the tyranny that haunts our land!
+Sabotage Civilian Factories
+We can dispatch a group of resistance members to sabotage key locations and thus weaken the enemy hold on our nation. Some of the men might die, find themselves arrested or be forced into hiding in this action, however.
+Sabotage Arms Factories
+We can dispatch a group of resistance members to sabotage key locations and thus weaken the enemy hold on our nation. Some of the men might die, find themselves arrested or be forced into hiding in this action, however.
+Recruit informants
+Without informants we are merely lost in the dark. We should recruit informants to infiltrate their resistance cell so we can in turn trap them.
+Establish safehouses
+We should secure safehouses or other places to put people into hiding, in case one of our operation goes south. If we find ourselves with insufficient hiding spots, we cannot ensure the safety of our operatives.
+Forge documents
+By forging documents and a new identity for our exposed members, we can put them back in action without them risking arrest the very first time they enter the streets again.
+Raise the Binnenlandse Strijdkrachten
+We have built quite a substantial resistance network. Now that the bevrijding is in full swing, we can raise the Binnenlandse Strijdkrachten, the internal armed forces, behind the enemy lines.
+Attack a Railway
+By attacking the infrastructure of the enemy, we can keep them busy repairing their infrastructure while we build up strength and disrupt their supply lines.
+Set up a Trap
+The exiles are trying to undermine our rule. By instructing our informants to guide the targeting to a particular goal, we might be able to catch a large group of them at once when they launch that operation.
+Roundup Reactionaries
+With sufficient intelligence on reactionary activities, we can now attempt to capture some of their leadership in the greatest police roundup to date.
+§H1§! Informant
+§R1§! Informant
+1 Informant will be uncovered by this operation.
+§H5§! Informants
+§R5§! Informants
+5 Informants will be uncovered by this operation.
+§H25§! Resistance Fighters
+§R25§! Resistance Fighters
+25 Resistance Fighters may be arrested, killed or forced into hiding during this operation.
+All members of the resistance returned and will be back into action soon.
+§H4000§! Resistance Fighters
+§R4000§! Resistance Fighters
+4000 Resistance Fighters will form militias to defeat the[HolexSyndicalistOrGerman].
+§Y10§! Safehouses will be found.
+§Y25§! Safehouses will be found.
+§Y50§! Safehouses will be found.
+§Y75§! Safehouses will be found.
+§Y150§! Safehouses will be found.
+§Y200§! Safehouses will be found.
+§Y300§! Safehouses will be found.
+§Y25§! Hiding members of the resistance will return to action.
+§Y10§! Safehouses will be found.
+§Y25§! Safehouses will be found.
+§Y50§! Safehouses will be found.
+§Y75§! Safehouses will be found.
+§Y150§! Safehouses will be found.
+§Y200§! Safehouses will be found.
+§Y300§! Safehouses will be found.
+This division template will start §Rlocked§! and will be §Gunlocked§! once we §Yliberate the Netherlands§!.
+ syndicalist menace
+ German menace
+ enemy
+Dutch East Indies
+Dutch East Indian
+the Dutch East Indies
+Bonifacius de Jonge
+§YBorn:§! §LJanuary 22nd, 1875, in The Hague, South Holland, Kingdom of the Netherlands§!\n§YBackground:§! §LA moderate conservative Jonkheer, De Jonge first rose to national prominence as chief legal minister during in 1910, and as interim minister of war during the Weltkrieg, his political standing was cemented. After a successful stint with the Batavian Oil Company, which was responsible for petroleum extraction and refinement in the East Indies, De Jonge was appointed governor-general of the East Indian colony. Something of a strongman, De Jonge has focused great effort on suppression of the emerging nationalist movement.§!
+Alidius Tjarda van Starkenborgh Stachouwer
+§YBorn:§! §LMarch 7th, 1888, in Groningen, Kingdom of the Netherlands§!\n§YBackground:§! §LJonkheer Alidius Warmoldus Lambertus Tjarda van Starkenborgh Stachouwer, is a Dutch nobleman and statesman. He has always been a dutiful civil servant and appears to be wishing to remove some authoritarian measures, but ultimately wishes maintain the status quo of the colony.§!
+Nico Palar
+§YBorn:§! §LJune 5th, 1900, in Tomohon, North Sulawesi, Dutch East Indies§!
+Abdulkadir Widjojoatmodjo
+§YBorn:§! §LDecember 18th, 1904, in Salatiga, Central Java, Dutch East Indies§!
+Pieter Sjoerds Gerbrandy
+§YBorn:§! §LApril 13th, 1885, in Goënga, Frisia, Kingdom of the Netherlands§!
+Ivo Samkalden
+§YBorn:§! §LAugust 10th, 1912, in Rotterdam, South Holland, Kingdom of the Netherlands§!
+Johan Ringers
+§YBorn:§! §LJanuary 2nd, 1885, in Alkmaar, North Holland, Kingdom of the Netherlands§!
+Lubbertus Gotzen
+§YBorn:§! §LOctober 10th, 1894, in Amsterdam, North Holland, Kingdom of the Netherlands§!
+Jan Jonkman
+§YBorn:§! §LSeptember 13th, 1891, in Utrecht, Kingdom of the Netherlands§!
+Charles Welter
+§YBorn:§! §LApril 6th, 1880, in The Hague, South Holland, Kingdom of the Netherlands§!
+Jan van Angeren
+§YBorn:§! §LMay 9th, 1894, in Utrecht, Kingdom of the Netherlands§!
+Rudolph Bakkers
+§YBorn:§! §LJuly 16th, 1894, in Kotaradja, Sumatra, Dutch East Indies§!
+Edzard Jacob van Holthe
+§YBorn:§! §LJanuary 29th, 1896, in The Hague, South Holland, Kingdom of the Netherlands§!
+Jan van der Hoop
+§YBorn:§! §LMarch 9th, 1893, in The Hague, South Holland, Kingdom of the Netherlands§!
+Jan Hilgers
+§YBorn:§! §LDecember 19th, 1886, in Probolinggo, East Java, Dutch East Indies§!
+The Volksraad
+§YFounded:§! §LMay 18th, 1918, in Weltevreden, Batavia, West Java, Dutch East Indies§!

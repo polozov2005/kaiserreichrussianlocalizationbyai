@@ -1,0 +1,461 @@
+An Emergency Meeting of the Ministries has been held.
+Ibrahim Bek has eliminated his political opponents.
+Ibrahim Bek has been outmanoeuvred by his political opponents.
+Does not have national spirit §YAftermath of the Revolutionary Coup§!
+We are currently consorting with one of our factions.
+§CIf the §0Reformists§! are §GContented§! or §GAppeased§! when this focus completes, we will receive increased §YStability§!.§!
+§CIf the §PTraditionalists§! are §GContented§! or §GAppeased§! when this focus completes, we will receive increased §YPolitical Power§!.§!
+If the §PTraditionalists§! are §RUpset§! or §RRebellious§! when this focus completes, we will §Rlose§! some §YStability§!.
+We shall draft the §YConstitution of the Emirate§!, granting special bonuses based on our choices.\n\n
+We shall decide whether to draft the §YConstitution of the Emirate§!, potentially taking our regime in a dramatically new direction.\n\n
+Were we to turn to the Russians now, we would lose the last vestiges of our independence! We must deal with this ourselves!
+§CDue to changes in the geopolitical situation, Bukhara has temporarily slipped out of our grasp! Once we reassert our dominion and protection over the Emirate, they will return under our control.§!
+The Atalyk will drag Bukhara into a new, more radical future under the §nRadical Absolutists§!, converting half of $authoritarian_democrat_coloured$ and $paternal_autocrat_coloured$ popularity into $national_populist_coloured$ popularity.
+A quarter of our $social_conservative_coloured$ and $authoritarian_democrat_coloured$ popularity is converted into $radical_socialist_coloured$ popularity.
+Gain §G1§! temporary Research Slot while this National Spirit is active.\n\nAfter §Y500§! days:\nModify §YJadid Education Reform§! by\n$MODIFIER_RESEARCH_SPEED_FACTOR$: §G+15.00%§!\n$MODIFIER_STABILITY_FACTOR$: §G+15.00%§!
+After §Y100§! days:\nModify §YBanditry and Dissent§! by\n$MODIFIER_POLITICAL_POWER_GAIN$: §G-0.10§!\n$MODIFIER_STABILITY_WEEKLY$: §G+0.20%§!\n$MODIFIER_COMPLIANCE_GROWTH$: §G+10%§!\n$MODIFIER_RESISTANCE_DAMAGE_TO_GARRISONS$: §G-10.00%§!
+Combine §YRepublican Constitution§! and §YControl of the Shadow Council§! into §YThe Revolution Secured§!\nEffective Change:\n$MODIFIER_COMPLIANCE_GAIN_ADD$: §R-0.01%§!\nDivision Organisation: §G+10%§!\n$MODIFIER_STABILITY_POPULARITY_FACTOR$: §G+20%§!\n$MODIFIER_COMMAND_POWER_GAIN$: §G+0.15§!\nDaily Totalist Support: §G+0.02§!\n
+Combine §YNational Populist Constitution§! and §YThe Uneasy Alliance§! into §YUnified in Party and Purpose§!\nEffective Change:\n$MODIFIER_POLITICAL_POWER_FACTOR$: §G+7%§!\n$MODIFIER_ARMY_MORALE_FACTOR$: §G+5%§!\n$MODIFIER_STABILITY_FACTOR$: §G+5%§!\n$MODIFIER_STABILITY_POPULARITY_FACTOR$: §G+15%§!\n$MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY_FACTOR$: §G+15%§!\n$national_populist_drift$: §G+0.01§!\n
+§YNazir Turyakululy§!, which grants ($MODIFIER_STABILITY_FACTOR$: §G+7.50%§!, $MODIFIER_WAR_SUPPORT_FACTOR$: §G+7.50%§!, $MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY_FACTOR$: §G+7.50%§!).
+§YTorekul Aitmatov§!, which grants ($MODIFIER_POLITICAL_POWER_FACTOR$: §G+5%§!, $MODIFIER_LAND_DOCTRINE_COST_FACTOR$: §G-10%§!).
+§YShadzha Batyrov§!, which grants ($MODIFIER_STABILITY_FACTOR$: §G+10.00%§!, $modifier_production_speed_industrial_complex_factor$: §G+10.00%§!).
+§YSayid Nasir Mirjalilov§!, which grants ($MODIFIER_POLITICAL_POWER_FACTOR$: §G+5%§!, $MODIFIER_LOCAL_RESOURCES_FACTOR$: §G+5.00%§!, $MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+5.00%§!).
+§YTuryakul Zhunazak§!, which grants ($MODIFIER_CONSCRIPTION_TOTAL_FACTOR$: §G+10%§!, $MODIFIER_STABILITY_FACTOR$: §G+10.00%§!).
+§YPolvonniyoz Hoji Yusupov§!, which grants ($MODIFIER_LINE_CHANGE_PRODUCTION_EFFICIENCY_FACTOR$: §G+10.00%§!, $MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+5.00%§!, $economy_cost_factor$: §G+-20%§!).
+§YBobooxun Salimov§!, which grants ($MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY_FACTOR$: §G+10.00%§!, $MODIFIER_RESEARCH_SPEED_FACTOR$: §G+5.00%§!).
+§YUsman Yusupov§!, which grants ($MODIFIER_GLOBAL_BUILDING_SLOTS_FACTOR$: §G+20%§!, $MODIFIER_CONSCRIPTION_TOTAL_FACTOR$: §G+5%§!, $MODIFIER_GLOBAL_MONTHLY_POPULATION$: §G+25%§!).
+The §PAbsolutist§! Faction of the §YManghud Dynasty§! will take power!
+The §BMajlis§! will take over the formal reins of government!
+We will have the opportunity to gain positive §YNational Spirits§! at the cost of faction §Ranger§! through a series of §YEvents§!.
+§RIncreases the strength of the Samarkand Dissidents!§!
+§GDecreases the strength of the Samarkand Dissidents!§!
+This will slightly §Graise§! support for our administration among the §0Reformists§!
+This will greatly §Graise§! support for our administration among the §0Reformists§!
+This will slightly §Rlower§! support for our administration among the §0Reformists§!
+This will moderately §Rlower§! support for our administration among the §0Reformists§!
+This will greatly §Rlower§! support for our administration among the §0Reformists§!
+This will slightly §Graise§! support for our administration among the §PTraditionalists§!
+This will greatly §Graise§! support for our administration among the §PTraditionalists§!
+This will slightly §Rlower§! support for our administration among the §PTraditionalists§!
+This will moderately §Rlower§! support for our administration among the §PTraditionalists§!
+This will slightly §Graise§! support for our administration among the §cRussians§!
+This will moderately §Graise§! support for our administration among the §cRussians§!
+This will greatly §Graise§! support for our administration among the §cRussians§!
+This will slightly §Rlower§! support for our administration among the §cRussians§!
+This will moderately §Rlower§! support for our administration among the §cRussians§!
+This will greatly §Rlower§! support for our administration among the §cRussians§!
+The details of our §YEmergency Tax Plan§! will be determined by which faction prevails during the emergency meeting of the Ministers.
+§RIgnoring the demands of the leading fathers of Samarkand could prove to have dire consequences!§!
+Following the completion of the refurbishing efforts, §Y50§! units of Bukharan §Y$artillery_equipment$§! will be added to the national stockpile, and Bukhara will receive §G+7§! Preparation and a §YNational Spirit§! improving Artillery §YReliability§! and §YProduction Cost§!.
+§YIf we rely on the local Russians to lobby Moscow on our behalf, they will advocate for the establishment of a Jadid-led republic.§!
+§YIf we rely on the local Russians to lobby Moscow on our behalf, they will continue to defend the Emirate.§!
+§Ythe agent sides with our cause!§!\nIf war breaks out with §YKhiva§!:
+§Ybetrayal!§!\nIf war breaks out with §YKhiva§!:
+Our §YDouble Agent§! in Khiva grants us the following spirit:
+Bukharan Communist Party
+Communist Party of Bukhara (Buxoro Kommunistik Partiyasi)
+Samarkand Labour Union
+Samarkand Labour Union (Saamrqand Zehmat Ittifaq)
+Bukharan Workers Party
+Bukharan Workers Party (Buxoro Ishchilar Partiyasi)
+Young Bukharans
+Young Bukharans (Yosh Buxoroliklar)
+$BUK_social_democrat_party$
+$BUK_social_democrat_party_long$
+$BUK_social_democrat_party$
+$BUK_social_democrat_party_long$
+Manghud Dynasty
+Manghud Dynasty (Majlis)
+$BUK_social_conservative_party$
+Manghud Dynasty (Obstructionists)
+$BUK_social_conservative_party$
+Manghud Dynasty (Absolutists)
+Lokai Fundamentalists
+$BUK_national_populist_party$
+$BUK_social_conservative_party$
+Manghud Dynasty (Radical Absolutists)
+Turkestan Workers Party
+Turkestan Workers Party (Turkestan Ishchilar Partiyasi)
+$BUK_red_coup_radical_socialist_party$
+$BUK_red_coup_radical_socialist_party_long$
+$BUK_red_coup_radical_socialist_party$
+$BUK_red_coup_radical_socialist_party_long$
+Young Turkestan
+Young Turkestan (Loyalist)
+Young Turkestan
+Young Turkestan (Opposition)
+Young Turkestan
+Young Turkestan (Opposition)
+Turkestan Workers Party
+Turkestan Workers Party (Turkestan Ishchilar Partiyasi)
+Young Turkestan
+Young Turkestan (Opposition)
+Young Turkestan
+Young Turkestan (Opposition)
+Young Turkestan
+Young Turkestan (Loyalist)
+Young Turkestan
+Young Turkestan (Loyalist)
+Young Turkestan
+Young Turkestan (Radical Modernists)
+Young Turkestan Party
+Young Turkestan Party (Yosh Turkistan Partiyasi)
+$BUK_rep_social_democrat_party$
+$BUK_rep_social_democrat_party_long$
+$BUK_social_democrat_party$
+$BUK_social_democrat_party_long$
+Bukhara
+Bukharan
+$BUK$
+Bukharan Socialist Republic
+the Bukharan Socialist Republic
+$BUK_totalist$
+$BUK_totalist_DEF$
+$BUK_totalist$
+$BUK_totalist_DEF$
+Mohammed Alim Khan
+§YBorn:§! §LJanuary 3rd, 1880, in Bukhara, Emirate of Bukhara§!\n§YBackground:§! §LEmir Sayid Mir Muhammad Alim Khan was groomed from birth to be the pawn of a foreign Emperor. At thirteen, the young prince was sent to Saint-Petersburg, where he studied modern military strategy and administration, while soaking in the culture of the Russian court. He returned home in 1909 as a Grand Prince by order of the Tsar, and would ascend as Emir only a year later. His first decree forbade his ministers, officials, and tax collectors from accepting bribes, leading the many progressive Jadid intellectuals to hail him as the grand reformer their Emirate desperately needed. This optimism would be short lived, however, when his second decree was promulgated, sending several prominent Jadids into Siberian exile. Alim Khan was happy to cut away ancient bureaucratic bloat, but he knew well that there was no place for an all-powerful unelected dictator in the plans of the reformers, and he provoked and purged these gadflies throughout his reign.\n\nThe Emir would prove to be a savvy, if sluggish, political operator during the Russian Civil War. He threw his weight behind neither Red nor White until the victor was certain, and (barely) staved off revolution domestically with a package of limited democratic and meritocratic reforms. In the years of peace since, the Emir has done everything in his power to undercut and undo these concessions, with the continued support of the violently conservative Lokai Tribal Chief Ibrahim Bek, who he has named Atalyk (regent) of the realm. With his fundamentalist base secured, it is only a matter of time before Alim Khan feels safe enough to try his hand at subduing his rebellious subjects once and for all.§!
+Fayzullah Khodjaev
+§YBorn:§! §LJune 1st, 1896, in Bukhara, Bukhara Beylik, Emirate of Bukhara§!
+Sadriddin Ayni
+§YBorn:§! §LApril 15th, 1878, in Sāktare, Bukhara Beylik, Emirate of Bukhara§!
+Ibrahim Bek
+§YBorn:§! §L1889, in Koktash, Hissar Beylik, Emirate of Bukhara§!
+Mulla Abdul Qahhor
+§YBorn:§! §L1884, in Saidkent, Bukhara Beylik, Emirate of Bukhara§!
+Shahmurad Khan
+§YBorn:§! §L1910, in Bukhara, Bukhara Beylik, Emirate of Bukhara§!
+Kayumz Mirza
+§YBorn:§! §Lin the Emirate of Bukhara§!
+Nizamaddin Urganji
+§YBorn:§! §L1871, in Hissar, Hissar Beylik, Emirate of Bukhara§!
+Usman Khodjaev
+§YBorn:§! §L1878, in Osh, Fergana Oblast, Russian Empire§!
+Mustafa Münip Uzsoy
+§YBorn:§! §L1880, in Kostantiniye, Vilayet of Kostantiniye, Ottoman Empire§!
+Abdusalim Dekhkanbaev
+§YBorn:§! §LOctober 26th, 1906, in Ashirkuzi, Fergana Oblast, Russian Empire§!
+Eshon Khan
+§YBorn:§! §Lin the Emirate of Bukhara§!
+Abdurauf Fitrat
+§YBorn:§! §L1885, in Bukhara, Bukhara Beylik, Emirate of Bukhara§!
+Akmal Ikramov
+§YBorn:§! §LSeptember 1898, in Tashkent, Syr Darya Oblast, Russian Empire§!
+Mahmudkhodja Behbudiy
+§YBorn:§! §LJanuary 20th, 1875, in Samarkand, Samarkand Oblast, Russian Empire§!
+Yuldash Akhunbabaev
+§YBorn:§! §LJuly 13th, 1885, in Djuibazar, Fergana Oblast, Russian Empire§!
+Ivan Belyayev
+§YBorn:§! §L1875, in Saint-Petersburg, Saint-Petersburg Governorate, Russian Empire§!
+Alla Nazar
+§YBorn:§! §Lin the Emirate of Bukhara§!
+Umar Khan
+§YBorn:§! §Lin the Emirate of Bukhara§!
+Alat Nalvan Ilmirzaev
+§YBorn:§! §Lin the Emirate of Bukhara§!
+Aleksandr Miller
+§YBorn:§! §L1868, in Saint-Petersburg, Saint-Petersburg Governorate, Russian Empire§!
+Khaider Khoja Mirbadalev
+§YBorn:§! §L1864, in Orenburg, Orenburg Governorate, Russian Empire§!
+Rakhim Khan
+§YBorn:§! §Lin the Emirate of Bukhara§!
+Mirza Nasrullah
+§YBorn:§! §L1860, in Shakhrisabz, Shakhrisabz Beylik, Emirate of Bukhara§!
+Munavvar Qori
+§YBorn:§! §L1878, in Tashkent, Syr Darya Oblast, Russian Empire§!
+Muhiddin Mansurov
+§YBorn:§! §Lin the Emirate of Bukhara§!
+Shirinsho Shotemur
+§YBorn:§! §LDecember 1st, 1899, in Roshan Beylik, Emirate of Bukhara§!
+Nisar Muhammad Yousafzai
+§YBorn:§! §L1897, in Swabi, Province of the Punjab, British India§!
+Amin Niyazov
+§YBorn:§! §LNovember 7th, 1903, in Fergana, Fergana Oblast, Russian Empire§!
+Revolutionary Council
+§YFounded:§! §Lin Bukhara, Bukhara Beylik, Emirate of Bukhara§!
+Filipp Panov
+§YBorn:§! §LOctober 11th, 1870, in Nikolaev, Kherson Province, Russian Empire§!
+Veli Kayyum Khan
+§YBorn:§! §LJuly 15th, 1904, in Tashkent, Syr Darya Oblast, Russian Empire§!
+[BUK.GetName] Focus Tree
+Parade the Lashkarya
+The standing 'army' of Bukhara is, for the most part, a motley grouping of rough looking divisions and phantom armies, which exist on paper but have no soldiers, simply drawing money into the accounts of unscrupulous administrators and commanders. We should show those few units which are the exception - those dressy and gleaming elites of the Emirate.
+Meet with the Cotton Barons
+Far from the vaulted ceilings and grandiose stonework of the Ark of Bukhara, a small European home plays host to many of the most influential men in the Emirate. These great titans of the cotton industry squabble and gripe in smoke filled rooms, in many ways deciding the economic fate of the realm on their balance sheets and trade tables. It is time to pay them a visit.
+Reaffirm Emergency Taxes
+At the height of the Central Asian Crisis, our ministers proposed a series of emergency taxes on goods, hoping that a shock to the military budget would lead to a more modern army. While the modernization efforts have largely laid stagnant, the newfound wealth has been integral to the everyday operations of our government. Continuing these taxes for another year will be unpopular, but necessary.
+Untangling the Administration
+Hundreds of years of institutional rot eat away at our government, stifling the efficiency of our administration and leaving us vulnerable to corruption and mismanagement. The councillors and experts are too feeble and effete to challenge this status quo, but there are some left in our government who understand that sometimes, the best way to get rid of an infestation of rats is simply to bash the lot of them.
+Shuffle the Council of Builders
+There are few who travel to Bukhara without taking the time to revel in the majesty of its architecture, but fewer still who would claim that the great works of the city are anything but ancient. The Council of Builders was an informal grouping of skilled workers, assembled during the lowest points of the reform era. Today they are little more than a leech, growing fat on the government's dime.
+Purchase Failing Cotton Plantations
+While there is fertile land to be found across our realm, we see little in the way of revenue from our farmlands. Extensive Russian investment into cotton crops has borne some fruit, but with uncertainty in global markets our honored guests scramble to pay out their creditors. The time is ripe to purchase some of these marginal plantations, even if such acts will deplease our allies in Moscow.
+The Twin Sisters of the Silk Road
+At the height of transcontinental trade passing through Central Asia, Bukhara and Samarkand were the two greatest jewels of the Steppes. In the years following, Samarkand would find itself as the center of Islamic rule in the region, and the seat of many famous rulers ranging from Abu Muslim to Timur himself. We must give this city the respect it deserves, as an autonomous but subservient part of our realm.
+The Emir's Right Hand
+Ever since the red menace threatened to dethrone our Emir, the old rivalry between the Lokai leader Ibrahim Bek and Alim Khan has turned into a pragmatic alliance against those who would sell Bukhara to the devil. A proven military commander and a devout Muslim, Ibrahim is an invaluable ally to the throne, a role which we will make clear in our elevation of the role of Atalyk above all other positions in the Emirate.
+Strengthen the Militias
+The heart of our military has long been the peasant levies, drawn up in times of crisis to serve as reluctant cannon fodder and unmotivated soldiers. It has been years since we have taken an accurate tally of the able-bodied men in our realm, however, meaning that some of the more cunning peasantry could avoid impressment if a conflict were to break out. This is unacceptable.
+Reform the Professional Army
+The permanent army of Bukhara, the “Lashkarya,” is little more than a collection of border guards, ill-fitted to face any force stronger than demoralized bandits or uppity peasants. Extensive reforms are needed to bring the Royal Army up to modern standards, especially in the face of growing resistance from the more conservative members of our administration.
+Expand our Fortifications
+For the last decade, our northern border has been threatened by the rogue warlord Madamin Bek, hungry for the riches of Samarkand. While the watchful eye of our Russian patrons have kept us safe so far, we must take matters into our own hands. A series of outposts along our northern border could help to contain our aggressive neighbour, and buy us time to mobilize our militias.
+Refurbish Ancient Artillery
+Poverty makes for ingenuity, and there are few places poorer than Bukhara. Just because a cannon was used to scatter the Turkmen tribes in 1762, does not mean said cannon cannot scatter the Turkmen of today. We will refurbish older stock to equip as many of our units as possible with some form of heavy fire, even if it is not remotely up to modern standards.
+Reassess our Military Position
+For years, the official position of our military forces is that they should serve as little more than the auxiliaries of our Russian protectors. As the situation in Europe heats up and the warlord in Turkestan grows confident, we may have to face a new, frightening reality. If the Basmachi march south, it may be entirely up to us to defend our homes.
+Import Foreign Expertise
+While it is disappointing to our administration, the truth of the matter is that we are largely dependent on foreigners to take advantage of our natural wealth and fund the modernization of our state. With this influx of foreign technology and investment comes the need for bright minds from abroad. After all, did the great Emir himself not study in snow-covered halls of Saint-Petersburg?
+Promote the 'Young Turks'
+A few years ago, some of our finest officers were invited to travel to the Ottoman capital to better learn the art of modern warfare. While our Russian patrons chafed at this foreign interference, even they could not argue against the benefits of such an endeavor. It is now time to harvest the fruits of this mission by promoting these young officers into positions of prominence, and reforming our Royal Army around them.
+Invite Additional Russian Advisors
+The core of our new Royal Army is a thoroughly Russian body, trained in their style and trappings, and equipped with the finest surplus Russian equipment gold can buy. Every success we have achieved in updating our armed forces has been thanks to the cooperation and expertise of our Russian advisors, and if we hope to make further strides we will once again need the support of adventurous and innovative Muscovites.
+Fire Barrage Tactics
+Artillery is a modern technology, with modern applications and modern problems. For a nation like ours, with a limited industrial base and little opportunity to purchase these advanced armaments, we will need to pool our indirect firepower into carefully selected locales, to assert local firepower superiority and better support our soldiery.
+Echeloned Defence Tactics
+The terrain of Central Asia makes fortification difficult, while the foothills and steppes are perfect for stretching enemy logistics, meaning that by holding significant reserves and marshaling our limited military forces, we can potentially take on opponents with greater numbers and resources.
+Rein in the Clans
+Outside of the capital, our realm is ruled largely through a network of feudal patronage networks, with powerful clan leaders paying little more than lip service to the central government. While the last couple of decades has seen remarkable centralisation of the hinterlands, recent neglect has led several of our more independently minded Beys to suddenly forget their newfound obligations to the central government. We will need to remind them.
+Restore Magok-i-Attari Mosque
+Originally a Zoroastrian temple in the heart of Bukhara, the Magok-i-Attari Mosque was built in the years immediately following the Arab conquest of the region. The complex has been renovated several times over the following millennium, and has held a storied past as the home of both Muslims and Bukhara's population of Jews throughout the centuries. We should restore it to its former glory.
+Our Contacts in Afghanistan
+Many of the Tajik and Uzbek tribal leaders in our nation have fostered ties across the border in Afghanistan. After all, in the hinterlands of our Emirate one's loyalties lie with local authorities far above that of Kabul or Bukhara. We must draw upon these cross-border connections for our benefit, drawing resources out of friendly chiefs to the south.
+Honour the Ulemma
+The Ulemma Jemyeti, or Board of Learned Men, is a council of Muslim leaders focused on maintaining the position of Islam and its clerics in Turkestan. Our commitment to Shari'a is absolute, and, regardless of Russian influence, the mullahs reign supreme in our society. With the godless socialists and their Jadid allies agitating against our Emir, the intervention of the Ulemma is needed.
+Call for the Faithful
+The foundation of our Emirate is our commitment and devotion to our faith, and while we take little stock in the opinions of the masses, it is the faithful who make up our most loyal subjects. We will need to galvanise this group of true believers against the poisonous words and treasonous actions of the godless and the misguided, or else these riotous mobs will tear apart our great Emirate.
+Jihad Against Jadidism
+When the survival of Islam in our realm is called into question, the Ulema are able to call for a “Gazavat” holy war of resistance, conscripting all able-bodied Muslim men into the service of our devoted Emir. Such a proclamation has not been made since the days of the Russian Revolution, yet our very religion is threatened by the heretical teachings of the Jadids and their allies.
+Manage the Ministries
+The central government of Bukhara is made up of a complex assortment of officials, who often bicker over their overlapping responsibilities and powers. Recently, however, the government has truly devolved into a sort of diarchy, with ministers loyal to the Kushbeggi and administrators loyal to the Atalyk each carving away at any semblance of healthy governance. We must put these troublemakers in their place.
+Empower the Kushbeggi
+There is not a soul in Bukhara who does not see Kushbeggi Nizamaddin Urganji as a puppet of the conservative mullahs, but there is a reason that this wise statesman has retained his post for more than a decade. He has repeatedly proven his loyalty to the Emir, and has served as a stalwart defence against the radicalism which creeps further and further into our nation. With our full support, he may continue in his dutiful administration.
+Loosen Uzbekisation
+Our Emir has learned much about the Russification efforts employed by the old Tsardom while studying in Saint-Petersburg, and in turn formulated a strategy to forcibly educate the Tajiks in Uzbek customs and language. This policy has done little aside from creating a generation of Tajik subjects who despise their Emir. By loosening this policy of forced assimilation, we can extend an olive leaf.
+Empower the Majlis
+In the years following the Civil War, Jadid elder Mirzo Abdulvohid Munzim dominated the domestic policy of the nation as Chairman of the Majlis, presiding over a decade of semi-constitutional rule. His death allowed Alim Khan to circumvent the reforms, but recent events have forced the Emir to once again allow the Council to meet, potentially ushering in a new era of Bukharan reformism.
+Force a Meeting of the Moderates
+In the aftermath of the Atalyk's gamble for control, the various oppositional factions within our court have gone right back to counter-productive squabbling, threatening to once again freeze our government. While the Kushbeggi and the Majlis may not like one another, they've already shown their ability to work together in a crisis. We will force them to do it again.
+Strengthen State Institutions
+The period of dual rule under the Atalyk and Kushbeggi have created confusion in all levels of governance, as administrators picked and choosed who to report to, to which government taxes should flow, and what rules of law to listen to. It is time to reassert clear hierarchies of power and strong institutions which the state can actually rely upon in times of need.
+Enact Emergency Provisions
+Through godless guile and violent insurrection, the socialists and their allies in Turkestan have destabilized our control of Samarkand, threatening the heart of our realm. With our government no longer held by the shackles of deadlock, we can move fast to reassert control over our borders and preempt further revolutionary activity.
+Open the Caches
+At the height of the Central Asian Crisis, Russian garrisons retreating from Tashkent and Ashgabat carried vast stocks of arms, hoping to prevent their capture by the Persians or Basmachi warlords. When the situation settled, these stocks of largely outdated armaments were stored away, forgotten by the vast and disorganised Empire they belonged to. The Russians may have abandoned these arms, but we will ensure they find their way to the battlefield!
+The Last Stand for Bukhara
+Madamin Bek's dogs and Junaid Khan's bandits bear down on our capital, threatening to plunder and pillage their way through every alley and square until there is nothing left of our Emirate but a smouldering ruin. We will not turn and run, but rather hold fast, reinforcing the Karshin Gates and securing the vital bridges over the Amu Darya, Kashka Darya, and Zeravshan Rivers.
+Reconstructing the Emirate
+The battle for Samarkand has left our Emirate with deep scars, with a new generation touched by the brutality of war, our coffers depleted, and our faith in Russia shaken. Yet we stand now as we never have before. The rabble rousers in Tashkent called us the chained dogs of the kafir, but we showed them the depth of our resilience when we heated them on the battlefield.
+Expand the Beylik System
+Traditionally, the Emirate of Bukhara was divided into a number of Beyliks provinces, each ruled by an appointed governor. This foundational administrative system has served the Emirate well for centuries, and will be the framework for a new division of our realm into governorates, each led by a Bey whose true loyalties must lie more with the Emir than the lands they rule.
+Our Own Okhrana
+For too long, the control of our citizenry rested solely on the shoulders of our governors, who cultivated informal networks of informants and crudely crushed any sign of dissent. We must look north to the Russian model of surveillance, forming a purpose-built agency to monitor and combat revolutionary activity.
+Restore Order to the Territories
+The fighting in Samarkand and our borderlands proved one thing conclusively: while our control of Bukhara and its surroundings is complete, our ability to project power beyond that is hampered by poor lines of communication and transportation, and a moribund system of Governors and military districts. We must reorganise the military commands to match our recent reforms to the Beylik System.
+Develop the Heartland
+While it is tempting to cast our eyes far beyond the borders of our capital, we must remember that our home is Bukhara, the heart of the Emirate. Wealth should flow from the hinterland into the capital, not the other way around! We will lead a series of public work projects to make a worthy capital for our realm.
+§YBukhara§! gains the modifier §YJewel of Central Asia§!, which grants\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+15%§!\n      $MODIFIER_LOCAL_BUILDING_SLOTS$: §G+3§!\n\n
+Jewel of Central Asia
+Draft the Emir's Constitution
+The Emir has ruled for decades by decree, his powers held in check only by his advisors and commanders. The moderate Jadids have long clamored for the promulgation of a constitution and the establishment of a parliament, while the absolutists have increasingly adopted the notion of a constitution as a means to formalize the status-quo. With our victory in the War on the Steppes, we have the leeway to choose a path forward.
+Dealing with the Tajiks
+At the height of the crisis in Samarkand, the agitation of our rebellious Tajik subjects threatened to destabilize the entirety of our Emirate. For years, we have tried every possible approach towards dealing with the issue of these disloyal Tajiks, cutting deals and cutting off heads in even numbers. This indecision must end if we are ever going to stabilize the realm, and a clear policy towards the Tajiks must be drafted.
+Feared and Loved
+Years ago, the Italian philosopher Niccolò Machiavelli stated that, 
+A New Islamic Renaissance
+The rise of the Jadid reform movement among Uzbek and Tajik clergy has been disastrous to the culture and religion of our realm. These men have abandoned the very faith they claim expertise over, instead choosing to argue amongst themselves and scheme against the reign of a devout ruler. We will invest our resources into a new generation of scholars who can refute the heretical teachings of the kafir.
+Stretch our Wings
+For too long, we have been wholly cowed by our allegiance to apathetic overlords and the interests of foreign powers. It is time that we stretch our wings as a regional power, asserting ourselves as an equal partner, rather than a weak backwater. We may even wish to once again look to our borders and reclaim what rightfully belongs to our realm.
+Raise Urban Militias
+When the Emir was overthrown and a new democratic and socialist republic was declared, the vast majority of the tribal military and militia units abandoned our national cause, pledging themselves to local warlords or our enemies. While we will need to rely on our Russian allies, we can also move to equip urban workers with arms, organising them into loose cadres so that they may defend their homes.
+Promote Overlooked Merit
+For centuries, caste systems, tribal arrangements, and hereditary stagnation has meant that thousands of bright and capable minds have been ignored in the favour of the witless relatives of corpulent Beys. We will promote a new generation of driven and bright leaders, not from the bloodlines of Ghengis but from the harshest factory lines and dingiest farming hamlets. They will succeed where the old blood has failed!
+Complete the Purge
+The work of overturning centuries of ruthless authoritarian oppression, backwards brutality, and monarchical stagnation is neither pleasant nor easy. For every corrupt leech on the lifeblood of the peasantry we condemn to labor re-education, two reactionary parasites sneak under our gaze. Regardless, we must transition our frenetic programme of political cleansing with something a little more sustainable if we wish to stabilize the nation.
+Form a Provisional Government
+To gain the legitimacy we so desperately need, we will need to be willing to reach across to our republican brethren, even if we fundamentally disagree with them on the future our young republic needs. We will use Comrade Khodjaev's connections within the Young Bukharan movement to invite some members into a nascent government body. While their contributions will be limited, they will serve as valuable symbols of our unity!
+Draft Political Officers
+Our nation's military situation is marked by an unfortunate conundrum: those with significant military experience in the previous regime are politically unreliable, and those who are most ideologically committed unfortunately have little in the way of military experience. The best solution is to embed politically active officers into our units, so that our soldiers may learn more about the cause they are fighting for!
+Adopt 'War Socialism'
+Trying to coordinate the various tribal and urban militias, former army units, and barely-better-than-bandits irregulars is a gargantuan task, and our lack of clear hierarchy has threatened to unravel the fabric of our military coordination. We will subordinate all of our units under an emergency military council, made up of a small number of relatively trusted officers. It is frightening to grant them these sweeping powers, but we have no other choice.
+Wake the Sleeping Proletariat
+The people of Bukhara have been shackled by the chains of feudal brutality for centuries, with any attempt to educate the proletariat of their struggle stamped out by the violence inherent to the old system. It is no surprise, then, that there is next to no ideological development among the people of Bukhara, even a great number of urban workers. We must make them understand that we are fighting for their freedom!
+Dawn of Modern Turkestan
+For more than a thousand years, the Central Asian tribes have been dominated by petty khans, violent autocrats, and foreign governors. Finally, our nation can step out of the darkness of royalist control, and into the light of the modern world! Through our blood, sweat, and tears, we will turn Turkestan into a glorious and modern republic!
+Sweeping Land Reform Efforts
+The lands of Central Asia have great potential. While much of the region is harsh and fallow, there are areas which have great potential as fertile farming communities. Unfortunately for us, these lands are dominated by corpulent landowners who mismanage and squander the bountiful grounds granted to them by ancient Emirs. Unfortunately for these landowners, we are more than willing to expropriate these lands out from under their control.
+§YKhorezm§!, §YBukhara§!, §YSamarkand§!, §YTashkent§!, and §YKokand§! gain the modifier §YLand Reform Efforts§!, which grants\n      $MODIFIER_LOCAL_SUPPLIES$: §G+20%§!\n      $MODIFIER_RECRUITABLE_POPULATION_FACTOR$: §G+5%§!\n      $MODIFIER_LOCAL_BUILDING_SLOTS$: §G+1§!\n\n
+Land Reform Efforts
+Draft a Republican Constitution
+When Aleksandr Miller attempted to force a constitution through the halls of the Ark of Bukhara, he was rebuffed by the Emir, who was afraid of the ‘magical power' such a document would grant. The Emir was right about one thing, those powers granted by a constitution - checks and balances, fundamental citizen rights, procedures and institutions of government - do have a certain magic to them, a magic we hope dearly to utilise.
+Implement Education Reforms
+The Jadid progressive education reform campaign was one of the first true political movements in Central Asia, gathering the support of hundreds of leading intellectual figures and statesmen to action real and lasting reforms to the outmoded traditional madrasa education. Unlike our predecessors, who rewarded these brave and diligent pioneers with lashes, exile, and execution, we will support and fund these new modernisation plans!
+Hold Local Elections
+One of the essential foundations of our republic's legitimacy is our government's relationship with the people of Central Asia. We are the defenders of the people's will, and it is through the implementation of local national elections that we will truly reflect the spirit of our citizenry. Of course, some restrictions will be necessary to safeguard the fundamental nature of our republic.
+Eliminate the Warlords
+Even after our victories over the bandit realms of Junaid Khan and Madamin Bek, our lands are plagued by the remnants of their illegitimate states - roving bands of thugs and warlords, supported by clandestine insurgent enclaves. With our new national army empowered and reorganised, we finally have the tools to fully secure our nation by destroying these violent marauders and the dissents who protect them.
+Promote a Unified Language
+Chagatai Turkic was the shared language of our realm for centuries, but in the last two hundred or so years local dialects have diverged sharply from their now archaic origin. However, there is a cadre of brave intellectual thinkers who believe that, with the proper modernisation and implementation, we could once again forge a shared language, modelled on Chagatai but not beholden to some of its most difficult quirks.
+Tear Down the Folk Shrines
+The practice of Islam throughout Central Asia is tainted with local superstition, the divine truth corrupted by over a thousand years of local misinterpretation. We have established a network of local religious boards, meant to serve as the link between the government and the people, struggling to destroy the very unnecessary superstructures and incorrect interpretations of Islam.
+Reorganise the Republican Army
+Without a centralised, organised, and loyal army, our young republic does not stand a chance. Unlike our predecessors, we cannot rely on the support and command of local feudal chieftains and lords to supply us with soldiers and defend our government. Instead, we will need to build new institutions of military organisation from the ground up, gutting the atrophied officer corps of the Emirate and slashing and burning our way through its traditional structure.
+Break the Crowns
+While our people have been freed from the yoke of monarchical oppression, those living in foreign lands continue to suffer under the boot heel of sadistic and cruel monarchs, and the evil institutions which maintain their rule. We are proud to serve in a crusade to rid the world of these monstrous cretins - relics of the old world which must be drawn like poison from a wound.
+The §0Reformists§! are currently: §RRebellious§!\n
+The §0Reformists§! are currently: §RUpset§!\n
+The §0Reformists§! are currently: §LNeutral§!\n
+The §0Reformists§! are currently: §GContented§!\n
+The §0Reformists§! are currently: §GSupportive§!\n
+The §PTraditionalists§! are currently: §RRebellious§!\n
+The §PTraditionalists§! are currently: §RUpset§!\n
+The §PTraditionalists§! are currently: §LNeutral§!\n
+The §PTraditionalists§! are currently: §GContented§!\n
+The §PTraditionalists§! are currently: §GSupportive§!\n
+The §cRussians§! are currently: §RFurious§!\n
+The §cRussians§! are currently: §RAnnoyed§!\n
+The §cRussians§! are currently: §LConcerned§!\n
+The §cRussians§! are currently: §GAppeased§!\n
+The §cRussians§! are currently: §GPleased§!\n
+Revolutionary Activity:\n§GRevolutionary movements are quiet or adequately suppressed.§!\n\n
+Revolutionary Activity:\n§LWorrying reports of revolutionary activity in Samarkand.§!\n\n
+Revolutionary Activity:\n§RSamarkand dissenters openly and actively moving against us!§!\n\n
+Balancing the needs and desires of the factions is vital to Bukhara's safety. If either of the native groups are displeased with the direction of the nation, they may serve as a §Rdangerous fifth column§! for our many enemies! [BUK_get_balancing_act_russia]\n\n
+With the conflict in Central Asia over and our control over the region secured, we can rest much more easily regarding the dangers of the various factions. However, we should still remain cognizant of the influence that these groups continue to hold. [BUK_get_balancing_act_russia]\n\n
+Of special importance, we must keep the §cRussians§! happy, lest they grow unsupportive of our continued stewardship of Central Asia. If their attitude towards us is §RAnnoyed§! or §RFurious§!, we may be annexed by them once the war in Central Asia ends! 
+The Bukharan Balancing Act
+Bukhara is a nation divided along ideological, sectarian, and tribal lines, and little has been done to rectify this situation or unify these disparate peoples. To guide the government forward, these groups must be mollified or dealt with. The §PTraditionalists§!, representing the allies of the Atalyk and much of the military apparatus, are worried that their ancient privileges will be revoked, while the §0Reformists§!, representing much of the bureaucracy, especially in the semi-autonomous Samarkand city government, demand modernisation and change.\n\n[BUK_get_balancing_act][BUK_get_yb_strength][BUK_get_young_bukharan_support][BUK_get_atalyk_support][BUK_get_russian_support]
+Samarkand Notables Demand Action
+The Stifled Majis Demands Action
+Military Figures Demand Action
+Preparations for War
+The fighting that broke out in Central Asia during the Russian Civil War and the Tashkent Crisis proved one thing definitively: when faced by a hail of machine gun fire and artillery bombardment, even the most zealous warriors do not last long. It is no surprise then, that the attention of all the Central Asian powers is towards the modernisation and centralisation of their armies before conflict once again erupts in the region, putting each of the roughshod Basmachi armies to the test.\n\nOur Current Preparation Level is £GFX_supply_texticon [?BUK_prep|H0]§Y%§!\n\nIf our Preparation is below §Y50%§! by the time that war breaks out, the quality of our soldiers will suffer from our neglect.\n
+Arm the Lashkarya
+'Lose' Russian Aid
+Sufficiently Supply the Army
+Subordinate Militia Units
+Flatten Military Hierarchy
+Study Great War Doctrines
+Complete our Military Reforms
+The Council of Builders
+Maintain Bukharan Roadways
+Support Domestic Industry
+Consort with the Traditionalists
+Consort with the Reformists
+Consort with the Russians
+Moscow's Southern Bulwark
+Russian Economic Control
+At the height of the Central Asian insurrection, the Russian Republic recognized us as an independent state with dominion over the region of Samarkand. Regardless of this new geopolitical arrangement, our old hegemon still projects a great deal of influence over our economy. Russian capital and machinery have brought great technological and economic advancement to Bukhara. Almost all of the earnings from these new railways, cotton plantations, and gold mines go to their Russian owners, however, leaving us with only a paltry share of profits that were generated from our nation's fertile land and plentiful resources.
+Devastation from Black Monday
+Retaking Economic Control
+Reinvigorated Council of Builders
+Tribal Auxiliaries
+Holding Out For Russia
+Support of the Ulemma
+Additional Army Funding
+Austerity Measures
+Technocratic Recovery Plan
+Struggling Bureaucracy
+There are distinct tensions between the many branches of the Emirate's government. In recent years, the well-oiled machinery of the state has ground to a halt, as Emir Alim Khan has begun favouring intervening more directly in the affairs of his ministers. Fearful of the Jadid dominated Majlis, the Emir has left the central organ of government leaderless, instead filling postings with yes-men and loyalists. There is a fear amongst the reformists that the state bureaucracy is close to breaking down completely, whilst the conservatives criticize the current administrative system as having been hollowed out and ruined by reformists.
+Moribund Government
+The economic crisis which befell our government during the beginning of 1936 has proven to be the last nail in the coffin of our terminally ill administration. With the Majlis listless and leaderless and the Emir's favoured subordinates ill-equipped to deal with our current crisis, the basic functions of governance have broken down and our bureaucracy has been left disorganised and confused. The reformists have decried the current situation as the result of a systematic effort to unravel the Miller Reforms, while the conservatives point their fingers at the supposed corruption and bloat of the Emirate's administrative system as the cause of this crisis.
+Antiquated Army
+Although Emir Alim Khan personally studied at Russian military academies and has long been aided by Russian advisors, our attempts to reform the Bukharian army is a continuous struggle with few happy results. Most of our fighting force is still a glorified levy and tribal militia, to be called on in times of crisis. The standing army is showing promise, but has been slow to adapt to modern equipment and new tactics. Something must be done, before we are thrust into another war.
+Trouble with the Tajiks
+Driven Uzbekisation
+The Tajik Compromise
+Addressing the Tajik Question
+Formalized Tajik Equality
+Peace Optimism
+Funding Education Projects
+Rejuvenated Traditional Madrasas
+Cautious Jadid Education Experiments
+Increased Beylik Authority
+Beholden Governors
+The Chairman's Constitution
+The Compromise Constitution
+The Kushbeggi's Constitution
+The Atalyk's Constitution
+Nascent Nationalist Zeal
+Purging the Tyrants
+Finishing the Job
+Aftermath of the Revolutionary Coup
+Military Leadership Vacuum
+Political Officers
+Meritocratic Surge
+Emergency Military Council
+Optimism of the Idealists
+Republican Constitution
+The Revolution Secured
+Dream of the Popular Front
+Topple the Tyrants!
+The Uneasy Alliance
+Learning to Live with Each Other
+National Populist Constitution
+Unified in Party and Purpose
+Zealous Military Command
+Control of the Shadow Council
+Civilian Controlled Republican Army
+Language Unification Programme
+Jadid Education Reform
+Uprooting Religious Norms
+Religious Boards
+Reforming the Army
+Continuing Army Reforms
+Continuing Army Reforms
+Artillery Modernisation Efforts
+Artillery Modernisation Efforts
+Ottoman Trained Officer Corps
+Additional Russian Advisors
+Elastic Defence Focus
+Offensive Firepower Focus
+Defensive Army
+Flexible Army
+Flexible Army
+Offensive Army
+Motivated Militias
+Emergency Provisions
+Bukhara's Last Stand
+Negotiations with Samarkand
+Negotiations with Samarkand Stalling Out
+Failure at Samarkand
+Shuffled Ministries
+Khivan Double Agent
+The Emirate of Bukhara was rewarded for its support to the White cause, and has remained a steadfastly pro-Russian ally.\n\nBut as reformists from within seek to undermine Emir Alim Khan's rule, and Bukhara's neighbours to the north and west covet his wealthy lands, the future remains uncertain.\n\nWill the Emirate hold on, or collapse to the dustbin of history as just another one of Moscow's client states?
+GFX_BUK_intro
+Bukhara and the Civil War
+From Within and Without
+Reform vs Reaction
+As the civil war raged in Russia, so too did the Young Bukharan movement - in March 1918, they attempted to wrestle control of the Emirate of Bukhara. They were soundly defeated;  the conservative Emir Mohammed Alim Khan attempted to hold his position of absolute power against the emboldened and radicalized movement, executing Red emissaries and clamping down on dissent within his domain. The protectorate was able to hold on, largely due to the Emir's support for the White cause. The pre-war arrangements and treaties were quickly reaffirmed, and the Emir was more than happy to browbeat his increasingly rebellious subjects with the support of his old Russian allies.\n\nWith the external Red threat eliminated, the Emir of Bukhara turned to the insidious radical movement within the city of Bukhara itself. Having executed a number of prominent reformists at the height of the Civil War, the tension between the conservative and autocratic rule of the Emir and the popular Young Bukharan movement threatened to rip the city apart. While Alim Khan initially prepared to burn out the cancer of liberalism in his realm through a violent purge, news of this planned massacre reached the ears of the newly formed SR/Kadet Government in Moscow, which heavily pressured the Emir to negotiate with the democratic opposition. With the threat of Russian intervention into the issue looming over the Emir, he immediately set to work drafting a reform package which would satisfy the Russians while ceding as little power as possible.
+The Emir opened an elected Communal Majlis which could send proposals to be reviewed by the Emir and his newly formed Council of Ministers, an appointed body of elder statesmen who would serve the Emir directly. As an additional olive branch to the Young Bukharans, the elder liberal Mirzo Abdulvohid Munzim was appointed as the first Chairman of the Council of Ministers. These reforms alleviated the Russian pressure on Bukhara, and gave the people a voice to propose legislation, though the Emir was loath to actually pass anything which crossed his desk. However, the Council of Ministers proved to be a dynamic group, and Munzim spearheaded a number of minor reforms to the Emirate, shaving away bureaucratic bloat and developing meritocratic institutions.\n\nWith the fallout of the 1929 coup and the ensuing chaos in Central Asia, the Emir made his move. Sensing an opportunity to expand his influence, Emir Alim Khan declared himself the “Protector of Samarkand,” intervening in the conflict. Seeing the devastation of Semirechye, the city accepted the armies of Bukhara into their gates, and the leader of the Emir's armies, the disciplined Ibrahim Bek, began to prepare for a siege. Worried of a Russian or Alash attack from the north, and recognizing a hardened foe to his south, Madamin called off the invasion of Samarkand and prepared to defend his newly won territories.
+After the conflict, the divide between the Emir and his Council of Ministers deepened, as the liberal Council expanded their powers and reach at the cost of his own. Just when it looked as though the Young Bukharans would be able to force Alim Khan into instituting a constitution and democratizing the state, the liberals suffered a major setback upon the death of their de-facto leader, the Chairman of the Council Mirzo Abdulvohid Munzim. Seeing this opportunity to turn back the tides of reform, Alim Khan refused to appoint a new Chairman, leaving the post vacant and the Council rudderless.\n\nInstead, the Emir has delegated increased powers to the conservative and vitriolically anti-Russian Atalyk Ibrahim Bek, though this arrangement is both unpopular with the people and increasingly inefficient. Not only are the Jadid reformers upset with his rule; many of his ministers see the newly empowered Atalyk as a rabid and unleashed dog who threatens to bring the Emirate into conflict with Russia. Alim Khan is not convinced by such arguments, however, and knows that as long as he occupies the Ark of Bukhara, the Emirate will stand as a steadfast ally to Moscow.
+The Central Asian nations will come with §Cadditional paths and content§! in future updates.\n\n£white_dot Bukhara will become $paternal_autocrat_coloured$ if the focus §YJihad against Jadidism§! is taken. Otherwise, it will remain $authoritarian_democrat_coloured$.\n£white_dot If Russia is socialist, Bukhara will eventually turn $radical_socialist_coloured$ at the onset of the Samarkand Crisis, just before war with Turkestan and Khiva.
+Progressive Grey Eminence
+Progressive Puppet
+Tenacious Autocrat
+The People's Poet
+Cunning Ideologue
+Loved, but Feared
+Feared and Loved, Equally
+Feared...and Loved?
+Terror of the Party State
+Kushbeggi of the Ulemma
+Kushbeggi of the Ulemma
+The Emir's Fist
+Napoleon of the Lokai
+Revolutionary Pioneer
+Revolutionary Pioneer
+Patron of the Progressives
+Patron of the Progressives
+Islamic Modernist
+Islamic Modernist
+Father of the Tajiks
+Father of the Tajiks
+Progressive Grey Eminence
+Progressive Grey Eminence
+Kushbeggi of the Ulemma
+Kushbeggi of the Ulemma
+The Emir's Fist
+Napoleon of the Lokai
+Afghan Exile
+Tireless Meddler

@@ -1,0 +1,671 @@
+Austria Focus Tree
+Zerstörer (Z)
+Torpedobootzerstörer (TZ)
+Torpedoboote (TB)
+Aufklärungskreuzer (AK)
+Leichter Kreuzer (LK)
+Kreuzer (K)
+Großer Kreuzer (GK)
+Battles
+Admirals
+Cities
+U-Boot-Jäger (UJ)
+Minenabwehrfahrzeug (MT)
+Flakschiffe (FS)
+Panzerschiffe (PZS)
+Schlachtschiffe (SS)
+Historical Persons & Monarchs
+Geleitflugzeugträger (GFT)
+Flugzeugträger (FT)
+Weltkrieg Aces and Naval Reformers
+U-Boote
+Freedom for our Slovak Brethren
+The Bačkan Question
+Our Transcarpathia
+Rethinking our Administration
+Our Economy must be ready for such undertakings.\n\nThis of course means we need to overcome any ongoing economic crises.
+Has not applied economic sanctions against Greece
+We may now request army divisions from our Cisleithanian component states.
+We may now request army divisions from Hungary.
+§RYour allies will not be happy with this!§!
+§RYour subjects will not be happy with this!§!
+The Republic has accepted our diplomatic requests
+We have supported the Two Sicilies in Italy
+The Two Sicilies has refused our support
+We have supported the Republicans in Italy
+The Republicans in Italy have refused our support
+Austria has been defeated by the Belgrade Pact
+All kingdoms invited to the Ausgleich.
+All nationalities invited to the Ausgleich.
+§CAll [THIS.GetAdjective] divisions will be §Yinherited§!.§!
+§CAll [THIS.GetAdjective] divisions will be §Ydisbanded§! and their equipment and manpower transferred to our stockpile.§!
+Austro-Italian Friendship
+Austro-Italian Rivalry
+Oesterreichisch-Alpine Montangesellschaft
+Puch
+Leopold Gasser Waffenfabrik
+Semperit
+Austro Daimler
+Hansa-Brandenburg
+Škoda
+Phönix Flugzeugwerke
+Steyr
+Ganz Danubius
+AG Kapsch & Söhne
+Gräf & Stift
+Austria Aviatik
+Lohner
+Sauerwerke
+Stabilimento Tecnico Triestino
+Bayer Austria
+Böhler AG
+Simmering-Graz-Pauker
+Třinecké Železárny
+Wiener Neustädter Lokomotivfabrik
+Wiener Neustädter Flugzeugwerke
+Hirtenberger
+Škodovy Závody
+Baťa
+Elektro Praga
+Spolchemie
+Č-Z
+Praga Automobily
+Laurin a Klement
+Škoda Lokomotivy
+Tatra Kopřivnice
+Praga
+Aero
+Letov
+Škoda Plzeň
+Zbrojovka Brno
+Tatra
+Avia
+FÉG
+Rába
+MAVAG
+Ganz-MAVAG
+Ganz
+Manfréd Weiss Steel and Metal Works
+Feigl & Rotter
+Apollo Refinery
+Orion Electronics
+Magyar Lloyd
+Ungarische Flugzeugfabrik A.G.
+Danubian Aircraft Company
+CLB
+Uniwersytet Jagielloński
+Standard-Nobel
+Zakłady Mechaniczne Tarnów
+Aviatik Galizien und Lodomerien
+LWL
+Ganz Kroatien-Slawonien
+Elektra
+INA
+Prva Hrvatska Tvornica Rublja
+TAZ
+TŽV Gredelj
+Aviatik Kroatien-Slawonien
+Brodosplit
+Aluminij
+Univerzitet u Sarajevu
+Energopetrol
+BNT Tvornica
+IGMAN
+Bosanske Drzave Zeljeznice
+Aviatik Bosnia
+Ganz Danubius
+Austro-Hungarian Ties Broken
+The Crown of Hungary refuses to pay their taxes into the common coffers for the common ministries.\n\nThey are still discontent with the formation of the Kingdom of Illyria as a resolution of the South Slavic revolts of 1926, and see themselves as betrayed by the Viennese government. They wish to be compensated for the loss of the Croatian lands.
+Austro-Hungarian Ties Broken
+Slovak Pro-Independence Demonstrations
+Transylvanian Pro-Independence Demonstrations
+Paid Hungary Reparations
+The Vienna Circle
+The Vienna Circle is a group of philosophers and scientists, drawn from the natural and social sciences, logic and mathematics, who have met regularly at the University of Vienna since 1924.\n\nThe central thought behind their activities was 
+The Vienna Circle
+The Vienna Circle is a group of philosophers and scientists, drawn from the natural and social sciences, logic and mathematics, who have met regularly at the University of Vienna since 1924.\n\nThe central thought behind their activities was 
+Socialist Promises
+Divided Society
+Almost half of the population is unhappy with the result of the elections. We should fix this.
+Aftermath of Black Monday
+Tuned Economy
+Workers' Spirit
+Imperial Development Scheme
+Faith in the Kaiser
+The people have come to trust in the new Realm. Gott erhalte unseren Kaiser!
+Military Integration
+Political Instability
+The National Personal Autonomy Principle is in place. The many ethnicities of Austria are currently re-organising them in nation-parties, leaving the political landscape a chaos. Such a radical change was sure to come with a lot of instability, but even sceptics didn't anticipate it being so bad.
+Modernisation of the Common Army
+Victory Through Firepower
+k.u.k. Fliegerkorps
+Crownlands in Revolt
+The Syndicalist Menace
+Our neighbours and old allies are at war with France, a fact that one can hardly miss. What German military minds had expected to be over in a few weeks, has turned into a repeat of the Weltkrieg. Should the Communards be the victors of this war, not only will our interests in Italy be compromised, but the integrity of our Empire may be at stake. It might be best to put our differences aside and to fight side-by-side with the Germans once more.
+The Russian Menace
+The Great Russian Bear has reared its head in the east again, and threatens to not only retake all the land it lost during the Weltkrieg, but also to march into Germany itself. There is little doubt that, should Russia succeed in its aims, there will eventually turn their attention to us as well. It appears we must wade into the Eastern front once more, whether we like it or not.
+Reform the Donau-Adriabund
+Now that the war is over, the time has come to resume leadership on our own terms: as the head of the Donau-Adriabund alliance.
+Elections Decisions
+Endorse the Christlichsoziale
+Endorse the SDAP
+Already endorsing a party
+Join the Belgrade Pact
+Join the [GER.GetFactionName]
+The Anti-Belgrade Pact
+Leave the [BPL.GetFactionName]
+Form Czechoslovakia
+Unite with Poland
+Ultimatum to [FROM.GetNameDef]
+We have a simple demand to the \
+Unite with Germany
+Join the Vienna Circle
+Economic Rehabilitation Plan
+Established in 1935 during a conference to discuss the sluggish state of the Austrian industry, the Economic Rehabilitation Plan had to be put on halt due to the ongoing economic crisis. Still, its contents, with slight alterations, describe a good way to combat the disastrous effects of the Black Monday crash and to strengthen Austrian industry, now bereft of their main competitor.
+Škoda
+During the Weltkrieg, the Škoda Works to the west of Prague was our biggest arms producer, but has fallen on hard times with the overbearing power of German industries. With Germany rocked to the core by Black Monday, subsidies for Škoda is a large step in repairing our economy.
+Austro Daimler
+The Austro Daimler company made us many armoured vehicles and engines for our war effort. German cars and engines have flooded the market in the last decades, but with Porsche teetering on the verge of bankruptcy and Mercedes-Benz looking to follow suit, it is time to breathe new life into our automotive industry^.
+Institutionalise the Vienna Circle
+The Vienna Circle is a gathering of the brightest minds of the University of Vienna, brilliant mathematicians, philosophers, natural scientists who are at the forefront of scientific and philosophic research. We will make government funds available to them, but also move their work to new, more practical fields.
+Invite Others to Join the Vienna Circle
+With the Vienna Circle being well-established, funded, and gaining international recognition, the next step is to invite foreign countries with ties to the crown to take part in the research conducted there.
+Electrifying the Südbahn
+The Südbahn, or Southern Railway, is a railroad that runs from Vienna over Graz to Laibach and Triest, the main seaport of the Austro-Hungarian Monarchy, and finally Milano. Though still a major line of transportation, it was built from 1836 to 1860, so the tracks are in dire need of modernisation. Electrifying the connection would go over relatively swiftly, and help a lot with that.
+Austrian Civilian Economy
+Our already weak economy was reduced to tatters by the Black Monday crash, and the shock can be felt strongly in and around Vienna, but especially in the heavily industrialised Bohemia. Despite our neighbours suffering a similar fate, they already start recovering and outproducing us, so we must enhance our own economy through subsidies for key automotive and electrical companies in order to better compete.
+Alpine Mines
+The Alps have always been a rich mineral resource, but until now we had no idea true extend of the wealth we have been sitting on. Huge amounts of iron ore are being taken from our previous mines and new mines are springing up daily. Subsidising or partially nationalising these industries would greatly increase our economic independence.
+Austrian Military Economy
+The Austrian Army has always suffered from mismanagement and poor equipment, but in this day and age that is something we can no longer accept. Threats from Hungarian 'liberalists' and the nearby syndicalist nations that have vowed for our destruction are growing daily, so we must properly arm our brave soldiers in order to survive.
+Expand the Austrian Airbases
+The new technology of longer range monoplanes gives us great opportunities, both military and economic. If used as bases for the Fliegerkorps, it will allow us to gain aerial superiority without losing thousands of men. It can also be used to flying in new products and stimulate local economies.
+Ports of Istria
+Triest and Pflaum are our two principal naval bases, and are vitally important for our overseas trade. The navy, traditionally ignored by successive emperors, has begged us to increase the spending on industrial works and naval bases in Istria, and, swayed by their arguments about increased trade revenue, this emperor has listened.
+Expand Domestic Farms
+The fertile plains of Hungary and Lower Austria are covered in fields and farms, growing food to feed our empire. But these regions, particularly Hungary, suffer from less industrial investment and mechanisation. Starting a large scale effort to improve the farming techniques will cost us, but we will be rewarded with young, fit men ready for service.
+General Elections of 1936
+Elections were held every six years in the Austrian part of the Dual Monarchy, though since the end of the Weltkrieg, several of these acting periods have been cut short by reform or scandals.\nAustrian politics are dominated by the SDAP, the Social-Democrat Worker's Party, and the CS, the Christian-Socials. Both have different ideas on how to solve the ongoing crisis, but who will win?
+Public Welfare Reforms
+The main concern of the SDAP during the election campaign was to see that the Austrian worker lives through the ongoing crisis. They plan to reaffirm the many reforms introduced in conjunction with the CS since the Weltkrieg, and to provide pension for all those who have lost their jobs.
+Schools, Hospitals, and Parks
+Building new things is a great way to create short-term jobs. What is more, the things being built might end up providing even more jobs, and if it's schools, hospitals and parks, they are for the common good anyways, so apart from government money, there's nothing to lose.
+Naturfreunde
+Socialist tendencies were always something mostly harboured by city folk - and these city folk have since the dawn of the century found a new pastime: hiking. Many Viennese, many of them partymen, have come to enjoy climbing Austria's innumerable mountains in groups. Bringing hiking clubs to the countryside might help with bringing socialist sympathies to traditionally conservative areas.
+National Broadcasts
+Delivering concise and neutral news to the many remote regions of Austria has always been a bit of a problem, especially since the local newspapers have always had a certain political view inherent to them despite claiming otherwise. However, the radio might prove a solution to the problem - investing in the new machines might just bring Austria closer together.
+Work for the Workless
+Those who have lost their jobs with the ongoing crisis have already been granted pensions to hold them over the water. However, they still want work - since we already pay them anyways, we might as well employ them. Factories that have previously been shut down by their owners are now starting to sluggishly operate again, led by state-controlled councils.
+Initial Recovery
+The re-opening of some key industries has set the hare running again. While not quite turning a profit yet, we are producing what the people need again, and that is just what an economy needs to run smoothly. We're slowly opening up more industries, but only time will tell whether continuing to do so will lead to a full recovery.
+Past the Bottleneck
+After some initial recovery, the status of our economy has stalled for a while. However, it seems like it is finally taking a turn for the better, private industries are starting to follow the public lead and broaden production to keep up with their state-sponsored counterparts.
+A Recovering Industry
+The crisis is fading away, and in contrast to it, it seems like the Red Vienna policies have led to an age of prosperity. May the French and British say what they want, Social Democracy works for us.
+National Austerity Council
+The most important thing we need to remember when dealing with the ongoing economic crisis is that we must not let it accrue to already existing national debt. Austria's coffers need to be full, not empty, in the following years, and there is only one way to achieve this: Cutting spending drastically.
+Fill the Coffers
+What little we have, we must spend carefully - such was the creed of the CSP during the elections. Having in the last six years been involved in a major banking scandal, it was not sure that the people would trust us with their money. Now, we show them that they can.
+Getting Inflation under Control
+A nice bit of inflation is not a bad thing, hyperinflation is. We have to get rid of all that money circulating the market, and fast. The prices of bonds have been lowered and interest rates cranked up to the maximum; now we wait to see the effects of these measures.
+Careful Investments
+With our currency's value secured, we should take care that the little money we dare to spend goes to places that will return the investment. That of course means we have to look carefully at where our money can work the most. Thankfully, we have the assistance of a group of Austria's best economists.
+Compromise with the SDAP
+The Socialists have done quite the job stuffing their nonsense into the heads of the lowly cityfolk. Now that we are in power, we have to deal with that. We are meeting with the SDAP people to discuss the institution of some of the reforms they were marching for.
+Subsidies for Farmers
+The CSP has always been the party of the countryfolk. Socialists concern themselves only with the workers, and the farmers are too often forgotten. We are making this up for them by offering development grants.
+Mend the Social Rift
+All kinds of social classes are blaming each other for the disappearance of wealth, be it monetary or in goods. The Citizen blames the Farmer that he has no food, and the Farmer blames the Citizen that he has no money. Society is split, and only through careful discourse shall it be mended. This is where that arduous journey begins.
+What We Need
+Colonial Empires and Reichspakt labour are all fine and dandy, but it they are luxuries we do not need. You cannot live on consuming ivory and cast steel. Germany can go get sunburnt, as the man in Vienna knows his place, and wants what he truly needs - a functioning economy and society, free from outside influences.
+Expand the Austrian Military
+The economic woes of the Monarchy since the Weltkrieg has made it difficult for funds to reach the military. With the economic situation improving and tensions growing across the continent, military funding has significantly increased, allowing us to finally modernise our forces.
+k.u.k. Technisches Militärkomitee
+The Imperial & Royal Technical Military Committee, or TMK, with its origins dating from 1717, is an institution of the k.u.k. War Ministry tasked with the observation, development and application of military technology. Their role in modernising our armies is absolutely essential, ensuring that the Monarchy does not fall behind in terms of technological developments and that our troops remain well-equipped.
+Rifle Trials
+While the TMK was able to keep the Empire from falling too far behind despite limited resources, the War Ministry has yet to adopt a self-loading rifle for our forces. The committee wishes to rectify this and the Empire's numerous arms company are eager to compete for government contracts. In order to ensure that the best rifle is adopted, the TMK is organising new rifle trials.
+Artillery Modernisation
+While companies like Škoda and Böhler have been able to keep up with artillery development throughout the world thanks to foreign contracts, most of our artillery dates from the Weltkrieg. With the artillery being one of the most important pieces of military technology, the TMK is eager to replacing the military's ageing guns with modern ones as we expand our arsenal.
+Expand the Gebirgstruppe
+The Gebirgstruppe (Mountain Troops) includes some of the Monarchy's most decorated and respected units that repeatedly fought off Italian invasions. As they are essential to the Empire's defence and there are plenty of potential recruits in the Alpine and Carpathian regions, expanding and improving these units are a priority.
+Militär-Automobilwesen Expansion
+While the Austro-Hungarian Empire were pioneers in adopting automobiles for the military, they were always limited in numbers. The k.u.k. Militär-Automobilwesen is the section of the TMK responsible for the development and deployment of military vehicles. The importance of trucks is already clear to the General Staff and they made the motorisation of the army a priority.
+Tank Trials
+With the trauma of the Weltkrieg still fresh for many, tanks were eagerly embraced in the Austro-Hungarian military as their use were proven during the war, with companies such as Škoda and ČKD developing some of the most advanced tank designs in the world. As tank development rapidly advances, the TMK wants to hold trials for new tanks for different purposes.
+Funkgestützte Flugzeugortung
+The Hungarian mathematician Zoltán Lajos Bay's work on radars has caught the attention of the TMK and the Fliegerkorps, eager to put the invention into practice in order to improve the Empire's defences against threats from the skies. Experiments on the Funkgestützte Flugzeugortung (Radio-based Aircraft Locator) are proving fruitful and the Monarchy should have a working radar soon.
+Raketenflugtechnik
+There are a number of rocket scientists throughout the Empire, such as Eugen Sänger and Theodor von Kármán. While there are doubt about rocketry and its military applications, the Committee wants to develop rockets further, believing that their potential is too great to ignore.
+Reform the Armeeoberkommando
+The Armeeoberkommando (AOK), or Army High Command, was first formed in 1914. Its task was to unite the different commands of the Common Army, the Navy, the Austrian Landwehr and the Hungarian Honvéd to direct the war effort. Shortly after the war, however, the AOK was disbanded and our forces were divided once more. Recreating the AOK is deemed necessary to reunite the different forces.
+Janša's Central Planning
+Feldmarschall-Leutnant Alfred Janša von Tannenau, one of the possible candidates for the next Chief of Staff, believes in a defensive strategy for the Empire after the traumatic losses of the Weltkrieg. He believes that thorough planning and preparation are the best way to conduct a war, wanting to improve communications between commanders in order to limit casualties as much as possible.
+Hickmann's Superior Firepower
+Generalmajor-Ingenieur Emil Hickmann, a member of the General Staff, believes that the army should be focused on gaining a technical edge against the Monarchy's enemies. As the Weltkrieg remains a traumatic experience, limiting casualties is of utmost importance and Hickmann believes that improved fire support and equipment is key in modern warfare.
+Von Hubicki's Mobile Warfare
+General der Kavallerie Alfred von Hubicki, currently the commander of the Austro-Hungarian Cavalry, believes that the future of warfare are tanks and trucks. Mobility is key, with tanks being the new Hussars and Cuirassiers of the battlefield. This new cavalry must outmanoeuvre and overwhelm its enemies before they can react.
+Improved Communications
+Since the Weltkrieg began, inventions such as the radio has made communications between commanders and troops far easier. With better communications, high command can react to unforeseen events far more quickly, limit the damage they can cause, and counter.
+Maximise Fire Support
+Units must be properly equipped to be effective. The more support they have, the better they will perform with less casualties. This not only includes artillery, but trucks to evacuate the wounded, proper reconnaissance and maintenance units, and so on.
+Mechanised Cavalry
+While tanks are strong and all, they require support from the infantry or else they become extremely vulnerable. The infantry must be able to keep up with the tanks, and while trucks are good on roads, a tracked transport vehicle would be idea. Fortunately, a Hungarian unit has rebuilt obsolete tanks and artillery tractors into improvised armoured troop transports, which would fill the gap perfectly.
+Kavalleriepanzer Project
+As their name implies, Cavalry tanks effectively fill the role cavalry used to. Austria-Hungary has successfully developed and adopted several designs already and there is little impetus to change this. Since mobility is a key part of our new doctrine, development of new cavalry tanks must be prioritised.
+Infanteriepanzer Project
+While the military already has numerous successful cavalry tank designs, the Infantry tank project has been, thus far, unable to provide results. This must be rectified as infantry support is prioritised in our new doctrine and the project should be pushed further. The upcoming designs are becoming heavier and more expensive, but powerful and better protected.
+Modern Auftragstaktik
+Auftragstaktik, or Mission-type tactics, have been successfully adopted during the Weltkrieg. These tactics involve high command giving clearly-defined missions that subordinates work independently to accomplish, giving the latter great flexibility and encouraging initiative. Auftragstaktik can be adapted for modern war and applied to the new doctrine.
+k.u.k. Fliegerkorps
+Formerly known as the k.u.k. Luftfahrtruppen, the Fliegerkorps is the air service of Austria-Hungary. It was stretched thin during the Weltkrieg and had a limited number of aircraft at its disposal. Since the end of the war, little was done to rectify this as funding became scarce. With the military receiving substantial funds once more, modernising and expanding the Fliegerkorps is finally possible.
+Found the k.u.k. Flugschule
+While there are numerous flying schools across Austria-Hungary, there has never been a centralised academy to coordinate the training of pilots and officers for the Fliegerkorps. The creation of such an institution is essential to the reforms as it will create a new generation of officers and pilots, while also streamlining the Korps into something less ad-hoc.
+Fighter Trials
+Aircraft development is advancing at an amazing pace. In order to keep up, trials are to be held to adopt a new fighter aircraft for the Fliegerkorps. After all, fighters are arguably the backbone of the air force and will help ensure the safety of our skies.
+Light Bomber Trials
+Since supporting operations of the army is a priority for the Fliegerkorps, the adoption of a light bomber aircraft for this role is necessary. Potential designs vary from relatively \
+Heavy Bomber Trials
+Heavy bombers are a relatively recent development in aircraft technology and proponents of strategic bombing see their potential. Their long range and large bomb loads make them perfect for the role. Thus, trials are being held and aircraft companies are eager to win such a lucrative contract.
+Medium Bomber Trials
+The potential of a versatile medium two-engine bombers for a variety of different missions has caught the attention of high command. Since a tactical bomber would be very useful for the Fliegerkorps, aircraft manufacturers are, once again, competing in trials for the next generation of bombers.
+Phönix
+During the Weltkrieg, a small company in Vienna, bearing the name Phönix company has supplied our air force by producing licenced German planes for our market. Since then, the company has experimented with various designs, some of which might be the key to modernising the Fliegerkorps.
+The New k.u.k. Armee
+The reform of our army has been a long and expensive process, but it has finally paid off. New tanks, guns, ships and planes are rolling off the assembly lines and into our waiting armies, reformed and ready for battle with the enemies of the Empire!
+Reinforce the k.u.k. Kriegsmarine
+The k.u.k. Kriegsmarine has always been underfunded and unappreciated by the Austrian government and her people. Without a colonial empire the navy never had any real backing or strategic purpose. However, this is a dangerous mentality, and with new syndicalist threats in the Mediterranean, whole new Kriegsmarine is vital to protect our heartlands.
+Flexible Warfare
+Our naval staff have decided to pursue a doctrine surrounding U-boats and convoy raiding, in order to be able to afflict as much damage as possible without having to face the overwhelming power of the French and British navies. Our Unterseeboots will strike the enemy where it hurts most, in the economy.
+Large Navy Plan
+In line with traditional doctrine, the Kriegsmarine staff have decided to support the larger surface fleet we currently possess. Centred around larger and larger battleships and increasing our firepower through larger naval guns, these ideas will help us project our power and support land operations.
+Austrian Capital Ship Plan
+The staff have begun a concerted effort to improve upon our battleship designs, bringing more firepower to our battles. Increasing the size of the guns and the armoured belt allows our battleships to take far more of a beating leading attacks and deal far more damage in them as well.
+Austrian Small Ship Plan
+It has been decided that we need new models for destroyers and light cruisers, to combat enemy submarines and establish a surface presence. While our submarines are all well and good, larger ships are need to support land operations and do the tasks submarines do not have the firepower to complete.
+The Cattaro Airbase
+First built in 1914 as a base from which reconnaissance flights over the Adria were flown during the Weltkrieg, the k.k. airbase in the Bay of Cattaro, or Kotor, has fallen in disuse after the end of the war. However, its position close to the entry of the Adria might still prove strategically important.
+Ausgleich Renegotiations of 1937
+Every ten years, 60 delegates from each half of the Austro-Hungarian Monarchy meet to adjust each half's financial burden to Common affairs. Since 1927, Hungary has refused to pay its part in protest the creation of Illyria. This year's renegotiations could completely change the internal balance of the Monarchy.
+End the Dual Rule
+The rebellious crownlands have been subdued, but we have no intention of letting them free in any capacity in the near future. Let all those who even think to challenge the Austrian Empire face the same fate they have.
+Status Quo
+Just like a decade prior, our negotiations for an administratively united Empire fell flat. We cannot do more than bide our time while trying to bind Transleithania closer by reform.
+The All-Austrian Development Scheme
+Although nominally the Empire has been reunited under one central government, the reality is a vastly different story. The old realms need time and effort to be integrated with the imperial administration, and for the myriad peoples of the Empire to accept our rule.
+Renew Sicilian Ties
+After the Weltkrieg, we reorganised Italy into a Federation of pre-unification states led by a Habsburg, but after we withdrew from the south of Italy in 1925 most of the Federation abandoned our ambition and it collapsed. Should we rekindle our Neapolitan ties?
+Regime Change in the Republic
+The Italian Republic in Milan to our South will always be a danger and thorn in our side. If we wish to return Austrian dominance to Italy, we must demand the Republicans restore power to the Council of the Italian Federation, so that they can't betray us when they have taken the rest of northern Italy.
+End the ANI
+The Italian Nationalist Association is, almost by definition, our mortal enemy. Their leaders are madmen, their nationalist rhetoric is dangerous, and their claims on our southern lands are unacceptable. We are not as vulnerable as they thought, and we will crush them like the insects they are.
+Friendship with Milan
+Since the southern Italian states seem unlikely to help us restore the Federation, we should put all our hopes in our ally in Milan. They have kept faith with us for a long time, and we shall return that friendship.
+Unify the Italian Lands
+The rising of the Italian syndicalists in Turin split the country in two, with the French backed Socialist Republic of Italy in the West, and the Italian Republic on our border. With Germany and France openly hostile to each other, helping out the Republic will not only endear us to them, but secure our flank for a war with France.
+The Transcarpathian Railway
+Reaching the far ends of the Empire had been hard to do for the past two decades, with Hungary refusing to let us modernise their railway network. Now that we are in control again, let us implement an old plan - a high velocity railway straight across the Carpathian Basin.
+Expand the Bohemian Infrastructure
+As the main border region between us and Germany it is vital that roads and rail systems remain well maintained and large enough to transport our army should a conflict break out. After the short but very mechanised war, Bohemia's roads are everything but well maintained, not helped by the fighting in the region from Czech rebels.
+Expand the Prag Ironworks
+With Prag now under the control of the new central government, it has become evident that the steel production of the city has fallen far from what should be. A new plan to subsidise the Prag Ironworks has been floated by the Kaiserrat, and it seems to have caught the attention of the Kaiser and the imperial administration.
+Rebuild the Hungarian Industry
+While mainly a rural country, Hungary did have large civilian industries towards the west, where, unfortunately, the majority of the fighting took place. Budapest, partially destroyed from the war, shall become the centrepiece of an effort by the imperial government to return the war-torn area to its former glory.
+Claim the Hungarian Skies
+Hungary is a vast country, and it is difficult to respond quickly to any new threat, especially from Romania and the Balkans. The construction of new airfields across the country will remedy this problem, as well as supporting local economies and the rebuilding effort across the country.
+Expand Bosnian and Croat Industry
+While not as damaged by warfare as Hungary, Bosnia and Croatia still suffered damage, which is being exacerbated by ethnic terrorism and dissent. However, as an important region for our navy and for civilian trade, the creation of new industries in this area would do far more for our economy than can be ignored.
+Buildup Adriatic Ports
+With new industry in place, it is time to increase our shipbuilding capacities and our capability to facilitate trade vital to our industries. These brand new shipyards will support our navy and merchant marine, ensuring our primary in the Adriatic over any potential Italian usurpers.
+Crush Serbia
+Serbia has long been a thorn in our side, from raids into Hungary during the period of Ottoman dominance to the death of Franz Ferdinand and the attacks on Bosnia. Such a belligerent nation cannot be allowed to sit on our border unchallenged, defying the authority of the Emperor solely by its own existence.
+Claim Romanian Lands
+The Romanian regime under Corneliu Codreanu claimed large parts of Transylvania and our easternmost provinces, on the grounds of large ethnic Romanian communities in the area. However, the current political instability renders the Romanian army far less effective than it could be, so now is the time to claim all Romania and Romanians for the Emperor!
+Reclaim Silesia
+Silesia was seized by the Prussians in 1742 during the War of Austrian Succession, and have held onto the former industrial heart of Austria-Hungary for nearly two hundred years now. With Germany being particularly unstable this time of year, we feel like now would be a good time to retake what is ours.
+The Empire Reborn
+Austria is not just a geographical region or a country. It is an idea, an expression of the belief in a holy Catholic Empire that has been given a mandate to watch over Europe. Though for centuries our authority has been challenged within and without, our Empire has always persisted, for it is Austria's destiny to rule the world.
+The Cisleithanian Development Scheme
+Proposed not just in part as a way to undercut Hungary by outperforming them, the Cisleithanian Development Scheme aims to bring the many regions of Cisleithanian Austria closer together, and to bring them economically up to par with the more developed areas of the Empire.
+The Illyrian Südbahn
+The Südbahn, already competed towards Triest, could be easily extended into Illyria, which could help integrate the Agram basin and the Illyrian coastline into the Empies industries. This would also allow us to speed up production of new ships for our navy.
+The Agram Industrial Complex
+Agram, or Zagreb, has been made the capital of Illyria just a little more than a decade ago. It was mostly a choice of convenience, for the city was close to the Austrian border. However, a newly proposed plan sees the opening of a large-scale industrial complex to make it more worthy to be an capital of all Illyrians.
+Our Ports on the Adria
+One of Austria's dreams has always been to rule over the Adriatic Sea. With Italy significantly weakened, and the Illyrian coastline ready for more docks and naval bases to be constructed, this dream could become a reality.
+The Northern Railway: Galicia
+Construction of the Northen Railway would continue starting from Moravia, through Krakau, and then toward Lemberg and further important industrial targets.
+Drill for Oil
+We have found out that Eastern Galicia harbours oil. Extracting it would allow us to build up more industry in this rather remote part of the Empire.
+The Northern Railway: Bohemia
+Given the fact that the Hungarian railway system is not up to par with what an industrialised Galicia would need to be integrated into the Empire's economy, the k.k. Staatsbahnen have put forth a plan to just go around the Carpathian basin. This would start by building a solid connection through Moravia, to reach Galician lands.
+The Morava Industrial Park
+Concrete and Steel, wherever you set your eyes. The Morava Industrial Park is a revolutionary complex, and will produce mostly heavy machinery.
+The k.k. Ministeria
+The k.k. Ministeria are, similar to the once common Ministeria with Hungary, meant to coordinate administrative efforts with the new subjects.
+The k.k. Administrative Reform
+What is reformed in Vienna, should also be reformed in Prague, Cracow and Zagreb. Based on this though, we are currently developing a new local administrative system.
+Centralise the Governments
+We are currently formulating a plan on how to reintegrate the new subject, now that they are bound closer to Vienna.
+The k.k. Education Reform
+By bringing the various reforms of the Education System that have happened in Austria Proper during the 1920s into the other states of Cisleithania, we can educate the youth of our subjects both more efficiently, and more open to the idea of a United Austria.
+The k.k. Identity
+The Austro-Hungarian Empire has often been described as a heap of independent countries who just happen to be ruled by the same family. May they mock our Empire as much as they want, we have Trust in our Kaiser.
+Drastic Measures in Dire Times
+The ongoing war has strained the Cisleithanian government, and put the local governance in disarray. We must assume more direct control over our federated subjects, if we are to live through this.
+Still Their King
+Hungary can claim what they want, we are still their suzerain, and we are at war against and external threat now. No matter how this ends, we need to put our differences aside for now.
+Cisleithania Together
+Our ongoing reforms have brought the Empire together. Sure, Hungary still resists, but even they cannot deny that Austria is more united than ever.
+Ausgleich Renegotiations of 1947
+Once more, the Ausgleich is to be renegotiated, and this time, the Austrian half of the Empire is in a far stronger position than last time. We shall impose our will on them now.
+Embrace Pluralism
+The time has come to federate the Empire to a more democratic government. The founding of the centralised federated state will lead to a brighter future for all Austrian peoples.
+A Federation of Equals
+The United States of Greater Austria, or 
+Decentralised Development Scheme
+We can no longer pretend that the benefits of our rule are self-evident. We must secure the loyalty of all constituent parts of our state with a new programme to assist development. The fruits of our wealth must be shared by all.
+Instigate Infrastructural Overhaul
+If we are to foster a common identity between our nations, it would be wise to overhaul and link up our creaking infrastructure so that no matter where in our lands one travels, they will never be far from civilisation.
+Military Buildup Scheme
+For too long we have centred far too much of our arms manufacturing efforts in a small area to discourage rebellion and abuse. This situation must change, and the natural benefits that these major job creators bring to a region must be available to all.
+Naval Buildup Scheme
+Everybody knows that a strong navy is the sign of a truly significant power. Our federalising efforts can only work if they are tied into the prestigious naval arms race, and expanding our shipbuilding capability will go a long way to supporting them.
+Industrial Parks
+As part of our Scheme it is imperative that we do not ignore the civilian sector, no matter the state of current geopolitics. Workers need goods, and we must of course be in a position to export and import consumer products and natural resources.
+Industrial Regions
+We need to go further. By going beyond merely incentivising the growth of industrial parks and centres, we must foster development by any means necessary - including through the creation of quasi-independent regional manufacturing bodies.
+Transformation of Nature
+Our efforts have to go beyond merely the matter of mankind, it must go into the very fabric of nature itself. If we are to develop our newly reinvigorated state further we have to do whatever it takes, even despoiling some of our beautiful wilderness.
+Dig for Resources
+Our nation is hungry, and it must be sated with the blood of the land. Galicia may be relatively backward, but it is blessed with an abundant supply of oil which can help power our nation into the future. All that it takes to reach it is will.
+Stabilising the Country
+For too long our 'nation' has been an unwieldly collection of peoples worthy of the greatest of Vienna's menageries. With our attempts to federalise still raw, we must ensure that all of our government's efforts are focussed on keeping this union together.
+The Worst is Over
+Though it has been a struggle, our nation has demonstrably shown its resilience in recent months. It has surprised even our most optimistic of leaders how quickly our nation has recovered from the trauma of sudden federalisation. All the same, there is still some way to go before the instability ebbs.
+End the Ausgleich
+For too long we have endured this farce known as the Ausgleich. It must end if we are to soldier on into the future as a strong and unified nation. Though it may be a leap into the dark, this arcane process must be stopped no matter the consequences.
+Hungary Yields
+The united front that has arrayed itself against the stubborn Hungarians has finally succeeded. No longer can they hold out against the inevitable, for our nation's greatness has increasingly become clear to all. Even proud Hungary has fallen into line to reap the benefits.
+Into the World
+Our nation has finally overcome its internal divisions after decades of chaos and internecine bickering. What we have accomplished in only a few short years beggars belief, and it is finally time to enjoy the fruits of peace and harmony.
+Approaching the Autonomies
+If we are to overcome the divisions of the past, it is essential that we set about treating them, no longer as mere subjects, but members of a true union of states.
+Integrating Cisleithania
+The Cisleithanian lands are ripe for unification. We must break down the internal boundaries in our section of the Empire if we are to implement truly radical reform.
+Deal with Hungary
+The thorn that is Hungary has to be removed from our side, no matter what. We have prepared the reparations they have been asking for over a decade now.
+A Union No Longer in Name Only
+There is no longer a pretence to unity in Austria, there is true unity. Where once there was squabbling and infighting, there now exists concord. We are now a true United States.
+Looking Outwards
+With the divisions of the past cast aside, the United States can now turn its attention to greater matters of state. No longer will we remain saddled with the burden of internal politicking, but instead we shall face the world - together.
+Protector of the Balkans
+The Weltkrieg has left the Balkans by large as an Austrian zone of influence. Unfortunately, we had to focus on other things during the last few years. We shall now remedy this and once again show who is the master of the house.
+Approaching Albania
+We can no longer sit idly by as Albania sits to our south free of our influence. It is time to settle the question of where they stand.
+Approaching Greece
+There yet remains a lingering question over Greece's position. We should seek to drag her kicking and screaming into our sphere of influence.
+Old Friends in Bulgaria
+Bulgaria was an essential ally during the Weltkrieg, helping us keep Serbian overambitions in check- or so we thought. The dissolution of the Central Powers after the war enabled the perfidious Serbs to escape our grasp. Once again, Bulgaria is key to restoring peace and stability in the Balkans once and for all.
+Approaching Montenegro
+Following the defeat of the Belgrade Pact at the hands of Bulgaria, the newly independent country of Montenegro finds itself in a rather precarious situation. We should reach out and offer them our protection against any who may threaten their sovereignty.
+SAR
+Sozialistischer Arbeiterrat
+SAR
+Sozialistischer Arbeiterrat
+ASP
+Arbeitsgemeinschaft Sozialistischer Parteien
+SDAP
+Sozialdemokratische Arbeiterpartei
+LB
+Liberale Bewegung
+NLP
+Nationalliberale Partei
+CS
+Christlichsoziale
+LB
+Landbund
+GDVP
+Großdeutsche Volkspartei
+HB
+Heimatblock
+MR
+Militärregierung
+Škoda Tank Factories
+Kaiser Karl's reign continues in Vienna, and since its victory in the Weltkrieg, the Austro-Hungarian Empire remains united under his rule. However, his diverse realms are wracked with division; between the left and the right, between those who wish to modernise the Empire, and those that wish to keep what they hold, just the way it is. The renegotiation of the Ausgleich, the agreement which brought together the Austrian and Hungarian halves of the Empire, is soon approaching. Balancing reform with tradition, and state with nationhood will be no easy task for the Kaiser, and will be yet another challenge for the peoples of the Danube.
+GFX_AUS_intro
+The Situation of Austria in 1936
+Despite standing amongst the victors of the Weltkrieg, the war revealed the divisions of culture, class and ideology within the Empire ever so clearly, and the inner unrest continued on as the war ended.\n\nKaiser Karl, following in the footsteps of the assassinated Franz Ferdinand in trying to reform the multinational Austro-Hungarian Empire into something that could survive in the twentieth century, launched a series of large scale reforms; however, his efforts were largely blocked by nobility of the Hungarian side of the Empire - leading to his plans of federalisation progressing only slowly, and only on the Cisleithanian side of the Empire.\n\nHowever, many feel that there is hope for Austria - the last decades were hard on the Empire, but the effort has started paying off. Cisleithanian Austria, now a federation-state, has calmed down - but the same cannot be said for Transleithania. It is, however, unlikely that the Carpathian basin will continue to remain in Magyar hands, since Hungary's peoples have been gazing upon the liberties across the Leitha, wishing to have such autonomy for themselves. Whether reform will be able to find its way to Hungary, only the Kaiser knows for sure.
+§MStatus Quo§! ($social_conservative_coloured$ / $social_democrat_coloured$)\n£white_dot During the 1937 Ausgleich favour Hungary enough over the other Crownlands to prevent their delegates from storming out or conflict breaking out.\n£white_dot After this you will be able to pick the Status Quo focus, keeping the empire decentralised.\n\n§MDanubian Federation§! ($social_democrat_coloured$)\n£white_dot In the 1936 election, have the popularity of the §SSozialdemokratische Arbeiterpartei§! be higher than the §cChristlichsoziale§!.\n£white_dot During the 1937 Ausgleich favour the Crownlands over Hungary, which will result in the Hungarian delegates storming out.\n£white_dot Issue an ultimatum to Hungary after their suppression of peaceful protests, this will lead to a civil war with Hungary if they refuse.\n£white_dot Once the Hungarians have been defeated, release Hungary and the other new Crownlands which will unlock the Pluralism tree for forming the Danubian Federation.\n\n§MUnited States of Greater Austria§! ($social_conservative_coloured$)\n£white_dot Follow the above guide for the Danubian Federation, but have the popularity of the §cChristlichsoziale§! be higher than the §SSozialdemokratische Arbeiterpartei§! during the 1936 elections which will instead allow you to form the United States of Greater Austria.\n\n§MEnd the Dual Rule§! ($paternal_autocrat_coloured$)\n£white_dot During the 1937 Ausgleich favour the Crownlands over Hungary and trigger the civil war as described above.\n£white_dot Do not release Hungary and the other Crownlands after winning the civil war, which will trigger a second civil war with the remaining Crownlands\n£white_dot Win the civil war against the Crownlands, after which you will be able to take the End the Dual Rule focus.\n
+[Root.GetAdjective] delegation
+delegation of both Bohemian-Germans and Czechs
+delegation of both Poles and Ruthenians
+delegation of all Illyrian peoples
+We can go a bit heavier on the Bohemian-Germans though, can't we?
+We are a Polish state. We will send our elite, not Ruthenian peasants.
+There is only one Illyrian people.
+Slovak and Romanian
+Slovak
+Romanian
+Slovakia and Transylvania
+Slovakia
+Transylvania
+§YYou will have the option to reform the [Root.GetFactionName] with all existing members once you are at peace again.§!\n
+Austria
+Austrian
+Austria
+Republic of Austria
+the Republic of Austria
+Republic of Austria
+the Republic of Austria
+Republic of Austria
+the Republic of Austria
+Austrian Empire
+the Austrian Empire
+Austrian Empire
+the Austrian Empire
+Austrian Empire
+the Austrian Empire
+Austrian Empire
+the Austrian Empire
+Austrian Empire
+the Austrian Empire
+Austrian Empire
+the Austrian Empire
+Austrian Empire
+the Austrian Empire
+Germany
+German
+Germany
+German Empire
+the German Empire
+German Empire
+the German Empire
+German Empire
+the German Empire
+German Empire
+the German Empire
+German Empire
+the German Empire
+German Empire
+the German Empire
+German Empire
+the German Empire
+United States of Greater Austria
+the United States of Greater Austria
+United States of Greater Austria
+the United States of Greater Austria
+United States of Greater Austria
+the United States of Greater Austria
+United States of Greater Austria
+the United States of Greater Austria
+United States of Greater Austria
+the United States of Greater Austria
+United States of Greater Austria
+the United States of Greater Austria
+United States of Greater Austria
+the United States of Greater Austria
+Danubia
+Danubian
+Danubia
+Danubian Republic of Councils
+the Danubian Republic of Councils
+Danubian Republic of Councils
+the Danubian Republic of Councils
+Danubian Republic of Councils
+the Danubian Republic of Councils
+Danubian Federation
+the Danubian Federation
+Danubian Federation
+the Danubian Federation
+Danubian Federation
+the Danubian Federation
+Danubian Federation
+the Danubian Federation
+Danubian Federation
+the Danubian Federation
+Danubian Federation
+the Danubian Federation
+Danubian Federation
+the Danubian Federation
+South Germany
+South German
+South Germany
+South German Union
+the South German Union
+South German Union
+the South German Union
+South German Union
+the South German Union
+South German Confederation
+the South German Confederation
+South German Confederation
+the South German Confederation
+South German Confederation
+the South German Confederation
+South German Confederation
+the South German Confederation
+South German Confederation
+the South German Confederation
+South German Confederation
+the South German Confederation
+South German Confederation
+the South German Confederation
+Alfred Klahr
+§YBorn:§! §LSeptember 16th, 1904, in Vienna, Archduchy of Austria below the Enns, Austria-Hungary§!
+Friedrich Adler
+§YBorn:§! §LJuly 9th, 1879, in Vienna, Archduchy of Austria below the Enns, Austria-Hungary§!
+Karl Renner
+§YBorn:§! §LDecember 14th, 1870, in Unter-Tannowitz, Margraviate of Moravia, Austria-Hungary§!
+Gustav Stolper
+§YBorn:§! §LJuly 25th, 1888, in Vienna, Archduchy of Austria below the Enns, Austria-Hungary§!
+Wilhelm Miklas
+§YBorn:§! §LOctober 15th, 1872, in Krems an der Donau, Archduchy of Austria below the Enns, Austria-Hungary§!
+Franz Dinghofer
+§YBorn:§! §LApril 6th, 1873, in Ottensheim, Archduchy of Austria above the Enns, Austria-Hungary§!
+Karl von Habsburg-Lothringen
+Karl I
+§YBorn:§! §LAugust 17th, 1887, in Persenbeug Castle, Persenbeug-Gottsdorf, Archduchy of Austria below the Enns, Austria-Hungary§!\n§YBackground:§! §LAfter his uncle Franz Ferdinand was assassinated in 1914, Karl von Habsburg-Lothringen became the designated successor of Kaiser Franz Josef, upon whose death Karl inherited the many thrones of the Habsburg Empire in late 1916. In spite of victory in the Weltkrieg, Austria remained burdened by an archaic political system and unrest. Emperor Karl now has the arduous task of reforming the ailing Empire despite numerous internal and external threats.§!
+Otto von Habsburg-Lothringen
+Otto I
+§YBorn:§! §LNovember 20th, 1912, in Wartholz Castle, Reichenau an der Rax, Archduchy of Austria below the Enns, Austria-Hungary§!\n§YBackground:§! §LEmperor Otto von Habsburg-Lothringen has succeeded his father, Karl, as monarch of Austria. Otto, despite his young age, has grand ambitions of an Empire whose disparate peoples share but one national identity. His laconic speech and youthful charm have culminated in Otto garnering frequent media attention.§!
+Eugen von Habsburg-Lothringen
+§YBorn:§! §LMay 21st, 1863, in Gross-Seelowitz, Margraviate of Moravia, Austrian Empire§!\n§YBackground:§! §LGrandson of the \
+Karol Albrecht von Habsburg-Lothringen
+Karol Olbracht
+Karol Olbracht Habsburg-Lotaryński
+§YBorn:§! §LDecember 18th, 1888, in Pola, Margraviate of Istria, Austria-Hungary§!\n§YBackground:§! §LKarl Albrecht von Habsburg-Lothringen, Austrian by birth, is a stalwart advocate for the Polish. Given charge of the, at-last, devolved Galician region within Cisleithania, Karl Albrecht does his best to represent the interests of his adopted people within the Empire.§!
+§YBorn:§! §LDecember 18th, 1888, in Pola, Margraviate of Istria, Austria-Hungary§!\n§YBackground:§! §LKarol Olbracht von Habsburg-Lothringen, Austrian by birth, is a stalwart advocate for the Polish. When Emperor Karl plotted to annex Polish lands to Austria, Karol Olbracht advocated fiercely against it. Though amicable to his native Austria, as king of Poland, Karol continues to fight for the Polish people.§!
+§YBorn:§! §LDecember 18th, 1888, in Pola, Margraviate of Istria, Austria-Hungary§!
+Joseph August von Habsburg-Lothringen
+József Ágost Habsburg-Lotaringiai
+§YBorn:§! §LAugust 9th, 1872, in Alcsút Palace, Alcsút, Fejér County, Kingdom of Hungary, Austria-Hungary§!
+§YBorn:§! §LAugust 9th, 1872, in Alcsút Palace, Alcsút, Fejér County, Kingdom of Hungary, Austria-Hungary§!\n§YBackground:§! §LTitular Palatine of Hungary, Archduke Joseph August is the scion of the so-called Hungarian branch of the Imperial and Royal family, being born and raised in that half of the Monarchy. As expected of an Archduke, he started his military career at a young age in 1890. Unlike his kinsmen, however, he transferred to the Royal Hungarian Honvéd in 1902 when he rose to the rank of Major, with his sympathies and identity clearly laying with the Kingdom of Hungary.\nBy the start of the Weltkrieg, Archduke Joseph had already proven himself to be a talented officer, having been promoted to Major General in 1908, and Lieutenant Field Marshal (Lieutenant General) in 1911. In the opening stages of the war, the Archduke quickly proved his competence once his division was rushed from the Serbian to the Russian Front, successfully covering the retreat of the 2nd Army before fighting in the ill-fated winter fighting in the Carpathians, which failed to relieve Przemysl but did stop the Russians from invading Hungary. In May 1915, commanding the VII Corps, Archduke Joseph commanded the southern portion of the Isonzo Front, taking the brunt of numerous Italian offensives. There, he proved his personal bravery and leadership, commanding at the front where he was wounded twice and becoming the only senior commander to receive the Karl Troop Cross for twelve weeks of frontline service. He would remain on the Italian Front until December 1916, after which he was transferred to the Romanian Front for all of 1917. He returned to the Italian Front in July 1918 to take command of Armeegruppe Tirol, where he would defeat Italy's final offensive of the war in October, soon being promoted to Field Marshal.\nAfter the war, he stayed with the army, remaining well-loved and respected, but increasingly became involved in political and, especially, academic circles in Hungary. For much of the troubled years since the Weltkrieg, Joseph August remains a connecting symbol between the Monarchy and Hungary.§!
+Alfred Jansa von Tannenau
+§YBorn:§! §LJuly 16th, 1884, in Stanislau, Kingdom of Galicia and Lodomeria, Austria-Hungary§!\n§YBackground:§! §LHailing from a military family, Alfred Jansa graduated from the Kriegsschule in Vienna in November 1912 and was commissioned a Captain in the staff of the Governor of Bosnia, Oskar Potiorek. Two years later, in Sarajevo, he would witness the assassination of Archduke Franz Ferdinand and the start of the Weltkrieg.\nJansa would end up serving on nearly all fronts; from 1915 onward, he was a liaison officer, serving with distinction in the staff of famous German generals as Mackensen, Seeckt, and Below.\nAt the war's end, he was promoted to general, continuing his staff work up the chain of command. For most of the '30s, he was the military attaché to Berlin, where his connections in the German general staff from the Weltkrieg proved invaluable. As it stands, Jansa is an energetic reformer with great respect for his German counterparts, but he has been outspoken on Austria-Hungary's need to maintain the independence of its military.§!
+Erhard Raus
+§YBorn:§! §LJanuary 8th, 1889, in Wolframitz, Margraviate of Moravia, Austria-Hungary§!\n§YBackground:§! §LGraduating from a cadet school near Brno, Raus joined a Feldjäger (light infantry) battalion when he was 18 years old. He spent most of the Weltkrieg on the Eastern Front, distinguishing himself as the commander of a bicycle company. After the war, he was promoted to Colonel in the general staff, teaching infantry tactics. With experience with mobile warfare during the Weltkrieg, he was eventually transferred to the Fast Division's cycling battalion. His promotion to General is very recent, making Raus still unproven as a field commander, but he is already proving to be naturally talented with armoured warfare.§!
+Lothar Rendulic
+§YBorn:§! §LOctober 25th, 1887, in Wiener Neustadt, Archduchy of Austria below the Enns, Austria-Hungary§!\n§YBackground:§! §LSon of an officer of Croatian origin, Rendulic first studied law before enrolling at the Theresian Military Academy. In 1910, he was commissioned Lieutenant, and fought in Galica for the first years of the Weltkrieg. At the war's end, he was a Captain in the general staff as part of XXI Corps on the Italian front.\nAfter the war, he finished his law studies before rising further up the ranks as part of the War Ministry. In 1934, after being promoted to Major General, he took command of Austria-Hungary's first mechanised unit, the Fast Division.\nDespite a respectable career at the War Ministry and commander of the Fast Division, his experience is still lacking as a relatively recent promotion, while his loyalties may be dubious with ties to German nationalist organisations.§!
+Karl Eglseer
+§YBorn:§! §LJuly 5th, 1890, in Bad Ischl, Archduchy of Austria above the Enns, Austria-Hungary§!\n§YBackground:§! §LAfter graduating from the Infantry Cadet School in Marburg (Maribor), he joined the 87th Infantry Regiment in 1908 as an officer cadet, receiving his commission as Lieutenant in 1911. When the Weltkrieg began, Eglseer was sent to the front and by September 1914, he was wounded for the first time. He was sent back to the front that December, only to be seriously wounded again on Christmas Eve. This time, he was captured by the Russians and would remain in captivity until March 1918. He was promoted to Captain on his return and served with distinction on the Italian Front in time for Italy's final offensive and the Austro-Hungarian one that finally brought victory over the Italians in 1919.\nHaving spent most of the war as a prisoner of war, Eglseer's career moved up slowly and he remains one of the less experienced members of the general staff.§!
+Julius Ringel
+§YBorn:§! §LNovember 16th, 1889, in Völkermarkt, Duchy of Carinthia, Austria-Hungary§!\n§YBackground:§! §L\
+Franz Böhme
+§YBorn:§! §LApril 15th, 1885, in Zeltweg, Duchy of Styria, Austria-Hungary§!\n§YBackground:§! §LBöhme joined the Austro-Hungarian Army in 1900 and was commissioned a lieutenant five years later. A year into the Weltkrieg, he was made Captain after serving with distinction in the ferocious fighting in Galicia. Böhme would continue to serve all over the Eastern Front under German Command. By the time he was transferred to the Western Front as part of the Austro-Hungarian force there, he had fought from Tarnopol in Galicia up to Dvinsk in the Baltic region. After the war, Böhme slowly rose through the ranks, briefly working for the Evidenzbureau in the field of military intelligence.\nHis membership in German nationalist organisations has brought doubts about his loyalty to the Monarchy.§!
+Sigismund Schilhawsky von Bahnbrück
+§YBorn:§! §LApril 7th, 1881, in Budapest, Pest-Pilis-Solt-Kiskun County, Kingdom of Hungary, Austria-Hungary§!\n§YBackground:§! §LScion of a German-Bohemian military family, \
+Eduard Barger
+§YBorn:§! §LSeptember 6th, 1882, in Leitmeritz, Kingdom of Bohemia, Austria-Hungary§!\n§YBackground:§! §LAt the start of the Weltkrieg, Barger was a captain, leading a company. His wartime is nothing short of exemplary: Wounded four times, he became known for his initiative, leadership, and personal bravery. He fought in the awful conditions of the Winter campaign in the Carpathians, then in the Alps against the Italians. In the final stages of the war, he led a Czech regiment on the fierce fighting on the Asiago Plateau, reinforcing his belief in the Monarchy as his troops, despite the false rumours of their supposed unreliability, fought bravely. After the war, Barger slowly rose through the ranks, becoming a general in 1935.\nWhile his personal courage and impressive frontline leadership is impossible to overstate, the truth is that he has no experience in leading units bigger than a regiment.§!
+Friedrich Materna
+§YBorn:§! §LJune 21st, 1885, in Hof, Margraviate of Moravia, Austria-Hungary§!\n§YBackground:§! §LMaterna entered the Austro-Hungarian Army as an ensign in 1904. In 1913, he graduated from the Kriegsschule in Vienna, serving as a general staff officer in Galicia for the first years of the war. After 1917, he was a staff officer under Archduke Eugen, finishing the war as a Lieutenant Colonel. After the war, a staff officer through and through, he was quickly promoted to Colonel, then Major General as a member of the military inspectorate.\nWith most of his experience from being a staff officer and heading the recruitment and training department of the War Ministry, his skill as a field commander remains definitely unproven.§!
+Wilhelm Zehner
+§YBorn:§! §LSeptember 2nd, 1883, in Bistritz, Beszterce-Naszód County, Kingdom of Hungary, Austria-Hungary§!\n§YBackground:§! §LComing from a Protestant family, Zehner joined the Austro-Hungarian Army as a Lieutenant in 1903. During training, he proved to be very capable and a skilled marksman. During the yearly manoeuvres in 1912, he received a commendation from his commanding officer. At the start of the Weltkrieg, Zehner was the intendant (administrator for supplies outside of weapons and ammunition) of XVI Corps, with the outbreak of the war moving him to the administration of the 1st Mountain Brigade on the Serbian Front. In December 1916, after requesting a transfer to frontline service, he was promoted to Captain, commanding the 7th battalion of the 64th Regiment. After serving on the Romanian Front for most of 1917 and early 1918, his battalion fought against Red Guards as the Austro-Hungarian Army advanced into Ukraine, distinguishing itself during the bitter street fighting for the capture of Mykolaiv. In April 1918, he took command of Assault Battalion 59, spending the rest of the war in Ukraine, fighting more Red Guards and taking care of border security. At the end of the war, he was highly decorated and respected, his troops calling him “Iron Zehner”. After the war, Zehner took staff officer courses and rapidly rose through the ranks. An enthusiastic moderniser and already a proven military administrator and by 1934, he was a General of Infantry, serving in the War Ministry's personnel department for several years.§!
+Ludwig von Eimannsberger
+§YBorn:§! §LNovember 19th, 1878, in Vienna, Archduchy of Austria below the Enns, Austria-Hungary§!\n§YBackground:§! §LSon of a career officer killed during the Occupation of Bosnia, Eimannsberger was raised by his mother, also from a military family, in a Spartan lifestyle. At the tender age of 10, he was sent to a military school before proceeding for the ancient and prestigious Technical Military Academy, graduating in 1899 as an artillery officer. In 1905, he finished his studies at the Kriegsschule and became a staff officer.\nBy 1914, he had spent a few years teaching at the Technical Military Academy before transferring to the XII Corps when the war broke out. Until 1916, he fought in Galicia before becoming artillery commander of the Kaiserschützen (mountain infantry) Division in South Tyrol. His role during the breakthrough at Caporetto in 1917 earned him the Order of Leopold. By the end of the Weltkrieg, he was a Colonel.\nDuring the Interwar, Eimannsberger became fascinated with one of the newest weapons of war, tanks. In 1926, he became head of the Military Technical Committee and was promoted to Feldzeugmeister (General of Artillery) the next year. In 1934, he published \
+§YBorn:§! §LJune 18th, 1868, in Kenderes, Jász-Nagykun-Szolnok County, Kingdom of Hungary, Austria-Hungary§!\n§YBackground:§! §LAt age 14, Horthy entered the Naval Academy in Fiume (Rijeka), receiving the rank of Frigate Lieutenant in 1896, marking the beginning of his long career as a naval officer. Expectedly, he travelled around the world as he rose through the ranks. Notably, he became aide-de-camp to Emperor Franz Joseph, additionally advising the monarch in Hungarian affairs, from 1909 to 1914. Horthy viewed the old Emperor in very high regards and he often reminisced fondly about his time as an advisor.\nWhen the Weltkrieg began, Horthy commanded the pre-dreadnought SMS Habsburg before taking command of the cruiser SMS Novarra, where he would cement his reputation as a bold commander. In 1917, he planned and led the Battle of the Strait of Otranto, where he led his fleet of cruisers and destroyers to victory despite being seriously wounded to the point of losing consciousness. The following year saw a meteoric rise through the ranks, becoming a Rear Admiral and Commander-in-Chief of the Fleet in February 1918, Vice Admiral in October, and full Admiral in 1919 after scoring another victory against the Entente forces in the Mediterranean.\nAfter the war, Horthy was Hungary's most prominent and popular national hero and he continued his career in the Navy. He became Grand Admiral, Commander-in-Chief of the Navy, and Chief of the Naval Section at the War Ministry in the 1920s, ensuring that, despite tightening purse-strings, the Kriegsmarine continued to receive sufficient funding and the naval industry remained employed. With the economy in shambles, however, it has become increasingly difficult to secure funds for the Navy, but his popularity and diligence ensures that the oft-forgotten branch does not fall to disrepair.§!
+Georg von Trapp
+§YBorn:§! §LApril 4th, 1880, in Zara, Kingdom of Dalmatia, Austria-Hungary§!\n§YBackground:§! §LIn 1894, Trapp entered the Naval Academy in Fiume (Rijeka), following in his father's footsteps. He was assigned to SMS Zenta in 1900, participating in the Battle of Taku Forts during the Boxer Rebellion. Three years later, he was commissioned a Frigate Lieutenant. Fascinated by submarines, he requested to be transferred to the U-boot-Waffe, the new submarine arm of the navy, in 1908.\nDuring the Weltkrieg, he began his storied career as a U-Boat commander with the SM U-5, sinking two enemy warships in nine combat patrols in 1915. By August, he was already hailed as a hero across the Empire. Later that year, he took command of SM U-14 (formerly French submarine Curie). By the end of the war, Trapp had been promoted to Corvette Captain, having been through nineteen combat patrols, two warships sunk, and over 45 000 tonnage at the bottom of the sea.\nAfter the war, Trapp stayed in the Navy, eventually becoming commander of the submarine fleet as a Rear Admiral. Unsurprisingly, he has been the number one advocate for the expansion and modernisation of the U-Boat fleet, which he sees as the Monarchy's most important weapon, able to fight its enemies even if the Adriatic is bottled up.\nOn a more peaceful note, he and the rest of his musically-talented family have recently been performing as a singing troupe for church service and festivals.§!
+Heinrich Pergler von Perglas
+§YBorn:§! §LMarch 26th, 1871, in Budweis, Kingdom of Bohemia, Austria-Hungary§!\n§YBackground:§! §LPergler entered the Naval Academy in Fiume (Rijeka) in 1886, joining the Austro-Hungarian Navy after graduating in 1890. His first command was a torpedo boat in 1900, but by 1914, he commanded the cruiser SMS Panther. As captain of the Panther, he helped the Army repel the Montenegrin Army from the port and naval base in Cattaro (Kotor). After being promoted to chief of staff of the Second Division, he commanded a pre-dreadnought before becoming captain of the dreadnought SMS Tegetthoff. It was with the Tegetthoff that Pergler participated in the Second Battle of Otranto, which saw the sinking of its sister ship SMS Szent István. In January 1919, he was promoted to the rank of Rear Admiral. Much of his time after the Weltkrieg was spent on the Austrian Navy Association (Marineverband), promoting the Navy's wartime achievements, its geopolitical and economic importance, and lionising its heroes.§!
+Maximilian Eugen von Habsburg-Lothringen
+§YBorn:§! §LApril 13th, 1895, in Vienna, Archduchy of Austria below the Enns, Austria-Hungary§!\n§YBackground:§! §LEmperor Karl's younger brother was merely 19 when the Weltkrieg began and was serving his initial military service expected of a young archduke. With the privilege of his position, he quickly rose to the rank of Major, and he showed tactical acumen and bravery: During the assault on Dosso Alto in June 1918, he was wounded in action when a shell exploded near him, partially deafening him. Two months later, he transferred to the navy and became commander of the U-Bootsuchflottille (anti-submarine flotilla). From then on, Maximilian Eugen took the mantle as the patron of the Kriegsmarine within the Imperial and Royal family, a duty formerly taken by two kinsmen that met tragic ends: Archduke Franz Ferdinand and Emperor Maximilian of Mexico, along with the less tragic Archduke Stephen, a major candidate to the Polish throne.§!
+Otto Ender
+§YBorn:§! §LDecember 24th, 1875, in Altach, County of Vorarlberg, Austria-Hungary§!
+Eduard Heinl
+§YBorn:§! §LApril 9th, 1880, in Vienna, Archduchy of Austria below the Enns, Austria-Hungary§!
+Adolf Schärf
+§YBorn:§! §LApril 20th, 1880, in Nikolsburg, Margraviate of Moravia, Austria-Hungary§!
+Ernst Rüdiger von Starhemberg
+§YBorn:§! §LMay 10th, 1899, in Eferding, Archduchy of Austria above the Enns, Austria-Hungary§!
+Ludwig Hülgerth
+§YBorn:§! §LJanuary 26th, 1875, in Vienna, Archduchy of Austria below the Enns, Austria-Hungary§!
+Hermann Foppa
+§YBorn:§! §LJune 18th, 1882, in Sillian, County of Tyrol, Austria-Hungary§!
+Julius Meinl II
+§YBorn:§! §LJanuary 18th, 1869, in Vienna, Archduchy of Austria below the Enns, Austria-Hungary§!
+Ludwig von Mises
+§YBorn:§! §LSeptember 29th, 1881, in Lemberg, Kingdom of Galicia and Lodomeria, Austria-Hungary§!
+Emil von Škoda
+§YBorn:§! §LAugust 6th, 1908, in Vienna, Archduchy of Austria below the Enns, Austria-Hungary§!
+Hans von Lauda
+§YBorn:§! §LMarch 25th, 1896, in Vienna, Archduchy of Austria below the Enns, Austria-Hungary§!
+Maximilian Ronge
+§YBorn:§! §LNovember 9th, 1874, in Vienna, Archduchy of Austria below the Enns, Austria-Hungary§!
+Emil Fey
+§YBorn:§! §LMarch 23rd, 1886, in Vienna, Archduchy of Austria below the Enns, Austria-Hungary§!
+Hugo Breitner
+§YBorn:§! §LNovember 9th, 1873, in Vienna, Archduchy of Austria below the Enns, Austria-Hungary§!
+Walter Breisky
+§YBorn:§! §LJuly 8th, 1871, in Bern, Swiss Confederation§!
+Richard von Coudenhove-Kalergi
+§YBorn:§! §LNovember 16th, 1894, in Tokyo, Empire of Japan§!
+Hermann Pokorny
+§YBorn:§! §LApril 7th, 1882, in Kremsier, Margraviate of Moravia, Austria-Hungary§!
+Theodor Körner von Siegringen
+§YBorn:§! §LApril 24th, 1873, in Újszőny, Komárom County, Kingdom of Hungary, Austria-Hungary§!
+Emil Milan Uzelac
+§YBorn:§! §LAugust 26th, 1867, in Komárom, Komárom County, Kingdom of Hungary, Austria-Hungary§!
+Otto Schöbel
+§YBorn:§! §LAugust 22nd, 1894, in Vienna, Archduchy of Austria below the Enns, Austria-Hungary§!
+Gottfried von Banfield
+§YBorn:§! §LFebruary 6th, 1890, in Castelnuovo, Kingdom of Dalmatia, Austria-Hungary§!
+Alfred von Hubicki
+§YBorn:§! §LFebruary 5th, 1887, in Friedrichsdorf, Bereg County, Kingdom of Hungary, Austria-Hungary§!
+Alexander Löhr
+§YBorn:§! §LMay 20th, 1885, in Turnu Severin, Mehedinţi County, Kingdom of Romania§!
+Emil Hickmann
+§YBorn:§! §LJuly 12th, 1884, in Pressburg, Pozsony County, Kingdom of Hungary, Austria-Hungary§!
+Viktor Pohl
+§YBorn:§! §LFebruary 4th, 1875, in Vienna, Archduchy of Austria below the Enns, Austria-Hungary§!
+Sigmund Knaus
+§YBorn:§! §LApril 10th, 1879, in St. Veit an der Glan, Duchy of Carinthia, Austria-Hungary§!
+Zdenko Hudeček
+§YBorn:§! §LJune 22nd, 1887, in Theresienstadt, Kingdom of Bohemia, Austria-Hungary§!
+Eugen Sänger
+§YBorn:§! §LSeptember 22nd, 1905, in Preßnitz, Kingdom of Bohemia, Austria-Hungary§!
+Ferdinand Porsche
+Herbert Wagner
+Igo Etrich
+Max Valier
+Otto Robert Frisch
+§YBorn:§! §LOctober 1st, 1904, in Vienna, Archduchy of Austria below the Enns, Austria-Hungary§!

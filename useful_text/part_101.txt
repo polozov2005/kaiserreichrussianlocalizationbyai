@@ -1,0 +1,603 @@
+Italian Federation Focus Tree
+FAR
+Fascio d'Azione Rivoluzionaria
+CGL-USI (IOS)
+Confederazione Generale dei Lavoratori - Unione Sindacale Italiana (Sezione Italiana dell'Internazionale Operaia Sindacalista)
+PdA
+Partito d'Azione
+LDR
+Lega Democratica Riformista
+PLD
+Partito Liberale Democratico
+PLI
+Partito Liberale Italiano
+PPI
+Partito Popolare Italiano
+MNDS
+Movimento Nazionalista per la Democrazia Sociale
+Governo Militare
+ANI
+Associazione Nazionalista Italiana
+Consiglio Federale
+Consiglio della Federazione Italiana
+Agip
+[ROOT.GetAdjective] State Railways
+Danieli
+Italcementi
+Astaldi
+Ansaldo
+Industrie Belliche Liguri
+Ducati
+Ilva
+Edison
+Società Meridionale di Elettricità
+Beretta
+Armiguerra
+Fabbrica d'Armi di Torre Annunziata
+Breda
+Ansaldo
+Industrie Belliche Liguri
+Acciaierie di Terni
+Officine Meccaniche
+Lancia
+FIAT
+Ansaldo
+Industrie Belliche Liguri
+Cantieri Navali Riuniti
+Cantieri Navali di Livorno
+Cantiere Navale di Ancona
+Stabilimenti Navali e Meccanici Napoletani
+Cantieri Navali Tosi di Taranto
+Arsenale di Venezia
+Macchi
+Savoia-Marchetti
+Caproni
+Piaggio
+IMAM
+FIAT Aviazione
+Reggiane
+CMASA
+Air Race Pedigree
+Special Aerotorpedoes Unit
+Remote-Operated
+High Altitude Fighter Development
+Italian Civil War
+The Precarious Balance
+As it stands, Italy is perched uncomfortably between the great powers of Europe. Each of the various governments have foreign sponsors who could potentially intervene in a renewed Italian civil war - but all of these sponsors understand that to do so would provoke their rivals, and risk drawing the entire continent into conflict. Their mutual unwillingness to take this gambit has helped ensure the peninsula's continued division.\n\nThis balance of power persists: all foreign aid to Italy thus far has been kept at arm's length, only to the level of material and expertise. As long as no state directly enters an Italian conflict, it will remain this way. However, if a foreign alliance does enter such a war, then all bets are off - and all other sponsors can be expected to join suit.
+The Unstable Republic
+When our nation was saved by Austria in 1920, the Habsburgs forced us to give much power to our constituent states, especially Veneto, as part of the Italian Federation. However, this has been adjourned for six years, effectively disbanded, creating a confusing bureaucratic situation. The opposition also causes no end of trouble, with some calling for the Federation's restoration and some calling for an end to democracy and Austrian influence altogether. The political situation is unlikely to stabilise any time soon.
+The New Unitary State
+The power of the states has been curtailed, and all authority now rests with the central government - a government which has eliminated elections and declared itself above responsibility to the people, for the good of the entire country. While the ANI enjoys a great deal of support, there is still considerable resistance to this new government - particularly from the republicans and regionalists in the country's former states.
+The Federation Restored
+Now that the power of the Federation Council has been restored, we face the long and difficult task of getting the people and civil service to accept as their government what they once thought of as a museum piece.
+The Federation Rejuvenated
+The authority of the Federation Council is mostly undisputed, both internationally and internally. The Council now looks to the restitution of its members' former lands.
+Austrian Influence
+Austria's influence is felt at every level of our nation, from its ownership over many of our companies to the loyalty owed by many of our most highly-placed politicians. Resentment against that influence is high, for even if they have protected us against the syndicalists they are still responsible for our loss in the Weltkrieg. Even so, cutting ties with Austria will prove a difficult and costly task.
+Effects of Nationalisation
+Our economy will need time to recover from our so-called 'divorce' from Austrian domination.
+Economic Opportunities in Decentralisation
+The ideals of the Italian Federation promote strong regional governments. This should make investing in local governments much easier.
+[ita_navy_focus_name]
+State of Emergency
+Aviation Industry
+Carina Massone Negrone's School
+New Farms
+Economic Miracle
+Italian Research Institutes
+Black Monday Hits Italy
+Austrian and German companies selling stock at fatally low prices have ruined our economy. The government must act quickly to restore order to the markets.
+Long Term Economic Planning
+Market Protection
+Combined Arms
+Planning Schools
+Armoured Cars
+Subsidised Automotive Industry
+Recovering Economy
+Worker's Rights
+Defend Italia
+The Federation stands ready to defend the good people of Italy against any who might assail them!
+Rebuilding Proletarian Italy
+Nationalist Land Recovery
+Tutti Eroi!
+Corporate Alliance
+Business Connections
+Work Programmes
+Church Ties
+O la Vittoria o Tutti Accoppati
+Blueshirt Attacks
+Blueshirt Attacks
+Blueshirt Attacks
+Blueshirt Attacks
+Opera Nazionale Dopolavoro
+OVRA
+The Italian Republic
+Italy is Always Right
+The Italian Federation
+Black Monday is over
+Italy has been reunited
+Elections will be held later in the year
+The 1937 General Election has occurred
+Years of Lead
+The ANI have taken power within the Republic
+The Republic has held onto its democracy
+The Federation Council has been Reinforced
+Dissent in Venice has been eliminated
+May use §YIrredentist§! decisions to claim territory\n
+Historical 'Nautilus' Class Submarines
+Historical 'SLA' Class Submarines
+Historical 'F/H/N/X' Class Submarines
+Historical 'Giacinto' Class Submarines
+Historical 'SEI' Class Submarines
+Popes
+§LIf §Y[SRD.GetNameDef]§! does not exist, we are not already a §Ymonarchy§! and we are at peace with the §YEntente§!:§!
+The §YPrince of Piedmont§! will become King of Italy as §YUmberto II§!
+The §YDuke of Aosta§! will become King of Italy as §YAmedeo I§!
+We will offer the §Yrestoration of the Monarchy§! under §YAmedeo I§!
+We will offer the §Yrestoration of the Monarchy§! under §YUmberto II§!
+[Italy_GetIrredentistFocusTriggerLoc]
+Foreign Policy
+It is crucial that we begin to shift our focus outward and forge alliances and/or establish ties with other nations so as to solidify our position on the world stage.
+Remove Austrian Influence
+The Austrians still hold a strong hold over the [Root.GetAdjective] economy - too strong, in fact. While it may cause some short-term pain, in the long term it would be worth our while to nationalise Austrian-owned corporations in [Root.GetNameDef] and declare our complete economic independence.
+Attack the Austrians
+Like a vampire of legend, [AUS.GetNameDef] has slowly drained the life from us. If we are to ever truly reassert ourselves internally and internationally, the Austrians must be vanquished.
+Call on [From.GetNameDef] for Help
+With [SRI.GetNameDef] at war with us, [From.GetNameDef] has to know they will be their next target should we lose. If they are wise, they will answer our call for help now before it is too late.
+Venice in Revolt
+The Venetians have risen up against the [Root.GetAdjective] government. We must prove that we are able to deal with them quickly, lest our neighbours grow confident that we are weak enough for them to step in and interfere.
+Venice in Revolt
+We have lost control of the situation in Venetia. Now we must deal with foreign intervention, on top of conquering the rebellion itself. If we fail to wrap this up within a few months, it is likely that the ANI government will collapse.
+Ally with the Austrians
+Austria has formed an alliance to protect southern Europe, or more correctly her sphere of influence. As we are within said sphere it would be to our benefit if we join their alliance.
+Unite Italy
+Italy is once again united! We must work on reintegrating our nation.
+The time has come for Risorgimento to be completed - we must destroy [From.GetNameDef] and liberate the Italians living under their rule.
+[ITA_GetInviteName]
+Invite [From.GetNameDef] into [Root.GetNameDef]
+Propose Restoration of the Monarchy
+With the threat of the socialist republic now eliminated, perhaps now is the time to heal the rifts caused by the civil war. Since we are in a clearly dominant position on the Italian peninsula, it falls to us to lead the way.
+Rally Support Within the SRI
+There exists a network of resistance to the syndicalists within [SRI.GetNameDef], those who would rise up if called. They've been working ever since the civil war, and while their forces might ultimately not tip the balance in our favour, we can use all the help that's available.
+Claim Libya
+Until Italy's loss in the Weltkrieg meant our Libyan colony was restored to Ottoman rule, it was our most important colony - an extension of Italy itself, rather than some far-flung estate. We had great plans for the region. Now that our nation is restored, the time has come to claim what is rightfully ours.
+Declare War on [From.GetNameDef]
+The time has come to reclaim Libya, and that means a war with [From.GetNameDef] in order to get it. Viva l'Italia!
+Demand Libya
+[From.GetNameDefCap] is the current overlord of our Libya territory, and the time has come to demand that they return it to us... or it means war, just as it did in 1912.
+Join the Reichspakt
+With Austria now out of the picture, we stand as the strongest southern ally possible for the Germans - and we theirs.
+Join the Entente
+In 1915 we chose to side with the powers of the West, and we do so again! We'll let the exiled King return, and join the Homecoming for the restoration of order to Europe.
+Align with Russia
+The cursed Italian syndicalists are no more, and with their fall, so too leaves any reason for us not to join forces with the Russians, and crush the German-Austrian bloc for good.
+Risorgimento
+Italy has been divided since the Italian Civil War of 1920. Monarchists, Socialists, Republicans, and exiles glare at each other from behind their fortifications. In the face of this division, few are certain of Italy's swift reunification. God willing, however, we shall soon reunite all Italians in a new Risorgimento, like that of Cavour and the Savoyards seventy years ago.
+Establish Irredentist Claim on Ticino
+Ticino is a region of Switzerland primarily inhabited by Italians, and it is in our interests to establish a more permanent claim on the region.
+Establish Irredentist Claim on Nice
+Annexed by France in 1860, Nice is properly part of the Italian domain, and it is in our interests to establish a more permanent claim on the region.
+Establish Irredentist Claim on Savoy
+Annexed by France in 1860, Savoy is properly part of the Italian domain, and it is in our interests to establish a more permanent claim on the region.
+Establish Irredentist Claim on Upper Savoy
+Annexed by France in 1860, Upper Savoy is properly part of the Italian domain, and it is in our interests to establish a more permanent claim on the region.
+Establish Irredentist Claim on Trentino
+Once Italian territory, Trentino was passed to the Austrians after the Napoleonic wars, and it is in our interests to establish a more permanent claim on the region.
+Establish Irredentist Claim on Southern Tyrol
+While our claim over the area is weak, Southern Tyrol is an extension of Trentino and was once part of the Roman domain. It is in our interests to establish a more permanent claim on the region.
+Establish Irredentist Claim on Trieste
+Long dominated by the Austrian Empire, Trieste is still a proper Italian territory and it is in our interests to establish a more permanent claim on the region.
+Establish Irredentist Claim on Gorizia
+Once part of the domain of Venice, Gorizia is properly Italian territory and it is in our interests to establish a more permanent claim on the region.
+Establish Irredentist Claim on Istria
+Once part of the domain of Venice, Istria is properly Italian territory and it is in our interests to establish a more permanent claim on the region.
+Establish Irredentist Claim on the Dalmatian Coast
+Once part of the domain of Venice, the Dalmatian Coast is properly Italian territory and it is in our interests to establish a more permanent claim on the region.
+Establish Irredentist Claim on Cattaro
+Once part of the domain of Venice, the port of Cattaro is properly Italian territory and it is in our interests to establish a more permanent claim on the region.
+Establish Irredentist Claim on Fiume
+Once part of the domain of Venice, Fiume is properly Italian territory and it is in our interests to establish a more permanent claim on the region.
+Establish Irredentist Claim on Malta
+The island of Malta is an integral part of Italy, and it is in our interests to establish a more permanent claim on the region.
+Establish Irredentist Claim on Corsica
+Once part of the realm of Genoa, Corsica is properly Italian territory and it is in our interests to establish a more permanent claim on the region.
+Establish Irredentist Claim on [From.GetName]
+Once part of the domain of Venice, [From.GetName] is properly [ROOT.GetAdjective] territory and it is in our interests to establish a more permanent claim on the region.
+Establish Irredentist Claim on Albania
+Once part of the domain of Venice, Albania is properly [ROOT.GetAdjective] territory and it is in our interests to establish a more permanent claim on the region.
+The Republic Survives
+Despite the lure of the ANI and foreign machinations the Republic has survived. While the ANI still exist, we can take comfort in knowing that the republic is safe and secure from domestic enemies.
+Protect Democracy
+At last, we may breathe a sigh of relief - the election is over, and with it, internal tension has at last begun to dissipate. Our Republic has endured.
+Contain Extremism
+While our republic has so far persisted despite challenges from radicals of all stripes, any moment of weakness could become an opportunity for tyrants. Liberty cannot be allowed to perish. We must suppress socialist and ultra-nationalist organisations.
+Banking Reform
+The inherent vulnerability of the current global banking and financial system can no longer be denied. We should pass emergency legislation to stabilise failing banks and pass the most noncontroversial reforms to the system.
+Work Programmes
+Unemployment threatens both our people's welfare and the stability of our country. To combat this, we should put the unemployed to task constructing new buildings and infrastructure.
+Workers' Rights
+Italian labourers should never again be tempted by the insidious siren song of socialism, nor crushed beneath an employer's boot. Let us stamp out abuses against workers.
+Economic Recovery Act
+Our initial recovery efforts have alleviated some of the hardship brought on by Black Monday. We should now implement a comprehensive plan along the same lines as our previous initiatives to ensure that this depression is put fully at an end.
+Good Business Relations
+Many wrongly fear that our government holds sentiments not unlike the socialists across the Po. To calm these misplaced worries, we should arrange for regular meetings with prominent business leaders to discuss matters of policy.
+Union Ties
+While many trade unions supported the socialist insurrection, the Partito Liberale Democratico worked closely with moderate unions to consolidate our republic's authority during its tumultuous early days. We should reaffirm our commitment to continued cooperation with the unions.
+Christian Democracy
+Christianity espouses compassion for humanity and establishes sound moral principles. These values are integral to our nation's democracy and should officially become our party's creed.
+Urbanisation
+Our cities have stagnated due to the Weltkrieg's unfavourable conclusion and the ravages of the Civil War, and with them, our industrial capacity has also plateaued. With Black Monday at an end, we now have the ability to renovate our centres of industry and jumpstart urbanisation.
+Stable Democracy
+The economic crisis is at an end and extremist political challenges have been defeated. Italian Democracy now functions like never before, and our nation has become noticeably more stable.
+ANI in Power
+The Associazione Nazionalista Italiana have taken power within the Republic and have begun to transform Italy into a Legionary State as they promise to destroy all of Italy's enemies and restore Italy to greatness.
+Purge Red Menace
+The old republic was a sham, and its institutions were incapable of withstanding socialist infiltration. All civil servants must be comprehensively evaluated, and if any association with a socialist organisation of any kind can be found, they must be immediately removed from their post.
+Italian Militarism
+Our nation could be attacked at any moment. All true sons of Italy must always be vigilant, ready to defend their nation at a moment's notice. We should do whatever we can to remind the people of their duty.
+Four Economic Battles
+Our nation lies in ruin, not for the failure of any nationalistically minded Italian, but for the actions of so many buffoons the world over. We must never again be vulnerable to foreign incompetence. Each of four of the most major issues facing our nation should be fought and defeated in turn.
+Eliminate Anti-Italian Institutions
+The Republic granted too much autonomy to its member states, relics of the vestiges of Austrian influence and the Federation. The time has come to abolish their rights and place all power within the central government's hands - even though this might very well mean a fight with those whose autonomy we strip away.
+Corporate Alliance
+The natural human urge to profit and succeed is by no means bad, but it must be harnessed to serve the interests of the people and the nation. We should approach businesses large and small which have shown themselves to be patriotic and begin to integrate them into the apparatus of the state.
+Corporate Militarism
+Our corporate allies should be put to work building a series of new state armaments factories.
+Purge Opposition
+Whatever opposition to the nationalist project remains must be quickly dealt with. Socialists and anti-Italians will be left no quarter - we won't allow them to lose us another war.
+Building of Empire
+With the regionalists dealt with, no one can now oppose our Imperial project. Italy must be allowed to breathe, and her proles will have the land they need to prosper.
+Hail to the Heroes
+For far too long the men in green in our armed forces have been sidelined and blamed for the losses of 1919. Are they not the same heroes that so valiantly gave their lives for the country on the Isonzo? We shall recognise the primary role of the Army not just in Italian history, but in our society as a whole.
+Avenge Caporetto
+One name has, for two decades, weighed on Italy's soul: Caporetto. Today however, with the great cities of Trento and Trieste finally redeemed, we can finally move forward in making Italy one of the World's foremost powers, avenging the death of the heroes who fought for Italy's greatness.
+Italy is Reborn
+Like a phoenix rising anew, Italy has been reborn. Now, the very identity of our nation must be cemented. Italy will be reshaped and reformed into a new State that is National, Proletarian, Social and above all Italian.
+Restoration of the Federation
+Though republicanism guided our country for seven years, the time has come for a return to the decentralised aristocratic rule of the Italian Federation.
+Invest in the Countryside
+Rural areas preserve tradition and morality, unlike any city. The devastated countryside must be restored if our government is to have popular support.
+Decentralising Ideals
+The Italian Federation promotes economic freedom among its member states, with the central government helping out when needed and staying out when not. This attitude should make our member states richer.
+State Intervention
+The free market has clearly failed, for if it had succeeded the liberals would have stayed in power. Only through state intervention can we end our markets' plunge.
+Build Legitimacy
+To many, the Italian Federation was no more in their lives than a foreign imposition. They view our government as an irrelevant anachronism that will soon collapse. We must assure them that this is not the case.
+Fight Republicanism
+We now have the political clout to more actively fight republican influence in our government. Through political manoeuvring, the dismissal by the Head of the Federation of the most hostile republican politicians can be justified.
+Traditional Values
+The revolutionary ideals that have taken hold throughout the world are distasteful and an affront to morality. We must establish ourselves as a bastion of traditionalism in Europe.
+Church Ties
+Stable Institutions
+Though liberals and socialists accuse monarchies and conservative governments of failing to adapt to the times, it is they who act too hastily. We, who have overseen too many changes to count and survived them all, say there is power in traditional institutions, and we shall prove this to the people.
+The Catholic faith provides strong moral values and a solid foundation for the proper conduct of governments. We must reaffirm our dedication to Catholicism and draw closer to conservative elements within the Church.
+Return of Prosperity
+After many initiatives, some successful and some failures, we have ground the economic downturn to a halt. We can finally claim to have ended the negative affects of Black Monday, and our people can regain economic stability and look to a prosperous future.
+Defend the Federation
+Our nation will never be completely safe from attack. We must construct new fortifications and other defences to prevent the success of any hostile invasion.
+Towards a United Italy
+Now that we have proven to our people the justice of our rule, we are ready to unite Italy. May all those who stand in our way on the global stage fall just as our domestic rivals have! Viva l'Italia!
+Fund Italian Industry
+The Institute for Economic Reconstruction was formed in 1924 to reconstruct our heavy industry after the civil war. We should give it more funding, so that it may continue to help our nation's industry.
+Industrial Improvements
+Much of our nation's industry lies in disrepair and those factories which still function have become increasingly archaic. To deal with this problem, we should initiate a state-sponsored programme of factory modernisation.
+Create the Autostrada
+The Autostrada was envisioned as a system of wide roadways linking major cities. While the civil war halted plans for its construction, we now possess the ability to build at least part of the original system.
+Support the Auto Industry
+Italy has been a hotbed for automotive innovation since the industry's birth. We should seize this advantage and implement substantial subsidies for the auto industry with the aim of increasing production.
+Modernise Agriculture
+The many small farm estates of the countryside not only still bear damage from the Civil War but have also been unable to adopt new agricultural technologies and methods of cultivation. We should subsidise the import of modern agricultural equipment to jump-start this process.
+Create the Istituto Luce
+Many dissidents would surely put aside their anger if only they could be shown the truth. To show to them our undeniable benevolence, we should establish a department dedicated to popular enlightenment and morality through means of new forms of mass media.
+Economic Planning
+With the depression brought on by Black Monday at an end, we must make certain that such a collapse never happens again. To do so, we should establish a governmental organisation focused on long-term economic policy.
+New Defence Contracts
+Armaments facilities in the newly liberated parts of Italy can be easily expanded. By issuing contracts to these facilities, we can encourage their enlargement.
+Military Contracts
+To spur economic activity while simultaneously arming our military, we should issue additional small arms contracts to smaller armaments facilities.
+Defence Contracts
+The arms industry is an important economic sector. By working closely with contractors and offering new contracts, we can encourage the expansion of many armaments facilities.
+Militarised Economy
+The economy and the military must not be at odds, they must be like two complementary gears in a greater machine.
+New Economy
+With Italy united, we should now focus on the economic development of those parts of the country which were once lost to us.
+Research Institutes
+Our research and development apparatus has fallen into disrepair. We must not allow our enemies to possess a technological advantage. Let us found new state research institutes.
+New Venetian Arsenal
+Venice was once home to one of Europe's largest shipyards, and its dockyards are rife still for expansion. Let us found a new naval arsenal in Venice.
+Market Protection
+To stimulate domestic production, the economy must be protected from the predatory trade policy of foreign nations. We should apply heavy tariffs on certain finished goods.
+Synthetic Research
+Our nation lacks domestic sources of oil and rubber. We can, however, produce these from the great bounty of natural resources on the Italian peninsula.
+Expand Research Institutes
+Our newly founded research institutes have been effective in closing the technological gap between our nation and the other powers of Europe. Let us reform those parts of our research apparatus which have proven ineffective and streamline the entire system.
+New Industry Programmes
+With Italy's factories now once again in a position to serve Italy. We should now work to integrate them into our nation.
+Expand Dockyards
+The ports of much of the country lie in ruin, we must expand and renovate them.
+Expand Airports
+The aviation industry is growing rapidly the world over. We should be at the forefront of this new economic sector.
+Expand the Autostrada
+The Autostrada has been a boon to northeastern Italy, and with the rest of the land now under our control, we can expand it throughout the peninsula.
+Industrialise the South
+The South has always lagged behind in its industrial development. We must work to close this gap.
+Factories for Italy
+Much of Italy remains underdeveloped. If we are to truly become one of the great powers of Europe, this must change.
+Italian Miracle
+Italy, reunited, has recovered from her previous troubles and surged forth onto the world stage as one of Europe's largest economies.
+Begin Risorgimento
+The time has come. Italy, this wonderful land of abundance, shall again be united. Viva l'Italia!
+Naval Exercises
+As a display of power and to promote naval morale, we should organise a series of naval exercises in the Adriatic Sea. Let our nation's enemies tremble.
+Military Exercises
+As a display of power and to promote the morale of our army, we should organise a series of near-combat training exercises near the Po River. Let our nation's enemies tremble.
+Italy is United
+It is done, Italy, beautiful Italy, is whole again. In the hearts of all patriots, this moment shall forever be remembered.
+Recruit Sicilian Generals
+The Sicilian officer corps, however detestable its former King may have been, undoubtedly has many competent generals. Should these generals be allowed to serve Italy?
+Recruit Sardinian Generals
+Many good men fought and died for Sardinia. Now, with the wounds of war beginning to heal, the fate of Sardinia's generals must be decided.
+Italian Irredentism Policy
+With Italy united and some of the most pressing issues of domestic policy resolved, we can look outwards, especially at those lands which, by right, should be Italian.
+A Stable Italy
+Our politics have been unstable since the civil war ended, but now, with an Italian Republic ruling over all Italy, we can finally end the instability that has been plaguing us for years.
+Graziani's Manoeuvre
+The army which is most agile possesses a significant advantage on the battlefield. While our enemies may claim countless millions among their ranks, if our forces are quick enough to fully exploit tactical opportunities, we shall triumph.
+De Bono's Planning
+Maintaining operational integrity and executing well-developed plans is key to victory in modern warfare. Italy's failure in the Weltkrieg can be most easily attributed to incompetent planning and a disregard for overall strategy. This shall never happen again.
+Bastico's Firepower
+Modern weapons enable an enemy's destruction from afar. We must augment our armed forces with a plethora of artillery and other support equipment.
+Begin Modernisation
+With our army now guided by a central doctrine, we can begin to overhaul its structure and composition.
+Modernise Alpini
+Were it not for the bravery and skill of the Alpini, Italy would surely have fallen sooner to the Central Powers during the Weltkrieg. These incredible mountaineers, however, have fallen into disrepair since the Weltkrieg's end. We should focus on bringing the Alpini back into fighting form.
+Reform the Arditi
+The Arditi represent the best of that Italy has to offer. These elite units specialise in infiltration, especially through unconventional means and in harsh environments. Let us reorganise the Arditi to better represent the rapidly evolving role of special forces in modern warfare.
+High Command Reforms
+The Italian Military High Command was left fractured with the division of the land itself. Yet, in the time since, its structure has remained unchanged. Let us reorganise the High Command to the demands of our current situation.
+Italian Armoured Cars
+Armoured cars proved effective during the Weltkrieg both as a way to increase troop mobility and provide cheap and effective fire support. With our army now focused on mobility, our armoured cars must also be refitted and their doctrine modified to better suit this new fighting style.
+Cruiser Tanks
+Cruiser tanks are specifically designed to support motorised infantry. They are cavalry for the modern era.
+Artillery Effort
+Our artillery and other support equipment must be flawlessly integrated into our ground units. No attack should be made without support.
+Infantry Tanks
+Armoured vehicles must coordinate closely with infantry, so that both may fight more effectively.
+Planning Schools
+All NCOs, must be offered some degree of formal officer training, and not left to rely on experience alone. To accomplish this, we should establish several new officer academies oriented at providing short additional training courses to NCOs. This, we figure will greatly improve the ability of individual units to properly interpret and execute orders.
+Commander Initiative
+Officers must be given the opportunity to respond to changes in their units' tactical situations. We should encourage officers to plan and to act as the situation on the ground dictates.
+Modernise our Guns
+Our armed forces largely still rely on the same outdated weaponry as during Weltkrieg. We must bring our small arms up to par with the rest of Europe.
+Servizio Ausiliario Femminile
+The potential of Italian women to contribute to the war effort still remains largely untapped. By establishing all-female volunteer units to serve in support roles within the army, we can begin to harness the abilities of our honourable sisters.
+Finish Reforms
+The army has now been all but completely reformed. Our soldiers and officers now stand ready to reestablish Italy's rightful place among the great powers of Europe.
+[ita_navy_focus_name]
+Marina Nazionale Italiana
+Regia Marina
+Our navy is still organised in much the same impromptu structure it was upon the outbreak of the Civil War. We should centralise our naval administration under a new structure.
+Merchant Marine
+During the Weltkrieg, the Atlantic became a graveyard for our allies' merchant ships, and with success in the next war certain to be no less dependent upon the ability of our merchant ships to traverse dangerous waters, we must have a central merchant shipping administration to oversee convoys.
+Grand Navy
+Our navy must be rapidly expanded with a focus on the production of new capital ships.
+Battlecruisers
+Battlecruisers are both fast and armed with sizeable guns. While battlecruisers may not be sufficient to form the core of our fleet, they fill a valuable role.
+Italian Battleships
+Battleships are the pride of any navy. Large, well armoured and armed, and expensive to produce, new battleships entering our naval service will undoubtedly signal to the world that we seek to regain our place in the world.
+Defend the Coast
+The new navy should be oriented towards the protection of our coastline and disruption of enemy merchant fleets.
+Italian Submarines
+Submarines were used to great effect by Germany in the Weltkrieg. We must have a submarine fleet of our own if our navy is to be effective.
+Italian Coast Guard
+A new branch of the Navy should be created which is focused on the protection of our territorial waters.
+Light Cruisers
+Light cruisers are versatile support platforms which can greatly assist ships both large and small.
+Reinforce the Coast
+The northern coast of the Adriatic is our lifeline to the markets of the world, and thus cannot be allowed to fall into enemy hands. We should construct new coastal fortifications so that no enemy shall land upon these shores.
+Expand the San Marco Brigade
+To wage war upon foreign shores or to land behind enemy lines and disrupt their organisation, we will need to invest in new amphibious equipment and training methods.
+Rule the Seas
+Our navy is now at least a match for the old Regia Marina, and is fully prepared to defend Italy and crash upon her enemies like a great wave.
+[ita_air_focus_name]
+Aeronautica Nazionale Italiana
+Regia Aeronautica
+Our small air force consists of volunteers using what few planes can be scrounged together from foreign surplus. We must establish a formal air force and prepare to train new pilots.
+Pilot Training
+The volunteers who currently make up the bulk of our military pilots are largely former amateur enthusiasts with ample skill in the air. We should put these experienced flyers to work to establish a training regime for new pilots.
+Upgrade Airports
+To accommodate a true air force, the various small civilian aerodromes that dot the countryside should be nationalised and expanded.
+Aviation Industry
+Italian aircraft manufacturers have been stunted by the turbulence that has plagued the peninsula since the end of the Weltkrieg. To bring them back up to par with foreign companies, they must have state support.
+Strategic Focus
+Our air force should be focused on dealing damage to the enemy's industry and military capacity - offence is key, not defence.
+Bomber Efforts
+To truly assist the army, our air force must be capable of destroying fortified positions and disrupting enemy infrastructure. To accomplish this, we should focus on the development of new tactical and strategic bombers.
+Air Supremacy
+The skies must be free from enemies and our armies unmolested by hostile aircraft. Our air force should primarily be focused on establishing and maintaining control of the air.
+Fighter Support
+Fighters are the backbone of any air force, and to wrest control of the skies, we must develop new models.
+Paracadutisti
+Paratroopers are a new type of unit which will allow for the deployment of units to otherwise inaccessible areas. By developing more advanced airborne equipment, we will possess a unique tactical advantage over our enemies.
+Female Pilots
+Many patriotic women with flying experience find themselves unable to directly contribute to our military effort. Female pilots should be permitted to volunteer for aerial transportation and support roles.
+Radar Effort
+Radar is a promising new technology which, with further development could provide a wealth of information about enemy tactics and positions and reveal the course of enemy aircraft.
+Rule the Skies
+The air force is no longer a rag-tag collection of volunteers, but a fully functioning organ of our military. Let us rule the skies of Italy and beyond!
+After Italy's defeat in the Weltkrieg, the country was left to the mercy of the Austrians - and it would have been reorganised into an Italian Federation had it not been for the outbreak of civil war. The socialists would have overrun the peninsula had the Austrians not swallowed a bitter pill and cooperated with the republicans... and, after the fighting stopped, were forced to maintain the relationship into the current day. Italy remains unstable, however, and its eventual reckoning with the socialists across the Po appears inevitable.
+GFX_ITA_intro
+The History of the Republic of Italy: Defeat and Civil War
+In 1919, Italy concluded an armistice with the Austrians, permitting Austrian forces to occupy Lombardy and Venetia pending a formal peace settlement. The subsequent §YTreaty of Vicenza§! was a humiliating affair, disgracing both the nation and the old political order. Within mere days, enraged nationalists proclaimed the new Republic of Italy in Milan, which maintained that all treaties signed by the House of Savoy were to be considered null and void.\n\nAll over Italy republicans and nationalists rose up against the old political order, pushing royalist forces out of much of Central and Northern Italy. However fractures soon became apparent in the fledgling republic and what started as small scale conflicts turned into an uprising of §rRed§! forces against the republican §gWhites§!, grinding the conflict against royalist forces to a halt.
+The Status of the Republic of Italy: The Federation Failure
+As the civil war dragged on, the tides of war turned against the Whites, and when Austria offered the republicans help in exchange for joining in a common state with the royalists in the south, the republicans had no choice but to accept, or face destruction. After a victory at the Po against the Socialists, the White and Austrian forces found themselves forced to swallow the bitter pill of prolonged cooperation. The Republic was obliged to legally join the Italian Federation under Austrian protection. They also granted significant autonomy to Veneto and much influence in the government to the Austrians and the Council of the Italian Federation. In exchange, however, the Prime Minister of the Republic was granted the title Interim Head of the Italian Federation.\n\nThis carefully balanced arrangement fell apart in 1926, however, when the Union of Britain joined the Third Internationale. The Socialists were emboldened and there was talk of war, but the Austrians made it clear that their forces would make no move to attack the socialists if the south came under attack. This threw the peninsula into chaos, and gave the Sicilians and Savoyards, long dissatisfied with the pro-Milan balance in the Council of the Italian Federation, the chance to walk out. Though the socialists never attacked, the Council now clearly served no purpose, and its ten-year term was allowed to expire in 1930. While the halls of civilian power in Milan bustle with activity and ambition, the Council Chamber now stands empty.
+The Status of the Republic of Italy: Recovery and Risorgimento
+Though at considerable cost to national pride, the Austrian connection slowly improved the economic standing of the Republic, which drew strength from the German Mitteleuropa and Austrian investment. As Italy recovered from the civil war's destruction, however, many in the Republic began to rue their government's deal with the Habsburgs, and popular support for the anti-Austrian Associazione Nazionalista Italiana (Italian Nationalist Association) grew in Lombardy and Friuli.\n\nIvanoe Bonomi's centre-left coalition has ruled the country since 1927, but their popularity is mainly due to the economic stability, and should that end other parties such as the staunchly republican Partito Liberale Italiano or conservative Partito Popolare Italiano might gain enough support to form a government. Should matters get completely out of hand and Federation-aligned forces restore order in the north by force, even the old Council of the Italian Federation might take power. One thing all parties have in common is a desire for a free, united Italy, however, and many are sure a second Risorgimento is coming.
+§MLiberal Democrats§! / §MLiberals§! / §MPeople's Party§! / §MDemocratic Reformists§! ($social_liberal_coloured$ / $market_liberal_coloured$ / $social_conservative_coloured$ / $social_democrat_coloured$)\n£white_dot During the 1936 snap election, choose to elect either §lPartito Liberale Democratico§!, §mPartito Liberale Italiano§!, or §cPartito Popolare Italiano§!.\n£white_dot After the election, §nAssociazione Nazionalista Italiana§! will dispute the election and ultimately aim to overthrow the government.\n£white_dot To prevent this either ban the §nANI§!, or keep an eye on them and when they eventually march on Milan choose for their coup to fail.\n£white_dot Afterwards there will be a no confidence vote in the government, surviving the vote will allow democracy to survive and in the 1941 election §SLega Democratica Riformista§! will be able to be elected if desired.\n\n§MNationalists§! ($national_populist_coloured$)\n£white_dot During the 1936 election choose to elect the §nANI§!.\n£white_dot Alternatively, win the elections as any other party without banning the §nANI§! and allow their march on Milan to succeed.\n£white_dot After their rise to power £KR_game_rule_flag_VNC  Venice will soon revolt against the government, win against this revolt to consolidate your power.\n\n§MItalian Federation§! ($authoritarian_democrat_coloured$)\n£white_dot Elect a democratic government during the 1936 election without having the §nANI§! seize power.\n£white_dot During the no confidence vote against the government, have the government lose the vote and fall.\n£white_dot This will allow you to restore the Italian Federation, either under the rule of Pietro Ferdinando I or Marcello I.\n£white_dot Alternatively during the Venetian revolt, switching to £KR_game_rule_flag_VNC  Venice and winning will allow you to restore the federation.\n\n§MThe Republic is Disbanded§! (£KR_game_rule_flag_LOM  / £KR_game_rule_flag_VNC )\n£white_dot Follow the above guide for restoring the Italian Federation, but during the event to restore the Federation instead choose to disband the Republic completely which will dissolve the Republic into an independent £KR_game_rule_flag_LOM  Lombardu and £KR_game_rule_flag_VNC  Venice.\n- If this is done as the Republic you will swap to £KR_game_rule_flag_LOM  Lombardy, otherwise if done as £KR_game_rule_flag_VNC  Venice you will remain as them.\n
+§Y[AUS.GetNameDefCap]§! will call on §Y[GER.GetNameDef]§! to intervene in the peace talks\n
+Italy
+Italian
+Italy
+Italian Republic
+the Italian Republic
+Italian Republic
+the Italian Republic
+Italian Republic
+the Italian Republic
+Italian Republic
+the Italian Republic
+Italian Republic
+the Italian Republic
+Italian Republic
+the Italian Republic
+Italian Republic
+the Italian Republic
+Italian Republic
+the Italian Republic
+Italian Republic
+the Italian Republic
+Italian State
+the Italian State
+Italian Federation
+the Italian Federation
+Italian Federation
+the Italian Federation
+Italian Federation
+the Italian Federation
+Italian Federation
+the Italian Federation
+Italian Federation
+the Italian Federation
+Italian Federation
+the Italian Federation
+Italian Federation
+the Italian Federation
+Italian Federation
+the Italian Federation
+Italian Federation
+the Italian Federation
+Italian Federation
+the Italian Federation
+Kingdom of Italy
+the Kingdom of Italy
+Kingdom of Italy
+the Kingdom of Italy
+Kingdom of Italy
+the Kingdom of Italy
+Kingdom of Italy
+the Kingdom of Italy
+Kingdom of Italy
+the Kingdom of Italy
+Kingdom of Italy
+the Kingdom of Italy
+Kingdom of Italy
+the Kingdom of Italy
+§YBorn:§! §LSeptember 15th, 1904, in Racconigi, Cuneo, Kingdom of Italy§!\n§YBackground:§! §LWhen the war turned on Italy and his father abdicated for both himself and his son, then Prince of Piedmont Umberto had thought everything lost. Going into exile in Canada before returning to Sardinia in the mid 1920s, he would go on to build a military career away from the spotlight, while his uncle and cousin the Dukes of Aosta stood on the throne he had once been destined for.\n\nThe throne, however, eventually came for him. When the ANI sought to restore the Monarchy they turned not to the Duke of Aosta, tarnished by his reign in Sardinia, but to the former Prince of Piedmont, whom the old admiral Ciano always saw as the only true pretender to the throne.\n\nThis throne is however a gilded cage for the constitutionally-minded Umberto: with his every move watched by the Prime Minister and ANI leaders Federzoni and Sardi, he's forced to sit and wait for new political developments, while the Blueshirts build him an Empire.§!
+Costanzo Ciano
+§YBorn:§! §LAugust 30th, 1876, in Livorno, Kingdom of Italy§!\n§YBackground:§! §LAn unassuming sailor, a terrible public speaker, no one would have thought the Tuscan officer would have ever amounted to anything much; and yet, there he is.\n\nAfter years of service in the Navy, Ciano was shot to national relevance due to his actions in Buccari in 1918; Decorated with a golden medal to valour, his fifth, he would watch in horror as the war turned on Italy. He would fight for the White side in the civil war, ensuring their superiority at sea in the Adriatic; he also became one of the few monarchist officers not to follow Badoglio in Sardinia during his evacuation.\n\nHailed as a national hero and one of the few men in the Northeast to be able to oppose both Austrian hegemony and Red infiltration, he rose to ANI leadership with the support of both party secretary Luigi Federzoni and Blueshirts leader Alessandro Sardi, becoming the figurehead of the movement.\n\nWhen the ANI was carried to power in the aftermath of the chaotic 1936 elections, Ciano was seen as the natural leader of the country, a true Duce to follow in the footsteps of Garibaldi and free Italy from tyranny.§!
+§YBorn:§! §LAugust 30th, 1876, in Livorno, Kingdom of Italy§!
+Gian Galeazzo Ciano
+§YBorn:§! §LMarch 18th, 1903, in Livorno, Kingdom of Italy§!\n§YBackground:§! §LThe firstborn son of admiral Costanzo Ciano, Gian Galeazzo had been a diplomat for most of his life when the sudden death of his father forced an extraordinary leadership conference within the Nationalist Association.\n\nWith neither Sardi's Blueshirts nor Federzoni managing to gain control of the organisation and straining its unity, they turned to the son of their Duce; the younger Ciano accepted, and was given the reins of government.\n\nPersonally a monarchist and a known anglophile, Ciano doesn't have much of an opportunity to put his views into action; the very same forces that put him in power control his every move, making his government a puppet show of Sardi and Federzoni. Still, the two pillars of the ANI will not be around forever; and who knows, one day the younger Ciano may finally step in the shoes of his father.§!
+§YBorn:§! §LMarch 18th, 1903, in Livorno, Kingdom of Italy§!
+Pietro Ferdinando d'Asburgo-Lorena
+§YBorn:§! §LMay 12th, 1874, in Salzburg, Duchy of Salzburg, Austria-Hungary§!\n§YBackground:§! §LWhile many in Italy dream of great change, others look back to the past - back when things were different. For many of such nostalgics, they look to Garibaldi or Mazzini, for a time when Italy was strong and united. But, there is a minority that look back even further. It would appear that their dream has come true: Grand Duke Pietro Ferdinando d'Asburgo-Lorena has assumed the title of President of the restored Italian Federation, a collection of pre-Risorgimento Italian states. His ascension is no doubt in part as a reward for Austria's loyal patronage of Italian aristocrats and conservatives.\n\nPietro Ferdinando was born in Salzburg to the former Grand Duke Ferdinand IV of Tuscany, one of the larger states in Italy. His father had been deposed, and in exile abdicated his claim to the throne in favour of the Austrian Emperor. The third son of his family and given the political circumstances, Pietro Ferdinando did not expect to be restored to Tuscany and enrolled in the Austrian military.\n\nDuring the Weltkrieg, he served as an infantry commander and aided in the occupation of Northern Italy. As the armistice was first signed, Austrian planners began drafting up plans to restore the old status quo with a small twist: there would be a loose federation led by the Pope to govern Italy and quell Italian nationalistic sentiment. Since his brothers both married morganatically, General Pietro Ferdinand was chosen by Charles to become the new Grand Duke of Tuscany.\n\nThese designs proved to be too ambitious. The Austrian advance never made it to Tuscany, and socialist rebels have overrun the region. Moreover, by 1930 the Federation had collapsed: Sicily and Sardinia left while Austrian troops pulled out of the north. A republic was declared, and Pietro Ferdinand effectively stuck in a legal limbo. At least until now.\n\nTo keep himself entertained, the Hapsburg prince has been known to appreciate the arts. He is distantly related to the House of Bourbon-Parma through his mother's side.§!
+Arturo Michelini
+§YBorn:§! §LFebruary 17th, 1909, in Florence, Kingdom of Italy§!\n§YBackground:§! §LSon of a liberal lawyer, Michelini was 10 years old when his family escaped the advancing Socialist armies and settled in Milan. Imprinted with anti-syndicalism from an early age, he briefly worked as an insurance agent before becoming assistant secretary to Augusto de Marsanich in the \
+Marcello Visconti di Modrone
+§YBorn:§! §LDecember 18th, 1898, in Macherio, Milan, Kingdom of Italy§!\n§YBackground:§! §LBorn to Duke Uberto, Duke Marcello's family hadn't ruled Milan for almost five centuries by his birth; however, they had been heavily active in local politics through the entire period. With his grandfather having led the modernisation of the famous Scala Theatre and his father having been a notorious industrialist, the Viscontis of Modrone were already well known when the Austrians handpicked them to lead the new Duchy of Lombardy in the Italian Federation.\n\nWith his father's death in 1923, Marcello became Duke of Lombardy for the next four years; when Bonomi eventually declared the birth of the Italian Republic the Duke was involved in the negotiations for Lombard and Venetian autonomy, as well as ensuring the survival of the Council of the Italian Federation together with the Austrian Peter Ferdinand. Through the years of the Republic, the Duke of Modrone remained socially active, chairing the Milan Exhibition and briefly serving as Mayor of Milan with the support of a conservative coalition.\n\nOnce again propelled to the position of Head of State, Marcello remains a \
+Emilio de Bono
+§YBorn:§! §LMarch 19th, 1866, in Cassano d'Adda, Bergamo, Kingdom of Italy§!\n§YBackground:§! §LTimes have not been very kind to Italy, and it would appear that the life of democracy in the Italian Republic was fleeting. Defeated by foreign powers and with the legacy of Italy's civil war still fresh on the occupiers' minds, Emilio de Bono has been tasked with establishing a provisional military government for Italy. Given the circumstances, it would appear that General de Bono will remain in office for some time to come.\n\nEmilio de Bono was born in Lombardy, a distant descendant of Lombardy nobility. He followed in his father's footsteps and enrolled in military school, studying at Milan and then Modena. An officer in the Bersaglieri, de Bono fought in Eritrea and Libya during the high period of the new Italian kingdom, a time that sadly could not last.\n\nWhen Italy fatefully cast their lot with the Entente in 1915, the then Colonel de Bono was sent to fight against the Austrians. Promoted quickly to Major General and leader of the \
+§YBorn:§! §LMarch 19th, 1866, in Cassano d'Adda, Bergamo, Kingdom of Italy§!
+Giovanni Gronchi
+§YBorn:§! §LSeptember 10th, 1877, in Pontedera, Pisa, Kingdom of Italy§!\n§YBackground:§! §LIn a country dominated by Roman Catholics, it was perhaps no surprise when Giovanni Gronchi and the Italian's People's Party (PPI) took charge of the young Italian Republic. This coalition, dominated by Christian Democrats, promises to guide the Italian nation using Christian social teachings - contrasting with anti-clerical factions on the left while still promoting welfare and labour issues opposed by the right.\n\nThe man at the helm of the PPI is Giovanni Gronchi, a Tuscan-born follower of Father Romolo Murri, one of the early founders of Christian democracy in Italy. Initially a highschool teacher with a degree in literature from the University of Pisa, when the Weltkrieg broke out Gronchi fought as an infantry officer\n\nWhen the war ended, Giovanni Gronchi returned as a decorated soldier to a deteriorating political situation at home. Fearful of anti-Catholic violence, he fled Tuscany and went to Milan. There, Father Luigi Sturzo began to organise the PPI for the first time with the blessing of Rome and Vienna. Unlike the other Christian Democratic parties emerging in post-civil war Italy, the PPI found themselves under a Republic and proved to be comfortable serving both under the Austrian imposed federation and Bonomi's republican system.\n\nGronchi's activities as a PPI activist and representative have been varied. In addition to being a reasonably successful businessman, industrialist and salesperson, he was also notable for helping organise Catholic trade unions in an effort to undercut syndicalist influence and win better concessions for the workers. One of the more left-leaning members of the PPI, his ascension into leadership was not a sure thing. When Luigi Sturzo resigned as leader of the PPI, Gronchi took power as part of a triumvirate with Giulio Rodinò and Giuseppe Spataro. Together they formed a front against the rising Legionairism in Italy, hoping to organise the remaining democratic parties against them.\n\nGronchi's election as President of Italy now confirms the influence of the PPI in Italian politics. While some have criticised him for actions seen as conciliatory to socialists and syndicalists, his commitment to parliamentary democracy and his willingness to engage in some economic reform makes him a stable candidate to guide Italy for the near future.§!
+Luigi Einaudi
+§YBorn:§! §LMarch 24th, 1874, in Carrù, Cuneo, Kingdom of Italy§!\n§YBackground:§! §LSometimes, despite all the chaos and all rapid changes engulfing a nation, it is easier to go back to the way things used to be. The triumph of the Italian Liberal Party is proof of that fact, and with the reemergence of the dominant party of the early 1900s, it would appear that the status quo of old has returned. But not everything is the same - Luigi Einaudi is a new man promising a new day in Italy. Under his careful eye, liberalism will flourish in Italy and will be more than just a capitalistic vehicle for political control. Rather, it will be an expansive ideology reflecting integrated approach to moral, economic and social reasoning.\n\nBorn in 1874 to a small town in Piedmont to a minor bureaucratic family, Einaudi was orphaned at age 14. He went to school in Turin, studying economics under Salvatore Cognetti de Martiis. A socialist in university and a collaborator with Critica Sociale, his time as a magazine contributor ended with a move towards liberal thought. He spent a significant portion of his life in academia, teaching finance at schools in Turin and Milan.\n\n1919 changed everything, not just for Italy but also for a young Einaudi. The middle aged professor found himself at Bocconi University in occupied Milan as socialist and nationalist revolutionaries began to overrun major cities and towns across the country. With many of his students dropping out to join a cause, Einaudi became inspired to find a movement of his own. He was introduced to national politics by Francesco Saverio Nitti during the chaotic early days of the Italian Federation, and soon became an outspoken member of the PLI\n\nAlthough Nitti remained with the Sicilian government after the Federation collapsed, Einaudi stayed with Federation leadership in Lombardy and joined the Republican government. He helped to reorganise the liberals, rallying them against the aristocratic influence of the Austrians and their Federationist allies as well as the nationalistic legionaires under Ciano. Instead, he has chosen to offer a vision of an Italy with the utmost respect for human liberty and encouraging the individual to pursue a form of self actualisation away from the dominance of the state. He also dreams of a European federalism, distinct from the false and exploitative \
+Marcello Soleri
+§YBorn:§! §LApril 28th, 1882, in Cuneo, Kingdom of Italy§!\n§YBackground:§! §LEven as times change and politicians come and go, it can be reassuring for many that a familiar face is at the helm. Marcello Soleri is one of those faces, a long time political figure in the Italian Liberal Party from even before the Weltkrieg. Before the chaos that engulfed Italy. His vision for Italy marks a return to the old, liberal dominated order - challenging the Catholics to the right and the socialists to the left.\n\nSoreli was born in Cuneo, a small town near Turin. His parents were active in local politics, and instilled a powerful sense of duty into their sons. After studying at the University of Turin and receiving a degree in law, funded in significant amounts by family friends such as Giovanni Giolitti, Soleri became a part time journalist and a lawyer.\n\nHis early career was marked by a leftist turn, admiring socialists and joining a Masonic Lodge. However, he remained connected to Giolitti - a Liberal party grandee - and helped him campaign to rally moderate Christian opposition to socialism. Soleri became a mayor of Cuneo at age 30 in 1912 as the leader of a liberal-democratic coalition. He began an aggressive job-creating infrastructure development scheme, but transitioned to national politics within a year or so.\n\nAs a member of the chamber of deputies, Soleri frequently broke with the Liberal party, especially when it came to intervention in the Weltkrieg. Initially a \
+§YBorn:§! §LApril 28th, 1882, in Cuneo, Kingdom of Italy§!
+Ivanoe Bonomi
+§YBorn:§! §LOctober 18th, 1873, in Mantua, Kingdom of Italy§!\n§YBackground:§! §LTraitor. Sellout. Puppet. Failure. Ivanoe Bonomi has heard it all, but he still diligently fights every day for Italy and the Republic. Being a Prime Minister isn't an easy job for most countries, and certainly not in a divided Italy. When the Sicilians and Sardinians withdrew from the Italian Federation in 1930, then Prime Minister of the Federation Bonomi dissolved the Federation, a bold move that established a new republic and sidelined the foreign-raised monarchs nominally ruling Italy. Subsequently, he was elected Prime Minister of the new Italian Republic, and his willingness to work with the much-maligned Austria, while economically beneficial, continues to draw great internal scrutiny. Bonomi struggles to weather these increasingly virulent criticisms while cementing the republic's political institutions.\n\nIt would be unwise, however, to write off Bonomi as just another Austrian collaborator or political suit. The father of this new Italian Republic actually had his origins as a socialist deputy from Mantua. Born 1873, a generation after first Risorgimento, he grew up a scholar and a journalist as Italy transitioned from a wartime state to a new Kingdom. His moderate views and support for Giolitti's war in Libya saw him expelled from the PSI in 1912, and opted to co-found the Italian Socialist Reformist Party (PSRI).\n\nWhen the Weltkrieg began, he volunteered to go to the front. After a short stint however, he quickly assumed a series of high ranking cabinet positions, with portfolios including Public Works, War, and Treasury. With many other Italian politicians fleeing into exile or retiring from politics in 1919 after the humiliating armistice, Ivanoe Bonomi was one of the few who dared to remain in the government as the Austrians began drafting their peace terms. The deteriorating political situation saw Italy collapse into civil war and Austrian occupation of northern Italy\n\nRealising things have gone out of control and in a desperate bid to attract some liberal support, the Austrians allowed Bonomi to form a compromise provisional democratic government in Milan parallel to their Aristocratic federation project. Bonomi, for his part, dropped his openly socialist views in favour of joining the newly formed Liberal Democrats.\n\nHaving outflanked the Austrians for now, it is up to Bonomi to navigate the treacherous waters ahead if his Republic is to survive.§!
+Ferruccio Parri
+§YBorn:§! §LJanuary 19th, 1890, in Pinerolo, Turin, Kingdom of Italy§!\n§YBackground:§! §LAs one star fades, another rises in its place. After decades of leadership under Ivanoe Bonomi, the Liberal Democrats have emerged renewed under Ferruccio Parri. With the support of a wider coalition, Parri hopes for a new era of unity in a tumultuous Italy.\n\nInitially a school teacher in Milan and an editor at Corriere della Sera, the Weltkrieg changed Parri's life forever. Joining as an officer, he was decorated for bravery and was wounded on three separate occasions throughout the war. During the closing days of the war, he was an officer of the Italian General Staff, and was dismayed as the Italian military suffered defeat after defeat at the hands of the combined Austro-German offensive.\n\nParri was part of the Italian military remnant released by the Austrians to help stabilise the situation in the Italian homefront as Italian revolutionaries deposed the monarchy and sought to oust the Austrians from the peninsula. While suspicious of Austrian aims, he feared the rising tide of socialism and used his influence in Milan to organise partisan groups to counter red infiltration. He became moderately known locally for being a staunchly republican editor of the Corriere della Sera, promoting a liberal democratic alternative to syndicalism.\n\nInitially lukewarm towards the Italian Federation imposed by the Austrians, he became an avid supporter of Bonomi's Italian Republic when it was declared in 1930. By that point, he was a manager of Milan's largest electrical company and joined up with Bonomi's newly formed Liberal Democrats.\n\nNow, it is up to Parri to take up the torch of the party and safeguard the democratic, moderate ideals of the Republic.§!
+Giacomo Matteotti
+§YBorn:§! §LMay 22nd, 1885, in Fratta Polesine, Rovigo, Kingdom of Italy§!
+Rodolfo Graziani
+§YBorn:§! §LAugust 11th, 1882, in Filettino, Rome, Kingdom of Italy§!
+Ettore Bastico
+§YBorn:§! §LApril 9th, 1876, in Bologna, Kingdom of Italy§!
+Annibale Bergonzoli
+§YBorn:§! §LNovember 1st, 1884, in Cannobio, Novara, Kingdom of Italy§!
+Alberto Pariani
+§YBorn:§! §LNovember 27th, 1876, in Milan, Kingdom of Italy§!
+Ugo Cavallero
+§YBorn:§! §LSeptember 20th, 1880, in Casale Monferrato, Alessandria, Kingdom of Italy§!
+Gabriele Nasci
+§YBorn:§! §LOctober 3rd, 1887, in Cordignano, Treviso, Kingdom of Italy§!
+Italo Gariboldi
+§YBorn:§! §LApril 20th, 1879, in Lodi, Milan, Kingdom of Italy§!
+Venanzio Gabriotti
+§YBorn:§! §LApril 26th, 1883, in Città di Castello, Umbria, Kingdom of Italy§!
+Fedele de Giorgis
+§YBorn:§! §LJanuary 17th, 1887, in Chivasso, Turin, Kingdom of Italy§!
+Alessandro Sardi
+§YBorn:§! §LJanuary 25th, 1889, in Sulmona, Aquila degli Abruzzi, Kingdom of Italy§!
+Alberto da Zara
+§YBorn:§! §LApril 8th, 1889, in Padua, Kingdom of Italy§!
+Gino Pavesi
+§YBorn:§! §LMay 9th, 1888, in Pisa, Kingdom of Italy§!
+Raffaele de Courten
+§YBorn:§! §LSeptember 23rd, 1888, in Milan, Kingdom of Italy§!
+Carlo Bergamini
+§YBorn:§! §LOctober 24th, 1888, in San Felice sul Panaro, Modena, Kingdom of Italy§!
+Meuccio Ruini
+§YBorn:§! §LDecember 14th, 1877, in Reggio nell'Emilia, Kingdom of Italy§!
+Federico Comandini
+§YBorn:§! §LAugust 11th, 1893, in Cesena, Forlì, Kingdom of Italy§!
+Giovanni Uberti
+§YBorn:§! §LNovember 29th, 1888, in Verona, Kingdom of Italy§!
+Augusto de Marsanich
+§YBorn:§! §LApril 13th, 1893, in Rome, Kingdom of Italy§!
+Luigi Federzoni
+§YBorn:§! §LSeptember 27th, 1878, in Bologna, Kingdom of Italy§!
+Cesare Forni
+§YBorn:§! §LNovember 17th, 1890, in Vespolate, Novara, Kingdom of Italy§!
+Mario Abbiate
+§YBorn:§! §LFebruary 14th, 1872, in Genoa, Kingdom of Italy§!
+Carlo Schanzer
+§YBorn:§! §LDecember 18th, 1865, in Vienna, Archduchy of Austria below the Enns, Austrian Empire§!
+Luigi Gasparotto
+§YBorn:§! §LMay 31st, 1873, in Sacile, Udine, Kingdom of Italy§!
+Antonio Mosconi
+§YBorn:§! §LSeptember 9th, 1866, in Vicenza, Kingdom of Italy§!
+Duccio Galimberti
+§YBorn:§! §LApril 30th, 1906, in Cuneo, Kingdom of Italy§!
+Alessandro Pavolini
+§YBorn:§! §LSeptember 27th, 1903, in Florence, Kingdom of Italy§!
+Ezio Maria Gray
+§YBorn:§! §LOctober 9th, 1885, in Novara, Kingdom of Italy§!
+Nicolo Carandini
+§YBorn:§! §LDecember 6th, 1895, in Como, Kingdom of Italy§!
+Ezio Vanoni
+§YBorn:§! §LAugust 3rd, 1903, in Morbegno, Sondrio, Kingdom of Italy§!
+Roberto Tremelloni
+§YBorn:§! §LOctober 30th, 1900, in Milan, Kingdom of Italy§!
+Giovanni Conti
+§YBorn:§! §LNovember 17th, 1882, in Montegranaro, Ascoli, Kingdom of Italy§!
+Arrigo Solmi
+§YBorn:§! §LJanuary 27th, 1873, in Finale Emilia, Modena, Kingdom of Italy§!
+Giuseppe Tellera
+§YBorn:§! §LMarch 14th, 1882, in Bologna, Kingdom of Italy§!
+Ferruccio Ranza
+§YBorn:§! §LSeptember 9th, 1892, in Fiorenzuola d'Arda, Piacenza, Kingdom of Italy§!
+Mario Stoppani
+§YBorn:§! §LMay 24th, 1895, in Lovere, Bergamo, Kingdom of Italy§!
+Marziale Cerutti
+§YBorn:§! §LMarch 10th, 1895, in Brescia, Kingdom of Italy§!
+Pietro Piacentini
+§YBorn:§! §LNovember 26th, 1898, in Varmo, Udine, Kingdom of Italy§!
+Mario Castoldi
+Giovanni Giorgi
+Nationalist Poster Boy
+Nationalist Poster Boy
+Hero of Buccari
+Hero of Buccari

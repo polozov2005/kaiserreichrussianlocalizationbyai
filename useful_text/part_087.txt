@@ -1,0 +1,585 @@
+Greece Focus Tree
+EAM
+Ethnikó Apeleftherotikó Métopo tis Elládas (National Liberation Front of Greece)
+KEKE
+Koinonikó Ergatikó Kómma tis Elládas (Social Labour Party of Greece)
+ARM
+Agrotikó Dimokratikó Métopo (Rural Democratic Union)
+EEK
+Ethnikón Enotikón Kómma (National Unity Party)
+NFE
+Néa Fileléftheri Énosi (New Liberal Union)
+KF
+Kómma Fileléftheron (Liberal Party)
+LK
+Laïkón Kómma (People's Party)
+NK
+Néo Krátos (New State)
+KTE
+Kómma ton Eleftherofrónon (Freethinkers' Party)
+EEE
+Ethnikí Énosis Elládos (National Union of Greece)
+Neorion
+SPAP
+NTUA
+Chropei
+Pyrkal
+Tangalakis
+Neorion Pyrovolikó
+AEKKEA
+KEA
+Biamax
+Basileiades
+Elliniko Naftiko Nafpigeio
+Neorion Thassos
+Pyrkal Munitions
+Legacy of Alexander
+The Greeks are a people accustomed to war, and nothing stirs them up quite as much as the thought of their hard-won independence being taken away once more.
+Memories of the King
+While the Greek monarchy was officially abolished in 1931 after a tumultuous decade of coups and counter-coups, there are still those within our nation who continue to abide by monarchist principles, and are a major source of unrest within our nation.
+German-Owned Industry
+Thanks to our incredible war debts after the end of the disastrous Weltkrieg, King Constantine signed a deal allowing German investors unfettered access to the Greek economy. As a result, almost half of our industry is owned by foreign creditors and banks - none of whom have our best interests in mind.
+Bailed Out German-Owned Industry
+Thanks to our incredible war debts after the end of the disastrous Weltkrieg, King Constantine signed a deal allowing German investors unfettered access to the Greek economy. As a result, almost half of our industry is owned by foreign creditors and banks - though thankfully our having bailed them out during the Black Monday crisis leaves us on far better terms with them.
+Austrian-Owned Industry
+Thanks to our incredible war debts after the end of the disastrous Weltkrieg, King Constantine signed a deal allowing Austrian investors unfettered access to the Greek economy. As a result, almost half of our industry is owned by foreign creditors and banks - none of whom have our best interests in mind.
+Bailed Out Austrian-Owned Industry
+Thanks to our incredible war debts after the end of the disastrous Weltkrieg, King Constantine signed a deal allowing Austrian investors unfettered access to the Greek economy. As a result, almost half of our industry is owned by foreign creditors and banks - though thankfully our having bailed them out during the Black Monday crisis leaves us on far better terms with them.
+Effects of Black Monday
+Recovering from Black Monday
+Almost Recovered from Black Monday
+German Sanctions
+Austrian Sanctions
+Privatised Industry
+Nationalised Industry
+Strong Executive
+Empowered Parliament
+Divine Mediator
+Expanded General Staff
+Aviation Industry
+Efficient Navy
+Ambitious Navy
+Equal Rights
+Industrialisation Programme
+Free Market Reforms
+Free Trade Policies
+Export-Oriented Economy
+Christian Unions
+Smash Unionism
+Self-Sufficiency Focus
+Abolish Landlordism
+Industry Planning
+Increased Political Liberties
+A New Enterprise
+Political Liberalisation
+Controlled Military
+Strong and Free
+Desecularisation
+Centralised Rule
+State Industry
+Foreign Investment
+Christian Democracy
+Managed Democracy
+Breadbasket of the Mediterranean
+Agrarian Socialism
+Industrial Socialism
+Coalition with ARM
+Supremacy for the Proletariat
+Focus on Economy
+Focus on Strength
+Unions in Charge
+Totalist Industry
+Ellinikí Stratiotikí Astynomía
+State Orthodoxy
+Nationalist Propaganda
+The Iron Fist
+The Velvet Glove
+War Preparations
+Path of Diplomacy
+New Expansionism
+Nationalised Our Investments
+$GRE_stole_industry1$
+Bailed Out Our Investments
+Trade Sanctions
+Applied Trade Sanctions
+Applied Trade Sanctions
+Greco-Turkish Talks Fail
+Made Claims Against Us
+Republicans have won the referendum
+Monarchists have won the referendum
+The 1938 elections have been held
+Monarchist sympathies in Greece will be increased\n
+Monarchist sympathies in Greece will be decreased\n
+Does not have opinion modifier §Y$GRE_stole_industry1$§!
+§YThe Germans and Austrians will look poorly on this and are likely to impose sanctions, and also prevent us from allying with them in the future.§!
+§YThe Germans and Austrians will look poorly on this and may impose sanctions, and also prevent us from allying with them in the future.§!
+§YSanctioning the Greeks will prevent them from peacefully joining our sphere of influence.§!
+An attempt will be made to rig the referendum in favour of the monarchy - it has a chance of being exposed\n
+An attempt will be made to rig the referendum in favour of the republic - it has a chance of being exposed\n
+The referendum is §Yrigged§! - there is a chance of this being discovered\n
+The chances of the monarchists winning the referendum is all but §Yguaranteed§!\n
+The chances of the republicans winning the referendum is all but §Yguaranteed§!\n
+The chances of the monarchists winning the referendum is considered §Ylikely§!\n
+The chances of the republicans winning the referendum is considered §Ylikely§!\n
+The chance of either side winning the referendum is §Ytoo close to call§!\n
+Alexander becomes King Aléxandros I of Greece\n
+George becomes King Geórgios II of Greece\n
+Paul becomes King Pávlos I of Greece\n
+[TUR.GetName] owns no [GRE.GetAdjective] cores other than §HCyprus§! or the §HAegean Islands§!
+[GRE.GetName] owns no [TUR.GetAdjective] cores other than §HKomotini§! or §HKardzhali§!
+Has sent a diplomatic mission within the last 90 days
+All non-island claimed states in §Y[From.GetNameWithFlag]§! are controlled by §Y[Root.GetNameWithFlag]§! or an ally
+All syndicalist and socialist parties will be banned from taking part in elections\n
+There are states for §Y[GRE.GetNameDef]§! to claim
+All Greek claims owned by allies of [From.GetNameWithFlag] are controlled by §Y[Root.GetNameWithFlag]§! or an ally
+Greece participated in and lost the Balkan War
+We have begun the naval programme.
+The naval programme has been continued.
+§Y[GRE.GetName]§! has gained all of its claimed lands from §Y[TUR.GetName]§!
+§C[GRE.GetName] will ratify the Sarajevo Accords, joining it upon its formation and receiving the bulk of the Aegean from [TUR.GetName]§!
+§R[GRE.GetName] will be very wary of any future negotiations with us.§!
+Black Monday
+The Black Monday crisis has hit the Greek economy like a bull in a china shop, considering its domination by German businesses. It is time to take drastic action to resolve this crisis before it gets any worse.
+The Farming Crisis
+While the Greek economy saw strong industrial growth through the 19th century, it remains primarily orientated on agriculture, and thus the sudden drop in agricultural exports has hit the country hard. Farmers are nearly at a point of rioting, so addressing this crisis tops our agenda.
+Foreign-Owned Industries?
+Much of Greece's industry is owned by foreigners, mainly in Germany and Austria. With the financial crisis, many of these factories have begun to shut their doors, expecting Greece to deal with the political fallout until such a time as the economy recovers. With so many industrial workers left unpaid and out on the street, we must do something about this.
+The Board of Industry
+A new government agency must be created in order to oversee an overhaul of some of Greece's rather outdated industrial laws and practices.
+Advancements in Mining
+Much of our country's mining equipment and methods are rather old, sometimes dating back to the mid-19th century. We should encourage companies to update their equipment and research, in order to increase production.
+Roads and Railways
+A programme to build new roads and rails connecting Athens to the northern part of the country will not only enhance our overall infrastructure, it will create a much-needed employment programme for our industrial workers who are currently unemployed.
+Begin Land Reform
+Many of the country's agricultural communes are still overseen by wealthy landlords, with the peasants treated practically as serfs. While breaking up these holdings will be costly, it's the only way to see the farms increase their efficiency and bring us into the 20th century.
+Privatise Government Holdings
+There are a number of government-run businesses and factories which would best work in the hands of private individuals. They should be sold off to Greeks of means and expertise, even on the cheap, in order to diversify their portfolios and ensure that loyal citizens are enriched.
+Nationalise Vital Companies
+Too many vital industries are ready to go bankrupt. Only the nation's government is organised and efficient enough to keep them afloat, at least until the crisis is passed and, in the meantime, they can keep the economy afloat and Greeks employed.
+Convert Military Factories
+There are a number of military factories which we must consider turning over to commercial use. It means Greece will be less prepared for war in the future, but there will be no Greece if it crumbles around us thanks to the crisis.
+Take Out Loans
+We cannot dig any deeper - the only way to bail Greece out of this crisis is to take out as many loans as we can afford, and channel that money into employment programmes and funding the most promising companies willing to open new factories in Greece. It will hurt in the long run, but we have little choice.
+Full Recovery
+Our stimulus programmes have begun to improve the economic prospects of the country for now, and the crisis is passed. Hopefully, the price we paid does not come back to haunt us.
+Referendum on the Monarchy
+The legacy of the Greek monarchy still hangs over the republican government. Calls for a public referendum to determine if a monarchy should be restored for the stability of the nation, or if the republic should instead persist.
+Republican Victory
+There is to be no king. The question was settled today, with the vote to maintain the republic and continue into the future untethered to dynasties and successions.
+Strengthen the Republic
+The republic may have won the day, but monarchists still remain. By taking steps to reform the legal system and remove any and all remnants of monarchy from official proceedings we can move towards the permanent establishment of a republican nation.
+The Remaining Monarchists
+There are still many within the government, and especially the army, who yet hold loyalties to the monarchy. We must consider whether to purge them now, to prevent the possibility of a future coup, or to let them remain and potentially disrupt the republic's operation.
+In order to ensure that strongmen and dictators cannot exploit the system, the Greek nation must have a strong parliament capable of controlling the head of state, if necessary.
+In order to ensure that political infighting does not bring us down, the Greek nation must have a strong head of state who can overrule parliament, if necessary.
+Balkan Democracy
+Greece is a bastion of democracy in the Balkans, and must shine like a beacon of freedom for all to see.
+Monarchist Victory
+The kingdom shall be restored! Today the debate was settled, though now talk has turned to which king it should be: the younger Alexander, who was king before his exile, or the older George, who should have been king before Alexander and only was not due to being exiled with his father years before.
+King Aléxandros
+First crowned in 1917 and later exiled, King Alexander shall be returned to the throne. A moderate man used to being a figurehead, he shall serve as a constitutional monarch with only the minimum of formal powers.
+The Remaining Republicans
+With the king now back on the throne, a question lingers regarding what should be done with those who most oppose him and advocate a return to republican rule. The king advocates mercy, but would that only leave Greece to the possibility of more coups in the future?
+Empower the Throne
+It seems Alexander has learned a thing or two in his exile and has been exerting his will on parliament more forcefully. He has garnered enough support to gain power enough to overrule the elected leaders when needed, making him far from the figurehead many assumed he would be.
+King Geórgios
+A military man from an early age, Prince George is the eldest son of the late King Constantine and shall create a strong monarchy along German lines, where the King serves as a brake on the powers of parliament.
+Purge Republicans
+A new king is on the throne, and his wishes are clear: those who yet harbour republican sentiment must be purged from the government and the army, lest the country fall into disorder once again.
+Guide Parliament
+We must support the great Greek tradition of democracy, but like Plato's Philosopher King the monarch must always be there to guide the nation towards a more perfect and peaceful society. By granting the monarch significant royal prerogatives to dissolve parliament as he wishes we can ensure that it is always well lead.
+The king stands as a divinely anointed ruler, chosen by both God and the people to defend them from radicalism and instability. By mediating between all branches of government he can ensure that his will is followed, the dignity of the state is preserved and the people's needs can be made known to him.
+1938 Elections
+The elections of 1938 are promising to be most interesting, and as is typical for Greece it appears that many outcomes are possible.
+Néa Fileléftheri Énosi
+The more socially liberal elements of the Liberal Party have secured their hold, and have begun an extensive programme of social and political reforms designed to make a more just and liberal Greece.
+Equal Rights
+Henceforth we must set out the principle that all people are equal in Greece, regardless of faith or creed.
+Industrialisation Programme
+By working closely with businesses to target areas most capable of expansion we can grow our industrial economy through sensible and efficient investment. And if we get rich doing it, well, where's the harm?
+Kómma Fileléftheron
+The more market-oriented elements of the Liberal Party have won, and intend to begin at once a programme of economic liberalisation intended to stimulate trade and economic growth.
+Free Market Reforms
+The Greek economy must be liberalised and unnecessary restrictions on trade and business torn up in order to facilitate social progress in Greece. After all the freer the market...
+Embrace Free Trade
+We intend to abolish all tariffs and pursue a policy of free trade wherever we can, in order that we might be free to do good business with all the world.
+Political Liberalisation
+Freedom of speech, the press, and of association are all to be protected more firmly under a raft of reforms we intend to pass in order to improve the lot of the average Greek. A free and open society will be established.
+Educational Programmes
+Improving the literacy rate of the Greek population is of paramount importance, as is broadening the quality of education in general. We intend to found hundreds of new schools for this purpose, where the keen minds of new generations will thrive.
+Neuter Military
+By far the biggest threat to stability in Greece comes from the military, while we accept the need for the armed forces we must take steps to ensure their political neutrality and remove overly ambitious demagogues from the ranks.
+Strong and Free
+It may not always be wise to give power to the military, lest they abuse it, but without our army's strength we will never truly be independent. We must empower them and keep Greece both strong and free.
+A Progressive Greece
+The Greek people have embraced a brighter, more liberal future that believes in social progress and the rights of man. We are Greeks, proud and indivisible as equals.
+Laïkón Kómma
+The more moderate People's Party seems to have come out on top in the coalition negotiations. While they are likely to reverse secular reforms, they are not as fervently anti-union and will support those based around Christian principles and leadership.
+Found Christian Unions
+Founding state-endorsed unions under the leadership of priests will allow us to prevent labour disputes from getting out of hand and becoming a threat to the safety of Greece. Workers will be able to express their wants and concerns to the clergy, who will serve as negotiators on their behalf.
+Export-Oriented Economy
+The Greek economy would be best served with a focus on exports, allowing cash to flow into the country and further develop her industries. To this end, we intend to raise industrial tariffs while seeking free trade arrangements for our agricultural produce.
+Néo Krátos
+The authoritarian and opportunist New State have taken the lion's share of the influence in the new parliament. Fiercely anti-union and protectionist, their rule promises to take a firm hand to radicals if nothing else.
+Smash Unionism
+Unionism is a dangerous element of our society, just look at how it brought low the mighty British Empire. For the good of the people, unions must be suppressed and their leaders rooted out.
+Finding our own Way
+Greece must find its own way towards greater industrialisation - somewhere between providing incentives for private corporations, but also not relinquishing the government's right to decide which industries are best to promote and which must remain under our direct control. We will see Greece forge a path to true economic strength... but we shall do it the Greek way.
+Reverse Secularisation
+Greece is, has always been, a Christian nation first and foremost. It was the Church that led us to independence and the attempts by the liberal parties to end the marriage of State and Faith must be reversed.
+Sponsor Church Schools
+Official state support given to faith schools of all education tiers, from primary schools all the way to church-run universities, will help to both promote scientific education and to solidify Christian values into our society.
+Christian Democracy
+We are fortunate that the will of our people is guided by Christian values and a desire to build a more virtuous society. Stability will come to Greece with the government pairing with the Church to give them a place in parliament where they belong.
+Managed Democracy
+Democracy is a proud Hellenic invention that we will continue to preserve. However its myriad dangers mean it must be carefully tended by a strong judiciary and executive, lest it be subverted from within.
+A Moral Greece
+Together in Greece we are building a better future, a more Christian, more moral future. Our economy must thrive but it must also put Christian values of justice, peace and humility first.
+Agrotikó Dimokratikó Métopo
+The radical agrarians have won through, and now intend to push forth a deeply anti-urban programme of land redistribution and communal farming.
+Abolish Landlordism
+Landlords are one of the primary means via which the peasantry is oppressed in our country. By liquidating all those who do not work the land directly and distributing their land to agricultural communes we can ensure our farmers will no longer suffer under their heel.
+Planned Industry
+Unlike what many believe, agrarianism is not antithetical to a strong industrial state. Quite the opposite, in fact. Industrialisation, however, must be carefully planned so it does not disturb the careful balance required by our agricultural sector. This requires heavy government intervention and control: the right industry in the right place, manned by the right people.
+Ethnikón Enotikón Kómma
+The much more moderate agrarians have won. While they intend to primarily support the peasantry through social reforms and subsidies, they are not as dedicated to the abolition of urban society and the bourgeoisie as their counterparts.
+Political Liberties
+Within Greece there is a lack of simple political freedoms for many of the lower classes. By bringing forth a series of reforms dedicated to extending the freedom of speech, association, and expression we can help the people's voice to be heard in politics.
+A New Enterprise
+A socialist state cannot truly be successful without creating a partnership with its private entrepreneurs and corporations. We must create a government body to oversee industrialisation efforts, to ensure that growth is done responsibly but also remains in the hands of those who will keep it efficient.
+Breadbasket of the Mediterranean
+Every inch of cultivable land must be grown on, Greece shall become the breadbasket of the Mediterranean and prosper as she feeds herself and all of her neighbours.
+Planned Research
+A government body must be created to oversee research efforts, pushing us in the direction that is of most benefit to all of Greece.
+Agrarian Socialism
+Our major support base is in the countryside, to whom we must devolve significant political powers in order to ensure that cities do not come to dominate our politics. The creation of a true rural democracy based around the communes is our future.
+Industrial Socialism
+We will be a socialist state with a strong preference for our agrarian roots, it's true, but we will do it while also increasing our industrial strength. A true industrial state has a partnership with its agrarian base - they need not be enemies.
+A Socialist Greece
+What's most important to our future as a socialist state is that we focus on what the people need: keep the rural parts of our nation healthy and happy and Greece will be far more stable than it's ever been.
+The Old Order Overthrown
+We have done the impossible and tossed out the old forces of monarchism and staid republicanism. Now the workers of Greece have a real chance to bring the country into the future, unchained from its dismal and unstable past.
+First Hellenic Congress
+The first order of business will be to hold a congress and organise the trade unions - and part of that will be deciding who will be the new chairman. Will it be the leader of the syndicalists, or will Greece veer towards a more hardline and authoritarian government under the totalists?
+Cooperate with the Agrarians
+The Agrarian Party has a very different vision of socialism to the more orthodox syndicalists, envisioning a more pre-industrial society rooted in agricultural communes. However, they are open to compromise, while extensive support and power must be given to the farmer's unions we will be able to resist calls from their most radical elements to encourage the total dissolution of the cities entirely.
+Establish Communes
+By abolishing the old systems of local governance and establishing local communes in their place we can bring syndicalism to the people of Greece, and pave the way for the first true Congress of the Trade Unions to be held in this island of freedom from capitalist oppression.
+Crush the Bourgeoisie
+The Bourgeoisie are the truest enemy of the people, they must be shown that we will not back down from our revolutionary aims. By harnessing the anger of the proletariat towards those that have exploited them we can force them to surrender their property and submit to the new regime upon pain of death.
+Rally behind the Dioikitis
+The Diokitis, a word which means 'leader' in the same sense as the Russian 'Vozhd', is the people's truest friend and guide through the long road to socialism. Under his guidance we will step forward boldly into the 20th century, a strong socialist state ready to crush all foes of the revolution.
+Void Debts
+Some nations have been clamouring for the new people's government to acknowledge and undertake payment of the old regime's debts. This is unacceptable - those debts belong to the capitalists and thieves who foisted them upon the people to begin with.
+The Great Leap Forward
+Technological progress is the only way a syndicalist Greece will be able to compete with its neighbours. We have much work to do, and we will need to drag our countrymen into the 20th century kicking and screaming.
+Focus on the Economy
+Military strength is all fine and well, but it does us little good without the resources and industrial base needed to build all those air planes and guns. We must put our focus first and foremost on making Greece an economic power.
+Focus on our Strength
+Industry is fine, but if we fall to our hostile neighbours or the anti-syndicalist nations of Europe, all the industry in the world won't do us much good. A strong Greece is an independent Greece.
+Syndicalism Forever
+The Hellenic Commune has made its transformation into a true syndicalist state, ready to join the Internationale in fighting for world revolution!
+An Autocratic Greece
+Democracy was a mistake. The Greek nation cannot afford to be betrayed by weak republican ideas any longer. A new Autokrator shall rise to govern the nation as a wise and able ruler.
+Consolidate Rule
+The task of centralising all power in the hands of the leadership is an immense one, in some cases requiring that we rebuild institutions from the ground up. We are up to the task, however, and will work ceaselessly for a strong nation.
+Full Centralisation
+We must create an efficient central bureaucracy - by tightly controlling the reins of the state, we can secure authority remains in the centre where it belongs.
+State Industries
+Greece's industrial sector requires a revitalisation lead by state power and funding, to this end we have prepared a plan for greatly expanding heavy industry in order to build our resource base.
+Restore the Monarchy
+Greece is, by right, a kingdom - and the youngest of the three princes has learned a thing or two during his exile that makes him the perfect head of state to help bring the country into the future. Let us restore the kingdom, but with a strong monarch of whom we can be proud.
+State Orthodoxy
+Orthodoxy is Greece's dominant religion, and will be a useful tool in informing people of the divinely appointed nature of their leadership. To that end, we must take steps to curtail the independence of the Greek Orthodox Church and bring it under state control.
+Lure Foreign Investment
+One benefit of having a king is that he makes a fine ambassador to send to other nations in order to lure foreign capital into Greece. That investment is the only way we will see real progress.
+The Art of Propaganda
+Everyone in Greece has opinions. It's what makes this country fine, but it is also what has driven us apart. The time has come to make sure that their opinions have something in common: that they all believe as we do, and that unity will make us stronger.
+Greek Science
+By supporting the founding of new universities and plumbing previously untouched depths of innovative research, we may show the world that Greece is once again the hub of learning and education in the civilised world.
+The Iron Fist
+Our people cannot be left to their own devices. Authoritarian rule is the only way we will keep Greece strong and independent.
+The Velvet Glove
+We must take a diplomatic hand towards the various groups in Greece. By working together, we will promote unity and stability. Greece is a dictatorship, it's true, but it can be a benevolent one.
+A National Father
+Our benevolent autocrat, our noble king, our just and perfect ruler. Watch evermore over your people as a father over his children, and show that you love them and will make them proud, happy and free.
+Prepare for War
+A war is coming to Greece - that we know to be true. If we attempt to avoid it, we will only be abandoning the millions of Greeks who do not live under Greek rule as they should, and thus we must prepare ourselves for the inevitable.
+Ellenicós Stratós
+Cut off from much of our manpower base thanks to the Weltkrieg we are divided between two schools of thought, one favours leveraging a material advantage over the enemy and devastating him with sheer firepower; the other meticulous planning in order to prevent losses by executing operations with the utmost efficiency.
+Favour Superior Firepower
+We have ultimately settled on a doctrine of superior firepower. Rather than waste Greek lives we will annihilate the enemy's defences and sweep them away when they are battered and broken.
+Increase Artillery Research
+As the British learned during the Weltkrieg, there may never be enough shells. Blowing away the enemy requires sustained, concentrated bombardments in order to break down fortifications and open gaps in their defences. Therefore we must drastically ramp up production and research.
+Hellenic Marines
+As part of our doctrine of surgically striking the enemy's weak points with overwhelming firepower we have decided to establish a specialised marine division for amphibious operations. These men will be selected from the finest recruits and serve as elite units conducting naval assaults on enemy shores.
+Bullets not Men
+When the enemy comes they must meet with a storm of firepower. What we send into the breach must be bullets and not men. This spirit exemplifies our entire doctrine.
+Favour Grand Battleplan
+We have ultimately settled on a doctrine of grand battleplans. Rather than waste Greek lives, we will coordinate the entire war front so that our attacks arrive in perfect time and overwhelm the enemy with simultaneous well-planned assaults.
+Hellenic Mountaineers
+As part of our doctrine of meticulous planning, we have discovered that altitude training will be very useful for those select men who will operate in mountainous areas. Creating some specialised mountaineers will ensure we always have forces capable of fighting in even the roughest terrain.
+Mobile Support
+While our industry, we must admit, prevents us from fielding the tank battalions of larger nations, we are more than capable of producing vehicles to serve as support for our infantry and make them far more mobile than they are now.
+Expand the General Staff
+The general staff is responsible for the studying and application of new methods of warfare on a continuous basis, by increasing their budget and expanding their remit we can ensure that they stay at the cutting edge of military theory.
+Military Innovations
+With the Military Research Division up and running we should start a programme to encourage our brightest minds to enlist in it, that they might better apply their skills to the service of the Hellenic Nation.
+Invest in Armaments
+We cannot rely solely on private industry to supply our armies - we need to build armament factories of our own if Greece is to become a true military power.
+The Pyrkal Deal
+The Greek Powder & Cartridge Company is one of the oldest and largest defence companies in Greece. We must partner with them and provide subsidies that will ensure they benefit as well as our army for having a supplier so close to home.
+Legacy of Alexander
+Alexander the Great took Greek civilisation to the ends of the known world and shaped an age of history with his own two hands. Of course, he couldn't have done it without the finest Greek soldiers, and now we have those too. While we harbour no such lofty ambitions, we will march forward knowing that nowhere in the world can finer soldiers be found.
+Polemikí Aeroporía
+Aviation is a science in which Greece must make significant advances in very little time if she is to catch up. Some say we should instead focus our efforts on defending against an enemy air force, rather than waste precious resources on attempting to expand our own.
+Hellenic Air Force Academy
+The Military School of Aeronautics has been around for a number of years, now, but the time has come to open up new branches and prepare our pilots for an expansion of the air force itself.
+Expand Salonika Airport
+Salonika Airport is our foremost operating base for projecting air power into the southern Balkans, a great expansion of its facilities is needed to accommodate a large modern air force.
+New Fighters
+Our air force may be small, but its fighters can be the envy of other nations if we push their technological advancement.
+Expand Air Production
+Greece needs better facilities to both build and house our fighter aircraft. Subsidies are required in order to make this happen.
+Focus on Radar
+If we cannot focus on building a larger air force, then we must focus instead on defending against the air forces or those who would attack us - and most important of that is building a radar network to be our eyes on the sea and in the skies.
+Watch the Skies
+Anti-air installations will be our best defence against enemy aircraft. We don't need to shoot them down with our own planes, instead we can shoot them out of the sky.
+Aièn Hypsikrateîn
+The motto of our air force is 'Always dominate the heights', and now the skies are ours to rule! With our modern and updated air force, we shall go forth in absolute certainty that we dominate the highest heights.
+Polemikó Naftikó
+The Greek navy is divided over the future of her shipbuilding. Some favour the construction of a large and ambitious navy in order to match the prestige of other powers, while others propose a smaller and more efficient navy built for the purposes of controlling our local waters.
+An Efficient Navy
+Our navy must focus on efficiency, controlling the Aegean is more important than making flashy excursions across the world.
+Mediterranean Subs
+Submarines allow us to strike without warning to damage enemy shipping and deal swift blows to warships. Investing in their development is vital to naval success.
+Expand Destroyer Research
+Screen ships are vital for any navy, as are ships specialised for anti-submarine warfare. Thankfully destroyers suit both purposes just fine and will be just what we need for our naval supremacy.
+Advance Naval Command
+Our naval commanders are the backbone of our navy. Let us ensure they are the best we have available, trained by the finest academies from across the world.
+An Ambitious Navy
+Our navy must be the greatest there has ever been. Mighty ships will win battles in the Mediterranean that a smaller navy could only run from.
+Shipbuilding Programme
+Any navy worth its salt needs more than just subs and destroyers to be truly respected. It's time to dig deep and get our dockyards producing some ships we can be truly proud of.
+Expand Athens Shipyard
+Greece has a proud history of shipbuilding - let us expand it even further, to allow us to build a navy which far out paces that which a country our size would normally possess.
+Update Navy Technology
+It does not help us much to have a larger navy if our ships do not keep pace with modern technology.
+Growing the Merchant Marine
+One of the consequences of our new commitment to the navy is the renovation of our dockyards and expansion of the shipbuilding industry. As such we have seen a growth in the merchant navy, which we may call upon if needed in order to aid our war efforts.
+Hellenic Shipyards
+A plan has been put in place to build the Hellenic Naval Shipyard in Skaramagas, near Athens. This will be the largest shipyard of its kind in Greece, and truly put us on the naval map.
+Méga to tis Thalássis Krátos
+The motto of our navy means 'Great is he who has command of the sea', and have we ever had more command than we do now? Not since Salamis millennia ago has the Greek navy been so mighty or so feared.
+Ready the Masses
+A call must go out to the people, to have them ready for the war to come - but we must time this carefully. We can only maintain this level of preparation for a year, so the call must be made as close to the actual war as we can make it.
+Fortify the North
+A good offence is important, but just as important is a good defence: a line of fortifications across our northern border will lessen any chance of our enemies taking the battle into Greece itself.
+Fortify Salonika
+Salonika is an enclave that we must protect: it is too valuable to leave undefended and unfortified.
+The Battle for Macedonia
+We have made contact with Greeks living in the north under foreign rule - the time has come to liberate all of Macedonia!
+A Diplomatic Path
+We have made attempts before to expand our rule beyond Greece's traditional borders, but each time it has brought us to ruin. It's true that we must liberate Greeks still living under Turkish rule... but we should pursue a path of diplomacy rather than warfare, for all our sakes.
+Turkish Thaw
+The idea may be anathema to some, but we can work with the Turks. We have to try.
+Cooperation with the Turks
+The Turks have indicated they are willing to talk. Now is the time to pursue a treaty of non-aggression and cooperation, and ideally work towards an exchange of population: let us bring Greeks living under the Turks back to our country, and send the Turks living here back to theirs. It will be difficult in the short term, but in the long term it will be better for us both.
+Balkans Cooperation
+We should expand our mutual cooperation with the Balkan neighbours to our north. It is a way to ensure we enjoy greater investment in Greece, but hopefully will also be a way to promote peace in a region that has traditionally seen nothing but warfare.
+Expand into New Markets
+One benefit of a diplomatic path will be the ability to seek out new markets for Greek goods in places which have not traditionally been receptive to us. Diplomacy is the path to prosperity, and the time has come to prove this true.
+New Expansionism
+We have successfully liberated some of the Greeks living under foreign rule, but our job is not yet done. Greece must become stronger yet, and push itself onto a path which will see our ambitions finally realised.
+The Megali Question
+There are over 2 million Greeks living within Turkish borders, and they rightfully belong under Greek rule. The question at hand is how far we go in order to pursue the reclamation of our countrymen. Do we resurrect the Megali Idea, at the cost of seeming like an aggressive state? Either way, we cannot simply abandon our brethren.
+Motivate the Army
+If we are to retake our claimed land in Anatolia, we must motivate our army and prepare them for the battles surely to come.
+Expanding War Industry
+It will be costly, but we must push the Greek armament industry further than it was ever thought possible to go. Our army needs weapons and bullets, and Greek factories will provide them.
+Greece is Whole
+Finally Greece is whole once more. Let all our people rejoice, now that the injustices of the Weltkrieg and our centuries of rule under the Turks has finally been undone.
+Greece Ascendant
+The Greek nation has become a world power, a dream which was once thought impossible after our war for independence. Truly we have been reborn, our history finally reclaimed!
+Foreign Policy
+Join the Internationale
+There is only one alliance that can help us find security, and that is the Internationale. The time has come to join the world revolution!
+Rejoin the [FROM.GetFactionName]
+The time has come to resurrect the old alliance with the British Empire and join the [FROM.GetFactionName] once again. Hopefully, things go better than in the Weltkrieg.
+Join the [FROM.GetFactionName]
+The Syndicalist menace is creeping ever nearer to our borders, demands to ensure the state's security and the people's way of life are ever louder. While Germany is still widely distrusted, they might be our best bet to defeat the threat and ensure our security and safety.
+Ally with the [FROM.GetFactionName]
+While Russia, the Entente, and Germany would certainly be strong allies, some have voiced concerns that Greece's security will be secondary to their bigger ally's interests. Meanwhile, Austria with their goal of Balkan dominance might prove the more valuable ally. Although many are concerned by their stated goal.
+Join the [FROM.GetFactionName]
+With the Russian bear ascendant once again, some are clamouring to renew the alliance between our two nations. There are however also voices of wariness, reminding that it didn't go well the first time round.
+Join the [FROM.GetFactionName]
+Alongside the Belgrade Pact, we defeated Bulgaria, and then we left the alliance to pursue our own endeavours. This is a decision that we can revisit, as Bulgaria looks to take back the lands that we regained from them. We will beat them once more!
+Regaining Greece
+Fight for Macedonia!
+[From.Owner.GetNameDefCap] holds Macedonia, which is our rightful territory - and the time has come to get it back!
+Reclaim Greek Lands
+The time to recover the [From.GetAdjective] lands which rightfully belong to [GRE.GetNameDef] has arrived!
+Sue for Peace with [From.GetNameDef]
+We have humbled [From.GetNameDef] enough. It is time to contact the [From.GetAdjective] government and talk terms of their surrender.
+Nationalise German Industry
+Now that the economic crisis has passed and we are in a better position, it is time to consider buying out the German investors who have a stranglehold on so much of the Greek economy.
+Nationalise Austrian Industry
+Now that the economic crisis has passed and we are in a better position, it is time to consider buying out the Austrian investors who have a stranglehold on so much of the Greek economy.
+Improve Balkans Cooperation
+Our relations with [From.GetNameDef] are decent enough that we should consider sending a mission to their government to foster greater cooperation between our countries.
+Begin a Naval Programme
+Through a combination of funding our own dockyards and licensing the dockyards of other countries, we can expand our fleet - a few of the ships might be a bit older, yes, but this is a far quicker way of acquiring this many ships than would otherwise be possible.
+Continue the Naval Programme
+Complete the Naval Programme
+End of Megali
+The Megali Idea
+Greek Civil War
+The years since Greece's loss in the Weltkrieg have seen little but upheaval and hardship. The crippling war debts to Austria and Germany sent King Alexander fleeing into exile as the Third Republic was declared... only to result in years of failed governments and coups until Georgios Kondylis took control in 1926. Kondylis was finally overthrown and executed in 1931, leading to the current Fourth Republic and the coalition government of Geórgios Papandreou which won its first election, which will face many challenges in the next several years, not least of which are renewed calls for a referendum on the monarchy's return. The outcome is very uncertain...
+GFX_GRE_intro
+The Fourth Hellenic Republic
+The years since Greece's loss in the Weltkrieg have seen little but upheaval and hardship. The loss of Macedonia to the Treaty of Salonika and crippling war debts to Austria and Germany sent King Alexander fleeing into exile as the Third Republic was declared... only to result in years of failed governments and coups until Georgios Kondylis took control in 1926 and declared himself the permanent Regent of Greece, even though its king remained in exile. Kondylis was finally overthrown and executed in 1931, leading to the Fourth Republic and the coalition government of Geórgios Papandreou which won its first election.
+The Challenges Ahead
+The new republic, which faces its next election in 1938, faces several challenges before then: most prominent is the simmering resentment towards the loss of Greek territory. Most are certain that war is coming again soon, with many groups such as the syndicalist rebels and the looming figure of Ioannis Metaxas waiting for the first moment the government makes the slightest misstep. Monarchist sentiment is also on the rise, with many demanding that another referendum be held soon to determine whether the kingdom should be restored... even if republicans fear that doing so would only plunge the nation into anarchy yet again.
+§MRepublic§! ($social_democrat_coloured$ / $social_liberal_coloured$ / $market_liberal_coloured$ / $social_conservative_coloured$)\n£white_dot Gather support for the republican side leading to the referendum on the monarchy.\n£white_dot If you rig the referendum in favour of the republicans, avoid it being discovered, at the cost of Stability and PP.\n£white_dot Either do not ban the Syndicalists from the elections, or win the civil war against them.\n£white_dot In 1938, you will be able to elect the EEK, the NFE, the KF, and the LK.\n£white_dot In 1942, you will be able to elect the NFE, the KF, the LK, and if not banned, the Syndicalist KEKE.\n\n§MKing Alexander / King George§! ($social_liberal_coloured$ / $market_liberal_coloured$ / $social_conservative_coloured$ / $authoritarian_democrat_coloured$)\n£white_dot Gather support for the monarchist side leading to the referendum on the monarchy.\n£white_dot If you rig the referendum in favour of the monarchists, avoid it being discovered, at the cost of Stability and PP.\n£white_dot Either do not ban the Radical Socialists from the elections, or win the civil war against them.\n£white_dot Crowning Geórgios will lead to an Authoritarian Democratic monarchy.\n£white_dot Crowning King Aléxandros leads can lead to an Authoritarian Democratic monarchy when taking the focus Empower the Throne. Otherwise, elections will be kept.\n£white_dot If Socialists were banned, you will be able to elect NFE, KF, or LK.\n£white_dot If Socialists were not banned, you will be able to elect the ARM, NFE, or LK.\n\n§MMetaxas§! ($paternal_autocrat_coloured$)\n£white_dot Rig the referendum in favour of the Republicans.\n£white_dot Have the rigging be discovered. Ioannis Metaxas will overthrow the republic.\n£white_dot From there, Metaxas can remain dictator, or put King Pávlos on the throne by taking the focus Restore the Monarchy.\n\n§MRevolution§! ($syndicalist_coloured$ / $totalist_coloured$)\n£white_dot Rig the referendum in favour of the monarchists.\n£white_dot Have the rigging be discovered. The Syndicalists will take over.\n£white_dot Win the civil war against Metaxas.\nOr:\n£white_dot Have the republicans win the referendum on the monarchy.\n£white_dot Do not ban the Syndicalists from the elections.\n£white_dot Elect Syndicalists in 1942.\n£white_dot After the First Hellenic Congress, you will be able to choose between Zachariadis' Syndicalist KEKE or Klaras' Totalist EAM for country leadership.\n\n§MAgrotikó Dimokratikó Métopo§! ($radical_socialist_coloured$)\n£white_dot Have the monarchists win the referendum on the monarchy.\n£white_dot Do not ban the Radical Socialist ARM from participating in the elections.\n£white_dot Crown King Aléxandros and maintain elections.\n£white_dot Elect the ARM in 1942, they will turn Greece into a socialist republic.
+Greece
+Greek
+Greece
+Hellenic Socialist Republic
+the Hellenic Socialist Republic
+Hellenic Socialist Republic
+the Hellenic Socialist Republic
+Hellenic Socialist Republic
+the Hellenic Socialist Republic
+Kingdom of Greece
+the Kingdom of Greece
+Kingdom of Greece
+the Kingdom of Greece
+Kingdom of Greece
+the Kingdom of Greece
+Kingdom of Greece
+the Kingdom of Greece
+Kingdom of Greece
+the Kingdom of Greece
+Kingdom of Greece
+the Kingdom of Greece
+Kingdom of Greece
+the Kingdom of Greece
+Athanasios Klaras
+§YBorn:§! §LAugust 27th, 1905, in Lamia, Phthiotis, Kingdom of Greece§!
+Georgios Siantos
+§YBorn:§! §L1890, in Karditsa, Kingdom of Greece§!
+Nikos Zachariadis
+§YBorn:§! §LApril 27th, 1903, in Edirne, Vilayet of Edirne, Ottoman Empire§!
+Konstantinos Speras
+§YBorn:§! §L1893, in Serifos, Cyclades, Kingdom of Greece§!
+Nikos Beloyannis
+§YBorn:§! §LDecember 22nd, 1915, in Amaliada, Elis, Kingdom of Greece§!
+Kostas Gavriilides
+§YBorn:§! §LJanuary 12th, 1898, in Yukarıdamlapınar, Kars Oblast, Russian Empire§!
+Nikos Ploumpidis
+§YBorn:§! §LDecember 31st, 1902, in Langadia, Arcadia, Kingdom of Greece§!
+Alexandros Papanastasiou
+§YBorn:§! §LJuly 8th, 1876, in Tripoli, Arcadia, Kingdom of Greece§!
+Nikolaos Plastiras
+§YBorn:§! §LNovember 4th, 1883, in Karditsa, Kingdom of Greece§!
+Geórgios Papandreou
+§YBorn:§! §LFebruary 13th, 1888, in Kalentzi, Achaea, Kingdom of Greece§!
+Panagiotis Kanellopoulos
+§YBorn:§! §LDecember 13th, 1902, in Patra, Achaea, Kingdom of Greece§!
+Themistoklis Sofoulis
+§YBorn:§! §LNovember 24th, 1860, in Vathy, Samos, Principality of Samos§!
+Konstantinos Tsatsos
+§YBorn:§! §LJuly 1st, 1899, in Athens, Attica, Kingdom of Greece§!
+Panagis Tsaldaris
+§YBorn:§! §LMarch 5th, 1868, in Corinth, Corinthia, Kingdom of Greece§!
+Konstantinos Tsaldaris
+§YBorn:§! §LApril 14th, 1884, in Alexandria, Alexandria Governorate, Khedivate of Egypt§!
+Alexandros Papagos
+§YBorn:§! §LDecember 9th, 1883, in Athens, Attica, Kingdom of Greece§!
+Christodoulos Tsigantes
+§YBorn:§! §LJanuary 30th, 1897, in Tulcea, Tulcea County, Kingdom of Romania§!
+Ioannis Metaxas
+§YBorn:§! §LApril 12th, 1871, in Ithaki, Kefalonia, Kingdom of Greece§!
+Alexandros Koryzis
+§YBorn:§! §L1885, in Poros, Attica, Kingdom of Greece§!
+Georgios Mercouris
+§YBorn:§! §L1886, in Athens, Attica, Kingdom of Greece§!
+Aléxandros Glyksbourg
+Aléxandros I
+§YBorn:§! §LAugust 1st, 1893, in the Tatoi Palace, Athens, Attica, Kingdom of Greece§!
+Geórgios Glyksbourg
+Geórgios II
+§YBorn:§! §LJuly 19th, 1890, in the Tatoi Palace, Athens, Attica, Kingdom of Greece§!
+Pávlos Glyksbourg
+Pávlos I
+§YBorn:§! §LDecember 14th, 1901, in the Tatoi Palace, Athens, Attica, Kingdom of Greece§!
+Voulí ton Ellínon
+§YFounded:§! §LMarch 18th, 1844, in Athens, Attica, Kingdom of Greece§!
+Emannouil Tsouderos
+§YBorn:§! §LJuly 19th, 1882, in Rethymno, Vilayet of Girit, Ottoman Empire§!
+Georgios Tsolakoglou
+§YBorn:§! §LApril 1886, in Rentina, Karditsa, Kingdom of Greece§!
+Georgios Athanasiadis-Novas
+§YBorn:§! §LFebruary 9th, 1893, in Nafpaktos, Aetolia-Acarnania, Kingdom of Greece§!
+Agamemnon Schliemann
+§YBorn:§! §LMarch 16th, 1878, in Paris, Seine, French Republic§!
+Sotirios Gotzamanis
+§YBorn:§! §L1884, in Giannitsa, Vilayet of Selânik, Ottoman Empire§!
+Evangelos Averoff
+§YBorn:§! §LApril 17th, 1910, in Trikala, Kingdom of Greece§!
+Aristeidis Dimitratos
+§YBorn:§! §LJanuary 31st, 1902, in Kefalonia, Kingdom of Greece§!
+Stylianos Gonatas
+§YBorn:§! §LAugust 15th, 1876, in Patras, Achaea, Kingdom of Greece§!
+Markos Vafeiadis
+§YBorn:§! §LJanuary 28th, 1906, in Tosya, Vilayet of Kastamonu, Ottoman Empire§!
+Charilaos Florakis
+§YBorn:§! §LJuly 20th, 1914, in Paliozoglopi, Karditsa, Kingdom of Greece§!
+Angelos Evert
+§YBorn:§! §LApril 10th, 1894, in Athens, Attica, Kingdom of Greece§!
+Napoleon Zervas
+§YBorn:§! §LMay 17th, 1891, in Arta, Arta, Kingdom of Greece§!
+Stefanos Sarafis
+§YBorn:§! §LOctober 23rd, 1890, in Trikala, Kingdom of Greece§!
+Manolis Mantakas
+§YBorn:§! §L1891, in Lakkoi, Vilayet of Girit, Ottoman Empire§!
+Konstantinos Bakopoulos
+§YBorn:§! §L1889, in Agiorgitika, Arcadia, Kingdom of Greece§!
+Georgios Grivas
+§YBorn:§! §LJune 6th, 1897, in Trikomo, British Cyprus§!
+Dimitrios Psarros
+§YBorn:§! §L1893, in Chrissos, Phocis, Kingdom of Greece§!
+Vasileios Vrachnos
+§YBorn:§! §L1887, in Nafplio, Argolis, Kingdom of Greece§!
+Konstantinos Davakis
+§YBorn:§! §L1897, in Kechrianika, Laconia, Kingdom of Greece§!
+Alexandros Sakellariou
+§YBorn:§! §LJanuary 1st, 1887, in Mandra, Attica, Kingdom of Greece§!
+Petros Voulgaris
+§YBorn:§! §LSeptember 13th, 1883, in Hydra, Attica, Kingdom of Greece§!
+Ioannis Toumbas
+§YBorn:§! §LFebruary 24th, 1901, in Mykonos, Cyclades, Kingdom of Greece§!
+Grigorios Mezeviris
+§YBorn:§! §LJanuary 4th, 1891, in Piraeus, Attica, Kingdom of Greece§!
+Stylianos Lykoudis
+§YBorn:§! §LMarch 23rd, 1878, in Ermoupolis, Cyclades, Kingdom of Greece§!
+Konstantinos Mazarakis-Ainian
+§YBorn:§! §L1869, in Nafplio, Argolis, Kingdom of Greece§!
+Aristeidis Chasapidis
+§YBorn:§! §LJanuary 3rd, 1875, in Rentina, Karditsa, Kingdom of Greece§!
+Markos Drakos
+§YBorn:§! §L1888, in Athens, Attica, Kingdom of Greece§!
+Konstantinos Manetas
+§YBorn:§! §L1879, in Tripoli, Arcadia, Kingdom of Greece§!
+Sofoklis Dousmanis
+§YBorn:§! §LDecember 25th, 1868, in Corfu, Kingdom of Greece§!
+Alexandros Hatzikyriakos
+§YBorn:§! §LJanuary 1st, 1874, in Ermoupolis, Cyclades, Kingdom of Greece§!
+Spyridon Avgeris
+§YBorn:§! §LSeptember 10th, 1909, in Salamis, Attica, Kingdom of Greece§!
+Christos Adamidis
+§YBorn:§! §LJune 15th, 1885, in Ioannina, Vilayet of Yanya, Ottoman Empire§!
+Michael Moutoussis
+§YBorn:§! §L1885, in Erineos, Achaea, Kingdom of Greece§!
+Kostas Perrikos
+§YBorn:§! §LApril 23rd, 1905, in Kallimasia, Vilayet of the Archipelago, Ottoman Empire§!

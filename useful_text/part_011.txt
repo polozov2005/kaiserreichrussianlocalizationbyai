@@ -1,0 +1,206 @@
+§YKokand§! gains the modifier §YLimited Local Autonomy§!, which grants\n      $MODIFIER_COMPLIANCE_GROWTH$: §G+10%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §R-5%§!\n      $MODIFIER_LOCAL_MANPOWER$: §R-10%§!\n\n
+§YKhorezm§! gains the modifier §YLimited Local Autonomy§!, which grants\n      $MODIFIER_COMPLIANCE_GROWTH$: §G+10%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §R-5%§!\n      $MODIFIER_LOCAL_MANPOWER$: §R-10%§!\n\n
+§YBukhara§! gains the modifier §YLimited Local Autonomy§!, which grants\n      $MODIFIER_COMPLIANCE_GROWTH$: §G+10%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §R-5%§!\n      $MODIFIER_LOCAL_MANPOWER$: §R-10%§!\n\n
+§YSamarkand§! gains the modifier §YLimited Local Autonomy§!, which grants\n      $MODIFIER_COMPLIANCE_GROWTH$: §G+10%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §R-5%§!\n      $MODIFIER_LOCAL_MANPOWER$: §R-10%§!\n\n
+The state modifier §YLimited Local Autonomy§! in §YKokand§! is modified by\n      $MODIFIER_COMPLIANCE_GROWTH$: §G+10%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §R-5%§!\n      $MODIFIER_LOCAL_MANPOWER$: §R-10%§!\n\n
+The state modifier §YLimited Local Autonomy§! in §YKhorezm§! is modified by\n      $MODIFIER_COMPLIANCE_GROWTH$: §G+10%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §R-5%§!\n      $MODIFIER_LOCAL_MANPOWER$: §R-10%§!\n\n
+Limited Local Autonomy
+Limited Local Autonomy
+Significant Local Autonomy
+Significant Local Autonomy
+Sweeping Local Autonomy
+§GAvailable§! as §YMilitary Advisor§!:
+§CIndustrialisation decisions will begin to add a small amount of §m$WAR_SUPPORT$§!.§!
+§CIndustrialisation decisions will begin to add a small amount of §m$STABILITY$§!.§!
+§CIf we own §Y[GetStateName_584]§! when this focus completes, a building slot will be added to the state.§!
+§CIf we own §Y[GetStateName_712]§! when this focus completes, a building slot will be added to the state.§!
+§CIf we own §Y[GetStateName_804]§! when this focus completes, a building slot will be added to the state.§!
+\n§CIf we own both §Y[GetStateName_407]§! and §Y[GetStateName_732]§! when this focus completes, civilian factories will be added to both states.§!
+§RWe will need to use decisions and focuses to increase our Preparation before conflict breaks out!§!
+£GFX_supply_texticon $RIGHT|0=+$ Preparation
+£GFX_supply_texticon [?5|H0]
+£GFX_supply_texticon [?5|R0]
+It costs $CA_5_prep_cost$ to take this decision
+Germany Intervenes in Central Asia
+§CWe have survived the Russian onslaught!§!
+§CWe have outlasted our rebellious neighbours!§!
+§CWe have settled our internal conflicts.§!
+We currently have an ongoing Special Development Project
+Unite Central Asia
+We have united Central Asia.
+Industrial Recovery Plan
+Ally with Germany
+Minor German aid certainly played a part in our defence against the Russian onslaught. To safeguard our independence in the future, we shall request to join their military alliance.
+Ally with the Ottoman Empire
+The Sublime Porte has been one of the greatest supporters of Turkic independence, and we already share ties by blood. It is about time we formalise our entry into their sphere.
+Invite East Turkestan
+Pragmatic Industrialisation Plan
+Ambitious Industrialisation Plan
+Fund Research Projects
+Fund Economic Development
+Fund Manufacturing Sectors
+Requisition Russian Technical Expertise
+Fund Military Research Projects
+Exploit Territorial Wealth
+Resume Smuggling Operations
+Illi River Dam
+Expand Fergana Valley Irrigation Network
+Build the Nukus Canal
+Vakhsh River Dam
+Purchase Margilan Silk Factories
+Expand Tajik Silk Farms
+Dushanbe Cement Plant
+Shymkent Cement Plant
+Reopen Carpet Industries
+Nationalise Foreign Armouries
+Tashkent Steel Plant
+Fergana Valley Oil Prospecting
+Mangghyshlaq Oil Prospecting
+Cheleken Oil and Natural Gas Prospecting
+Dzhezkazgan Copper Mines
+Navoi Uranium Mines
+Bozymchak Copper Pit
+Lay the Kyzyl-Su to Bukhara Line
+Lay the Samarkand to Pishbek Line
+Bandits and Remnants
+Dealing with the Fergana Kurbashi
+Handling the Kyrgyz Tribes
+Controlling the Turkmen Tribes
+See to the Khivan Royals
+Manage the Urban Tajiks
+Handle the Bukharan Bureaucrats
+Reeling in the Remnant Riders
+Crushing the Opportunists
+Hold Out Against Russia
+Kazakhs will be §Rannexed§! if they are capitulated by the end of the war. Defend your northern brothers!
+Hold Out Against the Socialists
+Attack Red Bukhara
+Expected Russian Intervention
+Our Russian Allies Withdraw
+Central Asia
+Central Asian
+$CA_united$
+Central Asian Federation
+the Central Asian Federation
+$CA_united_totalist$
+$CA_united_totalist_DEF$
+$CA_united_totalist$
+$CA_united_totalist_DEF$
+$CA_united_totalist$
+$CA_united_totalist_DEF$
+$CA_united_totalist$
+$CA_united_totalist_DEF$
+$CA_united_totalist$
+$CA_united_totalist_DEF$
+$CA_united_totalist$
+$CA_united_totalist_DEF$
+$CA_united_totalist$
+$CA_united_totalist_DEF$
+$CA_united_totalist$
+$CA_united_totalist_DEF$
+$CA_united_totalist$
+$CA_united_totalist_DEF$
+Khanate of Turkestan
+the Khanate of Turkestan
+Emirate of Turkestan
+the Emirate of Turkestan
+Turkestan Republic
+the Turkestan Republic
+Turkestani Labour Republic
+the Turkestani Labour Republic
+Socialist Republic of Turkestan
+the Socialist Republic of Turkestan
+Socialist Republic of Turkestan
+the Socialist Republic of Turkestan
+Failure of the Preparation Campaign
+Like the exotic flightless birds of faraway lands, we have determined to stick our heads deep within the sands, ignoring the urgent need for reform within our military. Whether it be through government mismanagement and inaction, or active backlash from the conservative and traditional elements of our nation, the reforms proposed in the last years have failed entirely, leading to an assortment of bandits and militias that can barely be called an army, more likely to rob our own populace than face an enemy in battle.
+Preparation Campaign Subverted
+In the ancient Persian tale of the scorpion and the turtle, even as the turtle works diligently in the service of itself and its friend the scorpion, the scorpion cannot help but do its best to kill them both regardless. Such is the nature of the scorpion, and such is also the nature of the tribal headman and Basmachi warlord, who knows nothing more than to hoard power personally and to resist any attempt to reform our military into a modern fighting force. By stifling our attempts to reform our army, these men have secured their positions as headsmen, all while dooming themselves and their nations to foreign conquest and failure.
+Preparation Campaign Ineffective
+Great strides have been taken to reform our military, cutting away the dead wood within our ranks and the rotten core of corruption among our officers. However, initial optimism has given way to the realisation that as inspired as our reforms may be, they have fallen quite a bit short in their implementation. While some avenues of change have snuck past the wary eye of the traditionalists and we have been able to iron out some of the most egregious examples of inadequacy, corruption and mediocracy still reign supreme in our military.
+Preparation Campaign Rushed
+It is better to take the time to do something correctly on the first attempt than to rush ahead and fail in the endeavour. Usually this maxim is applied to carpentry or architecture, wherein the worst results of mismanagement result in lopsided hovels or ill-aligned furniture. In the case of our army reform efforts, however, the results are slightly more weighty, with the defence of our nation now jeopardised by our inability to follow through. Significant deficits have been left to fester in the core of our army, and the corruption that has plagued our officers has been bruised but not truly dealt with.
+Preparation Campaign Truncated
+While there were high hopes for the success of our military preparation campaign from both our leaders and commanders, the sudden outbreak of war in the region has dashed any hope for truly comprehensive reform. If the peace had held even for another few years, we may have been able to crack down on the remaining excesses and deficits, and to finalise our reforms, but as it stands our efforts have been herculean, and the results satisfactory. Some elements of our armed forces have been truly reformed, though problems remain within the majority of our units, and the culture of corruption has been tempered, though not fully stamped out.
+Preparation Campaign Fruitful
+No matter how successful an endeavour may be, there will always be room for an even greater victory. We have done what many considered impossible by moulding the listless bandits of our realm into the semblance of an army. While there are still some lingering elements of corruption and incompetence among our officers, logisticians, and army bureaucrats, many of the worst offenders have been purged, and the rest cowed by their fall. As for the soldiers in our ranks, their bellies and ammo boxes are full, they know which end of the rifle to point at the enemy, and they stand prepared to take on any and all of our enemies.
+Preparation Campaign Triumphant
+The frenetic campaign to prepare ourselves for war has made exceptional progress in the last year, and our army has come a long way from its sad state mere months ago. Thanks to an aggressive move towards modernisation and professionalisation and significant investment in all elements of our armed forces, we have turned over a new leaf. There are still elements of corruption and mismanagement within our forces, no doubt! Only a fool would believe that the great ship of state can turn in a year's time. Regardless, the days of pervasive bribery, crime, and nepotism are long past, and there is a bright future in store for our armies, should they survive the next months.
+Widespread Banditry and Dissent
+Prevalent Banditry and Dissent
+Lingering Banditry and Dissent
+Rectifying our Weaknesses
+Artillery Priority
+Attrition Doctrine
+Playing to our Strengths
+Cavalry Supremacy
+Annihilation Doctrine
+Mobile Artillery
+Economic Destruction
+Military Disorganisation
+Officer Training Initiative
+Railway Gun Construction
+Member of the Pishpek Pact
+Rail Revitalisation Scheme
+Clearing Away the Rubble
+Plantation Profits
+Ambitious Industrialisation Plan
+Military Industrialisation Plan
+Pragmatic Industrialisation Plan
+Trade-Focused Industrialisation Plan
+German Advisors
+Ottoman Engineer Training
+Ottoman Cavalry Training
+Land of Wanderers
+Our society is traditionally quite nomadic, consisting in large part of wandering tribes migrating alongside their herds of livestock. The rise of railroads has revived many of the old cities and created new ones, though the recent settlement of foreigners has done much to disrupt our way of life. We will have to face facts, however, that the age of the nomad is coming to a close, and if we want to compete on the world stage we will have to adapt to the new industrial age.
+Clearing Poisoned Wells and Burnt Grass
+The war in Central Asia has left our lands scarred and our people barely scraping together the means to survive. Villages have been reduced to burnt out husks, their people scattered across the region, rail lines are torn apart, and bandits roam the land, preying on those who survived. To restore political stability, we must repair the economic devastation of the conflict.
+Wines and Fabrics
+Turkestan is famous for its fabrics which are appreciated by everyone from Berlin to America, and our fruits and grapes can be utilised to create new sorts of wine and canned food. These exports will form the foundation of our economy, one that we require before we can dream of further industrialisation.
+Mines and Factories
+Like any other under-developed region, Central Asia is ripe for considerable industrial development. Based on the inexhaustible reserves of hydroelectric power, especially along our mountain rivers, a network of powerful power plants will be built to supply new large mining centres. This is an unprecedented ambition for a country where raw mineral materials have not even been explored before.
+Restore the Plantations
+While conflict began in Central Asia, a number of foreign landowners and absentee planters fled the region or otherwise abandoned their valuable and productive holdings. We cannot hope to restore these plantations without the expertise they once provided, but it is good for us that many local experts are willing to replace these Russian or German planters and start their business anew.
+The Turkestan Railway
+Russian built railways crisscross our lands, which long served as vital arteries for trade and communication, and acted as the backbone of their imperialist project. Now, after our victory, the importance of these rail lines has not been diminished in the slightest, and their repair and maintenance is a priority. For this goal all railroads on our territory will be reorganised into the Turkestan Railway and transferred under direct control of the newly created Railroad Office.
+One Thousand and One Cities
+The vast majority of Central Asia is rural, if not desolate. That is not to say there are no industrious cities native to our lands. Cities born in river valleys and oases dot the land, and serve as hubs of production and trade, and as an urban counterbalance to the vast swathes of steppe and farmland. We should not allow ourselves to become beholden to the whims of the burghers, but we cannot afford to just ignore these engines of economic growth.
+Bankroll Local Initiatives
+We cannot hope to manage the entirety of our economic recovery from our capital, as the needs and opportunities in each region are unique and complex. By pushing some funding to more local governors and chiefs, we can better provide for our recovery and secure the loyalty of those outside our immediate political reach.
+Looking Outwards
+Central Asia sits at the crossroads of empires, and the crossroads of markets. With Russian interests retreating, and new governments rising in China and the Middle East, we may once again develop serious trade connections with our neighbours. We must promote new diplomatic ventures to develop connections and secure our role as a trade partner.
+Unification by Wire
+Central Asia is dominated by plains, deserts, and highlands, all which have forced the region into a form of political decentralisation. When it takes weeks for news from the capital to reach our isolated settlements, it is impossible to bring these villages into the fold. Our rail network presents us with a new opportunity to further connect our lands through telegram networks.
+Strive for Autarky
+Central Asia has the unenvious position of being surrounded by a number of rising great empires, each looking to make it a pawn in their violent games of geopolitical control. We cannot rely on the peace and prosperity of our neighbours to fuel our young and struggling economy, and we cannot risk reliance on foreign goods and foreign guns.
+Reform the Madrasas
+More than anything else, Central Asia lacks Western technical skills and techniques, both in industrial and military spheres. The present system of higher education in our country is heavily based on the religious Madrasa school system. We need to reform and secularise it by hiring out foreign experts and sending young Turks to study in distant lands to build the foundations of a homegrown network of modern technical and military education.
+Exploit our Natural Wealth
+Central Asia has boundless natural wealth, with significant and largely untapped sources of key natural resources. Taking advantage of these boons will be key to any form of economic investment, both as a means of fuelling our own nascent industry, and as a means of injecting much needed foreign capital into our coffers.
+Waking the Tulpar
+The last few centuries have not been kind to our home. In the many generations since the dizzying heights of Central Asian wealth and power in the 13th and 14th century, we have collapsed into a poor and weak backwater. For too long, our natural resources have been left untouched, our fields fallow, and our great minds driven away. It is time for Central Asia to wake up!
+Prepare for the Inevitable
+After the brutal violence of the last two decades, the peace which has slowly settled on our homeland is a welcome respite. However, there is no question that such a peace cannot last forever. We must prepare for the next great conflagration which will inevitably consume our nation.
+Rectify our Weaknesses
+Our military forces are disjointed, poorly trained, unmotivated, and wholly unprepared for the rigors and dangers of modern warfare. While we managed to punch above our weight in our most recent conflict with our neighbours, we will need to fundamentally reform our military forces if we wish to retain our sovereignty.
+Railway Warfare
+We saw firsthand the importance of railways in modern warfare during the Civil War, where the Tashkent Soviet and Ashgabat Rebels used their control of rails to outflank their enemies and support their expeditionary forces. We will need to fully integrate rail lines into our offensive and defensive planning, and knock some sense into those too stubborn to correctly use them.
+Adopt Russian Artillery Tactics
+Much of our exposure to artillery tactics has come through our experiences with Russian and Russian-trained forces, who forged a versatile and in-depth artillery doctrine in the fires of the Weltkrieg. By focusing on the development of a solid artillery park and the adoption of these well-tested tactics, we will be able to effectively punch above our weight.
+The War of Attrition
+Should one of the great powers attempt to militarily exert control over our lands, we will need to engage them as a modern army, using modern tactics to bleed them of their soldiers and willingness to fight. While static battlefields and artillery battles breed horrors native only to the modern age, it is to our advantage that these tactics are well suited to defending our home.
+Play to our Strengths
+While our army may not have the training, supplies, weapons, or tactical prowess of the great powers, we are blessed with unique advantages, including our mastery of animal husbandry, knowledge of our homeland's terrain, and command over the skirmish and encirclement tactics which dominated the battles of the Civil War and following Crises.
+Mastery of the Steppes
+For hundreds of years, the tribes of Central Asia earned their reputation as preeminent riders and skirmishers, and the horse continues to be the backbone of our elite soldiers. We should continue to develop our unique knowledge and skills surrounding mounted combat, so that our horsemen may continue to crush and harry our opponents.
+Basmachi Behind Each Barchan
+When the Tashkent Soviet seized control of the Turkestan Autonomy, they quickly found out that colouring in lines on a map does not mean that one controls the land. Guerrilla raids with the support of local hamlets and nomads can break the back of an enemy offensive, meaning that we can sacrifice ground, picking only the battles we know we will win.
+The War of Annihilation
+The best way to defeat an enemy who is stronger than yourself is by concentrating your strength to gain local superiority, breaking up their line, encircling their isolated forces and then destroying them outright. Concentrated elite cavalry forces, supported by local militias with intimate knowledge of the local terrain, will be the deadly point of our cutting edge.
+Prepare the Next Generation
+Most of our commanders come from hereditary lines of military service, though in recent times of strife, many low-born warriors and brigands rose to grandiose heights of command, making a name for themselves in the battles of the Civil War. It is time for a new generation of men who have proven their worth to take up positions of responsibility.
+Reinforced Cavalry
+The open plains and rough steppe of Central Asia make mobility key to victory, meaning that the heavy guns favoured by the great powers are often too cumbersome to properly come to bear. By relying more heavily on lighter field artillery, we will be able to better support our soldiers with indirect fire.
+Armour of the Steppes
+The introduction of new technologies brings forward new strategies of warfare, most notably the mechanisation of armies. While we may dream of a future army of gleaming war machines streaming across the steppes, an armour is good for the one who has it, and bad for the one who does not have it at the right time.
+Central Asian War

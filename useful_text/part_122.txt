@@ -1,0 +1,813 @@
+New England Focus Tree
+TUEL
+Trade Union Educational League\n§LThe latest and longest lasting of several Syndicalist labour organisations founded by William Z. Foster, the Trade Union Educational League was founded in 1920 from the remnants of Foster’s Syndicalist League of North America and International Trade Union Educational League. Opposed to the Socialist Party’s policies of electoral participation and the IWW’s strategy of dual unionism, the TUEL instead maintains an anti-political ultra-syndicalist approach of \
+Socialists (Ind. Unionists)
+Socialist Party of America - Industrial Unionist Faction\n§LFounded in 1901, the Socialist Party of America quickly gained traction as the premier socialist political force in the United States. First drawing support from workers, farmers, immigrants, and social reformers, among others, it was soon faced with crisis, as the revolutionary wave of the late 1910s sparked a large factional struggle within the party, between the moderate \
+Socialists (Progressives)
+Socialist Party of America - Progressive Caucus\n§LFounded in 1901, the Socialist Party of America quickly gained traction as the premier socialist political force in the United States. First drawing support from workers, farmers, immigrants, and social reformers, among others, it was soon faced with crisis, as the revolutionary wave of the late 1910s sparked a large factional struggle within the party, between the moderate \
+Farmer-Labor
+Farmer-Labor Party\n§LWith the collapse of the old Farmer-Labor Party and the abrupt exit of the SPA from legal politics, remaining loyalist Farmer-Labor politicians sought to reorganise their political party without the interference of the Socialists. Already marginal in New England, the Farmer-Labor Party was dealt a crippling blow by the onset of the Civil War and occupation, and as such has become even more of a non-factor in New England politics than it was previously.§!\n
+Democrats (Lib.)
+Democratic Party - Liberal Faction\n§LThe oldest continually active political party in the world, the Democratic Party was founded over 100 years ago in 1828 by Andrew Jackson and Martin van Buren. Originally an agrarian populist party upholding Jeffersonian principles, it transformed first into a (generally) pro-slavery party, then into agrarian and southern opposition to the Republicans, and then into a western, southern, and increasingly urban party with liberal inclinations.\n\nIn New England, the liberal wing of the Democrats has been the predominant strain in the party since the revival of its fortunes in the 20th century. It is generally supported by urban \
+Republicans
+Republican Party\n§LFounded in 1854 as a broad tent party opposed to the Slave Power, the Republican Party has generally been regarded as the United States’ \
+Democrats (Con.)
+Democratic Party - Conservative Faction\n§LThe oldest continually active political party in the world, the Democratic Party was founded over 100 years ago in 1828 by Andrew Jackson and Martin van Buren. Originally an agrarian populist party upholding Jeffersonian principles, it transformed first into a (generally) pro-slavery party, then into agrarian and southern opposition to the Republicans, and then into a western, southern, and increasingly urban party with liberal inclinations.\n\nThe conservative wing of the Democrats, usually associated with the south, has been dominant in that region since the end of reconstruction. It is the natural ruling party in most of the south, with nomination tantamount to election. Divided between agrarian reactionaries and more reform-minded moderate conservatives, they are generally opposed to Civil Rights reform and cartelisation of the economy, supporting smaller businesses and landowners.§!\n
+Union (Reactionaries)
+Union Party - Reactionary Faction\n§LThe newest major party in US politics, the Union Party was recently formed primarily as a vehicle for Huey Long’s bid for the Presidency, when it became clear he would not be able to attain the Democratic nomination. A broad-tent alliance comprising Democrats, reactionaries, and anti-syndicalist Progressives, they are united by little more than their shared opposition to the Smith Administration, and at least a temporary unity behind Long as their leader.\n\nThough traditionally Long’s base of support has been in the midwestern farm states, reactionary and populist southern Democratic leaders such as Eugene Talmadge and Theodore Bilbo have rallied behind Long out of their opposition to Smith. These southern Democrats are united primarily by their belief in white supremacy and disdain for Smith’s particular brand of liberalism. Their unity behind Long however is clearly conditional, and unlikely to last if push comes to shove.§!\n
+$USA_paternal_autocrat_party_postwar$
+$USA_paternal_autocrat_party_postwar_long$
+Union (Populists)
+Union Party - Populist Faction\n§LThe newest major party in US politics, the Union Party was recently formed primarily as a vehicle for Huey Long’s bid for the Presidency, when it became clear he would not be able to attain the Democratic nomination. A broad-tent alliance comprising Democrats, reactionaries, and anti-syndicalist Progressives, they are united by little more than their shared opposition to the Smith Administration, and at least a temporary unity behind Long as their leader.\n\nLong’s primary personal base of support has, for most of his career in national politics, been in the western farm states, where his progressive but decentralist economic ideas hold sway. Long has aligned himself with western senators such as Burton Wheeler, who have come out to support his \
+New England
+New Englander
+New England
+Provisional President
+   §YProvisional President§!\n     - Daily Political Power Gain: §G+0.05§!\n     - Training Time §G-20.00%§!\n     - Daily Command Power Gain Multiplier §G+25%§!
+Foreign Aid Proponent
+Outspoken Isolationist
+Great Naturaliser
+Friend of Labour
+Committed Diplomat
+Strikebreaker
+Compromise Candidate
+Social Security Proponent
+Small Government Conservative
+Defender of the Common Folk
+Incorruptible Gangbuster
+Underground Railroad
+While the rest of America fell into the darkness of the Second American Civil War, the people of New England were spared that same horror through the timely intervention of the Canadian armed forces. However, the Canadians were not able to save everyone in America who wished to avoid being drawn up into a war that they did not believe in. Many family members have become cut off from their loved ones and are trapped behind enemy lines.\n\nDespite the dangers, many attempt to travel vast distances to reach the safety of §G[NEE.GetNameWithFlag]§!, an island of peace in the swirling ocean of chaos that is the civil war. If we were to organise and coordinate with stay-behind groups across the United States, perhaps we could see more people (and weapons) find their way to us!\n§P-----------------------------------§!\nOnce the focus §YExpand the Underground Railroad§! is completed, we will be able to extend the Underground Railroad network from the Great Lakes to the Gulf of Mexico!
+Shows the important stops on the Underground Railroad
+Route has been discovered by the authorities
+A new §YSafehouse§! will be opened
+Freedom!
+[FROM.GetName] Safehouse
+Organise a New Safehouse in [FROM.GetName]
+Scout Alternate Routes through [FROM.GetName]
+Tighten Security in [FROM.GetName]
+Lake Line: §CMinnesota - Michigan§!
+Lake Line: §CMichigan - Ohio§!
+Lake Line: §COhio - Albany§!
+The §YUnderground Railroad§! will transport §Y50§! £rifle_texticon and §Y120§! £GFX_population_texticon  per connected smuggling post not discovered on this route.\n§YTotal Amount§!:\n£rifle_texticon in this §YGroup§!: [?NEE.LL_gun_route]\n£GFX_population_texticon  in this §YGroup§!: [?NEE_LL_people_army]\n\n
+Adds £rifle_texticon  $RIGHT|Y0$ to the §YLake Line§!.
+Adds £GFX_population_texticon  $RIGHT|Y0$ to the §YLake Line§!.
+Central Line: §GMississippi - Kentucky§!
+Central Line: §GKentucky - Ohio§!
+Central Line: §GOhio - Albany§!
+The §YUnderground Railroad§! will transport §Y30§! £rifle_texticon and §Y110§! £GFX_population_texticon  per connected smuggling post not discovered on this route.\n§YTotal Amount§!:\n£rifle_texticon in this §YGroup§!: [?NEE.CL_gun_route]\n£GFX_population_texticon  in this §YGroup§!: [?NEE_CL_people_army]\n\n
+Adds £rifle_texticon  $RIGHT|Y0$ to the §YCentral Line§!.
+Adds £GFX_population_texticon  $RIGHT|Y0$ to the §YCentral Line§!.
+Eastern Line: §OSouth Carolina - Virginia§!
+Eastern Line: §OVirginia - New Jersey§!
+Eastern Line: §ONew Jersey - Albany§!
+The §YUnderground Railroad§! will transport §Y40§! £rifle_texticon and §Y90§! £GFX_population_texticon  per connected smuggling post not discovered on this route.\n§YTotal Amount§!:\n£rifle_texticon in this §YGroup§!: [?NEE.EL_gun_route]\n£GFX_population_texticon  in this §YGroup§!: [?NEE_EL_people_army]\n\n
+Adds £rifle_texticon  $RIGHT|Y0$ to the §YEastern Line§!.
+Adds £GFX_population_texticon  $RIGHT|Y0$ to the §YEastern Line§!.
+Arsenal of Democracy
+The collapse of the United States into civil war certainly thrust the idea of American democracy into a state of uncertainty. With our industrial sectors operating at full capacity and our armament output greater than ever before; it is our duty to the democratic nations of the world that our economy can and will be - the Arsenal of Democracy. In war and in peace, we will apply ourselves with the same urgency, patriotism, and self-sacrifice in our commitment to the freedom of the world's nations.
+Special Forces of the Republic
+Inserted deep behind enemy lines, the special forces of New England hold much in common with their colonial Ranger ancestors from the American Revolution. Forged from the harshest of training conditions and given the most physically demanding training regime, the special forces can strike the enemy where he least expects it, cutting off his communication and are capable of conducting light and unconventional warfare. As a result, selection for the special forces is highly selective to secure only the finest that New England offers.
+Mid-Ocean Escort Force
+As proven by the experiences of the British in the First Weltkrieg, submarine warfare can be detrimental towards the desperate needs of trade and supply convoys in times of war. In order to increase the effectiveness of our convoy escorts, we will create and organise new compositions of our destroyers - fitting them as well with new technology such as radar and modern anti-submarine weapons.
+Coordinated Naval Bombardment
+With the availability of portable radios and sophisticated relay networks, forward observers are now able to transmit targeting information and provide almost instantaneous accurate reports to the battleships off the shore. In addition, observer aircraft are also able to provide warships with accurate information in preparation for amphibious landings.
+New England Marines
+Inspired by the Canadian commandoes and marines, the Marines of New England are organised in innovative light infantry fire teams of three and are well-versed in amphibious invasions and asymmetrical warfare. The true successors to the Continental Marines of the American Revolution, the Marines of New England are given egalitarian and ethical indoctrination in their training to mould the perfect Marine rifleman. As a salute to their great heritage from the Halls of Montezuma to the shores of Tripoli, the New England Marines are some of New England's most elite regiments - always present and always faithful.
+Reluctant Populace
+Strongly opposed to intervention or alignment with the factions in the fallout of the national crisis, throughout the Provisional Government - men and women are reluctant to go to arms. Declaring neutrality in the fallout of the national crisis in the spring of 1937, the people of New England remain committed to averting the bloodletting that has thrown the nation into chaos. Unless the situation changes and the people of New England's patriotic fever is aroused, the government will not bring its people into the great war.
+Great Depression
+Unlike the rest of the nation that shifted into war-time mobilisation, the economy of New England remained bitterly stagnant as a result of the Great Depression. Throughout the Provisional Government, lines of unemployed men continue to fill the streets, and thousands of New Englanders find themselves either bankrupt or homeless from the continued economic crisis. While the people of New England trust their government to undertake significant economic reform, until that is done, the Provisional Government's economy will only continue to languish in bitter agony.
+National Interstate and Defense Highways Act
+In the latest sweeping bill signed by President [NEE.GetLeader], the National Interstate and Defense Highway Act aims to improve and modernise our government infrastructure to be the greatest in the world. With an authorisation of nearly $25 billion to construct 41,000 miles of interstate highway, our ambitious work project will aim to connect the American nation greater than ever before.
+Canadian Backing
+With the recent outbreak of war on the American continent and our relatively minuscule presence, our chances of restoring true American democracy appear rather bleak. The Canadian government, determined to restore order and prevent the success of a radical American government - has announced its decision to supply the Provisional Government with arms and industrial aid to prepare New England for the liberation of the former United States. Nonetheless, the people of the American Northwest remain wary as there are certainly those who do not think New England is ready to weather the storm ahead.
+Special Forces Focus
+$MODIFIER_WEEKLY_MANPOWER$: §G+1000§!\n$MODIFIER_ARMY_ORG_FACTOR$: §G+10.0%§!\n$MODIFIER_XP_GAIN_ARMY_UNIT_FACTOR$: §G+20.0%§!\n$MODIFIER_EXPERIENCE_LOSS_FACTOR$: §G-20.0%§!
+Selective Training Act
+$MODIFIER_WEEKLY_MANPOWER$: §G+750§!\n$MODIFIER_ARMY_ORG_FACTOR$: §G+5.0%§!\n$MODIFIER_XP_GAIN_ARMY_UNIT_FACTOR$: §G+10.0%§!\n$MODIFIER_EXPERIENCE_LOSS_FACTOR$: §G-10.0%§!
+Limited Recognition
+The Provisional Government was formed in the early months of the Second American Civil War when the northeastern states of the former United States petitioned the Canadian government for official intervention. While the Canadian government was successful in securing the borders of New England from falling into the hands of the belligerent factions, the Provisional Government finds itself hardly recognised by the international community, and few are convinced that the Provisional Government is indeed the last bastion of American democracy.
+$unlocks_decisions$ to expand the §CLiberty Ship Program§!
+Unlocks §YInfiltrate, Improvise, Sabotage§! resistance actions in states controlled by our enemies in the second American civil war
+§YRefugees§! and §YResources§! will be smuggled across the border into §Y[NEE.GetNameWithFlag]§!
+$unlocks_decisions$ to sway §YPublic Opinion§! on the Home Front\n
+Decreases our §YLegitimacy§! by $RIGHT|R0$\n
+Increases our §YLegitimacy§! by $RIGHT|G0$\n
+The §YEfficiency§! of our §Y[WCA.GetNameWithFlag]§! smuggling operations has increased by §G10%§!\n\n
+The §YEfficiency§! of our §Y[WCA.GetNameWithFlag]§! smuggling operations has decreased by §R30%§!\n\n
+No further smuggling operations will be organised on Lake Erie. Refugees and their resources however will continue trickling down the Railroad
+Have claimed the mantle of democratic America
+decided to back no one at the onset of the second American civil war.
+The event allows for choosing between:\n1. §HSpringfield Armory§!:\n   §HInfantry Equipment§!\n      Reliability: §G+15%§!\n      $STAT_COMMON_BUILD_COST_IC$[?-0.10|-=%]\n2. §HWinchester Repeating Arms§!:\n   §HInfantry Equipment§!\n      Soft attack: §G+10%§!\n      Defence: §G+5%§!
+our Ambassador in Ottawa
+Our Ambassador in Ottawa
+Legitimacy greater than $RIGHT|Y0$
+§CWhen at war with §Y[395.Owner.GetName]§!§!:
+America is united
+§MForeign Policy§!\n §MThe Old Order§!\n£white_dot Win the civil war and complete the focus §Y$NEE_End_Reconstruction$§! while being in the Entente.\n£white_dot We will aid the Entente to reclaim their mainlands and eventually take leadership of the alliance.\n\nThe following two options will require us to leave the Entente. For this to happen, we will need to have Canada reject our petition for home rule from the focus §Y$NEE_Second_Declaration_of_Independence$§!, the following will increase our odds of this happening:\n\n£white_dot Having a smaller army than them.\n£white_dot Having low Legitimacy.\n£white_dot Having Canada choose to support other American faction over us.\n£white_dot Canada being ruled by either the §a$CAN_authoritarian_democrat_party$§! or the §P$CAN_paternal_autocrat_party$§!.\n\n This will unlocked a decision to declare independence from Canada and leave the Entente.\n\n§MAmerica back on the Global Stage§!\n£white_dot Choose to focus on the western hemisphere after completing the focus §Y$NEE_End_Reconstruction$§!.\n£white_dot We will create our own faction and revive the Monroe Doctrine, influencing nations towards democracy.\n\n§MTurn to the Pacific§!\n£white_dot Choose to focus on the eastern hemisphere after completing the focus §Y$NEE_End_Reconstruction$§!.\n£white_dot We will expand our influence in Asiatic nations.\n\n§CNote§!: If we won with help form the American Constitutional Coalition, one of the two will be chosen depending on who has greater legitimacy. The following will affect the calculations:\n\n£white_dot If the Borah, Landon or Olson were elected in the 1936 elections.\n£white_dot The current amount of Legitimacy of New England.\n£white_dot Owning any of the following: Maryland, New Orleans, Illinois, Missouri and Colorado.\n£white_dot Our army size.\n\nIf the ACC has higher legitimacy than us, we will switch to their ideology, have their current president and unlock the §MTurn to the Pacific§! option.\nIf we have higher legitimacy, we will unlock the §MAmerica back on the Global Stage§! option.\n\n§MElections Guide§!\n§MNew England Elections§!\n\n§M1937 Provincial Elections§!\n£white_dot §mRepublicans§!: Lewis O.Barrow will win the elections.\n£white_dot §mRepublicans§! (Compromise Option): Joseph William Martin Jr. will be elected as a compromise candidate.\n£white_dot §lDemocrats§!: David I. Walsh will win the elections.\n\n§M1940 Elections§!\n£white_dot Having Barrows will pit him against Charles Hurley of the §lDemocrats§!.\n£white_dot Having Joseph Martin will pit Charles Hurley of the §lDemocrats§! against John Winant of the §mRepublicans§!.\n£white_dot Having Walsh will pit him against John Winant of the §mRepublicans§!.\n\n§M1944 Elections§!\n£white_dot Having Hurley will pit him against Raymond Baldwin of the §mRepublicans§!.\n£white_dot Having Barrows, Winant or Walsh will pit Raymond Baldwin of the §mRepublicans§! against Maurice Tobin of the §lDemocrats§!.\n\n§M1948 Elections§!\n£white_dot Having Hurley will pit George Aiken of the §mRepublicans§! against William Harriman of the §lDemocrats§!.\n£white_dot Having Baldwin will pit him against William Harriman of the §lDemocrats§!.\n£white_dot Having Tobin will pit him against George Aiken of the §mRepublicans§!.\n\n§M1952 Elections§!\n£white_dot Having Aiken will pit him against Chester Bowles of the §lDemocrats§!.\n£white_dot Having Harriman will pit him against Thomas Dewey of the §mRepublicans§!.\n£white_dot Having Baldwin or Tobin will pit Thomas Dewey of the §mRepublicans§! against Chester Bowles of the §lDemocrats§!.\n\n§MElections after Compromising with the East§!\n To receive the following elections, we will need to win the civil war with help from the ACC and have them have greater legitimacy than us.\n\n§M1940 Elections§!\n£white_dot We will able to reelect Quentin Roosevelt or elect Culbert Olson of the §lDemocratic Party§!.\n\n§M1944 Elections§!\n£white_dot Having Olson will pit him against Arthur Langlie of the §mRepublican Party§!.\n£white_dot Having Roosevelt will pit Sheridan Downey of the §cDemocratic Party§! against Earl Warren of the §mRepublican Party§!.\n£white_dot Having Henry Wallace of the §SFarmer-Labor Party§! will pit Sheridan Downey of the §cDemocratic Party§! against Earl Warren of the §mRepublican Party§!.\n\n§M1948 Elections§!\n£white_dot Having Olson or Warren will pit the latter against Clarence Martin of the §lDemocratic Party§!.\n£white_dot Having Downey will pit him against Earl Warren of the §mRepublican Party§!.\n£white_dot Having Phillip La Follette of the §SFarmer-Labor Party§! will pit Clarence Martin of the §lDemocratic Party§! against Arthur Langlie of the §mRepublican Party§!.\n£white_dot Having Wallace or Langlie will pit the latter against Clarence Martin of the §lDemocratic Party§!.\n\n§M1952 Elections§!\n£white_dot Having Martin pit him against Harry Cain of the §mRepublican Party§!.\n£white_dot Having Downey will pit Warren Magnuson of the §lDemocratic Party§! against Harry Cain of the §mRepublican Party§!.\n£white_dot Having Glen Taylor of the §SFarmer-Labor Party§!, La Follete, Langlie or Earl Warren will pit Warren Magnuson of the §lDemocratic Party§! against William Knowland of the §mRepublican Party§!.
+Supporting the Entente
+Our ties to Canada mean we are a member of the Entente - whether we like it or not. The British have a great deal of experience and technology, however, which we can use to considerable advantage - though the more we do so, the more we lose legitimacy as a separate and distinct government.
+Contract [ENT.GetAdjective] Weapons
+Our factories can only produce so much, and as we seek to grow our war efforts, our production lines find themselves increasingly strained. We will petition our allies in the Entente for weapon contracts to alleviate the efforts on the home front.
+Contract [ENT.GetAdjective] Construction Crews
+With the men away on the frontline and the women busy in the workplaces, New England has a shortage of manpower to develop new industries, infrastructure, dockyards, and airbases. We will petition our Entente allies for additional manpower and help to help develop our power base.
+Request Relief Assistance
+As the second American civil war drags on, our civilians are beginning to notice the strain of modern total war. Food shortages are becoming increasingly common and parts of the country still lie in poverty from the lasting depression. We will petition our Canadian allies to the north for relief supplies to help alleviate the suffering in our nation.
+Joint Army Training
+As we begin to transform our former militia into an effective fighting force, we can use our ties with the Entente to organise joint military training exercises. Together with the leadership of Canadian and French generals, we will be able to modernise and strengthen our existing armed forces into a capable army.
+Joint Navy Training
+Our naval forces are minuscule compared to those of our enemies and the former United States and although we boast an impressive naval tradition, many of our new recruits are still unprepared for the battles to come. We can use our Entente ties to organise a joint naval exercise where our men can learn lessons from the experienced veterans of the former Royal Navy.
+Joint Air Training
+While New England holds a powerful aviation industry, many of our pilots are raw inexperienced recruits. While they are eager, unless they are properly trained and supervised - they will not be effective in the skies. With the help of our Entente allies, we will organise joint aerial exercises between our air force and the experienced pilots of the Entente. Together we will keep the skies free!
+The Second Declaration of Independence
+We didn't want it to come to this, but it appears we must: in order for New England to be free, we must declare our independence from [CAN.GetNameDef] and their alliance. If they intend to fight us on this decision, then we must be prepared to meet them in battle.
+Liberty from the Shadow of Tyranny
+We didn't want it to come to this, but it appears we must: in order for New England to be free, we must declare our independence from [CAN.GetNameDef] and their alliance. If they intend to fight us on this decision, then we must be prepared to meet them in battle.
+Infantry Weapon Contracts
+Construction Contracts
+Relief Efforts
+If [CAN.GetNameDef] accepts the contract, this will decrease our §YLegitimacy§! by §R15§!
+If [CAN.GetNameDef] accepts the request, this will decrease our §YLegitimacy§! by §R20§!
+Reclaiming America
+The light of the Old North Church remains ready to be relit in America's darkest hour as other parts of our fair nation have torn themselves asunder. Ever since the Canadian intervention which created our provisional government, we have hoped for democracy to win out in the civil war. If that is not the case, then we must steel ourselves to carry the torch for freedom, as the last vestige of democratic America.\n\nCurrent Legitimacy :  §G[?NEE.NEE_legitimacy]§!\n§P-----------------------------------§!\nOnce the focus §Y$NEE_Behind_Enemy_Lines$§! is completed, the following abilities will be unlocked in claimed states that neighbour our fully controlled territory:\n\n£GFX_manpower_texticon  Locate Friendly Contacts: §gSelecting this option will rebuild up a network of allies to our cause. Once the targeted state is secured, they will help ease the transition of power.§!\n§CAdd Compliance§!: §G+10%§!\n§P---------------§!\n£GFX_territory_icon  Infiltrate, Improvise, Sabotage: §gSelecting this option will smuggle weapons into the targeted state to reach resistance fighters. It will take several days §W(5)§! for the resistance to be ready to fight.§!\n§P---------------§!\n£GFX_pol_violence  Launch an Uprising: §gSelecting this option will deploy two partisan resistance fighter units to help liberate the United States. If the focus §Y$NEE_Flying_For_Freedom$§! was taken, our brave pilots will be able to deliver better equipment and smuggle better experienced NCO's to lead the resistance units.§!\n§LResistance Template§!:  8 £GFX_nato_unit_infantry_icon_small  with £GFX_unit_artillery_icon_small , £GFX_unit_recon_icon_small , and £GFX_unit_logistics_company_icon_small.
+Request [ENT.GetNameWithFlag] Support
+§gThese negotiations are more likely to succeed if we have a solid ground to build our case on to [ENT.GetName]. This is shown through having a large army in the field and high legitimacy§!
+Claim the Mantle of Democratic America
+When the Canadians intervened in the spring of 1937, many saw us as merely a puppet in the Entente's desperate attempts to return home. However, with the fall of the last bastions of democracy in the United States - we now find ourselves as the only remaining option to save democracy in America! If we don't stand up for the democratic ideals that we fought the independence war for, no one will. Those who doubt us can look at our renewed economic strength and the growing capabilities of our armed forces. It is time to announce to the American continent that we will free our nation from those that plunged it into chaos!
+Claim the Mantle of Free America
+When the Canadians intervened in the spring of 1937, many saw us as merely a puppet in the Entente's desperate attempts to return home. However, thanks to the patriotic men and women who refused to give up on American democracy - we now find ourselves qualified to claim the mantle of a Free America indeed. Those who doubt us can look at our renewed economic strength and the growing capabilities of our armed forces. It is time to announce to the American continent that we will free our nation from those that plunged it into chaos!
+Liberate the States
+While we may have sat out the opening days of the war, we did so out of necessity and time. Our economy has finally recovered from the worst days of the Depression to the point where our factories are now ready to convert to military production. The government has stabilised significantly, and our armed forces have expanded to the point where reclamation of the continent is quite feasible. With the other sides exhausted by years of civil war, we are now able to boldly go forth to reclaim our nation from tyranny like our forefathers before us!
+Establishing Legitimacy
+We are a government that has been put into place by a foreign power - and thus many are keen to disregard our right to exist, or to call us traitors for not weighing in on the civil war raging in the rest of the nation. We must combat the opinion that we serve British interests rather than American citizens, and that involves changing attitudes at home. Failure to do so means the eventual dissolution of our government once the civil war is finished - or worse.\n\nCurrent Legitimacy :  §G[?NEE.NEE_legitimacy]§!
+Organise a Propaganda Campaign
+Billboards, Radio Commercials, Newspaper Ads and much more, all will be pushed down the people's throats in the hopes of conveying our message.
+Hold a Presidential Goodwill Tour
+Even as our propaganda ministry works around the clock, the man on the street remains unconvinced that actual power is wielded in Boston and sees the \
+'Motivate' the Foreign Press
+Journalists from all sides of the world keep having this annoying habit of reporting news within our nation as matters of the 'New Englander' state with socialist-aligned papers even going so far as calling us the Canadian Province of New England. This will no longer do for we will not be trifled with and they shall soon recognise that the only true American nation is ours. For now, however we'll have to be content with sliding some money towards the largest troublemakers and politely requesting that they call us the United States of America.
+Increase Foreign Representation in R&D
+The war may be raging harder than ever before but American scientists are still working in the labs and engineering facilities of the Ivy League universities. Let's make it clear that [Root.GetNameDef] has the wherewithal to innovate and stand on its own among the world leaders.
+Liberty Ship Program
+With war on the European continent inevitable and with the Ententes ambitions to execute the largest naval operation in the history of mankind, the dockyards of New England are working overtime to meet the increasing needs of the alliance. To further boost our output, a centralised construction scheme has been created by the government to guide the further expansion of these shipyards.
+Todd-Bath Iron Shipbuilding Corporation
+As part of the country's intense emergency ship construction program, the Todd-Bath Iron Shipbuilding Corporation yard aims to meet the high demands of the American navy. With thousands of women employed, the shipyard has generated a considerable degree of productivity and employment in the port city of South Portland, Maine. It is also the first shipyard to feature ships constructed below sea level.
+South Portland Shipbuilding Corporation
+Like its counterpart, the Todd Bath Iron yard, the west yard in South Portland has been renamed the South Portland Shipyard. Here ships will be constructed with the new technology of \
+Walsh-Kaiser Company
+Located in Cranston and Providence in Rhode Island, the Walsh and Kaiser Company has been financed by the Maritime Commission as part of the country's intensive shipbuilding programme. The local storekeepers, housewives, clerks, and youth fresh out of school have been encouraged to aid in the development and construction of the dockyard so that our navy continues to be top of the class.
+§YLocate Friendly Contacts§!
+§gAs we make contacts among local resistance groups, we can help elevate the right people to ease the transition of power. With a little propaganda and the right people on our side, the region should come under control easier.§!\n\n[!NEE_Contacts_button_click_enabled]
+§YInfiltrate, Improvise, Sabotage§!
+§gThrough establishing contact with local resistance groups and by supplying them with the necessary weapons and expertise to successfully organise guerrilla strikes, we will construct a network of resistance cells loyal to us and capable of inflicting heavy damage on our enemies.§!\n\n[!NEE_Infiltration_button_click_enabled]
+§YLaunch an Uprising!§!
+§gThe day of reckoning has come and the cells we so carefully fostered are now ready to perform their strikes on the central government. For Liberty!§!\n\n[!NEE_Launch_Uprising_button_click_enabled]
+Local Contacts have already been made
+State has already been infiltrated
+Currently establishing contacts in the region
+An uprising has already been launched
+View non-infiltrated areas
+Townhall Democracy
+Democracy works best on the local level. We must ensure that, even in this time of chaos, people are still able to participate in democracy and feel like their voice is heard by the provisional government.
+Swaying Public Opinion
+Through films, song, art, and all the traditional means of propaganda, we will establish confidence in the provisional government's ability to both govern and do what's in the best interests of our American citizens.
+Reassure Financial Institutions
+Many international firms are (understandably) terrified of losing their investments in America. We must reassure them that New England, at least, is a safe place to do business and make a profit.
+Second Square Deal
+While our fellow Americans to the south have reignited their economies through the fires of the second American civil war, our neutrality continues to leave us facing the continued effects of the Great Depression that has ravaged our country for over a decade.
+Steel Mills of Maine
+Maine is full of valuable mineral deposits. We must ensure that they are accessible for mining through the development of new resource extraction technology.
+Labour Management Relations Act
+Unions have proven to be a menace to American society. [WCA.GetNameDefCap] to our south have plunged the country into chaos, pitting brother against brother for the second time in 70 years. Legislation must be passed in order to keep them in line.
+National Labour Relations Act
+If we do not wish to see workers uprisings all across New England, we must protect their ability to organise in defence of their rights against unfair business practices. Senator Robert Wagner of New York has drafted this act to push through congress.
+Federal Housing Act
+Across New England, countless thousands living in poverty are homeless and destitute. The land of prosperity and future is not living up its name!
+This will reduce the effects of the §YGreat Depression§! national spirit!
+Welfare for Work
+Free handouts will simply make the population lazy. To do so would rob Americans of their drive to succeed when they can sit back and just cash government checks.
+Social Security Act of [GetYear]
+The United States is the only modern industrial country that does not provide a safety net of social security to our people. Older Americans are sometimes left to fend for themselves in trying times like these when their families already struggle to provide for themselves without needing to worry about feeding Grandma as well.
+Social Security Act
+Works Progress Administration
+With much of our population unemployed due to the economic crisis, we have a huge source of untapped potential labour at our disposal. The Works Progress Administration will create jobs to build infrastructure and public construction across New England to get our people back to work.
+Reconstruction Finance Corporation
+The lengthy Great Depression has shaken investor's confidence in the market. Lots of private capital is being held back by the rich who do not wish to throw away their hard work in these turbulent times. We must seek to encourage private investment to help supplement Federal spending.
+Form the Civilian Conservation Corps
+With large numbers of young men out of work, families are struggling to make ends meet. The civilian conservation corps will provide eligible young men with meals, housing, and employment to help provide for themselves and their families!
+Rural Electrification
+As much as 90% of rural America was left without any access to electricity at the tail end of the Smith Administration. Particularly affected were the northern states of Vermont and New Hampshire. We need to ensure that all citizens have access to it.
+Dealing with the Great Depression
+Unlike our southern neighbours who have been jolted out of the worst of the depression with the onset of the second American civil war shifting them into a war economy, we still feel the effects of the long decade. Hundreds of thousands are still left out of work and doing their best to scrape by with what meager savings they have managed to gather. Our primary priority must be to help provide for our people!\n§!§P---------------\n§gWhile the effects of the §YGreat Depression§! modifier will automatically slowly reduce, taking each of these £decision_icon_small §Hdecisions§! or completing £GFX_pol_power  §Hfocuses§! from the §nSecond Square Deal§! tree will help get rid of the modifier faster.§!
+Bangor Airport Expansion
+As the farthest east state in the union, Maine is an excellent location to begin the construction of a large airfield. As preparations are made in Canada to return home, the North Atlantic may become a region of heavy traffic ferrying all sorts of goods, people, and materiel across the ocean.
+Rhode Island Infrastructure
+Using government funds, local officials directed by prominent governor/vice-president (if Welsh) Theodore Francis Green have put forward plans to modernise the state. Many miles of highways are to be constructed to better connect the region as well as public schools to help educate the next generation of skilled workers.
+Modernise the Rochester and Syracuse Railroad
+When the great depression struck our country, the flow of goods across our railways stalled to pitifully low levels. As rail workers began to be laid off, sections of the New York Central Railroad have fallen into disrepair which cannot stand during our rise from this slumber.
+Lackawanna Steel Works
+The old Lackawanna Steel Company was the largest independent steel company in the world at the turn of the twentieth century. However, unionisation and the hard times of the past few decades have been poor for the company. Following their bankruptcy, Bethlehem Steel purchased the plant but has struggled to find the money needed to modernise the plant with proper equipment of the current age.
+Bourne and Sagamore Bridge
+The proposed bridge in Sagamore, Massachusetts, plans to connect Cape Cod with the Massachusetts mainland. The bridge's design is based on the John Greenleaf Whittier Bridge that connects Newburyport to Amesbury, Massachusetts. Improving the state's infrastructure will help speed up travel and provide jobs for the many unemployed Americans.
+Expand the Boston and Albany Railroad
+At the time of its construction, the Boston-Albany railroad formed the longest and most expensive point to point railroad constructed in the United States. With an increase in peak passenger volume as well as the need to transport troops and equipment to the frontlines, we will undertake an ambitious project to expand the railroad for our needs.
+Complete the Merritt Parkway
+An ambitious parkway designed to connect with the Boston Post Road at Milford, the completion of the Merritt Parkway will ensure that we will be able to handle a greater volume of motor traffic safely and efficiently.
+Fund the Connecticut Arms Industry
+Historically, the state of Connecticut has long housed a large number of weapons manufacturers such as Colt, Stag and Ruger. With the extra manpower available from the pool of unemployed labourers, resources can be directed towards the expansion of these historic arms industries.
+Loudonville Reservoir
+The city of Albany has long relied on the flow of the Hudson River to provide water for its population. In the event of any stoppage, the city may be cut off. This new reservoir would provide upwards of 10 days emergency supply to the city at any time!
+Bear Brook Camp
+Using government funds to purchase land of marginal agricultural value, this place will serve as a home base for infrastructure projects across the region.
+Bear Brook Camp has been built in New Hampshire
+Clear New Hampshire Forests
+With over 81% of the state covered by forests, there is not much room for prospective industry to make any inroads to the state. Using the CCC labour pool, small sections of forest can selectively be cut down to make room for industry to move in.
+Construct the Moore Dam
+Designs for the Moore Dam on the border between Vermont and New Hampshire on the upper Connecticut River would allow for the generation of vast amounts of power to reach the population of the rural Northeast who largely lack access to electricity.
+Maine Fire Trails
+As the most heavily forested state, Maine is highly susceptible to large fires quickly growing out of control. The CCC can be directed to work on the creation of rural roads that serve a double purpose. Containing forest fires to limited areas as well as serve to expand the road network throughout the state.
+Reorganise the National Guard
+In the rampant disorder that came with the Civil War, order was restored thanks to the help of our ever-present National Guard. While the National Guard is more than an unruly militia, they have fallen below the standards of infantry worldwide. We will reorganise and train the National Guard up to modern standards.
+§RThis will limit New England to a maximum conscription level of§! §YLimited Conscription§!
+Maine Maritime School
+Since our nation's conception, we have always relied on Marines to deploy worldwide, an elite fighting force that can fight on lands and sea. New England's proximity to the sea grants us the ability to conduct further naval to land training. To continue our maritime tradition, we will expand the Maine Maritime School to include training for the Marines so that we will be able to breed the next generation of leathernecks.
+Green Mountain Boys
+Dating back to Ethan Allen's Green Mountain Boys of the American Revolution, the hills of Vermont and New Hampshire have always had a strong military tradition. This elite infantry was infamous for the fear they struck in enemy ranks, so we should seek to emulate our forefathers in our methodology in the battle against tyranny.
+Continental Rangers
+Ever since King Philip's War, the American peoples have made use of their understanding of the terrain of New England to combat their enemies. Our military staff has recommended that we construct small combat squads of handpicked elite forces capable of dealing a massive blow into enemy territory without fighting on an open front. Nicknamed the \
+Mechanised Marines
+With its origins as a civilian rescue vehicle designed by Donald Roebling, the Land Vehicle Tracked (LVT) has been adopted by the Marine Corps for logistical ship to shore operations. While its original intentions may have been for cargo, the Marines have recognised the potential for the LVT to be used as an assault vehicle - providing Marines the armour and support they need to storm the beaches.
+Airborne Experiments
+Our military staff has been interested in the doctrine of vertical envelopment developed in other nations. This is the idea of troops being deployed rapidly from the air that can attack the enemy's rear and flanks, giving us the chance to encircle our enemies. While paratroopers remain a relatively new, dangerous, and untested strategy, we will soon conduct our first airborne experiments to apply this doctrine to the field.
+Form the Mid-Ocean Escort Force
+With long supply lines across vast lengths of ocean, our transports lie vulnerable to enemy interdiction efforts. The Mid-Ocean Escort Force (MOEF) will be created in order to organise patrols and study new methods to protect our convoys as they sail potentially dangerous waters.
+Coordinate Naval Bombardment
+In order to give our marines the best chances of making it off the beach, any fortifications they come across must ideally be smoking ruins, devastated by offshore naval bombardment before attempts at landing are made. Through improvements to weapon accuracy and spotting technology, our vessels will turn any coastal fortifications to dust!
+Fleming Transport Contracts
+As the Marine Corps naturally expands, so too does the number of landing craft needed for their operational capabilities. Without many local designs at home, we will look towards our northern neighbour for designs to improve the LVT and allow us to execute naval invasions that keep our marines safe when they land on the beaches.
+Mobile Mountain Artillery
+The terrain of New England makes it difficult for us to use traditional towed artillery, and to unlimber such artillery is slow and arduous. To make the movement of artillery faster, our military staff has proposed we adopt the M1A1 75 mm Howitzer that can be broken down into pieces to be carried by pack animals. This ensures that our artillery can quickly deploy through rugged terrain, giving our infantry the close support they need.
+Ensure Clear Skies
+With a large portion of the industrial power of the United States under hostile control to our south and west, we will have to prepare more robust defences to defend against any incursion by enemy airpower. As the war comes to New England, we must be sure to keep our military and civilians to ensure that once again, our skies will be clear.
+Syracuse Army Air Base
+Our military will need a dedicated airbase to ensure that our planes and pilots will be prepared before they are sent off to defend our skies. We will develop an empty 3,500 parcel north of the city of Syracuse into an Army Air Base where recruits will be able to learn basic training, aircraft will be tested, and our defences strengthened.
+Bell Contracts
+The Bell Aircraft Corporation in Buffalo has expressed its interest in aiding us in our struggle. One of the largest aviation industries in New England, signing contracts with Bell would greatly benefit their aircraft development. Our government will organise contracts with Bell to ensure that our air force will be equipped with the latest Bell aircraft to help us dominate the skies.
+Entrenchment and Redeployment Tactics
+America is a geographically diverse country, with some areas being difficult to supply and defend. We need to ensure our divisions have the proper logistics capabilities and that they are capable of establishing quick defences anywhere in our great nation.
+Expand the Underground Railway
+Few are happy with the government to the south. Just like our grandfathers did in the era of slavery, we will assist those persecuted by the southern traitors in coming north, to freedom.
+Behind Enemy Lines
+Just like John Brown, we will send patriots south to spread the word of the coming liberation. They will inspire rebellions and turn people against the tyrants that rule them. When the time comes, they will help bring down the false government!
+Combat the Petroleum Deficit
+The dire fuel situation of the Entente is forcing our hand in the ever-continuing search to find a reliable solution to the issue. Researchers from all across the British Empire and now also the Ivy League are hard at work to ensure that New England will not fall due to scarcity alone.
+Tank Destroyer Doctrine
+Our military staff has recognised the importance of tanks in modern conflict and the importance of anti-tank measures. Younger military staff members have pushed for the modification of existing tank models to faster and more manoeuvrable types while maintaining strong piercing abilities to quickly immobilise and disorganised enemy tanks.
+Tank Destroyer Doctrine
+Main Battle Tanks
+Our military has studied the tank traditions intensely in the Commune of France and the German Empire and the varying schools of tank doctrine. While some tanks are designed for infantry support, others are intended to serve in their own formations. Proponents of tanks within our military have proposed that we adopt tanks that combine infantry support while also acting on their own.
+Schenectady Arsenal
+M7 Designs
+Our army observers have remarked that we need a self-propelled artillery vehicle with sufficient firepower to support armoured operations. By mounting a 105 mm howitzer on a light tank chassis, we will have unparalleled mobile artillery support - giving us the firepower and speed we need to support our tanks.
+M10 Designs
+Our military has realised that anti-tank weapons are efficient against fast mobile tank formations launching a concentrated attack. To counter this, some in our military have proposed adopting the 3-inch gun on a medium armoured vehicle chassis. The M10 tank destroyer emphasising speed and firepower over armour will allow us to move aggressively and use ambush tactics to bring enemy tanks into ruin.
+Local Tank Development
+The United States has always neglected tank development. Our observers have noticed strengths in both the heavily armoured infantry tanks and the lighter, faster, cruiser tanks of our British allies. Yet, some request that we turn our attention towards a hybrid design attempting to take the best of both designs.
+A15 'Ram' Cooperation
+The engineers and scientists of the British Empire have long been experimenting with new ways of mechanised warfare and a joint tank development programme by the entire Empire has combined its forces to design the so called A15 'Ram' tank. Our knowledge of tank development is lacking but they have granted us the opportunity to join them in designing and creating this new vehicle.
+Schenectady Industrial Area
+Located sixteen miles northwest of Albany lies Schenectady, one of the largest electrical workshops in the United States. While the American Locomotive Company has factories here, Schenectady is also the home of the electrical industry, where radios and radar can be fashioned. As our nation fires up its industry for the battles to come, we will rally eager men and women to work at the plants to bring our boys in the field the tools they need to win.
+Redevelop Upstate New York
+As large numbers of workers begin heading down to industrial centres such as Schenectady, the burdens of our already exhausted infrastructure and public transportation systems are starting to show. We will have to make great efforts in reorganising the region's infrastructure to help our war machine's efficiency and ensure that our workers and troops can quickly get to where they are needed.
+Radar and Sonar Developments
+Advances in radio and undersea signals have led to radar and sonar adoption and development, respectively. With these new tools, we can detect enemy aircraft before they are over us and scan the seas for enemies hidden far beneath the waves. The military and navy has recommended that we expand the Naval Undersea Warfare Centre in New London to increase our application and develop these new devices to be one step ahead of our enemies.
+Expand the Portsmouth Dockyard
+Established in 1800 by President John Adams, the Portsmouth Dockyard has always held a grand shipbuilding tradition. Some of the first and finest ships of the former United States navy were constructed here, a testament to New England's long-term maritime traditions. With the conflict upon us, we will expand the dockyard to accommodate modern warships and expand jobs for civilians allowing us to fulfil our true naval potential.
+Signals Department
+As troops become increasingly mechanised and combat is focused on squad operations, we will have to improve our communications significantly. Wars are no longer fought in lines and trenches, and units moving quickly must be in constant communication with each other in order to coordinate effectively. In addition to expanding the Signals Department and by providing radios to as many squads as possible, we will also adopt the M18 coloured smoke grenades for soldiers to use.
+Schenectady Research Workshop
+The largest electronics workshop in the world, the Schenectady Research Workshop, will be expanded to increase our research capabilities to put us further ahead of our enemies. Our engineering prowess will be strengthened by further developing the research wings. We will use New England's historical role in American academia by inviting Ivy League researchers, professors, and scientists to use their academic gifts for the war effort.
+General Electric Propulsion
+With the help of the General Electric Company, we have been offered the chance to increase the speed of our ships. They have offered to provide their efficient turbine electric drive machinery research for the refinement of our vessels. As our research into efficient propeller systems gets progressively more advanced, we can count on them to help fit these turbine propellers onto our surface vessels.
+Kenney Mobilisation Plan
+With a somewhat radical and controversial stance given the fact that most of the high command has naval backgrounds, General George Kenney believes that New England's best plan for winning offensives is to begin a rapid rearmament process by placing women in the factories - freeing up the men to serve in the frontlines. His plan also calls for the coordination of high-intensity air support to help break through enemy lines.
+Lowell Munition Factory
+To assist our weapons manufacturers and to provide a steady supply of ammunition for our troops on the front, plans have been drawn up to fund the creation of a new munition plant in the town of Lowell, Massachusetts, which has been hit hard by the Great Depression leaving 40% of the population without jobs. With war upon us once more, the people will have work to do in helping us rebuild our industrial strength.
+New England's Dockyards
+Like \
+Women into the Factories
+As more and more eligible young men are brought into our growing armed forces, the amount of workers at our industrial plants has also begun to wane. In order to counteract this, we must begin to look into replacing them with our large untapped labour pool of young women.
+Arsenal of Democracy
+For years, we have prided ourselves on our ability to distance ourselves from Europe's affairs knowing that we are safe thanks to the broad expanses of the Pacific and the Atlantic. However, with the outbreak of a total war on our very own continent - we are forced to re-evaluate our position in the world. As we fully mobilise the people and country of [NEE.GetNameDef], we can confidently declare that we are indeed the arsenal of democracy for the nations of the free world.
+Norwich University
+Norwich University in Vermont is the oldest military college in the United States and the birthplace of the Reserve Officer Training Corps (ROTC). As we have now found ourselves thrust into war, we will expand the university to accommodate more students and ensure that their curriculum is up to date so our officers are well trained and up to par with the rest of the world.
+Modernise West Point Curriculum
+Having last officially seen action since the Spanish-American War, the military curriculum at West Point is somewhat behind. While observers did study the Weltkrieg in Europe, many of the tactics and doctrines practised are still somewhat behind. We will make efforts to modernise the school curriculum to ensure that the last remaining US military officer school remains at the top of its class.
+Encourage Attack Aviation
+Backed by George Kenney's experience observing aerial combat at the end of the Weltkrieg, he believes that the key to success in the next war will come from airpower being on standby to strike at targets that would normally bog down an advance by the army.
+Victory Through Airpower
+The next war will be won from the skies. While the technology was not there during the majority of the Weltkrieg, observers in France during the tail end of the conflict saw the potential. With the rapid advancements in aerial technology, large bombers capable of long distance travel can now fly missions deep into the enemy heartland to damage or destroy military installations or factories producing war equipment for the enemy!
+Consolidated Contracts
+In our efforts to strengthen the firepower from the skies and improve existing models in the New England air force, we will form contracts with Consolidated. Famous during the prewar years for their flying boats, Consolidated has expressed interest in working with our government to ensure that we aid in the development of their new bombers. With these new bombers, we will be able to offer support to our troops and attack the enemy's strategic needs from the air.
+Infantry Support Breakthroughs
+The Weltkrieg conclusively proved that sending massive waves of infantry into a meat grinder does not win battles much less the war. They need to have a well rounded complement of supporting units to fight using combined arms tactics to effectively rout the enemy.
+Legacy of the Ranger
+While some believe that the firepower of dreadnoughts decides the waves, our naval command believes that deploying naval aircraft in engagements will win battles. Since we control the great Boston Naval Yard, the birthplace of the USS Ranger, we will be able to implement our tradition of ship construction with this great dockyard. With the dockyard's capabilities and workforce, we will build a new line of aircraft carriers like \
+The Southern Fire
+While other matters took our attention right after the creation of the Republic of New England at the outbreak of the second American civil war, the situation at home has stabilised. We can no longer ignore the raging inferno that is swallowing up the rest of America. The people must ready themselves for the struggle ahead.
+The effects of the §YGreat Depression§! are beginning to fade.
+The effects of the §YGreat Depression§! are continuing to fade.
+Reluctance towards the civil war has died down
+War Production Board
+In order to be ready for conflict, we must form together a board of industrialists to organise a proper transformation from civilian production to wartime goods. The army requires rifles and munitions to fight. Not toasters!
+Streamline Garand Production
+With the M1 designation rifle being in various trials for years, experts have put forward a redesign of the barrel, gas cylinder, and front sight assembly, to make the Garand an even more reliable and deadly weapon.
+The Forge of Democracy
+New England was home to some of the oldest factories that were started in the United States during the industrial revolution. Springfield Armory played a decisive role in the first civil war outpacing Confederate production at a rate of nearly 32 to 1. While important armouries such as Harper's Ferry and the Rock Island arsenal lie in enemy hands, the eldest forge of American arms still burns bright!
+All American Lease Act
+[NEE_AALA_desc]
+As the fires of war engulf America, we have a responsibility to those in the [USA.GetName]. While the flames may look distant from our border, they are actively licking at the paint of their house. To keep our firehose for ourselves would be selfish and endanger them in the process. So too must we be charitable with our excess war materiel that isn't needed at the homefront.
+As the fires of war engulf America, we have a responsibility to those in the [ACC.GetName]. While the flames may look distant from our border, they are actively licking at the paint of their house. To keep our firehose for ourselves would be selfish and endanger them in the process. So too must we be charitable with our excess war materiel that isn't needed at the homefront.
+As the fires of war engulf America, we have a responsibility to those in the [APG.GetName]. While the flames may look distant from our border, they are actively licking at the paint of their house. To keep our firehose for ourselves would be selfish and endanger them in the process. So too must we be charitable with our excess war materiel that isn't needed at the homefront.
+As the fires of war engulf America, we have a responsibility to those who we support. While the flames may look distant from our border, they are actively licking at the paint of their house. To keep our firehose for ourselves would be selfish and endanger them in the process. So too must we be charitable with our excess war materiel that isn't needed at the homefront.
+All-American Lend Lease Effort
+With the second American civil war raging on, the security of democracy in the region is threatened. Failure to work together and defeat the various opposing factions may very well bring the §Rfinal nail into the coffin of American democracy§!! In order to prevent this, the president of New England signed into law the \
+Resource Allocation Management
+Cut off from large portions of the rich American lands, now more than ever, we must strive to use everything we have to the fullest of our abilities! Recycling campaigns will be started all across the country to collect needed material for our manufacturers.
+Statute of Limited Emergency
+The situation on our southern border has not developed necessarily in our favour. As our brothers and sisters clash on the battlefield their governments call up more and more divisions to fight. Our limited force pales in comparison.
+Selective Training Act
+While we treasure all who have volunteered to serve the United States, the projections for the next war are immense. In order to fully fill the needed divisions, we must organise a draft of limited conscription for our able bodied young men.
+Reassess American Involvement
+[NEE_Reassess_Support_desc]
+As our allies in the [USA.GetName] have begun to falter, some in the government see this as an opportunity for New England to assert its status as a true successor state of America. However, we will need to convince the government in [CAN.Capital.GetCapitalVictoryPointName] that the Entente's resources are better served shifting towards our military rather than the [USA.GetName].
+As our allies in the [ACC.GetName] have begun to falter, some in the government see this as an opportunity for New England to assert its status as a true successor state of America. However, we will need to convince the government in [CAN.Capital.GetCapitalVictoryPointName] that the Entente's resources are better served shifting towards our military rather than the [ACC.GetName].
+As our allies in the [APG.GetName] have begun to falter, some in the government see this as an opportunity for New England to assert its status as a true successor state of America. However, we will need to convince the government in [CAN.Capital.GetCapitalVictoryPointName] that the Entente's resources are better served shifting towards our military rather than the [APG.GetName].
+As our allies in America have begun to falter, some in the government see this as an opportunity for New England to assert its status as a true successor state of America. However, we will need to convince the government in [CAN.Capital.GetCapitalVictoryPointName] that the Entente's resources are better served shifting towards our military rather than our allies.
+We wisely kept out of the initial outbreak of hostilities in the spring of 1937. This has allowed our people to build up strength without the constant drain of war. Yet now, we can hardly stand by while America falls to those who would destroy its identity. We must prepare to get involved ourselves!
+War Bonds
+Propaganda is a crucial resource in times of war. Our people stayed out of the war originally in hopes to maintain their neutrality and avoid the bloodshed of the civil war. A relentless campaign must be undertaken to instill patriotism and vigor into the minds of our people to get everyone playing their part in the war effort.
+Freedom Fliers
+Through the use of balloons, bombers and even just your regular fighter, the Freedom Fliers initiative have been tasked with flying deep over enemy territory to wage not physical but psychological war, hoping to galvanise resistance in the rest of America.
+Operation Pointblank
+Experience gleaned from observing the second American civil war has shown us the power of long range bombers. Carefully planned bomber offensives have the possibility to deliver serious damage to the heartland of the enemy. Senior planners have already begun drafting up plans to attack several key cities in the Steel Belt in case hostilities begin with [395.Owner.GetNameDef].
+New England Expeditionary Force
+[NEE_NEEF_desc]
+As we continue to back our chosen horse in the second American civil war, some military hawks call for an increase in the New England Expeditionary Force fighting across the fields of America for the [USA.GetName]. With more boots on the ground, the expeditionary force will be more capable of conducting independent operations without needing to rely on local support from the [USA.GetName].
+As we continue to back our chosen horse in the second American civil war, some military hawks call for an increase in the New England Expeditionary Force fighting across the fields of America for the [ACC.GetName]. With more boots on the ground, the expeditionary force will be more capable of conducting independent operations without needing to rely on local support from the [ACC.GetName].
+As we continue to back our chosen horse in the second American civil war, some military hawks call for an increase in the New England Expeditionary Force fighting across the fields of America for the [APG.GetName]. With more boots on the ground, the expeditionary force will be more capable of conducting independent operations without needing to rely on local support from the [APG.GetName].
+As we continue to back our chosen horse in the second American civil war, some military hawks call for an increase in the New England Expeditionary Force fighting across the fields of America as volunteers. With more boots on the ground, the expeditionary force will be more capable of conducting independent operations without needing to rely on local support from our ally.
+Completion of this focus will allow us to send §Yvolunteers§! to our American ally
+Joint American Research
+[NEE_JAR_desc]
+The Weltkrieg showed the world how large-scale warfare has the capacity to kickstart scientific research into overdrive. In order to better prepare ourselves and our allies in the [USA.GetName], for the ongoing war in America, a new project will be initiated by New England to house scientists from both sides to share technological breakthroughs with each other.
+The Weltkrieg showed the world how large-scale warfare has the capacity to kickstart scientific research into overdrive. In order to better prepare ourselves and our allies in the [ACC.GetName], for the ongoing war in America, a new project will be initiated by New England to house scientists from both sides to share technological breakthroughs with each other.
+The Weltkrieg showed the world how large-scale warfare has the capacity to kickstart scientific research into overdrive. In order to better prepare ourselves and our allies in the [APG.GetName], for the ongoing war in America, a new project will be initiated by New England to house scientists from both sides to share technological breakthroughs with each other.
+The Weltkrieg showed the world how large-scale warfare has the capacity to kickstart scientific research into overdrive. In order to better prepare ourselves and our allies in America, for the ongoing war in America, a new project will be initiated by New England to house scientists from both sides to share technological breakthroughs with each other.
+America's Darkest Hour
+With the rest of the United States consumed by war, New England has managed to become a safe harbour in a storm of chaos. We must reassure those in our borders that the provisional government is their only hope of freedom and safety.
+Remember Lexington and Concord
+Here in our corner of the United States were heard the first shots that rang out across the world back in 1775. Our forefathers were willing to take up arms to defend their rights against the overreach of the British government across the Atlantic. So too must we during the troubling times that are looming on our horizon. There may soon be an occasion at which the surviving government of the civil war in Washington turns North not in a posture of reconciliation but that of hostility.
+Propaganda Campaigns
+Dangerous ideas float around the American continent, such as the syndicalist revolutionaries and the autocrats who wish to erode our democracy. In these desperate times, Americans will find themselves susceptible to false ideas and notions; and only we can guide them to the truth. We will undertake efforts to show that Americans know that we are the legitimate government that promises to uphold promises made by the Constitution.
+Victory Gardens
+Without the Great Plains Breadbasket, our nation will find itself struggling to feed both the civilian population and the military. We will encourage the civilian front to begin growing their vegetables in their very own gardens to lower the price of vegetables needed to feed our boys. With more 
+Second Declaration of Independence
+The New England provisional government was created by Canada, it's true, but we are established enough now that it's time we stood on our own feet. Unless the Canadian reason for intervention is not what they suggested, and they have more nefarious aims...?
+Keep the Lady's Promise
+America has always stood as a refuge for the tired, poor, huddled masses yearning to breathe free of the yolks imposed on them by foreign rulers abroad. While the Lady and her lamp may be behind enemy lines, we can keep her fire burning and continue to prove to the world that while America may have stumbled, her doors are not closed!
+Joint Effort Programs
+In preparation for the storm ahead, our nation's military and industrial capabilities must be expanded. We will seek out training exercises for the land, naval, and air forces of New England and a shared industrialisation project with our allies in the Entente. These joint cooperation programmes will strengthen us and seek to improve our ties with our northern Canadian neighbours.
+Steal Higgins Blueprints
+The future of amphibious invasions will focus on greater coordination between naval and land forces to successfully secure fortified beachheads. To ensure that our troops get to the beaches successfully, we will improve our existing landing crafts. This will ensure that they are sturdy enough to withstand bullets' penetration and operate in terrain such as swamps, allowing our men to hit the beaches safely.
+Liberty Ships Dock Project
+With war in Europe inevitable, and with the Entente's ambitions to execute the largest naval operation in the history of mankind, the dockyards of New England are working overtime to meet the increasing needs of the alliance. To further boost our output, a centralised construction scheme has been created by the government to guide further expansion of these shipyards.
+Electric Boat Contracts
+Founded in 1899 by Isaac Rice, the Electric Boat Company helped commission the first submarines of the US Navy. With naval warfare becoming increasingly paramount today, we will sign contract deals with the company to ensure we have the most advanced submarines to harass the enemy from under the waves.
+Prefabricated Port Designs
+Securing a proper supply line onto the beachhead is vital for the success of our troops in any landing they take part in. Sometimes, we might need to apply a significant amount of force against the defenders of a beach that leaves the port in no fit condition for supplies to land. Our engineers must be capable of working quickly to either repair the existing infrastructure or bring in prefabricated parts to construct a new port for our men.
+Improved Supply Lines
+As our sea and land forces act more in coordination, we must maintain a rigorous style of organisation to ensure that our troops are well supplied. We will take steps to improve our supply lines to ensure that rations and ammunition get to our men in the field.
+Joint Yankee-Canadian Command
+Without any major experience in warfare since the Spanish-American war, our command staff is unfortunately behind the curve when engaging in protracted total warfare as seen in the Weltkrieg. With the exiles and Canadian help, we shall form a joint multi-national council to plan how to effectively wage war. While some may view this as us falling beneath the feet of the Canadians, we ought to look towards the benefits of continued cooperation between our two nations!
+Gato Class Submarines
+Many of our enemies rely on long shipping lines to import vital war materiel to fuel their economy. With modern designs and proper tactics, packs of submarines can be put to use slowly choking out the enemies abilities to manufacture weapons at home. If we can control their access to the world's resources, we shall have a decisive step up in the conflict!
+P39 Fighter Program
+Bell Aircraft has come to our Air Force with their new aircraft design: the P-39. The aircraft is unusual in how its engine is installed in the centre fuselage and is fitted with a tricycle under cage. The plane is also suited for medium to lower altitudes only. Despite these quirks, the trials have gone well, and our command is eager to adopt the P39 to aid in our growing airpower.
+Consolidated PBY Liberators
+As our Air Force lacks seaplanes capable of competing with our rivals, the Air Force has approached Consolidated to build a patrol flying boat with increased range and stronger wings than older models. Capable of performing anti-submarine, convoy escort, air-sea rescue, and cargo transport - the plane has performed well in tests. Some variants have been painted black for night operations giving them the nickname of \
+Fletcher-Class Destroyers
+Named after the admiral Frank Friday Fletcher, this new class of destroyers will be able to stand toe-to-toe with any foreign designs that the enemy may throw at us. With a large increase in firepower, hull strength, and anti-air capabilities, the Fletcher class shall form the lifeline for our fleet. Capable of a broad range of roles, we predict that she will become invaluable at war.
+Damage Control
+How long can you tread water? Prevent needing to find out by learning all about the latest safety measures being installed across ships in the New England's navy. Great efforts have been undertaken to create and teach our sailors the best way to respond to emergencies in battle and avoid losing a ship to a fire left unhandled.
+Modular Ship Design
+As our naval production grows, increasing calls are made to design our vessels in a more modular manner. This would help speed up production in the shipyards by allowing workers to specialise in a certain piece that they craft for multiple ships. The secondary benefit is that when new and more advanced weaponry becomes more feasible, we will have an easier time outfitting our ships with modern gear!
+Anti-Submarine Warfare
+As our sea and land forces act more in coordination, we must maintain a rigorous style of organisation to ensure that our troops are well supplied. We will take steps to improve our supply lines to ensure that rations and ammunition get to our men in the field.
+Scouting Cruisers
+Some theorists who have studied the British designs are pushing the claims that aircraft are the future in naval combat. Their enhanced manoeuvrability and speed affords them the ability to effectively scout ahead of a fleet to find enemy vessels that may be lying in ambush to surprise a convoy. In an effort to incorporate this design, the Brooklyn class of light cruisers have been built with this factor in mind incorporating multiple plane catapult launchers to help scan the seas!
+Dockyards of Democracy
+America has long held a proud naval tradition inherited from our former colonial overlords of the United Kingdom. With our borders largely secured by the middle of the 19th century, we turned to the great blue as our domain. At our peak, the wings of the Eagle could spread over ten thousand miles from tip to tip! While the outbreak of the second American civil war tore our great Navy to shambles, we must not forget our legacy and strive to rebuild what was lost.
+Remember Appomattox
+For the second time within the last century, America has undergone the crucible of civil war. Brother fought against brother and father against son. No corner of America has gone untouched in some form or another in the conflict. Just as Grant allowed the confederacy to return home to their farms, so too have we put out the call for enemy soldiers to return to their homes to begin to heal.
+Leniant Policy
+Confiscate the Rifles
+While some may baulk at this order and rush to the 2nd amendment, these same rifles cut down neighbours' sons and daughters in the deadly conflict. Many of these weapons could become the tools of partisans fighting back against us in the coming months or years.
+Firm Policy
+A Voice for the Unheard
+Even before the horrors of the second American civil war shook the nation, many felt that their voice went unheard by the government. Suspicions and distrust helped fuel the violence that unfolded in 1937. We shall sponsor an initiative to encourage Americans to mail in letters to government officials so that their concerns may be made known.
+[GetYear] Labour Standards Act
+While the radical rhetoric espoused by Reed and his followers helped tear our nation apart, there is no denying the fact that our nation is in desperate need of labour reform. As we help rebuild the American nation, we will meet with moderate union leaders closer to the right suppressed under the WCA. We will seek their cooperation as we pass legislation to support the American worker.
+Labour Standards Act
+Expand Education Opportunities
+In the new America, everyone will have access to a fair and equal education. No longer will higher education be a privilege for the elite and wealthy only. For those who cannot afford universities and colleges' prices, scholarships and tuition will be offered to students who decide to serve in our military - a repayment of their service and patriotism to the American nation.
+Expanded Education Opportunities
+Fight Against Jim Crow
+We may have fought and won for a unified America, but our nation's struggles are hardly over. Pressure from groups such as the Brotherhood of Sleeping Car Porters led by A. Philip Randolph has petitioned Congress to combat Jim Crow's racial prejudices actively. They have pushed for official legislation to abolish poll taxes and the grandfather clause that hinders African-Americans voting.
+Executive Order 9808
+Executive Order 9808 created by [NEE.GetLeader] will formally create a committee to examine civil rights conditions in the United States, report on their findings, and submit recommendations for how the government can improve conditions in the United States.
+American Reconstruction Act
+The second American civil war devastated the country. The full scale of the warfare far exceeded the expectations of many at home. All across the country, factories were bombed, sabotaged, or dismantled as the various warring powers ceded land. The \
+American Reconstruction Act
+Reverse Over-Militarisation
+When the war broke out, many factories across the country hurried to switch production to produce war materiel for the war effort. With the cessation of hostilities at home, the time has come to help factory owners transition back towards civilian products. Those factories are better suited to helping rebuild the country rather than producing rifles and artillery pieces.
+Connect the Nation
+With the damage inflicted by the war, much of the infrastructure across America is in shambles. Roads that were not in great shape, to begin with, due to the prolonged depression are now often riddled with more than just the occasional pothole. To assist in the rebuilding of war-torn America, we will direct additional funding to rebuild infrastructure.
+St. Louis War Memorial
+Countless droves of Americans perished in the fires of the second American civil war on all sides. Nowhere is this more evident than the city of St. Louis in the centre of the country. The outbreak of the war saw fierce fighting in the city streets as each faction tried to seize control of the region. Situated on the Mississippi's west bank, a monument shall be erected in remembrance of all the fallen.
+War Devastation Relief Agency
+The horror of the second American civil war has spared no American citizen. Nearly everyone has lost a brother or sister to the terrible conflict. Many families lost their breadwinners in the war and now wonder how they will provide for themselves. A new agency to organise relief for those devastated by the war is needed.
+Southern Extraction Scheme
+As we struggle to rebuild the American nation's industrial base, we will turn south to the 
+Electrify the Nation
+The nation's electrical grid lies utterly dismantled and scarred after the inferno of the civil war. Through the passage of acts such as Executive Order 7037 by the President [NEE.GetLeader], every home in the nation will soon have light and energy from San Francisco to New York City. Not only will we fix the power situation in the cities, but we will also expand the electrification of our country to the rural areas.
+Rebuild the Steel Belt
+As the syndicalists were forced back, workers fought desperately amidst the industrial steel belt for each and every factory. Many of the large plants now lie in ruins from the conflict. As one of the more resource-rich and well-connected regions of the country, we should seek to rebuild that which was lost. To do so would also likely endear us with the remnants of [WCA.GetNameDef].
+End Reconstruction
+The past two decades have not been kind to America. Nevertheless, America once more stands tall. With an ever-growing economy and improving societal conditions at home, America is ready once more to take part on the global stage.
+All owned states in §CMainland America§! are cores of [NEE.GetNameWithFlag]
+All rebel forces have been reconciled/pacified
+Fate of the Political Parties
+With our victory in the civil war, we must decide how to treat the opposing political parties. Many are quick to point fingers at either the Socialist Party of America or the American First Party as the main instigators of the conflict. Allowing them to run at a local level may be enough of a concession to hardliners. However, banning these parties may invoke protests against how a \
+Trials of the General Staff
+War hero Mark Clark of the general staff has requested a meeting with [NEE.GetLeader]. He wishes to formalise a hearing to deal with the enemy officers of the rebellious factions. He claims that many of the officers were on the wrong side due to geographical allegiance. Just as Lee could not fight against his home state of Virginia, neither too could many of these officers. Now that America is whole once more, some can be brought back into the army and navy.
+Maintain Martial Law
+Despite the conclusion of the war, there are still lingering and dissenting elements among the population. In rural areas of the South, loyalists to the Longist cause remain constantly harassing our forces, while in the Midwest, syndicalist rebels continue their acts of terror despite the failure of their revolution. In these turbulent times, we will have to maintain martial law to ensure that our citizens are safe.
+Repeal the Posse Comitatus Act
+As the nation recovers from the scars of the conflict that tore our country apart, domestic dissidents and terrorists continue to challenge our government. With local law enforcement increasingly unable to deal with the unrest, we will have to invoke the Insurrection Act and repeal the Posse Comitatus Act to suppress the civil disorder that plagues our nation.
+Crack Down on Syndicalist Agitation
+While [WCA.GetNameDef] officially ceases to exist, the Red Menace still exists in the Steel Belt cities and the forests of Michigan. While these partisans are not a significant threat to our government's legitimacy, our citizens still feel unsafe as these rebel groups launch raids and bombings. We will crack down on them to end these so-called revolutionaries from terrorising our people and country.
+Fight the Klan
+Despite the defeat of [APG.GetNameDef], many rebel partisan groups still exist in the southern states - refusing to accept our government's authority. Dissident groups like the Ku Klux Klan have been preying on African-Americans and using terror tactics to spread their message of racial hatred. This cannot exist in our democratic society, and if we are indeed to represent and protect the American people, we will crush them.
+America Back on the Global Stage
+[NEE.GetNameDefCap] has emerged victorious from the trials of the past decade. As economic troubles tore the country apart into a divisive civil war, the people of [NEE.GetNameDef] have endured and risen again as a phoenix out of the ashes! Once more, [NEE.GetNameDef] is free to tidy up the backyard.
+Sword and Shield Doctrine
+The Royal Navy kept the British Isles and Ireland safe from invasion from hostile land powers. The mighty Napoleonic armies were left without an avenue of attack against the British. So too shall we make an effort to create our own modern wall of steel that acts as both our sword and shield to ensure that no enemy power reaches our shores.
+Secure The Borders
+Our nation only shares a direct connection with two nations. These are the weakest points in defence of [NEE.GetNameDef] from hostile invaders. Agreements must be reached with our neighbours in [CAN.GetNameDef] and [MEX.GetNameDef] to ensure that America is secure!
+Reclaim the Panama Canal
+The Panama Canal is a crucial key to organising our navy and power projection. Without control of the isthmus, ships are forced to make the long and dangerous journey through the Magellen Strait or risk the Northern Arctic Passage. It is also one of the finest pinnacles of American engineering!
+Revive the Monroe Doctrine
+The civil war saw the destruction of the Monroe Doctrine. Many mice came scurrying out to play while the watchful eyes of America were turned inwards. Now that we have recovered, we can now seek to enforce the doctrine once more.
+This focus will unlock £GFX_decision_icon_small §Ydecisions§! to request that nations in the §CWestern Hemisphere§! leave their £GFX_pol_idea  §CEuropean§! led faction
+Organisation of American States
+The Organisation of American States shall be a collection of neutral countries across the Western Hemisphere. One where [NEE.GetNameDef] is both the protector and a guide to the growth of each member.
+Inter-American Reciprocal Defense
+[NEE.GetNameDefCap] has been blessed as a beacon of learning and innovation. Breakthroughs like the lightbulb and the assembly line to powerful inventions like the aeroplane that have military use, have drawn scientists and inventors to our shores to expand the world's knowledge. Now we must offer our knowledge to those within our sphere for the common good of the peoples of the Western Hemisphere.
+This focus will unlock £GFX_decision_icon_small §Ydecisions§! to invite nations in our sphere into the £GFX_research_icon  §CInter-American Defense College§!
+American Officer Training
+While the second American civil war was devastating, the lessons learned by the general staff have greatly expanded the abilities of our officer corps. We can begin to offer programs to nations within our sphere to train their officers in the lessons learned from the second American civil war to better defend their countries.
+This focus will unlock £GFX_decision_icon_small §Ydecisions§! to offer nations in our sphere access to £GFX_manpower_texticon  §CAmerican Officer Training§!
+Dollar Diplomacy
+As the economy continues to recover from the devastation of the Great Depression and the second American civil war, our industrialists have started to collect the resources needed to resume making overseas ventures. With the power of the dollar, perhaps we can crack the tight grips of dictators enslaving the peoples of the Western Hemisphere.
+This focus will unlock £GFX_decision_icon_small §Ydecisions§! to influence £GFX_crypto_defense  §aAuthoritarian§! nations in the §CWestern Hemisphere§!
+American Recovery and Aid Program
+The American Recovery and Aid Program enacted by congress, has become popular due to [NEE.GetLeader] making frequent radio broadcasts to the nation to encourage citizens to write in to their representatives urging them to enact this piece of legislation. The American Recovery and Aid Program allows the government to invest large sums of money and resources to develop nations in the Western Hemisphere.
+This focus will unlock £GFX_decision_icon_small §Ydecisions§! to invest in the growth of the £GFX_prod_eff_cap  §GEconomy§! of nations in our sphere
+The American Hemisphere
+The final conclusion to be drawn from the Monroe Doctrine is that President Monroe was claiming the mantle of responsibility for the well-being of the entire Western Hemisphere. It falls to us in the current time to ensure that she is free of parasites who devour their people. Tyrants and Socialists can not be allowed to oppress the people of the Americas!
+This focus will unlock £GFX_decision_icon_small §Ydecisions§! to deliver an ultimatum demanding a regime change to £GFX_production_texticon §RSocialist§! nations in the §CWestern Hemisphere§!
+The Old Order
+After nearly two decades in exile, the Entente has finally returned home. The menace of syndicalism has been crushed, and once again, the old French and British governments have returned to their rightful homelands. The lights of London and Paris will glow once more, and the darkness of the past will fade away. A new world order will begin, one that sees the return of the old world.
+American Reconstruction Crews
+Much of Europe lies ravaged by the great wars - an unfortunate consequence of the liberation. With the strength of the rebuilt American industry and our own expertise in rebuilding, we will send reconstruction crews to our European allies to aid in rebuilding their nations. The grand European capitals and cities will be rebuilt in no time, thanks to the power of American ingenuity and skill!
+Invest in [RAJ.GetNameDef]
+Utterly devastated by the three-way civil war on the Indian subcontinent, the economy of the Dominion of India lies in ruins. To strengthen our Entente ties and reap the benefits of having access to foreign markets - we will encourage American investors and businesses to bring American goods and investment to India. To our new partners in the Raj!
+British Reconstruction Loans
+The British nation has suffered heavily due to their civil war - the Syndicalists fought fanatically in the final days of the war. Each day we receive grim reports of rampant disorder, homelessness, and poverty that have struck the Home Isles since the return of the Exiles. To aid our brave English allies, we will provide loans to assist their burdensome but necessary reconstruction. In time, the Home Isles will be rebuilt greater than ever!
+The First Ally
+In 1778, the French nation aided our fledgling revolution against the British, our country's ties with France will never be forgotten, and their sacrifices were never forgotten. Now with the French nation reeling from their own terrible civil war and years of syndicalist rule, we will have to return the favour. We will organise a large sum of money and equipment to be shipped over to the Atlantic to help aid our first ally in their desperate time of need.
+Heal the Italian Scars
+Many Italian-Americans who reside in New England sympathise with the plight of their family and friends in their mother country of Italy - poorly recovering from their second civil war in recent history. To aid their reconstruction, we will send well-trained construction repair crews as well as shipments of food and equipment to assist in the rebuilding of their shattered cities and towns.
+Bread and Roses
+While we commend the Entente for their undying patriotism and determination in reclaiming their countries from the threat of syndicalism, it would appear that not all of their citizens see them as such. To aid in their reconstruction and help the French and British re-earn this trust, we will offer supplies and food shipments to their respective nations to heal the scars of war.
+Form International Trade Organisation
+To establish a more accessible and peaceful trade network with the democratic world, we will push for an international trade bloc to unite all the free nations. Led by the strength of the vibrant and restored American industry and economy, our trade organisation will unite every continent together and ensure that all will partake in free trade. Only together can we make the world an orderly, free, and peaceful one.
+Bring in the Commonwealth
+With our trade bloc firmly established, we will have to seek members eager to join us in global free trade. Let us look to the nations of the Commonwealth as potential new members in our organisation. The International Trade Organisation will unite the globe!
+This will unlock £GFX_decision_icon_small §Ydecisions§! to invite §CCommonwealth Nations§! to join the £GFX_capital  §GInternational Trade Organisation§!!
+Allies Not Forgotten
+We will never forget the material and economic aid bestowed upon us in our darkest days from the Entente Alliance. Now that our strength is entirely rebuilt, we will repay this debt to our allies by inviting them formally into the International Trade Organisation.
+This will unlock £GFX_decision_icon_small §Ydecisions§! to invite §CEntente Members§! to join the £GFX_capital  §GInternational Trade Organisation§!!
+Reach out to the Peripheries
+The International Trade Organisation aims to unite all the free and democratic nations of the world, even those that are not involved in factions. To the countries that have chosen a path of neutrality, we will invite them formally into our trade bloc. Together we will prosper!
+This will unlock £GFX_decision_icon_small §Ydecisions§! to invite §CNeutral Nations§! to join the £GFX_capital  §GInternational Trade Organisation§!!
+Take Leadership of the Entente
+The [NEE.GetName] has achieved a remarkable recovery from the destruction of the Second American Civil War and has proven itself to be a more than capable military and economic power. With our renewed military strength and blessing from the Canadian and British governments, we will take up leadership of the Entente to safeguard democracy from tyranny and oppression. This will be the start of a new century, not Europe but the beginning of the American era.
+Turn to the Pacific
+With our hold of the continental United States secured, it is time to restore America's pre-war role in ensuring that control of the Pacific does not fall into the hands of belligerent nations. Thanks to the help of our restored navy, we will guard the mighty seas and let Asia know that we are back and stronger than before.
+The Gate Between the Oceans
+In 1914, our great construction project was finally completed, connecting the great Atlantic and Pacific Oceans and ensuring American dominance of the waves. Due to the fallout of the Civil War, we could not retain control of this essential passage. To strengthen our security and rebuild our maritime trade, we will seek to return the Panama Canal to American hands.
+Form The San Francisco Accord
+To encourage greater cooperation between the nations of the Pacific under the leadership of [NEE.GetNameDef], we will form a cooperative research pact based in San Francisco. We will invite the nations of Southeast Asia to join in our cooperative so that together we will grow stronger through the sharing of research and assure the continuation of democratic ideas throughout the Pacific.
+This will unlock £GFX_decision_icon_small §Ydecisions§! to invite §CAsian Nations§! to join the £GFX_research_icon  §GSan Francisco Accords§! economic sphere!
+American Industrial Aid
+The might of America's industry should be shared with the rest of the world. As much of Asia still lags behind in terms of industrialisation compared to our country, we will send over advisors and financial investments to aid in the continued growth and development of the Asian nations. Not only will this help their production but it will also encourage their trust in democracy.
+This will unlock £GFX_decision_icon_small §Ydecisions§! to invest in §CAccord Nations§!!
+Joint Relief Commission
+Much of Asia lies ravaged by years of colonialism, warlords, famine, and outright civil war. The American people cannot stand by idly and watch these people agonise. The American Red Cross will help organise the Joint Relief Commission to ensure that American medical and humanitarian aid helps the suffering people of the Pacific nations.
+This will unlock £GFX_decision_icon_small §Ydecisions§! to send £GFX_population_texticon  §GHumanitarian Relief§! to §CAsian Nations§!
+Protect East Asian Interests
+The nations and peoples of Asia will fall victim to rampant and unrestrained imperialism without the support of [NEE.GetNameDef] as the guardian of the Pacific. To ensure that Asia remains democratic and free, we will offer our complete support in protecting these nations from the ever greedy hands of imperialist and militant nations.
+This will unlock £GFX_decision_icon_small §Ydecisions§! to send £GFX_counter_intelligence  §GGuarantees§! to §CDemocratic Asian Nations§!
+Expand American Influence
+In our country's absence from Asian affairs due to the outbreak of the civil war, the Empires of Japan and Germany took advantage of our weakness to pervade and exploit weaker Asian nations. Now that we are back, we will seek out nations struggling to resist their influence in the hopes of rebuilding our influence and power in the greater Pacific region.
+This will unlock £GFX_decision_icon_small §Ydecisions§! to £GFX_pol_idea  §GInfluence§! neutral nations in §CAsia§!
+Rebuild Asiatic Fleet Presence
+Before the Civil War, the Asiatic Fleet established in 1902 remained a darling of the United States Navy, helping to ensure the safety and security of the American interests in the Chinese seas and beyond. If we intend to protect freedom on the Asian seas, we will need to have a powerful naval force at our disposal to safeguard and protect democracy in Asia.
+Mobile Airfields
+The age of heavily armoured dreadnoughts and their incredible firepower are long behind. They cannot replicate the power projection that aircraft carriers can provide, giving naval bombers the ability to strike vessels from miles away. Advocates of this new form of naval aviation support like Richmond K. Turner from the Naval War College has pushed our Navy to feature an increased integration of carriers into our fleets and naval doctrine.
+Expand the Seabees
+As we begin to re-establish our presence in the Pacific, the logistics of having a presence across the world is truly daunting. In order to project American power farther away, we will tap into America's skilled labour force to organise construction on the frontlines. We will begin to advertise further enlistment and awareness of the programme to gain the help of volunteers across the country.
+Auxiliary Floating Drydocks
+Capable of submerging underwater, floating drydocks supported by ballast pontoon tanks can be placed beneath ships in need of repair below the waterline. As our naval armada grows larger, we will have to construct additional floating drydocks to ensure that our ships will have reduced travel time for repair work as well as opportunities for continuous repair.
+The Pacific Territories
+Our territories in the Pacific abandoned the Union during the great civil war - removing our access and facilities of the great sea. With the war's conclusion and our strength rebuilt, we will offer them re-entry into the Union to regain our sphere of influence in the islands of Paradise.
+The Pearl of the Orient
+Our long held belief that civilisation and democracy will come to the islands of the Philippines has finally bore fruit. With a firm democratic ally in the South China Sea, the Filipino-American ties will only grow to form a bulwark against reactionary imperialism and socialist agitation!
+Pacific Campaign Planning
+A war in the Pacific will involve an enemy holding a chain of fortified islands, and to take them all in one campaign would be an expensive and exhausting campaign. Many in the Navy and Military are advocating for a \
+Secure American Pacific Supremacy
+The militarists and imperialists showed their true colours when they seized our islands during the civil war and challenged our integrity in maintaining peace in the Pacific. As long as unrestrained authoritarianism and socialist agitation exists in the Pacific, they will threaten the independence of all the peoples of the Pacific region. As the leader of the free world, it is our duty to free them from the shackles of their despotic leaders
+International Trade Organisation
+The days of mercantilism and protectionism are long over. America's reinvigorated industrial and military strength means that we act as the world guardian for democracy and freedom. After being ratified by Congress, the International Trade Organisation (ITO) was formed to unite the world under free trade and cooperation. The ITO plans to negotiate the reduction or removal of harmful import tariffs or other trade barriers, administer and monitor the agreed-upon treaties for trade, settle disputes among member nations of the ITO, encourage the prosperity of developing countries, and conduct economic research. The ITO's founding principles reflect its commitment to free international trade, contribution to global development, and transparency. The opening of national markets to international trade, with justifiable exceptions or with adequate flexibilities, will encourage sustainable development, reduce poverty, raise the welfare of people worldwide, and foster peace and stability.
+Automatically invite Faction Members to the ITO
+Invite [FROM.GetNameDef] to the ITO
+Invite [FROM.GetNameDef] to the ITO
+Invite [FROM.GetNameDef] to the ITO
+Inviting another nation to the International Trade Organisation
+As long as we have more than §G30§! £pol_power  §YPolitical Power§!:\n--
+Automatic invites will cease unless we have more than §G30§! £pol_power  §YPolitical Power§! when this ends:\n--\n§gCurrently [?NEE.political_power|0]/30§!
+San Francisco Accords
+The Pacific Ocean is the world's greatest sea, home to many nations and peoples and limitless natural resources. As the world descended into flames, the great ocean will need a protector to guarantee the preservation of democracy and the independence of the free peoples of Asia. With our nation rebuilt and our industries returning to full capacity, we will seek to expand our influence and build new ties with the Asian-Pacific countries to ensure they remain committed to democracy and freedom. Under American leadership, the Pacific will be a bastion of liberty - free from the aggression of foreign powers who seek to destabilise the region.
+Invite [FROM.GetNameDef] to the Accords
+Invest in [FROM.GetNameDef]
+Send Humanitarian Aid to [FROM.GetNameDef]
+Guarantee the Independence of [FROM.GetNameDef]
+Seek to Influence [FROM.GetNameDef]
+Show Supremacy over [FROM.GetNameDef]
+Restake our claim on Guam
+This focus will unlock £GFX_decision_icon_small §Ydecisions§! to ensure American supremacy over §Rhostile§! nations in §cSoutheast Asia§!
+Inviting another country to the San Francisco Accords
+Investing in another country
+Sending medical relief to another country
+Guaranteeing the independence of another country
+Enticing another country to accept American influence
+Congress
+With the restoration of American democracy, the flames of liberty are lit once more in the halls of Congress. Nonetheless, to keep a stable Congress and to ensure our citizens' faith in the legislative branch, we must be sure that both political parties feel that they have an equal voice in national policy. Favouring one party's programs over the other will reduce the amount of £pol_power §YPolitical Power§! that we gain each day. Much of what is to be accomplished by the Congress will aim to rebuild and revitalise America's industry and society from the immense devastation and loss caused by the civil war. As political tensions still remain high and differences strong between delegates, one must pay heed to the words of the great former President Lincoln \
+Pursuing this policy will cause a breakdown in relations between the parties
+The §lDemocratic Party§! will provide §Y20%§! of the political power given if they were in power
+The §mRepublican Party§! will provide §Y20%§! of the political power given if they were in power
+[GetYear] Research Grant
+In order to maintain our edge, we must devote funding into our research and development!
+[GetYear] Mineral Requisition Program
+America is home to a vast amount of resources. With increased funding, the bounties of the earth can be ours!
+Unite the Party
+A house divided against itself cannot stand! To ensure a continutation of effective rule, the party must come together to act as one!
+§lDistribute Relief Funds§!
+Much of the country still lies in poverty despite ongoing reconstruction efforts. With the aid of the federal government, this act will ensure a round of stimulus packages designed to help the struggling American family in these difficult times.
+§lRegulate Industrial Business§!
+As our industry begins to revitalise itself, we will have to ensure that our factories adhere to the same standards and norms. This act will institute federal factory regulations to ensure the continued efficiency of the American industrial machine.
+§lRestrict Private Factory Police§!
+The ability for factory owners to control their own private police force is highly undemocratic and such a practice should be eradicated from our country. This act will seek to abolish private factory police - giving workers the ability to operate freely without being suppressed by private thugs.
+§lExpand State College Funding§!
+A large percentage of the nation's students and teachers went off to war in the American Civil War - greatly hurting our educational sectors. Now that we are recovering from the great calamity, we will begin to improve funding for American colleges - ensuring that American higher education will be recognised as one of the best in the world.
+Factory Regulation
+§lExpand Public Transit§!
+With most of the nation's infrastructure torn to pieces in the civil war, public transportation is essentially a shell of its pre-war self. This act will encourage the improvement and development of public transportation across the nation - giving Americans the rides they need whether it be for work or pleasure.
+§lContinue the WPA§!
+Continued WPA Projects
+During the Great Depression, the Works Progress Administration played a role in its ambitious employment and infrastructure programme that provided Americans with jobs. Now that veterans are returning back home and the nation begins to recover as a whole, we will reinstate WPA programs to provide American citizens with jobs while also developing our own infrastructure!
+§lFair Employment Practices§!
+All American citizens should have an equal opportunity to seek employment. In a competition driven economy such as the United States, some businesses have used unfair employment practices to discriminate against potential applicants. Under this new law, we will ensure that every American has an equal chance at seeking employment regardless of creed or colour.
+§lSupport Labour Unions§!
+The right to organise in a labour union while discouraged by conservatives, is the right of every American. This act will protect and strengthen union members by giving them the right to organise and engage in protected activities to improve working conditions.
+Encouraged Union Membership
+§lImplement Tax Reform§!
+In order to pursue greater economic equality, the new Revenue Act will raise federal income tax on higher income levels. While this may attract opposition from the more wealthy, proponents of this act hope to increase the nation's annual revenue.
+§lSmall Scale Work Projects§!
+To increase employment rates and the country's productivity, this act will create small-scale work projects on a local level to develop the more rural area of the country. Proponents of this act hope the development of the agrarian side of the country will earn us the common man's support and improve their quality of life.
+§lFight Domestic Socialism§!
+Syndicalist agents and agitators lie in the dark everywhere, and as long as they exist, they pose a threat to American society. This new act will criminalise those who declare loyalty or intention to join syndicalist-leaning unions and groups to help shut down the red menace.
+§lNationwide Infrastructure Projects§!
+As the nation heads towards a full post-war recovery, there are still plenty of Americans who are seeking work. Not only will the passage of this act ensure a rise in employment but we will also be able to develop our national infrastructure - thus connecting our nation further.
+§mImprove State Funding For Schools§!
+As a result of the civil war and the wars abroad, thousands of American children were left teacherless and schools found themselves simply inadequate enough to be effective due to a lack of resources. This new act will increase state funding for schooling, ensuring a new generation of American students eager to learn from effective instructors.
+State Funded Schooling
+As a result of the civil war and the wars abroad, thousands of American children were left teacherless and schools found themselves simply inadequate enough to be effective due to a lack of resources. This new act will increase state funding for schooling, ensuring a new generation of American students eager to learn from effective instructors.
+§mReinstate Old-Age Benefit Payments§!
+During the economic crisis of the Great Depression, the plight of the elderly became a major concern as there were few benefits that protected them. Citing the successes of the benefit programs during the Depression, this act will help reinstate payments for the elderly of the country.
+§mDevelop Rural Regions§!
+Large parts of the South and the Midwest still remain heavily rural even before the civil war. In order to improve productivity in the agricultural sector, this act will provide credit and resources necessary to develop our rural areas.
+§mInfrastructure Projects§!
+As the nation begins the long process of rebuilding and reconciliation, we can also use this time to develop America's infrastructure. Old dirt roads will soon be replaced by paved roads and we will extend and develop highways to improve America's infrastructure. American roads and highways will be the envy of all nations!
+§mCrack Down Against Strikes§!
+While the war against Syndicalism in America may have been won, there are still radicals who will use dangerous methods such as strikes to destabilise our economy and our nation. In order to ensure a speedy post-war recovery, we will make sure that strikes do not go out of hand by passing legislation that allows us to crack down on them.
+§mReorganise Bank Commissions§!
+Reorganised Bank Commissions
+As part of our continued bank reform, this act will expand the powers of the federal reserve to a board based in our nation's capital. Not only will this act reorganise the leadership of the federal reserve but it will also clarify and codify reserve's relationship with the federal government.
+§mRegulate Labour Strikes§!
+Regulated Strikes
+While we support the right of American workers to strike, we must also be careful that they do not become a dangerous threat to society and order. This act will place a federal limit on the number of strikers to prevent American workers from becoming radicalised.
+§mCompensation to Veterans§!
+We owe the civil war veterans an outstanding debt; many of them willingly enlisted due to their patriotic fever. As our veterans struggle to readjust to civilian life, we should make efforts to alleviate their suffering. Passage of this act will ensure housing and a government pension for those who served our country.
+§mAlcohol Protection Act§!
+As veterans return home from fighting abroad, many turn to alcohol as an escape, yet this can develop into a breakdown of the home if they start to value the bottle over their loved ones. This new act will help support programs like Alcoholics Anonymous to create conditions favourable to healing the brokeness of these people.
+§mImprove Roadways§!
+Much of the national roadways lies in ruins due to the effects of the civil war. While aim to rebuild our roads to their pre-war standards, this legislation will allow us to develop and modernise national and local infrastructures.
+§mSwords to Plowshares§!
+As the war effort on the home front winds down, let us take steps to ensure a smooth transition back into a civilian economy. This act will see to it that military factories begin converting their production to civilian goods.
+Unite the Legislature
+This will lower the cost of the £GFX_decision_icon_small §YParty Congress§! decisions by £GFX_pol_power §G5§! !
+Currently discussing a motion in £GFX_pol_power  Congress
+Delay New England's Intervention
+We cannot prevent the New England government from intervening in the civil war... but we can delay them. If we sponsor nation-wide strikes with a clear syndicalist connection, they'll be tied up at home and too paranoid to take action. We will only be able to do this so many times before they figure out where the funds are coming from, however.
+Already sent a cable to [ACC.GetNameDef]
+In §Y30 days§!, §G[NEE.GetNameWithFlag]§! will enter the §RSecond American Civil War§! on our side!
+The Liberty Bell Rings Again!
+After successful talks between the surviving democracies, the provisional government of New England and [ACC.GetNameDef] have formed an alliance to safeguard the future of American democracy! The likes of Reed, Long, and the tyrannical MacArthur must be dealt with before the American experiment is ground into dust!
+[ACC.GetNameDefCap] does not wish to ally with New England
+You will enter a coalition with the §YDemocratic Party§! but the political power given by them will only be §Rhalf§! of the power given if they were in power
+Fair Labour Standards Policy
+§CTrials concerning the politicians that supported rebels and traitors shall begin§!\n
+§CTrials concerning the leadership of the armed forces that supported rebels and traitors shall begin§!\n
+Completing this focus will help us heal the wounds of the civil war!
+We have decided to focus on the Pacific
+We have decided to focus on the Western Hemisphere
+We are helping rebuild the Entente
+Liberate America
+§RRejecting the American's terms will likely spark war between our two nations!§!
+Has declined to join the Organisation of American States
+Organisation of American States
+The pervasive nature of reactionaries and revolutionaries will only continue to flood in from Europe until the New World. If America is to be a beacon of democracy in a changing world, she must re-establish her protection and guidance of the Western Hemisphere nations - many of whom are susceptible to foreign destabilisation. To protect this hemisphere; [NEE.GetNameDef] will have to rebuild the Monroe Doctrine to guide the free world in the 20th century and beyond.
+Invite [FROM.GetNameDef] to the OAS
+Invite [FROM.GetNameDef] to the OAS
+Request [FROM.GetNameDef] leave their faction
+Inviting a country to the Organisation of American States
+Requesting a European faction leave the Western Hemisphere
+Inviting a country to a research agreement
+Sending officers to another nation
+Investing in another nation
+Sending aid to another nation
+Sending ultimatum to another nation
+§RRejecting the American's terms could spark war between our two nations!§!
+§RThis action could lead to war§!
+§RThis action will lead to war§!
+Reciprocal Defense Treaty with [FROM.GetNameDef]
+American Officer Training in [FROM.GetNameDef]
+American Officers
+Offer [CEN.GetNameDef] terms to join the OAS
+American Investments
+§gPerhaps with enough continued investments in [FROM.GetNameDef], their people may see the benefits of democracy!§!
+§gPerhaps with enough continued attempts at investments in [FROM.GetNameDef], their people may rise up in support of democracy over authoritarianism!§!
+Influence Investors to [FROM.GetNameDef]
+Encourage Investment in [FROM.GetNameDef]
+Deliver Ultimatum to [FROM.GetNameDef]
+Bread and Roses
+Member of the International Trade Organisation
+Adds Modifier: §YMember of the International Trade Organisation§!, which grants ($MODIFIER_POLITICAL_POWER_GAIN$: §G+0.05§!, $MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: §G+5.00%§!).\n\nFor each additional nation that joins the organisation this modifier will increase by ($MODIFIER_POLITICAL_POWER_GAIN$: §G+0.01§!, $MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: §G+1.00%§!)
+§LFor every nation joining the Organisation, this modifier will be increased.§!\n\n
+( [NEE.GetFlag] §YRandom Country In The [NEE.GetFactionName]§!): $EFFECT_COUNTRY_EVENT$
+Industrial Aid
+The aid of our allies shall not go to waste! Our friends in the Entente have provided us with valuable industrial assistance to help the economy of New England grow so that we may finally overcome years of economic stagnation.
+American Research Cooperation
+The American Research Cooperation is designed to improve science and develop research with allies of the United States of America!\n
+Tank Destroyer Manufacturer
+Main Battle Tank Manufacturer
+Ambassador to Canada
+Isadore Wofsy
+§YBorn:§! §LNovember 11th, 1893, in Daugavpils, Vitebsk Governorate, Russian Empire§!
+Jasper McLevy
+§YBorn:§! §LMarch 27th, 1878, in Bridgeport, Connecticut, United States of America§!
+Arnold Petersen
+§YBorn:§! §LApril 16th, 1885, in Odense, Kingdom of Denmark§!
+Thomas Charles O'Brien
+§YBorn:§! §LJune 19th, 1887, in Boston, Massachusetts, United States of America§!
+William Durward Connor
+§YBorn:§! §LFebruary 22nd, 1874, in Newark, Wisconsin, United States of America§!
+Ralph Owen Brewster
+§YBorn:§! §LFebruary 22nd, 1888, in Dexter, Maine, United States of America§!
+New England Congress
+§YFounded:§! §LMarch 4th, 1789, in New York City, New York, United States of America§!\n§YBackground:§! §LCongress is vested with the power to write laws, pass budgets and declare war. Provisions for a veto override, requiring two thirds of both Houses to agree, keeps Presidential veto power in check.§!
+Wilbur Lucius Cross
+§YBorn:§! §LApril 10th, 1862, in Mansfield, Connecticut, United States of America§!\n§YBackground:§! §LCross is renowned across the American literary scene for his talented work in analysing English literature. From academia, Cross competed for the position of governorship for the state of Connecticut of which he won successfully. With the outbreak of the civil war, Cross finds himself in a precarious position following the Canadian occupation of New England. One of the many Americans who petitioned the Canadian government to intervene, Cross's openness to embrace the Entente's arrival into America has led some to suspect that he is no more than a mere puppet of the former British Empire. While he is on paper the leader of a provisional government led by Ottawa, he is also the temporary interim leader of New England until a suitable President is chosen.§!
+David I. Walsh
+§YBorn:§! §LNovember 11th, 1872, in Leominster, Massachusetts, United States of America§!\n§YBackground:§! §LDavid Ignatius Walsh attended local public schools in his youth before attending Boston University Law school, after which he was admitted to the bar. Rising to politics in a longtime Republican district as a Democrat, Walsh proposed increased government responsibility for charity work and the mentally ill and pushed for censorship of the racist film 
+Charles F. Hurley
+§YBorn:§! §LNovember 24th, 1893, in Cambridge, Massachusetts, United States of America§!\n§YBackground:§! §LCharles Francis Hurley's early life was marked with tragedy as he lost both his parents at a young age. He was then raised by the family housekeeper, a former US District Attorney, before attending Boston College and becoming a salesman in athletic goods. Hurley then embarked on a career in local politics before ascending to the position of Massachusetts State Treasurer for three consecutive terms as a Democrat. The success of his political run convinced him of greater political aspirations, and he ran successfully for governor in the 1936 election. As the nation descended into chaos, the Irish-American governor sought to resolve tensions between Yankee Protestants and Irish-American Catholics. In the wake of the destructive 1938 New England Hurricane, Hurley oversaw the relief and rebuilding efforts for the city of Boston.\n\nNow the newly elected 33rd President of the United States finds himself in a much greater position, the defender of American democracy in the wake of radicals and reactionaries. Serving alongside Hurley is fellow Democrat Peter Gerry, a wealthy senator from the state of Rhode Island. Gerry was tutored and mentored by none other than Canadian politician William Lyon Mackenzie King in his youth.§!
+Maurice J. Tobin
+§YBorn:§! §LMay 22nd, 1901, in Boston, Massachusetts, United States of America§!\n§YBackground:§! §LMaurice Joseph Tobin's Catholic and Irish heritage has led him to become deeply popular among Boston's Irish population. He briefly worked at Conway Leather and New England Telephone after graduating from Boston University until he entered politics as a protege of the esteemed Democrat James Curley. At just the young age of 25, Tobin was elected to the Massachusetts House of Representatives, which he served from 1925-1929. A fiscally conservative man, Tobin then became mayor of Boston serving the city without authorising large public scale projects. His career as mayor was rocked by the Coconut Grove fire, but the scandal did not stop the ambitious Tobin from running for President. An energetic and vigorous member of the Democratic Party, Tobin became elected as the 34th President, securing for the Democrats four more years in the White House. The nation waits to see what the new President will do, especially those involved in labour as Tobin has been a constant supporter of labour unions and socially liberal policies.\n\nServing alongside Tobin is James Farley, an Irish-Catholic New Yorker and member of the Knights of Malta. A fierce fighter for civil rights, especially for African-Americans, Farley has announced he will supervise the rebuilding of the nation's postal service and significantly improve its airmail capabilities. The two men have vowed to reunite and rebuild America once and for all under the leadership of the Democratic Party.§!
+W. Averell Harriman
+§YBorn:§! §LNovember 15th, 1891, in New York City, New York, United States of America§!\n§YBackground:§! §LAverell Harriman, born as \
+Chester Bowles
+§YBorn:§! §LApril 5th, 1901, in Springfield, Massachusetts, United States of America§!\n§YBackground:§! §LChester Bliss Bowles came from a Republican family who hated and feared big government. However, Bowles' political views were shaped by his aunt Ruth Standish Baldwin, a socialist and friend of Norman Thomas. After graduating from Yale University, Bowles became an advertising executive, although he was forced to flee from New York City due to the arrival of the civil war. Initially opposed to Canada's involvement in American politics, Bowles joined the America First Committee, although he voiced his support for New England after the provisional government entered the fray. After the civil war, Bowles led the Office of Economic Stabilisation, using his years in economics to help rebuild the nation's war-torn economy. In 1948, he became governor of Connecticut, defeating James C. Shannon signed the end of segregated national guard units and acts to improve mental health and housing.\n\nNow the 36th President of the United States, after securing the election of 1952, Bowles plans to lead a new America, one willing to help develop the world's weaker nations. Realising America's restored industrial and military might be better used to serve the world, Bowles will push for greater American world involvement to keep the peace. Paul Dever, the governor of Massachusetts and a former Lt. Commander in the Civil War, will be serving alongside Bowles. The youngest ever Attorney General of Massachusetts, Dever's governorship saw mental health reforms and efforts to resist domestic syndicalism.§!
+Joseph William Martin Jr.
+§YBorn:§! §LNovember 3rd, 1884, in North Attleborough, Massachusetts, United States of America§!\n§YBackground:§! §LJoseph Martin Jr came from an Irish New England family and spent his youth playing ball and working as a newspaper editor. A so-called 
+Lewis O. Barrows
+§YBorn:§! §LJune 7th, 1893, in Newport, Maine, United States of America§!\n§YBackground:§! §LLewis Orin Barrows studied in local schools around Newport before attending the University of Maine with a degree in pharmacy. His political career began to take off after holding local positions in Newport such as serving as the treasurer and as an eventual state committeeman under the Republican Party. As the nation descended into chaos in 1936, Maine remained unscathed from much of the violence and Barrows made sure that Maine would remain free from radicalism under his leadership as Maine Secretary of State.\n\nWith the arrival of the second civil war among the states of the former United States of America, Barrows along with prominent New England politicians and governors were among those who appealed to Canada for protection. Representing what is left of the Republican Party, Barrows has been nominated to serve as an interim president in the hopes of securing the eventual restoration of American democracy. Serving alongside President Barrows is Vice President Henry Styles Bridges, the former governor of New Hampshire. A teacher and businessman, Styles Bridges was the youngest state governor of the time and now is eager to join Barrows' administration.§!
+John G. Winant
+§YBorn:§! §LFebruary 23rd, 1889, in New York City, New York, United States of America§!\n§YBackground:§! §LBorn on the East Side, John Gilbert Winant came from a prosperous family and attended Princeton University, although his marks were relatively poor. After a brief stint in the army, Winant entered state politics by elected to the New Hampshire Senate. Following a successful career in the Senate, Winant ascended to Governor of New Hampshire under the Republican Party from 1925-1927 and then from 1931-1935. He achieved state-wide fame for his handling of the decades-long economic depression that had beset America. Active in the Square Deal policies that helped end the depression in New England, Winant has easily been chosen among his party to lead New England onwards in its most challenging days. Following his governorship, Winant ascended to the powerful position of being the American ambassador to Canada where he played a hand in the many interactions between the Provisional Government and the Canadian nation. The 33rd President of the United States faces a broken nation but is eager to reunite and take its place once more as the hegemon of the New World.\n\nServing alongside Winant is Frederick Hale, a Maine lawyer and Senator from Harvard University. A long-time Republican and chairman of the Committee of Canadian Relations - Hale has espoused fierce anti-Ku Klux Klan views in public and has not been afraid to denounce them.§!
+Raymond E. Baldwin
+§YBorn:§! §LAugust 31st, 1893, in Rye, New York, United States of America§!\n§YBackground:§! §LRaymond Earl Baldwin's home state became Connecticut after moving there at a young age and spending his college years at Yale. Baldwin participated in the Stratford Town Court as a prosecutor, eventually advancing to judge of the town court in 1931. As the country fell apart, the governor of Connecticut, Baldwin, was among those who petitioned the Canadian government to intervene due to the civil war. To ensure the safety of the people of New England, Baldwin supervised a complex array of civil defences and statewide services on the homefront which grew his popularity within the Republican Party. He certainly has his work cut out for him as the nation reels from the horror of the great war - only time will tell whether or not Baldwin's hand will lead to prosperity and peace in the future.\n\nServing alongside Baldwin, New Yorker Irving Ives, a man whose family dates back to the first settlers who settled in New England. Re-elected many times in the New York State Assembly, Ives publicly expressed his desire to end workplace discrimination based on race, creed, and colour. Together, both men have vowed to reunite and rebuild America once and for all under the leadership of the Republican Party.§!
+George Aiken
+§YBorn:§! §LAugust 20th, 1892, in Dummerston, Vermont, United States of America§!\n§YBackground:§! §LGeorge David Aiken developed a strong interest in agriculture early, a passion that he would carry on in his career as governor of Vermont. A Republican, he ran unsuccessfully for the Vermont House of Representatives in 1922, but he ran successfully in 1930 and 1932. He ascended to the position of Lieutenant Governor in 1934 and became governor in 1936, just as the nation descended into chaos. As governor of Vermont during the civil war, Aiken helped organise work projects to alleviate the economic stress caused by years of the great depression. A proponent of spending projects for rural America, Aiken holds great affection for the natural beauty of his home state, although these views put him at odds with old-guard Republicans. With his background in agriculture, he portrayed himself as the defender of farmers and the common folk - with this stance and popularity, he accepted the Republican nomination for the campaign of 1948.\n\nNow the 35th President of the United States, Aiken faces a nation finally shaking off the dust after years of economic woe and instability. Serving alongside Aiken is Robert Bradford, the Republican Lt. Governor of Boston, and a man from a long-time traditional New England family. During his time as Lt. Governor, Bradford emphasised fiscal conservatism but social liberal values as seen in his project such as housing and care for civil war veterans.§!
+Thomas E. Dewey
+§YBorn:§! §LMarch 24th, 1902, in Owosso, Michigan, United States of America§!\n§YBackground:§! §LThomas Edmund Dewey attended the University of Michigan, where he briefly contemplated a career in singing. After a throat ailment convinced him a job in such was risky, Dewey instead pursued law which brought him to New York City. First serving as a federal prosecutor, Dewey achieved headlines in the 1930s by prosecuting gangster Waxey Gordon. With an excellent memory, Dewey used his details of crimes and telephone taps to bring down criminal organisations. Unfortunately for Dewey, however, the great civil war forced him to flee from New York City and head north to New England, where he would serve as governor in 1942, 1946, and 1950. Regarded as an honest and effective governor, Dewey banned racial discrimination in employment and increased state aid for education and salaries for state employees. His Postwar 
+Leslie Groves Jr.
+§YBorn:§! §LAugust 17th, 1896, in Albany, New York, United States of America§!\n§YBackground:§! §LLeslie Richard Groves Jr. was born in a family with quite a history in the military, considering his father had served in the Spanish-American War, the Philippines and the Boxer Rebellion. During his late high-school years, Groves started to enrol in courses at the University of Washington, hoping to get an appointment to the United States Military Academy. He got his wish when President Woodrow Wilson himself allowed him to compete for his vacancy, but his grades weren't high enough to be accepted. Instead, Groves joined the Massachusetts Institute of Technology in the meantime while he prepared to retake West Point's entrance exam. In 1916, he took the entrance exam again, and was accepted, visiting the European battlefields on an educational tour in 1919 and graduating in 1920 as a second lieutenant in the Corps of Engineers, thanks to his experience in MIT. He was posted with the 4th Engineer corps stationed at Camp Lewis, and would later be moved to Fort Worden, where he'd meet his future wife, Grace Wilson. In late 1922, he was posted in Hawaii with the 3rd Engineer corps at the Schofield Barracks, where he earned a commendation for helping construct a trail from Kahuku to Pupukea. He would be assigned several times, becoming commander of Company D of the 1st Engineer Battalion, helping during the New England flood of 1927, being sent to Nicaragua in 1929 to conduct surveys for the construction of the Nicaragua Canal, and being assigned to look over Nicaragua's water supply after the 1931 earthquake. It was upon his return to a shattered United States that he gained his last promotions, rising to the rank of Field marshal in New England, mainly due to the sheer lack of capable staff in the region.§!\n\n§YNotes: A brilliant engineer, he has been following closely the development of Nuclear Fission technology keeping regular contact with Otto Hahn and Lise Meitner.§!
+Merritt A. Edson
+§YBorn:§! §LApril 25th, 1897, in Rutland, Vermont, United States of America§!\n§YBackground:§! §LMerritt Austin Edson joined the University of Vermont in 1915, and in June 1916 he joined the First Infantry Regiment of the Vermont National Guard, where he was sent to Eagle Pass, Texas to work in the Mexican Border. He'd return to Vermont in September, but some time after returning to his university he signed up for the Marine Corps Reserve. He was commissioned as a second lieutenant in the Marine Corps on October 1917, and would be promoted to first lieutenant in June 1920. He later signed up for the Naval Air Station Pensacola, and earned his gold wings as a naval aviator in 1922. He was later stationed in Guam, where he received training on semi-tropical environments and upon returning to the US in 1925, he'd take an advanced aviation tactics course at Kelly Field, Texas. He'd later be sent to Nicaragua to fight against the Sandinista forces, and would return to the United States by late 1929. He has since then become the Coach and captain of the Marine corps National Rifle and Pistol teams, managing to win both the 1935 and 1936 tournaments, despite several interruptions due to the growing social unrest. He was finally promoted to Major in February 1936, and assigned to Philadelphia. With the collapse of the Union into civil war, Merritt hardly managed to reach New England before armies closed down the border towards New England. His experience and fame have granted him an early promotion to the rank of Brigadier General.§!\n\n§YNotes: Apathetic to politics.§!
+Mark W. Clark
+§YBorn:§! §LMay 1st, 1896, in Sackets Harbour, New York, United States of America§!\n§YBackground:§! §LMark Wayne Clark was born into a family with a great military history. His grandfather was George Rogers Clark, a military general from the times of the American Revolution, and is the cousin of Army General George Marshall. He joined the United States Military Academy at West Point when he was just 17, in 1913, but unfortunately lost time in his career due to his constant illness. In his time in West Point, he met and befriended Dwight Eisenhower, and Clark graduated in April 1917 alongside Matthew Ridgway and J. Lawton Collins as a second lieutenant. Like his grandfather, he chose to serve in the Infantry corps where he was assigned to the 11th Infantry Regiment. He'd later serve in a variety of staff and training roles, gaining the rank of First Lieutenant in 1921, the rank of Captain in 1925 after completing the professional officer course at the US Army Infantry School, and reached rank of Major in 1933 after being assigned as the training instructor of the Indiana Army National Guard. He served as the deputy commander of the Civilian Conservation Corps district in Omaha, Nebraska while doing courses at the U.S. Army Command and General Staff School where he would meet old classmates like Matthew Ridgway once more, as well as meeting Walter Bedell Smith and Geoffrey Keyes, with whom he had a cordial relationship. As the internal situation deteriorated, Clark was on leave in New York, and when hostilities broke out, he moved to New England looking for safety. With the lack of capable staff, Clark has been hastily promoted to Brigadier General, where he'll now have to oversee the creation of a new army.§!\n\n§YNotes: While his loyalty is unquestioned, his friendship with now enemy Generals have raised concerns that General Clark will be unable to do his duty when the time comes to face them openly on the battlefield.§!
+George Kenney
+§YBorn:§! §LAugust 6th, 1889, in Yarmouth, Nova Scotia, Dominion of Canada§!\n§YBackground:§! §LGeorge Churchill Kenney entered the Massachusetts Institute of Technology in 1907 where he followed a course in civil engineering. He never completed his studies, as his father abandoned his family and he was forced to work in order to sustain his family. He later enlisted as a flying cadet for the Aviation section of the US Signal Corps. He was commissioned as a first lieutenant in the 5th of November of 1917 and wouldn't be promoted until 1921 after taking a course at the Air Service Engineering School of Dayton, Ohio. He became Air Service Inspector of the Curtiss Aeroplane and Motor Company. In 1926, Kenney became a student at the Air Corps Tactical School, at Langley Field, Virginia, where he became increasingly interested in the combined used of the air force and the army to coordinate deadly attacks. In September 1932, Kenney entered the Army War College in Washington, D.C. where he joined one of several committees studying Weltkrieg battles, where he became an expert on the Second Battle of the Masurian Lakes, and began working on what came to be known as the War Plan Orange. He was promoted to Lieutenant Colonel in March 1935, and was assigned to the Infantry School at Fort Benning, in Georgia. However, seeing the buildup to the civil war from the Longist South, Kenney was certain that hostilities were about to break out so he prepared an escape plane with a group of loyalists, and decided to escape northwards as soon as hostilities broke out. Despite all odds, the plane managed to reach New England unscathed, and Kenney has joined the New England General Staff to provide for their defence any way he can.§!
+Willard Gordon Wyman
+§YBorn:§! §LMarch 21st, 1898, in Augusta, Maine, United States of America§!\n§YBackground:§! §LWillard Gordon Wyman entered the United States Military Academy in 1917 and was commissioned as a second lieutenant into the Coastal Artillery Branch, and later transferred to the Cavalry Branch of the United States Army. He became an infantry and cavalry instructor in 1921, and would gain valuable experience working as an attaché on China between 1928 and 1932, reaching the rank of Captain upon his return. The lack of capable staff forced an early promotion to Brigadier General for Wyman, but he has shown willingness to learn despite being thrown in such a difficult position.§!
+Lemuel C. Shepherd Jr.
+§YBorn:§! §LFebruary 10th, 1896, in Norfolk, Virginia, United States of America§!\n§YBackground:§! §LLemuel Cornick 'Lem' Shepherd Jr. graduated from the Virginia Military Institute in 1917, and would enter the Marine Corps right after as a second lieutenant. He'd slowly climbed his way to Captain in 1922, where he was assigned to the Marine Company that assisted the Brazil's Centennial Exposition and would be later reassigned to the Marine Detachment on the USS New York. In 1927, he was shipped to Tianjin to serve in the 3rd Marine Brigade guarding the American Legation in the city. Lemuel would return to America in 1929 and graduate from the Field Officers' Course in 1932. He'd be sent to Haiti to serve with the Garde d'Haïti as a District and Department Commander, where he earned his promotion to Major. In 1934, Shepherd was detailed to the Marine Barracks, Washington, D. C., as Executive Officer and as Registrar of the Marine Corps Institute and would be promoted to Lieutenant Colonel in early 1936. After his promotion, he was assigned to the Naval War College at Newport, Rhode Island. With the country spiralling into Civil War and the Canadian seizure of New England, Shepherd presented his services to the New England Government, earning his promotion to Brigadier General and being assigned to the New England Marine Corps, where his experience shall be greatly valued by the small New England staff.§!
+Cornelius Edward Ryan
+§YBorn:§! §LMay 12th, 1896, in Boston, Massachusetts, United States of America§!\n§YBackground:§! §LFollowing high school, Cornelius E. Ryan attended the University of Connecticut where he was active in football and basketballs squads and reached the rank of first sergeant in the Reserve Officer Training Corps. From there, Ryan pursued a career in the United States military - entering the Company Officers' Course in September of 1922. With an avid interest in modern military technology, Ryan studied tanks at the Centre D' Etude des Chars de Combat in the Commune of France. When the civil war broke out, Ryan decided to remain in his home state of Massachusetts, hoping to aid the New England government's claim to legitimacy amidst the chaos. In his studies of European warfare, Ryan is heavily influenced by the concepts of vertical envelopment and believes that New England should invest in airborne training. With permission of the high command, Ryan began organising and searching for volunteers to join New England's first airborne forces.§!
+Ernest N. Harmon
+§YBorn:§! §LFebruary 26th, 1894, in Lowell, Massachusetts, United States of America§!\n§YBackground:§! §LTragically orphaned at the age of ten, Ernest Nason Harmon was raised by his relatives in Newbury, Vermont, and would spend much of his early life in the village of West Newbury. He attended Norwich University for a year before receiving an appointment to the United States Military Academy at West Point in 1913. Prominent in school activities such as horse riding, hockey, football, and boxing - Harmon's time at West Point also drew him close to fellow graduate Mark W. Clark. In 1921, he was assigned to West Point as an instructor in mechanical drawing, and his additional duties included coaching for the football team and West Point's first lacrosse team. He would serve in the 6th Cavalry Regiment in Georgia and four years as a Professor of Military Science and Commandant of Cadets at Norwich. In 1933, he graduated from the United States Army Command and General Staff College, and in 1934, he became a graduate of the United States Army War College. When the civil war broke out in the spring of 1937, Harmon decided to stay with his close friend Mark W. Clark, and joined the Provisional Government of New England. His leadership experience and exemplary educational background will be pivotal in training the relatively inexperienced armed forces of New England.§!
+Allan Rockwell McCann
+§YBorn:§! §LSeptember 20th, 1896, in North Adams, Massachusetts, United States of America§!\n§YBackground:§! §LAllan Rockwell McCann graduated from the United States Naval Academy in March 1917. He was assigned to USS Kansas on which he served until September 1919. Following instruction in submarines aboard USS Fulton at the Submarine Base at New London, he joined USS K-6 in January 1920, serving in command of that submarine from May to September of that year and subsequently commanded the submarines USS N-4 and USS L-3 until June 1922. He transferred to USS R-21 at Coco Solo serving in command of that submarine until she was decommissioned in June 1924. In July 1924, returning to the Submarine Base at New London, he served as an instructor in Diesel Engineering for one year, assigned to USS Chewink. He then was transferred to duty as Chief Engineer and Repair Officer of that Base. In 1925, he was assigned additional duty as technical advisor to the Peruvian Naval Commission at the Electric Boat Company and when detached in 1926, he commanded the submarine USS S-30 until 1929. He then served in the Design Division, later in the Maintenance Division, Bureau of Construction and Repair (now Bureau of Ships), Navy Department, Washington, D.C., for two years starting in July 1929. From August 1931 until June 1934, he commanded the submarine USS Bonita. In the start of 1937 he assumed duty as Commander, 2nd Submarine Division, Submarine Fleet and was serving in that command when New England's government was proclaimed. After joining New England he was promoted to rear admiral.§!
+Edward Ellsberg
+§YBorn:§! §LNovember 21st, 1891, in New Haven, Connecticut, United States of America§!\n§YBackground:§! §LEdward 'Commander Ellsberg' Ellsberg was one of the very few Jews who were accepted into the United States Naval Academy, from which he graduated with a Bachelor of Science degree in 1914 and later earned his Master of Science degree from the Massachusetts Institute of Technology in 1920. Ellsberg was commissioned in the navy in 1914 and served on active duty until 1926. He became an expert in undersea salvage and rescue. In 1926, he raised the navy submarine, S-51. For that success he was promoted to the rank of commander by an Act of Congress and awarded the Distinguished Service Medal by the Navy Department, since which time he has been popularly known as 'Commander Ellsberg'. Ellsberg described the raising of the S-51 in his 1929 book, 'On the Bottom'. After leaving active duty, Ellsberg worked for the Tide Water Oil Company and began writing books about his exploits and about historical events. In 1927, Ellsberg volunteered for active duty to rescue survivors trapped in the sunken submarine S-4. The rescue efforts failed and Ellsberg returned home in early January 1928 when he continued work on Tide Water Oil Company. Immediately after the declaration of New England, Ellsberg rejoined the navy and was promoted to the rank of rear admiral.§!
+Thomas C. Hart
+§YBorn:§! §LJune 12th, 1877, in Davison, Michigan, United States of America§!\n§YBackground:§! §LA 1897 graduate from the US Naval Academy in Annapolis, Thomas Charles Hart's distinguished and storied naval career started about a year later with the Spanish American war. An officer aboard the battleship USS Massachusetts during a blockade of Santiago de Cuba, Hart was commended for his courage commanding a steam cutter in Cabanas bay searching for landing sites. Despite extensive fire from shore batteries, Hart was successful in his mission and took no losses despite repeated hits. His proficient ship handling would get him placed in the USS Vixen, where he would make lifelong friends with the then Lt. Alexander Sharp Jr and Ensign Arthur MacArthur III (the late elder brother of Douglas MacArthur).\n\nAfter a stint about a sloop, Hart would teach ordnance and gunnery at Annapolis. His connections at the institute included marrying the daughter of the then Superintendent Rear Admiral Brownson. He would also qualify to command submarines, becoming a Chief of Staff to the Commander of the Atlantic Fleet's Submarine Force. Although the United States thankfully sat out the Weltkrieg, Hart was determined to study German uboats during his tenure. After serving as the Superintendent of the US Naval Academy from 1931-1934, Hart was posted to the General Board of the US Navy. The start of the civil war has seen Hart join the New England government along with other members of the Atlantic fleet in hopes of preserving democracy. With the civil war underway, Hart continues to lobby for the creation of a modern US submarine fleet, which he believes will best allow for New England to disrupt foreign shipments of aid.§!
+Harold R. Stark
+§YBorn:§! §LNovember 12th, 1880, in Wilkes-Barre, Pennsylvania, United States of America§!\n§YBackground:§! §LHarold Rainsford 'Betty' Stark enrolled in the United States Naval Academy in 1899 and graduated with the class of 1903. As a plebe there he received the nickname \
+Richmond K. Turner
+§YBorn:§! §LMay 27th, 1885, in Portland, Oregon, United States of America§!
+Earle E. Partridge
+§YBorn:§! §LJuly 7th, 1900, in Winchendon, Massachusetts, United States of America§!
+Harold Buckley Willis
+§YBorn:§! §LFebruary 9th, 1890, in Boston, Massachusetts United States of America§!
+George D. Murray
+§YBorn:§! §LJuly 6th, 1889, in Boston, Massachusetts, United States of America§!
+Harold Lee George
+§YBorn:§! §LJuly 19th, 1893, in Somerville, Massachusetts, United States of America§!
+Harold Huston George
+§YBorn:§! §LSeptember 14th, 1892, in Lockport, New York, United States of America§!
+Clarence Lionel Adcock
+§YBorn:§! §LOctober 23rd, 1895, in Waltham, Massachusetts, United States of America§!
+Charles Evans Hughes Sr.
+§YBorn:§! §LApril 11th, 1862, in Glens Falls, New York State, United States of America§!\n§YBackground:§! §LCharles Hughes Sr's father emigrated from Wales to the US in 1855, settling in New York, with his son attending Madison University in 1876, and completing his legal studies in 1884. Hughes became Governor of New York in 1906, with help from former President Theodore Roosevelt. He was appointed Associate Justice to the Supreme Court in 1916, after a successful run as a Progressive Governor, and served as Secretary of State in 1920, helping negotiate settlements with Japan to protect their possessions in the Philippines.§!
+Dean Acheson
+§YBorn:§! §LApril 11th, 1893, in Middletown, Connecticut, United States of America§!\n§YBackground:§! §LDean Acheson was born in Connecticut in 1893, and attended Yale University. He also was a student at Harvard, during which time he was a student of the famous jurist Felix Frankfurter. He later became a clerk for Supreme Justice Louis Brandeis, and supported the Democratic party during Al Smith's administration. Acheson is the author of several policy proposals to decouple the U.S. dollar from the Gold Standard, and to support the Entente more aggressively against German hegemony.§!
+Francis Biddle
+§YBorn:§! §LMay 9th, 1886, in Paris, Seine, French Republic§!\n§YBackground:§! §LFrancis Biddle was born in Paris, France and was naturalised as a US citizen later in life. He is related to several historical U.S. Governors, including president James Madison. Biddle's career in law was coupled with political tutelage from president Theodore Roosevelt, and he has attempted to push forward several policies to improve government relations with labour unions, hoping that it will sway Americans against open syndicalist revolt.§!
+Frances Perkins
+§YBorn:§! §LApril 10th, 1880, in Boston, Massachusetts, United States of America§!\n§YBackground:§! §LFrances Perkins was born in Boston, and studied chemistry at Mount Holyoke College, during which time she undertook a tour of a chemical factory, and noted the poor conditions of workers there. She then went on to study economics at several colleges, becoming more involved in workingmen conditions. Her service towards improving working conditions, did a lot to help keep most of New York state out of syndicalist control during the crisis of 1936. Perkins advocates for the government to keep its promises to workers, and implement a minimum wage and unemployment insurance programme.§!
+Henry Morgenthau Jr.
+§YBorn:§! §LMay 11th, 1891, in New York City, New York, United States of America§!\n§YBackground:§! §LHenry Morgenthau Jr. is the son of a prominent Manhattan Jewish family, and attended an Ivy League college, despite the quota placed upon the admittance of Jewish students. Studying agriculture, Morgenthau joined the Federal Farm Board, and attempted to formulate policies with economists on how best to reduce inflation.§!
+John Foster Dulles
+§YBorn:§! §LFebruary 25th, 1888, in Washington, D.C., United States of America§!\n§YBackground:§! §LJohn Dulles was born in Washington, D.C., and studied law at George Washington University. He was later employed by the Secretary of State in 1917, to investigate possible pro-German politicians in Nicaragua. Dulles was part of the League of Free Nations Association, along with Eleanor Roosevelt, with the groups' goal being the dissemination of information on world affairs. He has advocated for a more direct output of propaganda against European syndicalism.§!
+Roger Babson
+§YBorn:§! §LJuly 6th, 1875, in Gloucester, Massachusetts, United States of America§!\n§YBackground:§! §LRoger Babson was born in Glouchester, Massachusetts, and attended M.I.T. In 1904, he founded a statistics organisation, primarily to quantify economic activity and advocate a form of scientific management, but has also included studies in anti-gravitational technology. As well as this, Babson is involved in the conservative Prohibitionist Party.§!
+Sinclair Weeks
+§YBorn:§! §LJune 15th, 1893, in Newton, Massachusetts, United States of America§!\n§YBackground:§! §LSinclair Weeks served in the U.S. National Guard in the immediate aftermath of the Mexican revolution. As mayor of Newtown, Massachusetts, he has made great efforts to empower the Republican party in the Northeast.§!
+W.E.B. Du Bois
+§YBorn:§! §LFebruary 23rd, 1868, in Great Barrington, Massachusetts, United States of America§!\n§YBackground:§! §LW.E.B. Du Bois is an international ambassador of African-Americans and a major founder of the NAACP. Du Bois clashed with Booker T. Washington, another prominent African-American civil rights leader, over the direction of civil rights work. In order to push the policies of desegregation and criminalising lynching, Du Bois has an eclectic set of connections - from pan-Africanists, to the Japanese government, to the German Empire, and to the Commune of France.§!
+Allen Dulles
+§YBorn:§! §LApril 7th, 1893, in Watertown, New York, United States of America§!\n§YBackground:§! §LAllen Dulles is the brother of prominent legal theorist John Dulles. His early diplomatic career included attempting to alert the U.S. government to antisemitic propaganda spreading through the Russian and Ottoman Empires. Dulles served as director of the Council on Foreign Relations in the 1920s, and attempted to alert the US government to the encroaching dictatorships in Germany, Romania, Britain and Japan.§!
+George J. Mead
+§YBorn:§! §LDecember 27th, 1891, in Everett, Massachusetts, United States of America§!\n§YBackground:§! §LGeorge Mead was born in Massachusetts and attended M.I.T. He was employed intitially at the Crane-Simplex company designing cars, but was then promoted to designing aircraft in the 1920s, helping design aircraft that can travel faster without overheating. Boeing, Pratt & Whitney Aircraft all rely on Mead for designs.§!
+B. Learned Hand
+§YBorn:§! §LJanuary 27th, 1872, in Albany, New York, United States of America§!\n§YBackground:§! §LLearned Hand was born in New York and served as a federal judge for nearly 20 years prior to the outbreak of the war, including as a member of the 2nd Circuit Court of Appeals. His progressive rulings on free speech, contracts law, torts, and copyright law has earned him respect from the left, and his support for a Uniform Commercial Code has earned his support from the right. He was a consensus choice for the new Supreme Court in New England.§!
+Joseph Kennedy Sr.
+§YBorn:§! §LSeptember 6th, 1888, in Boston, Massachusetts, United States of America§!\n§YBackground:§! §LJoseph Kennedy Sr. is the son of a Bay State politician and grandson of an Irish immigrant. He became a bank president at age 25 and a millionaire at 30. He became a shipbuilder, a motion-picture tycoon, and a heavy contributor to the Democratic Party. He retired early in 1929, having acquired enough capital to establish a million-dollar trust fund. Then, as chairman of the Securities and Exchange Commission, Kennedy outlawed the very speculative practices that had made him rich. He is convinced that Britain is doomed to eventual German conquest and believes America's only hope lies in isolationism.§!
+Jay Pierrepont Moffat
+§YBorn:§! §LJanuary 7th, 1896, in Rye, New York, United States of America§!
+Ray Atherton
+§YBorn:§! §LMarch 28th, 1883, in Brookline, Massachusetts, United States of America§!
+Charles E. Bohlen
+§YBorn:§! §LAugust 30th, 1904, in Clayton, New York, United States of America§!
+Laurence Steinhardt
+§YBorn:§! §LOctober 6th, 1892, in New York City, New York, United States of America§!
+Charles Yost
+§YBorn:§! §LNovember 6th, 1907, in Watertown, New York, United States of America§!
+Arthur William Sidney Herrington
+Vannevar Bush
+§YBorn:§! §LMarch 11th, 1890, in Everett, Massachusetts, United States of America§!
+William Francis Gibbs

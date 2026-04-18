@@ -1,0 +1,692 @@
+Anqing Clique Focus Tree
+Anqing
+Anqing
+Anqing
+Anqing Clique
+the Anqing Clique
+Anqing Clique
+the Anqing Clique
+Anqing Clique
+the Anqing Clique
+Anqing Clique
+the Anqing Clique
+Anqing Clique
+the Anqing Clique
+Anqing Clique
+the Anqing Clique
+Anqing Clique
+the Anqing Clique
+Anqing Clique
+the Anqing Clique
+Anqing Clique
+the Anqing Clique
+Anqing Clique
+the Anqing Clique
+Anhui
+Anhui
+Anhui
+Anhui Province
+the Anhui Province
+Anhui Province
+the Anhui Province
+Anhui Province
+the Anhui Province
+Anhui Province
+the Anhui Province
+Anhui Province
+the Anhui Province
+Anhui Province
+the Anhui Province
+Anhui Province
+the Anhui Province
+Anhui
+the Anhui Province
+Anhui Province
+the Anhui Province
+Anhui Province
+the Anhui Province
+Nanjing Government
+the Nanjing Government
+Nanjing Government
+the Nanjing Government
+Nanjing Government
+the Nanjing Government
+Nanjing Government
+the Nanjing Government
+Nanjing Government
+the Nanjing Government
+Nanjing Government
+the Nanjing Government
+Nanjing Government
+the Nanjing Government
+Nanjing Government
+the Nanjing Government
+Nanjing Government
+the Nanjing Government
+Nanjing Government
+the Nanjing Government
+Kuomintang Remnants
+League of Ten\n§LDai Chunfeng has eyes everywhere, and the League Provinces are no different. The campaigns being waged to the south led to a previously active resistance in the mid-sized towns dotting the countryside. However, as a result of aggressive suppression campaigns (many carried out under Chen's direction), the League of Ten are relatively powerless to act here. Not that it stops them from trying.§!\n
+LCS
+Syndicalist Student Groups\n§LStudent protests were a regular occurrence under Sun Chuanfang's regime, and while the new administration takes a much more tolerant approach — even sympathising with some of their goals — they aren't totally pacified. Still, most serious Kuomintang supporters went south to join the struggle, so the overall political impact they have amounts to essentially nothing.§!\n
+Kuomintang Remnants
+Socialist Insurgents\n§LIn the countryside, peasants hardly feel represented by Chen's new government, despite whatever promises he may make. Rebels — some affiliated with the KMT, some merely wishing to empower their own local communities — seek to raise militias against the government. Their ideologies are at best loosely defined; sometimes they consist of some form of 'people's revival' or 'revolution by all classes', Quanmin Geming, but much more often they simply advocate for land reform. They pose no serious threat due to years of continuous suppression, but they haven't been discouraged yet.§!\n
+Anti-Concessions League
+Anti-Concessions Movement\n§LChen's greatest ally — and, perhaps, greatest weakness — is the Anti-Concessions Movement. Almost an accidental ally, too; a nebulous political body, the Anti-Concessions Movement is bound by only one thing — hatred of foreign imperialism. Chen's patriotic rhetoric swayed them to his side and launched him to prominence, but whether he can satisfy their expectations remains to be seen. Many members are tending increasingly towards radical ideas of popular democracy and a socialist-inspired state, hardly what Chen himself had in mind, and if their influence grows unchecked they might well make a nasty enemy unless Chen can appease them. Their leaders continue to agitate against the vestiges of German influence, and nationalist sentiment is the phrase on everybody's lips.§!\n
+GFX_ANQ_intro
+The Province of Anhui
+§MStand with Beijing§!\n£white_dot Have our request for help be accepted by the Qing Government.\n£white_dot To guarantee this, set the Qing to Zhili Monarchy - Pro-Anqing in the game rules.\n\n§MStand with Zhang Zuolin§!\n£white_dot Have our request for help be rejected by the Qing Government. This will give us  support from the Fengtian Clique and Japan.\n£white_dot To guarantee this, do not set the Qing to Zhili Monarchy - Pro-Anqing in the game rules.
+Vermillion Society
+Vermillion Society (Zhuhong Hui)\n§LDuring the 1932 Shanghai Uprising, the Five Provinces exploded with revolutionary sentiment — generally dying with a whimper after the brutal suppression carried out by Sun Chuanfang's troops, aided by the Germans. Chen, however, took no part in that suppression, and consequently the Vermillion Society lives on as a moderately influential organisation where others have fallen away.\nTaking their name from the vermillion-coloured headlines of the posters they spread around Shanghai, declaring hostility to the Qing and to warlordism, they've since established roots around the country and in the corridors of power. Their name is something of a pun, too, playing on one translation of vermillion (Zhongguohong): literally, 'Chinese red', reflecting their sympathy for leftist groups.\nThe individuals making up the Society are a varied lot; intellectuals, businessmen, and the obscenely wealthy dominate, however. Most members live and work in the concessions, with their origins lying in Robert Hotung's Chinese Club, founded in Hong Kong. Nonetheless, their most important characteristic is — paradoxically — anti-concessionism. They count among their ranks Chinese nationalists and republicans, and now they find themselves reaching out a generous hand to Chen — provided he's willing to make some concessions of his own, that is.§!\n
+Beijing Liaison Council
+Beijing Liaison Council in Nanjing\n§LOur benefactors, the Zhili, have naturally taken a keen interest in the programmes being undertaken by our impromptu government. Relations between the Southern and Northern Zhili were always fraught, and the intricate web of connections that served as both groups' foundation served only to aggravate the issue; a personal slight against a Nanjing official could have grave economic repercussions on both sides.\nWhile we may resent somewhat their presence here, at least they have little strength independently; any power they do have is only as a tool of Beijing, and if we maintain good relations with the Qing themselves these representatives can't give our government any trouble. The extent of their activities is mostly disseminating pro-Qing propaganda and pushing for their own candidates in some minor posts. It would be a different story, however, if we were to somehow offend the dragon to the north...§!\n
+Xinhai Society
+Xinhai Society for National Reclamation (Xinhai Fuguo She)\n§LAs Japan's — and Fengtian's — voice in Nanjing, the Xinhai Society is an aggressive lobbyist on behalf of these two powerful groups. Within it, however, one finds a not exactly harmonious arrangement of egos; Zhang-aligned warlords gone into retirement, Japanese businessmen, and a small core of optimistic intellectuals who seem to have truly bought into the Pan-Asian dream all make up this society. Standing in stark contrast to the Vermillion Society, though they pay lip service to many of the same ideals, the Xinhai Society harkens back to a time when the country had what they term 'legitimate unity' — that is, when all people could agree on was that the monarchy's days were numbered. Much like the Xinhai Society itself, in other words.\nThat isn't to say they're toothless, however. The Japanese market is an appealing one for many, and they have the quiet backing of many economic powerbrokers — financial resources often translated into political changes. Furthermore, Japan's primary involvement is through the ostensibly apolitical railway companies — giving them tremendous power with the appearance of being above the petty politics unfolding here. The quick mobilisation of troops was practically all that kept Sun's old League together, and it was a railway's construction that ultimately did it in. Many still remember the Railway Protection Movement that truly sparked Xinhai in 1911; if we were to anger either of our supporters or if their involvement became too unpopular, we might well discover that railways would once again launch a revolution... against us.§!\n
+Jiangnan Consortium
+Lower Yangtze Merchant Association (Jiangnan Shangbang)\n§LThe Lower Yangtze Merchant Association is an eclectic grouping made up of many disparate factions united in the pursuit of profit. Labeled by the Western businessmen they primarily trade with as a 'Consortium', they are comprised of Chinese merchants, small banks, minor industrialists, and guilds that are not especially politically active or powerful. Rarely courted by any faction and disinterested in any changes that don't affect their bottom line, they are a necessary but nonetheless frequently ignored part of East China's economic wellbeing.§!\n
+Anqing Clique
+Anqing Clique (Yixi Junfa)\n§LIn the years after the Zhili triumph and the ostensible reformation of the empire, there were opportunities aplenty for ambitious young commanders to forge some new disunity from what was meant to be a glorious restoration. Chen Tiaoyuan was one such, and over the past decade he has set about building a base of power from the city of Anqing and the province of Anhui he governs. This historically agricultural, but recently industrialising, province would be the perfect stage from which he rallied support — support from the unlikeliest of places.\nThe leftist rebels he suppressed turned to him as an alternative to what they saw as doomed revolt; officers shoved aside in Sun Chuanfang's administration saw in him an opportunity for advancement; nationalists wishing to cast out the oppressors joined him, sensing in him a strong will and proud heart.\nPerhaps some of them were even right in seeing what they did in Chen — but it's ultimately become irrelevant, as he can hardly back down now. Like it or not, Chen Tiaoyuan is a symbol of national pride and a form of anti-imperialism more stable, less radical, than the Kuomintang's shouts from the south. During the 1932 Shanghai Uprising, he chose to keep his troops at home against the wishes of League-Marshal Sun, whom he was meant to serve. The Northern Zhili have maintained a more positive view of him ever since, hoping to sow discord amongst their southern competitors.\nNow this 'Anqing Clique' must break from the legacies of exploitative warlords and foreigners alike, and journey forward to build a better China. Whatever that looks like.§!\n
+Anqing Clique
+Anqing Clique (Yixi Junfa)\n§LIn the years after the Zhili triumph and the ostensible reformation of the empire, there were opportunities aplenty for ambitious young commanders to forge some new disunity from what was meant to be a glorious restoration. Chen Tiaoyuan was one such, and over the past decade he has set about building a base of power from the city of Anqing and the province of Anhui he governs. This historically agricultural, but recently industrialising, province would be the perfect stage from which he rallied support — support from the unlikeliest of places.\nThe leftist rebels he suppressed turned to him as an alternative to what they saw as doomed revolt; officers shoved aside in Sun Chuanfang's administration saw in him an opportunity for advancement; nationalists wishing to cast out the oppressors joined him, sensing in him a strong will and proud heart.\nPerhaps some of them were even right in seeing what they did in Chen — but it's ultimately become irrelevant, as he can hardly back down now. Like it or not, Chen Tiaoyuan is a symbol of national pride and a form of anti-imperialism more stable, less radical, than the Kuomintang's shouts from the south. During the 1932 Shanghai Uprising, he chose to keep his troops at home against the wishes of League-Marshal Sun, whom he was meant to serve. The Northern Zhili have maintained a more positive view of him ever since, hoping to sow discord amongst their southern competitors.\nNow this 'Anqing Clique' must break from the legacies of exploitative warlords and foreigners alike, and journey forward to build a better China. Whatever that looks like.§!\n
+Yiguandao
+Yiguandao\n§LZhang Tianran's esoteric cult may have its base in Shandong, but its tendrils stretch south to embrace those searching for some better way and uninterested in politicians' promises. Those same politicians, however, have been quite resolute in stamping it out; the cult can barely influence local affairs, let alone have a meaningful impact on the region's politics.§!\n
+Chen Tiaoyuan
+Chen Tiaoyuan began his military career by joining the Beiyang Army Staff Academy. Upon graduating in 1904, Chen served as an instructor in the 3rd Wuchang Army Secondary School. Finishing his studies in the 1st Class of the Staff College, Chen returned to Baoding and became a geography instructor in the 1st Class of the Baoding Military Academy. In 1913, Yuan Shikai assassinated KMT leader Song Jiaoren, prompting Sun Yat-sen to launch a second revolution against Beijing. Chen was put under the command of Feng Guozhang as his staff, and they marched on Jiangsu.\n\nIn Xuzhou, local revolutionary commander Zhang Zongchang surrendered to Feng on Chen's recommendation. Zhang and Chen would strike up a friendship since then, and the two men became sworn brothers. Chen worked for Li Chun until the latter's death in 1920, at which point he supported Li's protege Qi Xieyuan as governor. When Zhang Zongchang invaded Jiangsu, Chen surrendered to Fengtian forces and was made deputy military supervisor but was bullied by Yang Yuting.\n\nWhen Qi and Sun launched a counter invasion from Zhejiang, Chen conspired with them to capture General Zang Shiyi and turn over Nanjing to the Zhili Clique without a shot fired. Sun rewarded Chen by giving him Anhui and a place as his key lieutenant alongside Qi. However, Chen was suspected by Sun of having sympathies for the KMT, and so continually favoured Qi within the League's political structure.
+§YBorn:§! §LNovember 12th, 1886, in Anzhou, Zhili Province, Great Qing§!\n§YBackground:§! §L$ANQ_chen_tiaoyuan_bio$ Now that Chen has rejected the League, he will ensure that he is never mistreated by others again.§!\n\n§YNotes: Chen has found himself supporting anti-concessionist movements across the League in order to counter Qi's strong ties with the German Empire and promotes himself as a Nationalist symbol. Chen's cheery demeanour has led some to endearingly nickname him \
+§YBorn:§! §LNovember 12th, 1886, in Anzhou, Zhili Province, Great Qing§!\n§YAlignment:§! §PAnhui Army§!\n§YBackground:§! §L$ANQ_chen_tiaoyuan_bio$ Chen felt seriously aggrieved by the time of the Shanghai Uprising and has been plotting to overthrow Sun's tyrannical rule ever since.§!\n\n§YNotes: Chen has found himself supporting anti-concessionist movements across the League in order to counter Qi's strong ties with the German Empire and promotes himself as a Nationalist symbol. Chen's cheery demeanour has led some to endearingly nickname him \
+Gao Shidu
+§YBorn:§! §L1873, in Bozhou, Anhui Province, Great Qing§!\n§YAlignment:§! §aAnhui Army§!\n§YBackground:§! §LA scholar at the age of 27, Gao Shidu would teach at Liuhu Academy for 2 years, and in 1903 he would travel to Beijing to enter the staff of Jiang Guiti. In 1910 Gao would serve as the general manager of the camp for the Yi Army stations in Henan, and the following year would be director of camp affairs in the Wuwei Army. That same year he became the general officer of the ordinance bureau of the Wuwei Army.\n\nIn 1913 he was appointed commander of the Fifth Route Army, and simultaneously commanded the First Battalion. In 1920 Gao served under the likes of Zhang Wensheng, and upon Ma Lianjia's appointment as Governor of Anhui, Gao was promoted to commander of the Fourth Mixed Brigade. In 1924 Gao would become commander of the Anhui National Army, and in 1925 would become commander of the Fourth Division and Governor of northern Anhui.\n\nFollowing Sun Dianying's disastrous rebellion, Gao would, under Chen Tiaoyuan's orders, encircle Sun's forces in Bozhou City. In act of depravity, Sun tied Gao Shidu's eldest daughter to the east gate tower and threatened to kill her, resulting in Gao hesitating. The next morning however, Sun fled with hostages and his loot into the welcoming arms of Zhang Zongchang.\n\nAfter executing all of Sun's collaborators, Gao would eventually become Governor of Anhui Province proper, founding Anhui University. During the Northern Expedition, Gao would be kidnapped by Sun Dianying and extorted for a huge ransom, eventually being released. Despondent, Gao would return to Bozhou, and yet Chen Tiaoyuan would persuade the old general to return to the fold, and offer him the chance of killing Sun Dianying.§!\n\n§YNotes: Gao prioritises two things: patriotism, and the death of Sun Dianying.§!
+Sun Qi
+§YBorn:§! §L1882, in Shou County, Anhui Province, Great Qing§!\n§YAlignment:§! §PAnhui Army§!\n§YBackground:§! §LA diligent student from an influential local family, Sun Qi was selected in 1905 as one of the students to be sent to study military in Japan with governmental subsidies. After finishing preparatory studies in the Tokyo Shinbu Gakko and interning in a Japanese infantry battalion, Sun enrolled in the 6th Class of the Imperial Japanese Army Academy to study infantry in 1906, during which he would be a member of the Tongmenghui. After graduating, Sun was invited to teach in the Guangxi Army Primary School and would later join the Qing army as a junior officer and tutor.\n\nWhen the Xinhai Revolution broke out, he led his soldiers to join the uprising and was appointed the commander of the 4th Division of the Revolutionary Government, stationed in his home province. He also provided military backing to his elder cousin, Sun Yuyun, who was then the governor of Anhui amidst the chaos of the aftermath of the revolution. In 1912, he was given the rank of lieutenant general by the Beijing government and would be a senior military staff in Beijing. In 1925, he returned to his home province as he was appointed the deputy of Chen Tiaoyuan, Sun would then aid Chen in both administrative affairs and military affairs in Anhui province, including fighting against the KMT and training the Anhui armies. As a devoted revolutionary officer, when Chen Tiaoyuan openly stood against the concessionist League, Sun Qi followed for the sake of both his province and his country.§!\n\n§YNotes: An experienced military tutor and influential figure in Anhui, Sun Qi is viewed as a close friend and invaluable colleague by Chen Tiaoyuan.§!
+Ruan Zhaochang
+§YBorn:§! §L1890, in Kunming, Yunnan Province, Great Qing§!\n§YAlignment:§! §aAnhui Army§!\n§YBackground:§! §LGraduating from the 1st Class of the Baoding Army Accelerated Academy, where he studied infantry, and later the 3rd Class of the Staff College, Ruan Zhaochang was destined to be a soldier. In 1913 he was Chief of Staff of the Hubei Governor's Office, and in 1920 he became an Army Major General, and served as Dean of Education of the Staff College. Two years later Ruan would become an Army lieutenant general, and in 1925 he would become the Chief of Staff of the Provisional 5th Division. The following year, Ruan was Commander of the 15th Division of the Five Provinces Allied Forces, the predecessor to the League of Eight Provinces.\n\nIn 1927 Ruan would become Chief of Staff of Chen Tiaoyuan's Anhui Army, and would become Lieutenant General Director of the Anhui General Staff Headquarters. Two years later Ruan would become a member of the Anhui Provincial Government, and become mayor of Anqing. Later commanding a series of Anhui divisions, Ruan would, over time, develop a similarly anti-concessionist stance to that of his superior, Chen. Albeit he takes it a step-further than \
+Liu Heding
+Exhibiting excellent academic performance at the age of 16, Liu Heding would be selected to study aviation in Germany. However with the Xinhai uprising occurring soon after the opportunity, Liu would abandon his plans to become a pilot, return to Anhui, join the Tongmenghui and fight as a battalion deputy in the Huaishang Army. Entering the First Qinghe Army Preparatory School in Beijing in 1912, Liu would transfer to the 3rd Class of the Baoding Military Academy to study infantry.\n\nGraduating alongside the likes of Bai Chongxi, he would undergo training in Ni Sichong's army, serve in various capacities such as captain staff officer for Wu Guangxin, police inspector for Zhang Jingyao, and major deputy of the 9th Mixed Brigade. In 1920, he would serve as staff director of the Lin Mi Brigade, deputy lieutenant colonel and battalion commander of the Second Mixed Regiment of the Fujian Army, and in 1925 he became an officer in the remnants of the Anhui Army under Ma Xiangbin. Participating in the war against Zhang Zongchang, Liu would ultimately join with the rest of the forces of Anhui province, becoming deputy commander of the Anhui Army.\n\nTo prevent the former Anhui loyalists from coalescing against him, Sun Chuanfang fully integrated their forces into the League's structure. Sent to secure Fujian from Kuomintang insurgents, he would suffer several grave defeats and his army was forced to endure brutal conditions under the poor leadership of Zhou Yinren. Following his failure to defeat the Kuomintang, he was reassigned back to Anhui Province where he befriended Chen Tiaoyuan.
+§YBorn:§! §LDecember 13th, 1894, in Hefei City, Anhui Province, Great Qing§!\n§YBackground:§! §L$ANQ_liu_heding_bio$\n\nHaving now been propelled to the Governorship of Shandong by Chen and his Fengtian backers, Liu Heding has been granted his wish of seeing Zhang Zongchang deposed. However, the quagmire of villainy, hedonism and mania spreads far throughout the province, and Governor Liu certainly has his work cut out for him.§!
+§YBorn:§! §LDecember 13th, 1894, in Hefei City, Anhui Province, Great Qing§!\n§YAlignment:§! §PAnhui Army§!\n§YBackground:§! §L$ANQ_liu_heding_bio$§!\n\n§YNotes: He still harbours a grudge against Zhang Zongchang, and is devoted to seeing him deposed.§!
+Shi Zhongcheng
+§YBorn:§! §LJanuary 25th, 1898, in Tongcheng, Anhui Province, Great Qing§!\n§YAlignment:§! §PAnhui Army§!\n§YBackground:§! §LShi Zhongcheng lost his father when he was young. After finishing his studies in Anhui Army Primary School and the Qinghe Army Preparatory School, Shi went and sought refuge with his uncle Shi Congbin and entered the 9th Class of the Baoding Military Academy in 1919. After graduation in 1923, Shi would enlist in the unit of his uncle. During the Second Zhili-Fengtian War, Shi Congbin, then serving under Zhang Zongchang, was captured by Sun Chuanfang and brutally executed. Shi Zhongcheng continued to serve in the army of Zhang Zongchang and became a reigmental commander by 1926. During his service there, he became thoroughly disillusioned with Zhang's hedonistic recklessness. After that, he fled south to the lands of his uncle's killer — Sun Chuanfang — and swore to have nothing more to do with his former master.\n\nIn 1929 Chen Tiaoyuan would promote this well-educated commander to a brigade commander. Chen subsequently took a liking to him, and helped his career; commended for his faithful service in putting down Kuomintang rebel cells, Shi would enter the Jinling Military Academy of Sun Chuanfang's League and further his military studies. Recently appointed major general, he serves as one of the pillars of Chen's Anhui army.§!\n\n§YNotes: It is rumoured he has broken off contact with his cousin Shi Gulan, now better known as Shi Jianqiao (the upraised sword), after his flight south. Some say she tried to get his help in avenging her father and that they have not spoken since; certainly he seems to have disavowed her, at any rate. She was less forgiving than him of Shi Congbin's death at the hands of Sun Chuanfang...§!
+Ding Handong
+§YBorn:§! §L1880, in Zongyang, Anhui Province, Great Qing§!\n§YAlignment:§! §aAnhui Army§!\n§YBackground:§! §LWhile very little is known about Ding Handong, who has followed Chen Tiaoyuan for at least a decade, few would disagree that he is a valuable colleague of Chen's forces. An outstanding student of his village, Ding studied in a primary school before enrolling in the Anhui Military Academy and beginning his military career. Yet, he would take a step further than most of his peers as he studied in the 3rd Class of the Staff College from 1909 to 1913, during which he would become a member of the Tongmenghui and be the roommate of Li Jishen, now known as a prominent Kuomintang military figure.\n\nBeing given the rank of lieutenant colonel after graduation, Ding served as a staff in Chahar against local bandits in the newly established Republic. In 1920, he was sent to his home province as a junior commander. As a well-educated and diligent officer, when Sun Chuanfang marched into Eastern China, he was recruited by Chen Tiaoyuan, who was under Sun but disagreed with his concessionist stance. By October 1925, Ding would be a regimental commander under Chen and later they would fight against the National Revolutionary Army. Rising in the ranks of the Anhui Army in Sun's League, he would soon be a divisional commander and the head of police of Anhui province under Chen, as Ding has proven his military ability and loyalty to Chen, coinciding with his anti-imperialist ideals.§!\n\n§YNotes: A calm and gallant commander, Ding's unit was once surrounded, but he made a sally by launching a surprise attack on enemies who were preparing a full offence.§!
+Ma Dengying
+§YBorn:§! §L1890, in Gaomi, Shandong Province, Great Qing§!\n§YAlignment:§! §aAnti-Concessionist§!\n§YBackground:§! §LMa Dengying, also known as Ma Haiqiao, began his career in the Chinese military after developing a fascination with martial arts as well as physical wellness. He entered the Baoding Army Accelerated Academy in 1906 and was later sent to the Imperial Japanese Army Academy to study infantry. During this time he made contacts with the Tongmenghui, briefly returning to China in 1912 to establish a revolutionary cell in Qingdao. Dengying was later driven out by the forces of Yuan Shikai and went back to Japan. His exile was short lived however, as sympathetic members of the Anhui Clique invited him back into the country just a year later.\n\nDengying then climbed the ranks of the armed forces, being promoted in 1923 to Chief of Staff for a Brigade tasked with supressing banditry in Shandong. By 1925 he broke with the Anhui Clique and attached himself to Sun Chuanfang's Southern Zhili Clique. It was here he got to know the \
+Sun Liren
+§YBorn:§! §LDecember 8th, 1900, in Jinnu, Anhui Province, Great Qing§!\n§YAlignment:§! §lRevolutionary§!\n§YBackground:§! §LSun Liren would initially aspire to be a construction engineer, applying to the Tsinghua School in Anqing in 1913. Ranking first amongst nearly a thousand candidates. Joining a nationalistic scouts organisation whilst he attended Tsinghua, in 1920 he would finally attend the new Tisnghua University to in order to study civil engineering. It was at Tsinghua that Sun became a prominent basketball player in 1921, he led the Chinese team to a gold medal at the Far Eastern Championship Games.\n\nGraduating from the Department of Civil Engineering of Tsinghua University, Sun be admitted as an international student in order to complete his senior year in Purdue University in Indiana. Graduating in 1924, Sun would intern as an engineer for the Chicago Bridge and Iron Company in Chicago, Illinois; he decided he could better serve his divided nation as a soldier rather than as an engineer.\n\nRecommended by Beijing, Sun would study at the Virginia Military Institute, learning under the likes of George Marshall. Graduating in 1927, Sun would tour Europe and Japan to observe the latest military developments, returning home to the Anhui Provincial Government via Shanghai. Commanding a regiment upon his arrival, Sun would ensure that his soldiers were only the most elite, establishing a small clique of European and American educated officers. Sun even formed his own military drills inspired by traditional Chinese Academies and Western training systems.\n\nWith his soldiers exhibiting rapid, exceptional feats against Kuomintang guerrillas, Sun couldn't help but think he was, ever slowly, strangling his own nation. Reading literature produced by the Reconstruction Faction that had been smuggled into the League, Sun began to renew his early nationalist credidentials, flouting Sun's concessionism.§!\n\n§YNotes: Sun holds nationalist tendencies and should his home faction of the Anqing Clique lose in the League War, he will defect to various republican and nationalist factions throughout China.§!
+Cao Wanshun
+§YBorn:§! §L1891, in Gaocheng, Zhili Province, Great Qing§!\n§YAlignment:§! §PAnhui Army§!\n§YBackground:§! §LUnlike many of his peers and colleagues in Chen Tiaoyuan's ranks, Cao Wanshun received very limited military education and is connected to neither Chen himself nor the province of Anhui. Born in an impoverished family, Cao left his hometown as a teen and joined the late Qing army to secure a living like many ordinary people did. After serving for some years in the 4th Zhen (Division) of the Qing Army under Li Houji, Cao was enrolled in the academy of the unit and later became a junior officer.\n\nSpending about two decades in this unit despite the collapse of the Qing and the formation of the Republic, Cao, who rose from a platoon commander to a regiment commander, would be a brigade commander with the rank of major general in 1924 when Sun Chuanfang declared himself the League Marshal and reorganised armies of multiple provinces in Eastern China. Cao continued to be a commander of the Fujian Army under Sun Chuanfang and aided him against the KMT during and after the Northern Expedition.\n\nAs Sun Chuanfang's League completely collapsed in the League War, Cao's career seemed to come to an end. However, he reorganised his remaining units in Fujian and decided to try his luck with Chen Tiaoyuan's Anhui forces. With the idea of uniting all possible strength against imperialists, Chen took now this experienced officer and Cao's field experience would undoubtedly contribute to Chen's cause.§!\n\n§YNotes: As an easy-going officer who reads the room he is in well, Cao Wanshun shrewdly refrained from involving in any kind of political affairs and workplace politics, ensuring that he would never make enemies and rivals in the ranks under Chen Tiaoyuan.§!
+Chen Anbao
+§YBorn:§! §L1891, in Huangyan, Zhejiang Province, Great Qing§!\n§YAlignment:§! §aAnti-Concessionist§!\n§YBackground:§! §LHailing from a poor family and ultimately losing his parents during his childhood, Chen Anbao had a similar origin with many Chinese officers. Luckily, the principal of a local primary school allowed this hardworking and active kid to study for free. During his studies, Chen was already well aware of the corruption and backwardness of his country and thus generated an eager and passionate sense of nationalism to save China.\n\nWhen the Xinhai Revolution broke out in 1911, Chen Anbao, who firmly believed that only by joining the army could China be saved, immediately abandoned his studies, rushed from his hometown to Nanjing and joined the ranks of the Nanjing Provisional Government as a soldier, marking the beginning of his military career. Before enrolling in the 3rd Class of the Baoding Military Academy in 1914 to study infantry, Chen studied hard in a military academy in Wuchang.\n\nAfter graduating in 1916 with a remarkable performance, Chen was sent to the 2nd Division of the Zhejiang Army and served firstly as a platoon commander and then as a company commander. In drills, he was always the first to charge among his units and is thus highly respected amongst his soldiers. However, when it comes to fighting his compatriots on various occasions, he realised that he was simply reluctant to do so. Therefore, he was mostly absent in Sun Chuanfang's operations, later when Chen became increasingly disgusted by the collusion between the Imperialists and the League, he decided to join Chen Tiaoyuan's force and fight for an independent China.§!\n\n§YNotes: As a patriotic and daring commander, Chen Anbao will never hesitate to devote and even sacrifice himself for the greater good of the motherland.§!
+Wu Yinchan
+§YBorn:§! §L1902, in Shuyang County, Jiangsu Province, Great Qing§!\n§YAlignment:§! §LApolitical§!\n§YBackground:§! §LBorn to a poor family, Wu Yinchan would rely heavily on his famous educator father, Wu Tieqiu, to succeed in life. Diligent and studious, Wu would graduate from Shuyang County Higher Primary School in 1916 and be admitted to Jiangsu Provincial No. 8 Normal School with excellent results. Graduating in 1920, he would stay in the school to work due to his above and beyond academic performance. The following year, Wu would return to his primary school to teach, specialising in biology.\n\nIn 1925 Wu would enter the Biology Department of Wuchang Normal University, becoming a favourite of his tutors. He would graduate in 1928, and be hired as an assistant professor in the Biology Department of Jinling University that same year. In May 1934 Wu would receive an invitation from the University of Berlin as part of increasing Sino-German relations, however he would refuse, citing the Concessions as reason enough to stay within China.§!\n\n§YNotes: Proficient in German, English and Latin, Wu is a devout believer that China's scientific theory foundation is a weak one, and desires a future wherein his nation is a hub of advancement across all fields.§!
+Wu Zhuozhi
+§YBorn:§! §L1879, in Taicang, Jiangsu Province, Great Qing§!\n§YAlignment:§! §LApolitical§!\n§YBackground:§! §LAfter graduating from the Nanyang Public School, one of the earliest modern schools in China established during the Late Qing Reform, Wu Zhuozhi studied mechanical engineering at the Qiuxin Shipyard in Shanghai and then worked as a draftsman. When patriotic protests arose in 1919 across the nation after the European War was concluded, Wu led his fellow workers to join the movement and denounced President Xu Shichang publicly. Consequently, the Beijing authority ordered the local government to arrest him, seeing the scene, Wu decided to study abroad to both further his studies and escape from persecution.\n\nAfter arriving in France, Wu worked in the Chinese-French Education Association and taught French in his spare time to substain his living. He then enrolled in the Lyon Technical School, specialising in automobile manufacturing. After graduation, this talented young man worked as a wiring engineer at the train factory in Schneider and as a technician in an automobile Company in Lyon. He would also travel to the rest of Europe and the US to study infrastructure and transportation. Returning to China in 1928, Wu was employed by a motor company in Jiangsu under Sun Chuanfang's League. However, as Wu opposed the concessionist stance of Sun and his League, Wu later turned to Chen Tiaoyuan and worked with him in the province of Anhui, where Wu established an automobile school and was appointed Director of the provincial highway and chief mechanic. Valuing the construction of highways and the production of automobiles, Wu personally partook in all the designing in his automobile factory, and his knowledge and expertise are highly admired in Chen Tiaoyuan's ranks.§!\n\n§YNotes: Wu compiled a manual book on automobile driving and road transport management, and it is said that he is preparing to publish his notes in Europe and the US.§!
+Lu Gongwang
+§YBorn:§! §LFebruary 28th, 1879, in Yongkang County, Zhejiang Province, Great Qing§!\n§YAlignment:§! §LApolitical§!\n§YBackground:§! §LA scholar at the age of 20, and a local teacher at the age of 22, Lu Gongwang would begin to be influenced by the resolution to the Battle of the Eight-Power Allied Forces, turning to democratic revolutionary ideas. Participating in the Guangfuhui, and meeting Qiu Jin, Lu would be turned to the revolutionary cause through the persuasion of Xu Xilin. Entering the army of Zhejiang as a soldier, Lu utilised his connections to spread revolutionary sentiment within his unit.\n\nEnlisting in Baoding Military Academy in 1907, Lu would study artillery, and return to Zhejiang as a trainee officer. Participating in the Xinhai Revolution, Lu would fight in Zhejiang Province, and be a divisional commander within the Zhejiang Army. In 1913 Lu would become martial law commander of Jiahu, and the following year would become the garrison commander.\n\nAwarded a royal title, Lu would nonetheless fight in the National Protection War against Yuan, expelling the Zhejiang Governor Zhu Rui and declaring Zhejiang's independence. Electing Qu Yingguang as the Governor of Zhejiang, Lu Gongwang would be selected following Qu's swift resignation. After Li Yuanhong's ascension Lu would be appointed Governor of Zhejiang, albeit forced to resign.\n\nFighting with Duan Qirui against Zhang Xun, Lu would become Commander-in-Chief of the Army of Fujian and Zhejiang. Tied closely to Cen Chunxuan, Lu's prospects would fall with Cen's. Organising a series of endeavours in Tianjin, Lu would enter Zhejiang once more during the Northern Expedition, acquiring a local army and starting up cotton mill. Folding into the League as an informal entity, Lu's revolutionary sympathies would see him align with Chen Tiaoyuan.§!
+Shi Liangcai
+§YBorn:§! §LJanuary 2nd, 1880, in Jiangning County, Jiangsu Province, Great Qing§!\n§YAlignment:§! §aAnti-Concessionist§!\n§YBackground:§! §LAt the age of 19, Shi Liangcai would pass the imperial examination, and would be admitted to Hangzhou Sericulture Academy in 1901. Founding a primary school, he would found the Women's Sericulture School in Shanghai, and would teach at a various schools. Participating in the Xinhai Revolution, Shi would clean up the finances of Jianghai Customs, and become a member of the provincial assembly. Participating in the North-South peace talks, Shi would devote his energy towards journalism.\n\nPurchasing Shenbao, Shi would revive the newspaper, analysing the market situation and transforming it into a true article that emphasised the \
+Wei Yanshou
+§YBorn:§! §LJuly 23rd, 1900, in Yin County, Zhejiang Province, Great Qing§!\n§YAlignment:§! §LApolitical§!\n§YBackground:§! §LGraduating from Nanyang High School in 1921, Wei Yanshou would travel to Japan to study at the Chemical Engineering Department of Kyoto Imperial University the following year. Majoring in chemistry and microbiology, Wei would focus on researching mycology, studying under the renowned PRofessor Genitsu Kita, an authority in the field.\n\nFinally leaving Kyoto in 1927, Wei would return to China, and up until 1930 would work at the National Health Laboratory in Shanghai as a researcher. In 1929 Wei would serve as a professor in the Department of Agronomic Chemistry in Nanjing University, and from 1930 onwards, Wei has served as a professor in the Department of Agricultural Chemistry in Nanjing University.\n\nSimultaneously serving as the head of the department, Wei would devote himself to the study of the production process of traditional Chinese fermented foods using modern methods, and would experiment with using sweet potatoes to produce ethanol.§!
+Zhu Xi
+§YBorn:§! §L1879, in Hanshou County, Hunan Province, Great Qing§!\n§YAlignment:§! §LApolitical§!\n§YBackground:§! §LEnlisting in the 7th Infantry Department of the Shikan Gakko, Zhu Xi would return to China to serve as the training officer of the 45th Regiment of Jiangsu. Later he would become a battalion commander of that regiment, and during the Xinhai Revolution, would rebel with the Revolutionaries in Suzhou.\n\nAfter the establishment of the Republic, Zhu would go on to serve as the commander of the Second Division of Jiangsu, and would become a lieutenant general. In 1915, Zhu would be rewarded the title of Baron by Yuan Shikai. And in 1916 Zhu would rise to commander of the 19th Division.\n\nIn 1924 he served as the assistant of military affairs in Jiangsu, and would later fight under the command of Qi Xieyuan in the Jiangsu-Zhejiang War. With Qi defeated, Zhu would lead his troops to Sun Chuanfang's ranks. Reassigned to Anhui following service in the Northern Expedition, Zhu would serve as a member of the Anhui Provincial Government and director of the Civil Affairs Department.§!
+Ling Xiaofen
+§YBorn:§! §LOctober 1903, in Dingyuan County, Anhui Province, Great Qing§!\n§YAlignment:§! §LApolitical§!\n§YBackground:§! §LWith his ancestors having heritage in farming for generations, Ling Xiaofen would instead pursue a career in education. Opting to enter Shanghai Pudong Middle School, he would graduate in 1922 with excellent grades. Admitted to the second term of the Department of Education of the National Southeast University in Nanjing, he would graduate from thee too in 1927. The following year Ling would become inspector of Xinghua County, and would become director of county education.\n\nIn 1929, Ling would become enamoured by the fledgling anti-concessionist movement, enwrapped in the efforts of patriots and intellectuals alike. In 1930 Ling would be hired as a teacher and the director of education at Anhui Provincial Second Rural Normal School, and in 1931 he would become chief clerk of the provincial education department. Even later becoming section chief, he would be principal of the Rural Normal School.\n\nA patriotic educator at heart, Ling hopes to bring enlightenment to China's downtrodden.§!
+Sun Duoyu
+§YBorn:§! §LFebruary 26th, 1882, in Shouxian County, Anhui Province, Great Qing§!\n§YAlignment:§! §LApolitical§!\n§YBackground:§! §LEntering Cornell University in the United States in 1899 to study engineering, Sun Duoyu would come out with a Bachelor's degree. Returning to China in 1909, he would pass the academic exam the following year, ranking amongst the best, and be awarded a Jinshi in Engineering.\n\nPassing the first class of the Xinhai Extension Examination, Sun would be awarded the fourth grade by Hanlin Academy, and be promoted to the general office and chief engineer of the Ji-Chang Railway Engineering bureau. In 1913, he would become General Officer of the Shanghai-Hangzhou Railway Engineering Bureau, and in 1918 he would move onto the Zhuqin and Hunan-Hubei railways.\n\nIn 1920 Sun would become president of the Beijing Tonghui Industrial Company and the general manager of Zhongfu Bank, and the year after would serve as director of the Pukou Commercial Port Administration Bureau. In 1923 Sun would become deputy minister of the Ministry of Transport, and general manager of Zhongfu yet again, and 6 years later he would become acting chairman of the Shanghai Fufeng Flour Company.\n\nWith extensive ties to the industrial sectors across the Central Plains, Sun finds thriving opportunities in the new anti-concessionist movement.§!
+Chen Lu
+§YBorn:§! §LMay 5th, 1877, in Houguan County, Fujian Province, Great Qing§!\n§YAlignment:§! §LApolitical§!\n§YBackground:§! §LBorn to a prominent family, Chen Lu would be admitted to Mawei Shipbuilding Academy at the age of fifteen in order to study French. Two years later Chen would be admitted to Wuchang Ziqiang Dialect School, and after graduation would stay there to teach French. In 1901 Chen would help establish a translation bookstore in Hubei. Entering the University of Paris Law, Chen would receive his Bachelor's in 1906 and was the first Chinese student to receive a Bachelor's in France.\n\nWorking in The Hague and Dutch Embassy, Chen would return to China to become a Jinshi in the Department of Legal Affairs and Political Science, serving in the Ministry of Law and Foreign Affairs. After Xinhai, Chen would continue his civil servant service, and would be instrumental in settling the Sino-Russian disputes over Mongolia. Appointed to ensure Chinese sovereignty over Outer Mongolia, Chen would catalogue integral historical texts regarding the history of Mongolia.\n\nIn 1917 Chen would become Deputy Minister of Foreign Affairs, and would serve as acting minister during the Spa Peace Conference. Indirectly responsible for a series of protests as Minister to France, Chen's timid nature would result in the Siege of Lyon in France by Chinese students there. Despite an assassination attempt in 1922, Chen would continue to be the Chinese Representative in France all throughout the 1920s and 30s, becoming known as the \
+Jiang Hongjie
+§YBorn:§! §L1876, in Jingde County, Anhui Province, Great Qing§!\n§YAlignment:§! §LApolitical§!\n§YBackground:§! §LTravelling to Japan to study in his early years, Jiang Hongjie would receive a bachelor's degree in law from Meiji University. In 1897 Jiang would serve as an instructor at the law school in Shandong Province, and would become a magistrate within the province. By 1907 Jiang would be deputy consul in Yokohama, Japan, and in 1912 he would serve as secretary to the General of Foreign Affairs. In 1915 Jiang would be appointed as the First Secretary of the Legation in Japan, and in 1930 would become councillor of the embassy within Japan.\n\nWith important connections with the Japanese consulate, Jiang would prove instrumental in negotiating ties between Chen Tiaoyuan and Japan, alongside the likes of Chen Yi in the League.§!
+Song Jie
+§YBorn:§! §L1893, in Ziyang County, Shandong Province, Great Qing§!\n§YAlignment:§! §LApolitical§!\n§YBackground:§! §LHaving an ordinary education as a child, Song Jie would move to Fengtian with his family in 1912, and five years later would join the Anti-Yuan National Protection Army organised by Wu Dazhou in Zhoucun. In autumn of that same year, he would follow Zheng Tianyi to Beijing, where Zheng would support Song's studies. Joining the Middle School of China University, Song would later transfer to the preparatory course of Beijing University. And in 1918 he would enter the Department of Political Economy.\n\nThe following year he would found a series of magazines, which would lead him into contact with the renowned Li Dazhao, Zhang Guotao and other leftists. Publishing their theories in his magazines, Song would join the Beijing Syndicalist Group, and joined the Beijing Socialist Youth League, and would also become a member of the executive committee and education committee.\n\nAiding in publishing a series of pro-syndicalist literature on behalf of the movement, citing socialist theory and working to proliferate it to the masses. Graduating from university in 1921, Song would travel the United States to study, and would return to China in 1924. Founding \
+Liu Fengtu
+§YBorn:§! §L1886, in Baoding, Zhili Province, Great Qing§!\n§YAlignment:§! §LApolitical§!\n§YBackground:§! §LA longtime subordinate of Chen Tiaoyuan, Liu Fengtu can be regarded as one of the best-educated officers in Chen's ranks. Studied artillery in the 2nd Class of the Beiyang Army Accelerated Military Academy (predecessor of modern Baoding) and graduated in 1906, Liu served as a junior officer for the dying Qing dynasty. After the establishment of the Republic, he served as a staff officer in the 6th Division in Henan Province under Li Chun, where he would obtain the rank of lieutenant colonel by August 1913. What makes Liu outstanding is that he enrolled in the 4th Class of the Staff College in September 1913, the topic of military education institute in China. With his excellent educational background, Liu who graduated in 1916, was selected as a senior staff of Feng Guozhang and earned the rank of major general.\n\nBy 1918, he would be a commander of an artillery regiment of the 6th Division, which was then commanded by Qi Xieyuan and two years later, he would fight under Qi in the Zhili-Anhui War against the Anhui Clique. Liu's service under Chen Tiaoyuan began in 1924 as Liu was promoted to commander of the 8th brigade of Chen's 4th Division of the Jiangsu Army. Although Chen's forces were placed under Sun Chuanfang when Sun declared himself the League Marshal, Liu remained a senior subordinate of Chen and Liu would have his own brigade after 1925 as a lieutenant general. Liu followed Chen and fought against the National Revolutionary Army when marched north in July 1926, and when Chen split from the concessionist League, Liu did the same as a loyal subordinate, ready to contribute his skills to his superior.§!\n\n§YNotes: A capable staff officer, Liu Fengtu was given several military tutoring posts in Chen Tiaoyuan's units.§!
+Sa Benxin
+§YBorn:§! §L1898, in Min County, Fujian Province, Great Qing§!\n§YAlignment:§! §LApolitical§!\n§YBackground:§! §LGraduating from the Fuzhou Naval School in 1920, Sa Benxin is a studious and hardworking man. Spending the early 20s on the sea, learning how to command ships and handle the oceans waves, he had an early interest in shipbuilding, and when he was sent to the University of Glasgow in 1923, he used the opportunity to learn everything he could, earning a master's degree in shipbuilding. He returned to China in 1929. Being appointed to the Mawei Shipyard, Fuzhou, in 1931. Sa has, much like his great uncle Sa Zhenbing, proven himself capable and skilled at naval matters, spending his free time learning everything he can to improve his abilities and skills, he excels in shipbuilding and in Naval command.§!
+Qin Jiazhu
+§YBorn:§! §LAugust 2nd, 1912, in Hankou, Hubei Province, Republic of China§!\n§YAlignment:§! §LApolitical§!\n§YBackground:§! §LAchieving top marks, Qin Jiazhu graduated top of his class in 1931. He spent the next five years in Anhui, excelling in aerial matters and catching the eye of Chen Tiaoyuan. Chen enlisted him to service in 1935, right before the chain of events that would lead to the League collapse. Owing his position to Chen's patronage, Qin is happy to assist however he can to ensure Chen's air force is as skilled as he can possibly make it.§!
+The Fool
+§LA trait acclaimed by his comrades at the Baoding Military Academy, Chen is known as a particularly jovial, loud, and clumsy man to be around. Exceptionally friendly, this has won him a lot of praise, and equally a lot of hardship.§!
+Low
+Medium
+High
+Very High
+Fengtian
+Qing
+Ally
+Credibility of Chen Tiaoyuan
+£anq_credibility §YCredibility§!: [?ANQ_credibility_factor|Y0]
+With the old League of Eight Provinces in ruin and anti-concessionist rhetoric running rampant, Chen Tiaoyuan has successfully pushed himself forward as a beacon for the movement in China. Those that enabled his rise however could just as easily let him fall should he betray their interests. Nonetheless, Chen Tiaoyuan knows very well that following their every wish will lead to an Anqing without the resources necessary to bring about this liberation of China.
+Jiangsu Exploitation
+Jiangsu exploitation because of the deal.
+Longhai Railway
+Brought peace to the Five Provinces
+Anqing stands independent
+Anqing does §Rnot§! stand independent
+Anqing recognises the [QIE.GetName] as rightful
+Anqing recognises Fengtian as rightful
+Anqing does §Rnot§! recognise Fengtian as rightful
+Is friendly with Japan
+Is already completing a reconstruction project
+Anqing has abandoned participation in the Reclamation War.
+Anqing has §Rnot§! abandoned participation in the Reclamation War.
+Anqing has committed to participating in the Reclamation War.
+Anqing has decided whether or not to participate in the Reclamation War.
+Fengtian supports our reconstruction efforts
+Fengtian and Japan support our reconstruction efforts
+Fengtian aid for reconstruction is undecided
+Fengtian has denied us aid
+§RChen Tiaoyuan's closest advisors have made the Governor aware that the war will destroy much of our government and economy, and that even if we win, Anqing will have to deal with a lot of problems. These problems will require strong political will, so they advise us to be careful with our political resources and save up for these difficult times.§!\n
+Has at least $RIGHT|Y0$ £anq_credibility §YCredibility§!
+Increase £anq_credibility §YCredibility§! by $RIGHT|G0$.\n
+Decrease £anq_credibility §YCredibility§! by $RIGHT|R0$.\n
+Change £anq_qieinfluence §YQing Influence§! by §C[?ANQ_beijing_influence_change|=%0]§!.\n
+Change £anq_fnginfluence §YFengtian Influence§! by §C[?ANQ_fengtian_influence_change|=%0]§!.\n
+Increase §YJapanese Aid Score§! by $RIGHT|C0$.\n
+§YQing Anger§! increases by $RIGHT|R1$.
+§YQing Anger§! decreases by $RIGHT|G1$.
+§YWillingness§! to join the Reclamation War against Beijing doesn't change.\n
+Increase §YWillingness§! to join the Reclamation War against Beijing by $RIGHT|C0$.\n
+Decrease §YWillingness§! to join the Reclamation War against Beijing by $RIGHT|C0$.\n
+§GIncreases the regular shipments you receive from Japan by sea!§!\n
+§GIncreases the regular shipments you receive from Qing by river and rail!§!\n
+§GSignificantly reduces time and cost for £decision_icon_small §HReconstruction Decisions§!, but also makes all decisions increase §Y[getanqally] Influence§!.§!\n
+§GReduces time and cost for £decision_icon_small §HReconstruction Decisions§!.§!\n
+§GReduces time and cost for £decision_icon_small §HReconstruction Decisions§!, but not as much as when we'd ask help from our ally.§!\n
+Unlocks future railway project events with Qing.\n
+The §YWuchang-Anqing Railway§! will be constructed.\n
+The §YWuchang-Anqing Railway§! is now complete.\n
+Unlocks £decision_icon_small §HDecision§! to develop §YWuchang-Anqing§!\n
+Unlocks future options to deal with bandits with Qing.\n
+Unlocks future options to work on additional canals and dykes with Qing.\n
+§RSaying no now will mean no further future bonuses can be achieved!§!\n
+§YQing Anger§! must be 5 or higher.\n
+§RDue to high §YQing Influence§!, §YQing Anger§! will rise more rapidly and lead to greater consequences. Be careful refusing them!§!
+§RJoining Qing's faction will lead to immediate war!§!\n
+§gThrough £decision_icon_small §HDecisions§! and §HFocuses§!, these negative spirits can be removed.§!\n
+§gThe Kuomintang and Yiguandao will resist our rule and will continuously stage attacks! Using £decision_icon_small §HDecisions§! they can be suppressed to a certain level temporarily. By completing §HFocuses§!, further £decision_icon_small §HDecisions§! will unlock to permanently end their presence and remove the spirits.§!\n
+Unlocks £decision_icon_small §HDecision§! to raise Xinhai Loyalist units.\n
+§RThis means Anqing definitively commits to participate in Fengtian's Reclamation War, meaning it cannot refuse to join once hostilities have begun. Anqing must, as a result, prepare for war.§!\n
+§RAbandoning Fengtian will lead to Anqing standing alone in China, making it very vulnerable. It also blocks off any further possibilities of Japanese aid.§!\n
+§H[QIE.GetNameDefCap]§! will guarantee us!\n
+£anq_qieinfluence §YQing Influence§! must be higher than §C30%§!.
+We will have to wait until we can find a better candidate.
+Has installed all provincial governors. §gIf a new candidate has to be found, this could take a month or two.§!
+Suppression can only reduce the Unrest Level to a minimum of 1!
+The movement has been suppressed to an Unrest Level of 1
+§RIf no suppression actions are taken against the KMT, they will be able to stage an attack!§! §YKMT Unrest Level§! [getanqkmtcanincrease]
+will increase by §R1§!.
+will not increase, as it has already reached the maximum level.
+§RIf no suppression actions are taken against the Yiguandao, they will be able to cause chaos unhindered!§! §YYiguandao Unrest Level§! [getanqyiguandaocanincrease]
+Taking this action will decrease §YKMT Unrest Level§! by §G1§!.
+Taking this action will decrease §YYiguandao Unrest Level§! by §G1§!.
+We will have suppressed KMT activities enough that we will be able to focus on fully eliminating them!
+We will have suppressed Yiguandao activities enough that we will be able to focus on fully eliminating them!
+§GTaking this action will permanently end the KMT unrest.§!\n
+§GTaking this action will permanently end the Yiguandao unrest.§!\n
+§GCompleting this focus will, if the KMT Unrest Level is 1, unlock the §YAnti-KMT Campaigns§! decision to permanently remove KMT Unrest.§!
+§GCompleting this focus will, if the Yiguandao Unrest Level is 1, unlock the §YAnti-Yiguandao Crackdowns§! decision to permanently remove Yiguandao Unrest.§!
+§RThis negative event was triggered by the mission §YSuppress KMT Activities§! timing out. Activate the mission to temporarily suppress the KMT until you can permanently deal with them by completing the §YFujian Encirclement Campaigns§! focus.§!\n
+§RThis negative event was triggered by the mission §YSuppress Yiguandao Activities§! timing out. Activate the mission to temporarily suppress the Yiguandao until you can permanently deal with them by completing the §YJiangsu Yiguandao Policies§! focus.§!\n
+The Anti-Concessionist Movement
+With the old League of Eight Provinces in ruins and anti-concessionist rhetoric running rampant, [ANQ.GetLeader] has successfully pushed himself forward as a beacon for the movement in China. Those that enabled his rise, however, could just as easily let him fall should he betray their interests, which sometimes run contrary to his own.\n\n§YCredibility§! §grepresents the overall legitimacy [ANQ.GetLeader] has within the anti-concessionist movement and the credibility of his claims to further their cause.§!\n\n$ANQ_credibility_modifier_tt$\n£anq_credibility §YCredibility§! range: §Y0-160§!\n§Y$ANQ_credibility_modifier$§! modifiers cap past £anq_credibility §YCredibility§!: §Y120§!.
+Recruit Anti-Western Volunteers
+The hate against Westerners is strong. We must harness this hate and organise those who arrive here, fleeing from the foreign puppet in Nanjing, in new divisions of volunteers to support our forces. We are heavily outnumbered and we must make use of all who wish to help us.
+Anti-Collaborationist Patrols
+The hate against the Germans and the West has spawned many vigilantes, who are currently operating on their own and trying to crack down on all who in the past collaborated with Germany. We must make use of this movement and employ them as general patrols in the countryside to improve safety and security.
+Harsh Desertion Policy
+Due to the general disorder in Eastern China, our lands are plagued with rebellious officers and other bandits, many of them former soldiers. We must crack down hard on deserters in order to prevent them from wreaking havoc on innocent peasants.
+Expel Western Nationals
+While many Westerners have already fled, realising that staying is most likely not a good idea, some stubborn ones remains. We can never be sure if they are spying for the enemy. Furthermore, making a large show out of expelling them should yield us some additional support.
+Redirect Criticism of Japan
+Our dealings with Japan have come under increased scrutiny from radical nationalists and others. They state that instead of selling out to Germany, we now sell out to Japan instead. However, without Japan, we would have no chance at independence and thus we need them to be seen favourably. We should attempt to redirect criticism directed at Japan towards criticism of Germany and the West instead.
+Emergency Wartime Requests
+To work within the limited room that we have, we are strongly dependent on assistance from abroad, most notably the Japanese Empire and the Qing to our North-West. They are willing to contribute to our actions in the war-torn lands of the League but will also only continue sending us equipment if a return on investment is likely.
+Propaganda for Chen
+Join the Central Government
+We acknowledge the authority of [QIE.GetNameDef] and their government in Beijing. Let us join forces with the Central Government in order to help pave the way for total national unification. We will mobilise our forces and our position in Eastern China as a powerful vanguard in order to aid in the completion of unification.
+Fall of Xuzhou
+North of the Huai River, the city of Xuzhou is not only a key railway hub but also a sizeable area for recruitment and an important bulwark in any operations aimed at the conquest of Jiangsu or Shandong.
+Fall of Nanchang
+Recently connected by a railway built by many of our Chinese brethren, this city has formed an important centre in the growth of the anti-concessionist movement and is a key asset for any would-be conquerors of the decaying League.
+Fall of Jinhua
+Home of the famous Jinhua ham, the city is an important regional centre for the processing and collection of food in the Zheijang province. Whilst not the largest city in the region, its connection by rail to Shanghai has made its importance rise drastically over the years and controlling it would be a massive boon for the movement.
+Fall of Nanjing
+Seen by some as the actual capital of China, the sprawling city of Nanjing is without a doubt the most important city of the League and should it fall the position of [LEP.GetLeader] would be under significant threat. That this would be our number one priority goes without saying.
+Huai River Line
+Connecting £victory_points §GBengbu§! with the interior of the Qing province of Honan, this river — whilst not having the prestige or shipping traffic of the Yangtze — still provides us with a small trickle of supplies from our allies in Beijing.
+Yangtze River Line
+A river of stories and a river of conflict, the Yangtze has had a profound impact on Chinese history from its origins up till the conflicts of the past decades. Flowing from the mountains of Tibet to the East China Sea, the 6,300 km river is a lifeline to nearly one-third of the Chinese population and a vital connection for the bolstering city of Shanghai.\n\nWith railroad connections into our territory barely existing and with heavy foreign support for our enemies in Nanjing coming in from the sea, this river provides us with a critical connection to our supporters in the territory under Wu Peifu. Should we lose the city of £victory_points §GAnqing§! then the impact on our potential to continue the war effort will be drastically decreased.
+The Beijing-Shanghai Railway
+Connecting the capital of the Great Qing to the financial hub of Shanghai on the East China Sea, this railway is one of the most important in all of China and a crucial supply line for our troops.\n\nThe main hub of importance for us is £victory_points §GXuzhou§!, but control over £victory_points §GNanjing§! and £victory_points §GBengbu§! will only increase our capacity to import supplies and will convince benefactors across the Qing land that we are likely to take up the mantle of the fallen League.
+The Nanchang-Shanghai Railway
+Connecting the city of £victory_points §GNanchang§! to the ports of £victory_points §GHangzhou§! and Shanghai, this less important railway is not as well connected to the lands of the Qing as the other railroads but can serve as a desperate last line of supplies and could support our actions in the Southern half of the League. Taking over control of the railway hub at £victory_points §GJinhua§! is likely to increase the amount of supplies coming down the tracks and will be seen as a sign of progress by our benefactors in the land of the Qing.
+The Beijing-Qingdao Railway
+Connecting Beijing to the German treaty port of Qingdao, this railway — much like its larger brother leading to Shanghai — is of key importance to our insurrection and should be held open at all times. One should tread carefully in this region, however, as the city of £victory_points §GJinan§! may still have hidden sympathies for the Yiguandao sect which has, under the rule of Zhang, steadily been increasing its influence in the region.
+Nantong-Nagasaki Shipping Route
+Behind Shanghai, likely the second most important port of the East China Sea and connected by rail to the interior, £victory_points §GNantong§! is of vital importance to ensure a steady supply of 'Chinese' weapons flowing into our army.
+Wenzhou-Nagasaki Shipping Route
+After Nantong, the most important port under the supervision of the League, £victory_points §GWenzhou§! is less influential than Nantong but serves as a key secondary source of arms and other supplies for the rebellion.
+Quanzhou-Takow Shipping Route
+Far more Southern than the other ports, £victory_points §GQuanzhou§! has a position very close to the Japanese island of Formosa and is as such an important lifeline to their armament complexes.
+Hangzhou-Nagasaki Shipping Route
+Secured together with the allegiance of the treacherous Chen Yi, governor of Zheijang, £victory_points §GHangzhou§! is the cornerstone of our revolt and the only connection with the Empire of the Rising Sun until we can secure the more important harbours of the East China Sea.
+Attack Shandong
+[SHD.GetNameDefCap] will most likely declare war on us any moment. We cannot let such a dangerous regime remain in power!
+Attack the Fengtian Government
+The Fengtian Government is not who we thought they were and we have broken relations with them. We must now move against them in order to save the future of China.
+Post-Collapse Reconstruction
+The League War has done incredible damage to our country and now it is time to rebuild. We must both rejuvenate the industry and rebuild the countryside.
+Road Reconstruction
+Much of the roads are incredibly damaged, in many cases even completely impassable. We must work on repairing the damage so travel through Five Provinces becomes more possible.
+Appoint New Armament Managers
+Much of our military industry was heavily involved with the Germans. Now they are gone, the factories are in disarray. We must appoint new managers, replacing the now-gone Germans and put these companies back into Chinese hands.
+Repair the Machinery
+A lot of the industrial machinery was damaged in the war, up to the point of being completely destroyed. As territory changed hands, both our militaries as well as bandits and other saboteurs frequently damaged and stole machinery. Repairs will be required.
+Factory Rebuilding
+Some factories were not only damaged or robbed of their machinery, they were also completely burned to the ground. We need to compensate Chinese factory owners and their workers and aid them in rebuilding the lost buildings to give our industry a new impulse.
+New Industrial Consortiums
+With the German companies gone, we must consolidate their former possessions into new, large industrial consortiums, such as the Jiangnan Consortium. This will allow us to better direct industrial policy.
+Village Reconstruction
+We must make a contribution to the reconstruction of smaller villages that have been unable to receive aid from local governments, or where the destruction is so bad that local governments cannot help.
+Reestablish Order
+While we have won the war, our country is still in chaos. We will have to do a lot of work if we wish to get rid of the threats that we still face.\n[getrestablishcontrolgovernors][getanqreestablishcontrolkmt][getanqreestablishcontrolyiguandao]
+\nFate of the Governors\n§gAnhui: [getanqreestablishcontrolanhuigov]\nZhejiang: [getanqreestablishcontrolzhejianggov]\nJiangsu: [getanqreestablishcontroljiangsugov]\nJiangxi: [getanqreestablishcontroljiangxigov]\nFujian: [getanqreestablishcontrolfujiangov]§!\n
+£trigger_no Has not started §YFate of the Governors§! focus.
+£trigger_no The decision will be made soon.
+£trigger_yes §YChen Tiaoyuan§! remains governor.
+£trigger_yes A close confidant of §YChen Tiaoyuan§! has been installed as governor.
+£trigger_yes §YChen Yi§! remains governor.
+£trigger_yes §YShangguan Yunxiang§! is now the official governor.
+£trigger_no It will take some time before a new candidate is found.
+£trigger_yes §YZheng Junyan§! stays on as governor.
+£trigger_yes §YMa Yuren§! has been installed as governor.
+£trigger_no §YDeng Ruzhou§! will be officially reappointed soon.
+£trigger_yes §YDeng Ruzhou§! stays on as governor.
+£trigger_yes A candidate has been installed as governor.
+£trigger_yes §YKong Zhaotong§! has been installed as governor.
+\n§YKMT Unrest Level§!: §H[?anq_kmt_unrest_level]§! §R([getanqunreststrengthtextkmt])§!
+\n§YYiguandao Unrest Level§!: §H[?anq_yiguandao_unrest_level]§! §R([getanqunreststrengthtextyiguandao])§!
+Suppress KMT Activities
+The Left Kuomintang continue to wreak havoc across the southern countryside, especially within the Fujian province. As we currently cannot spare the resources for a full on extermination campaign and lack a coherent strategy, we can only temporarily suppress them, and only to a certain level.\n§RIn order to be able to permanently remove the KMT presence, complete the §YFujian Encirclement Campaigns§! focus!§!
+Anti-KMT Campaigns
+Now that we have begun driving out the KMT with our encirclement campaign tactics, it is time to once and for all rid ourselves of the remaining KMT agents and terrorist cells in Fujian and neighbouring regions.
+Suppress Yiguandao Activities
+The Yiguandao cultists are rampaging in the north, attacking innocent travellers and causing great unrest in Jiangsu. We do not have any assets left over to fully end the threat, so we can only temporarily suppress them for now. We need to truly focus all our efforts if we want to get rid of them.\n§RIn order to be able to permanently remove the KMT presence, complete the §YJiangsu Yiguandao Policies§! focus!§!
+Anti-Yiguandao Crackdowns
+Now that we have begun improving the situation in Jiangsu and gotten rid of most of the instigators, the time has come for full-force crackdowns. We must find and track the gatherings of Yiguandao adherents and forcefully end them in order to safeguard our country's morality.
+Allied Diplomacy
+[getanqinfluencesystem]
+The Qing were instrumental to our defeat of the Nanjing Clique, and we owe them a great deal. Furthermore, we support the ideal of a united China. As a result, close cooperation with the Qing and a path towards potential unification are inevitable.\n\n§gCurrent §YQing Influence§!: [?party_popularity@market_liberal|%1H] §Y(Market Liberal Popularity)§!\nCurrent §YQing Anger§!: [?ANQ_beijing_anger|R1] §Y(Decreases 1 per Week)§!§!
+We recognise the Fengtian Government as the rightful Chinese government. Through them, the Japanese have significant influence as we depend on their support. Using our support of a united China, Fengtian will seek to expand their control over us.\n\n[getanqwillingnessreclamation]§gCurrent §YFengtian Influence§!: §H[?party_popularity@market_liberal|%1]§!§! §Y(Market Liberal Popularity)§!\n§gCurrent §YJapanese Aid Score§!: §H[?ANQ_tokyo_score]§!§!
+We once put our faith in the Fengtian Government, sought for the fulfilment of our republican dream. Yet what we received was nothing but betrayal.\nFengtian and Japan have abandoned us, if we don't act swiftly and take action, this isolated situation will drag us into the turmoil of China's rising tension and erase our existence.\n\n§YBut on the other hand, without their shackles, could this be the opportunity to achieve an even greater ambition?§!
+§g§YWillingness§! to join Reclamation War: §H[?ANQ_reclamation_willingness|+0]§!§!\n
+Sabotage Qing Influence
+At some point, enough will be enough as it will become increasingly harder to resist Qing advances. Therefore, it may be worth it too, through clever political manoeuvring, sideline pro-Qing officials and overall reduce Qing influence.
+Closer Qing Cooperation
+We recognise Qing as the national government. We also believe in a united China. As such closer cooperation is a step forward for all Chinese people. With shared projects, political dialogue and many other things we can increase our mutual ties.
+Placate Qing
+Qing is very angry with our government. We should work to agree to their demands in the hope that they will back down with their threats. We cannot risk a complete breakdown in relations as we would be on our own.
+Coordinated Industrialisation
+Beijing and Nanjing, the Northern and Southern Capitals, are responsible for a large proportion of our industrial output. That provides us with an excellent opportunity to coordinate the industrialisation and achieve better results for both cities.
+Canals and Dykes
+Now that we have assisted Qing with the construction of canals and dykes in the Hebei, Kaifeng and Bengbu regions (the latter of which is our own), they have now come to aid us in the construction of additional canals in Jinhua and Hangzhou, which should help connect these regions to our capital.
+Develop Wuchang-Anqing
+The Wuchang-Anqing region is an ideal location to develop that benefits both [QIE.GetName] and Anqing. We will invest significant resources in improving and industrialising the region.
+Join War Against Fengtian
+Now that we are in an alliance with Qing, it is time for us to join their war against the Fengtian invaders and defend China from their evil.
+Join War Against Fengtian
+The Qing are being attacked by Fengtian! Do we wait until China is overrun by a Japanese puppet regime or do we act now in defence of our northern neighbours?
+Sabotage Fengtian Influence
+At some point, enough will be enough as it will become increasingly harder to resist Fengtian advances. Therefore, it may be worth it too, through clever political manoeuvring, sideline pro-Fengtian officials from the Xinhai Society and overall reduce Fengtian influence.
+Closer Fengtian Cooperation
+We recognise Fengtian as the national government. We also believe in a united China. As such closer cooperation is a step forward for all Chinese people. With shared projects, political dialogue and many other things we can increase our mutual ties.
+Rally Xinhai Loyalists
+Our recent moves to support the republican ideals of the Xinhai Revolution have led to a large number of republicans to report for duty. Some even served with Fengtian, but have now come home. Others simply remember the Qing Restoration as a dark day in our history and wish to contribute to its destruction.
+Join the Reclamation War
+[ANQ_attack_QIE_description]
+Fengtian is making the final preparations for its war with [FROM.GetNameDef], meaning we must prepare and honour our commitment.
+Fengtian is at war with [FROM.GetNameDef]. We must seize this opportunity and declare war upon them as well. The Wuhan region would be a very attractive target.
+Develop Huainan Mines
+Develop Changsha Mines
+Develop Nanjing Mines
+Develop Jinan Mines
+Japanese Instructors
+The Subei Canal
+The Northern Jiangsu Main Irrigation Canal or Subei Canal has been designed to provide a direct outlet to the sea for the waters of the Huai River, which discharged near the mouth of the Guan River. In the late 12th century the Huang He (Yellow River) changed its course to discharge south of the Shandong Peninsula, thus taking over the lower course of the Huai, which thereafter discharged into Hongze Lake and thence southward through a string of lakes and waterways into the Yangtze River (Chang Jiang) near Yangzhou (Jiangsu). The Huang He remained in that course until the 1850s, when it again shifted to its present course north of the Shandong Peninsula. In the early 20th century the drainage of the Huai area had become a perennial problem.\n\nTo solve this issue a canal linking Hongze Lake with the sea has been ordered, designed not only as a channel for the discharge of floodwaters but also as the main artery of an extensive network of drainage and irrigation channels.
+Overstretched Administration
+We have been forced to replace the former League provincial governments, but this has stretched our own government to its absolute limit.
+Purged Military
+In order to establish firmer control over Nanjing, we decided to purge a significant portion of the former military apparatus belonging to Qi Xieyuan and Sun Chuanfang that was in place there.
+Purged Bureaucracy
+The bureaucracy of Nanjing, held together by the late Sun Chuanfang, continued working against us and was making establishing control over Nanjing very difficult. They have now been purged.
+Purged Nanjing
+In order to establish firmer control over Nanjing and to show the population we truly want to get rid of the corrupt leaders of the past, we have both §YPurged the Military§! and §YPurged the Bureaucracy§! of agents who had deep ties to the late Sun Chuanfang and Qi Xieyuan.
+Fengtian Troop Training
+A large military mission consisting of many Fengtian drill sergeants, as well as some Japanese ones, is helping us train troops as quickly as possible in order to battle against the League.
+Anqing Training Aid
+We have sent an extensive training mission to Anqing to aid them with training troops in their conflict with the League. If they succeed, we will have a powerful ally in the Chinese mainland.
+Reconstruction Plan
+Fengtian has committed to aid us in our reconstruction, which will help us recover from the war much faster. Reconstruction crews, guards, direct financial support among other things are all included.
+Reconstruction Plan
+Japan and Fengtian have committed to aiding us in our reconstruction, which will help us recover from the war much faster. Reconstruction crews, guards, direct financial support among other things are all included.
+Anti-Concessionist Militias
+Popular support for our cause is large, and as a result, many are begging to join the ranks of our army to finally free ourselves of the German chains.
+A New Xinhai
+Beijing has betrayed the ideals of the Xinhai Revolution. We will return to the days of that glorious revolution and let its fire burn bright again in the hearts of all Chinese people. We will fight to make the dream of Xinhai true once more.
+$ANQ_new_xinhai_idea_desc$
+Qing Army Cooperation
+While we may not have reached an agreement on unification, we do agree that defence from outside threats is critical if China is to survive. For that reason, Chen's Anqing Clique and the Qing are closely cooperating in military affairs to ensure the quality of the troops.
+$ANQ_qing_army_cooperation_desc$
+$ANQ_qing_army_cooperation_desc$
+$ANQ_qing_army_cooperation_desc$
+Palace Construction
+Our government has been forced to fund the construction of Puyi's personal palace in Nanjing.
+Temporary Qing Sanctions
+In response to our recent refusals of their proposals, Qing has decided to punish companies operating within their territory.
+Qing Business Investments
+Recent actions on our part have led to a temporarily large amount of Qing businesses seeking to invest in our country.
+Temporary Sanctions
+Qing Relations Breakdown
+Yiguandao Unrest
+The general unrest in the north, combined with the civil war, has caused unrest under Yiguandao religious adherents to skyrocket. They are congregating en masse and are causing great chaos in our northern provinces. If we do not work to suppress them quickly, the disorder will only get worse.\n\nUnrest Strength: [getanqunreststrengthtextyiguandao]
+KMT Unrest
+While the Left KMT government has been finally broken as they poured all their remaining resources into the insurgence, many of the deserters and bandits who were once among their ranks continue to stir up trouble. Left KMT supporters will continue to cause trouble in the south if we do not mop up their final remaining hideouts.\n\nUnrest Strength: [getanqunreststrengthtextkmt]
+Righteous Cause
+The Anti-Concessions Movement and general hostility toward the former establishment has roused a groundswell of support for the Anqing Clique. China deserves to be free of German imperialism, and the people's support is proof!
+Victory Against Nanjing
+Victory against the Nanjing Clique has lead to a rise in support for Chen's regime. It has also given the soldiers in his army cause to believe that peace can return to the Five Provinces.
+Peace in the Five Provinces
+The successful unification of the Five Provinces by Chen has led to great support for his person and will, at least temporarily, distract them from the chaos the war caused.
+Black Dragon Society Cooperation
+Our forces fight for the glory of Asia and against the West. Beijing and much of China is practically occupied by those who wished to enslave us. We cannot tolerate this and must work together in the name of Asia with the only anti-imperialist power left, Japan. The Black Dragon Society is engaging the population with this radical idea.
+Nationalist Spirit
+We serve the cause of China, and China alone. We serve no other lords outside and are the beacons of patriotism. We shall stand strong and united in our nationalism.
+Chen Yi's Compliance
+The governor of Zhejiang, Chen Yi, has been swayed by Chen Tiaoyuan's anti-concessionist position, and perhaps the opportunities it promises.
+Shanguan's Compliance
+Beijing Cooperation: Limited
+Beijing Cooperation: Low
+Beijing Cooperation: Low
+Beijing Cooperation: Low
+Beijing Cooperation: Medium
+Beijing Cooperation: Medium
+Beijing Cooperation: Medium
+Beijing Cooperation: High
+Beijing Cooperation: High
+Beijing Cooperation: Very High
+Beijing Cooperation: Very High
+Beijing Cooperation: Near Complete
+Beijing Cooperation: Total
+$IDEA|Y$ National Spirit stays unchanged.
+The Anqing Clique owes a number of things to the government in Beijing. Furthermore, both Chen and the leaders in Beijing believe in a united China, free of foreign influence, which has lead to close cooperation between the two governments. However, for the Beijing government, cooperation might not be enough.
+$ANQ_beijing_cooperation0_desc$
+$ANQ_beijing_cooperation0_desc$
+Chen and the leaders in Beijing believe in a united China, which has lead to close military and economic cooperation. However, the Beijing government also seeks control and as a result of its influence and Anqing's reliance on them, has begun forcing restrictive economic treaties.
+$ANQ_beijing_cooperation3_desc$
+Chen and the leaders in Beijing believe in a united China, which has lead to close military and economic cooperation. But this cooperation comes at a price, as we are forced to allow preferential economic access, not dissimilar to what the Germans once forced on us.
+$ANQ_beijing_cooperation5_desc$
+$ANQ_beijing_cooperation5_desc$
+While a united China is powerful and gives us many benefits, it is obvious now it has come at a price. The Beijing government has preferential access to our markets and a significant stake in much of our industry. If we stay on this path, we may lose our autonomy altogether.
+While a united China is powerful and gives us many benefits, it is obvious now it has come at a price. The Beijing government has preferential access to our markets and a significant stake in much of our industry. Beijing's influence has become so powerful, refusing additional demands might not even be possible.
+The dream of a united China was powerful, but for our government, it has meant near submission to the Beijing government. We must be very careful, or their political influence and economic control will lead to the end of our autonomous government.
+The dream of a united China was powerful, but for our government, it has meant practical submission to the Beijing government. There is little choice but to comply with whatever Beijing demands.
+The dream of a united China was powerful, but for our government, it has meant submission to the Beijing government. Much of the economy is in their hands and soon they will take over our government as well.
+Fengtian Cooperation: Limited
+Fengtian Cooperation: Low
+Fengtian Cooperation: Low
+Fengtian Cooperation: Low
+Fengtian Cooperation: Medium
+Fengtian Cooperation: Medium
+Fengtian Cooperation: High
+Fengtian Cooperation: High
+Fengtian Cooperation: Very High
+Fengtian Cooperation: Near Complete
+Fengtian Cooperation: Total
+$IDEA|Y$ National Spirit stays unchanged.
+The Anqing Clique owes a number of things to the government in Fengtian, and also Tokyo. While the initial cooperation has proven beneficial, eventually the Fengtian government and their Japanese benefactors might ask for more.
+$ANQ_fengtian_cooperation0_desc$
+$ANQ_fengtian_cooperation0_desc$
+The Anqing Clique owes a number of things to the government in Fengtian, and also Tokyo. While the initial cooperation has proven beneficial, the Fengtian and Tokyo governments also seek control and as a result of their influence and Anqing's reliance on them, have begun forcing restrictive economic treaties.
+$ANQ_fengtian_cooperation3_desc$
+The Anqing Clique cooperates closely with the Fengtian and Tokyo governments. But this cooperation comes at a price, as we are forced to allow preferential economic access, not dissimilar to what the Germans once forced on us.
+$ANQ_fengtian_cooperation5_desc$
+$ANQ_fengtian_cooperation5_desc$
+While a united Fengtian-Anqing bloc is powerful and gives us many benefits, it is obvious now it has come at a price. The Fengtian government and its Japanese benefactors have preferential access to our markets and a significant stake in much of our industry. If we stay on this path, we may lose our autonomy altogether.
+While a united Fengtian-Anqing bloc is powerful and gives us many benefits, it is obvious now it has come at a price. The Fengtian government and its Japanese benefactors have preferential access to our markets and a significant stake in much of our industry. Their influence has become so powerful, refusing additional demands might not even be possible.
+While a united Fengtian-Anqing bloc is powerful and gives us many benefits, it is obvious now it has come at the price of complete submission. Much of the economy is in their hands and soon they will take over our government as well.
+Derelict Industry
+While Chen's government has been able take over much of the industry previously controlled by the Nanjing Clique, it has been heavily damaged by the war and much of the supply chains are disrupted. Furthermore, his nationalist policy has caused many foreigners and wealthy business owners to flee. Restoring production will take time.
+Widespread Destruction
+The Five Provinces have been ravaged by the conflict and will need time to recover. Railway lines have been destroyed, dams have been sabotaged and villages and cities have been burned to the ground. Much of the government's resources must go to reconstruction.
+Ruined Interior
+Not only the industrial heartland of the Five Provinces has been destroyed, but also the towns and villages of the provincial interior. Deserters, Yiguandao fanatics, left-wing KMT agents and other bandits continue to do damage even though the war is over. The interior will also need time to recover.
+Institutional Chaos
+The aggressive actions against foreigners and traitors have caused the widespread collapse of the institutions that have kept this country together. Chen's government must start from the beginning and bring back order to these institutions through reorganisation and appointing new officials.
+Patriotic Nation
+The Five Provinces have been seized based on the patriotic sentiment of our countrymen. Their patriotism gives Chen's government strength and support, both financially and militarily.
+Managed Movement
+The Anti-Concessions Movement was instrumental to Chen's rise, but its radical elements threaten to undermine his authority. Through active intervention, it has been made the movement more manageable and its excesses have been removed. It is now firmly in support of Chen's political goals.
+National Development
+The war has been won and the Five Provinces stand behind Chen Tiaoyuan. Now, the country is undergoing large-scale industrialisation and development. Critically, this is not based on Western help, but instead on China's own strength.
+Clique Control
+While Chen came to power with the people supporting him, it is not the people who control the Five Provinces. Instead, it is Chen's clique of personal friends and political allies. Since the massive purges that accompanied his nationalist revival, only those fully trusted by Chen have received positions of power.
+Industrial Backing
+Chen's administration has the backing of many Chinese industrial leaders, many of whom are happy that German competition has been eliminated. These companies will help develop the Provinces.
+Backed Currency
+Dike and Levee Authority
+The specialised authority has focused on protecting the countryside from the regular flooding of the great rivers of China and has been very successful, greatly enhancing security. It also works on supporting irrigation and trade with the construction of canals and other works.
+Dike and Levee Authority
+The specialised authority has focused on protecting the countryside from the regular flooding of the great rivers of China and has been very successful, greatly enhancing security. Among its greatest achievements is the completion of the §YSubei Canal§!.
+Dike and Levee Authority
+The specialised authority has focused on protecting the countryside from the regular flooding of the great rivers of China and has been very successful, greatly enhancing security. Among its greatest achievements is the completion of the §YSubei Canal§! and §YCanal and Dyke Cooperation§! with Qing.
+Modern Schooling System
+Chen's education initiatives have already helped build hundreds of schools and informed thousands of teachers about how to educate Chinese children for the modern age.
+Developing Nation
+Now that order has been restored, the interior and countryside have the chance to flourish. A §YModern Schooling System§! and §YDike and Levee Authority§! are among the things this nation now has that it did not have before.
+Developing Nation
+Now that order has been restored, the interior and countryside have the chance to flourish. A §YModern Schooling System§! and §YDike and Levee Authority§! are among the things this nation now has that it did not have before. Furthermore, this work has also lead to the completion of the §YSubei Canal§!.
+Developing Nation
+Now that order has been restored, the interior and countryside have the chance to flourish. A §YModern Schooling System§! and the §YDike and Levee Authority§! are among the things this nation now has that it did not have before. Furthermore, this work has also lead to the completion of the §YSubei Canal§! and to the §YCanal and Dyke Cooperation§! with Qing.
+Dalu Yinhang Loans
+Dalu Yinhang, on Qing initiative, is giving us various large loans. These loans provide us with additional capital that can be used for our industrial expansion.
+Dalu Yinhang Loans
+Dalu Yinhang, on Qing initiative, is giving us various large loans. These loans provide us with additional capital that can be used for our industrial expansion. The Qing have made sure the terms are relaxed, offering us greater benefits.
+Northern Bank Loans
+On top of Dalu Yinhang's loans, Qing has made sure that other banks also participate and are thus lending us additional capital for our industrial expansion. This does require additional debt servicing costs.
+The Fool's Journey
+Chen Tiaoyuan, the 'Fool', has decided to once again strike it out on his own. The League of Eight Provinces has collapsed and this is the greatest opportunity Chen will ever see. Sun Chuanfang is dead. if Chen can show he can match his proclaimed successor, Qi Xieyuan, he might be able to become the League's next Marshal.
+Stand with Zhang Zuolin
+The final bastion of the Beiyang leaders is in Fengtian. We cannot trust Wu Peifu and the Qing and thus our only option, if we wish to succeed, is to stand with the forces of republicanism. They can provide us with the necessary tools we need to survive.
+Defend the Coastal Corridor
+In order to guarantee continuing shipments from Japan, we must ensure we keep control of the ports and control a connection to our heartland. Without these shipments, our supplies will soon dry up and we will see ourselves completely outnumbered by the Nanjing Clique. We must defend the coastal corridor at all cost!
+Streamline Shipments
+We are almost completely dependent on shipments by sea. We must properly organise these and make sure that no ship is wasted. Making optimal use of the ports we hold and the convoys we possess is imperative.
+New Provincial Governments
+As we establish our authority over the other provinces, we must make sure to install new governments that we can depend on. If we just use our military officers, it will be a disaster. We must use local men to establish more stable provincial governments.
+Stand with Beijing
+Wu Peifu has shown to be a great leader. He has brought together much of China. The Emperor might have again been forced upon us, but he can still be seen as the rightful ruler of China. Together with Wu, we can embark on a nationalist course that will benefit all of China.
+Secure the Jinpu Line
+If we wish Qing shipments to arrive, we must make sure we control the Jinpu Line, which runs from Beijing through Xuzhou into Anhui Province, as it is the most direct railway into our territory. If we can secure it, we can be sure of continuous shipments from Beijing.
+Increase Rail and Barge Capacity
+We must increase the frequency and volume of Qing rail and river shipments if we wish to stock up on equipment to beat the Nanjing Clique. We must improve the capacity of the railways and hastily construct larger additional river barges using emergency measures.
+A New Army
+To control the territory of the Five Provinces, we need a strong army. While our men are brave, many are not properly trained or equipped. We need to begin the formation of a new army if we want to remedy this.
+Air and Naval Command
+Previously, we have relied almost completely on the strength of our army. We must diversify our forces into the theatres of air and water. Our navy has always been weak and it is time to modernise it. We also need to take control of our skies if we want to prevent fire raining upon us when we meet more modern enemies.
+Zhejiang Naval Yard
+It is time to begin investing in a new and expanded naval yard for our shipbuilding in Zhejiang. It will be capable of assembling also the great ships of today and will be necessary if we wish to modernise our fleet.
+Naval Officer Training
+In order for our new fleets to operate in a modern way, we need well-trained naval officers. Without these, coordination will be lacking and any manoeuvrer will fail. We need to improve the training of our naval officers in order to tame these massive steel beasts of the seas.
+Green Water Navy
+We know that we cannot build a fleet that will project power in the oceans. We simply lack the technology and industry. Instead, we must protect our coasts and prevent any enemy from landing on our shores. We will therefore invest in the types of ships best suited for this purpose.
+Nanjing Air Corps
+We need a dedicated Air Corps if we wish to make a difference in the skies. This new corps will unify our various air units and allow us to complete the efforts required in order to modernise our ancient air force.
+Expand Hefei Luogang Airbase
+The Hefei Luogang Airbase is a prime location for new expansions. We will greatly expand its size so it can house far more planes than before. Hefei Luogang will allow us to properly control the skies in a large radius.
+Eastern Aviation School
+In order for our Air Corps to function, we will need pilots. Experienced and well-trained pilots. Currently, we lack the capability to train enough pilots and it is necessary to build a dedicated school to greatly increase the number of graduate pilots to crew our planes.
+[getanqairframestitle]
+[getanqairframesdesc]
+Japanese Airframes
+Japan has an outstanding aircraft industry. If we wish to build a strong Air Corps, we need advanced and modern planes. Japan will surely be willing to provide us with some airframes and aid us in our own research efforts.
+Beijing Fighter Collaboration
+Cut off from the West, we will need to collaborate with Beijing if we wish to have any chance at all at building capable aeroplanes. If we put our best minds together and work together, we will be able to truly advance the Chinese air industry.
+Northern School Doctrine
+We must adopt the modern war tactics of the North, which emphasises a superiority in equipment and artillery and better-prepared and trained divisions. It has been developed in practice by the warlords of the north, who often fought on the North China Plain.
+Southern School Doctrine
+We must adopt the modern war tactics of the South, which emphasises greater numbers and mobility. It has been developed in practice by the warlords of the south, who often fought in the mountains.
+Chinese Drill Standards
+If we wish the new League to have a strong army, our troops must know proper discipline. This demands the introduction of traditional Chinese drill standards. With these measures, the League armies will be much more organised on the battlefield.
+Radio Innovations
+China is a large country. If we wish to properly communicate over large distances on the battlefield, wireless communication technology is a must. We should therefore invest in cutting-edge radio technology, which will allow our forces to operate much more effectively.
+Modern Rifle Research
+Many of our rifles are old or foreign. If we invest in the research of modern rifle technologies, we can develop modern rifles that can replace the mess of various guns we currently possess.
+[getanqartillerytitle]
+[getanqartillerydesc]
+Japanese Artillery
+One of the major weaknesses of our forces is the lack of heavy artillery. To remedy this, the Japanese should be able to provide us with modern technology and also some limited numbers to get us started.
+New Chinese Artillery
+Heavy and powerful artillery is rare in China. For this reason, possessing such weaponry would be an even greater advantage. We must use our resources to develop truly Chinese artillery pieces.
+Japanese Tank Imports
+Japan is the only country in Asia with the capability to field modern tank divisions. We should import a limited number of them and start constructing small tank divisions of our own. They would be incredibly useful for pushing through enemy lines as our foes most likely do not know how to deal with them.
+Anti-Tank Improvisation
+Our mortal enemy, Japan, will most likely deploy tank divisions. If we want to have any chance at all, we must outfit our divisions with rudimentary anti-tank weapons. We cannot develop incredibly advanced anti-tank weapons, but we can always improvise.
+Reform Jinling Academy
+The Jinling Academy, the great officer school of Nanjing, is in dire need of reform. The staff exclusively teach the old ways and fail to take into account the enormous advancements made in recent years. We must reform the education system and make sure that a new generation of officers that graduate from the Jinling Academy will prove worthy officers in our armies.
+Special Intelligence Units
+The use of specialised intelligence units working concurrently with the army has proven useful for the Imperial Japanese Army. We should train a number of these units to improve our intelligence gathering efficacy.
+Capital Guard Divisions
+There are various old divisions that were disbanded following the war. Among them were the capital guard divisions. If we supply them with new officers, we can reform these divisions.
+Operational Battle Command
+We should focus on the creation of an 'operational battle command' that will form a central consultation for all operational matters. This command will improve the coordination between various branches and elements of our forces.
+Pan-Asian Spirit
+Our forces fight for the glory of Asia and against the West. Beijing and much of China is practically occupied by those who wished to enslave us. We cannot tolerate this and must work together in the name of Asian cooperation to drive out the West.
+Nationalist Spirit
+We fight for China, and China alone. For too long have we been humiliated by foreigners. We cannot trust the Japanese, we cannot trust the Germans and the Westerners who seek to destroy our culture, we can only trust ourselves.
+Modern Officer Corps
+After thorough reforms and various improvements using the reformed Jinling Academy, we now possess a modern officer corps. Our officers believe in the cause we are fighting for and have adopted modern methods of warfare. We can now be truly proud of our army.
+Five Stars Five Provinces
+The Five Provinces, Jiangsu, Zhejiang, Anhui, Jiangxi and Fujian, have been united by Chen Tiaoyuan, who is now the new Marshal of the League. The League is divided, with a chaotic government with little authority in provinces other than Anhui, a weak economy detached from the international market and rising discontent. However, if the League can be properly united, it can become a powerful force in China.
+Institutional Chaos
+Most of the government structures were torn asunder by the war between the Nanjing and Anqing Cliques. While Chen now controls the Five Provinces through military force, his newly installed local governments lack authority. The momentum that propelled Chen to independence and victory over the Nanjing Clique will need to be exploited if he wishes to remain in control.
+Use the Anti-Concessionists
+It was the great support of the Anti-Concessions Movement that gave Chen the opportunity to seize power, an opportunity that he did not waste. However, if this movement is not properly managed, it could spiral out of control. We will need to properly harness the elements of the Anti-Concessions Movement and use it to our benefit.
+Encourage Patriotic Contributions
+With our newfound popular support, we should encourage the people to contribute to the cause, in the forms of guns, food, or even simply money. If we can show ourselves to support China, and to not be some Western puppets, we can look forward to many patriotic contributions.
+Sanction Patriotic Protests
+Sun Chuanfang and Qi Xieyuan made the mistake to crack down hard on protests. In fact, it was the harsh reactions against often quite limited protests that often set off a much larger chain reaction. Since we need the Anti-Concessions Movement as an ally, we will not make the same mistake and instead allow sanctioned protests, if they are patriotic in nature.
+Take Over Foreign Assets
+The various foreign assets left behind by the hasted evacuation of Western industrialists must be taken over by our government and put to good use. They will be returned to Chinese businesses with rightful claims. These assets are often plentiful and should aid us in our industrialisation efforts.
+Seize the Presses
+The press has become a bit free and radical of late. It is time we start taking control of as many media outlets as possible. While we will let them print mostly what they want, especially if it concerns patriotic calls to support us, we must prevent them from directly criticising us.
+Convince Intellectuals
+Many of the great urban intellectuals that have called for the expulsion of the West from China for decades remain sceptical of our intentions. It is time we 'convince' these intellectuals that what we are doing is good for China.
+Hunt Hanjian
+There are few Chinese who did not at all commit some act of collaboration with the West. This should make it easy for us to paint our enemies as Hanjian, traitors to China. If we simply call for their arrest, vigilantes will take care of the rest.
+Public Morality Campaigns
+It is time we instil a sense of morality in the public. We must show them all the good things we are doing, the actions we have taken against the West, the traitors we have caught and executed, the support of intellectuals for our cause. This should further enhance our standing and hopefully, boost our support.
+Targeted Removals
+With the public behind us and the important people supporting our cause, it is time we begin dealing with the troublemakers. Some continue to resist what we have been doing. Others say our intentions are not as good as we say. We must make sure that these people are removed from their positions of power so we can continue with our reforms.
+Okura Bank Loans
+If we wish to continue our heavy investments into the economy, we need additional capital. With Japan acting as our benefactor, the Japanese Okura Bank would be a good option. If they can provide us with loans with favourable terms, we can continue our industrialisation policy.
+Dalu Yinhang Loans
+Dalu Yinhang, one of the Northern Banks, has offered us various large loans. These loans will come in incredibly useful in order to continue investing in our industries. We need additional capital if we want to carry out our goals.
+Zaibatsu Contracts
+In certain areas, we simply lack the expertise required to carry out complex operations and investments. Various large Japanese zaibatsu, however, would be eager to take on new contracts. We should invite them here to help develop our country.
+Caifa Contracts
+The caifa, the Chinese equivalents of the zaibatsu, are eager to expand. While many of them are relatively young and undeveloped, we could allow Chinese businesses to flourish if we hand them this opportunity.
+Chen's Reconstruction
+The League War has caused tremendous damage to our country. To show that Chen Tiaoyuan is not like his predecessor, he should personally involve himself in this reconstruction and the government should not look to others for help but show that it is only Chen who can fix things.
+Reconstruction Cooperation
+The interior has been heavily damaged by the war. With the help of [getanqally], we should begin extensive efforts to repair the damage. Our allies might not be able to provide advanced technological support, but they can provide manpower and resources to aid in more menial work.
+Open the Grain Stores
+The recent war has lead to food shortages all over Eastern China. Thankfully, there are large grain stores that we can rely on. While these are usually reserved for droughts, not opening them would only spark additional discontent.
+Eight Regulations
+If we wish to keep public support for our government high, we must make sure that our armies do not mistreat the people. For this reason, we should introduce additional regulations that our troops should follow. If we enforce these strictly, the people will soon appreciate the professionalism of our military.
+Pacify the Countryside
+Now that the war is over, we must make sure that peace returns to the rural interior. For too long have many farmers and peasants been plagued by bandits and deserters. We shall use our military to pacify the countryside and deal with any remaining violent elements.
+Jiangsu Yiguandao Policies
+The Yiguandao continue to stir up trouble in our northern Jiangsu province. We must remove the fertile soil of poverty and distrust that has brought these people to the Yiguandao religion. It is also critical to get rid of all the instigators and prophets who spread the religion. Once we have done that, we can begin cracking down on their gatherings and finally get rid of it.
+Fujian Encirclement Campaigns
+While the KMT has lost control of most of its territory, they continue to be holed up in various bases throughout Fujian. In order to prevent them from escaping each time we close in on them, we should employ a tactic of 'encirclement campaigns', in which we encircle them and close off any escape route. This should help to finally get rid of them.
+Provisional Currency
+The recent war has lead to dozens of different currencies flourishing, many of them supported exclusively by small local governments. A new provisional currency should help ease the transition into a more national currency in the future. This should ease trade between the Five Provinces and hopefully them closer together.
+Rural Outreach
+Many of the peasants feel left out by the new government. All they see is talk about development in Nanjing and other cities along the coast. However, we are very reliant on constant food output from farmers in the interior. We should begin a programme of rural outreach and begin fixing persistent problems in small villages.
+Dike and Levee Authority
+Floods are an endemic problem in China, especially in the interior. Furthermore, much of the infrastructure designed to protect cities and towns has been damaged in the war. A special authority should be instituted to help solve these problems.
+Modern Schooling System
+Many of the people in the interior are barely educated and can read nor write. The current schools use antiquated education methods and many don't go to school at all. We should invest in the introduction of a modern schooling system as well as the construction of thousands of new schools in the countryside to properly educate the peasants.
+Relocate to Nanjing
+While Chen Tiaoyuan's power base is in Anqing, he cannot afford to keep his government there. Sun's League was ruled from Nanjing and if we wish to have any chance at a stable government at all, we should run it from Nanjing as well. This will require thorough reorganisations, but it has to be done.
+Fate of the Governors
+Now that we militarily control all of our territory, it is time to begin installing civilian governments again. Almost all former province governors chose the side of our enemy, Qi Xieyuan, so we will have to decide if we let them return to their posts, or if we shall seek to find new candidates.
+Nanjing Purges
+Many soldiers and officers in positions in power in Nanjing cannot be trusted. They partook in Sun's actions against the Anti-Concessionists and could turn on us anytime. We do not know if hostile spies are among them either. If we wish to run our government in Nanjing effectively, we will need people we can trust. This will require a series of thorough purges of the bureaucracy in Nanjing.
+Administrative Centralisation
+The high degree of decentralisation of the Old League allowed Chen Tiaoyuan to declare independence and seize power. While this was useful at the time, we must prevent something similar from happening at all costs. Centralising power will help prevent local leaders from gaining too much power.
+Fight High-Level Corruption
+Sun Chuanfang's League was plagued by corruption in the highest spheres. If we wish to have any semblance of legitimacy, dealing with this corruption is a necessity. Furthermore, if we wish to safeguard our independence, a harsh stance on corruption is required as well.
+Consortium Negotiations
+The most powerful Chinese businesses, the Consortiums, will be needed if we wish to achieve any kind of change. Many enjoyed good times under Sun as he let them do whatever we want. We must convince them that now with the Germans gone, they will have much greater opportunities to expand and will no longer have to deal with a German monopoly on resources.
+Expand the Jiangnan Arsenal
+The Jiangnan Arsenal is the largest centre of military production in the Five Provinces. While concentrating our production in one city is dangerous, the Jiangnan Arsenal is the only organisation capable of meeting our demands. We should therefore invest in the expansion of their facilities in order to boost our military production.
+Zhejiang Industrial Bank
+The Zhejiang Industrial Bank is a major player in Eastern China. Now that we have expelled the Germans and other foreign banks, this should provide additional opportunities for a bank like the ZIB. If we work together with them, we can help them expand their businesses while they help provide us with capital for our economic plans.
+Lower Yangtze Development
+The Lower Yangtze region is the pride of the League. It is where most of its industry is concentrated and where technological development is most rapid. Capitalising on this is necessary if the League wishes to develop any industry at all. Our efforts have led to a stable government and economic expansion, both required if we want the League to be powerful.
+A New Xinhai
+Beijing has betrayed the ideals of the Xinhai Revolution. The only state that has not yet let these ideals go is Fengtian China. With our declaration supporting them, we are now also sons of the Xinhai Revolution, an honour that the rest of China no longer appreciates.
+Pan-Asian Legitimacy
+The legitimacy of our government is based on the ideals that underpin the Japan-Fengtian relationship. Because why would the different Asian peoples fight each other, when our true enemy is the west? The government in Beijing has betrayed China and the rest of Asia by allowing themselves to be exploited. We will no longer stand for this and instead use Pan-Asian ideals to support our government.
+Manchurian Imports
+We are in dire need of additional resources as the war hurt us significantly. Imports from Manchuria could help us recover faster.
+Mantetsu Rolling Stock
+Our railways are damaged and much of our trains destroyed in the war. We should invite Mantetsu to remedy this and supply us with additional rolling stock. This will allow us to move resources through our territory much easier.
+Japanese Industrial Methods
+With the exit of the Germans, we are having trouble getting much of our industry back online. However, the Japanese have managed to industrialise incredibly fast and thus their expertise should help us recover much of what the Germans left behind. It should also allow us to catch up faster and replace much of the lost expertise with Japanese expertise.
+Electronic Studies
+Our electronics industry is incredibly antiquated and we lack major research centres. With Japanese help, we should be able to blow new life into our electronics industries and hopefully be able to compete with other world leaders.
+Industrial Leap Forward
+Using cutting-edge Japanese innovations and the financial capital of their economies, we can leap forward industrially. This way, China can become competitive economically.
+Japanese University Exchange Programme
+Our universities have had very little new academic progress recently. Especially technologically, we continue to fall further behind the rest of the world. And without other countries to provide us with aid, we must rely on Japan. Organising a large-scale exchange programme with Tokyo Imperial University should give our universities the required boost and kickstart our academic culture.
+Undermine Anti-Concessionists
+While the Anti-Concessions Movement has been an incredibly valuable ally and proved decisive in our victory over the Nanjing Clique, its members continue to radicalise and use the momentum of the movement against our interests. We must subtly begin undermining the movement, planting agents and preventing larger manifestations...
+Republican Credibility
+[getanqrepublicanfocus]
+Instead of defending our relationship with the Japanese, we will focus as much as we can on the credibility that comes from our recognition of the Fengtian government as the true Republic of China. The Xinhai Revolution remains incredibly popular and has been Fengtian's primary claim to legitimacy. We must also focus on this aspect to create credibility for our government.
+We stand alone in China, meaning that we must show that we have truly moved away from the destructive Qing hegemony. The Xinhai Revolution remains incredibly popular and we must cling to its Republican ideals to create credibility for our government.
+Beiyang Ideals
+While the time of the Beiyang Government was chaotic, it was also the birthplace of Chinese republicans. We must return to these old ideals that led to our predecessors deciding to overthrow the Manchu Qing dynasty in favour of a truly Chinese Republic.
+National Development Project
+[getanqnationaldevelopment]
+We can set up a national development project with our allies or on our own as a flagship of China's renewed greatness. This will showcase how far China has come in such a short time and hopefully demonstrate that we are quite a capable government. It will also further our economic interests.
+We can set up a national development project with Fengtian that aims to advance both our economies and makes us less dependent on Japan. This project will intertwine our industries and allow North and South China to learn from each other.
+Strike Against Beijing
+We are at war. The Beijing government stands no chance against our resolve and we must do everything we can to win. Because if we don't, the failure will be brought to China and all the work done by hundreds of revolutionaries over the past three decades will have been for nought.
+Look West
+Now that our position is secure, we can look to the southwest to expand the reach of our government. Hunan and the provinces of Guangxi and Guangdong were part of the League's domain and as such belong with us. In the name of stability, toppling other rebellious warlords is also possible.
+Imperial Keystone
+Together with Beijing we represent what is truly China. The other cliques have even ceased all efforts to appear as if they still recognise the Beijing government. Together with Beijing, we will build a China independent of foreign forces and resistant to the enemy to the east.
+Nationalist Credibility
+As opposed to the rival Fengtian government, even though they claim the legacy of the Xinhai Revolution, it is our government and Beijing's that have not betrayed the ideals of China. Our government is aided strongly by its actions against the Westerners who have sought to chain us for so long. Our government represents a promise, a promise of a China ruled by nationalists, not by foreign puppets.
+Detain Foreign Engineers
+We can not allow capable German and other Western engineers to leave our country, as many of them are vital in managing various factories and other important companies. We must detain them and make sure they give up their knowledge before they can escape us.
+Renovate Longhai Railway
+The Longhai railway, which runs from Jiangsu westward, is a vital railroad for China as it proves as an important link towards the interior. It is in both the interests of the Beijing government and the League that this railway is renovated. It will provide additional traffic and will serve well.
+Beijing-Nanjing Academic Council
+Currently, the local universities in Nanjing are not really up to standards. With the help of Qing scholars, we can set up a special commission to help improve university relations and improve our research capabilities tremendously.
+Mend the Zhili Divide
+Under Sun Chuanfang, the divide between the Northern and Southern Zhili only deepened. We must bridge this gap and repair the previously damaged relations. If the Zhili Clique is once again united, we will be by far the most powerful force in China.
+Court the Vermillion Society
+Instead of getting closer to the pro-Qing Northern Zhili, we can instead secure the support of the Vermillion Society, a passively pro-republican organisation with influence throughout the country. This will improve our relationship with many Anti-Concessionist leaders and improve our claim of full autonomy from the Qing government.
+End the Century of Humiliation
+Many historians have called the previous century, in which we have been continuously harassed, exploited and even enslaved by foreign powers, a 'century of humiliation'. Now, with the Beijing government, we will end this period of foreign influence in China. The future will be built on the work of the Chinese people, not on foreigners who only see as sources of potential income.
+Deepen Army Cooperation
+If we wish to make our alliance stronger, we should consider seriously deepening military cooperation with the government of Beijing. This would allow us to be much more effective on the battlefield.
+Promote Nationalist Thought
+No longer do we need to be afraid of nationalists, because their goals now align with ours. Our new China is free of foreign influences and built on a singular Chinese nation, with significant autonomy for its subdivisions, of course. We should promote this nationalist thought to further build up public support for our governments.
+\nUnfortunately, we have too little credibility to stand alone as a separate national government and thus depend too much upon Fengtian. As a result, we cannot afford to lose their support and will lead to dire consequences if we don't join their Reclamation War.
+\nThankfully, our government has, also using the arguments against the Reclamation War, enough credibility to stand separately from the Fengtian government and decline to participate. This will force us to either make our own claim to national leadership, or seek another party to support.
+If we cut ties, we can also take full control of our Shandong puppet.

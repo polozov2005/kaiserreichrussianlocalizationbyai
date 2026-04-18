@@ -1,0 +1,1329 @@
+USA Focus Tree
+North Pacific Agreement
+America
+American
+America
+United States of America
+the United States of America
+United States of America
+the United States of America
+United States of America
+the United States of America
+United States of America
+the United States of America
+United States of America
+the United States of America
+United States of America
+the United States of America
+United States of America
+the United States of America
+United States of America
+the United States of America
+United States of America
+the United States of America
+United States of America
+the United States of America
+United States Federal Government
+Federal
+the United States Federal Government
+$USA_ACW$
+$USA_ACW_ADJ$
+$USA_ACW_DEF$
+United States Military Administration
+Federal
+the United States Military Administration
+$USA$
+$USA_ADJ$
+$USA_DEF$
+$USA_totalist$
+$USA_totalist_DEF$
+$USA_syndicalist$
+$USA_syndicalist_DEF$
+$USA_radical_socialist$
+$USA_radical_socialist_DEF$
+$USA_social_democrat$
+$USA_social_democrat_DEF$
+$USA_social_liberal$
+$USA_social_liberal_DEF$
+$USA_market_liberal$
+$USA_market_liberal_DEF$
+$USA_social_conservative$
+$USA_social_conservative_DEF$
+$USA_authoritarian_democrat$
+$USA_authoritarian_democrat_DEF$
+$USA_paternal_autocrat$
+$USA_paternal_autocrat_DEF$
+$USA_national_populist$
+$USA_national_populist_DEF$
+$USA$
+$USA_ADJ$
+$USA_DEF$
+$USA_totalist$
+$USA_totalist_DEF$
+$USA_syndicalist$
+$USA_syndicalist_DEF$
+$USA_radical_socialist$
+$USA_radical_socialist_DEF$
+$USA_social_democrat$
+$USA_social_democrat_DEF$
+$USA_social_liberal$
+$USA_social_liberal_DEF$
+$USA_market_liberal$
+$USA_market_liberal_DEF$
+$USA_social_conservative$
+$USA_social_conservative_DEF$
+$USA_authoritarian_democrat$
+$USA_authoritarian_democrat_DEF$
+$USA_paternal_autocrat$
+$USA_paternal_autocrat_DEF$
+$USA_national_populist$
+$USA_national_populist_DEF$
+$USA_49$
+$USA_ADJ$
+$USA_DEF$
+$USA_totalist$
+$USA_totalist_DEF$
+$USA_syndicalist$
+$USA_syndicalist_DEF$
+$USA_radical_socialist$
+$USA_radical_socialist_DEF$
+$USA_social_democrat$
+$USA_social_democrat_DEF$
+$USA_social_liberal$
+$USA_social_liberal_DEF$
+$USA_market_liberal$
+$USA_market_liberal_DEF$
+$USA_social_conservative$
+$USA_social_conservative_DEF$
+$USA_authoritarian_democrat$
+$USA_authoritarian_democrat_DEF$
+$USA_paternal_autocrat$
+$USA_paternal_autocrat_DEF$
+$USA_national_populist$
+$USA_national_populist_DEF$
+$USA$
+$USA_ADJ$
+$USA_DEF$
+$USA_totalist$
+$USA_totalist_DEF$
+$USA_syndicalist$
+$USA_syndicalist_DEF$
+$USA_radical_socialist$
+$USA_radical_socialist_DEF$
+$USA_social_democrat$
+$USA_social_democrat_DEF$
+$USA_social_liberal$
+$USA_social_liberal_DEF$
+$USA_market_liberal$
+$USA_market_liberal_DEF$
+$USA_social_conservative$
+$USA_social_conservative_DEF$
+$USA_authoritarian_democrat$
+$USA_authoritarian_democrat_DEF$
+$USA_paternal_autocrat$
+$USA_paternal_autocrat_DEF$
+$USA_national_populist$
+$USA_national_populist_DEF$
+$USA_50$
+$USA_ADJ$
+$USA_DEF$
+$USA_totalist$
+$USA_totalist_DEF$
+$USA_syndicalist$
+$USA_syndicalist_DEF$
+$USA_radical_socialist$
+$USA_radical_socialist_DEF$
+$USA_social_democrat$
+$USA_social_democrat_DEF$
+$USA_social_liberal$
+$USA_social_liberal_DEF$
+$USA_market_liberal$
+$USA_market_liberal_DEF$
+$USA_social_conservative$
+$USA_social_conservative_DEF$
+$USA_authoritarian_democrat$
+$USA_authoritarian_democrat_DEF$
+$USA_paternal_autocrat$
+$USA_paternal_autocrat_DEF$
+$USA_national_populist$
+$USA_national_populist_DEF$
+$USA$
+$USA_ADJ$
+$USA_DEF$
+$USA_totalist$
+$USA_totalist_DEF$
+$USA_syndicalist$
+$USA_syndicalist_DEF$
+$USA_radical_socialist$
+$USA_radical_socialist_DEF$
+$USA_social_democrat$
+$USA_social_democrat_DEF$
+$USA_social_liberal$
+$USA_social_liberal_DEF$
+$USA_market_liberal$
+$USA_market_liberal_DEF$
+$USA_social_conservative$
+$USA_social_conservative_DEF$
+$USA_authoritarian_democrat$
+$USA_authoritarian_democrat_DEF$
+$USA_paternal_autocrat$
+$USA_paternal_autocrat_DEF$
+$USA_national_populist$
+$USA_national_populist_DEF$
+$USA_51$
+$USA_ADJ$
+$USA_DEF$
+$USA_totalist$
+$USA_totalist_DEF$
+$USA_syndicalist$
+$USA_syndicalist_DEF$
+$USA_radical_socialist$
+$USA_radical_socialist_DEF$
+$USA_social_democrat$
+$USA_social_democrat_DEF$
+$USA_social_liberal$
+$USA_social_liberal_DEF$
+$USA_market_liberal$
+$USA_market_liberal_DEF$
+$USA_social_conservative$
+$USA_social_conservative_DEF$
+$USA_authoritarian_democrat$
+$USA_authoritarian_democrat_DEF$
+$USA_paternal_autocrat$
+$USA_paternal_autocrat_DEF$
+$USA_national_populist$
+$USA_national_populist_DEF$
+$USA$
+$USA_ADJ$
+$USA_DEF$
+$USA_totalist$
+$USA_totalist_DEF$
+$USA_syndicalist$
+$USA_syndicalist_DEF$
+$USA_radical_socialist$
+$USA_radical_socialist_DEF$
+$USA_social_democrat$
+$USA_social_democrat_DEF$
+$USA_social_liberal$
+$USA_social_liberal_DEF$
+$USA_market_liberal$
+$USA_market_liberal_DEF$
+$USA_social_conservative$
+$USA_social_conservative_DEF$
+$USA_authoritarian_democrat$
+$USA_authoritarian_democrat_DEF$
+$USA_paternal_autocrat$
+$USA_paternal_autocrat_DEF$
+$USA_national_populist$
+$USA_national_populist_DEF$
+TUEL
+Trade Union Educational League\n§LThe latest and longest lasting of several Syndicalist labour organisations founded by William Z. Foster, the Trade Union Educational League was founded in 1920 from the remnants of Foster's Syndicalist League of North America and International Trade Union Educational League. Opposed to the Socialist Party's policies of electoral participation and the IWW's strategy of dual unionism, the TUEL instead maintains an anti-political ultra-syndicalist approach of \
+Farmer-Labor - SPA (IU)
+Farmer-Labor Party - Socialist Party of America (Industrial Unionist Faction)\n§LFounded in 1930 as a broad alliance of progressive and labour organisations, the Farmer-Labor Party has steadily grown throughout the 1930s. After several false starts in the 1920s, Farmer-Labor has emerged as the primary vehicle for left-wing politics in the United States, for the first time clearly orienting American politics on class lines.\n\nThe largest single member organisation in Farmer-Labor is the Socialist Party of America. Founded in 1901, the Socialist Party first drew support from workers, farmers, immigrants, and social reformers, among others. The revolutionary wave of the late 1910s sparked a large factional struggle within the party, between the moderate \
+Farmer-Labor - SPA (PC)
+Farmer-Labor Party - Socialist Party of America (Progressive Caucus)\n§LFounded in 1930 as a broad alliance of progressive and labour organisations, the Farmer-Labor Party has steadily grown throughout the 1930s. After several false starts in the 1920s, Farmer-Labor has emerged as the primary vehicle for left-wing politics in the United States, for the first time clearly orienting American politics on class lines.\n\nThe largest single member organisation in Farmer-Labor is the Socialist Party of America. Founded in 1901, the Socialist Party first drew support from workers, farmers, immigrants, and social reformers, among others. The revolutionary wave of the late 1910s sparked a large factional struggle within the party, between the moderate \
+Farmer-Labor (Prog.)
+Farmer-Labor Party - Progressive Faction\n§LFounded in 1930 as a broad alliance of progressive and labour organisations, the Farmer-Labor Party has steadily grown throughout the 1930s. After several false starts in the 1920s, Farmer-Labor has emerged as the primary vehicle for left-wing politics in the United States, for the first time clearly orienting American politics on class lines.\n\nOutside of the Socialist Party, various Progressive politicians compete in elections under the Farmer-Labor label. Some, such as members of the La Follette family's Wisconsin Progressive Party, are members of their own distinct organisations, while others are members of state Farmer-Labor organisations hewing more closely to the national party line. These non-socialist members of Farmer-Labor are often more agriculturally-oriented, and believe in a more limited platform of social benefits and the nationalisation of utilities and certain industries, as well as the empowerment of organised labour.§!\n
+Democrats (Lib.)
+Democratic Party - Liberal Faction\n§LThe oldest continually active political party in the world, the Democratic Party was founded over 100 years ago in 1828 by Andrew Jackson and Martin van Buren. Originally an agrarian populist party upholding Jeffersonian principles, it transformed first into a (generally) pro-slavery party, then into agrarian and southern opposition to the Republicans, and then into a western, southern, and increasingly urban party with liberal inclinations.\n\nThe liberal wing of the Democrats, usually associated with the north, follows largely in the legacy of Woodrow Wilson. It is generally supported by urban \
+Republicans
+Republican Party\n§LFounded in 1854 as a broad tent party opposed to the Slave Power, the Republican Party has generally been regarded as the United States' \
+Democrats (Con.)
+Democratic Party - Conservative Faction\n§LThe oldest continually active political party in the world, the Democratic Party was founded over 100 years ago in 1828 by Andrew Jackson and Martin van Buren. Originally an agrarian populist party upholding Jeffersonian principles, it transformed first into a (generally) pro-slavery party, then into agrarian and southern opposition to the Republicans, and then into a western, southern, and increasingly urban party with liberal inclinations.\n\nThe conservative wing of the Democrats, usually associated with the south, has been dominant in that region since the end of reconstruction. It is the natural ruling party in most of the south, with nomination tantamount to election. Divided between agrarian reactionaries and more reform-minded moderate conservatives, they are generally opposed to Civil Rights reform and cartelisation of the economy, supporting smaller businesses and landowners.§!\n
+Democrats (React.)
+Democratic Party - Reactionary Faction\n§LThe oldest continually active political party in the world, the Democratic Party was founded over 100 years ago in 1828 by Andrew Jackson and Martin van Buren. Originally an agrarian populist party upholding Jeffersonian principles, it transformed first into a (generally) pro-slavery party, then into agrarian and southern opposition to the Republicans, and then into a western, southern, and increasingly urban party with liberal inclinations.\n\nPerhaps the most anachronistic section of the party are the reactionaries of the Deep South, who have for years maintained their opposition to liberalising trends represented by those such as Al Smith. Nativist, white supremacist, and generally reactionary, albeit with populist elements, these southern Democrats are quickly becoming tired of the national party leadership, and may jump ship if the opportunity arises, as figures like Theodore Bilbo and Eugene Talmadge reconsider their place in the party.§!\n
+U.S. Military
+United States Military\n§LOnce viewed as an unthinkable taboo, military interference in American politics has emerged as an inevitable byproduct of growing civil unrest and political violence in the country. Among particular agitators such as Smedley Butler and George Van Horn Moseley, General Douglas MacArthur's clique is unique for its comparative reach among the officer corps. As the country veers closer to the precipice, MacArthur's calls for the defeat of \
+Democrats (Longists)
+Democratic Party - Longist Faction\n§LThe oldest continually active political party in the world, the Democratic Party was founded over 100 years ago in 1828 by Andrew Jackson and Martin van Buren. Originally an agrarian populist party upholding Jeffersonian principles, it transformed first into a (generally) pro-slavery party, then into agrarian and southern opposition to the Republicans, and then into a western, southern, and increasingly urban party with liberal inclinations.\n\nPerhaps the most famous name to emerge from the Democratic Party in recent years is that of Louisiana Governor Huey Long. Long's populist \
+Union (Reactionaries)
+Union Party - Reactionary Faction
+$USA_authoritarian_democrat_party_union_long_tt$\n§LThe newest major party in US politics, the Union Party was recently formed primarily as a vehicle for Huey Long's bid for the Presidency, when it became clear he would not be able to attain the Democratic nomination. A broad-tent alliance comprising Democrats, reactionaries, and anti-syndicalist Progressives, they are united by little more than their shared opposition to the Smith Administration, and at least a temporary unity behind Long as their leader.\n\nThough traditionally Long's base of support has been in the midwestern farm states, reactionary and populist southern Democratic leaders such as Eugene Talmadge and Theodore Bilbo have rallied behind Long out of their opposition to Smith. These southern Democrats are united primarily by their belief in white supremacy and disdain for Smith's particular brand of liberalism. Their unity behind Long however is clearly conditional, and unlikely to last if push comes to shove.§!\n
+Union (Populists)
+Union Party - Populist Faction
+$USA_national_populist_party_union_long_tt$\n§LThe newest major party in US politics, the Union Party was recently formed primarily as a vehicle for Huey Long's bid for the Presidency, when it became clear he would not be able to attain the Democratic nomination. A broad-tent alliance comprising Democrats, reactionaries, and anti-syndicalist Progressives, they are united by little more than their shared opposition to the Smith Administration, and at least a temporary unity behind Long as their leader.\n\nLong's primary personal base of support has, for most of his career in national politics, been in the western farm states, where his progressive but decentralist economic ideas hold sway. Long has aligned himself with western senators such as Burton Wheeler, who have come out to support his \
+Socialists (Ind. Unionists)
+Socialist Party of America - Industrial Unionist Faction
+$USA_syndicalist_party_no_Farmer_Labor_prewar_long_tt$\n§LFounded in 1901, the Socialist Party of America quickly gained traction as the premier socialist political force in the United States. First drawing support from workers, farmers, immigrants, and social reformers, among others, it was soon faced with crisis, as the revolutionary wave of the late 1910s sparked a large factional struggle within the party, between the moderate \
+Socialists (Progressives)
+Socialist Party of America - Progressive Caucus
+$USA_radical_socialist_party_no_Farmer_Labor_prewar_long_tt$\n§LFounded in 1901, the Socialist Party of America quickly gained traction as the premier socialist political force in the United States. First drawing support from workers, farmers, immigrants, and social reformers, among others, it was soon faced with crisis, as the revolutionary wave of the late 1910s sparked a large factional struggle within the party, between the moderate \
+Farmer-Labor
+Farmer-Labor Party
+$USA_social_democrat_party_no_Farmer_Labor_prewar_long_tt$\n§LWith the collapse of the old Farmer-Labor Party and the abrupt exit of the SPA from its ranks, remaining Farmer-Labor politicians have sought to reorganise their political party without the interference of the Socialists. Retreating into populist agricultural activism and, where possible, moderate labor activism, the new Farmer-Labor Party is a shell of what it once was, as politics becomes further polarised betweens radicals and the establishment.§!\n
+Socialists (Ind. Unionist)
+Socialist Party of America\n§LFounded in 1901, the Socialist Party of America quickly gained traction as the premier socialist political force in the United States. First drawing support from workers, farmers, immigrants, and social reformers, among others, it was soon faced with crisis, as the revolutionary wave of the late 1910s sparked a large factional struggle within the party, between the moderate \
+Socialists (Progressive)
+Socialist Party of America\n§LFounded in 1901, the Socialist Party of America quickly gained traction as the premier socialist political force in the United States. First drawing support from workers, farmers, immigrants, and social reformers, among others, it was soon faced with crisis, as the revolutionary wave of the late 1910s sparked a large factional struggle within the party, between the moderate \
+Farmer-Labor
+Farmer-Labor Party\n§LWith the collapse of the old Farmer-Labor Party and the abrupt exit of the SPA from legal politics, remaining loyalist Farmer-Labor politicians sought to reorganise their political party without the interference of the Socialists. Retreating into populist agricultural activism and, where possible, moderate labor activism, the new Farmer-Labor Party is a shell of what it once was, as legal politics retreats back to the two major political parties.§!\n
+Democrats (Longists)
+Democratic Party - Longist Faction
+$USA_authoritarian_democrat_party_compromise_long_tt$\n§LThe oldest continually active political party in the world, the Democratic Party was founded over 100 years ago in 1828 by Andrew Jackson and Martin van Buren. Originally an agrarian populist party upholding Jeffersonian principles, it transformed first into a (generally) pro-slavery party, then into agrarian and southern opposition to the Republicans, and then into a western, southern, and increasingly urban party with liberal inclinations.\n\nPerhaps the most famous name to emerge from the Democratic Party in recent years is that of Louisiana Governor Huey Long. Long's populist \
+America First
+America First Committee
+$USA_national_populist_party_compromise_long_tt$\n§LWith the outbreak of civil war, far-right and isolationist tendencies gained considerable popularity. Though those views were previously represented in the Union Party, Huey Long's abandonment of that electoral vehicle divided the far-right. Some joined Long in returning to the Democrats. Others however, inclined to a more clearly conservative view, chose to follow a different path. The result is the America First Committee, a political pressure group advocating for isolationism, anti-syndicalism, and traditional values. Headed by former Long ally Gerald L. K. Smith (who Long fired in mid-1937), and famed aviator Charles Lindbergh, the organisation initially showed promise, however soon its momentum stalled, and it appears unlikely that it will be a decisive power player any time soon.§!\n
+Democrats (React.)
+Democratic Party - Reactionary Faction
+$USA_authoritarian_democrat_party_compromise_killed_long_tt$\n§LThe oldest continually active political party in the world, the Democratic Party was founded over 100 years ago in 1828 by Andrew Jackson and Martin van Buren. Originally an agrarian populist party upholding Jeffersonian principles, it transformed first into a (generally) pro-slavery party, then into agrarian and southern opposition to the Republicans, and then into a western, southern, and increasingly urban party with liberal inclinations.\n\nPerhaps the most anachronistic section of the party are the reactionaries of the Deep South, who have for years maintained their opposition to liberalising trends represented by those such as Al Smith. Nativist, white supremacist, and generally reactionary, albeit with populist elements, these southern Democrats initially jumped ship to join Huey Long's crusade against the Democratic establishment, but in the wake of the Kingfish's death they have limped back into the embrace of their old party, battered and bruised for it.§!\n
+Republicans
+Republican Party\n§LFounded in 1854 as a broad tent party opposed to the Slave Power, the Republican Party has generally been regarded as the United States' \
+U.S. Military
+United States Military\n§LOnce viewed as an unthinkable taboo, the United States Military has crossed the rubicon, decisively intervening in civilian affairs and establishing an emergency military government in Washington to see America through its present crisis. Applauded by hardline conservatives in Congress, and denounced by the rest of the nation, General Douglas MacArthur has taken the reins in a country beset by Civil War. With few allies outside of his own clique and the Conservative Coalition which invited him to march on the capital, the future of MacArthur's regime is uncertain.§!\n
+\
+Bullmoose Jr.
+Man at the Crossroads
+Old Alben
+Distinguished Parliamentarian
+Humble Farmboy
+Reconstructed Leftist
+The Great Engineer
+The Sunflower
+The Lion of Idaho
+Wilsonian Idealist
+Mr. Republican
+Cincinnatus
+Political Outsider
+Foe of the Establishment
+Civil War Veteran
+\
+Symbol of the Old South
+Jim Crow's Champion
+Crossing the Colour Line
+Engineering America's Future
+Shadow President
+The American Caesar
+Fish (Submarines)
+Heroes of Navy (Destroyers)
+Heroes of Civil War (Destroyers)
+Cities (Cruisers)
+Famous Battles (Armoured Cruisers)
+States (Battleships)
+American People's Government
+Hawaiian Islands
+Hawaiian Mountains
+Hawaiian Cities
+Joined the League
+American Business Ties
+Demanded Port Fee Payment
+The American Civil War is over
+The American Civil War is §Rnot§! over
+The American Civil War has begun
+The American Civil War has §Rnot§! begun
+MacArthur has kept his emergency powers
+An alliance was formed with Long
+Landon rallied the establishment behind the administration
+The 1936 Presidential election has been held\n
+§YGeneral MacArthur§! has taken control of the government
+The President has called for emergency relief legislation
+The government is paralysed and incapable of action
+The Social Security Bill has failed
+USMC
+$USA_tech_marine_bonus$
+$USA_tech_marine_bonus$
+$USA_tech_marine_bonus$
+Improved USMC
+$USA_tech_marine_bonus_2$
+$USA_tech_marine_bonus_2$
+$USA_tech_marine_bonus_2$
+is the subject of a foreign power
+currently owns claimed American land
+More than $RIGHT|Y0$ countries in the §Y$faction_league_of_america$§!
+attack §Ysocialist§! and §Y$national_populist$§! countries in the §YAmericas§!
+invite countries in the §YAmericas§! into the §Y$faction_league_of_america$§!
+invest in economic development of the members of the §Y$faction_league_of_america$§!
+install puppet governments in the members of the §Y$faction_league_of_america$§!
+All countries in the §YAmericas§!:$TRIGGER$
+§CWe may now send advisors to countries at war with our enemies, also providing military access to their soil if needed§!\n
+§YFloyd Olson§! has been sworn in as President
+§YHuey Long§! has been sworn in as President
+§YWilliam Borah§! has been sworn in as President
+§YAlf Landon§! has been sworn in as President
+§RSocialist Party of America§! strength changes by $RIGHT|-=0$
+§LLongist Movement§! strength changes by $RIGHT|-=0$
+Depending on the previous choice in event §H$united_states_events.605.t$§! gain one of the following:
+The President will call for emergency relief legislation\n
+The President will no longer be able to lose re-election.
+We shall begin §YTrials§! against the traitorous generals who joined the other factions in the civil war.
+Is not in §HNorth America§!
+§YThis will decrease the probability of the unions overrunning Harlan,§! §Rbut the militias may get out of hand...§!\n§RNothing is ever certain in Harlan however...§!\n
+§YThis will decrease the probability of the situation in Harlan spiraling out of control.§!\n§RNothing is ever certain in Harlan however...§!\n
+§YWaiting out the conflict is a valid option,§! §Rbut it will give the unionists the initiative...§!\n§RNothing is ever certain in Harlan however...§!\n
+§GThis will decrease the chance of the situation in Harlan spiraling out of control, regardless of any other on-the-ground decisions we make.§!\n
+§GShould worse come to worst, we will have more leway in negotiating with the unionists.§!\n
+§YThis will help us if we need to pull the liberals back to our side.§!\n
+§YThis will help us if we need to pull the conservatives back to our side.§!\n
+§YSince we previously gained goodwill among the liberals, our odds of passing the Recovery Bill have §Gimproved§!.§!\n
+§YSince we previously gained goodwill among the conservatives, our odds of passing the Recovery Bill have §Gimproved§!.§!\n
+§GThe Recovery Bill Passes§!\n
+§RThe Recovery Bill Fails§!\n
+§YWe will hold our position and gather more support for the Recovery Bill.§!\n
+§GSelecting this focus will prevent the extremist factions from making any gains while it is active.§!\n
+§RThe people have lost faith in our administration to solve the present crisis.§!\n
+In our upcoming negotiations we will need to balance two entities: §nHuey Long§! and his §gsouthern backers§!. To win them over in these negotiations, we will have two §Yattack values:§! §GSoft Attack§! and §RHard Attack§!. Both §nLong§! and the §gsoutherners§! will have an individual §Ydefence value§!, each beginning at §Y5§!. Near the end of the event chain, we will decide on a final strategy, and choose which of our §Yattack values§! will be applied to §nLong§! and which will be applied to the §gsoutherners§!.\n\nIn order to win either entity over, our §Yattack value§! must be §Ghigher§! than their §Ydefence value§!. Though we only need to win one over to §Gprevent the south from falling out of control§!, winning both will grant important bonuses in our seemingly inevitable §Rshowdown with the socialists.§!\n
+§YThis will §Gdouble§! our gain of §GSoft Attack§!.§!\n
+§YThis will §Gdouble§! our gain of §RHard Attack§!.§!\n
+§YWe will gain §G[?USA_borah_negotiations_temp_var]§! §GSoft Attack§!§!\n
+§YWe will gain §G[?USA_borah_negotiations_temp_var]§! §RHard Attack§!§!\n
+§Y§nLong§! will lose §G[?USA_borah_negotiations_temp_var]§! defence§!\n
+§YThe §gsoutherners§! will lose §G[?USA_borah_negotiations_temp_var]§! defence§!\n
+§YWe will use our §RHard Attack§! on §nLong§! and our §GSoft Attack§! on the §gsoutherners§!§!\n
+§YWe will use our §GSoft Attack§! on §nLong§! and our §RHard Attack§! on the §gsoutherners§!§!\n
+§YIf we do not have enough attack to win the §gsoutherners§! over, this may §Rbackfire§!§!\n
+Our current attack values are as follows:\n§GSoft Attack§!: §G[?USA_borah_negotiations_soft_attack]§!\n§RHard Attack§!: §R[?USA_borah_negotiations_hard_attack]§!\n\nTheir current defence values are as follows:\n§nLong Defence§!: §n[?USA_borah_negotiations_long_defence]§!\n§gSouthern Defence§!: §g[?USA_borah_negotiations_south_defence]§!
+President Long
+President Olson
+President Landon
+President Borah
+Acting President Roosevelt
+the president
+Inter-American Defense College
+The Inter-American Defense College is designed to improve science and develop research with members of the League of American States.\n
+The Great Depression
+Since the collapse of the New York Stock Market in 1925, the United States has been gripped by an unprecedented economic malaise that has come to be termed the Great Depression. After the agonising years of Frank Lowden's presidency, many hoped that the Democrats under Al Smith could return the nation to prosperity. Despite an outpouring of hope surrounding his election in 1928 however, President Smith has ultimately proved unable to pull the country out of its malaise. As Congress has been reluctant to endorse overtly interventionist measures, and Smith has tended towards managerial and structural reforms, dissatisfaction with the political mainstream grows. The situation has been on a gradual upturn since the Depression's nadir in 1929, as well as the interruption of the recession of 1931, but the struggling state of the economy is fueling radical discontent on both sides regardless. Support for the left-wing Farmer-Labor Party grows, while a big-tent Democratic Party is hopelessly divided on what action needs to be taken.
+The Great Depression
+The Great Depression which has gripped America for over a decade gradually improved under the stewardship of Al Smith, but Smith's personal reluctance for radical reform and an inability to pass significant reform through Congress made any such progress painfully slow. But now, the situation has been blown apart. Black Monday, the collapse of the Berlin Stock Market in February, has resulted in a renewed wave of economic damage that is spreading throughout American society. Small businesses, already struggling in the inclement economic climate, fall bankrupt by the thousands as it appears any progress made since 1931 has been wiped out in a matter of days and weeks. Rightly or wrongly, fingers are being pointed at the White House, and whoever sits within it come 1937 has a seemingly impossible problem to solve.
+A House Divided
+The United States is in crisis. The Great Depression, which has been ravaging our nation for over a decade, has still not let up. With Congress split between a divided Democratic Party, a weakened Republican Party and an insurgent Progressive bloc, President Smith has been unable to fix the many ills facing American society, and voters are abandoning the centre in droves. On the left, the Socialist Party of America has grown into a legitimate political force across the Steel Belt, while on the right an eclectic coalition of nationalists, anti-syndicalists, spurned progressives and disillusioned liberals flock to the banner of Senator Huey Long, whose rhetoric grows increasingly violent as the acrimony of his quest for the Democratic nomination heats up.
+The United States is a house divided. The Great Depression, which has been ravaging our nation for over a decade, has only been worsened by the Berlin Stock Market Crash. The recent Democratic National Convention has collapsed in ignominy, with Huey Long's populist faction of the party walking out and exacerbating the deep-seated polarisation of American society. Congress is now hopelessly divided between four feuding coalitions, and President Smith is now forced to govern through executive orders if anything is to be done at all. In a climate of radicalisation and violence, confrontations between strikers spurred on by Socialist Party militancy and the growing paramilitaries aligned with the Longist movement score the midwest. America faces a four-way race for the presidency, and it looks unlikely that any one man will win a majority in the Electoral College.
+The United States stands on the brink. While the Great Depression grips the nation in an iron vice, the political system has been shattered. For the second time in two elections, the Presidency was thrown to a contingent election, no man able to win a majority in the Electoral Collage in the incredibly tight race. The contested election means fingers are being pointed in every direction, as radicals cry of corrupt bargains to keep the nation out of the hands of the majority, strikes grow with ever more militancy, and political violence rolls on. Tears in the very fabric of American society grow with each passing day, and a national tragedy looks to be on the horizon.
+The United States stands on the brink. For the first time in American history, the presidency is vacant. As the House is incapable of certifying the results of the election, no contingent election for either the Pesidency or Vice Presidency can be held. As Smith's term ends, outgoing Secretary of State Cordell Hull finds himself as a seat-warmer while the Presidency is decided, an unenviable position as the nation is on the brink of civil war. With the headless federal government paralysed, the seemingly inevitable national calamity seems only days away from coming to pass...
+Strike Season
+While the initial years of the Great Depression proved damaging for union activities, there has since been massive growth in both the scale and militancy of organised labour, spurred on by awful economic conditions and the legacy of the syndicalist revolutions in France and especially Britain. The election of President Smith, a man considered an ally of the AFL, ironically encouraged labour militancy, as Smith both passed pro-union reforms such as the Wagner Act, and failed to put forward a compelling progressive economic vision. The failure of the administration to foster any enduring sense of recovery has sparked a new wave of strikes, far larger and more numerous than at any prior point in American history. Syndicalist organisers like Elizabeth Gurley Flynn and William Foster fan the flames - perhaps hoping that the strikes could be the seeds of a revolution of their own - and violent altercations along picket lines by armed strike breakers and paramilitaries fuel them ever further.
+General Strike
+With the nation in the midst of a political crisis, a general strike has engulfed the steel belt. The massacre of Cox's marchers has destroyed any remaining faith in a peaceful resolution to labour issues. Instead, in both wildcat and organised fashion, workers in key industrial sectors, CIO, IWW, and even AFL alike, have joined together and walked off the job. By far the largest strike in American history, it represents the culmination of the militant labour actions of the past year, as well as of the mobilisation of American labour towards the far-left, a trend which now seems destined to lead to cataclysmic violence.
+Native Code Talkers
+Fighting for America!
+Women's Army Corps
+Battleship Refinement
+Our experience tells us battleships still have a role in demolishing the enemy. Improving our battleships' capabilities are top priority!
+Carrier to Combat Refinement
+Through improved research and drills, we've managed to improve the coordination between carriers and their planes. Allowing for faster refuelling and less time spent not bombing our enemies into the ocean.
+WAVES
+Liberty Ships
+Maritime Industry
+USMC
+Zenith of American Navy
+Recovering from the Civil War
+While we may have won the Civil War, our country is in ruins. Most people are forced to barter; electricity, running water, and other basic services barely function; and millions are starving or ill, especially the thousands and thousands of orphans.
+While we may have stopped the cholera epidemics and famines, most of the country is still on fire. The only place one can find any modicum of stability is the heavily guarded military depots containing newly-delivered famine relief aid and medicine.
+The cities have returned to some level of stability, and currency is starting to come back into use as bartering fades. The mass graves are now covered in saplings and flowers as the nation slowly claws itself back from collapse.
+Government-run agencies have started to put people back to work, and some respectable businesses have reopened. The threat of mass starvation has passed, though it is not uncommon to see small hordes of orphans and elderly rooting through trash in the cities.
+The scars of the war, visible just months ago, have largely faded from the country. Factories have re-opened, and trains, buses, and other forms of public transportation have started running with some regularity. America has nearly returned to its pre-war standard of living.
+Economic Devastation from the Civil War
+Reconstruction
+Home of the Brave
+American Values
+COINTELPRO
+The Black Chamber
+Socialist Resistance
+While we may have won the war against [WCA.GetNameDef], we have not won the minds of its inhabitants. Syndicalist terrorists attack railroads and factories, and indiscriminately kill our loyal soldiers and policemen.
+Socialist Resistance
+Our initial counter-terrorism efforts are showing some promise, but the Socialist resistance groups are tough nuts to crack. Some peripheral terrorists have been arrested, and a few safehouses raided, but this has had little impact.
+Socialist Resistance
+We have succeeded in destroying some main safehouses, and arresting some key ringleaders, but a few notable terrorists remain at large. Analysts still expect more bombings and attacks, but nothing of the magnitude of the first months of our occupation.
+Socialist Resistance
+Only a few die-hard radical Syndicalist terrorists now remain, with most of their compatriots killed or arrested. One final push to destroy the remaining safehouses hidden in the ruins of factories of Chicago and Milwaukee, and the Steel Belt will be pacified.
+Longist Resistance
+While we may have won the war against [APG.GetNameDef], we have not won the minds of its inhabitants. Longist terrorists attack railroads and factories, and indiscriminately kill our loyal soldiers and policemen.
+Longist Resistance
+Our initial counter-terrorism efforts are showing some promise, but the Longist resistance groups are tough nuts to crack. Some peripheral terrorists have been arrested, and a few safehouses raided, but this has had little impact.
+Longist Resistance
+$USA_socialist_resistance3_desc$
+Fading Longist Resistance
+Only a few die-hard radical Longist terrorists now remain, with most of their compatriots killed or arrested. One final push to destroy the remaining safehouses hidden in the swamps of Louisiana, and the South will be pacified.
+Federalist Resistance
+While we may have won the war against the Federal Government, we have not won the minds of its inhabitants. Federalist terrorists attack railroads and factories, and indiscriminately kill our loyal soldiers and policemen.
+Federalist Resistance
+Our initial counter-terrorism efforts are showing some promise, but the Federalist resistance groups are tough nuts to crack. Some peripheral terrorists have been arrested, and a few safehouses raided, but this has had little impact.
+Federalist Resistance
+$USA_socialist_resistance3_desc$
+Federalist Resistance
+Only a few die-hard radical Federalist terrorists now remain, with most of their compatriots killed or arrested. One final push to destroy the remaining safehouses hidden in the basements of ruined Washington, and the Maryland and Virginia area will be pacified.
+Empowered Army
+GI Bill
+The Great Migration
+Eminent Domain
+League of American States
+Head of the League
+Arsenal of Democracy
+American Advisors
+Fortress America
+Business of Neutrality
+Malin Craig's Reform Plan
+Craig Reform Plan Complete
+Lesley McNair's Reform Plan
+McNair Reform Plan Completed
+Adna Chaffee's Reform Plan
+Chaffee Reform Plan Completed
+American Automobile Industry
+Weapon Manufacturer Investments
+Increased Military Spending
+War Department Expanded
+Expanded United States Army Air Corps
+United States Army Air Force Formed
+Air Corps Tactical School
+The Troubled States of America
+$USA_political_crisis_decisions_intro$\n\n[USA_GetCrisisDecCatDesc]$USA_political_crisis_decisions_breakdown$
+The last decade has not been a shining one, to say the least. The Great War's fallout largely ended the prosperity of the pre-war era, as the economy proceeded to initially stagnate, then fall into a depression, with Presidents McAdoo and Lowden being unable, unwilling or too indecisive to stem the tide. What little progress has been made has largely been erased by crisis after crisis - first the British Revolution of 1925, followed by the Creditanstalt collapse of 1931.
+While we are no longer in the depths of the depression as in 1929, the country's political sphere continues to grow increasingly febrile - if the tide is not stemmed soon, the situation may spiral out of anyone's control...
+With Black Monday entirely erasing all of the gains made under President Smith, the economy has reached its worst state in two decades. The country's political sphere, already increasingly febrile, is quickly reaching a fever pitch - if the situation is not stabilised, it may spiral out of anyone's control...
+\n\n§CThe strength of the §rSocialist Party of America§! gives them the following effects§!:\n[USA_GetDefectionChanceMult_Socialist]\nStarting Divisions: [?SPA_strength|-=0]\n\n§CThe strength of the §LLongist Movement§! gives them the following effects§!:\n[USA_GetDefectionChanceMult_Longist]\nStarting Divisions: [?Long_strength|-=0]
+$state_defection_chance$ Multiplier: [?multiplier|-%%1]
+Deal with the Great Depression
+The Great Depression has left the United States reeling, and President Smith's government has been struggling to deal with the fallout. The last hope is to pass a bill that will finally get some relief in the hands of those who need it - if Congress can work quickly enough.
+Father Cox's March
+Pittsburgh's \
+Invite [From.GetNameDef] to the League
+Perhaps an invitation should be sent to the [From.GetAdjective] government, to see if they are interested in joining our alliance.
+Has sent an invitation within the last month
+Develop Closer Ties with [From.GetNameDef]
+With a little push, we can help develop our allies throughout the Americas, to strengthen their economies and help them stand a little taller on their own.
+Install Friendly [From.GetAdjective] Government
+[From.GetNameDefCap] is weak enough that we should consider installing a friendly and more subservient government - for their own protection, of course.
+[From.GetNameDefCap] harbours a dangerous extremist regime. For the sake of peace in the Western Hemisphere, it must be crushed.
+The New Monroe Doctrine
+The second civil war taught us that the influence of foreign nations will do nothing but bring chaos and disorder to the Americas. As stressed by our first president, our place is not with Europe but to protect and guide Latin America to democracy.
+Attack Canada
+We have traditionally been on friendly terms with our neighbours to the north... except when we haven't. If the time comes when Canada is controlled by an unfriendly government or has decided to occupy American lands, then the time has also come for us to change the nature of our relationship.
+Attack Mexico
+Our preference would be that Mexico was ruled by a friendly government, and kept to its own business. If that is not the case, we cannot ignore that it sits on our borders - borders we will actively protect, even if it means invading our neighbours to the south.
+Attack the Philippines
+As the former guardians of the Philippines, we have the right to concern ourselves with what has become of their government following the end of the civil war. If need be, we will liberate them from oppression once again.
+Defend Our Citizens
+Protect [FROM.GetNameDef]
+It seems the Entente is on its last legs. Following defeat after defeat, most of the Entente's strength is gone, and now Canada is directly threatened. If the Red Menace defeats the Canadians, we will surely be next. Whatever happens, this must not come to pass - we must fight alongside the Entente.
+Rebuilding America
+With the civil war now at an end, we must heal the scars that have come from it.
+Reclaim New England
+Reunite with New England
+Reclaim Alaska
+Reclaim the Canal
+Reclaim Hawaii
+Move the Capital back to Washington D.C
+American War Plans
+The civil war may be over, but war yet remains a possibility for the country. Towards that end, we must choose between our enemies and allies carefully.
+Join the [ENT.GetFactionName]
+The United States cannot afford to sit idly while the rest of Europe burns under the Syndicalist menace and the despicable Kaiser. So, together with our northern neighbour, we will liberate England and France from the reds once and for all in the hopes of liberating Europe and the world from tyranny.
+Join the [GER.GetFactionName]
+War Plan Orange
+Japanese ambition is a threat to both our nation and the common good. The time has come to take a stand against it.
+War Plan Gold
+The [INT.GetAdjective] syndicalists have reached a point where we cannot stand idly by and allow them to continue their domination - we must take a stand.
+War Plan Black
+German imperialism has reached a point where we cannot stand by and say it is enough that they are defending themselves - for the sake of freedom, we must take a stand.
+War Plan Purple
+[ROOT.USA_GetRussiaWarPlanDesc]
+We should have known the Russians couldn't be kept down for long. Their embracing of syndicalism has led them to becoming a pre-eminent threat to the entire world, one which we cannot stand by and simply watch.
+Russian ambition has become a threat to both America and the entire world. We must take a stand against it, lest their armies eventually come ashore.
+Work with [From.GetAdjective] Allies
+We should use American know-how to aid our allies in [From.GetNameDef], sending them much-needed equipment and advisors.
+Destroy Rebel Terrorists
+A number of rebel groups refuse to lay down their arms despite our victory in the civil war. We must deal with these terrorists once and for all to bring peace to America.
+Fight Socialist Terrorists
+Fight Longist Terrorists
+Re-unite with [From.GetNameDef]
+MacArthur has stepped down from power, and we are restored to a proper democracy. Thus, we should approach [From.GetNameDef] and ask them to rejoin us - after all, was their goal not already accomplished? Democracy in America?
+Victory in the Civil War
+Separatists have again failed in their mission to destroy the union of the United States of America. Though both radical socialists and populists dug into our power base, we have proven the power of legitimate government once more. The would-be dictators Reed and Long are no longer welcome in America.
+Democracy Triumphs!
+Though the temptation towards autocracy was great, America stood with its three branches intact, without giving up to executive authority. Congress is called into emergency session and the Appellate Courts are dealing with their mountain of paper trying to sort out the consequences.
+Constitutional Education
+A common talking point by radicals and populists was the idea that the Federal Government is a voluntary organisation. Some even claim to use ridiculous false loopholes like naval law or the rights to secede from the union. We must correct this by making the U.S Constitution as widely available as possible.
+Defend Democracy
+Out of the former rebel states, reports have come in of voter intimidation based on class and race. Furthermore, candidates are running for office without an oath of allegiance to the United States. We must protect the people's right to vote, and ensure that politicians do not incite rebellion again.
+Bill of Rights Reminder
+Building off of a Constitutional education initiative, Congress has approved an education push to younger Americans on the importance of our Bill of Rights. This will also allow citizens to better appeal for their rights in a non-violent manner.
+American Values
+The passive promotion of civil government through high minded publications was undercut sharply by pamphlets and private publishers that promoted an uncivil government. Congress has decided that a multifaceted approach to instilling American values through mass media will finally undercut pamphleteers.
+Restore Legitimacy
+The numerous embassies we were not able to staff during the crisis have finally received relief. We shall re-establish ourselves in the world community as a stronger and more unified nation with an expanded diplomatic corps.
+Malice and Charity
+With the words of president Lincoln reminding us to \
+Destroy Radicalism
+While the US Government tolerates political discourse, Congress has rallied against the syndicalist and distributionist platforms of Long and Reed. Legal bodies found to be advocating for trade unions or mutualist organisations will be prosecuted under the 1917 Sedition Act.
+Strengthen Democracy
+During the civil war, democratic processes were halted at the local level. Many elections in the border areas were skipped in order to focus more time on the existential crisis of the war for America. Democracy shall now rise from the ashes, and Congress has appointed a committee to ensure elections take place at the local level once more.
+Loyalty to America
+The early 1930s was the era of loyalty to men over ideals. Reed, Long, and even MacArthur accrued a sort of clique of allies that saw their leaders as above the law. Several Congressmen have come out to apologise for their statements made during the war.
+Ensure Political Stability
+Although it is opposed by some of the legislators, the use of the FCC to monitor the airwaves against rebel radio stations is necessary. This measure, along with several other forms of censorship, is still necessary to end rebel pockets within the Contiguous U.S.
+Protect Democracy
+The 17th Amendment enhanced the democratic representation in America, but failed, in the long run, to make the electoral process more democratic. Congress shall strengthen the democratic process directly through the review of poll taxes and registries of felons, to ensure the word of the law is followed.
+Land of the Free
+The use of penal labour in the prisoner of war camps is no longer tolerable to Congress. Although the fate of these prisoners is still up to the court's system, their exploitation in both loyal and rebel states should be rolled back.
+Home of the Brave
+The veterans of the Second Civil War have sacrificed it all to preserve their home, if only they didn't have to fight other Americans. Despite protests from the House, the Senate has wisely extended veterans' benefits to the rebel soldiers, so long as that recipient re-affirm their oath to all the American people.
+For the People
+The people of America, as a collective, are our constituents and our lifeblood. A holiday in thanks to the American people has been passed through Congress to make the former Labor Day into \
+A More Perfect Union
+The goal of the United States as an independent nation is to form a more perfect union of the people of the United States, not the exaltation of a single doctrine or political movement as Reed or Long claimed. The President has spoken on the irreducible complexity of America's relationship to its people.
+Begin Reconstruction
+The nation had suffered greatly long before this war started. It is both a monumental task and an opportunity to unify transportation networks and push through bolder economic ideas to elevate American industry above this ailing world.
+Rebuild American Railroads
+The railroad networks that cross America are in shambles, and war-era constructions are jury-rigged to older tracks. Congress has approved a rebuilding of our railroad network in the form of mandatory third rail electrification. Electrified tracks will force our energy grid to reform as a result.
+Electrification Program
+In order to accommodate the mandatory Third Rail, as well as ensure the safety of the more remote parts of America, an electrification project is approved to cross all state lines. Congress is now pulling state governments to fund transformers and hydroelectric power, as it is their responsibility.
+Business Subsidies
+Small businesses in America have struggled to expand their employment opportunities, which is contributing to unemployment. The issue of unsafe working conditions returning to prominence due to the need for faster production has led to agitated workers. Congress has approved a federal purse to subsidise small businesses.
+Rebuild America's Industry
+America's exports have fallen during the depression despite taking a laissez-faire position on trade laws. Exports are also one of the main ways we measure economic activity. We must invest in the tertiary services our industrial businesses use in order to lower their bottom line and increase output.
+Economic Investments
+A bolder strategy is devised by Congress to assist in economic recovery. Traditional notions that government purchases are negatively associated with growth, newer theories hold that smart purchases can stimulate the economy.
+Fate of the Unions
+It is time for Congress to hear the testimony of rebellious unions. Some are calling for just their chair-people to resign, while others insist on collecting transcripts of union meetings, paving the way for prosecuting all active members.
+Rebuild America's Roads
+The state-funded interstate highway system was an easy target for sabotage. We must cooperate with the states in order to ensure safe commerce and travel through America once more.
+American Industrial Might
+The war may have temporarily reinvigorated heavy industry, but its design was temporary and facilities were essentially built on top of closed factories. We must bring our safety and management efficiencies to bear in order to make this upswing permanent.
+Rebuild Agricultural Industry
+In order to transport and process the food to feed our nation, we must encourage innovative preservation and agronomy sciences. Congress has set up a fund to investigate this and several politicians have contributed to it directly.
+Aviation Industry
+The United States used to lead the world in civilian aircraft manufacturing. Now assembly line systems in Germany have us outpaced. Congress has spoken to intelligence agencies about what we can do to encourage businesses to adopt these techniques, including our contractors.
+Farming Subsidies
+It is necessary to subsidise farms for crops we are in need of, and to pay farmers to terminate their fields of lost assets for products like tobacco we don't need right now, but want the skilled labour to still be available.
+Maritime Industry
+The Merchant Marine was severely damaged in the war, and Congress has approved the extension of veteran benefits to those active duty sailors who are not on tour if they become a Merchant Marine in their downtime.
+Oil Production
+The oil fields of the Midwest burned as our country was fighting. We must control these fires, stop future sabotage, and invest in synthetic oil to ensure that more of the country can make use of vehicles.
+Reconstruction Over
+The years of poor economic management and civil strife have not left our minds, but their most damning effects are diminished.
+President MacArthur has proclaimed he would not concede victory to the very partisans who caused the civil war. His American Junta promises a national restoration and adoption of functional democracy as MacArthur sees it. Elimination of unnecessary politicians and appointment of more competent officials will bridge the gap between people and politics.
+Army Education
+Parents' organisations have come out to claim that we willingly let children into the military underage. Our solution is to divert prospective youth into military education while keeping them in public school. The ideas of physical education and morals taught by Bellamy will revive that old nationalist fervour that failed us in the 1910s.
+National Youth Administration
+The simultaneous pull to mandate a higher working age is countered by the multitude of unemployed youth strewn across America. The solution is to establish a National Youth Administration in order to provide work and education to Americans too young to vote.
+The American Legion
+With the American Legion National Commander Smedley Butler now a fugitive, it is necessary to rebuild the organisation to remove the stain of partisan politics. No longer will National Commanders be permitted to campaign for politicians, nor will they be permitted to stay once they are career politicians.
+Loyal to the Flag
+Unlike the tyrants and despots that are common in the Americas, MacArthur desires not to be a Great Man, but to be a respected and mortal leader of Americans. Loyalty to the unchanging ideal of America must be put above himself, so long as MacArthur's popularity holds out.
+Martial Law
+With Congressional approval, habeas corpus is suspended in accordance with the Constitution. As the threat of invasion from Syndicalist and Populist forces still looms over part of the land, the writ of habeas corpus and free speech are still suspended for political expediency.
+Second American Protective League
+As the largest part of the Continuous United States has been pacified, it is essential that American citizens remain vigilant. The reformation of the League aims to create a free information system to report potential populist or syndicalist spies to the Federal Government and to discourage public protest.
+Control Congress
+Many former Democrats and Republicans have folded into MacArthur's new regime, while holdouts have fled. Fortunately, we were able to fill their vacancies with qualified, trustworthy individuals. These new Congressmen are not politicians per se, they are instead public servants for the American people.
+Signals Intelligence Service
+Cryptographic machines designed to interact with their sender to create an encryption that cannot be easily broken are the newest toy in our arsenal. The Signals Intelligence Service, which required the installation of underground cables to ensure secrecy, has finally been implemented.
+Executive Order 7250-A
+An Executive Order signed by President MacArthur aims to bring an end to the threat of foreign infiltration. This order restores some parts of the Alien and Sedition Acts, notorious in the early 1800s. State legislatures are already appealing cases to the Supreme Court. It is firmly believed, however, that MacArthur's new judges will side in his favour.
+Empower the Army
+A crisis has already arisen in our new military administration. The Army and Navy are constantly at each other's throats over funding and political kickbacks. We need to relegate the Navy to a secondary governmental position and grant the Army full power.
+Old Soldiers Never Die
+The new regime recognises the long struggle of the officers who left their homes to protect their nation, and to the many who didn't return home. Thanks to an Executive Order, officers may now pursue a technical education in universities or go into law. This will ensure loyalty long after we fade away.
+The Commander-in-Chief
+The role of the President as Commander-in-Chief goes back to President Washington. Washington set the precedent of retiring from active duty upon taking office, which MacArthur promises he will do once the national emergency is ended. Like Washington, MacArthur will remain ready to respond to threats to the nation.
+National Rehabilitation
+The creeds of Long and Reed were wrong: it was not the industrialists and businessmen that caused civil strife, but the greedy career politician who gave them posts and took their money. We shall rehabilitate the capitalists to their proper position in American society.
+Root out Traitors
+Our intelligence services have identified the enablers of radicalism and greed in America. They are the disloyal Prohibitionists, Grangers, Holy Rollers and foreigners that enabled the SPA and Longists to grow. These organisations have been rightfully banned for their implicit betrayal.
+American Stratocracy
+MacArthur has finally restored nationalist fervour and functional democracy as he sees it. While some complain that career politicians have been replaced by officers, few will argue that the bureaucracy hasn't improved. The American people can now trust their politicians to use legal means to achieve their goals.
+[USA_GetSocialSecurityFocusName]
+[USA_GetSocialSecurityFocusDesc]
+The Social Security Act
+With Congress soon re-entering session, it will soon be our last chance to push forward any new significant legislation before the election. President Smith, wanting to leave office on a high note, and hoping to weaken the pension issue as an attack on the next Democratic nominee, has chosen to focus on passing Social Security. Though the path to passage is difficult, we believe we may just have the votes for one more win.
+Failure Of the Social Security Act
+The economic crisis in Germany has reached America's shores. In a panic, Congress has tabled the Social Security bill, essentially killing President Smith's last hope for a major legislative accomplishment. Now the nation waits with bated breath to see what its government will do to address the crisis.
+Introduce the Garner-McNary Bill
+The renewed crisis on Wall Street demands immediate action by the administration. President Smith has called on Congress to pass emergency economic relief legislation to prevent a return to the dark days of 1929. To that end, Democratic Speaker John Nance Garner and Republican Senator Charles McNary have co authored a relief bill, which has the support of the President.
+The Bill Fails
+The Garner-McNary Bill has failed to pass. This leaves America without a clear route towards recovery, and with a growing insurgency that will need to be addressed.
+War Plan White
+War Plan White is a military action plan to contend with domestic violence or an insurgency. It's time to dust off the plan and deal directly with the growing violence in America.
+Deploy the National Guard
+The violence caused by supporters of Huey Long and the Socialist Party is only getting worse. We need to increase funding to National Guard units, and put them where their efforts will count most.
+MacArthur's Plan
+General MacArthur has raised a solid point: New York City and Texas are two of our most vital, yet vulnerable, strongholds. MacArthur has a plan that could see one of these areas secured, should the violence escalate to a full civil war.
+The Bill Passes
+The Garner-McNary bill has been passed! This is good news for America's economy - though now we must find ways to fund the bill, or the good news isn't going to last.
+Shipyard Funding Scheme
+Two major shipbuilding companies are vying for federal relief funding, and the one we select could mean a large number of new jobs in the region. The trouble is: which one do we focus on?
+The Barkley Plan
+Alben Barkley, Democrat and junior Senator for Kentucky, has proposed a plan which would see the Garner-McNary bill funded by increased corporate income taxes. The plan is controversial with some, but it just might give the economy the boost it needs.
+The New Industrial Act
+We need to kickstart heavy industry in America's heartlands, where the Great Depression has hit the hardest.
+Demand Payment of Docking Fees
+After the British Revolution, to avoid mothballing the remaining Royal Navy, the Canadian Government docked many formerly British ships in American ports at discounted docking rates. The question of payment for this service however has remained a sore spot in American politics. While it's unlikely Canada could repay all of their fees right now, demanding repayment will appease isolationists in Congress, whom we believe will join the political fringe if not appeased.
+Reconciliation with Canada
+The isolationists are elated, but at the cost of our relations with Canada. We can try rebuilding those relations by offering a compromise: some assistance from Canada now, with the fees deferred until after the war. In exchange, we'll reduce the import tariffs from the Entente.
+Raise Entente Tariffs
+Canada refused to pay the docking fees - unsurprisingly - and thus in return our only option is to press punitive tariffs on Entente goods imported into the US. That will put some money in our coffers, though repairing relations with Canada will take a long, long time.
+President Borah
+The election of the Republican candidate to the presidency after months of speculation has come as a relief to the American people. A progressive in the old Teddy Roosevelt mold, William Borah will have to prove that the old parties can meet a progressive moment.
+President Landon
+The election of the Republican candidate to the presidency after months of speculation has come as a relief to the American people. A moderate but not a conservative, Alf Landon will have to lean on the establishment to save the republic.
+Re-light the Western Torch
+Not one for idleness, President Borah enters office with an ambitious plan to save the republic. While some suggest otherwise, the radicals can be distinguished from one another: while the socialists are destructive, and cannot be reasoned with, Huey Long is a known quantity, and winning him over to Borah's reform program may be the key to building a national consensus.
+The Iron Fist
+Radicalism has become a disease afflicting America. Both Long and the Socialists threaten to tear the country apart, and engage in open street violence to get their way. Enough is enough. We must put our foot down at once to suppress the growth of anti-constitutional movements, even if it costs us important political capital.
+The First 100 Days
+While President Landon may be a moderate, he recognises the need for immediate relief to American businesses, and now intends to shore up employment by pushing through a blanket relief bill. Faced with the opposition of the radicals however, he will have to thread the needle through a fractured congressional centre in order to achieve a victory early into his administration.
+President Olson
+The American people have demanded and gotten change. The first Farmer-Labor President, Floyd Olson has ridden a radical coalition of the left to the White House. Now he must deliver on the promises of a coalition gradually growing more radical than he is.
+Legalise Expropriation of Idle Factories
+Across the nation, hundreds upon thousands of factories lie dormant, due to the failure of their operators to turn a profit. As the burden of capitalist failure is cast downwards, millions of workers lie unemployed next to the empty factories in which they once worked. Enough is enough. If the capitalists will not run these factories, we will seize them and run them ourselves, and we will make work for those who have been left behind.
+Enforce Labour and Lynching Laws
+Some of the few positive developments of the Smith Administration were the passage of various labour laws, and the Anti-Lynching Act. Though these represent an important step forward, they often went unenforced in Smith's time. We will rectify this. With the full force of the federal government, we will make the rights promised to workers and African-Americans a reality.
+President Long
+The impossible has occurred and Huey Long has gained the presidency on a third-party ticket. His allies do not, however, have control over the Senate or the House of Representatives, and President Long thus faces both a wary legislature and a country on the verge of utter chaos.
+The Nye-Sweeney Banking Bill
+Wall Street banks have long trodden over the common American with impunity, foreclosing on properties and destroying livelihoods. That the instruments of financial power in this country remain outside of the control of the American people is a disgrace. The Nye-Sweeney Banking Bill rectifies this by placing banking activity under democratic control, bringing in popular accountability and binding Wall Street to the will of the people.
+Deputise the Minutemen
+Day by day, America falls further into chaos. Violent anarchists and criminal syndicalists roam freely, spreading sedition and inciting mayhem in the name of foreign radicalism. As it becomes clear that local law enforcement is incapable of meeting the threat alone, we must bolster their numbers by deputising loyal and patriotic Minutemen, who will stamp out the criminal element and restore order to the country.
+War Department Expansion
+The United States War Department has seen a shrinkage over the last half-decade through austerity measures. Now it is vital that staffing be expanded and new innovators enter the department, ready for reform.
+Army Reform Debate
+The question of the hour, which direction should the US Army take to not only respond but anticipate a prolonged land war? The opinion of MacArthur is a given, having already prepared for this conflict within his inner circle.
+Air Force Debate
+The Air Force, having the funding necessary to expand, lacks the precise direction and leadership needed to effectively advance. With numerous requests to fund research, and competing minds insisting that they are the key to victory in the skies.
+Adna Chaffee Reform Plan
+MOLLUS recipient Adna Chaffee Jr. proposes that the Army step up production of more expensive armoured vehicles, as well as plan out new specialised divisions to complement a more mobile war.
+Lesley McNair Reform Plan
+McNair proposes refining the inherent advantage the US Army has in delivering a mass quantity of support to infantry attacks. This will require an intensive employment increase in war industries.
+Standardise the M1
+The M1 designation infantry weapon has been in trial for years, wasting contracts. The final decision on which design will go into production will be answered in a timely manner now.
+Defence Contractors
+Private enterprise has become an undeniable part of our military industry. It is time we draw up contracts and see what they can do to help us.
+Restart Examining Boards
+The Army's review process has had its share of reformers, but by-and-large the system has remained stagnant for a decade. McNair insists that improvements can be made.
+Efficient Production Program
+The unemployed masses that stand waiting for a job are the perfect test subjects for creating taylor-timekeeping tables for efficient production.
+Shock and Awe
+Entrenchment can turn an open field into a stagnant killing ground, and despite our better nature, we must employ the heaviest artillery shells in order to force our enemies to retreat in such a scenario.
+Take the Fight Abroad
+Finally, the top brass is satisfied with the progress we have put into the Army. Now we just need a target to put rubber to the road.
+Military Research
+Our national security is threatened by the asymmetrical advancement of technology. We cannot be blindsided by an enemy with some previously unknown weapon of war. We must increase military research and development funding drastically.
+Increase Military Spending
+Congress must approve a larger Army budget for the coming year. It will undoubtedly help the civilian economy down the line.
+Liberty Bonds
+Funding the war effort will require more than victory gardens and volunteerism. Liquid assets are in short supply, especially with our economic programs ongoing. We can capitalise on public trust and implement War Bonds as most other free nations do.
+Army Rangers
+Training Regiments to acclimatise soldiers into new environments will enable American soldiers to fight effectively no matter where the course of war may take them. The Rangers are a newly proposed force conceptualised around adaptation to harsh terrain, with the purpose of introducing their advancements slowly the Army as a whole. Let us found this organisation.
+Walkie Talkies
+Usually military equipment has strong names. Walkie Talkie? How did that slip through the system? Our generals claim that this new untethered communication device will enable our troops to speak effectively when they're in the field. And we called it Walkie Talkie?
+Defense Logistics Agency
+The layout of the United States may be suited for interstate commerce, but is unprepared for massive deployments. We must correct this.
+Increase Military Production
+The gratefully employed are in our factories toiling towards victory, though they may not believe that. Where propaganda has failed, monetary incentive will work to increase production.
+Tank Competition
+Tank designs are a dime a dozen, we need a streamlined system to determine which design will best fill its role in combat.
+Armoured Cavalry
+Top officers have long had experience in cavalry and have designed and planned to transform motorised and tanks to fit new needs. Working closely with the government, the military, Henry Ford and other Industrialists, we can make this plan a reality.
+G.I. Bill
+Young men have a variety of motivations for going to war. The G.I. Bill will hopefully encompass those motivators that patriotism cannot reach.
+Fighter Development
+While we were still stuck with the P-26 Peashooter, our national companies have made huge breakthroughs with the P-36 Hawk, the Seversky P-35, the P-39 Airacobra and the new Prototypes of the P-40 Warhawk which could give us an edge on the battlefield. Let us fund these companies so that their projects may enter mass production.
+Expand the Air Corps Tactical School
+We are in need of a space to train new pilots for the variety of operations the Air Force handles. In Virginia, a section of the ACTS has remained loyal to us, despite all shortcomings of the Air Force, and their installations and expertise may prove vital to train the airmen of tomorrow.
+Create the WASPs
+The Women Air Force Service Pilots will help support the Air Force, while they will be subordinate to the main male air-force and not be allowed to fly in combat situations, they will help to keep our boys flying in the air.
+'Screaming Eagles' Program
+General John C.H. Lee is insisting on starting off a new experiment in Air Assaults done in response to the Hang-glider operations pioneered in Europe. With airborne forces we will be able to overwhelm defenders from multiple angles in ways that it was impossible decades ago. As such, the general staff has authorised the experiments and funding shall be diverged to it.
+R.A.D.A.R. Development
+RADAR, the top-secret technology to detect air movement will allow our sky watchers to rest easy at night.
+Expand the USAAC
+The United States Army Air Corps, in service since 1926, has largely remained on the sidelines of military development. Despite receiving a meagre budget, they've yet managed to innovate in many aspects and High Command barely sees any reason to reform. Provided High Command's disputes in the past few years with Airmen, it has been decided they'd be better off remaining as an integral part of the Army.
+Create the USAAF
+The United States Army Air Force is the success of both the airman and the politician. With the dream of Billy Mitchell realised in all but name, we can now focus on improving on Harold L. George's doctrine and enhancing America's long-range strike capabilities.
+Modernise Cavalry Tactics
+It was apparent from our observers in the Weltkrieg that new tactics and technologies are becoming vital in the battlefield. Bearing this in mind, it's no wonder General Chaffee has seen fit to redistribute new manuals specifying how to use and counter armoured advances as the old counter-cavalry tactics grow outdated.
+Mechanisation Program
+The speeds Chaffe is promising on new vehicles will require a systematic change in how we build and maintain military vehicles.
+Top-Notch Artillery
+Artillery pieces will need to be stronger as well as lighter if we are to respond to battlefield changes as the plan dictates. McNair's expertise in the 1920s with the Examining boards seems to have not gone to waste, and he has proposed an overhaul of the American Artillery production which he projects will lead to artillery pieces being easier to produce and repair, as well as more accurate on the battlefield.
+Production Prioritisation
+As our War Industry hums along, McNair has stressed the necessity of the usage of both Anti Air and Anti Tank cannons to stop both armoured and aerial threats dead in their tracks. However, High Command will require some solid report evidence to divert the funding McNair is requesting...
+Air-To-Ground Cooperation Exercises
+While the USAAC has technically worked with the Army for well over a decade, they have hardly ever worked together. The Army is now requesting the Air Force to support their advances, and provided that doing so blindly might lead to friendly fire, generals are being paired in specific combat areas to exercise their coordination and to make sure our casualties are minimised.
+CAS Model Development
+As the Air Corps never intended to be integrated into the army, hardly any development has gone into newer Close Air Support Models. Thankfully, Contractors have already been kind enough to provide us with prototypes like the Brewster XSBA-1 and the already ageing Northrop A-17 \
+Strategic Bomber Development
+America hardly has any enemies within attack range to fear. As such, there has been a generalised thought that has been taking over the USAAF, spread by a group led by famous airmen like Carl Spaatz. The Army has dubbed them the \
+Strategic Bombing Doctrine
+The idea pushed by Spaatz and his acquaintances is a rather simple one: The Enemy won't be able to continue fighting if the home for which they are fighting for no longer exists. By destroying both their industry and their fighting spirit at the homefront, our troops will prevail both in morale and equipment on the front line.
+Long Range Escorts
+While having better bombers is vital to win the war of tomorrow at the enemy's doorstep, these bombers can seldom operate on their own. They will need an escort capable of facing off enemy fighters and come back in one piece. Luckily for us, plane designer Kelly Johnson has contacted us with a new and innovative design: The P-38, dubbed \
+Aerodrome Construction
+We should pepper the nation with airfields, enabling our Airmen to reach any part of the nation easily.
+Central Operating Bases
+We should concentrate on safer, larger airfields strategically located near major zones of control.
+Flexible Bombers
+The Army has stated they require multi-purpose air craft that can easily adapt to battle situations. Thankfully for us, our private contractors have come up with the NA-40, which could serve as a baseline to a new flexible bomber model, which the airmen insist on naming after Billy Mitchell despite High Command's protests. We shall fund these development efforts.
+Quesada's Close Air Support
+General Quesada has a very hands-on attitude to directing Air missions, and his approach to air tactics is near revolutionary for our young Air Force. Let us fund his efforts and help distribute his manuals to pilots so our CAS doctrine may be the best in the world!
+New Arms Factories
+The main trouble with creating a military industry is that facilities under our control were already reduced from the Great Depression to reduce redundancies. We have had to expand facilities and repurpose old buildings in order to manufacture parts needed for heavy weapons in our territory.
+New Tank Assemblies
+Armoured warfare will change the face of the battlefield forever. We cannot sid idly as the world rearms, and with the Tank, we may be able to beat our enemies in a matter of weeks instead of years. As such, it would be a priority for us to build more of these deadly machines, so that we may be ready for fight for freedom not only in America, but on the whole world.
+Create the Women's Army Corps
+Despite protests from socially conservative elements in the US Army, the Commander-in-Chief has stood firm in defence of the Women's Army Corps. Led by Secretary of the Department of Health, Oveta Hobby, the WAC has received more than twice their requested number of volunteers. Women's Auxiliary will help maintain and safeguard our weapons of war, and keep our massive supply chain working.
+Rifle Improvements
+While the M1 Johnson managed to see us through the Civil War, its flaws were as noticeable when it was adopted as they are now. However, with the criticism we have gathered during the civil war, we have contacted the original designer, and he has assured us that by redesigning the barrel, gas cylinder, and front sight assembly, he will make the Garand an even more reliable and deadly weapon.
+'This We'll Defend'
+The US Army has reached a new peak in both size and efficiency. We can rely on them to defend our values both domestically and abroad, and in the process, High Command has managed to learn some valuable lessons that give us an edge over inexperienced militaries.
+Malin Craig's plan is the only plan that guarantees a large fighting force in the shortened time frame we have given.
+Hierarchical Reorganisation
+The meritocracy in the US Army has fallen to the wayside for nepotism and incompetence. We must reaffirm the code of the US Army and ingrain this in our staff hierarchy.
+Joint Chiefs of Staff
+The disputes common in the Federal inter-service politics persist in our own government. In order to avoid this interdisciplinary contention from spilling over, we must ensure that all our Chiefs of Staff are given equal attention.
+Establish a New Officer Training Centre
+With the immediate danger posed to our most prestigious officer schools, we must reorganise and fund new schools in safer territory.
+A Gun for Every Hand
+A priority of General Craig is not only the Mobilisation of large infantry units, but the consistency of supplies for them. As such, he insists that a second budget needs to be drawn, one that favours Weapon contractors heavily to produce more equipment so our troops at the front may be able to fight with a full kit against any threat.
+Engineer Corps Expansion
+We are finally able to provide enough infrastructure and planning to provide Engineering Corps in the field. Through coordinating our intelligence network with scouting and surveillance systems, we are able to ensure that non-combat elements in battle are accounted for and able to complete their tasks.
+American Auto Industry
+Since the invention of the automobile, it has been taken up in earnest by the people of America. Most of the factories for cars are in the North, where the syndicalists are running things. However, J. Kaiser has moved from the North, so we should encourage other companies to follow in his footsteps.
+Spaatz's Air Superiority
+General Carl Spaatz has long since been growing in notoriety within the USAAC and USAAF. The success of his ideas on the field of battle have proven that Spaatz's approach to air warfare may be correct, and as such, the Army should focus on promoting and distributing manuals regardless of disagreements with the \
+US Navy
+The American navy, an institution whose history is so deeply interwoven with that of the nation as a whole, has been in steady decline after years of neglect. No more! We must again turn our attention to naval affairs.
+Great White Fleet
+The Great White Fleet was the height to American naval power. We should look back at it for inspiration. A great fleet of battleships and dreadnoughts will ensure we always have naval superiority.
+Defending America's Trade
+Trade is the lifeblood of America. We should focus our naval doctrine on making sure that it is protected from enemy raids.
+Fleet Carrier Plan
+Carriers are the wave of the future. We should invest in their research and construction to better project naval power.
+Battleship Development
+Battleships are the kings of the high seas. We should start research into new models with bigger guns and better anti-air protection.
+Battle Cruiser Development
+Battle-cruisers present a middle balance between heavy battleships and faster cruisers. We should ensure we have some in our navy.
+Coast Guard
+Restoring the Coast Guard will ensure that trade moves smoothly, criminals are stopped at sea, and those in danger are rescued.
+Light Cruiser Development
+Lighter cruisers are important in anti-air operations, as well as attacking enemy destroyers and submarines. We should ensure our navy has a handful of these in order to stay balanced.
+Naval Aviation
+Naval aviation is the future of warfare on the high seas. We should ensure that our air designs are capable of being launched from carriers and destroying the enemy fleet without even endangering our own.
+Expand Dockyards
+Our dockyards are somewhat inadequate to fight a war on their own. We need to ensure that new naval production facilities are constructed to support the war effort.
+Submarine Development
+Submarines allow us to wreak havoc on enemy shipping and heavy ships. We should ensure that our designs stay up to date against enemy destroyers and anti-submarine tactics.
+Liberty Ships
+Our shipyards, previously dedicated to commercial shipping, can easily be converted to produce massive numbers of convoys to supply our allies around the world.
+Maritime Industry
+America has a naval tradition rivalled only by the great powers of Europe, and an equally illustrious history of naval production and innovation. With the dockyards and merchant marine now much improved, let us focus on streamlining and better integrating the increasingly national process of naval production.
+New Admirals
+In the face of crisis, many admirals committed the greatest treason - desertion. We should train a new generation of naval leaders to ensure our continued maritime dominance.
+Create the WAVES
+Women can serve many auxiliary roles in the navy, freeing up men for combat duty. While this might be socially controversial, it will significantly help the war effort.
+Improve the Marine Corps
+The Marine Corps was the epitome of American power projection around the globe. From the shores of Tripoli to the halls of Montezuma, the Marines were always there. We should ensure they have modern equipment and training.
+Expand the Marine Corps
+We need to enlarge the Marine Corps, and ensure that they are able to project our power around the globe.
+Naval Training
+While the Naval Academy in Annapolis was destroyed in the fighting of the Civil War, we still have plenty of facilities able to train a new generation of naval leaders and sailors.
+Semper Fi
+Semper Fidelis means \
+America Rules the Waves
+Following our extensive investments into naval research and construction, we have regained our place as one of the world's leading naval powers. Anchors away!
+Back in Business
+The nation has seen some troubles which meant it could not act as an international power, not as it deserves to be - but that has now changed. America is ready to re-enter the world stage.
+Rebuild the Monroe Doctrine
+The troubles in Europe and elsewhere are not ours. America belongs to the New World, and to that end we must endeavour to stake out our place in it. It is our destiny to be the master of North America and protector of South America, and woe betide those who would stand in our way.
+Defend the New World
+The first step in achieving dominance is to ensure that our future enemies and allies are fully aware of our intentions. Welcome our presence or not, however, we are coming.
+Rightful Domain
+North America is our first and foremost concern. We will not condone hostile nations on America's borders, and we must prepare our military to guard our domain by both land and sea.
+Treaties of Cooperation
+The League of American States will be an organisation of friendly neutrals in North and South America, one where the United States is both protector and kindly guide.
+New American Imperialism
+Americans are not imperialists - we go only where we are welcomed, and enforce our will only where it is necessary to maintain order in the West. For the benefit of all.
+Pax Americana
+The great struggle of the New World is over, and in the end, we witnessed the survival of genuine American democracy. With our industry reinvigorated, our military unmatched, and our resolve unbreakable, we will announce to the world that the 20th century will not be owned by that of Paris or Berlin but the start of an American era. Only under the United States' leadership will the world be able to experience peace and stability.
+Enter the Fray
+America belongs on the world stage, and while we are hesitant to be drawn into foreign alliances we will not hesitate to use our military might to stamp out threats around the world that will eventually find us.
+The Arsenal of Democracy
+The Good Neighbour Policy necessitates an internal programme to ready arms for future conflicts. This Arsenal of Democracy, as the President calls it, will enable us to supply war material to even the hardest to reach places in South America in service of fighting tyranny and Syndicalism.
+Longer Reach
+If we are to project our power onto the rest of the world, we must achieve the ability to do so through our naval power.
+On the Beach
+Our enemies must fear American soldiers landing on their shores, and to that end we must work to ensure that we have the skill and power to take advantage of our longer reach.
+Working with our Allies
+American expertise must be put at the disposal of our allies - or, at least, the enemies of our enemies. If they fight better, then together we stand a chance of victory.
+The American Century
+The great ideological struggle for world peace has established the explicit power of the American industry and economy. America is essential to victory over tyranny and Syndicalism and will be essential in preserving world peace should we succeed.
+Fortress America
+America has been through hell, and the time has not yet come for us to become embroiled in foreign difficulties. We must look to our home, ensure it is in order, and defend our walls should enemies come knocking on our doors.
+Man the Walls
+The first step in our defence must be to ensure our walls are well-guarded. The world should fear American military might, but only if they choose to engage us.
+Business of Neutrality
+Neutrality has its benefits in that our enemies are few, and thus our trading partners are plentiful. If America is to build itself into a true world power, we must do so on the back of the mighty American dollar.
+Looking Inward
+Never again should America face instability and the threat of civil war. We must look inward, and deal with our internal troubles, rather than gazing out to places Americans don't belong.
+America Leaps Forward
+With our efforts consolidated and our focus clear, together the United States can leap forward into the coming century - well ahead of the rest of the world.
+Peace at Last
+Our efforts have borne fruit, and at last America knows the true peace that strength and sacrifice can bring.
+The United States of America nearly abandoned isolation to intervene in the European War, but ultimately kept out of the conflict. The result was a Central Powers victory, and the country struggled economically thereafter. European trade declined and the repayment of loans to the Entente was precluded by the German victory. Internationally isolated, the nation now faces mounting internal dissent as the aging and unpopular Smith Administration is challenged by new, radical political forces on the left and right. With malaise at home and only a modest reputation overseas, things aren't looking good for the United States...
+GFX_USA_intro
+The United States of America
+Though spared the horrors of the European War, the United States has fared poorly in its aftermath, as the German-led global order has taken hold. The prosperity of neutrality gave way to a stagnant economy in the early 1920s, as President §lWilliam Gibbs McAdoo§!, who had only narrowly succeeded Woodrow Wilson, failed to contain social and labour unrest, making enemies of both conservatives and progressives alike. McAdoo's successor, Republican §mFrank Lowden§!, was faced with an even greater crisis however: the British Revolution severed America's trade links with its largest remaining major trading partner, leading to the collapse of the New York Stock Exchange in April and December 1925, which allowed the Berlin Stock Market to take its place at the forefront of the world economy. Lowden's administration struggled to respond effectively, pursuing generally non interventionist policies and continuing to raise tariffs, further damaging American trade relations.\n\nThe election of §lAl Smith§! in 1928, initially welcomed by progressives and reformers, soon failed to live up to grand expectations. Though Smith successfully stopped the bleeding and stabilised the banking sector, he continued to reject any large interventionist measures, particularly any that would send the budget into deficit. Spurned by the Democrats once again, progressive and labour forces united for the first time with the Socialist Party in a progressive political alliance, the §SFarmer§!-§RLabor§! §rParty§!, which opposed the Smith administration from the left, and forced the 1932 election to the House of Representatives, where Smith was re-elected with their consent. Within the Democratic party meanwhile, a growing opposition bloc headed by §nHuey Long§! united by a common contempt for Smith gains ground, as Long adopts increasingly radical rhetoric in advocating for his \
+Parties and Factions
+The §lDemocratic§! §cParty§!\nThe oldest continually operating political party in the world, The Democrats have had a storied history, having transformed from a (generally) pro-slavery party, into agrarian and southern opposition to the Republicans, and then into a western, southern, and increasingly urban party with liberal inclinations. Currently, the leading faction of the Democrats are the §lliberals§!, including both President §lAl Smith§! and Vice President §lJoe T. Robinson§!. Generally supported by northern \
+Organised Labour
+In the United States, §Ylabour unions§! have for decades been divided between multiple competing trade union centres. Ideological conflicts over industrial versus craft unionism, as well as the relationship between labour and political parties and politics in general have often dominated discussion of union activities.\n\nThe oldest and most established of the union centres is the §lAmerican Federation of Labor§!. The AFL, headed by president §lWilliam Green§!, has traditionally been dominated by conservative proponents of §lcraft unionism§!, who have spurned industry-wide organising as well as the organisation of immigrants and unskilled workers. Politically, it has been opposed to the idea of binding labour to any singular political party, opportunistically supporting both Democrats and Republicans (though usually the former) when they serve labour's interests.\n\n§SIndustrial unionists§! who had previously worked within the AFL split from it in 1929 to form the §SCongress of Industrial Organizations§!. The CIO, headed by President §SSidney Hillman§!, supports both organisation by industry as well as the §SFarmer§!-§RLabor§! §rParty§!, to which it is formally affiliated and sends a membership levy. Since its split from the AFL, the CIO has grown rapidly, cornering the steel and automobile industries which the AFL previously declined to organise. The CIO also retains looser and more informal ties to the §RSocialist Party of America§!, from which it draws a significant share of its activists and leadership. A prominent outgrowth within the CIO is the ultra-syndicalist §oTrade Union Educational League§!, led by §oWilliam Z. Foster§! and §oEarl Browder§!. Following Foster's strategy of \
+§MRepublicans (William Borah)§! ($market_liberal_coloured$)\n£white_dot Nominate William Borah as the Republican candidate for president.\n£white_dot Form a coalition of Democrats and Republicans in the House of Representatives when Congress returns.\n£white_dot You will be able to reach a compromise with Long and his southern allies. (Check §MOutcomes for the Second American Civil War§! for more information).\n\n§MRepublicans (Alf Landon)§! ($market_liberal_coloured$)\n£white_dot Nominate Alf Landon as the Republican candidate for president.\n£white_dot Form a coalition of Democrats and Republicans in the House of Representatives when Congress returns.\n£white_dot To have Landon win the popular vote, either nominate both Norman Thomas as the §SFarmer-Labor Party§! candidate for president and Eugene Talmadge as the §nUnion Party§! candidate for vice president, or Floyd Olson as the §SFarmer-Labor Party§! candidate for president and Burton K. Wheeler as the §nUnion Party§! candidate for vice president.\n£white_dot You will be able to avoid a military coup by making an alliance of establishment forces. (Check §MOutcomes for the Second American Civil War§! for more information).\n\n§MMacArthur and the Military Remove the President§! ($paternal_autocrat_coloured$)\n£white_dot Either form a coalition of Democrats and Longists or Democrats and Farmer-Laborites, and MacArthur will remove either Long or Acting President Quentin Roosevelt when he marches on Washington.\n£white_dot As the §mRepublican Party§!, choose the \
+§MFuture USA elections§!\n£white_dot §MA Civil War without MacArthur§!\n §M1940 Elections§!\n£white_dot Choosing Alf Landon will let you reelect Alf Landon or elect Wendell Willkie of the §lDemocratic Party§!.\n£white_dot Choosing William Borah will let you decide between Quentin Roosevelt of the §mRepublican Party§! or elect Herbert Hoover of the §cDemocratic Party§!. If Borah made a deal with either Huey Long or his southern allies, and Long was not assassinated, Long will be the §aDemocratic Party§! candidate for president instead of Hoover.\n §M1944 Elections§!\n£white_dot Electing Willkie result in him dying in office, and pit Vice President Alben Barkley against Robert Taft of the §mRepublicans§!.\n£white_dot Reelecting Alf landon or electing Roosevelt will pit Roosevelt against Scott Lucas of the §lDemocratic Party§!.\n£white_dot Having Herbert Hoover will pit him against Robert Taft of the §mRepublicans§!.\n£white_dot Having Huey Long will pit him against Robert Taft of the §mRepublicans§!, as long as Long's focus tree is not yet completed. If it is completed, Long will win re-election uncontested.\n §M1948 Elections§!\n£white_dot Having Lucas will pit him against Charles Halleck of the §mRepublican Party§!.\n£white_dot Having Taft will pit him against Happy Chandler of the §cDemocratic Party§!.\n£white_dot Having Roosevelt will pit him against Chandler of the §cDemocratic Party§!.\n£white_dot Having Barkley or Hoover wil pit Halleck of the §mRepublican Party§! against Chandler of the §cDemocratic Party§!.\n£white_dot Having Huey Long will pit him against Halleck of the §mRepublicans§!, as long as Long's focus tree is not yet completed. If it is completed, Long will win re-election uncontested.\n §M1952 Elections§!\n£white_dot Having Halleck will pit him against Paul Douglas of the §lDemocratic Party§!.\n£white_dot Having Chandler will pit him against Harold Stassen of the §mRepublican Party§!.\n£white_dot Having Roosevelt or Taft will pit Douglas of the §lDemocratic Party§! against Stassen of the §mRepublican Party§!.\n£white_dot Having Huey Long will pit him against Stassen of the §mRepublicans§!, as long as Long's focus tree is not yet completed. If it is completed, Long will win re-election uncontested.\n\n£white_dot §MMacArthur in the Civil War§!\n£white_dot Make MacArthur give power after the Civil War ends.\n£white_dot Then you will be able to select between Arthur Vandenberg of the §mRepublican Party§! and John Nance Garner of the §cDemocratic Party§! as provisional president.\n §M1940 Elections§!\n£white_dot MacArthur will run for presidency under the §mRepublican§! Party and will pit him against Byrd of the §cDemocratic Party§!.\n §M1944 Elections§!\n£white_dot Electing MacArthur will pit him against Russel Jr §cDemocratic Party§!.\n£white_dot Electing Byrd will pit him against Robert Taft of the §mRepublican Party§!.\n §M1948 Elections§!\n£white_dot Having MacArthur or Byrd will pit Happy Chandler of the §cDemocratic Party§! against Charles Halleck of the §mRepublican Party§!.\n£white_dot Having Russell Jr will pit him against Halleck of the §mRepublican Party§!.\n£white_dot Having Taft will pit him against Chandler of the §cDemocratic Party§!.\n §M1952 Elections§!\n£white_dot Having Chandler will pit him against Harold Stassen of the §mRepublican Party§!.\n£white_dot Having Halleck will pit him against Paul Douglas of the §lDemocratic Party§!.\n£white_dot Having Russell Jr will pit Stassen of the §mRepublican Party§! against John Sparkman of the §cDemocratic Party§!.\n£white_dot Having Taft will pit Stassen of the §mRepublican Party§! against Paul Douglas of the §lDemocratic Party§!.
+AT&T
+General Electric
+IBM
+Raytheon
+Westinghouse
+Bethlehem Steel
+Phelps Dodge
+BFGoodrich
+DuPont
+Magnolia Petroleum
+Standard Oil
+Wood River Oil
+Browning
+Colt
+Remington
+Springfield Armory
+Winchester Repeating Arms
+Harrington & Richardson
+Army Ordnance Department
+Rock Island Arsenal
+Watervliet Arsenal
+Studebaker
+Dodge
+Buick
+Willys
+Marmon-Herrington
+American Car and Foundry
+Chrysler
+American Locomotive Company
+Fisher Body
+Baldwin
+Pacific Car and Foundry
+Ford
+General Motors
+Newport News Shipbuilding
+Norfolk Naval Shipyard
+Kaiser Shipyards
+Brooklyn Naval Yards
+Electric Boat
+Higgins
+Mare Island Naval Shipyard
+Bell
+Consolidated
+Grumman
+Lockheed
+North American Aviation
+Curtiss-Wright
+Vought
+Boeing
+Douglas
+American Ordnance Exports
+Heavy Fighter Manufacturer
+Heavy Bomber Manufacturer
+Floyd Bjørnstjerne Olson
+§YBorn:§! §LNovember 13th, 1891, in Minneapolis, Minnesota, United States of America§!\n§YBackground:§! §LFloyd B. Olson was never supposed to become President of the United States. Born to a Norwegian father and a Swedish mother, Olson grew up serving as a shabbos goy for the local Jewish community on the north side of Minneapolis, then briefly working for the Northern Pacific Railway. This was before dropping out of university and heading west to work odd jobs in Canada and Alaska, and then Seattle where he joined the Industrial Workers of the World for a time, picking up a quasi-socialist ideology he would hold throughout his life. In 1913, he returned to Minnesota to study law and became the Hennepin County attorney by 1920. He became known as a tough prosecutor, taking on corrupt businessmen, the Ku Klux Klan, and the conservative Minnesota Citizens Alliance after the latter hired a hitman to blow up the home of a union leader. During this time, Olson aligned as a Progressive, a Democrat, and eventually as a nominee for what was then called the Working People's Nonpartisan League - and was rewarded when he became that party's first governor of Minnesota.\n\nWhen his party became the state section of the Farmer-Labor Party in 1930, Olson immediately became a leading figure of the non-socialist wing of that party, and was nominated in 1932 as its first presidential nominee. A historic first-time showing under Olson allowed him to win a Senate seat in 1934, and allowed him to remain a credible option for the presidency in 1936.\n\nAfter much hand wringing, on the back of a coalition of the congressional left, Olson has now become the first president elected from neither of the major parties since Zachary Taylor in 1848. His election was the least of his struggles however: now Olson must manage a fractious coalition that includes both moderates and a radical Socialist Party which remains committed to revolution. With rumours of ill health swirling around him, it remains to be seen if Olson can walk the tightrope...§!
+Alfred Emanuel Smith
+§YBorn:§! §LDecember 30th, 1873, in New York City, New York, United States of America§!\n§YBackground:§! §LAlfred Emanuel Smith began his career as a climber. A working class Irish-American with little formal education, he clawed his way up the ranks of municipal and state politics, relying on his wits and oratory skills to push himself forward. Though he emerged as a creature of Tammany Hall, he was never connected to the notorious corruption of the machine. After years of steady climbing as a progressive reformer, he was elected Governor of New York in 1918.\n\nThroughout his tenure, he fought for civil service reform and workers' protections, and his ambitions soon turned to national politics. With the nation in the midst of depression, the lane was wide open for Smith to take the Democratic nomination and the presidency in 1928.\n\nWhile his presidency initially brought about widespread optimism that better days were ahead, such feelings were short-lived. Though Smith succeeded in preventing a total collapse in the nation's banking system in 1929, the Creditanstalt collapse and subsequent recession in 1931 put a halt to the limited progress towards recovery made in Smith's first term.\n\nAs the depression continued, and Smith's administration failed to construct a strong narrative of recovery, discontent with mainstream politics grew ever stronger. The Democrats' hold over congress became weaker with every election, as Smith was only barely re-elected in the House of Representatives. His once strong popularity has fallen greatly, as he comes to represent the malaise that has consumed the nation since 1925.\n\nNow Smith is but a lame duck. Challenged both from within and outside his own party by radical forces, he is resigned to ensuring his exit from office is as successful and dignified as possible. With the crows circling the Democratic Party however, the American people wait with trepidation to see what comes next...§!
+Alben William Barkley
+§YBorn:§! §LNovember 24th, 1877, in Wheel, Kentucky, United States of America§!\n§YBackground:§! §LAlben Barkley draws from over thirty years of political experience within the Democratic Party and his own smart judgement. A supporter of the reforms of Woodrow Wilson, he continues to carry the torch of progressive Wilsonianism long after the late president's death. After several failed national election bids and a steady voting record, Alben was the right piece on the chess board in this election to gain the White House for the Democrats.§!
+Quentin Roosevelt
+§YBorn:§! §LNovember 19th, 1897, in Washington, D.C., United States of America§!\n§YBackground:§! §LThe youngest son of former president Theodore Roosevelt, from an early age Quentin was groomed for political activism in his father's Republican Party. Quentin, however, wished to be a pilot, but was injured in his training in 1918. Seeing his family being torn by Archibald Roosevelt's entry into Huey Long's camp, Quentin entered politics and served as Governor of New York during the fateful year of 1936. Now leading the country as one of its youngest ever presidents, Quentin plans to follow in his father's footsteps and push for a new American Fair Deal.§!
+Arthur Hendrik Vandenberg
+§YBorn:§! §LMarch 22nd, 1884, in Grand Rapids, Michigan, United States of America§!\n§YBackground:§! §LBorn in Grand Rapids, Michigan of a family of maily Dutch heritage, Arthur Vandenberg began his career as a journalist. After a stint in New York, Vandenberg settled home to edit and publish the Grand Rapids Herald, aligning the paper's editorials with Theodore Roosevelt-style progressivism, even as he supported Roosevelt's opponent, incumbent William Howard Taft, in the GOP primary of 1912.\n\nAfter gaining for himself a substantial profile, Vandenberg was often touted as a potential Republican candidate for high office. In 1928, he was appointed to fill a vacancy to one of Michigan's US senate seats. In spite of the general GOP drubbing that year, Vandenberg survived the special election to retain his seat, in part thanks to Socialist vote-splitting.\n\nIn the senate, he gained a reputation as a conservative, though a moderate one. He agreed with many of the measures President Smith took to restore economic confidence, as well as his reluctance to resort to any radical spending measures. Though he was touted as a potential candidate for President in 1936, he declined to throw his hat in the ring, fearing that, as a conservative, he might throw the nomination to the progressive William Borah.\n\nIt was in the months following the election that Vandenberg attached himself to Douglas MacArthur's cause, helping to rally congressional legitimacy to the federal government during the Civil War. Allied to MacArthur on the basis of a democratic restoration after the war, Vandenberg has now been rewarded for his loyalty both with that promised restoration, and with the presidency.\n\nWith the country still in ruins, Vandenberg must now manage a more arduous reconstruction than that after the first civil war. Restoring normalcy and conservatism is no easy task, however in doing this Vandenberg can rely on the support of both Congress and an increasingly conservative and isolationist public.§!
+Scott Wike Lucas
+§YBorn:§! §LFebruary 19th, 1892, in Cass County, Illinois, United States of America§!\n§YBackground:§! §LBorn on an impoverished tenant farm near Chandlerville, Illinois, Scott Lucas was named after a Democratic congressman, Scott Wike. It was Lucas' brother Thurman, however, who pushed the young man into politics. Working various odd jobs to get himself through college, Wike graduated in 1914, opening a law practice in Havana, Illinois. In a few years, he had established himself as a \
+Paul Howard Douglas
+§YBorn:§! §LMarch 26th, 1892, in Salem, Massachusetts, United States of America§!\n§YBackground:§! §LPaul Howard Douglas was born in Massachusetts in 1892. Overcoming a tumultuous early childhood, Douglas earned a PhD in economics in 1921 from Columbia University, beginning a career in academia. With his wife, a fellow PhD holder, Douglas moved six times between 1915 and 1920. After spending much of the 1920s back in Massachusetts, Douglas divorced his wife and returned to Chicago, where he became increasingly involved in politics.\n\nIn 1933 he was a supporter of the \
+Herbert Clark Hoover
+§YBorn:§! §LAugust 10th, 1874, in West Branch, Iowa, United States of America§!\n§YBackground:§! §LBorn to a Quaker family in Iowa, Herbert Clark Hoover began his career as a mining geologist. It was the outbreak of the European War which made Hoover famous however. His success as chairman of a committee organised to ensure the safe return of 100,000 Americans stranded in Europe in 1914 allowed him to establish the Commission for Relief in Belgium. From 1914-1920, through entirely voluntary efforts, nearly 10 million people in occupied Belgium and northern France were fed by his organisation.\n\nHoover's sterling reputation as a humanitarian set him up well for a potential political career. Though his name was floated as a potential cabinet pick, Hoover was preoccupied with further aid projects in Europe. With the onset of the Great Depression, Hoover turned his focus back home, organising charitable aid to Americans facing food insecurity. Such actions raised his profile further, and in 1928 his name was placed into nomination at the Democratic convention.\n\nThough Al Smith was ultimately nominated and elected, he appointed the popular Hoover as his Secretary of Commerce. Hoover leveraged his department for disaster relief and other regulatory initiatives intended to mitigate the depression. Though Smith's popularity fell, Hoover's remained strong, and he was perceived as a strong potential candidate in the 1936 election, though he refused to run under his unpopular party's banner.\n\nHaving exited office with Smith, and spent the Civil War in numerous humanitarian positions, Hoover's election as President represents the turning of a new leaf. The main member of the Smith Administration to keep his reputation in-tact, Hoover was elected with the expectation that his years of humanitarian experience would make him an able president during reconstruction. As the nation begins to heal from the wounds of war, time will tell if he is up to the task.§!
+Alfred Mossman Landon
+§YBorn:§! §LOctober 12th, 1887, in West Middlesex, Pennsylvania, United States of America§!\n§YBackground:§! §LThat, of all people who could've been picked for the task, Alfred Mossman Landon was chosen to lead America in its darkest hour is something of a curiosity. Raised in Marietta, Ohio, and finally studying and settling down in Kansas, Landon eventually acquired substantial personal wealth as an oil producer, and became a major figure of the national oil lobby - a group attacked by both the left and right. A supporter of Teddy Roosevelt's Progressive Party and his 1912 election bid, Landon eventually became the leader of the Kansas liberal Republican caucus. In 1932, he was elected as the Kansas state governor in an exceptionally tight race, and narrowly won re-election 2 years later, building a reputation as a soft-spoken reformist Republican in a time where they are becoming an increasingly rare sight.\n\nLandon was backed by the Republican party machinery as a centrist against party insurgent William Borah. Though he was not as radical as Borah, it was expected that he would be able to appeal both to the national mood for reform and the natural conservatism of Americans. Though the Republican Party had not gained substantial popularity during the Smith years, Landon was still considered a favourite for election. Such expectations have now finally been confirmed in the House, as, Landon was elected by an establishment coalition to serve as Smith's successor. In the White House, the President carries a unique political position, a man who is fiscally conservative yet receptive to government intervention: a figure of business interests who is still a supporter of labour unions.\n\nFor the second time, a Republican stands before a house deeply divided - and President Landon has some very large shoes to fill.§!
+William Edgar Borah
+§YBorn:§! §LJune 29th, 1865, in Jasper Township, Illinois, United States of America§!\n§YBackground:§! §LA child of frontiersmen, William Borah was born and educated near Fairfield, Illinois. Moving west, initially to Kansas and then to the boom town of Boise, Idaho, he settled and became an attorney, involving himself in state Republican politics. In 1896, Borah joined many of his fellow state party members in abandoning the GOP ticket in favour of William Jennings Bryan's platform of Free Silver, the first of many maverick acts towards the party leadership. Soon, he gained acclaim for his aggressive prosecution of union leaders Paul Corcoran and Bill Haywood, each in separate murder cases.\n\nAs a progressive insurgent in the Senate, Borah supported Roosevelt in 1912 over Taft, opposed US entry into the European War, and supported women's suffrage. Critical of the McAdoo, Lowden, and Smith administrations, Borah hoped to make a serious run for President in the 1920s and ‘30s, but only succeeded in 1936: With conservative Republicans in turmoil, and the nation in a radical mood, Borah was able to clinch the nomination, and win the presidency with the support of house and Senate Democrats.\n\nBorah represents the last great hurrah of Roosevelt-style progressivism. Though an opponent of Smith's economic policies, Borah favours a far more decentralised model of progressivism than either the Farmer-Laborites or Huey Long. His stringent support for states' rights has won him both praise and scorn, with his \
+Cordell Hull
+§YBorn:§! §LOctober 2nd, 1871, in Olympus, Tennessee, United States of America§!\n§YBackground:§! §LBorn in a log cabin in Tennessee, Cordell Hull has been involved in politics for his entire adult life. Elected to the U.S. House in 1906 at 35, on the Ways and Means Committee Hull was a fighter for low tariffs and an income tax, aligning broadly with the policies of fellow southerners Woodrow Wilson and William Gibbs McAdoo.\n\nAfter a brief stint out of Congress and as chairman of the Democratic National Committee, Hull was entered into nomination at the 1928 Democratic National Convention. It was that year however that he was elected to the Senate, where he gained a seat on the Committee on Foreign relations.\n\nHull's big break came upon the departure of President Al Smith's first Secretary of State, Frank L. Polk. Hull was nominated as Polk's replacement, and as Secretary of State pursued lower tariffs (in spite of Smith's reluctance), a relaxed policy in Latin America, and, controversially, recognition of the Union of Britain.\n\nThough his name was again put forward in 1936 for the presidency, the Democratic nomination instead went to Vice President Joe T. Robinson. Mainly focused on the American response to Black Monday and its domino effects, Hull was shocked when Congress fell into deadlock in early 1937. With no new president having been elected, Smith's term was to expire, and the Secretary of State was to become acting president.\n\nForgoing the convention that the president's cabinet departs from office with him, Hull has remained in office past January 20th to maintain some semblance of continuity of government. As acting-president, his position is widely recognised, even by himself, as untenable, and as the nation falls into further chaos it is likely that he will give way to a force more capable of restoring order.§!
+§YBorn:§! §LOctober 2nd, 1871, in Olympus, Tennessee, United States of America§!\n§YBackground:§! §LCordell Hull is a long serving Congressman of multiple talents. A legislator with experience writing the Federal Budget. A diplomat involved in extending US influence into Mexico and maintaining US relations with Germany. His influence over the Democratic National Committee also gives him the power to influence which candidates can run for office.§!
+Wendell Lewis Willkie
+§YBorn:§! §LFebruary 18th, 1892, in Elwood, Indiana, United States of America§!\n§YBackground:§! §LWendell Willkie has been many things in his life before the presidency. He began as a Bryanite, became a socialist in college, and rumours persist that he seduced Song Mei Ling during a diplomatic visit to China in 1933 - not to mention an affair with writer Irita Van Doren. He continued to stand out when he opposed Democrats to push for a bank holiday when the Great Depression hit. This support for financial institutions and his assertions that government aid should not interfere with market competition made him a possible dark horse candidate for the Democratic nomination, and he served well during the 1940 campaign and afterwards, when his easy mannerisms and propensity for a drink won him favour with the press. It remains to be seen whether this polytalented man can handle the many roles of the presidency.§!
+Robert Alphonso Taft
+§YBorn:§! §LSeptember 8th, 1889, in Cincinnati, Ohio, United States of America§!\n§YBackground:§! §LRobert Alphonso Taft Sr. is the latest scion of the Taft family and eldest son of former President and Chief Justice William Howard Taft. He followed his father into a career in law, being admitted to the Ohio bar in 1913 with the best test scores in the state. Dedicating the next few years to his legal practice, Taft served a brief stint in Washington as part of the legal staff for the Food and Drug Administration where he met his idol, Herbert Hoover. While in Washington, Taft grew to despise government inefficiency, an attitude he carried into the Ohio House of Representatives in 1920. His time in Ohio saw him become a leading figure of the Ohio Republican Party's conservative faction and a vigorous opponent of the Ku Klux Klan, famously voting against a Klan-sponsored bill to ban dancing on Sundays and opposing another bill requiring Ohio public schools to read ten Bible verses daily. Throughout his career, Taft has ardently championed the superiority of private initiative over nearly every sphere, and became one of the greatest enemies of Ohio's socialists.\n\nDespite his lacklustre speaking ability, Taft's local notoriety and status as head of the political dynasty turned into national fame, then to the Republican nomination for President, and then to the White House. President Taft, now known as \
+Charles Abraham Halleck
+§YBorn:§! §LAugust 22nd, 1900, in DeMotte, Indiana, United States of America§!\n§YBackground:§! §LCharles Abraham Halleck started his career the way many future politicians do - by pursuing a career in law. Soon after graduating from Indiana University and being admitted to the bar, Halleck became the prosecuting attorney for Indiana's 13th district court. Halleck's formal entry into politics only came in 1934, when he was chosen to take the seat of an incoming Republican representative who had died less than two weeks after that year's midterm elections. Halleck was only in Washington for two years before the Second Civil War broke out, but he saw enough to determine that compromise with the radicals was useless at best and un-American at worst. The young representative doggedly supported the Federal war effort, but eventually made waves by declaring that emergency price controls and rationing should be rolled back as soon as possible - he argued that Americans should \
+John Nance Garner
+§YBorn:§! §LNovember 22nd, 1868, in Red River County, Texas, United States of America§!\n§YBackground:§! §LJohn Nance Garner III - a Texan by birth, a lawyer by training, and a politician by profession - is the leading face of the Democratic Party establishment. Entering politics as a county judge, Garner quickly proceeded to the Texas House of Representatives in 1898 and soon made a name for himself by stubbornly backing the prickly pear cactus to be chosen as the Texas state flower - forever earning him the moniker \
+Harry Flood Byrd
+§YBorn:§! §LJune 10th, 1887, in Martinsburg, West Virginia, United States of America§!\n§YBackground:§! §LWhereas many southern populists fell to Huey Long's charms and deserted the Democratic Party, Harry F. Byrd stood his ground. Harry Byrd was born into a Virginian Brahmin family with a direct line to the American Revolution, and is a firm believer in segregation and fiscally conservative policies intended to reduce the national debt. Holding firm to his laissez-faire policies, Harry Byrd won as the stabilising image of American traditional establishment.§!
+Richard Brevard Russell Jr.
+§YBorn:§! §LNovember 2nd, 1897, in Winder, Georgia, United States of America§!\n§YBackground:§! §LThe final ascent into the White House by Richard Russell Jr. is the final stroke in a long game that extends even before his time in the Democratic Party. Russell Jr. has accumulated the right combination of titles in the US Navy, in the Georgian House of Representatives, and the US Congress to secure universal respect. His focus that de-segregation should happen entirely on southern terms proved popular with a national audience. Time will tell whether this position is sustainable.§!
+Albert Benjamin \
+§YBorn:§! §LJune 14th, 1898, in Corydon, Kentucky, United States of America§!\n§YBackground:§! §LThe turning point in Happy Chandler's career came during his intermission in politics to become the Commissioner of Baseball. A term as Governor had established Chandler as a respectable and industrious Democrat with a firm hand on the party line. This stint as Commissioner of Baseball saw a historical decision to allow integrated baseball teams, which led to the end of segregated baseball. This only further elevated Chandler as a Senator and made his decision to carry this support into the Conservative wing of the Democratic Party even more important. His insistence that fiscal conservatism and the race question were not tied together stood against Strom Thurmond's line...§!
+John Jackson Sparkman
+§YBorn:§! §LDecember 20th, 1899, in Hartselle, Alabama, United States of America§!\n§YBackground:§! §LBorn in a log cabin and raised on a farm, John Sparkman had a very relatable upbringing. A rapidly ascending legal career and political clubs later and Sparkman had become the Democratic Representative for Huntsville. His victory being especially important in the fateful Year of '36 as he beat the Long's candidate. Sparkman was instrumental in opening education up to immigrants and women in the South. Silent on social matters and bolstered by his support of science education, Sparkman spoke out against defensive US foreign policy, and eventually left for the Constitution Party, where his reputation put him on the fast track to presidency.§!
+Harold Edward Stassen
+§YBorn:§! §LApril 13th, 1907, in West St. Paul, Minnesota, United States of America§!\n§YBackground:§! §LBorn to a German mother and a Minnesota-born Czech-German father, Harold Stassen rose quickly in life. Just a year after receiving his Bachelor of Laws, Stassen opened a law firm. A year after that, he was elected county attorney. Stassen played a leading role in the creation of the Young Republicans committee in Minnesota in the years leading up to the Civil War, just as the Farmer-Labor Party was strengthening its grip over the state.\n\nThe outbreak of war however interrupted Stassen's career. Stassen, refusing to serve the Reds who took control of the state, fled to Federal territory, where he enlisted. Stassen served out the war with distinction, and when hostilities ended he returned to Minnesota to play a leading role in its reconstruction. Elected as the state's first post-war civilian governor, Stassen helped to rebuild the state while passing several important reforms. Civil service reforms helped dismantle the patronage system established by Floyd Olson, and he cooperated with other midwestern governors on farm issues. He also established the Interracial Commission, the first civil rights organisation of Minnesota.\n\nAs a result, Stassen's approval ratings skyrocketed, reaching as high as 91 percent in one poll. Stassen's ambitions soon turned towards the presidency, and many national GOP leaders regarded him as a serious contender in more than one election cycle. After a false start in 1948, Stassen won the Republican nomination and the presidency four years later. Though not quite the youngest president in American history, at 45 years of age he comes close, and his youth appears to be a good omen for a nation that is finally putting the Civil War behind it.§!
+Douglas MacArthur
+§YBorn:§! §LJanuary 26th, 1880, in Little Rock, Arkansas, United States of America§!\n§YBackground:§! §LBorn a military brat and spending his childhood moving from one army camp to another, Douglas MacArthur asserts that he learned to ride and shoot before he could read or write - and those skills were what he tied the rest of his career to. The most successful son of Lt. General Arthur MacArthur, he followed the steps of his father and enrolled in the United States Military Academy at West Point, then - immediately to fighting against insurgencies in the Philippines and the occupation of Veracruz during the Mexican Revolution. By the 1920s, he was already the youngest Major General in the United States Army and the super-intendant of West Point, which he reformed to address the changes in modern warfare since the Weltkrieg. After service in his old academy, he returned to his second home, the Philippines - but his time there was brief, as deteriorating situation in the United States forced him to return in 1930.\n\nAs political battles raged in Congress and behind closed doors, MacArthur's name kept being mentioned as a blessing or as a curse - everyone knew of his persona, and everyone knew what it stood for. To imagine that the United States Army could intervene in civilian politics, undermine democracy, as if it was some tinpot Latin American dictatorship and not the birthplace of democracy... was a hard pill to swallow for many in the upper echelons of government. President Smith found himself relying upon MacArthur's strongarm control of the army more and more to prevent a collapse of order, and now that he's gone, the General made no surprises and did exactly what was foretold.\n\nWrapping himself in the corpse of American democracy, MacArthur now commands a junta of conservative politicians and business interests to defend the America they hold dear from everyone on the political spectrum. To what end? To be a Cincinnatus, or a Caesar? Only the flamboyant, egotistical, yet surprisingly enigmatic General in Washington knows.§!
+§YBorn:§! §LJanuary 26th, 1880, in Little Rock, Arkansas, United States of America§!\n§YBackground:§! §LWhen America was in crisis, the name \
+§YBorn:§! §LJanuary 26th, 1880, in Little Rock, Arkansas, United States of America§!\n§YBackground:§! §LDouglas \
+United States Congress
+§YFounded:§! §LMarch 4th, 1789, in New York City, New York, United States of America§!\n§YBackground:§! §LThe United States Congress is vested with the power to write laws, pass budgets and declare war. Provisions for a veto override, requiring two thirds of both Houses to agree, keeps Presidential veto power in check.§!
+John Edgar Hoover
+§YBorn:§! §LJanuary 1st, 1895, in Washington, D.C., United States of America§!\n§YBackground:§! §LA native son of Washington DC, J. Edgar Hoover is the director and public face of the Federal Bureau of Investigations. His allies credit him with stemming the tide of organised crime and protecting the innocent. Hoover's critics say that he has gained political power through scapegoating immigrants as the cause of organised crime. Malicious rumours are spread that Hoover is in a relationship with his male secretary, and is an African-American passing as white.§!
+John Pierpont Morgan Jr.
+§YBorn:§! §LSeptember 7th, 1867, in Irvington, New York, United States of America§!\n§YBackground:§! §LJ.P. Morgan Jr is heir of the great fortune amassed by his father, centred around their control of the J.P. Morgan Co. bank. Their investments in heavy industry have contributed to the consolidation of several industries, though Morgan has also heavily focused on philanthropy and lobbying for a more active foreign policy. A proponent of closer ties with the Entente (at least in part due to his prior investments during the Weltkrieg) his disdain for the Kaiserreich's hegemony was deepened by an attempt on his life by a German monarchist in 1915. Still heavily influential in American commerce and industry, he makes for a powerful ally and lobbyist.§!
+William Randolph Hearst
+§YBorn:§! §LApril 29th, 1863, in San Francisco, California, United States of America§!\n§YBackground:§! §LHearst is the owner of the Hearst Communications, which owns several high circulation newspapers across the country. Hearst has played a role in politics since his support for the Spanish-American War of 1898. Despite his repeated tries, Hearst has failed to ever win an elected position in government, and his newspapers have attacked syndicalism and monarchism ever since the first Weltkrieg.§!
+Charles Andrew Willoughby
+§YBorn:§! §LMarch 8th, 1892, in Heidelberg, Grand Duchy of Baden, German Empire§!\n§YBackground:§! §LBorn in Heidelberg, Germany, Willoughby has a distinguished career in the Army and foreign service. Willoughby, serving as an attaché observing fighting in Italy, Germany, and Spain. Because of this experience he is highly valued by Douglas MacArthur.§!
+Hjalmar Petersen
+§YBorn:§! §LJanuary 2nd, 1890, in Eskilstrup, Falster, Kingdom of Denmark§!\n§YBackground:§! §LPetersen has served in the Minnesota House of Representatives then in Congress under the Farmer-Labor Party. In favour of extending the rights of unions, Petersen is one of Floyd B. Olson's main allies in Congress.§!
+Walter Francis White
+§YBorn:§! §LJuly 1st, 1893, in Atlanta, Georgia, United States of America§!\n§YBackground:§! §LWalter White was born to parents of mixed race, legally black in his home state of Georgia despite having light skin and blue eyes. Walter White studied under W.E.B. Dubois and eventually rose to secretary of the NAACP, the National Association for the Advancement of Colored People. White has made inroads for the NAACP and the establishment parties, bolstering the trust the African-American community has in the government.§!
+Robert Ferdinand Wagner
+§YBorn:§! §LJune 8th, 1877, in Nastätten, Province of Hesse-Nassau, Kingdom of Prussia, German Empire§!\n§YBackground:§! §LBorn in Hesse-Nassau, Prussia, Wagner emigrated to the USA and won a seat in New York State government. Wagner spent his decades in office as an advocate for labour unions and worker safety. The Democratic politician Al Smith relies in Wagner to bolster his own popularity among the urban North. Wagner is an advocate for direct intervention in the economy to reverse the effects of the Great Depression.§!
+Felix Frankfurter
+§YBorn:§! §LNovember 15th, 1882, in Vienna, Archduchy of Austria below the Enns, Austria-Hungary§!\n§YBackground:§! §LBorn in Vienna, Austria, Frankfurter emigrated to the USA and became an assistant to a U.S. District Attorney. Frankfurter's career in law saw him ruling in favour of Federal Agencies over state laws. This led Frankfurter to help found the ACLU, the American Civil Liberties Union. Frankfurter has used his allies in the establishment to sway labour unions away from syndicalism, and to push for intervention against brutal pariahs abroad.§!
+Samuel Taliaferro Rayburn
+§YBorn:§! §LJanuary 6th, 1882, in Kingston, Tennessee, United States of America§!
+John Davison Rockefeller Jr.
+§YBorn:§! §LJanuary 29th, 1874, in Cleveland, Ohio, United States of America§!
+William Signius Knudsen
+§YBorn:§! §LMarch 25th, 1879, in Copenhagen, Kingdom of Denmark§!
+Theodore Edson Chandler
+§YBorn:§! §LDecember 26th, 1894, in Annapolis, Maryland, United States of America§!
+Malin Craig
+§YBorn:§! §LAugust 5th, 1875, in St. Joseph, Missouri, United States of America§!\n§YBackground:§! §LMalin Craig graduated from the United States Military Academy in 1898 and was commissioned as a second lieutenant and assigned to the 4th Infantry Division. However, he was quickly transferred to the Cavalry corps, to the 6th Cavalry, where he took part of the Santiago Campaign in Cuba, and later take part of the China Relief Expedition fighting the Boxers, where he was promoted to First Lieutenant. He then attended the Infantry and Cavalry School between 1903 and 1904, and the Staff College between 1904 and 1905. After graduating his courses, he was promoted to Captain and posted with the 10th Cavalry in Fort Leavenworth. In 1910 he entered the Army War College and graduated the next year, becoming a member of the General Staff and Chief of Staff of the Maneuver Division. After several appointments and relocations, he was posted as director of the Army War College, reached the rank of Colonel and was assigned to the District of Arizona in 1920. He was promoted to Brigadier General the following year and assigned as commandant of the Cavalry School in Fort Riley. Due to his exemplary service, he was promoted to Major General in 1924 and assigned as Chief of Cavalry. He later served in a series of very important senior staff positions until becoming Commandant of Army War College from 1930 to 1935, when he was promoted to Three Star General.§!\n\n§YNotes: He has expressed in High Command Meetings and the Congress that the Army is lacking of preparedness in manpower and material, stressing the essentiality of lead time in military preparedness and focused attention on army planning as keys to victory. While he has agreed in the past with other Cavalry Officers that Mechanisation may be inevitable, he has stressed that the US Army first needs a large standing army to protect its industry before the Army can dream on fielding Tanks on a large scale.§!
+Dwight David Eisenhower
+§YBorn:§! §LOctober 14th, 1890, in Denison, Texas, United States of America§!\n§YBackground:§! §LDwight David \
+Clarence Ralph Huebner
+§YBorn:§! §LNovember 24th, 1888, in Bushton, Kansas, United States of America§!\n§YBackground:§! §LClarence Ralph Huebner was born into a poor farming family, and so he was unable to afford joining the military academy outright. Instead, he enlisted as a private for the Army, serving in the 18th Infantry Regiment for nearly seven years and reaching the rank of Sergeant by 1916. He took part in the Pancho Villa Expedition, performing remarkably and earning the rank of Second Lieutenant, after which he was sent to the Command and General Staff School at Fort Leavenworth. He reached the rank of Major before becoming a teacher in the academy from 1929 to 1933. He was promoted to Lieutenant Colonel in 1934 and has served with the Office of Chief of Infantry since then, putting him next in line for the promotion of Brigadier General.§!\n\n§YNotes: Has grown personally attached to leading the 1st Infantry Division \
+Edward Hale Brooks
+§YBorn:§! §LApril 25th, 1893, in Concord, New Hampshire, United States of America§!\n§YBackground:§! §LLike many of his fellow officers, Edward Hale Brooks didn't start his military career after high school, instead he first joined the Norwich University, where he joined the Reserve Officers' Training Corps in 1915 and graduated in 1916 with a Bachelor of Science Degree in Civil Engineering. He was assigned as a Captain of the 1st Cavalry Regiment of the Vermont National Guard until 1916 when he quit military life to focus his energy on his job as an Engineer. This lasted until the National Guard was recalled shortly afterwards for the Pancho Villa Expedition, however, he didn't see any action there. Wanting to further his military career, he joined the Army Field Artillery School at Fort Sill in 1921, graduating the next year and remaining as an instructor until 1926. He was then assigned to the command of Battery \
+Geoffrey Keyes
+§YBorn:§! §LOctober 30th, 1888, in Fort Bayard, New Mexico, United States of America§!\n§YBackground:§! §LGeoffrey T. Keyes began his military career when he enrolled as a cadet in West Point in 1908, graduating in 1913 as a cavalry second lieutenant. He was first assigned to the 6th Cavalry Regiment until 1916, where he took part in the Pancho Villa Expedition. After the return of the Expedition, he became an instructor at West Point. He was later assigned to the Panama Canal Division as Assistant Chief of Staff to Fox Conner. He returned in 1923 to sign up for the Army Command and Staff School, graduating in 1926. He then climbed the ranks until becoming Chief of Supply in the Supply Division within the War Department.§!\n\n§YNotes: Currently attending the Army War College and expected to graduate in early 1937.§!
+Jonathan Mayhew Wainwright IV
+§YBorn:§! §LAugust 23rd, 1883, in Walla Walla, Washington, United States of America§!\n§YBackground:§! §LJonathan Mayhew \
+Joseph Warren Stilwell
+§YBorn:§! §LMarch 19th, 1883, in Palatka, Florida, United States of America§!\n§YBackground:§! §LJoseph Warren \
+Leonard Townsend Gerow
+§YBorn:§! §LJuly 13th, 1888, in Petersburg, Virginia, United States of America§!\n§YBackground:§! §LLeonard Townsend \
+Lesley James McNair
+§YBorn:§! §LMay 25th, 1883, in Verndale, Minnesota, United States of America§!\n§YBackground:§! §LLesley James \
+Lloyd Ralston Fredendall
+§YBorn:§! §LDecember 28th, 1883, in Cheyenne, Wyoming, United States of America§!\n§YBackground:§! §LLloyd Ralston Fredendall entered the United States Military Academy in 1905 thanks to his father's army connections and the nomination of Wyoming Senator Francis E. Warren. However, he did poorly and was dismissed from the academy in just one semester. His mother managed to convince the Senator to appoint him again the next year, but he dropped out, and while the Senator tried to appoint him for a third time the following year, he was rejected by the academy itself. Instead, Fredendall attended the Massachusetts Institute of Technology, and undeterred by his experience in West Point, he took the officer's qualifying exam in 1906, achieving the highest grade of all the applicants. On February 13th, 1907, he was finally commissioned as an infantry second lieutenant. Lloyd would then spend the rest of the decade working in several of the army's overseas schools, where he built a reputation of being an excellent teacher, trainer and administrator of troops. Like many other officers, he filled a series of staff and garrison duties in the United States during the twenties. He became both an instructor and student at the U.S. Army Infantry School, graduating in 1923 with distinction from the U.S. Army Command and General Staff School and graduating from the U.S. Army War College. During the early thirties, he was posted at the Statistics Branch of Washington, as the Inspector General's Department and later as Executive officer of the Office of the Chief of Infantry. During these staff duties, he met and has held close relations with both George Marshall and Lesley McNair, both of which nominated Fredendall for the rank of Brigadier General, a request that was granted by MacArthur in late 1935. Since then, Fredendall has strengthened his relations with both McNair, Marshall and Marshall's protege, Dwight Eisenhower.§!
+Lucian King Truscott Jr.
+§YBorn:§! §LJanuary 9th, 1895, in Chatfield, Texas, United States of America§!\n§YBackground:§! §LLucian King Truscott Jr. began his military career by lying his way into officer training, claiming he was a high school graduate who had completed an equivalent to a first year of College. After being accepted, he graduated from Fort Logan H. Roots and commissioned as a cavalry second lieutenant. He remained in the Mexican border for the rest of the decade, serving with the 17th Cavalry Regiment in Arizona, becoming a first lieutenant in late 1918, and a Captain in 1920. He served in various cavalry and staff assignments during the twenties and early thirties, which included a graduation from the Cavalry Officers Course and from the United States Army Command and General Staff College, which earned him the rank of Major in 1934. With the growing unrest in the nation, Truscott was promoted to Brigadier General in case the situation deteriorates and War Plan White has to be executed.§!
+Walter Krueger
+§YBorn:§! §LJanuary 26th, 1881, in Flatow, West Prussia, Kingdom of Prussia, German Empire§!\n§YBackground:§! §LWalter Krueger emigrated to the United States with his mother and his two siblings after his father's death in 1890. He enlisted in the United States Army in 1898 to fight the Spanish-American War with the 2nd United States Volunteer Infantry Regiment, reaching the rank of sergeant during the campaign. He re-enlisted for the Philippine-American War and joined the 12th Infantry Regiment, where he fought under the command of General Arthur MacArthur against the Insurrecto rebels. In 1901, he was finally commissioned as a second lieutenant and posted with the 30th Infantry Regiment in Marinduque until it was transferred back to the United States in 1903. While his unit did mostly garrison duties, Krueger attended the Infantry-Cavalry School and the Command and General Staff College, graduating in 1904 and 1907 respectively. After a second tour in the Philippines, he was assigned to the Department of Languages until 1914, and with the outbreak of the Weltkrieg, Krueger was offered a post as an observer with the German Army, but refused and was posted with the 10th Regiment of the National Guard. He was mobilised towards Mexico, where he took part in Pershing's Punitive Expedition. In late 1918, Krueger accepted to be an observer in Germany, where he was able to come into contact with the top-of-the-line German tactics, which Krueger would carry home when he returned to America in 1920. He was then posted to the Infantry School at Fort Benning, where he began teaching the basics of German Squad tactics to the eager staff, being promoted to major for his work. He'd continue perfecting his abilities, assisting the Army War College and graduating in 1922, and then leaving once more Germany, where he tried to foster good relations between the two countries' general staffs, but failing due to the hostile political climate of Germany towards the US. Krueger would then be assigned to the War Plans Division of the War Department General Staff, being one of the main engineers of the War Plan White, a hypothetical plan in case of another civil within the US. He was promoted to colonel in 1932, and later to Brigadier General for his new involvement in the War Plans Division.§!
+Adna Romanza Chaffee Jr.
+§YBorn:§! §LSeptember 23rd, 1884, in Junction City, Kansas, United States of America§!\n§YBackground:§! §LAdna Romanza Chaffee Jr., the son of Major General Adna Romanza Chaffe Sr., graduated from West Point in 1906 as a Cavalry Lieutenant. His first tour of duty was with the 15th Cavalry as part of the Army of Cuban Pacification, where he proved to be an extremely competent horseman (which shortly earned him the nickname \
+Omar Nelson Bradley
+§YBorn:§! §LFebruary 12th, 1893, in Clark, Missouri, United States of America§!\n§YBackground:§! §LOmar Nelson \
+Daniel Van Voorhis
+§YBorn:§! §LOctober 24th, 1878, in Zanesville, Ohio, United States of America§!\n§YBackground:§! §LDaniel Van Voorhis began his military career when he left the Washington and Jefferson College in order to enlist for the Spanish-American War as a corporal. He served in the 10th Pennsylvania Infantry Regiment and had attained the rank of Captain by the end of the war. After the Spanish-American War Van Voorhis accepted a commission as a second lieutenant in the Regular Army and served in the Philippines from 1900 to 1914. He'd be transferred back to Texas in 1914 during Pershing's Punitive Expedition, and remained in Texas as the commander of the 16th Cavalry Regiment. In 1924 he was assigned as Executive Officer to the Chief of Cavalry, and in 1929 he graduated from the Army War College as a lieutenant colonel. In 1930 Van Voorhis was appointed to command the Army's first experimental mechanised force, receiving the promotion to brigadier general. With the experience he got from his experiment, he developed an organisation system and new tactics for mechanised combat that has placed the United States along with other developed military powers like Germany. Since his appointment to the mechanised 7th Cavalry Brigade, Daniel has been working closely with Adna R. Chaffee Jr. in order to get congressional approval to create a separate and independent armour branch of the Army.§!
+John Clifford Hodges Lee
+§YBorn:§! §LAugust 1st, 1887, in Junction City, Kansas, United States of America§!\n§YBackground:§! §LJohn Clifford Hodges \
+James Garesche Ord
+§YBorn:§! §LOctober 18th, 1886, in Durango, Colorado, United States of America§!\n§YBackground:§! §LJames Garesche \
+Edwin Forrest Harding
+§YBorn:§! §LSeptember 18th, 1886, in Franklin, Ohio, United States of America§!\n§YBackground:§! §LEdwin Forrest Harding began his military career when he enlisted to West Point in 1906, graduating in 1909 along with George S. Patton, Jacob L. Devers, John C. H. Lee and William H. Simpson. He was mainly posted in garrison duties until being assigned to West Point as a teacher, first as an Instructor of Modern Language, from 1919 to 1921, then as Instructor in Economics, from 1921 to June 1923, and then as Assistant Professor of History, from June 1923 until August of the same year, when he was reassigned to lead the 15th Infantry Regiment in Tianjin. He remained in the American Legation until September 1929, when he returned to America and was assigned as an Instructor in Fort Benning. In Fort Benning, he met Col. George Marshall, who placed him in charge of the Infantry School's publications. As an editor, Harding became responsible for planning, supervision and editing of the book \
+William Frederick Halsey Jr.
+§YBorn:§! §LOctober 30th, 1882, in Elizabeth, New Jersey, United States of America§!\n§YBackground:§! §LWilliam Frederick \
+Raymond Ames Spruance
+§YBorn:§! §LJuly 3rd, 1886, in Baltimore, Maryland, United States of America§!\n§YBackground:§! §LRaymond Ames \
+Frank Jack Fletcher
+§YBorn:§! §LApril 29th, 1885, in Marshalltown, Iowa, United States of America§!\n§YBackground:§! §LFrank Jack \
+Thomas Cassin Kinkaid
+§YBorn:§! §LApril 3rd, 1888, in Hanover, New Hampshire, United States of America§!\n§YBackground:§! §LThomas Cassin Kinkaid, the second child of naval officer Thomas Wright Kinkaid, graduated from the U.S. Naval Academy in June 1908. His early commissioned service was spent in the battleships Nebraska and Minnesota. In 1913, he began instruction in ordnance engineering and served in that field for the next few years. Lieutenant Kinkaid was an officer of the battleship Pennsylvania in 1917-18 and later in 1918 became Gunnery Officer of USS Arizona. He remained in that ship until mid-1919, when he was assigned to the Bureau of Ordnance In Washington, D.C. Lieutenant Commander Kinkaid was next placed in command of the destroyer Hopkins and in 1925-27 was assigned to the Naval Gun Factory. For the following two years, Commander Kinkaid served as Fleet Gunnery Officer and Aide to the Commander-in-Chief, U.S. Fleet. Studies at the Naval War College in 1929-30 were followed by duty as Secretary of the Navy's General Board. He was Executive Officer of the battleship Colorado in 1933-34 and served with the Bureau of Navigation, in charge of the Officers' Detail Section, until mid-1935 when he took command of the USS Tennessee. With increasing tensions in U.S he is considered next in the line for promotion to the flag rank.§!
+Charles Maynard Cooke Jr.
+§YBorn:§! §LDecember 19th, 1886, in Fort Smith, Arkansas, United States of America§!\n§YBackground:§! §LCharles Maynard \
+Alfred Melville Pride
+§YBorn:§! §LSeptember 10th, 1897, in Somerville, Massachusetts, United States of America§!\n§YBackground:§! §LAlfred Melville Pride studied engineering at Tufts University in Medford, Massachusetts, for several years before dropping out to enlist in the Navy during Weltkrieg. He served first as a machinist's mate in the Naval Reserve, but was soon given the chance to receive flight training and gain a commission as an ensign. In the early 1920s, having joined the Regular Navy, Pride became involved in the experiments to develop U.S. aircraft carriers. He served aboard the USS Langley and also took part in the development of the carriers USS Ranger and USS Constellation, as a member of the original crews. In the early 1930s he went on to study aeronautical engineering at the Massachusetts Institute of Technology. In 1931, he became the first person to land an autogiro on an aircraft carrier. From 1934-1936 he headed the Flight Test Section at Naval Air Station Anacostia, and with start of the Civil War he was rapidly promoted to the rank of rear admiral.§!
+Daniel Edward Barbey
+§YBorn:§! §LDecember 23rd, 1889, in Portland, Oregon, United States of America§!\n§YBackground:§! §LDaniel Edward \
+Kenneth George Althaus
+§YBorn:§! §LJune 13th, 1895, in Cincinnati, Ohio, United States of America§!
+Carl Andrew Spaatz
+§YBorn:§! §LJune 28th, 1891, in Boyertown, Pennsylvania, United States of America§!
+Ira Clarence Eaker
+§YBorn:§! §LApril 13th, 1896, in Field Creek, Texas, United States of America§!
+Hoyt Sanford Vandenberg
+§YBorn:§! §LJanuary 24th, 1899, in Milwaukee, Wisconsin, United States of America§!
+Elwood Richard Quesada
+§YBorn:§! §LApril 13th, 1904, in Washington, D.C., United States of America§!
+William Joseph Donovan
+Virginia Hall Goillot
+Charles Macon Wesson
+John Henry Manley
+§YBorn:§! §LJuly 21st, 1907, in Harvard, Illinois, United States of America§!
+John Charles Niedermair
+Leslie Alfred Skinner
+William Harvey Tschappat
+American Car and Chrysler Foundry
+American Fisher Foundry
+American Pacific Car and Foundry
+American Car and Buick Foundry
+Baldwin Car and Foundry
+Chrysler and Fisher Corporation
+Pacific Car and Chrysler Foundry
+Chrysler and Buick Group
+Chrysler Baldwin
+Pacific Fisher Industries
+Buick and Fisher Corporation
+Fisher Baldwin Body
+Buick Pacific Car and Foundry
+Baldwin Car and Foundry
+B&B Industries
+Virginian Shipbuilding Industries
+Kaiser Newport Shipbuilding
+United Shipbuilding Corporation
+Newport Dynamics
+NH Group
+Island News Shipyard
+Kaiser Norfolk Shipyards
+Norfolk and Brooklyn Company
+Norfolk Dynamics
+Norfolk Higgins Shipbuilding
+Norfolk Mare Naval Shipyard
+Kaiser Brooklyn Group
+Kaiser Dynamics
+Kaiser Higgins Shipbuilding
+San Franciscan Shipbuilding Industries
+Brooklyn Dynamics
+Brooklyn Higgins Shipbuilding
+Brooklyn Mare Shipyards
+Higgins Dynamics
+Mare Dynamics
+Higgins Mare Shipyard
+Buffalo Aviation Industries
+Bell Grumman
+Lockheed Bell
+United Aviation Technologies
+CWB Group
+Bell Vought
+The Boeing Company
+Douglas Bell
+Consolidated-Grumman
+Consolidated-Lockheed
+North American Consolidated
+Consolidated-Curtiss-Wright
+Consolidated-Vought
+The Boeing Company
+Consolidated-Douglas
+Lockheed Grumman
+North American Grumman
+Grumman-Curtiss-Wright
+Grumman Vought
+The Boeing Company
+Douglas Grumman
+North American Lockheed
+Lockheed-Curtiss-Wright
+Lockheed Vought
+The Boeing Company
+Los Angeles Aviation Corporation
+North American Curtiss
+North American Vought
+The Boeing Company
+North American Douglas
+Vought-Curtiss-Wright
+The Boeing Company
+Douglas-Curtiss-Wright
+The Boeing Company
+Douglas Vought
+The Boeing Company
+Browning Colt
+Remington Browning
+Springfield Browning
+Winchester Browning
+Browning Ordnance
+Browning Arsenal
+Watervliet Browning
+Browning Studebaker
+Browning Ford
+Remington Colt
+Springfield Colt
+Connecticut Arms Industries
+Colt Ordnance
+Colt Rock Arsenal
+Watervliet Colt
+Studebaker Colt
+Colt Ford
+Springfield Remington
+Winchester Remington
+Remington Ordnance
+Remington Arsenal
+Albany Arms Industries
+Remington Studebaker
+Remington Ford
+Winchester Springfield
+Springfield Ordnance
+Springfield Arsenal
+Watervliet Springfield
+Studebaker Springfield
+Springfield Ford
+Winchester Arms and Ordnance
+Winchester Arms and Arsenal
+WW Group
+Winchester Studebaker
+Winchester Ford
+Combined Arsenal Department
+Combined Arsenal Department
+Studebaker Ordnance
+Ford Ordnance
+Combined Arsenal Department
+Studebaker Arsenal
+Ford Arsenal
+Watervliet Studebaker
+Watervliet Ford
+Indiana Motors
+All-Round Tank Designer
+Production Tank Designer
+Mass Tank Designer
+Tank Destroyer Designer
+Armoured Tank Designer
+Capital Ship Designer
+Escort Ship Designer
+Refurbishment, Repair and Convoy Designer
+Survivability Ship Designer
+Shadow Scout Designer
+Production Ship Designer
+Mass Aircraft Designer
+Aerial Dominance Designer
+Long Range Designer
+Aircraft Production Designer
+Aerial Artillery Designer
+Fortress Bomber Designer
+Strategic Bomber Designer
+Infantry Equipment Production Designer
+Offensive Infantry Equipment Designer
+Defensive Infantry Equipment Designer
+Jack-Of-All-Trades Infantry Equipment Designer
+Mass Infantry Equipment Designer
+Artillery Production Designer
+Offensive Artillery Designer
+Defensive Artillery Designer
+Armoured Mechanised Designer
+Mobile Mechanised Designer
+Reactivate Tank Park Reserves
+Construct Additional Storage Yards
+Short-Term Planning
+Long-Term Planning
+Engine Parts Standardisation
+Increased Bazooka Payload
+Extreme Engine Parts Standardisation
+Extremely Thick Armour Plating
+Reactivate Mothballed Vessels
+Construct Additional Mothball Bays
+Greatly Increased Anti-Air Fire Rate
+Increased Anti-Air Fire Rate
+Extended Testing Programs
+Extensive Testing Programs
+Significantly Increase Mine Capacity
+Prioritise Standardising Destroyer Parts
+Prioritise Standardising Cruiser Parts
+Reactivate Plane Reserves
+Oversimplify Designs
+Vastly Improved Aerodynamic Bomb Profile
+Greatly Expanded Ammunition Storage
+Break Open Old Weapon Stocks
+Oversimplify Dissasembly Procedures
+Mass Incendiary Bottle Production
+Extremely Extended HMG/LMG Magazines
+Vastly Increased Rifle Magazines
+Standardise Rifle Parts
+Sacrifice HMG/LMG Magazine Size
+Sacrifice HMG/LMG Accuracy
+Standardise Mines
+Greatly Increased Active Sonar Range
+Workplace Agitation
+Moderately Increased Muzzle Velocity
+Highly Increased Muzzle Velocity
+Extremely Increased Muzzle Velocity
+Acquire Chrysler Assets
+Acquire Pacific Car And Foundry Assets
+Acquire American Car And Foundry Assets
+Acquire Buick Assets
+Acquire Kaiser Shipyard Assets
+Acquire Brooklyn Naval Yard Assets
+Acquire Higgins Assets
+Acquire Lockheed Assets
+Acquire North American Aviation Assets
+Acquire Douglas Assets
+Acquire Boeing Assets
+Acquire Higgins Naval Yard Assets
+Acquire Consolidated Assets
+Acquire Grumman Assets
+Acquire Curtiss-Wright Assets
+Acquire Bell Assets
+Acquire Rock Island Arsenal Assets
+Acquire Colt Assets
+Acquire Army Ordnance Department Assets
+Acquire Winchester Repeating Arms Assets
+Acquire Springfield Armory Assets
+Merge With Chrysler
+Merge With Fisher Body
+Merge With Pacific Car And Foundry
+Merge With Buick
+Merge With Baldwin
+Merge With American Car And Foundry
+Merge With Norfolk Naval Shipyard
+Merge With Kaiser Shipyards
+Merge With Brooklyn Naval Yards
+Merge With Electric Boat
+Merge With Higgins
+Merge With Mare Island Naval Shipyard
+Merge With Newport News Shipbuilding
+Merge With Consolidated
+Merge With Grumman
+Merge With Lockheed
+Merge With North American Aviation
+Merge With Curtiss-Wright
+Merge With Vought
+Merge With Boeing
+Merge With Douglas
+Merge With Bell
+Merge With Colt
+Merge With Remington
+Merge With Springfield Armory
+Merge With Winchester Repeating Arms
+Merge With Army Ordnance Department
+Merge With Rock Island Arsenal
+Merge With Watervliet Arsenal
+Merge With Studebaker
+Merge With Ford
+Merge With Browning
+Maintain Independence
+$MIO|Y$ has decided to maintain its independence.
+$MIO|Y$ has not decided to maintain its independence.
+§Y[THIS.GetName]§! is the junior partner of a merger with another §YMilitary Industrial Organisation§!
+§Y[THIS.GetName]§! is not the junior partner of a merger with another §YMilitary Industrial Organisation§!
+$MIO|Y$ is the senior partner of a merger with another §YMilitary Industrial Organisation§!
+$MIO|Y$ is not the senior partner of a merger with another §YMilitary Industrial Organisation§!
+$MIO|Y$ Has been involved in a merger with another §YMilitary Industrial Organisation§! or has decided to maintain its independence
+$MIO|Y$ Has not been involved in a merger with another §YMilitary Industrial Organisation§! and has not decided to maintain its independence
+The trait §Y$KR_MIO_Trait_reactivate_tank_park_reserves$§! will now also grant 200 §YLight Tanks§! and spawn a §LSeasoned§! division
+The trait §Y$KR_MIO_Trait_reactivate_tank_park_reserves$§! will now also grant 200 §YMedium Tanks§! and spawn a §LSeasoned§! division
+The trait §Y$KR_MIO_Trait_reactivate_tank_park_reserves$§! will now also grant 200 §YHeavy Tanks§! and spawn a §LSeasoned§! division
+The trait §Y$KR_MIO_Trait_construct_additional_mothball_bays$§! will now grant twice as many ships
+The trait §Y$KR_MIO_Trait_reactivate_plane_reserves$§! will now grant twice as many planes
+The trait §Y$KR_MIO_Trait_break_open_old_weapon_stocks$§! will now also grant 2000 §YInfantry Equipment§! and spawn a §LSeasoned§! division
+The trait §Y$KR_MIO_Trait_break_open_old_weapon_stocks$§! will now also grant 1500 §YInfantry Equipment§!, 100 §YArtillery§! and spawn a §LSeasoned§! division
+The trait §Y$KR_MIO_Trait_break_open_old_weapon_stocks$§! will now also grant 300 §YMotorized Equipment§! and spawn a §LSeasoned§! division
+The division will have the following composition:\n - £GFX_unit_light_armor_icon_small §Y3§! $light_armor$\n - £GFX_unit_motorized_icon_small §Y3§! $motorized$
+The division will have the following composition:\n - £GFX_unit_medium_armor_icon_small §Y3§! $medium_armor$\n - £GFX_unit_motorized_icon_small §Y3§! $motorized$
+The division will have the following composition:\n - £GFX_unit_heavy_armor_icon_small §Y3§! $heavy_armor$\n - £GFX_unit_motorized_icon_small §Y3§! $motorized$
+The division will have the following composition:\n - £GFX_unit_engineer_icon_small $engineer$\n - £GFX_unit_recon_icon_small $recon$\n\n - £GFX_unit_infantry_icon_small §Y7§! $infantry$
+The division will have the following composition:\n - £GFX_unit_artillery_icon_small $artillery$\n\n - £GFX_unit_infantry_icon_small §Y7§! $infantry$\n - £GFX_unit_category_support_artillery_icon_small §Y2§! $artillery_brigade$
+The division will have the following composition:\n - £GFX_unit_engineer_icon_small $engineer$\n - £GFX_unit_artillery_icon_small $artillery$\n - £GFX_unit_recon_icon_small $recon$\n\n - £GFX_unit_motorized_icon_small §Y9§! $motorized$
+All sizes and funds will be transferred which will amount to:
+Has chosen the desired bonus
+You will unlock the current set of MIO traits
+Trait bonuses will be improved by §G50%§! however, it will cost §H15§! §8Civilian§! and §H15§! §GMilitary§! factories in order to unlock all the top-left branch bonuses
+Trait bonuses will be improved by §G50%§! however, it will cost §H15§! §8Civilian§! factories and §H15§! §4Dockyards§! in order to unlock all the top-left branch bonuses
+Light Armoured Division
+Medium Armoured Division
+Heavy Armoured Division
+Light Infantry Division
+Heavy Infantry Division
+Light Motorized Division
+Scope Creep
+Dedicated R&D Department

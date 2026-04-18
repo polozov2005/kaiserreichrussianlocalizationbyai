@@ -1,0 +1,1014 @@
+   \n
+\n
+$tooltip_line_break$$tooltip_line_break$
+§HВыборы состоятся через один месяц§!
+§HВыборы состоятся через три месяца§!
+§RСледующие персонажи уйдут в отставку:§!
+§GСледующие персонажи будут приняты на службу:§!
+(Навык [?skill_level]) становится генералом.\nХарактеристики: £GFX_trait_attack [?attack_level] £GFX_trait_defense [?defense_level] £GFX_trait_planning [?planning_level] £GFX_trait_logistics [?logistics_level]
+(Навык $SKILL$) становится генералом.\nХарактеристики: £GFX_trait_attack $ATTACK$ £GFX_trait_defense $DEFENSE$ £GFX_trait_planning $PLANNING$ £GFX_trait_logistics $LOGISTICS$
+(Навык [?skill_level]) становится фельдмаршалом.\nХарактеристики: £GFX_trait_attack [?attack_level] £GFX_trait_defense [?defense_level] £GFX_trait_planning [?planning_level] £GFX_trait_logistics [?logistics_level]
+(Навык $SKILL$) становится фельдмаршалом.\nХарактеристики: £GFX_trait_attack $ATTACK$ £GFX_trait_defense $DEFENSE$ £GFX_trait_planning $PLANNING$ £GFX_trait_logistics $LOGISTICS$
+(Навык [?skill_level]) становится флотоводцем.\nХарактеристики: £GFX_trait_attack [?attack_level] £GFX_trait_defense [?defense_level] £GFX_trait_planning [?planning_level] £GFX_trait_logistics [?logistics_level]
+(Навык $SKILL$) становится флотоводцем.\nХарактеристики: £GFX_trait_attack $ATTACK$ £GFX_trait_defense $DEFENSE$ £GFX_trait_planning $PLANNING$ £GFX_trait_logistics $LOGISTICS$
+§YНемедленный эффект при начале фокуса:§!\n
+\n§GЭффект по завершении фокуса:§!\n
+После истечения срока действия национального духа:
+После завершения миссии:
+§GЭтот фокус будет автоматически обойден и разблокирует другие фокусы.§!
+§GЭтот фокус будет автоматически разблокирован событием.§!
+§GОткрывает новые ветки фокусов.§!
+§GБудут разблокированы новые национальные фокусы.§!
+Ранее полученные §Yнациональные духи§! будут объединены в §Gболее мощный§! дух!
+§gПрименить один из следующих эффектов в зависимости от наших текущих национальных духов:§!
+§gПрименить один из следующих эффектов в зависимости от нашей текущей правящей партии:§!
+§LСобытие позволяет выбрать один из следующих вариантов:§!
+§L\n-------------- ИЛИ --------------\n§!
+§L\n-------------- ВАРИАНТ 1 --------------\n§!
+§L\n-------------- ВАРИАНТ 2 --------------\n§!
+§L\n-------------- ВАРИАНТ 3 --------------\n§!
+§L\n-------------- ВАРИАНТ 4 --------------\n§!
+Что имеет следующий эффект:
+Изменяет вашего §HЗаместителя§!:
+§GУлучшает§! §YКонструкторское бюро§!:
+§GУлучшает§! §YПромышленный концерн§!:
+§GУлучшает§! §Yполитического советника§!:
+§GУлучшает§! §Yвоенного советника§!:
+§RТаймер до начала переговоров о мире будет сброшен.§!
+§CДобавляет дополнительные эффекты к следующим фокусам:§!
+§C§GУсиливает§! эффекты следующих фокусов:§!
+§C§RОслабляет§! эффекты следующих фокусов:§!
+§Y[THIS.GetName]§! вступает в альянс.
+Если принадлежит, может быть интегрировано при достижении §H[?integration_threshold?50|%%0] лояльности§!.
+Больше не может быть интегрировано.
+§YЭтот эффект применится только к регионам, которые одновременно принадлежат и контролируются:§!
+Разблокирует закон об оккупации §H$territorial_integration$§!.
+умирает.
+Снижает стоимость £pol_power §Y$POLITICAL_POWER$§! решения £GFX_decision_icon_small §Y$generic_raise_stability$§! на $NUMBER|G$
+Снижает стоимость £pol_power §Y$POLITICAL_POWER$§! решения £GFX_decision_icon_small §Y$generic_raise_support$§! на $NUMBER|G$
+Снижает стоимость £pol_power §Y$POLITICAL_POWER$§! решений £GFX_decision_icon_small §Y$war_propaganda$§!, £GFX_decision_icon_small §Y$war_propaganda_casualties$§!, £GFX_decision_icon_small §Y$war_propaganda_convoys$§! и £GFX_decision_icon_small §Y$war_propaganda_bombing$§! на $NUMBER|G$
+Случайный принадлежащий и контролируемый прибрежный регион
+§RПолитическая ситуация изменилась.§!
+§GДерево фокусов изменится...§!
+§GРазблокирует§! национальный фокус $FOCUS|Y$.
+§GРазблокирует§! национальные фокусы $FOCUS1|Y$ и $FOCUS2|Y$.
+§RБлокирует§! национальный фокус $FOCUS|Y$.
+§RБлокирует§! национальные фокусы $FOCUS1|Y$ и $FOCUS2|Y$.
+§CЕсли $FOCUS|Y$ был завершён:§!
+§CЕсли $FOCUS|Y$ §RНЕ§! был завершён:§!
+§CЕсли $FOCUS1|Y$ или $FOCUS2|Y$ были завершены:§!
+§CЕсли $FOCUS1|Y$ и $FOCUS2|Y$ §RНЕ§! были завершены:§!
+£trigger_no §CЕсли $FOCUS|Y$ был завершён:§!
+£trigger_yes §CЕсли $FOCUS|Y$ был завершён:§!
+§CДополнительный эффект от завершения $FOCUS|Y$:§!
+§GУсиливает§! эффекты национального фокуса $FOCUS|Y$.
+§GУсиливает§! эффекты национальных фокусов $FOCUS1|Y$ и $FOCUS2|Y$.
+§CЕсли $COUNTRY|Y$ завершил $FOCUS|Y$:§!
+§CЕсли $COUNTRY|Y$ §RНЕ§! завершил $FOCUS|Y$:§!
+Эффекты этого национального фокуса будут определяться фокусом $FOCUS|Y$.
+Национальный фокус $FOCUS|Y$ теперь будет иметь следующие эффекты:
+$TRIGGER_HAS_IDEA_COUNTRY$
+$TRIGGER_HAS_NOT_IDEA_COUNTRY$
+§CЕсли $IDEA|Y$ в настоящее время активен:§!
+Текущая правящая партия — $IDEOLOGY$.
+Текущая правящая партия — не $IDEOLOGY$.
+§CДоступно только если мы §Rне§! воюем с $COUNTRY|Y$.§!
+§CКак только §Rвойна§! с $COUNTRY|Y$ начнётся:§!
+Изменить $CATEGORY$ на «$LAW|Y$», что даёт:
+§CЕсли $ADVISOR|Y$ нанят как §Yполитический советник§!:§!
+§R$ADVISOR|Y$ больше не будет доступен как §Yполитический советник§!§!
+Изменить черту $ROLE$ $TRAIT|Y$ на\n
+Заменить черту $ROLE$ $OLD_TRAIT|Y$ на $NEW_TRAIT|Y$\n   Эффективное изменение:\n
+Лидер страны
+Исследована технология $TECH|Y$
+Исследована технология $NAME|Y$ ($TECH|Y$)
+Добавить технологию: $TECH|Y$.
+Добавить технологию: $NAME|Y$ ($TECH|Y$).
+Разблокирует $TECH|Y$\n$EFFECT$
+Добавить $DYNMOD|Y$.
+Добавить $DYNMOD|Y$, который даёт:
+Добавить $DYNMOD|Y$ §Y([$SCOPE$.GetName])§!, который даёт:
+Изменить $DYNMOD|Y$ на
+Изменить $DYNMOD1|Y$ или $DYNMOD2|Y$ на
+Изменить $DYNMOD1|Y$, $DYNMOD2|Y$ или $DYNMOD3|Y$ на
+Изменить $DYNMOD1|Y$, $DYNMOD2|Y$, $DYNMOD3|Y$ или $DYNMOD4|Y$ на
+Заменить $DYNMOD1|Y$ на $DYNMOD2|Y$\nЭффективное изменение:
+Заменить $IDEA1|Y$ или $IDEA2|Y$ на $IDEA3|Y$\nЭффективное изменение:
+Добавить $NUMBER|G$ $BUILDING|Y$
+$tooltip_add_building_shared$ во всех провинциях.\n
+$tooltip_add_building_shared$ во всех приграничных провинциях.\n
+$tooltip_add_building_shared$ во всех провинциях, граничащих с §Y[$TAG$.GetFlag] [$TAG$.GetNonIdeologyNameDefCap]§!.\n
+$tooltip_add_building_shared$ во всех прибрежных провинциях.\n
+Добавить $NUMBER|G$ уровней всем существующим военно-морским базам.\n
+$tooltip_add_building_shared$ на всех военно-морских базах.\n
+$tooltip_add_building_shared$ во всех стратегических точках.\n
+$tooltip_add_building_shared$ во всех стратегических точках со значением $VALUE|Y$ или выше.\n
+$tooltip_add_building_shared$ в £victory_points  §Y[THIS.Controller.GetVictoryPointName_$VP$]§!.\n
+Создать $COUNT|Y$ дивизий $TYPE|Y$.\n
+Создать дивизию $TYPE|Y$.\n
+Создать $TYPE|Y$ с боеспособностью $STRENGTH|O$ и уровнем опыта $EXPERIENCE|L$ в $LOCATION|Y$\n
+$TEXT|Y$
+Через $DAYS|Y0$ дней:
+Спустя $DAYS|Y0$ дней:
+$CHARACTER|Y$ становится доступен как §Gучёный§!.
+Создать шаблон $NAME|Y$, который имеет следующий состав:$LINE_1$$LINE_2$$LINE_3$$LINE_4$$LINE_5$$LINE_6$$LINE_7$$LINE_8$$LINE_9$$LINE_10$$SUPPORT_1$$SUPPORT_2$$SUPPORT_3$$SUPPORT_4$$SUPPORT_5$[GetTemplateDeletionWarning]
+\nЛюбые существующие шаблоны с таким же названием будут §Rрасформированы§!, с возвратом всех людских ресурсов и снаряжения.
+\n£indent £$ICON$ §Y$COUNT$ $NAME$§! линейных батальонов
+\n£indent £$ICON$ §Y$NAME$§!
+\n£indent $ITEM$$NEXT_ITEM$
+$HEADER$$TRIGGERS$
+Как минимум одно из $ITEMS$:
+$ITEM|Y$, $NEXT_ITEM$
+$ITEM|Y$ и $NEXT_ITEM|Y$
+$ITEM|Y$ или $NEXT_ITEM|Y$
+Завершено решение £decision_icon_small $DECISION|H$
+Не завершено решение £decision_icon_small $DECISION|H$
+$has_completed_decision$ в фокусе $FOCUS|H$
+$has_completed_decision_NOT$ в фокусе $FOCUS|H$
+$has_completed_decision$ в фокусе $FOCUS|H$ или фокусе $FOCUS_2|H$
+$has_completed_decision_NOT$ в фокусе $FOCUS|H$ или фокусе $FOCUS_2|H$
+Отменяет решение £decision_icon_small $NAME|Y$.
+Разблокирует решения $NAME|Y$ для $EFFECT$.
+$UNITS|Y$ ед. $EQUIPMENT|Y$ добавляется в национальный запас.
+[?$STATE$:owner.GetFlag] владелец [?$STATE$.GetName]
+владелец [?$STATE$.GetName]
+[?target_state]
+[?target_state:owner.GetTag]
+Если контролируется $COUNTRY|Y$:
+Вы получили $QUANTITY|G$ $infantry_equipment$ от этой страны
+§RМожет привести к войне с $COUNTRY$§!
+Увеличить время, необходимое для фокуса $FOCUS|Y$, на $DAYS|Y$ дней
+Увеличить время на $DAYS|Y$ дней для:$tooltip_increase_focus_completion_cost_list$
+\n  $FOCUS|Y$$NEXT_FOCUS$
+§CВыбор в событии§!: 
+£GFX_production_cost  Стоимость производства:  
+Разблокирует £decision_icon_small §Hрешения§!
+Событие, связанное с этим фокусом, ожидает ответа
+Неинтегрированные территории
+Только вариант ИИ
+Интегрировать [From.GetName]
+Интегрировать [From.GetNameDef]
+Вступить в [From.GetFactionName]
+Пригласить [FROM.GetNameDef]
+Атаковать [From.GetNameDef]
+Вторгнуться в [From.GetNameDef]
+Освободить [FROM.GetNameDef]
+§RНевозможно повысить законы о призыве.§!
+§RНевозможно обучать подразделения, расформировывать подразделения или редактировать шаблоны подразделений.§!
+§RНевозможно повысить законы о призыве или мобилизации.§!
+§RНевозможно производить бронетехнику.§!
+§RНевозможно производить авиацию.§!
+§RНевозможно производить корабли.§!
+§RНевозможно производить бронетехнику или авиацию.§!
+§RНевозможно производить бронетехнику или корабли.§!
+§RНевозможно производить авиацию или корабли.§!
+§RНевозможно производить бронетехнику, авиацию или корабли.§!
+Чёрный понедельник
+C
+L
+W
+B
+G
+R
+b
+g
+Y
+O
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+5
+o
+r
+R
+S
+l
+m
+c
+a
+P
+n
+N
+M
+Воскресенье
+Понедельник
+Вторник
+Среда
+Четверг
+Пятница
+Суббота
+Заграничные $arms_factory$
+$offmap_military_factories_tooltip$: $RIGHT|+=0$
+Заграничные $industrial_complex$
+$offmap_civilian_factories_tooltip$: $RIGHT|+=0$
+Заграничные $dockyard$
+Ежедневная поддержка правящей партии
+Ежедневная поддержка неправящей партии
+Гражданская промышленность из страны-цели
+Военная промышленность из страны-цели
+Шанс отпадения региона
+$state_defection_chance$: $RIGHT|-=%%0$
+$MODIFIER_CONSUMER_GOODS_FACTOR$: $RIGHT|Y=%1$
+$MODIFIER_CONSUMER_GOODS_EXPECTED_VALUE$: $RIGHT|Y=%1$
+$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: $RIGHT|+=%$
+$MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_FACTOR$: $RIGHT|+=%$
+$MODIFIER_INDUSTRY_REPAIR_FACTOR$: $RIGHT|+=%$
+$MODIFIER_LOCAL_RESOURCES_FACTOR$: $RIGHT|+=%$
+$MODIFIER_GLOBAL_BUILDING_SLOTS_FACTOR$: $RIGHT|+=%0$
+$MODIFIER_RESEARCH_SPEED_FACTOR$: $RIGHT|%=+$
+$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: $RIGHT|+=%$
+$modifier_production_speed_infrastructure_factor$: $RIGHT|+=%$
+$modifier_production_speed_arms_factory_factor$: $RIGHT|+=%$
+$modifier_production_speed_industrial_complex_factor$: $RIGHT|+=%$
+$modifier_production_speed_dockyard_factor$: $RIGHT|+=%$
+$modifier_production_speed_synthetic_refinery_factor$: $RIGHT|+=%$
+$modifier_production_speed_air_base_factor$: $RIGHT|+=%$
+$modifier_production_speed_naval_base_factor$: $RIGHT|+=%$
+$modifier_production_speed_bunker_factor$: $RIGHT|+=%$
+$modifier_production_speed_coastal_bunker_factor$: $RIGHT|+=%$
+$modifier_production_speed_anti_air_building_factor$: $RIGHT|+=%$
+$modifier_production_speed_radar_station_factor$: $RIGHT|+=%$
+$modifier_production_speed_rocket_site_factor$: $RIGHT|+=%$
+$modifier_production_speed_nuclear_reactor_factor$: $RIGHT|+=%$
+$modifier_production_speed_fuel_silo_factor$: $RIGHT|+=%$
+$modifier_production_speed_rail_way_factor$: $RIGHT|+=%$
+$modifier_production_speed_supply_node_factor$: $RIGHT|+=%$
+$MODIFIER_CONVERSION_COST_CIV_TO_MIL_FACTOR$: $RIGHT|-=%$
+$MODIFIER_CONVERSION_COST_MIL_TO_CIV_FACTOR$: $RIGHT|-=%$
+$MODIFIER_TRADE_OPINION_FACTOR$: $RIGHT|Y=%$
+$MODIFIER_MIN_EXPORT_FACTOR$: $RIGHT|=Y%0$
+$MODIFIER_OPINION_GAIN_MONTHLY_FACTOR$: $RIGHT|+=%$
+$MODIFIER_IMPROVE_RELATIONS_MAINTAIN_COST_FACTOR$: $RIGHT|-=%$
+$MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY_FACTOR$: $RIGHT|=%+$
+$MODIFIER_PRODUCTION_FACTORY_START_EFFICIENCY_FACTOR$: $RIGHT|=%+$
+$MODIFIER_PRODUCTION_FACTORY_EFFICIENCY_GAIN_FACTOR$: $RIGHT|=%+$
+$MODIFIER_LINE_CHANGE_PRODUCTION_EFFICIENCY_FACTOR$: $RIGHT|=%+$
+$MODIFIER_PRODUCTION_LACK_OF_RESOURCE_PENALTY_FACTOR$: $RIGHT|-=%$
+$country_resource_aluminium$: $RIGHT|+=0$
+$country_resource_chromium$: $RIGHT|+=0$
+$country_resource_oil$: $RIGHT|+=0$
+$country_resource_rubber$: $RIGHT|+=0$
+$country_resource_steel$: $RIGHT|+=0$
+$country_resource_tungsten$: $RIGHT|+=0$
+$country_resource_cost_aluminium$: $RIGHT|-=0$
+$country_resource_cost_chromium$: $RIGHT|-=0$
+$country_resource_cost_oil$: $RIGHT|-=0$
+$country_resource_cost_rubber$: $RIGHT|-=0$
+$country_resource_cost_steel$: $RIGHT|-=0$
+$country_resource_cost_tungsten$: $RIGHT|-=0$
+$MODIFIER_MAX_FUEL_FACTOR$: $RIGHT|+=%2$
+$MODIFIER_BASE_FUEL_GAIN_FACTOR$: $RIGHT|+=%2$
+$MODIFIER_FUEL_GAIN_FACTOR$: $RIGHT|+=%2$
+$MODIFIER_FUEL_GAIN_FACTOR_FROM_STATES$: $RIGHT|+=%2$
+$MODIFIER_PRODUCTION_OIL_FACTOR$: $RIGHT|+=%2$
+$MODIFIER_ARMY_FUEL_CONSUMPTION_FACTOR$: $RIGHT|-=%2$
+$MODIFIER_ARMY_FUEL_CONSUMPTION_FACTOR$: $RIGHT|+=%2$
+$MODIFIER_NAVY_FUEL_CONSUMPTION_FACTOR$: $RIGHT|-=%2$
+$MODIFIER_AIR_FUEL_CONSUMPTION_FACTOR$: $RIGHT|-=%2$
+$MODIFIER_INDUSTRIAL_FACTORY_DONATIONS$: $RIGHT|+=0$
+$MODIFIER_MILITARY_FACTORY_DONATIONS$: $RIGHT|+=0$
+$MODIFIER_DOCKYARD_DONATIONS$: $RIGHT|+=0$
+$MODIFIER_EQUIPMENT_CONVERSION_SPEED$: $RIGHT|+=%0$
+$MODIFIER_EQUIPMENT_CAPTURE_FACTOR$: $RIGHT|+=%1$
+$MODIFIER_POLITICAL_POWER_GAIN$: $RIGHT|+=$
+$MODIFIER_POLITICAL_POWER_COST$: $RIGHT|-=$
+$MODIFIER_POLITICAL_POWER_FACTOR$: $RIGHT|+=%0$
+$MODIFIER_STABILITY_FACTOR$: $RIGHT|=%+$
+$MODIFIER_STABILITY_WEEKLY$: $RIGHT|=%+$
+$MODIFIER_STABILITY_POPULARITY_FACTOR$: $RIGHT|=%+$
+$MODIFIER_STABILITY_WAR_FACTOR$ $RIGHT|+=%1$
+$MODIFIER_COMPLIANCE_STARTING_VALUE$: $RIGHT|+=%0$
+$MODIFIER_COMPLIANCE_GAIN_ADD$: $RIGHT|+=%%$
+$MODIFIER_COMPLIANCE_GROWTH$: $RIGHT|+=%0$
+$MODIFIER_RESISTANCE_TARGET$: $RIGHT|-=%0$
+$MODIFIER_RESISTANCE_GROWTH$: $RIGHT|-=%0$
+$MODIFIER_RESISTANCE_DECAY$: $RIGHT|+=%0$
+$MODIFIER_RESISTANCE_ACTIVITY_FACTOR$: $RIGHT|-=%1$
+$MODIFIER_RESISTANCE_DAMAGE_TO_GARRISONS$: $RIGHT|-=%2$
+$MODIFIER_RESISTANCE_GARRISON_PENETRATION_CHANCE$: $RIGHT|-=%2$
+$MODIFIER_COMPLIANCE_GROWTH_ON_OUR_OCCUPIED_STATES$: $RIGHT|-=%0$
+$MODIFIER_RESISTANCE_TARGET_ON_OUR_OCCUPIED_STATES$: $RIGHT|+=%0$
+$MODIFIER_RESISTANCE_GROWTH_ON_OUR_OCCUPIED_STATES$: $RIGHT|+=%0$
+$MODIFIER_RESISTANCE_DECAY_ON_OUR_OCCUPIED_STATES$: $RIGHT|-=%0$
+$MODIFIER_RESISTANCE_DAMAGE_TO_GARRISONS_ON_OUR_OCCUPIED_STATES$: $RIGHT|+=%2$
+$MODIFIER_WAR_SUPPORT_FACTOR$: $RIGHT|=%+$
+$MODIFIER_WAR_SUPPORT_WEEKLY$: $RIGHT|+=%2$
+$MODIFIER_WEEKLY_CASUALTIES_WAR_SUPPORT$: $RIGHT|+=%2$
+$MODIFIER_WEEKLY_CONVOYS_WAR_SUPPORT$: $RIGHT|+=%2$
+$MODIFIER_WEEKLY_BOMBING_WAR_SUPPORT$: $RIGHT|+=%2$
+$MODIFIER_SURRENDER_LIMIT$ $RIGHT|+=%1$
+$MODIFIER_ENEMY_JUSTIFY_WAR_GOAL_TIME$: $RIGHT|+=%1$
+$MODIFIER_MAX_DIG_IN$: $RIGHT|+=1$
+$MODIFIER_MAX_DIG_IN_FACTOR$: $RIGHT|=%+1$
+$MODIFIER_DIG_IN_SPEED_FACTOR$: $RIGHT|=%+1$
+$MODIFIER_INITIATIVE_FACTOR$: $RIGHT|=%+1$
+$coordination_bonus$: $RIGHT|+=%1$
+$MODIFIER_COMBAT_WIDTH_FACTOR$: $RIGHT|-=%1$
+$MODIFIER_SUPPLY_FACTOR$: $RIGHT|+=%0$
+$MODIFIER_SUPPLY_NODE_RANGE$: $RIGHT|+=%0$
+$MODIFIER_SUPPLY_CONSUMPTION_FACTOR$: $RIGHT|-=%1$
+$supply_combat_penalties_on_core_factor$: $RIGHT|-=%1$
+$MODIFIER_OUT_OF_SUPPLY_FACTOR$: $RIGHT|-=%1$
+$MODIFIER_SPECIAL_FORCES_CAP$: $RIGHT|+=%1$
+$MODIFIER_SPECIAL_FORCES_CAP_FLAT$: $RIGHT|+=0$
+$MODIFIER_SPECIAL_FORCES_MIN$: $RIGHT|+=0$
+$MODIFIER_SPECIAL_FORCES_OUT_OF_SUPPLY_FACTOR$: $RIGHT|-=%2$
+$modifier_army_sub_unit_mountaineers_attack_factor$: $RIGHT|+=%2$
+$modifier_army_sub_unit_mountaineers_defence_factor$: $RIGHT|+=%2$
+$modifier_army_sub_unit_mountaineers_max_org_factor$: $RIGHT|+=%2$
+$modifier_army_sub_unit_marine_attack_factor$: $RIGHT|+=%2$
+$modifier_army_sub_unit_marine_defence_factor$: $RIGHT|+=%2$
+$modifier_army_sub_unit_marine_max_org_factor$: $RIGHT|+=%2$
+$modifier_army_sub_unit_paratrooper_attack_factor$: $RIGHT|+=%2$
+$modifier_army_sub_unit_paratrooper_defence_factor$: $RIGHT|+=%2$
+$modifier_army_sub_unit_paratrooper_max_org_factor$: $RIGHT|+=%2$
+$modifier_army_sub_unit_assault_battalion_attack_factor$: $RIGHT|+=%2$
+$modifier_army_sub_unit_assault_battalion_defence_factor$: $RIGHT|+=%2$
+$modifier_army_sub_unit_assault_battalion_max_org_factor$: $RIGHT|+=%2$
+$MODIFIER_MAX_PLANNING$: $RIGHT|+=%1$
+$MODIFIER_MAX_PLANNING_FACTOR$: $RIGHT|+=%1$
+$MODIFIER_PLANNING_SPEED$: $RIGHT|+=%1$
+$mobilization_laws_cost_factor$: $RIGHT|-=%1$
+$trade_laws_cost_factor$: $RIGHT|-=%1$
+$economy_cost_factor$: $RIGHT|-=%1$
+$political_advisor_cost_factor$: $RIGHT|-=%0$
+$MODIFIER_AIR_ADVISOR_COST_FACTOR$: $RIGHT|-=%0$
+$MODIFIER_ARMY_ADVISOR_COST_FACTOR$: $RIGHT|-=%0$
+$MODIFIER_NAVY_ADVISOR_COST_FACTOR$: $RIGHT|-=%0$
+$army_chief_cost_factor$: $RIGHT|-=%0$
+$navy_chief_cost_factor$: $RIGHT|-=%0$
+$air_chief_cost_factor$: $RIGHT|-=%0$
+$high_command_cost_factor$: $RIGHT|-=%0$
+$theorist_cost_factor$: $RIGHT|-=%0$
+$tank_manufacturer_cost_factor$: $RIGHT|-=%0$
+$naval_manufacturer_cost_factor$: $RIGHT|-=%0$
+$aircraft_manufacturer_cost_factor$: $RIGHT|-=%0$
+$materiel_manufacturer_cost_factor$: $RIGHT|-=%0$
+$industrial_concern_cost_factor$: $RIGHT|-=%0$
+$MODIFIER_GLOBAL_MONTHLY_POPULATION$: $RIGHT|=%+1$
+$MODIFIER_CONSCRIPTION_FACTOR$: $RIGHT|H%$
+$MODIFIER_CONSCRIPTION_TOTAL_FACTOR$: $RIGHT|%+=0$
+$MODIFIER_WEEKLY_MANPOWER$: $RIGHT|+=0$
+$MODIFIER_GLOBAL_NON_CORE_MANPOWER$: $RIGHT|+=%2$
+$MODIFIER_MOBILIZATION_SPEED$: $RIGHT|+=%2$
+$MODIFIER_ARMY_STRENGTH$: $RIGHT|+=%2$
+$MODIFIER_ARMY_ORG$: $RIGHT|+=1$
+$MODIFIER_ARMY_ORG_FACTOR$: $RIGHT|+=%1$
+$MODIFIER_ARMY_ORG_REGAIN$: $RIGHT|+=%2$
+$MODIFIER_ORG_LOSS_WHEN_MOVING$: $RIGHT|-=%1$
+$MODIFIER_ORG_LOSS_AT_LOW_ORG_FACTOR$: $RIGHT|-=%2$
+$MODIFIER_ARMY_MORALE$: $RIGHT|+=1$
+$MODIFIER_ARMY_MORALE_FACTOR$: $RIGHT|+=%1$
+$modifier_army_sub_unit_militia_attack_factor$: $RIGHT|+=%2$
+$modifier_army_sub_unit_militia_defence_factor$: $RIGHT|+=%2$
+$modifier_army_sub_unit_militia_max_org_factor$: $RIGHT|+=%2$
+$modifier_army_sub_unit_cavalry_speed_factor$: $RIGHT|+=%1$
+$modifier_army_sub_unit_irregular_infantry_attack_factor$: $RIGHT|+=%2$
+$modifier_army_sub_unit_irregular_infantry_defence_factor$: $RIGHT|+=%2$
+$modifier_army_sub_unit_irregular_infantry_max_org_factor$: $RIGHT|+=%2$
+$modifier_army_sub_unit_cavalry_speed_factor$: $RIGHT|+=%1$
+$modifier_army_sub_unit_armored_car_attack_factor$: $RIGHT|+=%2$
+$modifier_army_sub_unit_armored_car_defence_factor$: $RIGHT|+=%2$
+$modifier_army_sub_unit_armored_car_max_org_factor$: $RIGHT|+=%2$
+$modifier_army_sub_unit_cavalry_speed_factor$: $RIGHT|+=%1$
+$MODIFIER_NAVY_ORG$: $RIGHT|+=1$
+$MODIFIER_NAVY_ORG_FACTOR$: $RIGHT|+=%1$
+$MODIFIER_NAVAL_MORALE$: $RIGHT|+=1$
+$MODIFIER_NAVAL_MORALE_FACTOR$: $RIGHT|+=%1$
+$MODIFIER_NAVY_MAX_RANGE_FACTOR$: $RIGHT|+=%1$
+$MODIFIER_XP_GAIN_ARMY$: $RIGHT|+=$ $MOD_DAILY$
+$MODIFIER_XP_GAIN_ARMY_FACTOR$: $RIGHT|+=%1$
+$MODIFIER_XP_GAIN_NAVY$: $RIGHT|+=$ $MOD_DAILY$
+$MODIFIER_XP_GAIN_NAVY_FACTOR$: $RIGHT|+=%1$
+$MODIFIER_XP_GAIN_AIR$: $RIGHT|+=$ $MOD_DAILY$
+$MODIFIER_XP_GAIN_AIR_FACTOR$: $RIGHT|+=%1$
+$MODIFIER_LAND_EQUIPMENT_UPGRADE_XP_COST$: $RIGHT|-=%0$
+$MODIFIER_NAVAL_EQUIPMENT_UPGRADE_XP_COST$: $RIGHT|-=%0$
+$MODIFIER_AIR_EQUIPMENT_UPGRADE_XP_COST$: $RIGHT|-=%0$
+$MODIFIER_TERRAIN_TRAIT_XP_GAIN_FACTOR$: $RIGHT|+=%2$
+$MODIFIER_TRAINING_TIME_FACTOR$: $RIGHT|Y=%1$
+$MODIFIER_TRAINING_TIME_ARMY_FACTOR$: $RIGHT|Y=%1$
+$MODIFIER_SPECIAL_FORCES_TRAINING_TIME_FACTOR$: $RIGHT|-=%1$
+$MODIFIER_MAX_TRAINING_XP_FACTOR$: $RIGHT|+=%1$
+$MODIFIER_XP_GAIN_FACTOR$: $RIGHT|+=%1$
+$MODIFIER_XP_GAIN_ARMY_UNIT_FACTOR$: $RIGHT|+=%1$
+$MODIFIER_XP_GAIN_NAVY_UNIT_FACTOR$: $RIGHT|+=%1$
+$MODIFIER_XP_GAIN_AIR_UNIT_FACTOR$: $RIGHT|+=%1$
+$MODIFIER_EXPERIENCE_LOSS_FACTOR$: $RIGHT|-=%1$
+$MODIFIER_XP_GAIN_ARMY_UNIT$: $RIGHT|+=$ $MOD_DAILY$
+$MODIFIER_XP_GAIN_ARMY_UNIT_FACTOR$: $RIGHT|+=%1$
+$MODIFIER_XP_GAIN_NAVY_UNIT$: $RIGHT|+=$ $MOD_DAILY$
+$MODIFIER_XP_GAIN_NAVY_UNIT_FACTOR$: $RIGHT|+=%1$
+$MODIFIER_COMMAND_ABILITIES_COST_FACTOR$: $RIGHT|-=%2$
+$MODIFIER_COMMAND_POWER_GAIN$: $RIGHT|+=2$
+$MODIFIER_COMMAND_POWER_GAIN_MULT$: $RIGHT|+=%0$
+$MODIFIER_MAX_COMMAND_POWER$: $RIGHT|+=0$
+$MODIFIER_MAX_COMMAND_POWER_MULT$: $RIGHT|+=%0$
+Увеличение макс. командной мощности (£command_power ): $RIGHT|+=0$
+$MODIFIER_LAND_DOCTRINE_COST_FACTOR$: $RIGHT|-=%2$
+$MODIFIER_AIR_DOCTRINE_COST_FACTOR$: $RIGHT|-=%2$
+$MODIFIER_NAVAL_DOCTRINE_COST_FACTOR$: $RIGHT|-=%2$
+$army_spirit_category_type_cost_factor$: $RIGHT|-=%0$
+$air_spirit_category_type_cost_factor$: $RIGHT|-=%0$
+$navy_spirit_category_type_cost_factor$: $RIGHT|-=%0$
+$MODIFIER_ARMY_SPEED_FACTOR$: $RIGHT|+=%$
+$MODIFIER_ARMY_ATTACK_SPEED_FACTOR$: $RIGHT|+=%$
+$MODIFIER_ARMY_SPEED_FACTOR_FOR_CONTROLLER$: $RIGHT|+=%$
+$MODIFIER_ENEMY_ARMY_SPEED_FACTOR$: $RIGHT|-=%$
+$MODIFIERS_ARMY_ATTACK_FACTOR$: $RIGHT|+=%1$
+$MODIFIER_BREAKTHROUGH$: $RIGHT|+=%$
+$MODIFIERS_ARMY_DEFENCE_FACTOR$: $RIGHT|+=%1$
+$MODIFIERS_ARMY_CORE_ATTACK_FACTOR$: $RIGHT|+=%1$
+$MODIFIERS_ARMY_CORE_DEFENCE_FACTOR$: $RIGHT|+=%1$
+$MODIFIER_LAND_NIGHT_ATTACK$: $RIGHT|+=%1$
+$MODIFIERS_ARMY_ATTACK_AGAINST_MAJOR_FACTOR$: $RIGHT|+=%1$
+$MODIFIERS_ARMY_DEFENCE_AGAINST_MAJOR_FACTOR$: $RIGHT|+=%1$
+$MODIFIER_ARMY_INFANTRY_ATTACK_FACTOR$: $RIGHT|+=%1$
+$MODIFIER_ARMY_INFANTRY_DEFENCE_FACTOR$: $RIGHT|+=%1$
+$MODIFIERS_ARMY_ARMOR_ATTACK_FACTOR$: $RIGHT|+=%1$
+$MODIFIERS_ARMY_ARMOR_DEFENCE_FACTOR$: $RIGHT|+=%1$
+$MODIFIER_ARMY_ARMOR_SPEED_FACTOR$: $RIGHT|+=%1$
+$MODIFIER_CAVALRY_ATTACK_FACTOR$: $RIGHT|+=%1$
+$MODIFIER_CAVALRY_DEFENCE_FACTOR$: $RIGHT|+=%1$
+$modifier_army_sub_unit_cavalry_speed_factor$: $RIGHT|+=%1$
+$MODIFIER_MOTORIZED_ATTACK_FACTOR$: $RIGHT|+=%1$
+$MODIFIER_MOTORIZED_DEFENCE_FACTOR$: $RIGHT|+=%1$
+$MODIFIER_MECHANIZED_ATTACK_FACTOR$: $RIGHT|+=%1$
+$MODIFIER_MECHANIZED_DEFENCE_FACTOR$: $RIGHT|+=%1$
+$MODIFIERS_ARMY_ARTILLERY_ATTACK_FACTOR$: $RIGHT|+=%1$
+$MODIFIERS_ARMY_ARTILLERY_DEFENCE_FACTOR$: $RIGHT|+=%1$
+$MODIFIER_SPECIAL_FORCES_ATTACK_FACTOR$: $RIGHT|+=%1$
+$MODIFIER_SPECIAL_FORCES_DEFENCE_FACTOR$: $RIGHT|+=%1$
+Стоимость дизайна единицы $blackshirt_assault_battalion$: $RIGHT|-=%2$
+$MODIFIER_RECON_FACTOR$: $RIGHT|+=%1$
+$MODIFIER_RECON_FACTOR_WHILE_ENTRENCHED$: $RIGHT|+=%1$
+$MODIFIER_LAND_REINFORCE_RATE$: $RIGHT|+=%1$
+$MODIFIER_CAS_DAMAGE_REDUCTION$: $RIGHT|+=%1$
+$MODIFIER_LAND_BUNKER_EFFECTIVENESS_FACTOR$: $RIGHT|+=%0$
+$MODIFIER_COASTAL_BUNKER_EFFECTIVENESS_FACTOR$: $RIGHT|+=%0$
+$MODIFIER_ATTRITION$: $RIGHT|-=%1$
+$MODIFIER_WINTER_ATTRITION_FACTOR$: $RIGHT|-=%1$
+$MODIFIER_ACCLIMATIZATION_HOT_CLIMATE_GAIN_FACTOR$: $RIGHT|+=%1$
+$MODIFIER_ACCLIMATIZATION_COLD_CLIMATE_GAIN_FACTOR$: $RIGHT|+=%1$
+$MODIFIER_AIR_HOME_DEFENCE_FACTOR$: $RIGHT|+=%0$
+$MODIFIER_AIR_ACE_GENERATION_CHANCE_FACTOR$: $RIGHT|+=%2$
+$MODIFIER_ACE_EFFECTIVENESS_FACTOR$: $RIGHT|+=%1$
+$MODIFIER_AIR_ATTACK_FACTOR$: $RIGHT|+=%1$
+$MODIFIER_AIR_DEFENCE_FACTOR$: $RIGHT|+=%1$
+$MODIFIER_AIR_RANGE_FACTOR$: $RIGHT|+=%0$
+$MODIFIER_AIR_AGILITY_FACTOR$: $RIGHT|+=%0$
+$MODIFIER_AIR_ACCIDENTS_FACTOR$: $RIGHT|-=%1$
+$MODIFIER_AIR_NIGHT_PENALTY$: $RIGHT|-=%2$
+$MODIFIER_AIR_STRAT_BOMBER_NIGHT_PENALTY$: $RIGHT|-=%2$
+$MODIFIER_AIR_BOMBING_TARGETTING$: $RIGHT|+=%1$
+$MODIFIER_STRATEGIC_BOMBER_DEFENCE_FACTOR$: $RIGHT|+=%2$
+$MODIFIER_STRATEGIC_BOMBER_BOMBING_FACTOR$: $RIGHT|+=%1$
+$MODIFIER_GROUND_ATTACK_FACTOR$: $RIGHT|+=%1$
+$MODIFIER_PORT_STRIKE_ATTACK_FACTOR$: $RIGHT|+=%1$
+$MODIFIER_AIR_MISSION_EFFICIENCY$: $RIGHT|+=%1$
+$MODIFIER_AIR_ESCORT_EFFICIENCY$: $RIGHT|+=%0$
+$MODIFIER_AIR_SUPERIORITY_EFFICIENCY$: $RIGHT|+=%0$
+$MODIFIER_AIR_INTERCEPT_EFFICIENCY$: $RIGHT|+=%0$
+$MODIFIER_AIR_CAS_EFFICIENCY$: $RIGHT|+=%0$
+$MODIFIER_AIR_CAS_ORG_DAMAGE_FACTOR$: $RIGHT|+=%0$
+$MODIFIER_AIR_NAV_EFFICIENCY$: $RIGHT|+=%0$
+$MODIFIER_AIR_WEATHER_PENALTY$: $RIGHT|-=%2$
+$MODIFIER_AIR_CAS_PRESENT_FACTOR$: $RIGHT|+=%0$
+$MODIFIER_AIR_POWER_PROJECTION_FACTOR$: $RIGHT|+=%0$
+$MODIFIER_ARMY_BONUS_AIR_SUPERIORITY_FACTOR$: $RIGHT|+=%2$
+$MODIFIER_AIR_SUPERIORITY_BONUS_IN_COMBAT$: $RIGHT|+=%1$
+$MODIFIER_AIR_MISSION_XP_FACTOR$: $RIGHT|+=%0$
+$MODIFIER_AIR_TRAINING_XP_FACTOR$: $RIGHT|+=%0$
+$MODIFIER_AIR_UNTRAINED_PILOTS_PENALTY_FACTOR$: $RIGHT|-=%0$
+$MODIFIER_AIR_WING_XP_LOSS_WHEN_KILLED_FACTOR$: $RIGHT|-=%0$
+$MODIFIER_ENEMY_ARMY_BONUS_AIR_SUPERIORITY_FACTOR$: $RIGHT|-=%2$
+$MODIFIER_STRAT_BOMBING_VISIBILITY$: $RIGHT|-=%0$
+$MODIFIER_PARADROP_AGILITY_FACTOR$: $RIGHT|+=%2$
+$MODIFIER_PARADROP_ATTACK_FACTOR$: $RIGHT|+=%2$
+$MODIFIER_PARADROP_DEFENCE_FACTOR$: $RIGHT|+=%2$
+$MODIFIER_PARADROP_ORGANIZATION_FACTOR$: $RIGHT|+=%1$
+$MODIFIER_PARATROOPER_EXTRA_SUPPLY_GRACE$: $RIGHT|+=1$ $MOD_HOUR$
+$MODIFIER_INDUSTRIAL_REFIT_IC_COST_FACTOR$: $RIGHT|-=%0$
+$MODIFIER_INDUSTRIAL_REFIT_SPEED_FACTOR$: $RIGHT|+=%0$
+$MODIFIER_REPAIR_SPEED_FACTOR$: $RIGHT|+=%0$
+$MODIFIER_POSITIONING$: $RIGHT|+=%1$
+$MODIFIER_NAVAL_DETECTION$: $RIGHT|+=%0$
+$MODIFIER_SPOTTING_CHANCE_FACTOR$: $RIGHT|+=%0$
+$MODIFIER_SCREENING_EFFICIENCY$: $RIGHT|+=%1$
+$MODIFIER_SCREENING_WITHOUT_SCREENS$: $RIGHT|+=%1$
+$MODIFIER_STRIKE_FORCE_MOVING_ORG$: $RIGHT|-=%2$
+$MODIFIER_SHIPS_AT_BATTLE_START_FACTOR$: $RIGHT|H%$
+$CARRIER_SORTIE_EFFICIENCY_FACTOR$: $RIGHT|+=%0$
+$MODIFIER_NAVAL_HAS_POTF_IN_COMBAT_ATTACK$: $RIGHT|+=%2$
+$MODIFIER_NAVAL_HAS_POTF_IN_COMBAT_DEFENSE$: $RIGHT|+=%2$
+$MODIFIER_NAVAL_ACCIDENTS_CHANCE$: $RIGHT|-=%2$
+$MODIFIER_NAVAL_VISIBILITY_FACTOR$: $RIGHT|-=%2$
+$MODIFIER_NAVAL_HIT_CHANCE$: $RIGHT|+=%0$
+$MODIFIER_NAVAL_SPEED$: $RIGHT|+=%0$
+$MODIFIER_NAVAL_RETREAT_CHANCE$: $RIGHT|+=%0$
+$MODIFIER_NAVAL_RETREAT_CHANCE_AFTER_INITIAL_COMBAT$: $RIGHT|+=%0$
+$MODIFIER_NAVAL_RETREAT_SPEED$: $RIGHT|+=%0$
+$MODIFIER_NAVAL_RETREAT_SPEED_AFTER_INITIAL_COMBAT$: $RIGHT|+=%0$
+$MODIFIER_MISSION_CONVOY_ESCORT_EFFICIENCY$: $RIGHT|+=%2$
+$MODIFIER_CONVOY_RAIDING_EFFICIENCY_FACTOR$: $RIGHT|+=%2$
+$MODIFIER_NAVAL_TORPEDO_SCREEN_PENETRATION_FACTOR$: $RIGHT|+=%2$
+$MODIFIER_NAVAL_TORPEDO_HIT_CHANCE_FACTOR$: $RIGHT|+=%2$
+$MODIFIER_NAVAL_CRITICAL_SCORE_CHANCE_FACTOR$: $RIGHT|+=%2$
+$MODIFIER_NAVAL_STRIKE_ATTACK_FACTOR$: $RIGHT|+=%0$
+$MODIFIER_NAVAL_STRIKE_TARGETTING_FACTOR$: $RIGHT|+=%0$
+$MODIFIER_NAVAL_STRIKE_AGILITY_FACTOR$: $RIGHT|+=%0$
+$MODIFIER_NAVY_ANTI_AIR_ATTACK_FACTOR$: $RIGHT|+=%2$
+$MODIFIER_NAVY_SUBMARINE_ATTACK_FACTOR$: $RIGHT|+=%2$
+$MODIFIER_NAVY_SUBMARINE_DEFENCE_FACTOR$: $RIGHT|+=%2$
+$MODIFIERS_SUBMARINE_DETECTION_FACTOR$: $RIGHT|+=%2$
+$MODIFIER_SUB_RETREAT_SPEED$: $RIGHT|+=%0$
+$MODIFIER_NAVY_CAPITAL_SHIP_ATTACK_FACTOR$: $RIGHT|+=%2$
+$MODIFIER_NAVY_CAPITAL_SHIP_DEFENCE_FACTOR$: $RIGHT|+=%2$
+$MODIFIER_NAVY_SCREEN_ATTACK_FACTOR$: $RIGHT|+=%2$
+$MODIFIER_NAVY_SCREEN_DEFENCE_FACTOR$: $RIGHT|+=%2$
+$MODIFIER_NAVAL_CARRIER_AIR_ATTACK_FACTOR$: $RIGHT|+=%2$
+$MODIFIER_NAVAL_CARRIER_AIR_TARGETTING_FACTOR$: $RIGHT|+=%2$
+$MODIFIER_NAVAL_CARRIER_AIR_AGILITY_FACTOR$: $RIGHT|+=%2$
+$MODIFIER_NAVAL_COORDINATION$: $RIGHT|+=%0$
+$MODIFIER_MINES_PLANTING_BY_FLEETS_FACTOR$: $RIGHT|+=%0$
+$MODIFIER_MINES_SWEEPING_BY_FLEETS_FACTOR$: $RIGHT|+=%0$
+$MODIFIER_NAVAL_MINE_HIT_CHANCE$: $RIGHT|-=%2$
+$MODIFIER_NAVAL_MINES_DAMAGE_FACTOR$: $RIGHT|+=%0$
+$MODIFIER_NAVAL_INVASION_DIVISION_CAP$: $RIGHT|+=0$
+$MODIFIER_NAVAL_INVASION_PLAN_CAP$: $RIGHT|+=0$
+$MODIFIER_AMPHIBIOUS_INVASION$: $RIGHT|+=%1$
+$MODIFIER_NAVAL_INVASION_PREPARATION$: $RIGHT|-=%1$
+$MODIFIER_NAVAL_INVASION_PREPARATION_SPEED$: $RIGHT|+=%1$
+$MODIFIER_MARINE_EXTRA_SUPPLY_GRACE$: $RIGHT|+=1$ $MOD_HOUR$
+$MODIFIER_NO_SUPPLY_GRACE$: $RIGHT|+=1$ $MOD_HOUR$
+$MODIFIER_SPECIAL_FORCES_NO_SUPPLY_GRACE$: $RIGHT|+=1$ $MOD_HOUR$
+$MODIFIER_REQUIRED_GARRISON_FACTOR$: $RIGHT|-=%0$
+$MODIFIER_INTEL_NETWORK_GAIN$: $RIGHT|+=1$
+$MODIFIER_INTEL_NETWORK_GAIN_FACTOR$: $RIGHT|+=%0$
+$MODIFIER_ENEMY_INTEL_NETWORK_GAIN_FACTOR_OVER_OCCUPIED_TAG$: $RIGHT|-=%0$
+$MODIFIER_LOCAL_INTEL_TO_ENEMIES$: $RIGHT|-=%0$
+$MODIFIER_INTEL_FROM_OPERATIVES_FACTOR$: $RIGHT|+=%0$
+$MODIFIER_DECRYPTION_FACTOR$: $RIGHT|+=%2$
+$MODIFIER_ENCRYPTION_FACTOR$: $RIGHT|+=%2$
+$MODIFIER_OPERATIVE_SLOT$: $RIGHT|+=0$
+$MODIFIER_LOCAL_BUILDING_SLOTS$: $RIGHT|+=0$
+$MODIFIER_LOCAL_BUILDING_SLOTS_FACTOR$: $RIGHT|+=%0$
+$MODIFIER_LOCAL_FACTORIES$: $RIGHT|+=%0$
+$MODIFIER_LOCAL_FACTORY_SABOTAGE$: $RIGHT|-=%0$
+$MODIFIER_LOCAL_MANPOWER$: $RIGHT|+=%0$
+$MODIFIER_LOCAL_NON_CORE_MANPOWER$: $RIGHT|+=%0$
+$MODIFIER_RECRUITABLE_POPULATION$: $RIGHT|+=%2$
+$MODIFIER_RECRUITABLE_POPULATION_FACTOR$: $RIGHT|+=%2$
+$MODIFIER_LOCAL_ORG_REGAIN$: $RIGHT|+=%2$
+$MODIFIER_LOCAL_SUPPLIES$: $RIGHT|+=%0$
+$MODIFIER_LOCAL_SUPPLIES_FOR_CONTROLLER$: $RIGHT|+=%0$
+$MODIFIER_ENEMY_LOCAL_SUPPLIES$: $RIGHT|-=%0$
+$MODIFIER_LOCAL_SUPPLY_IMPACT$: $RIGHT|-=%0$
+$MODIFIER_LOCAL_NON_CORE_SUPPLY_IMPACT$: $RIGHT|-=%0$
+$MODIFIER_ENEMY_ATTRITION$: $RIGHT|+=%1$
+$MODIFIER_TRUCK_ATTRITION$: $RIGHT|-=%2$
+$MODIFIER_TRUCK_ATTRITION_FACTOR$: $RIGHT|-=%0$
+$MODIFIER_ENEMY_TRUCK_ATTRITION_FACTOR$: $RIGHT|+=%0$
+$MODIFIER_EQUIPMENT_CAPTURE_FOR_CONTROLLER$: $RIGHT|+=%1$
+$MODIFIER_EQUIPMENT_CAPTURE_FACTOR_FOR_CONTROLLER$: $RIGHT|+=%1$
+$MODIFIER_LOCAL_RESOURCES$: $RIGHT|+=%0$
+$MODIFIER_STATE_RESOURCES_FACTOR$: $RIGHT|+=%0$
+$state_resource_aluminium$: $RIGHT|+=0$
+$state_resource_chromium$: $RIGHT|+=0$
+$state_resource_oil$: $RIGHT|+=0$
+$state_resource_rubber$: $RIGHT|+=0$
+$state_resource_steel$: $RIGHT|+=0$
+$state_resource_tungsten$: $RIGHT|+=0$
+$state_resource_cost_aluminium$: $RIGHT|-=0$
+$state_resource_cost_chromium$: $RIGHT|-=0$
+$state_resource_cost_oil$: $RIGHT|-=0$
+$state_resource_cost_rubber$: $RIGHT|-=0$
+$state_resource_cost_steel$: $RIGHT|-=0$
+$state_resource_cost_tungsten$: $RIGHT|-=0$
+$temporary_state_resource_aluminium$: $RIGHT|+=0$
+$temporary_state_resource_chromium$: $RIGHT|+=0$
+$temporary_state_resource_oil$: $RIGHT|+=0$
+$temporary_state_resource_rubber$: $RIGHT|+=0$
+$temporary_state_resource_steel$: $RIGHT|+=0$
+$temporary_state_resource_tungsten$: $RIGHT|+=0$
+$MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: $RIGHT|+=%0$
+$MODIFIER_STATE_PRODUCTION_SPEED_FACILITY_FACTOR$: $RIGHT|+=%2$
+$modifier_state_production_speed_air_base_factor$: $RIGHT|+=%2$
+$modifier_state_production_speed_anti_air_building_factor$: $RIGHT|+=%2$
+$modifier_state_production_speed_arms_factory_factor$: $RIGHT|+=%2$
+$modifier_state_production_speed_bunker_factor$: $RIGHT|+=%2$
+$modifier_state_production_speed_coastal_bunker_factor$: $RIGHT|+=%2$
+$modifier_state_production_speed_dockyard_factor$: $RIGHT|+=%2$
+$modifier_state_production_speed_fuel_silo_factor$: $RIGHT|+=%2$
+$modifier_state_production_speed_industrial_complex_factor$: $RIGHT|+=%2$
+$modifier_state_production_speed_infrastructure_factor$: $RIGHT|+=%2$
+$modifier_state_production_speed_naval_base_factor$: $RIGHT|+=%2$
+$modifier_state_production_speed_nuclear_reactor_factor$: $RIGHT|+=%2$
+$modifier_state_production_speed_radar_station_factor$: $RIGHT|+=%2$
+$modifier_state_production_speed_rail_way_factor$: $RIGHT|+=%2$
+$modifier_state_production_speed_rocket_site_factor$: $RIGHT|+=%2$
+$modifier_state_production_speed_supply_node_factor$: $RIGHT|+=%2$
+$modifier_state_production_speed_synthetic_refinery_factor$: $RIGHT|+=%2$
+$MODIFIER_CIVILIAN_INTEL_FACTOR$: $RIGHT|+=%0$
+$MODIFIER_ARMY_INTEL_FACTOR$: $RIGHT|+=%0$
+$MODIFIER_NAVY_INTEL_FACTOR$: $RIGHT|+=%0$
+$MODIFIER_AIRFORCE_INTEL_FACTOR$: $RIGHT|+=%0$
+$MODIFIER_CIVILIAN_INTEL_TO_OTHERS$: $RIGHT|-=%%1$
+$MODIFIER_ARMY_INTEL_TO_OTHERS$: $RIGHT|-=%%1$
+$MODIFIER_NAVY_INTEL_TO_OTHERS$: $RIGHT|-=%%1$
+$MODIFIER_AIRFORCE_INTEL_TO_OTHERS$: $RIGHT|-=%%1$
+$MODIFIER_DRIFT_DEFENCE_FACTOR$: $RIGHT|+=%1$
+$sp_tag_radar_speed_factor$: $RIGHT|+=%1$
+$totalist_drift$: $RIGHT|+=$
+$syndicalist_drift$: $RIGHT|+=$
+$radical_socialist_drift$: $RIGHT|+=$
+$social_democrat_drift$: $RIGHT|+=$
+$social_liberal_drift$: $RIGHT|+=$
+$market_liberal_drift$: $RIGHT|+=$
+$social_conservative_drift$: $RIGHT|+=$
+$authoritarian_democrat_drift$: $RIGHT|+=$
+$paternal_autocrat_drift$: $RIGHT|+=$
+$national_populist_drift$: $RIGHT|+=$
+Больше принадлежащих регионов, чем $RIGHT|Y0$
+Меньше принадлежащих регионов, чем $RIGHT|Y0$
+империя
+Империя
+королевство
+Королевство
+республика
+Республика
+государство
+Государство
+Король
+Королева
+Герцог
+Герцогиня
+Император
+Императрица
+Кайзер
+Кайзерин
+Царь
+Царица
+Гетман
+Гетманша
+Эмир
+Эмира
+Султан
+Султанша
+Шах
+Шахбану
+Хан
+Хатун
+Низам
+Мвами
+Боқор
+Боқорад
+Папа
+Католикос
+Имам
+Регент
+Президент
+Премьер-министр
+Председатель
+королевский
+Королевский
+$loc_royal$ 
+$loc_royal_cap$ 
+имперский
+Имперский
+$loc_imperial$ 
+$loc_imperial_cap$ 
+республиканский
+Республиканский
+$loc_republican$ 
+$loc_republican_cap$ 
+имеет
+имеют
+его
+их
+их
+и
+ $loc_and$
+$loc_and$ 
+ $loc_and$ 
+£GFX_trigger_no
+£GFX_trigger_yes
+£command_power §H5§!
+£command_power §R5§!
+Стоимость принятия решения: $CP_5_blocked$
+£command_power §H10§!
+£command_power §R10§!
+Стоимость принятия решения: $CP_10_blocked$
+£command_power §H15§!
+£command_power §R15§!
+Стоимость принятия решения: $CP_15_blocked$
+£command_power §H20§!
+£command_power §R20§!
+Стоимость принятия решения: $CP_20_blocked$
+£command_power §H25§!
+£command_power §R25§!
+Стоимость принятия решения: $CP_25_blocked$
+£command_power §H30§!
+£command_power §R30§!
+Стоимость принятия решения: $CP_30_blocked$
+£command_power §H35§!
+£command_power §R35§!
+Стоимость принятия решения: $CP_35_blocked$
+£command_power §H40§!
+£command_power §R40§!
+Стоимость принятия решения: $CP_40_blocked$
+£command_power §H45§!
+£command_power §R45§!
+Стоимость принятия решения: $CP_45_blocked$
+£command_power §H50§!
+£command_power §R50§!
+Стоимость принятия решения: $CP_50_blocked$
+£command_power §H55§!
+£command_power §R55§!
+Стоимость принятия решения: $CP_55_blocked$
+£command_power §H60§!
+£command_power §R60§!
+Стоимость принятия решения: $CP_60_blocked$
+£command_power §H65§!
+£command_power §R65§!
+Стоимость принятия решения: $CP_65_blocked$
+£command_power §H70§!
+£command_power §R70§!
+Стоимость принятия решения: $CP_70_blocked$
+£command_power §H75§!
+£command_power §R75§!
+Стоимость принятия решения: $CP_75_blocked$
+£command_power §H80§!
+£command_power §R80§!
+Стоимость принятия решения: $CP_80_blocked$
+£command_power §H85§!
+£command_power §R85§!
+Стоимость принятия решения: $CP_85_blocked$
+£command_power §H90§!
+£command_power §R90§!
+Стоимость принятия решения: $CP_90_blocked$
+£command_power §H95§!
+£command_power §R95§!
+Стоимость принятия решения: $CP_95_blocked$
+£command_power §H100§!
+£command_power §R100§!
+Стоимость принятия решения: $CP_100_blocked$
+£command_power §H80§! £pol_power §H20§!
+£command_power §R80§! £pol_power §R20§!
+Стоимость принятия решения: $CP_80_PP_20_blocked$
+£army_experience §H3§!
+£army_experience §R3§!
+Стоимость принятия решения: $army_xp_3_blocked$
+£army_experience §H5§!
+£army_experience §R5§!
+Стоимость принятия решения: $army_xp_5_blocked$
+£army_experience §H10§!
+£army_experience §R10§!
+Стоимость принятия решения: $army_xp_10_blocked$
+£army_experience §H15§!
+£army_experience §R15§!
+Стоимость принятия решения: $army_xp_15_blocked$
+£army_experience §H20§!
+£army_experience §R20§!
+Стоимость принятия решения: $army_xp_20_blocked$
+£army_experience §H25§!
+£army_experience §R25§!
+Стоимость принятия решения: $army_xp_25_blocked$
+£army_experience §H30§!
+£army_experience §R30§!
+Стоимость принятия решения: $army_xp_30_blocked$
+£army_experience §H35§!
+£army_experience §R35§!
+Стоимость принятия решения: $army_xp_35_blocked$
+£army_experience §H40§!
+£army_experience §R40§!
+Стоимость принятия решения: $army_xp_40_blocked$
+£army_experience §H45§!
+£army_experience §R45§!
+Стоимость принятия решения: $army_xp_45_blocked$
+£army_experience §H50§!
+£army_experience §R50§!
+Стоимость принятия решения: $army_xp_50_blocked$
+£army_experience §H55§!
+£army_experience §R55§!
+Стоимость принятия решения: $army_xp_55_blocked$
+£army_experience §H60§!
+£army_experience §R60§!
+Стоимость принятия решения: $army_xp_60_blocked$
+£army_experience §H65§!
+£army_experience §R65§!
+Стоимость принятия решения: $army_xp_65_blocked$
+£army_experience §H70§!
+£army_experience §R70§!
+Стоимость принятия решения: $army_xp_70_blocked$
+£army_experience §H75§!
+£army_experience §R75§!
+Стоимость принятия решения: $army_xp_75_blocked$
+£army_experience §H80§!
+£army_experience §R80§!
+Стоимость принятия решения: $army_xp_80_blocked$
+£army_experience §H85§!
+£army_experience §R85§!
+Стоимость принятия решения: $army_xp_85_blocked$
+£army_experience §H90§!
+£army_experience §R90§!
+Стоимость принятия решения: $army_xp_90_blocked$
+£army_experience §H95§!
+£army_experience §R95§!
+Стоимость принятия решения: $army_xp_95_blocked$
+£army_experience §H100§!
+£army_experience §R100§!
+Стоимость принятия решения: $army_xp_100_blocked$
+£army_experience §H125§!
+£army_experience §R125§!
+Стоимость принятия решения: $army_xp_125_blocked$
+£army_experience §H150§!
+£army_experience §R150§!
+Стоимость принятия решения: $army_xp_150_blocked$
+£army_experience §H175§!
+£army_experience §R175§!
+Стоимость принятия решения: $army_xp_175_blocked$
+£army_experience §H200§!
+£army_experience §R200§!
+Стоимость принятия решения: $army_xp_200_blocked$
+£war_support_texticon §H3%§!
+£war_support_texticon §R3%§!
+Стоимость принятия решения: $war_support3_blocked$
+£war_support_texticon §H5%§!
+£war_support_texticon §R5%§!
+Стоимость принятия решения: $war_support5_blocked$
+£war_support_texticon §H10%§!
+£war_support_texticon §R10%§!
+Стоимость принятия решения: $war_support10_blocked$
+£war_support_texticon §H15%§!
+£war_support_texticon §R15%§!
+Стоимость принятия решения: $war_support15_blocked$
+£war_support_texticon §H20%§!
+£war_support_texticon §R20%§!
+Стоимость принятия решения: $war_support20_blocked$
+£GFX_stability_texticon §H3%§!
+£GFX_stability_texticon §R3%§!
+Стоимость принятия решения: $stability3_blocked$
+£GFX_stability_texticon §H5%§!
+£GFX_stability_texticon §R5%§!
+Стоимость принятия решения: $stability5_blocked$
+£GFX_stability_texticon §H10%§!
+£GFX_stability_texticon §R10%§!
+Стоимость принятия решения: $stability10_blocked$
+£GFX_stability_texticon §H15%§!
+£GFX_stability_texticon §R15%§!
+Стоимость принятия решения: $stability15_blocked$
+£GFX_stability_texticon §H20%§!
+£GFX_stability_texticon §R20%§!
+Стоимость принятия решения: $stability20_blocked$
+£rifle_texticon  §H100§!
+£rifle_texticon  §R100§!
+Стоимость принятия решения: $100_guns_blocked$
+£rifle_texticon  §H150§!
+£rifle_texticon  §R150§!
+Стоимость принятия решения: $150_guns_blocked$
+£rifle_texticon  §H200§!
+£rifle_texticon  §R200§!
+Стоимость принятия решения: $200_guns_blocked$
+£rifle_texticon  §H250§!
+£rifle_texticon  §R250§!
+Стоимость принятия решения: $250_guns_blocked$
+£rifle_texticon  §H300§!
+£rifle_texticon  §R300§!
+Стоимость принятия решения: $300_guns_blocked$
+£rifle_texticon  §H500§!
+£rifle_texticon  §R500§!
+Стоимость принятия решения: $500_guns_blocked$
+£rifle_texticon  §H700§!
+£rifle_texticon  §R700§!
+Стоимость принятия решения: $700_guns_blocked$
+£rifle_texticon  §H1000§!
+£rifle_texticon  §R1000§!
+Стоимость принятия решения: $1000_guns_blocked$
+£rifle_texticon  §H2000§!
+£rifle_texticon  §R2000§!
+Стоимость принятия решения: $2000_guns_blocked$
+£rifle_texticon  §H5000§!
+£rifle_texticon  §R5000§!
+Стоимость принятия решения: $5000_guns_blocked$
+£support_texticon  §H100§!
+£support_texticon  §R100§!
+Стоимость принятия решения: $support_100_blocked$
+£support_texticon  §H150§!
+£support_texticon  §R150§!
+Стоимость принятия решения: $support_150_blocked$
+£support_texticon  §H200§!
+£support_texticon  §R200§!
+Стоимость принятия решения: $support_200_blocked$
+£support_texticon  §H250§!
+£support_texticon  §R250§!
+Стоимость принятия решения: $support_250_blocked$
+£manpower_texticon  §H500§!
+£manpower_texticon  §R500§!
+Стоимость принятия решения: $manpower_500_blocked$
+£manpower_texticon  §H1000§!
+£manpower_texticon  §R1000§!
+Стоимость принятия решения: $manpower_1000_blocked$
+£manpower_texticon  §H5000§!
+£manpower_texticon  §R5000§!
+Стоимость принятия решения: $manpower_5000_blocked$
+£manpower_texticon  §H10000§!
+£manpower_texticon  §R10000§!
+Стоимость принятия решения: $manpower_10000_blocked$
+£[?var:current_party_ideology_group.GetTokenKey]_texticon  §H2%§!
+£[?var:current_party_ideology_group.GetTokenKey]_texticon  §R2%§!
+Стоимость принятия решения: $ruling_party_2_blocked$
+£[?var:current_party_ideology_group.GetTokenKey]_texticon  §H3%§!
+£[?var:current_party_ideology_group.GetTokenKey]_texticon  §R3%§!
+Стоимость принятия решения: $ruling_party_3_blocked$
+£[?var:current_party_ideology_group.GetTokenKey]_texticon  §H5%§!
+£[?var:current_party_ideology_group.GetTokenKey]_texticon  §R5%§!
+Стоимость принятия решения: $ruling_party_5_blocked$
+£[?var:current_party_ideology_group.GetTokenKey]_texticon  §H10%§!
+£[?var:current_party_ideology_group.GetTokenKey]_texticon  §R10%§!
+Стоимость принятия решения: $ruling_party_10_blocked$
+£[?var:current_party_ideology_group.GetTokenKey]_texticon  §H15%§!
+£[?var:current_party_ideology_group.GetTokenKey]_texticon  §R15%§!
+Стоимость принятия решения: $ruling_party_15_blocked$
+Кристиансборг
+$landmark_christiansborg_palace$
+§LДворец Кристиансборг — монументальный необарочный дворец, стоящий на островке Слотсхольмен в самом сердце Копенгагена. Перестроенный после великого пожара 1884 года и завершённый лишь недавно, дворец ныне служит резиденцией датского государства, вмещая Фолькетинг, Верховный суд и канцелярию премьер-министра. Долгое время являясь символом королевской власти и управления в Дании, Кристиансборг воплощает преемственность датской монархии и конституционной традиции.§!
+Триумфальная арка
+$landmark_arc_de_triomphe$
+§LТриумфальная арка — величественный монумент, доминирующий над западным концом Елисейских Полей в Париже. Воздвигнутая Наполеоном в честь побед и солдат Франции, она стоит как свидетельство военной славы и жертв нации. Под её сводом покоится Могила Неизвестного Солдата — торжественное напоминание о Великой войне и её неизгладимом следе на Французской Республике. Триумфальная арка остаётся мощным символом французского единства и национальной гордости.§!
+Нотр-Дам де Пари
+$landmark_notre_dame$
+§LНотр-Дам де Пари — готический собор, возвышающийся на острове Сите в историческом сердце Парижа. Строившийся на протяжении веков, он стал свидетелем коронаций, революций и духовной жизни Франции. Знаменитый своими парящими башнями, огромными окнами-розами и звучными колоколами, собор пережил потрясения последних десятилетий как свидетель веры и истории Франции.§!
+Бранденбургские ворота
+$landmark_brandenburg_gate$
+§LБранденбургские ворота — величественный неоклассический монумент в самом сердце Берлина. Воздвигнутые в конце восемнадцатого века как символ мира, они с тех пор стали главным символом прусского и германского государства. Под властью кайзера ворота наблюдают за парадами, церемониями и гражданской жизнью в столице современной Германии, воплощая как имперскую традицию, так и единство германской нации.§!
+Кёльнский собор
+$landmark_cologne_cathedral$
+§LКёльнский собор — возвышающийся готический шедевр, доминирующий над горизонтом рейнского города Кёльна. Заложенный в Средние века и завершённый в девятнадцатом веке, его двойные шпили и обширный интерьер отражают века немецкого мастерства и преданности. Долгое время бывшее местом паломничества и национальной гордости, это сооружение стоит как символ веры, стойкости и непреходящего культурного наследия Германии.§!
+Пизанская башня
+$landmark_leaning_tower_of_pisa$
+§LПизанская башня — отличительная романская колокольня, возвышающаяся над Площадью Чудес. Построенная в Средние века, её непреднамеренный наклон сделал её одной из самых узнаваемых достопримечательностей Италии. Стоя рядом с собором, которому она служила, башня стоит как свидетельство итальянской изобретательности, упорства и непреходящего наследия исторических городов-государств полуострова.§!
+Собор Василия Блаженного
+$landmark_saint_basils_cathedral$
+§LСобор Василия Блаженного возвышается на Красной площади в Москве, его яркие луковичные купола и узорчатая кирпичная кладка формируют величественное присутствие рядом с Кремлём. Когда-то воздвигнутый Иваном IV в честь завоевания Казани, он ныне сохраняется под бдительным вниманием российского государства — реликт царской власти, продолжающий свидетельствовать о жизни горожан. В его часовнях сохраняются отголоски веков богослужения, отмечая здание как свидетельство истории и духовной традиции России.§!
+Зимний дворец
+$landmark_winter_palace$
+§LЗимний дворец — великолепный дворец в стиле рококо, служивший официальной резиденцией дома Романовых до 1917 года. В самом сердце Петрограда дворец стал свидетелем многих ключевых событий русских революций. Одна часть дворца вмещает Эрмитаж, тогда как остальная часть представляет собой обширный административный комплекс. Зимний дворец остаётся символом гордости всей России.§!
+Вождь-Освободитель
+$landmark_vozhd_liberator$
+§LВождь-Освободитель стоит на берегу реки Харьков и представляет собой 22-метровую бронзовую фигуру Бориса Савинкова, восседающего на 29-метровом неоклассическом постаменте. Вождь, облачённый в длинное пальто и сурово взирающий на Запад, стоит как героическая фигура над своим родным городом. Внутри постамента горит вечный огонь в память о неизвестных солдатах, отдавших жизни в Великой Отечественной войне.§!
+Белый дом
+$landmark_white_house$
+§LБелый дом — неоклассический особняк в центре Вашингтона, служащий резиденцией и офисом президента Соединённых Штатов. Построенный в конце восемнадцатого века, он стал свидетелем становления нации, политических кризисов и администраций сменяющих друг друга президентов. Отмеченный своими портиками, парадными залами и неизменным фасадом, Белый дом остаётся главным сидением американской исполнительной власти и маркером национальной преемственности.§!
+Капитолий
+$landmark_capitol$
+§LКапитолий Соединённых Штатов возвышается на Капитолийском холме в Вашингтоне как резиденция национального Конгресса. Заложенный в конце восемнадцатого века и завершённый через последовательные расширения, он был сценой законодательных дебатов и политических перемен. Его купол, залы и величественные лестницы отмечают его как центр политической жизни и конституционного строя Соединённых Штатов.§!
+Монумент Вашингтону
+$landmark_washington_monument$
+§LМонумент Вашингтону — возвышающийся обелиск на Национальной аллее в Вашингтоне, воздвигнутый в честь Джорджа Вашингтона, первого президента нации. Завершённый в 1888 году после десятилетий прерванного строительства, он стал свидетелем роста столицы и гражданской жизни республики. Его строгая высота и величественное присутствие отмечают его как вечный памятник американскому лидерству и национальной памяти.§!
+Пентагон
+$landmark_pentagon$
+§LПентагон — обширное пятиугольное здание штаб-квартиры военного ведомства Соединённых Штатов на окраине Вашингтона. Спроектированный для централизации военного управления и консолидации оборонных операций нации, это сооружение воплощает современную инженерию и организационную силу американских вооружённых сил. Он стоит как свидетельство готовности страны и национальной решимости.§!
+Эмпайр-стейт-билдинг
+$landmark_empire_state_building$
+§LЭмпайр-стейт-билдинг возвышается над Манхэттеном как возвышающийся символ амбиций Нью-Йорка. Завершённый в 1931 году, он стоит как самое высокое созданное человеком сооружение в мире. Его ар-деко фасад и шпиль ныне определяют горизонт города, стоя как памятник американской индустрии, предприимчивости и быстрому росту современного мегаполиса.§!
+Плотина Боулдер
+$landmark_boulder_dam$
+§LПлотина Боулдер пересекает реку Колорадо на границе Аризоны и Невады — огромное бетонное сооружение, завершённое в начале 1930-х годов. Построенная для контроля наводнений, обеспечения ирригации и выработки электроэнергии, она преобразила окружающий регион. Её масштаб и инженерное мастерство преобразили окружающий регион, демонстрируя промышленный потенциал нации и её способность управлять природной средой.§!
+Мост Золотые Ворота
+$landmark_golden_gate_bridge$
+§LМост Золотые Ворота пересекает вход в залив Сан-Франциско — смелый висячий мост, соединяющий город с округом Марин. Его башни и плавные тросы создают один из самых длинных и впечатляющих переходов в мире. Мост стоит как свидетельство американской инженерии, амбиций и мастерства современной инфраструктуры.§!
+Знак «Голливудленд»
+$landmark_hollywood_sign$
+§LЗнак «Голливудленд» возвышается на холмах над Лос-Анджелесом, его крупные белые буквы рекламируют жилой район и отмечают растущий квартал. Воздвигнутый в 1923 году, он стал заметной чертой городского ландшафта. Видимый на окружающей территории, знак стал тесно ассоциироваться с киноиндустрией и быстрым расширением Лос-Анджелеса.§!
+Чичен-Ица
+$landmark_chichen_itza$
+§LЧичен-Ица возвышается на полуострове Юкатан как остатки великого города майя, её пирамиды, храмы и площадки для игры в мяч отражают века доколумбовой цивилизации. В последние годы американские археологи и учёные предприняли обширные исследования и усилия по сохранению, привлекая к месту более широкое внимание. Руины свидетельствуют как об изобретательности цивилизации майя, так и о расширяющейся роли Соединённых Штатов в изучении и сохранении древних Америк.§!
+Моаи
+$landmark_moai$
+§LСтатуи моаи острова Пасхи возвышаются вдоль берегов и хребтов острова, их массивные каменные формы созданы народом рапа-нуи столетия назад. Под чилийским управлением с конца девятнадцатого века, статуи привлекли внимание учёных и посетителей. Они остаются безмолвными свидетелями изобретательности и культуры коренных жителей острова, отмечая удалённый уголок Тихого океана, давно сформированный человеческими руками.§!
+Пагода Шведагон
+$landmark_shwedagon_pagoda$
+§LПагода Шведагон возвышается на склонах холма Шведагон в Янгоне, Бирма, и является одним из самых священных буддийских мест в стране. Её золотой шпиль и древняя архитектура отражают века преданности и культурного наследия. Пагода продолжает привлекать паломников и посетителей со всей Азии, символизируя непреходящее духовное значение буддийских традиций Бирмы.§!
+Замок Химэдзи
+$landmark_himeji_castle$
+§LЗамок Химэдзи возвышается над городом Химэдзи и является одной из наиболее хорошо сохранившихся феодальных крепостей в Японии. Завершённый в начале семнадцатого века, его белёные стены, многоярусная оборона и возвышающаяся башня воплощают военный дизайн эпохи Токугава. Пережив гражданскую войну, реставрацию и модернизацию, замок продолжает отражать воинские традиции Японии и имперское прошлое.§!
+Замок Окаяма
+$landmark_okayama_castle$
+§LЗамок Окаяма стоит у реки Асахи, его тёмный экстерьер и величественная башня отличают его от других японских укреплений. Построенный в конце шестнадцатого века, он служил региональным центром власти в периоды Сэнгоку и раннего Токугава. Сегодня это сооружение напоминает о власти местных уделов и наследии класса самураев.§!
+Ват Арун
+$landmark_wat_arun$
+§LВат Арун занимает западный берег реки Чао Прайя в Бангкоке и образует один из самых узнаваемых религиозных объектов в Сиаме. Центрированный на его возвышающемся пранге, храмовый комплекс показывает сильное кхмерское влияние и давние буддийские традиции. Тесно связанный с династией Чакри и столицей, Ват Арун продолжает означать тесные связи между верой, монархией и сиамским государством.§!
+Кааба
+$landmark_kaaba$
+§LВ центре Великой мечети в Мекке возвышается Кааба — святейшее место в исламе. Её окутанная чёрным покровом структура на протяжении веков направляла направление мусульманской молитвы и паломничества. Перестраиваемая и поддерживаемая на протяжении последовательных поколений, Кааба продолжает формировать духовную жизнь исламского мира и утверждать первенство Мекки как священного города.§!
+Пирамиды Гизы
+$landmark_pyramids_of_giza$
+§LНа пустынной возвышенности к западу от Каира пирамиды Гизы доминируют над ландшафтом как монументальные гробницы древних фараонов Египта. Построенные в период Древнего царства, их огромный масштаб и точное мастерство свидетельствуют об организации и власти ранней египетской цивилизации. Предшествуя современному государству на тысячелетия, пирамиды стоят как вечные памятники человеческим амбициям и изобретательности.§!

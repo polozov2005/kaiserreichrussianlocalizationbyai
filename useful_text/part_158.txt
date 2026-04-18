@@ -1,0 +1,579 @@
+Kingdom of Spain Focus Tree
+POUM
+Partido Obrero de Unificación Marxista (Workers' Party of Marxist Unification)
+CNT-FAI
+Confederación Nacional del Trabajo - Federación Anarquista Ibérica (National Confederation of Labour - Iberian Anarchist Federation)
+PSOE
+Partido Socialista Obrero Español (Spanish Socialist Workers' Party)
+Izquierda Republicana
+Izquierda Republicana (Republican Left)
+Acción Republicana
+Acción Republicana (Republican Action)
+Partido Liberal
+Partido Liberal (Liberal Party)
+Derecha Liberal
+Derecha Liberal Republicana (Liberal Republican Right)
+Partido Conservador
+Partido Conservador (Conservative Party)
+Acción Nacional
+Acción Nacional (National Action - Moderate)
+Acción Nacional
+Acción Nacional (National Action - Radical)
+Unión Patriótica
+Unión Patriótica Española (Spanish Patriotic Union)
+JONS
+Juntas de Ofensiva Nacional-Sindicalista (Councils of National-Syndicalist Offensive)
+Altos Hornos de Vizcaya
+Compañía Telefónica Nacional de España
+CAMPSA
+Compañía Española de Petróleos
+Astra Unceta y Cía
+Llama-Gabilondo y Cia
+Star Bonifacio Echeverria
+Esperanza y Cia
+Fábrica de armas de Trubia
+Abadal-Buick
+Irizar
+Compañía Auxiliar de Ferrocarriles
+Hispano-Suiza
+Construcciones Aeronáuticas S.A.
+Aeronáutica Industrial S.A.
+Hispano Aviación
+Talleres Loring
+Sociedad Española de Construcción Naval
+Euskalduna
+[SPA_GetCivilWarMIOName]
+Industria Nacional de Guerra
+Comisión de Industrias de Guerra
+§Y$generic_KR_general_purpose_initial_trait$\n§LInfantry Equipment, Artillery and Support Equipment workshops and factories of the Spanish Civil War.§! §RWill last until the end of the Spanish Civil War!§!§!
+Spanish Civil War Equipment
+Mass Production Methods
+Prioritise Quality
+Local Standardised Components
+Improved Barrels
+Engineer and Radio Innovations
+Spanish Civil War
+Expand Tungsten Production in [170.GetName]
+Expand Tungsten Production in [171.GetName]
+Expand Aluminium Production in [41.GetName]
+Expand Steel Production in [169.GetName]
+Increase the Regent's Security
+Rumours are circling that radical elements of the Carlist army may be attempting an assassination attempt on Infante Juan in an attempt to send the government into disarray. This cannot be allowed to happen and the prince's security must be greatly stepped up.
+Ensure Guard Loyalty
+Often when a royal is assassinated, the deed is carried out from within by their own guards. To guarantee Juan's protection, he must be protected by only the most loyal guards to ensure that they will not betray the nation.
+Memories of the Republic
+On August 11th, 1932, the Second Spanish Republic came to an end, but the Republic lives on in the hearts of many Spaniards. While many malcontents harbour Carlist or Socialist sentiments, many political moderates, especially among military officers, wish to see the end of the incumbent Spanish monarchy.
+Illegitimate Republic
+Although the unpopular Spanish Monarchy has now been brought to an end, we still have a long way to go before our government is seen as legitimate.
+Fractured Society
+The prevalence of radical ideologies and political violence in Spain has led to popular fear and individual isolation. Many are afraid to even interact with neighbours and old friends. No society can function in this fashion.
+Societal Recovery
+Our society has, in a small yet important way, begun to heal. It will take time to recover from the political turmoil still present.
+$SPA_social_breakdown_2$
+Our society has, in a small yet important way, begun to heal. It will take time to recover from the political turmoil still present. While stability is not yet guaranteed, Spanish society is no longer as fragmented as it once was.
+$SPA_social_breakdown_2$
+$SPA_social_breakdown_3_desc$
+Infrastructure Projects
+Building new transport networks is sure to improve the position of the economy, and at its worst, benefit us should the country fall apart.
+Investing in the Future
+Riverism
+The late Spanish leader Miguel Primo de Rivera has left a strong legacy upon the nation of Spain, which has been greatly expanded upon under the leadership of the new 'Caudillo' Emilio Mola.
+Social Catholicism
+Military Focus
+With civil war seemingly inevitable, Spain has initiated a programme of military modernisation in hopes of assuring victory in the coming conflict.
+Faith in the Kingdom
+Spain has implemented massive public infrastructure initiatives. Those who once found themselves without work now build roads, canals, and hold a plethora of previously unfilled positions. While it won't stop the inevitable of a civil war, it will give us greater support for a time.
+Organise Strikes
+CNT-FAI is coordinating strikes in an attempt to destabilise the Spanish government.
+The Roads of War
+A great effort is being made to upgrade the roads and railways of Spain, organised primarily by the country's unions in the eastern regions of the nation.
+Carlist Defections
+Throughout the Spanish armed forces and police there has been a sharp increase in members suddenly leaving their positions, with some theorising a link between these resignations and the recent increase of Carlist activity in the nation.
+Javier's Proclamation
+Javier de Borbón-Parma, known to his supporters as King Javier I, has issued a proclamation declaring the end of the reign of Alfonso XIII and requesting that Alfonso's supporters help peacefully facilitate Javier's \
+Loyal Soldiers
+The Spanish army has taken steps to ensure loyalty of its troops, aiming to ward off any defections or internal sabotage, and with hopes that loyal soldiers will produce better battlefield results.
+Guardia Civil
+Many members of the Guardia Civil, the Spanish gendarme, have been recruited into the new Spanish army to aid with fighting its enemies and securing control of the nation.
+Adaptive Fortifications
+The soldiers of the Ejército de Tierra have begun to implement new methods of fortification construction, enabling the quick establishment of temporary defensive positions.
+Militarised Railways
+The many civilian railways that dot the Spanish landscape have been militarised in order to keep up with the supply demands of the Spanish army.
+Spanish Auto Industry
+The Spanish government has taken control of several automotive factories in Spain, in order to help facilitate the production of additional military vehicles.
+Armoured Warfare Tactics
+A doctrine focused on fast moving divisions and tank brigades has been adopted as part of an effort to greater utilise modern technology.
+Mechanised Army
+With a focus on fast moving divisions, advanced tank brigades, and a surplus of trucks to quickly resupply divisions the Spanish army has managed to adapt itself to the times.
+The Final Push
+It is time to bring an end to the fifth columnists who wish to bring about the destruction of Spain, with one last push this war will have reached its end.
+Aviation Industry
+With every year that passes aerial warfare becomes more and more vital to victory in conflict, and to avoid falling behind Spain has invested greatly in their aviation industry.
+Fighter Focus
+The Spanish Air Force will be focused around fighters, for if one does not control the skies they do not control the battlefield either.
+CAS Focus
+The Spanish Air Force will be focused around ground support, Spain's armies will march forward under the mighty wings of its close air support planes.
+Rule the Skies
+The skies are simply another theatre of war for Spain to conquer, and conquer it she has. Our excellent fighter pilots strike fear into the hearts of our enemies, and those who are brave enough to still fight will be quickly shot down.
+Rule the Skies
+The skies are simply another theatre of war for Spain to conquer, and conquer it she has. The battlefield bombings conducted by our close air support planes will break through even the most entrenched frontlines, allowing our army to strike the finishing blow.
+Guardians of the Spanish Coast
+The Spanish navy has been instructed to focus on effectively defending the country's coasts, aiming to protect the coast from any amphibious assaults and protect convoys from attacks by enemy submarines.
+Merchant Marine
+Spain has untapped merchant ship potential it must fulfil in its current geographical situation. Effort should be put towards construction of new vessels to help improve global trade.
+The New Armada
+The Spanish navy has been instructed to focus on constructing a grand navy of many heavy ships, aiming to project the nation's power across the seas of the world.
+Rule the Seas
+To protect itself from outside invasion, the Spanish navy has heavily focused itself on coastal defence. Through investing heavily in the modernisation of its existing dockyards, establishing a dedicated coast guard, and constructing new naval production facilities the Spanish navy has managed to effectively reinvent itself.
+Rule the Seas
+To project the country's power across the waves, the Spanish navy has heavily focused itself on building a grand armada. Through investing heavily in the modernisation of its existing dockyards, improving the quality of its marine forces, and constructing new naval production facilities the Spanish navy has managed to effectively reinvent itself.
+Regent Assassinated!
+Spain's regent has been murdered, causing disarray in the Kingdom and further complicating the Spanish succession.
+French Assistance
+[NFA.GetNameDefCap] has sent military advisors to the Kingdom of Spain.
+Entente Advisors
+The Entente has sent advisors to Spain to provide aid across a multitude of fields, with hopes that a strong Spain will be mutually beneficial for all parties involved.
+Mediterranean Allies
+Spain has sought strong alliances and deep trade ties with its allies in the Mediterranean, with hopes that this will led to shared prosperity
+Mitteleuropean Trade
+Trade with Mitteleuropa has greatly benefited the Spanish economy. Mitteleuropa is clearly the future of Europe, and what a rich future it seems to be.
+Splendid Isolation
+When presented with the option to get involved in the conflicts of the world, Spain has chosen neutrality with the hopes of a renewed period of peace and prosperity.
+Unofficial Intervention
+Despite being officially neutral, the Spanish state is providing unofficial support to volunteer organisations which wish to be involved in the world's conflicts.
+Influx of Refugees
+Many choosing to escape the conflict in Europe have chosen Spain as their place of refuge, and the Spanish state has been quick to welcome them, provided they make themselves useful.
+Putting the Refugees to Work
+The Spanish state has begun recruitment campaigned targeted at the influx of refugees the country received following the outbreak of war in Europe, putting many to work in factories or as part of the nation's military.
+Gibraltar Lease Payment
+In exchange for the temporary lease of Gibraltar, the German government is paying a small stipend to Spain.
+Effects of Black Monday
+Spain, as a close partner of the German Empire, has experienced a particularly acute economic downturn. Such a crisis is sure to worsen Spanish political turmoil.
+Civil War Devastation
+Spain has turned into a wasteland after such a horrific civil war. It is time to rebuild.
+Recovering Economy
+With our recent political turmoil handled, it is time to recover from the economic shocks that helped cause our troubles in the first place once and for all!
+Spanish Economic Miracle
+Spain is ready for a new era of economic growth and prosperity. Our past troubles need not be remembered any longer. Glory to Spain!
+Healing Old Wounds
+Rebuilding Spain
+The civil war has devastated Spain, but from the ashes the nation may be able to rebuild itself once again.
+Real Academia
+The Royal Academies are the highest forms of education available in Spain, and further government funding has allowed their education facilities to expand.
+Instituto Nacional de Industria
+The Instituto Nacional de Industria is a state owned company with the aim to aid reconstruction efforts and reorganise the economy to vitalise economic growth.
+Modern Agriculture
+Through the import of mechanised farming equipment agricultural output has been able to greatly increase, and with less workers required in the fields many men have become free to take up other lines of employment.
+Catholic Trade Unions
+With many trade unions having been banned as a result of their support of the socialists in the civil war, government sanctioned Catholic trade unions have had the opportunity to establish themselves in their place.
+Spanish Civil War Fervour: [fervor_text]§W\n[SPA_SPR_SWF_fervor_fast_modifier][SPA_SPR_SWF_fervor_combat_modifier][SPA_SPR_SWF_fervor_dig_modifier]§!
+The Spanish Civil War is a conflict caused by deep economic and societal problems, the slow decline of Spain as a world power during the last 2 centuries, and the failure to keep up with the rest of the world in terms of progress.\nWhat the root causes of those problems are is what Spaniards disagree on, however, and the violence has been escalating for years culminating in this war of extremes against each other, resulting in an almost religious devotion to \
+$SPA_SPR_SWF_fervor_fast_modifier_text_last$\n
+$MODIFIER_ARMY_ORG_FACTOR$: [?THIS.fervor_org_modifier|=%+]\n$MODIFIER_ARMY_SPEED_FACTOR$: [?THIS.fervor_fast_modifier|=%+]\n$MODIFIER_ARMY_ORG_REGAIN$: [?THIS.fervor_fast_modifier|=%+]
+$SPA_SPR_SWF_fervor_combat_modifier_text_last$\n
+$MODIFIERS_ARMY_ATTACK_FACTOR$: [?THIS.fervor_combat_modifier|=%+]\n$MODIFIERS_ARMY_DEFENCE_FACTOR$: [?THIS.fervor_combat_modifier|=%+]\n$MODIFIER_LAND_REINFORCE_RATE$: [?THIS.fervor_reinforce_modifier|=%+]
+$MODIFIER_MAX_DIG_IN_FACTOR$: [?THIS.fervor_dig_modifier|=%+]\n$MODIFIER_DIG_IN_SPEED_FACTOR$: [?THIS.fervor_dig_modifier|=%+]
+§gNo Fervour§!
+§O[?fervor_level|%] (Waning)§!
+§R[?fervor_level|%] (Low)§!
+§G[?fervor_level|%] (High)§!
+\n§gIf fervour is high troops will fight above and beyond their normal capabilities. But if it's low, they'll be more prone to give up and refuse orders.§!
+£pol_violence Fervour effects
+£pol_violence Fervour effects
+£pol_violence Fervour effects
+Supported the CNT-FAI
+Gave Refuge to the CNT-FAI
+Refused the CNT-FAI Refuge
+Opposes the CNT-FAI
+Opposes the Carlists
+Opposes Our Side
+Anarchist Resistance: $VALUE|=-%0$
+Spain has leased Gibraltar to Germany
+The Spanish Civil War has ended\n
+We have claimed the Borbón Throne
+Carlists will be banned from §Y[SPA.GetNameDef]§!\n
+An attempt will be made to arrest §YDuke Javier§! and his immediate followers\n
+§YCNT-FAI§! will be banned from [SPA.GetNameDef]\n
+An attempt will be made to arrest the leaders of the §YCNT-FAI§!\n
+Use force to disperse §YCNT-FAI§! supporters and keep them from organising\n
+§YCNT-FAI§! will be allowed to operate within [SPA.GetNameDef]\n
+Elections will soon be held, disallowing Carlist or socialist candidates\n
+The elections will be §Rcancelled§!\n
+The chances of a fatal attack against Crown Prince Juan will decrease.
+§CWe must be careful with our approach in 1936, should something potentially troubling happen...§!
+§oAlfonso's time on the throne is quickly reaching its conclusion, it may finally be time to start laying the groundwork for a new regime instead...§!
+§CIt seems our efforts will have to be diverted to handling Black Monday...§!
+§COn the start the of the Civil War:§!
+\n§CThis focus will provide a different National Spirit depending on if §YGrand Navy§! or §YDefend the Coast§! was taken.§!
+\n§CThis focus will provide a different National Spirit depending on if §YAir Supremacy§! or §YArmy Air Support§! was taken.§!
+\n§CThe foreign policy national focus tree will differ depending on if Spain chose to join the §YEntente§! or the §YReichspakt§!.§!
+§CWith Jaime as King of Spain, we have unlocked focuses to claim the Borbón Throne in France!§!
+§CJuan de Borbón will be coronated King of Spain and known by his regnal name, Juan III!§!
+§CIf we join the Entente, we will give up all claims to the Borbón Throne.§!
+§CThe Kingdom of France will be restored as a subject of our nation, with the two realms being united in a personal union led by our King.§!
+If §Y[171.GetName]§! is controlled, this focus will have the following effect:
+§CCombines all previous economic national spirits into a single one with effect:§!
+§CCombines previous army national spirits into a single one with effect:§!
+§YOnce the Weltkrieg has ended, this influx of refugees will come to an end.§!
+§CThe planes we will get will depend on whether we completed the §YAir Supremacy§! focus or the §YArmy Air Support§! focus.§!
+§CThe size and funds of our temporary Spanish Civil War Military Industrial Organisation will be transferred to our chosen firm.§!
+§R§Y[SPK.GetName]§! may be dragged into either the §YEntente§! or §YReichspakt§!!§!
+Strengthen the Kingdom
+The Kingdom of Spain is in dire straits, and many believe our nation will soon descend into civil war. We must consolidate our position and endeavour to thwart impending disaster.
+Focus on the Economy
+Spain faces massive unemployment and economic hardship. Until we address these issues, the people will continue to be restless and receptive to revolutionary ideas. To prevent civil war, we should implement comprehensive economic reform.
+New Construction
+Economic revitalisation necessitates the construction of new infrastructure and industry alike. By providing jobs to the jobless, perhaps we can distract their political frustrations.
+New Factories
+While state-sponsored factories are never the most efficient, this will be a way for us to get the people working... and for more trade to flow into Spain. Everyone will benefit!
+Jobs for the People
+There is so much to be done, but already we have put a great portion of the unemployed back to work. We need to spread the word to the people and reassure them that things are not as dire as they seem. If they only give the kingdom a chance, and time to rebuild, we will prove to them they have made the right choice.
+Repurpose Steel Mills
+Steel mills employ many in our nation and make up a vital part of our economy, however desperate times such as these call for desperate measures. Restructuring a few of the steel mills in southern Spain into more generalised factories may be enough to give us the edge if the ongoing tensions bubble over into full blown conflict, even if it may permanently harm the region's steel industry.
+Relocate Industry to the South
+If things in Spain do truly escalate into civil war, our government stands little chance of holding much north or east of Madrid. It has therefore been proposed that we preemptively move as much industry as we can to Seville, due to it being one of the largest urban areas in the nation and an area that will hopefully be far from the frontlines.
+Invest in Galicia
+With the situation turning dire, it seems time to already prepare for the inevitable. Galicia's untapped tungsten reserves are plentiful, and is likely to be isolated from any potential conflict within the nation. By focusing on establishing mines to extract this tungsten, vital northern munition factories will be much less restricted by resource constraints.
+Focus on the Military
+The civil war is likely to come, no matter what we do. While it would still be best if we found another way, we must also prepare for the worst - and that means bolstering our military for the coming battles.
+Increase Arms Production
+The economy will need to take a back seat to new factories which can produce bombs and guns. These we will need first - the rest can come later.
+Review Our Leadership
+Some might call it a 'purge', but it's very simple - we need to look to the officers who lead our forces, and ensure that those who remain in the higher positions are not secretly loyal to the Carlists or the anarcho-syndicalists. Those who remain must come together and talk of military planning. Let us ensure we have every scenario accounted for before the firing begins.
+Fortify Madrid
+Our capital, here in the heart of Spain, is also our weakest link. It can easily be surrounded, and our enemies know that capturing the Royal Family would ensure we instantly lay down our arms. We cannot allow this to happen, even if it means turning beautiful Madrid into a veritable fortress.
+Recall the Ejército de África
+The Ejército de África, the Army of Africa, were fundamental to our success in crushing the native rebellion that rose up in the Rif. It seems unlikely that we will face further rebellion in the region in the short term, and so we are presented with the opportunity to recall General Franco's troops back to Cádiz to prepare for any insurrection on the mainland instead.
+German Material Support
+While the Spanish army may lack in tank divisions, our friends in Berlin lead the world in tank production and development. By petitioning the Germans to provide direct material support in the form of armoured vehicles, we stand to have a significant technological advantage over the rebels, which will certainly aid us in restoring order in the realm.
+Destabilise the Kingdom
+It is clear that we will soon see the end of Gil-Robles's regime and the ousting of his puppet king Alfonso. Instead of attempting to prop up the government any longer, attempts should be made to strengthen those who wish to bring an end to the old order and bring in a new age of Spanish prosperity.
+Shatter Iberia's Chains
+Capitalism has clearly failed the nation of Spain, and the people of Iberia as a whole. Through supporting the cause of CNT-FAI we may be able to eliminate the evils of capitalism in our nation and bring about a new economic system that will directly benefit the common people of the realm.
+Comissió d'Indústries de Guerra
+Comissió d'Indústries de Guerra, the War Industries Commission, has been established in Catalonia with the stated purpose of ensuring the country is ready for war. Secretly however, the CIG's real purpose is to militarise the areas of Spain most loyal to CNT-FAI in order to arm these revolutionaries in the event of a civil war.
+The Roads of War
+Even during the times of Roman Hispania roads were vital not only to daily life but also to warfare. Without a proper network of roads, and in the modern age railways, supplying and repositioning troops is near impossible. By improving the roads of eastern Spain, we can ensure that any uprising can quickly organise itself into a proper frontline.
+Raid Guardia Civil's Armouries
+For a revolution to be successful, its revolutionaries must be armed to oppose those who wish to suppress them. By conducting raids on the armouries of the Guardia Civil, the revolutionaries of the CNT-FAI will be able to both arm themselves and help deprive the Kingdom's armies of combat equipment.
+Expand Zaragozan Steelworks
+Zaragoza is home to some of the largest steelworks in the entire nation, and as a result it is also home to some of the strongest unions in all of Spain. As the city will certainly fall under the control of Syndicalist rebels, investing in an expansion of the steelworks there will greatly aid their potential industrial capacity.
+Sabotage the Factories of Madrid
+Despite Madrid being the heart of the Kingdom of Spain, many within the city also wish to see the end of the regime. With the aid of factory workers loyal to the socialist cause, we can organise a coordinated campaign of industrial sabotage as a prelude to the revolutionary uprising, preventing the use of any of Madrid's factories by forces loyal to the King.
+The Righteous Cause of the Carlists
+The failure of the Second Republic showed the peoples of Spain that the country will fall apart without the guidance of a strong monarch. These past four years of turmoil have also shown us that Alfonso's incompetence would result in him failing to get people drunk in a brewery, let alone guide them through crisis. We should instead offer our backing to the Carlist claimant to the throne, and hope that a more legitimate Spanish King will lead our nation forward.
+Industrial Expansions in Northern Spain
+For centuries the stronghold of the Carlist movement has been in the north of Spain. In the event of a civil war, there is no doubt that these territories will remain loyal to the Carlist cause, and any industrial investments in these regions are bound to end up in the hands of their troops.
+The Stronghold of Burgos
+Burgos has been firmly established as the metaphorical stronghold of the Carlist movement, with the government having already lost de facto control of the city. If the Carlist movement is to succeed, Burgos must be transformed into a much less metaphorical stronghold. Defensive positions should be established throughout the city, and even the old castle can be home to anti-air batteries to ensure Javier's ultimate triumph.
+The Proclamation of the True King
+No matter who or what they support, it is always painful for the blood of Spaniards to be spilled. While it seems unlikely at this stage that Javier can be peacefully restored to the throne, a proclamation from the true king declaring the end of Alfonso's reign and urging a peaceful transfer of power may convince some Alfonsists to lay down their arms and help save some Spanish lives from being needlessly lost.
+Aid From Our Iberian Brothers
+No matter how much we fight or bicker, the peoples of Spain and Portugal are truly brothers and sisters. While the Portuguese government does not yet wish to officially recognise Javier as the king of Spain, those in charge of the Portuguese regime and many subjects of its realm wish to aid the rightful Carlist cause. If we petition our Portuguese friends for support, there is no doubt that they will provide to us as much as they possibly can.
+Consolidate Spain
+Now is the time to look across the country and see what must be done to pull it together, and to heal the rifts which have formed since the end of the Second Republic.
+Future of the Nation
+Our King Alfonso is in a coma, and it seems likely his time will soon be at its end. A regent is not enough - we must decide who is to lead Spain in the years to come.
+Arrest the Malcontents
+We will never have true peace while radicals are free to foment discord. While they will certainly do their best to rise up, their time is done and they know it. We must capture the worst of the leaders and put them away - this is the path to lasting unity for Spain.
+Absorb the Carlists
+Though misguided in their struggle against us, the Carlists have far more in common with us than the anarchists. With our shared beliefs in God, Family and Country, it will not be difficult to ally them and bring peace to this troubled land.
+A National Movement
+We must aim to be a movement above petty party politics that any true Spaniard can rally behind. The Liberals, Marxists and Freemasons dare to threaten our great nation but they shall never succeed, for we have our Catholic faith beside us and once Spain has been united, the world will know that we are whole and not to be trifled with.
+Restore the Rights of the Spanish
+Since Primo de Rivera's coup in 1923, the Spanish Constitution has remained suspended, which evidently has not mended the rifts in Spanish society as shown by the outbreak of civil war. Therefore the Spanish Constitution will be restored and the fundamental rights of the Spanish will be recognised, so long as the exercise of these rights does not go against the spiritual, national and social unity of Spain.
+Rally the JAN
+The Juventudes de Acción Nacional are the youth wing of our party and have captured the boundless energy hidden within the Spanish youth, which is far different to the desolate and enervating scepticism of our defeatists and intellectuals. The JAN faithfully came to the aid of Spain during the civil war by recruiting many volunteers for our holy cause. Now that the war is over, the JAN should be expanded and provide a home for all of our society's young.
+The New Spanish Man
+The anarchic generation of 98 and their ideas have created a sad, harsh and vinegary Spanish youth. We shall forge new men: an authentic, happy, optimistic, Spanish youth unlike the current that is riddled with defeatism and lacking in vision.
+Organic Democracy
+Instead of petty things like liberal principles, parliamentarism, political parties, and universal suffrage, Spanish Democracy will be based on natural social institutions such as the Family or Municipality, ensuring that Party Politics will cease to corrupt the Spanish people. A bicameral system will be created: Legislative power will be exercised by a Congress elected by universal suffrage and by a Senate representing organised social interests.
+National Catholicism
+The rules and teachings of the Catholic church will be an integral part of Spanish Law. The church will have pride of place in making the laws while [SPK.getleader] will make sure that the church is protected.
+A Corporate State
+Society will be centred around the natural bodies of association: the family, where one is born; the municipality, where one lives; the union, where one works. The exercise of any individual right is conditioned to the decisions made by these traditional social corporations while issues relating to religion will be handled by ecclesiastical organisations.
+Fuero del Trabajo
+A Charter of Labour will be drafted to resolve the issues caused by labour disputes and revolutionary unions. It's provisions will include the prohibition of strikes, the regulation of working hours and of rest, the creation of the Magistracy of Labour and the creation of the Spanish Trade Union Organisation as a sole trade union, which will group employers and workers equally, both subordinated to the decisions of the State.
+Municipal Reorganisation
+Carrying on from the Municipal Statute of 1924, José Calvo Sotelo has proposed further reorganisation of municipalities in order to finally regenerate municipal and political life and vanquish the plague of caciquismo. Provincial and local authorities will be replaced by trusted men to ensure that no forms of corruption will exist.
+Supremacy of the Directorate
+Our esteemed Caudillo, Mola, shall carry on the legacy of Primo de Rivera and cure the many ills that afflict the Spanish nation. We are entrusted with a great mission: to create a new spirit, found a new State, a new Nation purged of weakness. Duties and sacrifices will be imposed no matter the cost.
+Incorporate National Syndicalist Principles
+The JONS have many admirable traits, such as their reverence for violence or their strong, Catholic character. Their fanaticism has impressed Mola and already talks have begun to incorporate the JONS into the UPE. Under our guidance, their National Syndicalist programme can become a cornerstone of the Spanish nation and serve to instil a purpose in every part of society,
+Corporatise the Cortes
+Following a corporate model, the Cortes will be closed, with the National Consultative Assembly standing in their place. A fruitful evolutionary process will begin that will allow the transformation of national public life, creating a corporate and authoritarian State. The parliamentary system in its current form is a failure, and so a Supreme National Assembly is required to build a New Spain.
+National Revolution
+The Patriotic Union will bring forth a new order, sweeping away any vestiges of previous failed regimes. To implement it necessitates a national revolution with direct, fiery and combative action. Life is a militia and must be lived with a pure spirit of service and sacrifice in order to regenerate the damaged Spanish nation.
+Rebuilding the Economy
+The economy of Spain has been completely destroyed by our recent troubles. Now that the situation has stabilised, it is now time for us to rebuild.
+Expand the Railroads
+Railroads have been one of the main sources of infrastructure for Spain since their introduction in the last century. As we rebuild the economy, we should rebuild and modernise the Spanish railroads.
+Extract Natural Resources
+Spain has an abundance of minerals that can be exploited. We should survey the land for new deposits and export these minerals abroad. Of particular interest is Galician tungsten. There is great potential to be found there.
+Provincial Rebuilding
+We should look at rebuilding the various provinces and let their economy improve and recover.
+Military Investments
+We should have military companies invest in the various provinces. Not only will this help provide jobs for the King's subjects but it will also help the military production for the future wars.
+Commercial Subsidies
+The many private companies that are at the heart of the Spanish economy have been torn apart and left in ruins following both Black Monday and the Civil War. By providing government subsidies to these businesses we can ensure they get back on their feet and bring back the jobs our people so desperately need
+Electrification Programme
+In order to help improve the economy we should look at electrify the country of Spain. This shall have over time beneficial impacts for the Spanish economy.
+Ley General de Educación
+In order to improve the quality of education for Spaniards across the country, a new law has been passed. The law modernises the education system, as well as making attendance mandatory for all Spaniards for at least 14 years. This will vastly improve the quality of education in Spain.
+Expand Real Academia
+The Royal Academies are the highest education schools within Spain. Many often specialise in one particular field or connected fields, such as science, medicine, history, language and so on. We should make sure that they get the funding needed to provide education for Spain.
+Industrial Nationalisation
+While our government has often supported free market industrial endeavours, the nationalisation of key industry during this turbulent time of reconstruction may significantly aid the rebuilding process and should be considered. The question of if and how we should return the industry to the original owners after this period of nationalisation is simply one for a future time, preferably far enough that it no longer matters.
+Instituto Nacional de Industria
+The Instituto Nacional de Industria or National Institute of Industry, is a state run corporation created to help develop the Spanish economy and improve the state's self-sufficiency.
+Modern Agriculture
+The many small farm estates of the countryside have struggled during the recent troubles we have faced, as they have been unable to adopt new agricultural technologies and methods of cultivation. We should subsidise the import of modern agricultural equipment to jump start this process.
+Expand the Arms Industry
+War will likely come to Spain in the future. The godless Commune of France sits just across the Pyrenees after all. Thus in order to prepare for that future war, we should build new military factories.
+Labour Charter
+The state has announced the creation of a Labour Charter. This charter helps protect the realm's subjects from godless Syndicalism by providing a conservative welfare programme and recognising some worker's rights, nipping the growth of further Syndicalism in the bud.
+Catholic Trade Unions
+Trade unions are unfortunately rather important in the modern economy, and we cannot simply get rid of them completely. However instead of alienating them we should instead promote Catholic trade unions as an alternative. This will help give us greater control over the working classes as well as help deradicalise the unions that sided with the godless syndicalists.
+Spanish Miracle
+At long last the Spanish economy has been rebuilt. Throughout Spain, the people are hard at work while also enjoying the newfound economic prosperity throughout the realm.
+Rebuild Our National Command
+Our command structures have been devastated. Now is the time to rebuild them anew, to cast aside old and outdated ways of thinking and to embrace the new.
+Reorganise the Infantry
+While armoured warfare has its place, the backbone of every major army will always remain the humble footsoldier. Our infantry brigades will be reorganised and modernised into an elite fighting force, able to see off anyone who dares to challenge it.
+Preservation of Order
+A loyal army is fundamental to maintaining order in the state. Without one, anarchy and chaos is sure to prevail against order, and so we must therefore take steps to ensure and encourage loyalty in the army.
+Modern Guns for Modern Soldiers
+The world is quickly moving past the age of bolt action and small capacity semi-automatic rifles, and yet many of our frontline infantry are still equipped with this old fashioned equipment. If we are to be victorious we must focus on modernising and updating our infantry equipment and artillery, lest we wish for our army to languish in the past forever.
+Guardia Civil
+The Guardia Civil is the gendarme of the Spanish government and it has a military role in protecting the country. We should strengthen the Guardia Civil and provide them with better military training to be one of the backbones of the new Spanish army.
+Emergency Armament Production
+In times of peace we can afford to enforce safety standards and protections in our factories, but we no longer have this luxury. While some of those working in our factories may be injured, or potentially give their lives in service of the cause, it is a sacrifice we have to endure.
+Defenders of the Realm
+The battles that decide our future will not be fought in the open fields, but in the centre of great cities and sprawling urban landscapes. In order to defend our realm, our soldiers must learn how to fight in the streets, across rooftops, and even inside occupied homes.
+Adaptive Fortifications
+The opportunity to build grand protective fortifications is not one often granted to us, instead our soldiers must learn how to quickly produce more adaptive forms of fortifications to protect themselves.
+Militarise the Railways
+Supply lines are the arteries of an army, and trains their blood. In order to properly supply our troops, we must take steps to militarise the existing rail network and ensure it is optimised for war.
+Army of Manoeuvre
+It is no longer the Weltkrieg, wars cannot be easily won by simply having a large cannon. Motorised divisions, tank brigades, and fast moving infantry are key to victory, and so they will be key to the armies of Spain.
+Spanish Auto Industry
+We should look at modernising the Automotive industry of the Spanish Army. Mechanised warfare will require better trucks and automobiles, which will help in getting supplies to our troops as well as increasing the mobility of our soldiers.
+Armoured Warfare Tactics
+The Weltkrieg showed to everybody the potential use of tanks. Combined with motorised or mechanised support, tanks can excel at the purpose they were designed to achieve; to catch the enemy by surprise. Unlike in the Weltkrieg, where tanks were massive and vulnerable targets, a much more mobile approach is needed.
+Navarran Lancers
+During the first Carlist War, the lancers from Navarra were some of the best cavalry troops that the armies had. It therefore seems fitting to revive this legacy with our tank brigades. They shall be our elite troops, and the tip of the spear of the Spanish Army.
+Request German Tank Shipments
+If we are to win this ongoing war, we will need as many tanks as possible deployed to the battlefield. While they may not be the highest quality, the Germans still have a large amount of old tanks rusting away in their stockpiles. By petitioning Berlin, we may be able to quickly get a sizable amount of these tanks delivered, allowing us to quickly send them to the frontlines.
+A Modern Army
+It was not long ago that our army was hopelessly outdated, barely advancing since the Napoleonic Wars. Now with our recent reforms and technological advancements the Spanish army can no longer be discounted as an outdated relic, being now a modern army that may soon become the premier army of Europe.
+Armada Española
+During the Spanish golden age, the Spanish Armada was the greatest fleet in the world. Its ship sailed the oceans and we ruled the waves. We should modernise our fleet and restore our navy to its former glory.
+Dirección General de la Marina Mercante
+The Spanish Navy was famous for its merchants, Spanish galleons filled with gold and other goods from the Americas would flow back daily to the mainland. We should rekindle our mercantile spirit and build a modern merchant marine for the Spanish Navy.
+Training a New Generation of Admirals
+In order to rebuild our great navy, efforts must be made to modernise our admiralty. Our admirals, both new and old, must be taught modern doctrines for a modern age.
+Infantería de Marina
+The Infantería de Marina is the marine force of the Spanish Navy and the oldest marine corp in the world, having been founded in 1537 by Charles I of Spain. While the Infantería de Marina has slowly lost most of its prestige as the years have gone by, under [SPA.GetLeader] things will be different. Our marines shall be once again restored to a status truly befitting their legacy.
+The New Armada
+The new Spanish Navy will be a grand navy, able to project our power across all of the world's oceans. We shall rebuild the Spanish Navy to the power of its heights, soon Spain shall rule the waves once again.
+Modern Galleons
+The great galleons of Spain were the strongest ships of their age. Likewise as we build up and modernise our navy we should build modern battleships and dreadnoughts to secure the seas once again.
+Dedicated Armoured Cruisers
+While dreadnoughts are the pride of the Spanish Navy, armoured cruisers will also serve a vital role as escorts for our navy.
+Guardians of the Spanish Coast
+The Spanish Navy shall focus on defending Spain itself. While it shall not be as large as some want, it will be respected and it shall defend Spain from all enemies.
+Establish a Dedicated Coast Guard
+Currently Spain lacks any form of dedicated coast guard force, with most of the duties being handled by the Guardia Civil until recently. If we are to fully protect the Spanish coast from any possible threats, it would be imperative for us to establish a dedicated coast guard unit to handle these duties instead.
+Protect Our Colonies
+The overseas colonies that we still hold are of vital interest to Spain and we should use our navy to protect the coast of our colonies from all attackers. However in case that is not viable, several well placed coastal forts and batteries shall do the job.
+Light Cruiser Support
+The use of smaller, more lightly armoured scout ships will allow us to disperse forces across a wide area in order to scout our entire coastline, ensuring we are able to rapidly respond to enemy incursions.
+Masters of the Sea
+The Spanish Navy has been successfully reformed and is now one of the greatest navies in the world. We once again assume our rightful title of Masters of the Sea.
+Academia Básica del Aire
+Modern wars are fought not only on the land and across the seas, but also in the skies. Modern air doctrines must be instilled into our pilots, and state of the art planes must be built if we expect to be victorious in our battles.
+Nationalise Civilian Aerodromes
+The infrastructure needed to support a large air force does not need to be built completely from the ground up. Across the country there are many civilian aerodromes which we would be able to nationalise and expand into proper military airports, saving us significant time in establishing new airfields for our pilots to use.
+Training New Pilots
+Most of our current air force is made up of eager volunteers and former pilots of civilian aircraft, with little to no knowledge of military aviation. It is therefore imperative that these recruits receive proper training before they are deployed in the skies, as their experience will hopefully give us the edge we need over our rivals.
+Support the Aviation Industry
+Spanish aircraft manufacturers have been stunted by the turbulence that has plagued the country for several years. Ongoing troubles in the world have showed the need for modern aircraft companies, and so support should be provided to several Spanish companies that seek to modernise our aviation industry.
+Air Supremacy
+The skies must be free from enemies and our armies unmolested by hostile aircraft. Our air force should primarily be focused on establishing and maintaining control of the air.
+Fighter Effort
+Fighters are the backbone of any air force, allowing us to express our supremacy over the sky and allow the rest of our air force to flourish. To ensure that we are able to do so, we must focus on developing new fighter models to outperform our enemies in the air.
+Purchase Foreign Planes
+Our country is not really in the position to manufacture an air force. For this reason, we must purchase old planes from abroad to help kickstart the Spanish Air Force. The air war is likely to become of greater importance as the Weltkrieg had suggested decades ago.
+Army Air Support
+The easiest enemy to fight is one who has already been killed by a bombing run before the battle begins, and so our air force should be focused on producing planes focused on battlefield support missions and bombing efforts to support our troops in their endeavours.
+Bomber Effort
+To truly assist the army, our air force must be capable of destroying fortified positions and disrupting enemy infrastructure. To accomplish this, we should focus on the development of new tactical and strategic bombers.
+Eyes of Heaven
+Radar is a promising new technology which, with further development could provide a wealth of information about enemy tactics and positions and reveal the course of enemy aircraft. Several pilots have begun calling radar the Eyes of Heaven for how much they are able to reveal and see.
+Desperta Ferro!
+By the end of the Middle Ages, a famous company of Aragonese mercenaries, the Almogávares, made their war cry “Awake the Iron” famous across the Mediterranean. That war cry will honour a new unit of paratroopers; quick infantry, transported by planes and able to deploy behind enemy lines.
+Colonial Airports
+We should expand our airports within our colonies. This shall allow the air force to quickly go from the mainland to our overseas colonies to defend them from anyone who would seek to separate us from our possessions.
+Champions of the Skies
+The air force is no longer a rag-tag collection of volunteers, but a fully functioning organ of our military. Let us rule the skies of Spain and beyond!
+Our Place in the World
+With all the troubles which have afflicted the kingdom, we have come to be treated as a second-class country within Europe - a nation to be ignored, or even one which might be seen as an easy target. Now that we have reasserted our position, it is time to restore our contact with the rest of the world, and to let them know our strength has returned.
+Guard the Borders
+The many paths over the Pyrenees are our only weakness. We must fortify the border, to ensure no-one pushes into Spanish territory while we can yet defend it.
+Iberian Friendship
+For centuries the fate of Spain and Portugal have been closely intertwined. Now that we have both united together in the common Entente cause, we should use it as an opportunity to expand trade with our dear neighbour.
+Aiding the House of Savoy
+Italy has suffered greatly these past few decades, but in the House of Savoy there is hope for it to recover and restore itself to its former greatness. We should seek to trade with our newfound allies, and pledge to support the restoration of their great legacy.
+Aiding the Sicilian Borbóns
+Italy has suffered greatly these past few decades, but in the Sicilian branch of the House of Borbón there is hope for it to recover and restore itself to its former greatness. We should seek to trade with our newfound allies, and pledge to support the restoration of their great legacy.
+French Advisors
+The years France has spent in exile in Algeria has led to the development of advanced amphibious assault techniques, all in service of reclaiming the mainland. We should ask our French friends to share their knowledge with us, so we too can aid their plans.
+Canadian Advisors
+Canada has been the heart of the British Empire in terms of industrial development and military advancement since the loss of the Home Isles. We should seek support from their IEDC and ISAC to aid Spain in our own developments in these fields.
+Request German Equipment
+Ever since the Weltkrieg it has been said that German manufactured armaments are unmatched in terms of quality. With our ascension to the Reichspakt, we have the perfect opportunity to request some from our new ally to see for ourselves.
+German Mining Projects
+The German war machine never ceases its thirst for more resources to produce further armaments. Germany has therefore proposed allowing German led mining projects in our country, to aid in our resource extraction attempts and to hopefully be a mutually beneficial arrangement for us both.
+Renewed German Trade
+Trade with Germany has greatly diminished since the turmoil of Black Monday hit both our countries. Now that we are properly aligned with the Germans, it is time to renew trade between us, which will greatly aid our country's economic growth.
+Expanded Mitteleuropean Trade
+Being part of Mitteleuropa means not just access to the German markets, but to all members of the union. Being able to export Spanish goods to large swathes of Europe will greatly stimulate our country's economy.
+We Stand Alone
+Truly, Spain has no interest in joining in the larger conflicts of the world. We have seen enough troubles. For now, we rebuild and look to our own defence.
+Lease Gibraltar to Germany
+While we may officially be neutral in the ongoing conflict between Germany and its Syndicalist rivals, it does not mean we do not wish for a German victory over the godless socialists. The Strait of Gibraltar is vital to controlling the Mediterranean during this war, and by temporarily leasing Gibraltar to the Germans we can help ensure their control over the sea while netting ourselves a tidy sum in the process.
+The Bounties of Neutrality
+War is good for business, and even better when you're not involved in it. By sitting on the sidelines of any ongoing conflicts in the world, we are able to conduct trade regardless of allegiances and thus we stand to greatly profit from these conflicts.
+Unofficial Intervention
+Just because we are officially neutral, it does not mean that our private citizens must also be neutral. Many in our country still wish to fight in conflicts overseas, and it would be wrong to stop them from doing so. It is simply coincidental that many of these volunteers happen to be part of our military and are armed with the latest equipment of our armed forces.
+Influx of Refugees
+Being a neutral country in Europe during this great war has resulted in an influx of refugees fleeing their homes and arriving in Spain to be free of conflict. While we of course will not allow unchecked migration into our country, accepting and assimilating these refugees may prove useful in the long run.
+Putting the Refugees to Work
+The Spanish state is not a charity organisation, if the refugees we have received wish to stay they must make themselves useful. Many of these refugees have industrial backgrounds and will fit perfectly into the workforces of our factories, and for the rest the armed forces always needs more men to ensure the state's protection.
+Claim the Borbón Throne
+King Jaime I is, by rights, the senior legitimate male heir of the House of Capet and thus heir to the French throne. Indeed, there are many Frenchmen who consider him the de jure King of France. It is time to see that claim enforced and see all of France and Spain united under a single banner once again.
+The French Coronation
+Now that France has been liberated from the godless Syndicalists by our brave troops, no one can doubt that Jaime de Borbón is the rightful King of the French. Jaime will be anointed and coronated at Notre-Dame de Reims, as is tradition, and the two nations will be united together under our righteous king.
+Under Alfonso's reign, the country has been in a constant state of decline. Despite Spain's neutrality in the Weltkrieg, the damage done by the fall of the United Kingdom and France to syndicalism was irreparable, putting Spain firmly into Germany's economic sphere. With Alfonso's influence declining, the elections of 1931 saw the Second Spanish Republic proclaimed, exiling Alfonso. However, General Sanjurjo's coup restored the Kingdom. The public outcry towards this action helped fuel the Carlist Movement and the CNT-FAI's rise. With a society divided, Spain enters 1936 in a rather precarious position, where anything could happen.
+GFX_SPA_intro
+The Kingdom of Spain
+The Kingdom of Spain: Once the greatest of the Colonial Empires, she saw all of her remaining overseas colonies lost after a swift war against the USA in 1898. After this, separatist movements in both the Basque country and Catalonia arose, and both the Church and a radical worker's movement, the CNT, are interfering in her internal politics. Spain's populace has become deeply divided.\n\nAfter taking his place on the throne in 1902, King Alfonso XIII seemed keen on regaining Spain's former status as a colonial power by intervening in Morocco. The intervention lasted for a whole decade, and the outcome, while a victory, was not exactly in favour for Spain: her Moroccan possessions remain a source of permanent unrest. Spain turned in on herself afterwards, remaining neutral during the Weltkrieg, all while the populace's faith in King Alfonso faded.\n\nAs a result of the General Elections of 1931, the Second Spanish Republic was proclaimed, and Alfonso, accepting the will of his people, went into exile. However, the Republic lasted only a short while. The Kingdom was restored by a coup d'état lead by General Sanjurjo just a year later. Still, the memories of the short-lived failure that was the Spanish Republic fuel the regime's opponents left and right.\n\nTo date, there remain deep divisions within Spanish society. On the one hand, the resurgent Carlist Movement, headed by Alfonso Carlos, aims to re-establish the 'True Dynasty' and recreate an integralist Christian monarchy, and on the other, the anarcho-syndicalist CNT-FAI seeks the abolition of the Spanish state altogether, and to replace it with a voluntary federation of communes and economic collectives. If the political split is not mended, Spain might even see a Civil War.
+§MJuan - Acción Nacional Radical / Moderate§! ($authoritarian_democrat_coloured$ / $social_conservative_coloured$)\n£white_dot During the Civil War, take the necessary decisions to stop Juan from getting assassinated.\n£white_dot Once the Civil War has ended, choose to keep the monarchy.\n£white_dot At the end of the political tree, the §cModerate Wing of Acción Nacional§! may be brought into power if desired.\n\n§MJaime - Acción Nacional Radical / Moderate§! ($authoritarian_democrat_coloured$ / $social_conservative_coloured$)\n£white_dot During the Civil War, allow Juan to get assassinated.\n£white_dot In the aftermath have J.M. Gil-Robles Quiñones maintain control of the government.\n£white_dot Once the Civil War has ended, choose to keep the monarchy.\n£white_dot At the end of the political tree, the §cModerate Wing of Acción Nacional§! may be brought into power if desired.\n\n§MJaime - Unión Patriótica§! ($paternal_autocrat_coloured$)\n£white_dot Allow Juan to get assassinated, and in the aftermath, allow Emilio Mola and the military to dissolve the government.\n£white_dot Once the Civil War has ended, choose to keep the monarchy.\n\n§MRepublic - Acción Nacional Radical / Moderate§! ($authoritarian_democrat_coloured$ / $social_conservative_coloured$)\n£white_dot During the Civil War, take the necessary decisions to stop Juan from getting assassinated, or if he does, have J. M. Gil-Robles Quiñones maintain control of the government afterwards.\n£white_dot Once the Civil War has ended, choose to abolish the monarchy.\n£white_dot At the end of the political tree, the §cModerate Wing of Acción Nacional§! may be brought into power if desired.\n\n§MRepublic - Unión Patriótica§! ($paternal_autocrat_coloured$)\n£white_dot Allow Juan to get assassinated, and in the aftermath, allow Emilio Mola and the military to dissolve the government.\n£white_dot Once the Civil War has ended, choose to abolish the monarchy.
+Spain
+Spanish
+Spain
+Carlist Spain
+Spanish Republic
+the Spanish Republic
+Spanish Republic
+the Spanish Republic
+Spanish Republic
+the Spanish Republic
+Spanish Republic
+the Spanish Republic
+Spanish Republic
+the Spanish Republic
+Spanish Republic
+the Spanish Republic
+Spanish Republic
+the Spanish Republic
+Spanish Republic
+the Spanish Republic
+Spanish State
+the Spanish State
+Spanish State
+the Spanish State
+Kingdom of Spain
+the Kingdom of Spain
+Kingdom of Spain
+the Kingdom of Spain
+Kingdom of Spain
+the Kingdom of Spain
+Kingdom of Spain
+the Kingdom of Spain
+Kingdom of Spain
+the Kingdom of Spain
+Kingdom of Spain
+the Kingdom of Spain
+Kingdom of Spain
+the Kingdom of Spain
+Augusto Barcia Trelles
+§YBorn:§! §LMarch 5th, 1881, in Vegadeo, Province of Asturias, Kingdom of Spain§!
+Manuel Azaña Díaz-Gallo
+§YBorn:§! §LJanuary 10th, 1880, in Alcalá de Henares, Province of Madrid, Kingdom of Spain§!
+Niceto Alcalá-Zamora y Torres
+§YBorn:§! §LJuly 6th, 1877, in Priego de Córdoba, Province of Córdoba, Kingdom of Spain§!
+José Calvo Sotelo
+§YBorn:§! §LMay 6th, 1893, in Tui, Province of Pontevedra, Kingdom of Spain§!\n§YBackground:§! §LWhile initially starting out as a jurist, having graduated with a law degree from the University of Zaragoza and later a doctorate from Central University, José Calvo Sotelo soon shifted his focus towards heavy involvement in Spanish politics. Beginning his political career as part of the Maurism movement, he would eventually end up being briefly both a deputy and the Civil Governor of Valencia.\n\nFollowing the establishment of Primo de Rivera's dictatorship, Sotelo quickly found himself rising through the ranks through his committed support to de Rivera's leadership, eventually becoming the Minister of Finance. The collapse of Rivera's first regime led to his brief self imposed exile to Portugal, but with the swift end of the Second Republic Sotelo found himself not only back in government but in a much higher position than before.\n\nAfter the death of de Rivera many expected Sotelo to potentially succeed the late Prime Minister, but any hopes of this were quickly scuppered in the wake of his hospitalisation following an attempt on his life by a group of radical socialists aligned with the CNT. In the aftermath of his swift recovery Sotelo's position within the party remained strong, and with the government's victory in the civil war he has found himself elected as its new leader to hopefully guide Spain to a new period of prosperity and peace.§!
+§YBorn:§! §LMay 6th, 1893, in Tui, Province of Pontevedra, Kingdom of Spain§!
+José Maria Gil-Robles Quiñones
+§YBorn:§! §LNovember 27th, 1898, in Salamanca, Province of Salmanca, Kingdom of Spain§!\n§YBackground:§! §LJosé María Gil-Robles y Quiñones, a committed nationalist and militant Catholic, has risen to prominence in Spain. His firebrand speeches denouncing the Kingdom's enemies while extolling religious virtues might even appear radical to a Carlist; nonetheless, Quiñones stands defiantly at the helm of the troubled Spanish nation.§!
+§YBorn:§! §LNovember 27th, 1898, in Salamanca, Province of Salmanca, Kingdom of Spain§!
+Emilio Mola Vidal
+§YBorn:§! §LJuly 9th, 1887, in Placetas, Santa Clara Province, Captaincy General of Cuba§!\n§YBackground:§! §LThe chaos that arose after the collapse of the Spanish economy and the incapacitation of King Alfonso led to many wishing for a strong leader to guide Spain out of the chaos, and it is therefore little surprise that these conditions have facilitated the rise of Marshal Emilio Mola Vidal to power.\n\nBeing born in Spanish Cuba to a Cuban mother and a Spanish father, his family would ultimately move back to mainland Spain after the nation's defeat by American forces finalised Cuban independence. His military career for the Spanish state began at the Toledo Infantry Academy, with him ultimately distinguishing himself in Morocco and ending up one of the premier generals of de Rivera's regime and its Director-General of Security.\n\nDespite having no direct involvement in General Sanjurjo's coup which ended the Second Republic, Mola quickly found himself rewarded by the restored regime with a promotion to Field Marshal regardless. This new position has allowed Mola to command great respect within Spain's armed forces, even among those who disagree with his political stances.\n\nNow colloquially referred to as 'El Caudillo', both by his enemies and his allies alike, Mola and his cabinet make no secret of their disdain for the democratic system of the Second Spanish Republic. It is their belief that for Spain to survive, it must be led by a one party state with a strong leader to guide it forward, and only time will tell if Mola is truly that leader.§!
+§YBorn:§! §LJuly 9th, 1887, in Placetas, Santa Clara Province, Captaincy General of Cuba§!
+Camilo Alonso Vega
+§YBorn:§! §LMay 29th, 1889, in Ferrol, Province of La Coruña, Kingdom of Spain§!
+Alfonso de Borbón
+Alfonso XIII
+§YBorn:§! §LMay 17th, 1886, in the Royal Palace of Madrid, Madrid, Province of Madrid, Kingdom of Spain§!\n§YBackground:§! §LThe status of the Spanish monarchy has often been a source of great instability within the nation, and this has never been more true than under Spain's \
+Juan de Borbón
+Juan III
+§YBorn:§! §LJune 20th, 1913, in the Palace of San Ildefonso, Segovia, Province of Segovia, Kingdom of Spain§!\n§YBackground:§! §LFollowing the incapacitation of his father, Infante Juan has assumed the position of regent to attempt to steer Spain through this tumultuous time. While real power within the kingdom still remains in the hand of Prime Minister Gil-Robles, many duties still fall to Juan to carry out and it is hoped this period of regency will help the young prince rule as an effective monarch when the time ultimately comes.§!
+§YBorn:§! §LJune 20th, 1913, in the Palace of San Ildefonso, Segovia, Province of Segovia, Kingdom of Spain§!\n§YBackground:§! §LJuan of Borbón inherited a Spain divided, a Spain on the brink of the abyss. As the son and successor to the widely despised Alfonso, his reign will forever be marred by the spectre of his father, but it is Juan, not Alfonso, who must lead Spain into a better future.§!
+Jaime de Borbón
+Jaime I
+§YBorn:§! §LJune 23rd, 1908, in the Palace of San Ildefonso, Segovia, Province of Segovia, Kingdom of Spain§!\n§YBackground:§! §LJaime of Borbón, second son of King Alfonso XIII, deaf and once considered likely to renounce any claim to the throne, has been crowned King of Spain. While not lacking in mental faculties, his reputation as an invalid precedes him. This unlikely King, however, must lead Spain into its uncertain future.§!
+José Sanjurjo y Sacanell
+§YBorn:§! §LMarch 28th, 1872, in Pamplona, Province of Navarra, Kingdom of Spain§!
+Francisco Franco Bahamonde
+§YBorn:§! §LDecember 4th, 1892, in Ferrol, Province of La Coruña, Kingdom of Spain§!
+Leopoldo de Saro y Marín
+§YBorn:§! §LJanuary 11th, 1878, in Morón, Puerto Príncipe Province, Captaincy General of Cuba§!
+Emilio Barrera Luyando
+§YBorn:§! §LJanuary 17th, 1869, in Burgos, Province of Burgos, Kingdom of Spain§!
+Francisco de Paula de Borbón y de la Torre
+§YBorn:§! §LJanuary 16th, 1882, in Madrid, Province of Madrid, Kingdom of Spain§!
+Manuel Goded Llopis
+§YBorn:§! §LOctober 15th, 1882, in San Juan, Captaincy General of Puerto Rico§!
+Dámaso Berenguer y Fusté
+§YBorn:§! §LAugust 4th, 1873, in San Juan de los Remedios, Santa Clara Province, Captaincy General of Cuba§!
+Salvador Moreno Fernández
+§YBorn:§! §LOctober 20th, 1886, in Ferrol, Province of La Coruña, Kingdom of Spain§!
+Manuel Vierna Belando
+§YBorn:§! §LAugust 4th, 1884, in Ferrol, Province of La Coruña, Kingdom of Spain§!
+Juan Yagüe y Blanco
+§YBorn:§! §LNovember 9th, 1891, in San Leonardo, Province of Soria, Kingdom of Spain§!
+Luís Carrero Blanco
+§YBorn:§! §LMarch 4th, 1904, in Santoña, Province of Cantabria, Kingdom of Spain§!
+Francisco Moreno Fernández
+§YBorn:§! §LNovember 7th, 1883, in San Fernando, Province of Cádiz, Kingdom of Spain§!
+Joaquín García-Morato y Castaño
+§YBorn:§! §LMay 4th, 1904, in Melilla, Province of Málaga, Kingdom of Spain§!
+Luis Miguel Limia Ponte y Manso de Zúñiga
+§YBorn:§! §L1882, in Vitoria-Gasteiz, Province of Álava, Kingdom of Spain§!
+Enrique Cánovas Lacruz
+§YBorn:§! §LJune 29th, 1877, in La Coruña, Province of La Coruña, Kingdom of Spain§!
+Ángel Salas Larrazábal
+§YBorn:§! §LOctober 1st, 1906, in Orduña, Province of Biscay, Kingdom of Spain§!
+Francisco de Asís Serrat y Bonastre
+§YBorn:§! §LJanuary 9th, 1871, in Barcelona, Province of Barcelona, Kingdom of Spain§!
+Miguel Maura Gamazo
+§YBorn:§! §LDecember 13th, 1887, in Madrid, Province of Madrid, Kingdom of Spain§!
+Fidel Dávila Arrondo Gil y Arija
+§YBorn:§! §LApril 24th, 1878, in Barcelona, Province of Barcelona, Kingdom of Spain§!
+Germán Gil y Yuste
+§YBorn:§! §LMay 30th, 1866, in Valencia, Province of Valencia, Kingdom of Spain§!
+Juan March Ordinas
+§YBorn:§! §LOctober 4th, 1880, in Santa Margarita, Province of Balearic Islands, Kingdom of Spain§!
+Pilar Millán-Astray y Terreros
+§YBorn:§! §L1879, in La Coruña, Province of La Coruña, Kingdom of Spain§!
+José Millán-Astray y Terreros
+§YBorn:§! §LJuly 5th, 1879, in La Coruña, Province of La Coruña, Kingdom of Spain§!
+Mohammed Naser ben Mizzian
+§YBorn:§! §LSeptember 1st, 1897, in Beni Ansar, Wilaya'at of Kert, Sultanate of Morocco§!
+Juan de la Cierva y Codorníu
+Blas Cabrera y Felipe
+Juan Antonio Suanzes Fernández
+Félix Verdeja Bardales
+Kingmaker of Spain

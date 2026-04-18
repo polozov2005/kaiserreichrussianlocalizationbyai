@@ -1,0 +1,439 @@
+Paraguay Focus Tree
+Asunción Pact
+Paraguay
+Paraguayan
+Paraguay
+Socialist Republic of Paraguay
+the Socialist Republic of Paraguay
+Socialist Republic of Paraguay
+the Socialist Republic of Paraguay
+Socialist Republic of Paraguay
+the Socialist Republic of Paraguay
+Arsenal de Asunción
+Compañía Aviadora Paraguaya
+Somua Paraguay
+Chrysler Paraguay
+Fokker Paraguay
+Focke-Wulf Paraguay
+Morane Saulnier Paraguay
+Casado S.A.
+DIMABEL
+PCB
+Puerto Fluvial de Asunción
+Universidad Nacional de Asunción
+Military Pensions
+Military Influence
+Military Influence
+Black Monday
+Economic Recovery via Self Sufficiency
+Self Sufficiency
+Harsh Budget Cuts
+Army First
+Defensores del Chaco
+An Army with a State
+Continuous Doctrine Review
+Paraguayan Union State
+Forward Thinkers
+Workers of the Homefront
+Concentrated Fire
+Continuous Bombardment
+Rain Hell on the Enemy
+Shock and Awe
+Unstoppable Army
+River Gunboats
+Improved Logistics
+The Mighty Army of Paraguay
+New Policy on the Army
+Increased Soldiers Stipends
+Funds for the Military Industry
+Final Policy on the Army
+Seize Total Control
+State Controlled Propaganda
+A Military Loyal to Paraguay
+The New State
+For the Army, by the Army!
+Revolution by the Military
+Economic Prosperity
+National Liberalism
+Masters of Our Own Economy
+Fortifications Building Focus
+Adoption of Uruguayan Methods
+Irrazabal's Counteroffensive
+Paraguayan Military Mission
+War veterans, families of the lost and many other personnel receive rightful compensation for defending our nation in the war for the Chaco. However, doing the right thing is often costly and our budget suffers from all the privileges and good payment for military personnel.
+Paraguay at this point is an extension of its army, as the Civil War coupled with the failure of mainstream parties resulted in two coups and an almost entire lack of civil presence in actual decision making. The army is however immensely respected, and morale even among the lowest in the hierarchy is sky-high, as are the generous benefits for joining it in comparison to common work available.
+Paraguay at this point is an extension of its army, as the Civil War coupled with the failure of mainstream parties resulted in two coups and an almost entire lack of civil presence in actual decision making. The army is however immensely respected, and morale even among the lowest in the hierarchy is sky-high, as are the generous benefits for joining it in comparison to common work available.
+More than a fiscal crisis, Paraguay suffers from a harsh case of lack of imports, as the few goods imported to South America rarely reach the nation.
+After a series of decisive measures, we have finally re-gained out capacity to acquiring goods and started making said goods in our nation. We are taking the first steps towards true independence, as painful as they are.
+We have reached industrial output levels high enough for the government to declare our programmes a success. An empty boast when it comes to most metrics, but one that increases national morale and thus increased spending in the short turn, as the people regained faith in the economy and the state recovered much of its losses.
+Harsh budget cuts were the way chosen to deal with our budgetary issues. It won't go well with the military whose pensions are at risk...
+Truly with no equal, Paraguay is now truly an Army with a State, as its military forces have achieved such hegemony over all matters, and such mastery of their local warfare, it's doubtful for its legacy to fade away.
+Those who fought for our nation, even against unimaginable odds, those who fought against Bolivian aggression and foreign plots, they know what is at stake and will never give up as long as the fight can continue!
+Every man is ready to do his duty, and to die for the nation. Paraguay will never again be at the mercy of foreigners, who plot to keep our mighty people under their thumb!
+Heavily influenced by the ideas of US senator Huey Long, but with a unique militaristic spin, the Estigarribia government has changed its government to its core, and the power of the president is almost unchecked.
+If our nation is to move forward in any way, we must ensure that those with the minds and qualification to take it there are properly funded and promoted
+Every person must do their part for the state. Everyone will work to aid us the way they can, and the brave Women of Paraguay will help supply our brave armies.
+If Irrazabal attacks, everything will be all right.
+Ford Paraguay
+Mauser Paraguay
+Curtiss-Wright Paraguay
+Krupp Paraguay
+LNI
+Liga Nacional Independiente
+PC
+Partido Colorado
+PNL
+Partido Nacional Liberal Estigarribista
+PP
+Partido Paraguayo
+LDI
+Liga de Defensa Independiente
+PA
+Partido Azul
+PNL
+Partido Nacional Liberal Ortodoxo
+FAP
+Federación Anarco-Socialista Paraguaya
+PSP
+Partido Sindicalista de Paraguay
+PAP
+Partido Abrilista Paraguayo
+Developing Paraguay
+[PAR_state_category_decision_scripted_name]
+Urbanisation of Paraguay Proper
+Encourage Farming in the Chaco Boreal
+Encourage Urbanisation in Posadas
+Encourage Farming in [FROM.GetName]
+[PAR_state_category_decision_scripted_desc]
+By encouraging planned urbanisation in Asunción and Concepción, we will be able to effectively improve the living standards of our citizens and be able to avoid land speculation. That should also grant us more space for our industry.
+The Chaco region is scarcely inhabited, but it has tons of free land we can use for farming. Sponsoring farmers to open new farms in the region will help our agricultural exports and encourage immigration to the region.
+The newly conquered region of Misiones has just been integrated in our country, and a way to integrate it more deeply will be by proceeding with planned urbanisation in the city of Posadas, the main urban centre in the region. This should ensure the sympathy of the people in the region towards our regime.
+The newly conquered region of [FROM.GetName], rightfully ours, is in dire need of development, since it was left in a backwards state by its previous controller. By giving funds to the farmers in the region, we can be sure that the [FROM.GetName] will become a developed region.
+Expand Industry in the Chaco Boreal
+The Chaco is full of resources, and our booming mining industry should take advantage of that. Using local resources, we can produce various civilian goods for both local usage and export.
+Expand Mining in the Chaco Boreal
+The Chaco is full of resources, and our booming mining industry should take advantage of that. By providing it more funds we are expecting it to boom even more and bring even more prosperity to our country.
+Build Oil Refineries in the Chaco
+There is oil in the Chaco, but we need refineries in order to not only sell raw fuel, but also provide fuel to our own country. Building said refineries in the region should help us solving that issue.
+Expand Arms Production in [FROM.GetName]
+Integration of New Lands
+Fortifying the Southern Border
+Fortification of Paraguay
+Fortification of the Pilcomayo River
+Fortification of the Bermejo River
+Fortification of the Misiones Railway
+Mounting Discontent
+With our lacklustre performance in holding the Chaco, more and more people are losing faith in our ability to win the war. If things continue this way, maybe we will have to surrender the Chaco in exchange for peace, to avoid further discontent.
+Mounting Discontent in Paraguay
+Our continues occupation of the Chaco and Paraguay's inability to make any advances to it seems to be causing morale problems in their population. Should this continue, maybe they will suffer enough discontent to offer peace.
+A New Challenge
+The Berlin Stock Market has crashed, and its effects are to be felt all around the globe. Its seismic waves have reached Paraguay, and now we have to deal with the enormous damage caused by this economic earthquake. The economy has suffered greatly, so nothing short of radical reforms will help.
+Self Sufficiency
+Paraguay's economy is in shambles, but its potential isn't. We should mobilise our budget to start massive industrial, agricultural and infrastructural projects. Paraguay's economy shall become self-sufficient so that we can exploit its full potential.
+Reform Military Spending
+Right now, we spend tons of money to pay our soldiers, but we don't have enough money to equip them. If we spent less on conscripting and more on producing equipment, we would solve this issue without cutting the military budget.
+Building Roads
+While South America, in general, has an undeveloped industrial base, Paraguay's industry is even weaker. We need to construct new industrial complexes, and build suited roads and infrastructures to develop our industrial base.
+Resources Extraction Efforts
+There are possibilities to improve our extraction methods and expand mining industry, with minerals and oil extraction in Chaco as main targets.
+Industrial Expansion
+Through the great efforts of our labourers the goal of turning Paraguay into an industrialised state is finally within reach. It won't be long now until we've gone from being one of South America's poorest regions to having our very own industrial revolution!
+Fund Research Initiatives
+Redirecting some of the funds to research can be costly at the beginning, but technological advancements achieved should pay off in the long-term. Funding the National University of Asunción should be a good start.
+Agricultural Effort
+A strong industrial base is vital for a modern economy, but we shouldn't ignore all those who won't build toasters, tanks and trucks. We need to set up agricultural subsidies and agricultural institutions which help our rural farming population.
+Import Substitution Programme
+A self-sufficient economy can't rely on imports, that's self-explanatory. We should find ways to avoid importing goods, we need to substitute everything that isn't made in Paraguay.
+Industrial Self Sufficiency
+Our self-sufficiency plan works, that's for sure! Paraguay's economy now relies much less on imports and our manufacturing section is growing daily. 'Made in Paraguay' really does work.
+Slash The Budget
+Our state spends too much money, way too much money. We need to make cuts everywhere and anywhere if we wish to avoid bankruptcy. Most Paraguayans, from bureaucrats to veterans, won't be too happy with this, but we don't want to end up like the French in 1789, now do we?
+National Liberalism
+The state can't play god, that is a sad reality. Instead of handing over the economy to the bureaucrats, we need to liberalise it in favour of private enterprise and economic freedom.
+Export Focused Economy
+The Paraguayan market is quite small, but the German market isn't. In order to maximise the strength and the profits of the Paraguayan economy, we need to augment the exportation of Paraguayan goods to the whole world.
+Increase Mining Yields
+The mining sector is relatively small, but even then the Chaco still has quite important resource deposits. We need to increase the productivity of the mining sector so that we can export more primary resources.
+Cut Veteran's Pensions
+The pensions paid to the veterans of Paraguay are simply too high for the state to support. We need to cut their pensions, even if this will severely anger all those affected.
+Cut Military Incentives
+Our military is quite enormous in comparison to the state. Our military spending is far too high, and it has not stopped rising. We need to cut military incentives before our state collapses under the burden of the military budget.
+History or Death!
+This is a day when the destiny of Paraguay will be decided. Will democracy be able to hold, or will radical forces prevail?
+Democracy Has Been Saved!
+Forces loyal to the Estigarribia and the Colorados were able to repel extremism. Now the country and our fragile democracy have been saved, and a bright future shines in front of Paraguay and its people.
+Army Takes Control!
+Turns out, cutting the budget of the military in a country where the military IS the country is not exactly a popular move. Now that the military took control, we will have to see what will come for Paraguay and its people.
+Retake Misiones
+Now that Argentina is vulnerable, it's our moment to strike, to avenge the defeat of 1870, and to reclaim our rightful territories! To arms!
+Take Back the Chaco
+We lost the territory of the Chaco when we were busy fighting against Argentina, but now that they have been dealt with, we can focus our attention on recovering it. It is now time to reclaim what is ours, for no one can stand in the way of our nation.
+Paraguay, Reunited
+With military might and fierce determination, we emerged victorious in the war against Argentina and Bolivia, avenging the defeat of the War of 1864-1870 and reclaiming our lost lands. The country is now stronger than ever, and the nation stands ready to face whatever challenges may come next, armed with the knowledge of their past and the hope of a better future.
+Attack Argentina
+Faced with the growing threat posed by the Argentine regime, we should take action to ensure our own safety. Launching a surprise attack and quickly gaining the upper hand is the only way. Our people watch with trepidation as the nation is once again embroiled in conflict, but they remain steadfast in their resolve to protect their land and their way of life.
+Access Argentine Ports
+With our victory over Argentina, we have secured access to the ports of our southern neighbour and established safe trade routes with the rest of the world. The country's economy will flourish as commerce and prosperity return to our shores, bringing newfound wealth and opportunity to the people.
+Reparations From Argentina
+As part of the peace treaty signed with Argentina after the war, we will receive a substantial sum of reparations. These reparations will ease our pensions burden and ensure that all military veterans are paid in full.
+Attack Bolivia
+With Bolivia posing a continued threat to Paraguay's security, the difficult decision has been made to launch a preemptive strike against them. Securing the nation's borders and ending the threat from Bolivia once and for all should be the priority if we want to exist in peace.
+Exploit Bolivian Mines
+As part of the peace treaty signed with Bolivia after the war, we have been granted access to the valuable mines of our neighbour as reparations for the conflict. Exporting those resources will bring us more wealth and prosperity.
+Demilitarise Bolivia
+It's time to take a decisive step towards peace by demilitarising Bolivia, effectively ending the threat posed by them. Our military is now even stronger thanks to our neighbour's stockpiles and industrial capabilities.
+Develop Reintegrated Territories
+We are taking steps to develop our regained territories of Misiones and Chaco Austral, by creating new farms, a thriving forestry industry, and expansive cotton fields. There is great economic potential in these regions and we are committed to making them engines of growth and prosperity.
+Trade Agreement Negotiations
+Having resolved the conflicts with our neighbours, we are now in a strong position to make trade deals with European countries and export our resources, including food, cotton, and wood. This is an opportunity to further boost the economy and ensure growth and prosperity.
+A New Alliance?
+European countries are too far away to be able to protect us. Instead, we should create our own sphere of influence to oppose any possible threat that may arise.
+Paraguay in the Reichspakt
+Faced with the possibility of future threats, it may be a wise move to join the German military alliance, the Reichspakt. This move will send a message of strength and determination to any would-be aggressors. This would also help boost exports were we to join Mitteleuropa.
+Paraguay in the Internationale
+Our European comrades are now at the brink of total war against the imperialists of our time. We Paraguayans have a proud tradition of standing up against imperialists, and as such, we believe we can offer our military expertise to their cause. We shall contact them immediately and see if they are willing to stand side by side with us.
+Research Cooperation
+We have entered into a new era of cooperation with the members of the alliance, as we join forces with them to advance scientific and technological research. The country is eager to exchange its expertise and knowledge, and to work with the other members of the alliance to explore new frontiers and find innovative solutions to the challenges of the modern world.
+Increase Coffee Production
+The Paraguayan soil and climate is suitable for growing coffee, and now we have markets where we can sell it, so it would be a wise idea to expand existing local coffee production. This initiative can bring an additional boost to the economy and create new jobs for our people.
+Create Local Steelworks
+We should discuss the opportunity of investing more into our economy either with or without help from our allies. One of the most important things proposed is to create local steelworks to reduce our dependency on imported steel. Our faction can provide us with the necessary tools and specialists to process local iron ore.
+War Games
+In order to maintain our army's readiness for future challenges, we are organising war games to keep our military forces sharp and prepared. We see this as a necessary step to ensure that our nation's defence forces are always ready to respond to any threat, and we are proud of the skill and determination of our troops.
+Reconciliation with Brazil
+We are about to take the historic step of reconciling with Brazil, for the two nations to put aside the old wounds of the war of 1864-1870 and work towards a peaceful coexistence. The reconciliation is a powerful symbol of the power of forgiveness and the strength of the human spirit, and it serves as a beacon of hope for all those who believe in a better tomorrow.
+Negotiations with Uruguay
+With conflict with Brazil fading away, Paraguay and Uruguay are now in a position to discuss their mutual interests. The two nations share a commitment to stability in the region. Negotiating mutual guarantees and military cooperation may be in our best interests.
+Negotiations with Brazil
+Old wounds are starting to heal, and maybe now it is time to start negotiations about mutual economic interests and the possibility of a non-aggression pact. Working together to achieve common goals can become a symbol of the growing trust between us and Brazil. The non-aggression pact, if reached, will further solidify the relationship between our two countries and ensure that we can continue to work together in peace and prosperity.
+Reclaim the Lost Brazilian Lands
+After the Paraguayan War, Brazil stole our rightful territories of [1041.GetName] and [1043.GetName]. They are becoming stronger with every passing day - if we wish to ever recover these territories we need to strike!\n\nStand, gather your strength, raise your eyes.\nFear not the demons, you're up against!
+Develop Retaken Provinces
+We are planning to develop the territories retaken from Brazil by expanding agriculture and building new factories. The government is focused on using the fertile lands to grow crops, while also investing in the latest technologies and equipment to increase productivity. The new factories are helping to create jobs, spur economic growth, and boost the local economy.
+Reparations from Brazil
+With Brazil defeated in war, hefty war reparations were negotiated. The reparations will help Paraguay to rebuild, recover, and invest in its future. With the reparations, Paraguay is able to move forward, stronger and more united, as we continue to strive for a better tomorrow.
+§RHostile forces from the west might use this occasion to strike against us while we are distracted fighting Argentina.§!\n§OIf we take Buenos Aires in the peace conference and form a loyal Argentine government, Chile will not be happy about such a turn of events...§!
+Access to Argentine Ports
+Research Cooperation
+Resistance to Occupation
+After our defeat against Paraguay, a puppet regime was installed in our country. The government is very unpopular, and the local population opposes it heavily, sabotaging everything they can, attacking collaborators and refusing to serve in the army. Dealing with them is taking a huge toll on the country's resources. While [ROOT.GetNameDef] is still formally under Paraguayan control, it is crippled by internal problems.
+§gIf we are a faction leader:§!
+§gIf we are a member of a major faction:§!
+§7§YParaguay§! will receive an upgraded economic idea if a trade agreement is reached.§!
+Faction Decisions
+Invite [FROM.GetName] to the Research Group
+Brazil refused reconciliation
+With the Brazilian downfall, we can execute an aggressive foreign policy without the fear of intervention. New §Ydecisions§! to attack other South American countries will be unlocked.
+§YThe entire continent is at your feet. Will Paraguay live a prosperous, peaceful existence, or will it continue its conquests - the choice is yours.§!
+§OAgainst all odds you prevailed - the Triple Alliance has been destroyed, the lost territories have been returned, and Paraguay is the master of South America. Your name will be written in the history books of the future.§!
+§YThanks for playing, hope you enjoyed the campaign as much as we enjoyed coding and playtesting it.§!
+South American Research Treaty
+South American Research Treaty
+The South American Research Treaty is an research group of nations under Paraguay's boot in the Asunción Pact. The hope is that by cooperating with their neighbours, they can improve their technological progress of which Paraguay has long been behind in, in relation to some of its neighbours. The reality is that this group is mainly to the benefit of Paraguay rather than its subjects.
+Defensores Del Chaco
+Our beautiful nation has significantly grown in the last years at the cost of Bolivia. Our glorious soldiers have proven their strength and will on the battlefield, but now it's time to consolidate our gains. The Chaco will forever remain Paraguayan!
+Doctrine Review
+A major army reformation is required to defend our vast country. One of the most important things a modern army needs is a definite, efficient military doctrine. We need to overhaul ours to ensure that our army will win every battle.
+Women in the Workforce
+Our country, despite being more than twice the size of Uruguay, has half its people. Our male population is not enough to produce everything we need, and we also need to have our female population produce our weapons. While some conservative elements might protest this measure, we don't really have that many options to go with.
+Concentrated Fire
+We cannot let the enemy reorganise and consolidate their forces after one of our successful offensives. We must attack them until we arrive in their capitals so that they will never have time to rest.
+Superior Firepower
+Our nation doesn't have as many fighting-able men as Argentina or Brazil, so we need to compensate our low manpower with high firepower. Let's adopt a doctrine focusing on superior firepower and combat strength.
+Spotters & Scouts
+There is one major issue with long-range artillery pieces: If we don't know where exactly the enemy is, we will just blow up a few squirrels. We need spotters and scouts that can accurately report the position of the enemy.
+Shock & Awe
+Speed is the key to all modern war. It must be the main focus of our army if we are to defend our national borders.
+Military Science
+The process of reinventing our military doctrine was long and exhausting as we were missing enough theorists and military experts. We should invest more in military science to avoid this situation from happening again.
+Logistical Expertise
+One of the largest Bolivian shortcomings during the Chaco War was their supply system, as their communication and supply lines were inadequate. We should learn from their mistakes so we don't repeat them.
+The New Army
+Our glorious army won against Bolivia, but many doubt that we will win against Argentina or Brazil, who both own lands that are rightfully ours. We need to modernise and professionalise our army.
+Improved Equipment
+Our equipment is rather outdated, which gives us a disadvantage on the battlefield. We need to modernise and improve them to keep up with the armies of our rivals.
+Army Railways
+A large issue that the Bolivian army faced in the Chaco War was the lack of proper infrastructure suited for military usage. We should not make the same mistake: We need to construct railways suited for military transportation.
+Expand Military Production
+Our new railways have a large transportation capacity, but if our production capacity is low, we will not be able to use these railways. We need to increase the production of military equipment.
+Superior Training
+Unlike the veterans of the Chaco War, the new recruits have little actual combat experience. We need to improve our training to keep a relatively high standard of experience in our army.
+Every Man a Soldier
+Our population is roughly one million. In comparison, Argentina is the home of almost fourteen million. We need as many men as possible to fill our army if we wish to reclaim our rightful lands.
+No Pasaran!
+Every man in Paraguay knows how to handle a rifle, and is willing to employ his knowledge if the enemy dares to advance in our sacred land. The enemy shall pay in blood for every metre of Paraguayan land he conquers.
+An Army With No Equal
+Nowhere in the world, not even in 19th century Prussia, has an army been so well integrated into the state that it forms a union with the other national institutions. Nothing is as mighty as our armed forces.
+General Staff Review
+Our army has greatly expanded, but our general staff has been lacking behind in personnel. We need to review our general staff to increase its command capacity and effectiveness.
+Extend Special Forces Training
+Specialised units always require more training than their ordinary counterparts. We need to increase the effectiveness of the training so that more soldiers can effectively fight as members of a specialised unit.
+Expand the Engineers Corps
+It is said that the infantryman's best friend is its shovel, and that is true especially in regards to the engineers corps. By providing them better equipment and stricter drills, we can expect our engineers to become the best engineers of Southern America.
+Well Planned Attacks
+We can't let our soldiers charge in a disorganised way to the enemy machine guns, we need to plan thoroughly our attacks in order to minimise the casualties and strike like thunder, shattering the enemy forces and breaking them like a twig.
+Static Anti Air
+Despite our efforts in creating an air force, we simply lack the capabilities to build one. In order to protect our homeland we should invest into static anti air stationings capable of taking down even the biggest of the bombers out there.
+River Patrols
+Paraguay has many rivers patrolled by gunboats, each one carrying a huge amount of firepower compared to what a rifle can do. If we can coordinate them to the army, we will be able to make every one of our rivers uncrossable for the enemy.
+The Army of the Future
+Despite our efforts, our army can't be really said to be modern: we lack airplanes, tanks, trucks, and way more equipment to effectively turn into a modern army. While we can't produce that, we can at least research them for the future.
+Bombers Research
+Bombers can shatter enemy railways and enemy factories, but they are incredibly expensive to build. We can hope that in the future we will be able to produce them, but for now all we can do is research them.
+Armoured Warfare
+There is a new king of land warfare. It's not the infantryman, it's not the artilleryman, and it's not the horse. That is the tank, a steel monster that can spout fire and cannot be stopped. If we wish that our soldiers will be able to face enemies in the future, investing in tanks is the right move.
+Defenders of the Sky
+Our beautiful blue sky is the home of many rare birds, but sadly our enemy doesn't seem to respect its quietness. We need to form a professional air force to defend the Paraguayan sky!
+Close Air Support Planes
+Industry and infrastructure aren't the only bombing targets there are, enemy units are also great targets. In order to effectively weaken enemy forces, we need more agile low flying bomber aircraft.
+Fighter Aircraft
+If we wish to use bombers and close air support aircraft effectively, we need to first achieve air superiority. We need specialised fighter aircraft to intercept and destroy enemy planes.
+Cooperation with Uruguay
+After winning against Argentina, now we face yet another problem in the socialists from Patagonia now sitting in Buenos Aires. Cooperating with Uruguay, despite not being a choice everyone agrees with, is better than facing the reds down south alone.
+Study Uruguay's Fortifications
+Uruguay started a fortification programme when Manuel Carlés couped the Argentine government during Christmas of 1935. It could prove to be valuable experience if we could apply it and fortify our own border with Argentina in case they were to attack us. After all, many battles in history demonstrated the effectiveness of force multipliers, so we better start working on those as soon as possible, and be ready for a possible invasion.
+Help Uruguay's Military
+Cooperation usually benefits both sides, and this one is no exception: after all, Uruguay has been at peace since the War of the Triple Alliance, and their military is nowhere near ready to face anything that comes from the left side of the Rio Uruguay. Plus, this will boost the relationship between our countries and militaries.
+Joint Military Exercises
+Since we might end up fighting a war side to side, joint military exercises will be useful if we were to execute coordinated manoeuvres together in an actual war. We don't want to end up in a fiasco like the Battle of Karánsebes, in which we would fight each other instead of our enemy and lose valuable lives and equipment. Plus, every generation to come would laugh at such an embarrassment, so there's yet another reason about why those exercises are important.
+Irrazabal's Plan
+General Luis Irrazabal, war hero and veteran of the Chaco War, came up with a plan we may use to push back the invaders: since their military is not accustomed in fighting in the Chaco, we might use our experience in that regard to punish any attempt at confronting us heavily. However, they will sooner or later figure out a way to counter our plan, so we better make good use of our advantage as best as we possibly can.
+The Estigarribiato
+Our nation has suffered under political crises for far too long. It is time for our great leader to finally step in and protect the people of Paraguay from internal and external threats. Long live president Estigarribia!
+National Heroics
+Our nation is a nation of heroes, a nation filled with the greatest people of history. We should never forget the people who fought for our freedom, protected our institutions, and advanced Paraguay to the beautiful nation that it is today.
+Paraguayan Union State
+Our nation isn't a 'military dictatorship' like some politicians call it, it's a union of the people, the military, the state, every part of Paraguay! The Paraguayan state has never been this united.
+Paraguay First
+Our nation is the best, the greatest nation in the world! Our nation has priority in front of all the nations which aren't Paraguay. Our nation shall always be first place!
+Paz y Justicia
+Paraguay has never been this stable, this well-protected, this united. Our new, better regime has introduced Paraguay to a never-ending period of peace and stability.
+Colorado Resurgence
+The last Colorado president Paraguay has had was in 1912 with Pedro Pablo Peña who was deposed very quickly. This has left our country with a nearly unchallenged Liberal rule for decades. However, broken promises from the liberals and an ailing economy are leaving many Paraguayans disillusioned. We shall reach out to the common Paraguayan and offer them the solutions the Liberals didn't give them.
+True Values
+The Colorados has always been a conservative party. During the liberal governments, the Paraguayan populace was forced through several progressive reforms which many didn't agree with. Now that we're in power, we shall take steps to protect our nation's traditional and familiar values to secure our society for a better, more stable tomorrow.
+Prosperity and Progress
+We Colorados know that the only way forward for our country is with hard work. We have to focus this spirit towards achieving economic prosperity and progress, that way we shall both be true to our ideals and help our country get back on its feet.
+Individual Freedoms
+The Liberals had a mouthful of how their progressive reforms were helping the country. They proved to be unreliable and treacherous. We shall champion individual values and begin legal reforms to include individual freedoms into our current law code.
+Sane and Free Elections
+Our democracy survived, and with free elections the people of Paraguay can rejoice and exercise their right to vote. With extremism at bay, we will see who will come to power between Estigarribia's liberal party or the conservative Colorados. May the best party win!
+Policy On The Army
+Something both Colorados and the Liberals can agree on is supporting the army, the only thing that maintains our nation free and strong. New policies regarding the military spending should help with that and improve the morale of the soldiers.
+Increase The Soldiers Stipends
+The salaries in the army are meagre, to say the least, and a soldier's stipend is not the best, far from it. By increasing them, we hope we can at least make the conditions in the army more bearable for our soldiers, and especially for the conscripts.
+Increase Military Industry Funds
+It's amazing how we were able to field such a large and well equipped army with such an underfunded military industry. It won't be a problem anymore.
+Protectors of Paraguay
+Our nation stands on the brink of catastrophe! We shall step in and restore order because Paraguay needs protection and we must answer our country's call!
+For the Army, by the Army
+Opportunist politicians have taken advantage of the victories our army made during the Chaco War to further their dubious agendas. We will not stand for it any longer! We shall tune the state machine to serve the army's purposes and force it to fulfil our agendas.
+Weed Out Traitors
+There are many within our society that are plotting against us as we speak that aren't aligned with the syndicalists. We need to strike them first if we want to preserve our nation's integrity! We shall begin a major search for traitors in our populace until every Paraguayan has had their loyalties checked.
+Faith and State
+Our country has many strong social virtues, but one of the most cherished is faith. While we're by no means a monarchy ruled from Rome by the Pope, we cannot deny the Catholic influence within our country, and we'd do well in taking advantage of our country's faith by allowing the Catholic church to play a larger role in our government as long as it doesn't hinder our power.
+Abrilist Recovery
+Back in 1934, we launched a successful coup and retook our country for the people. Unfortunately, we were deposed shortly after, but now we are stronger than before, and this time, we will be victorious!
+Military Revolution
+Rafael Franco, before becoming a revolutionary, was a very influential figure within the army. While his short-lived coup and exile have soured his relations with the most conservative officers, many of his supporters come from the army itself who just wish to take Paraguay into a better future, and as such, are willing to help us in our revolution!
+Our Comrades
+The Chileans and Argentinians are our comrades in arms. They helped us to free ourselves from the tyranny of the oligarchs and imperialists, and we shall recognise their efforts and proclaim our friendship towards them.
+Destroy Reactionaries
+Reactionaries have no place in our nation, and they should be imprisoned or exiled in order to guarantee the stability of our nation. The more we let them roam around, the higher the risk of a counter-revolutionary plot is.
+Militarist Revolt
+Estigarribia, the man we believed to be the hero of the nation, has betrayed us. It is now time for us to build a better Paraguay, where no moderate crybabies are allowed.
+Seize Total Control
+We are Paraguay, we are the nation, anyone that opposes us is to be considered a dangerous individual that seeks to overthrow our regime, and as such it will be treated.
+Intensify Propaganda
+We need to convince the citizens of Paraguay that we are the best option for them, and a good old propaganda campaign is what we need. After all, there is no better method to convince simple minded sheep than propaganda.
+Control the Military
+We need to root out traitors from the military, our sacred institution that allows us to exist. If we let them roam around, they might betray our ideals or, even worse, start to think about overthrowing our regime. We need to act in order to cleanse the military from this filth.
+Paraguay Reborn
+Paraguay has reborn, better and stronger than before. No more moderates, no more foreigners will be allowed to dictate what we can do and what we can't do. Like a phoenix from the ashes, Paraguay is reborn, and is ready to be the power of Southern America.
+Despite emerging victorious from the Chaco war, Paraguay doesn't find itself in an enviable situation: extremely high military expenses, a very undeveloped economy and the country not having recovered yet from the 1870 war which killed more than half of its population means that Paraguay's economy is basically non-existent; also, an unstable situation on the southern border and Bolivia seeking revenge for the humiliating defeat 3 years ago mean that the Guarani republic might soon find itself fighting for its own existence once again.
+GFX_PAR_intro
+The Republic of Paraguay
+After the devastating War of the Triple Alliance, Paraguay was shattered and broken almost beyond recognition; the vast majority of its male population dead or orphaned. The extreme demographic and economic damage was not all, however, as both Brazil and Argentina took slices of land off the Guarani Republic and effectively only kept its sovereignty as a buffer state between the two nations. Rebuilding and recovering from that disaster was no easy feat, and political instability still corroded the nation. In 1904, a Liberal revolution against the rule of Colorados broke out. The Liberal rule started a period of great political instability, which culminated in a Civil War in 1922 between rival political factions.\n\nThen, in late 1929, war again came to Paraguay by the hand of Bolivia. That nation, under economic pressure to secure the rumoured oil wells of the Chaco region, aggressively started to assert its claims in the disputed area. The Chaco War took four gruesome years, and by 1933 Paraguay had completely routed the Bolivian forces and was starting to occupy their lands. The total victory did not come without a cost, however, as mounting debt and military expenses continue to be a burden on the government. The Bolivian military was poorly equipped and poorly trained to fight in the region, and its low morale meant the Paraguayan casualties were far smaller.\n\nThe political situation did not improve, however, and the Liberal rule was faltering. Rafael Franco and other radical leaders launched a coup in 1934 based on left-authoritarian principles but were deposed after a short three-month rule by Chaco War hero José Félix Estigarribia. Now, the age of liberal chaos is over, and José Felix's rule is one of great peace; his actions against the \
+§MEstigarribistas§! / §MColorados§! ($authoritarian_democrat_coloured$ / $market_liberal_coloured$ / $social_conservative_coloured$)\n£white_dot In the Snap Elections, elect the party of choice.\n£white_dot If taking the focus “Cut Military Incentives”, take the bottom option in the ensuing event to ensure continued democratic governance.\n£white_dot The §mMarket Liberals§! can be elected in the 1946, 1951 or 1956 elections if the §cSocial Conservatives§! were elected in a previous election.\n\n§MLiga de Defesa Independente§! / §MAbrilistas§! ($national_populist_coloured$ / $totalist_coloured$)\n£white_dot Choose any party in the Snap Elections.\n£white_dot After taking the focus “Cut Military Incentives”, take the top option in the ensuing event to turn $national_populist_coloured$ and allow Morínigo to seize power.\n£white_dot Alternatively, take the middle option to turn $totalist_coloured$ and allow Franco's units to seize power.
+§7Easy difficulty removes most of the custom unit spawns and AI tweaks.§!
+§OMedium difficulty contains most of the new tweaks and improvements. Prepare to see stronger enemies. Chile behavior is changed as well - it will not tolerate your aggression against Patagonia should you attack it.§!
+§RHard difficulty introduces even stronger enemies. Proceed with caution.§!
+§gThis unlocks focus §P$PAR_estigarribato$§! or §c$PAR_colorado_resurgence$§! depending on our ruling party.§!
+§gThis unlocks focus §n$PAR_protectors_of_paraguay$§! or §o$PAR_abrilist_recovery$§! depending on our ruling party.§!
+§gThis will merge our current ideas into a stronger one:§!
+§GThis focus will be bypassed after the post Black Monday snap elections.§!
+Democracy survives after the recovery from Black Monday.
+Estigarribia won the elections again.
+The Colorados won the elections.
+§GThis focus will be bypassed if the military coups the government.§!
+The Military Coup succeeded.
+Morínigo took power.
+Franco returned and took power.
+José Félix Estigarribia Insaurralde
+§YBorn:§! §LFebruary 21st, 1888, in Caraguatay, Caraguatay Department, Republic of Paraguay§!\n§YBackground:§! §LJosé Félix Estigarribia, the Hero of the Chaco War, was internationally educated in both military and agricultural affairs. Estigarribia overthrew the dictator Rafael Franco and ended the societal chaos which marked Liberal rule before his ascendence. However, a romantic nationalist, Estigarribia has only encouraged extreme movements which seek to ultimately depose him. Whether he survives politically is an open-ended question that time alone shall answer.§!
+§YBorn:§! §LFebruary 21st, 1888, in Caraguatay, Caraguatay Department, Republic of Paraguay§!\n§YBackground:§! §LJosé Félix Estigarribia, the Hero of the Chaco War, was internationally educated in both military and agricultural affairs. Estigarribia overthrew the dictator Rafael Franco and ended the societal chaos which marked Liberal rule before his ascendence.\nWith the return of democracy, Estigarribia's political career at first seemed to have come to an end. Estigarribia, however, has defied expectations and again risen through the ranks of the liberal party. Democratically elected, his hold on the state now is nowhere near as great as it once was, and though some fear he shall again seize dictatorial power, the masses cheer on the ever adaptable Hero of the Chaco War.§!
+§YBorn:§! §LFebruary 21st, 1888, in Caraguatay, Caraguatay Department, Republic of Paraguay§!
+Higinio Nicolás Morínigo Martínez
+§YBorn:§! §LJanuary 11th, 1897, in Paraguarí, Paraguarí Department, Republic of Paraguay§!
+Juan Manuel Frutos Escurra
+§YBorn:§! §LJune 12th, 1879, in Asunción, Republic of Paraguay§!
+Eduardo Schaerer Vera y Aragón
+§YBorn:§! §LDecember 2nd, 1873, in Caazapá, Caazapá Department, Republic of Paraguay§!
+José Eligio Ayala
+§YBorn:§! §LDecember 4th, 1879, in Mbuyapey, Paraguarí Department, Republic of Paraguay§!
+José Patricio Guggiari Corniglioni
+§YBorn:§! §LMarch 17th, 1884, in Asunción, Republic of Paraguay§!
+Obdulio Barthe
+§YBorn:§! §LSeptember 5th, 1903, in Encarnación, Encarnación Department, Republic of Paraguay§!
+Rafael de la Cruz Franco Ojeda
+§YBorn:§! §LOctober 22nd, 1896, in Asunción, Republic of Paraguay§!
+Raimundo Rolon Villasanti
+§YBorn:§! §LMarch 14th, 1903, in Paraguarí, Paraguarí Department, Republic of Paraguay§!
+Eugenio Alejandrino Garay Argaña
+§YBorn:§! §LNovember 16th, 1874, in Asunción, Republic of Paraguay§!
+Federico Wenman Smith
+§YBorn:§! §LJanuary 10th, 1902, in Arroyos y Esteros, Caraguatay Department, Republic of Paraguay§!
+Luis Irrazábal Barboza
+§YBorn:§! §LAugust 8th, 1891, in Encarnación, Encarnación Department, Republic of Paraguay§!
+Vicente Machuca
+§YBorn:§! §LApril 4th, 1898, in Asunción, Republic of Paraguay§!
+Eusebio Ayala Bordenave
+§YBorn:§! §LAugust 14th, 1875, in Barrero Grande, Caraguatay Department, Republic of Paraguay§!
+Luis Alberto Riart Vera
+§YBorn:§! §LJune 21st, 1880, in Esquina, Corrientes Province, Argentine Republic§!
+Carlos Agustín Pastore Goiburú
+§YBorn:§! §LMay 16th, 1907, in Mbuyapey, Paraguarí Department, Republic of Paraguay§!
+Arístides Rivas Ortellado
+§YBorn:§! §LAugust 31st, 1896, in Corumbá, Mato Grosso, United States of Brazil§!
+Camilo Recalde
+§YBorn:§! §LJune 30th, 1889, in Asunción, Republic of Paraguay§!
+Horacio Chiriani Cotor
+§YBorn:§! §L1896, in the Republic of Paraguay§!
+Anselmo Jover Peralta
+§YBorn:§! §LApril 21st, 1895, in Carapeguá, Paraguarí Department, Republic of Paraguay§!
+Nicolás Delgado
+§YBorn:§! §LSeptember 10th, 1892, in Ypacaraí, Republic of Paraguay§!
+Leandro Aponte
+§YBorn:§! §L1904, in the Republic of Paraguay§!
+Romildo Etcheverry
+§YBorn:§! §LDecember 15th, 1906, in Villa Hayes, Presidente Hayes Department, Republic of Paraguay§!
+Paraguayan High Command
+§YFounded:§! §L1811, in the Republic of Paraguay§!
+Félix Paiva
+§YBorn:§! §LFebruary 21st, 1877, in Caazapá, Caazapá Department, Republic of Paraguay§!
+Tomás Salomoni
+§YBorn:§! §LApril 11th, 1884, in Asunción, Republic of Paraguay§!
+Federico Chaves Careaga
+§YBorn:§! §LFebruary 15th, 1882, in Paraguarí, Paraguarí Department, Republic of Paraguay§!
+Ricardo Odriozola
+§YBorn:§! §L1877, in Asunción, Republic of Paraguay§!
+Justo Pastor Prieto Rojas
+§YBorn:§! §LOctober 15th, 1897, in Pilar, Pilar Department, Republic of Paraguay§!
+Arnaldo Valdovinos
+§YBorn:§! §LApril 16th, 1908, in Villeta, Villeta Department, Republic of Paraguay§!
+Efraim Cardozo Sosa
+§YBorn:§! §LOctober 16th, 1906, in Villarrica, Guairá Department, Republic of Paraguay§!
+Victoriano Benítez Vera
+§YBorn:§! §LJune 15th, 1907, in Villarrica, Guairá Department, Republic of Paraguay§!
+Juan Stefanich Troche
+§YBorn:§! §LMay 3rd, 1889, in Asunción, Republic of Paraguay§!

@@ -1,0 +1,75 @@
+RAP
+Rheinische Arbeiterpartei (Rhenish Workers' Party)
+RAP
+Rheinische Arbeiterpartei (Rhenish Workers' Party)
+Arbeiterrat
+Rheinischer Arbeiter- und Soldatenrat (Rhenish Workers' and Soldiers' Council)
+SPD
+Sozialdemokratische Partei Deutschlands - Landesverband Rheinland (Social Democratic Party of Germany - Rheinland State Association)
+RRVP
+Rheinisch-republikanische Volkspartei (Rhenish-Republican People's Party)
+NVP
+Nationale Volkspartei (National People's Party)
+RCVP
+Rheinisch-christliche Volkspartei (Rhenish-Christian People's Party)
+RBP
+Rheinische Bauernpartei (Rhenish Peasant Party)
+RCVP
+Rheinisch-christliche Volkspartei - Rechte (Rhenish-Christian People's Party - Right)
+VW
+Völkische Werkgemeinschaft (Völkisch Work Community)
+Rhineland
+Rhenish
+the Rhineland
+Rhenish Republic
+the Rhenish Republic
+Rhenish Republic
+the Rhenish Republic
+Rhenish Republic
+the Rhenish Republic
+Rhenish Republic
+the Rhenish Republic
+Rhenish Republic
+the Rhenish Republic
+Rhenish Republic
+the Rhenish Republic
+Rhenish Republic
+the Rhenish Republic
+Rhenish Republic
+the Rhenish Republic
+Rhenish Republic
+the Rhenish Republic
+Rhenish Republic
+the Rhenish Republic
+Rhenish Reparations
+As part of their post war demands, the [ROOT.overlord.GetAdjective] government has commandeered the majority of industry within the Rhineland in order to provide reparations to the victorious side. Most men fit to work are expected to be in the factories, with only a token amount permitted to handle policing and act as local defence forces.
+Rhenish Focus Tree
+Freedom from the Prussian Yoke
+New Cisrhenian Republic
+Heartland of German Socialism
+The Rhineland Reparations Agency
+Construct Rhenish Identity
+Proclaim September 5 as National Day
+Attempt Renegotiation
+Begin Socialisation of Industry
+Form Proletarian Hundreds
+Secularisation of the Catholic Countryside
+Crush Reformist Unionism
+Create the Rhineland Protection Force
+All-German Military Cooperation
+Acquire Hardware
+Concordat with the Church
+Apply Corporatist Economics
+Root Out Ruhr Unionist Remnants
+Rural Development
+Rebuild the Rhine River Trade
+Nationalise BASF
+Beyond Coal and Steel
+Develop the 
+BeNeRhein
+Corporatist Economics
+Occupation of the Churches
+The Protection Force
+BeNeRhein
+Invites §Y[HOL.GetNameWithFlag]§! and §Y[?RHI_bel_target.GetNameWithFlag]§! into a common trade organisation, if both are in a faction with §Y[RHI.GetNameWithFlag]§!. Applies this effect, if accepted:\n
+Nationalist Festivals

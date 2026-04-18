@@ -1,0 +1,782 @@
+localisation\russian\KR_country_specific\MAF.SWA - South West Africa l_russian.yml
+
+l_russian:
+
+ south_west_africa_focus: "South-West Africa Focus Tree"
+
+### Cosmetic Tags ###
+
+### Decisions ###
+ SWA_revolt_mission: "Chaos in Südwest"
+
+ SWA_invade_target_tt: "$unlocks_decisions$ to retake Africa!"
+
+### Ideas ###
+ SWA_idea_increase_conscription1: "Increased Conscription"
+ SWA_idea_increase_conscription1_desc: "Our current situation has caused us to raise our conscription policy. However, the natives of Namibia are less than pleased that they are being dragged into a German civil war."
+ SWA_idea_increase_conscription2: "Forced Conscription"
+ SWA_idea_increase_conscription2_desc: "Our conscription policies have been further extended due to us losing the current conflict. The natives are furious that so many of their people are dying on the front lines of a German war, but they don't get to decide much."
+ SWA_idea_colonial_spirit: "Colonial Spirit"
+ SWA_idea_colonial_spirit_desc: "With full German backing, our victory is inevitable and morale is as high as it's ever been before. Victory will be ours!"
+
+ SWA_idea_german_military: "German Military"
+ SWA_idea_german_military_desc: "Due to our recent reintegration into the fatherland, our military has become very Prussian-styled, with a purely German volunteer force with limited Askari recruitment. While we can review our policy on this in the future, it remains as how our military functions for now."
+ SWA_civil_war_industry: "Civil War Industry"
+ SWA_civil_war_industry_desc: "The ongoing civil war has brought our already limited industry to a complete halt. This most likely won't end until the end of the civil war, and even then will continue to affect us even afterwards."
+ #NMB_colonial_nation: "Colonial Nation"
+ #NMB_colonial_nation_desc: "Südwestafrika has officially returned into the German fold, and intends to stay that way for as long as possible. The last thing we want to do is bother the fatherland with internal matters, and deal with them ourselves."
+
+ SWA_lack_industrialisation: "Lack of Industrialisation"
+ SWA_lack_industrialisation_desc: "Our country already had a very limited population density and industry, and the civil war has only made the problem even worse. Recovery from this might take ages if the government does not personally intervene."
+ SWA_repair_cooperation: "Repairing the Country"
+ SWA_repair_cooperation_desc: "We have undertaken a policy of working with the natives of Namibia in order to repair the country after the civil war, for the good of everyone involved."
+ SWA_OMEG_influence: "OMEG Influence"
+ SWA_OMEG_influence_desc: "We have decided to have more of our economic sector rely on the OMEG corporation, which helps us gather resources and build railways faster. This comes with the exchange of a slowly increasing OMEG influence within the government."
+ SWA_OMEG_influence_2: "OMEG Mining"
+ SWA_german_exports: "German Exports"
+ SWA_german_exports_desc: "We have decided to have more of our economic sector rely on Germany itself, which assists us in producing equipment and for us to subsidise the people less. This comes with the exchange of increased German control in the government and the risk of another crash if Germany falls."
+ SWA_native_work: "Native Cooperation"
+ SWA_native_work_desc: "Our people are our allies, and cooperation is necessary to better all of our lives inside Namibia. This has resulted in an economic boom but also in a growth in popularity of Namibian nationalism."
+ SWA_cultural_cooperation: "Cultural Cooperation"
+ SWA_cultural_cooperation_desc: "Our focus on promoting cultural cooperation in order to prevent another disaster like the Ovambo revolt has increased the unity among our people."
+ SWA_recovery_effort_idea: "Recovery Effort"
+ SWA_recovery_effort_idea_desc: "With the help of outside forces in making our already small economy recover, the nation is almost ready to continue like normal again."
+
+ SWA_idea_true_german_military: "True German Military"
+ SWA_idea_true_german_military_desc: "Using the superiority of German equipment and professionalism, there is no need to worry about loses or recruitment of the local population."
+
+ SWA_idea_native_recruitment: "Native Recruitment"
+ SWA_idea_native_recruitment_desc: "The local population is the perfect cannon fodder to feed to our enemies, despite the loss of professionalism within our force."
+
+ SWA_idea_askari_cooperation: "Askari Cooperation"
+ SWA_idea_askari_cooperation_desc: "Askari are well-trained African forces, attempting to train a small amount of these will help with our recruitment."
+
+ SWA_preperation_bonus: "Campaign Preparations"
+ SWA_barotseland_resistance: "The Barotseland Resistance"
+
+### Tooltips ###
+ SWA_revolt_mission_extension_tooltip: "If Germany accepts:"
+ SWA_GER_volunteers: "Germany has sent us volunteers"
+ SWA_GER_volunteers_2: "Germany has sent a 2nd batch of volunteers"
+ SWA_GER_fortification: "Germany has assisted us in building fortifications"
+ SWA_assault_ready: "The assault unit wasn't discovered"
+ SWA_oil_struck: "Oil was found"
+
+ SWA_BRT_german_tooltip: "Once the campaign begins we will ask for German aid. If they agree, we will gain §Y1.00K§! units of §Yinfantry equipment§! and §G+1000§! manpower."
+ SWA_BRT_preparation_tooltip: "Once the campaign begins we will gain '§YCampaign Preparations§!' which grants ($MODIFIER_ARMY_ORG_FACTOR$: §G+15.0%§!, $MODIFIER_ARMY_MORALE_FACTOR$: §G+15.0%§!) for §Y60§! days."
+
+### Focuses ###
+
+### Civil War ###
+ SWA_german_support: "Request German Support"
+ SWA_german_support_desc: "We are the last remaining German-ruled colony in Africa, causing Germany to have great interest in us. As such, they are willing to send us guns and soldiers if we request them, all we need to do is give the word."
+ SWA_german_support_2: "Request More Support"
+ SWA_german_support_2_desc: "The first batch of German reinforcements have arrived, but aren't enough. A second shipment of goods from Germany should be enough to carry us through the rest of the war."
+ SWA_fortify_windhoek: "Fortify Windhuk"
+ SWA_fortify_windhoek_desc: "If worst comes to worst, we might end up pushed all the way back to Windhuk. Having fortifications in the area will help us hold out if we're put on the defensive"
+ SWA_colonial_spirit: "Colonial Spirit"
+ SWA_colonial_spirit_desc: "With the full backing of the Germans behind us, we have nothing to fear. We will win this war, no matter the cost."
+ SWA_increase_conscription: "Increase Conscription"
+ SWA_increase_conscription_desc: "We are beginning to lose the war and as such, a proposed policy has been put in place to raise our conscription of the native people living in the area. While they won't be pleased with this, it will help our war effort in the long run."
+ SWA_force_conscription: "Forced Conscription"
+ SWA_force_conscription_desc: "With our entire country being close to surrendering, we have no choice but to conscript more of the native population. While they were already furious about our previous conscription raise, winning this war is of higher priority than their happiness."
+ SWA_behind_lines: "Sneak Behind Enemy Lines"
+ SWA_behind_lines_desc: "At the start of the revolt, the revolters set up troops behind our lines as a distraction. Our generals have gotten similar ideas and wish to set the plan into motion. However, there is always the chance that our troops will get discovered."
+ SWA_launch_assault: "Launch the Assault"
+ SWA_launch_assault_desc: "Our troops have successfully made it behind the enemy and are waiting for the order to attack. The timing of this attack could determine our victory or defeat."
+
+### Industrial ###
+ SWA_recover_civil_war: "Recover from the Ovambo Revolt"
+ SWA_recover_civil_war_desc: "The Ovambo people revolting has brought absolute disaster to our nation's economy, with full recovery not being an option for years to come."
+ SWA_promote_OMEG: "Promote OMEG"
+ SWA_promote_OMEG_desc: "The OMEG (Otavi Minen und Eisenbahn-Gesellschaft) is a German-promoted railway and mining company, signed off by the Germans themselves. Promoting the use of the company will help us make new discoveries of resources and the build-up of our industry into the future, along with helping us get over the industrial crash caused by the Ovambo Revolt"
+ SWA_industrial_crisis: "Dealing with the Crisis"
+ SWA_industrial_crisis_desc: "Despite our best efforts, it seems our country is still destroyed from the Ovambo revolt. To achieve any further recovery, we'll need to rely on others, which can end up being dangerous in the end."
+ SWA_work_people: "Repairing the Country"
+ SWA_work_people_desc: "With all industry destroyed, everyone in the country is forced to live at a lower standard than they used to. Cooperating with the natives of countries we conquer, and our own, will help ensure more disasters like this no longer occur."
+ SWA_OMEG_recovery: "Recovery through Corporatism"
+ SWA_OMEG_recovery_desc: "The OMEG was proven effective in the railway from the coast to copper mines, with the railway still being used to this day. Creating similar systems across more parts of the country to increase foreign exports will help our industry recover."
+ SWA_mineral_processing: "Mineral Processing"
+ SWA_mineral_processing_desc: "The mineral industry is one of the main things the OMEG has been exploiting through the use of its railways, and has a lot of untapped potential with minerals not even known to be in Namibia hidden beneath the depths."
+ SWA_german_recovery: "Recovery through German Help"
+ SWA_german_recovery_desc: "Relying too much on local companies will end up harming us and our influence. We must always make sure that German control will remain absolute, no matter the satisfaction."
+ SWA_german_industrial_project: "German-backed Industrial Projects"
+ SWA_german_industrial_project_desc: "With German trust and support behind us, we can begin to industrialise Namibia and the rest of Africa the further we go along with the Mittelafrikan reformation."
+ SWA_native_cooperation: "Recovery through Cooperation"
+ SWA_native_cooperation_desc: "Relying on others for our economy to be fixed is asking for disaster, as it is up to the people to bring themselves off the ground and into a new age. We will aid them in this endeavour in the hopes of a bright future for our country."
+ SWA_cultural_integration: "Cultural Integration"
+ SWA_cultural_integration_desc: "Namibia is split between all kinds of different cultures, with some having absolutely no relation to each other, like the southern Germans and northern Ovambo. Forcing cooperation between the two groups will not be easy, but has to be done for the greater good."
+ SWA_recovery_effort: "Recovery Effort"
+ SWA_recovery_effort_desc: "With our backers behind us, we can begin to take the final steps to help the land recover from the revolt. It will be a long and difficult process, but we will come out better in the end."
+ SWA_revived: "The Economy is Revived!"
+ SWA_revived_desc: "Through our efforts, the economy has finally been revived and is thriving more than it was before! With this, we can now prepare to expand our domain, starting with Barotseland to the east of us. Of course, our army must be ready for this undertaking as well before we continue."
+ SWA_search_oil: "Search for Oil"
+ SWA_search_oil_desc: "Expanding the use of the OMEG company to not only mining, but also oil digging, could lead to possible discoveries in the future. After all, the rumour of Namibian oil is a hard opportunity to pass up."
+ SWA_strike_oil: "Retrieve the Oil"
+ SWA_strike_oil_desc: "Thanks to the work of the OMEG, minor amounts of oil have been discovered in Ovamboland, just like the rumours said. All that's left is putting the effort into exploiting it, but it might not make the already angered Ovambo people pleased."
+
+### Integration ###
+ SWA_integrate_vin: "Integrate the Ovambo People"
+ SWA_integrate_vin_desc: "The Ovambos to the north that make up the majority of our population, and were the ones behind the civil war, are continuing to terrorise the people in the north, lead by their own chief, Uushona Shiimi. Something has to be done about this before the situation ends up escalating."
+ SWA_preparing_barotseland: "Preparing Barotseland"
+ SWA_preparing_barotseland_desc: "The Barotseland Campaign, the first of many battles in our dream of conquering Mittelafrika will not be an easy one. We need to make sure we are ready to face off against the threat through thick and thin."
+ SWA_german_campaign_involvement: "German Campaign Involvement"
+ SWA_german_campaign_involvement_desc: "While we can handle the first campaign on our own, official German involvement in the war can help ensure our success in crushing the warlordism in Mittelafrika."
+ SWA_begin_campaign: "Launch the Campaign"
+ SWA_begin_campaign_desc: "With our country ready, we can launch the first of many campaigns in our quest to reunite Mittelafrika. Heia Safari!"
+ SWA_calm_barotseland: "Calm Barotseland"
+ SWA_calm_barotseland_desc: "With our invasion of Yeta's kingdom behind us, we must crush the ongoing rebellion before it escalates further."
+ SWA_coring_process: "Integrating Yeta's Kingdom"
+ SWA_coring_process_desc: "With the rebellion against our government over, we can begin to fully integrate Barotseland within our regime."
+ SWA_BRT_railway_expansion: "The Railway Reaches Barotseland"
+ SWA_BRT_railway_expansion_desc: "The railway we have begun constructing in Namibia can have uses in Barotseland as well. Extending the railway to Barotseland can help us reach our hands into the rest of Africa."
+ SWA_retake_africa: "Retake Africa"
+ SWA_retake_africa_desc: "Mittelafrika may have fallen, but we are still standing. It is time to retake Africa and return German glory to all corners of the continent."
+
+ SWA_the_return_of_mittelafrika: "The Reformation of Mittelafrika"
+ SWA_the_return_of_mittelafrika_desc: "With most of the German African territories being recovered by our skilled administration, we can officially consider Mittelafrika to be rebuilt once again in the name of the empire."
+
+### Expansion ###
+ SWA_german_rule: "Re-establish German Rule"
+ SWA_german_rule_desc: "With our crisis officially over, Germany is safe to come back to Africa through us. With us, the dream of making Mittelafrika whole again is not far off."
+ SWA_governor: "A New Governor?"
+ SWA_governor_desc: "Governor Heinrich Kirchheim has openly welcomed the remnants of the Schutztruppen to his domain. However, the question of leadership over the remnants of German Africa remains unsolved, and a true appointment to any such position was further delayed due to the Ovambo Revolt. Now that the country is at peace, we have a chance to finally appoint a new Governor."
+ SWA_mittelafrika_claim: "The Mittelafrika Claim"
+ SWA_mittelafrika_claim_desc: "The days of German overlordship of Africa are gone, but the dream is not. Today, we shall claim ourselves to be the successor to Mittelafrika, and vow to reunify it under the strong German banner."
+ SWA_naval_expansion: "Naval Expansion"
+ SWA_naval_expansion_desc: "Expanding simply by our land border will only end up causing us trouble in the future. Our only other option is to cross the great sea, in the hopes of gaining a foothold in West Africa so we can expand there."
+ SWA_old_MAF_ships: "Study Leftover Mittelafrikan Ships"
+ SWA_old_MAF_ships_desc: "Some leftover Mittelafrikan ships were left in the port of Swakopmund, and can be salvaged for future ship designs for us to use."
+ SWA_german_naval_support: "German Naval Support"
+ SWA_german_naval_support_desc: "Germany is much more experienced in naval affairs than us, and their government is willing to provide us with information on some of the latest naval tactics. We can use these in our coastal reclamation."
+ SWA_admiral_collection: "Admiral Collection"
+ SWA_admiral_collection_desc: "Admirals from Mittelafrika have since been recalled to Germany, and are awaiting further use. German has proved willing to let us recall these admirals for our own personal use."
+ SWA_naval_airforce: "Naval Air Force"
+ SWA_naval_airforce_desc: "With the recall of the admirals, we need to make sure the ships can get to the coasts of African warlords. Naval bombers leftover from Mittelafrika should be able to do the trick, even if they're not very many of them."
+ SWA_first_namibian_marines: "First Namibian Marines"
+ SWA_first_namibian_marines_desc: "The final preparation for the reclamation is getting troops specialised in invading coastlines, marines. They will prove vital in the reclamation for our country."
+ SWA_coastal_reclamation: "Coastal Reclamation"
+ SWA_coastal_reclamation_desc: "With the preparations complete, we can begin the process of invading the African warlords from the coast and reclaim our mandate once and for all."
+ SWA_land_expansion: "Land Expansion"
+ SWA_land_expansion_desc: "Our land border with these rebellious African warlords will be the key to our expansions, so we need to make sure our force on land is as strong and professional as possible."
+ SWA_native_policy: "Native Policy"
+ SWA_native_policy_desc: "With the recent establishment of our rule, our military is made nearly entirely of German volunteers and locally recruited German-Namibians. While this has led to a high amount of professionalism within the army, it's led to our army being minuscule in size. We'll need to review our policy to see how we will be moving in the future."
+ SWA_native_recruitment: "Native Recruitment"
+ SWA_native_recruitment_desc: "With Hans Hollander being our current choice for Governor, he has decided to put through a policy of native recruitment. While we will still be accepting German volunteers, he has granted permission to start recruiting integrated native populations, through peaceful or more violent means. While the size of our army has increased, it has put a drain on its professionalism."
+ SWA_askari_cooperation: "Askari Cooperation"
+ SWA_askari_cooperation_desc: "With Theodor von Hippel being our current choice for Governor, he has decided it is necessary to cooperate with the local Askari divisions. While this opens up our recruitment quite a bit, the Askari forces aren't as professional as the German ones, and our army is held back a bit by it."
+ SWA_askari_resistance: "The Askari Resistance"
+ SWA_askari_resistance_desc: "Askari's can easily blend into the background and assault the enemy within our occupied lands. Doing this will make it harder for the enemy to operate within our territory without facing stiff resistance."
+ SWA_german_force: "German Force"
+ SWA_german_force_desc: "Germany is our one and only defence, and we will rely on them for all things. The size of our forces doesn't matter in the end if we can overwhelm the enemy with superior equipment and firepower."
+ SWA_loyalty_empire: "Loyalty to the Empire"
+ SWA_loyalty_empire_desc: "Our loyalty to the German cause will forever be our one and only goal, and their glory comes. We will ensure our soldiers are always reminded of this fact."
+ SWA_put_native_work: "Native Labour"
+ SWA_put_native_work_desc: "Any and all natives must be put to work for the glory of our state, whether they consent or not. We will prepare to put them to work as we spread our influence all across Africa."
+ SWA_campaign_ready: "Campaign-Ready Forces"
+ SWA_campaign_ready_desc: "With our policy of our soldiers being decided, we are officially ready to move on with the reformation of Mittelafrika! Heia Safari!"
+
+### Events ###
+ south_west_africa_events.1.t: "Südwestafrika Requests Supplies"
+ south_west_africa_events.1.d: "Although the entirety of Mittelafrika has collapsed, there is one place that remains loyal, Namibia. This is the last place in Mittelafrika under white rule and is requesting our assistance in their current conflict. Not helping them would be foolish, as it could mean losing our last land in Africa."
+ south_west_africa_events.1.a: "Of course, we'll help."
+ south_west_africa_events.1.b: "Africa is lost."
+
+ south_west_africa_events.2.t: "Germany Send Support!"
+ south_west_africa_events.2.d: "It seems hope is not lost. Germany has sent us volunteers and supplies to assist us in our current struggle. Hopefully, we can trust them to help us in the future as well."
+ south_west_africa_events.2.a: "We can win this."
+
+ south_west_africa_events.3.t: "Germany Doesn't Help us"
+ south_west_africa_events.3.d: "Germany has decided that Africa is no longer a profitable place to invest in and has declined our request for support. We won't bother them with foolish requests like this in the future."
+ south_west_africa_events.3.a: "We'll win on our own then."
+
+ south_west_africa_events.4.t: "Südwestafrika Requests More Supplies"
+ south_west_africa_events.4.d: "The civil war in Namibia is still raging on, and they have requested more assistance. Ensuring our control in Africa is important, but we must be sure not to overextend ourselves there."
+ south_west_africa_events.4.a: "We'll assist as much as necessary."
+ south_west_africa_events.4.b: "Once was enough."
+
+ south_west_africa_events.5.t: "Germany Sends More Supplies!"
+ south_west_africa_events.5.d: "The generous men up in Germany have sent us more men and volunteers, in order for us to defeat the menace to the north. This war will be over in no time at this rate."
+ south_west_africa_events.5.a: "Victory will be ours."
+
+ south_west_africa_events.6.t: "Germany Refuses our Second Request"
+ south_west_africa_events.6.d: "The Germans have understandably refused our second request for supplies claiming that 'Overextending themselves into Africa when they have to worry about Europe isn't wise.' We'll need to fight the rest of this war on our own."
+ south_west_africa_events.6.a: "Disappointing."
+
+ south_west_africa_events.7.t: "Namibia Requests Workers"
+ south_west_africa_events.7.d: "Namibia is still fighting its civil war in the name of our country, and is requesting assistance for the third time. This time they are trying to fortify their capital in case their forces are pushed back. This could help their survival in the long run, so it seems like a worthy investment."
+ south_west_africa_events.7.a: "Send our workers."
+ south_west_africa_events.7.b: "They'll be able to win on their own."
+
+ south_west_africa_events.8.t: "Germany Assists Us"
+ south_west_africa_events.8.d: "Our generous allies up in Germany have given us a small number of workers in order to build the fortifications. Taking our capital will be much more difficult once this project is complete."
+ south_west_africa_events.8.a: "Send the workers."
+
+ south_west_africa_events.9.t: "The Fortifications are Complete"
+ south_west_africa_events.9.d: "The project has been complete, resulting in medium fortifications being built in our capital. This will help us in the civil war and in the long run for the future reunification of Mittelafrika."
+ south_west_africa_events.9.a: "Victory is in our hands."
+
+ south_west_africa_events.10.t: "Germany Doesn't Send Workers"
+ south_west_africa_events.10.d: "Germany has decided to not send workers to come to our aid, which will significantly increase the amount of time it will take to fortify Windhuk."
+ south_west_africa_events.10.a: "We'll do it on our own."
+
+ south_west_africa_events.11.t: "An Assault on Ovamboland"
+ south_west_africa_events.11.d: "At the beginning of the revolt, the Ovambo sent divisions behind our lines as a distraction for our forces. Our generals seem to have gotten a similar idea and wish to send a small expedition to sneak behind enemy lines and launch an ambush. Should we accept their plan?"
+ south_west_africa_events.11.a: "Approve the proposal."
+ south_west_africa_events.11.b: "Deny the proposal."
+
+ south_west_africa_events.12.t: "The Assault is Ready"
+ south_west_africa_events.12.d: "Our troops have successfully snuck through the disorderly lines of the Ovambo, and are ready to launch the assault whenever we give the word. The timing here is important, we don't want our units to be destroyed right as they arrive."
+ south_west_africa_events.12.a: "We'll time it carefully."
+
+ south_west_africa_events.13.t: "Our Units are Found"
+ south_west_africa_events.13.d: "Our units were almost at their destination in the back of the enemy lines, until a patrol discovered them. They were all massacred, leaving only one soldier to report the bloody incident. Trying something like this again would be futile and only result in more losses."
+ south_west_africa_events.13.a: "Scrap the plan."
+
+ south_west_africa_events.14.t: "Südwestafrika Launches an Assault"
+ south_west_africa_events.14.d: "Südwestafrika has adopted a similar tactic to us at the start of the war, and launched an assault in the middle of our territory. It's also right next to our capital, leaving it in grave danger of being captured. We must rush troops there now if we wish to win this battle!"
+ south_west_africa_events.14.a: "Send the army, quickly!"
+
+ south_west_africa_events.15.t: "Südwestafrika Wins the War!"
+ south_west_africa_events.15.d: "Südwestafrika has been embroiled in a civil war ever since Mittelafrika collapsed, but they have beaten back the foolish natives. With the conflict over, Südwestafrika has invited us to establish rule over them once again. Once our delegates arrived, there were talks floating about reforming Mittelafrika, but they remain rumours for now."
+ south_west_africa_events.15.a: "Not all is lost."
+
+ south_west_africa_events.16.t: "A New Governor?"
+ south_west_africa_events.16.d: "With the crisis finally being officially over, it is time we decide who the official Governor will be. There were various suggestions and three Weltkrieg veterans who fought in Sudwestafrika have been put up for the task. The first option is keeping Heinrich Kircheim, the current Governor who advocates for overwhelming the inferior African opponents with superior German firepower, the second is Hans Hollander, who advocates for mobilising the African population to see a quick and sudden reunification of Mittelafrika, and the third option, Theodor von Hippel who thinks careful planning and thinking three steps ahead is the key to our expansion."
+ south_west_africa_events.16.a: "Heinrich Kircheim, who led us through the recent war."
+ south_west_africa_events.16.b: "Hans Hollander, for a quick reunification."
+ south_west_africa_events.16.c: "Theodor von Hippel, for his careful planning."
+
+ south_west_africa_events.17.t: "Resistance from Ovambo"
+ south_west_africa_events.17.d: "Despite our victory in the Ovambo's revolt, there is still staunch resistance among a new group known as the 'Ovambo Movement', who raid towns in the hopes of letting the Ovambo people be free. This is all due to their leader, Uushona Shiimi managing to escape our clutches in the civil war. With towns being raided the conflicts do not show any signs of stopping, and the people demand we do something about the problem."
+ south_west_africa_events.17.a: "Search for Uushona Shiimi."
+ south_west_africa_events.17.b: "Focus on defending the people."
+
+ south_west_africa_events.18.t: "Uushona Shiimi Killed"
+ south_west_africa_events.18.d: "Uushona Shiimi who has been a thorn in our side since our reunification has been killed by loyal Askari troops at 6:12 inside a hotel inside Onajena. Although the initial thought was that the people would resent us for our actions, a lot are thanking us for dispersing the Ovambo revolt."
+ south_west_africa_events.18.a: "He's finally gone."
+
+ south_west_africa_events.19.t: "Amboland Integrated"
+ south_west_africa_events.19.d: "With the end of the Ovambo Movement's momentum, the north of our country has finally entered a state of calm and healing. With this, we can finally stand under a strong, united nation that can face external threats."
+ south_west_africa_events.19.a: "We are united."
+
+ south_west_africa_events.20.t: "Local Village Destroyed"
+ south_west_africa_events.20.d: "Although we have placed military police at key locations within our country, it seems some areas got inevitably overlooked and The Ovambo Movement took notice. They have managed to raid a village of all it has, slaughtering the entire population and seizing many supplies. The peaceful section of the Ovambo people is also blaming us for painting their culture in a bad light by letting these actions continue."
+ south_west_africa_events.20.a: "Spread out the police force."
+
+ south_west_africa_events.21.t: "Uushona Shiimi Killed in Battle"
+ south_west_africa_events.21.d: "Following the recent wave of momentum in The Ovambo Movement, Uushona Shiimi himself decided to lead an expedition on a seemingly unguarded village. Little did he know that military forces were lying in wait for him, and attacked him on sight. The brave regiment managed to kill Uushona Shiimi, but the unit was wiped out by the grunts left over from the expedition. Although we have managed to end the momentum of the movement, this is a general distaste inside our population for letting this problem continue for so long."
+ south_west_africa_events.21.a: "At least it's over."
+
+ south_west_africa_events.22.t: "Rumours of Namibian Oil"
+ south_west_africa_events.22.d: "Rumours have been circulating as of late of possible oil hidden within Namibia's crust, the question is whether these are truly rumours or truth. If these rumours are indeed true, this will result in Namibia going from a depopulated wasteland to a place of much wealth and trade, transforming the entire economy. However, to even search for the black gold will require many resources Germany is not willing to give. All that remains is deciding how much we are willing to invest in this."
+ south_west_africa_events.22.a: "Do a quick search."
+ south_west_africa_events.22.b: "Divert some of our funds towards the project."
+ south_west_africa_events.22.c: "This must be a priority."
+ south_west_africa_events.22.e: "Let's not waste our time."
+
+ south_west_africa_events.23.t: "Oil was Found!"
+ south_west_africa_events.23.d: "Oil! The black gold that was originally thought to be a simple rumour less than a month ago is now truth. With this brings significant wealth and resources that we can provide to the fatherland, all we need to do now is extract it all."
+ south_west_africa_events.23.a: "Namibia is a gold mine."
+
+ south_west_africa_events.24.t: "The Search goes Nowhere"
+ south_west_africa_events.24.d: "Despite vigorous searching, the oil is nowhere to be found. The entire project has proven to be a waste of resources and generally worthless. The hopes of Namibia ever being a profitable colony have been stomped to the ground and morale is at an all-time low."
+ south_west_africa_events.24.a: "What a waste of time."
+
+ south_west_africa_events.26.t: "Südwestafrika Requests Supplies"
+ south_west_africa_events.26.d: "Südwestafrika has found itself embroiled in a conflict with one of the treacherous African warlords, and is requesting our assistance. It would be wise to assist, as every gun we drop down there helps us get closer to the reformation of Mittelafrika, and our presence in Africa."
+ south_west_africa_events.26.a: "Send the supplies."
+ south_west_africa_events.26.b: "We can't spare anything at the moment."
+
+ south_west_africa_events.27.t: "Germany Sends Help"
+ south_west_africa_events.27.d: "Germany has decided to assist us in our current conflict. It is always good to know that Germany itself will always have our back in our quest for vengeance against these traitorous warlords."
+ south_west_africa_events.27.a: "Reunification is near."
+
+ south_west_africa_events.28.t: "We Fend for Ourselves"
+ south_west_africa_events.28.d: "Germany has decided against helping in this current conflict, claiming to not have more important things to do on the mainland. We will have to fight this one on our own, but we will be fine against this barbarian scum."
+ south_west_africa_events.28.a: "We'll win on our own."
+
+ south_west_africa_events.29.t: "Barotseland Resists our Invasion"
+ south_west_africa_events.29.d: "The Barotseland campaign has caused the area to devolve into anarchy. Even as our armies still fight on the battlefield, the Barotseland people have begun to fight the troops trying to keep the peace and are disrupting further planning for expansion into Africa. The threat will need to be dealt with soon, before support can reach into other areas we control as well."
+ south_west_africa_events.29.a: "Damn traitors."
+
+localisation\russian\KR_country_specific\MAL - Malaya l_russian.yml
+
+l_russian:
+
+### Parties ###
+ MAL_totalist_party: "Generation of Awakened Youth"
+ MAL_totalist_party_long: "Generation of Awakened Youth (Angkatan Pemuda Insaf)"
+ MAL_radical_socialist_party: "Malay Nationalist Party"
+ MAL_radical_socialist_party_long: "Malay Nationalist Party of Malaya (Parti Kebangsaan Melayu Malaya)"
+ MAL_syndicalist_party: "PMGLU"
+ MAL_syndicalist_party_long: "Pan-Malayan General Labour Union"
+ MAL_social_democrat_party: "Malay Congress-Socialists"
+ MAL_social_democrat_party_long: "Malay Congress-Socialists (Kongres Melayu)"
+ MAL_social_liberal_party: "Malay Congress-Liberals"
+ MAL_social_liberal_party_long: "Malay Congress-Liberals (Kongres Melayu)"
+ MAL_market_liberal_party: "Singapore Malay Union"
+ MAL_market_liberal_party_long: "Singapore Malay Union (Kesatuan Melayu Singapura)"
+ MAL_social_conservative_party: "Malay Congress-Conservatives"
+ MAL_social_conservative_party_long: "Malay Congress-Conservatives (Kongres Melayu)"
+ MAL_authoritarian_democrat_party: "Muslim People's Party of Malaya"
+ MAL_authoritarian_democrat_party_long: "Muslim People's Party of Malaya (Parti Hizbul Muslimin Malaya)"
+ MAL_paternal_autocrat_party: "All-Malaya Ulema Association"
+ MAL_paternal_autocrat_party_long: "All-Malaya Ulema Association (Persatuan Ulama Se-Malaya)"
+ MAL_national_populist_party: "Special Strength of the People"
+ MAL_national_populist_party_long: "Special Strength of the People (Kekuatan Rakyat Istimewa Semenanjung)"
+
+#Puppet Parties
+ MAL_CHI_CRS_puppet_party_name: "Three Stars Army"
+ MAL_CHI_CRS_puppet_party_name_long: "Three Stars Army (Bintang Tiga)"
+ MAL_CHI_PAC_puppet_party_name: "PAC (Overseas Bureau)"
+ MAL_CHI_PAC_puppet_party_name_long: "Provisional Action Committee (Overseas Bureau)"
+ MAL_CHI_RCA_puppet_party_name: "Overseas Chinese Anti-Enemy National Salvation Society"
+ MAL_CHI_RCA_puppet_party_name_long: "Overseas Chinese Anti-Enemy National Salvation Society"
+ MAL_RKT_puppet_party_name: "Malayan Chinese Association"
+ MAL_RKT_puppet_party_name_long: "Malayan Chinese Association (Malaiya Huaren Gonghui)"
+
+### Country Names ###
+ MAL: "Malaya"
+ MAL_ADJ: "Malay"
+ MAL_DEF: "Malaya"
+
+ MAL_totalist: "Democratic People's Republic of Malaya"
+ MAL_totalist_DEF: "the Democratic People's Republic of Malaya"
+ MAL_syndicalist: "Democratic People's Republic of Malaya"
+ MAL_syndicalist_DEF: "the Democratic People's Republic of Malaya"
+ MAL_radical_socialist: "Democratic People's Republic of Malaya"
+ MAL_radical_socialist_DEF: "the Democratic People's Republic of Malaya"
+
+ MAL_malaysia: "Malaysia"
+ MAL_malaysia_ADJ: "Malaysian"
+ MAL_malaysia_DEF: "Malaysia"
+
+ MAL_malaysia_totalist: "Democratic People's Republic of Malaysia"
+ MAL_malaysia_totalist_DEF: "the Democratic People's Republic of Malaysia"
+ MAL_malaysia_syndicalist: "Democratic People's Republic of Malaysia"
+ MAL_malaysia_syndicalist_DEF: "the Democratic People's Republic of Malaysia"
+ MAL_malaysia_radical_socialist: "Democratic People's Republic of Malaysia"
+ MAL_malaysia_radical_socialist_DEF: "the Democratic People's Republic of Malaysia"
+
+### Characters ###
+
+#Main Country Leaders
+ MAL_burhanuddin_al_helmy: "Burhanuddin al Helmy"
+ MAL_burhanuddin_al_helmy_leader_desc: "§YBorn:§! §LAugust 29th, 1911, in Kota Bharu, Perak, Federated Malay States§!"
+
+ MAL_zhuang_mingli: "Zhuang Mingli"
+ MAL_zhuang_mingli_leader_desc: "§YBorn:§! §LFebruary 1909, in Quanzhou, Fujian Province, Great Qing§!\n§YBackground:§! §LZhuang Mingli, or Chuang Ming-li as he is known in Malaysian Cantonese, was born to a Fujian peasant family. Many men in the family had taken up employment abroad, and his father found work as a boatman in the British territory of Penang, on the Malay Peninsula, tragically passing away in 1926.\n\nMingli travelled first to Penang, then to Binjai in the Dutch East Indies, where he found employment at a garage run by one of his uncles. There he got politically involved with overseas Chinese community activists, protesting against European and Japanese exploitation of his homeland. He joined a charity for civilian victims of the Jade Wind Incident and was vice-chairman of a youth group that boycotted foreign goods. These activities caught the eyes of the Dutch and he was deported back to China.\n\nHe sought employment in the factories of Quanzhou but soon became enamoured with radical trade unionism, forcing him to flee to back to Penang in 1930, fearing he would be killed if he remained in China. Mingli joined a number of new political bodies, such as the Fujian Overseas Chinese Salvation Congress held in Singapore, the Penang Philomathic Union founded by Sun Yat-Sen, as well as a number of local guilds and trade unions.\n\nThough only in his 20s, Mingli became one of the most prominent Chinese politicians in all of Malaya, writing fiery socialist screeds in the overseas Chinese press, under the pseudonym \"Zhuangjia\", which were broadly sympathetic to the KMT's Reorganisation Comrades Association. His most notable accomplishment was creating a \"Relief Committee for MinGan Refugees and Wounded Soldiers\", to support the Kuomintang uprising in 1936.\n\nA credible trade unionist as well as a charismatic champion of freedom and democracy, Mingli became a natural candidate for a high position within the General Labour Union, the pre-eminent trade union in Malaya, but few had expected that he would be made its chairman. He was a compromise between the syndicalists, the anarchists, and the more moderate socialists, a youthful man that nonetheless had the wisdom and experience to be able to unite the squabbling factions behind a shared revolutionary struggle.§!"
+
+ MAL_ibrahim_yaacob: "Ibrahim Yaacob"
+ MAL_ibrahim_yaacob_leader_desc: "§YBorn:§! §L1911, in Temerloh, Pahang, Federated Malay States§!"
+
+ MAL_mustapha_hussain: "Mustapha Hussain"
+ MAL_mustapha_hussain_leader_desc: "§YBorn:§! §LAugust 21st, 1910, in Matang, Perak, Federated Malay States§!"
+
+ MAL_onn_jaafar: "Onn Jaafar"
+ MAL_onn_jaafar_leader_desc: "§YBorn:§! §LFebruary 12th, 1895, in Bukut Jambu, Johore Bahru, Johore§!"
+
+ MAL_haji_embok_suloh: "Haji Embok Suloh"
+ MAL_haji_embok_suloh_leader_desc: "§YBorn:§! §L1891, in Singapore, Straits Settlements§!"
+
+ MAL_tunku_abdul_rahman: "Tunku Abdul Rahman"
+ # Alor Setar, Kedah Sultanate
+ MAL_tunku_abdul_rahman_leader_desc: "§YBorn:§! §LFebruary 8th, 1903, in Sultanate of Syburi, Monthon Syburi, Kingdom of Siam§!"
+
+ MAL_abu_bakar_al_baqir: "Abu Bakar al-Baqir"
+ MAL_abu_bakar_al_baqir_leader_desc: "§YBorn:§! §L1907, in Gunung Semanggol, Perak, Federated Malay States§!"
+
+ MAL_ahmad_fuad_hassan: "Ahmad Fuad Hassan"
+ MAL_ahmad_fuad_hassan_leader_desc: "§YBorn:§! §L1910, in Manong, Perak, Federated Malay States§!"
+
+ MAL_onan_haji_siraj: "Onan Haji Siraj"
+ MAL_onan_haji_siraj_leader_desc: "§YBorn:§! §L1912, in Ipoh, Perak, Federated Malay States§!"
+
+#Alternative Leaders
+ MAL_ibrahim_i_of_johor: "Ibrahim I of Johore"
+ MAL_ibrahim_i_of_johor_leader_desc: "§YBorn:§! §LSeptember 17th, 1873, in Istana Bidadari, Singapore, Straits Settlements§!"
+ MAL_peng_zemin: "Peng Zemin"
+ MAL_peng_zemin_leader_desc: "§YBorn:§! §L1877, in Sihui, Guangdong Province, Great Qing§!"
+ MAL_lai_teck: "Lai Teck"
+ MAL_lai_teck_leader_desc: "§YBorn:§! §L1901, in Nghệ Tĩnh Province, Protectorate of Annam, Indochinese Union§!"
+ MAL_abdul_hamid_halim: "Abdul Hamid Halim Shah"
+ MAL_abdul_hamid_halim_leader_desc: "§YBorn:§! §LJune 3rd, 1864, in Alor Setar, Syburi, Kingdom of Siam§!"
+ MAL_leong_yew_koh: "Leong Yew Koh"
+ MAL_leong_yew_koh_leader_desc: "§YBorn:§! §LAugust 22nd, 1888 in Kuala Kangsar, Perak, Federated Malay States§!"
+
+#Others
+ MAL_mokhtaruddin_lasso: "Mokhtaruddin Lasso" # AI-only, no need for DOBs
+ MAL_ishak_haji_muhammad: "Ishak Haji Muhammad" # AI-only, no need for DOBs
+ MAL_henry_lee_hau_shik: "Henry Lee Hau Shik" # AI-only, no need for DOBs
+ MAL_lim_bo_seng: "Lim Bo Seng" # AI-only, no need for DOBs
+ MAL_tan_chong_tee: "Tan Chong Tee" # AI-only, no need for DOBs
+ MAL_adnan_saidi: "Adnan Saidi" # AI-only, no need for DOBs
+
+ ### Focuses ###
+
+ malaya_focus: "Malaya Focus Tree"
+ MAL_perjuangan_melayu: "Perjuangan Melayu"
+ MAL_malay_economic_patronage: "Malay Economic Patronage"
+ MAL_peoples_islamic_education_institutions: "People's Islamic Education Institutions"
+ MAL_political_research_slot: "Has not already received a research slot from a political focus."
+ MAL_enforcement_of_sharia_law: "Enforcement of Sharia Law"
+ MAL_strengthen_islamic_malay_identity: "Strengthen Islamic Malay Identity"
+
+ MAL_bersekutu_bertambah_mutu: "Bersekutu Bertambah Mutu"
+ MAL_formation_of_the_legislative_council: "Formation of the Legislative Council"
+ MAL_the_malay_confederation: "The Malay Confederation"
+ MAL_enforcing_ketuanan_melayu: "Enforcing Ketuanan Melayu"
+ MAL_federal_reformation: "Federal Reformation"
+ MAL_enshrinement_of_multiethnicism: "Enshrine Multiethnic Citizenship"
+ MAL_dual_justice_system: "Dual Justice System"
+ MAL_national_schooling: "National Schooling"
+ MAL_ensure_constitutional_oversight: "Ensure Constitutional Oversight"
+
+ MAL_satu_untuk_semua_semua_untuk_satu: "[MAL_satu_untuk_semua_semua_untuk_satu]"
+ MAL_satu_untuk_semua_semua_untuk_satu_socialist: "Satu Untuk Semua, Semua Untuk Satu!"
+ MAL_satu_untuk_semua_semua_untuk_satu_kmt: "Revolusi Nasional Malaya"
+ MAL_satu_negara: "Satu Negara"
+ MAL_cooperative_economy: "Cooperative Economy"
+ MAL_towards_new_consciousness: "Towards New Consciousness"
+ MAL_islamic_socialism: "Islamic Socialism"
+ MAL_adopt_political_tutelage: "Adopt Political Tutelage"
+ MAL_national_self_reliance: "National Self Reliance"
+ MAL_reject_racial_division: "Reject Racial Division"
+ MAL_encourage_cultural_unity: "Encourage Cultural Unity"
+ MAL_three_principles: "Comprehensive Land Reform"
+
+ MAL_salvaging_german_industry: "Salvaging German Industry"
+ MAL_union_with_sarawak: "Union with East Malaya"
+ MAL_integration_of_singapore: "Integration of Singapore"
+ MAL_reclamation_of_north_malaya: "Reclamation of North Malaya"
+
+ MAL_develop_kuala_lumpur: "Develop Kuala Lumpur"
+ MAL_malacca_dockyards: "Malacca Dockyards"
+ MAL_johor_factories: "Johore Factories"
+ MAL_support_rubber_plantation_expansion: "Support Rubber Plantation Expansion"
+ MAL_pahang_bauxite_mining: "Pahang Bauxite Mining"
+
+ MAL_reform_the_malay_regiments: "Reform the Malay Regiment"
+ MAL_scavenge_abandoned_equipment: "Scavenge Abandoned Equipment"
+ MAL_learning_from_our_liberators: "Learning from our Liberators"
+ MAL_establish_the_malay_army: "Establish the Malay Army"
+
+ MAL_engineer_regiments: "Engineer Regiments"
+ MAL_malay_armoured_corp: "Malay Armoured Corp"
+ MAL_native_rifle_development: "Native Rifle Development"
+ MAL_expand_the_training_depot: "Expand the Training Depot"
+ MAL_incorporate_the_rangers: "Incorporate the Rangers"
+ MAL_organised_command_structure: "Organised Command Structure"
+ MAL_multiracial_recruitment: "Multiracial Recruitment"
+ MAL_territorial_army_regiment: "Territorial Army Regiment"
+
+ MAL_warriors_in_the_skies: "Warriors in the Skies"
+ MAL_importation_of_aircraft: "Importation of Aircraft"
+ MAL_simpang_airport: "Simpang Airport"
+ MAL_on_the_great_ocean: "On the Great Ocean"
+ MAL_defending_the_straits: "Defending the Straits"
+ MAL_disrupt_enemy_shipping: "Disrupt Enemy Shipping"
+
+ ### Ideas ###
+
+ MAL_rubber_plantation_idea: "Rubber Plantation Expansion"
+ MAL_rubber_plantation_idea_desc: "Malaya has long been the largest producer of rubber in the world, and with the native government having much more control over the nation's rubber industry it has chosen to greatly support its development to hopefully reap the economic benefits that it can bring."
+
+ MAL_perjuangan_melayu_idea: "Perjuangan Melayu"
+ MAL_perjuangan_melayu_idea_desc: "To the [MAL.GetAdjective] government, the Malay identity is one that cannot be divorced from the Islamic faith to which a majority of the population adhere. To the government also, it is to these Malay Muslims to whom the nation belongs, and although it may not be explicitly opposed to those of other ethnicities or faiths, it makes clear that they are more akin to tolerated guests than a true part of the nation. Through this lens, the government ensures that it operates within a system which prioritises Malay Muslims over all others, while attempting to adhere to many core Islamic values to which its leaders view as fundamental to Malay society."
+
+ MAL_malaya_merdeka_idea: "Malaya Merdeka"
+ MAL_malaya_merdeka_idea_desc: "For the first time in centuries, the Malay peninsula has found itself free to mostly decide its own future, although of course supported towards this direction by those who aided in its freedom. With this newfound freedom, the [MAL.GetAdjective] government has set out to establish a democratic state in which the rights of both the nation's peoples, and the states which make up the nation, are equally respected."
+
+ MAL_the_six_pillars_idea: "The Six Pillars"
+ MAL_the_six_pillars_idea_desc: "Unlike many of the world's nations who in recent decades have embarked upon the path of socialism, those in the [MAL.GetAdjective] government are putting into practice their own vision as to how a state that balances socialist belief with nationalist thought may look. The values to which these views are derived are known collectively by the party as the Six Pillars, 'To Unite' the people, 'To Show Loyalty' to the nation, 'To Serve' the nation, 'To Be Happy', 'To Serve the People', and to show 'Courtesy' as leaders of the people."
+
+ MAL_satu_untuk_semua_semua_untuk_satu_idea: "Satu Untuk Semua, Semua Untuk Satu!"
+ MAL_satu_untuk_semua_semua_untuk_satu_idea_desc: "'One for all, all for one' is the phrase to which many within the government of [MAL.GetNameDef] chooses to represent its vision for Malay socialism. To the government socialism is a concept which must be enacted through a nationalist lens, one where Malay communities must band together to lift up the nation beyond its colonial past and lift all of its people up along with it."
+
+ MAL_merdeka_dengan_darah_idea: "Merdeka Dengan Darah"
+ MAL_merdeka_dengan_darah_idea_desc: "Inspired greatly by a combination of Chinese influence, Islamic theology, and wider Nusantaran politics, the [MAL.GetAdjective] government have developed a view of socialism in which all of these inspirations have coalesced into one socialist vision. It is through this vision that the future of the nation is seen as one in which all of its people must fight for their freedom, no matter their race, and it is through this fight that they may all be united under a singular banner and move past inequality or division."
+
+ MAL_political_tutelage_idea: "Three Principles of the People"
+ MAL_political_tutelage_idea_desc: "After liberation by the National Revolutionary Army, the new Malayan Government has followed the path of the Chinese National Revolution, embarking on a phase of one party party rule to implement the Three Principles of the KMT. The new Malaya will forge a new path, built upon the shared struggle of ethnic Malays and Chinese against Imperialist powers. The Malayan People have stood up!"
+
+ MAL_malay_confederation_idea: "The Malay Confederation"
+ MAL_malay_confederation_idea_desc: "Rejecting a strong central authority, the [MAL.GetAdjective] government has chosen to greatly empower the rights of the individual states which make up [MAL.GetName]. While there remains a central government with direct authority over many matters of national interest and defence, power has been primarily placed in the hands of the local primarily Malay dominated governments of its member states."
+
+ MAL_reformed_federation_idea: "Federal Reformation"
+ MAL_reformed_federation_idea_desc: "Under colonial rule, under both British and German dominion, much of the Malay peninsula was governed as a federation united together under a central authority. Now free from the colonial shackles, the [MAL.GetAdjective] government has chosen to expand a reformed version of such a model to the entire nation, granting significant power to the states while investing executing authority in the nation's cabinet."
+
+ MAL_army_idea: "The [MAL.GetAdjective] Armed Forces"
+ MAL_army_idea_desc: "While historically the Malay states have fieled soldiers and even their own regiment for their colonial overlords, the burden of national defence is now one that cannot simply be pawned off to other people. As a result, the [MAL.GetAdjective] Armed Forces have been established to properly manage not only [MAL.GetName]'s national defence on land, but even on the sea and in the skies."
+
+localisation\russian\KR_country_specific\MAN - Manchuria l_russian.yml
+
+l_russian:
+
+ Manchuria_Focus: "Manchuria Focus Tree"
+
+### Country Names ###
+ MAN: "Manchuria"
+ MAN_DEF: "Manchuria"
+ MAN_ADJ: "Manchurian"
+
+ MAN_totalist: "Manchurian Peoples Federation"
+ MAN_totalist_DEF: "the Manchurian Peoples Federation"
+ MAN_syndicalist: "Manchurian Peoples Federation"
+ MAN_syndicalist_DEF: "the Manchurian Peoples Federation"
+ MAN_radical_socialist: "Manchurian Peoples Federation"
+ MAN_radical_socialist_DEF: "the Manchurian Peoples Federation"
+ MAN_social_democrat: "Republic of Manchuria"
+ MAN_social_democrat_DEF: "the Republic of Manchuria"
+ MAN_social_liberal: "Republic of Manchuria"
+ MAN_social_liberal_DEF: "the Republic of Manchuria"
+ MAN_market_liberal: "Republic of Manchuria"
+ MAN_market_liberal_DEF: "the Republic of Manchuria"
+ MAN_social_conservative: "Republic of Manchuria"
+ MAN_social_conservative_DEF: "the Republic of Manchuria"
+ MAN_authoritarian_democrat: "State of Manchuria"
+ MAN_authoritarian_democrat_DEF: "the State of Manchuria"
+ MAN_paternal_autocrat: "State of Manchuria"
+ MAN_paternal_autocrat_DEF: "the State of Manchuria"
+ MAN_national_populist: "State of Manchuria"
+ MAN_national_populist_DEF: "the State of Manchuria"
+
+### Parties ###
+ MAN_totalist_party: "SPM"
+ MAN_totalist_party_long: "Socialist Party of Manchuria"
+ MAN_syndicalist_party: "SPM"
+ MAN_syndicalist_party_long: "Socialist Party of Manchuria"
+ MAN_radical_socialist_party: "SPM"
+ MAN_radical_socialist_party_long: "Socialist Party of Manchuria"
+ MAN_social_democrat_party: "MDL"
+ MAN_social_democrat_party_long: "Manchuria Democratic League"
+ MAN_social_liberal_party: "MDL"
+ MAN_social_liberal_party_long: "Manchuria Democratic League"
+ MAN_market_liberal_party: "MDL"
+ MAN_market_liberal_party_long: "Manchuria Democratic League"
+ MAN_social_conservative_party: "MDL"
+ MAN_social_conservative_party_long: "Manchuria Democratic League"
+ MAN_authoritarian_democrat_party: "MSAC"
+ MAN_authoritarian_democrat_party_long: "Manchurian Supreme Administrative Council"
+ MAN_paternal_autocrat_party: "MSAC"
+ MAN_paternal_autocrat_party_long: "Manchurian Supreme Administrative Council"
+ MAN_national_populist_party: "MSAC"
+ MAN_national_populist_party_long: "Manchurian Supreme Administrative Council"
+ MAN_concordia_party: "Concordia Association"
+ MAN_concordia_party_long: "Concordia Association"
+
+### Characters ###
+
+ #關向應
+ MAN_guan_xiangying: "Guan Xiangying"
+ MAN_guan_xiangying_leader_desc: "§YBorn:§! §LSeptember 10th, 1902, in Daguanjia, Jinzhou, Shengjing District, Great Qing§!\n§YBackground:§! §LBorn to a Manchu family of the Guerjia clan, Guan Xiangying, from an early age, saw the horrors of imperialism firsthand as he toiled away in a Japanese-funded printing company. He saw Manchuria gradually fall under the influence of the Japanese and witnessed firsthand the rampant corruption of the Fengtian Clique, which holds dominion over the vast plains of Manchuria. At the age of 22, he joined a Socialist youth league, and when the Northern Expedition down south broke out in 1925, he joined the Chinese Syndicalist Party - joining many others in a fervour of anti-imperialist nationalism.\n\nUnfortunately, with the collapse of the Northern Expedition and the disintegration of the Kuomintang, the Chinese Syndicalist Party found itself even more disorganised. In those trying times, Guan was forced, like many others, to go into hiding and bid his time for the revolution. And yet the revolution has indeed come. With foreign socialist troops having freed Manchuria from the Japanese and Fengtian Clique, Guan has emerged out of hiding and guerrilla war to participate as the leader of a new revolutionary Manchuria - one that will champion and value the true labour of all the peoples in Manchuria!\n\nOr so he claims. In practice, the newly founded Socialist Party of Manchuria (modelled heavily after the Chinese Kuomintang) remains largely unpopular with the entrenched establishment they oppose and with the apathetic peasantry. Many resistance fighters feel betrayed by the foundation of an independent Manchurian state, and Chinese nationalism endures. Chairman Guan himself is said to be privately unhappy with recent developments, but has accepted this arrangement as a necessary evil to ensure the withdrawal of foreign occupiers.§!"
+ MAN_guan_xiangying_commander_desc: "§YBorn:§! §LSeptember 10th, 1902, in Daguanjia, Jinzhou, Shengjing District, Great Qing§!\n§YAlignment:§! §aLCS§!\n§YBackground:§! §LWhile Manchurian by ethnicity, Guan Xiangying found himself rooted firmly in the camp of Chinese nationalism especially when he found himself in conflict with his Japanese employees at a Japanese-funded printing company. In April of 1924, under the introduction of Li Zhenying, he joined the Chinese Socialist Youth League and then went to Shanghai with Li to engage in secret activities with the Kuomintang. In December of 1924, he would go to study in France and returned to China following the May 30th Movement.\n\nAfter the fall of the Northern Expedition, Guan Xiangying operated in Shanghai and Tianjin as a secret labour organiser and worked with Chinese syndicalist cells of the LCS in the north of the country.§!\n\n§YNotes: A long-time guerrilla commander, he has had some difficulty adjusting to formal field command, however he has proven to be a quick learner.§!"
+
+ #趙欣伯
+ MAN_zhao_xinbo: "Zhao Xinbo"
+ MAN_zhao_xinbo_leader_desc: "§YBorn:§! §L1890, in Wanping County, Zhili Province, Great Qing§!\n§YBackground:§! §LA Manchu bannerman with the Imperial Guard during the waning days of the Great Qing, a young Zhao Xinbo enrolled in the Tianjin Beiyang University. Amid the growing turbulence of Xinhai, he joined the Beijing Wenming New Theatre Troupe as a female actor and also the revolutionary Tongmenghui.\n\nAfter the failure of Sun's second revolution 1913, the light of Chinese republicanism dimmed and Zhao fled to Dalian. He became a Chinese teacher for Japanese students before successfully enrolling in law classes at Meiji University. There he became the first Chinese student to receive a doctorate in law from the Tokyo Imperial University in 1925. Heavily connected to Japanese influence, he was a legal advisor to Zhang Zuolin after graduation. Under Zhang Xueliang's patronage, he founded the Northeast Law Research Association.\n\nAn otherwise minor, pro-Japanese figure in the Fengtian clique, he was nevertheless willing to make the jump when foreign authorities decided to create a new Manchurian state. Zhao proved to be an eager collaborator, helping establish the Liaoning Province Local Maintenance Committee, which issued a declaration of independence for Manchuria on behalf of his masters. He successively became mayor of Shenyang, President of the Supreme Court, and President of the Legislative Yuan, influencing the creation of nearly all of Manchuria's nascent institutions during foreign occupation.\n\nWith his power growing, the so-called \"Midwife of Manchuria\" was finally granted his wish: an independent Manchurian republic. Easily elected into the role of President with the backing of a hastily cobbled together \"Manchuria Democratic League\", the future of his republic remains extremely shaky. Worse, he has been known to shamelessly embezzle money from the treasury. Beneath a thin veneer of democracy, designed mainly to cater to his foreign patrons, lies a largely unpopular strong-man oligarchy - a sham he may not have the competency to maintain.§!"
+
+ #富雙英
+ MAN_fu_shuangying: "Fu Shuangying"
+ MAN_fu_shuangying_bio: "An ethnic Manchu from Manchuria, Fu Shuangying attended Fengtian Army School before graduating from Baoding Military Academy in 1918. He soon found himself a member of the Fengtian army, serving as an instructor where he once attended primary school. An infantry commander by training, he served in such a regiment in the 2nd Zhifeng War.\n\nAt one point his achievements caught the eye of his commander Zhang Xueliang. Not particularly successful during the Fourth Zhili-Fengtian war, he was rotated to various back-end positions working in logistics. To this end he served as director of the Jingxing Mining Bureau and also as a staff officer in the Fengtian government."
+ MAN_fu_shuangying_notes: "§YNotes: Although he has some pro-Japanese connections, Fu is not a member of the Shikan clique or Concordia association.§!"
+ MAN_fu_shuangying_commander_desc: "§YBorn:§! §L1894, in Liaoyang, Shengjing District, Great Qing§!\n§YAlignment:§! §LApolitical§!\n§YBackground:§! §L$MAN_fu_shuangying_bio$§!\n\n$MAN_fu_shuangying_notes$"
+ MAN_fu_shuangying_leader_desc: "§YBorn:§! §L1894, in Liaoyang, Shengjing District, Great Qing§!\n§YBackground:§! §LA minor commander of Manchu descent in the Fengtian clique, Fu Shuangying was nothing special in the old order: a graduate from the prestigious Baoding military academy with a checkered record on the battlefield and some ties with Japanese interests in Manchuria. His lack of entrenched ties with the Zhangs or Tokyo, military education and bureaucratic experience gained administering (among other projects) the Jingxing Mining Bureau ultimately worked in his favour however when foreign authorities began searching for a candidate to lead an independent Manchuria.\n\nLargely a figurehead for foreign rule and with a questionable legitimacy even among ethnic Manchus, Fu has nonetheless taken on the role with stride. Installed as Chief Executive of Manchuria, he has concentrated his rule through the Manchurian Supreme Administrative Council, working with the local elite to protect the region's autonomy.\n\nThis government inherits a devastated Manchuria, with many of the previous decades investments having been either withdrawn with the Japanese retreat, looted by foreign occupiers, or destroyed in the fighting. Although expected to make some inroads with the old landed and bureaucratic establishment, the decision to create a fully independent Manchurian republic has stung many with lingering Chinese nationalistic sentiments, even among some of the fiercest Dongbei regionalists. The countryside remains embroiled in insurgency as reconstruction work begins.§!"
+
+### Focuses ###
+
+## Political Focuses ##
+ MAN_a_new_nation_in_dongbei: "A New Nation in Dongbei"
+
+#Socialist Tree
+ MAN_founding_the_socialist_party_of_manchuria: "Founding the Socialist Party of Manchuria"
+ MAN_attract_foreign_educated_students: "Attract Foreign Educated Students"
+ MAN_developing_a_revolutionary_culture: "Developing a Revolutionary Culture"
+ MAN_create_a_central_committee: "Create a Central Committee"
+ MAN_recruit_guerilla_leaders: "Recruit Ex-Guerrilla Leaders"
+ MAN_three_stage_revolution: "Three Stage Revolution"
+ MAN_land_to_the_tiller: "Land to the Tiller"
+ MAN_promoting_unionisation: "Promoting Unionisation"
+
+#Liberal Tree
+ MAN_dawn_of_the_manchuria_democratic_league: "Dawn of the Manchuria Democratic League"
+ MAN_harmony_among_the_five_races: "Harmony Among the Five Races"
+ MAN_ensure_life_and_property_of_the_people: "Ensure the Life and Property of the People"
+ MAN_empower_the_legislative_council: "Empower the Legislative Council"
+ MAN_rehabilitate_fengtian_administration: "Rehabilitate the Old Fengtian Administration"
+ MAN_draft_a_republican_constitution: "Draft a Republican Constitution"
+ MAN_guarantee_civil_rights: "Guarantee Civil Rights"
+ MAN_open_the_judicial_law_college: "Open the Judicial Law College"
+ MAN_emulate_the_japanese_example: "Following the Spirit of Meiji"
+ MAN_promote_the_spirit_of_national_foundation: "Promote the Spirit of National Foundation"
+
+#Reactionary Tree
+ MAN_install_manchu_military_government: "Forging the Future by Blood and Steel"
+
+ MAN_Promote_The_Regional_Identity: "Divorcing from the Illegitimate State"
+ MAN_Promote_The_Regional_Identity_desc: "To secure our state, the Manchurian people must view themselves as Manchurian alone. While it may take decades to eliminate the idea that Manchuria is a part of China, we must initiate the process."
+ MAN_trust_in_the_supreme_administrative_council: "Trust in the Supreme Administrative Council"
+ MAN_coopt_the_local_elite: "Towards the Corporatist Model"
+ MAN_safeguarding_manchuria: "Safeguarding Manchuria"
+ MAN_reinforcing_local_militias: "Reinforcing Local Militias"
+ MAN_empowering_the_chief_executive: "Empowering the Chief Executive"
+ MAN_youth_protection_corps: "Youth Protection Corps"
+ MAN_pan_asia_playground: "Forging the East Asian Economic Bloc"
+ MAN_kwantung_army_advisors: "Enshrining the Kwantung Army"
+
+#Japanese Puppet Tree
+ MAN_a_concord_of_five_races: "Frontline of Pan-Asianism"
+ MAN_rally_loyalist_officers: "Rallying Local Officers"
+ MAN_the_kingly_way: "Courting the Disenfranchised"
+ MAN_increase_government_salaries: "Federalising the New State"
+ MAN_securing_foreign_investments: "The State Socialist Model"
+ MAN_building_a_manchu_identity: "The True Heir of Chinese Civilisation"
+
+## Economic Focuses ##
+ MAN_The_Manchuria_Project: "The Manchuria Project"
+ MAN_The_Manchuria_Project_desc: "With Manchu domination over China shattered, the Manchu people have been overrun by Han chauvinists. The project of our state is to build a true home for the Manchu people, separate from China, without disregarding the other peoples of the land."
+ MAN_Industrial_Development_Commission: "Industrial Development Commission"
+ MAN_Industrial_Development_Commission_desc: "Manchuria is one of the foremost hotbeds of heavy industry in continental East Asia, and our industrial base continues to grow. To manage the growth and the movement of villagers to the cities, we should establish a central commission including business interests."
+ MAN_Anshan_Mines: "Anshan Mines"
+ MAN_Anshan_Mines_desc: "Anshan's steel production has risen rapidly but yields from the area's mines have stagnated. With a concerted state effort, we shall alleviate the issue."
+ MAN_Aluminium_Extraction: "Aluminium Extraction"
+ MAN_Aluminium_Extraction_desc: "Bauxite is abundant in Manchuria but Bauxite mines are few. We should jump start the foundation of Bauxite mines."
+ MAN_Fushun_Mines: "Fushun Mines"
+ MAN_Fushun_Mines_desc: "Fushun has ample deposits of coal. We should greatly expand its coal mines and build the rudimentary industries necessary to process it. Further development in the area and throughout our nation will surely follow."
+ MAN_Yalu_And_Songhua_Hydroelectricity: "Yalu and Songhua Hydroelectricity"
+ MAN_Yalu_And_Songhua_Hydroelectricity_desc: "The Yalu and Songhua rivers possess modern dams yet lack turbines. These dams should be retrofitted to produce power for their regions."
+ MAN_National_Transportation_Commission: "National Transportation Commission"
+ MAN_National_Transportation_Commission_desc: "Only for poor planning do many key industries lack sufficient rail connections. With proper planning, such issues would never have arisen. We need a bureaucratic entity for transportation."
+ MAN_Develop_Heilongjiang: "Develop Heilongjiang"
+ MAN_Develop_Heilongjiang_desc: "Heilongjiang, the furthest Eastern province of Manchuria bound by the Amur River, is no more developed than the great Siberian wilderness beyond. The first step to reversing the problem is to expand its rail connections and subsidise light industry."
+ MAN_Jinzhou_Industrial_Zone: "Jinzhou Industrial Zone"
+ MAN_Jinzhou_Industrial_Zone_desc: "Jinzhou with its many connections by rail and sea is the perfect site for experimentation in industrial policy. The new Jinzhou industrial zone shall be the basis for increased efficiency in the national bureaucracy."
+ MAN_The_Northeast_Breadbasket: "The Northeast Breadbasket"
+ MAN_The_Northeast_Breadbasket_desc: "Many scarcer industrial materials are abundant in Manchuria. We should bring them to market."
+ MAN_Soy_Agricultural_Initiative: "Soy Agricultural Initiative"
+ MAN_Soy_Agricultural_Initiative_desc: "Soybeans can be planted extremely closely together with only modest watering, bolstering yields. To feed the people, we must promote the cultivation of soy."
+ MAN_Dyes_And_Textiles: "Dyes & Textiles"
+ MAN_Dyes_And_Textiles_desc: "The textile industry has kickstarted industrial growth throughout the world. Underdeveloped areas, small towns, and even villages where the trade has traditionally been plied, should be encouraged to focus on the textile industry."
+ MAN_Fuelling_Mechanization: "Fuelling National Mechanisation"
+ MAN_new_capital_new_nation: "A New Capital for a New Nation"
+ MAN_buttress_central_bank: "Buttress the Manchurian Central Bank"
+ MAN_mobilise_manchurian_industrial_might: "Mobilise Manchurian Industrial Might"
+ MAN_new_currency: "Issue New Currency"
+ MAN_streamline_salt_gabelle: "Streamline the Salt Gabelle"
+ MAN_fund_national_foundation_university: "Fund the National Foundation University"
+ MAN_secure_international_legitimacy: "Secure International Legitimacy"
+ MAN_nationalise_japanese_assets: "Nationalise Japanese Assets"
+ MAN_work_with_concordia: "Work with the Concordia Association"
+ MAN_jewel_of_the_northeast: "The Jewel of the Northeast"
+
+ MAN_mantetsu_profits: "Renewed Mantetsu Profits"
+ MAN_mantetsu_profits_desc: "The South Manchuria Railway Company, informally known as Mantetsu, has had a presence in Manchuria since the end of the Russo-Japanese War. Its operations once spanned the region's width, and formed the heart of its once booming industrial economy while also providing more gross revenue for the Japanese Government than the rest of its empire combined.\n\nThe tumultuous circumstances of the past few years has upended what was once a prospering enterprise. Our successful reclamation of Manchuria has allowed us to claw back some of our investment, but it is little more than a shadow of its former glory. Still, we are fortunate to have scavenged what we could, and with some careful investment we can slowly coax back the now reluctant business community to return."
+ MAN_mantetsu_influence_idea: "Restored Mantetsu Influence"
+ MAN_mantetsu_influence_idea_desc: "Mantetsu's economic influence once spread across the Manchurian countryside, bringing much need capital and expertise to our resource rich homeland. This partnership was upended by recent turmoil, leaving decades of investment in smouldering ruins. We have worked with our Japanese friends to scavenge what we could, however much of it has been irrevocably lost. Nevertheless, we will make do with what we can, hand in hand we march to tomorrow."
+
+## Army Focuses ##
+ MAN_reorganise_regional_forces: "Reorganise Regional Forces"
+ MAN_Pacify_The_Countryside: "Pacify the Countryside"
+ MAN_Pacify_The_Countryside_desc: "Bandits have roamed the Manchuria countryside for decades, indeed, Zhang Zuolin was himself a bandit. We must succeed where past governments have failed and protect even the smallest villages from banditry. For this, we will have the people's loyalty."
+ MAN_expand_the_guard_corps: "Expand the Guard Corps"
+ MAN_the_iron_stone_detachment: "The Iron Stone Detachment"
+ MAN_enlist_mongolian_cavalry: "Enlist Mongolian Cavalry"
+ MAN_form_the_public_security_division: "Form the Public Security Division"
+ MAN_establish_the_central_training_school: "Establish the Central Training School"
+ MAN_hire_foreign_advisors: "Hire Foreign Advisors"
+ MAN_fund_the_automobile_corps: "Fund the Automobile Corps"
+ MAN_reconcile_warlord_officers: "Reconcile Warlord Officers"
+ MAN_rebuild_shenyang_arsenal: "Rebuild Shenyang Arsenal"
+ MAN_capital_guard_units: "Capital Guard Units"
+
+## Navy Focuses ##
+ MAN_Authorise_a_River_Defense_Fleet: "Authorise a River Defence Fleet"
+ MAN_Retain_Fengtian_Naval_Staff: "Retain Fengtian Naval Staff"
+ MAN_Manchurian_Navy_Land_Units: "Manchurian Navy Land Units"
+ MAN_Invest_in_Sukoda_Dockyard: "Invest in Sukoda Dockyard"
+ MAN_Expand_the_Yingkou_Port: "Expand the Yingkou Port"
+ MAN_Expand_the_Yingkou_Port_desc: "Yinkou is the largest port of the Liaodong bay. Its expansion up to this point has been rather haphazard and inefficiency is rampant. We must invest in bringing the port up to modern standards."
+ MAN_Beyond_Gunboats: "Beyond Gunboats"
+ MAN_Underwater_Menace: "Underwater Menace"
+ MAN_Integrating_Dalian_Naval_Infrastructure: "Integrating Dalian Naval Infrastructure"
+ MAN_The_Shipyards_of_Vladivostok: "The Shipyards of Vladivostok"
+ MAN_Contest_the_Seas: "Contest the Seas"
+
+## Air Forces ##
+ MAN_scavenge_fengtian_air_projects: "Scavenge Fengtian Air Projects"
+ MAN_manchurian_aviation_company: "Manchurian Aviation Company"
+ MAN_charter_manchurian_flying_school: "Charter the Manchurian Flying School"
+ MAN_manchurian_airplane_manufacturing_company: "Manchuria Airplane Manufacturing Company"
+ MAN_import_fighter_designs: "Import Fighter Designs"
+ MAN_light_bomber_arm: "Light Bomber Arm"
+ MAN_naval_aviation_program: "Naval Aviation Programme"
+ MAN_air_defence_programs: "Air Defence Programs"
+ MAN_airborne_infantry: "Airborne Infantry"
+
+localisation\russian\KR_country_specific\MDR - Madras l_russian.yml
+
+l_russian:
+
+### Country Names ###
+ MDR: "Madras"
+ MDR_ADJ: "Madrasi"
+ MDR_DEF: "Madras"
+ MDR_totalist: "Tamilakam"
+ MDR_totalist_ADJ: "Tamil"
+ MDR_totalist_DEF: "Tamilakam"
+ MDR_syndicalist: "Tamilakam"
+ MDR_syndicalist_ADJ: "Tamil"
+ MDR_syndicalist_DEF: "Tamilakam"
+ MDR_radical_socialist: "Tamilakam"
+ MDR_radical_socialist_ADJ: "Tamil"
+ MDR_radical_socialist_DEF: "Tamilakam"
+ MDR_social_democrat: "Tamilakam"
+ MDR_social_democrat_ADJ: "Tamil"
+ MDR_social_democrat_DEF: "Tamilakam"
+ MDR_social_liberal: "Tamilakam"
+ MDR_social_liberal_ADJ: "Tamil"
+ MDR_social_liberal_DEF: "Tamilakam"
+ MDR_national_populist: "Tamilakam"
+ MDR_national_populist_ADJ: "Tamil"
+ MDR_national_populist_DEF: "Tamilakam"
+
+ MDR_DRAV: "Dravida Nadu"
+ MDR_DRAV_ADJ: "Dravidian"
+ MDR_DRAV_DEF: "Dravida Nadu"
+
+### Party Names ###
+
+ MDR_totalist_party_long: "Socialist Party of Tamilakam"
+ MDR_totalist_party: "SPTN"
+ MDR_syndicalist_party_long: "Socialist Party of Tamilakam"
+ MDR_syndicalist_party: "SPTN"
+ MDR_radical_socialist_party_long: "Socialist Party of Tamilakam"
+ MDR_radical_socialist_party: "SPTN"
+ MDR_social_democrat_party_long: "South Indian Liberal Federation (Self Respect Movement)"
+ MDR_social_democrat_party: "Justice (Self Respect)"
+ MDR_social_liberal_party_long: "Independent Nationalist Party"
+ MDR_social_liberal_party: "Independent Nationalist"
+ MDR_market_liberal_party_long: "South Indian Liberal Federation"
+ MDR_market_liberal_party: "Justice Party"
+ MDR_social_conservative_party_long: "South Indian Liberal Federation"
+ MDR_social_conservative_party: "Justice Party"
+ MDR_authoritarian_democrat_party_long: "South Indian Liberal Federation"
+ MDR_authoritarian_democrat_party: "Justice Party"
+ MDR_paternal_autocrat_party_long: "Executive Council of Madras"
+ MDR_paternal_autocrat_party: "Executive Council"
+ MDR_national_populist_party_long: "Dravidian Extremists"
+ MDR_national_populist_party: "Dravidian Extremists"
+
+### Characters ###
+ MDR_periyar_ramasamy: "Periyar Ramasamy"
+ MDR_periyar_ramasamy_leader_desc: "§YBorn:§! §LSeptember 17th, 1879, in Erode, Presidency of Fort St. George, British India§!"
+ MDR_paramasiva_subbarayan: "Paramasiva Subbarayan"
+ MDR_paramasiva_subbarayan_leader_desc: "§YBorn:§! §LSeptember 11th, 1889, in Tiruchengode, Presidency of Fort St. George, British India§!"
+
+ MDR_ramakrishna_ranga_rao: "Ramakrishna Ranga Rao"
+ MDR_ramakrishna_ranga_rao_leader_desc: "§YBorn:§! §LFebruary 20th, 1901, in Bobbili, Presidency of Fort St. George, British India§!"
+
+ MDR_kannayiram_subramanian: "Kannayiram Subramanian" #First name disputed, using only claimed first name for now
+ MDR_kannayiram_subramanian_commander_desc: "§YBorn:§! §LDecember 18th, 1912, in Madras, Presidency of Fort St. George, British India§!"
+

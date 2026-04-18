@@ -1,0 +1,546 @@
+§YWith the promise of 'free and fair' elections, the §cReformist Faction§! of the Union of Muslims will solidify their control, converting half of $authoritarian_democrat_coloured$ popularity into $social_conservative_coloured$ popularity.§!
+§YWith the indefinite extension of Martial Law, the §PConservative Faction§! of the Union of Muslims will solidify their control, converting half of $authoritarian_democrat_coloured$ popularity into $paternal_autocrat_coloured$ popularity.§!
+§ROur new political orientation will prevent us from entering into coalitions in the future.§!
+Combine §YLoosening the Leash§! and §YNormalised Military Control§! into §YNon-Partisan Military Regime§!\nEffective Change:\nPolitical Power Gain: §G+5%§!\nDivision Organisation: §G+5%§!\n$MODIFIER_STABILITY_FACTOR$: §G+5%§!\nJustify War Goal Time: §G-25%§!\n
+Combine §YLoyal Governors§! and §YNormalised Military Control§! into §YNon-Partisan Military Regime§!\nEffective Change:\nPolitical Power Gain: §G+5%§!\nDivision Organisation: §G+5%§!\n$MODIFIER_STABILITY_FACTOR$: §G+5%§!\nJustify War Goal Time: §G-25%§!\n
+§CIf we have the national spirit §YSupport from the Mullahs§! when this focus completes, we will receive increased §YStability§! and §YParty Popularity§!, and the national spirit §YSupport from the Sufi Orders§! will be improved!§!
+§CIf we have the national spirit §YElectoral Unity§! when this focus completes, it will cost less to unite our parties.§!
+§CThis increases the strength of the Kazakh Insurgency!§!
+§CThis greatly increases the strength of the Kazakh Insurgency!§!
+§GThis increases the coordination of the Pan-Turk Movement!§!
+§GThis greatly increases the coordination of the Pan-Turk Movement!§!
+§LThis focus will allow us to prevent one form of Russian intervention into our nation, should they prepare any. Unfortunately, we do not have the funds to protect against all possibilities, and will have to choose a priority.§!
+If Russia attempts to disrupt our operations in the Alash Autonomy, our coordination may prove vital!
+Should Russia try to target our leaders, this extra protection may prove vital!
+Were Russia to manoeuvre against us internationally, extra diplomatic support may tip the scales!
+Accurate reports of Kazakh suffering will increase the chance that foreign nations will support our oppressed brethren!
+Even if the Germans do not choose to direct their attention towards our coming conflict, our close connections will prod them to support our cause!
+This idea scales with the strength of the Pan-Turk Movement!
+§0This increases the strength of the Bukharan Dissident Movement!§!
+§8This provides Junaid Khan's government with £GFX_supply_texticon 5 Preparation§!
+Controls §Y[GetVictoryPointName_12581]§! and surrounding provinces
+By rapidly responding to the problems our nation faces, we will improve our §YPreparation Campaign§! by one level. If we achieve the highest level of preparation, we will be compensated with £army_experience Army Experience.
+§YThis will drain our gold reserves!§!
+Reduces the time it takes for our gold stocks to increase by §C20 days.§!
+£stability_texticon  §H7%§!
+£stability_texticon  §R7%§!
+It costs $TRK_7_stability_blocked$ to take this decision
+Completing the decisions above will grant the following in §Y50§! days:
+We will need both §YAzeri Knowhow§! and §YOttoman Material§! if we want to begin exploiting our oil reserves.
+Combines §YBasmachi Army§!, §YSupport of the Jadids / Mullahs§!, §YA New Tashkent Treaty§!, §YCompleted War Chest§!, and our §YCoalition Spirit§! into one spirit, with bonuses based on the make-up of Madamin Bek's government.
+§LHaving§! §YKichik Ergash§! §Las an advisor would accelerate the training of our forces.§!
+§GKichik Ergash's service in our government accelerates the training of our forces!§!
+§GAlihan Tura's service in our government allows us to draft comprehensive legislation!§!
+§GEshon Babakhan's service in our government allows us to draft comprehensive legislation!§!
+§GNikolay Mallitsky's service in our government pressures the Kadets to fully back our proposals!§!
+§LHaving§! §YIskander Yaushev§! §Las an advisor would lessen the impact on our war support.§!
+§GKonstantin Osipov's service in our government allows us to secure control of the Tashkent Garrison!§!
+§GKonstantin Monstrov's service in our government allows us to secure control of the Peasants Militias!§!
+§GMikhail Gavrilov's service in our government 'convinces' the obstructionists to stand down!§!
+§LThis focus will allow us to work with the Jadids to increase our stability. Negotiations will proceed more smoothly if we have §YAlihan Tura§! or §YEshon Babakhan§! as an advisor.§!
+§LHaving §YAlihan Tura§! or §YEshon Babakhan§! as an advisor would have given us new, stronger options of dealing with the Jadids.§!
+§LThis focus will allow us to integrate the Tashkent Council. Negotiations will proceed more smoothly if we have §YNikolay Mallitsky§! or §YMikhail Gavrilov§! as an advisor.§!
+§LHaving §YNikolay Mallitsky§! or §YMikhail Gavrilov§! as an advisor would have given us new, stronger options of dealing with the Tashkent Council.§!
+§LThis focus will allow us to integrate Russian led militias. Negotiations will proceed more smoothly if we have §YKonstantin Monstrov§! or §YKonstantin Osipov§! as an advisor.§!
+§LHaving §YKonstantin Monstrov§! or §YKonstantin Osipov§! as an advisor would have given us new, stronger options of dealing with the Russian led militias.§!
+§LThis focus will fire events allowing us to favour various factions within the Russians of the Turkestan Republic. Siding with individual leaders will §Gimprove§! their advisor traits, but will §Rlock§! their opponents.§!
+§R§YKonstantin Osipov§! will no longer be available as a §YPolitical§! or §YMilitary Advisor§!§!
+§RAngering Kurshirmat may drive him into the hands of our enemies!§!
+§RStrengthing Kurshirmat will placate him, but leave him all the more influential!§!
+Supplying our Kazakh allies with proper armaments will §Gimprove§! the quality of their militias.
+Joint training exercises with our Kazakh allies will §Gimprove§! the experience of their militias.
+§CUpgrades§! Decision: £decision_icon_small §HMeet with Yeni Turan Cemiyet§!.
+Can be upgraded by completing the Focuses: §HOur Ottoman Brothers§! and / or §HBrotherhood of Turkic Nations§!.
+Can be further upgraded by completing Focus: §HOur Ottoman Brothers§!.
+Can be further upgraded by completing Focus: §HBrotherhood of Turkic Nations§!.
+§CUpgrades§! the Decisions: £decision_icon_small §HFund the Kazakh Conspiracy§! and £decision_icon_small §HSupport Kazakh Newspapers§!.
+Hiring this advisor §CUpgrades§! the Decisions: £decision_icon_small §HFund the Kazakh Conspiracy§! and §HThe Petropavlovsk Connection§!.
+Hiring this advisor §CUpgrades§! the Decision: £decision_icon_small §HFund Kazakh Nationalist Newspapers§!.
+Can be further upgraded by hiring §YIskander Yaushev§! as an advisor.
+Can be further upgraded by completing Focus: §HTashkent-Verny Railway§!.
+Can be upgraded by completing the Focuses: §HTashkent-Verny Railway§! and / or hiring §YIskander Yaushev§! as an advisor.
+Can be further upgraded by hiring §YMukhamedzhan Seralin§! as an advisor.
+Can be upgraded by completing the Focuses: §HTashkent-Verny Railway§! and / or hiring §YMukhamedzhan Seralin§! as an advisor.
+The Reformists have an opportunity to prove their value by taking decisive action to reform the government. If they fail to seize the initiative, however, they will likely be once again sidelined in favour of Madamin Bek's conservative allies.
+§RThis idea will be removed when the conflict in Central Asia ends!§!
+ §CWe have survived the War in the Steppe.§!
+§YKhorezm§!, §YKarakum§!, §YKyzylkum§!, §YBukhara§!, §YPamir§!, and §YBadakhshan§! gain the modifier §YLimited Local Autonomy§!, which grants\n      $MODIFIER_COMPLIANCE_GROWTH$: §G+20%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §R-10%§!\n      $MODIFIER_LOCAL_MANPOWER$: §R-20%§!\n\n
+§YKarakum§!, §YKyzylkum§!, §YBukhara§!, §YPamir§!, and §YBadakhshan§! gain the modifier §YLimited Local Autonomy§!, which grants\n      $MODIFIER_COMPLIANCE_GROWTH$: §G+20%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §R-10%§!\n      $MODIFIER_LOCAL_MANPOWER$: §R-20%§!\n\n
+§YKhorezm§!, §YKarakum§!, §YKyzylkum§!, §YPamir§!, and §YBadakhshan§! gain the modifier §YLimited Local Autonomy§!, which grants\n      $MODIFIER_COMPLIANCE_GROWTH$: §G+20%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §R-10%§!\n      $MODIFIER_LOCAL_MANPOWER$: §R-20%§!\n\n
+§YKarakum§!, §YKyzylkum§!, §YPamir§!, and §YBadakhshan§! gain the modifier §YLimited Local Autonomy§!, which grants\n      $MODIFIER_COMPLIANCE_GROWTH$: §G+20%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §R-10%§!\n      $MODIFIER_LOCAL_MANPOWER$: §R-20%§!\n\n
+(§YKhorezm§!):\nReplace §YLimited Local Autonomy§! With §YSignificant Local Autonomy§!\nEffective change:\n      $MODIFIER_COMPLIANCE_GROWTH$: §R-20%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+10%§!\n      $MODIFIER_LOCAL_MANPOWER$: §G+20%§!\n\n
+(§YBukhara§!):\nReplace §YLimited Local Autonomy§! With §YSignificant Local Autonomy§!\nEffective change:\n      $MODIFIER_COMPLIANCE_GROWTH$: §R-20%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+10%§!\n      $MODIFIER_LOCAL_MANPOWER$: §G+20%§!\n\n
+§YBukhara§! removes the modifier §YLimited Local Autonomy§!, which grants\n      $MODIFIER_COMPLIANCE_GROWTH$: §G+10%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §R-5%§!\n      $MODIFIER_LOCAL_MANPOWER$: §R-10%§!\n
+§YSamarkand§! removes the modifier §YLimited Local Autonomy§!, which grants\n      $MODIFIER_COMPLIANCE_GROWTH$: §G+10%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §R-5%§!\n      $MODIFIER_LOCAL_MANPOWER$: §R-10%§!\n
+§YKhorezm§! removes the modifier §YLimited Local Autonomy§!, which grants\n      $MODIFIER_COMPLIANCE_GROWTH$: §G+10%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §R-5%§!\n      $MODIFIER_LOCAL_MANPOWER$: §R-10%§!\n
+§YKhorezm§! removes the modifier §YLimited Local Autonomy§!, which grants\n      $MODIFIER_COMPLIANCE_GROWTH$: §G+20%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §R-10%§!\n      $MODIFIER_LOCAL_MANPOWER$: §R-20%§!\n
+All §YMinor Central Asian States§! gain the modifier §YTurkestani Federal Region§!, which grants\n      $MODIFIER_LOCAL_MANPOWER$: §R-15%§!\n      $MODIFIER_COMPLIANCE_GROWTH$: §G+10%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+10%§!\n\nAll §YMajor Central Asian States§! gain the modifier §YTurkestani Federal State§!, which grants\n      $MODIFIER_LOCAL_MANPOWER$: §R-15%§!\n      $MODIFIER_LOCAL_BUILDING_SLOTS$: §G+1§!\n      $MODIFIER_COMPLIANCE_GROWTH$: §G+10%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+10%§!
+Turkestani Federal State
+Turkestani Federal Region
+In return for granting them §YSignificant Personal Autonomy§!, a number of our former enemies will join us as §YPolitical Advisors§!, §YMilitary Advisors§!, and §YArmy Leaders§!.\nAdditionally, §YField Marshals§! and §YGenerals§!:\n  Add Attack Skill: §G+1§!
+§CTransitioning into a modern economy, when this focus completes we will no longer gain §YGold§!, gaining political power or a civilian factory depending on our gold reserves.§!
+§CIf we have the economy law §YEarly Mobilisation§! or §YPartial Mobilisation§! when this focus completes, then this focus will add additional infrastructure and civilian factories!§!
+§CIf we have the economy law §YPartial Mobilisation§! when this focus completes, then this focus will add additional infrastructure and civilian factories!§!
+§CIf we have provided §YAutonomy§! to any of our regions, this will be reversed at the cost of §YStability§!§!!
+§CIf we have provided §YAutonomy§! to any of our regions through underhanded deals with local power brokers, this will be reversed at the cost of §YPolitical Power§!§!!
+§CIf we have §Y[TRK_nazir_turyakululy.GetName]§! as an advisor when this focus completes, the resulting spirit will be more powerful!§!
+§CIf we have the national spirit §Y$TRK_debate_jadid$§! when this focus completes, the initial maluses will be less detrimental!§!
+§CIf we have §Y[TRK_nazir_turyakululy.GetName]§! as an advisor and the national spirit §Y$TRK_debate_jadid$§! when this focus completes, the initial maluses will be less detrimental and the resulting spirit will be more powerful! §!
+Combine and Improve §Y$TRK_the_peoples_party_national_turkism$§!, §Y$TRK_formalised_presidency$§!, and §Y$TRK_statist_econ$§! into §Y$TRK_red_basmachi_regime$§!\nEffective change:\nDaily Political Power Gain: §G+0.03§!\nRecruitable Population Factor: §G+3%§!\nDivision Recovery Rate: §G+7.0%§!\n$MODIFIER_STABILITY_FACTOR$: §G+7.50%§!\nProduction Efficiency growth: §G+10.00%§!
+§RCowed into Silence and Too Afraid to Organise§!
+§LAgitating in the Streets and Meeting in Madrasas§!
+§GDistributing Weapons and Planning Barricades§!
+§RWeak and Disorganised§!
+§LGathering Strength§!
+§GPrepared to Fight§!
+§RPoorly Equipped§!
+§GProperly Equipped§!
+§RPoorly Disciplined§!
+§GWell Trained§!
+§RA Distant Fantasy to Some, a Cynical Tool to Others§!
+§LA Slogan to Fight For; Even if Few Truly Believe§!
+§GThe Glue Holds our Alliance Together; Whether We Like It or Not§!
+§GA Fire Lit in the Heart of Every Patriot!§!
+§CThe tensions that Central Asia is embroiled in have not yet been settled.§!
+The Reformists have been brought into our coalition.
+The Jadids have been protected from harassment.
+The Reformists have lost Madamin Bek's favour.
+We circumvented the democratic process during the Veterans Union leadership debate.
+We betrayed our old ally Osipov during the Veterans Union leadership debate.
+We turned our backs on our old ally Monstrov during the Fergana Peasant Association leadership debate.
+We crushed Gavrilov's leadership challenge against the Old Bear.
+Circle of Turkestan Socialists
+Turkestan Sosialistlar Tüdesi
+KMMI / SI
+Union of Muslim Toilers (Musulman Mehnatkashlar Ittifaqi) / Muslim Artisan's Union (Sanna ul-Islam)
+National Union
+Milliy Ittihod (Radical Faction)
+PSR
+Party of Social Revolutionaries
+$TRK_radical_socialist_party$
+Milliy Ittihod (Liberal Faction)
+Kadets / Minority Groups
+Constitutional Democratic Union / Jewish and Russian Minority Interest Groups
+$TRK_authoritarian_democrat_party$
+Ittifaq ul-Muslimin (Reform Faction)
+Union of Muslims
+Ittifaq ul-Muslimin (Centralist Faction)
+$TRK_authoritarian_democrat_party$
+Ittifaq ul-Muslimin (Fundamentalist Faction)
+Kurshirmat's Clique
+Kurshirmat's Clique
+Circle of Turkestan Socialists
+Turkestan Sosialistlar Tüdesi (Turanists)
+Circle of Turkestan Socialists
+Turkestan Sosialistlar Tüdesi (Pan-Turkists)
+National Union
+Milliy Ittihod
+Union of Muslims
+Ittifaq ul-Muslimin (Turanist Faction)
+$TRK_radical_socialist_party$
+Milliy Ittihod (Moderate Faction)
+Minority Groups
+Jewish and Russian Minority Interest Groups
+Turkestan
+Turkestani
+$TRK$
+Turkestan Socialist Republic
+the Turkestan Socialist Republic
+$TRK_totalist$
+$TRK_totalist_DEF$
+$TRK_totalist$
+$TRK_totalist_DEF$
+Turkestan Republic
+the Turkestan Republic
+$TRK_social_liberal$
+$TRK_social_liberal_DEF$
+$TRK_social_liberal$
+$TRK_social_liberal_DEF$
+$TRK_social_liberal$
+$TRK_social_liberal_DEF$
+$TRK_social_liberal$
+$TRK_social_liberal_DEF$
+$TRK_social_liberal$
+$TRK_social_liberal_DEF$
+Turkestan Autonomy
+the Turkestan Autonomy
+Turkestan Autonomy
+the Turkestan Autonomy
+Turkestan Autonomy
+the Turkestan Autonomy
+Turkestan Autonomy
+the Turkestan Autonomy
+Turkestan Autonomy
+the Turkestan Autonomy
+Turkestan Autonomy
+the Turkestan Autonomy
+Turkestan Autonomy
+the Turkestan Autonomy
+Madamin Bek
+§YBorn:§! §L1893, in Margilan, Fergana Oblast, Russian Empire§!\n§YBackground:§! §LMadamin Bek, born Muhammad Amin, was saved from an ignoble fate of Siberian exile (earned in 1914 for his anti-Tsarist activities) by the sudden February Revolution. As the scion of a long decrepit house of Kokand nobility, the young upstart was named police chief of Margilan by the new revolutionary government in Tashkent in late 1917. When the Tashkent Soviet put Kokand to the torch, he pledged his militia to the cause of the Fergana freedom fighter “Little” (Kichik) Ergash Bek, quickly rising through the ranks of the native rebels. When Ergash Bek was gravely injured in the fighting outside Namagan, Madamin Bek was proclaimed Amir ul-Musliman, Commander of the Faithful, by the assembled Kurbashi commanders.\n\nIn the years following the establishment of the Turkestan Autonomy, Madamin Bek maintained a frosty but productive relationship with Mustafa Shokay's liberal Kokand government, though he soon tired of the repeated concessions of privileges and rights made to maintain the peace with Moscow. When the Military Commissar of the region rose up in a doomed revolt against Moscow, Madamin Bek seized the opportunity to take power for himself and declare the independence of Turkestan. It was only through a careful dance of diplomacy that Madamin Bek, now the President-Amir of a new republic, would survive Russian retribution. Though he is a warlord-turned-president, Madamin is no autocrat, attempting to rule by consensus when possible and devoted considerable effort towards developing a feasible civilian administration. Madamin survives on the basis of his interpersonal connections and his compromising nature, expertly navigating the cutthroat world of tribal and sectarian politics to rule over a teetering coalition.§!
+§YBorn:§! §L1893, in Margilan, Fergana Oblast, Russian Empire§!
+Turar Ryskulov
+§YBorn:§! §LDecember 26th, 1894, in Talgar, Semirechensk Oblast, Russian Empire§!
+Alihan Tura
+§YBorn:§! §LMarch 21st, 1884, in Tokmok, Semirechensk Oblast, Russian Empire§!
+Nikolay Mallitsky
+§YBorn:§! §LSeptember 30th, 1873, in Dedovo, Orenburg Governorate, Russian Empire§!
+Eshon Babakhan
+§YBorn:§! §L1858, in Tashkent, Khanate of Kokand.§!
+Kurshirmat
+§YBorn:§! §L1895, in Garbaba, Fergana Oblast, Russian Empire§!
+Muetdin Bek
+§YBorn:§! §L1893, in Osh, Fergana Oblast, Russian Empire§!
+Katta Ergash
+§YBorn:§! §L1882, in Bachkir, Fergana Oblast, Russian Empire§!
+Konstantin Monstrov
+§YBorn:§! §L1874, in Syzran, Simbirsk Governorate, Russian Empire§!
+Mikhail Gavrilov
+§YBorn:§! §L1879, in Verny, Semirechensk Oblast, Russian Empire§!
+Khal Khodja Eshon
+§YBorn:§! §Lin Semirechensk Oblast, Russian Empire§!
+Akif Pasha
+§YBorn:§! §Lin Kostantiniye, Vilayet of Kostantiniye, Ottoman Empire.§!
+Musa Jalil
+§YBorn:§! §LFebruary 15th, 1906, in Mustafino, Orenburg Governorate, Russian Empire§!
+Ismailbek Taranchiev
+§YBorn:§! §LApril 6th, 1923, in Besh-Kungey, Semirechensk Oblast, Russian Empire§!
+Abdullah Qodiriy
+§YBorn:§! §LApril 10th, 1894, in Tashkent, Syr Darya Oblast, Russian Empire§!
+Nazir Turyakululy
+§YBorn:§! §LOctober 1892, in Kokand, Fergana Oblast, Russian Empire§!
+Turyakul Aitmatulu
+§YBorn:§! §L1903, in Sheker, Syr Darya Oblast, Russian Empire§!
+Orif Olimiy
+§YBorn:§! §LMay 8th, 1912, in Tashkent, Syr Darya Oblast, Russian Empire§!
+Galimyan Tagan
+§YBorn:§! §LJanuary 1st, 1892, in Tanrykulovo, Orenburg Governorate, Russian Empire§!
+Kichik Ergash
+§YBorn:§! §L1885, in Bachkir, Fergana Oblast, Russian Empire§!
+Rakhmankul Bek
+§YBorn:§! §Lin Osh, Fergana Oblast, Russian Empire§!
+Konstantin Osipov
+§YBorn:§! §L1896, in Krasnoyarsk, Yeniseysk Governorate, Russian Empire§!
+Iskander Yaushev
+§YBorn:§! §LJune 20th, 1902, in Troitsk, Orenburg Governorate, Russian Empire§!
+Mukhametzhan Seralin
+§YBorn:§! §L1872, in Karabalyk, Turgai Oblast, Russian Empire§!
+Aman Polvan
+Turyakul Zhunazak
+§YBorn:§! §L1893, in Taldy-Bulak, Syr Darya Oblast, Russian Empire§!
+Sayid Nasir Mirjalilov
+§YBorn:§! §L1884, in Turkistan, Syr Darya Oblast, Russian Empire§!
+Theory of Action
+Basmachi Wisdom
+[TRK.GetName] Focus Tree
+A New Leaf for the Republic
+For years, the senior most political appointments in our republic have been allotted to tribal leaders and Kurbashi warlords, the foundation of our political support. However, recent manoeuvring by respected reform minded religious leaders has unseated the conservative stranglehold on power, much to Madamin Bek's concern. Regardless, we must build a new consensus within the ruling Ittifaq ul-Musilmin to integrate these new reformist and Pan-Turkist voices.
+Expand the Foreign Ministry
+In the opening days of the Republic, under the rule of Shokay's puppet government, the foreign ministry was little more than a tiny office with no power in the face of Turkestan's special relationship with their Russian overlords. When Madamin Bek took power, the isolationist elements of his regime prevented any expansion. With a new, outward facing mindset, the time is ripe to finally build up this integral element of our nation.
+Walking the Turkestan Tightrope
+Leading the Turkestani state has always involved the careful balancing of various competing factions and power blocs, all vying for the domination or destruction of the Republic. While the introduction of the reformists into the governing coalition has certainly complicated matters, they have proven themselves to be a vital counterweight to the fundamentalist, providing Madamin with a fresh opportunity to consolidate his control.
+Our Ottoman Brothers
+The Ottoman Empire is, at its heart, a Turkish nation, and their government has long been a semi-clandestine supporter of our republic, long fueling our limited economic reforms with private investment. With the rise of Savinkovism, support from Istanbul has only increased, and it would not take much to convince them of our need for Ottoman advisors and military support.
+Support Dissidents Abroad
+Though our government is not exactly ideologically driven, our defiance against Russian imperialism in Central Asia has lent us credibility in the eyes of various Pan-Turkist organisations across the region. Using these foreign allies to shift the geopolitical tides into our favour will be crucial if we hope to maintain our independence and work towards freeing our neighbours from Russian domination.
+Contacting Bukharan Dissidents
+At one time, the city-dwelling merchant and intellectual class of Muslim Jadid reformers was Madamin Bek's greatest opponents, agitating against his authoritarian practices and aiding the Soviets in their invasion. Today, however, the Jadids know that in Central Asia, Madamin Bek is their greatest ally against the continued rule of the Emirs and Khans.
+Tashkent-Verny Railway
+In the years immediately following the deviation of the Weltkreig, rail lines into Central Asia became a symbol of Russian-German economic cooperation, and a number of small joint projects were launched. In the years following, however, these prestige projects have been left to rot, abandoned by the distracted German industrialists and the increasingly hostile government in Moscow. We should refurbish them to better connect our lands to our Kazakh friends.
+Aid the Kazakh Militias
+Conflict between the clandestine Kazakh militias and the Alash puppet government has been brewing for a decade now, threatening to light the spark which will once again draw Russian eyes south. There is no doubt in our minds, however, that if such a conflict should break out we must protect our allies within the militias, lest their defeat be the first domino to fall in the face of new Russian imperialism.
+Brotherhood of Turkic Nations
+The Pan-Turkist project has the potential to be plagued by the divergent visions of each of the great Turkic peoples and nations, losing sight of our goals in favour of narrow sectarian views of Turkdom. We will not make this mistake! Any nation which is home to the peoples of Turkic blood or who have opened their doors to the great many Turk refugees shall be our friends and our brothers!
+Studying Caucasian Tactics
+In the months following the conclusion of the Great War, there were many in both the Russian and Ottoman armies who saw that the tactics employed by both sides in the Caucasus front were woefully out of date. Instead of listening to these young officers, both nations chose to blame the local populations, unlucky weather, and a host of other excuses. We will not make the same mistake.
+Court the Moderate Clergy
+The moderate muftis of Tashkent and Fergana have long played a critical role in the maintenance of peace in our nation, often acting as mediators between the mutual hostility of the Uzbek and Kyrgyz tribes. We need to unite these moderate groups behind our government to stabilise our rule, for if the faithful do not see our government as legitimate it will not survive long.
+Favour the Yaushev Brothers
+The Yaushev family of minor Tatar nobility have long been one of the most influential metropolitan clans in Central Asia, with family members and contacts scattered across the Ural and Alash regions of Russia, as well as in the city of Tashkent. With the death of Mullagali Yaushev, his sons Iskander and Hasan have taken up the mantle of leadership among the Yaushev merchants. Their support could prove invaluable in the coming conflict against Russia.
+Create the National Security Department
+Our republic has no formal body devoted to clandestine activities, putting us at a disadvantage compared to the major powers, and most notably our Russian opponents. While we do not have the funds to create an intelligence outfit from whole cloth, we can use our Foreign Ministry to leverage their contacts and trading partners in foreign lands to help narrow the gap, just by keeping our ears open.
+Favour the Ergash Brothers
+While Kichik (Little) Ergash and Katta (Big) Ergash are not necessarily related by blood, they are certainly brothers in arms, fighting together in the struggle against the socialists. Neither man escaped unscathed, with Katta losing control over the Mujahideen and Kichik nearly losing his life. Regardless, these two men have forged deep connections among the Kurbashi, connections Madamin could leverage to secure control of his party.
+Eliminate Party Factionalism
+The Europeans have had a free hand in Central Asia for centuries, pitting brother against brother to further their own imperialist ambitions. In our struggle against the Russian menace, we have been shown what the true strength of our people could have been, were it not shackled by petty sectarianism and autocratic selfishness. It is time to rise above years of stagnation and division, so that we may forge a new nation.
+Amend the Tashkent Treaty
+While officially Tashkent is the capital of our young Republic, the reality is slightly more complicated. Having negotiated significant autonomy during the Tashkent Crisis, the city is largely self-governed by a council of Muslim and Russian figures, with only marginal input from Madamin Bek's government. With a hungry Russia on the borders, the time has come to renegotiate the Treaty and bring Tashkent into the Republic fully.
+Integrate Russian-Led Militias
+The Fergana Provisional Government was founded on the back of an alliance between the Muslim People's Army of Madamin Bek and the Russian Peasant's Army of Konstantin Monstrov, an alliance which saved Turkestan from Soviet rule and kept the peace. The victory of the Whites undercut the foundation of the alliance, but with the new rise of Savinkovism in Russia there is a new opportunity to unite the peoples of Turkestan against tyranny!.
+Reconstructing Turkestan
+Years of war and neglect have left their mark on Turkestan, with crumbling infrastructure connecting the empty factories of our dilapidated urban centres. The foundations for a healthy nation remain, however, hidden behind a pessimistic veneer. If we could once again stoke the fires of industry and mend the railways and roads, Turkestan could truly rise as a modern nation.
+Exploit Petroleum Deposits
+Our republic sits atop a significant wealth of petroleum deposits, most which remain entirely untapped. While there were some half-hearted efforts to exploit these resources during the rule of Mustafa Shokay, we lack the resources and know-how to properly develop this industry. We will need to look outwards to larger, more industrialised, nations if we want to begin collecting this black gold.
+Connecting the Heartland
+Long have we found favour among the merchants of our cities, and long have we tailored our policies to retain their support. When the great men of Tashkent and Kokand prosper, all of Turkestan prospers…especially those worth bribing. Word travels fast among merchants, and there are many cities scattered across the steppes whose monied men who fast join us in our crusade against the backward autocracy and violent revolution.
+Syr Darya Gold
+The Syr Darya River dominates Turkestan, with it and its tributaries feeding the lush Fergana Valley with fresh water. The river does not only bring cool waters to the farmlands of Turkestan, but also carries gold deposits across the plains, driving an economy of collection and exploitation. Unfortunately, local warlords who funnel the wealth of this literal goldmine into their private armies and personal stashes. We will have to shake this system up if we hope to stake our own claim.
+Building a War Chest
+It is a universal truth that wars cost blood, sweat, and most importantly, gold. Our goal in the upcoming conflict is to bleed out the Russian bear through a prolonged guerrilla war, but if we wish to outlast our enemies we will need deep pockets and well stocked arsenals. By taxing our new sources of revenue and carefully saving our earnings, we can be much better prepared for the violence to come.
+Host the Andijan Summit
+During our fight for independence, some took up arms to protect their families and their homes, a simple struggle for survival. On the other hand, others felt the draw of a more holy cause, pledging themselves as warriors of Islam. These figures have the potential to be zealous allies if we convince them of our support, and dangerous opponents if we turn our backs to them.
+Form a Professional Army Core
+The biggest hurdle towards modernising the military of Turkestan will be the centralisation of the army into a core of professional national units. While Madamin has a personal army of loyal cronies to draw from, no other Kurbashi would willingly give their soldiers to an army which may one day be used to destroy them, and few able bodied men wish to serve in an army which does not reflect their own tribal allegiances.
+Arm the Militias
+It is no secret that our army is little more than an amalgamation of small bands of soldiers, loyal only to their commanders and bound by bonds of tribal heritage, rather than national or civic duty. These commanders, the Kurbashi, each follow their own whims and morals, bound by covenants of greed and personal gripes far beyond any supposed ideology. It is by the will of these men that the army of Turkestan be born or die in the womb.
+Horsemen of Turkestan
+Turkestan has a long history of talented horse breeders and horse riders, and though the culture of horsemanship is not as prevalent in the Fergana Valley as it is on the steppes further north and east, there are still clear lessons to be learned from our legacy. The modern role of the horseman is increasingly clear - while cavalry charges will no longer define battles, information gleaned from talented scouts and outriders is more important than ever to achieving victory.
+Inspect the Ottoman Army Inspectorate
+The Ottomans have put a great deal of effort into modernising their equipment and tactics since the end of the Weltkrieg. Their Army Inspectorate, which works tirelessly to organise the dysfunctional logistics running from Anatolia to Fezzan, is a shining example of this spirit. We should look to replicate their successes, and avoid their mistakes.
+Supply the Outposts
+Our armies are divided between local Basmachi commanders and militia chiefs, some armed with little more than spears and matchlocks. If we hope to resist foreign invasion, we will need to share the wealth of the capital with these far flung outposts, supplying these commanders with rifles and arms. Hopefully, such actions could help to further our control over the countryside.
+From Bribes to Salaries
+While efforts have been made to institutionalise the patronage networks and informal relationships which serve as the bedrock of our administration, the truth is that our nation still largely plays by feudal rules. Now that we have sufficiently centralised our governance, we have the opportunity to burn out the rot and rebuild our Republic, from top to bottom, as we see fit.
+Wartime Rationing
+While we are loathe to restrict the buying and selling of foodstuffs and key war materials, it is a necessary sacrifice we will have to make to strengthen our defence and keep our war machine limping along for as long as we can. All of our citizens will do their part to make sure our soldiers march on full(ish) stomachs, and that the armouries and arsenals of Tashkent remain well(ish) stocked. To this end, the war begins on our plates - and every household is a squadron of fighters!
+Proclaim Holy War
+Our lands are truly united by one thing - the glory of our faith. The Ulemma have long been a guiding force of stability in Central Asia, and with the support of these wise fathers of the faith, we will be able to officially sanction our war against Russia as a Jihad of the sword. This is not an undertaking we will carry out lightly, but is there no better example of Jihad than the struggle against foreign domination, and the destruction of our very way of life?
+Rely on the Sufi Orders
+While the Sufi Orders are religious institutions of the study and transfer of mystical teachings, all in the pursuit of haqiqa - the ultimate truth - there is no question that they are also powerful institutions for the mobilisation of men. We will need their wholehearted support and conviction if we hope to resist our enemies in the field. It is lucky for us, then, that a number of our leading figures are all leaders of various Sufi chapters.
+Banner of the Amir
+When Kichik Ergash nearly perished at Namangan, the spirit of the national movement did not die with him. Instead, his banner - demanding freedom for the people of Fergana - found its way into the hands of Madamin Bek. The president accepted the weighty responsibility weaved into this banner because he, like all the patriots, freedom fighters, and true believers riding with him, knew that Turkestan is worth fighting and dying for.
+Strengthen the Party
+The Union of Muslims was the first mass party in Turkestan, calling upon the support of the vast Muslim peasantry long before the National Union was founded or the Russian yoke thrown off. Today, it is largely the vehicle for Madamin Bek's national movement for independence, but continues to stand as the voice of the common person in Turkestan. We must not forget the role of the party, it is a critical symbol of our unity and commitment to native democracy!
+Reorganise the Garrisons
+While many of our Kurbashi have argued that the only way we will defeat Russia is by taking the battle to them, the truth is that to survive against Russia we must take full advantage of any and all defensive advantages afforded to us. We will centralise local garrisons under the umbrella and control of the central government, so that we can better coordinate the disposition of our forces and prepare for the attacks which will surely put our walls to the test.
+Create a Wartime Coalition
+There is little love lost between Madamin Bek and his Union of Muslim party, and the liberal and progressives of the National Union party. However, the recent alliance between our government and the party's exiled Kazakh leader has provided the avenue for a true wartime agreement between these parties and the full normalisation of relations, which have been decidedly rocky following Madamin Bek's coup in 1929.
+March for Samarkand!
+Some wars are fought for inscrutable reasons, complex webs of factors leaving historians to debate minutiae for the centuries to come. This is not one such war. The people of Samarkand beg to be freed of that corpulent Bukharan Emir, and we will answer their call. The cheers of the liberated quicken our march and the wails of the oppressed drive us forward!
+Return of the Kyrgyz Volunteers
+The nucleus of the East Turkestan revolt was forged in the revolutionary spirit of Turkestan proper, with many leading figures in the revolt driven from their homes during the fires of the Urkun. Now, a group of Kyrgyz irregulars led by Id Mirab have sent word from their remote bases in the Tian Shan foothills that they wish to join our struggle. We shall invite them as heroes!
+The Fergana Porcupine
+To succeed in this war of survival against our Russian foes we must change our thinking, attacking the Russian resolve, as well as its armies. By focusing on attriting the Russian invaders, and smuggling the “true” details of Russian casualties to international sources, we will force Moscow to recognise that Turkestan will cost them more blood and treasure then they can afford to spend.
+Rapid Adaptations
+While we did our best to prepare for the realities of a protracted conflict against Bukhara and Russia, it did not take long to recognise serious deficits in our strategy and organisation. By drawing on our relationship with foreign advisors, we can identify a few key areas to invest additional funding and effort, alleviating our worst inadequacies.
+Deal with Leftover Russians
+While there are even less ethnic Russians who happily call Turkestan their home now than there were prior to our war with the Russian bear, they still exist as an active minority with political and economic influence beyond what their numbers would betray. We will need to secure their right to live and work in our nation, while gently subsuming their outsized political control.
+Crush Bukharan Exiles
+A great number of Bukharan military and political leaders have fled across the border to Afghanistan, where their King harbours and protects them from any form of retribution, even as they raid our bordering towns. We will need to deal with them one way or another, either by negotiating with our Afghani counterparts or by simply crossing the border ourselves to take care of these dangerous dregs of the late puppet Emirate.
+Behead the Bandits
+Where there is war, there are those who profit off of the misery of the combatants. Bandits can range from those who know their station, attacking the innocent with reckless abandon to eke out a living at their country's expense, to those who are even worse - bandits who disguise themselves in the pomp and circumstance of ancient and forgotten titles, excusing their robbery behind cruel traditions.
+Secure our Borders
+Twenty years ago, there were few who believed that our proud lands would ever be free from the yoke of foreign masters. Today, our nation's mothers can breathe easy as militias return to their villages and well worn rifles are sent back to storage. The time of national emergency has passed, but the unfortunate truth is that the fires of war lurk on the horizon. The only way to guarantee our peace is to prepare for the next war, honing our abilities and remaining vigilant.
+Hold Pan-Turkestan Elections
+The Europeans have had a free hand in Central Asia for centuries, pitting brother against brother to further their own imperialist ambitions. In our struggle for unification, we have been shown what the true strength of our people could have been, were it not shackled by petty sectarianism and autocratic selfishness. It is time to rise above years of stagnation and division, so that we may forge a new nation!
+Expand the Conservative Coalition
+All across Central Asia, millions believe in the righteousness of moderation, stability, and tradition. However, these people are divided by their tribe, their language, and the very traditions they seek to defend. Regardless, we must welcome this new cadre of citizens and leaders into the Union of Muslims, so that we may continue to be the leading voice of all Central Asian Muslims.
+Divide the Leftists
+In the cities, men tainted by poisonous foreign philosophies attempt to unseat thousands of years of history by the stroke of a pen. They brandish the outrageous quotes of dead men as though they were weapons, and threaten to tear apart all that is sacred. To prevent the insidious rise of this “National Union,” we must move to undercut their support by dividing the two wings of this dangerous party of radicals.
+Draft a Presidential Constitution
+We are still working off of the constitution written by the intellectuals of 1919, who envisioned Turkestan as an autonomous parliamentary republic under the Russian boot. We must reform the constitution to better reflect what our young nation needs, a strong and decisive executive to watch over a subordinate and steady federal legislature, both organs working in sync.
+Develop National Turkism
+Long have the conversations surrounding Pan-Turkism been dominated by progressive and left-wing voices, while the more conservative elements of our republic remain divided by ethnic sectarianism. We will need to forge a new national identity, centred around our shared faith and the binding forces of recent history. This new ideology of 'National Turkism' will be the glue which binds our people together, and in time will be able to call upon the support of committed ideologues.
+Formalise Limited Federalism
+Our nation is divided between Russian and Turk, Uzbek and Kazakh, Tribesmen and Jadid. The strife of violent conflict threatens to tear our people apart, but we cannot give in to the base desire to overpower and dominate those territories newly incorporated into our republic. We shall instead build a nation of balanced compromise between order and autonomy, founded on the principles of fruitful coexistence.
+Exercise Executive Powers
+A key element of the powers vested in the presidency through the new constitution is his unilateral control over foreign policy, and his expansive formal influence over the nation's economic policy. While the government has always revolved around Madamin Bek, it is always better for these powers to be institutionalised and for the president to truly have a free hand to dictate the republic's path.
+Moderate Statist Reorganisation
+If we are to survive and prosper in this new epoch, we must pursue industrialisation and modernisation. As odious as it is to some, to meet this challenge the state will need to intervene in the development of our railways, our manufacturing, and our modern farming. We will look to socialist nations and the work of the Ottoman modernisers to model our own ‘Turkestani Industrial Revolution.'
+Marshal Turkestan's Resources
+Central Asia is a bountiful land, one which has the tools and resources to supply our young industries, so long as we are able to access and properly excavate these natural boons. We must not allow petty local grievances to prevent the progress we seek, and we cannot afford to rely on foreign companies to lead our resource extraction efforts as some in the past once did. We must instead stand on our own two feet and dig with our own two hands.
+Care for the Countryside
+Nearly all of our citizens live in rural communities, eking out a living farming and grazing. While much of our land is harsh and barren, there are fertile regions of bounty which can serve as a new breadbasket for the Turkestani state, no longer sucked dry by hungry bureaucrats and merchants from Moscow. We must extend support to the farmers of Fergana and the River valleys, so that they may modernise their techniques and increase their production!
+Assimilate Pan-Turkist Rhetoric
+Not everyone in our government truly believes in the pan-Turkic ideal which our Federation was founded upon. They may see the necessity of cooperation, or even the value of our unity during the struggle against the Russians, but they do not subscribe to the cultural and civic nationalism of the more ardent pan-Turkics. Regardless, we see the value of the pan-Turkic ideal towards the maintenance of peace and stability in our lands, and will relentlessly promote these views.
+Humour the Education Reformers
+Chagatai Turkic was the shared language of our realm for centuries, but in the last two hundred or so years local dialects have diverged sharply from their now archaic origin. However, there is a cadre of brave intellectual thinkers who believe that, with the proper modernisation and implementation, we could once again forge a shared language, modelled on Chagatai but not beholden to some of its most difficult quirks.
+Liberate Our Oppressed Brothers
+No matter their political affiliation, all true patriots in our lands have struggled for the rights of oppressed peoples. They spilled their blood on the fields and steppes so that the Turkic peoples of these lands could stand free. Yet even now, there are many who remain oppressed under foreign boots, in Russia, China, and elsewhere. We cannot stand for this lingering injustice - these people must be freed!
+Regime of the Red Basmachi
+For years, the workers of Central Asia have been restricted from organising and collaborating, especially following the Russian Civil War, where any grouping of workers not wholly loyal to the Emirs, Khans, and Beks were decried as agents of the Bolshevik threat. The worker is the lifeblood of a modern nation, and their voices must be heard! The President, long a friend of the small unions, will do everything in his power to see their expansion.
+Ballot by Bayonet
+In theory, our support for democracy trumps all other concerns. However, without the proper guidance, our Republic could be subverted by demagogues who mislead our citizens into acting against their own interests. To protect against this, we will temporarily maintain the martial law which saw our nation through these difficult last years.
+Fund the Sufi Orders
+Many of the leading figures within our republic, the President included, have long standing ties with the Sufi Orders of the region, especially the Kadyriya chapter centred in Fergana. These tariqas - meaning order or teaching tradition - are central to the practice of Islam within our nation, and our continued support of their goals is unquestioned. By increasing our funding of and legal support for these orders, they will serve as a bedrock of our local support across the Republic.
+Glorify the Amir ul-Muslimin
+The Amir ul-Musliman, the Commander of the Faithful, the Warrior of Islam, the Savior of Turkestan. Now more than ever the people need a symbol they can look to for strength and honour, a light guiding the whole nation forward. The Amir may just be a man, but his title is invested with the power of the great Caliphs, of Sa'd ibn Abi Waqqas, and of the old Khans of Kokand - power which should be used to hold our country together!
+Pragmatic Warlordism
+When you rule over a vast territory of harsh lands and harsher people, you cannot afford to be blinded by ideology. Our goal must be that of a united and peaceful republic, bound by a universal rule of law and beholden to democratic leadership. In reality, much of the land is ruled by Kurbashi tribal commanders, and most of our people are uneducated and detached from the world outside their village. These issues will be resolved by pragmatism, not idealism.
+Ensure Governor Loyalty
+Some people would say that the best way to rule over bandits is to think like a bandit. They are wrong. To maintain order in the southern territories, we will have to rely on firm military men that we can trust, lest the Uzbeks, Turkmen, and Kyrgyz get any ideas about where they stand on the pecking order. To ensure that our governors are both capable and loyal, they will be drawn from Madamin's personal staff.
+Cast Aside Ideology
+The minds of both our allies and our enemies are clouded by ideological dogma and impractical sentimentalities. Frankly, there is little room for such notions in our harsh domain. We have cast aside the philosophic creeds which blind others, and will rule instead through pure, hard-headed realism, whether the radicals like it or not.
+Strength in Stability
+While the liberal intellectuals bicker about high-minded democratic ideals, the reality is that a federation of people, divided by language, ethnicity, and class, must be united by a firm hand. The politicians fret about the lyrics to a national anthem while they ignore the true issues which plague our state. Madamin Bek will serve as this guiding hand, leading our nation towards a bright future!
+Legacy of the Central Asian Revolt
+We spent five decades under Russian hegemony, a time which irreparably damaged our culture and saw our lands infested with Russian settlers. In 1916, the people of Central Asia finally decided that enough was enough and rose up in rebellion. We fought long and hard, exploiting the Russians' civil war to retake our old territories. In the end, we finally regained our freedom but the price we paid was nearly unbearable. Huge portions of our population had been slaughtered, or deported from Central Asia, forced to seek refuge in the Chinese territory of Xinjiang. The Kirghyz population was particularly devastated by this, they came to dub this event the “Urkun” or “Exile”. A small trickle of refugees are now migrating back to Turkestan, hoping to return to their old homes. The Central Asian Revolt marked the birth of the Basmachi as an organised military and political movement, it served as the last straw which finally won us our independence. We will never forget what the Russians did to us and what they have taken from us. We will never bow to them again.
+Shackles of the Tashkent Treaty
+When we cast off the shackles of Russian oppression through a patriotic conflagration, we were forced to make a number of compromises to secure international recognition and bring an end to the Central Asian conflict. The Treaty of Tashkent forced us to grant de-facto independence to the Russian-dominated districts of our capital. and clauses within the treaty gave special rights and privileges to Russian interests throughout our Republic. Reclaiming our rightful capital and its vast industries will be of utmost importance in the near future, we must strive to strike at the Russians, at their first moment of weakness.
+Basmachi Army
+The term Basmachi is an Uzbek word for a bandit or attacker, a label employed by the Bolsheviks and White Russians alike to slander the freedom fighters who battled for Central Asian freedom. Though these warriors earned the respect of their opponents on the battlefield, our nation continues to be derided by foreigners as the “Basmachi Republic,” and the stain of warlordism and banditry will take a long time to wipe clean. The bravery of our soldiers is a source of pride for our Republic, regardless of what they may say abroad.
+Institutionalised Leadership
+Seeds of Turkestani Democracy
+The National Emergency Government
+Army with a State
+Turkestani Horsemen
+Ottoman Logistical Support
+Aftermath of Andijan
+Grumblings of the Kurbashi
+Training the National Army
+Debate Among the Clergy
+Support from the Jadids
+Support from the Mullahs
+Arbitrary Arrests
+Disintegrating Conservative Coalition
+The traditional consensus between religious leaders, warlords, and tribal chiefs has been shattered by the recent appointment of reformist leaders into positions of prominence within the government. While Madamin Bek certainly has the political capital to maintain control over the party and the Republic, the shock of his recent pivot towards a broad coalition has left his traditional allies reeling.
+Uneasy Unity Government
+The optimism of December has given way to the harsh reality of January. The political factions wrestle for power, arguments lead to violence, and the stability of the Republic is shaken. However, there are signs of hope. Even among the jostling and brinkmanship, newfound competition among the ministries drives the government forwards.
+Effectual Unity Government
+What was once considered impossible, namely the integration of Jadids into Madamin Bek's government, is now simply a fact of life. What were once shouting matches over control have turned into exasperated conversations about cooperation. The cabinet is currently carefully balanced between the conservatives, the reformists, and those personally loyal to the president, with each party carving out a base of support in the republican institutions.
+Conservative Unity Government
+Madamin Bek has always been a man of temperance, and so his introduction of more reform-minded voices into his government has been properly tempered. While there is no question that Jadids will be a part of the government, and all parties have increasingly accepted the need to cooperate with these more liberal figures, the elevation of Islamqul Polvan as Minister of Military Affairs has once again upset the careful balance in favour of the more conservative faction of the Union of Muslims.
+Wartime Rationing
+Fighting for our Faith
+Redoubling our Defences
+The War Cabinet
+Treaty of Tashkent Shattered
+The devastation of Black Monday has yielded our republic many calamities and injustices, but it also has blown apart the political and economic order which has existed between our nation and our northern neighbor for the last half of a decade. With the economic domination of Turkestan much diminished following the exit of many muscovite industrialists, the opportunity has arisen to practically discard some of the more odious elements of our economic treaty with Russia, while renegotiating our protections to the Russian ethnic minority with local Russian leaders.
+The New Treaty of Tashkent
+By consulting with native “representatives of the Russian people” in Tashkent, we have declared a series of amendments to the special autonomy and protections afforded to our Russian citizens, much to the anger and chagrin of the saber-rattlers in Moscow. Truly, we have stepped into a new era of native Russo-Turk cooperation! Economic regulation, once aimed entirely at choking out native Turkic industry, has been replaced by common sense regulation, and the outrageous byzantine structure of autonomous government has been replaced by the executive fiat of the Tashkent Council. This new, comprehensive agreement between the ethnically Russian business interests of Tashkent and our government has made our republic stronger and more united than ever.
+The New Treaty of Tashkent
+With the finishing touches complete on the amendments made to the Tashkent Treaty, made with “representatives of the Russian people” within our lands, we have finally rid ourselves of the painful and obtuse requirements of the Tashkent Treaty, the result of meddling from the north. With practical protections to native business interests and peasant farmers, the people of Turkestan, both Russian and Turk, stand proud behind Madamin Bek. Our new, comprehensive agreement has made our republic stronger and more united than ever.
+March for Samarkand
+Empty Gold Reserves
+Meager Gold Reserves
+Small Gold Reserves
+Moderate Gold Reserves
+Heaping Gold Reserves
+Overflowing Gold Reserves
+Building a War Chest
+Completed War Chest
+Expanded Foreign Ministry
+Rebuilding Market Connections
+Kazakh Economic Collaboration
+The Sum of Our Efforts
+Ripples of Black Monday
+The collapse of the Berlin Stock Market in Germany has sent shockwaves across Russia. This global economic shock has devastated our economic recovery plans, and it will take considerable effort to diminish this crisis.
+Looking Towards Afghanistan
+Russian Capital Flight
+Conservative Growing Pains
+Party of the Masses
+Nascent National Turkists
+Etatist Economic Reforms
+Regime of the Red Basmachi
+Formalised Presidential Powers
+Young Federal System
+Electoral Unity
+Language Unification Programme
+Jadid Language Experiments
+Jadid Language Reforms
+Expropriate Rebel Properties
+Silencing Bickering Bureaucrats
+Muhammad Amin Akhmadbek National University
+Support from the Sufi Orders
+Loyal Governors
+Loosening the Leash
+Continuing Martial Law
+Normalised Military Control
+Non-Partisan Military Regime
+Consolidating Turkestan
+The Turkestan Republic is unified only by tenuous religious commitment and the personal clique that Madamin Bek has developed in the years following the Russian Civil War. These loose bonds of affiliation hold the nation together today, but simply cannot withstand the stress of open conflict. After all, when the peace of the post-war was shattered by the New Year's Coup in '29, Shokay's autonomy immediately collapsed into civil war. While Madamin Bek has a much tighter grasp over Turkestan than his predecessor, the Republic remains incredibly divided. It will take quite a bit of work to unite the nation behind the rule of Madamin Bek and the Ittifaq ul-Musilmin.\n\n§RIf we do not reach a§! §YConsolidation Level§! §Rof§! §Y25%§! §Rwe will likely be forced to deal with internal dissent in the event of a conflict.§!\n\nOur Current §YConsolidation Level§! is £authoritarian_democrat_texticon §Y[?TRK.party_popularity@authoritarian_democrat|%0]§!\n\nWhen our Consolidation surpasses §Y30%§!, we will have the opportunity to strengthen our control over our country by completing the focus §YFrom Bribes to Salaries§!, granting unique benefits based on whether the Reformist or Fundamentalist wing of Ittifaq ul-Musilmin reigns supreme.\n
+The Reformists' Mandate
+Collect the Gold Tithe
+Seize Key Syr Darya Waterfront
+Buy the Loyalty of a Kurbashi
+The fundamentalist faction of our party gathers their support and power in the countryside, where the rule of the Kurbashi is supreme. Each Bek, Kurbashi, and Minbashi pledges a fraction of their support and resources to a figure above them, and those who support Katta Ergash make up the backbone of the fundamentalist wing of the party. There are many such leaders whose loyalty can be bought, however, at the right price.
+Purchase a Reformist Mouthpiece
+The strength of the reform faction of our party is their ability to mobilise support in the cities of Tashkent, Andijan, and Kokand, mainly through the support of a number of mullahs who favour their position. If we were to convince one of these learned thinkers to speak in favour of Madamin Bek's policies, it would strengthen us while weakening the reformists.
+Expel Party Extremists
+While the Union of Muslims has long been a big-tent party of the faithful, in the years since Madamin Bek's rise to power his pragmatic ideology has become core to the strength and popularity of the party. It is time for those who do not subscribe to the basic underlying tenets of the party to find a home elsewhere.
+Silence Vocal Critics
+The city of Tashkent is a hotbed for dangerous revolutionary forces, who yearn for the return of the Kokand Autonomy and the destruction of our government. If a few were to be arrested, and a few more disappeared, we would surely break the back of the dissenters.
+Crack Down on Banditry
+There are regions of our nation which lie completely outside the control of the central government and the party. Here, roughshod brigands rule as kings, with no regard for Tashkent or Sharia. We must move to crush them.
+Call on Kichik Ergash
+In the weeks following the Bolshevik destruction of Kokand, the Muslim resistance formed around the city's former police chief, the charismatic and savvy Kichik (Little) Ergash, declaring him Amir ul-Musliman, or Commander of the Faithful. After a devastating battle at Bachkir, the debilitatingly injured Kichik handed the reins of the Muslim resistance to Madamin Bek. While Kichik has no position of official power, he continues to be a popular figure and his word carries weight.
+Distribute Pro-Government Newspapers
+The reform movements of Turkestan began using printing presses to try to distribute their ideas during the rule of the Russian Empire, who often destroyed the presses of any who would dare speak out against them. We are not the Russian Empire! Let us support the creation of a new press, which will inform the people of our successes, while maintaining the freedom to prod us towards the will of the people.
+Preparations for War
+The fighting that broke out in Central Asia during the Russian Civil War and the Tashkent Crisis proved one thing definitively: when faced by a hail of machine gun fire and artillery bombardment, even the most zealous warriors do not last long. It is no surprise then, that the attention of all the Central Asian powers is towards the modernisation and centralisation of their armies before conflict once again erupts in the region, putting each of the roughshod Basmachi armies to the test.\n\nOur Current Preparation Level is £GFX_supply_texticon [?TRK_prep|H0]§Y%§!\n\nIf our Preparation is below §Y50%§! by the time that war breaks out, the quality of our soldiers will suffer from our neglect.\n
+Stockpile Equipment
+'Lose' Supplies
+Purchase Weltkrieg Scrap
+Purchase Ottoman Anti-Air
+Fortify the Northern Border
+Guard Against Bukhara
+Equip Auxiliary Units
+Drill Loyal Recruits
+Streamline our Supply Lines
+Cajoling the Kurbashi
+Expand the War Chest
+Weapons for the Villages
+Expand Loyal City Militias
+Equip the Fergana Warlords
+Reconstructing the Republic
+Rebuild Fergana Infrastructure
+Reopen Russian Textile Mills
+Kokand to Capital Railway
+Develop Syr Darya
+Import Azerbaijani Extraction Expertise
+Import Ottoman Extraction Machinery
+Pave the Central Roads
+Purchase Krasnovostochnye Foundry
+Bridge the Chirchiq
+Jumpstart the Arms Trade
+Bail Out Tashkent Businesses
+Dreams of Pan-Turkism
+While Pan-Turkism has long been a current of thought in Turkestan, it has long been overshadowed by sectarian tribal thinking and limited to some Jadid progressives and those influenced by Ottoman thinking. Recent efforts to coordinate a region-wide resistance to Russian dominance has revived the movement, however, and today all elements of our government promote some form of Pan-Turkist thought. The bonds between the various peoples and leaders of the region are flimsy, however, and they will need to be strengthened for any sort of true unity to be achieved.\n\nThe §YPan-Turkist Dream§! is currently: [TRK_get_pan_turk_coord].\n§GThe strength of the §YPan-Turkist Dream§! will influence the outcome of a potential unification with Kazakhstan.§! [TRK_get_kazakh_insurgency_loc][TRK_get_bukharan_dissidents_loc]\n
+\n\n§CKazakh Insurgency:§!\nThe Kazakh Insurgency is a unified effort between conservative Kazakh officers, Turkestan National Army exiles, and patriotic Alash Party members. While the bulk of the conspiracy is being forged in the Kazakh heartlands some patriotic elements have organised themselves on our side of the border. These brave men are willing and eager to fight for their people's freedom, but they will require our assistance if they hope to survive against the full force of the Russian war machine.\n\nThe §CKazakh Insurgency§! is currently: [TRK_get_kazakh_strength], [TRK_get_kazakh_equipment], and [TRK_get_kazakh_training].\n§YThe more we provide support to the §CKazakh Insurgency§! the more divisions will march north to defend their Kazakh brethren should a revolt break out.§!
+\n\n§0Bukharan Dissidents:§!\nTo the south, a number of groups conspire against the tyrannical rule of the Bukharan Emir Mohammed Alim Khan, an odious autocrat held in place by the considerable effort of his puppet-masters in Moscow. This vast coalition of dissenters include the regional notables of Samarkand, a number of reformists within the Young Bukharan party, and some rabidly anti-Russian tribal leaders. The more support we lend to the Bukharan Dissidents, the more likely that they will be able to successfully resist the oppression of the Emirate.\n\nThe §0Bukharan Dissidents§! are currently: [TRK_get_yb_strength].\n§YThe stronger the §0Bukharan Dissidents§!, the greater the advantage we will have once we face against Bukhara.§!
+Expand our Transcaspian Contacts
+Compare our Maps and Plans with Khiva
+Gain International Recognition
+Most nations have no diplomatic ties with Turkestan, and if you were to ask the average American or Japanese bureaucrat where or what Turkestan is they'd be lucky to respond with the right continent. We will need to invest in sending representatives of our nation to a number of key geopolitical actors if we wish to change this state of affairs.
+Support the Kazakh Diaspora
+Many Kazakhs have fled their homelands because of the brutality of Russia in the Urkun and the cruelty of the Xinjiang Chinese administration. While few of these emigres have found their way to the salons of France, Japan, or the United States, many have settled in the Ottoman Empire, Afghanistan, and Eastern Europe. By connecting our own agents with these exiles and sympathetic foreign intelligentsia we can effectively disseminate accurate accounts of Russian atrocities abroad.
+Strengthen Ties with Germany
+The watchful eye of the German Empire is the only thing preventing Moscow from having a free hand in Central Asia. With Russia once again asserting themselves as the hegemon of Asia, we will need the support of Berlin more than ever.
+Camps for Bukharan Exiles
+Smuggle Weapons to the Samarkand Rebels
+Kazakhs Joint Training
+Send Supplies to Kazakh Militias
+Disseminate Pan-Turkist Propaganda
+Fund the Kazakh Conspiracy
+Support Kazakh Newspapers
+The Petropavlovsk Connection
+Meet with Yeni Turan Cemiyet
+Leverage Merchant Contacts
+Snubbed Cooperation
+Recognises Independence
+Recognises Our Independence
+For almost a decade after the civil war, the people of the Turkestan Autonomy shared the fate of their Kazakh brethren as an official part of the Russian Republic.\n\nBut the situation was flipped on its head in the chaos of 1929, where the strongman of the autonomy, Madamin Bek, took the opportunity to declare himself President of the Turkestan Republic.\n\nWith Russian intervention looming to this day, he will see his vision of a pan-Turkic, united Central Asia come to fruition - or die trying.
+GFX_TRK_intro
+The Civil War in Turkestan
+End of the Civil War
+The Fallout of 1929
+The Light of Central Asia
+At the opening of the Russian Civil War, Bolsheviks in the city of Tashkent, the hub of Russian controlled Central Asia, rose up in support of the Red Revolution, ousting the Russian colonial government and declaring the Turkestan Socialist Federative Republic. In response, liberal nationalist and pan-Turkist political movements declared rival governments, aiming to secure autonomy and democratic representation in return for loyalty to the Whites.\n\nIn Kokand, a group of liberal Jadid elites formed the Turkestan Autonomy (dubbed the Kokand Autonomy, as it was based in Kokand rather than the Bolshevik dominated Tashkent), led by Kadet and Alash notable Mustafa Shokay. While the Red forces in Tashkent had the initiative to begin with, rapid nationalisation campaigns and a lack of vital grain shipments quickly eroded their support among the peasantry, both Russian and otherwise.\n\nWhile the White forces in the north began to consolidate and secure their positions against the Reds, the various factions of the Fergana Valley shifted their allegiances. Ergash Bek's lieutenant, the moderate figure Madamin Bek, was able to forge an alliance between the Russian Peasant Army of Fergana and the Basmachi Movement. This new coalition army captured the cities of Osh and Andidzhan, though Ergash Bek was gravely injured in the siege of Andidzhan, leaving Madamin Bek as the undisputed head of the White movement in Fergana. Meeting the White forces of Pishbek, Madamin was recognised by the White government as the commander of the newly formed Fergana Army, made from a reconstituted Peasant Army of Fergana.
+With the Civil War coming to a close, the newly formed Constituent Assembly in Moscow officially recognised the Alash and Turkestan Autonomies, granting limited political privileges to the democratic governments in power in Alash-Qala and Kokand in return for continued Russian control in the region. The Turkestan Autonomy was granted de-jure control over the former Fergana, Syr Darya, and Samarkand Oblasts, while the Transcaspian Oblast remained under direct control of the Russian governor in Ashgabat. To oversee Russian military and economic influence in the region, the military commands were unified under the Commander of the Turkestan Military District, who projected the authority of the central government from his posting in Tashkent. With the power of the authorities limited to little more than minute regulations and meaningless squabbling, cities like Samarkand quickly turned to the Tashkent Command rather than the Commissar of Turkestan for support and stability.\n\nWith the close of hostilities, the old conflicts which had brewed underneath the surface of the Central Asian Whites bubbled back to the surface. While the liberal government of the Turkestan Autonomy was recognised as official by the new government in Moscow, Mustafa Shokay, Madamin Bek, and Konstantin Monstrov each fought to wrestle dominance over this new governmental apparatus. Though it appeared at times that the arguments would devolve into civil war, the three powers would eventually be able to create a power-sharing agreement which gave the majority of civilian control to Shokay and his progressive Shuro-I-Islam alliance, while granting Madamin personal control over much of the Fergana Valley and integrating most of the warlord armies into the new Automony's army, allowing Madamin to maintain his military supremacy.\n\nFor Monstrov and the Russian peasants, a series of treaties were drafted which gave Russian settlers and the Russian quarter of Tashkent some special privileges, while also tying the Autonomy closer to the economy of the Russian heartland. While Madamin and his close relationship with the Russian soldiers and merchants was instrumental in reaching this accord, he was shrewd enough to allow the civilian government to take credit for what would quickly be seen as unequal and hated treaties, driving many moderate Muslims from the Shuro-I-Islam to Madamin's allies in the conservative Shuro-I-Ulema.
+When Boldyrev launched his New Year's Coup in Moscow, the peace in Central Asia shattered. Vladimir Dmitriyevich Grigoryev, the Commander of the Turkestan Military District pledged himself to the putschist cause (assuming that the putch had Kornilov's support), along with most of the Russian soldiers stationed in the region, namely the Semirechye Cossacks and a significant portion of the garrison in Tashkent. Seeing this as an opportunity to secure true independence, Madamin rapidly assembled an army of loyalist Russians and Basmachi warriors and marched on Tashkent. Rapidly garnering the support of several key Jadid and Russian figures in the city, Madamin was able to rapidly depose the rebel commander and secure the city.\n\nWith the situation in Russia proper unknown and an army of loyalists at his back, Madamin crossed over the Rubicon, declaring himself President of a new Turkestan Republic. While Mustafa Shokay and his allies initially attempted to resist this declaration, they were forced to flee into the Alash Autonomy when forces loyal to Madamin captured Kokand in a surprise attack.\n\nIn the frenzy following the Tashkent Coup, local commanders loyal to Madamin Bek moved to secure contested regions and to depose Russian governors in Samarkand and Semirechye. Alash forces, which had remained loyal to the civilian government, had already clashed with the Cossacks in Semirechye. With Madamin's forces joining the fray from the south, the Cossacks were crushed and the region was divided in two as small raiding parties and warlord bands battled for disputed pockets of land. Samarkand would prove to be a more elusive prize for Madamin, who had collected a significant portion of his most loyal armies to march on the city. Sensing an opportunity to expand his influence, Emir Alim Khan declared himself the “Protector of Samarkand,” intervening in the conflict. Seeing the devastation of Semirechye, the city accepted the armies of Bukhara into their gates, and the leader of the Emir's armies, the disciplined Ibrahim Bek, began to prepare for a siege. Worried of a Russian or Alash attack from the north, and recognizing a hardened foe to his south, Madamin called off the invasion of Samarkand and prepared to defend his newly won territories.
+Madamin Bek was able to stabilise his regime, focusing on transitioning from an upjumped warlord to a genuine political statesman. To this end, he aligned himself with the urban merchants of Tashkent, bringing many of them into his nascent cabinet which would give his government a distinctly technocratic character, balancing this new group against the loyalty and satisfaction of the Ulema and Kurbashi, the foundations of his support. His willingness to settle with the Russians and pragmatic support for civilian government would serve to alienate him from some of his Basmachi warlord underlings, but he used the years of peace to purge disloyal officers and build an army more loyal to Madamin personally.\n\nRecent years have found Madamin growing more and more paranoid of Russian aggression, especially as reports increasingly indicate that Moscow eyes the borders greedily. Believing that only a unified Central Asian nation would stand a chance against the Russian eagle, Madamin Bek has increasingly subscribed to a pragmatic Pan-Turkist position, perhaps a further reflection of his increasing cooperation with the liberal merchants and Jadids. Using these ideological trappings, Madamin has begun escaping from the diplomatic isolation wrought by the Tashkent Crisis, notably forging clandestine ties with anti-Russian figures across the northern border and in Khiva.
+The Central Asian nations will come with §Cadditional paths and content§! in future updates.\n\nAfter victory in the Central Asian War and defeating Khiva, you will get the option to reform your government:\n£white_dot Choosing to hold elections will turn you $social_conservative_coloured$.\n£white_dot Choosing to not hold elections will turn you $paternal_autocrat_coloured$.
+Pragmatic Mediator
+Amir ul-Musliman
+Amir ul-Musliman
+Amir ul-Musliman
+Amir ul-Musliman
+Pan-Turkic Revolutionary
+The Big Mullah
+The Big Mullah
+The Big Mullah
+The Big Mullah
+Worldly Intellectual
+Worldly Intellectual
+Bold Bandit
+Amir Emeritus
+Responsible Russian
+Responsible Russian
+Fickle Wunderkind
+Fickle Wunderkind
+Tobacco Baron
+Tobacco Baron
+Ancient Colonel
+Ancient Colonel
+Army Manoeuvre\n(Kurbashi)
+Language Reformer

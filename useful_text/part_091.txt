@@ -1,0 +1,536 @@
+Hawaii Focus Tree
+Revolutionary Party of Hawaii
+Revolutionary Party of Hawaii
+Hawaiian Federation of Labor
+Hawaiian Federation of Labor
+Socialist Party of Hawaii
+Socialist Party of Hawaii
+Progressive Party
+Progressive Party
+National Liberal Party
+National Liberal Party
+Republican Party
+Republican Party
+Hui Aloha Aina
+Hui Aloha Aina
+Hawaiian National Party
+Hawaiian National Party
+Emergency Directorate
+Emergency Directorate
+Hawaiian National Party
+Hawaiian National Party
+Hawaiian Pineapple Company
+University of Hawaii
+Wahiawa Armoury
+Schofield Barracks
+Ford Hawaii
+Holden Hawaii
+Nissan Motors Hawaii
+Argenteuil-Lorraine Hawaii
+Inter-Island Airways
+Pearl Harbour Naval Shipyard
+Political Chaos
+The Civil War on the mainland of America has thrown the territory of Hawaii into chaos. Order must be restored to the island one way or fashion so that stability and prosperity can begin again in our tropical paradise.
+The Great Hawaiian Strike
+The workers of the plantations have gone on strike, demanding greater rights for workers, as well as more radically the destruction of the Big Five and Land Reform for the workers of Hawaii.
+Fulfilled Worker's Demands
+Kanawai Mamalahoe
+Royal Projects
+Legacy of Kamehameha
+Promoting Kama'aina
+Civilising Mission
+Big Five Support
+Revolutionary Mahele
+Revolutionary Welfare
+Communal Democracy
+Female Emancipation
+Stable Republic
+Promoting Trade in the Pacific
+Sugar Industry
+Plantation Support
+Small Business Support
+Thriving Economy
+The Defence of Hawaii
+Naval Industry
+WACs and WAVEs
+[ROOT.HAW_GetAdvisorIdeaName]
+[ROOT.GetFactionName] Advisors
+Foreign Advisors
+Unlocks Decision: £decision_icon_small §YInvite Economic Advisors§!
+Unlocks Decision: £decision_icon_small §YInvite Investors§!
+Replace §H$HAW_small_business_idea$§! or §H$HAW_plantation_support_idea$§! with §H$HAW_thriving_economy_idea$§!\nEffective change:\n$MODIFIER_CONSUMER_GOODS_FACTOR$: [?-0.05|%H1]\n$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: [?0.05|+=%]\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: [?0.05|+=%]\n$MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_FACTOR$: [?0.05|+=%]
+Maintain Control of Hawaii
+With the Hawaiian defences shattered, and the islands fully under our control, it's just a matter of time until their allies give up the fight. However, we must hold the islands against any possible counterattacks, lest their recovery embolden their resistance against us.
+Foreign Policy
+We are an island in the middle of the Pacific and surrounded by enemies. If we are to survive we are going to need to align with a great power. The question is whom.
+Economic Decisions
+We are a small island without much industry. In order to improve our economy, we should see about attracting foreigners to our island both to assist the government and to invest in the island.
+Attract [HAW_GetAdvisorDecisionAdjective]Industrial Investment
+Attract [HAW_GetAdvisorDecisionAdjective]Military Investment
+Attract [HAW_GetAdvisorDecisionAdjective]Commercial Investment
+Attract [HAW_GetAdvisorDecisionAdjective]Naval Investment
+Ship Purchases
+Hawaii lacks the production capabilities for our navy. However, the navy is the key to protecting our islands. Thus, we should seek out foreign nations to buy ships from in order to supplement our navy.
+Purchase [FROM.GetAdjective] Cruiser
+Purchase [FROM.GetAdjective] Destroyer
+Restoration of the Monarchy
+After over forty years of American occupation and imperialism, the House of Kawānanakoa is restored to the throne. The government may be still divided on how the family shall rule, but there is no American to remove the democratic process of decision-making.
+Cultural Revival
+Where the US government suppressed Hawaiian language and culture has failed. We will speak in our native tongue and enjoy the patronage of traditional art once more. American immigrants are free to enjoy their own culture in this new Kingdom as well.
+Hawaiian Renaissance
+With our language revived, the Queen has commissioned a translation of every work in the Honolulu Library into Hawaiian. This will surely participate another cultural renaissance.
+Ponana Leo
+With an emerging class of artists in our great culture, we must undo the damage done by the Missionary Schools. A Pūnana Leo, or Language Nest, is a grassroots response to the highly regulatory nature of education in Hawaii.
+Kanawai Mamalahoe
+Enshrined in the original 1797 Constitution is the edict, Let every elderly person, woman and child lie by the roadside in safety. Children, Elders, and the homeless will not suffer in abuse in the Kingdom.
+Constitutional Monarchy
+Although our 1797 Constitution has several modern appendages, it lacks some of the legalistic updates as the US Territory law took over.
+A Devoted Monarchy
+The House of Kawānanakoa has spent the last few decades working towards an independent Hawaii. No matter what your political or religious beliefs are, the Monarchy is devoted to your happiness and wellbeing as Hawaiians.
+Proportional Representation
+The privy council has run Hawaii's legislation for decades on an appointment basis, which under the American rule was staffed by business interests and controlled almost exclusively by Republicans. We need to amend the latest 1893 Constitution with a proportional legislature.
+Legacy of Kamehameha
+The House of Kamehameha is the parent branch of the Kawānanakoa, and we owe much debt to the king that united the islands.
+Royal Projects
+The Queen has ordered new facilities to be built on the Big Island in order to better present the majesty of the Kingdom to the wider world.
+The People's Queen
+At one time the young Queen was a republican, seeing no way for her dynasty to recover their authority without the support of the people. Therefore, the Queen does not disparage the republicans, but instead hopes to exceed their expectations for a delegated and responsible ruler.
+Hawaiian Home Land
+Rampant unemployment following Black Monday has led to a rash of homelessness. Going above Kanawai Mamalahoe, we must utilise the royal builders to employ temporary labour to build housing for the poor.
+Return Ceded Land
+The land left behind by fleeing American businessmen has been left to their stewards. Now the land can be rightfully transferred in ownership to their proper owners. Be they the servants of the land, or the original owners before illegal seizure during the coup of 93.
+Support the Kama'aina
+In order to encourage local business growth after the end of the oligopoly, we have begun to offer the Kama'aina support. These native residents are the backbone of our political support.
+Kuleana Rights
+Responsibility to the land was neglected under the US occupation. Now the Kingdom inherits a debt of Kuleana, but we are proud to steward our land and take a direct role in the safety of our flora and fauna.
+Ua Mau ke Ea o ka 'Aina i ka Pono
+The old motto of our parent House of Kamehameha, the life of the land is perpetuated in righteousness. It is a call for wise rule over dictatorial powers of a queen. Most importantly, it is the beneficent rule over one's own land.
+Declare the Republic
+In the turmoil of our new independence, we have chosen to preserve the democratic system of the old United States, albeit localised to just our islands. Liberty has prevailed!
+Strengthen Democracy
+Monarchists and radical Leftists seek to undermine our democracy from every angle. We should ensure that the unalienable right of democracy can never be taken away.
+Political Meritocracy
+The mainland fell into chaos in part due to cronyism and nepotism. We need to make sure our new republic is a true meritocracy, where anyone can succeed based on their intelligence and skills.
+Promote Education
+A functioning democracy is entirely dependent on a functioning education system. We need to ensure that the University of Hawaii and other educational institutions are able to provide for all, no matter their background.
+Stable Republic
+While elections might be exciting, they should also be stable. The 1936 Presidential election showed us the necessity of a well-ordered political process. We need to ensure that our democratic traditions are protected through both laws and norms.
+Legacy of America
+While the mainland might be far away, the legacy of democracy has left a lasting imprint on Hawaii. Divided branches of government, open and free elections, and individual liberty all need to be enshrined in our new constitution.
+Republicanism
+A direct democracy, even on the smile scale of Hawaii, will never work. We need to ensure our new government is republican in nature, in order to better protect our citizen's rights and freedoms.
+Americanism
+Americanism means capitalism, freedom, and liberty. We need to ensure these rights are protected for all our citizens, no matter their race or religion.
+Civilising Mission
+Hawaii still has many areas untouched by modern civilisation, especially on the Big Island. We need to make sure all our citizens are brought up in the ways of Western education and culture.
+Separation of Powers
+The separation of powers needs to be enshrined in our constitution, otherwise we may fall to strongmen or mob rule. Independent courts will ensure that all laws that are passed are fair and equitable to all citizens.
+Multicultural Republic
+Beside native Hawaiians, we have large immigrant populations from China, Japan, the Philippines, and Portugal. We need to ensure these communities all work together for the greater good of Hawaii.
+Support from the Big Five
+The Big Five's interests are well-supported in our new republic, as the plantations are the lifeblood of our economy.
+Plantation Support
+Plantations employ most of our citizens outside of Honolulu. Through tax cuts and other legislation, we can ensure that they remain on our side and supportive of the new government.
+Hawaiian Sugar Planters' Association
+The HPSA represents the interests of the most powerful planters on the islands. We need to co-opt their support through whatever means are necessary in order to ensure the stability of our new republic.
+Pacific Free Trade
+We are a valuable entrepôt in the thriving trade of the Pacific, and we should ensure that Canada, Japan, Australasia, and other nations know we are open for business.
+Jewel of the Pacific
+Hawaii remains a bastion of freedom and liberty in the Pacific. Immigrants from all around the globe flock to our shores, and our economy is booming. Long live Hawaii!
+The Revolution Succeeds
+The great Hawaiian Revolution is over, but unless something is done the wounds we have torn open in this land will continue to fester and bleed. We must work with haste to build up an egalitarian, equal and enduring Hawaii, from the ruins of the old.
+Revolutionary Mahele
+The first Great Mahele was when Kamehameha III to stop the illegal homesteading of the 1850s. We the people can outdo the kingdom and even provide our fellow American allies a home.
+Destroy the Big Five
+The Big Five Companies, through the Republican Party and the Privy Council, ha e ruled Hawaii for far too long. Their political repression and use of racial militias should be answered by expropriation of their assets on the islands.
+Land Collectivisation
+The State agriculture organisation is now grouped under the Commune's Agricultural Department, and is formed into trusts for individual crops and geographical divisions of the industry. Crops are sold either directly to the government, to the cooperatives, or, in a very rapidly lessening extent, upon the open local markets.
+Revolutionary Welfare
+Publicly funded healthcare was for a long time shunned in the United States, as countless former presidents were beholden to the will of Big Business over their electorate. As we've now broken the yoke of corporations, public ownership has finally been legalised and enforced, and soon a prosperous Hawaiian welfare state will be created!
+Communal Democracy
+The new Hawaii cannot be built through authoritarian means, we must pursue a better class character for our democracy. Through laws empowering grassroots engagement and townhall meetings, political decisions will no longer be a distant murmur on Capitol Hill, they will be right amongst the workers!
+People's Assemblies
+Governing an entire chain of islands will be difficult. We need to set up autonomous people's assemblies on each island to better ensure our citizen's interests are represented and their complaints can be heard.
+Industrial Democracy
+For far too long, whatever fig leaf of democracy was left at the door as Hawaiians became slaves to petty tyrants in the Privy Council. The People's Assembly has mandated a new Industrial Democracy committee to promote cooperation between unions towards a democratic goal.
+Unionisation
+Labour unions must rise to become the dominant force within our economy, unions now empower every extent of the Commonwealth government.
+Agricultural Unions
+The Agricultural sector will be obliged to feed our nation, but other than that broad instruction, we can allow the farmers to operate mostly independently. Self-determination over forced collectivisation or quotas will bring about true socialism.
+Worker's Cooperatives
+We shall ensure that the work our labourers do will be of equal value to their efforts. The People's Council has passed laws to de-regulate equity and empower Contract Free Association.
+Fight Reactionary Thought
+In no country was culture so debased by capitalism as in Hawaii. Essentially a gigantic effort to perpetuate the robbery of the workers. The Proletarian revolution in Hawaii has at once made a slash into the maze of hypocrisy and intellectual rubbish, paving the road for a glorious new nation.
+Female Emancipation
+Women's suffrage has been assailed ever since the ascent of Queen Lili'uokalani, first by capitalists and then by reactionaries. We carve our way through both to provide the Hawaiian people true democracy in representation.
+Education Reform
+We must reform our Eurocentric and anti-modernist education system a compromise between either side. All school age children are required to attend, and both English and Hawaiian courses should be made available.
+Ho'oponopono
+That phrase means reconciliation and mental cleansing to us. We must push the public consciousness forward towards a bold median between tradition and westernism.
+Hawaiian Socialism
+Although our doctrine be based on mainland writings, our resolve and deep control of our social environment has allowed Hawaii to become a model socialist nation.
+Pacific Trade
+We do not have many natural resources, but our position in the Pacific means we are a hub for trade. We need to ensure we have adequate facilities to process the influx of trade that is sure to come.
+Modernise the Islands
+Many islands, especially the Big Island, lack infrastructure and any sort of manufacturing capability. While trade is good, we need to ensure we are at least somewhat self-sufficient.
+Sugar Industry
+Sugar is the lifeblood of our economy. We need to ensure plantations have enough infrastructure and support to survive the shocks of independence.
+Support the Plantations
+Coffee and banana plantations represent the other major components of our economy outside of sugar. We need to ensure they receive the same amount of support the sugar industry does.
+Support Small Businesses
+While large plantations are important for our industry, small businesses in Honolulu, Hilo, and other towns also need our support to survive the economic chaos independence brought.
+Civilian Investments
+A bold strategy has been devised by [Root.GetLeader] to assist in economic recovery. Traditional notions that government purchases are negatively associated with growth, newer theories hold that smart purchases can stimulate the economy.
+Maritime Trade
+While not nearly as historically significant as on the West Coast, we still have a strong legacy of commercial shipping. We should ensure that this industry supports the war effort.
+Merchant Marine
+The Merchant Marine was severely damaged in the struggle of 1936, [Root.GetLeader] has approved the extension of veteran benefits to those active duty sailors who are not on tour if they become members of the Merchant Marine in their downtime.
+Foreign Economic Advisors
+Japanese, Canadian, and Australasian economic advisors are all more than happy to help improve our economy. While we don't want to sign too much of our country away, assistance is needed.
+Foreign Investments
+Paradoxically, we need investment from outside Hawaii to become self-sufficient. New factories, roads, and ports all need to be constructed, and foreign countries are lining up to be a part of our new economy.
+Bounty of Hawaii
+We are rich in natural resources and produce. Hawaiian sugar and coffee are renowned around the world, and we should ensure that our resources make it to global markets.
+Expand Ports
+Our commodity export-focused economy requires us to constantly be expanding our ports in order to keep up with shipping demand. Already, requests for new harbours have been submitted. We need to start construction at once.
+Electrification Effort
+In order to accommodate the new infrastructural changes, as well as ensure the safety of the island against natural disasters, an electrification project is approved for all the inhabited islands.
+Military Investments
+The defence of Hawaii should not be neglected in our quest to achieve economic self-sufficiency. A small domestic military industry can employ many in Honolulu and also help equip our troops.
+Thriving Economy
+Against all odds, we have achieved economic self-sufficiency! Our citizens are employed, plantations are exporting record crop yields, and new roads and ports have made the islands closer integrated than ever before!
+Assess the Navy
+The Hawaiian Navy was heavily or entirely reliant on US support. With loyalists in Honolulu dedicated to protecting the Pacific above their orders to retreat to the mainland, we should work on improving our capabilities.
+Battlecruiser Efforts
+Battlecruisers present a middle balance between heavy battleships and faster cruisers. We should ensure we have some in our navy.
+Rely on the Coast Guard
+Restoring the Coast Guard will ensure that trade moves smoothly, criminals are stopped at sea, and those in danger are rescued.
+Naval Aviation
+Naval aviation is the future of warfare on the high seas. We should ensure that our air designs are capable of being launched from carriers and destroying the enemy fleet without even endangering our own.
+Expand Pearl Harbor
+Pearl Harbor is an important naval port, and we should expand it to be more appealing to foreign alliances. They will be looking for a strategic port in the Pacific, and we have it.
+Modern Guns
+Our armaments are insufficient to break through modern lines. We need to invest in improving our arms in order to close the gap with other nations.
+Hawaiian Marines
+Semper Fidelis means 'always loyal'. The loyal Marine Corps of Pearl Harbor will always be a bastion of American liberty and democracy, and help spread these freedoms around the world.
+Jungle Training
+Training our troops in the dense jungles of the Big Island and Maui will allow them to better repel any invasion by foreign powers.
+Island Hopping
+Should one of our islands fall to enemy attack, we need to train our troops on the best ways to conduct naval invasions to retake it, or assist our allies in any other naval invasions around the Pacific.
+New Naval Tactics
+Naval aviation and new technology are changing the face of naval warfare forever. We should ensure our textbooks are up to date with these new tactics.
+Naval Industry
+Our dockyards are somewhat inadequate to fight a war on their own. We need to ensure that new naval production facilities are constructed to support the war effort.
+Coastal Defences
+Powerful coastal guns can help us defend from any enemy naval invasion, and destroy enemy ships before they get close to shore.
+Modernise the Forts
+A number of colonial forts still dot the islands, but they are old and crumbling. We should repair and modernise them, and ensure that they are able to withstand an attack from modern weaponry.
+Ha'iku Radio Station
+A top secret facility in the mountains of O'ahu, the Ha'iku radio station will allow us to monitor radio traffic across the Pacific, giving us a significant advantage in anticipating enemy attacks.
+Defend the Islands
+These islands are our homeland. We need to defend them at all cost against those who seek to destroy our history and way of life.
+Support Brigades
+The army has requested more support while traversing the trenches our enemies have erected.
+The WACs and WAVEs
+Women can serve many auxiliary roles in the navy, freeing up men for combat duty. While this might be socially controversial, it will significantly help the war effort.
+Kukini
+In ancient Hawaii, Kukini were an elite class of men selected to undergo strenuous physical and mental training to become swift foot runners. Modern signal technology will allow us to better react to enemy movements and respond.
+Military Research
+We are having our best scientists and business leaders look into what we should invest our efforts into guns, artillery, tanks, our improving our own doctrines.
+Rule the Islands
+Following our extensive investments into naval research and construction, we have gained a place as one of the world's leading naval powers. Anchors away!
+Hawaiian Air Force
+Before the war, the American Army Air Corps had a presence in Hawaii. At the time it was little more than a branch of the Army. In this new war, we need to ensure it is independent and gets the support it needs.
+New Pilot Training
+Pilots are in short supply in the chaos of this war. We need to ensure that promising candidates aren't sent to the front lines, but instead given the proper training required to fight in the air.
+Naval Aviation
+Naval aviation is the future of warfare on the high seas. We should ensure that our air designs are capable of being launched from carriers and destroying the enemy fleet without even endangering our own.
+Paratroopers
+Paratroopers will allow us to rapidly attack otherwise isolated islands. We should start research into airborne doctrine and equipment at once.
+Air Supremacy
+The battle for the skies is fierce. We must promote vertical envelopment doctrine in order to protect our CAS and bombers.
+Fighter Efforts
+American fighter projects were halted during the 1920s, leading to a disadvantage in fighter development. We must close this gap in a new nation where naval aviation is essential to military success.
+Battle-Field Support
+The Army's request for more ground support while traversing the trenches our enemies have erected. As an equal partner the Air Force approves this request.
+Bomber Efforts
+Bombers, although a terror to behold, will enable us to project our power overseas. Our secret project also hinges on effective and safe bombers to deliver their secret payload.
+Air Observer Corps
+Ground observers are required for pilots to complete their missions. We should ensure that our ground troops have the correct equipment and training to call for air support effectively.
+The WASPs
+Women can fly a plane just as well as a man can, and can provide many valuable auxiliary tasks, freeing up men for other duties. While socially controversial, this will be an invaluable step in winning the war.
+Airfield Expansion
+The range of our fighters and bombers are limited by the airfields to which they are attached. By improving both the quality and quantity of these airfields, we will be able to strike more targets more frequently.
+Rule the Skies
+We have triumphed over our foes, and now rule the skies of the central Pacific. Aim high, fly, fight, and win!
+§MRestore the kingdom§! ($social_conservative_coloured$ / $market_liberal_coloured$ / $social_liberal_coloured$ / $social_democrat_coloured$)\n£white_dot Choose to send the national guard or listen to the strikers to deal with the general strike.\n£white_dot Choose to declare the kingdom at the emergency meeting.\n£white_dot In 1940 and all following elections, you will be able to elect the §SProgressive Party§!, the §lNational Liberal Party§!, the §mRepublican Party§! and §cHui Aloha Aina§!.\n\n§MProclaim a Republic§! ($social_conservative_coloured$ / $market_liberal_coloured$ / $social_liberal_coloured$)\n£white_dot Choose to send the national guard or listen to the strikers to deal with the general strike.\n£white_dot Choose to declare the republic at the emergency meeting.\n£white_dot In 1940 and all following elections, you will be able to elect the §lNational Liberal Party§!, the §mRepublican Party§! and §cHui Aloha Aina§!.\n\n§MSuccessful Revolution§! ($radical_socialist_coloured$ / $syndicalist_coloured$ / $totalist_coloured$)\n£white_dot Choose to ignore the general strike, send the police to the march on Honolulu, and have the strikers win the battle of Honolulu.\n£white_dot In 1940 and all following elections, you will be able to elect the §oRevolutionary Party of Hawaii§!, the §rHawaiian Federation of Labor§! and the §RSocialist Party of Hawaii§!.\n\n§MForeign Policy§!\n§MCo-Prosperity Sphere§! / §MReichspakt§! / §MEntente§!\n£white_dot Restore the kingdom or proclaim a republic, and the decisions to join the mentioned factions will appear.\n\n§MThird Internationale§!\n£white_dot Have the revolution be successful, and a decision to join the Third Internationale will appear.
+Hawaii
+Hawaiian
+Hawaii
+Commune of Hawaii
+the Commune of Hawaii
+Commune of Hawaii
+the Commune of Hawaii
+Commune of Hawaii
+the Commune of Hawaii
+Commune of Hawaii
+the Commune of Hawaii
+Commune of Hawaii
+the Commune of Hawaii
+Commune of Hawaii
+the Commune of Hawaii
+Kingdom of Hawaii
+the Kingdom of Hawaii
+Kingdom of Hawaii
+the Kingdom of Hawaii
+Kingdom of Hawaii
+the Kingdom of Hawaii
+Kingdom of Hawaii
+the Kingdom of Hawaii
+Kingdom of Hawaii
+the Kingdom of Hawaii
+Kingdom of Hawaii
+the Kingdom of Hawaii
+Kingdom of Hawaii
+the Kingdom of Hawaii
+Jack Denichi Kimoto
+§YBorn:§! §L1906, in 'Ewa, Territory of Hawaii, United States of America§!
+Jack Wayne Hall
+§YBorn:§! §LFebruary 28th, 1915, in Ashland, Wisconsin, United States of America§!
+Arthur Abraham Rutledge
+§YBorn:§! §LJanuary 2nd, 1907, in Lublin, Lublin Governorate, Kingdom of Poland, Russian Empire§!
+John Henry Wilson
+§YBorn:§! §LDecember 15th, 1871, in Honolulu, O'ahu, Kingdom of Hawaii§!
+Samuel Wilder King
+§YBorn:§! §LDecember 17th, 1886, in Honolulu, O'ahu, Kingdom of Hawaii§!
+Lawrence McCully Judd
+§YBorn:§! §LMarch 20th, 1887, in Honolulu, O'ahu, Kingdom of Hawaii§!
+Henry Alexander Baldwin
+§YBorn:§! §LJanuary 12th, 1871, in Maui, Kingdom of Hawaii§!
+James Dole
+§YBorn:§! §LSeptember 27th, 1877, in Jamaica Plain, Massachusetts, United States of America§!
+Lydia Lili'uokalani Kawānanakoa
+Lili'uokalani II
+§YBorn:§! §LJuly 22nd, 1905, in Honolulu, Territory of Hawaii, United States of America§!
+Ingram Macklin Stainback
+§YBorn:§! §LMay 12th, 1883, in Somerville, Tennessee, United States of America§!
+Joseph Rider Farrington
+§YBorn:§! §LOctober 15th, 1897, in Washington, D.C., United States of America§!
+Charles Atwood Rice
+§YBorn:§! §LSeptember 12th, 1876, in Honolulu, O'ahu, Kingdom of Hawaii§!
+Charles Reed Hemenway
+§YBorn:§! §LJune 12th, 1875, in Manchester, Vermont, United States of America§!
+Robert Larimore Shivers
+§YBorn:§! §LApril 9th, 1895, in Ashland, Tennessee, United States of America§!
+Walter Campbell Short
+§YBorn:§! §LMarch 30th, 1880, in Fillmore, Illinois, United States of America§!
+Charles Douglas Herron
+§YBorn:§! §LMarch 13th, 1877, in Crawfordsville, Indiana, United States of America§!
+Kendall Jordan Fielder
+§YBorn:§! §LAugust 1st, 1893, in Cedartown, Georgia, United States of America§!
+Delos Carleton Emmons
+§YBorn:§! §LJanuary 17th, 1889, in Huntington, West Virginia, United States of America§!\n§YBackground:§! §LDelos Carleton Emmons graduated from the United States Military Academy in June 1909 as a second lieutenant. He was assigned as the CO of the Company B of the 30th Infantry Regiment, and would follow the 30th until July 1916, where he was promoted to first lieutenant and joined the Signal Corps to become an aviator. He became a Captain by July 1917, a Major in June 1918 and a Colonel in August 1918. He'd transfer to the US Army Air Service in 1920, and in 1921 he completed the Air Service Course at Harvard University. He'd hold several influential posts in the US Army Air Service during the twenties, and would graduate from the Air Corps Tactical School and the Command and General Staff School before 1930. He was assigned to Hawaii in March 1934 as the CO of the 18th Composite Wing and he has held that post until the outbreak of the American Civil War. With the local tensions high, and seeing the writing on the wall, Delos decided to join the revolt against the Federal Government which helped proclaim an independent Hawaii. This has granted him the promotion to Brigadier General, but it is uncertain if he's actually prepared for the job.§!\n\n§YNotes: He is known to have made racist displays against Japanese-Americans in the island, citing the possibility of a Japanese attack on the island.§!
+Robert Charlwood Richardson Jr.
+§YBorn:§! §LOctober 27th, 1882, in Charleston, South Carolina, United States of America§!\n§YBackground:§! §LRobert Charlwood Richardson Jr. graduated from West Point as a second lieutenant in 1904, and was a member of the 14th Cavalry Regiment during the Philippine War guerrilla insurrections, where he personally fought against hostile Moros tribesmen. During one skirmish against the tribesmen, he was wounded in combat, for which he was awarded the Purple heart and the Silver Star. He'd continue to fight with his regiment until October 1905, where he returned to San Francisco. He led the 14th Cavalry during the 1906 earthquake as a part of the government response to the disaster. In October 1906, he rejoined West Point as an Assistant Instructor in Foreign Languages until 1911, where he rejoined the 14th Cavalry for a second tour in the Philippines. He'd return again to the US in 1914, and served as Assistant Professor of English in West Point until 1917, where he was sent to France as an observer for the dying Entente. His observations in France were quite valuable for the US Military Academy, and once the defeat of France became imminent, he was recalled back to the US. He was ascended to Captain in 1920, and after signing up for a third tour in the Philippines, he became a Major. He was later sent to the Republic of Italy as a military attaché during the conflicts that shaped the region and would return as a lieutenant colonel in 1928, where he'd rejoin his beloved 13th Cavalry once more at Fort Riley in Kansas. He'd be rotated as commanding officer throughout many regions of the United States, until he promoted and assigned to Hawaii in early 1936. While he's one of the most experienced members of the staff, his loyalty to Hawaii itself isn't really solid as there seems to have been a struck of luck for Richardson to be spared the chaos that now ravages the mainland when he actually has no connections to the island.§!
+Joseph Taggart McNarney
+§YBorn:§! §LAugust 28th, 1893, in Emporium, Pennsylvania, United States of America§!\n§YBackground:§! §LJoseph Taggart McNarney graduated from the United States Military Academy in June 1915, having attended lessons with great officers like Omar Bradley and Dwight Eisenhower. McNarney served with the 21st Infantry Regiment at Vancouver Barracks, Washington, and with the 37th Infantry Regiment at Yuma, Arizona. He became one of the first lieutenants to begin flight training when he signed up to the Signal Corps Aviation School in 1916, from where he'd graduate a year later as a Junior Military Aviator. He was promoted to Captain in May 1917 and posted in New Mexico. He'd later take charge of the flying school at Gerstner Field, in Luisiana. He'd move in late 1920 to Langley Field, where he became a student of the Air Service Field Officers School and remained in Langley as an instructor. He'd graduate with honours from the Command and General Staff School at Fort Leavenworth in 1926, and he completed the Army War College course in 1930. He succeeded Major Spaatz in the 7th Bomb group after Spaatz promotion. McNarney then became an instructor at the Army War College in Washington, serving from August 1933 to March 1935, where he was redeployed as an attaché to Canada. With the outbreak of the Civil War, McNarney decided that it was best to leave to a place where his particular skills were in short supply, and the Hawaiian staff was more than happy to welcome him from Canada.§!
+James Otto Richardson
+§YBorn:§! §LSeptember 18th, 1878, in Paris, Texas, United States of America§!\n§YBackground:§! §LJames Otto Richardson entered the United States Naval Academy in 1898 and graduated fifth in a class of eighty-five in 1902. His first duty assignments were in the Asiatic Squadron, where he took part in the Philippine campaign and, after 1905, in the Atlantic Ocean. In 1907 to 1909, Lieutenant Richardson commanded the torpedo boats Tingey and Stockton and the Third Division, Atlantic Torpedo Flotilla. He was a member of the first class of the Navy's Post Graduate Engineering School from 1909 to 1911 and served as an engineer on the battleship USS Delaware and on the staff of the Atlantic Reserve Fleet. In 1914, Richardson was promoted to the rank of Lieutenant Commander and was attached to the Department of the Navy's Bureau of Steam Engineering, where he worked to assure the Navy's fuel supply. In 1917 to 1919, Commander Richardson was navigator and executive officer of the battleship USS Texas. Following a tour at the Naval Academy, he was given command of the gunboat USS Asheville in 1922 and took her out to Asiatic waters, where he also had command of the South China Patrol. Captain Richardson was Assistant to the Chief, Bureau of Ordnance, in 1924 to 1927. In the late 1920s, he commanded a destroyer division and returned to the US for service with the Bureau of Navigation. In January 1931, Captain Richardson placed the new scouting cruiser USS Augusta in commission and commanded her for more than two years. After a tour as a Naval War College student in 1933-1934, he was Budget Officer at the Navy Department, receiving promotion to rear admiral while he was in that position in December 1934. His duties as a flag officer included command of a Scouting Fleet cruiser division, service as aide and Chief of Staff, and a tour as Commander Destroyers, Scouting Fleet. In the end of 1935 he became chief of the Bureau of Navigation.§!\n\n§YNotes: Protested against redeployment of a portion of the Scouting Fleet forward to Pearl Harbor and has bad relations with the U.S. government because of that.§!
+Luke McNamee
+§YBorn:§! §LApril 4th, 1871, in Mount Hope, Wisconsin, United States of America§!
+Gordon Pai'ea Chung-Hoon
+§YBorn:§! §LJuly 25th, 1910, in Honolulu, Territory of Hawaii, United States of America§!
+Benjamin Vaughan McCandlish
+§YBorn:§! §LJune 3rd, 1886, in Petersburg, Virginia, United States of America§!
+Husband Edward Kimmel
+§YBorn:§! §LFebruary 26th, 1882, in Henderson, Kentucky, United States of America§!
+Ira Lafayette Kimes
+§YBorn:§! §LAugust 8th, 1899, in Fayetteville, Tennessee, United States of America§!
+Andrew Moses
+§YBorn:§! §LJune 6th, 1874, in Burnet, Texas, United States of America§!
+Millard Fillmore Harmon Jr.
+§YBorn:§! §LJanuary 19th, 1888, in Fort Mason, California, United States of America§!
+Majlis al Sha'bī
+Majlis al Sha'bī al Thawrī fī Jazīrat al 'Arab\n(Popular Revolutionary Council in the Arabian Peninsula)
+$HEJ_totalist_party$
+$HEJ_totalist_party_long$
+$HEJ_totalist_party$
+$HEJ_totalist_party_long$
+Hizb Hijāzī al Lībirālī (Hejazi Liberal Party)
+HHL
+Hizb Hijāzī al Lībirālī (Hejazi Liberal Party)
+HHL
+Hizb Hijāzī al Lībirālī (Hejazi Liberal Party)
+HHL
+Hizb Hijāzī al Watanī (Hejazi National Party)
+HHW
+Sharīf al Hijāz (Sharif of Hejaz)
+Sharīf al Hijāz
+Sharīf al Hijāz (Sharif of Hejaz)
+Sharīf al Hijāz
+Hizb al Fidā' al Watanī (Party of National Sacrifice)
+HFW
+Hejaz
+Hejazi
+Hejaz
+People's Republic of Hejaz
+the People's Republic of Hejaz
+United Communes of Mecca & Medina
+the United Communes of Mecca & Medina
+Republic of Hejaz
+the Republic of Hejaz
+Arabia
+Arabian
+Arabia
+People's Republic of Arabia
+the People's Republic of Arabia
+United Communes of Arabia
+the United Communes of Arabia
+Republic of Arabia
+the Republic of Arabia
+Hashemite Arabia
+Hashemite Arabia
+Hashemite Arabia
+Hashemite Arabia
+Hashemite Arabia
+Hashemite Arabia
+Hashemite Arabia
+Hashemite Arabia
+Hashemite Arabia
+Hashemite Arabia
+Hashemite Arabia
+Hashemite Arabia
+Hashemite Arabia
+Hashemite Arabia
+Hejaz
+Hejazi
+Hejaz
+Defence of Mecca
+Surrounded by enemies on all sides, it seems unlikely the Hejazi state can survive. If it were to prove its worth in battle, however, persuading Egypt to intervene on their behalf could be possible.
+Unruly Urban Nobility
+Contrary to the less developed interior, the great cities of Hejaz are home to a strong and well established urban elite who participate in the world economy. These individuals, often former members of the Ottoman bureaucracy, army and institutions, have opinions of their own and have grown accustomed to the ideas of democracy and republicanism which were widespread in the former Ottoman state.
+Guardians of the Hajj
+Home to the Holy Cities of Mecca and Medina, it is the sworn duty of our Sharif to protect and guide the faithful on their pilgrimage, or Hajj, to the Hejaz. Accompanying this duty however there are also significant benefits as our economy flourishes due to its connection to the Hajj. Shipping, caravan and motor companies have set up shops in the port city of Jeddah whilst a pilgrim tax is raised on every Muslim coming to visit our sacred places.
+Engrained Ottoman Civil Service
+Even though we may have been opposed to the Turkish nature of their regime, we can not deny that the Ottoman Turks have left in their wake a fully functional and extensive bureaucratic machine, unrivalled elsewhere on the peninsula. As we merely took over their system during the war for independence, many of the high level functions are still held by Turks whilst almost the entire administration of the former vilayet retains the Turkish language for communication and registration.
+The Majilis al Wukala
+Unrecognised Caliph
+The Ministry of Religious Affairs
+The Directorate of Motor Transport
+Unification Fevour
+The Directorate of Military Affairs
+Sharifian School for Naval Sciences
+Commission for Weapons Acquisition
+Hejazi [ROOT.GetRoyalOrRepublicanCap] Guard
+Al Jeish Al Arabi
+The Arab Legacy
+Nationalised Railways
+Hejaz Focus Tree
+Found the Majilis al Wukala
+With our rule over Hejaz and the Holy Cities secure it is time to form a proper government in the form of the Majilis al Wukala or Council of Ministers. Once orderly rule has been established the King can begin to exert power through his ministers and start up greater reforms to cement our rule.
+Incorporate Family Networks
+Familial ties often create the best allies and by embedding blood ties deep into the web of governance and the bureaucracy, dissent in the civic life against the King can be safely neutered.
+Arabicise the Ottoman Civil Service
+Unfortunately our young government has been forced to make use of the original Ottoman civil service in the region and these administrators' loyalties are tenuous at best. Measures must be taken to create a more loyal and purely Arab civil service.
+Found the General Directorate for Police
+Unless we are to allow anarchy to stalk Hejaz, a more centralised and special security board must be created so as to better manage and coordinate the enforcement of laws in the Holy Cities and beyond.
+Ban Secret Societies
+Secret societies are breeding grounds for dissent against the King and serve only to subvert moral and civil governance. A ban is necessary to force them into the open and promulgate a more thorough crackdown.
+Establish a State Directed Curriculum
+Currently education in Hejaz is either non-existent or inconsistent. It is a necessity for the state to create a consistent and centralised curriculum to expand education and fight illiteracy in the Kingdom.
+Found the Ministry of Religious Affairs
+Hejaz is the home to the Holy Cities and it is essential to be a moral Kingdom. The Ministry of Religious Affairs shall regulate the maintenance of mosques, the Hajj pilgrimage and promote good practice of Islam.
+Appoint the Shayk al-Islām
+The Shayk al-Islām is Islam's foremost legal authority and theoretically presides over the whole judicial and theological hierarchy of Islam. By our virtue of controlling the Holy Cities, the responsibility of appointment falls to us.
+Claim the Mantle of the Caliphate
+Now with the House of Osman shattered, as the stewards of the Holy Cities and the appointers of the Shayk al-Islām, it is time to claim the mantle of the Caliphate of all Muslims and lead the Ummah.
+Establish the Mudiriya
+As the Kingdom grows, it is time to establish the Mudiriya or General Directorate of Finance. Foreign experts shall be invited to assist in overseeing the organisation of financial measures and the Kingdom's fiscal policy.
+Instate the Hajj Tax
+As has the Stewards of the Holy Cities, we are the Guardians of the Hajj pilgrimage and so are able to charge the Hajj tax. Surely all faithful will have no qualms with lining the coffers of the custodians of the Cities.
+Found the Meccan Urban Planning Commission
+The city of Mecca is the most notable and holiest city in Islam and so planning and development must be done with the utmost care. By establishing an urban planning commission, the city shall be preserved and development can be promoted without impeding on the holy sites.
+Pacify the Hejazi Bedouin
+The Bedouin tribes are still opposed to our rule and are a thorn in the side of the kingdom. Pacification of these unruly elements is a necessity if we are to ensure the continued stability of the Hejaz.
+The Directorate of Motor Transport
+Motor vehicles are a new Western innovation and are becoming more prevalent in Hejaz, especially among Hajj pilgrims. Simply put, travel via motor car or bus is more comfortable than camel and would allow a greater proportion of pilgrims to undertake the Hajj journey.
+Cooperate with Foreign Airlines
+As we enter a brave new world of transport innovations, airplanes; once a novelty and weapon of war, have become progressively more used for civilian transport. By working with foreign airlines, the Hajj can become even more accessible for Muslims the world over.
+Re-open Foreign Consulates
+Now that Hejaz is beginning to re-exert itself on the world stage we must begin to reestablish a diplomatic presence abroad and improve our relations with foreign countries, especially if we are to solidify ourselves as the rightful custodians of the Holy Cities.
+Found the Directorate of Gifts and Donations
+As Hajj pilgrims begin to pour into Mecca, a special Directorate must be established to regulate the proceeds of gifts and donations to the state so that they be reinvested in local infrastructure as well as the redistribution of offerings among the Bedouin tribes.
+State Visits to the Faithful
+Hejaz must solidify itself as the rightful rulers of the Holy Cities and the preeminent leaders of the faith. To do this, the King shall make state visits and improve the relations with those who are faithful and loyal to Hajj stewardship of the Cities.
+Pursue Arab Unification
+Now that we have attained extensive foreign recognition, Hejaz may pursue its dreams of unifying the Arabs under the rightful rule of the Caliph of Islam and stewards of the Holy Cities.
+Incorporate the Arab Gulf
+The Arab Gulf has now fallen under our control, and we will need to integrate it properly into our administration if we are to govern it effectively and gain the acceptance of our new subjects.
+Incorporate Central Arabia
+Central Arabia has now fallen under our control, though we will need to be properly integrated into our administration if we are to govern it properly and for our new subjects to accept our rule.
+Incorporate Asir
+Asir has now fallen under our control, though we will need to be properly integrated into our administration if we are to govern it properly and for our new subjects to accept our rule..
+Nationalise the Hejaz Railway Corporation
+The Hejaz Railway Corporation continues to operate in the territories of the Kingdom, yet it would function more efficiently if it were brought directly under the control of the government.
+Found the Arabian Transport Company
+Logistics in Hejaz is woefully lacking and uncoordinated. By establishing the ATC, economic development in the Kingdom will be accelerated and all logistics shall grow more centralised and coherent.
+The General Syndicate for Automobiles
+The King has taken it upon himself to ensure the convenience of pilgrims and provide them with all that could help them overcome difficulties on their way to performing Hajj and Umrah. The new general syndicate will allow Hejaz subjects to rent their cars to pilgrims and dovetail motor transportation throughout the kingdom.
+Encourage Domestic Manufacturing
+Hejaz lacks much industry, though with targeted subsidies, investment, and encouragement from the government, we can begin to grow our industry and improve the local economy.
+The Directorate for Mining and Shipping
+Hejaz is home to small and thriving mining ventures but getting the products of these ventures has proven costly and nearly impossible. By establishing a centralised Directorate on the matter of mining and shipping the goods to international markets our output will be able to benefit us greatly.
+Re-open Mahd ahd Dhahab
+Mahd ahd Dhahab is one of the more notable mining ventures in Arabia and sees a steady output of gold. By reopening the mine we can further line the state coffers and boost the growth of our wealth.
+Expand Jeddah Shipping
+Jeddah is the most notable coastal city in Hejaz and the home of a minor but flourishing shipping industry. By expanding this business venture, the Hejazi exports will be able to expand into new markets.
+The Directorate for Military Affairs
+Unfortunately Hejaz is not particularly capable in military matters and will require further investment. The Directorate for Military Affairs shall seek to rectify this problem and develop the Hejazi army.
+Inaugurate the Jeddah Coast Guard
+The coast of Hejaz is lawless and undefended; the Military Directorate has seen it fit to establish and inaugurate a proper coast guard so as to defend our shores from dangers and coastal interlopers.
+The Sharifian School of Naval Sciences
+Naval technology has advanced greatly in recent decades though unfortunately Hejaz has fallen behind on these developments. The King himself has seen it fit to personally sponsor a special college in Jeddah to educate naval cadets into these new developments.
+Dockyards of Jeddah
+The dockyards of Jeddah are bustling with trade and ships from across the world. Money pours in every day and it is only natural we reinvest these profits to create newer and better dockyards for our thriving industry.
+The Commission for Weapons Acquisition
+Hejaz lacks a native arms industry and arming our soldiers is proving difficult as surplus supplies run low. The Military Directorate proposes the creation of a special commission to purchase and procure foreign weapon contracts.
+MAS Rifle Contract
+MAS is a French weapons company that still survives despite syndicalism in the French mainland and they are more than eager to supply us with weapons. We should capitalise on this deal and create a mutually beneficial relationship.
+Cooperate with OPEL
+OPEL is a German automobile maker and has shown an interest in supplying the Kingdom's military with trucks and armoured cars to help buy our military forces. While it may be somewhat expensive, these modern military marvels will be worth every penny.
+Create the Jeddah Munitions Factory
+Jeddah is quickly becoming home to a thriving local industry and it is only natural to create an extensive weapons development complex. Hejaz will be able to design and develop its own weapons and properly supply the domestic military forces.
+Disband Tribal Militia
+Now that Hejaz has thrown off the Ottoman yoke, we must transition to being a proper state and create a professional military. This will involve finally disbanding the tribal militias that helped us assert our independence.
+Create Al Jeish Al Arabi
+The Al Jeish Al Arabi, or Arab Legion, shall be the centre of a new centralised and professional military force for the Kingdom and has to be drilled to a fault.
+Decentralised Army Command
+If the overthrowal of the Turks has taught us anything it is that a decentralised force is optimal in fighting our enemies. Rigid hierarchies will serve the military no benefit over locally coordinated troops.
+Regulate Conscription
+Conscription is a modern necessity for Hejaz and service must be made compulsory if we are to create a professional and standard army. Obviously this will need to be regulated and properly enforced.
+Arabian Horsemanship
+The armies of Arabia are renowned for their horsemanship and the use of cavalry is a blessing in the harsh deserts. Tapping into this practice and skill will be a boon for our army.
+Incorporate Ottoman Officers
+Many officers of the Ottoman army remain in Hejaz territory, prepared to be integrated into our armed forces. Their technical expertise will be a great addition to our budding forces.
+Found the Hejazi Camel Corps
+Camels are the lifeblood of Arabian society and the Ottomans made great use of them in the past. We should copy this and create our own Hejazi Camel Corps to better facilitate desert operations.
+Expand the [ROOT.GetRoyalOrRepublicanCap] Guard
+The [ROOT.GetRoyalOrRepublicanCap] Guard of Hejaz is one of the most prestigious divisions amidst our military forces. As new threats and dissent arise in the [ROOT.GetKingdomOrRepublic], we should seek to expand the guard and the forces as a whole.
+Standardised Firearms
+The Hejazi military forces lack any form of standardisation, using everywhere from British, French, Ottoman and even domestically made mystery weapons in combat. Due to the abundance of designs it makes supplying said forces a nightmare. Standardisation of firearms will be a great improvement.
+Found the Hejazi Flying Corps
+As the Hejazi military forces grow and improve, it is time to take our military might to the skies and vanquish our enemies from above!
+The Hawker Fury Deal
+Hawker is a British company, now in exile, though they are still keen to sell us a few planes, and this would prove useful in beginning our small flying forces.
+Establish Ta'if Airbase
+Ta'if is a small city located near Mecca and could be instrumental in air defences. By building our first airbase there, the Holy Cities shall be safe from dangers in the sky.
+Found the Medina Air Academy
+Hejaz currently lacks a specialised military school for air fighting and so establishing an academy in Medina will help train a new generation of flying cadets.
+Abdullah ibn al-Hussein
+§YBorn:§! §LFebruary 2nd, 1882, in Mecca, Vilayet of the Hejaz, Ottoman Empire§!
+Zeid ibn Hussein al-Hashmid
+§YBorn:§! §LFebruary 28th, 1898, in Kostantiniye, Vilayet of Kostantiniye, Ottoman Empire§!
+Abdul Qadir Pasha el-Jundi
+§YBorn:§! §L1896, in Tripoli-of-the-West, Vilayet of Tripolitania, Ottoman Empire§!
+Ghazi ibn Faisal al-Hashmid
+§YBorn:§! §LMarch 21st, 1912, in Mecca, Vilayet of the Hejaz, Ottoman Empire§!

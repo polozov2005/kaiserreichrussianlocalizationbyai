@@ -1,0 +1,580 @@
+§YIs helping in developing another country.§!
+§Y[735.GetName]§! will also gain §Y1 $dam$§! if owned by §Y[ROOT.GetNameWithFlag]§!.
+§Y[943.GetName]§! will also gain §Y1 $dam$§! if owned by §Y[ROOT.GetNameWithFlag]§!.
+Phalanstère International
+[GetPhalanstereName]
+§L$KR_phalanstere_desc$§!
+Leader of the §H$INT_phalanstere$§!
+Member of the §H$INT_phalanstere$§!
+The Phalanstère International is an organisation for economic development and cooperation between the socialist states. The Phalanstère aims to better coordinate resources between the member states, and it has numerous support programmes to bolster industrialisation in the less wealthy countries.
+Syndicalist Agitation: $VALUE|=-%0$
+§HChad§!, §HFrench Sudan§!, §HGuinea§!, §HMauritania§!, §HNiger§!, §HUpper Volta§!
+§HChad§!, §HFrench Sudan§!, §HGuinea§!, §HNiger§!, §HTunisia§!, §HUpper Volta§!
+§HChad§!, §HFrench Sudan§!, §HMauritania§!, §HNiger§!, §HTunisia§!, §HUpper Volta§!
+§HChad§!, §HGuinea§!, §HMauritania§!, §HNiger§!, §HTunisia§!
+§HFrench Sudan§!, §HGuinea§!, §HMauritania§!, §HTunisia§!, §HUpper Volta§!
+Wave of Dissent
+§LDue to the success of the German §Y$GER_operation_eulen$§!, significant effort will be diverted towards calming down Catholic unrest, greatly reducing the potential effect of this initiative.§!
+[FRA_ArmeeFederale_MobileWarfareProductionBonus][FRA_ArmeeFederale_FirstLineBreak][FRA_ArmeeFederale_ArtilleryProductionBonus][FRA_ArmeeFederale_SecondLineBreak][FRA_ArmeeFederale_ArmourBonus]
+$FRA_motor_production_bonus_no_lar$\n§Y$armored_car_equipment$§!:\n    $production_cost_tt$[?-0.1|-=%2]\n    $STAT_COMMON_RELIABILITY$[?0.05|+=%0]
+§Y$motorized_equipment$§!: $production_cost_tt$[?-0.1|-=%2]\n§Y$mechanized_equipment$§!: $production_cost_tt$[?-0.1|-=%2]
+§Y$support_equipment$§!: $production_cost_tt$[?-0.15|-=%2]
+§Y$mio_cat_eq_all_artillery_and_rocket_artillery$§!: $production_cost_tt$[?-0.1|-=%2]
+§Y$armor$§!: $STAT_ADJUSTER_DEFENCE$[?0.1|+=%0]
+§Y$armor$§!: $STAT_ARMY_BREAKTHROUGH$[?0.1|+=%0]
+§Y$armor$§!:\n    $STAT_COMMON_RELIABILITY$[?0.05|+=%0]\n    $production_cost_tt$[?-0.05|-=%2]
+[FRA_ArmeeDelAirPopulaire_AircraftProductionBonus]
+§Y$mio_cat_eq_all_aircraft$§!: $production_cost_tt$[?-0.05|-=%2]
+[FRA_MarineFederale_ShipProductionBonus]
+§Y$capital_ship$§!:\n    $production_cost_tt$[?-0.1|-=%2]
+§Y$screen_ship$§!:\n    $STAT_NAVY_MAXIMUM_SPEED$[?0.05|+=%0]\n    $production_cost_tt$[?-0.05|-=%2]
+French Rearmament
+Atomic Pair
+Société Métallurgique de Normandie
+FAMH
+Radiola
+Rhône-Poulenc
+Manufacture d'armes de Saint-Étienne
+Manufacture d'armes de Bayonne
+Atelier de Construction de Puteaux
+Berliet
+De Dion-Bouton
+Argenteuil-Lorraine
+SOMUA
+Panhard
+Breguet Aviation
+Fouga
+Levasseur
+Morane Saulnier
+Potez
+Ateliers et Chantiers de la Loire
+Ateliers et Chantiers de Saint-Nazaire Penhoët
+FCM
+Automitrailleuses
+B1 bis Suspension
+L/35
+Communard Spirit
+We are the legacy of the Paris Commune, the first socialist state ever created and then brutally repressed by the Republican reactionaries. In 1920, the workers finally got their revenge and overthrew the military junta of the 'Party of Order'. We, sons and daughters of Communards must protect our state and our spirit, we will not be commanded by tyrants anymore!
+Revanchist Rearmament
+Our nation must rise again if we are to defeat the Imperialists!
+Renseignements Généraux
+The Renseignements Généraux serve as the eyes and ears of the Commune, gathering intelligence on both domestic and international threats to our proletarian dream. But the RG's mission goes beyond mere security. They are also responsible for promoting the values and principles of our socialist revolution, both at home and abroad. Through their intelligence gathering and analysis, they help shape our foreign policy and are the first deployed in our efforts to break the global chains of Capital.\n\nWith sympathisers in every factory still owned by the bourgeoisie, our networks are unmatched.
+Working Women
+For too long have women been suppressed by reactionary thinkers. Even under the French Republic, they selflessly supported the nation while our brothers were sent to the slaughter. It is time for us to recognise their contribution to society, and formalise the rights of the working woman, in peace and war.
+French Military Support
+We are receiving military support from our French allies. This selfless assistance will prove critical to defeating the reactionary Princely Federation and the imperialist Dominion of India. In time, we hope to repay France for their help, but for now we must focus on the task at hand.
+Peaceful Revolution
+The international socialist Revolution will come, but it will be civilised. With the main reactionary powers in Europe finally shattered and their workers liberated, we aim to encourage further uprisings by merely proving the superiority of Syndicalism to the whole world.
+Revolutionary Spirit
+The survival and prosperity of the socialist world will only be ensured when the last reactionary bastion is terminated. We must stand ready to mobilise and shatter every reactionary government across the world. One day, the Internationale will extend across all seas and continents!
+Socialist Education
+The education of the youth is one of the greatest goals that a country like the Commune may face. Luckily, the old education system of the Republic was already revolutionary for its day, giving us a good basis for the new one. A socialist education system, focused on the sciences and arts.
+International Avant-Garde
+A united socialist art style, from art to music, could be a powerful tool that will help masses in the non-syndicalist world get interested in our ideals - through entertainment.
+Road Construction Efforts
+Large-Scale Rural Projects
+Second Wave of Mechanisation
+Communal Waterworks
+Ploughshares into Swords
+Autonomous Communes
+Armée Fédérale
+Armée de l'Air Populaire
+Marine Fédérale
+Voluntary Association
+Modernisation and Cartellisation
+Militarisation of the Proletariat
+Planism
+City of Lights
+CNS/PSdF
+Confédération Nationale-Syndicaliste/Parti Socialiste de France
+CSR
+Comités Syndicalistes Révolutionnaires
+AFA
+Association des Fédéralistes Anarchistes
+LJR
+Ligue de la Jeune République
+FSR
+Fédération Socialiste Républicaine
+FNC
+Fédération Nationale des Contribuables
+FCF
+Fédération des Chrétiens de France
+FP
+Front Paysan
+OSARN
+Organisation Secrète d'Action de Restoration Nationale
+OSARN
+Organisation Secrète d'Action de Restoration Nationale
+CNS
+Confédération Nationale-Syndicaliste
+PSdF
+Parti Socialiste de France
+USR
+Union Socialiste Républicaine
+§YSorelian§! economic policies were favoured during the elections
+§YJacobin§! economic policies were favoured during the elections
+§YAnarchist§! economic policies were favoured during the elections
+§YOrthodox§! economic policies were favoured during the elections
+§YSorelian§! military policies were favoured during the elections
+§YJacobin§! military policies were favoured during the elections
+§YAnarchist§! military policies were favoured during the elections
+§YOrthodox§! military policies were favoured during the elections
+§YOrthodox§! foreign policy was favoured during the elections
+§YAnarchist§! foreign policy was favoured during the elections
+§YJacobin§! foreign policy was favoured during the elections
+§YSorelian§! foreign policy was favoured during the elections
+The Damocles Project was accepted
+Agreed to a military mission to the Bharatiya People's Republic.
+Phalanstère International
+During the meeting of the Internationale we decided on the establishment of a worldwide plan to combine the efforts and technological advances of socialist nations. This plan has since evolved into a more ambitious plan, the Phalanstère International, aimed at helping socialist regimes around the world.
+Alpine Combat Training
+Commune of France Focus Tree
+Office des Chemins de Fer
+A Congress meeting over the status of France's infrastructure at the BGT showed the disorganisation of our rail system and how backwards it became. The Congress agreed on the need to create a new office specifically tasked with the development and maintenance of our railways to connect all the parts of France together.
+Voluntary Association
+The greatest economic policy is not one that is dictated from above, but one that arises naturally from below, from the proletariat, from the workers. We reject statism, and instead embrace evermore the decentralisation and liberation of the French economy: we will not triumph by trying to corral the masses, but by letting the People freed by Mother Anarchy usher in a new age of prosperity.
+Socialist Education
+We must recognise that education under the Third Republic was excellent. Through education, she conquered the minds of the French and sowed the seeds of meritocracy. However, it was hindered by its bourgeois biases and did not do enough to develop talents coming from humbler origins. Education under the Revolution does not make the same mistakes: the brightest will rise and serve the People.
+Support Workers’ Initiatives
+The ingenuity and common sense of the masses, most attuned with production, cannot be underestimated. We must make a particular effort to help initiatives coming from the economic base not just become reality, but flourish. Not only will this no doubt ensure the men involved in these projects dedicate themselves even harder to their work, seeing their efforts rewarded, but it will be a great propaganda success, both at home and abroad.
+Consumer Cooperatives
+Economist Charles Gides had developed before the War a network of cooperative stores, linked to the old SFIO. He had hoped to usher in the 
+Garden City Movement
+A better living environment means a healthier, more productive worker. To accommodate rural-urban migration and support the development of our industrial capacity, large-scale projects were approved to have neighborhoods sprout on the edge of cities or on demolished slums. Built according to the ideals of the 
+Close Bureaucratic Loopholes
+One recurring criticism of the revolutionary State rings particularly true: economic democracy is a complicated business, leading to intolerable inefficiencies. We must work to make the economy more efficient, without endangering its deliberative and workers-led qualities, and the most obvious point to start is to review our bureaucracy and trim down excessive processes which invite both sluggishness and corruption.
+Modernisation and Cartelisation
+Socialism is above all the triumph of economic efficiency over capitalist nonsense. The Revolution has already led to a great rationalisation of the Economy, industrial federations working with the federal government to streamline production. However, this process can be taken further by encouraging the rise of specialised industrial ensembles, working harmoniously together, cogs in a great machine.
+Embrace Chain Production
+French industry at the turn of the Revolution was particular. Though there already was a large proletarian class, many of the workers were still close to their artisan forefathers, with chain production and scientific management only being the norm in a select few industries. Though this might be occasionally unpopular with some workers, we must continue to convince unions to embrace this important step in the modernisation of production.
+Mass Application of Pre-Stressed Concrete
+Developed by engineer Eugène Freyssinet, pre-stressed concrete is a new step in modern construction. Concrete, the industrial age’s darling material, has been found to have a durability and deformation problem with time and wear. The method helps alleviate these risks, particularly for constructions under heavy use or pressure. New, more durable builds will begin, and a campaign of strengthening of at-risk sites will be launched.
+Develop the Rhône Valley
+The Rhône, lifeline of the South-East, wedged between the Massif Central and the Alps, has historically been capricious. Artery of trade between North and South, it is also notoriously prone to flooding, severely hindering development along its banks. This was of course before Man tamed Nature through labour and technology, and we now can canalise the temper of the river for the benefits of our industrial development.
+Exploit the Massif Central
+The economic and infrastructural development of the regions of the Alps and the Massif Central allows for a greater exploitation of the mineral resources available there. Our prospectors discovered new mineral deposits and we are now ready to start exploiting them on an industrial scale!
+Voice of the People
+France, beating heart of the Revolution, must be able to reach workers everywhere, particularly those still chafing under the chains of Capital. From Paris to the World, we will emit radio programming in all major languages and let our comrades know that they are not alone. This cannot however be simply a propaganda broadcast: we will ensure alongside news and socialist messaging, will be broader education, entertainment and good music.
+Point du Jour Studios
+The Seventh Art is undeniably the medium of this century, a revolution in entertainment and communication of ideas. Born in France, we must admit that Hollywood and Babelsberg have overtaken cinema’s home in production capacity, pumping out counter-revolutionary material for the world. We will support the extension of facilities in the Parisian suburb of Billancourt, Point du Jour (Sunrise) Studios, and fund innovative film-makers.
+Build the Autoroutes
+The engineer and urbanist Henri Prost came up with a plan to develop highways around the Parisian region to link the outlying suburbs. This idea is receiving widespread support and the BGT decided to fund new projects to expand highways through the Federation. The communes of Marseille and Lyon also asked him to draw highway plans for their cities.
+Militarisation of the Proletariat
+We cannot forget this: we, workers, are at war, we have always been at war, we will always be at war. Production is a tireless battle, unceasing warfare against creeping Reaction, against the degenerated bourgeoisie and all that dare stand against History. The producers of France must rise to the occasion, embrace their destiny and work harder than ever to forge the tools of global liberation.
+Second Wave of Mechanisation
+France is a powerhouse of agriculture, our land has always been generous in her bounty. However, despite our efforts, the harvest of today doesn’t look too different from that of before the Revolution, and in some cases, from hundreds of years ago. It is still largely a manual, labour-intensive process, with mechanisation progressing slowly. To further modernise our economy, we must help our farmers embrace the new tools of their trade.
+Large-Scale Rural Projects
+We are a nation of small landholders, when the Revolution came there were few large estates to seize, few tenant farmers. This has meant that life in the countryside has remained relatively unchanged in the last decades. With, however, notable exceptions: the generalisation of agricultural cooperatives and experiments in voluntary collectivisation. These are the necessary path in rural economic development, and we will encourage their work.
+Communal Waterworks
+For now, it would be unthinkable to ask our peasant class to put in common their plots of land, source of great pride for them. However, there are many aspects of agriculture that can and should be mutualised to make them more efficient and our agriculture eventually even more productive: waterworks are one of them. Encouraging communes to coordinate such projects will sow the seeds of further modernisation of the rural economy.
+Ploughshares into Swords
+The rural world must help share the burden of the great industrial war effort, do its part in the defence of the Revolution. Decentralised production, particularly of goods necessitating a more artisanal touch in their creation or assembly, will be able to find a home there. The harvest secured, the peasant, the artisan will help their comrade the soldier be equipped in the best quality goods, proud descendants of ancestral craftsmanship.
+New Hydroelectric Dams
+Our mountainous regions in the Alps and the Massif Central have plenty of high flow rivers, a perfect environment to install a clean and lasting source of energy and help revitalise the backwards, rural mountainous regions of France.
+Syndical Consolidation
+As the next step in the great revolutionary conflict draws nearer, we must call upon union federations to reject all rivalries, all interpersonal conflicts, all corporatisms, and embrace productive discipline. The time for debate has passed, now is the time to return to their roots as tools of class war: there is only one working class, let there be one singular syndical will.
+Embrace Planism
+Scientific management of the Economy is the future, we will not rest until the economic forces of the Nation are in total harmony with the State, working towards triumph over the enemies of the workers. We cannot allow ourselves to be distracted by any lesser concerns, we must have only one goal: the survival and triumph of the Revolution, and so we must follow one line, one will, one great Plan.
+Expand Manufacture d'Armes de Tulle
+Tulle, in the Limousin, is home to one of the oldest and largest weapons manufacturing plants in France, with thousands of workers principally focused on small arms. As our rearmament drive ramps up, it's been decided to further expand the 
+Directorate for Military Production
+If we want to triumph in the arms race against reactionary powers, we cannot allow any distraction to hamper our war readiness efforts. A federal executive committee composed of officers, experts, lawmakers, labour leaders will be assembled and use the full might of the proletarian State to take direct control of our defence industry, ensuring it is perfectly tuned to respond to our needs and drives.
+Maximise Production Capacity
+We start at a disadvantage in population and industrial base in the race against Reaction. Though we will try our best to catch up, we must do the most we can with what we have. Our free workers are more productive, more skilled than the ones desperately awaiting their liberation. If we must work twice as hard too, we will. One great effort is all we need, and our comrades are more than ready to throw themselves in this effort for us all.
+The Working Man's Automobile
+Socialism means answering the needs and desires of the workers. Many of our comrades think about the possibilities opened up by owning one's own car, unbound by laid tracks and traced itineraries. Public, mass transportation will never be replaced, but this dream must be made attainable for all hard-working Frenchmen. And so we will reach out to automobile industry unions to design new models, durable, but simple and cheap, easily repairable.
+New Tractor Factories
+With mechanisation efforts came a new need for a large number of mechanical agricultural equipment, most importantly tractors, base building block of this drive. Each cooperative already has theirs, but if we want to fully transition away from the scythe, every peasant must have his own modern beast of burden. To avoid further burdening of our existing automobile industry plants, we will direct the creation of dedicated factories.
+Viticulture of the Twentieth Century
+Wine, cornerstone of French sociability, any excuse being the right one to open a good bottle. The reds of Bordeaux or Burgundy, the whites of Lorraine, they all have admirers here and abroad. Harvest is still largely done by hand, and the whole process is still rather artisanal: though some parts are too crucial to modernise, giving the nectar its subtle taste, we can help the production of wine into this century with modernised equipment.
+Expand the Textile Industry
+From the early days of the industrial revolution, the textile industry has always been at the forefront of economic progress. Now, synthetic fibers, new machines and techniques have made possible the mass production, in less labour-intensive manners, of textiles and clothing. Paris is already the capital of fashion, soon we will also be the homeland of affordable, durable textile: our workers will be better dressed than all the ladies of Berlin.
+The Road to War
+War with Germany is inevitable, not only does it hold hostage our brothers in Alsace and Lorraine, but with its many Reichspakt puppets it stands as the main counter-revolutionary power in Europe, if not the world, tyrant lording over hundreds of millions. This will stop, we will avenge them all, and free our comrades. The World War was not to be the last, the Revolutionary War will have to follow.
+The Renseignements Généraux
+Some look with suspicion at any centralising efforts, any power given to federal authorities, particularly when it comes to sensitive subjects such as intelligence work. We understand their concerns, but we must adapt to new realities and centralise our efforts if we want to be able to defend the Revolution and further her interests abroad, stand against the Algiers' Second Bureau and Berlin's Abteilung III b.
+The Haunting Spectre
+In every port, in every warehouse, in every barrack, and on every assembly line of every counter-revolutionary power, we have a comrade, ready to do his part in the great struggle. Our network of informants and sympathisers is unmatched, as after what could be greater than the global working class: we will use it to its full extent as we further our intelligence efforts.
+Vanguard of the Revolution
+Those still struggling under capitalist oppression look to us with great hope, as the great beacon, the beating heart of the Revolution. We must do anything in our power to help those breaking the chains, it is our historical duty. Ideological and material support are one thing, but we must go further and be directly involved in the armed struggle: Frenchmen will fight throughout the world for the freedom of all workers, and triumph, just like we triumphed here.
+Curie Research Institute
+Obscurantism has no place in our nation. Materialism guides us: our politics are scientific, and so science should be given all that it needs to progress. Our brightest minds will work to serve France, the Revolution, and thus Humanity as a whole. We will the establish a research institute aimed at cementing our technological superiority, named after the brilliant physicists Pierre and Marie Curie.
+Synthetic Chemistry
+France is great and resourceful, but it does not have everything. Oil, rubber, tungsten and chromium are all lacking and we must not rely on foreign exporters when conflict comes. We must research new ways to acquire these resources from what we already have. Some scientists even suggest we may be able to engineer those resources.
+Electric Machines
+While computing traces back to the tabulating machine, we have since made massive breakthroughs in the field of computing. Our mathematicians already assure use that those new machines are of a tremendous help for rapid and efficient calculus. Given some patronage and time, we can only imagine the possibilities of this new field.
+The Damocles Project
+Inspired by the Cambridge Conference during the Tenth Congress of the Third Internationale, a reunion took place today at the University of Cambridge. A group of theoretical physicists from Britain and France are requesting funding for the establishment of the 'Damocles Project', a joint British-French committee for nuclear research.
+Zoé Project
+While the Damocles Project held great promise, the refusal by [ENG.GetNameDef] to take part crippled the cooperation between our scientists and theirs. Regardless, we must persevere and try to figure out what uses we can make of the atom. We will dedicate this project to the very woman who discovered Radium and set us on this path.
+Fortify the German Border
+Fortifications along the border with the German Empire were torn down in the aftermath of the Great War, part of the victors' harsh demands. We have abided by this shameful state of things for too long, and must begin at once work on a modern defensive line along the border with Alsace, occupied Lorraine and Luxembourg. Static warfare of twenty years ago will not, cannot be repeated, but it would be foolish to leave our door open.
+Watch on the Low Countries
+Our fortification efforts have focused on the slopes of the Vosges and the banks of Meuse, but it's obvious that the plains of the Low Countries are a highway for German troops, aimed straight at the Revolution's heart. We will not repeat the mistakes of 1914, never allow another Schlieffen Plan, and so we must extend the line of fortifications, all the way to the Channel.
+Demand Haute-Savoie
+The preposterous Swiss occupation of Haute-Savoie, justified by arcane treaties, has been allowed to go on for too long, relic of the early revolutionary days when we would not yet stand up against reactionary threats. We will push for an immediate evacuation of the region by Swiss forces, and will not hesitate to use force if they refuse to see reason: how dare they hide behind neutrality as they brutalise French workers!
+Liberate Iberia
+Right at our southern border, just across the Pyrenees, capitalism and imperialism still persists. With our efforts, we will achieve what no French imperialist could - total control of Iberia. But we are different. We do it for the common people, not imperial ambitions. Syndicalism will succeed in Iberia!
+Take Down Germany
+The time has come for the French proletariat. The Revolution shall prevail: History is with us, who could stand against us? With nothing but comradely love in our hearts for the German people, we will ensure that the Empire that enslaves them is mercilessly torn down, and that the junkers pay for what they did to our fathers, to our brothers. We will avenge them: to the Rhine, to the Elbe, to Berlin, and beyond!
+The Red Danube
+The Danubian peoples have proven their incapability to commence a successful socialist revolution in their country and liberate themselves from the Habsburg tyranny. We shall assist them, then. Likewise, all the peoples still under the tyranny of this anachronistic empire will be freed. Europe will be free of the last of the reactionary empires.
+Flank the Rhineland
+The low-lying plains of the Low Countries are an obvious point of entry into the strategically crucial Rhineland, heart of the German war machine. Swift liberation of the lowlands will ensure that warfare is taken to Germany, that we do not fight on our soil: we must be bold, the time for geopolitical pleasantries is over, there is now only a struggle for the future of the Revolution, and thus Humanity: a brighter future awaits us on the Rhine.
+World Revolution
+With the Revolution now well established in Europe, we can start to look outwards and launch a formidable plan to liberate the whole world from the reactionaries and imperialists. Our struggle will end once the last of them is tried before the people for their crimes. Vive la République Socialiste Mondiale !
+European Revolution
+While the idea of a World Revolution is noble, we have to stay realistic. With smart influence and no other reactionary power to oppose us, we shall soon see the other continents convert to Syndicalism. However, we must ensure that Europe is free of reactionaries. Vive la République Socialiste Européenne !
+Peaceful Revolution
+We hear those who claim that the Revolution cannot end, and it will not. However, we cannot afford to constantly wage war in all corners of the world without cause. The workers will find their way as we act as a beacon of desires. Let us focus on ourselves instead. Vive la République Socialiste Française !
+The Congress of the Third Internationale
+Heads of socialist, syndicalist, and totalist parties, Heads of State and Governments, Foreign Ministers and journalists have all arrived in Paris for the opening of the Ninth Congress of the Third Internationale. We are proud to once again host the Congress and humbly hope to use it to reinforce our position as the leading socialist country in the world.
+Mission to [HND.GetNameDef]
+[HND.GetNameDefCap] asked for our support in their struggle against its neighbours, the Lahore imperialists and the Princely Federation reactionaries. They ask of us that we send military advisors to train their officers and their troops. We will ensure this aid arrives rapidly, so that they may unite India faster.
+Socialist Anti-Colonial Committee
+Reactionary traitors hiding in Algiers, led by the decrepit despot Pétain, exploit the native proletariat ceaselessly in their attempt to crush the Revolution. She will come to them and trample their holdouts, not one day too soon, but comrades led by Algerian Mohamed Saïl, have suggested redoubling our efforts in favour of native revolutionaries across Africa: we will give them the tool to work towards their liberation.
+Working Women
+During the Congress, Helen Crawfurd took the stage with her flaming speech about the women's role in the World Revolution. We supported her arguments and now we are ready to implement common sense reforms regarding the status of working women in our society. The reactionaries can gawk, we will surely have the last laugh.
+International Avant-Garde
+A world congress of artistic and literary workers has outlined the basis of a movement towards \
+Found the Phalanstère International
+Closer military, economic and scientific cooperation between socialist nations is a crucial next step in the Revolution. The framework for such cooperation will be established under the auspices of the Internationale. It will be named the \
+Integrate the Corps Francs
+The Corps Francs, our commando troops, proved their worth in the Great War and the revolutionary events of the past decades, breaking impossible stalemates through sheer will and heroism. Infiltration and neutralisation, opening a breach for our regular forces: only the bravest of braves are willing to take the risks of such missions, and we need this fervour in the coming confrontations with the Revolution's enemies.
+The Rifleman's Friend
+We invent every day new ways of slaughter, and so we might forget that no matter how advanced our machines of death, it is not them that triumph, that conquer, that advance, but man. In the end, it all still comes down to a man and his weapon. Each soldier is a worker for the Revolution, and he must be able to trust that his tools are best suited for his grim but necessary task.
+Eyes on the Ligne Bleue
+The \
+Reform the High Command
+Our Federal Forces have for too long been suspected of counter-revolutionary sympathies, and this has hindered organisational reforms. A safe high-command was deemed preferable to an efficient high-command. This stagnation cannot be allowed to continue, or France, already at a disadvantage in the coming fight with Reaction, will never be able to defend the proletariat's burning torch. Adaptability and discipline will be our goal.
+All for the Revolution
+The decisive factor in warfare will always be will. Will to triumph, will to fulfil our History-ordained destiny. We will win because we must, because the French people has been tasked with saving civilisation from bourgeois rot. We will win because facing us are mere slaves of Capital, not free men fighting to break the chains. They may have Krupp steel, but we have the united will of the proletariat: victory is certain.
+Our Comrades' Fight, Too
+In the coming armed struggle against Capital, we are not alone: not only can we count on our allies, but in every nation, in every factory, the worker hopes for our victory, await his liberation. Some will go further, throw off their chains and join us here, and we will assemble a grand international army of free proletarians to assist our forces. What could the enemy do against our combined might?
+Levée en Masse
+When our elders in Revolution were threatened by Reaction, they mobilised the entire Nation to defend its newly won liberty. Young men fought, women bandaged their wounds, children and elders preached the creed of Liberty. We must first match their fervour in the mobilisation of the masses, and then we will go further. We fight for Liberation, for the new economic age, no cause is more deserving of our sacrifices.
+The Methodical War
+This century has killed the daring charge, the heroic last stand. If there was any doubt, the Great War has proved this beyond a doubt: warfare is now a question of planning, of timetables, of logistics, of charts. War is a purely materialistic question. If we want our stand to defend the Revolution to be successful, we must not seek vainglory but intellectual and material supremacy over the forces of Capital.
+An Army's Stomach
+A great enemy of the Revolution once said 
+Principe de Concentration
+France has the best artillerymen in the world, we have proved this in many a campaign, and will prove it again in the next. Our perfectly timed, superbly executed barrages will sweep away the armies of Capital, destroy the fortresses of Reaction, and blast the way open for our men, to Berlin and beyond! There is only one queen that we will abide by, and it is she, Artillery, Queen of the Battlefield.
+Aero-Terrestrial Integration
+A single decisive punch, through the enemy lines, that's all it takes. A lucky breakthrough? We only believe in what we can see, luck will have nothing to do with it. We need perfect coordination between our forces, and we will relentless drill it into our men. Air power will soften up our targets, artillery will blow them away, armour and infantry will mop up whatever meagre resistance a serf of the Kaiser can muster to being liberated.
+Supremacy of Movement
+We must face the facts: the enemy outnumbers us, and dwarves us in industrial might. We have with us the international brotherhood of workers, but a plan to negate Capital's advantages couldn't hurt. And for that, we must be daring, the next war cannot be one of positions, it must be over before they know what has happened to them. Advance, envelop, encircle, crush, to the end of the Earth, until we are free.
+La Petite Reine
+The \
+Overrun Capital's Front Lines
+If we want to overwhelm the enemy and negate his advantages, we must be quick, our troops must cross vast expanses in hours, days at most. Embrace the future: entire divisions, supplies, artillery and all, not chained to the limited energy of Man and Beast, but effortlessly carried by machines, ready to fight at a moment's notice. This is a new age, the age of motors: production has been revolutionised, warfare soon will be too.
+The Modern Comrade-Soldier
+Gone are the days of militiamen with a red armband, a Lebel, and a dream of Revolution. The modern comrade-soldier is perfectly trained, drilled, equipped to deal with all that the coming conflict will throw at him. His officer are not the tyrants of yesterday, they are united in one common purpose, one common will, and they too have been tirelessly studying the Great War and the various revolutionary conflicts that followed.
+Expand the Fusiliers
+There remains a secondary but nonetheless concerning counter-revolutionary threat across the Mediterranean Sea. Shadows of their former selves, the men we once called brothers, the Exiles, await the killing blow of History, their captives calling to us in despair. When the opportunity comes, we will have to land in Algiers, and so we need to revitalise our traditions of marine infantry, to act as first glorious wave of liberation upon the African continent.
+Corps Francs Hunters
+Our commandos have achieved tremendous successes in action, first to break whatever desperate defences Capital foolishly mounted. Tip of the spear of Revolution, it must be ever sharper. And so this elite of elites will be further reinforced, trained, tirelessly working until enemy commanders turn tails at the mere possibility of their presence on the battlefield.
+Deepen the Fog of War
+There is no greater power, no greater advantage in warfare than knowledge. We will know the enemy's every move and obscure our own, making him pounce at shadows before stabbing him in the back. This won't be difficult: everywhere we advance, we are in friendly territory, the workers awaits us; everywhere we are pushed back, revolutionary solidarity will sabotage their efforts at secrecy. The enemy will question his sanity as he is swept away.
+Chasseurs Portés
+Rapid deployment is critical, both to reinforce everywhere the enemy attacks and to push through any break in the front. For this purpose, we will assemble specialised mobile infantry troops, ready to respond to any situation that arise in the coming revolutionary war, and to act as wedge tearing apart resistance.
+Corps du Génie Militaire
+Our engineer corps has a long and proud history, supporting French might across Europe and across the globe, shattering apart any resistance. Whether they come from the Polytechnique School or have risen up the ranks, our combat engineers take us across rivers, shelter us safely behind defences, and blow apart the enemy's. With further training and ever more advanced tools, they will continue to act as the backbone of our forces.
+Rapid Response Detachments
+The many are one, revolutionary warfare means that sacrifice must be made, but this cannot mean that the lives of our comrades is thrown away. Especially when France must face enemies with a demographic advantage. Rapid treatment, experienced doctors and dedicated nurses, efficient deployment of reinforcements: we will do everything in our power to minimise casualties, and to prevent a wound to be the end of one's commitment to the Revolution.
+Legacy of the Grande Batterie
+Our forefathers conquered through the might of artillery, slowly honing their craft. We are the inheritors of more than a century of such traditions, and we will write down our own glorious chapter, reducing to rubble all that stands in the way of Progress, in the way of the People. Witness us, artillerymen of yesteryears; take note, our descendants: the triumph of the Revolution comes from the barrel of the cannon.
+Precise Fire Control
+Red rolling thunder will fall upon the enemies of the working class. Perfect coordination between our artillerymen will wash away any resistance standing against us, a barrage technique already perfected during the Great War but that will now serve us faithfully and be adapted to the new battlefields of revolutionary conquest. We are the best in our field but could always be better, for we serve the most important cause.
+Dual-Purpose Howitzers
+Our engineers are hard at work to take ever further the science of dispersing threats to the Revolution. Their latest find is another proof, if one was ever needed, of French ingenuity: cannons that can be converted for both anti-aircraft and anti-armour action, to accompany our troops and respond to their every need.
+Comrade Estienne's Heritage
+General Estienne, a hero who revolutionised forever the battlefield. Against a hierarchy set in their ways, which wasted in doomed offensives the infantryman's life, he carried the torch of armoured warfare and earned his nickname of \
+Proletarian Knights
+The cavalry of past centuries might be on its way out, but its spirit shines brightly. Knights, hussars, dragons, the mantle of their bold and glorious legacy has been taken up by a new cavalry, motorised, armoured, heavily armed, but still charging and sowing terror in the enemy's heart. Yesterday, the serf was shut out of serving on horseback, today it is the proletarian who has the mechanical know-how to operate the beasts of modernity.
+Chars du Futur
+Armour is a quickly advancing field: from artillery on shaky tractors twenty years ago, we are getting ever closer to future tanks able to turn the tide of battles by themselves, if not the war herself. Whether they act as support for our infantry or point of the sword we drive into the heart of Capital, they are revolutionary. And so we cannot allow ourselves to fall behind in terms of either technological or strategic developments.
+The Battlefield's New Queen
+Artillery will always have our hearts, but we must admit that there she has a rival for title of Queen of the Battlefield: armour. She has already proven herself invaluable in recent conflicts, and we know that she will only get more crucial as technology and tactics advance. However, we have no need to choose between our loves: artillery will blast open the way, armour will sweep away the enemy, and our true mistress, Revolution, will triumph.
+Mobile Fortresses
+We will simply crush Reaction under the infatigable threads of our armour, advancing as the tide, slowly but surely, unstoppable. Reaction will throw all that it has towards our mobile bastions, and we will laugh heartily at its desperate attempt at hindering the march of the proletariat. After all, there is no rush, Clio is on our side, the outcome of this eternal war is pre-ordained.
+Overwhelming Firepower
+The feeble attempts of the slaves of Capital to hold back the might of the free workers will be blown apart by our armoured cavalry. Fiercely, we advance, rightfully, we push on to Berlin, until the Kaiser bows to the humblest seamstress of the Internationale and begs for our forgiveness. We cannot tolerate for even a second more to see our comrades in chains, and so we cannot slow down in our attacks: armour will furiously pierce through.
+Restructure the Marine Fédérale
+We must admit that the Federal Navy has seen better days, Revolution and the loss of France's ultramarine territories have hurt our naval forces. If we want to triumph against the Algiers regime and effectively assist our British comrades on the seas, a heavy-handed rearmament programme as well as a re-examination of our strategic priorities is needed urgently.
+Shipbuilding Union Expertise
+Our arsenals are filled to the brim with talented workers, some who have worked for decades in the shipbuilding trade, and thus know every crook and cranny of every vessel. Their expertise could too easily be overlooked: their unions' federation must play an integral role in our re-armement programme, working in tandem with the Federal Navy. We are still lagging behind, but will make up for it with proletarian ingenuity.
+Expand Toulon Arsenal
+As the foremost base of our Mediterranean forces, Toulon is without contest our most important military port, kept busy by the constant threat posed by reactionary presence in Corsica and frequent confrontations with Algiers' navy. If we want to affirm our supremacy over the sea, and one day go on the offensive, the infrastructures of Toulon must be expanded.
+Refurbish Atlantic Bases
+Our naval bases facing the Atlantic, chiefly situated in Brittany, are moribund: attention is turned to the South, and the Channel and the Ocean are guarded by the British. This shameful complacency cannot continue, we too must be able to go toe to toe with the Kaiser and his satellites at sea. Dockyards and submarine bases will be modernised, and we will convert to military use some of the local shipbuilding industry.
+Red Fleet, Old School
+If we want to reconquer our naval standing, a grand fleet is necessary, one that can stand proudly next to our allies'. Large, powerful ships will impose the people's will on the seas, beautiful prowesses of French engineering and shipbuilding, armed with the most impressive naval gunnery French ships have carried.
+The Aéronavale's Day
+It's obvious to us now that large, lumbering ships are the obsessions of naval officers with something to prove or make forget. Let the leviathans painfully move into position, a swam of planes will welcome them. They won't know what hit them, and will be at the bottom of the Channel before they realise that unwieldy colossuses make for great target practice.
+Meute Tactics
+We have a lot of catching up to do, starting at clear disadvantage against our main enemy's navy. A situation the French Navy knows well, sadly. What we lack in tonnage, we will make up for in bravery, and cunning: undersea corsairs will hunt down ships as a pack. Soon enough, the Kaiserliche Marine will be too afraid to leave its ports, haunted by the shadows of our sea hounds.
+The People's Lance
+France was a pioneer in advances of submarine technology, it's up to us to renew this glorious legacy. Submariners are the daring anti-heroes of this century's naval war, feared, respected, hated. Some particularly idealistic or conservative officers still cling on to outdated notions for the development of our navy, they will have to get used to the new paradigm: no tactic is too dirty in the fight against Capital.
+The Noose around Capital's Neck
+Imperialist powers are reliant on trade, on the product of exploitation from their colonies. Without, they wither and die. We will do our proletarian duty and speed up that process, enacting a total blockade against the enemies of the Revolution. Helped by our allies, we will slowly but surely strangle the Empires, until they beg for mercy and liberation.
+People's Shield and Broadside
+Ultimately, it's still all about cannons. Bigger guns, better guns, more easily manoeuvrable, manned by dedicated sailors who won't hesitate to put their lives on the line to defend their floating fortresses against threats. Advancements in both our main and anti-aircraft gunnery will ensure that our fleet can reign unimpeded.
+Colonnes de Neptune
+Across the seas, reactionary threats still lurk. Marine infantry will be crucial in dealing once and for all with these remnants of an outdated system, to deal the mercy kill. Our marines' legacy is tainted by colonialism: they will wash away their units' sins by forging a new glorious history as the first red wave of righteous popular retribution landing on the beaches of imperial capitalism.
+Close Naval Coordination
+Rivalries between arms of the Navy cannot be tolerated, our situation cannot allow petty, unproductive competition. The naval war is fought on, under the seas and in the air, and each front will be finely tuned to work with the other, harmoniously toiling towards a single goal: glorious victory, death to Reaction.
+Chasseurs-Tueurs Groups
+Of course, we are not the only ones with submarines. The mutts of the enemy lurk, preying upon us: we won't allow ourselves to be hunted, and so we will become hunters. Specialised squadrons will wage total, permanent war against capitalist piracy, which seeks to hinder the collective efforts of the global proletariat against reactionary aggression.
+Protect Revolutionary Lifelines
+The might of revolutionary production can makeup for most capitalist inefficiencies, but sadly we have not yet invented ways to grow rubber in the French countryside and find oil where there is none. We will stockpile, we will find ways to make more with less, but some strategic goods will need to be gathered by comrades abroad: we cannot allow the sea-lanes bringing them to us to be cut off by the enemy.
+Naval Power Projection
+The future of sea warfare is in the aviation, more effective, precise, agile than any gun. Our experiments in this field have proved concluant, we must now move full steam ahead with the development of larger, better aircraft carriers, that will allow to punch above our weight, across the seven seas.
+Squadron Warfare
+Naval traditions are alive and well, and a well-ordered, well-directed fleet will still rule the waves. Once, the French Navy was dubbed \
+Brest Naval Academy
+With a long and proud history, the 
+International Naval Intelligence
+Revolutionary camaraderie extends to intelligence sharing: our British and Italian comrades can also boast proud maritime traditions, and we would be foolish to pass up on potential cooperation in naval matters. Together, our efforts will thwart any attempt from the Revolution's enemies at going unnoticed.
+Gifts for Enemy Ships
+It's possible that we won't be able to undo our lateness in the naval race by the time the inevitable coming conflict falls upon Europe. No matter: we shall fight as dirty as we must. Channel, Atlantic, Mediterranean: on three fronts, Reichspakt ships will be welcomed by a generous spread of patient explosives. Death by a thousand cuts: ship by ship, their fleet will be whittled down, their shipping hindered.
+La Lutte Aérienne
+Still in its infancy during the Great War, aviation already revolutionised warfare. In the few years of the conflict, it made incredible strides, from reconnaissance to air jousts between gallant knights of the air, to bombings and mass deployment. Since then, at every turn aeroplanes have proved their incredible usefulness, and shown further potential. France was already a pioneer in the domain, she must stay dominant.
+École de l'Air
+As it was recently decided to create a separate branch of the Federal Forces for aviation, it's only natural that it gets its own officer formation school. The Air School will have aspiring officers be taught by the great pilots of the Great War and the Revolution, so that they may transmit their experience. Pioneers and fresh-faced new guards will no doubt stake out a glorious legacy for our air force.
+Naval-Aerial Coordination
+The Sky and Sea, terrifying forces of nature, have now been tamed by Mankind. They are, like everything else, a battlefield: the next conflict will no doubt also be fought there, and must be won there too. The air force was not given autonomy as a means to isolate it, but on the contrary to give more flexibility to its missions. Coordination with the Federal Navy will be essential, and any branch rivalry must be nipped in the bud.
+Hone Torpillage Skills
+Torpedoes strike fear in the heart of any seaman, a well-known tool by now they nonetheless get ever more sophisticated and deadly. Naturally, their potential must be harnessed for our cause, whether they come from the depths or from the air. We will hone our tactics with this most glorious of harpoons, ready to spear the modern sea monsters into scrap metal in a single blow.
+Arsenal de l'Aéronautique
+Great and brave pilots, we have aplenty. Brilliant engineers, we certainly do too. We must now combine their efforts to make tomorrow's aeroplane, to show that proletarian efforts can equal and best whatever Junkers, Amiot or Latécoère can put out. Research and testing facilities will be established to centralise our development efforts, and ensure we are not left behind in the air race.
+Barrage David
+Our engineers have worked for some time on the possibility of electromagnetic detection of aircraft. Finally, under the leadership of Pierre David, we will soon be able to implement it on a large scale. This first generation of field bistatic detection will allow us to create an invisible wall that will detect any aircraft that crosses it, immediately putting our own forces on alert and informing them of the enemy's approximate location.
+Popular Aviation
+The early days of aviation made it to be a hobby of the gentleman, the War showed that workers' sons could fly a plane better than the most prideful aristocrat. Many pilots kept flying after the Revolution, and some established flying clubs, occasionally based around unions. We will promote these and encourage young men to join, using these clubs to recruit the talented, and prepare others for roles as auxiliary pilots in the coming war.
+Les Amazones
+To ensure that as many available pilots as possible are in combat roles, we will create a female corps of auxiliary pilots. Famous sportswoman pilot Maryse Bastié has demanded to be able to join our air force, her wish will be granted: we hope her renown will lead more young women to consider this daring path. Indeed, though they will be assigned away from the front, to convoy and transport missions, there will still be a risk of danger.
+Politique des Stocks
+One of our main issues is mass production of aircraft, as these complex marvels of engineering are still often assembled in near-artisanal conditions. Through coordination with unions, we will work to create workshops, assembly lines that will let us ready a grand air fleet. We must be ready for combat, and cannot let the hope of a quick collapse of capitalistic powers hinder thorough preparations.
+Spirit of the Air Division
+General Fayolle, in the latter years of the Great War, made great strides in promotion of the use of aircrafts in warfare. The new air force owes much to his legacy. The early pilots, \
+Beyond the Frontiers
+War is an economic question: production is the nerve of war. Bombing runs have so far been largely tactical, local, but we must embrace technical advances that allow a strategic use of aviation: we will strike their production centres, hinder their industry, reduce their infrastructure, their defences to rubble. They will learn that there is nowhere that is safe from our rightful assaults.
+Groupes de l'Infanterie de l'Air
+Already at the end of the Great War, the idea of infantry parachuted behind enemy lines to break stalemates had begun to emerge among the most daring officers. As planes have grown ever more imposing, this hope is now a possibility, and early tests have proved conclusive. We will assemble a first elite of paradropped infantry, ready to take on missions that yesterday seemed like folly, today like a logical new step in tactics.
+Adaptable Strike Tactics
+Flexibility, adaptability will be the way to victory, we cannot afford to rely on a single tactic to blast open the way for our ground troops. Multi-purpose bombers will be produced, that will be able to both neutralise smaller ground targets and assist in larger strategic efforts.
+Assault Brigades
+To open the way for our troops and terrorise the enemy, specialised crafts will be produced that will rain fire and lead upon those who dare stand against the march of History. Lightweight, these will conduct daring missions that will get them as close as possible to the targets, to ensure not only that it is hit, but that all witnesses can testify of the skills of our angels of Death.
+Réaction Propulsion Experiments
+Propulsion by a rocket engine is a long-mulled over advancement in aeroplane design, allowing for speed yet unmatched by classic engines. Proofs of concepts have already shown that it is possible, and the first prototypes for military use are already impressive. All it takes now is standardisation and refinement of the technology, and the Revolution will have total supremacy over the skies.
+Hurricane of Fire
+There is power in the masses, this is true politically, this is true militarily. We will cover the heavens with our wings, attacking as one great aerial proletarian phalanx, overwhelm the enemy with our united firepower. Red wings in the wind, red skies in the night, nothing will stand in the path of progress our heroic mission done, only a new dawn, the rising sun announcing to the world that we are one day closer to the triumph of Revolution.
+The Third Republic fell in the way it came to be: defeated by German arms and facing Revolution at home. In 1919, a General Strike was called by the CGT, causing the downfall of the bourgeois government. For 15 years, the new 
+GFX_FRA_intro
+The Commune of France
+The Third Republic ended the way it began: defeated by German arms and facing communist revolution at home. In the November of 1919, a revolutionary General Strike was called by the CGT, paralysing the country and causing the downfall of the bourgeois government. 'The Party of Order' was not strong enough to put an end to the unrest and in subsequent months the French Establishment was forced out of France by a coalition of leftist forces in a brief but brutal civil war.\n\nFor the past fifteen years, the self-styled 'Commune of France' has united behind a common platform of syndicalist-socialist consensus, headed by the ruling Comité de Salut Public. However, by 1936, the consensus that was reached in order to rebuild the shattered country and defend the fruits of revolution from foreign menace is being deemed as increasingly outdated by many critics, and there are growing calls for more radical policies. France is increasingly confident in her security and in her mission, but the French revolutionary tradition is disparate, and it is unclear precisely which ideological strands shall become dominant in the years to come...
+§MAnarchistes / Orthodox Syndicalists / Jacobins / Sorelians§! ($radical_socialist_coloured$ / $syndicalist_coloured$ / $totalist_coloured$):\n£white_dot In the 1936 elections, have any faction obtain a majority by supporting them 3 times or more.\n\n§MNo majority in elections§! ($syndicalist_coloured$)\n£white_dot In the 1936 election, do not support any faction more than 2 times.\n\n§MRadical Jacobin Reformation§! ($totalist_coloured$)\n£white_dot Have the Jacobins obtain a majority in the 1936 elections.\n£white_dot Choose to sweep away the old system.\n£white_dot Bring Léon Blum and the Popular Front to trial.\n£white_dot Execute them.\n£white_dot Failing to purge the Popular Front will lead to a coup by General Gamelin, restoring the Orthodox Syndicalists to power.
+Workers of the world, unite!
+Prolétaires de tous les pays, unissez-vous.
+Proletarios del mundo, uníos!
+Proletari di tutti i paesi, unitevi!
+Proletários de todos os países, uni-vos!
+Proletarii vsekh stran, sojedinjajtes!
+A lucht oibre an domhain, aontaígí!
+Born from the ashes of the Great War, the Third Internationale had become, across more than 20 years and in equal measures, the world's greatest hope and its greatest fear - an alliance of the world's first socialist governments, bearing grand ambitions of completing the long-held dream of the global workers' revolution.
+Liberation of Europe
+Victory in Europe is ours! The states of the bourgeoisie that remain lie at our mercy and ripe for destruction. Let us use this chance to advance the revolution and turn the greater European continent into our fortress of Socialism.
+[FROM.GetNameDefCap] is a weak and moribund regime ready to be destroyed, forward!
+Matters of the Internationale
+The alliance of all socialists in our world is truly something beautiful. We will work together to make the world a better place for us all.
+The Phalanstère International
+During the Tenth Internationale Congress, we have decided to embark on an ambitious plan of industrial and economic investment for all developing socialist nations that wish to apply. We will work together to make the world a better place for us all.
+Join the Phalanstère
+The scientific Phalanstère has been created to pool together scientist from all member states of the Internationale. We should join and contribute our knowledge to the programme.
+Develop [FROM.GetNameDef]
+[FROM.FRA_Develop_Country_desc]
+Britain, while second only to us, still needs our help in rebuilding their lost and forgotten industry that was once one of the best in the world. With our help, Britain will soar even higher than its illustrious past, putting capitalists and imperialists to shame.
+Our [SRI.GetAdjective] comrades have applied to join the Phalanstère International. With the Habsburg-backed Italian Republic threatening the Po border and the zealously anti-syndicalist Two Sicilies in the south, it is only proper to help our comrades in their struggle.
+Our [SWF.GetNameDef] comrades have applied to join the Phalanstère International. After the severe destruction caused by the Spanish Civil War, it is only proper to help our comrades in their struggle.
+Recently, our Scandinavian comrades in Norway have applied to join the Phalanstères Internationale. With socialism in Norway being relatively young, it's best to nurture it while we can.
+Our [HND.GetAdjective] comrades have applied to join the Phalanstère International. With socialism in India facing the imperialists in Lahore and the reactionaries in the Federation, it is only proper to help our comrades in their struggle.
+Our Mexican comrades have applied to join the Phalanstère International. With socialism there stronger than ever, we would be fools not to secure this foothold of liberty.
+Our [FROM.GetAdjective] comrades have applied to join the Phalanstère International. With socialism there stronger than ever, we would be fools not to secure this foothold of liberty.
+Our [FROM.GetAdjective] comrades have applied to join the Phalanstère International after their recent unification. With socialism there stronger than ever, we would be fools not to secure this foothold of liberty.
+Our [FROM.GetAdjective] comrades have applied to join the Phalanstère International. With socialism in the Caribbean facing the present threat of Canadian retaliation, we would be fools not to secure this foothold of liberty.
+Our [FROM.GetAdjective] comrades have applied to join the Phalanstère International. With socialism in Brazil facing dogged internal opposition, it is only proper to help them in their struggle.
+Our [FOP.GetAdjective] comrades have applied to join the Phalanstère International. After the destruction caused by the Chilean-Argentinian War, they are sorely in need of our assistance, and we have a duty to help them in their struggle.
+Our [FROM.GetAdjective] comrades have applied to join the Phalanstère International. With socialism in South America facing dogged opposition, it is only proper to help our comrades in their struggle.
+Supply CNT-FAI
+The CNT teeters on the brink. We must secure Spain, and our southern border, for socialism.
+Mobilise the Reserves
+Despite our efforts, we are failing. We must mobilise our reserves, or else the Commune will surely fall...
+Help our [FROM.GetAdjective] Brothers
+During the Tenth Congress we promised to help our [FROM.GetAdjective] comrades to develop their country and defeat the reactionary state of Argentina. We will spare no expenses to ensure their victory and the liberty of the whole Americas. Nothing is too good for our comrades!
+Initiate Anti-Colonial Action in [From.GetNameDef]
+The French traitorous imperialists for far too long have been exploiting the native populace for the sake of their war machine and prestige. We won't let them continue. Using the Socialist Anti-Colonial Committee, we are able to set up operations of rebellion or sabotage in French colonial holdings.
+End the Algiers Regime
+At last, the loathsome imperialist regime occupying Algeria is vulnerable - let us finish this farce, once and for all.
+France
+French
+France
+Commune of France
+the Commune of France
+Commune of France
+the Commune of France
+Commune of France
+the Commune of France
+French Social Republic
+the French Social Republic
+Marcel Déat
+§YBorn:§! §LMarch 7th, 1894, in Guérigny, Nièvre, French Republic§!\n§YBackground:§! §LMarcel Déat has upended the Communard political system. A Revisionist who has frequently made public his contempt for syndicalism, Déat stands in opposition to much of France's political establishment. His many enemies both within and outside France could lead to his, and perhaps also the Commune's, downfall.§!
+§YBorn:§! §LMarch 7th, 1894, in Guérigny, Nièvre, French Republic§!
+Adrien Marquet
+§YBorn:§! §LOctober 6th, 1884, in Bordeaux, Gironde, French Republic§!\n§YBackground:§! §LJacobin of the first hour, Adrien Marquet has been ceaseless in promoting and showcasing Déat's \
+§YBorn:§! §LOctober 6th, 1884, in Bordeaux, Gironde, French Republic§!
+Georges Valois
+§YBorn:§! §LOctober 7th, 1878, in Paris, Seine, French Republic§!\n§YBackground:§! §LGeorges Valois, an adherent to the national-syndicalist teachings of Georges Sorel, has become chairman of the Bourse Générale du Travail. Valois advocates the unification of the chairmanships of the Bourse Générale du Travail and Comité de Salut Public, a precursor in the eyes of many Communards, to tyranny.§!
+Marcel Cachin
+§YBorn:§! §LSeptember 20th, 1869, in Paimpol, Côtes-du-Nord, French Empire§!
+Léon Jouhaux
+§YBorn:§! §LJuly 1st, 1879, in Paris, Seine, French Republic§!\n§YBackground:§! §LLéon Jouhaux has been elected Chairman of the Bourse Générale du Travail. Jouhaux, as a revolutionary trade unionist, participated in the general strike of 1919 which precipitated the Commune's establishment. He is an adherent of orthodox French syndicalism, a true centrist among the factions of the Commune.§!
+Vincent Auriol
+§YBorn:§! §LAugust 27th, 1884, in Revel, Haute-Garonne, French Republic§!\n§YBackground:§! §LVincent Auriol, long accused by hardline syndicalists of harbouring sympathies for the bourgeoisie, has become chairman of the Bourse Générale du Travail. He advocates the gradual transition to a more democratic system of government in the Commune.§!
+§YBorn:§! §LAugust 27th, 1884, in Revel, Haute-Garonne, French Republic§!
+Jacques Doriot
+§YBorn:§! §LSeptember 26th, 1898, in Bresles, Oise, French Republic§!\n§YBackground:§! §LJacques Doriot, veteran of the Great War, returned from captivity in Germany to find a France forever changed. His personal transformation from moderate socialist, to Leninist, and now national-syndicalist, has instilled in him an engrained proclivity for compromise.§!
+§YBorn:§! §LSeptember 26th, 1898, in Bresles, Oise, French Republic§!
+Benoît Frachon
+§YBorn:§! §LMay 13th, 1893, in Le Chambon-Feugerolles, Loire, French Republic§!\n§YBackground:§! §LBenoît Frachon, a veteran of the French Civil War, has become chairman of the Bourse Générale du Travail. While a syndicalist, he is sympathetic towards the opposing anarchist faction; to that end, he has declared mending the Commune's factionalism the chief goal of his chairmanship.§!
+§YBorn:§! §LMay 13th, 1893, in Le Chambon-Feugerolles, Loire, French Republic§!
+Pierre Monatte
+§YBorn:§! §LJanuary 15th, 1881, in Monlet, Haute-Loire, French Republic§!\n§YBackground:§! §LWorker. Militant. Revolutionary. Pierre Monatte has had an immense influence on our nation, leading us confidently for over a decade now. Born on January 15th, 1881, he was a renowned trade unionist before the Great War and had been unjustly arrested several times for various syndicalist 'crimes' against Capital, such as his participation in righteous protests in the aftermath of the Courrières mining disaster. Having quickly risen through the ranks of the General Confederation of Labour, he was even briefly forced into exile by the Republic's repression of the movement. When the War broke out, he was of the few to dare say a resounding no to collaboration with the bourgeois government, shortly before being sent to the front. This prescience and his reputation as a stalwart, tireless revolutionary meant that when the time came, Monatte played a critical role in the overthrowing of the old order, and was in an excellent place to steer the new proletarian course of our nation.\n\nBecoming one of the main organisers of the 'Orthodoxes', and certainly their most influential member, his leadership led the union of the previously feuding 'Centrists' and 'Ultras' to victory in the 1926 elections, capturing the Presidency. A master politician, Monatte has managed to stay afloat through a fragile coalition with the Anarchists, ever juggling their demands, along with the other, fractal factions that are so important in the parliament. Yet the man at the top will always be a target, and to say the position he holds is coveted would be an understatement. As knives sharpen in every dark corner, how long can the light keep them at bay?§!
+§YBorn:§! §LJanuary 15th, 1881, in Monlet, Haute-Loire, French Republic§!
+Conseil de Défense Fédéral
+§YFounded:§! §LFebruary 1936, in the Palace of the People, Paris, Paris Commune, Federation of the Communes of France§!
+§YFounded:§! §LFebruary 1941, in the Palace of the People, Paris, Paris Commune, Federation of the Communes of France§!
+§YFounded:§! §LFebruary 1946, in the Palace of the People, Paris, Paris Commune, Federation of the Communes of France§!
+§YFounded:§! §LFebruary 1951, in the Palace of the People, Paris, Paris Commune, Federation of the Communes of France§!
+Maurice Gamelin
+§YBorn:§! §LSeptember 20th, 1872, in Paris, Seine, French Republic§!\n§YBackground:§! §LGeneral Maurice Gamelin has overthrown the Jacobin regime of Marcel Déat. While his coup is an obvious affront to the already dubious Communard democratic process, many now regard Gamelin as the saviour of the Commune, and even syndicalism itself.§!
+§YBorn:§! §LSeptember 20th, 1872, in Paris, Seine, French Republic§!
+Georges Catroux
+§YBorn:§! §LJanuary 29th, 1877, in Limoges, Haute-Vienne, French Republic§!
+Gaston Billotte
+§YBorn:§! §LFebruary 10th, 1875, in Sommeval, Aube, French Republic§!
+Charles Delestraint
+§YBorn:§! §LMarch 12th, 1879, in Biache-Saint-Vaast, Pas-de-Calais, French Republic§!
+Marie-Pierre Koenig
+§YBorn:§! §LOctober 10th, 1898, in Caen, Calvados, French Republic§!
+§YBorn:§! §LOctober 10th, 1898, in Caen, Calvados, French Republic§!
+Ernest Petit
+§YBorn:§! §LFebruary 20th, 1888, in Paimbœuf, Loire-Inférieure, French Republic§!
+Henri Tanguy
+§YBorn:§! §LJune 12th, 1908, in Morlaix, Finistère, French Republic§!
+René Olry
+§YBorn:§! §LJune 28th, 1880, in Lille, Nord, French Republic§!
+Diego Brosset
+§YBorn:§! §LOctober 3rd, 1898, in Buenos Aires, Buenos Aires Province, Argentine Republic§!
+Jean-Édouard Verneau
+§YBorn:§! §LAugust 29th, 1890, in Vignot, Meuse, French Republic§!
+Georges Revers
+§YBorn:§! §LJuly 30th, 1891, in Saint-Malo, Ille-et-Vilaine, French Republic§!
+André Boris
+§YBorn:§! §LAugust 23rd, 1878, in Toul, Meurthe-et-Moselle, French Republic§!
+Nestor Makhno
+§YBorn:§! §LNovember 8th, 1888, in Huliaipole, Yekaterinoslav Governorate, Russian Empire§!\n§YBackground:§! §LBorn in extreme poverty in rural Eastern Ukraine, Nestor Makhno experienced the worst of the late Russian Empire - he lost his father when he was ten months old and any chance at gaining an education at ten years old, as he had to abandon school to work odd jobs to feed his family. He developed a primal rage for the landlord and the factory-owner, led a wildcat strike against his landlord when he was twelve, and fully devoted himself to the impending revolution since he was seventeen, after witnessing the Revolution of 1905. He led anarchist study groups, skirmished with the police, and was ultimately convicted to a life sentence of hard labour.\n\nSickly, yet energetic, Makhno was released after the February Revolution, and immediately travelled to Ukraine to continue his work. Now, he was no longer a propagandist, but a revolutionary leader. After being briefly exiled from Huliapole due to the German occupation, he bore witness to the rise of the Bolsheviks, which he denounced as a 
+Henri Adeline
+§YBorn:§! §LMay 8th, 1898, in Verdun, Meuse, French Republic§!
+Aimé Doumenc
+§YBorn:§! §LNovember 16th, 1880, in Grenoble, Isère, French Republic§!
+Raoul Magrin Vernerey
+§YBorn:§! §LFebruary 7th, 1892, in Budapest, Pest-Pilis-Solt-Kiskun County, Kingdom of Hungary, Austria-Hungary§!
+Joseph Putz
+§YBorn:§! §LApril 24th, 1895, in Brussels, Brabant, Kingdom of Belgium§!
+André Marty
+§YBorn:§! §LNovember 6th, 1886, in Perpignan, Pyrénées-Orientales, French Republic§!
+Georges Blanchard
+§YBorn:§! §LDecember 9th, 1877, in Orléans, Loiret, French Republic§!
+Clément Blanc
+§YBorn:§! §LOctober 1st, 1897, in Perpignan, Pyrénées-Orientales, French Republic§!
+Paul Legentilhomme
+§YBorn:§! §LMarch 26th, 1884, in Valognes, Manche, French Republic§!
+Florimond Bonte
+§YBorn:§! §LJanuary 22nd, 1890, in Tourcoing, Nord, French Republic§!
+Aubert Frère
+§YBorn:§! §LAugust 21st, 1881, in Grévillers, Pas-de-Calais, French Republic§!\n§YBackground:§! §LBorn the 6th of 11 children, he would receive a Christian education before entering the Saint-Cyr military school at the age of 19. Most of his early career was spent in Morocco before returning to France in 1912. His first experience during the Weltkrieg would be at the battle of Charleroi, and he would later fight at both Verdun and the Somme. He would be promoted first to battalion commander in the first infantry regiment, and later the head of a battalion of Alpine troops. He would be injured three times and be cited eight times before the war ended.§!
+Henri Frenay
+§YBorn:§! §LNovember 11th, 1905, in Lyon, Rhône, French Republic§!
+Louis Buisson
+§YBorn:§! §LDecember 14th, 1889, in Le Bourget-du-Lac, Savoie, French Republic§!
+François Darlan
+§YBorn:§! §LAugust 7th, 1881, in Nérac, Lot-et-Garonne, French Republic§!\n§YBackground:§! §LJean Louis Xavier François Darlan was born to a family long connected to the navy. He would graduate from the École Navale in 1902, and during the Great War would notably serve in an artillery battery at the Battle of Verdun. Swept in the chaos of the Revolution and spurned by his patriotism and moderate left-wing convictions, Darlan would rejoin the Federal Navy and over the next several years would rise rapidly through the ranks. He is now one of the most respected men in the French Navy, proud of the institution he has helped to rebuild.§!
+Raoul Castex
+§YBorn:§! §LOctober 27th, 1878, in Saint-Omer, Pas-de-Calais, French Republic§!
+Marcel Gensoul
+§YBorn:§! §LOctober 12th, 1880, in Montpellier, Hérault, French Republic§!
+Émile Muselier
+§YBorn:§! §LApril 17th, 1882, in Marseille, Bouches-du-Rhône, French Republic§!\n§YBackground:§! §LOne of the first senior officers to rally to the revolutionary government, Émile Muselier's career prior to the Great War was mostly spent in the Far East and the Mediterranean. In 1915 he would command a unit of marine fusiliers at the Yser River in Belgium and would later become president of the marine section of the Ministry of Inventions. His first true command would be of the aviso Scarpe, in April 1918. When the sailors of the Scarpe mutinied, Muselier went over to the new Federal Navy. His career prospered, and he eventually rose to the rank of vice admiral.§!
+Charles Platon
+§YBorn:§! §LSeptember 19th, 1886, in Pujols, Gironde, French Republic§!
+Robert Jaujard
+§YBorn:§! §LMarch 6th, 1896, in Saint-Martin-de-Saint-Maixent, Deux-Sèvres, French Republic§!
+Paul Ortoli
+§YBorn:§! §LSeptember 19th, 1900, in Bastia, Corse, French Republic§!
+Louis de Villefosse
+§YBorn:§! §LApril 14th, 1900, in Paris, Seine, French Republic§!
+Raymond Moullec
+§YBorn:§! §LMarch 21st, 1901, in Brest, Finistère, French Republic§!
+Joseph Vuillemin
+§YBorn:§! §LMarch 14th, 1883, in Bordeaux, Gironde, French Republic§!
+Martial Henri Valin
+§YBorn:§! §LMay 14th, 1898, in Limoges, Haute-Vienne, French Republic§!
+Maryse Bastié
+§YBorn:§! §LFebruary 27th, 1898, in Limoges, Haute-Vienne, French Republic§!
+Victor Léon Ernest Denain
+§YBorn:§! §LNovember 6th, 1880, in Dax, Landes, French Republic§!
+Jean-François Jannekeyn
+§YBorn:§! §LNovember 16th, 1892, in Cambrai, Nord, French Republic§!
+Alfred Heurtaux
+§YBorn:§! §LMay 20th, 1893, in Nantes, Loire-Inférieure, French Republic§!
+Georges Guynemer
+§YBorn:§! §LDecember 24th, 1894, in Paris, Seine, French Republic§!
+Pierre Jules Cot
+§YBorn:§! §LNovember 20th, 1895, in Grenoble, Isère, French Republic§!
+Léon Blum
+§YBorn:§! §LApril 9th, 1872, in Paris, Seine, French Republic§!
+Daniel Guérin
+§YBorn:§! §LMay 19th, 1904, in Paris, Seine, French Republic§!
+Maurice Thorez
+§YBorn:§! §LApril 28th, 1900, in Noyelles-Godault, Pas-de-Calais, French Republic§!
+Charles Rappoport
+§YBorn:§! §LJune 14th, 1865, in Dūkštas, Kovno Governorate, Russian Empire§!
+Henri Barbé
+§YBorn:§! §LMarch 14th, 1902, in Paris, Seine, French Republic§!
+Gabriel Lafaye
+§YBorn:§! §LOctober 4th, 1888, in Eauze, Gers, French Republic§!
+Joseph Paul-Boncour
+§YBorn:§! §LAugust 4th, 1873, in Saint-Aignan, Loir-et-Cher, French Republic§!
+Jacques Duclos
+§YBorn:§! §LOctober 2nd, 1896, in Louey, Hautes-Pyrénées, French Republic§!
+Jean Zyromski
+§YBorn:§! §LApril 20th, 1890, in Nevers, Nièvre, French Republic§!
+Jacques Sadoul
+§YBorn:§! §LMay 22nd, 1881, in Paris, Seine, French Republic§!
+Suzanne Girault
+§YBorn:§! §LJuly 28th, 1882, in La Chaux-de-Fonds, Neuchâtel, Swiss Confederation§!
+Confédération Générale du Travail
+§YFounded:§! §LSeptember 23rd, 1895, in Limoges, Haute-Vienne, French Republic§!
+Odette Sansom
+Richard Sorge
+Irène Joliot-Curie
+§YBorn:§! §LSeptember 12th, 1897, in Paris, Seine, French Republic§!
+Frédéric Joliot-Curie
+§YBorn:§! §LMarch 19th, 1900, in Paris, Seine, French Republic§!
+Robert Esnault-Pelterie
+§YBorn:§! §LNovember 8th, 1881, in Paris, Seine, French Republic§!
+Marcel Bloch
+François Hussenot
+Pierre David
+Maurice Lavirotte
+Louis-Lazare Kahn

@@ -1,0 +1,1656 @@
+localisation\replace\_kr_dlc_descriptions_l_russian.yml
+
+l_russian:
+
+#Man the Guns
+ DLC_DESCRIPTION_dlc023: "Это DLC включает следующие возможности:\n£white_dot §YКонструктор кораблей§!\n£white_dot Десантные амфибии\n£white_dot Постановка и траление мин\n£white_dot Альтернативные морские пути"
+
+#La Resistance
+ DLC_DESCRIPTION_dlc028: "Это DLC включает следующие возможности:\n£white_dot §YРазведывательные агентства§!\n£white_dot Разведывательные самолёты и бронеавтомобили"
+
+#Battle for the Bosporus
+ DLC_DESCRIPTION_dlc031: "Это DLC — §RНабор контента§!\nОно не содержит новых игровых механик"
+
+#No Step Back
+ DLC_DESCRIPTION_dlc034: "Это DLC включает следующие возможности:\n£white_dot §YКонструктор танков§!\n£white_dot Духи Армии, Флота и Авиации\n£white_dot Тактика выжженной земли\n£white_dot Железнодорожная артиллерия"
+
+#By Blood Alone
+ DLC_DESCRIPTION_dlc036: "Это DLC включает следующие возможности:\n£white_dot §YКонструктор самолётов§!\n£white_dot Медали подразделений"
+
+#Arms Against Tyranny
+ DLC_DESCRIPTION_dlc038: "Это DLC включает следующие возможности:\n£white_dot §YВоенно-промышленные организации§!\n£white_dot Международный рынок\n£white_dot Доктрины сил специального назначения"
+
+#Trial of Allegiance
+ DLC_DESCRIPTION_dlc040: "Это DLC — §RНабор контента§!\nОно не содержит новых игровых механик"
+
+#Götterdämmerung
+ DLC_DESCRIPTION_dlc043: "Это DLC включает следующие возможности:\n£white_dot 28 дополнительных §YСпецпроектов§!\n£white_dot Воздушные, парашютные и целевые ракетные рейды"
+
+#Graveyard of Empires
+ DLC_DESCRIPTION_dlc046: "Это DLC — §RНабор контента§!\nОно не содержит новых игровых механик"
+
+#No Compromise, No Surrender
+ DLC_DESCRIPTION_dlc049: "Это DLC включает следующие возможности:\n£white_dot Новые механики §YФракций§!\n£white_dot 23 дополнительные поддоктрины\n£white_dot Морские штабы\n£white_dot Доступ к авиабазам и морские блокады"
+
+localisation\replace\_kr_game_load_flavour_l_russian.yml
+
+l_russian:
+
+ LOADING_GUI: "Подписание Версальского договора"
+ LOADING_HISTORY: "Интервенция в Россию"
+ LOADING_SAVEGAME: "Переписываем историю: $NAME$"
+ LOADING_SAVEGAME_NO_NAME: "Переписываем историю"
+ LOADING_DATABASES: "Чистка синдикалистов"
+ LOADING_MAP_SPRITES: "Борьба за место под солнцем"
+ LOAD_GFX_PDXMAP_SHADERS: "Осуждаем монархистов"
+ LOAD_GFX_PDXMAP_TERRAIN: "Разрываем цепи"
+ LOAD_GFX_PDXMAP_BORDERS: "Восстановление Великой Цин"
+ LOAD_GFX_PDXMAP_TEXTURES: "Изгнание западных империалистов"
+ LOAD_GFX_PDXMAP_TREES: "Контрабанда в Шанхае"
+ LOAD_GFX_PDXMAP_RIVERS: "Каждый человек — король"
+ LOAD_GFX_PDXMAP_STATIC_OBJECTS: "Перераспределение богатств"
+ LOAD_EVENTS: "Централизация дуалистической монархии"
+ LOAD_GFX: "Ведение сухопутной войны в Азии"
+ LOADING_MAIN_MENU: "Поддержка умирающих империй"
+ PRECALC_NAVAL_DIST: "Убийство Чернова"
+ EXITING_TO_FRONTEND: "Восстановление монархий"
+ LOAD_INIT: "Развёртывание Кайзерлихмарине"
+ LOAD_FLAGS: "Спасение американской демократии"
+ PROC_FLAGS: "Воссоздание Китайской империи"
+ INIT_MAP_LOGIC: "Бегство в Африку"
+ INIT_GAMESTATE: "Лечение «больного человека Европы»"
+ EXECUTE_HISTORY: "На страже Рейна"
+ CREATING_CHKSUM: "Введение прямого правления"
+ GENERATING_GRADIENT_BORDERS: "Предательство революции"
+
+localisation\replace\_kr_lend_lease_name_change_l_russian.yml
+
+l_russian:
+
+ lend_lease_string_caps: "Материальная помощь"
+ lend_lease_string: "материальная помощь"
+
+ #autonomy_l_russian
+ MONTHLY_REQUEST_LL_TO_MASTER: "§RЗапрос $lend_lease_string$ у марионетки может увеличить её автономию§!"
+ MONTHLY_REQUEST_LL_TO_PUPPET: "§RЗапрос $lend_lease_string$ у сюзерена может снизить автономию§!"
+
+ #core_l_russian
+ FUEL_DAILY_GAIN_FROM_LEND_LEASE: "От $lend_lease_string_caps$: $NUM|H$"
+ FUEL_DAILY_REQUIRED_FROM_LEND_LEASE: "От $lend_lease_string_caps$: $NUM|H$"
+
+ #country_l_russian
+ ARMY_EXPERIENCE_DESC: "Когда ваше снаряжение применяется в бою, вы получаете армейский опыт. Это означает, что вы можете получать армейский опыт, когда ваши §Hдивизии§! вступают в бой, или если вы отправили §H$lend_lease_string_caps$§! союзникам, участвующим в войне.\nВы также получаете опыт за проведение §HАрмейских учений§! с войсками уровня не ниже $UNIT_TRAINING_LEVEL|Y$ и за определённые §HНациональные фокусы§!. Некоторые §HМинистры§! могут увеличивать получаемый опыт.\n\nАрмейский опыт необходим для создания и изменения §Hшаблонов дивизий§!."
+ AIR_EXPERIENCE_DESC: "Когда ваши самолёты выполняют боевые задания или участвуют в §HУчениях пилотов§!, вы получаете авиационный опыт. Это означает, что вы можете получать авиационный опыт, когда ваши §Hавиакрылья§! вступают в бой, или если вы отправили §H$lend_lease_string_caps$§! союзникам, участвующим в войне.\nОпределённые §HНациональные фокусы§! дают дополнительный опыт, а некоторые §HМинистры§! могут увеличивать получаемый опыт.\n\nАвиационный опыт используется для разработки улучшенных модификаций существующих самолётов."
+
+ #deployment_l_russian
+ DEPLOYMENT_LEND_LEASE_COUNTRY: "$lend_lease_string_caps$: $COUNTRY$"
+
+ #designer_l_russian
+ ALLOW_FOREIGN_EQUIPMENT_TT: "Отключите, чтобы запретить всё текущее и будущее иностранное снаряжение, включая как $lend_lease_string$, так и трофейное."
+
+ #diplomacy_l_russian
+ DIPLOMACY_MESSAGE_ACCEPTED_TITLE_DIPLOMACY_LEND_LEASE: "$lend_lease_string_caps$ принята"
+ DIPLOMACY_MESSAGE_ACCEPTED_MESSAGE_DIPLOMACY_LEND_LEASE: "\n§Y$COUNTRY|U$§! §Gприняла§! нашу $lend_lease_string$.\n\nНаша помощь поддержит их усилия."
+ DIPLOMACY_MESSAGE_DECLINED_TITLE_DIPLOMACY_LEND_LEASE: "$lend_lease_string_caps$ отклонена"
+ DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_LEND_LEASE: "\n§Y$COUNTRY|U$§! §Rотклонила§! нашу $lend_lease_string$!\n\nОни не получат нашей помощи."
+ DIPLOMACY_MESSAGE_ACCEPTED_TITLE_DIPLOMACY_LEND_LEASE_EXISTING: "Изменённая $lend_lease_string_caps$ принята"
+ DIPLOMACY_MESSAGE_ACCEPTED_MESSAGE_DIPLOMACY_LEND_LEASE_EXISTING: "\n§Y$COUNTRY|U$§! §Gприняла§! нашу изменённую $lend_lease_string$.\n\nНаша продолжающаяся помощь поддержит их усилия."
+ DIPLOMACY_MESSAGE_DECLINED_TITLE_DIPLOMACY_LEND_LEASE_EXISTING: "Изменённая $lend_lease_string_caps$ отклонена"
+ DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_LEND_LEASE_EXISTING: "\n§Y$COUNTRY|U$§! §Rотклонила§! нашу изменённую $lend_lease_string$!\n\nОни больше не получат нашей помощи."
+ DIPLOMACY_MESSAGE_REPLYED_INCOMING_LEND_LEASE_TITLE: "Ответ на запрос о $lend_lease_string_caps$"
+ DIPLOMACY_MESSAGE_REPLYED_INCOMING_LEND_LEASE_DESC_HEADER: "$COUNTRY|UH$ ответила на наш запрос о $lend_lease_string_caps$."
+ DIPLOMACY_MESSAGE_REPLYED_INCOMING_LEND_LEASE_DESC_SOMETHING: "$lend_lease_string_caps$ теперь:"
+ DIPLOMACY_LEND_LEASE_TITLE: "Отправить $lend_lease_string_caps$"
+ DIPLOMACY_LEND_LEASE_EXISTING_TITLE: "Изменить $lend_lease_string_caps$"
+ DIPLOMACY_LEND_LEASE_CANCEL_TITLE: "Отменить $lend_lease_string_caps$"
+ DIPLOMACY_LEND_LEASE_DEAL_DECLINE_POSTFIX: "§RОтказ§! прекратит любую $lend_lease_string$ от $ACTOR$"
+ DIPLOMACY_LEND_LEASE_CONVOYS_REQUERD: "$lend_lease_string$ потребует $VALUE|H$ конвоев."
+ DIPLOMACY_LEND_LEASE_REASON_ENEMY: "Мы не можем отправлять $lend_lease_string$ врагам."
+ DIPLOMACY_LEND_LEASE_REASON_TARGET_AT_WAR: "Чтобы отправить $lend_lease_string$, @$TAG$$WHO|H$ должна находиться в состоянии войны."
+ DIPLOMACY_LEND_LEASE_REASON_PUPPET: "Мы всегда можем отправлять $lend_lease_string$ нашим марионеткам."
+ DIPLOMACY_LEND_LEASE_NO_EQUIPMENT_CATEGORY: "В этой категории нет снаряжения для $lend_lease_string$"
+ LEND_LEASE_VEHICLES_BUTTON: "§TОтправить бронетехнику§!"
+ LEND_LEASE_INFANTRY_BUTTON: "§TОтправить пехотное и артиллерийское снаряжение§!"
+ LEND_LEASE_AIRCRAFT_BUTTON: "§TОтправить самолёты§!"
+ LEND_LEASE_NAVAL_BUTTON: "§TКонвои $lend_lease_string_caps$§!"
+ LEND_LEASE_CURRENT_HEADER: "Текущая $lend_lease_string_caps$:"
+ LEND_LEASE_CURRENT_NONE: "Нет текущей $lend_lease_string$"
+ DIPLOMACY_INCOMING_LEND_LEASE_TITLE: "Запросить $lend_lease_string_caps$"
+ DIPLOMACY_INCOMING_LEND_LEASE_EXISTING_TITLE: "Изменить входящую $lend_lease_string_caps$"
+ DIPLOMACY_INCOMING_LEND_LEASE_CANCEL_TITLE: "Отменить входящую $lend_lease_string_caps$"
+ DIPLOMACY_INCOMING_LEND_LEASE_REASON_ENEMY: "Мы не можем запрашивать $lend_lease_string$ у наших врагов."
+ DIPLOMACY_INCOMING_LEND_LEASE_REASON_TARGET_AT_WAR: "Чтобы запросить $lend_lease_string$, мы должны находиться в состоянии войны."
+ DIPLOMACY_INCOMING_LEND_LEASE_REASON_PUPPET: "Мы всегда можем запросить $lend_lease_string$ у нашего сюзерена."
+ lend_lease_initiator_desc: "$COUNTRY|UY$ отправляет $lend_lease_string$ другим странам"
+ lend_lease_initiator_extended_desc: "$COUNTRY1|UY$ отправляет $lend_lease_string$ в $COUNTRY2|Y$"
+ lend_lease_receiver_desc: "$COUNTRY|UY$ получает $lend_lease_string$ от других стран"
+ lend_lease_receiver_extended_desc: "$COUNTRY1|UY$ отправляет $lend_lease_string$ в $COUNTRY2|Y$"
+
+ #game_rules_l_russian
+ RULE_ALLOW_LEND_LEASE: "$lend_lease_string_caps$"
+ RULE_ALLOW_LEND_LEASE_FREE_DESC: "Страны могут отправлять $lend_lease_string$ кому угодно при любом уровне мирового напряжения."
+ RULE_ALLOW_LEND_LEASE_LIMITED_DESC: "$lend_lease_string_caps$ ограничена уровнем мирового напряжения и правилами идеологий."
+ RULE_ALLOW_LEND_LEASE_SAME_IDEOLOGY_DESC: "Страны могут отправлять $lend_lease_string$ только странам с правящей идеологией того же типа."
+ RULE_ALLOW_LEND_LEASE_SAME_FACTION_DESC: "Страны могут отправлять $lend_lease_string$ только странам, состоящим в том же альянсе."
+ RULE_ALLOW_LEND_LEASE_BLOCKED_DESC: "Страны никогда не могут отправлять $lend_lease_string$ другим странам."
+
+ #logistics_l_russian
+ LOGISTICS_NEED_LEND_LEASE_LOW_VALUE: "$lend_lease_string_caps$: $NEED|^1Y$ ед."
+ LOGISTICS_NEED_LEND_LEASE_HIGH_VALUE: "$lend_lease_string_caps$: $NEED|^0Y$ ед."
+ LOGISTICS_GAINED_LEND_LEASE: "От $lend_lease_string_caps$: $GAINED|Y$ ед."
+ LOGISTICS_STORAGE_GAINED_LEND_LEASE: "§TОт $lend_lease_string_caps$: $AMOUNT|Y$ ед.§!"
+
+ #modifiers_l_russian
+ MODIFIER_LEND_LEASE_TENSION_LIMIT: "Порог напряжения для $lend_lease_string_caps$"
+ MODIFIER_REQUEST_LEASE_TENSION_LIMIT: "Порог напряжения для запроса $lend_lease_string_caps$"
+ MODIFIER_AUTONOMY_GAIN_LL_TO_OVERLORD: "Рост свободы за $lend_lease_string$ сюзерену"
+ MODIFIER_AUTONOMY_GAIN_LL_TO_OVERLORD_DESC: "Влияние на рост или потерю свободы субъектом за $lend_lease_string$ сюзерену"
+ MODIFIER_AUTONOMY_GAIN_LL_TO_SUBJECT: "Рост свободы субъекта за $lend_lease_string$ от сюзерена"
+ MODIFIER_AUTONOMY_GAIN_LL_TO_SUBJECT_DESC: "Влияние на рост или потерю свободы субъектом за $lend_lease_string$ от сюзерена"
+ MODIFIER_AUTONOMY_GAIN_LL_TO_OVERLORD_FACTOR: "Рост свободы за $lend_lease_string$ сюзерену"
+ MODIFIER_AUTONOMY_GAIN_LL_TO_OVERLORD_FACTOR_DESC: "Влияние на рост или потерю свободы субъектом за $lend_lease_string$ сюзерену"
+ MODIFIER_AUTONOMY_GAIN_LL_TO_SUBJECT_FACTOR: "Рост свободы субъекта за $lend_lease_string$ от сюзерена"
+ MODIFIER_AUTONOMY_GAIN_LL_TO_SUBJECT_FACTOR_DESC: "Влияние на рост или потерю свободы субъектом за $lend_lease_string$ от сюзерена"
+
+ #topbar_l_russian
+ LEND_LEASE_TENSION_DESC: "Требуется $VAL|%Y0$ напряжения для отправки $lend_lease_string$.\n"
+
+ #trade_l_russian
+ TRADE_ROUTE_CONVOY_LEND_LEASE_IMPORT: "Импорт $lend_lease_string_caps$ из $FR|H$ ( $CONVOYS|Y$ £convoy_texticon )"
+ TRADE_ROUTE_CONVOY_LEND_LEASE_EXPORT: "Экспорт $lend_lease_string_caps$ в $TO|H$ ( $CONVOYS|Y$ £convoy_texticon )"
+
+ #waroverview_l_russian
+ WARSCORE_BREAKDOWN_LENDLEASE_GIVEN: "$lend_lease_string_caps$ отправлена: $AMOUNT|Y0$"
+ WARSCORE_BREAKDOWN_LENDLEASE_RECEIVED: "$lend_lease_string_caps$ получена: §R-$AMOUNT|0$§!"
+
+localisation\replace\abilities_l_russian.yml
+
+l_russian:
+########################################################
+### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ###
+########################################################
+
+#changed to British spelling
+ ABILITY_SIEGE_ARTILLERY_DESC: "Специализированная осадная артиллерия наносит тяжёлый урон укреплениям и даёт бонус к атаке укреплений."
+ ABILITY_REQUISITION_WINTER_GEAR_DESC: "Зимнее обмундирование даёт бонус к акклиматизации в холодном климате."
+
+localisation\replace\air_l_russian.yml
+
+l_russian:
+########################################################
+### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ###
+########################################################
+
+#changed to British spelling
+ AIRWING_REORG: "Реорганизовать авиакрылья"
+ AIRWING_REORG_ONE: "Реорганизовать авиакрыло"
+ AIRWING_REORG_BASE: "Реорганизовать авиакрылья"
+ AIRWING_REORG_ONE_BASE: "Реорганизовать авиакрыло"
+ AIRWING_MISSION_TRANSFER_CANCELED: "Передача отменена, возврат на базу ($PERC|%H$)"
+ AIRWING_DEPLOYMENT_CANCELED: "Развёртывание отменено, возврат в резерв ($PERC|%H$, ожидаемое прибытие: $ETA|%H$)"
+
+#fixed typo
+ AIR_DELETE_WINGS_DESC: "Вы уверены, что хотите расформировать $COUNT|H$ авиакрыльев и вернуть всё их снаряжение в резерв?"
+
+#changed to British spelling + fixed missing "is"
+ AIRBASE_NON_OPERATIONAL_DMZ: "Эта авиабаза §Rне функционирует§!, так как у нас нет доступа к аэропорту в демилитаризованной зоне."
+
+#changed to British spelling
+ AIRWING_DEPLOYMENT_CANCELING: "§HОтмена§!"
+ AIR_VIEW_AIR_ATTACK_HIGHER: "Наша средняя §Hвоздушная атака§! §Gвыше§! их §HПВО§!"
+ AIR_VIEW_AIR_ATTACK_LOWER: "Наша средняя §Hвоздушная атака§! §Rниже§! их §HПВО§!"
+ AIR_VIEW_AIR_ATTACK_EQUAL: "Наша средняя §Hвоздушная атака§! §Hравна§! их §HПВО§!"
+ AIR_VIEW_AIR_DEFENSE_HIGHER: "Наше среднее §HПВО§! §Gвыше§! их §Hвоздушной атаки§!"
+ AIR_VIEW_AIR_DEFENSE_LOWER: "Наше среднее §HПВО§! §Rниже§! их §Hвоздушной атаки§!"
+ AIR_VIEW_AIR_DEFENSE_EQUAL: "Наше среднее §HПВО§! §Hравно§! их §Hвоздушной атаке§!"
+
+#fixed typo
+ AIR_MORE_GROUND_CREWS_CANCEL_DESC: "§RОтменить§! повышение эффективности на $NAME|H$"
+
+localisation\replace\alerts_l_russian.yml
+
+l_russian:
+########################################################
+### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ###
+########################################################
+
+#changed to British spelling
+ alert_non_payed_license_instant: "§HНеоплаченные лицензии§!"
+
+#changed wording to account for KR war declaration decisions
+ ALERT_ENEMY_GENERATE_WARGOAL: "$COUNTRY|Y$ готовится к войне против §Yнас§!."
+
+#changed to British spelling
+ alert_naval_battle_results_delayed_click: "§GНажмите, чтобы перейти к следующему результату.\nНажмите на значок £mapicon_naval_battle_result_text в регионе, чтобы прочитать отчёт.\n§!"
+ alert_naval_convoy_raiding_results_delayed_click: "§GНажмите, чтобы перейти к следующему результату.\nНажмите на значок £topbar_convoys в регионе, чтобы прочитать отчёт.\n§!"
+ alert_paused_diplomatic_actions_delayed: "Некоторые дипломатические действия не могут быть продолжены из-за нехватки политической власти.\nРассмотрите возможность отмены этих действий, чтобы они не влияли на прирост политической власти.\n\nЗатронутые отношения:\n$COUNTRIES$"
+ ASK_TO_COOP_TITLE: "Предложить совместную игру"
+ ASK_TO_COOP_TITLE_DESC: "Вы уверены, что хотите предложить $PLAYER$ совместную игру за $COUNTRY$?"
+ ALLOW_COOP_REQUEST: "Запрос на совместную игру"
+ ALLOW_COOP_REQUEST_DESC: "$PLAYER$ просит присоединиться к вам в режиме совместной игры. Разрешить?"
+ alert_port_strike_results_delayed_click: "§GНажмите, чтобы перейти к следующему результату.\nНажмите на значок £mapicon_port_strike_result_text в регионе, чтобы прочитать отчёт.\n§!"
+
+localisation\replace\army_l_russian.yml
+
+l_russian:
+########################################################
+### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ###
+########################################################
+
+#changed to British spelling
+ ARMY_DIVISIONS_THEATRES: "Действуют в $N$ театре(-ах) военных действий"
+ ARMY_DIVISIONS_FILTER_DESC: "Введите часть названия подразделения, типа дивизии, театра военных действий, региона, имени лидера, названия снаряжения или уровня"
+ ARMY_SORT_THEATRE: "ТВД"
+
+#fixed typo
+ PLAN_VALUE_NO_THREAT: "§GОбнаруживаемых угроз нет§!"
+ MILITA_ARMY_NAME: "$TEMPLATE$ Ополчение $NUMBER$"
+
+#changed to British spelling
+ SWITCH_STRATEGIC_REDEPLOYMENT_MODE_DETAILED: "Стратегическое развёртывание — быстрый способ переброски войск. Они попытаются использовать существующие §Yжелезные дороги§! и §Yинфраструктуру§! для быстрого достижения цели, но получат штраф к организации в размере $ORG|R%$ при перемещении в этом режиме."
+ THEATER_GROUP_NAME_PATTERN: "$ADJECTIVE$ ТВД $NUMBER$"
+ NEW_THEATER_GROUP: "Новый ТВД"
+ THEATER_GROUP_ASSIGN_CLICK_BUTTON_DESC: "§GНажмите, чтобы выбрать все подразделения в текущем ТВД§!"
+ THEATER_GROUP_ASSIGN_RIGHT_CLICK_BUTTON_DESC: "§GЩёлкните ПКМ, чтобы назначить армию текущему ТВД§!"
+ THEATER_GROUP_ASSIGN_TO_VOLUNTEERS_DESC: "§RНевозможно назначить обычные армии в ТВД добровольцев§!"
+ THEATER_GROUP_ASSIGN_FROM_VOLUNTEERS_DESC: "§RНевозможно назначить армии добровольцев в обычные ТВД§!"
+
+#fixed typo
+ THEATER_ORDER_GROUP_BAD_COMBATS: "$NAME|H$: $COUNT|0R$ боёв"
+
+#changed to British spelling
+ THEATER_GROUP_OFFENSIVE_TROUBLES: "§RВ этом ТВД возникли проблемы в $BAD_COUNT|H$ наступательных боях из $COUNT|H$ общих.\nПроблемные бои:§!\n$LIST$"
+ THEATER_GROUP_DEFENSIVE_TROUBLES: "§RВ этом ТВД возникли проблемы в $BAD_COUNT|H$ оборонительных боях из $COUNT|H$ общих.\nПроблемные бои:§!\n$LIST$"
+ THEATER_GROUP_OFFENSIVE_NO_TROUBLES: "§GНаше наступление идёт успешно§!"
+ THEATER_GROUP_DEFENSIVE_NO_TROUBLES: "§GНаша оборона идёт успешно§!"
+ NEW_THEATER_GROUP_BUTTON_DESC: "§GНажмите, чтобы создать новый ТВД и назначить на него все выбранные армии§!"
+ THEATER_GROUP_DISBAND_BUTTON_DESC: "Распустить ТВД"
+ THEATER_GROUP_DISBAND_TITLE: "Роспуск ТВД"
+
+localisation\replace\buildings_l_russian.yml
+
+l_russian:
+########################################################
+### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ###
+########################################################
+
+ landmark_statue_of_liberty: "Статуя Свободы"
+ landmark_statue_of_liberty_plural: "$landmark_statue_of_liberty$"
+ landmark_statue_of_liberty_desc: "§LВеличественная Статуя Свободы гордо возвышается в нью-йоркской гавани — главном пункте въезда в Соединённые Штаты для иммигрантов, стремящихся начать новую жизнь. С тех пор она стала воплощением американского идеала жизни, свободы и стремления к счастью.§!"
+
+ landmark_big_ben: "Вестминстерский дворец"
+ landmark_big_ben_plural: "$landmark_big_ben$"
+ landmark_big_ben_desc: "§LВестминстерский дворец стоит на северном берегу Темзы в Лондоне. Первоначально построенный в XI веке и многократно перестраивавшийся в последующие столетия, он веками служил резиденцией британского парламента и центром государственного управления при монархии. С установлением республиканского правительства в 1925 году дворец был адаптирован под музей и общественные функции, сочетая сохранение исторической архитектуры с современными административными и выставочными задачами.§!"
+
+ landmark_colosseum: "Колизей"
+ landmark_colosseum_plural: "$landmark_colosseum$"
+ landmark_colosseum_desc: "§LКолизей расположен в центре Рима. Это крупнейший древний амфитеатр из когда-либо построенных, использовавшийся римлянами, а затем и жителями города после падения Рима, для развлечений с момента его завершения императором Титом.§!"
+
+ landmark_cristo_redentor: "Христос-Искупитель"
+ landmark_cristo_redentor_plural: "$landmark_cristo_redentor$"
+ landmark_cristo_redentor_desc: "§LСтатуя Христа-Искупителя возвышается над Рио-де-Жанейро; её строительство было завершено в 1931 году. Это национальный символ Бразилии, имеющий огромное значение для католиков региона.§!"
+
+ landmark_eiffel_tower: "Эйфелева башня"
+ landmark_eiffel_tower_plural: "$landmark_eiffel_tower$"
+ landmark_eiffel_tower_desc: "§LЭйфелева башня названа в честь своего создателя Гюстава Эйфеля и была завершена в 1889 году. Расположенная на Марсовом поле в Париже, «Железная леди» стала всемирным культурным символом Франции и олицетворением национальной гордости.§!"
+
+ landmark_kremlin: "Московский Кремль"
+ landmark_kremlin_plural: "$landmark_kremlin$"
+ landmark_kremlin_desc: "§LМосковский Кремль — укреплённый комплекс. В его пределах находится Большой Кремлёвский дворец, бывшая императорская резиденция российского императора и нынешнее место заседаний российского парламента. Кремль возвышается над Москвой-рекой на юге, Собором Василия Блаженного и Красной площадью на востоке и Александровским садом на западе.§!"
+
+ landmark_berlin_reichstag: "Рейхстаг"
+ landmark_berlin_reichstag_plural: "$landmark_berlin_reichstag$"
+ landmark_berlin_reichstag_desc: "§LПленарная зона здания Рейхстага, также известная как Рейхстаг, — историческое законодательное здание на Кёнигсплац в Берлине. Это символическое сооружение, имеющее огромное значение в сердцах и умах народа.§!"
+
+ landmark_hofburg_palace: "Хофбург"
+ landmark_hofburg_palace_plural: "$landmark_hofburg_palace$"
+ landmark_hofburg_palace_desc: "§LХофбург — главная императорская резиденция династии Габсбургов, обращённая к площади Героев, Народному саду, а за ними — к зданию парламента и Венской ратуше. Окружённый множеством парков, он является сердцем Габсбургской монархии.§!"
+
+ landmark_sadabad_complex: "Комплекс Саадабад"
+ landmark_sadabad_complex_plural: "$landmark_sadabad_complex$"
+ landmark_sadabad_complex_desc: "§LПостроенный династией Каджаров, комплекс Саадабад на севере Тегерана служит королевской резиденцией и центром власти. Его дворцы и сады отражают изменчивый политический ландшафт Персии — от консерватизма до модернизма.§!"
+
+ landmark_taj_mahal: "Тадж-Махал"
+ landmark_taj_mahal_plural: "$landmark_taj_mahal$"
+ landmark_taj_mahal_desc: "§LТадж-Махал — шедевр архитектуры Великих Моголов. Его величественные купола из белого мрамора и изысканные сады делают его одним из самых узнаваемых символов Индии, свидетельством как имперского могущества, так и непреходящего наследия.§!"
+
+ landmark_hagia_sophia: "Собор Святой Софии"
+ landmark_hagia_sophia_plural: "$landmark_hagia_sophia$"
+ landmark_hagia_sophia_desc: "§LРасположенная на перекрёстке империй, Святая София была византийским собором, османской мечетью и символом меняющихся правителей Константинополя. Её массивный купол и грандиозные залы отражают как духовное значение, так и амбиции тех, кто провозглашал город своей столицей.§!"
+
+ landmark_nanjing_presidential_palace: "Президентский дворец в Нанкине"
+ landmark_nanjing_presidential_palace_plural: "$landmark_nanjing_presidential_palace$"
+ landmark_nanjing_presidential_palace_desc: "§LПрезидентский дворец в Нанкине — исторический комплекс, давно связанный с китайским государственным управлением. После падения династии Цин он ненадолго стал национальной резиденцией правительства, но политическая власть переместилась в Пекин, и дворец впоследствии продолжил служить офисом провинциального губернатора.§!"
+
+ landmark_forbidden_city: "Запретный город"
+ landmark_forbidden_city_plural: "$landmark_forbidden_city$"
+ landmark_forbidden_city_desc: "§LКак историческая резиденция императорской власти, Запретный город в Пекине находился в центре китайского управления со времён династии Мин. После полутора десятилетий республиканского управления император Цин возобновил проживание в нём в 1927 году.§!"
+
+ landmark_great_wall_section: "Великая Китайская стена"
+ landmark_great_wall_section_plural: "$landmark_great_wall_section$"
+ landmark_great_wall_section_desc: "§LВеликая Китайская стена, строившаяся на протяжении сотен лет и десятков правлений, — логистический шедевр. Сегодня можно сказать, что она олицетворяет великое мужество и стойкость китайского народа перед лицом невзгод.§!"
+
+ landmark_tokyo_imperial_palace: "Императорский дворец"
+ landmark_tokyo_imperial_palace_plural: "$landmark_tokyo_imperial_palace$"
+ landmark_tokyo_imperial_palace_desc: "§LТокийский Императорский дворец — главная резиденция императора с момента Реставрации Мэйдзи и свержения последнего сёгуната. Это символ гордости и почтения для японского народа, вдохновляющий его на усердный труд.§!"
+
+ landmark_national_diet: "Здание Национального собрания"
+ landmark_national_diet_plural: "$landmark_national_diet$"
+ landmark_national_diet_desc: "§LКоккай-гидзидо — здание, где заседают обе палаты Национального собрания Японии. Завершённое в начале 1936 года, оно построено почти полностью из японских материалов с небольшими исключениями. Его предшественник был уничтожен в 1925 году, когда пожар опустошил этот район. Хотя здание собрания не раз разрушалось, на этот раз оно простоит века!§!"
+
+ landmark_hakko_ichiu: "Монумент «Хакко Итиу»"
+ landmark_hakko_ichiu_plural: "$landmark_hakko_ichiu$"
+ landmark_hakko_ichiu_desc: "§LБашня «Хакко Итиу» была воздвигнута в честь 2600-летия основания Японии и как памятник, символизирующий японскую судьбу — объединение восьми углов мира под одной крышей.§!"
+
+#fixed typo
+ BUILDING_SLOT_REMOVE_COOLDOWN: "В военное время снос зданий возможен не чаще одного раза в $DAYS|Y$ дней. Следующий снос будет доступен $DATE|Y$."
+
+localisation\replace\combat_l_russian.yml
+
+l_russian:
+########################################################
+### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ###
+########################################################
+
+#changed to British spelling
+ BM_DECRYPTION_DESC: "Подразделения с преимуществом в дешифровании наносят увеличенный урон и имеют повышенную обороноспособность."
+ BM_FORT_MODIFIER_DESC: "Укрепления снижают потери защитников и помогают в обороне. Для штурма сильно укреплённых провинций используйте сверхтяжёлые танки или инженеров. Атака с нескольких направлений снижает эффективность укреплений."
+ BM_ENEMY_AIR_SUPERIORITY_DESC: "Трудно организовать эффективную оборону, когда противник господствует в воздухе."
+ BM_ENEMY_AIR_SUPERIORITY_COUNTER_DESC: "Наличие зенитных батальонов в ваших дивизиях помогает противостоять штрафу к обороне/прорыву от господства противника в воздухе, а также сбивать самолёты, атакующие напрямую."
+ BATTLE_DEFENCE: "Оборона"
+ TACTICS_LOCKED_BY_NOT_HANDLED: "§RЗаблокировано. Для разблокировки игрок должен выполнить определённые условия.§!"
+ COMMAND_GROUP_DESC: "Армия необходима для создания боевых планов, что позволяет организовать перемещения большого количества подразделений в несколько этапов."
+ COMMAND_ARMY_GROUP_DESC: "Группа армий координирует армии с помощью стратегических указаний и планов."
+ NAVAL_INVASION_COMBAT_PROGRESS_DESC: "Это подразделение осуществляет морское вторжение. Его атака снижена, а оборона усилена за счёт бронирования транспортов."
+ NAVAL_INVASION_DEFEND_SCALE: "Общая обороноспособность: $VALUE|=+0%$"
+ LAND_COMBAT_CAS_INFO_TOOLTIP: "Около $NUM|Y$ самолётов поддержки со стороны $SIDE$ недавно смогли оказать помощь в этом бою.\nОни нанесли $ORG|G0$ урона §Организации§!, текущая §Организация§! противника: $ORG_MAX|G0$.\nОни нанесли $STR|G0$ урона §Боеспособности§!, текущая §Боеспособность§! противника: $STR_MAX|G0$.\n§ПВО§! вражеских дивизий сбило $KILL|R$ самолётов и с эффективностью $AA_EFFECTIVENESS|H%1$ предотвратило $ORG_PREVENT|R0$ урона §Организации§! и $STR_PREVENT|R0$ урона §Боеспособности§!."
+ BM_PARADROP_DESC: "Подразделения будут дезорганизованы после десантирования"
+ MISSION_CAS_WIN: "Вражеские дивизии нейтрализованы: $VAL|0+$"
+ BM_DEFEND_VALUE: "Оборона: $VALUE|+=%$"
+ COMBAT_ARMOR_DESC: "$PIERCING|H$ из $TOTAL|H$ вражеских дивизий могут пробить броню этой дивизии."
+ COMBAT_PIERCING_DESC: "Эта дивизия может пробить броню $PIERCING|H$ из $TOTAL|H$ бронированных вражеских дивизий."
+ CARRIER_EFFICIENCY_ORG: "Организация: $VAL$"
+
+#fixed missing word "many"
+ ARMY_AMOUNT_PENALTY: "§RСлишком много армий под командованием. Все характеристики снижены на $PENALTY|Y1%$§!"
+
+#changed to British spelling
+ COMBAT_LOG_BATTLE_LOSS_ARMOR: "Бронетехника"
+ BM_BORDER_WAR_MODIFIER: "Организация пограничного конфликта"
+ BM_BORDER_WAR_MODIFIER_DESC: "Подразделение получает модификатор в зависимости от организации пограничного конфликта."
+
+localisation\replace\constructions_l_russian.yml
+
+l_russian:
+########################################################
+### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ###
+########################################################
+
+#changed to British spelling
+ CONSTRUCTION_MINIMIZE: "Свернуть"
+ CONSTRUCTION_MAXIMIZE: "§GShift+клик для§! §Hразвёртывания§!"
+ CONSTRUCTION_MAPMODE_DEMILITARIZED_BLOCKED_TOOLTIP: "Невозможно построить $BUILDING|H$ в демилитаризованной зоне."
+
+#not defined in vanilla
+ rail_way_plural: "Железные дороги"
+
+localisation\replace\core_l_russian.yml
+
+l_russian:
+########################################################
+### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ###
+########################################################
+
+#added player warnings
+ FE_IRONMAN: "Режим «Железный человек» — §RМожет сломать игру§!"
+ FE_IRONMAN_TOOLTIP: "В режиме «Железный человек» консольные читы отключены, и игра автоматически сохраняется в один файл. В партиях с этой настройкой нет пути назад.\n\n§RПРЕДУПРЕЖДЕНИЕ:\nИспользование этого режима сделает невозможным откат к старому сохранению при появлении критической ошибки и может навсегда испортить всё прохождение.§!"
+ FE_HISTORICAL: "Исторический ИИ — §RНе поддерживается§!"
+ FE_HISTORICAL_TOOLTIP: "§RЭта функция совершенно не используется в KR, но её включение может вызвать проблемы с ИИ. Пожалуйста, убедитесь, что она отключена при игре в Kaiserreich.§!"
+
+#added rollback instructions
+ OLD_SAVEGAME: "§RЭто сохранение создано в другой версии игры и не может быть загружено.§!\n$rollback_tt$"
+ OLD_SAVEGAME_POPUP: "Это сохранение создано в другой версии игры и не может быть загружено.\n$rollback_tt$"
+ OLD_SAVEGAME_ALLOWED: "§RЭто сохранение создано в другой версии игры и может работать нестабильно при загрузке.§!\n$rollback_tt$"
+ rollback_tt: "Предыдущие версии Kaiserreich доступны по адресу:\n§4github.com/Kaiserreich/Kaiserreich-4-Archive/tags§!"
+
+#changed links
+ MENU_BAR_GAME_WIKI: "£GFX_flame_texticon  Сообщить о проблеме"
+ MENU_DISCORD: "Discord Kaiserreich"
+ MENU_TWITTER: "Twitter Kaiserreich"
+ MENU_WIKIA: "Вики Kaiserreich"
+
+#changed generic names
+ FLEET_NAME: "$NUMBER$-й флот"
+ FLEET_NAME_USA: "Группа ВМС США $NUMBER$"
+ FLEET_NAME_GER: "$NUMBER$-й Кайзерлихмарине"
+ RESERVE_FLEET_NAME: "$NUMBER$-й резервный флот"
+ TASK_FORCE_NAME: "$NUMBER$-е оперативное соединение"
+
+#changed to British spelling
+ NAVAL_COMBAT_SHIP_ORGANIZATION_FACTOR: " — Организация: $ORG|%Y$"
+ UNITS_TOO_WEAK_TO_ATTACK: "§RОрганизация подразделения слишком низка для наступления.§!\nДождитесь перегруппировки или измените §YАгрессивность§! выполнения боевых планов."
+ UNITS_DMZ_MOVE_WARNING: "§RПодразделение не войдёт в демилитаризованную зону§!"
+
+#changed generic names
+ COMMAND_GROUP_NAME_GENERIC: "$N$-я армия"
+ ARMY_GROUP_NAME_GENERIC: "$N$-я группа армий"
+
+#changed to British spelling
+ NO_ORG_GAIN_IN_COMBAT: "Организация не восстанавливается во время боя."
+ NO_ORG_GAIN_IN_NAVAL_INVASION: "Организация не восстанавливается во время морского вторжения."
+ ORG_OVER_SUPPLY_SOFT_CAP: "Организация превышает мягкий лимит снабжения $CAP|Y$. Организация будет снижаться на $LOSS|R$ в час."
+ UNIT_ORG: "Организация: $VALUE|H$"
+ UNIT_AVERAGE_ORG: "Средняя организация: $VALUE|%0H$"
+ ARMY_UNIT_ORG: "Организация: $VALUE|%H$"
+ MOVING_STRATEGIC_REDEPLOYMENT_ORG: "Перемещение в режиме стратегического развёртывания. Во время перемещения организация всегда установлена на $VALUE|H%$."
+ MOVING_NAVAL_TRANSFER_ORG: "Перемещение в режиме морской переброски. Во время перемещения организация всегда установлена на $VALUE|H%$."
+ ZERO_ORG_MOVEMENT_MODIFIER: "Низкая организация: $VALUE|+%$"
+ TRAINING_ARMY_ORG: "Дивизия проводит §Армейские учения§!. Во время учений её организация всегда установлена на $VALUE|H%$"
+ TRAINING_NAVY_ORG: "Оперативное соединение проводит §Морские учения§!. Во время учений текущая организация ограничена значением $VALUE|H%$"
+
+#generified
+ CAN_USE_KAMIKAZE_PILOTS: "Может использовать пилотов-смертников"
+
+#changed to British spelling
+ LOW_ORG_REGAIN: "Низкая организация: $VAL|=+%2$"
+ HIGH_ORG_REGAIN: "Высокая организация: $VAL|=+%2$"
+ ORG_DAMAGE_MULTIPLIER: "Получаемый урон организации"
+ ARMY_BADGE_ORG_STR_INDICATOR_TOOLTIP: "§HОрганизация§!\nСреднее: §H$ORG_MEAN$%§!\nМедиана: §H$ORG_MEDIAN$%§!\n\n§HБоеспособность§!\nСреднее: §H$STR_MEAN$%§!\nМедиана: §H$STR_MEDIAN$%§!"
+
+#changed wording
+ CHARACTER_ADVISOR_ON_REMOVE_TOOLTIP: "\nПри увольнении:"
+ CHARACTER_ADVISOR_CANT_BE_FIRED_ONCE_HIRED: "§HСоветник не может быть уволен после найма§!"
+ CHARACTER_ADVISOR_CANT_BE_FIRED: "§RСоветник не может быть уволен§!"
+
+localisation\replace\country_l_russian.yml
+
+l_russian:
+########################################################
+### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ###
+########################################################
+
+#changed to British spelling
+ MANPOWER_CURRENT_MOBILIZATION: "Всего людских ресурсов: $TOTAL|^2H$\n$PERC|2%H$ (около $MOB|+3%$ мобилизуется в день) от доступного пригодного основного населения ($ELIGIBLE|^H$)"
+ DIVISION_IN_TEMPLATE_TRANSFER: "Дивизия в настоящее время реорганизуется из шаблона $OLD|H$ в $NEW|H$. Реорганизация завершится, когда будет доставлено первое необходимое снаряжение, после чего старое снаряжение будет возвращено на склады."
+
+localisation\replace\deployment_l_russian.yml
+
+l_russian:
+########################################################
+### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ###
+########################################################
+
+#changed to British spelling
+ group_armor_title: "Бронетанковые батальоны"
+ HAS_ARMIES_WITH_OLD_TEMPLATE: "§RНевозможно удалить этот шаблон, так как $AMOUNT|H$ дивизия(-ий) переходит(-ят) с этого шаблона на новый (ожидает получения снаряжения по новому шаблону).§!"
+ CONVEYOR_GROUP_CAN_NOT_ASSIGN_NO_ORDERS_DESC: "Для назначения в любую группу развёртывание должно иметь хотя бы один приказ в театре военных действий."
+
+#fixed missing article
+ CONVEYOR_SET_COLONIAL_LOCATION_DESC: "§GНажмите§!, чтобы установить место развёртывания.\n§GЩёлкните ПКМ§!, чтобы сбросить местоположение.\n§YЭто колониальный шаблон, его можно развернуть только в стране происхождения!§!"
+
+localisation\replace\designer_l_russian.yml
+
+l_russian:
+########################################################
+### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ###
+########################################################
+
+ DESIGNER_ARMORED_LABEL: "Бронетехника"
+ DESIGNER_ARMORED_RATIO: "Бронетехника: $VALUE|%Y$"
+ DESIGNER_SUPPORT_COLUMN_TITLE: "Роты поддержки. Это вспомогательные войска, действующие за линией фронта и оказывающие поддержку.\n\nМожно выбрать только одну роту каждого типа. Роты поддержки не влияют на §YМаксимальную скорость§! дивизии (за исключением бонусов к местности) и не увеличивают её §YБоевую ширину§!."
+ DESIGNER_MAIN_COLUMN_TITLE: "Линейные батальоны — это ваши войска первой линии.\n\nКаждая колонка представляет полк определённого базового типа: §YБронетехника§!, §YПехота§! или §YМотопехота§!. Верхний тип определяет, что ещё можно добавить в эту колонку полка. Чем больше линейных батальонов, тем больше ваша §YБоевая ширина§! и тем меньше таких дивизий поместится в один бой."
+
+localisation\replace\diplomacy_l_russian.yml
+
+l_russian:
+########################################################
+### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ###
+########################################################
+
+#vanilla tooltips that indicate potential factions to join, removed in KR due to not being applicable
+ DW_VERY_LIKELY_JOIN_FACTION: ""
+ POSSIBLE_FACTION_INVITES: ""
+
+#removed the second sentence, since KR puppets can refuse them
+ DIPLOMACY_REQUEST_EXP_FORCE_ACTION_DESC: "Запросить контроль над определённым количеством дивизий у марионетки."
+
+#amended to account for KR's recall volunteers diplo action
+ SEND_VOLUNTEERS_INFO: "\nОтправленные дивизии исчезнут с карты во время переброски и появятся на карте в стране назначения по завершении передачи. Дивизии автоматически вернутся, если вы вступите в войну или страна-получатель заключит мир."
+
+#renamed to match KR's ideological groups
+ DR_US_DEMOCRATIC: "§Y$US|U$§! — либералы: "
+ DR_US_NEUTRAL: "§Y$US|U$§! — консерваторы: "
+ DR_US_COMMUNIST: "§Y$US|U$§! — социалисты: "
+ DR_US_FASCIST: "§Y$US|U$§! — реакционеры: "
+
+#changed to British spelling
+ DIPLOMACY_MESSAGE_CANCELED_TITLE: "$RELATION$ отменено"
+ DIPLOMACY_MESSAGE_CANCELED_MESSAGE: "$RELATION$ с $COUNTRY$ было §Rотменено§! $REASON$"
+ LEND_LEASE_VEHICLES_BUTTON_DISABLED: "§TМы не производим бронетехнику и не имеем её на складах§!"
+ INCOMING_LEND_LEASE_VEHICLES_BUTTON_DISABLED: "§TНам не известно о доступной для экспорта бронетехнике§!"
+ DIPLOMACY_REQUEST_LICENSED_PRODUCTION_TITLE: "Запросить лицензионное производство"
+ DIPLOMACY_MANAGE_LICENSED_PRODUCTION_EXISTING_TITLE: "Управление лицензионным производством"
+ DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_REQUEST_LICENSED_PRODUCTION: "Наш запрос на лицензионное производство был §Rотклонён§! §Y$COUNTRY$§!."
+ DIPLOMACY_MESSAGE_ACCEPTED_MESSAGE_DIPLOMACY_REQUEST_LICENSED_PRODUCTION: "Наш запрос на лицензионное производство был §Gпринят§! §Y$COUNTRY$§!."
+ DIPLOMACY_REQUEST_LICENSED_PRODUCTION_ACTION_DESC: "Запросить лицензию на производство иностранного снаряжения для собственных нужд."
+ DIPLOMACY_MANAGE_LICENSED_PRODUCTION_EXISTING_ACTION_DESC: "Запросить новые лицензии или прекратить действие текущих."
+ DIPLOMACY_REQUEST_LICENSED_PRODUCTION_REQUEST_DESC: "$COUNTRY|UY$ запрашивает лицензионное производство: $LIST|Y$\nОни заплатят $COST|Y$ £civ_factory, пока лицензия действует."
+ DIPLOMACY_SHOW_ACTIVE_LICENSES: "Показать §Hдействующие лицензии§!"
+ DIPLOMACY_SHOW_AVAILABLE_LICENSES: "Показать §Hдоступные лицензии§!"
+ DIPLOMACY_CANCEL_LICENSED_PRODUCTION_TITLE: "Отменить производственные лицензии"
+ DIPLOMACY_CANCEL_LICENSED_PRODUCTION_ACTION_DESC: "Отменить все производственные лицензии, которые можно отменить"
+ CAN_DEACTIVATE_AFTER: "Не может быть отменено до: $DATE|H$"
+ CAN_CANCEL_ALL_AFTER: "Ни одна лицензия не может быть отменена до: $DATE|H$"
+ DR_LICENSE_ACCEPTANCE: "§Y$THEM|U$§! с большей вероятностью примет §Yзапросы на лицензионное производство§! от §Y$US$§!: "
+ DR_HAS_CORE_ON_ANY_STATE: "$COUNTRY|UY$ имеет хотя бы одну из целевых провинций как основную: "
+ BORDER_WAR_POWER_RATIO: "Соотношение военной силы в нашу пользу: $VAL|2%H$"
+ SEND_VOL_CONTROL_OF_HOME: "@$TAG$$WHO|UH$ должна контролировать свой домашний театр военных действий."
+ alert_expeditionary_force_delayed: "У вас есть экспедиционные силы в этом театре."
+ DIPLOMACY_WAR_NO_WAR_WARGOAL_NO_NEIGBOR_WARS: "Мы можем объявлять несправедливые войны только нашим соседям и странам, которые уже воюют с членами нашего альянса и граничат с ними."
+ DIPLOMACY_PEACE_PROPOSAL_NOT_WARSCORE_ENOUGH: "Военный счёт в пользу другой стороны должен быть не менее $LIMIT|%0Y$, в настоящее время: $WARSCORE|%0Y$"
+ DR_COMMUNIST_NOT_NEIGHBOUR: "$THEM|UY$ не граничит с альянсом: "
+ free_license: "Бесплатная лицензия"
+
+#missing in vanilla
+ DIPLOMACY_INTERNATIONAL_MARKET_ACCESS_RIGHTS: "Доступ к рынку"
+
+#removed colon character at the end
+ puppet_opinion: "Марионетка"
+
+#capitalised 'opinion'
+ small_decrease: "Снижение отношения"
+ medium_decrease: "Снижение отношения"
+ large_decrease: "Снижение отношения"
+ small_increase: "Улучшение отношения"
+ medium_increase: "Улучшение отношения"
+ large_increase: "Улучшение отношения"
+ huge_increase: "Значительное улучшение отношения"
+
+localisation\replace\doctrines_l_russian.yml
+
+l_russian:
+########################################################
+### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ###
+########################################################
+
+#changed to British spelling
+ GRAND_DOCTRINE_MOBILE_WARFARE_DESC: "Бей там, где не ждут — доктрина манёвренной войны стремится прорвать окопный тупик Первой мировой войны за счёт агрессивных манёвров, опережающих и дезорганизующих противника."
+ GRAND_DOCTRINE_SUPERIOR_FIREPOWER_DESC: "Посылай снаряды, а не людей — «Превосходство огневой мощи» делает акцент на применении сокрушительных масс огня для расчистки пути манёвренным подразделениям, продвигающимся и захватывающим территорию."
+ GRAND_DOCTRINE_GRAND_BATTLEPLAN_DESC: "При достаточной подготовке нет непреодолимых препятствий — «Грандиозный боевой план» характеризуется терпеливой, тщательной подготовкой всех родов войск, как в атаке, так и в обороне."
+
+ large_unit_tactics_motorization_initiative: "Инициатива моторизации"
+ SUBDOCTRINE_ASSAULT_INFANTRY_DESC: "Организация армии с комбинированным подходом к бою, с органическими средствами огневой поддержки, интегрированными до наименьшего тактического подразделения."
+ mounted_infantry_anti_mechanized_cavalry_groups: "Противомеханизированные кавалерийские группы"
+ SUBDOCTRINE_IRREGULARS_DESC: "Асимметричный подход к пехотному бою, при котором избегается прямое столкновение с превосходящими силами, с использованием партизанской тактики засад, дезориентации и изматывания для подрыва решимости противника."
+ irregulars_improvised_officer_groups: "Импровизированные офицерские группы"
+ irregulars_standardization_efforts: "Усилия по стандартизации"
+ SUBDOCTRINE_FIRE_CONCENTRATION_DESC: "За счёт централизации управления средствами огневой поддержки наша армия может концентрировать огневую мощь в критической точке, а не распылять её мелкими порциями."
+ fire_concentration_dedicated_air_support: "Централизованная противовоздушная поддержка"
+ SUBDOCTRINE_ANTI_TANK_FRONT_DESC: "Единый подход к противотанковой обороне на всех тактических уровнях, защищающий фланги дружественных прорывов и направляющий вражеские бронетанковые атаки в заранее спланированные зоны поражения."
+ SUBDOCTRINE_FLYING_BATTERIES_DESC: "Общеармейская инициатива по повышению мобильности поддерживающих родов войск, чтобы они могли успевать за быстрыми моторизованными прорывами и быстро вступать в бой для поддержки."
+ flying_batteries_ballistics_corrections: "Бронированные машины передовых наблюдателей"
+ SUBDOCTRINE_MOBILE_RECON_AND_ASSAULT_DESC: "Благодаря комбинированному подходу, подкреплённому обширной моторизацией, мы можем использовать разведывательные подразделения для обнаружения противника, а мобильное тяжёлое вооружение — для его быстрого уничтожения."
+ mobile_recon_and_assault_motorization_support: "Органическое моторизованное снабжение"
+ self_propelled_support_mobile_battery_management_platoons: "Мобильный центр управления огнём"
+ SUBDOCTRINE_ARMORED_SPEARHEAD: "Бронетанковый клин"
+ SUBDOCTRINE_ARMORED_SPEARHEAD_DESC: "Танк даёт возможность вести войну манёвра, а не просто войну на истощение. Наша доктрина должна делать акцент на быстром использовании прорывов для окружения и уничтожения противника."
+ SUBDOCTRINE_ARMORED_INFANTRY_SUPPORT: "Поддержка бронепехоты"
+ armored_infantry_support_armored_cohorts: "Бронированные когорты"
+ armored_infantry_support_mobile_armored_strongpoints: "Мобильные бронированные опорные пункты"
+ SUBDOCTRINE_ARMORED_CAVALRY: "Бронетанковая кавалерия"
+ SUBDOCTRINE_ARMORED_CAVALRY_DESC: "Механизированные силы, подкреплённые быстрыми лёгкими танками и бронеавтомобилями, могут выявлять слабые места и наносить удары по противнику там, где он наиболее уязвим."
+ armored_cavalry_quick_response_force: "Моторизованные силы безопасности"
+ armored_cavalry_speed_as_armour: "Скорость как броня"
+ streamlined_deployment_flexible_armored_battalions: "Программа механизации армии"
+ streamlined_deployment_mechanized_wave: "Механизированная волна"
+ SUBDOCTRINE_MOBILE_DEFENSE: "Мобильная оборона"
+ SUBDOCTRINE_MOBILE_DEFENSE_DESC: "Бронетанковые силы полезны как в атаке, так и в обороне. Благодаря своей мобильности они могут быстро занимать выгодные оборонительные позиции или перемещаться для отражения вражеских прорывов."
+ mobile_defense_combined_anti_armor: "Комбинированная противотанковая оборона"
+ SUBDOCTRINE_TANK_DESTROYER_FORCE_DESC: "Сталкиваясь с серьёзной угрозой вражеской бронетехники, мы не можем рассчитывать, что наша первая линия обороны всегда остановит противника. Оборона в глубину с засадами противотанковых подразделений имеет решающее значение."
+ SUBDOCTRINE_LAST_STAND: "Отчаянная оборона"
+ SUBDOCTRINE_DEEP_BATTLE_DESC: "Дальность и ударная мощь современного оружия позволяют преодолеть систему обороны противника, нанося удары по всей её глубине одновременно всеми имеющимися средствами."
+ SUBDOCTRINE_GUERILLA_WAR: "Партизанская война"
+ guerilla_war_galvanize_support: "Мобилизация поддержки"
+ guerilla_war_defense_of_gained_power: "Защита завоёванной власти"
+ SUBDOCTRINE_PEOPLES_WAR: "Ополчение"
+ SUBDOCTRINE_PEOPLES_WAR_DESC: "Из века в век простые люди формировали ополчения для защиты своих домов и родины. Даже в эпоху современной войны санкционированные и организованные государством ополчения могут стать мощным сдерживающим фактором против иностранного вторжения."
+ SUBDOCTRINE_EXPEDITIONARY_WARFARE_DESC: "Вся боевая мощь мира мало что значит, если её нельзя доставить к месту боя. Мы сделаем организационный акцент на возможности проецирования силы в служении нашим стратегическим целям."
+
+ DOCTRINE_TRACK_ARMOR: "Бронетехника"
+ ADVISOR_DOCTRINE_FAVOR: "$NAME|H$ благоприятствует этой доктрине:"
+ DOCTRINE_MONTHLY_MASTERY_GAIN_THEATER_COMMANDER: "- $LEADER_NAME|H$ (командующий ТВД): $VALUE|+=1$"
+
+ mobile_infantry_cavalry_charge: "Модернизированная кавалерия"
+ mobile_infantry_maneuver_warfare: "Манёвренная война"
+
+ GRAND_DOCTRINE_FLEET_IN_BEING_DESC: "Клуб больших пушек — традиционалистский акцент на военно-морской артиллерии и тяжёлом бронировании, чтобы подавить вражеский флот и потопить его в шторме из стали."
+
+ SUBDOCTRINE_ARMORED_RAIDERS: "Бронированные рейдеры"
+ SUBDOCTRINE_ARMORED_RAIDERS_DESC: "Эскорт конвоев в первую очередь ориентирован на противолодочную оборону. Представьте их шок, когда в их рядах появится полностью вооружённый линейный корабль — как волк среди овец."
+ armored_raiders_modernized_officer_education: "Модернизированные протоколы поиска"
+ SUBDOCTRINE_COASTAL_DEFENCE: "Флот береговой обороны"
+ SUBDOCTRINE_COASTAL_DEFENCE_DESC: "Более мелкие военные корабли, делающие акцент на огневой мощи, а не на дальности, и действующие вблизи дружественных берегов, могут стать серьёзным сдерживающим фактором для вражеского флота."
+ coastal_defence_fleet_aging_navy: "Программа модернизации"
+ coastal_defence_fleet_casemate_upgrades: "Модернизация вспомогательного вооружения"
+ SUBDOCTRINE_NAVAL_GUNFIRE_SUPPORT_DESC: "Как только вражеский линейный флот нейтрализован, наши тяжёлые корабельные орудия могут свободно обратить свой гнев на наземные цели, поддерживая наши войска на берегу."
+ convoy_escort_escort_reclassification: "Упорная защита конвоев"
+ SUBDOCTRINE_SCREEN_INTEGRATED_OPERATIONS_DESC: "Эскортным силам не хватает огневой мощи линейных кораблей, но, используя скорость как броню, они могут оказать ценную услугу даже в генеральном морском сражении."
+ SUBDOCTRINE_SCREEN_HUNTER_KILLERS_DESC: "Пока вражеские подлодки угрожают задушить нашу военную экономику, хорошо организованные и агрессивные эскортные эсминцы могут превратить охотника в добычу."
+ SUBDOCTRINE_SCREEN_TORPEDO_PRIMACY_DESC: "Акцент на агрессивных, дерзких торпедных атаках эсминцев в ущерб оборонительному эскорту, чтобы измотать вражескую боевую линию перед главным сражением."
+ SUBDOCTRINE_SCREEN_SUPPORT_FOCUS_DESC: "Улучшения в подготовке и организации наших вспомогательных кораблей косвенно, но значительно усилят наш основной боевой флот."
+ SUBDOCTRINE_SCREEN_JEUNE_ECOLE_DESC: "Доктринальная концепция, делающая акцент на роях малых кораблей, торпедных ударах и непрямой торговой войне как противоядие от старой идеи артиллерийской дуэли больших пушек в открытом море."
+ SUBDOCTRINE_SCREEN_PATROL_BOATS_DESC: "Дешёвые быстроходные катера, вооружённые торпедами, — мощное средство против традиционного линейного флота из тяжёлых кораблей, особенно в прибрежных водах, где они могут наносить удары из засады."
+ patrol_boats_home_waters_defense: "Оборона внутренних вод"
+ SUBDOCTRINE_CARRIER_BATTLEGROUPS_DESC: "Авианосец быстро затмевает линкор как главное военно-морское оружие нашей эпохи. Наши флоты должны строиться вокруг них."
+ escort_carrier_support_evasive_convoy_maneuvers: "Уклончивые манёвры конвоев"
+ SUBDOCTRINE_BROAD_NAVAL_SUPPORT: "Универсальная поддержка"
+ SUBDOCTRINE_BROAD_NAVAL_SUPPORT_DESC: "Объединяя разведку, господство в воздухе и ударные возможности в одном пакете, авианосцы являются бесценным универсальным инструментом в руках командующего оперативным соединением."
+ broad_naval_support_carrier_maneuvering: "Манёврирование авианосцев"
+ broad_naval_support_organized_support_protocols: "Организованные протоколы поддержки"
+ light_task_forces_localized_sea_power: "Локализованное морское господство"
+ SUBDOCTRINE_SUBMARINE_WOLFPACKS_DESC: "Охотиться рассредоточенно — бить сообща. Наши подлодки могут рассредоточиться, чтобы охватить огромные просторы океана, а затем подать сигнал друг другу для сближения при обнаружении подходящей добычи."
+ wolfpacks_improvisation: "Культура импровизации"
+ wolfpacks_wolfpack_coordination: "Централизованная идентификация позывных"
+ SUBDOCTRINE_SUBMARINE_COASTAL_DEFENSE: "Береговая оборона"
+ submarine_coastal_defense_optimized_compartments: "Миниатюризация систем"
+
+ SUBDOCTRINE_DESCRIPTION: "С помощью поддоктрины мы специализируемся и совершенствуем наш подход к ведению войны в определённой области."
+
+ SUBDOCTRINE_FIGHTER_HOMELAND_DEFENSE: "ПВО метрополии"
+ air_subdoctrine_tactical_flexibility_combat_discipline: "Эффективная организация поиска и спасения"
+ SUBDOCTRINE_FLYING_ARTILLERY_DESC: "Универсальный подход к приоритетам ударов, поражающий цели возможности от линии фронта до оперативной глубины."
+ air_subdoctrine_dive_bombers_terrifying_precision: "Систематическая воздушная терроризация"
+ air_subdoctrine_carrier_strikes_optimized_deck_space_usage: "Оптимизация ангарного пространства"
+ SUBDOCTRINE_NAVAL_STRIKE_TACTICS_DESC: "Палубной авиации приходится прорываться сквозь строй вражеских истребителей и ПВО, чтобы доставить свой груз. Наша подготовка будет делать акцент на выживаемости и упорстве при нанесении атаки."
+ air_subdoctrine_long_range_escort_mutual_air_cover: "Круговая оборона строя"
+ air_subdoctrine_tactical_battlefield_support_ship_hunters: "Доступность бронебойных бомб"
+ air_subdoctrine_theater_interdiction_extended_reach: "Оптимизация маршрутов полёта"
+ SUBDOCTRINE_COASTAL_AIR_PATROL_DESC: "Традиционные прибрежные средства обороны на уровне моря требуют больших затрат людских ресурсов и неэффективны. Воздушная мобильность позволяет нам следить за дружественными берегами и наказывать любого потенциального захватчика."
+ air_subdoctrine_open_ocean_air_patrol_harbor_raids: "Рейды на гавани"
+
+localisation\replace\effects_l_russian.yml
+
+l_russian:
+########################################################
+### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ###
+########################################################
+
+#missing line breaks
+ EFFECT_ADD_VP: "Добавить $VALUE|H$£victory_points£ в $PROVINCE|H$.\n"
+ EFFECT_SUBTRACT_VP: "Вычесть $VALUE|H$£victory_points£ из $PROVINCE|H$.\n"
+ EFFECT_SET_VP: "Установить очки победы в $PROVINCE|H$ на $VALUE|H$£victory_points.\n"
+
+#changed to British spelling
+ EFFECT_EVERY_NEIGHBOR_STATE_STARTS: "Каждое соседнее государство"
+ EFFECT_EVERY_NEIGHBOR_COUNTRY_STARTS: "Каждая соседняя страна"
+
+#rewritten for clarity
+ EFFECT_ADD_CLAIM_BY: "@$TAG$$COUNTRY|H$ получает претензию на провинцию."
+ EFFECT_REMOVE_CLAIM_BY: "@$TAG$$COUNTRY|H$ теряет претензию на провинцию."
+
+#changed to British spelling
+ EFFECT_DEMILITARIZED_ZONE: "Становится демилитаризованной зоной."
+ EFFECT_NOT_DEMILITARIZED_ZONE: "Перестанет быть демилитаризованной зоной."
+ EFFECT_CHANGE_LAW_mobilization_laws: "Изменить закон о мобилизации на «$NAME|Y$», который даёт ($DESC$)."
+
+#removed references to character owner country
+ EFFECT_RETIRE_CHARACTER: "Вывести $NAME|H$ в отставку"
+ EFFECT_CONTEXT_LEADER: "$LEADER|H$"
+
+#missing line breaks
+ EFFECT_CREATE_UNIT: "Создать подразделение $OWNER|H$.\n"
+ EFFECT_CREATE_UNIT_LOCATION: "Создать подразделение $OWNER|H$ в $STATE|H$.\n"
+ EFFECT_CREATE_UNIT_WITH_COUNT: "Создать $COUNT|H$ дивизий $OWNER|H$.\n"
+ EFFECT_CREATE_UNIT_LOCATION_WITH_COUNT: "Создать $COUNT|H$ дивизий $OWNER|H$ в $STATE|H$.\n"
+
+#shortened tooltip
+ EFFECT_SET_STATE_CATEGORY: "Провинция становится $CATEGORY|Y$."
+ EFFECT_SET_LEADER_NATIONALITY: "присоединяется к $COUNTRYDEF|Y$"
+
+#added texticon
+ EFFECT_UNLOCK_DECISION: "Разблокирует решение: £decision_icon_small $NAME|H$$EFFECT$"
+ EFFECT_UNLOCK_DECISION_CATEGORY: "Разблокирует решения £decision_icon_small $NAME|H$."
+
+#rewritten to use the same pattern as EFFECT_UNLOCK_DECISION
+ EFFECT_ACTIVATE_TARGETED_DECISION: "Активирует решение: £decision_icon_small $NAME|H$"
+ EFFECT_REMOVE_TARGETED_DECISION: "Деактивирует решение: £decision_icon_small $NAME|H$"
+
+#missing line breaks
+ EFFECT_ADD_DYMAMIC_MODIFIER: "Добавить $NAME|H$, который даёт:\n$DESC$\n"
+ EFFECT_ADD_DYMAMIC_MODIFIER_WITH_DAYS: "Добавить $NAME|H$ ($NUM|H$ дней), который даёт:\n$DESC$\n"
+ EFFECT_REMOVE_DYMAMIC_MODIFIER: "Удалить $NAME|H$, который давал:\n$DESC$\n"
+ EFFECT_SET_COLLABORATION: "Установить коллаборационизм в $TARGET|H$: $VALUE|+%0$\n"
+ EFFECT_ADD_COLLABORATION: "Увеличить коллаборационизм в $TARGET|H$: $VALUE|+%0$\n"
+ EFFECT_REMOVE_COLLABORATION: "Уменьшить коллаборационизм в $TARGET|H$: $VALUE|-%0$\n"
+
+#edited for clarity
+ CHANGE_DIV_TEMPLATE_EFFECT: "Дивизия меняет шаблон на $TEMPLATE|H$"
+
+#changed to British spelling
+ EFFECT_SET_UNIT_ORGANIZATION: "Установить организацию подразделения на $VAL|H%$"
+
+localisation\replace\frontend_l_russian.yml
+
+l_russian:
+########################################################
+### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ###
+########################################################
+
+#changed to British spelling
+ FE_COOP_LABEL: "Совместная игра"
+ FE_DIFFICULTY_HARD_TOOLTIP: "§L«Через тридцать лет, когда вы будете сидеть у камина с внуком на коленях, и он спросит: „Что ты делал во время великой Второй мировой войны?" — вам не придётся откашливаться и говорить: „Ну, твой дедушка разгребал навоз в Луизиане".»"§!"
+
+#removed "major"
+ CUSTOM_DIFFICULTY_GROUP_NAME: "Бонусы наций"
+
+#changed country names to match KR
+ custom_diff_strong_ger: "£KR_game_rule_flag_GER  Усилить Германскую империю"
+ custom_diff_strong_ita: "£KR_game_rule_flag_ITA  Усилить Республику Италия"
+ custom_diff_strong_fra: "£KR_game_rule_flag_FRA  Усилить Коммуну Франции"
+ custom_diff_strong_eng: "£KR_game_rule_flag_ENG  Усилить Британский Союз"
+ custom_diff_strong_usa: "£KR_game_rule_flag_USA  Усилить Соединённые Штаты"
+ custom_diff_strong_jap: "£KR_game_rule_flag_JAP  Усилить Японскую империю"
+
+localisation\replace\game_rules_l_russian.yml
+
+l_russian:
+########################################################
+### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ###
+########################################################
+
+#edited to match KR trigger changes
+ RULE_ALLOW_WARGOALS_LIMITED_DESC: "Генерация целей войны заблокирована до начала Второй мировой войны."
+ RULE_ALLOW_GUARANTEES_FREE_DESC: "Независимость любой страны может быть гарантирована в любое время."
+ RULE_ALLOW_GUARANTEES_LIMITED_DESC: "Выдача гарантии независимости ограничена до начала Второй мировой войны и зависит от идеологии."
+
+#added player warnings
+ RULE_ALLOW_LEAVE_FACTION_ALLOWED_DESC: "Полностью суверенные страны могут покидать альянс в мирное время.\n\n§RПримечание: Эта опция поддерживается не полностью. Обычные проверки на здравый смысл и другие меры предотвращения ошибок будут обойдены, поэтому игра с этой опцией вызовет проблемы. Пожалуйста, не сообщайте о найденных ошибках. Вы были предупреждены.§!"
+ RULE_ALLOW_KICK_FACTION_ALLOWED_DESC: "Лидер альянса может исключить любую страну из альянса.\n\n§RПримечание: Эта опция поддерживается не полностью. Обычные проверки на здравый смысл и другие меры предотвращения ошибок будут обойдены, поэтому игра с этой опцией вызовет проблемы. Пожалуйста, не сообщайте о найденных ошибках. Вы были предупреждены.§!"
+
+localisation\replace\government_in_exile_l_russian.yml
+
+l_russian:
+########################################################
+### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ###
+########################################################
+
+#changed to British spelling
+ COUNTRYVIEW_GIE_INFO_BONUSES: "     - Атака: $ATTACK|%0+$\n     - Оборона: $DEFENSE|%+0$"
+ EXILES_VIEW_OCCUPIER_FLAG_TOOLTIP: "$OCCUPIERNAMEDEF|HU$ оккупирует основную территорию, принадлежащую $EXILENAMEDEF|H$.\n§HДивизии ветеранов-изгнанников§! $EXILEADJ|H$ получают боевые бонусы против них.\n     - Атака: $ATK_VS_OCCUPIER|%0+$\n     - Оборона: $DEF_VS_OCCUPIER|%+0$"
+
+localisation\replace\mapmode_l_russian.yml
+
+l_russian:
+########################################################
+### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ###
+########################################################
+
+#changed to British spelling
+ MAPMODE_DEFAULT_DESCRIPTION: "Обзор стран и сухопутные бои.\nПровинция окрашивается в соответствии с тем, кто в настоящее время её контролирует.\nПолезно для отслеживания хода войны, а также создания и выполнения военных планов."
+
+localisation\replace\modifiers_l_russian.yml
+
+l_russian:
+########################################################
+### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ###
+########################################################
+
+#changed to British spelling
+ MODIFIER_ORG_LOSS_WHEN_MOVING_DESC: "Изменяет количество организации, теряемой дивизией при перемещении"
+ MODIFIER_ORG_LOSS_AT_LOW_ORG_FACTOR: "Потеря организации при уровне ниже 25%"
+ MODIFIER_LOCAL_ORG_REGAIN: "Восстановление организации"
+ MODIFIER_ARMY_ORG_REGAIN: "Восстановление армейской организации"
+ MODIFIER_DEFENCE: "Оборона"
+ MODIFIER_OUT_OF_SUPPLY_FACTOR_DESC: "Снижает штраф к организации и восстановлению, который получают войска при нехватке снабжения."
+ MODIFIER_OUT_OF_SUPPLY_DESC: "Насколько серьёзен штраф к организации и восстановлению, который получают войска при нехватке снабжения."
+ MODIFIER_OFFENCE_FACTOR: "Наступление"
+ MODIFIER_DEFENCE_FACTOR: "Оборона"
+ MODIFIER_AIR_DEFENCE: "ПВО"
+ MODIFIER_AIR_DEFENCE_FACTOR: "ПВО"
+ MODIFIER_NAVY_CAPITAL_SHIP_DEFENCE_FACTOR_AGAINST_A_COUNTRY: " Оборона линейных кораблей против страны"
+ MODIFIER_NAVY_SCREEN_DEFENCE_FACTOR_AGAINST_A_COUNTRY: " Оборона эскортных кораблей против страны"
+ MODIFIERS_SUBMARINE_DEFENCE_FACTOR_AGAINST_A_COUNTRY: " Оборона подлодок против страны"
+ armor_research: "Скорость исследований бронетехники"
+ motorized_equipment_research: "Скорость исследований моторизации"
+ MODIFIER_ARMY_SPEED_FACTOR: "Скорость дивизий"
+ MODIFIER_ARMY_ARMOR_SPEED_FACTOR: "Скорость бронетехники"
+ MODIFIER_ARMY_ORG: "Организация дивизии"
+ MODIFIER_ARMY_ORG_FACTOR: "Организация дивизии"
+ MODIFIER_NAVY_ORG: "Организация флота"
+ MODIFIER_NAVY_ORG_FACTOR: "Организация флота"
+ MODIFIER_AIR_ORG: "Организация авиации"
+ MODIFIER_AIR_ORG_FACTOR: "Организация авиации"
+ MODIFIER_MAX_ORGANISATION_FACTOR: "Макс. организация"
+ MODIFIER_STRATEGIC_BOMBER_DEFENCE: "Оборона бомбардировщиков"
+ MODIFIER_INTERCEPTION_DEFENCE: "Оборона перехвата"
+ MODIFIER_AIR_SUPERIORITY_DEFENCE: "Оборона господства в воздухе"
+ MODIFIER_CAS_DEFENCE: "Оборона непосредственной авиационной поддержки"
+ MODIFIER_PARADROP_DEFENCE: "Оборона парашютного десанта"
+ MODIFIER_STRATEGIC_BOMBER_DEFENCE_FACTOR: "Оборона бомбардировщиков"
+ MODIFIER_INTERCEPTION_DEFENCE_FACTOR: "Оборона перехвата"
+ MODIFIER_AIR_SUPERIORITY_DEFENCE_FACTOR: "Оборона господства в воздухе"
+ MODIFIER_CAS_DEFENCE_FACTOR: "Оборона непосредственной авиационной поддержки"
+ MODIFIER_PARADROP_DEFENCE_FACTOR: "Оборона парашютного десанта"
+ MODIFIER_AIR_DEFENCE_WEATHER: "ПВО в плохую погоду"
+ MODIFIER_AIR_DEFENCE_WEATHER_FACTOR: "ПВО в плохую погоду"
+ MODIFIER_AIR_DEFENCE_NIGHT: "Ночное ПВО"
+ MODIFIER_AIR_DEFENCE_NIGHT_FACTOR: "Ночное ПВО"
+ MODIFIER_AIR_DEFENCE_NIGHT_DESC: "ПВО в ночное время."
+ MODIFIER_AIR_DEFENCE_NIGHT_FACTOR_DESC: "ПВО в ночное время."
+ MODIFIER_PARTISAN_EFFECT_FACTOR_DESC: "Насколько эффективно наши партизаны организуются против врагов, оккупировавших наши территории."
+ MODIFIER_ENEMY_PARTISAN_EFFECT_FACTOR_DESC: "Насколько эффективно вражеские партизаны организуются на оккупированных нами территориях"
+ MODIFIERS_ARMY_DEFENCE_FACTOR: "Оборона дивизии"
+ MODIFIERS_ARMY_CORE_DEFENCE_FACTOR: "Оборона дивизии на основной территории"
+ MODIFIERS_ARMY_CLAIM_DEFENCE_FACTOR: "Оборона дивизии на претендуемой территории"
+ MODIFIERS_ARMY_INFANTRY_DEFENCE_FACTOR: "Оборона пехоты"
+ MODIFIERS_ARMY_ARMOR_ATTACK_FACTOR: "Атака бронетехники"
+ MODIFIERS_ARMY_ARMOR_DEFENCE_FACTOR: "Оборона бронетехники"
+ MODIFIERS_ARMY_ARTILLERY_DEFENCE_FACTOR: "Оборона артиллерии"
+ MODIFIER_SPECIAL_FORCES_DEFENCE_FACTOR: "Оборона сил спецназа"
+ MODIFIER_MOTORIZED_ATTACK_FACTOR: "Атака моторизованных войск"
+ MODIFIER_MOTORIZED_DEFENCE_FACTOR: "Оборона моторизованных войск"
+ MODIFIER_MECHANIZED_ATTACK_FACTOR: "Атака механизированных войск"
+ MODIFIER_MECHANIZED_DEFENCE_FACTOR: "Оборона механизированных войск"
+ MODIFIER_CAVALRY_DEFENCE_FACTOR: "Оборона кавалерии"
+ MODIFIER_NAVY_SUBMARINE_DEFENCE_FACTOR: "Оборона подлодок"
+ MODIFIER_NAVY_SUBMARINE_DEFENCE_FACTOR_DESC: "Изменяет значение обороны подлодок"
+ MODIFIER_NAVY_CAPITAL_SHIP_DEFENCE_FACTOR: "Бронирование линейных кораблей"
+ MODIFIER_NAVY_CAPITAL_SHIP_DEFENCE_FACTOR_DESC: "Изменяет значение бронирования всех линейных кораблей"
+ MODIFIER_NAVY_SCREEN_DEFENCE_FACTOR: "Оборона эскортных кораблей"
+ MODIFIER_ARMY_INFANTRY_DEFENCE_FACTOR: "Оборона пехотных дивизий"
+ MODIFIER_ARMY_ARMOR_ATTACK_FACTOR: "Атака бронетанковых дивизий"
+ MODIFIER_ARMY_ARMOR_DEFENCE_FACTOR: "Оборона бронетанковых дивизий"
+ MODIFIER_ARMY_ARTILLERY_DEFENCE_FACTOR: "Оборона артиллерии"
+ MODIFIER_DRIFT_DEFENCE_FACTOR: "Сопротивление сдвигу идеологии"
+ MODIFIER_MAX_DIG_IN_DESC: "Насколько продвинутые временные укрепления могут создавать наши войска. Чем выше уровень, тем больше дней войска могут улучшать свою оборону."
+ MODIFIER_AI_FOCUS_DEFENSE_FACTOR: "Модификатор ИИ: Акцент на обороне"
+ MODIFIER_AI_FOCUS_AGGRESSIVE_FACTOR: "Модификатор ИИ: Акцент на наступлении"
+ MODIFIER_NAVAL_INVASION_DEFENSE: "Оборона при вторжении"
+ MODIFIER_ARMY_LEADER_START_DEFENSE_LEVEL: "Начальный уровень навыка обороны у новых военачальников"
+ MODIFIER_MOBILIZATION_SPEED: "Скорость мобилизации"
+ MODIFIER_IMPROVE_RELATIONS_MAINTAIN_COST_FACTOR: "Стоимость поддержания улучшения отношений"
+ MODIFIER_LICENSE_PURCHASE_COST: "Стоимость покупки лицензии"
+ MODIFIER_LICENSE_AIR_PURCHASE_COST: "Стоимость покупки авиационной лицензии"
+ MODIFIER_LICENSE_INFANTRY_PURCHASE_COST: "Стоимость покупки пехотной лицензии"
+ MODIFIER_LICENSE_ARMOR_PURCHASE_COST: "Стоимость покупки лицензии на бронетехнику"
+ MODIFIER_LICENSE_NAVAL_PURCHASE_COST: "Стоимость покупки военно-морской лицензии"
+ MODIFIER_LICENSE_PRODUCTION_SPEED: "Скорость лицензионного производства"
+ MODIFIER_LICENSE_TECH_DIFFERENCE_SPEED: "Скорость лицензионного производства от разницы в технологиях"
+ MODIFIER_ACCLIMATIZATION_COLD_CLIMATE_GAIN_FACTOR: "Коэффициент прироста акклиматизации к холоду"
+ MODIFIER_ACCLIMATIZATION_HOT_CLIMATE_GAIN_FACTOR: "Коэффициент прироста акклиматизации к жаре"
+ MODIFIER_AI_LICENSE_ACCEPTANCE: "Принятие при запросе на покупку лицензии"
+ MODIFIER_LICENSE_SUBJECT_MASTER_PURCHASE_COST: "Стоимость лицензии между сюзереном и марионеткой"
+ MODIFIER_DEFENSE_BONUS_AGAINST_A_COUNTRY: "Бонус к обороне против страны"
+ MODIFIER_PARADROP_ORGANIZATION_FACTOR: "Организация после парашютного десантирования"
+ MODIFIER_PARATROOPER_DEFENSE: "ПВО парашютно-десантных войск"
+ MODIFIER_TRADE_TO_TARGET_FACTOR_DESC: "Дополнительные произведённые ресурсы, доступные для торговли с целевой страной"
+ MODIFIER_SPECIAL_FORCES_OUT_OF_SUPPLY_FACTOR_DESC: "Снижает штраф к организации и восстановлению, который получают наши дивизии спецназа при нехватке снабжения."
+ MODIFIER_AIR_CAS_ORG_DAMAGE_FACTOR: "Урон организации от непосредственной авиационной поддержки"
+ modifier_army_sub_unit_cavalry_defence_factor: "Оборона $cavalry$"
+ modifier_army_sub_unit_cavalry_max_org_factor: "Организация $cavalry$"
+ modifier_army_sub_unit_camelry_defence_factor: "Оборона $camelry$"
+ modifier_army_sub_unit_infantry_defence_factor: "Оборона $infantry$"
+ modifier_army_sub_unit_armored_car_attack_factor: "Атака $armored_car$"
+ modifier_army_sub_unit_armored_car_defence_factor: "Оборона $armored_car$"
+ modifier_army_sub_unit_armored_car_speed_factor: "Скорость $armored_car$"
+ modifier_army_sub_unit_armored_car_max_org_factor: "Организация $armored_car$"
+ modifier_army_sub_unit_armored_car_recon_attack_factor: "Атака $armored_car_recon$"
+ modifier_army_sub_unit_armored_car_recon_defence_factor: "Оборона $armored_car_recon$"
+ modifier_army_sub_unit_armored_car_recon_speed_factor: "Скорость $armored_car_recon$"
+ modifier_army_sub_unit_armored_car_recon_max_org_factor: "Организация $armored_car_recon$"
+ modifier_army_sub_unit_light_tank_recon_attack_factor: "Атака $armored_car_recon$"
+ modifier_army_sub_unit_light_tank_recon_defence_factor: "Оборона $armored_car_recon$"
+ modifier_army_sub_unit_light_tank_recon_speed_factor: "Скорость $armored_car_recon$"
+ modifier_army_sub_unit_light_tank_recon_max_org_factor: "Организация $armored_car_recon$"
+ modifier_army_sub_unit_marine_defence_factor: "Оборона $marine$"
+ modifier_army_sub_unit_marine_max_org_factor: "Организация $marine$"
+ modifier_army_sub_unit_mountaineers_defence_factor: "Оборона $mountaineers$"
+ modifier_army_sub_unit_mountaineers_max_org_factor: "Организация $mountaineers$"
+ modifier_army_sub_unit_paratrooper_defence_factor: "Оборона $paratrooper$"
+ modifier_army_sub_unit_paratrooper_max_org_factor: "Организация $paratrooper$"
+ modifier_army_sub_unit_irregular_infantry_defence_factor: "Оборона $irregular_infantry$"
+ modifier_army_sub_unit_irregular_infantry_max_org_factor: "Организация $irregular_infantry$"
+ modifier_army_sub_unit_militia_defence_factor: "Оборона $militia$"
+ modifier_army_sub_unit_militia_max_org_factor: "Организация $militia$"
+ modifier_army_sub_unit_militia_org_recovery_cap_factor: "Потолок восстановления организации $militia$"
+ modifier_army_sub_unit_military_police_attack_factor: "Атака $military_police$"
+ modifier_army_sub_unit_military_police_defence_factor: "Оборона $military_police$"
+ modifier_army_sub_unit_military_police_speed_factor: "Скорость $military_police$"
+ modifier_army_sub_unit_military_police_max_org_factor: "Организация $military_police$"
+ modifier_army_sub_unit_long_range_patrol_support_defence_factor: "Оборона $long_range_patrol_support$"
+ modifier_army_sub_unit_category_special_forces_max_org_factor: "Организация $category_special_forces$"
+ modifier_army_sub_unit_category_mobile_infantry_max_org_factor: "Организация кавалерии/мотопехоты/мехпехоты"
+ modifier_army_sub_unit_artillery_brigade_attack_factor: "Атака $artillery_brigade$"
+ modifier_army_sub_unit_artillery_brigade_defence_factor: "Оборона $artillery_brigade$"
+ modifier_army_sub_unit_artillery_brigade_max_org_factor: "Организация $artillery_brigade$"
+ modifier_army_sub_unit_artillery_brigade_speed_factor: "Скорость $artillery_brigade$"
+ modifier_unit_militia_design_cost_factor: "Стоимость дизайна единицы $militia$"
+ modifier_unit_irregular_infantry_design_cost_factor: "Стоимость дизайна единицы $irregular_infantry$"
+
+### missing in vanilla ###
+ small_plane_airframe_design_cost_factor: "Стоимость дизайна малой авиаплатформы"
+ modifier_state_repair_speed_infrastructure_factor: "$modifier_repair_speed_infrastructure_factor$"
+ modifier_state_repair_speed_industrial_complex_factor: "$modifier_repair_speed_industrial_complex_factor$"
+ modifier_state_repair_speed_arms_factory_factor: "$modifier_repair_speed_arms_factory_factor$"
+ modifier_state_repair_speed_rail_way_factor: "$modifier_repair_speed_rail_way_factor$"
+
+localisation\replace\multiplayer_l_russian.yml
+
+l_russian:
+########################################################
+### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ###
+########################################################
+
+#changed to British spelling
+ HOST_LOADING_SAVEGAME: "Хост начал загрузку сохранения: $NAME|Y$."
+ START_FILE_TRANSFER: "Отправка сохранения игроку $NAME|H$."
+ OOS_TITLE: "Ваша игра больше не синхронизирована"
+ OOS_25: "Количество театров военных действий"
+ OOS_26: "Лучшая провинция в театре"
+ OOS_43: "Количество провинций в театрах"
+
+#fixed capitalisation
+ OOS_CHECKS: "§GСервер устанавливает следующие проверки OOS: $CHECKS|Y$.§!"
+
+localisation\replace\musicplayer_l_russian.yml
+
+l_russian:
+########################################################
+### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ###
+########################################################
+
+#added player warning
+ sabaton_TITLE: "§RSabaton — отключите «Взвешенное перемешивание»!§!"
+
+localisation\replace\operatives_l_russian.yml
+
+l_russian:
+########################################################
+### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ###
+########################################################
+
+#fixed capitalisations, changed to British spelling
+ upgrade_passive_defense: "Пассивная оборона"
+ upgrade_anti_partisan: "Борьба с партизанами"
+ upgrade_blueprint_stealing: "Кража чертежей"
+ upgrade_portable_radios: "Портативные радиостанции"
+ upgrade_plastic_explosives: "Пластичная взрывчатка"
+ upgrade_suicide_pills: "Таблетки для самоубийства"
+ upgrade_training_centers: "Локальные учебные центры"
+ upgrade_commando_training: "Подготовка коммандос"
+
+#edited to reference KR version of spymaster trait
+ CANNOT_RECRUITE_OPERATIVE_NO_SLOT_DESC: "Первый слот можно получить, построив разведывательное агентство. Остальные слоты станут доступны после 5-го улучшения или при назначении советника §H$KR_head_of_intelligence$§!.\nКак глава разведки альянса, вы разблокируете дополнительные слоты оперативников за счёт большего количества стран в вашем альянсе. Марионетки или страны с очень низким количеством заводов не вносят вклад в увеличение слотов оперативников."
+
+localisation\replace\peace_l_russian.yml
+
+l_russian:
+########################################################
+### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ###
+########################################################
+
+#edited to account for KR scripted peaces
+ PEACE_CONFERENCE_WHITE_PEACE: "Между @$ACTOR_TAG$$ACTOR_COUNTRY|Y$ и $RECIPIENT_COUNTRY|Y$@$RECIPIENT_TAG$\nподписано §Yмирное соглашение§!,\nположившее конец их военным действиям."
+
+localisation\replace\plane_designer_l_russian.yml
+
+l_russian:
+########################################################
+### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ###
+########################################################
+
+#fixed all entries referencing small_plane_airframe_5
+ small_plane_cas_airframe_5: "Сверхзвуковой штурмовик"
+ small_plane_cas_airframe_5_desc: "$small_plane_airframe_5_desc$"
+ small_plane_naval_bomber_airframe_5: "Сверхзвуковой морской бомбардировщик"
+ small_plane_naval_bomber_airframe_5_desc: "$small_plane_airframe_5_desc$"
+ small_plane_suicide_airframe_5: "Сверхзвуковой самолёт-снаряд"
+ small_plane_suicide_airframe_5_desc: "$small_plane_airframe_5_desc$"
+
+localisation\replace\politics_l_russian.yml
+
+l_russian:
+########################################################
+### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ###
+########################################################
+
+#added colon
+ POLITICS_NEXT_ELECTION: "Следующие выборы: $DATE|H$"
+
+#changed to "country"
+ POLITICS_LEADER: "§TЛидер страны: $LEADER|H$§!"
+
+#changed to British spelling
+ POLITICS_IDEA_CANCEL_DESC: "Будет отменено, если:"
+
+#added player warning
+ RELEASE_NATION_TITLE: "ПРЕДУПРЕЖДЕНИЕ"
+ RELEASE_NATION_DESC: "Вы хотите освободить $COUNTRY|H$ в $LIST|H$?\n\n§RЭто не поддерживается в Kaiserreich и вызовет ошибки, делайте на свой страх и риск!§!"
+
+localisation\replace\production_l_russian.yml
+
+l_russian:
+########################################################
+### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ###
+########################################################
+
+#changed to British spelling
+ PRODUCTION_MATERIALS_ALUMINIUM: "Алюминий"
+ PRODUCTION_VEHICLES_BUTTON: "Производить бронетехнику"
+ PRODUCTION_VEHICLES_BUTTON_DISABLED: "Бронетехника §Rне изобретена§!!"
+ PRODUCTION_ARMOR_FILTER: "Бронетехника"
+ LICENSED_EQUIPMENT_PRODUCTION_SPEED_TOTAL_SIMPLE: "§HЛицензионное производство§!: $VALUE|+%$"
+ LICENSED_EQUIPMENT_PRODUCTION_SPEED_TOTAL: "§HВыпуск фабрик по лицензии§!\nИтого: $VALUE|+%$\nДетализация:"
+ LICENSED_EQUIPMENT_TECH_SPEED_REDUCTION: "§YРазница в технологиях по лицензии§!:\n Базовое: $BASE|+%$\n Итоговое с модификаторами: $TOTAL|+%$"
+ LICENSED_EQUIPMENT_PRODUCTION_SPEED_MODIFIER: "§YМодификатор лицензии§!:\n Базовое: $BASE|+%$\n Итоговое с модификаторами: $TOTAL|+%$"
+ LICENSED_EQUIPMENT_PRODUCTION_SPEED_NOT_FACTION: "§YНе в одном альянсе с лицензиаром§!: $VALUE|+%$"
+ LICENSED_EQUIPMENT_PRODUCTION_SPEED_NO_LICENSE: "§YНет активной лицензии§!: $VALUE|+%$"
+ LICENSED_PURCHASE_CIC_COST: "§YСтоимость лицензии§!: £civ_factory $AMOUNT|Y$"
+
+localisation\replace\research_l_russian.yml
+
+l_russian:
+########################################################
+### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ###
+########################################################
+
+#changed to British spelling
+ armour_folder: "Бронетехника"
+ nsb_armour_folder: "Бронетехника"
+
+ infantry_weapons2_desc: "Личное и расчётное оружие пехоты, а также различное дополнительное снаряжение солдата. Улучшенные модели оружия и более специализированное оборудование."
+ improved_infantry_weapons_2_desc: "Личное и расчётное оружие пехоты, а также различное дополнительное снаряжение солдата. Улучшенные модели оружия и более специализированное оборудование."
+ advanced_infantry_weapons2_desc: "Личное и расчётное оружие пехоты, а также различное дополнительное снаряжение солдата. Дальнейшая модернизация, включающая личные штурмовые винтовки и противотанковые гранатомёты. Улучшена доступность оружия, ранее распределявшегося в ограниченном количестве."
+ infantry_at_desc: "Вооружение наших пехотных подразделений противотанковыми ружьями позволит им поражать лёгкую бронетехнику, сохраняя мобильность."
+ infantry_at2_desc: "Чтобы пехота могла эффективно бороться с тяжёлой бронетехникой, противотанковые кумулятивные средства нужно сделать меньше и легче."
+ paratroopers3_desc: "Обучение адаптации парашютных операций к погодным условиям, стандартизация снаряжения, такого как десантные ботинки, и расширенная специализированная подготовка минимизируют неразбериху и риски, связанные с этими опасными миссиями."
+ marines_desc: "Подразделения, специализирующиеся на амфибийных операциях, становятся всё более незаменимыми. Импровизированные методы и снаряжение уходят в прошлое, поскольку наша морская пехота поддерживается специализированными десантными средствами и подготовкой."
+ marines2_desc: "Амфибийные операции требуют постоянных инноваций. Улучшенная логистическая поддержка и переносные гавани позволяют нашей морской пехоте проводить высадки, которые иначе были бы невозможны."
+ marines3_desc: "Морская пехота может быть не просто амфибийной пехотой. В будущем наши корпуса морской пехоты станут одними из самых дисциплинированных и организованных сил спецназа."
+ tech_mountaineers_desc: "Бои в горных районах подвергают войска множеству опасностей, но иногда их невозможно избежать. Мы можем минимизировать эти риски, обеспечив наших солдат специализированной подготовкой для этой среды."
+ tech_mountaineers2_desc: "Выходя за рамки выживания, наши войска могут быть обучены использовать горы в своих интересах. С лёгким снаряжением и вьючным транспортом они могут маневрировать на такой местности лучше другой пехоты."
+ rangers_tech_desc: "Специализируясь на боях в лесистой местности и обучая нашу лёгкую пехоту адаптироваться к рельефу и растительности, мы можем экономить войска в обороне или даже прорываться сквозь вражеские линии там, где они меньше всего этого ожидают."
+ tech_recon4_desc: "Глубокие разведывательные операции, сочетающие шпионаж, партизанские действия и подготовку коммандос, помогут нашему тактическому выбору и позволят быстро адаптировать принятие решений."
+ tech_logistics_company_desc: "Наличие специализированных офицеров по логистике в наших рядах обеспечит использование сетей поддержки для минимизации потерь."
+ tech_logistics_company3_desc: "Постоянная статистическая оценка потребностей войск в снабжении способствует максимизации полезности наших ресурсов."
+ tech_logistics_company4_desc: "Разработка стандартизированных классификаций для снабжения минимизирует путаницу и сделает планирование более эффективным."
+ tech_military_police2_desc: "Выполняя регулярные полицейские функции на оккупированных территориях, такие как регулирование движения и поддержание общественного порядка, наша военная полиция может минимизировать хаос и неразбериху, в которых процветают партизанские движения."
+ tech_signal_company_desc: "Установление и поддержание связи на поле боя всегда требовало особых навыков. С появлением новых технологий связи и обнаружения в Мировую войну открываются новые возможности для практики."
+ tech_signal_company3_desc: "Всё более портативные технологии связи становятся более пригодными для личного ношения в виде рюкзака. Эту повышенную мобильность войск связи необходимо использовать."
+ tech_maintenance_company2_desc: "Регулярные процедуры эксплуатационного обслуживания минимизируют риски поломки оборудования и предупреждают войска о необходимости замены до того, как это произойдёт."
+ tech_maintenance_company4_desc: "Опыт проектирования с учётом активного резервирования в Мировую войну может быть применён к более современному оборудованию для упрощения обслуживания."
+ motorised_infantry: "Мотопехота"
+ streamlined_line_desc: "Стандартизация и жёсткая структура сборочной линии — ключи к её эффективности и безопасности. Именно эти аспекты следует развивать в нашем промышленном производстве."
+ improved_equipment_conversion: "Котлы на пылевидном угле"
+ concentrated_industry5_desc: "Крупные промышленные комплексы теперь объединяют множество частей нашей индустрии, минимизируя затраты на транспортировку и рабочую силу."
+ dispersed_industry2_desc: "Дальнейшая децентрализация нашего производства затрудняет нанесение ударов по его отдельным частям."
+ construction2_desc: "Модернизация наших инструментов и оборудования дополнительно поможет нашим строительным усилиям."
+ construction4_desc: "Более высокая степень механизации и улучшенные процедуры дополнительно повышают скорость строительства."
+ construction5_desc: "Будущее эффективного строительства потребует более тщательного планирования отдельных проектов, а также стандартизированных решений там, где это возможно."
+ improved_cavity_magnatron_desc: "Использование радаров уже доказало свою важность, но наших дециметровых радарных установок слишком мало для обеспечения хорошего покрытия. Оснащение большего числа подразделений радарами позволит нам максимально использовать наше технологическое преимущество."
+ improved_encryption_desc: "Ограничения в рандомизации шифровальных машин могут быть использованы для взлома шифров. Улучшая случайность механики роторов, мы можем затруднить такой криптоанализ."
+ basic_decryption_desc: "Криптоанализ всё больше становится продвинутой математической наукой. Системы вроде карточных каталогов и устройства вроде циклометров могут помочь в необходимой работе."
+ improved_decryption_desc: "Разработка более сложных компьютеров позволяет применять новые методы криптоанализа, такие как дифференцирование, которые могут использоваться для взлома продвинутых шифров в сочетании с новыми ручными методами взлома кодов."
+ rocket_interceptor_2_desc: "Считающиеся чрезвычайно опасными в эксплуатации, ракетные истребители теперь оснащаются автопилотами и буксировкой другими самолётами для максимального использования их экстремальной скорости при коротком окне работы топлива."
+ artillery1_desc: "С использованием более современных материалов и механизмов гаубицы и полевые орудия Мировой войны могут быть перекалиброваны и модернизированы для современной войны."
+ mountain_gun_desc: "Горный рельеф Северной Индии привёл к разработке артиллерийского орудия, которое можно разобрать и перевозить на вьючных животных туда, где оно необходимо."
+ rocket_artillery2_desc: "Самоходная артиллерия с использованием множественных ракет сможет быстро наносить масштабные разрушения, сохраняя мобильность для избежания ответного огня."
+ rocket_artillery4_desc: "Стабилизированные вращением ракеты могут увеличить дальность более лёгких артиллерийских батарей."
+ antiair4_desc: "Комбинация современных систем радаров, компьютеризации и автоматических заряжающих устройств будет необходима для быстрого реагирования на более быстрые самолёты."
+ antitank1_desc: "Важность эффективного противотанкового оружия была установлена в Мировую войну. Внедрение нового поколения этого оружия будет необходимо для борьбы с современными конструкциями танков."
+ antitank2_desc: "Большинство противотанковых орудий до сих пор довольно лёгкие. Орудия большего калибра потребуются для борьбы с более тяжёлыми танками с наклонной бронёй."
+ antitank4_desc: "Новые универсальные противотанковые орудия, использующие бронебойные подкалиберные снаряды с отделяющимся поддоном, могут пробить броню практически любого танка."
+ antitank5_desc: "Комбинируя различные виды новых технологий боеприпасов с орудиями с более высокой начальной скоростью снаряда, мы можем быть готовы к любой новой броне, которую могут разработать наши враги."
+ air_defence: "ПВО"
+ bomber_ace_initiative_desc: "Официальное признание и поощрение лётчиков-асов бомбардировочной авиации поощряет смелость и инициативу."
+ cas_ace_initiative_desc: "Официальное признание и поощрение лётчиков-асов штурмовой авиации поощряет смелость и инициативу."
+
+ cat_mechanized_equipment: "Механизированные модели"
+ armor: "Бронетехника"
+ motorized_rocket_unit: "Моторизованная реактивная артиллерия"
+ mot_rockets_research: "Скорость исследований моторизованной реактивной артиллерии"
+
+#missing in vanilla
+ early_ship_hull_light: "$ship_hull_light_1$"
+ basic_ship_hull_light: "$ship_hull_light_2$"
+ improved_ship_hull_light: "$ship_hull_light_3$"
+ advanced_ship_hull_light: "$ship_hull_light_4$"
+ early_ship_hull_cruiser: "$ship_hull_cruiser_1$"
+ basic_ship_hull_cruiser: "$ship_hull_cruiser_2$"
+ improved_ship_hull_cruiser: "$ship_hull_cruiser_3$"
+ advanced_ship_hull_cruiser: "$ship_hull_cruiser_4$"
+ early_ship_hull_heavy: "$ship_hull_heavy_1$"
+ basic_ship_hull_heavy: "$ship_hull_heavy_2$"
+ improved_ship_hull_heavy: "$ship_hull_heavy_3$"
+ advanced_ship_hull_heavy: "$ship_hull_heavy_4$"
+ basic_ship_hull_carrier: "$ship_hull_carrier_1$"
+ improved_ship_hull_carrier: "$ship_hull_carrier_2$"
+ advanced_ship_hull_carrier: "$ship_hull_carrier_3$"
+ early_ship_hull_submarine: "$ship_hull_submarine_1$"
+ basic_ship_hull_submarine: "$ship_hull_submarine_2$"
+ improved_ship_hull_submarine: "$ship_hull_submarine_3$"
+ advanced_ship_hull_submarine: "$ship_hull_submarine_4$"
+
+#changed to British spelling
+ heavy_armor_advice_tt: "\nУстановка лучшего модуля §YБронирования§! на §YТяжёлые корабли§! улучшает их способность выдерживать урон. §YЛинкоры§! и §YЛинейные крейсера§! определяются своими различными §YСхемами бронирования§!, причём линейные крейсера обычно имеют худшее бронирование."
+ basic_heavy_armor_scheme: "Схема наклонного поясного бронирования"
+ basic_heavy_armor_scheme_desc: "Размещение поясной брони под углом делает броню той же массы и толщины гораздо труднее пробиваемой.\n\nУстановка этого модуля на §YТяжёлые корабли§! улучшает их способность §Yвыдерживать вражеский урон§!. §YЛинкоры§! и §YЛинейные крейсера§! определяются своими различными §YСхемами бронирования§!."
+ improved_heavy_armor_scheme: "Схема бронирования «Всё или ничего»"
+ improved_heavy_armor_scheme_desc: "Эта схема фокусируется на защите только самых жизненно важных частей корабля, игнорируя неважные части.\n\nУстановка этого модуля на §YТяжёлые корабли§! улучшает их способность §Yвыдерживать вражеский урон§!. §YЛинкоры§! и §YЛинейные крейсера§! определяются своими различными §YСхемами бронирования§!."
+
+ MOUNTAINEERS_DOCTRINE_DESC: "Сильный военный акцент на полках, привыкших к сложному рельефу, даст нам преимущество в обходе и противодействии противнику."
+ RANGERS_DOCTRINE_DESC: "Способность действовать крупными силами в густо лесистых районах позволяет нашей армии обходить и переигрывать силы противника."
+ special_forces_paratroopers_desc: "Нет ничего более ужасающего, чем небо, темнеющее от тысячи транспортников с войсками. Наша доктринальная философия должна использовать шок и трепет, которые внушают воздушно-десантные войска."
+ ski_troops_desc: "Специалисты по холодному климату жизненно важны для нашей боевой тактики. Официально признавая этих экспертов в нашей военной конституции, мы можем высвободить ресурсы и подготовку для их дальнейшего развития."
+ mountaineers_combat_1_desc: "Наши элитные силы должны сосредоточить усилия на удержании районов, в которых они специализируются. Сочетание тактики засад и улучшенной полковой организации гарантирует, что наши силы спецназа представляют значительную оборону в глубину против вторгающихся сил."
+ mountaineers_combat_2_desc: "Горно-артиллерийские полки — специализированные силы, предназначенные для быстрой поддержки на дальней дистанции наших элитных дивизий, обученных и действующих в сложной местности. Их присутствие значительно усиливает боевые возможности наших сил спецназа."
+ mountaineers_keystone_1_desc: "Успех наших элитных сил спецназа требует реорганизации нашей военной философии вокруг их присутствия."
+ paras_dispersed_drop_desc: "Природа наших операций требует, чтобы наши воздушно-десантные войска специализировались на сильно рассредоточенных десантированиях, позволяя проводить значительный саботаж до того, как противник осознает наше присутствие."
+ SF_PARAS_combat_effect_tt: "Вражеские дивизии в регионах, куда мы §Hдесантируемся§!, получат снижение текущей §HОрганизации§!.\n\n$PARA_EFFECT_TIMER$"
+ paras_airborne_light_armor: "Воздушно-десантная бронетехника"
+ paras_bonus_1_desc: "Даже лучший десант может пойти не так. Мы должны убедиться, что наши войска хорошо обучены импровизированной навигации."
+ rangers_guerilla_doctrine: "Лесные партизаны"
+ rangers_backbone_doctrine: "Специализация лёгкой пехоты"
+
+### missing in vanilla
+ armored_car_at_upgrade: "$armored_car_at_equipment$"
+
+localisation\replace\resistance_and_occupation_l_russian.yml
+
+l_russian:
+########################################################
+### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ###
+########################################################
+
+#edited to mention KR MAXIMUM_GARRISON_HARDNESS_WHEN_ATTACKED define change
+ GARRISON_HARDNESS_TOOLTIP: "§HЖёсткость§!\nЖёсткость шаблона до 70% снижает потери при действиях сопротивления."
+
+localisation\replace\rules_l_russian.yml
+
+l_russian:
+########################################################
+### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ###
+########################################################
+
+#changed to British spelling
+ CAN_DECLARE_WAR_WITHOUT_WARGOAL_WHEN_IN_WAR: "Может объявлять войну соседу без цели войны, находясь в войне с крупной державой."
+
+localisation\replace\stats_l_russian.yml
+
+l_russian:
+########################################################
+### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ###
+########################################################
+
+#changed to British spelling
+ STAT_COMMON_MAX_ORG: "Организация: "
+ STAT_COMMON_MAX_ORG_DESC: "Организация указывает на боеготовность и степень организованности подразделения. Подразделение без организации не может эффективно сражаться или перемещаться."
+ STAT_ARMY_DEFAULT_MORALE_DESC: "Насколько больше организации может восстанавливаться в час вне боя."
+ STAT_ARMY_DEFENSE: "Оборона: "
+ STAT_ARMY_BREAKTHROUGH_DESC: "Сколько вражеских атак подразделение может попытаться избежать при наступлении, эффективно позволяя ему дольше оставаться в атаке."
+ STAT_ARMY_HARDNESS_DESC: "§T§HЖёсткость§! показывает, какая часть вашей §Hдивизии§! состоит из бронированных или хотя бы защищённых машин.\n\nПри атаке дивизия суммирует все атаки по мягкой и по твёрдой цели. Дивизия с высокой §Hжесткостью§! получит меньше урона от §Hатак по мягкой цели§! и больше от §Hатак по твёрдой цели§! — и наоборот.§!"
+ STAT_NAVY_SHORE_BOMBARDMENT_DESC: "Способность подразделения проводить береговую бомбардировку для помощи в сухопутных боях, соседствующих с его морской провинцией, при выполнении миссии «На позиции»."
+ STAT_NAVY_EVASION_DESC: "Способность кораблей уклоняться от вражеского огня за счёт маневрирования. При оценке шансов избежать попадания значение уклонения цели сравнивается с атакующим, поэтому при высоком уклонении вы также будете лучше попадать по уклоняющимся целям."
+ STAT_AIR_DEFENCE: "ПВО: "
+ STAT_ADJUSTER_DEFENCE: "Оборона: "
+ STAT_COMMON_ARMOR: "Бронирование: "
+ STAT_COMMON_ARMOR_DESC: "Наличие §Hбронирования§!, превышающего значение §Hпробития§! противника, позволяет получать меньше урона, а также даёт возможность совершать больше атак в бою, так как подразделение имеет больше свободы перемещения."
+ STAT_COMMON_PIERCING_DESC: "Наличие §Hпробития§!, равного или превышающего значение §Hбронирования§! цели, позволяет наносить больше урона и эффективнее прижимать их бронетанковые силы."
+ STAT_COMMON_ACCLIMATIZATION_HOT_GAIN: "Коэффициент прироста акклиматизации к жаре"
+ STAT_COMMON_ACCLIMATIZATION_HOT_GAIN_DESC: "Скорость акклиматизации подразделения в тёплом климате."
+ STAT_COMMON_ACCLIMATIZATION_COLD_GAIN: "Коэффициент прироста акклиматизации к холоду"
+ STAT_COMMON_ACCLIMATIZATION_COLD_GAIN_DESC: "Скорость акклиматизации подразделения в холодном климате."
+
+#added zero at the end for tooltip clarity
+ STAT_CARRIER_SIZE_MOD_DIFF: " $VALUE|=+0$§G0§!"
+
+#changed to British spelling
+ STAT_NAVY_AMPHIBIOUS_DEFENSE: "Амфибийная оборона"
+ STAT_NAVY_AMPHIBIOUS_DEFENSE_DESC: "Дополнительная оборона, получаемая подразделениями при проведении амфибийных вторжений."
+
+localisation\replace\strategic_locations_l_russian.yml
+
+l_russian:
+########################################################
+### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ###
+########################################################
+
+#changed to British spelling
+ natural_harbor: "§YЕстественная гавань§!"
+ favorable_approach: "§YБлагоприятные подходы§!"
+
+localisation\replace\tactics_l_russian.yml
+
+l_russian:
+########################################################
+### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ###
+########################################################
+
+#changed to British spelling
+ tactic_cc_defend: "Оборона в ближнем бою"
+ tactic_elastic_defense: "Эластичная оборона"
+ tactic_urban_defense: "Городская оборона"
+ tactic_sf_fortify: "Укреплённая оборона"
+
+localisation\replace\theater_l_russian.yml
+
+l_russian:
+########################################################
+### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ###
+########################################################
+
+#changed to British spelling
+ ORDER_AREA_DEFENSE: "Зональная оборона"
+ ORDER_AREA_DEFENSE_STATE_VALID: "§GНажмите§!, чтобы §Yдобавить§! регион в приказ зональной обороны."
+ ORDER_AREA_DEFENSE_STATE_SELECTED: "§GНажмите§!, чтобы §Yудалить§! регион из приказа зональной обороны."
+ ORDER_AREA_DEFENSE_STATE_INVALID: "§RРегион не может быть добавлен в приказ зональной обороны.§!"
+ THEATRE_PRIORITY_DESC: "Приоритет театра определяет, какой из них первым получит ресурсы замены и людские резервы."
+ THEATRE_PIN_AREA_DESC: "Закрепление области или театра означает, что он остаётся видимым, даже когда не выбран, для быстрого доступа."
+ THEATRE_DESC_DESC: "Выбор театра показывает командные группы, активные в этом театре."
+ THEATRE_THEATRE: "Театр: §Y$NAME$§!"
+ THEATRE_UNIT: "В театре §Y1§! дивизия"
+ THEATRE_UNITS: "В театре $N|Y$ дивизий"
+
+localisation\replace\topbar_l_russian.yml
+
+l_russian:
+########################################################
+### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ###
+########################################################
+
+#changed to British spelling
+ GENERATE_WAR_GOAL_CANCEL_THREAT: "Обоснование цели войны против $TARGET$ отменено"
+
+localisation\replace\triggers_l_russian.yml
+
+l_russian:
+########################################################
+### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ###
+########################################################
+
+#fixed spelling of materiel
+ TRIGGER_HAS_NOT_IDEA_MATERIEL_MANUFACTURER: "Не имеет конструктора снаряжения $IDEA|H$"
+ TRIGGER_HAS_IDEA_MATERIEL_MANUFACTURER: "Имеет конструктора снаряжения $IDEA|H$"
+
+#changed to British spelling
+ TRIGGER_ESTIMATED_MAX_ARMOR_INTEL_MORE_THAN: "По данным разведки, $COUNTRY2|H$ имеет максимальное бронирование $VALUE|H$ или выше"
+ TRIGGER_ESTIMATED_MAX_ARMOR_INTEL_LESS_THAN: "По данным разведки, $COUNTRY2|H$ имеет максимальное бронирование $VALUE|H$ или ниже"
+
+#added space after colon
+ TRIGGER_STATE_FLAG_NOT_SET: "Не: "
+ TRIGGER_COUNTRY_FLAG_NOT_SET: "Не: "
+ TRIGGER_GLOBAL_FLAG_NOT_SET: "Не: "
+ TRIGGER_CHARACTER_FLAG_NOT_SET: "Не: "
+ TRIGGER_CHARACTER_FLAG_SET: ""
+
+#changed to British spelling
+ TRIGGER_IS_NOT_NEIGHBOR_OF: "Не граничит с $COUNTRY|H$"
+ TRIGGER_IS_NEIGHBOR_OF: "Граничит с $COUNTRY|H$"
+ TRIGGER_ANY_NEIGHBOR_STATE_STARTS: "Любой соседний регион"
+ TRIGGER_ALL_NEIGHBOR_STATE_STARTS: "Все соседние регионы"
+ TRIGGER_ANY_NEIGHBOR_COUNTRY_STARTS: "Любая соседняя страна"
+ TRIGGER_ANY_HOME_AREA_NEIGHBOR_COUNTRY_STARTS: "Любая соседняя страна в домашнем регионе"
+ TRIGGER_ALL_NEIGHBOR_COUNTRY_STARTS: "Все соседние страны"
+ TRIGGER_IS_DEMILITARIZED: "$STATE|H$ демилитаризован."
+ TRIGGER_IS_NOT_DEMILITARIZED: "$STATE|H$ не демилитаризован."
+ TRIGGER_MORE_THAN_NUM_OWNED_NEIGHBOUR_STATES: "$COUNTRY|Y$ владеет более чем $NUM|Y$ соседними регионами $STATE|Y$"
+ TRIGGER_LESS_THAN_NUM_OWNED_NEIGHBOUR_STATES: "$COUNTRY|Y$ владеет менее чем $NUM|Y$ соседними регионами $STATE|Y$"
+ TRIGGER_MORE_THAN_NUM_CLAIMED_NEIGHBOUR_STATES: "$COUNTRY|Y$ претендует на более чем $NUM|Y$ соседних регионов $STATE|Y$"
+ TRIGGER_LESS_THAN_NUM_CLAIMED_NEIGHBOUR_STATES: "$COUNTRY|Y$ претендует на менее чем $NUM|Y$ соседних регионов $STATE|Y$"
+
+#fixed typo
+ TRIGGER_AUTONOMY_STATE_RATIO_LESS_THAN: "Прогресс автономии ниже $VALUE|H%$"
+
+#changed to British spelling
+ TRIGGER_HAS_ANY_LICENSE: "Имеет иностранную производственную лицензию"
+ TRIGGER_HAS_NOT_ANY_LICENSE: "Не имеет иностранной производственной лицензии"
+
+#fixed typo
+ TRIGGER_IS_FIELD_MARSHALL: "Является §Hфельдмаршалом§!"
+ TRIGGER_IS_NOT_FIELD_MARSHALL: "Не является §Hфельдмаршалом§!"
+
+#removed broken $COUNTRY$
+ TRIGGER_HAS_RESOURCES_RIGHT: "Имеет права на ресурсы $RESOURCES|H$"
+ TRIGGER_HAS_NOT_RESOURCES_RIGHT: "Не имеет прав на ресурсы $RESOURCES|H$"
+
+#added space after colon
+ TRIGGER_MIO_FLAG_NOT_SET: "Не: "
+
+localisation\replace\unit_l_russian.yml
+
+l_russian:
+########################################################
+### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ###
+########################################################
+
+#missing line breaks
+ CURRENT_ORGANIZATION: "Организация: $CUR|0Y$/$MAX|0Y$"
+ UNIT_LEADER_ALREADY_AN_ADVISOR: "\n\n$NAME|Y$ §Rуже является советником.§!"
+ UNIT_LEADER_TRAIT_REQUIRES: "\n\n§RТребуется $TRAITNAME|Y$.§!"
+ UNIT_LEADER_TRAIT_ROLE: "\n\n§RГлавные роли могут назначаться только фельдмаршалам.§!"
+ UNIT_LEADER_IS_COUNTRY_LEADER_ADVISOR: "\n\n$NAME|Y$ является лидером страны и не может стать советником."
+
+#changed to British spelling
+ NO_ORG_TO_FIGHT: "Нам нужно как минимум §Y$VAL$§!% организации для боя."
+ light_armor_desc: "Легко бронированные танки."
+ heavy_armor_desc: "Самые мощные танки с сильным бронированием и вооружением, но медленные и тактически негибкие."
+ motorized: "Мотопехота"
+ motorized_desc: "Моторизованный транспорт пехоты, такой как грузовики и мотоциклы."
+ mechanized: "Механизированная пехота"
+ mechanized_desc: "Легко бронированный транспорт пехоты."
+ modern_armor_desc: "Современные танки эволюционировали для решения большинства боевых задач. Мощные орудия и наклонная броня устранили необходимость в специализированных танках."
+ marine_desc: "Подразделения, специализирующиеся на амфибийных операциях, становятся всё более незаменимыми. Импровизированные методы и снаряжение уходят в прошлое, поскольку наша морская пехота поддерживается специализированными десантными средствами и подготовкой."
+ mountaineers_desc: "Бои в горных районах подвергают войска множеству опасностей, но иногда их невозможно избежать. Обеспечив наших солдат специализированной подготовкой для этой среды, мы можем минимизировать эти риски."
+ armored_car_recon: "Лёгкая бронеавтомобильная разведывательная рота"
+ armored_car_recon_desc: "Оснащённая бронеавтомобилями разведывательная рота может навязывать бой противнику и предотвращать получение вражескими разведчиками ценной информации."
+ armored_car: "Бронеавтомобиль"
+ UNIT_DEMILITARIZED: "$STATE|H$ — демилитаризованная зона."
+ DEMILITARIZED_ZONE: "Демилитаризованная зона: §Rвойска не могут входить§!"
+ MAX_ORGANIZATION_TITLE: "§HМакс. организация:§!\n"
+ NAVAL_COMBAT_SHIP_ORGANIZATION: "Организация: $CUR|0Y$/$MAX|0Y$\n"
+ NAVAL_COMBAT_SHIP_ORGANIZATION_DESC: "Организация указывает на боеготовность и степень организованности корабля. Корабль без организации не может сражаться."
+ ORG_LOSS_AT_LOW_ORG_FACTOR: "Потеря организации в бою при уровне ниже $LEVEL|0Y%$ от макс. организации: $VAL|-=%$"
+ category_all_armor: "Танки и варианты бронетехники"
+ motorized_rocket_brigade: "Моторизованная реактивная артиллерия"
+ GOOD_ARMOR_DEFENSE_DESC: "Если вражеская дивизия, атакующая нас, не может пробить наше бронирование, мы получим до $ORG|%0G$ меньше урона организации и боеспособности.\n"
+ GOOD_ARMOR_ATTACK_DESC_STR: "При атаке вражеской дивизии, которая не может пробить наше бронирование, мы нанесём больше урона.\n"
+ GOOD_ARMOR_ATTACK_DESC_ORG: "\nПри атаке вражеской дивизии, которая может пробить менее §H50%§! нашего бронирования, мы нанесём дополнительный урон."
+ PIERCING_GOOD_DESC: "Дивизия не получит дополнительных бонусов от возможности пробивать вражескую дивизию, но и та дивизия не получит бонусов от своего бронирования."
+ SELECT_COLOR: "Выбрать цвет на карте"
+ rangers_support_desc: "Разведчики-рейнджеры — элитные лёгкие войска, специализирующиеся на проникновении, разведке и ближнем бою."
+
+localisation\replace\waroverview_l_russian.yml
+
+l_russian:
+########################################################
+### KEEP THESE IN THE SAME ORDER AS THE VANILLA FILE ###
+########################################################
+
+#changed to British spelling
+ WARSCORE_PROGRESSBAR: "§TВойна идёт с преимуществом $SIDE$ на $VAL|H0%$§!"
+
+#fixed typos
+ CAN_SURRENDER_FACTION_MEMBERS: "Они в настоящее время сражаются вместе со своим альянсом и капитулируют только тогда, когда все основные члены альянса в этой войне капитулируют.\nОставшиеся основные члены альянса, которые должны капитулировать:\n$MEMBER_LIST|Y$"
+
+localisation\russian\aat_bop_l_russian.yml
+
+
+
+localisation\russian\aat_characters_l_russian.yml
+
+
+
+localisation\russian\aat_decisions_l_russian.yml
+
+
+
+localisation\russian\aat_events_l_russian.yml
+
+
+
+localisation\russian\aat_focus_l_russian.yml
+
+
+
+localisation\russian\aat_ideas_l_russian.yml
+
+
+
+localisation\russian\aat_tooltips_l_russian.yml
+
+
+
+localisation\russian\achievements_l_russian.yml
+
+
+
+localisation\russian\adjacency_rules_l_russian.yml
+
+l_russian:
+ PERMISSION_CONTESTED: "Оспаривается"
+ PERMISSION_CONTESTED_DESC: "Из-за войны контролёров: $SIDE1|H$ против $SIDE2|H$"
+ PERMISSION_ENEMY: "Враг"
+ PERMISSION_ENEMY_DESC: "Из-за наших враждебных отношений с одним из контролёров: $ENEMY|H$"
+ PERMISSION_ENEMY_UNNAMED_DESC: "Из-за наших враждебных отношений с одним из контролёров"
+ PERMISSION_FRIEND: "Друг"
+ PERMISSION_FRIEND_DESC: "Из-за наших дружественных отношений с одним из контролёров: $FRIEND|H$"
+ PERMISSION_FRIEND_UNNAMED_DESC: "Из-за наших дружественных отношений с одним из контролёров"
+ PERMISSION_NEUTRAL: "Нейтралитет"
+ PERMISSION_NEUTRAL_UNNAMED_DESC: "Из-за наших нейтральных отношений со всеми контролёрами"
+ PERMISSION_NOT_ENEMY_DESC: "Требуется для враждебных отношений"
+ PERMISSION_NOT_FRIENDLY_DESC: "Требуется для дружественных отношений"
+ PERMISSION_NOT_NEUTRAL_DESC: "Требуется для нейтральных отношений"
+ PERMISSION_HEADER: "Тип разрешения $PERMISSION|H$:"
+ PERMISSION_CURRENT_HEADER: "Тип разрешения $PERMISSION|H$ (§HТекущий§!):"
+ PERMISSION_BLOCKED_DUE_TO: "Разрешение заблокировано по причине: $REASON$"
+ PERMISSION_BLOCKED: "Разрешение заблокировано.\n"
+ PERMISSION_DESC: " - Армии могут проходить: $ARMY$\n - Флоты могут проходить: $NAVY$\n - Подлодки могут проходить: $SUBMARINES$\n - Торговля может проходить: $TRADE$"
+ SUEZ_CANAL: "Суэцкий канал"
+ GIBRALTAR_STRAIT: "Гибралтарский пролив"
+ DANISH_BELTS_STRAIT: "Датские проливы"
+ PANAMA_CANAL: "Панамский канал"
+ KIEL_CANAL: "Кильский канал"
+ BOSPHORUS_STRAIT: "Босфор"
+ disable_canal_tt: "§RЭтот канал частично разрушен и должен быть отремонтирован, прежде чем корабли снова смогут по нему проходить.§!"
+ disable_canal_tt_NOT: "$disable_canal_tt$"
+ CANAL_BLOCKED_FOR_COUNTRY: "Канал заблокирован для [Root.GetName]"
+ strait_blocked_tt: "§RПролив закрыт для [ROOT.GetName] из-за ухудшения отношений с контролёром пролива.§!"
+ DARDANELLES_STRAIT: "Дарданеллы"
+ HORMUZ_STRAIT: "Ормузский пролив"
+ SHIMONOSEKI_STRAIT: "Проливы Симоносеки"
+ MALACCA_STRAIT: "Малаккский пролив"
+ MESSINA_STRAIT: "Мессинский пролив"
+ ADEN_STRAIT: "Баб-эль-Мандеб"
+ ALAND_STRAIT: "Ботнический залив"
+ TRANSSAHARIAN_ROUTE: "Транссахарский маршрут"
+ disable_transsaharian_tt: "§RТранссахарская железная дорога не завершена.§!"
+ disable_transsaharian_tt_NOT: "$disable_transsaharian_tt$"
+
+localisation\russian\allied_speeches_l_russian.yml
+
+
+
+localisation\russian\autonomy_l_russian.yml
+
+l_russian:
+ autonomy_annex: "Аннексировано"
+ autonomy_free: "Свободно"
+ autonomy_collaboration_government: "Коллаборационистское правительство"
+ AUTONOMY_CAN_TAKE_DESC: "$OWNER|UH$ может стать $NEXTLEVEL|H$"
+ AUTONOMY_CANT_TAKE_DESC: "$OWNER|UH$ пока не может стать $NEXTLEVEL|H$"
+ AUTONOMY_CAN_LOSE_DESC: "$OWNER|UH$ может быть понижен до $PREVLEVEL|H$"
+ AUTONOMY_CANT_LOSE_DESC: "$OWNER|UH$ пока не может быть понижен до $PREVLEVEL|H$"
+ AUTONOMY_CHANGE_TO_DESC: "$OWNER|UH$ станет $LEVEL|H$"
+ AUTONOMY_MOVING_DESC: "§GИзменить уровень автономии на $LEVEL|H$§!"
+ AUTONOMY_CURR_DESC: "В настоящее время $COUNTRY|H$ является $LEVEL|H$"
+ AUTONOMY_PROGRESS_DESC: "$OWNER|UH$ имеет £autonomy_texticon $CURRENT|H0$/$TOTAL|H0$ очков до возможности стать $NEXTLEVEL|H$"
+ AUTONOMY_PROGRESS_PREV_DESC: "$OWNER|UH$ имеет на $CURRENT|H0$ очков слишком много, чтобы быть пониженным до $PREVLEVEL|H$"
+ AUTONOMY_RELATION_DESC: "$SUBJECT|UH$ является $LEVEL|H$ $MASTER|H$"
+ AUTONOMY_RELATION_DESC2: "$SUBJECT|UH$ является $LEVEL|H$ иностранной державы"
+ AUTONOMY_COUNTRY_EFFECT: "Страна"
+ AUTONOMY_MASTER_COUNTRY_EFFECT: "Сюзерен"
+ SHOW_SUBJECTS_DESC: "Открыть обзор субъектов"
+ SHOW_SUBJECTS_DISABLED_DESC: "§RУ нас нет субъектов для отображения§!"
+ MANAGE_SUBJECTS_HEADER: "Субъекты"
+ CONTINUOUS_AUTONOMY_EFFECT: "$REASON$: £autonomy_texticon $VAL|+=2$"
+ EVENT_AUTONOMY_EFFECT: "$REASON$: £autonomy_texticon $VAL|+=2$"
+ LL_TO_OVERLORD_FREEDOM_EFFECT: "Отправка материальной помощи субъектом сюзерену"
+ SUBJECT_OF_NAME: "Субъект:\n$VALUE|H$"
+ LL_TO_PUPPET_FREEDOM_EFFECT: "Отправка материальной помощи сюзереном субъекту"
+ MONTHLY_LL_FREEDOM_TO_PUPPET: "$FLAG$ $VALUE|-2$"
+ MONTHLY_LL_FREEDOM_TO_MASTER: "$VALUE|+2$"
+ MONTHLY_LL_FREEDOM_VALUE_DESC: "Ежемесячное влияние на автономию при полной поставке"
+ MONTHLY_LL_FREEDOM_DESC: "Ежемесячно после полной поставки $COUNTRY|H$ получает £autonomy_texticon $VALUE|+=2$ "
+ EXPORT_FREEDOM_EFFECT: "Экспорт субъекта сюзерену"
+ WAR_SCORE_FREEDOM_EFFECT: "Вклад субъекта в военный счёт"
+ EFFECT_FREEDOM_EFFECT: "Субъект получил"
+ ACTIVE_ATTACHES_EFFECT: "Активные атташе"
+ MASTER_SURRENDER_FREEDOM_EFFECT: "Сюзерен капитулировал"
+ MISSING_AUTONOMY_SCORE: "Нужно ещё £autonomy_texticon $VAL|2Y$ автономии"
+ TOO_MUCH_AUTONOMY_SCORE: "Имеет на $VAL|2Y$ слишком много автономии"
+ AUTONOMY_CHANGE_COST: "Стоимость (£pol_power ): $VALUE$"
+ AUTONOMY_FREEDOM_PROMOTE_COST: "Нужно £autonomy_texticon $SCORE|H0$ больше автономии для повышения до этого уровня"
+ AUTONOMY_FREEDOM_DEMOTE_COST: "Нужно £autonomy_texticon $SCORE|H0$ автономии для понижения до этого уровня"
+ CONTINUOUS_AUTONOMY_EFFECTS: "§HПостоянные эффекты на автономию§!"
+ EVENT_AUTONOMY_EFFECTS: "§HЭффекты на автономию§!"
+ ADD_AUTONOMY_SCORE_DESC: "Добавить £autonomy_texticon $VALUE|H2$"
+ ADD_AUTONOMY_SCORE_DETAILED_DESC: "Добавить £autonomy_texticon $VALUE|H2$ в $COUNTRY|H$"
+ COLONIAL_FORCES_GENERAL_DESCRIPTION: "§GНажмите для просмотра шаблонов субъектов и правительств в изгнании§!\n\nДивизии, созданные по колониальным шаблонам, могут включать больше людских ресурсов из колонии, если автономия колонии понижена."
+ COLONIAL_FORCES_NO_SUBJECTS: "§RУ нас нет субъектов или правительств в изгнании, из которых мы могли бы рекрутировать шаблоны§!"
+ FOREIGN_TEMPLATE_DESC: "Этот шаблон — $COUNTRY_ADJ|H$, и они являются нашим субъектом. Мы можем скопировать этот шаблон и создать на его основе колониальные силы. Колониальные силы берут людские ресурсы у субъекта в зависимости от уровня его автономии."
+ COLONIAL_TEMPLATE_DESC: "Это колониальный шаблон $COUNTRY_DEF|H$. Колониальные силы берут людские ресурсы у субъекта в зависимости от уровня его автономии."
+ FOREIGN_EXILE_TEMPLATE_DESC: "Этот шаблон — $COUNTRY_ADJ|H$, и мы размещаем их правительство в изгнании. Мы можем скопировать этот шаблон и создать на его основе силы изгнанников. Силы изгнанников берут людские ресурсы у правительства в изгнании."
+ EXILE_TEMPLATE_DESC: "Это шаблон изгнанников $COUNTRY_DEF|H$. Силы изгнанников берут людские ресурсы у правительства в изгнании."
+ CONSTRUCTION_MASTER_BUILDING_LEVELS: "$MASTER|UH$ в настоящее время строит $LVL|H$ уровней $BUILDING|H$ для нас."
+ CONSTRUCTION_MASTER_BUILDING_REDUCE_LEVELS: "Нам разрешено снизить этот уровень строительства только на $LVL|R$."
+ CONSTRUCTION_MASTER_BUILDING_CANT_REDUCE: "§RНам не разрешено снижать уровень или отменять это строительство.§!"
+ CONSTRUCTION_INFO_MASTER: "Это строительство ведётся на территории $WHO|H$. Если мы не используем все фабрики, они могут внести вклад, используя свои."
+ CONSTRUCTION_INFO_SUBJECT: "Это строительство ведётся для нас $WHO|H$. Если они не используют все фабрики, мы можем внести вклад, используя свои."
+ AUTONOMY_NOT_ENOUGH_TIME: "§RУровень автономии можно изменять только раз в §Y$DURATION$ дней§! (осталось §Y$REMAINDER$ дней§!)§!"
+
+localisation\russian\battleplan_codenames_l_russian.yml
+
+
+
+localisation\russian\bba_afa_ideas_l_russian.yml
+
+
+
+localisation\russian\bba_bop_l_russian.yml
+
+l_russian:
+
+ BOP_TOOLTIP: "§Y[root.GetPowerBalanceName]§! в настоящее время находится на стороне §Y[root.GetActiveSideName]§! на уровне [?.root.power_balance_value|0%H]!"
+ BOP_TOOLTIP_TREND: "Баланс сил в настоящее время смещается в сторону §Y[root.GetTrendingSideName]§! на [root.GetBopTrendTextIcon][root.GetChangeRateDesc].\n[root.GetPowerBalanceModDesc]"
+ BOP_TOOLTIP_STABLE: "Баланс сил в настоящее время стабилен."
+ BOP_LEFT_SIDE_TOOLTIP: "[root.GetLeftSideName]"
+ BOP_RIGHT_SIDE_TOOLTIP: "[root.GetRightSideName]"
+ BOP_ACTIVE_RANGE_DESC: "[root.GetActiveRangeName]"
+ BOP_ACTIVE_RANGE_TOOLTIP: "[root.GetActiveRangeModDesc][root.GetActiveRangeRuleDesc]"
+
+ BOP_CHANGE_RATE_DAILY: "$VALUE|2%H$ в день"
+ BOP_CHANGE_RATE_WEEKLY: "$VALUE|2%H$ в неделю"
+
+ BOP_PERCENTAGE: "$VALUE|0%$"
+ BOP_LEVELS: "$UNLOCKED$/$TOTAL$"
+
+ BOP_STATIC_MODIFIER: "$NAME|H$"
+
+localisation\russian\bba_characters_l_russian.yml
+
+
+
+localisation\russian\bba_decisions_l_russian.yml
+
+
+
+localisation\russian\bba_events_l_russian.yml
+
+
+
+localisation\russian\bba_focus_l_russian.yml
+
+
+
+localisation\russian\bba_ideas_l_russian.yml
+
+
+
+localisation\russian\bftb_decisions_l_russian.yml
+
+l_russian:
+ conscription_exemptions_granted: "Предоставлены освобождения от призыва"
+
+localisation\russian\bftb_events_l_russian.yml
+
+
+
+localisation\russian\bftb_focus_l_russian.yml
+
+
+
+localisation\russian\bftb_ideas_l_russian.yml
+
+
+
+localisation\russian\bookmarks_l_russian.yml
+
+l_russian:
+
+ COUNTRY_SELECTION_CHARACTER_DESC: "$NAME|Y$\n$TRAITS_DESC|$" #Normally NAME|Y$ $DESC|$\n$TRAITS_DESC|$
+
+localisation\russian\countries_cosmetic_l_russian.yml
+
+
+
+localisation\russian\countries_l_russian.yml
+
+
+
+localisation\russian\decisions_l_russian.yml
+
+l_russian:
+ DECISIONVIEW_TITLE: "События и решения"
+ DECISIONSVIEW_EVENT_HEADER: "События"
+ POPUP_NEWS: "Всплывающее окно новостей"
+ POPUP_EVENTS: "Всплывающее окно событий"
+ CATEGORY_COLLAPSE_DESC: "§GНажмите§!, чтобы свернуть"
+ CATEGORY_EXPAND_DESC: "§GНажмите§!, чтобы развернуть"
+ DECISION_KEEP_NOTIFIED: "§HУведомлять§!\n\n§GНажмите§!, чтобы §Rне получать уведомления§!, когда можно принять это решение.\n"
+ DECISION_NOT_KEEP_NOTIFIED: "§HУведомлять§!\n\n§GНажмите§!, чтобы §Gполучать уведомления§!, когда можно принять это решение.\n"
+ TAKE_DECISION_HEADER: "§HПринять решение§!\n\n"
+ NEWS_POPUP_CHECKBOX_TOOLTIP: "§GНажмите§!, чтобы переключить уведомления о новостях."
+ EVENT_POPUP_CHECKBOX_TOOLTIP: "§GНажмите§!, чтобы переключить уведомления о событиях."
+ MINOR_EVENT_POPUP_CHECKBOX_TOOLTIP: "§GНажмите§!, чтобы переключить уведомления о второстепенных событиях, таких как события лётчиков-асов."
+ POPUP_MINOR_EVENTS: "Второстепенное всплывающее окно"
+ DECISION_COST_DESC: "Принятие решения стоит £pol_power $VAL|H0$"
+ DECISION_COST_NOT_ENOUGH: "Принятие решения стоит £pol_power $VAL|HR0$"
+ ON_MAP_DECISION_NAME_DEFAULT: "Найти решения на карте."
+ ADD_DAYS_TO_DECISION: "Добавить $DAYS|H$ дней к решению $DECISION|H$"
+ REMOVE_DAYS_TO_DECISION: "Убрать $DAYS|H$ дней из решения $DECISION|H$"
+ ADD_DAYS_TO_MISSION: "Добавить $DAYS|H$ дней к миссии $MISSION|H$"
+ REMOVE_DAYS_TO_MISSION: "Убрать $DAYS|H$ дней из миссии $MISSION|H$"
+ CLICK_TO_TOGGLE_ALL_CATEGORY_DECISION_TRACKING: "§GНажмите§!, чтобы переключить статус уведомлений для всех решений в этой категории."
+ seize_some_trains_woo: "Реквизировать гражданские поезда"
+ seize_some_trains_woo_desc: "Торговые железнодорожные компании контролируют нашу инфраструктуру. С нависшей угрозой войны мы вполне имеем право реквизировать оборудование для государственных нужд."
+ war_propaganda_casualties: "Призывать к героизму"
+ war_propaganda_casualties_desc: "Хотя число погибших растёт, наш народ должен усвоить, что только в бою куются герои."
+ war_propaganda_convoys: "Поощрять бережливость"
+ war_propaganda_convoys_desc: "Даже гражданские могут помочь выиграть войну — заботой и вниманием к использованию материалов каждый грамм стали можно сделать вдвое ценнее для военных усилий."
+ war_propaganda_bombing: "Поднимать боевой дух"
+ war_propaganda_bombing_desc: "Хотя бомбы падают повсюду вокруг нас, наши храбрые рабочие продолжают трудиться. Именно этим духом мы одержим победу."
+ war_support_during_war: "Поддержка войны"
+ war_propaganda_radio_industry: "Радиопропаганда"
+ war_propaganda_radio_industry_desc: "Технологии развились до того уровня, когда значительная часть нашего населения имеет доступ к домашнему радиоприёмнику. Государственные СМИ — идеальный инструмент для разжигания военных усилий в сердцах нашего народа."
+ war_propaganda_film_industry: "[ROOT.GetImportOrDomesticFilmIndustry]"
+ war_propaganda_film_industry_desc: "[ROOT.GetImportOrDomesticFilmIndustryDesc]"
+ DOMESTIC_FILM_INDUSTRY: "Использовать отечественную киноиндустрию"
+ IMPORTED_FILM_INDUSTRY: "Импортировать пропагандистские фильмы союзников"
+ DOMESTIC_FILM_INDUSTRY_DESC: "[ROOT.GetAdjective] киноиндустрия значительно развилась за последнее десятилетие. С населением, жаждущим развлечений, мы можем извлечь выгоду из кинематографического производства, предназначенного для пробуждения патриотических чувств."
+ IMPORTED_FILM_INDUSTRY_DESC: "Наши покровители и союзники стратегически используют пропагандистские фильмы. При небольших инвестициях мы могли бы демонстрировать эти постановки по всей нашей стране, чтобы разжечь военные усилия среди нашего народа."
+ available_mio_tt: "§GДоступно§! как §YВоенно-промышленная организация§!:"
+ unavailable_mio_tt: "§RНедоступно§! как §YВоенно-промышленная организация§!:"
+ invites_mio_tt: "§YПриглашает иностранную военно-промышленную организацию§!:"
+ diversify_special_forces: "Диверсифицировать элитные силы"
+ diversify_special_forces_desc: "Наших обычных сил просто недостаточно для борьбы с надвигающейся бурей. Мы должны внедрять инновации."
+ add_potential_special_forces_tree_tt: "Добавляет §H1§! бесплатную §HСпециализацию ветки спецназа§!"
+
+localisation\russian\difficulty_l_russian.yml
+
+
+
+localisation\russian\dod_decisions_l_russian.yml
+
+
+
+localisation\russian\dod_events_l_russian.yml
+
+
+
+localisation\russian\dod_focus_l_russian.yml
+
+
+
+localisation\russian\dod_ideas_l_russian.yml
+
+

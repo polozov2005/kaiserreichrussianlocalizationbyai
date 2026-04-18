@@ -1,0 +1,79 @@
+Occupied New England
+Assisting Them in the Civil War
+Push Against [USA.GetNameDef]
+Push Against [WCA.GetNameDef]
+Push Against [APG.GetNameDef]
+Push Against [ACC.GetNameDef]
+Supporting the Federals
+(§Y[USA.GetNameWithFlag]§!) $volunteer_limit_plus_two_tt$
+Supporting the Constitutionalists
+(§Y[ACC.GetNameWithFlag]§!) $volunteer_limit_plus_two_tt$
+Supporting the Longists
+(§Y[APG.GetNameWithFlag]§!) $volunteer_limit_plus_two_tt$
+Supported American Faction
+Fired Up
+Our forces are fired up and ready to engage the enemy!
+Second American Civil War
+A ceasefire has been agreed upon at the Rockies
+Four militia units will be raised in New England
+Mississippi Ceasefire
+Great Plains Ceasefire
+Rocky Mountain Ceasefire
+Is recruiting militia elsewhere
+[?units_to_spawn|G0] militia units will be raised.
+When the civil war begins:
+Has supported a side in the §YAmerican Civil War§!
+£pol_power §Y25§! £command_power §Y25§!
+£pol_power §R25§! £command_power §R25§!
+It costs $CP_25_PP_25_blocked$ to take the decision
+§GLow§!
+§LMedium§!
+§OHigh§!
+§RTotal§!
+$USA_socialist_state_base$: [USA_GetStateControlLevelLabel]
+SPA Control
+[USA_GetSocialistStateControlDesc]
+This state harbours support for the §RSocialist Party of America§!. Its allegiance in case a civil conflict breaks out is not certain.
+This state is fully controlled by the §RSocialist Party of America§!. Its allegiance to the Federal government is non-existent.
+$USA_longist_state_base$: [USA_GetStateControlLevelLabel]
+Longist Control
+[USA_GetLongistStateControlDesc]
+This state harbours support for §LHuey Long§!. Its allegiance in case a civil conflict breaks out is not certain.
+This state is fully controlled by the movement surrounding §LHuey Long§!. Its allegiance to the Federal government is non-existent.
+Foreign Volunteers
+With the civil war raging in America, it might be good to send supplies and arms over to the faction that we wish to help have victory in that bloody conflict.
+Support [FROM.GetNameDef]
+We should support our comrades in America fighting for the liberation of all workers.
+Support [FROM.GetNameDef]
+We should support [FROM.GetNameDef] in their fight against syndicalists and traitors alike.
+The Civil War
+The Second American Civil War is here and we must bring about our victory within it for America.
+The Federal Deadline Looms
+The President's demand was clear: the rebels should stand down and disarm in a month, or the Federal forces will force them to do so - consequences be damned. America waits in silence as days go by with neither side seemingly ready to budge. It is clear that days for diplomacy are long over...
+The [ACW_ceasefire_name]
+Break the Ceasefire
+We have waited long enough. The time has come to attack [From.GetNameDef] and end the civil war once and for all.
+Deal with the Devil
+We are losing the civil war... badly. Our only hope is to set up a temporary truce with [From.GetNameDef], so that we may combine forces against our true enemy. Our proposal will be that the truce last 90 days, but hopefully longer if both sides are willing.
+Deal with the Devil
+We are losing the civil war... badly. Our only hope is to set up a temporary truce with [From.GetNameDef], so that we may combine forces against our true enemy. Our proposal will be that the truce last 90 days, but hopefully longer if both sides are willing.
+Break the Deal
+The time has come for our temporary truce with [From.GetNameDef] to come to an end.
+Relocate the Capital
+Push on the Federal Front
+Push on the [WCA.GetAdjective] Front
+Push on the [APG.GetAdjective] Front
+Push on the [ACC.GetAdjective] Front
+Available states to recruit in
+Recruit [From.GetACWDivisionCount] Militia in [From.GetName]
+Agree to the proposal as it stands
+We will go back to the table and try again...
+Four militia units arrive in Philadelphia
+Massive desertion in navy begins.\n§YShips from the West Coast will arrive in the Panama Canal Naval Base§!.
+Massive desertion in navy begins.
+Loyal to the people sailors and admirals join to our navy\n§YShips from the West Coast will arrive in the Caribbean Sea§!
+Revolutionary sailors and captains join to our navy\n§YShips from the West Coast will arrive in the Caribbean Sea§!
+All occupied states of their territory will be transferred to us, and ours to them. The truce will continue for 90 days, after which each of us will have the option to extend it for another 90 days.\n
+§Y[Root.GetNameDefCap]§! will rejoin §Y[can_ally.GetNameDef]§! in its war against §Y[can_enemy.GetNameDef]§!\n
+A small portion of the army will desert to [FROM.GetNameDef]!\n\n§gThis will result in a reduction of 25% org and a 5% strength hit across the entire front. We need to push into enemy land to avoid repeated desertions in the future!§!
+A small portion of the army will desert to [FROM.GetNameDef]!\n\n§gThis will result in a reduction of 25% org and a 10% strength hit for units in [acw_state_control_changed.GetName]. We need to keep the enemy from seizing state capitals to avoid repeated desertions in the future!§!

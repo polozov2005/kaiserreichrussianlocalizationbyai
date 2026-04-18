@@ -1,0 +1,383 @@
+Mitteleuropa
+§YMitteleuropa§!
+[ROOT.GetMitteleuropaButtonDesc]
+The Central European Customs Union, also known as §HMitteleuropa§!, is the economic alliance unifying the German bloc, an uncomfortable compromise between German supremacy and progressive vision of pan-European cooperation. Its internal structure is complicated, but its key institutions are the §HMitteleuropa Conference§!, a summit of delegates from all member states that takes place every six months, and the §HMitteleuropa Commission§!, a bureaucratic authority controlled by the member states whose §HPresidency§! is reelected by each Conference.\n\nIn the Mitteleuropa §HTab§!, you are able to see the President country, all member states, and a list of possible §HAgendas§! to propose for the next Conference. Each member state is able to invest §HPolitical Power§! to promote their Agenda of choice or try to be elected the next §HMitteleuropa President§!. At the end of the cycle and the beginning of the next Conference, the President will select and activate §Hone§! Agenda from the three most supported Agendas. Then, a new President election will take place and the cycle continues.\n\nAs the founder and most powerful country, §H[GER.GetNameWithFlag]§! has access to a focus tree to unlock new Agenda types and initiate Mitteleuropa reform - as well as §Hbend the conference to their favour...§!\n\nThe Presidency of Mitteleuropa is held by §Y[MIT.GetNameWithFlag]§!\nThe next meeting of the Mitteleuropa Commission will happen in roughly §Y[GER.GetMitteleuropaNextElection]§!.
+§YWill become active in 1937§!.
+President
+The Presidency of Mitteleuropa is held by §Y[MIT.GetNameDef]§!
+Next Election
+[GetMitteleuropaNextElection]
+The next meeting of the Mitteleuropa Commission will happen in roughly §Y[GER.GetMitteleuropaNextElection]§!.
+§Y[?days_to_next_election]§! days
+§YImminent§!
+[?global.MIT_small_value|Y=1]
+[?global.MIT_medium_value|Y=1]
+[?global.MIT_large_value|Y=1]
+[?global.MIT_huge_value|Y=1]
+[?MIT_small_value_temp|R=1]
+[?MIT_medium_value_temp|R=1]
+[?MIT_large_value_temp|R=1]
+[?MIT_huge_value_temp|R=1]
+Agenda Score
+[!agenda_score_breakdown_button_click]
+§Y$agenda_score_title$§!
+Base from §YControlled Factories§!: [?num_of_controlled_factories|G0]
+$mitteleuropa_industry_score$: [?modifier@mitteleuropa_industry_score|+=%0]
+$mitteleuropa_score$: [?modifier@mitteleuropa_score|+0]
+£pol_power §YPolitical Power§! investment: [?MIT_agenda_investment|+0]
+Final Score: [?mtth:mitteleuropa_agenda_score_calculation|G0]
+From Supporters: §G[GetMitteleuropaAgendaSupportersScore]§!
+[?MIT_supported_agenda:agenda_score]
+[?mtth:mitteleuropa_agenda_score_calculation]
+[?other_supporters_value]
+Increase your agenda score at the cost of £pol_power §YPolitical Power§!.
+Recover invested £pol_power §YPolitical Power§! at the cost of agenda score.
+§GClick§! to spend [GetMitteleuropaSmallCost] £pol_power to increase the score by [GetMitteleuropaSmallValue]\n§GCtrl + Click§! to spend [GetMitteleuropaMediumCost] £pol_power to increase the score by [GetMitteleuropaMediumValue]\n§GShift + Click§! to spend [GetMitteleuropaLargeCost] £pol_power to increase the score by [GetMitteleuropaLargeValue]\n§GCtrl + Shift + Click§! to spend [GetMitteleuropaHugeCost] £pol_power to increase the score by [GetMitteleuropaHugeValue]
+§GClick§! to recover [GetMitteleuropaSmallValue] £pol_power, reducing the score by [GetMitteleuropaSmallCost]\n§GCtrl + Click§! to recover [GetMitteleuropaMediumValue] £pol_power, reducing the score by [GetMitteleuropaMediumCost]\n§GShift + Click§! to recover [GetMitteleuropaLargeValue] £pol_power, reducing the score by [GetMitteleuropaLargeCost]\n§GCtrl + Shift + Click§! to recover [GetMitteleuropaHugeValue] £pol_power, reducing the score by [GetMitteleuropaHugeCost]
+§Y[THIS.GetName]§!
+[THIS.GetMitteleuropaVotingStatus]
+§Y[THIS.GetNameDefCap]§! is currently leading a lobbying effort in favour of §Y[?MIT_supported_agenda:agenda_idea.GetName]§!.
+§Y[THIS.GetNameDefCap]§! is currently supporting the §Y[?MIT_supported_agenda:agenda_supporters^0.GetAdjective]§! lobbying effort in favour of §Y[?MIT_supported_agenda:agenda_idea.GetName]§!.
+§Y[THIS.GetNameDefCap]§! is currently not supporting any agendas.
+§Y[?top_agenda:agenda_supporters^0.GetName]§!
+§Y[?top_agenda:agenda_idea.GetName]§!
+[!top_agenda_reward_loc_button_click]
+Possible Agendas
+[?agenda:agenda_idea.GetName]
+([?agenda:agenda_score|Y0])
+[?agenda:agenda_idea.GetName]\nTotal Support: [?agenda:agenda_score|Y0]
+[!agenda_button_click_enabled]\n§YEffects if enacted:§!\n[!agenda_reward_loc_button_click]
+Most Supported Agendas
+[?top_agenda:agenda_idea.GetName]
+Support: [?top_agenda:agenda_score|Y1]
+§Y[ROOT.GetNameDefCap]§! has already recently chosen to support an agenda and must wait [?MIT_recent_agenda_change:days_left|Y0] days to vote again.
+Support for Industrial Projects
+Create a more friendly environment for civilian industries throughout Mitteleuropa and finance production expansion.
+$MIT_generic_industrial_projects_idea$
+$MIT_generic_industrial_projects_idea_desc$
+Support for Arms Industry
+Offer cheap loans to military manufacturers throughout Mitteleuropa and strengthen international arms manufacturing cooperation.
+$MIT_generic_arms_industry_idea$
+$MIT_generic_arms_industry_idea_desc$
+Support for Infrastructure Projects
+Offer cheap loans to infrastructure projects and send advisors on construction from Germany to member states.
+$MIT_generic_infrastructure_idea$
+$MIT_generic_infrastructure_idea_desc$
+Financial Injection
+Organise an injection of capital from German and other European banks into the economies of member states.
+$MIT_generic_financial_bailout_idea$
+$MIT_generic_financial_bailout_idea_desc$
+Mitteleuropa Industrial Advisors
+Send German advisors on industry and technology to member states of Mitteleuropa.
+$MIT_generic_industrial_advisors_idea$
+$MIT_generic_industrial_advisors_idea_desc$
+Mitteleuropa Arms Experts
+Send experts on arms construction from the Imperial German Army to member states of Mitteleuropa.
+$MIT_generic_arms_experts_idea$
+$MIT_generic_arms_experts_idea_desc$
+Cohesion Fund Support
+Provide funds to Eastern European states to reduce their underdevelopment and bring them closer to Western economic levels.
+Advisors for Legal Reform
+Send advisors from German universities and courts to member states of Mitteleuropa to provide advice on legislation and coordinate their laws with Mitteleuropa agreements.
+§RCreate the Directive System§!
+Directives are resolutions by the Mitteleuropa Commission on goals or projects - they are mandatory to reach in some time, but their implementation falls on the member states independently, retaining their autonomy. §YImproves the effect of agendas somewhat.§!
+§RCreate the Consultative Assembly§!
+The conference of foreign affairs ministers will be replaced with delegates from national parliaments, who organise themselves by ideology rather than nationality. §YReduces power imbalance in the Conference and increases effect of spending Political Power in the Mitteleuropa mechanic.§!
+§REstablish the Principle of Qualified Majority§!
+Create a system where every vote must gain not only a majority of the Conference, but also indirectly at least 60 percent of the total population of Mitteleuropa, will ensure Germany must negotiate with as many member states as possible to gain their approval, and the organisation will become more pluralistic.
+§RMandate Assembly Approval for Institutional Appointments§!
+All major appointments to the Mitteleuropa administration will be approved by the members of the Conference. §YModifies the Mitteleuropa spirit.§!
+§RCreate the Regulation System§!
+Regulations are resolutions by the Mitteleuropa Commission which are mandatory to follow by all member states no matter their stance on the policy. §YImproves the effect of agendas and raises power imbalance in the Conference.§!
+§REstablish the Budget Contribution Quota§!
+All voting in the Conference is now weighted according to the country's contribution to the budget of Mitteleuropa, drastically in favour of Germany as this is their project first and foremost. §YMakes Mitteleuropa mechanics much cheaper for the sitting President.§!
+§REstablish the Directorate of Enforcement§!
+Establish a Directorate which will oversee all of the member states and hold power to sanction states which do not follow Mitteleuropa regulations to the letter. §YModifies the Mitteleuropa spirit.§!
+§REstablish the Directorate of Enlargement§!
+Allow the Mitteleuropa President to invite countries into Mitteleuropa.
+§REstablish the European Common Travel Area§!
+Establish a common travel area in Mitteleuropa. §YModifies the Mitteleuropa spirit.§!
+Support for Local Production
+Establish regulations on certain local products to protect them from competition that is caused by the creation of the common travel area.
+Mitteleuropa Loans
+Provide cheap loans to member states from the Bank of Central Europe for national development.
+§RCreate the Europamark§!
+Create a common reserve currency for Mitteleuropa. §YModifies the Mitteleuropa spirit.§!
+§RCreate the Bank of Central Europe§!
+Create a central bank for Mitteleuropa. §YModifies the Mitteleuropa spirit.§!
+§CChallenge the Current Leadership§!
+Rally the member states of Mitteleuropa to try to remove the current Mitteleuropa Chairman and appoint the leader of the challenging faction as the new Chairman.
+Defied Leadership Challenge
+§YMitteleuropa§!
+§L$MIT_mitteleuropa_modifier_desc$§!
+Mitteleuropa Score
+$mitteleuropa_score$: $RIGHT|+=0$
+Mitteleuropa Score from Industry
+$mitteleuropa_industry_score$: $RIGHT|+=%2$
+Mitteleuropa Investment Cost
+ $mitteleuropa_investment_cost$: $RIGHT|-=%0$
+§R§Y[FROM.GetNameWithFlag]§! is already a member of Mitteleuropa.§!
+§R§Y[FROM.GetNameWithFlag]§! is not a member of [ROOT.GetFactionName].§!
+§RRequires enactment of the §Y$MIT_enlargement_directorate_idea$§! agenda.§!
+§RTheir overlord §Y[FROM.overlord.GetNameWithFlag]§! is not a member of Mitteleuropa.§!
+The §YMitteleuropa System§! is active
+The §YMitteleuropa System§! is not active
+Is the §YPresident of the Mitteleuropean Commission§!
+Is §Rnot§! the §YPresident of the Mitteleuropean Commission§!
+The §YMitteleuropa§! Mechanics are now enabled.
+The §YMitteleuropa§! Focus Tree is now unlocked.
+§Y[ROOT.GetNameWithFlag]§! becomes the new §YPresident of the Mitteleuropean Commission§!
+Member of Mitteleuropa
+Officially titled the Central European Economic Union, Mitteleuropa is a customs and economic union unifying Germany and its sphere of influence, established after the Weltkrieg. Member states of Mitteleuropa find the impact of this agreement mixed - while the economic connections with Germany are beneficial, the agreement is heavily weighted in German favour.
+[THIS.GetMitteleuropaBerlinBureaucracyActive]
+(§Y[GER.GetNameWithFlag]§!)\n   $MODIFIER_CIC_TO_TARGET_FACTOR$: [?0.05|R=%]\n   $MODIFIER_TRADE_TO_TARGET_FACTOR$: [?0.25|G=%]\n\n
+Cheapens the §YMitteleuropa§! mechanics for §Y[GER.GetNameWithFlag]§!.
+Unlocks Diplomatic Action: §YInvite to Mitteleuropa§!
+§YImproves the effects§! of all generic §YMitteleuropa§! agendas.
+[GetMitteleuropaName]
+Leader of §YMitteleuropa§!
+Member of §YMitteleuropa§!
+[GetMitteleuropaDesc]
+§L$MIT_mitteleuropa_modifier_desc$§!
+Invite to Mitteleuropa
+Invite this country to the Central European Customs Union.
+[FROM.GetName] is in the German bloc, but has not yet joined the Central European Customs Union. We should invite them.
+Base Reluctance
+§Y[FROM.GetNameDefCap]§! is a puppet of §Y[ROOT.GetNameDef]§!
+§Y[FROM.GetNameDefCap]§! has a similar government to §Y[ROOT.GetNameDef]§!
+§Y[FROM.GetAdjective]§! opinion of §Y[ROOT.GetNameDef]§!
+§Y[FROM.GetNameDefCap]§! is considered a Major Country
+Industry difference of countries
+Malta
+Maltese
+Malta
+Laburista
+Partit Laburista
+Nazzjonalista
+Partit Nazzjonalista
+Kostituzzjonali
+Partit Kostituzzjonali
+Gvern Militari
+Gvern Militari
+Partit Malti
+Partit Malti
+Demokratiku
+Partit Demokratiku
+AR
+Alleanza Repubblikana
+tal-Haddiema
+Partit tal-Haddiema
+Syndicalista
+Partit Syndicalista Malti
+Maximista
+Partit Maximista Malti
+Paul Boffa
+§YBorn:§! §LJune 30th, 1890, in Birgu, Crown Colony of Malta§!
+Gerald Strickland
+§YBorn:§! §LMay 24th, 1861, in Valletta, Crown Colony of Malta§!
+Enrico Mizzi
+§YBorn:§! §LSeptember 20th, 1885, in Valletta, Crown Colony of Malta§!
+Nyasaland
+Nyasaland
+Nyasaland
+Malawi
+Malawian
+the Socialist Republic of Malawi
+Malawi
+Malawian
+the Socialist Republic of Malawi
+Malawi
+Malawian
+the Socialist Republic of Malawi
+Mpumbulu League
+Mpumbulu League
+Mlonda Movement
+Watch Tower Society
+NNA (Left Wing)
+Nyasaland Native Associations (Left Wing)
+NNA (Centrists)
+Nyasaland Native Associations (Centrists)
+NNA (Right Wing)
+Nyasaland Native Associations (Right Wing)
+LegCo (Native Chiefs)
+Legislative Council (Native Chiefs)
+LegCo (Askari)
+Legislative Council (Askari)
+Millenarian Extremists
+Flax Katoba Musopole
+§YBorn:§! §L1918, in Misuku Hills, Chitipa District, Nyasaland Protectorate§!
+Elliot Kenan Kamwana
+§YBorn:§! §L1872, in Mpopomeni, Kingdom of Maravi§!
+Charles Domingo
+§YBorn:§! §L1875, in the Province of Mozambique, Portuguese East Africa§!
+Levi Zililo Mumba
+§YBorn:§! §Lin the Kingdom of Maravi§!
+Charles Matinga
+§YBorn:§! §Lin the British Central Africa Protectorate§!
+Hastings Banda
+§YBorn:§! §L1898, in Kasungu, British Central Africa Protectorate§!
+James Frederick Sangala
+§YBorn:§! §L1900, in Naisi, British Central Africa Protectorate§!
+Ziwange Chikulamayembe
+§YBorn:§! §L1902, in the British Central Africa Protectorate§!
+Kawinga IV
+§YBorn:§! §Lin the British Central Africa Protectorate§!
+George Simeon Mwase
+§YBorn:§! §L1880, in Nkhata, Kingdom of Maravi§!
+Socialist Group
+Socialist Group
+Socialist Group
+Social Democratic Party
+People's Party of the North Caucasus
+Federalist Party of the North Caucasus
+Federalist Party of the North Caucasus
+People's Party of the North Caucasus
+Military Government
+Society of Islamists
+Mountain Republic
+North Caucasian
+the Mountain Republic
+North Caucasian Federation
+North Caucasian
+the North Caucasian Federation
+North Caucasian Federation
+North Caucasian
+the North Caucasian Federation
+North Caucasian Federation
+North Caucasian
+the North Caucasian Federation
+Djelal ed-Din Korkmasov
+§YBorn:§! §LSeptember 19th, 1877, in Kumtorkala, Dagestan Oblast, Russian Empire§!
+Alikhan Kantemir
+§YBorn:§! §LMay 9th, 1886, in Karagach, Terek Oblast, Russian Empire§!
+Muhammad Said Shamil
+§YBorn:§! §L1901, in Kostantiniye, Vilayet of Kostantiniye, Ottoman Empire§!
+Haidar Bammat
+§YBorn:§! §LNovember 3rd, 1890, in Temir-Khan-Shura, Dagestan Oblast, Russian Empire§!
+Ali Mitayev
+§YBorn:§! §L1881, in Avtury, Terek Oblast, Russian Empire§!
+Sultan Klych-Girey
+§YBorn:§! §LMarch 15th, 1880, in Ulyap, Kuban Oblast, Russian Empire§!\n§YBackground:§! §LSultan Klych-Girey (in Russian Army - Kelech Shakhanovich Sultan-Girey) comes from a dynasty of Girey Khans of Crimea, and thus is a descendant of the Genghis Khan. By his time the family was living in Maykop in North Caucasus as typical Russian military aristocracy. Klych-Girey graduated from the Yelisavetgrad Cavalry Cadet School in 1901, and would serve most of his career in the infamous Caucasian Native Cavalry Division. In the division, he would become close to General Kornilov, then-commander of the division, and would join the Volunteer Army soon after its creation. General-Major Klych-Girey was tasked with recruitment efforts in the North Caucasus, aided by his extensive connections in Circassia.\n\nAfter the civil war, he continued to serve in the Russian Army, and was initially supportive towards creation of the North Caucasus Special Autonomous Region. Constant unrest and military conflict in the region did eventually put him at odds with General Kornilov's handling of the region, and eventually in 1929 Klych-Girey was retired from the military. After the rise of Savinkov and heightening tensions in the Caucasus, he became a part of the North Caucasian emigré community in Germany, trying to find ways for the Caucasians to oppose Moscow's attempts at abolishing any sembalance of autonomy that was left.§!
+Montenegro
+Montenegrin
+Montenegro
+Montenegrin Socialist Republic
+the Socialist Republic of Montenegro
+Montenegrin Socialist Republic
+the Socialist Republic of Montenegro
+Montenegrin Socialist Republic
+the Socialist Republic of Montenegro
+Kingdom of Montenegro
+the Kingdom of Montenegro
+Kingdom of Montenegro
+the Kingdom of Montenegro
+Kingdom of Montenegro
+the Kingdom of Montenegro
+Kingdom of Montenegro
+the Kingdom of Montenegro
+Kingdom of Montenegro
+the Kingdom of Montenegro
+Kingdom of Montenegro
+the Kingdom of Montenegro
+Kingdom of Montenegro
+the Kingdom of Montenegro
+SRP-Vahabiti
+Socijalistička radnička partija - Herojski Komunisti (Socialist Workers' Party - Heroic Communists)
+CRSV
+Centralno radničko sindikalno vijeće (Central Workers' Trade Union)
+SRP
+Socijalistička radnička partija (Socialist Workers' Party)
+SPS
+Socijaldemokratska partija Crne Gore (Social Democratic Party of Montenegro)
+CFS
+Crnogorska federalistička stranka (Montenegrin Federalist Party)
+DS
+Demokratska stranka (Democratic Party)
+NS
+Narodna stranka (People's Party)
+CDV
+Crnogorsko državno vijece (Montenegro State Council)
+Pravaši
+Prava narodna stranka (True People's Party)
+LL
+Lovćenska Legija (Lovćen Legion)
+Čojstvo i Junaštvo
+'Humanity and Bravery' is said to be the ethical ideal of Montenegrin culture, described by Marko Miljanov. A Montenegrin is common and humble, yet does not hesitate to defend those who need to be defended and brave through the harshest times to do it. For centuries, Montenegrin tribes in the mountains have resisted invaders far and near, their humble hajduci living the ideal of Humanity and Bravery.
+Peasant Cooperatives
+Free Education
+For the Right, Honour and Freedom of Montenegro
+Opium Profits
+Serbophobia
+Montenegro Focus Tree
+Socialist Montenegro
+Connection to the People
+National Equality
+Agrarian Reform
+Nikšić Mine
+Democratic Montenegro
+Land Reform
+Peasant Cooperatives
+Free Education
+Equality of Religion
+Traditional Montenegro
+Legacy of the Greens
+Za pravo, čast i slobodu Crne Gore
+Serbophobia
+Montenegrin Nationalism
+Army of Montenegro
+Memories of Christmas Uprising
+Lessons of the Balkan War
+Arms Modernisation
+Artillery Modernisation
+Arms Industry
+Birth of an Air Force
+Economy of Montenegro
+Farming Subsidies
+Opium Farms
+Wood Exports
+Trebjesa Brewery
+Podgorica-Nikšić Line
+Port of Bar
+Elektroprivreda Crne Gore
+University of Montenegro
+Our Window to the World
+Connect Port to Railways
+Overhaul Coastal Facilities
+Assemble Merchant Navy
+Join the Donau-Adriabund
+Blažo Jovanović
+§YBorn:§! §LMarch 28th, 1907, in Podgorica, Principality of Montenegro§!
+Sekula Drljević
+§YBorn:§! §LSeptember 7th, 1884, in Ravno, Principality of Montenegro§!
+Krsto Popović
+§YBorn:§! §LSeptember 13th, 1881, in Lipa, Principality of Montenegro§!
+Pavle Đurišić
+§YBorn:§! §LJuly 9th, 1909, in Podgorica, Principality of Montenegro§!
+Mitar Martinović
+§YBorn:§! §LSeptember 8th, 1870, in Bajice, Principality of Montenegro§!
+Mihailo I
+§YBorn:§! §LSeptember 14th, 1908, in Podgorica, Principality of Montenegro§!
+Novica Radović
+§YBorn:§! §LMay 15th, 1890, in Novica Radović, Principality of Montenegro§!
+Milovan Djilas
+§YBorn:§! §LJune 12th, 1911, in Podbišće, Kingdom of Montenegro§!
+Vasilija Vukotić
+§YBorn:§! §L1897, in Čevo, Principality of Montenegro§!
+Jovan Plamenac
+§YBorn:§! §L1873, in Boljevići, Principality of Montenegro§!
+Lazar Mijušković
+§YBorn:§! §LDecember 24th, 1867, in Povija, Principality of Montenegro§!
+Gavrilo Dožić
+§YBorn:§! §LMay 17th, 1881, in Vrujci, Principality of Montenegro§!
+Ljubomir Vuksanović
+§YBorn:§! §L1875, in the Principality of Montenegro§!
+Andrija Radović
+§YBorn:§! §LJanuary 28th, 1872, in Martinići, Principality of Montenegro§!
+Bajo Stanišić
+§YBorn:§! §LMay 16th, 1890, in Vinići, Principality of Montenegro§!
+Blažo Đukanović
+§YBorn:§! §LNovember 26th, 1883, in Lukovo, Principality of Montenegro§!
+Army Reform Group
+§YFounded:§! §L1879, in Podgorica, Principality of Montenegro§!
+Petko Miletić
+§YBorn:§! §LMarch 7th, 1897, in Rovci, Principality of Montenegro§!

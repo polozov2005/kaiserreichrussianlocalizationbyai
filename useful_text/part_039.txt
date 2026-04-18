@@ -1,0 +1,694 @@
+Australasia Focus Tree
+Australia
+Australian
+Australia
+Australian Union
+the Australian Union
+Australian Union
+the Australian Union
+Australian Union
+the Australian Union
+Republic of Australia
+the Republic of Australia
+Republic of Australia
+the Republic of Australia
+Republic of Australia
+the Republic of Australia
+Republic of Australia
+the Republic of Australia
+Republic of Australia
+the Republic of Australia
+Republic of Australia
+the Republic of Australia
+Australian Republic
+the Republic of Australia
+Commonwealth of Australia
+the Commonwealth of Australia
+Commonwealth of Australia
+the Commonwealth of Australia
+Commonwealth of Australia
+the Commonwealth of Australia
+Commonwealth of Australia
+the Commonwealth of Australia
+Commonwealth of Australia
+the Commonwealth of Australia
+Commonwealth of Australia
+the Commonwealth of Australia
+Australian Commonwealth
+the Commonwealth of Australia
+Australasia
+Australasian
+Australasia
+Australasian Union
+the Australasian Union
+Australasian Union
+the Australasian Union
+Australasian Union
+the Australasian Union
+Republic of Australasia
+the Republic of Australasia
+Republic of Australasia
+the Republic of Australasia
+Republic of Australasia
+the Republic of Australasia
+Republic of Australasia
+the Republic of Australasia
+Republic of Australasia
+the Republic of Australasia
+Republic of Australasia
+the Republic of Australasia
+Republic of Australasia
+the Republic of Australasia
+Australasia
+Australasian
+Australasia
+Australasian Confederation
+the Australasian Confederation
+Australasian Confederation
+the Australasian Confederation
+Australasian Confederation
+the Australasian Confederation
+Australasian Confederation
+the Australasian Confederation
+Australasian Confederation
+the Australasian Confederation
+Australasian Confederation
+the Australasian Confederation
+Australasian Confederation
+the Australasian Confederation
+Maximists
+Maximist Party of Australasia
+Socialists
+Australasian Socialist Party
+Labor Left
+Australasian Labor Party (Left Wing)
+Syndicalists
+Syndicalist Party of Australasia
+Labor Party
+Australasian Labor Party
+Lang Labor
+Australasian Labor Party (Anti-Syndicalist)
+Country Party
+Australasian Country Party
+UAP
+United Australasia Party
+National Party
+Australasian National Party
+AFM
+Australasia First Movement
+Centre Party
+Centre Party
+Australasian Guard
+Australasian Guard
+Revolution in Australasia
+Claimed Our Territory
+Distanced
+Has held 1936 election
+Has held 1939 election
+the conscription plebiscite has failed
+Has held first ACTU congress
+Has made a demand for territory within the last six months
+Has already received a trade mission
+Syndicalists have split off from the Labor Party\n
+New trade deals will be sought with other Entente countries\n
+New trade deals will be sought with non-Entente countries\n
+The mothballed part of the fleet will be brought back into service, a process which could take six months or more\n
+The mothballed part of the fleet will be abandoned and scrapped\n
+Army reforms will take approximately six months, at which point the malus will be removed and replaced with a bonus\n
+If the coup fails, we may end up at war with §Y[AST.GetName]§!\n
+New Zealand will soon rebel from §Y[AST.GetName]§!, supported by the Australasian Guard\n
+A number of our ships have joined §Y[NZL.GetName]§!
+All future elections will be suspended\n
+New Zealand state will hold a referendum on whether or not to secede from §Y[AST.GetName]§!
+Amalgamated Wireless Australasia
+Broken Hill Proprietary Company Ltd.
+Commonwealth Oil Refineries
+Lysaght's Works
+Colonial Ammunition Company
+Royal Australian Artillery
+Holden
+Victorian Railways
+Ford Australasia
+New South Wales Government Railways
+Confederation Aircraft Corporation
+Government Aircraft Factories
+de Havilland Australia
+Cockatoo Island Naval Dockyard
+Walkers Limited
+Vickers-Armstrong Australasia
+RAAF
+AAF
+RAN
+AN
+Oversized Fleet
+In the chaotic aftermath of Britain's downfall, many ships fled to Australasia to find refuge - far more than could be maintained in the country's meagre ports. Even with many ships mothballed, it still is too much for Australia to handle. A solution needs to be found.
+Upgrading Naval Reserve
+Economic Depression
+Australasia's economy was never particularly strong, and the aftermath of the Weltkrieg has only made it much, much worse. Opportunity is not present, and people cannot find jobs. Radicalisation is beginning to take root across the country as more extreme solutions begin to be considered.
+Recovering From Depression
+$AST_depression_1_desc$
+Bled Dry
+We gave everything we had in the Weltkrieg and then some, and it shows. Nearly everybody knew someone who died far from home for a war that meant nothing in the end and have no desire to see such a thing happen again, not unless it is absolutely necessary.
+ANZAC Spirit
+During the Weltkrieg, the Australian and New Zealanders were the most aggressive, and managed to keep their form in spite of their questionable discipline. Out of the line they were undoubtedly difficult to handle, but once in it they loved a fight. They were a curious mixture of toughness and sentimentality.
+New Unrest
+Maori Act Passed
+British Advisors
+Economy Liberalised
+Privatisation Efforts
+Government Reforms
+Australasian Research Council
+Pacific Navy Focus
+Defensive Navy Focus
+Australasian Shipbuilding Board
+Aviation Industry
+The New ANZAC
+Path of Defence
+Anderson Doctrine
+Crushing Syndicalists
+Dedication to the Empire
+Australasian Guard Officers
+Rouse the Masses
+Laissez Faire Reforms
+The New Plan
+Rising Power
+Army Purged
+Army Loyal
+Empowering the ACTU
+Cementing the Revolution
+Triumphant Revolution
+ASRC
+Worker Unity
+State-Controlled Economy
+Industrial Resurgence
+Social Reforms
+Strengthening AFM Control
+Pro-AFM Propaganda
+[AST.GetNameDefCap] First
+Fortress Australasia
+State-Controlled Economy
+Massive Strikes
+Loosening of Censorship Laws
+[AST.GetAdjective] Unity
+Birdwood Policies Maintained
+Syndicalist Suppression
+Birdwood Policies Rescinded
+Compromises with Union Leaders
+Pacified Labour Conflict
+Rejuvenated Parliamentary Powers
+Loyal Subject
+Republican Constitution
+A Democratic Australasia
+Democracy prevails in Australasia and, for the moment, power remains in the hands of parliament and thus the people. The challenges facing the nation are many, however, and freedom could all too easily slip from our hands if we are not careful.
+Freedom of the Press
+To better maintain its grip on the population, Birdwood's regime introduced censorship laws in 1926. Rescinding those laws is all but expected, now that the nation is once again democratic... though it has been a long time since Australasian newspapers have felt free to speak their mind. Hopefully they will remember who loosened their chains.
+Question of the Unions
+In the aftermath of the Melbourne Commune, trade unions were made illegal. While many are sceptical of their ideology, the continued draconian enforcement of Birdwood's policies is decidedly unpopular, and thus we must decide whether the unions have a place in modern Australasian society.
+Lift Martial Law
+Since the nation's formation, Australasia has in effect been under martial law. Now with democracy restored and power in the hands of Parliament, the government is in a position to restore civil liberties in Australasia.
+Suppress the Syndicalists
+The decision is clear: syndicalism is the greatest threat facing the nation, and thus the Australasian Council of Trade Unions must be suppressed with all force. Since the unions have fallen under the sway of these radicals, there can be no compromise.
+Compromise With Labor
+The time has come to recognise that Australasia's labour troubles are larger than the syndicalist radicals who try to stir up trouble. There are union leaders with whom we can negotiate, and in time it may be possible to work out a solution that makes for a fairer society as well as cuts the legs out from under the radicals.
+Call For Unity
+With the 1939 elections done and democracy having proven itself to be an enduring force in Australasia, the time has come to call on the people of Australasia to pull together and put past conflicts behind them. We must move forward as a nation, a single force that marches bravely into the new world.
+The Labor Threat is Over
+We have endured more than our fair share of labour conflict in the 20th Century, and the time has come to put that chapter of our history to a close.
+The Maori Act
+Much of the land owned by Maori in New Zealand is economically unproductive. Many are suggesting we turn these barren locations into fruitful sites of industry and commerce. The people of New Zealand are largely opposed to these proposals, however, and want Maori rights to these lands be guaranteed by law. A decision must soon be made as to which we consider more important.
+Long Live the King!
+The time has come to re-dedicate ourselves to the British Commonwealth and our place within it. While there are those who might suggest turning our backs on the crown, we say that we are now and shall always be a loyal subject of the King. Long live the Confederation!
+Increase British Ties
+While we are no longer in need of direct rule by the British, we would be fools not to realise our future depends heavily on their aid. Let us ask for advisors to help forward our military research efforts, so that we may be a better part of the Entente alliance.
+Become a Republic
+It is true that we began as a colony of the British, and we will forever owe our origins to the Motherland. We cannot, however, ignore the heavy hand which the British have employed in our nation... and neither can our people. The time has come to respectfully disengage our political system from the trappings of parliamentary rule and become a republic in full.
+A New Constitution
+Becoming a republic has meant the raising of many questions regarding procedure and the rights of the individual citizen. The Australasian constitution will need to be re-written, and we can take this opportunity to forge the kind of government which will take us into the next century and beyond.
+We March Forward
+Let us celebrate our status as a free and just society, an Australasia that exists for all its citizens and which leaves none of them behind.
+Victory for the Syndicalists
+We have had to wrest victory from the hands of the capitalists, no longer will Australasians be expected to risk their lives to make this country a paradise for a few hundred, or a few thousand greedy, selfish millionaire families! Now the revolution has come to Australasia and we will not let our chance go to waste!
+Purge the Army
+The first threat we face is from within: the army is replete with monarchist supporters and those who would stand against the workers. Even if it means a time of readjustment, we must reform the military and sack any and all of its leaders who refuse to support us.
+Invite British Advisors
+If there is a Britain to whom we should be loyal, let it be to the one who controls the home isles. The crown might call them traitors, but they are the British people! How can they betray themselves? Let us invite the Union of Britain to join us in marching together towards a new future.
+Empower the ACTU
+The Australasian Council of Trade Unions saw us to this point, sheltered the activists and the labour leaders even as they were being hunted down by the police. Now we shall lift them up and give them the power they deserve, a place to oversee the future and well-being of the Australasian worker.
+The Syndicalists Restore Order
+It has been a difficult road, but now the chaos must end. No more demonstrations, no more violence that cuts off our own nose to spite our face. The path forward lies with the revolution, and the nation must now face that fact.
+The Syndicalist Congress
+The ACTU Congress has seen the syndicalists remain in command. With our future clear, let us plan out future progress for the nation.
+Establish the ASRC
+The Australasian Syndicalist Revolutionary Council will oversee the implementation of our policies throughout the nation, changing the lives of every ordinary citizen... and also ensuring that no upstart radicals and monarchists gain a foothold in places of power. True freedom requires vigilance!
+Unite the Workers
+So many decades of brainwashing have left many of the nation's workers unable to tell what truly lies in their own interests. We must make a concerted effort to re-educate and win them over to the syndicalist cause. The workers of Australasia must be united as a single force!
+The Totalist Congress
+The ACTU Congress has seen the Maximists take their rightful place as captains of the revolution. Now it is time to stride forward and plot out our nation's future progress.
+Socialisation of the Nation
+Charting the economic future of the nation and its workers means we are prepared to exercise most vigorous and far-reaching control over the economy, to ensure that what is produced is exactly what the country needs.
+Mobilise the Revolution
+The workers of Australasia need to understand that holding onto their rights means defending the revolution. Indeed, we must export the revolution elsewhere. It is only when the workers of the entire world are free that we will be able to relax our guard.
+The New Business Leaders
+There is a curious perception that only capitalism can see civilian industry progress, and we must dispel that archaic notion. Business leaders must either be re-educated, or they must be put aside, as true productivity lies in the hands of the nation's workers.
+Progress in Industry
+Australasia will make a great leap forward in its industrial capacity, so that production and distribution will be developed in an orderly manner to ensure that our people could enjoy a steadily rising standard in material and cultural conditions.
+The Southern Bulwark of Socialism
+From the early days of British settlement, [ROOT.GetNonIdeologyName] has had a rebel heritage. Seeded with the finest Chartists, Fenians, and other dissidents against the crown, we have long struggled against bourgeois authority. The Eureka Stockade was a triumph of working class rebellion that remains an immortal symbol over 80 years on. Above Trades Hall in Melbourne, the red flag has flown longer continuously than over any other building in the world. In Queensland, the first ever government of a labor party took office. With the completion of the revolution, [ROOT.GetNonIdeologyName] now proudly takes its place among the community of socialist nations, a place long destined for it under the southern stars.
+Victory for the AFM
+The people have spoken, and now it is time for Australasia to turn its back on a history of colonial oversight and cruelty. No longer will we fight wars in distant lands that shed Australasian blood to no good purpose. Our destiny is our own, and we will not waste this opportunity!
+Seize Total Control
+The first step in restoring order is in eliminating the endless debate and controversy that surrounds parliament. The AFM requires total control in order to enact its mandate, and if that means ending elections to impose much-needed reforms on the nation, then so be it! Rights and procedures can be re-introduced at a later date, once Australasia has been transformed.
+Focus on Propaganda
+There are far too many voices in the crowds who would seek to tear down our efforts before they even begin. We must sell the message of the AFM across the nation and win over even those who did not vote for us in the election.
+Cut Ties with the Crown
+Memories of Gallipoli still run strong in Australasia, and cries of 'never again!' are not enough. We must cut ties with the British not only in terms of our government, but also with our economy and our military alliances. Our nation must stand on its own, and from this day forth we will never again send our sires to the slaughter in a war of European Imperialism.
+The AFM Restores Order
+It has been a difficult road, but now the chaos must end. No more demonstrations, no more violence that cuts off our own nose to spite our face. The path forward lies with the AFM, and the nation must now face that fact.
+New Social Reforms
+The old Imperialist 'democratic' government never pushed nor strived for true equality, one where the women and minorities stand side by side with the rest of their countrymen to help build a future for us all. We will demonstrate what a truly free Australasia looks like.
+End White Australasia
+The White Australasia policy began with the Immigration Restriction Act of 1901 but didn't end there, and encompasses laws enacted specifically to ensure non-Europeans had a difficult time emigrating to the nation. The time has come to dismantle these laws, even if some people might not like it. Australasia needs to grow, and it must do so as a free society.
+The Monarchist Officers
+The military is filled with officers loyal to the monarchist regime, and the time has come to remove them from their posts. It will mean a difficult transition period, but we need a military that is committed to Australasia and Australasia alone, not one where the threat of British interference or even a coup remains dangling over the head of our leaders like the Sword of Damocles.
+Fortress Australasia
+Our nation must have strong borders, an unassailable island that no enemy would dare to invade. We must be a tower of strength and prove to the rest of the world that we have no need of British protection - only the seas and the determination of our fearless soldiers.
+Enact the State Economy
+Unfettered capitalism is what led to our sorry state, and thus new laws must be enacted to ensure that the Australasian economy is guided by the government and a single principle: that it work towards the betterment of us all.
+The New Trade Office
+Australasian trade practices are littered with the remnants of our colonial past: bureaucrats who are all too used to providing favouritism to the Commonwealth instead of seeking fair deals and profits. We must clear them out and forge a new trade office that puts our own nation and the good of its people ahead of an old boys' network that is a relic of the past.
+On Our Own
+We have no need of allies - Australasia is a nation that will stand on its own and assume a position of neutrality and strength.
+Ties With Japan
+If we are to look for closer ties to a power closer to home, we need look no further than the mighty nation of Japan to the north. With the White Australasia policy ended, we have demonstrated our willingness to view Asian neighbours with an equal eye... and now we must entreat them to look on us as a place where business can be done.
+United We Stand
+Let us celebrate our status as a free and just republic, no longer under the yoke of colonial masters and subject to their endless wars and cruelty. We stand united in a hostile world, boldly marching into the future with no-one to tell us otherwise.
+Victory for the Guard
+Australasia faces many grave dangers - foreign powers that would see us ground down, syndicalists who lie to our workers and would see our nation plunged into chaos. We will not abandon our traditions and our history for the sake of flashy revolution. Order must be maintained for the sake of all Australasians, and we will see our nation shine like never before!
+Create the Secret Police
+The problem with the old governments is that they were unwilling to do what needed to be done in order to secure Australasia's safety - and that means watching the people carefully for any signs of syndicalist activism and revolt. Notions of freedom are quaint, but they pale in comparison to the needs of security.
+Reaffirm the Entente Alliance
+There are some within the Commonwealth who would look on our actions and wonder, but we must reaffirm that we are doing this for the greater good. We do not wish to fall prey to the same mistakes that led to the loss of the Home Isles, and we will show them that we wish to be a strong and effective ally in the fight to come.
+Crush the Syndicalists
+There must be no mercy shown to the syndicalists. The way they have entranced the common man, leading them into actions which only endanger us all, must come to an immediate end. We shall have strength and common purpose, and it will come through the shedding of blood.
+The Australasian Guard Restores Order
+It has been a difficult road, but now the chaos must end. No more demonstrations, no more violence that cuts off our own nose to spite our face. The path forward lies with the Australasian Guard and with tradition, and the nation must now face that fact.
+We Need Loyal Officers
+So many experienced officers from the Weltkrieg have been put aside, shown the door despite all the loyalty they have shown to our king and country. It is time to bring them back and show once and for all that dedication to the nation's well-being is the first and primary qualification for leading our troops.
+Rouse the Masses
+The people of Australasia are asleep, lulled into a false sense of safety by the thought that they do not have to fight, that wars in distant lands have no bearing on their future. We will dispel that notion, by force if we must. They must all stand, for the king and for country, and the world shall hear us roar!
+The Royal Advisors
+We intend to be good allies, and to that end we should invite more advisors to see us through the tough times ahead. Let us lean on our allies as they would lean on us.
+A Renewed Call to Arms
+If the Home Isles are to be secured, if the tyranny of syndicalism is to be stopped in its tracks, we must awaken our sense of pride and strength and enlist for the battle to come. Remember Gallipoli, yes, but remember it as a sacrifice to honour and as a baptism in fire which has forged our nation. We will all make such sacrifices in the years to come.
+Laissez Faire Reforms
+The socialist urge to restrict and regulate has put a stranglehold on our economy. The time has come to undo those policies and see the corporations of Australasia grow as they were meant to.
+The New Plan for Australasia
+We will offer a new deal to the people of our nation: the right to have a job, the right to rise as far as they are capable, the right to work for a better future... so long as it does not come at the expense of our traditions or at the expense of our security. These are our watchwords, and they will give us comfort just as they give us prosperity.
+A Rising Power
+We are not declaring our independence from the Empire - far from it. We are, however, asserting ourselves as a regional power within that Empire. Australasia is a strong nation, and a confident member of the Entente, with interests of its own even as they serve those of the king. This is our path forward.
+To Serve the Empire
+We hereby affirm that Australasia's path lies with that of the king and the Commonwealth. We are, now and forever more, a loyal member of the Empire and will seek to defend it both here at home as well as elsewhere in the world. Together we will find our path to freedom and true security.
+The Future is Ours
+Let us celebrate our hard-won survival and victory, a proud member of the Commonwealth and a bastion against the predations of syndicalism and tyranny. Blood has been shed for this day, and we must honour it, and recognise that all has been fought to provide Australasia a future of which she can be proud.
+State of the Economy
+The Australasian economy has been suffering from a severe depression for the last five years. We must assess where opportunities lie and prepare our industry to be properly expanded if we're to have any hope of pulling ourselves out of this quagmire.
+Liberalise the Economy
+The solution to our economies woes is to liberalise our laws - allow more access for foreign investors, as well as reduce the amount of regulations which stifle our business sectors.
+Privatise the Failing Public Sector
+Almost all of the publicly-owned companies are doing poorly, suffering from mismanagement and even corruption. Rather than revise their practices, perhaps it's best to put them back in the hands of the private sector where they can be run by proper businessmen rather than bureaucrats.
+Reform the Bureaucracy
+The main problem facing our economy is the sheer magnitude of the governmental bureaucracy, laden down by archaic rules and focused on colonial exploitation rather than efficiency. We need a modern government which can respond to issues before they can turn into the catastrophe which faces us now, not well after.
+The New Railways
+Expansion of the railroad system throughout the east will not only give our mining sectors a shot in the arm, but also provide much-needed employment for a great number of people.
+Urban Expansion
+Australasia's cities are already growing rapidly - we must enact policies which will encourage the migration of people from the rural areas into urban ones. If our industrial base is to grow, it will need a ready source of workers ready to man the factories.
+Wealth of the Antipodes
+Australia and New Zealand both have massive, untapped resources which need only to be found and properly exploited. Ours is a dominion of mineral wealth which few other countries can hope to compare to... or, at least, it could be.
+Seek New Markets
+Rather than stick to our traditional trade partners, perhaps we should make an effort to find other countries that would make for a ready home for Australasian goods? America, Japan, Germany... really, the list is almost endless, and surely remaining solely within the Commonwealth is what has gotten us into our current mess?
+Trade With the Commonwealth
+The Commonwealth is where our trade currently lies, and there is plenty more we could do to ensure these bonds become even stronger. We must seek out new trade agreements within the Empire, so that even as we grow stronger so will they.
+End of the Depression
+Finally we have pulled ourselves out of the doldrums of depression. Australasia can march into the future, its economy a shining example for others to follow.
+The New Industrial Act
+A large number of our outdated rules actually hinder industrial growth. A new law should be introduced to remove those impediments and arrange a system of incentives to companies which will erect large-scale factories in our cities.
+Industrialise the South
+Southern Australasia has lagged behind the more cosmopolitan regions in New South Wales, and a campaign should be initiated to promote the south to catch up.
+Australasian Armaments
+Up until now, most armaments have been imported from the rest of the Commonwealth. The rise of a proper armament industry will require a great deal of planning and funding, but it is absolutely necessary for the nation's future.
+Fund the Munitions Plants
+Our soldiers' guns and our pilots' planes won't do very much without bullets and bombs. We must start encouraging the growth of a real munitions industry in Australasia.
+Get our Men Back at Work
+Our nation encompasses vast swaths of open land and crossing them is the most important part of encouraging economic growth. A recent commission promises that a state-funded programme to ensure every Australasian is employed in the construction of new infrastructure could last us for decades, if not more.
+Seek New Resources
+All these new roads and railroads have opened up parts of the country to prospectors and mining developers. We should encourage them with incentives.
+The Australasian Research Council
+Technological advancement will be the cornerstone of our future success. A recent [Root.AST_AppendRoyalAdjective]commission has advised the government to establish a department to ensure such research is coordinated across the country.
+Expand the Council
+Rather than rely on outside assistance, our focus should be on expanding the ARC and ensuring that it has access to the best scientists Australasia can offer.
+Focus on Radar
+If Australasia faces an invasion, it will come from across the sea. Thus, we should invest heavily into new radar technologies, and build watch stations along the coast.
+Focus on Computers
+Computer technology is in its infancy, but already we can see the benefits it offers to encryption and decryption efforts. Australasia needs to stay ahead of this, or our enemies will end up knowing our moves long before we do.
+A National University
+It is important to remember that scholarly pursuits are needed to maintain our position. Generous funding increases to the National University in Canberra will allow us to educate the masses and become a beacon of new research.
+Increased Research Funding
+Our research investments to date have paid off - it is time to increase our rate of advancement, to keep pace with the larger nations in the world.
+New Minds in Australasia
+Australasia has become a great power in the world. We must assemble these new minds in our universities and put them to work advancing our nation.
+The Advanced Rocketry Division
+The future lies in the development of rocket engines - both for our air force as well as for the development of new and powerful weapons that operate at a speed never before achievable.
+New Oil Exploration
+Australia and New Zealand have considerable oil reserves, though they are largely contained in offshore and shale deposits. Accessing those deposits, however, should be a priority for our government.
+Radium Hill Uranium
+The Radium Hill uranium mine gives us an advantage in the nuclear arms race that few other countries possess: a ready supply of the resource, to use - or not to use - as we desire.
+State of the [Root.AST_GetNavyName]
+During the Weltkrieg, the Royal Australian Navy was a small force that consisted of only a few small ships, and plans were to decommission even these as soon as the war ended. With the British Pacific Fleet having fled to our ports, we found ourselves in possession of a fleet that far outstrips our ability to properly manage them. This is our first and foremost issue.
+Upgrade Naval Facilities
+Our port facilities have grown, but so far we have nothing that can effectively maintain and repair our oversized fleet. Investments must be made into our naval infrastructure at once.
+Establish the Naval Academy
+It is not enough simply to have ships in our fleet - we must train our captains and admirals in the newest methods of naval warfare, to make each one of our vessels worth three of our enemy's.
+Rebuild Cockatoo Island
+Cockatoo Island in Sydney Harbour has been the most important shipyard in Australasia since the mid-1800s. It should be refitted and expanded to accommodate more and larger vessels.
+Overhaul the [Root.AST_GetNavyName]
+Our efforts have paid off, and now the [Root.AST_GetNavyName] has the skill and capacity to properly manage the Pacific Fleet without aid from the British. Australasia is now a contender for naval supremacy in the region.
+Upgrade the Reserves
+Many of the Pacific Fleet's ships were mothballed after the Weltkrieg ended, as we simply did not have the sailors to man them. While the ships are old, they are still serviceable, and with a concerted effort they could be put back into service and make our fleet even more powerful than it is.
+A Navy for the Pacific
+Our future naval efforts should focus on increasing the range of our ships and keeping them in top combat form. If they will be fighting, after all, chances are very good that they will be fighting far from home.
+The [Root.AST_GetRoyalOrRepublican] Marines
+First and foremost in our offensive naval capabilities is our ability to land on foreign shores with the [Root.AST_GetRoyalOrRepublican] Marines. This must be a fighting force like no other, supported by the most advanced transport vessels the navy can provide.
+Our Fleet's Foundation
+Our fleet of destroyers and submarines will always form the backbone of our navy, defending our trade routes just as they attack those of our enemies.
+Masters of the Sea
+Powerful battleships will make sure our naval superiority is permanent, and that we are able to project our power well beyond our borders.
+Scrap the Reserves
+Almost half of the larger ships in the Pacific Fleet were mothballed after the Weltkrieg ended, as we simply did not have the sailors to man them. While the ships could be brought back online, the cost of doing so is prohibitive, and thus the decision has been made to abandon them entirely and focus on what we already have in service.
+A Navy for Our Defence
+Our future naval efforts should focus on keeping our ships close to home, and instead focusing on their speed and defensive abilities. Ours is not an expeditionary force, after all, but one intended to guard our coasts and keep us safe from seaborne invasion.
+Submarine Focus
+Submarines are an excellent way to disrupt enemy convoys. We should construct as many as possible.
+Destroyer Focus
+Destroyers are effective at destroying enemy submarines. We should ensure our shipping is safe by constructing as many of these as possible.
+Man the Coasts
+Foremost on our minds should be the possibility that, one day, and enemy might land forces on our shores. Just because it hasn't happened yet doesn't mean it never will, and we must prepare for that day by fortifying our coastal cities as heavily as we can.
+The Australasian Shipbuilding Board
+Most shipbuilding facilities in Australasia are sorely out of date. They must be updated and expanded, ready to expand our fleet.
+Expand the Dockyards
+We are finally in a position to expand our shipbuilding capabilities far beyond where they once were.
+Further Expand the Dockyards
+We are finally in a position to expand our shipbuilding capabilities far beyond where they once were.
+State of the [Root.AST_GetAirForceName]
+In truth, there has really been no [AST_AppendRoyalAdjectiveCap]Australasian Air Force to speak of, and our current planes are barely sufficient in number to guard our own skies never mind project air superiority elsewhere. Considering that the wars of the future will be fought in the air, the government is determined that this must soon change.
+New Pilot Training
+The first step in rebuilding our air force is the creation of an air academy, one which can train our future airmen for the battles to come.
+Expand Archerfield
+Archerfield air base in Queensland is our largest base in the north, and the one that will be best used to project our air power over the entire northern coast. In any situation where we are fighting a potential invader, this is the base that will be most useful for own defence.
+The Aviation Industry
+Building our air force will require expanding and organising our factories for this sole purpose.
+Build New Fighters
+As part of our campaign to rule the skies, we should invest resources in our fighters.
+CAS Focus
+Close air support allows us to strafe enemy units during battles with frightening accuracy, giving us a large edge on our opponents.
+Build New Bombers
+As part of our campaign to support the army from the air, we should invest resources in our bombers.
+Naval Bomber Focus
+Naval Bombers allow us to destroy enemy navies without risking our own ships. We should build as many of these as possible if our navy is small or busy elsewhere.
+The Air Observer Corps
+Our focus should not only be on taking to the skies, but on increasing our defence against those who would take to the skies against us.
+The Women's Auxiliary
+A full half of our population is better used in the war effort than sitting at home. Aircraft maintenance, the signal corps and other related tasks will be turned over to women.
+Expand Northern Presence
+With our cities mostly on the east and west coasts of the island, Australasia's northern frontier lacks the proper defence or preparation in case of invasion or attack. New military structures in that area will be welcome.
+Expand the Aviation Industry
+Building our air force will require expanding and organising our factories for this sole purpose.
+Rule the Southern Skies
+Our primary focus is on our air force - the Confederation must recognise where its strength lies and maximise its effectiveness.
+State of the Army
+Our ground forces must be a new priority, promoting those generals who can bring the greatest benefit and reforming their methods for the sake of the nation.
+Modernise the Artillery
+Australasia's artillery mostly dates from the Weltkrieg. We must modernise our artillery unless we wish our soldiers to be eviscerated without proper support.
+Relics of the Weltkrieg
+Our infantry's equipment is old, very old. Most of it saw service during the Weltkrieg, and some sets have been around even longer than that. We must equip our army with modern gear, or else we will not stand a chance in another war.
+Clarify ANZAC
+The Australian and New Zealand Army Corps has a long and proud history as one of the best fighting forces in the Empire. Its methods are dated, however, and we should consider carefully what its approach will be going into this new era of warfare.
+The War Effort
+Our recruitment practices are outdated - it is time to revise them, and at the same time put out a new call for enlisted soldiers.
+Invest in Victory
+We must work together as a nation, indeed politicians from across all ideological spectrums must pull together if we are to see victory in the days to come!
+The New ANZAC
+Our army is the core of our defence, and emergency measures must be passed to ensure they have access to the best equipment and the best personnel that we can possibly provide. When our enemies see the ANZAC symbol, they should know they face among the very best soldiers the world has to offer.
+Focus on Mobility
+The quality of our forces do not matter half so much as their mobility. This is a new era, and tactics of encirclement and reach are far more vital to victory than ever before. This must be the focus on Australasia's military future.
+The Sentinel Project
+Mobility does not mean simply building tanks - there is also the question of mobilising our infantry units, by building mechanised transport which will get them to the front quickly.
+Focus on Quality
+We do not have the industrial capacity for a large or armoured force. Instead we must focus on keeping Australasia's army small yet well-equipped and well-trained. Size is not as important as quality!
+The Australasian Catering Corps
+Ours is a treacherous land, and it is our military engineers, medics and maintenance companies that often keep entire units alive and on the move. However, as our army expands, so too must our support companies. They are the backbone of our operations, after all.
+New Officer Training
+The training of our officer corps needs updating - the methods of warfare are progressing faster than anyone could possibly hope to keep pace, and yet we must try.
+Small Unit Tactics
+It is becoming increasingly apparent that small and very specialised military units are what our armed forces most desperately need.
+Bring on the Mountaineers
+Australasia is a land of rugged terrain, one that can provide soldiers skilled at fighting in the harshest environments around the world. We must take advantage of this at once.
+Z Special Unit
+Military advisors have been suggesting the creation of an expert unit of our best commandos, armed with the latest technology. Designated 'Z Special Unit', they will be a shining example of all the nation has to offer.
+Focus on Urban Combat
+Our forces will engage in combat in modern cities, and we must adjust our tactics to match.
+Focus on Jungle Combat
+The southern Pacific and Southeast Asia are full of jungles and little more. If this is a field we expect to fight on, then we must prepare our units to fight in them. Special bases should be constructed to that effect in the northern reaches of Queensland, where our jungles are at their most dense.
+Focus on Defence
+Any attempt to project our military power beyond our borders is doomed to bring little more than grief. Our focus, as a nation, should be on our own defence.
+Fortify the Cities
+Building up the defences of our cities is the best way to ensure we are on superior ground, should the enemy ever bring their forces to our doorstep.
+Increase the Reserves
+Conscription laws have been enacted, but they are insufficient. In the name of our defence, we must see to it that everyone takes part in defending king and country.
+Enact the Anderson Doctrine
+Former Admiral David Murray Anderson has long called for a renewed commitment to completing what he was unable to in 1925: the reclamation and protection of the British territories in Asia and the Pacific. While dangerously revanchist, this 'Anderson Doctrine' is fast gaining in popularity.
+Join the Internationale
+The time has come to take our place amidst our brothers and sisters of the international syndicalist community. Together we shall be invincible!
+Anderson Doctrine
+The Anderson Doctrine sets out that the former colonies belonging to the United Kingdom, lost after their collapse at the end for the Weltkrieg, are rightfully [Root.GetAdjective] domain. In the name of our national security, it is vital that we get these colonies back and expand our dominion over the islands of Southeast Asia and the Pacific.
+Claim New Guinea
+Port Moresby and the surrounding territory in New Guinea is a vital outpost for our nation, and our security will always be threatened so long as the northern portion of New Guinea as well as the island chain directly to its east are under the control of enemy nations.
+Claim Melanesian Islands
+The islands of Melanesia - including New Caledonia, New Hebrides, the Solomon Islands, and Nauru - were only lost to France and the United Kingdom following their defeat at the end of the Weltkrieg. Under the Anderson Doctrine, they are properly part of our eminent domain, and belong under our protection.
+Claim the Southern Pacific
+There are a number of islands chains in the southern Pacific Ocean - including the Gilbert and Ellis Islands, Samoa, Polynesia, and Pitcairn Island - that were once British possessions, but which were seized by Germany after the British collapse following the Weltkrieg. Under the Anderson Doctrine, they are properly part of our eminent domain, and belong under our protection.
+Claim the German East Indies
+The various island atolls that lie to the north of New Guinea - among them the Marshall Islands, the Caroline Islands, Palau, and the Marianas - were sold by Spain to Germany following the end of the Spanish-American War at the turn of the century. Their presence off our northern coasts is a threat to our national security, and the islands properly belong under our protection.
+Claim Singapore
+Singapore was once the colonial bastion of the United Kingdom in Southeast Asia, the last holdout in the Weltkrieg before Admiral Anderson himself was forced to abandon it for Australasia. Gaining it back is the central tenet of the Anderson Doctrine, and vital to building our national security.
+Claim Sarawak
+The region of northern Borneo was once known as Sarawak, a British holding under the White Rajah himself. With the White Rajah and his family having fled to Australasia, there is considerable internal pressure on the government to extend the Anderson Doctrine to this region and bring it back under our domain as a protectorate.
+Claim Malaya
+The Malaysian peninsula is not only a region that contains vital resources, it is also a former British territory taken by the Germans following the Weltkrieg. While gaining it might be extending our reach further north than is wise, it falls within the jurisdiction of the Anderson Doctrine that former British territories in Southeast Asia are part of our eminent domain, and thus we should seek its return.
+Claim Western New Guinea
+While the western part of New Guinea is not covered under the Anderson Doctrine, having never been held by the British, it is nevertheless vital to our national security, as the islands lie immediately off our borders and we cannot tolerate it remaining within possibly enemy hands.
+Claim Timor
+While the island of Timor is not covered under the Anderson Doctrine, having never been held by the British, it is nevertheless vital to our national security, as the islands lie immediately off our borders and we cannot tolerate it remaining within possibly enemy hands.
+Demand Claimed [From.GetAdjective] Lands
+The time has come to send an ultimatum to [From.GetNameDef] - either they turn over the lands we have rightfully claimed under the mandate of the Anderson Doctrine, or it will be war.
+Seize New Guinea
+With the rulers of the northern part of New Guinea crumbling in their current war, and no troops sitting on our border, the time is ripe to walk in and seize the territory before they can do a thing.
+Seize Western New Guinea
+With the rulers of the western part of New Guinea crumbling in their current war, and no troops sitting on our border, the time is ripe to walk in and seize the territory before they can do a thing.
+Seize Timor
+With the rulers of Timor crumbling in their current war, and no troops anywhere on the island, the time is ripe to walk in and seize the territory before they can do a thing.
+Exploit Resources
+Develop Coal in Queensland
+We have discovered coal deposits in the state of Queensland, and it will take some time and effort to create a productive mine there.
+Develop Aluminium in Victoria
+We have discovered aluminium deposits in the state of Victoria, and it will take some time and effort to create a productive mine there.
+Develop Iron in Tasmania
+We have discovered iron ore deposits in the state of Tasmania, and it will take some time and effort to create a productive mine there.
+Develop Coal in New Zealand
+We have discovered coal deposits in the north of New Zealand, and it will take some time and effort to create a productive mine there.
+Develop Aluminium in New South Wales
+We have discovered aluminium deposits in the state of New South Wales, and it will take some time and effort to create a productive mine there.
+Develop Iron in Kimberley
+We have discovered iron ore deposits in the remote northern part of the state of Western Australia, and it will take some time and effort to create a productive mine there.
+Develop the Queensland Oil Deposits
+We have discovered oil in Queensland, and we must work quickly to make the deposits productive.
+Develop the New Zealand Oil Deposits
+We have discovered oil in New Zealand, and we must work quickly to make the deposits productive.
+Send Trade Mission to [From.GetNameDef]
+The [Root.GetAdjective] trade office has prepared a mission to [From.GetNameDef], in order to increase the volume of trade between our two countries. The [From.GetAdjective] market has been resistant to these efforts in the past, and the distance is a difficult obstacle to overcome, but new destinations for [Root.GetAdjective] goods are sorely needed.
+Send Trade Mission to [From.GetNameDef]
+The [Root.GetAdjective] trade office has prepared a mission to [From.GetNameDef], in order to increase the volume of trade between our two countries. The [From.GetAdjective] market has been resistant to these efforts in the past, and the distance is a difficult obstacle to overcome, but new destinations for [Root.GetAdjective] goods are sorely needed.
+Begin the Conscription Plebiscite
+The enactment of conscription laws will be an unpopular move, one that will be accompanied by cries of 'Remember Gallipoli!' throughout the country. Yet we have dire need to expand our army's enrolment. The best way to move forward would be to hold a national plebiscite on the issue. If it passes, we will have the mandate we need without fear of mass reprisal.
+Force Conscription
+There is no time to hold a plebiscite on conscription, as has been suggested in the past. It must be enacted, whether the people like it or not, and our government will simply have to bear the consequences.
+Force Conscription
+Even though the plebiscite failed, conscription is still necessary - whether the people like it or not. Our government will simply have to bear the consequences.
+Defeat New Zealand
+Defeat Australia
+Hold Out Against Australia
+Hold Out Against the Entente
+Defeating the entire Entente is unlikely, but if we can hold out against their forces long enough we can perhaps force them to peace talks. If we hold New Zealand at that time, they may even have no choice but to let us keep it.
+Nearly two decades after the Great War, Australasia still hasn't healed. Unbelievable, catastrophic manpower losses and sacrifices in the Great War all for nought have led to an atmosphere of cynicism and hopelessness as the once-great British Empire crumbled to pieces. The economy is a complete dumpster fire, a natural consequence of the fall of the United Kingdom and the ensuing loss of exports that followed. The shadow of the syndicalist Melbourne Commune still haunts the continent, but there are still plenty who haven't forgotten the Empire and are ready to reclaim its birthright...
+GFX_AST_intro
+Status of the Confederation
+Formed in 1924 as a result of the Consolidation Of Resources Act, the Australasian Confederation is the combination of the British Australasian Dominions, Australia and New Zealand, as well as the territories of British New Guinea and Fiji.\n\nThe years since the Weltkrieg have brought great change and hardship. The war strained both society and the economy, which in Australia manifested itself in the short-lived Melbourne Commune. Although disowned by the then-ruling Labor government and put down by demobilised Australian Imperial Force veterans, this resulted in the implementation of the Emergency Protocols, the suspension of elections, and the appointment of William Birdwood as Governor General. Then the British Revolution of 1925 shook the Empire to the core and Australasia was unable to prevent the loss of territories to the Germans. More than 10 years on, the situation is still unstable as the economy remains stagnant and domestic dissent continues to grow with Birdwood, alongside his ally Billy Hughes' Nationalist Party, barely holding things together.
+The Oncoming Election
+Elections in the Antipodes were suspended by the Emergency Protocols, enacted in 1923, which also led to the dissolving of the autonomy of the separate New Zealand Parliament. However, elections are now set for March this year after Stanley Bruce successfully campaigned for their reintroduction. Governor-General Birdwood was forced to make this concession when Bruce defeated Hughes for the leadership of the Nationalist Party. Bruce's decision not to act as unelected Prime Minister resulted in the expulsion of his faction from the Nationalist Party and Hughes' recall as PM, however the public would not accept the government reneging on its commitments. Australasia can ill afford a repeat of 1923 - as the spectre of Melbourne remains fresh in the minds of many.
+§MDemocracy§! - §MLabor§! / §MLang Labor§! / §MCountry Party§! / §MUnited Australasia Party§! ($social_democrat_coloured$ / $social_liberal_coloured$ / $market_liberal_coloured$ / $social_conservative_coloured$)\n£white_dot Choose any of the parties in the 1936 Federal Election, §mCountry§!, §SLabor§!, or §cUnited§!.\n£white_dot In subsequent elections, choose to reelect the party.\n£white_dot If §SLabor§! was chosen in 1936, the TUC will make its move. Choose to expel the revolutionaries.\n£white_dot §lLang Labor§! will only be available from the 1942 Federal Election onwards if §SLabor§! won at least the 1939 Federal Elections, expelled the revolutionaries, and in 1941 Labor let the Socialists rejoin and later chose NOT to reconcile with Lang's faction.\n\n§MRevolution§! ($radical_socialist_coloured$ / $syndicalist_coloured$ / $totalist_coloured$)\n£white_dot In the 1936 Federal Election, choose §SLabor§!.\n£white_dot When the TUC makes its move, declare a syndicalist republic.\n£white_dot In the First Congress of the ACTU event, choose the syndicalists remain in control.\n\n£white_dot To get the §RSocialists§! in power, take the focus \
+John Bramwell Miles
+§YBorn:§! §LSeptember 5th, 1888, in Wilton, Roxburghshire, Scotland§!
+Lawrence Louis Sharkey
+§YBorn:§! §LAugust 19th, 1898, in Cargo, Colony of New South Wales§!
+Frederick Woolnough Paterson
+§YBorn:§! §LJune 13th, 1897, in Gladstone, Colony of Queensland§!
+John Anderson
+§YBorn:§! §LNovember 1st, 1893, in Stonehouse, Lanarkshire, Scotland§!
+John Smith Garden
+§YBorn:§! §LAugust 13th, 1882, in Lossiemouth, Banffshire, Scotland§!
+Percy Reginald Stephensen
+§YBorn:§! §LNovember 20th, 1901, in Maryborough, Queensland, Commonwealth of Australia§!
+William John Rendell Scott
+§YBorn:§! §LJune 21st, 1888, in Bingara, Colony of New South Wales§!
+John Curtin
+§YBorn:§! §LJanuary 8th, 1885, in Creswick, Colony of Victoria§!
+Joseph Benedict Chifley
+§YBorn:§! §LSeptember 22nd, 1885, in Bathurst, Colony of New South Wales§!
+John Thomas 'Jack' Lang
+§YBorn:§! §LDecember 21st, 1876, in Sydney, Colony of New South Wales§!
+Earle Christmas Grafton Page
+§YBorn:§! §LAugust 8th, 1880, in Grafton, Colony of New South Wales§!
+Arthur William Fadden
+§YBorn:§! §LApril 13th, 1894, in Ingham, Queensland, Australia§!
+Stanley Melbourne Bruce
+§YBorn:§! §LApril 15th, 1883, in Melbourne, Colony of Victoria§!
+Robert Gordon Menzies
+§YBorn:§! §LDecember 20th, 1894, in Jeparit, Colony of Victoria§!
+William Morris Hughes
+§YBorn:§! §LSeptember 25th, 1862, in London, England§!
+Eric Campbell
+§YBorn:§! §LApril 11th, 1893, in Young, Colony of New South Wales§!
+William Riddel Birdwood
+§YBorn:§! §LSeptember 13th, 1865, in Poona, Presidency of Bombay, British India§!
+Alexander Hore-Ruthven
+§YBorn:§! §LJuly 6th, 1872, in Windsor, Berkshire, England§!
+Federal Parliament
+§YFounded:§! §LJanuary 1st, 1901, in the Royal Exhibition Building, Melbourne, Victoria, Commonwealth of Australia§!
+Clifton Reginald Walker
+§YBorn:§! §LJune 5th, 1890, in Sydney, Colony of New South Wales§!
+Herbert Moxon
+§YBorn:§! §LFebruary 25th, 1886, in Sydney, Colony of New South Wales§!
+James Healy
+§YBorn:§! §LJune 24th, 1898, in Melbourne, Colony of Victoria§!
+Jack Henry
+§YBorn:§! §LJanuary 3rd, 1892, in Brisbane, Colony of Queensland§!
+John Cain
+§YBorn:§! §LJanuary 19th, 1882, in Melbourne, Colony of Victoria§!
+Maurice McCrae Blackburn
+§YBorn:§! §LNovember 19th, 1880, in Inglewood, Colony of Victoria§!
+Herbert Vere Evatt
+§YBorn:§! §LApril 30th, 1894, in Maitland, Colony of New South Wales§!
+Francis Michael Forde
+§YBorn:§! §LJuly 18th, 1890, in Mitchell, Colony of Queensland§!
+Edward John Ward
+§YBorn:§! §LMarch 7th, 1899, in Sydney, Colony of New South Wales§!
+Stanley Kerin Amour
+§YBorn:§! §LMay 15th, 1900, in Sydney, Colony of New South Wales§!
+Archie Galbraith Cameron
+§YBorn:§! §LMarch 22nd, 1895, in Happy Valley, Colony of South Australia§!
+John Mcewen
+§YBorn:§! §LMarch 29th, 1900, in Chiltern, Colony of Victoria§!
+Joseph Aloysius Lyons
+§YBorn:§! §LSeptember 15th, 1879, in Stanley, Colony of Tasmania§!
+Eric John Harrison
+§YBorn:§! §LSeptember 7th, 1892, in Surry Hills, Colony of New South Wales§!
+Richard Gavin Gardiner Casey
+§YBorn:§! §LAugust 29th, 1890, in Brisbane, Colony of Queensland§!
+Milton Livingstone Fredericks Jarvie
+§YBorn:§! §LJuly 12th, 1891, in Pyramil, Colony of New South Wales§!
+James Mitchell
+§YBorn:§! §LApril 27th, 1866, in Dardanup, Colony of Western Australia§!
+Howard Walter Florey
+§YBorn:§! §LSeptember 24th, 1898, in Adelaide, Colony of South Australia§!
+Leslie Thomas Cahill
+§YBorn:§! §L1900, in Sydney, Colony of New South Wales§!
+Ian Mayelston Mudie
+§YBorn:§! §LMarch 1st, 1911, in Adelaide, South Australia, Commonwealth of Australia§!
+Charles Lydiard Aubrey Abbott
+§YBorn:§! §LMay 4th, 1886, in Sydney, Colony of New South Wales§!
+Reginald Walter Darcy Weaver
+§YBorn:§! §LJuly 18th, 1876, in Sydney, Colony of New South Wales§!
+Caleb Grafton Roberts
+§YBorn:§! §LJanuary 31st, 1898, in Sydney, Colony of New South Wales§!
+Thomas Albert Blamey
+§YBorn:§! §LJanuary 24th, 1884, in Wagga Wagga, Colony of New South Wales§!
+Cyril Brudenell Bingham White
+§YBorn:§! §LSeptember 23rd, 1876, in St Arnaud, Colony of Victoria§!
+Henry Douglas Wynter
+§YBorn:§! §LJune 5th, 1886, in Walla, Colony of Queensland§!
+John Dudley Lavarack
+§YBorn:§! §LDecember 19th, 1885, in Brisbane, Colony of Queensland§!
+George Alan Vasey
+§YBorn:§! §LMarch 29th, 1895, in Malvern, Colony of Victoria§!
+Horace Clement Hugh Robertson
+§YBorn:§! §LOctober 29th, 1894, in Warrnambool, Colony of Victoria§!
+Iven Giffard Mackay
+§YBorn:§! §LApril 7th, 1882, in Grafton, Colony of New South Wales§!
+John Northcott
+§YBorn:§! §LMarch 24th, 1890, in Creswick, Colony of Victoria§!
+Leslie James Morshead
+§YBorn:§! §LSeptember 18th, 1889, in Ballarat, Colony of Victoria§!
+Frank Horton Berryman
+§YBorn:§! §LApril 11th, 1894, in Geelong, Colony of Victoria§!
+John Clarebrough
+§YBorn:§! §LFebruary 25th, 1894, in Melbourne, Colony of Victoria§!
+Thomas Fannell
+§YBorn:§! §Lin the Commonwealth of Australia§!
+Ragnar Musgrave Colvin
+§YBorn:§! §LMay 7th, 1882, in London, England§!
+Harold Bruce Farncomb
+§YBorn:§! §LFebruary 28th, 1899, in Sydney, Colony of New South Wales§!
+Victor Alexander Charles Crutchley
+§YBorn:§! §LNovember 2nd, 1893, in London, England§!
+John Augustine Collins
+§YBorn:§! §LJanuary 7th, 1899, in Deloraine, Colony of Tasmania§!
+John Gregory Crace
+§YBorn:§! §LFebruary 6th, 1887, in Gungahleen, Colony of New South Wales§!
+Vernon Ashton Hobart Sturdee
+§YBorn:§! §LApril 16th, 1890, in Melbourne, Colony of Victoria§!
+Sydney Fairbairn Rowell
+§YBorn:§! §LDecember 15th, 1894, in Lockleys, Colony of South Australia§!
+Richard Williams
+§YBorn:§! §LAugust 3rd, 1890, in Moonta Mines, Colony of South Australia§!
+George Jones
+§YBorn:§! §LNovember 22nd, 1896, in Rushworth, Colony of Victoria§!
+Clive Selwyn Steele
+§YBorn:§! §LSeptember 30th, 1892, in Melbourne, Colony of Victoria§!
+Herbert William Lloyd
+§YBorn:§! §LNovember 18th, 1883, in Melbourne, Colony of Victoria§!
+Reginald Miles
+§YBorn:§! §LDecember 10th, 1892, in Springston, Colony of New Zealand§!
+Stanley James Goble
+§YBorn:§! §LAugust 21st, 1891, in Melbourne, Colony of Victoria§!
+Patrick Perry
+§YBorn:§! §LFebruary 14th, 1903, in Oakey, Queensland, Commonwealth of Australia§!
+Arthur Samuel Allen
+§YBorn:§! §LMarch 10th, 1894, in Hurstville, Colony of New South Wales§!
+Ronald Nicholas Lamond Hopkins
+§YBorn:§! §LMay 24th, 1897, in Stawell, Colony of Victoria§!
+William Dowling Bostock
+§YBorn:§! §LFebruary 5th, 1892, in Sydney, Colony of New South Wales§!
+Marcus Laurence Elwin Oliphant
+§YBorn:§! §LOctober 8th, 1901, in Adelaide, South Australia, Commonwealth of Australia§!
+Ruby Violet Payne-Scott
+Nancy Grace Augusta Wake
+Charles Howard 'Dick' Ellis
+Roland Griffiths-Marsh
+New Zealander
+§LA military leader from New Zealand, who will return to their home country if it is restored or breaks off.§!
+Sedulous Conciliator
+Pragmatic Labour Man
+The Big Fella
+Tempestuous Country Man
+Australian Aristocrat
+Defender of the Individual
+Unswerving Loyalist

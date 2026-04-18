@@ -1,0 +1,268 @@
+Small Arms Company
+Artillery Company
+Motor Company
+Armour Company
+Naval Company
+Light Aircraft Company
+Medium Aircraft Company
+Naval Aircraft Company
+Multi-Role Aircraft Company
+Industrial Company
+Electronics Company
+$generic_mio_initial_trait_general_tank_designer$
+$general_tank_manufacturer$
+$generic_mio_initial_trait_infantry_tanks_designer$
+$infantry_tank_manufacturer$
+$generic_mio_initial_trait_assault_guns_organization$
+$assault_gun_manufacturer$
+$generic_mio_initial_trait_fast_tanks_designer$
+$mobile_tank_manufacturer$
+$generic_mio_initial_trait_medium_tank_designer$
+$medium_tank_manufacturer$
+$generic_mio_initial_trait_heavy_tank_designer$
+$heavy_tank_manufacturer$
+$generic_mio_initial_trait_tank_refurbishment_plant$
+$tank_refurbishment_plant$
+$generic_mio_initial_trait_general_aircraft_designer$
+$general_aircraft_manufacturer$
+$generic_mio_initial_trait_light_aircraft_designer$
+$light_aircraft_manufacturer$
+$generic_mio_initial_trait_medium_aircraft_designer$
+$medium_aircraft_manufacturer$
+$generic_mio_initial_trait_heavy_aircraft_designer$
+$heavy_aircraft_manufacturer$
+$generic_mio_initial_trait_cas_aircraft_designer$
+$cas_aircraft_manufacturer$
+$generic_mio_initial_trait_naval_aircraft_designer$
+$naval_aircraft_manufacturer$
+$generic_mio_initial_trait_multi_role_aircraft_designer$
+$multi_role_aircraft_manufacturer$
+$generic_mio_initial_trait_high_agility_fighters_designer$
+$high_agility_fighter_aircraft_manufacturer$
+$generic_mio_initial_trait_range_focused_aircraft_designer$
+$range_focused_aircraft_manufacturer$
+Offence-Focused Firearms Designer
+Defence-Focused Firearms Designer
+Reliable Firearms Designer
+Quality Firearms Designer
+Cheap Firearms Designer
+Offence-Focused $generic_mio_initial_trait_artillery_manufacturer$
+Defence-Focused $generic_mio_initial_trait_artillery_manufacturer$
+Cheap $generic_mio_initial_trait_artillery_manufacturer$
+$generic_mio_initial_trait_support_equipment_manufacturer$
+$generic_mio_initial_trait_motorized_mechanized_manufacturer$
+Offence-Focused Half-Track Designer
+Defence-Focused Half-Track Designer
+Cheap Half-Track Designer
+$generic_mio_initial_trait_armored_car_manufacturer$
+$generic_mio_initial_trait_task_force_ship_builders$
+$task_force_ship_manufacturer$
+$generic_mio_initial_trait_battle_line_ship_builders$
+$battle_line_ship_manufacturer$
+$generic_mio_initial_trait_escort_fleet$
+$escort_ship_manufacturer$
+$generic_mio_initial_trait_raiding_fleet$
+$raider_ship_manufacturer$
+$generic_mio_initial_trait_submarine_designer$
+$submarine_manufacturer$
+$generic_mio_initial_trait_small_fleet_designer$
+$small_fleet_manufacturer$
+$generic_mio_refurbishment_repair_dockyard_organization$
+$refurbishment_repair_dockyard$
+Merchant Marine Manufacturer
+Mining Company
+Chemical Company
+Industrial Concern
+Electronics Developer
+Railroad Company
+Petroleum Company
+Energy Company
+Construction Company
+Industrial Conglomerate
+Industrial Monopoly
+Refinery Company
+Steelworks
+Transport Company
+Normal Division
+Normal Brigade
+Infantry Division
+Infantry Brigade
+Infantry Regiment
+Infantry Unit
+Light Infantry Division
+Light Infantry Brigade
+Reserve Infantry Division
+Reserve Infantry Brigade
+Motor Division
+Motor Brigade
+Motorised Division
+Motorised Brigade
+Motorised Unit
+Mechanised Division
+Mechanised Brigade
+Mechanised Unit
+Light Mechanised Division
+Light Mechanised Brigade
+Cavalry Division
+Cavalry Brigade
+Cavalry Regiment
+Cavalry Unit
+Armoured Division
+Armoured Brigade
+Armoured Regiment
+Armoured Unit
+Tank Division
+Tank Brigade
+Tank Group
+Mountain Division
+Mountain Brigade
+Mountain Unit
+Marine Division
+Marine Brigade
+Marine Regiment
+Marine Unit
+Naval Division
+Naval Brigade
+Paratrooper Division
+Paratrooper Brigade
+Paratrooper Unit
+Airborne Division
+Airborne Brigade
+Parachute Division
+Parachute Brigade
+Garrison Division
+Garrison Unit
+Militia
+Militia Division
+Home Guard
+Panzer Division
+Landwehr Division
+Overseas Garrison Command
+SNLF
+Combined SNLF
+Mixed Brigade
+Amphibious Rapid Brigade
+Independent Garrison Unit
+Rifle Division
+Motor Rifle Division
+Minutemen
+National Guard
+Milits'iayi Division
+Volunteer Defence Corps
+Assyrian Levies
+Cavaleriedivisie
+Regiment Karabiniers-Wielrijders
+Gemotoriseerd Regiment
+Regiment Grenswielrijders
+Hulptroepen
+Militie
+Caçador Division
+IMRO Militia
+Camelry Divisions
+Infantry Corps
+Westernised Inf. Division
+Historical Infantry Divisions
+Historical Irregular Divisions
+Historical Militia Divisions
+Special Military Units
+Minbing
+Minbing
+Askari Division
+Mountain Rifle Division
+Cossack Division
+Civil Guard Divisions
+Light Infantry Units
+Bubing Shi
+Huabei Bubing Shi
+Guofang Bubing Shi
+Minbing
+Qibing Shi
+International Brigade
+Royal Guard Infantry
+Royal Guard Cavalry
+Colonial Infantry
+Preußische Garde
+Colonial Marines
+Native Guard
+Colonial Militia
+Native Rifles
+Mounted Naval Police
+Colonial Alpinists
+Colonial Armour
+Tribal Divisions
+Minbing
+Colonial Division
+Colonial Cavalry Division
+Colonial Garrison
+Colonial Marine Division
+Light Division
+Seri Thai Division
+Pathet Lao Division
+Khmer Issarak Division
+National Defense Divisions
+Special Force Divisions
+Ulster Volunteer Forces
+Ulster Special Constables
+CC.VV. Infantry Division
+Volunteer Force
+Bubing Zhen
+Bubing Xie
+Paobing Zhen
+Minbing
+Polizeitruppe
+Qibing Xie
+Armoured Force
+National Defense Volunteer Force
+Lithuanian Riflemen Union Force
+Mobile Divisions
+Sultanic Guard Divisions
+Mountaineer Divisions
+Armoured Car Divisions
+Caçadores Force
+National Infantry Division
+Mobile Armoured Unit
+Minbing
+Camelry Divisions
+Loyalist Militia
+Mountaineer Division
+Guards Division
+Mountain Rifle Division
+Cossack Division
+Guards Cavalry Division
+Guards Tank Division
+Motorised Infantry Division
+Mechanised Infantry Division
+Guards Division
+Cossack Division
+Guards Cavalry Division
+Mechanised Armour Division
+Guards Tank Division
+Internal Forces Division
+Penal Brigade
+Mountain Units
+Female Infantry Division
+Taharn Pran Paramilitary Division
+Militia Regiment
+Yuwachon Taharn Division
+Police Cavalry Regiment
+Minbing
+Republican Infantry
+Carlist Requetés
+Anarchist Brigade
+Anarchist Militia
+Army of Africa
+Motorised Infantry
+Mechanised Infantry
+Mountain Infantry
+Sharpshooter Division
+Tiger Force (Paratroopers)
+Tiger Force (Mountaineers)
+Tibetan Divisions
+Armoured Cavalry
+Motorised Cavalry
+Mechanised Cavalry
+Continental Division
+Red Guard
+Continental Guard
+Minbing
+Minbing

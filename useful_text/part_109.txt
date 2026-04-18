@@ -1,0 +1,507 @@
+-
+-
+-
+-
+-
+-
+-
+Muwālū Idrīs
+Muwālū Idrīs
+As Sanūsīyah
+As Sanūsīyah
+As Sanūsīyah
+As Sanūsīyah
+HU
+Hizb al 'Ummah (Labour Party)
+HU
+Hizb al 'Ummah (Labour Party)
+HQ
+Kutlat al Watanīyah al Hurra (Free National Bloc)
+HQ
+Kutlat al Watanīyah al Hurra (Free National Bloc)
+MWL
+Mutamar al Watanī al Lībī (Libyan National Congress)
+HA
+Hizb al Ahrār (Liberal Party)
+JWM
+Jabha al Watanīyah al Muttahida (United National Front)
+HAT
+Hizb as Sha'b Tarābulus (Tripolitanian People's Party)
+HAT
+Hizb as Sha'b Tarābulus (Tripolitanian People's Party)
+HIMT
+Hizb al Ittihād al Misrī al Tarābulusī (Egypto-Tripolitanian Union Party)
+Cyrenaica
+Cyrenaican
+Cyrenaica
+Union of Cyrenaica
+the Union of Cyrenaica
+Union of Cyrenaica
+the Union of Cyrenaica
+Union of Cyrenaica
+the Union of Cyrenaica
+Emirate of Cyrenaica
+the Emirate of Cyrenaica
+Emirate of Cyrenaica
+the Emirate of Cyrenaica
+Emirate of Cyrenaica
+the Emirate of Cyrenaica
+Libya
+Libyan
+Libya
+Libyan People's Republic
+the Libyan People's Republic
+Libyan People's Republic
+the Libyan People's Republic
+Libyan People's Republic
+the Libyan People's Republic
+Ifriqiya
+Ifriqiyan
+Ifriqiya
+Maghrebi Union
+Maghrebi
+the Maghrebi Union
+Maghrebi Union
+Maghrebi
+the Maghrebi Union
+Maghrebi Union
+Maghrebi
+the Maghrebi Union
+Tripolitania
+Tripolitanian
+Tripolitania
+Tripolitanian Union
+the Tripolitanian Union
+Tripolitanian Socialist Republic
+the Tripolitanian Socialist Republic
+Tripolitanian Republic
+the Tripolitanian Republic
+Tripolitanian Republic
+the Tripolitanian Republic
+Tripolitanian Republic
+the Tripolitanian Republic
+Tripolitanian Republic
+the Tripolitanian Republic
+Tripolitanian Republic
+the Tripolitanian Republic
+The Cyrenaican Revolt
+The masks have finally fallen off as the final confrontation between the Porte and the Senussi Order is finally upon us. Although the Cyrenaican government has little intention to rule all of Libya, they may still revise this policy should the war prove more successful than expected.
+Pacify Tripolitania
+Sectarian issues, tribal conflict and republican thought are running rampant in Tripolitania causing the entire province to be plunged into a state of seemingly never ending chaos. It is our duty to remove this chaos and in its place restore order, the Senussi order.
+Form Ifriqiya
+For centuries, the Lordship of Africa has been vacant. Our lands have been pawns in the chessboard of the great Turk, little resembling the land that brought so much advancement and wealth to the world in its Golden Age. But, under our leadership, what was has come again; and now finally Ifriqya is under its rightful ruler, King Idris I!
+Move the Capital to Benghazi
+The economic and political heart of Cyrenaica, the seizure of the city was celebrated as a great victory by all Cyrenaicans and a clear symbol of our breach with the Ottoman Empire. Long live the Senussi Order!
+Move the Capital to Tripoli
+The strongest and most populated city in Libya, Tripoli is the heart of Tripolitania and an extremely influential player within Libyan politics. If our government is to avoid the creation of a shadow government in its Western provinces, it would be wise to shift our capital to Tripolitania.
+Masters of the Trans-Saharan Trade
+Whilst Libya controls no real economic value to speak of, with arable land at less than 5% of its total territory, it plays a pivotal role in the Trans-Saharan trade network. Oases in Fezzan and Cyrenaica provide the necessities for the long trips to the Sahel whilst cities and towns along the Tripolitanian Coast guide traffic between Egypt and the Western Maghreb.\n\nThe arrival of European powers and the failure of the Ottomans to intervene pro-actively in their Arab territories however has greatly damaged these routes that form the lifeblood of our society. French colonists in the West closed their borders to our traders whilst punitive expeditions were fought out between the Senussis and the French garrisons in Chad and Niger.\n\nThe collapse of the French state and the subsequent British revolution would revitalise the network as interest to dismantle the remaining French colonies has risen dramatically whilst further South, the German state of Mittelafrika is a welcome supplier for smuggling and a happy recipient for black market arms deals.\n\n§gRewards will be based on distance travelled or on modifiers unlocked through the focus tree.§!\n\n§YAvailable Routes§!:\n§OBenghazi§! - [LBA.cyr_siwa]\n§OBenghazi§! - §OKufra§! - [LBA.cyr_murzuq] - [LBA.cyr_tuat]\n§OBenghazi§! - §OKufra§! - [LBA.cyr_murzuq] - [LBA.cyr_bilma] - [LBA.cyr_timbuktu]\n§OBenghazi§! - §OKufra§! - [LBA.cyr_wadai] - [LBA.cyr_nigeria]\n§OBenghazi§! - §OKufra§! - [LBA.cyr_wadai] - [LBA.cyr_cameroon]\n§OBenghazi§! - §OKufra§! - [LBA.cyr_wadai] - [LBA.cyr_congo]
+Port of Benghazi
+Once mostly known for sponge fishing, Benghazi now is the most important naval station on the African coast of the Ottoman Empire and the greatest harbour in all of Libya.
+Oasis of Siwa
+The Oasis of Siwa is dominated by the ruins of an ancient fortress on a rock towering above the city. The waters of the basin shall refresh our camels and men alike.
+Oasis of Kufra [1009.trading_post_level_indicator]
+The Oasis of Kufra has been the redoubt for the Senussi in times of danger and it was from there the resistance against the French imperialists coming from the South was organised. Now it's a safe haven for our weary caravaneers.
+Oasis of Murzuq [273.trading_post_level_indicator]
+Hey. You. You're finally awake. You were trying to cross the border, right? Walked right into that Ottoman ambush, same as us and that thief over there.
+Oasis of Tuat
+The waters of Tuat give life to vast acres of date palms. A treat!
+City of Timbuktu
+The Golden City of Timbuktu is a vault of knowledge and religious learning. The mausolea of holy men attract pilgrims from all of the Sahara desert and beyond.
+Oasis of Bilma [910.trading_post_level_indicator]
+\
+City of Abéché, Wadai [515.trading_post_level_indicator]
+A fortress guards the former capital of the Wadai, the caravans' gateway to the south. The markets buzz with traders and goods.
+[1025.owner.GetAdjective] Congo Basin
+The lush rainforests in the Congo Basin are an unusual sight for our men.
+[927.owner.GetAdjective] Cameroon
+The green hills of Cameroon make for discreet meeting places with our German arms smugglers.
+[558.owner.GetAdjective] Nigeria
+Our trade connections tell us of the beauty of the white beach of Lagos, far on the coast, a vastly different kind of ocean than we travel on our desert ships.
+West-African Caravan §CTimbuktu - Bilma§!
+Night and stars above that shine so bright\nThe mystery of their fading light\nThat shines upon our caravan\nSleep upon my shoulder as we creep\nAcross the sand so I may keep\nThe memory of our caravan\nThis is so exciting\nYou are so inviting\nResting in my arms\nAs I thrill to the magic charms\nOf you beside me here beneath the blue\nMy dream of love is coming true\nWithin our desert caravan
+West-African Caravan §CBilma - Murzuq§!
+$LBA_waf_Timbuktu_Bilma_Caravan_desc$
+West-African Caravan §CMurzuq - Kufra§!
+$LBA_waf_Timbuktu_Bilma_Caravan_desc$
+West-African Caravan §CKufra - Benghazi§!
+$LBA_waf_Timbuktu_Bilma_Caravan_desc$
+Algerian Caravan §RTuat - Murzuq§!
+Night and stars above that shine so bright\nThe mystery of their fading light\nThat shines upon our caravan\nSleep upon my shoulder as we creep\nAcross the sand so I may keep\nThe memory of our caravan\nThis is so exciting\nYou are so inviting\nResting in my arms\nAs I thrill to the magic charms\nOf you beside me here beneath the blue\nMy dream of love is coming true\nWithin our desert caravan.
+Algerian Caravan §RMurzuq - Kufra§!
+Algerian Caravan §RKufra - Benghazi§!
+Egyptian Caravan §YSiwa - Benghazi§!
+Hey! Clear the way in the old Bazaar\nHey you!\nLet us through!\nIt's a bright new star!\nOh Come!\nBe the first on your block to meet his eye!\n\nMake way!\nHere he comes!\nRing bells! Bang the drums!\nAre you gonna love this guy!\n\nPrince Ali! Fabulous he!\nAli Ababwa\nGenuflect, show some respect\nDown on one knee!\nNow, try your best to stay calm\nBrush up your Sunday salaam\nThen come and meet his spectacular coterie!
+Congo Caravan §OCongo Basin - Abéché§!
+So bongo, bongo, bongo, I don't want to leave the Congo\nOh no no no no no\nBingle, bangle, bungle, I'm so happy in the jungle I refuse to go\nDon't want no jailhouse, shotguns, fish hooks, golf clubs\nI've got my spear\nI'll stay right here.
+Congo Caravan §OAbéché - Kufra§!
+So bongo, bongo, bongo, I don't want to leave the Congo\nOh no no no no no\nBingle, bangle, bungle, I'm so happy in the jungle I refuse to go\nDon't want no jailhouse, shotguns, fish hooks, golf clubs\nI've got my spear\nI'll stay right here.
+Congo Caravan §OKufra - Benghazi§!
+Cameroon Caravan §GCameroon - Abéché§!
+Wie oft sind wir geschritten\nAuf schmalem Negerpfad\nWohl durch der Steppen Mitten,\nWenn früh der Morgen naht.\nWie lauschten wir dem Klange,\nDem alten trauten Sange\nDer Träger und Askari:\nHeia heia Safari!
+Cameroon Caravan §GAbéché - Kufra§!
+Wie oft sind wir geschritten\nAuf schmalem Negerpfad\nWohl durch der Steppen Mitten,\nWenn früh der Morgen naht.\nWie lauschten wir dem Klange,\nDem alten trauten Sange\nDer Träger und Askari:\nHeia heia Safari!
+Cameroon Caravan §GKufra - Benghazi§!
+Wie oft sind wir geschritten\nAuf schmalem Negerpfad\nWohl durch der Steppen Mitten,\nWenn früh der Morgen naht.\nWie lauschten wir dem Klange,\nDem alten trauten Sange\nDer Träger und Askari:\nHeia heia Safari!
+Hausa Caravan §BHausa - Abéché§!
+Wie oft sind wir geschritten\nAuf schmalem Negerpfad\nWohl durch der Steppen Mitten,\nWenn früh der Morgen naht.\nWie lauschten wir dem Klange,\nDem alten trauten Sange\nDer Träger und Askari:\nHeia heia Safari!
+Hausa Caravan §BAbéché - Kufra§!
+Wie oft sind wir geschritten\nAuf schmalem Negerpfad\nWohl durch der Steppen Mitten,\nWenn früh der Morgen naht.\nWie lauschten wir dem Klange,\nDem alten trauten Sange\nDer Träger und Askari:\nHeia heia Safari!
+Hausa Caravan §BKufra - Benghazi§!
+Wie oft sind wir geschritten\nAuf schmalem Negerpfad\nWohl durch der Steppen Mitten,\nWenn früh der Morgen naht.\nWie lauschten wir dem Klange,\nDem alten trauten Sange\nDer Träger und Askari:\nHeia heia Safari!
+The Struggle Against Imperialism
+Whilst we style ourselves as a fully fledged Emirate, it is apparent that the Senussi Order forms the centrepoint of our administration. A Sufi Order founded by the great Senussi himself in the early 19th century, their message of virulent anti-imperialism and a return to Islamic traditions has spread far and wide in Northern Africa through an expansive network of Lodges or 'Zawiya'.\n\nThese lodges not only provide spiritual guidance and theological education but serve as resting stops on the Trans-Saharan trade routes, provide security to the local communities and more often than not form important economic nuclei.\n\n§OLevel I§! §YZawiyas§! provide the following benefits:\n    - Unlocks §Y$LBA_Open_Trade_Route$§! decision\n    - Adds §R-10%§! §YCompliance§! to the state\n    - Adds §R+10%§! §Y$MODIFIER_RESISTANCE_TARGET$§! to the state\n    - Provides §G+30§! §YSenussi Volunteers§! every week\n\n§OLevel II§! §YZawiyas§! provide the following benefits:\n    - Unlocks §OLevel II§! §YTrading Post§! upgrades\n    - Unlocks §Y$LBA_Arm_Resistance$§! decision\n    - Adds §R-30%§! §Y$MODIFIER_RECRUITABLE_POPULATION_FACTOR$§! to the state\n    - Adds §R-30%§! §YAvailable Buildings Slots Factor§! to the state\n    - Adds §R-30%§! §YLocal Resources Factor§! to the state\n    - Provides §G+100§! §YSenussi Volunteers§! every week
+Senussi Zawiya Present
+Zawiya Network in Timbuktu [556.zawiya_level_indicator]
+Zawiya Network in Bilma [910.zawiya_level_indicator]
+Zawiya Network in Tuat [514.zawiya_level_indicator]
+Zawiya Network in Algeria [513.zawiya_level_indicator]
+Zawiya Network in Tripoli [448.zawiya_level_indicator]
+Zawiya Network in Murzuq [273.zawiya_level_indicator]
+Zawiya Network in Wadai [515.zawiya_level_indicator]
+Zawiya Network in Siwa [452.zawiya_level_indicator]
+The teachings of the great Senussi are spreading far and wide throughout the entire Sahara as his message of anti-colonial resistance, coupled with the punching power of the Senussi military is well received amongst those still toiling under French oppression.
+Re-open Trade Route
+The Kafirs think that they can stop the ships of the desert but they have not embraced the desert like we have. It is coarse, it is rough but it is the lifeblood of our society and we will fight to the end to preserve it!
+Arm Resistance Cells
+The Kafirs have exploited the true believers of the faith for long enough! With tensions rising in Europe and the government in Algiers buckling under stress like never before, it is time to support our brethren and start the liberation of the Sahara.
+The Senussi Princes have been ousted
+Shows the important stops on the Trans-Saharan Trade Route
+Shows the Senussi Network
+£trigger_no §RSiwa§! (blocked by [452.owner.GetFlag])
+£trigger_yes Siwa
+£trigger_no §RMurzuq§! (blocked by [273.owner.GetFlag])
+£trigger_yes Murzuq
+£trigger_no §RTuat§! (blocked by [514.owner.GetFlag])
+£trigger_yes Tuat
+§gTuat§! (blocked upstream)
+£trigger_no §RBilma§! (blocked by [910.owner.GetFlag])
+£trigger_yes Bilma
+§gBilma§! (blocked upstream)
+£trigger_no §RTimbuktu§! (blocked by [556.owner.GetFlag])
+£trigger_yes Timbuktu
+§gTimbuktu§! (blocked upstream)
+£trigger_no §RWadai§! (blocked by [515.owner.GetFlag])
+£trigger_yes Wadai
+£trigger_no §RNigeria§! (blocked by [558.owner.GetFlag])
+£trigger_yes Nigeria
+§gNigeria§! (blocked upstream)
+£trigger_no §RCameroon§! (blocked by [927.owner.GetFlag])
+£trigger_yes Cameroon
+§gCameroon§! (blocked upstream)
+£trigger_no §RCongo Basin§! (blocked by [1025.owner.GetFlag])
+£trigger_yes Congo Basin
+§gCongo Basin§! (blocked upstream)
+Caravan Route has been blocked by the Authorities
+The Blockade on the §YTrading Post§! will be lifted
+§YTrading Post§! Has been upgraded to §OLevel II§!
+§YZawiya§! Has been upgraded to §OLevel I§!
+§YZawiya§! Has been upgraded to §OLevel II§!
+The §YCaravan§! will transport §Y[?LBA.waf_route]§! £rifle_texticon per connected trading post not blockaded on this route.\n§YTotal Amount§! £rifle_texticon on this §YCaravan§!: [?LBA.waf_route_total]\n\n
+The §YCaravan§! will transport §Y[?LBA.alg_route]§! £rifle_texticon per connected trading post not blockaded on this route.\n§YTotal Amount§! £rifle_texticon on this §YCaravan§!: [?LBA.alg_route_total]\n\n
+The §YCaravan§! will transport §Y[?LBA.siw_route]§! £rifle_texticon per connected trading post not blockaded on this route.\n§YTotal Amount§! £rifle_texticon on this §YCaravan§!: [?LBA.siw_route]\n\n
+The §YCaravan§! will transport §Y[?LBA.con_route]§! £rifle_texticon per connected trading post not blockaded on this route.\n§YTotal Amount§! £rifle_texticon on this §YCaravan§!: [?LBA.con_route_total]\n\n
+The §YCaravan§! will transport §Y[?LBA.cam_route]§! £rifle_texticon per connected trading post not blockaded on this route.\n§YTotal Amount§! £rifle_texticon on this §YCaravan§!: [?LBA.cam_route_total]\n\n
+The §YCaravan§! will transport §Y[?LBA.nig_route]§! £rifle_texticon per connected trading post not blockaded on this route.\n§YTotal Amount§! £rifle_texticon on this §YCaravan§!: [?LBA.nig_route_total]\n\n
+§gUpgrades §YTrading Post§! to §OLevel II§!, granting the following effects:§!\nShipping Time: §G-5 days§!
+§gUpgrades §YZawiya§! to §OLevel I§!, granting the following effects:§!\n
+§gUpgrades §YZawiya§! to §OLevel II§!, granting the following effects:§!\n$MODIFIER_RECRUITABLE_POPULATION_FACTOR$: §R-30%§!\nAvailable Buildings Slots Factor: §R-30%§!\nLocal Resources Factor: §R-30%§!\n
+§OCaravan§! route will be blockaded by the authorities
+§OCaravan§! route will be blockaded by the authorities\n§CZawiya§! will be destroyed\n
+All §YCaravan Stops§! will provide an extra §Y10§! £rifle_texticon per connected trading post not blockaded
+All §YCaravan Stops§! will provide an extra §Y15§! £rifle_texticon per connected trading post not blockaded
+All §YCaravan Stops§! will provide §Y15§! less £rifle_texticon per connected trading post not blockaded
+\nThis will reduce the chances that our Caravans are lost in the Sahara!
+\nThis will hinder French units from catching our operations.
+\nWhile the extra guns may slow the Caravans, the extra firepower comes in handy!
+\nThe right people, given the right gifts will help ensure our Caravans are more likely to make it home safe!
+§C(Level 1/2)§!
+§C(Level 2/2)§!
+§C(Level 0/2)§!
+§C(Level 1/2)§!
+§C(Level 2/2)§!
+Senussi Zawiya: $VALUE|=-%0$
+Senussi Resistance: $VALUE|=-%0$
+Boosted Resistance in this State
+Pervasive Senussi Influence
+Senussi Volunteers
+Responding to the call from the Senussis, volunteers from all across the Islamic world are flocking to the banner of the Faith to oust the French from Africa and liberate the oppressed Muslims of the Maghreb.
+Cyrenaica Focus Tree
+Military of the Order
+The Senussi Order fought bravely, fought together, and still they lost to Italy on the battlefield. While concessions were made at the peace table, our defeats highlighted weaknesses that could yet be exploited by our foes, particularly in the event of pitched warfare.
+Revised Infantry Doctrine
+In Bedouin tradition, the horse and camel are the chief components of the army and are merely accompanied by the infantry if the situation requires it. Our experience in the Weltkrieg has however shown the weakness of the strategy and the severe underperformance of our infantry during the Egyptian offensive. We need a regular infantry core if we are to maintain our independence.
+Rifle Acquisition
+Improving the quality of the weapons our soldiers use is a fundamental priority of national defence; however, our current lack of native industrial capacity complicates matters. We must ensure that we have the best possible handguns in our possession.
+Horsemen of Cyrenaica
+The Senussi Order and the men that fought for it have always used the loyal steeds of these lands to protect us. For centuries the horsemen of the nation have answered the call to war, and as a new age of war approaches, they shall do so again. They may now be equipped differently in arms, but not in spirit and bravery.
+Planned Offensives
+We must face the realities of being a minor nation stuck between opposing spheres of influence; whether we like it or not, war will come to our shores. The choice stands between properly planning for it, or leaving our destiny in the hands of fate.
+Desert Mobility
+Our main advantage in the Weltkrieg against the Italians was our capacity to outmanoeuvre the Empire's forces, thanks to the ingenuity of our men and our knowledge of our lands. Our forces are always one step ahead of invaders, and pitched battle not always is the answer to our struggle.
+Organise the 'Adwar
+The Senussi's struggle for the defence of our home was long and bloody. With no hope of support, we valiantly stood against the steel of the empire of the Italians, but not with brute force, rather, with mastery of the battlefield and the terrain of our homeland. Set up by Umar, the 'Adwar are local defence organisations which will respond to a central command in Jaghbub led by Umar and his closest allies.
+Legacy of the Italo-Turkish War
+When the Roman Imperialists stormed the beaches of Tripolitania, we fought side by side with our Turkish allies to cleanse the land of their kind and preserve the supremacy of the crescent in Libya. The Turks would later abandon us but the Senussi never gave up! We will fight the imperialists on the shores, we will fight them in the mountains and we will fight them in the deserts! Allahu Akbar!
+Tripoli-Ajdabiya Arms Route
+The fighting capacity of an army can only go as far as their weaponry. Not only do our men have a lack of guns, but we lack proper, modern artillery pieces, machine guns and many other instruments of war that will undoubtedly be necessary in the coming storm. Tripoli serves as the main import harbour of Libya and is the only reliable source of foreign equipment. We should strengthen our connection to its markets.
+Equipment Improvisation
+Sometimes a few corners have to be cut. We don't need the best wood, or the best steel, or the best gunpowder... we need our men ready for combat and martyrdom for the homeland!
+Military Production
+We currently lack the structures necessary for a proper arsenal, one that will truly make the weapons we need in the needed time frame. And time is of the essence, as war approaches our land ever rapidly.
+Found the Benghazi Dockyards
+In order to defend our shores properly, the Port of Benghazi will be outfitted with the best equipment our coffers can afford, to ensure its dry dock produces cargo and military craft to suit our needs.
+Expand Derna Harbour
+Our reliance on the port of Benghazi has led to a substantial decrease in revenue for the state as this way the Ottoman state has been able to profit from our hard work. Further East however, lies the quiet town of Derna which despite its smaller size doesn't suffer from the meddling of the Porte. By expanding its harbour, we may be able to steer traffic out of Benghazi.
+Jebel Akhdar Irrigation Works
+Lacking any form of manufacturing industry, the agricultural output of the Jebel Akhdar is the only tool our economy has. In the past, this region has however been incapable of ensuring a steady surplus for export and made the Cyrenaican economy almost entirely reliant on the weather during a given year. And as such, irrigation works are a much needed necessity if we are to increase our revenues.
+Trans-Saharan Trading
+The second pillar of the Senussi economy next to agriculture, the trans-Saharan trade is a vital source of income and influence for the Order. Lacking roads and travelling through hazardous lands, the Senussi provide protection to the caravans attempting the perilous journey.
+Connecting to Egypt
+With control over most of the sea trade in the hands of the Turks, the importance of the land routes connecting to Egypt has increased over the last few decades. Siwa forms the main stop on this connection as the proximity of the Oasis town to our religious capital in Jaghbub ensures a reliable and well-trodden path.
+Boost Local Manufacturing
+Lacking almost any form of local manufacturing or industry, we are overly reliant on trade with the Ottomans in Benghazi and the Egyptians in Siwa. To remedy this, the Zawiya (Sufi Lodges) will be tasked with setting up small facilities to weave textiles and process raw agricultural produce.
+Zawiya Education Programme
+The Zawiyas form the centrepoint of our government in Cyrenaica and include religious facilities, accomodation for caravans and refugees and a storehouse for supplies and caravan goods. On top of this however, they have a task as places of education and teach children about the Senussi way. We should expand this education with practical material concerning livestock, farming and warfare.
+Masters of the Arms Trade
+From the markets of Northern Chad to the oases of Fezzan, we have built ourselves up to be the dominant player in the Saharan arms trade supplying to Bedouin and anti-colonial rebels alike. This has furthermore also ensured that the bannermen of the Senussi are armed to the teeth, ready to ride out for the defence of their faith if called upon by their leader.
+The Return of Idris
+Idris has returned from his exile! Rejoice, for a new age beckons!
+Client-Patronage System
+The Senussi order is built on a rigorous socio-economic network that we must protect at all costs for it defines what we are. Nonetheless we can't remain ignorant of external developments and we must recognise that ties with the urban centres are becoming more and more important by the day.
+Fortify Jaghbub and Jebel Akhdar
+We are outnumbered, outgunned and completely under-equipped but every man and woman knows his duty to the Order and it is with their collective efforts that we will
+Support the Arab Cause
+Whilst the people of Cyrenaica care little about such futilities as nationalism and ethnicity, we support the right of other Arabs to assert their independence from the outdated Ottoman state.
+Attract Arab Capital
+As Cyrenaica lacks any sort of industrialists and/or major capitalists, we will need foreign investment if we are to ever expand the economy. Processing foodstuff, shipbuilding and other industry could potentially be kickstarted on a small scale with the assistance of the Egyptians.
+Invite Egyptian Military Mission
+The Cyrenaican army is nothing but the soldiers produced by the Ikhwan and whilst they have proven their mettle against the Italians, we were defeated by the French in Chad and the English in Egypt who used modern tactics and discipline. If we are to preserve our sovereignty, we will need to expand our army to be more than just guerrillas.
+Cyrenaica for the Cyrenaicans
+Turks, Italians and other foreigners have long oppressed the people of Cyrenaica, leaving them in poverty and misery as a third rate province within their grand empires. No more! By the will of Allah, master of the universe, we will assert our independence and lead the tribes of Cyrenaica to the future they deserve.
+Redistribute Tribal Burdens
+The entire state structure of the Senussi is built on the shoulders of the Cyrenaican tribes and it is the duty of our Leader that he shifts the burden amongst his followers to ensure an equal distribution. Coordinating with the lodges, we will renegotiate our tribal taxes and conscription based on their capacities.
+The Cyrenaican Revolution
+Not only has Idris betrayed the Order when he made a cowardly deal with the Anglo devils but the consistent plundering of the Senussi treasury by the Princes have shown that they can not be trusted. The faithful have to stand united, not succumb to decadence and self-enrichment!
+Confiscate Royal Properties
+More than willing to betray the legacy of the Great Senussi, his descendants have shown themselves to be untrustworthy snakes perfectly happy to take money in exchange for their loyalty. We don't need their kind in our Cyrenaica!
+Secure Tribal Loyalty
+Whilst the prestige of our esteemed leader has ensured the loyalty of almost all tribes sworn to the Senussi state, we must make sure that they won't be open to overtures from the exiled Senussi princes and as such compromise our flanks.
+Fortify the 'Adwar
+To ensure the security of our domain and protect it from external threats, we must reinforce our 'Adwar and enforce quotas on the tribes serving underneath them. Every tribe will vow to keep his duwr supplied with food and fighters depending on its need and will replace the fallen if they are to fall in battle.
+Brave Mujahideen of Cyrenaica
+Every man is sworn to fight for Allah and push out the infidels that want to oppress us. The Zawiyas teach them how to fight, the caravans supply them with weapons and the scripture commands!
+Cooperate with the Caliph
+Whilst severely disgraced by his secular administration, the Turkish Caliph is still the leader of the Ummah and represents the forefront of the fight against European aggression. It would be unwise to challenge the power of the Porte or attempt to bring down this protection from the infidel Frenchmen in Tunis.
+Turkish Military Assistance
+Our army may be the master of the Green Mountain and the Cyrenaican deserts but we lack the modern training and equipment of the Porte. If we are to be the vanguard of decolonisation on the Maghrebi flank, we will need to verse ourselves in the new ways of warfare.
+Jihad against Imperialism
+The poor peoples living under the boot of the despicable Frenchmen have suffered long enough. With their forces entangled in a vicious struggle to restore their metropolitan holdings, the time has come for the Muslims to free themselves. Allahu Akbar!
+Unite Libya
+The Turks have betrayed the faith, falling into the pitfalls of secularisation and cooperation with the infidels of the European continent. It is up to the Senussi to take up the mantle and free the Maghreb from the shackles of colonialism.
+Cyrenaican-Egyptian Cooperation
+Linked through the oasis of Siwa and the caravan routes leading East, we will strengthen our ties with the government in Cairo to ensure the necessary support for our Jihad against the treacherous infidel dogs.
+Unification of Libya
+Tripolitania and Cyrenaica have finally been united into a single and cohesive state. Of course this is not without opposition and there will be a great many tasks ahead in mending the two nations and creating such a new state.
+Maintain Tribal Organisation
+The current and more decentralised tribal system has worked for so long now and in keeping with our federal principles we shall maintain this system of organisation to better refine our military forces.
+Modern Libyan Army
+With the new state it is time to move away from the decentralised tribal system and establish a modern and centralised Libyan army. A modern military force for a modern nation-state!
+Redistribute Ottoman Equipment
+The Ottoman exodus has left us with a large cache of weapons and equipment. Such weapons are in good shape and could be better served distributed to our own military forces.
+Expand the Zawiya Network
+The vast Zawiya network of lodges has proven well so far and with our increased national impetus it is time to expand their reach ever-further in the struggle against imperialism.
+Libyan Federation
+Libya is a state of two vastly different nations and many regional and tribal identities, a centralised state would be too unwieldy and as such the proposal to federate the new nation will go ahead.
+Legislative Councils of the Provinces
+In keeping with our new federalist principles, the provinces will be assigned their own legislative councils to decide on purely local issues.
+Protect Date Production of Fezzan
+Date palms are integral to the economy of Fezzan and as such new protections and regulations will be implemented to ensure the market can thrive without any further intervention and buoy our economy.
+Tripolitanian Capital Accumulation
+Tripolitania is not often thought of as a financial hotspot but with time and just enough investment it can grow to be a thriving centre of business and industry.
+Sovereignty of the Senussi Order
+The Senussi order has been one of the major players in the region for some time and their military knowledge is invaluable. By bringing them into government we can pool our military resources.
+Curb Federal Executive Power
+The ensure regional harmony, the powers of the federal government will be reduced and limited in nature so as to prevent extreme power abuses and empower the local councils.
+Enforce Regionalism
+The new federal system relies extensively on regional identity so as to prevent a centralised government getting too powerful. Regional identities must be enforced on the local population so as to keep the federation alive.
+Unitary State of Libya
+Libya is born out of Tripolitania and Cyrenaica but it is a new state and nation in itself, as such a firm and centralising hand is needed to ensure the state survives and does not fracture once more.
+Strengthen the Diwan
+The Diwan is the most loyal body to the state comprised of our allies and must have its powers expanded and its position in government affairs strengthened.
+Libyan National Congress
+Rather than lots of smaller, costly and ineffective provincial councils there will be a single and united Libyan National Congress that will act as the primary legislative body of the state.
+Redraw Provincial Borders
+The current makeup of provincial borders is a relic of the previous administrations and must be withdrawn to fit the new centralised and unitary model.
+Development Bank of Tripoli
+By establishing a development bank in Tripoli we can properly invest in our native businesses and allow the economy in the area to thrive.
+Subsidise Tripolitanian Construction
+We cannot hope to have a modern economy without a construction industry to back it up. Special subsidies will be put aside to invest and develop our native construction industry.
+Central Committee of Education
+Illiteracy and education is greatly lacking in Libya and to solve this shortfall a central committee will be established to oversee educational policies and improve schooling.
+Tripolitania Focus Tree
+First Tripolitanian Republic
+We have finally managed to liberate ourselves and can now proclaim the first Tripolitanian Republic! While the journey ahead will be perilous we can finally join the world as an independent nation.
+Organise Paramilitary Youth Organisation
+The young of Tripolitania will carry the torch of our republic long into the future and should be mobilised for the task ahead into a paramilitary organisation to defend the republic.
+Pursue Anti-Confessionalism
+Confessionalism is an affront to our new republic and must be removed. Religion shall have no place in the politics of the new republic.
+Dismantle Senussi Zawiyas
+The Zawiya lodges gave great influence to the Senussis and as such should be dismantled so as to prevent Senussi influence bleeding into our politics.
+Maintain Sectarian Characteristics
+Sectarianism itself is not inherently bad and should characteristics of it shall be allowed to continue in our politics to promote peace and unity.
+Encourage Inter-Tribal Dialogue
+We are land of many diverse tribal identities and this inevitably leads to conflict. If we are to secure the existence of peace within the nation we must encourage the tribes to cooperate.
+Arabisation of the Administration
+We are an Arab state and as such the administration for such a state should seek to reflect this reality.
+Regulate the Bureau for Immigration
+As part of our new state building we will have to establish a special government branch to handle and regulate immigration into our new republic.
+Tripolitanian State Building
+Building a state up from the ashes is a tremendously difficult task but one that is necessary and shall be completed for the betterment of our republic.
+Curb Regional Authority
+As part of our programme of state building we should seek to centralise the government by significantly reducing the powers of regional authorities.
+Diminish Misrata Influence
+A centre of trade in the region, Misrata's influence has the potential to hamper our state building programme and so should be defanged.
+Abolish Fezzani Autonomy
+The Fezzan region to the south has been autonomous for some time due to its geography. If we are to properly build a centralised state it must be reintegrated into the fold.
+Development Bank of Tripoli
+Due to our poor financial situation it has been proposed we establish a special investment bank to help stimulate the Tripoli economy.
+Expand Irrigation in the Jabal
+Due to the arid state of much of our nation we should look into expanding irrigation programmes to better support our agricultural industry.
+Agricultural Processing Industry
+Agriculture itself is just but a part of a greater puzzle and if we can expand into processing we can reap great rewards.
+Expand the Misrata Munition Factory
+Our military industry is greatly lacking and so plans to establish a munitions factory in Misrata should receive our full go ahead.
+Standardise Military Equipment
+Military equipment within the republic is a diverse assortment and this makes supplying our troops a challenge. By standardising all equipment our forces will be better supplied and organised.
+Shuffle the Military Cabinet
+The time has come to reshuffle the high command and introduce new ideas and doctrines to better refine our military forces.
+Tripolitanian Conscription Law
+Military conscription is a tenuous affair and to ensure a steady supply of reinforcements for our military we should look into standardising conscription laws.
+Study Ottoman Military Doctrine
+The Ottomans did not get to where they were through sheer luck but instead through military ingenuity. By studying their actions we can better refine ours.
+Strengthen [TUR.GetAdjective] Ties
+The relation between Tripolitania and the Porte has always been a complicated one, derived from its distance from the capital and its substantial population of Turks. Unlike many of our Arab brethren, we don't believe in the total destruction of the Turkish state but recognise the potential of cooperation on equal terms. Turkey may be weakened but it still holds significant cards and Tripoli will need everything it can get.
+Kouloughli Cultural Programme
+The Kouloughlis are the children of Turkish men who settled in Libya after the Ottoman campaigns, and local women. In the eyes of the new Turkish government, these people symbolise the symbiosis between Turkish and Arabian culture, cuisine and brotherhood and the possibilities of future Turkish-Tripolitanian relations.
+Invite Turkish Military Advisors
+Our own military forces are lacking, and the Turks will gladly provide us with advisors to help strengthen our own military forces.
+Anti-Colonial Committee Cooperation
+The Communard Anti-Colonial Committee has been instrumental in aiding our people as well as all those oppressed under the boot of imperialism. For our own benefit we should seek to cooperate with them.
+Partake in the Phalanstère
+Tripolitania unfortunately lacks a major scientific base and so cooperation with the Phalanstère will be necessary to increase our research efforts.
+Internationale Industrial Assistance
+The Internationale has shown an interest in providing funds to help expand our industrial clout, of which is currently lacking.
+Restore Tripolitanian Railroads
+Tripolitania is desperately backwards - a general lack of capital within the Ottoman Empire has prevented industrial development, and no other sector shows this as clearly as the railways where only a few short tracks exist around the capital. With the tactical advantage of opening a North African front clear for all to see, Communard engineers have been talking to our government to link the ports of Misrata and Tripoli to the Tunisian border to ensure supply lines.
+Arms Acquisition Programme
+The Internationale has offered to give us arms and munitions at cheaper rates, naturally we should take them up on this offer.
+Join the Internationale
+The time has come for us to ascend onto the world stage and join our brothers in socialism.
+The Tide of Pan-Arabism
+We are Arabs by nature and as such we should seek to unify with our Arab brothers by embracing the tide of pan-Arabism!
+Invite Arab Educators
+We have much to learn and must properly Arabise our population, to proceed forward we should invite new educators to the nation.
+Pursue Cyrenaican Cooperation
+Our brothers to the East are Arab just as we are and so we should seek to maintain friendly relations with them.
+Join the Cairo Pact
+The time has come to further our cooperation with our Arab brothers and join the Cairo Pact, the forefront of pan-Arabism.
+Propose Libyan- Egyptian Unification
+Throughout the republic whispers of the concept of unifying with our Arab brothers in Egypt have been getting louder and louder and it is time to properly act on this and seek unification.
+Revitalise the Trans-Sahara Trade
+The trans-Saharan trade routes have been the bedrock of our economy and if we are to thrive we must see them revitalised.
+Senussi Backed Resistance
+Ottoman Aid
+The Porte has sent great amounts of aid to ensure we can keep up the fight against its enemies.
+Agricultural Advances
+More than ploughshares, but tractors and fertilisers; our farmers now have true capabilities of a modern agricultural expert.
+Improvised Equipment
+Well, technically any bandage can do as long as it's clean. And hawks work just as good as binoculars in the desert. In short, corners are being cut and our forces can save precious industrial capacity.
+Legacy of the Turko-Italian War
+The desert is ours. It is my home. Invaders come here, but they do not leave. They do not understand the desert; they do not understand how it gives life, and how it kills. So they die, and we grow stronger. The dead, now, the dead cannot pass on their newfound wisdom... so invaders keep coming, keep trying to take our lands and our wealth. And every time, we will drive them back!
+'Adwar
+To know the way around the trackless sands is not an easy task, but we have mastered the hills, dunes, plains and meadows of our home, and we can confidently outmanoeuvre our foes in our home turf.
+Tribal Guides & Mobile Forces
+Our forces know the lay of the land and how best to use it - our enemies cannot hope to defeat us.
+Horsemen of the Barbary Coast
+Riders and tribesmen from across the land are at our disposal to deliver devastating charges to the enemies of Tripoli.
+Home of the Senussi Order
+Birthplace of the Grand Senussi Order, the Green Mountain of Cyrenaica and the deserts of Kufra are the home of our international organisation. Striving for the liberation of the Muslim people from the yoke of European imperialists and the reinvigoration of the Muslim faith, our organisation can best be described as a militant missionary order which won't shy away from using violence if the situation demands it.\n\nThe rigidity of our organisation, the envy of many, has made us the undisputed masters of Cyrenaica where the state within the state controls everything from education to religion to military affairs to even the security of our economy. This rigidity proved to be a significant advantage during our struggles with the Italian occupiers as we bested their armies and pushed them back into the sea with a ferocity that has inspired Arabs all across the Maghreb and Mashriq.
+Ottoman Naval Dominance
+Although our order is the undisputed master of Cyrenaica, we must admit that we have no influence whatsoever over the seas where Ottoman control guided from Benghazi and Tripolitania is total. The Ottoman military base in Benghazi, the last remnant of their hold in Eastern Libya furthermore also forms our most important trading centre, something Ottoman officials and merchants are more than aware of. This situation is stifling our economy as the caravans of old, travelling between the Sahel, Sudan, Egypt and Libya can't compete any longer with the modern infrastructure provided by the Porte.
+Trans-Saharan Trade
+Egyptian Military Mission
+Mujahideen of Cyrenaica
+This mod is dedicated to the brave Mujahideen fighters of Cyrenaica. Allahu Akbar!
+Tribal Loyalty
+Tribal Organisation
+Federative Government Model
+Unitary Government Model
+Decentralised Disorder
+The departure of Ottoman authority in the Jabal has once more ignited the powder keg in Tripolitania. Sectarian squabbles, tribal disputes and even fears of a civil war are raging rampant whilst cliques and political parties are sprouting up every day to fill the void.
+The Libyan Ba'ath
+Called the Ba'ath after the Arabic word for renaissance or resurrection, the Party has decided to foster the creation of a paramilitary youth organisation to entrench the ideals of socialism amongst the youth and to organise them as a force to be wielded in the constant struggle against reactionary tribal structures.
+Anti-Confessionalist Constitution
+Islamic Constitution
+Strict Immigration Regulations
+Tripolitanian State Building
+Turkish-Tripolitanian Economic Union
+Cyrenaican Cooperation
+Communard Industrial & Military Assistance
+When Muhammad ibn Ali al-Sanusi founded the Order in 1837, the armies of Christianity were bearing down on the last Muslim states of Africa, Central Asia and the Middle East. In a desperate attempt to turn the tide, our Order embarked on trans-Saharan campaigns in the French Sudan and Chad, fighting to preserve the independence of these states and spread the message of our Grandmaster. Pushed back, we saw our territory slink until in 1911 the homeland came under direct attack. Although Italy, after almost a decade of guerrilla warfare, was pushed back into the sea, the French colonial empire still stands, still watches, still hungry...
+GFX_LBA_intro
+The Emirate of Cyrenaica
+Founded by the great Muhammad ibn Ali as-Senussi in 1843, the Senussi Order has become a synonym for the region of Cyrenaica in which it holds sway. Although we are technically a part of the Ottoman Empire and penetration of the Green Mountain by the urban elite of Benghazi is steadily growing, we have been able to maintain our independence for close to 100 years now.\n\nFighting the despicable imperialists at every turn, the previous grandmasters have led the charge against the Europeans from the deserts of Wadai to the Oasis of Siwa. When the Italian army invaded Tripolitania in 1911, we fought side by side with our Caliph to rebuke their formidable force and continued doing so when the Turks handed Libya over only a few months later. Our relation with the Turks has always been... complicated to say the least as whilst we joined forces in 1911 and 1915, it is abundantly clear that the Porte isn't too keen on an independent administrative body within its domain.\n\nNonetheless when the Weltkrieg ended in an Ottoman victory, the overstretched and bankrupt empire was forced to concede that it didn't have the means to contest our strengthened post-war status and contended itself with the return of nominal control exercised from its bureaucrats in Benghazi.\n\nSince the end of the war, little has happened in Cyrenaica as the lack of both means and will to change the status-quo prevents any substantial changes. This was to change slightly in 1933 when our supreme leader, Ahmed Sharif as-Senussi, died of old age leaving his son to take up the reins. The death of this pivotal figure in our history however has reignited tensions between the pan-Islamic supporters of the late grandmaster and the Senussi Princes looking to the rightful heir, Idris, who went into exile after the Ottoman victory.
+§MEmir Idris Returns§! ($authoritarian_democrat_coloured$)\n£white_dot In the event \
+Ibrahim ibn Ahmad as-Sharif
+§YBorn:§! §L1903, in Kufra District, Vilayet of Tripolitania, Ottoman Empire§!
+Senussi Regency Council
+§YFounded:§! §LDecember 1937, in Ajdabiya, Emirate of Cyrenaica§!\n§YBackground:§! §LThe Grandmaster on the Senussi Order is no longer fit to rule, and a Regency Council has been convened before a potential successor emerges§!
+Idris I
+§YBorn:§! §LMarch 13th, 1890, in Jaghbub, Vilayet of Tripolitania, Ottoman Empire§!
+Umar al-Mukhtār
+§YBorn:§! §LAugust 20th, 1858, in Benghazi, Eyalet of Tripolitania, Ottoman Empire§!
+Yousaf Borahil Al-Msmare
+§YBorn:§! §L1886, in the Vilayet of Tripolitania, Ottoman Empire§!
+Omar Shegewi
+§YBorn:§! §Lin the Vilayet of Tripolitania, Ottoman Empire§!
+Safi al-Din bin Muhammad as-Sharif
+§YBorn:§! §LAugust 10th, 1895, in Jaghbub, Vilayet of Tripolitania, Ottoman Empire§!
+Omar Faiek Shennib
+§YBorn:§! §L1883, in Derna, Vilayet of Tripolitania, Ottoman Empire§!
+Senussi Cartographers
+Senussi Spy Ring
+Well Armed Bannermen
+Pliant Authorities
+As-Siddig al-Mutassir
+§YBorn:§! §L1912, in the Vilayet of Tripolitania, Ottoman Empire§!
+Yousef Borheil al-Massari
+§YBorn:§! §Lin the Vilayet of Tripolitania, Ottoman Empire§!
+Senussi Military Council
+§YFounded:§! §Lin the Vilayet of Tripolitania, Ottoman Empire§!
+Bashir ibn Hamza
+§YBorn:§! §Lin the Vilayet of Tripolitania, Ottoman Empire§!
+Ahmad Faqih Hasan
+§YBorn:§! §L1895, in the Vilayet of Tripolitania, Ottoman Empire§!
+Bashir Saadawi
+§YBorn:§! §L1884, in al-Khums, Vilayet of Tripolitania, Ottoman Empire§!
+Sadiq ibn Zarra
+§YBorn:§! §Lin the Vilayet of Tripolitania, Ottoman Empire§!
+Salim Bey al-Muntasir
+§YBorn:§! §Lin the Vilayet of Tripolitania, Ottoman Empire§!
+Ramadan al-Suwayhili
+§YBorn:§! §L1879, in Misrata, Vilayet of Tripolitania, Ottoman Empire§!
+'Ali Rajab
+§YBorn:§! §Lin the Vilayet of Tripolitania, Ottoman Empire§!
+Mahmud al-Muntasir
+§YBorn:§! §LAugust 8th, 1903, in Misrata, Vilayet of Tripolitania, Ottoman Empire§!
+Abdul Majid Kubar
+§YBorn:§! §LMay 9th, 1909, in the Vilayet of Tripolitania, Ottoman Empire§!
+Abdul Salam al-Buseiri
+§YBorn:§! §L1898, in Tripoli-of-the-West, Vilayet of Tripolitania, Ottoman Empire§!
+Muhammad Sakizli
+§YBorn:§! §L1892, in the Vilayet of Tripolitania, Ottoman Empire§!
+Ali Aneizi
+§YBorn:§! §L1904, in the Vilayet of Tripolitania, Ottoman Empire§!
+Salim B. Abd al-Nabi
+§YBorn:§! §L1880, in the Vilayet of Tripolitania, Ottoman Empire§!

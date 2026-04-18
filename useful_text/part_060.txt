@@ -1,0 +1,486 @@
+Costa Rica Focus Tree
+Costa Rica
+Costa Rican
+Costa Rica
+Partido Vanguardia Popular (Popular Vanguard Party)
+PVP
+Partido Vanguardia Popular (Popular Vanguard Party)
+PVP
+Partido Vanguardia Popular (Popular Vanguard Party)
+PVP
+Partido Republicano Nacional (National Republican Party)
+PRN
+Confraternidad Nacional (National Confraternity)
+CN
+Partido Republicano (Republican Party)
+PR
+Partido Republicano Nacional (National Republican Party)
+PRN
+Partido Independiente Nacional (Independent National Party)
+PIN
+Consejo de Seguridad Nacional (Council for National Security)
+CSN
+Partido Nacionalista (Nationalist Party)
+PN
+Partido Liberación Nacional (National Liberation Party)
+PLN
+The §YUSA§! has refused our request
+§YGermany§! has refused our request
+The §YUFC§! has signed the §YLabour Accord§!
+The §YZKG§! has signed the §YLabour Accord§!
+§YZKG Bankruptcy§! hasn't been solved yet
+§YLeón Cortés Castro§! has won the presidency
+§YRafael Ángel Calderón Guardia§! has won the presidency
+§RCortés will remain in office. This has dire consequences!§!\n
+The §YEconomic Tree§! will unlock in 5 years
+The §YZKG§! will determine the location of new plantations
+Unlocks £decision_icon_small §HDecision§! to survey land for new §YPlantations§!
+Unlocks £decision_icon_small §HDecision§! to expand the §YUFC Headquarters§!
+The §YUFC§! will establish their regional Headquarters in Costa Rica
+§YJosé Figueres Ferrer§! has taken over
+$unlocks_decisions$ to §YTopple§! the Central American Dictators
+$unlocks_decisions$ to Transform Costa Rica into a §YDemocratic Welfare State§!
+The 1940 elections have yet to occur
+Jiménez has withdrawn from the race.
+£topbar_convoys §Y5§!
+£topbar_convoys §R5§!
+It costs $COS_5_convoys_cost_blocked$ to take the decision
+£topbar_convoys §Y10§!
+£topbar_convoys §R10§!
+It costs $COS_10_convoys_cost_blocked$ to take the decision
+More than §Y15§! influence from the §YUFC§!
+Less than §Y95§! influence from the §YUFC§!
+Less than §Y98§! influence from the §YUFC§!
+Less than §Y100§! influence from the §YUFC§!
+§YUFC§! influence increases by £banana_texticon §R[?cos_UFC_change]%§!\n
+§YUFC§! influence decreases by £banana_texticon §G[?cos_UFC_change_dummy]%§!\n
+The §YUFC§! will stop operating in the country. Their influence will be §Geradicated§!\n
+§YUFC§! is expanding its operations
+We will lose an extra £banana_texticon §G2%§! if we either complete the focus §YIndustrial Development Scheme§! or §YA Different Approach§!.
+More than §Y10§! influence from the §YZKG§!
+More than §Y11§! influence from the §YZKG§!
+More than §Y14§! influence from the §YZKG§!
+More than §Y17§! influence from the §YZKG§!
+More than §Y20§! influence from the §YZKG§!
+Less than §Y98§! influence from the §YZKG§!
+Less than §Y95§! influence from the §YZKG§!
+§YZKG§! influence increases by £coffee_texticon §R[?cos_ZKG_change]%§!\n
+§YZKG§! influence decreases by £coffee_texticon §G[?cos_ZKG_change_dummy]%§!\n
+The §YZKG§! will stop operating in the country. Their influence will be §Geradicated§!\n
+We will lose an extra £coffee_texticon §G2%§! if we either complete the focus §YIndustrial Development Scheme§! or §YA Different Approach§!.
+§Y1§! UFC Profit
+§R1§! UFC Profit
+It costs $UFC_Profit_1_COST$ to take this decision
+§Y2§! UFC Profit
+§R2§! UFC Profit
+It costs $UFC_Profit_2_COST$ to take this decision
+§Y3§! UFC Profit
+§R3§! UFC Profit
+It costs $UFC_Profit_3_COST$ to take this decision
+§YUFC§! profits increase by §Y[?cos_profit_change]§!.\n\nModify §Y$COS_UFC_Profit_idea$§! by:\n$MODIFIER_CONSUMER_GOODS_FACTOR$: §Y[?COS_UFC_consumer_goods_tt|=%%]§!\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: §G[?COS_UFC_output_tt|=%%]§!\n$MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_FACTOR$: §G[?COS_UFC_output_tt|=%%]§!
+§YUFC§! profits decrease by §Y[?cos_profit_change]§!.\n\nModify §Y$COS_UFC_Profit_idea$§! by:\n$MODIFIER_CONSUMER_GOODS_FACTOR$: §Y[?COS_UFC_consumer_goods_tt|=%%]§!\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: §R[?COS_UFC_output_tt|=%%]§!\n$MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_FACTOR$: §R[?COS_UFC_output_tt|=%%]§!
+§YIncrease§! §CPRN§! support by $RIGHT|Y0$.\n
+§RDecrease§! §CPRN§! support by $RIGHT|Y0$.\n
+§RIncrease§! §rPVP§! support by $RIGHT|Y0$.\n
+§YDecrease§! §rPVP§! support by $RIGHT|Y0$.\n
+£manpower_texticon §Y50§! £rifle_texticon §H400§!
+£manpower_texticon §R50§! £rifle_texticon §R400§!
+It costs $MP_50_blocked$ to take the decision
+Zentralamerikanische Kaffee-Gesellschaft
+Our nation is almost fully controlled by a select elite of Coffee barons. Due to the American depression and the subsequent shockwaves, many of these barons with German roots have bound together and have created the §YZentralamerikanische Kaffee-Gesellschaft§! or §YZKG§!. Their power is large but could also be used to our advantage should we play our cards right.\n\nInfluence of the §YZKG§! : £coffee_texticon [?COS.COS_ZKG_influence]\n
+Combat Social Inequality
+Even though the Atlantic Workers Congress has fought hard to secure the little rights plantation workers now have, the great divide between the wealthy German Coffee Barons and the common men remains great. Further social concessions will help us improve the life of the man on the street and also reduce the pull of these companies on political affairs.
+German Cultural Exchange Programme
+Strong ties between our nation and the members of the German sphere in Europe has led to a great influx of art, literary works and an exchange of cultural heritage. Universities all across Germany and Flanders-Wallonia are also responsible for the better part of our highly educated populace and have drastically influenced the minds of our people.
+Extend our Loans
+Happily profiting from the lingering depression and now from the Black Monday catastrophe, investors and wealthy capitalists have loaned us the capital necessary to bail out the ZKG. Now these loan sharks are returning for the money we no longer have. Offering them small political concessions and selling some of our land to these individuals could mitigate the issue but will not serve as a permanent solution.
+Sell off Government Land
+For decades the governments of Central America have used foreign companies to back up their economies through the sales of vast swathes of plantation land. It is only right that we do so as well, no?
+Survey the Acquired Land
+Whilst large portions of our nation are ideal for plantations, not all of them are suited for the Coffee production. Scouting out terrain and determining whether or not it is worth the price we're asking for it is therefore key to the success of their investment.
+Extend Railroad Connections
+As the plantations keep growing and industry starts to foster, the need for better infrastructure increases as well. Following the example of Keith in the 19th Century, the ZKG has offered to extend the railroads if we are to sufficiently compensate them with workable plantation land.
+Hire Foreign Engineers
+Small mineral reserves have been discovered during the construction of the railroad and have prompted the ZKG to hire European Engineers to investigate the viability of these deposits and to further assist in the construction of bridges and tunnels.
+Expand the ZKG Plantations
+Positive response by both the company itself and other investors plus a rapid response from our government has led to an agreement concerning the new plantations. Promising to rely on mostly native Costa Rican labour and accepting the demands of the Atlantic Workers Congress, all parties involved have come to a suitable agreement and the first hectares of land have been put in action.
+United Fruit Company
+Ever since the American Minor Keith set foot in Costa Rica and received the contract to establish a railroad network in our nation, his company the Tropical Trading and Transport Company and its successor the §YUnited Fruit Company§! or §YUFC§! has played an important role in Costa Rican economics. The great success of the company however did not solely remain Costa Rican and through shrewd investment the company has established a network of subsidiaries and plantations all across the Caribbean, bringing great fortune to these nations but also causing massive social disruption, often leading to §Rstrikes§!, §Rviolence§! and §Rpolitical disaster§!.\n\nInfluence of the §YUFC§! : £banana_texticon [?COS.COS_UFC_influence]\n
+Improve the Conditions of the Plantations
+Even though the Atlantic Workers Congress has fought hard to secure the little rights plantation workers now have, the working conditions are still consider inhumane by many. Further checks on the company will help us improve the life of the men working in the plantations and also reduce the pull of these companies on political affairs.
+Sell Government Land to the UFC
+For decades the governments of Central America have used foreign companies to back up their economies through the sales of vast swathes of plantation land. It is only right that we do so as well, no?
+Commission new Telegraph Lines
+Communication between the two sides of our nation has always been a tricky affair often leading to miscommunication or unchecked corruption. Using their influence and expertise in the trade, the UFC has offered to expand our telegraph network in exchange for further concessions and the promise that we won't object to their Jamaican migrant workers.
+Establish UFC Headquarters in Puerto Limón
+As America descends into chaos and the individual nation states of Central America smell their chance to escape from the UFC monopoly, the company has proposed to expand their offices in Costa Rica and to establish Limón as their operational Headquarters for the Caribbean Region.
+Develop Banana Plantations in Limón
+Originally handed over to the UFC when Keith first started the company in exchange for the construction of a railroad across our nation, the Banana boom has struck the region and completely transformed it. Thousands of black Jamaican workers have been imported to work in the plantations and repeated sales of government land to the company have developed the region into an important economic hub, further aided by the key Puerto Limón harbour.
+Develop Sugar Plantations in Jamaica
+First operating under the West India Interest in the 18th Century and later fusing with the present-day West Indies Federation, the island of Jamaica has always been one of the main exporters of Sugar to the European Continent. Large investments by the British and extensive use of slavery exponentially increased the amount of sugar plantations on the island during much of its initial history and still leaves his mark on the nation as sugar remains its primary export.\n\nInvestors from the UFC have also shown interest in these rich plantations and have slowly but surely started buying land on the island to increase their own profit.
+Develop Banana Plantations in Jamaica
+Founded by a sailor called Lorenzo Dow Baker in 1870, the Boston Fruit Company was the start of the UFC operations on the island. Later merging with the company of Keith, the United Fruit Company started its rise to power and became one of the largest employers on the island. Continued growth of our operations in Jamaica should therefore be critical and have our priority when planning our next step.
+Develop Sugar Plantations in Cuba
+Mainly situated in the Oriente Province of the nation, the holdings of the UFC on Cuba aren't as influential to the nations politics as they are elsewhere in the region. Multiple sugar mills however exist on the island and it would be in our best interest and that of the company to keep these afloat.
+Develop Palm Plantations in Honduras
+Assisting in the military coup overthrowing president Davila and reinstating general Bonilla, Samuel Zemurray was able to extract massive concessions from the government of the nation. Offering to build up the infrastructure in the nation in exchange for enormous swathes of land, his company not only profiled itself as the motor of the Honduran economy but has since then branched out across the region before fusing together with the UFC.\n\nThe latter now not only holds great interests in the Banana production but is also responsible for sizeable amounts of Palm Oil and Abaca.
+Develop Abaca Plantations in Honduras
+Develop Banana Plantations in Honduras
+Develop Abaca Plantations in Guatemala
+Not only does the UFC control a sizeable percentage of all Guatemalan land but it also owns schools, railroads, housing companies and much more. To say the Guatemalan economy depends on the UFC would be an understatement and we cannot let this influence falter for the safety of the company.
+$COS_Guatemala_plantation_desc_start$\n\nMainly situated on the Eastern flank of the nation close to Honduras, the Abaca lands are providing a valuable alternative to the otherwise Banana dominated operations of the company.
+Develop Banana Plantations in Guatemala
+$COS_Guatemala_plantation_desc_start$\n\nMainly situated on the Western flank of the nation, the Banana plantations of Guatemala are the company's most successful operation yet and are not only contributing to continued growth of the stocks but are also allowing the UFC to branch out across the Caribbean and even into South America.
+Develop Banana Plantations in Colombia
+Centred around important Banana regions such as Magdalena, the company has had a troubled history in the South American nation. Various strikes, violent escalations between the workers and strikebreakers of the UFC have shaped the nation and the company is struggling to hold on to these assets with the American Civil War ravaging all in its path.
+Develop Palm Plantations in Nicaragua
+Global Trade
+As nations all across the globe have started to drastically increase their weapons industry output in order to make a profit, we now have the resources to participate in this trade as well.\n\nUFC Profit : §Y[?COS.cos_profit_factor]§!\n
+Purchase Trade Vessels
+Purchase Foreign Trucks
+Purchase Planes
+Policy of [COS.GetLeader]
+Promising a fresh wind through Costa Rican politics, President §Y[COS.GetLeader]§! has announced his plans for the upcoming 4 years. With a heavy focus on following the \
+Combat Footworm in the Lowlands
+Nearly 70% of the population in the Lowlands suffers from the Footworm disease. As a doctor himself, our president has proposed a programme wherein all children in the first grade will be given shoes by the state and the medical supplies necessary to rid ourselves of the problem.
+Stimulate Fishing Industry
+One of the major issues in Costa Rica is the very limited diet the average citizen consumes which leads to a great deficit of protein. Therefore the president has decided to kill two birds with one stone and plans to increase subsidies for the coastal region, boost the fishing industry and distribute seafood to the interior of the nation.
+Disband the Petroleum Monopoly
+Around 10 years ago, the entire gasoline and petroleum sector of our nation came under control of a single national company. Hoping to kickstart the economy and attract further foreign capital, the president has now proposed to break open the monopoly and let the Free Market take over.
+Create Low-cost Housing Cooperatives
+To combat the rising amount of homeless people in our nation and to provide quick and efficient solutions should a crisis occur, we should create housing cooperatives which will be supported by the National Bank of Securities.
+Policy of [COS.GetLeader]
+Building on the legacy of Ricardo Jiménez, §Y[COS.GetLeader]§! has announced that his focus shall be on combating the economic disaster that has overtaken the §YZKG§! and to improve the §Rterrible infrastructure§! of his nation through large government programmes.
+Build New Schools
+Continuing the Education reform announced by our President, plans have been drafted up for the construction of new schools on the countryside to reduce illiteracy even further. Priding ourselves on the saying that \
+Infrastructural Improvements
+As the majority of our shipping takes place in the Limón region, the Pacific coast has been fairly neglected by previous administrations. To combat this issue, the president has decreed that in cooperation with companies like the UFC the port towns of the Pacific will be further connected to the rest of the nation and new docks will be created.
+Silence the Press
+Whilst we carry freedom of speech as one of our proudest values, the increased presence of syndicalist propaganda and the continued slandering of the Cortés administration is becoming troublesome and has greatly angered the president who is already struggling to keep the nation together due to the economic collapse. Silencing a few newspapers like \
+Expand the Manufacturing Industry
+Contrary to most Central American nations, Costa Rica has a well-developed manufacturing industry and is quickly expanding this sector across the nation. The main issue with these businesses is that they greatly lack in size which makes them inefficient on a national scale. Fusing some of our over 7000 little \
+Presidential Elections
+As the term of [COS.GetLeader] nears its end, the political theatre starts playing once more. Even though the power of the §CPRN§! is large, cracks are starting to show in its once rigid organisation as ex-president §YRicardo Jiménez§! and syndicalist §YManuel Mora Valverde§! with his §rPVP§! have both announced their candidacies. Gathering support from the provinces, cracking down on rival rallies and pleading to the businessmen will be key to winning the campaign.\n\n§CPRN§! support : §Y[?COS.cos_prn_factor]§!\n§rPVP§! support : §Y[?COS.cos_pvp_factor]§!\n
+Gather Support in Puntarenas
+Gather Support in San José
+Gather Support in Cartago
+Gather Support in Limón
+Gather Support in Heredia
+Gather Support in Alajuela
+Gather Support in Guanacaste
+§YRicardo Jiménez§! rallies Support
+§YManuel Valverde§! rallies Support
+Légion del Caribe: Operations
+As the dictator of Costa Rica is deposed and democracy restored, the Caribbean Legion basks in the victory of their operation. With the full support of President Ferrer, they now have the means and the moral support necessary to complete their ideal and eradicate both the syndicalist and dictatorial regimes from the region.
+Launch the Liberation Campaign
+The time has come to throw off the shackles of oppression that have long quelled our brethren all across the Caribbean. We are their last hope and we shall bring them to the light!
+[FROM.COS_Supply_Rebels_Name]
+Weapon Run in Puerto Cabezas
+Support the Salvadoran Resistance
+Supply Freedom Fighters in Belize
+Infiltrate Puerto Barrios
+Supply Rebels in [FROM.GetName]
+Democratic Alliance of the Caribbean
+Form $faction_democratic_alliance_of_the_caribbean$
+Invite [FROM.GetName] into the Pact
+Form the Caribbean Economic Bloc
+Invite [FROM.GetName] into the Economic Bloc
+Rescue Panama from Colombian coercion
+Panama has been bullied by Colombia into joining their alliance under the weak justification of saving them from socialism. Let's give them a way out of this before their sovereignty is threatened any more.
+Merge with the Andean Pact
+The Andean Pact was created as a way to ensure stability and protection in their region and their goals are very similar to ours, but a dispute over Panama has soured relations between us and Colombia. The best course of action to amend this divide is to invite them into our alliance and sort our issues internally.
+Re-joining the Federal Republic
+With four members of the republic already united and willing to fight for our cause, it is our time to re-join the Federal Republic, to help them eliminate the issues that tore apart the first one, to uphold democracy in the union and to create a powerful army capable of protecting us and carrying on the goal of our alliance.
+Liberate [FROM.GetNameDef]
+For too long have the people of [FROM.GetName] suffered under dictators and corrupt officials. To rectify this, the Caribbean Legion has taken it upon themselves to free these people, topple the regime and restore democracy to the nation.
+Peace with the Caribbean Alliance
+Our victory in Costa Rica has put us on an advantageous position to initiate negations. We will limit ourself to territory our army has and can capture by foot alone, as it is clear that our navy is not sufficient enough to help in naval invasion.
+A Falling Alliance
+The fall of Costa Rica has brough disaster to the alliance. If we are not able to save them soon, we will have no option to accept our enemies demands and retreat from occupied Central American land.
+Policy of [COS.GetLeader]
+Awoken by the unconstitutional affairs of his predecessors and fighting for the rights of every Costa Rican citizen, §Y[COS.GetLeader]§! has great ambitions for the little nation. Not only are he and his Junta planning to implement radical new laws, they also plan to §Yrewrite the constitution§! and §Yabolish the army§!, culminating in what they have proclaimed the creation of the §CSecond Republic§!
+Institute the Tribunal de Sanciones Inmediatas
+Created under Decree No. 16, this law has ordered the formation of a tribunal with the task of submitting all those to trial who have committed crimes but were able to escape punishment due to their ties to the previous regime.\n\nThe main reason behind the creation of this tribunal is not per se to persecute all members of the old regime but to offer a place to our citizens to file complaints instead of taking justice in their own hands.
+Institute the Tribunal de Probidad
+Created under Decree No. 41, this law has ordered the formation of a tribunal in which we shall persecute the corruption of members of the old regime and decide whether or not we should seize their assets for the state.\n\nContaining the names of 209 people, the new Tribunal will track down the financial affairs of these people starting 8 years ago and working themselves up till the present day.
+Reform the Instituto de Defensa del Café
+To avoid yet another crisis like Black Monday which devastated the Coffee Industry, the government has decided to reform the Coffee Institute and provide better measures to protect both the small and large coffee farmers from crises.
+Ban the PVP
+Constantly criticising our regime at all points, committing treason by allowing foreign powers to station troops in our nation and their inability to cooperate with a fully constitutional system has left us no choice but to ban the party and make membership of any syndicalist party illegal.
+Found the Instituto Costarricense de Electricidad
+Representing the culmination of over 50 years of finding an efficient way to provide electricity to the nation, the ICE is founded to modernise the nations struggling sector. Lack of effort by foreign based companies that controlled the sector for nearly 15 years has now prompted a national initiative to create a Costa Rican national company responsible for the creation and maintenance of our new electricity grid. Plans for new roads, power cables and hydro-electric dams such as Carrillos de Poás have already been drafted and are only awaiting the approval of the Council.
+Disband the Junta Fundadora
+Founded during the early days of the Ferrer regime, the Council was tasked with the creation of a new modern constitution and to correctly handle the transition to the Second Republic. 815 reforms later, we see this task as finished and power will be transferred back to the electoral system which will decide on the new president.
+Abolish the Armed Forces
+We should be an example to the rest of our world and show them that real progress is made in a parliament instead of on the battlefield. Not only will we completely abolish our armed forces but we will refrain from any conflicts outside of our nation and focus on further boosting our education level and developing our rapidly growing economy.
+Foreign Policy
+Join the Reichspakt
+Join the Entente
+UFC Labour Conflicts
+The United Fruit Company holds vast power in our nation's economy and has deep ties within the government. While the lingering American Depression has proven detrimental to their influence abroad, making way for increasing German trade, the company and its terrible labour practices have led to rising tensions in the political landscape. With elections just around the corner and socialism entrenching itself all around Central America, this could escalate without proper government intervention.
+Beacon of Democracy
+Strong traditions of democracy and progressive reforms over the last few decades have led to Costa Rica being seen abroad as the shining beacon of Central American democracy.
+£pol_idea Influence of the UFC
+Influence of the UFC
+The United Fruit Company or the UFC has built railways, infrastructure and housing to expand their operations in our country, but the terrible practices that their employees have to endure has earned them a terrible reputation.
+§CCurrent influence of the UFC:§! §Y[?COS.COS_UFC_influence]§!\n$MODIFIER_POLITICAL_POWER_GAIN$: [?COS.COS_UFC_influence_modifier|+=]\n$MODIFIER_STABILITY_POPULARITY_FACTOR$: [?COS.COS_UFC_influence_modifier|=%+]\n$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: [?COS.COS_UFC_influence_construction_speed|+=%]\n$MODIFIER_CONSUMER_GOODS_FACTOR$: [?COS.COS_UFC_influence_consumer_goods|Y=%1]
+£pol_idea Influence of the ZKG
+Influence of the ZKG
+The Zentralamerikanische Kaffee-Gesellschaft or ZKG was created by coffee barons of German descent to protect and expand their influence over the Costa Rican government and expand their plantations in the central valley.
+§CCurrent influence of the ZKG:§! §Y[?COS.COS_ZKG_influence]§!\n$MODIFIER_POLITICAL_POWER_GAIN$: [?COS.COS_ZKG_influence_pol_power_gain|+=]\n$MODIFIER_RESEARCH_SPEED_FACTOR$: [?COS.COS_ZKG_influence_research_speed|%=+]\n$MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY_FACTOR$: [?COS.COS_ZKG_influence_production_cap|=%+]
+ZKG Bankruptcy
+Even though the lucrative coffee company once knew no end to its wealth, even investing in the assets formerly held by the UFC, the crisis that has shook up Germany has left its mark on the ZKG. With stocks plummeting and coffee demand in rapid decline, the overstretched company has failed to find a buyer for its failing assets and is going down in a blaze of fire.
+ZKG Bankruptcy: Temporary Bailout
+Due to the influence of the coffee barons in the Costa Rican government, they have been able to secure a temporary stop measure to the down-spiralling crisis and have provided the failing ZKG with the credit it needs to stay afloat... for now.
+ZKG Bankruptcy: American Support
+UFC relief funds for our government have given us the breathing room to think about the future but the crisis is far from over
+ZKG Bankruptcy: Renewed Exports
+The Coffee harvest has been kind on us and with the global economy recovering from the crisis, our exports have once again increased.
+Plan Limón
+Named after our shipping port on the Atlantic, the new centralised government directive to improve and grow the industry has been enacted
+Plan Limón
+The Planning commission has ordained the next step in the development programme and has expanded the gold mines within our territory to fund the ambitious plan
+Plan Limón
+Foreign assistance plays a key role in the Limón Plan as without their knowledge of engineering and modern construction, we would be forever stuck in the 19th century
+Plan Limón
+The successes of Plan Limón are as clear as daylight and the industry of Costa Rica is propelling itself forwards as never before.
+National Parks Initiative
+Our nation has neither the capital nor the resources to sustain an industrialised society. Therefore, we should change course and preserve the green that mother nature has given us and attract those who have less to enjoy our splendour.
+Agricultural Protection
+Whilst the fields yield hundreds of hectares of cash crops, the people in the street grow hungrier by the day. Centralised government incentives to establish a more varied diet for our people should diminish this!
+Banking Reform
+Educating the Countryside
+Cement Administration
+American Refugees
+Escaping from the chaos that has taken hold in their homeland, thousands of American refugees have entered our nation bringing with them their capital and knowledge
+Work Code
+CCSS
+Deplorable sanitary conditions and the lack of health care for the lower classes have prompted this revolutionary system which enables pensions and healthcare for all Costa Ricans no matter their status
+Rural Credit
+Mobile Warfare
+Improve Tactics
+Renovated Bellavista Barracks
+German Naval Attaché
+Observers from the Kaiserliche Marine are investigating our Coast Guard and training it in anti-submarine tactics to safeguard our coasts and avoid our freighters from getting by the brunt of the fighting
+Reformed Education System
+Education for all is the top priority for the Costa Rican government and the new programme has granted access to the public education system to all Costa Ricans
+Expanded Citizenship
+£pol_idea Caribbean Economic Bloc
+Caribbean Economic Bloc
+§LFor every nation joining the economic bloc, this modifier will be increased.§!\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: [?COS.COS_car_eco_bloc_modifier|+=%]\n$MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_FACTOR$: [?COS.COS_car_eco_bloc_modifier|+=%]\n$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: [?COS.COS_car_eco_bloc_modifier|+=%]\n$MODIFIER_RESEARCH_SPEED_FACTOR$: [?COS.COS_car_eco_bloc_research|+=%]
+§LFor every nation joining the economic bloc, this modifier will be increased.§!
+$industrial_capacity_factory_tooltip$\n$industrial_capacity_dockyard_tooltip$\n$production_speed_buildings_factor_tooltip$
+Central American Ties
+Increased Central American Ties
+Domestic Designs
+Coto Compensation
+As part of a mediated settlement, Panama has rescinded its claim to Coto in exchange for monetary compensation.
+Coto Compensation
+As part of a mediated settlement, we have rescinded our claim to Coto in exchange for monetary compensation.
+£pol_idea Profits from the UFC
+Profits from the UFC
+Increasing profits from the United Fruit Company's activity in the nation is assisting our economic output.
+§CUFC Profits:§! [?COS.cos_profit_factor|Y0]\n$MODIFIER_CONSUMER_GOODS_FACTOR$: [?COS.COS_UFC_consumer_goods|Y=%1]\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: [?COS.COS_UFC_output|+=%]\n$MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_FACTOR$: [?COS.COS_UFC_output|+=%]
+Investing
+With the influence of the big companies that help in the development of our country gone, the government has been force to take from its limiting budget to compensate.
+ZKG Bailout
+Although founded by Costa Rican coffee farmers of German descent, the explosive growth of the German economy has led to the company being absorbed into a German multinational company, the ZKG. As this however tied the company to the German stock exchange, the fallout of the Black Monday disaster has had catastrophic consequences for the company who now edges on bankruptcy.
+Request American Support
+Even though the Americans themselves are suffering greatly from their own recession, various investors have shown interests in our land offering to assist the government in bailing out the ZKG in exchange for precious hectares of plantation land.
+UFC Land Acquisition
+Originally founded by Keith in Costa Rica back in the 19th century, the company no longer has our nation as its primary base of operations. The low cost of land now however caused by the governments policy to sell land cheaply to attract investors has once again attracted the UFC to increase its operations in our nation, further strengthened in their decision by the stability of our nation.
+Outproducing the Competition
+As demands for stable food supply routes increase across the world and several of the once 'Banana Republics' have descended into chaos, the access to bananas is decreasing rapidly making our nation an attractive investment and a steady supply of the delicious yellow fruit.
+Puerto Limón Expansion
+Located on the Atlantic side of our nation, Puerto Limón has long served as the central hub for the Banana export and has subsequently been expanded multiple times already by the UFC to meet increasing exports. Localising the production of freighters would be a wise investment as the American shipyards become less reliable by the day.
+Connecting the Plantations
+Railroads are no longer an abstract landscape decoration feature for the Costa Rican people who have seen the completion of multiple projects in their lifetime. The expansion of the plantations however caused by the new policy has left the rail magnates to play catch up. Inviting foreign investors to assist us in this could prove to be a big boon to our recovery.
+Weathering the Storm
+Our experience with the American recession in the '20s and the subsequent decisive economic policy of our President has enabled us to quite painlessly get over the recession. Jobs have been lost and empty bellies endured but compared to our neighbours we can proudly say that Costa Rica is prepared for the future.
+German Crisis Response
+It was the Germans who brought down our economy so it is only right that they are going to help us recover. This will come at a cost however as the hawkish investors of the Empire are sure to demand further land concessions in exchange for lower tariffs and agreeable trade terms.
+Cash Crops Investments
+Coffee and Bananas are the motor of our economy and have brought us much wealth in the past. Surely further backing down on this will rescue the ZKG from imminent collapse whilst also providing a feeding bottom for new investments by drastically lowering the price of the plantation land.
+Deal with the ZKG
+As German investors have mostly backed out of the economy and sold their shares during the flurry of Black Monday, de facto ownership has returned to the original founders who hold the interests of our nation in higher regard than their oversea colleagues.
+Public Works
+Influenced by the economic policies of both Keynes in the United States and Schacht in the German Empire, the government has decreed a policy of massive public investments to keep the population employed and ensure a solid base for our economy to flourish on.
+Cultural Growth
+Many of our intellectuals have chosen to study in the nation of Flanders-Wallonia, more precise at the Catholic University of Leuven, and the continued partnership between the two has led to an increased interest by the Flemish-Walloon people in our culture and traditions. Aware of our pride in our National Theatre, their government has shown willingness to fund its renovation and strengthen cultural ties.
+Mitteleuropean Trade Agreement
+Timid investments from the German companies has thus far kept us from recovering fully but the terms of the new agreements drafted up by our government have shown promise for both our citizens and the assets under control by our German allies.
+Industrial Development Scheme
+Inspired by the rapid industrialisation of other American nations and the growing importance of raw industrial power, the government has announced the creation of \
+Expand Textile Industry
+Although artisanal in nature, the textile industry of Costa Rica is renown across the region and has close ties to both American and German clothing companies. As the production for now however is solely located in small workshops, we hope to set up actual factories to increase our output drastically.
+Economic Boom
+As the recession nears its end and the ZKG seems nearly fully recovered, the construction of further production facilities seems to have finally brought fruit as we are shooting ahead of our neighbours in GDP growth.
+Dig Deeper
+Located primarily on the Northern side of our country, the old Spanish gold mines are nearing depletion. As they haven't been a major part of our economy for decades, prospecting for new sites has always been postponed. The collapse of the coffee market has made the government realise that diversifying the economy is key and has led to prospectors getting invitations to examine the surface of our nation.
+Foreign Know-how
+Our nation has thus far lacked adequate higher education which has led to many of the upper class studying abroad, with a certain preference to the universities of Flanders-Wallonia. Instead of letting our citizens travel abroad for education, we should encourage foreign teachers to come to Costa Rica and assist us in the creation of our own higher education system.
+Foundations of a Manufacturing Industry
+Limited to the production of farming tools and small products for domestic use, our manufacturing industry is in dire need of state intervention. Thousands of small workshops exist across the nation but the connection between these producers and their customers has thus far only been determined by their location. By steering the economy with a heavy hand, the state hopes to centralise production.
+Escuela Metalica
+Serving as the Headquarters of the Escuela Buenaventura Corrales, the school is one of the oldest education facilities in the nation, a symbol of great pride and a testament to the industrialisation of our nation. Inspired by the design of the Eiffel Tower, it was designed and built in Belgium by Charles Thirrion and then transported by ship to Costa Rica where it was reassembled in front of the Morazán Park.
+Heavy Industrial Expansion
+Hoping to continue on the successes of our nascent industry and enjoying the technological expertise of the American émigrés, the foundations of our very own heavy industry are being drafted and considered by the government.
+A Different Approach
+As smoke stacks and dark clouds mark the skyline of the industrialised nation, we as Costa Ricans should take pride in our natural beauty and stay away from the temptations of mass production. Others should appreciate that our nation is a special place and that fauna and flora are more important than coal.
+Promote Tourism
+Be it on the trails through the hinterland, the cultural sightseeing of cities such as San José or just the beauty of our coastline, our nation is rapidly establishing itself as a retreat from the chaos and haste of modern life and a flourishing tourist destination.
+Boost Cash Crops
+Cash crops have served us well for generations and are far cleaner and less demanding on our people than the work in mines and factories. Further contracts with the ZKG and UFC should help us further expand the export economy whilst keeping our nation clear from the taint of industrialisation.
+Small Business
+Contrary to most Central American nations, Costa Rica has a well-developed manufacturing industry and is quickly expanding this sector across the nation. Over 7000 of these little \
+Hydro-Electricity
+We may not have the oil or coal of our neighbours but foreign studies have identified our nation as prime land for hydro-electricity, enabling more and more workshops to work on cheap, clean electricity.
+Engineering Breakthroughs
+As international research cooperation efforts are becoming more and more the norm, Costa Rica has been able to profile itself as one of the centres of knowledge attracting scientists from all across the Americas to work together in peace free from the obstruction of a government or the instability of the regimes that define Latin America.
+Paving the Way to the Future
+The rest of the world may not yet have realised that the constant greed and exploitation of mother nature will one day force them to pay the price, but here in Costa Rica, efforts to strive for symbiosis between man and nature are conducted at every corner. We can only hope that others soon realise the same thing...
+Conservative Victory
+Coming as no surprise to anyone, President Cortés has been able to achieve the presidency thus continuing a long line of conservative president that have ruled the nation even since the Ticino Coup.
+Banking Reforms
+The Costa Rican banking is a disorganised mess based around outdated laws and unnecessary complications. We should root out the weed and reform the system to accommodate both foreign and local investors.
+Educational Reforms
+With the spirit \
+Cement Administration
+Whilst Cortés may not be liked by everyone due to his strict and severe punishments, one cannot deny that the efficiency and reliability of the civil service has leapt lightyears ahead of what it was before his presidency. Punctuality, anti-corruption laws and a focus on providing clear transparent administration have earned him the respect of many Costa Rican.
+Adapt the Constitution
+As outlined by the Costa Rican constitution, presidents are not allowed to immediately serve a second term after their first one is over. President Cortés however has shown a desire to continue his presidency for another four years and is slowly working his way through the administrative paperwork to overrule this law.
+Iron Bars Presidency
+Nicknamed the President of Iron Bars, Cortés has received the cognomen due to his massive investments in infrastructural expansion and the reinvigoration of our more backwards regions. Multiple plans for harbour expansions, industrial zones and railway extensions have been drafted up and are only awaiting final approval.
+La Sabana International
+As the world grows ever more interconnected, we should not stay behind. Therefore to increase connectivity between our allies in Europe and the Americas, Cortés has announced his pet project, the construction of an International Airport in San José.
+Railroad Expansion
+Until now the vast majority of our railroads were constructed by foreign contractors in exchange for acres of plantation land. The unreliability of the global market however and the rapid decline in American stability has prompted the government to take decisive action and focus on training technicians and construction workers able to do the work without foreign assistance.
+Banana Plantations in the South Pacific
+Due to the focus of the UFC on the Atlantic coast and the region around Puerto Limón, development of the Pacific Coast has been lacking for decades now with plantations on this side of the nation working far less efficient and suffering due to a lack of infrastructure. By cooperating with the UFC, we hope to attract more investments to this region and combat the rising poverty.
+Naval Facilities
+As the local market for cash crops is limited at best, we need to invest in our naval avenues that connect the plantations of the UFC with the American continent and the coffee traders with the German homeland.
+Socialist Victory
+Although coming as a surprise to many, close friends and associates of Calderón saw this \
+Break Coffee Elite
+For decades now Costa Rican politics have been indirectly controlled by a small minority of wealthy coffee barons who have dictated the policy of the nation through the PRN. It is their influence that we will need to rid ourselves of if we want to stand any chance at fully implementing our social programme.
+Develop Atlantic Region
+One of the major issues in Costa Rica is the very limited diet the average citizen consumes which leads to a great deficit of protein. Therefore the president has decided to kill two birds with one stone and plans to increase subsidies for the coastal region on the Atlantic, boost the fishing industry and distribute seafood to the interior of the nation.
+Introduce Work Code
+The main pillar of Calderón's policy, the Labour code comes as a reaction to the mounting labour conflicts between employer and employee. Incorporating everything from obligatory holidays, collective bargaining, wages, social organisations and even the basis of a social security system, the code has become an ideal for socialists across the world.
+Found the CCSS
+Social Security (Caja Costarricense del Seguro Social CCSS or Caja) further expands on the basis laid out by the Labour code. Designating it as the duty of the employee to contribute 25 percent of the salary to an employee's social security account, the social security account will cover medical care, hospitalisation, with a small portion going to a pension fund for all Costa Ricans.
+Provide National Healthcare
+As part of the CCSS and due to Calderón's own close links to the medical world due to his profession, government funding has been diverted from the armed forces to further subsidise the medical sector working to the ultimate goal of providing reliable healthcare to every citizen.
+Introduce Minimum Wage
+Section 177 of the Labour Code will provide for minimum wages to be established periodically for the private sector. A National Wage Council composed by representatives of the Government, the employers and the employees will be formed which recommends percentages of adjustment trying to match cost of living increases.
+Law of Parasites
+To combat poverty and close the wealth gap, this new law will allow the landless to acquire a small parcel of land on the promise of using it to cultivate crops. Support from the PVP has already been shown for this programme and its popularity is rapidly spreading amongst the lower classes
+Handling the Budget
+Even though we have made massive headway in the development of our social system, the economy has taken a massive hit and is groaning under the weight of these new expenditures. We should cut down on funding here and there and encourage entrepreneurs to step away from the traditional agricultural market to soften the blow.
+University of Costa Rica
+Founded as the Universidad de Santo Tomás in 1843, the Catholic institution was forced to close down in 1888 under the progressive anti-clerical government of President Bernardo Soto Alfaro as part of a campaign to modernise public education. The schools of law, agronomy, fine arts, and pharmacy however continued to operate independently now to be reunited into the Universidad de Costa Rica.
+Rural Credit
+To assist the workers in gathering the necessary funds for their enterprises, especially the farmers, the government has created a sort of credit bank that will provide loans at low interest to the Costa Rican people to rapidly increase the economy.
+Socialism in One Nation
+As the first reforms are rolling out to the public, the popularity of these (mainly the Labour Code and CCSS) have skyrocketed leading to a feeling of pride by the Costa Ricans to be more advanced and progressive than their backwards neighbours.
+Ferrer takes Control
+The Civil War is over and the dictator ousted. As our Caudillo Ferrer takes control over the nation with his \
+Nationalise Banks
+To relieve the crushing poverty and deprivation of the rural population, Don Pepe has formulated a plan in which the public sector would be financed by profits from state-owned enterprises, and the private sector would be financed by state banking. State-owned capitalist enterprises would be founded and their profits would return to the national treasury to finance infrastructure projects.
+Women Suffrage
+Suffragette movements have long been clamouring for government recognition in Costa Rica and whilst the previous administration made some promises to integrate women in the electoral process, nothing really came from it. Until now that is as Don Pepe has already openly expressed his support for their movement and is planning to allow women to vote starting from the next national election.
+Public Education for All
+Education is one of the key pillars our nation is built on and plays a vital role in the economic plans of Don Pepe to establish the Holy Trinity of national development : healthcare, education and infrastructure. By rolling public education out to all Costa Ricans no matter their class or descent, we can ensure a stronger literate work force and establish the know-how we need.
+Expand Citizenship
+Friction between the native Costa Rican population and the black immigrants on the Atlantic coast has long caused issues in our society as the latter were never fully recognised as Costa Rican citizens but more as a labour force for the American plantations. Don Pepe now plans to expand the citizenship regulations by making all children of these black immigrants full Costa Rican citizens.
+Rewrite the Constitution
+Through the \
+Fulfil our Duty
+Even though we may now have one of the most democratic and stable regimes on the planet, our brethren in Central America are still sweating under the yoke of corrupt politicians, \
+Shining Beacon of Progress
+The world is in awe at our immense progress over the last few months, with many a politician declaring Costa Rica as the prime example of a successful humane socialist revolution. Our economic policies may have deteriorated our relations with the multinational companies that once fully controlled our nation but as favelas disappear and poverty declines rapidly, we can celebrate.
+Increase Military Expenditure
+Consisting of a grand total of 300 soldiers who are closer to retirement than a battlefield, the Costa Rican 'army' is far from prepared for any military confrontation and is in dire need of government support to maintain even the smallest of garrison.
+Follow the German Doctrine
+Inspired by the military prowess of our dear friends across the pond, our chief of staff has proposed to send an attaché to the German Empire to study their advances in manoeuvre warfare. Although, due to our lacking military industry, we are limited to apply this lessons to cavalry.
+Artillery Upgrades
+As most of our artillery pieces date back to the 19th century, many feel that the time for renovation has arrived. Multiple offers from artillery manufacturers across the world have already arrived in our mail box.
+Follow the American Doctrine
+Even though the USA has not participated in any modern conflict since the American-Spanish war, the close participation between American forces and our own during the Central American interventions will help improve our very outdated military tactics.
+Modern Rifles
+Deeply impressed by the latest models of Mauser, our president has personally ordered that the army is equipped with their latest product. Although opposition parties have countered that they would see no use but for parades, the president is not willing to change his mind and ordered the Defence Ministry to file an order at the German company.
+Domestic Weapons Manufacturing
+Until now domestic weapons manufacturing in our nation has been practically non existent apart from artisanal hunting rifles. As tensions continue to rise however and the availability of weapons becomes scarcer by the day, the Defence ministry has requested that we assign them a grant to prospect for a potential site for our own production facilities.
+Funds for the Officer Academy
+Built in 1917 under the Ticino dictatorship, the Bellavista Fortress in San José has served as the main military centre of operations in our nation. Dire lack of funding however have left the rampart filled with dusty canons and the classrooms of the training centre with missing chairs and a broken blackboard.
+Fortify the Panama Border
+Recent exercises of the Panamanian army near the disputed Coto region have left our own forces fearing a possible incursion of their forces should our allies be distracted by other conflicts. Inspired by the modern European fortification belts, the army has proposed the construction of a \
+Costa Rican Patriotism
+Whilst the military tradition of our nation is pitiful to say the least, patriotism still rules strong in the minds of our citizens. Proud of their democratic legacy and unwilling to bow to foreign dictators, the people could be rallied to enlist for the armed forces through a propaganda campaign focused on defending the fatherland should the need arise.
+Expand the Coast Guard
+Apart from some small motorboats, our navy is nothing to pride ourselves on, but while it may be tiny, it does the job. Recent discoveries of smuggling near the Nicaraguan border however have prompted the government to consider the purchase of additional vessels to guard our waters.
+Guard the Freighters
+As freighters serve as the main connection between our nations economy and the world trade web, their defence is one of our top priorities. We wouldn't want a French sub to blow up a ship in Puerto Limón, now would we...?
+Purchase German Destroyers
+Due to the stipulations in our military pact, the Germans have demanded that we maintain a small fleet to secure their interests with in Central America. Offering to sell us some of their older destroyers, the groundwork of an actual navy will hereby be founded.
+Naval Attaché to Germany
+We may now have the navy to patrol our waters with but due to our complete lack of training, the new ships routinely crash into their docks and a recent situation on one of the ships nearly led to the explosion of its engine due to the inexperience of the crew. By sending our fresh officer recruits to Germany to serve as observers in the Kaiserliche Marine, we hope to avoid further catastrophes.
+Found National Shipyard
+Even though our nation is fully reliant on the sea trade, domestic productions of seafaring vessels has never really been able to compete with the much more efficient and cheaper foreign vessels. To bring change to this, the government has decreed the foundation of our own Costa Rican Shipyard who will being production of fisher trawlers and small cargo vessels as soon as possible.
+Test New Designs
+Whilst our docks are tiny compared to those of the more developed world, some of our engineers have proposed a cheap but cost-effective destroyer model. Whether their designs who seem oddly similar to American designs have anything to do with the theft of American plans last month is as of yet unclear but they have ensured us that it is merely a coincidence.
+Costa Rica in the Air
+Even though we now boast an international airport in our capital, the development of air transport in Costa Rica is far behind the times and plans for a fighter force are for now only reserved to the imagination of our greatest dreamers.
+Pilot Training Programme
+As hobby aviation is starting to finally take off, a petition by the local San José flight club has requested government funding for their project in exchange for assisting in our plans to train a domestic air force.
+Domestic Designs
+Dreams of an impressive air force have taken Costa Rica in its grasp as engineers from all sides of our nation are submitting designs and ideas to the Central Bureau in response to a government programme to design our very own fighter plane. Whilst the quality of these designs is yet to be determined, we are amazed by the enthusiasm of our citizens.
+Expand Aircraft Production
+Observing our struggles with a certain degree of ridicule, an American company has offered us some assistance in the design of our fighter plane and has made some drastic adaptions to our design that should hopefully avoid it from crashing upon landing. Not that that ever happened of course...
+Purchase American Fighters
+Surprised by our lack of airpower, the American government has offered the sale of Boeing P-26 fighters to guard our skies and deter incursions from our neighbours.
+American Weapons Contracts
+Through a system of lend lease and for the sake of protecting the Americas, the US have sent us the necessary arms to supply our troops with and avoid us being underprepared should war arrive on our shores. Not only through sales but also local partnerships, the Americans hope to continue building on our good relations and at the same time establish a loyal base of operations close to the Canal.
+Class warfare, rapid militarisation and the Iron Grip of the Kaiser hold the world in its grasp, which makes it even more peculiar that in the midst of all this violence and pain we can find the tiny republic of Costa Rica. Taking great pride in their impressive literacy statistics and their unbreakable dedication to the Constitution, the nation stands as a rock above its neighbours who have long been eyeing its land. As their greatest ally starts to descend into chaos, vultures all across the Americas are waiting for the proud eagle to fall. Diplomacy will have to prevail if we are to survive the coming tide...
+GFX_COS_intro
+Costa Rica: A Central American Success Story
+Tucked away deep in the Central American jungles, our small but proud nation has flourished for many decades enjoying literacy rates higher than some European nations and a slow but steadily growing economy based on the banana and especially coffee trade.\n\nEnsured by a strict adherence of all parties to the constitution, there has been no military intervention or political coup in the nation since the failed dictatorship of Ticino in 1917 who was deposed mere months later under pressure from the people, refusing to endure a dictator in their republic. Ever since the nation has been controlled by a varied albeit egalitarian caste of politicians who have enjoyed the fruits of the growing German economy and the close ties between our two nations.\n\nUnder the wing of the PRN, president Ricardo Jiménez is able to look back on a successful term in which he dealt with both the economic depression caused by the American recession and the rising voices of socialist movements who enthused by the Atlantic Workers Congress have finally risen up from their slumber and demanded better representation. Although they somewhat succeeded in their aims and have forced the government to draft a labour accord, the law is far from passed yet and under the rising star of Manuel Mora Valverde trouble between companies and workers is far from over.\n\nNevertheless, the nation flourishes as the fruits of our relations with Mitteleuropa are flowing in in the form of cultural exchange programmes, scientific assistance and a strong bond between universities such as the KU Leuven in Flanders-Wallonia and the Costa Rican upper class.
+§MPRN (Conservadores)§! ($social_conservative_coloured$)\n£white_dot Nominate Cortés in the republican nomination.\n£white_dot Do not complete the focus §YAdapt the constitution§!.\n£white_dot After winning the 1940 elections, Calderón will take over and go down the §MPRN (Socialistas)§! path.\n£white_dot Accept the offer to restore stability and held emergency elections, that will be won by Ricardo Jiménez of the §cPRN§!.\n\n§MPRN (Socialistas)§! ($social_democrat_coloured$)\n£white_dot Nominating Calderón in the republican nomination or the §cPRN§! winning the 1940 elections, will see him announcing sweeping reforms and leading a socialist government.\n£white_dot After around 2 years, Calderón will demand emergency powers.\n£white_dot Around less than a year later, an offer to restore stability will appear, reject the offer to continue the socialist government.\n£white_dot In the next elections have Picado take control.\n\n§MPartido Liberación Nacional§! ($social_democrat_coloured$)\n£white_dot Nominate Cortés in the republican nomination.\n£white_dot Complete the focus §YAdapt the constitution§! and win the 1940 elections.\n£white_dot When Ferrer goes on the air, have him put on the first boat to Mexico, this will lead to him escaping and launching a coup.\n£white_dot Or, have Calderón announce his second term in the elections and Ferrer will go on the air and coup him regardless of your choices.\n£white_dot Or, follow the steps to make the army depose Mora, have the council retain control and Ferrer will go on the air and coup them regardless of your choices.\n\n§MPartido Vanguardia Popular§! ($syndicalist_coloured$) §CNote: If Central America or Nicaragua is syndicalist, they will annex Costa Rica. Otherwise, Costa Rica will return to a conservative regime.§!\n£white_dot Follow the same steps as the §MPRN (Socialistas)y§! path, but choose to accept the offer to restore stability and have Mora proclaim the Workers Republic.\n£white_dot If Central America or Nicaragua is syndicalist, they will offer to annex the country (making you switch to them), rejecting will make the army depose Mora shortly after.\n\n§MForeign Policy§!\n§MReichspakt§!\n£white_dot Ask for German protection after the Second American Civil War breaks out. Giving us a guarantee from them and a decision to join their faction once the Second Weltkrieg begins.\n£white_dot If Canada invades Panama, choose to remain neutral.\n§MEntente§!\n£white_dot Ask for Canadian protection after the Second American Civil War breaks out, set the game rule §YEntente§! in §YCosta Rican Foreign Policy§! to guarantee Canada accepts. This will give us a guarantee from them and a decision to join their faction once the Second Weltkrieg begins.\n£white_dot Or, if Canada invades Panama, send an offer to them, joining their war against Panama and their faction.\n§MDemocratic Alliance of the Caribbean§!\n£white_dot Follow the steps in the §MPartido Liberación Nacional§! path.\n£white_dot Complete the decision £decision_icon_small §YForm $faction_democratic_alliance_of_the_caribbean$§! to gain access to decision to invite all democratic Central American, Caribbean and northern South American nations into our faction.\n§CNote: Central America will also have the option to create this faction if they are democratic, but will wait until June of 1940 to do this if Costa Rica is player controlled.§!
+$CEN_pre_guide$
+Manuel Mora Valverde
+§YBorn:§! §LAugust 27th, 1909, in San José, San José Province, Republic of Costa Rica§!
+Rafael Ángel Calderón Guardia
+§YBorn:§! §LMarch 10th, 1900, in San José, San José Province, Republic of Costa Rica§!
+Teodoro Picado Michalski
+§YBorn:§! §LJanuary 10th, 1900, in San José, San José Province, Republic of Costa Rica§!
+José Figueres Ferrer
+§YBorn:§! §LSeptember 25th, 1906, in San Ramón, Alajuela Province, Republic of Costa Rica§!
+Francisco Vargas Vargas
+Carlos María Jiménez Ortiz
+Ricardo Jiménez Oreamuno
+§YBorn:§! §LFebruary 6th, 1859, in Cartago, Cartago Province, Republic of Costa Rica§!\n§YBackground:§! §LThe son of two-time president Jesús Jiménez Zamora, Ricardo Jiménez Oreamuno rose to prominence before the Weltkrieg. In his first term as president between 1910 and 1914, he oversaw the repayment of the country's crippling national debt. By his third stint as president, the country's national debt had again skyrocketed, and again President Jiménez attempted, less successfully than before, to bring Costa Rica back from the brink of default.\nLooking forward, Jiménez fears that without a principled hand to guide it, Costa Rican democracy could be hijacked by foreign economic interests. Perhaps though he wishes to retire from politics, such fears will ensure his continued presence.§!
+León Cortés Castro
+§YBorn:§! §LOctober 8th, 1882, in Alajuela, Alajuela Province, Republic of Costa Rica§!
+Julio Acosta García
+§YBorn:§! §LMay 23rd, 1872, in San Ramón, Alajuela Province, Republic of Costa Rica§!
+Consejo de Seguridad Nacional
+§YFounded:§! §Lin San José, San José Province, Republic of Costa Rica§!\n§YBackground:§! §LWith great political disruption at hand, a mostly conservative Council of Ministers has been appointed collectively act as both head of state and government while national affairs are sorted.§!
+Max Koberg Bolandi
+Rafael Castro Quesada
+§YBorn:§! §LMarch 27th, 1885, in San José, San José Province, Republic of Costa Rica§!
+Arturo Quirós Carranza
+§YBorn:§! §LJune 8th, 1887, in San José, San José Province, Republic of Costa Rica§!
+Ricardo Castro Béeche
+§YBorn:§! §LApril 11th, 1894, in San José, San José Province, Republic of Costa Rica§!
+Rafael Calderón Muñoz
+§YBorn:§! §LOctober 24th, 1869, in San José, San José Province, Republic of Costa Rica§!
+José Albertazzi Avendaño
+§YBorn:§! §LJanuary 15th, 1892, in Paraíso, Cartago Province, Republic of Costa Rica§!
+Juan Rafael Arias Bonilla
+§YBorn:§! §LFebruary 15th, 1877, in Heredia, Heredia Province, Republic of Costa Rica§!
+Cleto González Víquez
+§YBorn:§! §LOctober 13th, 1858, in Barva, Heredia Province, Republic of Costa Rica§!
+Santos León Herrera
+§YBorn:§! §LMay 21st, 1874, in San José, San José Province, Republic of Costa Rica§!
+Jorge Volio Jiménez
+§YBorn:§! §LAugust 26th, 1882, in Cartago, Cartago Province, Republic of Costa Rica§!

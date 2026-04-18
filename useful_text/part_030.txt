@@ -1,0 +1,475 @@
+Unrest in Haute-Savoie
+You can now demand Haute-Savoie
+Austria, however, has enthusiastically supported the endeavour, and is represented by the charismatic Count Richard von Coudenhove-Kalergi, who has been for some time one of the leading figures among Pan-Europan peace movements. 
+The [escalation_treaty_location.Capital.GetCapitalVictoryPointName] Conference
+Copenhagen Conference brought World Tension under 75%
+§H[This.GetName]§!
+[THIS.mark_tooltip]
+[!mark_state_click]
+§HMark State§!
+§HUnmark State§!
+Will be §Hmarked§! for transfer or coring.
+Will no longer be §Hmarked§! for transfer or coring.
+§HMark All [This.owner.GetAdjective] States§!
+[!mark_all_states_click]
+§HMark Disconnected [This.owner.GetAdjective] States§!\n\nWill mark all [This.owner.GetAdjective] states which are not connected to the capital.
+[!mark_colonial_states_click]
+§HMark [This.owner.GetAdjective] Non-Core States§!\n\nWill mark all [This.owner.GetAdjective] states which are not [This.owner.GetAdjective] cores.
+[!mark_noncore_states_click]
+§HClear All Marked States§!
+[!clear_all_markings_click]
+§HTransfer States§!\n\nWill transfer all marked states to §Y[This.owner.GetNameDef]§!.
+[!award_states_click]
+[This.GetAddCoreRuleDesc]
+§HAdd [This.owner.GetAdjective] Cores§!\n\nWill add [This.owner.GetAdjective] cores to all marked states which aren't already [This.owner.GetAdjective] cores.
+§HAdd [This.owner.GetAdjective] Cores§!\n\n§RDisabled in multiplayer!§!
+[!add_cores_click]
+[This.GetRemoveCoreRuleDesc]
+§HRemove [This.owner.GetAdjective] Cores§!\n\nWill remove [This.owner.GetAdjective] cores from all marked states which are already [This.owner.GetAdjective] cores.
+§HRemove [This.owner.GetAdjective] Cores§!\n\n§RDisabled in multiplayer!§!
+[!remove_cores_click]
+[This.GetAddClaimRuleDesc]
+§HAdd [This.owner.GetAdjective] Claims§!\n\nWill add [This.owner.GetAdjective] claims to all marked states which aren't already [This.owner.GetAdjective] cores or claims.
+§HAdd [This.owner.GetAdjective] Claims§!\n\n§RDisabled in multiplayer!§!
+[!add_claims_click]
+[This.GetRemoveClaimRuleDesc]
+§HRemove [This.owner.GetAdjective] Claims§!\n\nWill remove [This.owner.GetAdjective] claims from all marked states which are already [This.owner.GetAdjective] claims.
+§HRemove [This.owner.GetAdjective] Claims§!\n\n§RDisabled in multiplayer!§!
+[!remove_claims_click]
+[THIS.mark_country_tooltip]
+§HMark Country§!
+§HClear Marked Country§!
+[!mark_country_click]
+§H[This.owner.GetNameWithFlag]§! will be §Hmarked§! for puppeting, faction joining/leaving, and war/peace.
+§H[marked_country.GetNameWithFlag]§! will no longer be §Hmarked§! for puppeting, faction joining/leaving, and war/peace.
+[THIS.add_puppet_tooltip]
+§HMake Subject§!\n\nWill turn §H[marked_country.GetNameWithFlag]§! into a subject of §H[This.owner.GetNameWithFlag]§!.
+§HMake Subject§!
+[!add_puppet_click]
+[THIS.remove_puppet_tooltip]
+§HRemove Subject§!\n\nWill remove §H[marked_country.GetNameWithFlag]§!'s subject status and make them independent.
+§HRemove Subject§!
+[!remove_puppet_click]
+[THIS.add_faction_tooltip]
+§HJoin the [This.owner.GetFactionName]§!\n\n§H[marked_country.GetNameWithFlag]§! will join §H[This.owner.GetNameWithFlag]§!'s faction, the [This.owner.GetFactionName].
+§HMake Faction Leader§!\n\n§H[marked_country.GetNameWithFlag]§! will become the new leader of the [marked_country.GetFactionName].
+§HAdd to Faction§!
+[!add_faction_click]
+[THIS.remove_faction_tooltip]
+§HLeave the [marked_country.GetFactionName]§!\n\nWill remove §H[marked_country.GetNameWithFlag]§! from the [marked_country.GetFactionName].
+§HRemove from Faction§!
+[!remove_faction_click]
+[THIS.add_peace_tooltip]
+§HMake Peace with [This.owner.GetNameDef]§!\n\n§H[marked_country.GetNameWithFlag]§!, including all allies, will end the war with §H[This.owner.GetNameWithFlag]§! and their allies.
+§HPeace Out of All Wars§!\n\n§H[marked_country.GetNameWithFlag]§! will white peace out of all wars it is currently in.
+§HMake Peace§!
+[!add_peace_click]
+[THIS.add_war_tooltip]
+§HDeclare War on [This.owner.GetNameDef]§!\n\n§H[marked_country.GetNameWithFlag]§! will declare war on §H[This.owner.GetNameWithFlag]§!.
+§HDeclare War§!
+[!add_peace_click]
+Major countries
+Recently updated minor countries
+Other countries
+Bold
+The operative is excellent at making quick decisions and calculating the best time to strike.
+Cautious
+Sometimes discretion is the better part of valour.
+Reckless
+Gets the job done, but appears less concerned for personal safety.
+Military Background
+The operative knows their way around the military, speaking the universal language of soldiers everywhere.
+Political Connections
+Knowing the right people in high places can be handy.
+Highly Educated
+Sometimes it helps to know the difference between an acid and a base.
+Efficient
+Does the job with as few tools as necessary.
+Streetwise
+Their background might be shady, but the operative has contacts where it counts.
+Master Infiltrator
+This operative is a master at adapting to any environment and blending in flawlessly.
+Survivor
+Somehow, this operative seems to always makes it out alive.
+Master Soldier
+This operative has among the best military training there is available.
+Master Saboteur
+If this operative can get near it, they can sabotage it.
+Artillery Officer
+§LTrained as an artillery officer.§!
+Artillery Leader
+§LSkilled at directing artillery in combat.§!
+Artillery Expert
+A true expert in directing artillery.
+Artillery ratio > §H20%§!
+Master of Ordnance
+§LThere is no such thing as \
+Rising Star
+§LThis officer shows great promise in the field of military tactics and grand strategy.§!
+Removed upon reaching §YSkill Level 3§!
+Guantanamo Bay Lease Holder
+Môle Saint-Nicolas Lease Holder
+Samaná Lease Holder
+Holds Minor Territories
+We currently either lease or directly own important but diminutive territories around the world.
+[gitmo_active][mole_active][samana_active]
+Guantanamo Bay Lease
+We currently lease the significant Guantanamo Bay naval base to §Y[GTM.GetNameWithFlag]§!.\n\nGuantanamo Bay was occupied by the United States during the Cuban War of Independence as part of the larger Spanish-American war. In the years and decades thereafter, American control over Guantanamo Bay under nominal Cuban sovereignty was reaffirmed and the Guantanamo Bay naval base was greatly expanded. Whoever controls Guantanamo Bay, the United States or some other imperial power, will surely reap significant benefit.
+Môle Saint-Nicolas Lease
+We currently lease the coastal city of Môle Saint-Nicolas to §Y[MSN.GetNameWithFlag]§!.\n\nOnly recently a small coastal town, Môle Saint-Nicolas is slowly but surely being transformed into a naval station to rival that of the nearby Guantanamo Bay.
+Samaná Lease
+We currently lease the coastal city of Santa Bárbara de Samaná to §Y[SAM.GetNameWithFlag]§!.\n\nCoveted by the Americans prior to their acquisition of Guantanamo Bay, after decades of relative obscurity in the eyes of foreign powers, Samaná is now being rapidly transformed into a hub for [SAM.GetAdjective] fleets.
+§YGuantanamo Bay§!\n§W(§Y[820.owner.GetNameWithFlag]§!) Civilian Industry from target country:§! [?0.05|+=%]
+\n§YMôle Saint-Nicolas§!\n§W(§Y[318.owner.GetNameWithFlag]§!) Civilian Industry from target country:§! [?0.02|+=%]
+\n§YSamaná§!\n§W(§Y[319.owner.GetNameWithFlag]§!) Civilian Industry from target country:§! [?0.02|+=%]
+Guantanamo Bay
+Môle Saint-Nicolas
+Samaná
+Multiple Leased Territories
+Guantanamo Bay
+Môle Saint-Nicolas
+Samaná
+Remove §YGuantanamo Bay Lease§!\n§WEffective Change:\n(§Y[820.owner.GetNameWithFlag]§!) Civilian Industry from target country: §R-5.00%§!§!
+Remove §YGuantanamo Bay Lease§!\n§WEffective Change:\n(§Y[PREV.GetNameWithFlag]§!) Civilian Industry to target country: §G-5.00%§!§!
+Second American Civil War
+Second American Civil War
+Second American Civil War
+Second American Civil War
+Second American Civil War
+Second American Civil War
+Second American Civil War
+Second American Civil War
+Second American Civil War
+Second American Civil War
+Second American Civil War
+Second American Civil War
+Spanish Civil War
+Spanish Civil War
+Spanish Civil War
+Spanish Civil War
+Spanish Civil War
+Spanish Civil War
+Crisis on the Danube
+Crisis on the Danube
+Crisis on the Danube
+Crisis on the Danube
+Crisis on the Danube
+Crisis on the Danube
+Crisis on the Danube
+Crisis on the Danube
+Crisis on the Danube
+Crisis on the Danube
+Crisis on the Danube
+Crisis on the Danube
+Crisis on the Danube
+Crisis on the Danube
+Crisis on the Danube
+Crisis on the Danube
+Crisis on the Danube
+Crisis on the Danube
+Crisis on the Danube
+Crisis on the Danube
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+Italian War of Unification
+2nd $ORDER$$SECOND$-$FIRST$ War
+2nd $ORDER$$FIRST$-$SECOND$ War
+2nd $ORDER$$SECOND$-$FIRST$ War
+2nd $ORDER$$FIRST$-$SECOND$ War
+$ORDER$$FIRST$ Aggression for $STATE$
+$ORDER$$FIRST$ reclamation of $STATE$
+Reclamation of the Home Islands
+Entente-Internationale War
+$ORDER$$FIRST$-$SECOND$ War
+$ORDER$$FIRST$-$SECOND$ War
+The Second Weltkrieg
+The Second Weltkrieg
+The Second Weltkrieg
+The Second Weltkrieg
+2nd Russo-$ORDER$$SECOND$ War
+2nd Russo-$ORDER$$FIRST$ War
+Eastern Seas War
+Eastern Seas War
+Eastern Seas War
+Eastern Seas War
+The Winter War
+The Winter War
+War of Arabian Unification
+War of Arabian Unification
+War of Arabian Unification
+War of Arabian Unification
+War of Arabian Unification
+War of Arabian Unification
+The $ORDER$$SECOND$ Revolt
+The $ORDER$$SECOND$ Revolt
+The $ORDER$$SECOND$ Revolt
+$ORDER$$FIRST$ War of Independence
+$ORDER$$FIRST$ War of Independence
+$ORDER$$FIRST$ War of Independence
+Entente Reclamation of Hyderabad
+Entente Reclamation of Bengal
+Bharatiya Liberation of Hyderabad
+Bharatiya Liberation of Lahore
+Princely Order Restoration of Bengal
+Princely Order Restoration of Lahore
+Fifth Anglo-Afghan War
+Fifth Anglo-Afghan War
+37th Siamese-Burmese War
+37th Siamese-Burmese War
+War in the Southern Cone
+War in the Southern Cone
+South American Syndicalist Civil War
+South American Syndicalist Civil War
+Alpine War
+Alpine War
+Alpine War
+Alpine War
+Alpine War
+Alpine War
+Alpine War
+Alpine War
+Alpine War
+Alpine War
+Alpine War
+Alpine War
+Alpine War
+Alpine War
+Alpine War
+Alpine War
+Alpine War
+Alpine War
+Venetian War of Independence
+Venetian Revolt
+Indochinese Anti-German Resistance War
+Vietnam Reunification War
+$ORDER$ Indochina War
+Pacification of the Viet Minh
+Indochinese Liberation of Mekong Territories
+Mekong War
+Pastaza War
+Pastaza War
+Second War of the Pacific
+Second War of the Pacific
+Eritrean Uprising
+Eritrean War of Independence
+Ogaden War
+Ogaden War
+Bush War
+Bush War
+Korean Uprising
+Korean War of Independence
+Second Mahdist Revolt
+Second Mahdist Revolt
+Levant Crisis
+Levant Crisis
+Tripolitanian War of Independence
+Tripolitanian Revolt
+Cypriot War of Independence
+Cypriot Rebellion
+Assyrian War of Independence
+Assyrian Uprising
+Kurdish War of Independence
+Kurdish Rebellion
+Barzinji Uprising
+Barzinji Insurrection
+Yemeni War of Independence
+Yemeni Revolt
+Lebanese War of Independence
+Lebanese Rebellion
+Ikhwan Revolt
+Ikhwan Revolt
+Panamanian Crisis
+Panamanian Crisis
+Coto War
+Coto War
+Brazilian Civil War
+Brazilian Civil War
+Brazilian Civil War
+Brazilian Civil War
+Brazilian Civil War
+Brazilian Civil War
+Brazilian Civil War
+Brazilian Civil War
+Brazilian Civil War
+Brazilian Civil War
+Brazilian Civil War
+Brazilian Civil War
+Brazilian Civil War
+Brazilian Civil War
+Kuomintang Uprising
+$FIRST$-Fengtian War
+North-South Zhili War
+Pacification of Southern China
+Pacification of Southern China
+Pacification of Southern China
+Pacification of Southern China
+Pacification of Southern China
+Beijing Intervention in Sichuan
+Beijing Reintegration of Xinjiang
+Beijing Reconquest of Mongolia
+Beijing Reconquest of Tibet
+Beijing Intervention in Annam
+Beijing Intervention in Annam
+$SECOND$-Fengtian War
+Pacification of Southern China
+Pacification of Southern China
+Pacification of Southern China
+Pacification of Southern China
+Pacification of Southern China
+Fengtian Intervention in Sichuan
+Fengtian Reintegration of Xinjiang
+Fengtian Reconquest of Mongolia
+Fengtian Reconquest of Tibet
+Fengtian Intervention in Annam
+Fengtian Intervention in Annam
+Chinese National Revolution
+2nd Northern Expedition
+Chinese Civil War
+Western Expedition
+Western Expedition
+Southern Expedition
+Upper Yangtze Expedition
+Lower Yangtze Campaign
+Northwest Expedition
+Anti-Concession War
+Chinese Reintegration of Xinjiang
+Chinese Reintegration of Mongolia
+Chinese Reintegration of Tibet
+Chinese Intervention in Annam
+Chinese Intervention in Annam
+Anti-Kuomintang War
+Anti-Kuomintang War
+Anti-Kuomintang War
+$ORDER$$FIRST$-Left Kuomintang War
+$ORDER$$FIRST$ Reintegration of Xinjiang
+$ORDER$$FIRST$ Reintegration of Xinjiang
+$ORDER$$FIRST$ Reintegration of Xinjiang
+$ORDER$$FIRST$ Reintegration of Xinjiang
+$ORDER$$FIRST$ Reintegration of Tibet
+$ORDER$$FIRST$ Reintegration of Tibet
+$ORDER$$FIRST$ Reintegration of Tibet
+$ORDER$$FIRST$ Reintegration of Tibet
+$ORDER$$FIRST$ Reintegration of Mongolia
+$ORDER$$FIRST$ Reintegration of Mongolia
+$ORDER$$FIRST$ Reintegration of Mongolia
+$ORDER$$FIRST$ Reintegration of Mongolia
+Chinese Intervention in Annam
+Chinese Intervention in Annam
+Chinese Intervention in Annam
+Chinese Intervention in Annam
+Chinese Intervention in Annam
+Chinese Intervention in Annam
+Chinese Intervention in Annam
+Chinese Intervention in Annam
+Chinese Civil War
+Chinese Civil War
+Chinese Civil War
+Chinese Civil War
+Chinese Civil War
+Chinese Civil War
+Chinese Civil War
+Chinese Civil War
+East Turkestan Revolt
+East Turkestan Revolt
+Kumul Rebellion
+Kumul Rebellion
+War of Five Provinces
+War of Five Provinces
+Shan War of Independence
+Shan Rebellion
+Kachin War of Independence
+Kachin Rebellion
+Japanese Intervention
+Manchurian Intervention
+2nd Sino-Japanese War
+2nd Sino-Japanese War
+2nd Sino-Japanese War
+2nd Sino-Japanese War
+2nd Sino-Japanese War
+2nd Sino-Japanese War
+2nd Sino-Japanese War
+2nd Sino-Japanese War
+2nd Sino-Japanese War
+2nd Sino-Japanese War
+2nd Sino-Japanese War
+2nd Sino-Japanese War
+2nd Sino-Japanese War
+2nd Sino-Japanese War
+2nd Sino-Japanese War
+2nd Sino-Japanese War
+2nd Sino-Japanese War
+2nd Sino-Japanese War
+2nd Sino-Japanese War
+2nd Sino-Japanese War
+2nd Sino-Japanese War
+2nd Sino-Japanese War
+2nd Sino-Japanese War
+3rd Boer War
+3rd Boer War

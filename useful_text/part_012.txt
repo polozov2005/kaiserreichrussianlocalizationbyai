@@ -1,0 +1,1662 @@
+Chinese Suzerainty
+Associated Governorate
+Autonomous Governorate
+Governorate
+Integrated Governorate
+$NONIDEOLOGY$
+$NONIDEOLOGYDEF$
+$NONIDEOLOGY$
+$NONIDEOLOGYDEF$
+$NONIDEOLOGY$
+$NONIDEOLOGYDEF$
+$NONIDEOLOGY$
+$NONIDEOLOGYDEF$
+$NONIDEOLOGY$
+$NONIDEOLOGYDEF$
+Densely Populated Rural Area
+The infrastructure networks in this area are already highly saturated by a dense local population.\n\nWill be removed by reaching max §Y$infrastructure$§! in this state.
+Autonomous Region
+The Qing dynasty's hold over its borderlands was a complicated affair, with ebbing and flowing degrees of control. These territories to the north and west, referred to as \
+Claiming Our Place in the World
+With our victory against the Japanese, it is now time for China to take her rightful place in East Asia and the world, utilising her mighty resources and peoples to foster international goodwill and cooperation. With the completion of our campaigns of national unification, it is only logical that the next step should be to reassert our influence so that China will never again fall victim to imperialism.
+Join the Internationale
+When the German invasion collapsed the First Northern Expedition, many Kuomintang exiles sought refuge in the nations of the Third Internationale. Now with our strength revived and reinvigorated, it is only natural that we will be able to play a role in assisting the Third Internationale in spreading the world revolution as well as paying back our socialist comrades for their help over the years.
+Create the Fourth Internationale
+Though the Third Internationale has fallen, we will never give up the dream of a world revolution. We will pick up the torch and rally the workers in a new campaign of global liberation!
+Join the Reichspakt
+Germany has been our main benefactor since the KMT's doomed Northern Expedition. Now that we have cleared all opposition to our rule over China, it's is time to request a formal alliance with our friends in Berlin.
+Join the Moscow Accord
+The arrival of Black Monday has ended years of German dominance across the world. With rising powers across the world, it is only natural that China should seek allies. We may find such allies in our neighbours to the north, the Russians who are eager to put aside our past squabbles for a new century led by the powers of Eurasia.
+Join the Co-Prosperity Sphere
+The Japanese, despite our prior estrangement and the wars that ensued, are still our Asian brothers. We allowed European imperialists to divide us, throwing the entire Asian continent into disarray and subjugation. Having proved our might and restored our dominance on land, while they continue to rule the seas, we can finally negotiate to work with them as equal partners. As allies, we will restore prosperity all of Asia!
+Join the Entente
+The Entente, despite generally poor relations and their inability to back up their arrogant Imperialistic attitudes any more, are our tentative allies in this current conflict between Great Powers. Thanks to our Cantonese connections and plentiful number of intermediaries and the Entente's withdrawal from key Chinese nationalistic claims, deepening our alliance might be the most pragmatic idea for long-term prosperity.
+Align with the Americans
+Despite the Americans' participation in the Century of Humiliation, ultimately our common interests in checking Japanese and European influence in the region brings us together. Let us work together to bring peace and prosperity to Asia and the Pacific!
+Invite [FROM.GetNameDef] into the [ROOT.GetFactionName]
+China's rightful place in Asia is as the eldest brother, mentor, and leader of all the continent's peoples. Having thrown off the shackles of foreign imperialism, we are ready to resume our place as the defender of other Asian states from European or Japanese tyranny. Let us send our ambassadors to bring the [FROM.GetAdjective] into our fold.
+§YThe odds of acceptance are dependent on §Y[FROM.GetAdjective]§! opinion of us.§!
+Chinese Unification
+Central authority in China has long eroded, as decades of foreign imperialism, political instability and domestic unrest in light of imperial weakness spawned a new class of regional militarists in the ailing days of the Qing. The Xinhai Revolution brought further turmoil to the nation, as revolutionary generals seized control of numerous provinces and set about building complex networks of military officers, allied businessmen, landed gentry, sympathetic intelligentsia, and government officials.\n\nNevertheless, a common national identity remains, and various movements across the land have made their bid to unite the nation and rebuild China in their image. Taking advantage of their own patronage networks, foreign support, and growing armies, they clash for influence in the cities and countryside. Still, in the twisting and turning realities of warlord China, open warfare is not the only way this conflict develops. Tales of shifting alliances and sordid betrayal unfold, all the while foreign invasion looms...\n\n§COur leadership is currently [ChinaGetMemberAlignment] §YAligned§!.§!
+Create the United Front
+We, the descendants of Yan and Huang, cannot sit idly by as our country is powerless to stop the foreign devil from ravaging our lands. Too long have we been divided, split alongside provincial and factional lines while the imperialists look hungrily at our borders - ready to exploit our nation. No more! Let us put aside our petty squabbles for national unity to defend our honour, the honour of Zhonghua, from being tarnished forever! Qilai!
+The Northeastern Gambit
+Japanese hawkishness has finally run its course with their reckless decision to go to war with Germany for hegemony over the Asia-Pacific. This offers us a unique opportunity - if we were to go to war with Japan and strike against their imperialist projects in Dongbei, our prestige would be cemented and we would be elevated as national heroes. The rest of China would likely be forced to fall in line as part of a United Front against Japanese aggression, and in embroiling the Japanese in both a land and sea war at the same time, we will overstretch them until they fall!
+Join the United Front
+As the foreign imperialists launch a brutal invasion of our country, [FROM.GetName] has invited us to help defend China's honour in her hour of need. While our country still remains heavily divided between provincial and factional lines, our civilisation is at risk of being utterly destroyed. Let us put aside our differences and work together for the defence of the Motherland!
+Negotiate a Ceasefire with [FROM.GetNameDef]
+China has found itself at war with a major power. Fighting them on our own would be a foolish decision while China is still divided. We should negotiate with our current enemies in [FROM.Capital.GetCapitalVictoryPointName] a temporary truce till the aggressor has been defeated. We must not forget that all the imperialists want are our riches. We have nothing to lose! Wansui!
+[ROOT.china_declare_government_text]
+[ROOT.china_declare_government_text_desc]
+Proclaim the Zhongyuan Government
+With our position in the North Chinese Plain secured, we may now boldly claim for ourselves the legacy of the Xinhai Revolution. Our new government shall now strive for national unification, vanquishing any rival contenders that may stand in our way. No one, except perhaps [SHX.GetLeader] in all his wisdom, could have expected the province of Shanxi to find itself in such power. But through our courage and valiance in liberating the Central Plains, we have proven ourselves worthy of leading the national unification!
+Restore the Great Qing
+The fierce battle for the Forbidden City was pressed on Zhang Tianran's orders. The palace gates became a prison for the cowardly Aisin-Gioro family. Several family members attempted to leave but were led back, and the walls manned by Red Spears at all corners. Finally, the Emperor surrendered to the Shangqing. Instead of death, Puyi was forced to capitulate to Zhang Tianran in his Imperial Yellow Jacket, as well as reaffirm to the people his emperorship. Puyi will remain the Emperor, and the Shangqing Tianguo's minor emperors, managers and priests the official magistrates of the Qing.\n\nZhang Tianran has absolved the captive Emperor of any guilt in this war, and declared that this victory is the culmination of a spiritual genealogy that began with the Boxers and Sun Yat-sen.
+Restore the Great Qing
+Many doubted Qu Yingguang's ability to hold off the Zhili's invasion after the failure of the Manchu Coup, but now all doubt has been cleared. Not only has Shandong held off the attack, but Qu has guided Shandong and the emperor back from the brink, and we now stand stronger than ever. Puyi shall be restored as emperor, with his brother Pujie by his side, and Qu Yingguang will be their closest advisor. Let all who stand in our way know that the Manchu are back, and this time they are here to stay.
+Form a National Government
+Having secured our place as the strongest force in China, it is time that we declare our ambitions to unify the nation and end this miserable age of strife once and for all. It may attract some unwanted attention, and there will likely be conflict instigated by those who would seek to their own dominance over the land, but that is the sacrifice we must make to free our nation from warlordism once and for all!
+Declare the Reunification of China
+Our foes have been vanquished and anyone who dared to unjustly claim the mantle of national leadership has been put back in their place. We stand now as rulers of a mostly united China, all that is left to do is to formally claim our right to national leadership. We are the victors of the Warlord Era for better or for worse, and it is up to us to lead China into its benevolent future.
+§YChina has been fully united under one banner.§!
+Consolidate Our Legitimacy
+In the aftermath of the chaotic renewal of the Warlord Era, it seems that the line of succession from the Zhili Central Government was lost in the conflict. Having done our part to reunite the country, it is time that we take the next step in piecing China back together.
+We have defeated all rival Chinese governments
+[CHN_conquer_beijing_fallback_decision_scripted_loc]
+[CHN_conquer_beijing_fallback_decision_desc_scripted_loc]
+Complete the Revolutionary Mission
+As long as reactionaries continue to rule over the Northern Capital, the great mission our late founder Dr. Sun Yat-sen has placed in our hands cannot succeed. We must prevail against the odds, to prepare a second march northwards. This is not just for the salvation of the revolutionary cause but we fight for the survival of the Chinese race! Long live the National Revolution, Long live the Republic of China!
+Liberate Beijing
+Beijing was the ancient capital of China and holds a unique place in the Chinese national consciousness. To hold it means international recognition and domestic legitimacy, making its capture of the upmost essence. Since our original efforts to take the city have fallen short, we must redouble our efforts. Onwards, to a new China!
+Demand Control of Beijing
+The end of the Northern Expedition has brought Beijing under the Kuomintang fold, however in practice the region remains under continued warlord rule. While this sort of local autonomy has proven to be a necessary evil as we proceed with unification, to allow this fate to befall China's ancient seat of power is flatly unacceptable. So long as Beijing remains out of the direct control of the central government, there will always be those plotting to undermine and usurp our authority. We must make moves to bring national rule to the North, bringing the revolution one step closer to completion.
+The March to Manchuria
+Too long has Manchuria been ran into ruin by the traitors to the Chinese nation and the Japanese imperialists who seek to exploit our country for her natural resources. While it is the eastern frontier of our territory outside of China proper, the Manchurian question is undeniable as [ROOT.GetNameDef] identifies the provinces of Dongbei as integral provinces of the Chinese state. While we stand behind the safety of the Shanhai Pass, let us take it upon ourselves - to liberate our countrymen once and unify the country once and for all.
+The War for Guangzhou
+Intent on being the mustering point for the South to even have the chance to unify the country, the Pearl River Delta is a place of prime opportunity, and financial support. With the city switched ownership multiple times since the fall of the Kuomintang, it nonetheless provides all resources necessary to launch a Northern Expedition of our own. With its integrity to our future claims to national unification pre-eminent, [ROOT.GetLeader] and their allies have chosen the war path, and with Canton's owners belligerent, it is time for the Southwest to come to arms once more.
+The Nanjing Expedition
+Nanjing was the Southern Capital for several Chinese dynasties and was also the site where Sun Yat-sen was proclaimed Provisional President of the Republic in 1911. Controlling the wealthy and powerful Jiangnan region at the mouth of the Yangtze River, it is perhaps the most important city on China's eastern seaboard and second only to Beijing in national importance. Long the seat of League Marshal Sun Chuanfang's domain, though the politics of the region may have changed its importance to our interests has not.
+The Storming of Wuhan
+Wuhan was the site of the original 1911 Wuchang Uprising which sparked the Xinhai Revolution. Its three constituent cities of Wuchang, Hankou, and Hanyang rest along major rivers at the heart of China. The capital of Hubei and the base of the Zhili Jade Marshal Wu Peifu's operations, capturing it is essential both for national legitimacy and for strategic control over China's interior.
+Challenge [ROOT.Overlord.GetLeader]'s Authority
+[CHN_satellite_generic_challenge_overlord_decision_desc_scripted_loc]
+The Zhili clique has been at the forefront of Chinese politics for over a decade now, the champions of order and stability at the heart of the nation. But at the top, corruption and indecision reign. Although it would normally be improper for a subordinate to leap over his superior, these are not normal times.
+The Imperial Restoration was essential to preserving the integrity of the nation, safeguarding order and tradition. But treacherous snakes fill the Emperor's ear with twisted, venomous words. Something needs to be done to restore the Emperor to benevolence!
+The last hope of the Beiyang Republic rested in the Fengtian clique after the treasonous Zhili restored the Emperor in 1928. Our leadership has done their best of course, but their best is not sufficient if we are to protect our nation. A change is in order.
+Those who seek to protect the constitution and save Chinese democracy are a noble band, but always in danger from corrupt folks within. The current leadership of this Federalist movement are simply too inept and too bound to duplicity to be trusted with the light of Chinese democracy, and thus we must begin preparations to rescue it.
+The Xinhai Revolution attracted many dreamers, but time and time again we have found that dreams fall short of reality. The current leadership of the central government have proven themselves unworthy of it, so we must begin to prepare ourselves to take it for ourselves.
+Governments come, and Governments go. Leaders rise and Leaders fall. But China endures, and the Chinese people continue to search for an Executive that can save them from their plight. It has become increasingly clear that the latest jumped up warlord to assume the General's seat is unworthy of his position. Maybe it is our turn to lead?
+Declare a Permanent Capital
+There have been many capitals of a united Chinese state and with key parts of China under our rule, we can proclaim a permanent capital for the republic. There are four main choices to go with should we control that city: Nanjing, Beijing, Wuhan or Guangzhou. Each one brings unique advantages. We must consider this carefully as this decision will be irreversible.
+Move Our Provisional Capital
+As we continue our campaign to unite China, large swaths of the nation have come under our control. As our armies move deeper into enemy territory, the logistical strain has increased. It might be wise to alleviate this burden and signal our intention to unite the nation by moving our capital to a more central or politically valuable location.
+Attack [FROM.GetNameDef]
+The continued defiance of [FROM.GetAdjective] leadership is one that cannot be resolved by peaceful means. [FROM.GetLeader] has proven [FROM.GetHerselfHimself] an unworthy leader, and will be ejected from [FROM.Capital.GetCapitalVictoryPointName] by force.
+Demand [FROM.GetNameDef]'s Submission
+Regional authorities in [FROM.Capital.GetCapitalVictoryPointName] find themselves adrift as of late, swearing allegiance to nobody but themselves. As China's truly legitimate government, we must bring them into the fold - they will either accept or we will prepare other, less courteous measures.
+Increase Integration of [FROM.GetNameDef]
+Although the leadership in [FROM.Capital.GetCapitalVictoryPointName] has thankfully seen wisdom and decided to align themselves with us, we must go further if we are to truly end the warlord era. Efforts will be made to bring the [FROM.GetAdjective] administration closer to our own.
+Coordinate a Joint Strike with [FROM.GetNameDef]
+On our own our chances against [GXC.GetNameDef] are slim, however [FROM.GetNameDef] might be amenable to oppose [GXC.GetAdjective] tyranny. However we should act fast - we must have the element of surprise if such a joint strike is to be effective. Should this plan work, we will move immediately against our [GXC.GetAdjective] enemies.
+[YUN.GetNonIdeologyName]-[HNN.GetNonIdeologyName] Joint Strike Against [GXC.GetNameDef]
+We can only do a joint strike with one faction
+§RWe will abandon [YUN.GetNameDef] to face [GXC.GetNameDef] on their own§!
+§RWe will abandon [HNN.GetNameDef] to face [GXC.GetNameDef] on their own§!
+Surrender to the Enemy
+[THIS.overlord.GetNameDefCap] Increases Integration
+Challenge [ROOT.Overlord.GetLeader]'s Authority
+[china_subject_challenge_overlord_decision_desc_loc]
+The political intrigues and chicanery of [ROOT.Overlord.GetLeader]'s Kuomintang Central Committee has brought nothing but ruin to the Chinese nation and her people. It is time for [ROOT.GetLeader] and the true champions of Dr. Sun to charge forth, oust the traitors, and ride the high tide of the National Revolution. [ROOT.GetNameDefCap] may be outmanned, but our wills are steeled and our hearts speak true.
+To think that the revolution would become so twisted, so divergent, from its original principles. The true interpretation of the Three People's Principles has been distorted by petty worlds, spineless intellectuals, and most of all the vile despot [ROOT.Overlord.GetLeader]. It is unfortunate, but as the nation teeters on the very verge of collapse, [ROOT.GetLeader] must detach [ROOT.GetNameDef] from the sinking ship, and charge forward to victory.
+Ostensibly seeking the protection of the Chinese people, the development of a native democracy, and the promulgation of a true, free constitution, the Federalist movement has seen itself corrupted by autocrats and elites. Whilst we are no stranger to pragmatic deals, [ROOT.Overlord.GetLeader] has taken it too far. [ROOT.GetLeader] cannot simply stand on the sidelines as the very essence of the movement withers away.
+Improper to the upmost, the leadership of the Zhili clique has faltered for too long. Having lost the unity of the nation, and the control of [ROOT.GetNameDef], Governor [ROOT.GetLeader] had to ensure stability within the province. Yet again, it would appear that we must save the Chinese people. This time, however, it is not just [ROOT.GetNameDef], but the nation itself. Whilst uncouth for a subordinate to revolt against his superior, the decadence of [ROOT.Overlord.GetLeader]'s regime has stood for too long.
+How could the nation have fallen so low? At first swayed by the grandstanding of Marshal Zuolin, championing the republican cause in light of the Xuantong Restoration, or perhaps even by [ROOT.GetLeader]'s' personal ties to the Zhang family. Yet the very nation is being lead to disarray and ruin under the rule of kleptocrats, simpletons and traitors, with a bandit like [ROOT.Overlord.GetLeader] lording over all of it. Ultimately, [ROOT.GetNameDefCap] must play our desperate hand, one last final bid for national leadership. It may be foolish, but our movement is no stranger to turncoats.
+Before our very eyes lies the Son of Heaven, ruling on his throne, lording over the true restoration of his authority, yet within our camp lies a strong sense of shame, of rejection, of reprehension. Is China not a modern nation? What was Xinhai for? All of the bloodshed, sacrificed and tears to overthrow the barbarity of the Manchu, just for us to rescind to our fates once again? No, no longer shall the supposed \
+China is no stranger to the revolving door of executives seeking to steer the nation their way. Yet it has led to a directionless nation, collapsing in on itself. To truly save the people from their plight, we must work to overthrow [ROOT.Overlord.GetLeader], the latest buffoon to have taken the concept of national leadership. The new Chinese nation shall be a [ROOT.GetNameDef]-led one, free of corruption.
+Estimated army strength ratio of §Y50%§! or more compared to our overlord
+It has been at least 365 days since we submitted to our overlord.
+Join the [NPA.GetName]
+The National Protection Alliance is a revival of the old warlord coalition that sought to topple Yuan Shikai's tyrannical attempt to establish a new monarchy and save the Republic. This newest iteration led by [NPA.GetLeader] may exist in different circumstances, but the ultimate goal remains the same - defending our country and our countrymen from those who would destroy it!
+Join the [NZH.GetName]
+The Northern Zhili Clique has dominated the Chinese political scene since their victory in 1927, weathering Beiyang's political storms, southern revolutionaries and northern rivals. Though their hegemony has been recently challenged, their victory is inevitable and with the preservation of Chinese morality and political order.
+Join the [SZH.GetName]
+The Southern Zhili Clique is an offshoot of the mainline branch in the north, centred around the legacy of Sun Chuanfang and his League of Eight Provinces. Generally boasting greater cooperation with Germany and the Legation cities, their ability to bring patriotic prosperity brings us closer to them.
+Join the [MCU.GetName]
+The Manchu Restorationist government has brought back benevolence and order to the Chinese political scene, and as loyal subjects we shall align with the proper government of China.
+Join the [AGJ.GetName]
+The National Pacification Army (the Anguojun) was a warlord coalition led by Zhang Zuolin that sought to fight off the revolutionary radicals of the Kuomintang and reunite China under the Fengtian Clique's banner. Though defeated by the Zhili in the ensuing conflict, they never gave up hope and with their fortunes on the rise it is up to use to rejoin our old comrades.
+Join the [UPC.GetName]
+The Federalist Movement is an alliance of primarily southern based parties that seek to create a new Chinese republic built along the federal model. Our participation in this coalition is essential if we are to reunite China as a confederation of equal provinces that respects the rights of its constituent states.
+Join the [LKT.GetName]
+China's left has united under [LKT.GetLeader]'s leadership, and its future must be in the hands of those with the vision to see the sweeping changes needed to bring the nation into the future. We shall join the ranks of our revolutionary comrades and bring about a new era to our land!
+Join the [RKT.GetName]
+The Chinese Nationalist Party (the Chinese Kuomintang) was founded by Dr. Sun Yat-sen to serve as the vanguard of the national revolution and save China from foreign imperialism and domestic corruption. It is our duty to join the ranks of the new National Revolutionary Army and defend our nation!
+Join the [RGC.GetName]
+The Sun is rising in the East and Asia's salvation from Western imperialism is at hand. It is only through cooperation with the Greater East Asia Co-Prosperity Sphere that we can truly save China from socialism and imperialism, and thus we must join their supported government.
+Join the [FROM.GetName]
+[FROM.GetLeader] is a rising star in China, leveraging his control over the mighty [FROM.GetAdjective] Army and his allies in the [FROM.GetRulingParty] to become a national contender of his own. Operating out of his base in [FROM.Capital.GetCapitalVictoryPointName], this unexpected challenger for national dominance shows a lot of promise, and we shall bind ourselves closer to them.
+Demand [FROM.GetNameDef]'s Annexation
+With our own magistrates already embedded within [FROM.Capital.GetCapitalVictoryPointName] and within [FROM.GetAdjective]'s ranks, all that is left to do is secure the final submission of [FROM.GetLeader] to our cause. Their autonomy, which exists now effectively only on paper, shall be brought to an end.
+Offer an Alliance to [FROM.GetNameDef]
+Cast adrift by the changing circumstances in China, our allies in [FROM.Capital.GetCapitalVictoryPointName] have nonetheless managed to prevail in face of the shifting winds of the nation. Given their alignment towards us, we shall begin negotiations to join forces together and bring about our shared vision for the future.
+Negotiate with [FROM.GetNameDef]
+The Legation Cities, carved out of China's coast by ravenous foreign powers, is an institution that highlighted the unequal treatment of our proud nation by various imperialists. Having finally brought unity to the interior and ended the instability plaguing it, the Legations no longer serve a purpose in the world. We shall move to end this sad chapter in Chinese history.
+Request the Return of the [FROM.GetAdjective] Concessions
+The concessions were initially small pieces of land leased out to foreign powers in our weakness, which only expanded in scope as colonial powers sought to bring low our people. Having finally united the nation, we can bring to bear the united might of China and formally challenge the imperialists who desperately cling onto their unjust possessions.
+Seize the [FROM.GetAdjective] Concessions
+With negotiations having failed, there leaves no other choice but the sword if we are to liberate our coastal citizens from foreign rule. Already our forces have begun amassing along the outskirts, ready to ensure the return of these cities to their rightful owner.
+Pressure the Central Government to Act!
+While it is true that we have submitted ourselves to the banner of [ROOT.overlord.GetLeader] and the central government, this has always been contingent on the fact that we believe [ROOT.overlord.GetNameDef] to be a credible unifier for our broken nation. The fact that [ROOT.overlord.getadjective] authorities have been dragging their feet in ending China's division is nothing short of disgraceful, and perhaps they need reminding that our loyalty is not unconditional.
+Pressure to Act
+The Unification Question has plagued Chinese leaders since 1911, and caught between the paradoxically aligned demands of regionalists and nationalists, we have come under pressure to act quickly to reunite the country under our banner. This of course is no easy task and unfortunately those pressing for unification come under considerably less scrutiny than we do for our alleged inaction. However, if we are truly prove ourselves to be the legitimate leaders of China, then we have no choice but to fight and win!
+[CHN_expand_autonomous_region_scripted_loc]
+[CHN_expand_autonomous_region_desc_scripted_loc]
+Expand the MAR to [FROM.GetName]
+When our forces first arrived into Mongolia, a decision was made to grant the local Mongolian banners autonomy, resulting in the formation of the Outer Mongolian Autonomous Zone. An Inner Mongolian Autonomous Zone also received consideration as well. Having recently acquired further territory in areas with significant Mongol populations, it would make sense to grant these territories the same treatment.
+Expand the XAR to [FROM.GetName]
+When our forces first arrived into Xinjiang, a decision was made to grant the diverse province autonomy, resulting in the formation of the Xinjiang Uyghur Autonomous Zone. Having recently acquired further territory in areas with significant minority populations, it would make sense to grant these territories the same treatment.
+Expand the TAR to [FROM.GetName]
+When our forces first arrived into Tibet, a decision was made to grant the local Tibetans autonomy, resulting in the formation of the Outer Tibetan Autonomous Zone. An Inner Tibetan Autonomous Zone also received consideration as well. Having recently acquired further territory in areas with significant Tibetan populations, it would make sense to grant these territories the same treatment.
+Orchestrate Sinophile Coup in [FROM.Capital.GetCapitalVictoryPointName]
+Though we have secured the submission of [FROM.GetNameDef] in exchange for partial independence, the retention of their current leadership was always merely a stopgap. So long as they are in power, the long-term maintenance of our suzerainty will always be in question. Therefore, with their potential patrons either distracted or acquiescing, they will have little choice but to accept a more suitable management roster.
+[ChinaGetAlignmentButtonTooltip]
+§CWith a Chinese unifier determined, it is no longer possible to view alignments.§!
+Click to view the alignments of all §YChinese cliques§!.
+Chinese Alignments
+Chinese Faction Alignment
+Tenets
+[?country_leader:china_alignment.GetName] §YAlignment§!
+§LNational Protection Alliance§! §YAlignment§!
+§YIndependent Cliques§!
+Leader: §Y[?global.china_alignment_leaders^alignment_i.GetName]§!\nCliques aligned with §Y[?global.china_alignment_leaders^alignment_i.GetName]§!:
+The following cliques are independent. Hover over the flags to see their alignment status with ours.
+§Y[THIS.GetName]§!\n[ChinaGetMemberAlignment] §YAligned§!\n[ChinaGetMemberAlignmentCompatibilityStatus]
+[?country_leader:china_alignment.GetName]
+§YNon§!
+This clique is §Ynot aligned§! to any leaderships.
+This clique has a §Ycompatible alignment§! with our leadership.
+This clique has an §Yincompatible alignment§! with our leadership.
+[ChinaGetAlignmentTenetsTitle]
+[?country_leader:china_alignment.GetName] §YTenets§!
+§YTenets of the§! §LNational Protection Alliance§!
+§YIndependent Cliques§!
+[ChinaGetAlignmentTenetsDesc]
+§LRuled by the magnanimous \
+§LThe lasting legacy of the \
+§LMuch detested by the Chinese people, the monarchy did not truly die in 1911. With the fire of monarchism continually championed by Kang Youwei, Liang Qichao, the Royal Family and other monarchical groups. Restored to prominence in a false gesture by the Zhili Clique, the monarchist groups within the Assembly were never truly satisfied with their position as second fiddle to Republicans.\n\nFollowing a period of Zhili weakness, the \
+§LThe Anguojun Government, formally the National Pacification Army Government, is the supposed last vestiges of the original Beiyang Republic. Or at least, such a statement is claimed by Grand Marshal Zhang Zuolin, its ruling figure. Underneath the surface however, the Anguojun is but another source of legitimacy with which Zhang Zuolin clings onto any claim of national legitimacy.\n\nGrouping together the many factions of the Fengtian Clique, such as the Shaoshuai Clique of Zhang Xueliang, the Shikan Clique of Yang Yuting, and the Zhang Clique, the Anguojun also incorporates those disparate factions from its time in Beijing. Carrying with it the legacy of 1928, the Shenyang Assembly sports members from the old Anhui Clique; not too dissimilar to the membership of the Jiwei club, the Old and New Communications Cliques, the Pro-Japanese Concordia Association, and finally any Beiyang bureaucrats ejected from the Beijing Assembly or Zhili. Dysfunctional at best, it is a situation held together by the sheer force of the Old Marshal alone.§!
+§LOwing a similar legacy to the Revolutionary Movements of the Xinhai Revolution, the Federalist movement can find its true ancestor in the form of the Tongmenghui. Further advanced by the intellectual musings of the legendary Zhang Taiyan, Liang Qichao, Song Jiaoren, and numerous others, the \
+§LThe Kuomintang finds its origins in the Qing-era Revolutionary secret society, the Tongmenghui. Its founder Sun Yat-sen hoped to expel the Manchu Qing and establish a new Chinese Republic which occurred under the Xinhai Revolution. Disgusted with the Beiyang Warlords, Sun established a rival government in Guangzhou in collaboration with other Southern Republicans, such as Chen Jiongming's Federalists. After Sun and Chen had a falling out, the former came into contact with the Internationale, which sent him assistance through Russian exile advisors.\n\nThe Bolsheviks helped Sun revolutionise the Kuomintang in the Reorganisation of 1924, which saw the Party adopt the principles of Democratic Centralism with the goals to unify China under a One-Party State, during which the Party would enact political tutelage to prepare China for democracy and promote Sun's Three Principles of Minsheng, Minzu, and Minquan. After Sun's death, the Kuomintang would become beset with factionalism between the leftists who supported the alliance with the Chinese Syndicalist League and the rightists who opposed it.\n\nAfter the Northern Expedition collapsed and Chiang Kai-shek was killed, the Central Committee fled to Paris with remnants maintaining an Insurgency in the MinGan region. The Left Kuomintang seeks to complete the Unification of China and lead the Socialist Revolution in Asia. There can be no doubt that socialism is the natural conclusion of the Three Principles!§!
+§LThe Kuomintang finds its origins in the Qing-era Revolutionary secret society, the Tongmenghui. Its founder Sun Yat-sen hoped to expel the Manchu Qing and establish a new Chinese Republic which occurred under the Xinhai Revolution. Disgusted with the Beiyang Warlords, Sun established a rival government in Guangzhou in collaboration with other Southern Republicans, such as Chen Jiongming's Federalists. After Sun and Chen had a falling out, the former came into contact with the Internationale, which sent him assistance through Russian exile advisors.\n\nThe Bolsheviks helped Sun revolutionise the Kuomintang in the Reorganisation of 1924, which saw the Party adopt the principles of Democratic Centralism with the goals to unify China under a One-Party State, during which the Party would enact political tutelage to prepare China for democracy and promote Sun's Three Principles of Minsheng, Minzu, and Minquan. After Sun's death, the Kuomintang would become beset with factionalism between the leftists who supported the alliance with the Chinese Syndicalist League and the rightists who opposed it.\n\nThe Rightists retreated to Guizhou following the failure of the Northern Expedition as the leftist cowards of the Central Committee fled to Paris. The Right Kuomintang hopes to fulfil Sun's dream by completing the National Revolution, without the scourge of socialism infecting the Three Principles. The New China will not be built on disgusting materialist interpretations of Sanmin doctrine!§!
+§LTruly a curious and peculiar grouping of warlords, opportunists, and other malfeasant individuals, the \
+§LPerhaps decried as the worst fate to have fallen the Chinese people, the Japanese would appear to have sunk their ever salivating mouths into the China's rotting corpse, and with it they have left a shell of its skeleton in its place. Held together by the Japanese Kwantung Army and their local collaborationist allies, the Japanese Empire has finally extended its influence far beyond the games of the Old Marshal.\n\nWith no coherent ideology shared by their contemporaries bar pro-Japanese attitudes, the leading figures of this government are decried as collaborators, \
+§LIn the chaos of the warlord era, many governors operated with total autonomy from the governments in Beijing or Guangzhou. Such unaligned warlords are flexible in their outlook and will attempt to maintain their autonomy in the ever-changing political landscape...§!
+§zNorthern Zhili§!
+§MSouthern Zhili§!
+§qRestorationist§!
+§eAnguojun§!
+§NBeiyang§!
+§fFederalist§!
+§kLeft Kuomintang§!
+§cRight Kuomintang§!
+§GSouthern Republican§!
+§jGEACPS§!
+Is ruled by a §zNorthern Zhili§! regime
+Is §Rnot§! ruled by a §zNorthern Zhili§! regime
+Is ruled by a §YSouthern Zhili§! regime
+Is §Rnot§! ruled by a §YSouthern Zhili§! regime
+Is ruled by a §LZhili§! regime
+Is §Rnot§! ruled by a §LZhili§! regime
+Is ruled by a §qManchu§! regime
+Is §Rnot§! ruled by a §qManchu§! regime
+Is ruled by a §eFengtian§! regime
+Is §Rnot§! ruled by a §eFengtian§! regime
+Is ruled by a §NBeiyang§! regime
+Is §Rnot§! ruled by a §NBeiyang§! regime
+Is ruled by the §fFederalist§!
+Is §Rnot§! ruled by the §fFederalists§!
+Is ruled by the §kLeft Kuomintang§!
+Is §Rnot§! ruled by the §kLeft Kuomintang§!
+Is ruled by the §cRight Kuomintang§!
+Is §Rnot§! ruled by the §cRight Kuomintang§!
+Is ruled by a §GSouthern Republican§! regime
+Is §Rnot§! ruled by a §GSouthern Republican§! regime
+Is ruled by a §jGEACPS§! regime
+Is §Rnot§! ruled by a §jGEACPS§! regime
+Is ruled by a §zNorthern Zhili-friendly§! regime
+Is §Rnot§! ruled by a §zNorthern Zhili-friendly§! regime
+Is ruled by a §YSouthern Zhili-friendly§! regime
+Is §Rnot§! ruled by a §YSouthern Zhili-friendly§! regime
+Is ruled by a §LZhili-friendly§! regime
+Is §Rnot§! ruled by a §LZhili-friendly§! regime
+Is ruled by a §qManchu-friendly§! regime
+Is §Rnot§! ruled by a §qManchu-friendly§! regime
+Is ruled by a §eFengtian-friendly§! regime
+Is §Rnot§! ruled by a §eFengtian-friendly§! regime
+Is ruled by a §NBeiyang-friendly§! regime
+Is §Rnot§! ruled by a §NBeiyang-friendly§! regime
+Is ruled by a §fFederalist-friendly§! regime
+Is §Rnot§! ruled by §fFederalist-friendly§! regime
+Is ruled by a §kLeft Kuomintang-friendly§! regime
+Is §Rnot§! ruled by a §kLeft Kuomintang-friendly§! regime
+Is ruled by a §cRight Kuomintang-friendly§! regime
+Is §Rnot§! ruled by a §cRight Kuomintang-friendly§! regime
+Is ruled by a §kKuomintang-friendly§! regime
+Is §Rnot§! ruled by a §kKuomintang-friendly§! regime
+Is ruled by a §GSouthern Republican-friendly§! regime
+Is §Rnot§! ruled by a §GSouthern Republican-friendly§! regime
+Is an unaligned clique
+Is §Rnot§! an unaligned clique
+£GFX_pol_violence §YMorale§! will change by [?change_league_war_morale_by|+0].
+§RMen will defect from our army!§!
+\n§RRefusal Chance: [?refusal_weight|%-]§!\nInfluencing factors:\n   - §YGovernment Type§!\n   - §YTotal Number of Governorates§!\n   - §YRelative Army Strength§!\n   - §YRelative Industrial Strength§!\n   - §YOpinion§!\n
+§R[FROM.GetNameWithFlag] may request a foreign power's protection!§!
+§RThey might demand an ideologically compatible government in return!§!
+Refused a previous offer of alliance
+Has §Rnot§! refused previous offers of alliance
+all Chinese countries
+All Chinese countries
+Chinese countries can be cored upon reaching §H50% average compliance§!.\nThe §H$territorial_integration$§! occupation law can be used on occupied Chinese states.
+(§Y$all_chinese_countries_tt_cap$§!) $MODIFIER_COMPLIANCE_GAIN_ADD$: [?0.01|+=%%]
+(§Y$all_chinese_countries_tt_cap$§!) $MODIFIER_RESISTANCE_TARGET$: [?-0.1|-=%0]
+§YOwner§! of §Y[608.GetName]§!: Has a war goal against §Y[ROOT.GetNameWithFlag]§!
+§YOwner§! of §Y[608.GetName]§!: Has a war with active war goal against §Y[ROOT.GetNameWithFlag]§!
+The Chinese United Front exists.
+The Chinese United Front does not exist.
+Members of the United Front cannot declare other wars.
+§YWe will begin preparing ourselves to challenge the Central Government. If we end up at war with our master (either during the post-unification crisis or due to a failed attempt to integrate us), we will gain an attack bonus against them. The more prepared we are, the longer our initial attack bonus will last!§!
+§R[FROM.GetNameDefCap] authorities are positioning themselves to challenge our rule. We must be ready to confront them. (The more prepared they are, the longer their initial attack bonus will last!)§!
+§GWe will expand preparations to challenge the Central Government. (The more prepared we are, the longer our initial attack bonus will last!)§!
+§RThe circumstances of the scenario we face mean that we will not be able to challenge the Central Government without priming our people in advance, barring any further outrage created by the central government.§!
+§RThis risky action on our part may generate scandal and give regional actors cause to challenge our authority!§!
+§GThis abominable action by the Central Government has generated considerable scandal. We now have cause to challenge their authority!§!
+§cWe have done our patriotic duty.§!
+§RWe will incentivise [ROOT.overlord.GetNameDef] to begin taking decisive action to ensure unification. They will be much more likely to end up at war in the near future - we must be ready to aid them!§!
+§RThe pressure to pursue unification will only grow in strength!§!
+§YWe have been recognised as the most legitimate government in China.§!
+§YIs the most legitimate government in China§!
+§YIs§! §Rnot§! §Ythe most legitimate government in China§!
+§YHas unified China§!
+§YHas§! §Rnot§! §Yunified China§!
+Is at war with the Chinese United Front
+The §YSouth China War§! has ended.
+§YWe have chosen a permanent capital for China.§!
+We shall assume national leadership of the
+§e$CHN_assume_tt$ Anguojun.§!
+§j$CHN_assume_tt$ GEACPS Alignment.§!
+§f$CHN_assume_tt$ Federalists.§!
+§k$CHN_assume_tt$ Left Kuomintang.§!
+§z$CHN_assume_tt$ Northern Zhili Clique.§!
+§q$CHN_assume_tt$ Restorationists.§!
+§c$CHN_assume_tt$ Right Kuomintang.§!
+§Y$CHN_assume_tt$ Southern Zhili Clique.§!
+No Other Existing Factions Have Claimed the
+§Y$CHN_no_other_tt$ §eAnguojun§! Mantle.§!
+§Y$CHN_no_other_tt$ §jGEACPS§! Mantle.§!
+§Y$CHN_no_other_tt$ §fFederalist§! Mantle.§!
+§Y$CHN_no_other_tt$ §kLeft Kuomintang§! Mantle.§!
+§Y$CHN_no_other_tt$ §zNorthern Zhili§! Mantle.§!
+§Y$CHN_no_other_tt$ §qRestorationist§! Mantle.§!
+§Y$CHN_no_other_tt$ §cRight Kuomintang§! Mantle.§!
+§Y$CHN_no_other_tt$ §MSouthern Zhili§! Mantle.§!
+§Y$CHN_no_other_tt$ §LNational Protection Alliance§! Mantle.§!
+Has revolted in the past 90 days.
+Has §Rnot§! revolted in the past 90 days.
+§C£GFX_stability_texticon §YStability§! will be gained proportionate to $IDEOLOGY$ Party Popularity.§!
+§C£GFX_stability_texticon §YStability§! will be deducted proportionate to $IDEOLOGY$ Party Popularity.§!
+§C£GFX_stability_texticon §YStability§! will be deducted proportionate to non-$IDEOLOGY$ Party Popularity.§!
+§C£GFX_stability_texticon §YStability§! will be deducted proportionate to $IDEOLOGY1$ and $IDEOLOGY2$ Party Popularity.§!
+§C£GFX_stability_texticon §YStability§! will be deducted proportionate to non-$IDEOLOGY1$ and non-$IDEOLOGY2$ Party Popularity.§!
+§C£GFX_pol_power §YPolitical Power§! will be deducted proportionate to non-$IDEOLOGY$ Party Popularity in $COUNTRY$.§!
+§C£GFX_stability_texticon §YStability§! and £GFX_pol_power §YPolitical Power§! will be deducted proportionate to $IDEOLOGY$ Party Popularity.§!
+§C£GFX_stability_texticon §YStability§! and £GFX_pol_power §YPolitical Power§! will be deducted proportionate to non-$IDEOLOGY$ Party Popularity.§!
+§C£GFX_stability_texticon §YStability§! and £GFX_pol_power §YPolitical Power§! will be deducted proportionate to $IDEOLOGY1$ and $IDEOLOGY2$ Party Popularity.§!
+§C£GFX_stability_texticon §YStability§! and £GFX_pol_power §YPolitical Power§! will be deducted proportionate to non-$IDEOLOGY1$ and non-$IDEOLOGY2$ Party Popularity.§!
+§eAnguojun§! Aligned
+§NBeiyang Government§! Aligned
+§jGEACPS§! Aligned
+§fFederalist§! Aligned
+§kLeft Kuomintang§! Aligned
+Non Aligned
+§zNorthern Zhili§! Aligned
+§qRestorationist§! Aligned
+§cRight Kuomintang§! Aligned
+§GSouthern Republican§! Aligned
+§MSouthern Zhili§! Aligned
+Army Reform
+Chinese armies and those of separatist states have long struggled to catch up to Western standards. Soldiers are notoriously poorly trained and disorderly, often recruited from a varied stock of bandits, petty criminals, and the chronically destitute. Equipment is regularly patchwork, obsolete, or even downright archaic. Loyalty is typically given to individual officers, or a regularly filled ricebowl, and ideological motivation is ephemeral at best. It will take a great deal to rebuild these armies along modern lines.\n
+Army Reform
+Formed by the needs of the waning days of the Qing and moulded by the experiences of the Warlord Era, Chinese warlord armies and armies of various breakaway states are almost feudal in nature, organised by bands of regional strongmen. Our army has been frequently criticised for its low quality, with some officers accused of being incompetent at everything but enriching themselves. We must strive for more than this, especially if we wish to stand for anything greater.
+Lessons of War
+The lessons of war have taught us considerably in the ways of modern conflict. With renewed ambition, we must pursue major structural reforms to bring our forces up to date, building a force that can stand the test of time.
+Cleanse Army Corruption
+The soldier's pay has historically been very poor in China, but there is little shortage in \
+Reorganise Military Units
+Our march towards unification has come at a cost: many of our starting units have been severely thinned out from casualties and desertion, others have been swelled to an unmanageable size by deserting opponents and ad hoc reinforcements, while still others were rushed to the front before they could be properly constituted. As a result, quality has been severely degraded across the board - with uneven and ill-planned distributions of veteran and green units. Like a dulled knife, the army needs to be sharpened and this can only occur by rotating exhausted units to the rear echelons for much needed reprieve and reorganisation. Doing in a way that does not leave further vulnerabilities poses a significant logistical challenge and will require a major top-down effort by military planners.
+Disband Unreliable Units
+The army as it stands is like a circus, a diverse collection of units of varying sizes, quality, and origins that looks like a display showcase rather than a uniform, disciplined symbol of the new government. While there are some elite, dedicated units bearing modern equipment and slick uniforms, they are few and far between compared to the larger number of ex-warlord and ex-bandit armies that harass the locals and then run at the face of danger. Worse, some units only exist on paper - these ghost units go beyond inflated unit rosters, with skeletal staffing if they exist at all.\n\nWhile quantity does have a quality of its own, it also has degrading effects on quality with many better units distrusting lesser ones to guard their flanks and more idealistic soldiers suffering severe damage to morale upon witnessing the barbaric acts of their \
+Purge Disloyal Officers
+As enemy armies began to disintegrate, many of our former foes began to defect and sometimes entire formations changed uniforms. Unfortunately, this is often dismissed as just another reality of a military career in warlord China and neighbouring areas and while somewhat true many grow complacent about the dangers this poses for the future of the army. Many freshly recruited officers are not particularly interested in our cause, yet expect to retain the same privileges and status they enjoyed under their previous employers. Some are borderline mutinous, dismissive of loyal officers' attempts to integrate them into our mission.\n\nWe excise this tumour before it begins to spread, dismissing the most egregious examples and pre-emptively screening future recruits for loyalty. Of course, dismissed officers in the region tend to depart in turn with entire staff and units loyal to them personally, taking their guns with them. There is plenty of concern they will become bandits so we must be extra alert.
+Enforce Military Discipline
+The Chinese military has long been seen as a career of last choice for sons of the gentry and other elites: honourable young men historically were expected to do well on the Imperial Examination and go into the civilian bureaucracy. Even at the height of the warlord era, there remains considerable stigma towards military service among educated men because of prevalent negative stereotypes of soldiers and their officers as being bands of thieves, murderers, and bullies.\n\nThis has proven to be a self-fulfilling prophecy, and reports of looting and extrajudicial punishments enacted by even some of our most trusted units have grown disquietingly common as our armies grow drunk with victory and power. It will certainly not be popular, but reasserting our government's authority is needed if we are to preserve the integrity of our army. Some examples will have to be made from some while other cases will have to be covered up, both will damage our political legitimacy in the short term but is a necessary evil to ensure the long-term viability of our cause.
+Insist on Civilian Control
+Chinese dynasties have historically looked down on military service as lowly, and Confucian Scholar-Bureaucrats long prided themselves on maintaining strict control over the military. The waning days of the Qing Dynasty and the chaos of the Warlord Era has allowed the military to slip from the grasp of the civilian government. Worse, the lines between the two have often blurred, with military figures inserting themselves directly into the civilian government and civilian figures donning on military titles in an effort to maintain both control and legitimacy. If our army is to shed its reputation as a band of warlords, we need to leverage the might of our government into reining in our officers, even if it is likely to cause conflict in the near future.
+Desertion has declined thanks to a mix of pay increases, better morale, and greater competence across the board. Ghost soldiers are being slowly eliminated from army rosters, though considerably more reforms are required to fully eliminate the issue. With officers promoted by merit rather than patronage or nepotism, a coordinated and effective command structure can emerge its place.
+Warlord Era Inadequacies
+Despite various claims, there has never really been a \
+Warlord Era Inadequacies
+Despite various claims, there has never really been a \
+Systemic Military Shortcomings
+The first steps toward systematic military reform are underway, beginning to sweep aside the corruption and many inadequacies plaguing what will one day be a true Chinese army. A centralised bureaucracy and coordinated logistics are the first step on such a journey, and will build the foundation for future reforms. A more reliable system of supply and payment is already being established, ensuring better retention of troops, reducing incentives to loot, and building trust with local populations. For now, the system remains vulnerable to theft and embezzlement, but you can't make Danhuatang without breaking some eggs.
+Systemic Military Shortcomings
+The first steps toward systematic military reform are underway, beginning to sweep aside the corruption and many inadequacies plaguing what will one day be a true Chinese army. A centralised bureaucracy and coordinated logistics are the first step on such a journey, and will build the foundation for future reforms.\n\n$china_poor_officers_fixed_text$\n\nA more reliable system of supply and payment is already being established, ensuring better retention of troops, reducing incentives to loot, and building trust with local populations. For now, the system remains vulnerable to theft and embezzlement, but you can't make Danhuatang without breaking some eggs.
+Military Reforms in Progress
+Army reform continues steadily, though not always at an even pace. The difficult task of breaking up localised units and wider patronage networks has begun, albeit with considerable resistance both open and subversive. New officers without such extensive connections, hoped to be more competent and less overtly corrupt, have been assigned as the command roster begins to shift. Training and requisition too are being reformed, though some elements are resistant to these changes, seeing them as too far and too fast. Although unit quality can vary, the baseline has been lifted far above the old \
+Military Reforms in Progress
+Army reform continues steadily, though not always at an even pace. The difficult task of breaking up localised units and wider patronage networks has begun, albeit with considerable resistance both open and subversive. New officers without such extensive connections, hoped to be more competent and less overtly corrupt, have been assigned as the command roster begins to shift.\n\n$china_poor_officers_fixed_text$\n\nTraining and requisition too are being reformed, though some elements are resistant to these changes, seeing them as too far and too fast. Although unit quality can vary, the baseline has been lifted far above the old \
+A Reformed Military Force
+The army has come a long way since its chaotic and dishevelled state mere years ago. Thanks to a great deal of effort, and experience earned from successes in the battlefield, its core units stand on the cusp of modernity; their battlefield prowess more attributable to equipment and specialisation than outright neglect.\n\n$china_poor_officers_fixed_text$\n\nThe same cannot be said for the entire force, nor allied and integrated units in particular, but the path is now clear to building a new, modern, and unified army to defend Chinese interests.
+§RWe have done our best to minimise the growing pains of our rapidly expanding armies but we can hold back the impact no further. Direct action will have to be taken to address these mounting issues in our ranks.§!
+§RWe will take initiative in scaling up the size of our military, unlocking further avenues to improve our armies but also forcing us to shoulder the burdens of an expanded military force and to address them pre-emptively.§!
+§RHaving failed to make additional progress in eliminating the disarray that has gripped our military, morale has plunged but we can find some solace in that it cannot get any worse.§!
+§ROur prior efforts at scaling our military has helped to buffer the impact of our rapidly expanding armies, though could not fully shield us from the natural deterioration of quality liberation has brought.§!
+Military Disarray
+Despite resounding successes on the battlefield and the bravery our soldiers demonstrated on the march towards unification, the army has grown severely bloated as a result of incorporating thousands of defectors, volunteers, and the capture of enemy stockpiles. At the same time, paradoxically, many of the army's elite starting units have grown depleted as the expedition went on, some existing effectively only on paper. Their reinforcements have been either delayed or redirected as logistics snarled going northwards.\n\nThe pervasive, nearly systematic, rot that has spread across the army has become impossible to excise. If we are to save it from becoming a shambling mass of men, the only realistic solution left is to temporarily demobilise entire army corps wholescale and rebuild anew division by division. This is a tall order and expected to face significant resistance, especially since warlord units will face the brunt of disbandment orders.
+Military Disorder
+Some progress has been made in rebuilding the army, though problems continue. Many local commanders have resisted our orders to disband, fearing that our efforts will come primarily at the expense of their power. Others fear demobilisation will leave their sectors unguarded, or hesitate to split apart units that have years of camaraderie.\n\nStill, brigade by brigade and regiment by regiment our divisions are slowly being reconstituted once more into fighting units. As the frontline solidifies somewhat, a more steady logistical train has been established, thus alleviating some pressing concerns about the state of our military. Time is of the essence however, it is only a matter of time before the NRA is once more called to protect and defend China.
+Military Disorganisation
+The sweeping successes of the army during the Northern Expedition hid a growing problem within its ranks: that of outrunning its logistical tail and becoming over-bloated like the armies of the warlords. After thorough discussion and realising there was no other options, the high command ordered a thorough demobilisation.\n\nIt was a painful process but it seems that the worst of it is behind us now. Most of our best divisions are fully restored, and those we have raised or acquired along the way have been largely integrated into our ranks. There remain many command and control issues at a corps and army level, though this can be chalked up to growing pains as our freshly build army balloons in size. They must remain vigilant however, we have considerable ground to make up as we continue onwards to national unification.
+§RWe have done our best to resolve local economic disruptions but we cannot withstand the mounting financial downturn conquest has wrought. Direct action must be taken to stabilise the national economy.§!
+§RWe will take initiative repairing the sorry state of our national economy, unlocking further avenues to improve various commerical and industrial sectors, making the system more resilient as we expand.§!
+§RHaving failed to make additional progress in eliminating the chaos that plagues our national economy, faith in our government's fiscal stability has plunged but we can find some solace in that it cannot get any worse.§!
+§ROur prior efforts at reforms has helped to reduce the economic shocks of reintegrating large portions the country, though could not fully prevent fiscal upheaval.§!
+Devastated National Economy
+China was once the wealthiest nation in the world, the centre of booming trade and elegant craftsmanship. The decadence of the Qing dynasty, isolation from the outside world, and our predecessors' failure to grasp the significance of the industrial revolution doomed the mighty power to a Century of Humiliation. Having failed to modernise and keep pace with foreign powers, China lagged behind in industrial production. Heavily dependent on foreign investment to industrialise, what little that has been created is largely owned by foreigners, who exploit their advantageous position to extract significant concessions from squabbling and corrupt Chinese leaders. Meanwhile, the countryside is still underdeveloped and unequal, with little mechanisation and production while remaining manpower intensive.\n\nUnder strain from recent wars, forced to bear the burdens of moving armies, taxation, and war-time destruction, the system has effectively collapsed. Foreign investors are pulling out, trade is disrupted, looting and banditry is widespread, and vast swathes of territory under our control is facing famine. Many are questioning our government's ability to back up the currency it is issuing or handle the growing crisis, and we have precious little time to get things back on track.
+Damaged National Economy
+Although the [ROOT.GetAdjective] economy has improved somewhat, its woes still continue to multiply. Attracted like flies to the emerging stability of the new government, creditors of the previous government have come out of the woodwork expecting us to honour our obligations. Our actual ability to pay off our debts is still in the air as many still distrust the longevity of our regime and plenty refuse to accept our currency. More has to be done and fast - our armies, government, and patronage networks require money to run. The longer we dawdle, the more risk we undertake.\n\nWe may have less room to manoeuvre than our western counterparts. After a Century of Humiliation, China's economy is very fragile with limited modernisation in its agricultural and industrial sectors. Heavily dependent on foreign investments and the expense of political stability, and suffering from severe socio-political rot due to the warlord era, the strains of recent war severely damaged the economy of territories under our control. Though we may have stemmed the worst of the crisis, heading off inflation and bringing workers, merchants, and peasants back to work remains a priority. Fears of a famine have mostly subsided, though many continue to go hungry and there are areas that remain at severe risk for further crisis. There is much for us to do before we can declare a return to normal.
+Disrupted National Economy
+The Century of Humiliation left a battered China, with an economy that could ill afford the chaos caused by warlord infighting. Still, it has proved more resilient than expected, and some segments are coming slowly coming back to life. With more and more people coming to accept that our government is likely here to stay, a gentle hum has returned to life in the cities and the factories. Productivity has mostly returned to normal in our core territories, though areas more recently seized by our forces remain in dire straits as we work to reintegrate the disrupted system. Further effort is needed to truly bring China into the future.
+National Illiteracy
+Illiteracy remains widespread across the nation, despite persistent calls from reforms across the political spectrum to address the issue. For many, it has become emblematic of the \
+Disrupted Economy
+Rapid action is needed to avoid economic catastrophe!
+Recovering Economy
+Stabilising Economy
+After considerable hard work over the last few months, our economy has stabilised considerably. Although we still struggle to maintain our reserves and back up our currency, there has been some resilience in the money we have printed and they are mostly accepted within our borders. Once thought to be at risk of bankruptcy, we have assured most of the world of our financial prudence. With a little more effort, our economy will soon be humming back to life.
+An Army in Transition
+Reforming the military is an ongoing process, often made more difficult by pre-existing military reform programmes that have to either be salvaged, redesigned or scrubbed away in order to make way for progress. Having already made some headway along one path, our high command has elected to pivot to another, with consequences in the meantime.
+Northern School
+Ordnance and Orthodoxy
+§LChina's northern warlords mostly hail from the Xuantong-era military schools at Baoding and Tianjin and represent the cream of an increasingly old crop of officers. Educated in the Prussian style and fighting mainly on the northern plain, their style of command emphasises positional warfare alongside the importance of well-drilled troops; especially the artillery.§!
+Southern School
+Mass and Mobility
+§LLacking the resources of the northern warlords and fighting mainly in the tumbling mountains and valleys of the south, China's southern warlords emphasise numbers and manoeuvre warfare. Aggression is rewarded, openings are always to be exploited, and heavy artillery is replaced by swift mountain guns.§!
+Green Forest School
+Resilience and Requisition
+§LSome of China's warlords have no military schooling whatsoever and instead refer to themselves as having attended the 'university of the green forest'. Yet, for all their shortcomings, these former (and sometimes active) bandits bring a unique approach to warfare, able to remain flexible and resilient in even the most trying circumstances. Some may call their methods crude or even criminal, but they often get results.§!
+League War Support
+Request [FROM.GetAdjective] Rifles
+Request [FROM.GetAdjective] Artillery
+Request [FROM.GetAdjective] Support Equipment
+§H[FROM.GetNameDefCap]§! has §Rnot§! refused a request in the last three months.
+Awaiting a response about another request.
+The League War
+With the death of Sun Chuanfang, the §YLeague of Eight Provinces§! has collapsed in one fell stroke. The winner of the League War is sure to play a major role in determining China's future, and to survive the trial by fire, our people have been promised - and expect - a short, decisive campaign.\n\n£GFX_pol_violence §YMorale§! is a representation of the people's belief in our victory and their willingness to fight for that victory. With high £GFX_pol_violence §YMorale§!, we will be capable of rallying the people to our cause and securing foreign support. £GFX_pol_violence §YMorale§! can be §Ggained§! through:\n - Capturing enemy territory\n - Holding the city of Nanjing\n\nOn the other hand, the longer the war takes, the more we will seem to fail to live up to our promises. Should £GFX_pol_violence §YMorale§! drop low enough, our troops will begin to defect and their fighting ability will be severely crippled. £GFX_pol_violence §YMorale§! can be §Rlost§! by:\n - Losing territory\n - Progression of time
+Scavenge for Supplies in Jiangxi
+Scavenge for Supplies in Fujian
+Scavenge for Supplies in Zhejiang
+Scavenge for Supplies in Nanjing
+Scavenge for Supplies in Anhui
+Scavenge for Supplies in Jiangsu
+Scavenge for Supplies in Shandong
+Raise Men in Jiangxi
+Raise Men in Fujian
+Raise Men in Zhejiang
+Raise Men in Nanjing
+Raise Men in Anhui
+Raise Men in Jiangsu
+Raise Men in Shandong
+Appeal for Japanese Support
+Appeal for Zhili Support
+Appeal for German Support
+Appeal for Internationale Support
+Raise Nationalists
+Control Nanjing
+By holding China's old capital, we possess a powerful symbol of legitimacy both to our people and the world.
+Take Nanjing
+We must move quickly to secure control of Nanjing, lest the war drags on...
+Collapsing Morale
+We have failed to make advances, and now the tide of the war has turned against us...
+Current §YMorale§!: [GetLeagueWarMorale] ([?china_league_war_morale])
+§4Unbreakable§!
+§GVery High§!
+§nHigh§!
+§7Rising§!
+§YMedium§!
+§8Middling§!
+§9Falling§!
+§RLow§!
+§rVery Low§!
+§oDestroyed§!
+League War Morale
+Has more than $RIGHT|Y0$ £GFX_pol_violence §YMorale§!
+£GFX_pol_violence §YMorale§! will sink §odangerously low!§!
+£GFX_pol_violence §H5§!
+£GFX_pol_violence §R5§!
+It costs $china_five_morale_blocked$ to take the decision
+£GFX_pol_violence §H10§!
+£GFX_pol_violence §R10§!
+It costs $china_ten_morale_blocked$ to take the decision
+This mission will continue to §Yrepeat§!
+£GFX_pol_violence §YMorale§!: [SHD.GetLeagueWarMorale] ([?SHD.china_league_war_morale])
+£GFX_pol_violence §YMorale§!: [ANQ.GetLeagueWarMorale] ([?ANQ.china_league_war_morale])
+£GFX_pol_violence §YMorale§!: [LEP.GetLeagueWarMorale] ([?LEP.china_league_war_morale])
+£GFX_pol_violence §YMorale§!: [CHI.GetLeagueWarMorale] ([?CHI.china_league_war_morale])
+§Y[SHD.GetName]§!\n--------------\n[GetLeagueWarMoraleSHD]
+§Y[ANQ.GetName]§!\n--------------\n[GetLeagueWarMoraleANQ]
+§Y[LEP.GetName]§!\n--------------\n[GetLeagueWarMoraleLEP]
+§Y[CHI.GetName]§!\n--------------\n[GetLeagueWarMoraleCHI]
+§Y[LEP.GetName]§!\n--------------\n§RThis contender is not currently in the war§!
+§RThis contender is not currently in the war!§!
+The League War has ended.
+National Land Reform
+Although our government has done considerable work in improving the plight of the Chinese people, the reality is that the Warlord Era has done considerable damage to many parts of the country and stunted growth in others. Some of the worst affected regions are rural in nature, having seen little benefits of the industrialisation China has painfully undergone over the last few decades. After years of domestic turmoil and governmental neglect, many continue to suffer under the yoke of unfair tenantry laws, inadequate equipment, out-of-date techniques, various predatory entities, and natural disasters.\n\nWith our battlefield victories now won, it is up to us to face the next front in China's reconstruction and make those triumphs count. It is time that we make our mark on China's countryside, and alleviate the suffering of our people.
+Implement Land Reform in [FROM.GetName]
+There have been many thinkers and theorists who have posed potential solutions to the decades-long issues festering in the Chinese countryside. Having successfully united the nation under one banner, we have the sufficient resources and stability to implement a comprehensive plan to solve these problems. All that is needed now is the political will to carry out such an effort on a large scale.
+Unequal Treaties
+Calls for a United Front
+The outbreak of war between a Chinese government and foreign threats has led to an outpouring of patriotic sentiment across the nation. There are widespread calls for the various warring Chinese governments to put aside their differences and form a Chinese United Front in the name of national defence. For any factions found outside of this alliance, the political consequences may be dire.\n\n§RFighting against the United Front will result in this penalty remaining for the duration of the war.§!
+China United!
+Now that we have captured the capital and formed a new Chinese government, we must subjugate the remaining warlords.
+Revolutionary Fervour
+Now that the League has broken and open warfare has begun, the forces of Nanjing are in chaos and forced to fight on multiple fronts against their enemies. Now is the time for us to strike and lay claim to what is rightfully ours!
+Nanjing Re-Organised
+The traitors have failed to break us despite our weaknesses, now the time has come for us to strike back and reclaim what is ours!
+Foreign Support
+Due to our success in the war, a foreign mission has been sent to help us see through our victory.
+Desertions Common
+A string of defeats has resulted in more and more men refusing to fight, sometimes joining the army to receive a new pair clothes and sell them off at the nearest market.
+§YLeague War Morale§!\nPolitical Power: [?china_morale_dm_political_power_gain|+=%0]\nWar Support: [?china_morale_dm_war_support_factor|+%=2]\nSurrender Limit: [?china_morale_dm_surrender_limit|+%=0]\nBreakthrough: [?china_morale_dm_breakthrough_factor|+%=1]
+Collapsing Morale
+[THIS.GetLeader]'s failure to bring a decisive end to war has resulted in a complete and utter collapse of morale among the ranks. Day by day, soldiers lay down their weapons or turn to banditry, leaving our cause to its fate.
+Motivated Soldiers
+The Defence of Nanjing
+\
+The Defence of Nanjing
+It is a glorious day for the Chinese nation! Not only has the White Sun managed to advance far beyond the MinGan Insurgent Zone, the proud National Revolutionary Army has successfully secured the chosen capital of the Guofu, Dr. Sun. With the Southern Capital secured, the nation is sure to follow.\nAs long as Nanjing is within [ROOT.GetLeader]'s grasp, we will retain the effects of this spirit for the duration of the League War. §RHowever should Nanjing fall from our hands, we will lose this spirit!§!\n\nNonetheless, we retain the upper hand. Fu Zhan!
+The Defence of Nanjing
+Besieged upon all sides and beset by enemies both internally and externally, the League but retains two strengths: control of the Southern Capital, and the brave, modern and model Wusheng Lianjun. The League Marshal cannot allow such perfidious deriders to co-opt his rightful mantle!\nAs long as Nanjing is within [ROOT.GetLeader]'s grasp, we will retain the effects of this spirit for the duration of the League War. §RHowever should Nanjing fall from our hands, we will lose this spirit!§!\n\nNonetheless, we retain the upper hand. Fu Zhan!
+The Defence of Nanjing
+In a most curious turn of events, it would appear that it was not Chen Tiaoyuan, the League Marshal nor the vile Kuomintang radicals that managed to secure the Southern Capital. Instead it was [ROOT.GetLeader] and his loyal cadres! Under his watch, a new Eastern Polity shall rise...\nAs long as Nanjing is within [ROOT.GetLeader]'s grasp, we will retain the effects of this spirit for the duration of the League War. §RHowever should Nanjing fall from our hands, we will lose this spirit!§!\n\nNonetheless, we retain the upper hand. Fu Zhan!
+[CHN_GetRevoltTargetIdeaNameFake]
+[CHN_GetRevoltTargetIdeaName]
+[CHN_GetRevoltTargetIdeaDesc]
+The March Against Anqing
+From the fateful dissolution of the League of Eight Provinces to both Beijing and Nanjing flying the same banner, Anqing has united China. The bloody struggle for power for the unification of China was costly, but the peoples of the Anhui Province pulled it off in face of impossible odds.\n\nBut they celebrated too early. Drunk on their power, they stumbled into one final set of hurdles as the regional governments on the periphery grew disenchanted. Rallying their supporters against perceived abuses, these challengers mount a campaign to topple China's would-be rulers. Their successes hinge on the ability of their armies to take on the new central army and with banners raised they march to war.
+The March Against Liangguang
+Despite numerous setbacks and a revolving door of governments, Liangguang has accomplished their decades-old goal of uniting China. This was a difficult feat, especially rare for a Southern based Chinese government, but the peoples of the two Guangs (Guangdong and Guangxi), pulled it off in face of impossible odds.\n\nBut they celebrated too early. Drunk on their power, they stumbled into one final set of hurdles as the regional governments on the periphery grew disenchanted. Rallying their supporters against perceived abuses, these challengers mount a campaign to topple China's would-be rulers. Their successes hinge on the ability of their armies to take on the new central army and with banners raised they march to war.
+The March Against the Kuomintang
+From the mountains of Fujian, to the Blue Sky and White Sun flying over most of China, the Left Kuomintang Committee has completed their National Revolution. This was a difficult feat, especially considering the guerilla beginnings of the MinGan Insurgency, but the National Revolutionary Army pulled it off in face of impossible odds.\n\nBut they celebrated too early. Drunk on their power, they stumbled into one final set of hurdles as the regional governments on the periphery grew disenchanted. Rallying their supporters against perceived abuses, these challengers mount a campaign to topple China's would-be rulers. Their successes hinge on the ability of their armies to take on the new central army and with banners raised they march to war.
+The March Against Fengtian
+Triumphantly returning bearing the Five-Coloured Flag from Beijing to the Begonia Leaf, The Fengtian Clique has accomplished their decades-old goal of uniting China. The bloody struggle for power for the unification of China was costly, but the peoples of the Northeast pulled it off in face of impossible odds.\n\nBut they celebrated too early. Drunk on their power, they stumbled into one final set of hurdles as the regional governments on the periphery grew disenchanted. Rallying their supporters against perceived abuses, these challengers mount a campaign to topple China's would-be rulers. Their successes hinge on the ability of their armies to take on the new central army and with banners raised they march to war.
+The March Against Hunan
+From the fateful dissolution of the League of Eight Provinces to both Beijing and Nanjing flying the same banner, Hunan has united China. The bloody struggle for power for the unification of China was costly, but the peoples of the Hunan have pulled it off in face of impossible odds.\n\nBut they celebrated too early. Drunk on their power, they stumbled into one final set of hurdles as the regional governments on the periphery grew disenchanted. Rallying their supporters against perceived abuses, these challengers mount a campaign to topple China's would-be rulers. Their successes hinge on the ability of their armies to take on the new central army and with banners raised they march to war.
+The March Against the Kumuliks
+In a turn of surprising, even unfathomable events, the Government in Hami, or Kumul, has united China. The bloody struggle for power for the unification of China was costly, and the leaders of the Kumuliks now gather their spoils.\n\nBut they celebrated too early. Drunk on their power, they stumbled into one final set of hurdles as the regional governments on the periphery grew disenchanted. Rallying their supporters against perceived abuses, these challengers mount a campaign to topple China's would-be rulers. Their successes hinge on the ability of their armies to take on the new central army and with banners raised they march to war.
+The March Against the Legations
+To the surprise of many onlookers, and the horror of many Chinese, an International Mandate has been established in all of China. This unconventional turnout of events have left practically everyone in the world stunned, while the International Mandate gathers its spoils.\n\nBut they celebrated too early. Drunk on their power, they stumbled into one final set of hurdles as the regional governments on the periphery grew disenchanted. Rallying their supporters against perceived abuses, these challengers mount a campaign to topple China's would-be rulers. Their successes hinge on the ability of their armies to take on the new central army and with banners raised they march to war.
+The March Against Nanjing
+From the fateful dissolution of the League of Eight Provinces to both Beijing and Nanjing flying the same banner, The Nanjing Clique has united China. The bloody struggle for power for the unification of China was costly, and it seemed that German control over China would come to last.\n\nBut they celebrated too early. Drunk on their power, they stumbled into one final set of hurdles as the regional governments on the periphery grew disenchanted. Rallying their supporters against perceived abuses, these challengers mount a campaign to topple China's would-be rulers. Their successes hinge on the ability of their armies to take on the new central army and with banners raised they march to war.
+The March Against Manchuria
+With the unwavering support of their overlords, the Manchurian state has broken the scene of Chinese unification by taking over the Middle Kingdom themselves. Both domestic and international voices are in disarray, debating whether this iteration of China can be considered a China at all.\n\nIn any case, the Manchurian government stumbled into one final set of hurdles as the regional governments on the periphery grew disenchanted. Rallying their supporters against perceived abuses, these challengers mount a campaign to topple China's would-be rulers. Their successes hinge on the ability of their armies to take on the new central army and with banners raised they march to war.
+The March Against the Qing
+Despite numerous hardships, and even an attempted coup by their own sponsors, the Zhili, the Aisin Gioro Dynasty has retained their Mandate of Heaven, and the emperor has united China under his jade throne once again since the Xinhai Revolution. While the Qing were always a popular contender for China, they encountered, and overcame each obstacle until there seemed to be none left.\n\nBut they celebrated too early. Drunk on their power, they stumbled into one final set of hurdles as the regional governments on the periphery grew disenchanted. Rallying their supporters against perceived abuses, these challengers mount a campaign to topple China's would-be rulers. Their successes hinge on the ability of their armies to take on the new central army and with banners raised they march to war.
+The March Against the Zhili
+Despite numerous hardships, the Zhili Clique has united China in their vision, and the Jade Marshal has united China under his thumb finally. While the Zhili were always a popular contender for China, they encountered, and overcame each obstacle until there seemed to be none left.\n\nBut they celebrated too early. Drunk on their power, they stumbled into one final set of hurdles as the regional governments on the periphery grew disenchanted. Rallying their supporters against perceived abuses, these challengers mount a campaign to topple China's would-be rulers. Their successes hinge on the ability of their armies to take on the new central army and with banners raised they march to war.
+The March Against Shanxi
+Despite numerous setbacks and a revolving door of governments, Shanxi has accomplished their decades-old goal of uniting China. This was a difficult feat, especially as the province was once one of the least developed in all of China, but the peoples of Shanxi pulled it off in face of impossible odds.\n\nBut they celebrated too early. Drunk on their power, they stumbled into one final set of hurdles as the regional governments on the periphery grew disenchanted. Rallying their supporters against perceived abuses, these challengers mount a campaign to topple China's would-be rulers. Their successes hinge on the ability of their armies to take on the new central army and with banners raised they march to war.
+The March Against Xinjiang
+In a turn of surprising, even unfathomable events, the Xinjiang Clique has united China. The bloody struggle for power for the unification of China was costly, and the leaders of Xinjiang now gather their spoils.\n\nBut they celebrated too early. Drunk on their power, they stumbled into one final set of hurdles as the regional governments on the periphery grew disenchanted. Rallying their supporters against perceived abuses, these challengers mount a campaign to topple China's would-be rulers. Their successes hinge on the ability of their armies to take on the new central army and with banners raised they march to war.
+The March Against Shandong
+From the fateful dissolution of the League of Eight Provinces to both Beijing and Nanjing flying the same banner, Shandong has united China. The bloody struggle for power for the unification of China was costly, but the peoples of Shandong pulled it off in face of impossible odds.\n\nBut they celebrated too early. Drunk on their power, they stumbled into one final set of hurdles as the regional governments on the periphery grew disenchanted. Rallying their supporters against perceived abuses, these challengers mount a campaign to topple China's would-be rulers. Their successes hinge on the ability of their armies to take on the new central army and with banners raised they march to war.
+The March Against Sichuan
+Despite numerous setbacks and a revolving door of governments, Sichuan has accomplished their decades-old goal of uniting China. This was a difficult feat, especially rare for a Southern based Chinese government, but the peoples of Sichuan pulled it off in face of impossible odds.\n\nBut they celebrated too early. Drunk on their power, they stumbled into one final set of hurdles as the regional governments on the periphery grew disenchanted. Rallying their supporters against perceived abuses, these challengers mount a campaign to topple China's would-be rulers. Their successes hinge on the ability of their armies to take on the new central army and with banners raised they march to war.
+The March Against Taiwan
+With the unwavering support of their overlords, the Taiwanese state has broken the scene of Chinese unification by taking over the Middle Kingdom themselves. Both domestic and international voices are in disarray, debating whether this iteration of China can be considered a China at all.\n\nIn any case, the Taiwanese government stumbled into one final set of hurdles as the regional governments on the periphery grew disenchanted. Rallying their supporters against perceived abuses, these challengers mount a campaign to topple China's would-be rulers. Their successes hinge on the ability of their armies to take on the new central army and with banners raised they march to war.
+The March Against the Ma
+In a turn of surprising, even unfathomable events, the Ma Clique has united China. The bloody struggle for power for the unification of China was costly, and the Family Ma now gathers their spoils.\n\nBut they celebrated too early. Drunk on their power, they stumbled into one final set of hurdles as the regional governments on the periphery grew disenchanted. Rallying their supporters against perceived abuses, these challengers mount a campaign to topple China's would-be rulers. Their successes hinge on the ability of their armies to take on the new central army and with banners raised they march to war.
+The March Against Yunnan
+Despite numerous setbacks and a revolving door of governments, Yunnan has accomplished their decades-old goal of uniting China. This was a difficult feat, especially rare for a Southern based Chinese government, but the peoples of Yunnan pulled it off in face of impossible odds.\n\nBut they celebrated too early. Drunk on their power, they stumbled into one final set of hurdles as the regional governments on the periphery grew disenchanted. Rallying their supporters against perceived abuses, these challengers mount a campaign to topple China's would-be rulers. Their successes hinge on the ability of their armies to take on the new central army and with banners raised they march to war.
+Return to the World Stage
+China was once a great Hegemon in the East, brought low by domestic stagnation and foreign Imperialism. Having successfully reunited China on its own terms, China is now free to begin piecing back together its former Empire - one step at a time.
+Return to the World Stage
+China seeks to return to its traditional place as the \
+The Dragon Roars
+China has returned to its traditional place as the great Eastern Hegemon, shaking off its slumber and driving out foreign influences from its traditional borders. As it works to recreate its old sphere of influence, it has proven more willing to behave belligerently with rival powers - fiercely contesting existing spheres of influence in Asia and the Pacific.
+Invite [FROM.GetNameDef] into the East Asian Community
+We have recently celebrated the entry of [FROM.GetNameDef] into [ROOT.GetFactionName], and with our expanded partnership it would be wise to propose expanding our ties to include additional joint economic projects that will bring the entire continent closer together.
+Chinese reunification has allowed its government to mobilise its vast economy to once again be the centre of commerce in the East. It has moved to found a trade bloc that it hopes will unite the various post-colonial Asian and Pacific states and allow them to build independent economies from Europe.
+The East Asian Community
+$CHN_east_asian_community_shared_intro$\n\nOf course, as the founder and largest economy within this bloc, China enjoys a privileged position within this economic system.
+$CHN_east_asian_community_founder_level_1_idea$
+$CHN_east_asian_community_founder_level_1_idea_desc$ This trade bloc and its associated economic development programmes has also expanded to include cultural and academic exchanges.
+Centre of the World Federation
+$CHN_east_asian_community_shared_intro$\n\nHaving brought the great powers of the world into its federation, China is able to completely reorder global trade around itself.
+East Asia Community Member
+$CHN_east_asian_community_shared_intro$\n\nAs a member state, we benefit from Chinese investments however it also requires us to open up our economy to Chinese investment.
+The [GetYear] Anti-Centralisation Rebellion Ignites
+The [GetYear] National Unification Campaign Begins
+The [GetYear] Bandit Suppression Campaign Opens
+The [GetYear] National Protection War Declared
+The [GetYear] Pacification Campaign Starts
+The [GetYear] Constitutional Uprising Erupts
+The [GetYear] Anti-[FROM.GetAdjective] Civil War Commences
+Although [FROM.GetNameDef] has had considerable success so far in convincing disparate warlords to join [FROM.GetLeader]'s movement, there has always been a fear that the fickle erstwhile \
+Frantic news from China has arrived that the country has seemingly fallen into another civil war. While they once proclaimed loyalty to the Kuomintang's National Government, rebellious warlords have announced their decision to cut off ties with the [CHI.Capital.GetCapitalVictoryPointName] Government - denouncing the Kuomintang's apparent authoritarianism.\n\nWhile some may consider that the Kuomintang's idea of a unitary state has led to an inevitable civil war, there can be no doubt that the NRA must act quickly in dispelling the rebels, or else the Kuomintang may very well lose their chance once more to fulfil Dr. Sun's revolution.
+After being repeatedly ousted by his rivals, Dr. Sun Yat-sen formed the Kuomintang along vanguardist lines, demanding personal loyalty oaths from each member. Despite this, the Kuomintang have long struggled to present a united front, even before their eternal Premier's death. The Kuomintang's rightist elements have attempted to build a unified coalition, only to see it collapse in recent days.\n\nThe central government, led by [FROM.GetLeader] has denounced the growing rebellion as the work of \
+It was supposed to be over. After the Zhili clique's stunning victory over its rivals in the 1920s, many envisioned a future built along Zhili lines. This dream was utterly shattered in 1936 with the collapse of the League, and it seems things have only gotten worse from there. [FROM.GetNameDefCap]'s attempt to pick up the pieces took a severe blow today with news of a major uprising by various regional governments.\n\nReminiscent of the National Protection War, the rebels claim to be liberating the nation from Zhili tyranny. Whether or not this is merely a front for warlord rule, and if the Zhili whether yet another storm, will be determined on the battlefield.
+Installed in an effort to achieve international legitimacy, the Qing monarchy has not been particularly popular even after the ouster of the Zhili. Their efforts to assert control over allied factions, has triggered a new National Protection War, with rebels stoking republican sentiment against what they argue is a foreign imposed monarchy.\n\nThe [FROM.GetAdjective] leadership in turn have vowed to quash the rebellion in a national pacification campaign: the outcome will determine the fate of the troubled history of the Qing dynasty.
+The triumph of [FROM.GetNameDef] has not meant the end of its troubles governing over the indomitable tempers of regionalist actors. Although [FROM.GetLeader] has successfully secured the loyalty of various regional governments through negotiations, it appears those agreements fell through today as greater integration was sought.\n\nWith multiple regions now in open rebellion, [FROM.GetAdjective] legitimacy is now in question. Propaganda, true or not, about [FROM.GetAdjective] cooperation with the Japanese and other sordid rumours have begun to spread. If this rebellion is not quashed quickly, their dreams of unifying China will soon be over.
+Although [FROM.GetNameDef] has made great strides towards unification, their initial successes in securing the loyalty of various Governors has taken a major blow in recent days. Warlords are known to be mercurial and capricious in their loyalty, and the same is likely true of their [FROM.GetRulingParty] masters in [FROM.GetNameDef].\n\nThis mutual distrust combined with [FROM.GetAdjective] efforts at asserting further control has resulted in civil war breaking out as multiple previously aligned governors have denounced the central government. As the armies march to war, citizens cower and hope to survive yet another bout of instability.
+Our government is better off without them!
+We will vanquish the traitors!
+Let us hope our patrons emerge victorious.
+Our allies face another struggle.
+We will prevail against tyranny!
+Proof of our own legitimacy.
+A welcome respite, and potential opportunity.
+The fools fight amongst themselves!
+Governments come and go. We shall survive.
+Let us hope it does not spill over the border.
+An opportunity? Or a threat?
+Another tragic conflict in a wretched region.
+In face of foreign aggression, we have achieved a prominence that we have long sought as the effective leader of China. [ROOT.GetLeader] has delivered a speech today in [ROOT.Capital.GetCapitalVictoryPointName] formally announcing the creation a Chinese United Front, and calling for all China to rally to the national cause.\n\nThe war ahead is not expected to be easy by any means, and the coalition we assembled will likely be unwieldy. Nonetheless, our strength has been buttressed by the joint might of various warlord armies, and our odds considerably improved as a result. Under the shadow of war, China girds itself for a prolonged conflict against those who would subjugate it.
+In face of foreign aggression, we and many others have banded together to face off against the invaders in a Chinese United Front. A shared government, mostly on paper, has been established to coordinate activities, one of which we have taken an active interest in.\n\nThe war ahead is not expected to be easy, but united China is still a power to behold. With millions of patriots prepared to fight and die against foreign oppression, and with considerable battlefield experience shared across its members, we must push the enemy out of Chinese lands. For the sake of the nation, its people, and its future, there can be no surrender!
+Assembling various factions within China together, the Chinese United Front has formed to oppose foreign aggression and coordinate a defence against enemy invasion. Although [ROOT.GetLeader] and his staff are still mulling whether or not to join, that has not stopped others from going forward in creating this alliance.\n\nWe have experienced pressure internally, even within the [ROOT.GetRulingParty], to participate in this defence of the homeland, though the risks remain evident. United, China can pose a major threat, however victory is far from assured. And the future of the front is not certain either - what will happen after a victory remains an open question.
+Various Chinese forces, in a desperate effort to deny us our rightful demands, have come together to form a so-called \
+Faced with foreign invasion, various Chinese factions have agreed to cooperate in a \
+We shall lead our people to victory!
+Let us drive out the imperialists together!
+A decision must be made soon...
+Let's see how united they truly are!
+The Chinese tiger roars.
+Fighting for the liberation of China, we have achieved a prominence that we have long sought as the effective leader of China. [ROOT.GetLeader] has delivered a speech today in [ROOT.Capital.GetCapitalVictoryPointName] formally announcing the creation of a Chinese United Front, and calling for all China to rally to the national cause.\n\nThe war ahead is not expected to be easy by any means, and the coalition we assembled will likely be unwieldy. Nonetheless, our strength has been buttressed by the joint might of various warlord armies, and our odds considerably improved as a result. Under the shadow of war, China girds itself for a prolonged conflict against those who would subjugate it.
+Fighting for the liberation of China, we and many others have banded together to face off against the invaders in a Chinese United Front. A shared government, mostly on paper, has been established to coordinate activities, one of which we have taken an active interest in.\n\nThe war ahead is not expected to be easy, but united China is still a power to behold. With millions of patriots prepared to fight and die against foreign oppression, and with considerable battlefield experience shared across its members, we must push the enemy out of Chinese lands. For the sake of the nation, its people, and its future, there can be no surrender!
+Assembling various factions within China together, the Chinese United Front has formed to oppose Japanese imperialism and coordinate the liberation of Dongbei. Although [ROOT.GetLeader] and his staff are still mulling whether or not to join, that has not stopped others from going forward in creating this alliance.\n\nWe have experienced pressure internally, even within the [ROOT.GetRulingParty], to participate in this liberation of the homeland, though the risks remain evident. United, China can pose a major threat, however victory is far from assured. And the future of the front is not certain either - what will happen after a victory remains an open question.
+Various Chinese forces, exploiting our vulnerability during our war with Germany, have come together to form a so-called \
+Exploiting Japanese vulnerability in their war with Germany, various Chinese factions have agreed to cooperate in a \
+As the Chinese encroach on our borders and demand our total annexation into their sphere, our prospects of independence grow dim. Pragmatic elements within our government have suggested that we cede the territories we own but possess a significant Han minority. To do so might appease the Chinese and their imperialist ambitions on our sovereignty, although it is a blow to our national prestige to cede territory without a fight willingly.
+Our negotiations with [FROM.GetNameDef] are not going as planned. Despite our generous offer to cede the territories we own that contain a significant Han minority to the Chinese Government, the Chinese negotiators have flatly refused our offer - demanding our total subjugation to their resurgent imperialist power.\n\nThe loudest warhawks in our government is telling our leadership to refuse any further Chinese offers and to prepare for war with [FROM.GetNameDef]. Yet pacifists and pragmatic members of our government are petitioning our government to offer [FROM.GetNameDef] our submission in exchange for autonomy.
+Our negotiations with [FROM.GetNameDef] are not going as planned. It is clear that the Chinese will demand either our total annexation or our submission. As an alternative to avoid a devastating war on our peoples and a war with near impossible odds to win, our leadership has proposed that we offer the Chinese Government our submission to potentially receive status as an autonomous nation within the Chinese sphere.
+Our negotiations with [FROM.GetNameDef] are not going as planned. It is clear that the Chinese will demand either our total annexation or our submission. As an alternative to avoid a devastating war on our peoples and a war with near impossible odds to win, our leadership has proposed that we offer the Chinese Government the lands of which they currently claim that possess a significant Han minority. While this may seem to be a loss of face for us, it may pose a better option than the alternative.
+While we have long struggled with our oppression under our Chinese overlords, new geo-political shifts around the world now present an opportunity. To the far North, the resurgent nation of [RUS.GetNameDef] seeks to reassert its hegemony over Eurasia and will no doubt be a powerful ally to which we can try to appeal. To the southern hemisphere of the Asian continent lies the recently reunified Indian nation - that will no doubt hope to seek to contain Chinese expansionism. Perhaps with these major rising nations, we can find protection against the Chinese encroachment on our borders.
+$china_seek_protection_paragraph_intro$\n\nUnfortunately for us, both of the powers have refused our request for aid. It would appear we are on our own.
+$china_seek_protection_paragraph_intro$\n\nUnfortunately for us, the Russians have declined our offer. Nonetheless, we could approach [HND.GetNameDef] for aid although they may require our government to fully profess to the ideals of socialism in order to receive protection and aid. Conservatives in our government have voiced opposition towards this offer - but we do not have much of a choice if we need to seek a backer.
+$china_seek_protection_paragraph_intro$\n\nUnfortunately for us, the Russians have dismissed our petition but the Indian Government seems open to our offer and our plea for protection. Let us hope they see some sense and are willing to protect our national self-determination.
+$china_seek_protection_paragraph_intro$\n\nUnfortunately for us, the Indians have declined our offer. Nonetheless, we could approach [RUS.GetNameDef] for aid although the Russian socialist government may require our government to join their sphere fully as a socialist ally. Conservatives in our government have voiced opposition towards this offer - but we do not have much of a choice if we need to seek a backer for protection.
+$china_seek_protection_paragraph_intro$\n\nUnfortunately for us, the Indians have dismissed our petition but it would appear that the Russian Government seems open to our offer. Let us hope they see some sense and are willing to protect our national self-determination.
+$china_seek_protection_paragraph_intro$\n\nThe socialist nations of [HND.GetNameDef] and [RUS.GetNameDef] have expressed their interest in protecting our national-self determination and our right to exist. However, they may ask that our government switch to a leftist or socialist alternative to participating in their shared revolution. Conservatives in our government have voiced opposition towards this offer - but perhaps this is necessary to save our nation from destruction.
+$china_seek_protection_paragraph_intro$\n\nThe Russians have expressed interest in protecting our borders and national sovereignty but [HND.GetNameDef] has also sent our ambassadors a note of good will and a potential promise for friendship. Should we align with the Indians however, they may seek to demand that our government share in their revolution and establish a leftist government. This may arouse anger from our conservatives but we may need to do so in order to protect our nation from destruction.
+$china_seek_protection_paragraph_intro$\n\nThe Indians have expressed interest in protecting our borders and national sovereignty but [RUS.GetNameDef] has also sent our ambassadors a note of good will and a potential promise for friendship. Should we align with the Russians however, they may seek to demand that our government share in their revolution and establish a leftist government. This may arouse anger from our conservatives but we may need to do so in order to protect our nation from destruction.
+$china_seek_protection_paragraph_intro$\n\nBoth the Russian Government and the Indian Government have expressed interest in protecting our national sovereignty in their desire to limit Chinese expansionism. Let us consult with our leadership to determine the path for which our nation should take but we rest assured that we may have a strong backer to combat the Chinese from seizing our country.
+While we have long struggled with our oppression under our Chinese overlords, new geo-political shifts around the world now present an opportunity. To the far North, the resurgent nation of [RUS.GetNameDef] seeks to reassert its hegemony over Eurasia and will no doubt be a powerful ally to which we can try to appeal. Should we align with the Russians however, they may seek to demand that our government share in their revolution and establish a leftist government. This may arouse anger from our conservatives but we may need to do so in order to protect our nation from destruction.
+While we have long struggled with our oppression under our Chinese overlords, new geo-political shifts around the world now present an opportunity. To the far North, the resurgent nation of [RUS.GetNameDef] seeks to reassert its hegemony over Eurasia and will no doubt be a powerful ally to which we can try to appeal. Perhaps with them, we can find protection against the Chinese encroachment on our borders.
+While we have long struggled with our oppression under our Chinese overlords, new geo-political shifts around the world now present an opportunity. To the southern hemisphere of the Asian continent lies the recently reunified Indian nation - that will no doubt hope to seek to contain Chinese expansionism. Should we align with the Indians however, they may seek to demand that our government share in their revolution and establish a leftist government. This may arouse anger from our conservatives but we may need to do so in order to protect our nation from destruction.
+While we have long struggled with our oppression under our Chinese overlords, new geo-political shifts around the world now present an opportunity. To the southern hemisphere of the Asian continent lies the recently reunified Indian nation - that will no doubt hope to seek to contain Chinese expansionism. Perhaps with them, we can find protection against the Chinese encroachment on our borders.
+The [GXC.GetRulingParty] and the [ROOT.GetRulingParty] are considered compatible, sharing many values even if they have come into conflict before in the past. [GXC.GetLeader] is not someone to be trusted uncritically, but he is someone that can be reasoned with. In any case, the wealth of Guangdong and the armies of Guangxi make him a leader we are better off friends with than enemies with.
+The [GXC.GetRulingParty] has successfully outmanoeuvred our allies in Liangguang and have seized power for themselves. Our ideologies are simply incompatible and our differences irreconcilable. The wealth of Guangdong is great and the armies of Guangxi mighty, but [GXC.GetLeader] cannot be trusted and if our way is to take hold in the south, we must liberate Guangzhou for our cause.
+[HNN.GetLeader] and [ROOT.GetLeader] may not always see eye to eye, but trust is fleeting in such a treacherous time. Threats abound from all sides, and an alliance between [HNN.Capital.GetCapitalVictoryPointName] and [ROOT.Capital.GetCapitalVictoryPointName] may be the only way to bring lasting peace to the south.
+[HNN.GetLeader] is the treacherous leader of [HNN.GetNameDef], one who poses a significant threat to us from his base in [HNN.Capital.GetCapitalVictoryPointName]. An alliance with him is impossible given the circumstances. Opposing him may be the only way to bring lasting peace in the south.
+[YUN.GetNameDefCap] is ruled by [YUN.GetLeader], an ambitious warlord but one that we are friendly enough with. Ruling a highly militarised Yunnan and Western Guizhou, he commands a mighty, hardened army. It may be wise to cooperate (at least for now) with [YUN.Capital.GetCapitalVictoryPointName], for the sake of mutual survival.
+[YUN.GetNameDefCap] is ruled by [YUN.GetLeader], an ambitious warlord that is hostile to us. Ruling a highly militarised Yunnan and Western Guizhou, he commands a mighty, hardened army. He must be eliminated (either now or later) and  [YUN.Capital.GetCapitalVictoryPointName] liberated if we are to survive.
+Lastly there is always the possibility of neutrality, simply waiting out the conflict to see what happens next. Perhaps if we feel confident we could then eliminate the weakened \
+§RAn additional penalty will be applied because we are ideologically compatible.§!
+We'd be amiss without Wu Heling, grant him authority.
+Wu Yunpeng should succeed were Heling failed.
+Liu Yifei held the post before, surely he can't fail twice.
+All under the Marshal.
+Ma Hetian maintained cordial affairs once before.
+Ma Hongkui will keep them in line.
+Toss a bone to Bai Yunti.
+Li Yongxin assures the Chairman of his priorities.
+It is only natural that Dorjsürenkhoroljav retain his position.
+I'm sure Liu Wenhui has it under control.
+Huang Musong has a hand on things.
+Lobsang Gyaltsen shall work for both the Sangha and the Emperor.
+Let us raise Fan Yaonan to the post.
+Sheng Shicai will serve us well.
+Yulbars Khan will maintain tradition.
+Ma Shaowu is an old friend, he has our vote.
+Ma Hushan will finish what Ma Zhongying started.
+Burhan Shahidi's sincerity has won him Xinjiang.
+Yulbars Khan will serve the Emperor well.
+We find a partnership with Lin Xiantian acceptable.
+Sa Shijun will be able to bring Taiwan under proper governance.
+The TAHR understands how to dance with the Rising Sun, like us.
+Jiang is rough around the edges, but he's our man.
+Lin and his TAHR shall serve the Emperor well.
+Left Kuomintang
+Left Kuomintang
+the Left Kuomintang
+Nanjing Nationalist Government
+the Nanjing Nationalist Government
+Nanjing Nationalist Government
+the Nanjing Nationalist Government
+Nanjing Nationalist Government
+the Nanjing Nationalist Government
+Nanjing Nationalist Government
+the Nanjing Nationalist Government
+Nanjing Nationalist Government
+the Nanjing Nationalist Government
+Nanjing Nationalist Government
+the Nanjing Nationalist Government
+Nanjing Nationalist Government
+the Nanjing Nationalist Government
+Nanjing Nationalist Government
+the Nanjing Nationalist Government
+Nanjing Nationalist Government
+the Nanjing Nationalist Government
+Nanjing Nationalist Government
+the Nanjing Nationalist Government
+Left Kuomintang
+Left Kuomintang
+the Left Kuomintang
+Guangzhou Nationalist Government
+the Guangzhou Nationalist Government
+Guangzhou Nationalist Government
+the Guangzhou Nationalist Government
+Guangzhou Nationalist Government
+the Guangzhou Nationalist Government
+Guangzhou Nationalist Government
+the Guangzhou Nationalist Government
+Guangzhou Nationalist Government
+the Guangzhou Nationalist Government
+Guangzhou Nationalist Government
+the Guangzhou Nationalist Government
+Guangzhou Nationalist Government
+the Guangzhou Nationalist Government
+Guangzhou Nationalist Government
+the Guangzhou Nationalist Government
+Guangzhou Nationalist Government
+the Guangzhou Nationalist Government
+Guangzhou Nationalist Government
+the Guangzhou Nationalist Government
+Left Kuomintang
+Left Kuomintang
+the Left Kuomintang
+Changsha Nationalist Government
+the Changsha Nationalist Government
+Changsha Nationalist Government
+the Changsha Nationalist Government
+Changsha Nationalist Government
+the Changsha Nationalist Government
+Changsha Nationalist Government
+the Changsha Nationalist Government
+Changsha Nationalist Government
+the Changsha Nationalist Government
+Changsha Nationalist Government
+the Changsha Nationalist Government
+Changsha Nationalist Government
+the Changsha Nationalist Government
+Changsha Nationalist Government
+the Changsha Nationalist Government
+Changsha Nationalist Government
+the Changsha Nationalist Government
+Changsha Nationalist Government
+the Changsha Nationalist Government
+Left Kuomintang
+Left Kuomintang
+the Left Kuomintang
+Kunming Nationalist Government
+the Kunming Nationalist Government
+Kunming Nationalist Government
+the Kunming Nationalist Government
+Kunming Nationalist Government
+the Kunming Nationalist Government
+Kunming Nationalist Government
+the Kunming Nationalist Government
+Kunming Nationalist Government
+the Kunming Nationalist Government
+Kunming Nationalist Government
+the Kunming Nationalist Government
+Kunming Nationalist Government
+the Kunming Nationalist Government
+Kunming Nationalist Government
+the Kunming Nationalist Government
+Kunming Nationalist Government
+the Kunming Nationalist Government
+Kunming Nationalist Government
+the Kunming Nationalist Government
+Right Kuomintang
+Right Kuomintang
+the Right Kuomintang
+Guangzhou Nationalist Government
+the Guangzhou Nationalist Government
+Guangzhou Nationalist Government
+the Guangzhou Nationalist Government
+Guangzhou Nationalist Government
+the Guangzhou Nationalist Government
+Guangzhou Nationalist Government
+the Guangzhou Nationalist Government
+Guangzhou Nationalist Government
+the Guangzhou Nationalist Government
+Guangzhou Nationalist Government
+the Guangzhou Nationalist Government
+Guangzhou Nationalist Government
+the Guangzhou Nationalist Government
+Guangzhou Nationalist Government
+the Guangzhou Nationalist Government
+Guangzhou Nationalist Government
+the Guangzhou Nationalist Government
+Guangzhou Nationalist Government
+the Guangzhou Nationalist Government
+Chinese Federalists
+Chinese Federalist
+the Chinese Federalists
+Guangzhou Federalist Government
+the Guangzhou Federalist Government
+Guangzhou Federalist Government
+the Guangzhou Federalist Government
+Guangzhou Federalist Government
+the Guangzhou Federalist Government
+Guangzhou Federalist Government
+the Guangzhou Federalist Government
+Guangzhou Federalist Government
+the Guangzhou Federalist Government
+Guangzhou Federalist Government
+the Guangzhou Federalist Government
+Guangzhou Federalist Government
+the Guangzhou Federalist Government
+Guangzhou Federalist Government
+the Guangzhou Federalist Government
+Guangzhou Federalist Government
+the Guangzhou Federalist Government
+Guangzhou Federalist Government
+the Guangzhou Federalist Government
+Chinese Federalists
+Chinese Federalist
+the Chinese Federalists
+Guangzhou Federalist Government
+the Guangzhou Federalist Government
+Guangzhou Federalist Government
+the Guangzhou Federalist Government
+Guangzhou Federalist Government
+the Guangzhou Federalist Government
+Guangzhou Federalist Government
+the Guangzhou Federalist Government
+Guangzhou Federalist Government
+the Guangzhou Federalist Government
+Guangzhou Federalist Government
+the Guangzhou Federalist Government
+Guangzhou Federalist Government
+the Guangzhou Federalist Government
+Guangzhou Federalist Government
+the Guangzhou Federalist Government
+Guangzhou Federalist Government
+the Guangzhou Federalist Government
+Guangzhou Federalist Government
+the Guangzhou Federalist Government
+Federalists
+Federalist
+the Federalists
+Chongqing Federalist Government
+the Chongqing Federalist Government
+Chongqing Federalist Government
+the Chongqing Federalist Government
+Chongqing Federalist Government
+the Chongqing Federalist Government
+Chongqing Federalist Government
+the Chongqing Federalist Government
+Chongqing Federalist Government
+the Chongqing Federalist Government
+Chongqing Federalist Government
+the Chongqing Federalist Government
+Chongqing Federalist Government
+the Chongqing Federalist Government
+Chongqing Federalist Government
+the Chongqing Federalist Government
+Chongqing Federalist Government
+the Chongqing Federalist Government
+Chongqing Federalist Government
+the Chongqing Federalist Government
+Federalists
+Federalist
+the Federalists
+Kunming Federalist Government
+the Kunming Federalist Government
+Kunming Federalist Government
+the Kunming Federalist Government
+Kunming Federalist Government
+the Kunming Federalist Government
+Kunming Federalist Government
+the Kunming Federalist Government
+Kunming Federalist Government
+the Kunming Federalist Government
+Kunming Federalist Government
+the Kunming Federalist Government
+Kunming Federalist Government
+the Kunming Federalist Government
+Kunming Federalist Government
+the Kunming Federalist Government
+Kunming Federalist Government
+the Kunming Federalist Government
+Kunming Federalist Government
+the Kunming Federalist Government
+Federalists
+Federalist
+the Federalists
+Changsha Federalist Government
+the Changsha Federalist Government
+Changsha Federalist Government
+the Changsha Federalist Government
+Changsha Federalist Government
+the Changsha Federalist Government
+Changsha Federalist Government
+the Changsha Federalist Government
+Changsha Federalist Government
+the Changsha Federalist Government
+Changsha Federalist Government
+the Changsha Federalist Government
+Changsha Federalist Government
+the Changsha Federalist Government
+Changsha Federalist Government
+the Changsha Federalist Government
+Changsha Federalist Government
+the Changsha Federalist Government
+Changsha Federalist Government
+the Changsha Federalist Government
+Northern Zhili Clique
+Northern Zhili
+the Northern Zhili Clique
+Chengdu Provisional Government
+the Chengdu Provisional Government
+Chengdu Provisional Government
+the Chengdu Provisional Government
+Chengdu Provisional Government
+the Chengdu Provisional Government
+Chengdu Provisional Government
+the Chengdu Provisional Government
+Chengdu Provisional Government
+the Chengdu Provisional Government
+Chengdu Provisional Government
+the Chengdu Provisional Government
+Chengdu Provisional Government
+the Chengdu Provisional Government
+Chengdu Provisional Government
+the Chengdu Provisional Government
+Chengdu Provisional Government
+the Chengdu Provisional Government
+Chengdu Provisional Government
+the Chengdu Provisional Government
+Northern Zhili Clique
+Northern Zhili
+the Northern Zhili Clique
+Nanjing Provisional Government
+the Nanjing Provisional Government
+Nanjing Provisional Government
+the Nanjing Provisional Government
+Nanjing Provisional Government
+the Nanjing Provisional Government
+Nanjing Provisional Government
+the Nanjing Provisional Government
+Nanjing Provisional Government
+the Nanjing Provisional Government
+Nanjing Provisional Government
+the Nanjing Provisional Government
+Nanjing Provisional Government
+the Nanjing Provisional Government
+Nanjing Provisional Government
+the Nanjing Provisional Government
+Nanjing Provisional Government
+the Nanjing Provisional Government
+Nanjing Provisional Government
+the Nanjing Provisional Government
+Northern Zhili Clique
+Northern Zhili
+the Northern Zhili Clique
+Guangzhou Provisional Government
+the Guangzhou Provisional Government
+Guangzhou Provisional Government
+the Guangzhou Provisional Government
+Guangzhou Provisional Government
+the Guangzhou Provisional Government
+Guangzhou Provisional Government
+the Guangzhou Provisional Government
+Guangzhou Provisional Government
+the Guangzhou Provisional Government
+Guangzhou Provisional Government
+the Guangzhou Provisional Government
+Guangzhou Provisional Government
+the Guangzhou Provisional Government
+Guangzhou Provisional Government
+the Guangzhou Provisional Government
+Guangzhou Provisional Government
+the Guangzhou Provisional Government
+Guangzhou Provisional Government
+the Guangzhou Provisional Government
+Jinan Northern Zhili Clique
+Northern Zhili
+the Northern Zhili Clique
+Jinan Provisional Government
+the Jinan Provisional Government
+Jinan Provisional Government
+the Jinan Provisional Government
+Jinan Provisional Government
+the Jinan Provisional Government
+Jinan Provisional Government
+the Jinan Provisional Government
+Jinan Provisional Government
+the Jinan Provisional Government
+Jinan Provisional Government
+the Jinan Provisional Government
+Jinan Provisional Government
+the Jinan Provisional Government
+Jinan Provisional Government
+the Jinan Provisional Government
+Jinan Provisional Government
+the Jinan Provisional Government
+Jinan Provisional Government
+the Jinan Provisional Government
+Northern Zhili Clique
+Northern Zhili
+the Northern Zhili Clique
+Changsha Provisional Government
+the Changsha Provisional Government
+Changsha Provisional Government
+the Changsha Provisional Government
+Changsha Provisional Government
+the Changsha Provisional Government
+Changsha Provisional Government
+the Changsha Provisional Government
+Changsha Provisional Government
+the Changsha Provisional Government
+Changsha Provisional Government
+the Changsha Provisional Government
+Changsha Provisional Government
+the Changsha Provisional Government
+Changsha Provisional Government
+the Changsha Provisional Government
+Changsha Provisional Government
+the Changsha Provisional Government
+Changsha Provisional Government
+the Changsha Provisional Government
+Northern Zhili Clique
+Northern Zhili
+the Northern Zhili Clique
+Lanzhou Provisional Government
+the Lanzhou Provisional Government
+Lanzhou Provisional Government
+the Lanzhou Provisional Government
+Lanzhou Provisional Government
+the Lanzhou Provisional Government
+Lanzhou Provisional Government
+the Lanzhou Provisional Government
+Lanzhou Provisional Government
+the Lanzhou Provisional Government
+Lanzhou Provisional Government
+the Lanzhou Provisional Government
+Lanzhou Provisional Government
+the Lanzhou Provisional Government
+Lanzhou Provisional Government
+the Lanzhou Provisional Government
+Lanzhou Provisional Government
+the Lanzhou Provisional Government
+Lanzhou Provisional Government
+the Lanzhou Provisional Government
+Northern Zhili Clique
+Northern Zhili
+the Northern Zhili Clique
+Dihua Provisional Government
+the Dihua Provisional Government
+Dihua Provisional Government
+the Dihua Provisional Government
+Dihua Provisional Government
+the Dihua Provisional Government
+Dihua Provisional Government
+the Dihua Provisional Government
+Dihua Provisional Government
+the Dihua Provisional Government
+Dihua Provisional Government
+the Dihua Provisional Government
+Dihua Provisional Government
+the Dihua Provisional Government
+Dihua Provisional Government
+the Dihua Provisional Government
+Dihua Provisional Government
+the Dihua Provisional Government
+Dihua Provisional Government
+the Dihua Provisional Government
+Southern Zhili Clique
+Southern Zhili
+the Southern Zhili Clique
+Nanjing Provisional Government
+the Nanjing Provisional Government
+Nanjing Provisional Government
+the Nanjing Provisional Government
+Nanjing Provisional Government
+the Nanjing Provisional Government
+Nanjing Provisional Government
+the Nanjing Provisional Government
+Nanjing Provisional Government
+the Nanjing Provisional Government
+Nanjing Provisional Government
+the Nanjing Provisional Government
+Nanjing Provisional Government
+the Nanjing Provisional Government
+Nanjing Provisional Government
+the Nanjing Provisional Government
+Nanjing Provisional Government
+the Nanjing Provisional Government
+Nanjing Provisional Government
+the Nanjing Provisional Government
+Southern Zhili Clique
+Southern Zhili
+the Southern Zhili Clique
+Nanning Provisional Government
+the Nanning Provisional Government
+Nanning Provisional Government
+the Nanning Provisional Government
+Nanning Provisional Government
+the Nanning Provisional Government
+Nanning Provisional Government
+the Nanning Provisional Government
+Nanning Provisional Government
+the Nanning Provisional Government
+Nanning Provisional Government
+the Nanning Provisional Government
+Nanning Provisional Government
+the Nanning Provisional Government
+Nanning Provisional Government
+the Nanning Provisional Government
+Nanning Provisional Government
+the Nanning Provisional Government
+Nanning Provisional Government
+the Nanning Provisional Government
+Southern Zhili Clique
+Southern Zhili
+the Southern Zhili Clique
+Guangzhou Provisional Government
+the Guangzhou Provisional Government
+Guangzhou Provisional Government
+the Guangzhou Provisional Government
+Guangzhou Provisional Government
+the Guangzhou Provisional Government
+Guangzhou Provisional Government
+the Guangzhou Provisional Government
+Guangzhou Provisional Government
+the Guangzhou Provisional Government
+Guangzhou Provisional Government
+the Guangzhou Provisional Government
+Guangzhou Provisional Government
+the Guangzhou Provisional Government
+Guangzhou Provisional Government
+the Guangzhou Provisional Government
+Guangzhou Provisional Government
+the Guangzhou Provisional Government
+Guangzhou Provisional Government
+the Guangzhou Provisional Government
+Southern Zhili Clique
+Southern Zhili
+the Southern Zhili Clique
+Kunming Provisional Government
+the Kunming Provisional Government
+Kunming Provisional Government
+the Kunming Provisional Government
+Kunming Provisional Government
+the Kunming Provisional Government
+Kunming Provisional Government
+the Kunming Provisional Government
+Kunming Provisional Government
+the Kunming Provisional Government
+Kunming Provisional Government
+the Kunming Provisional Government
+Kunming Provisional Government
+the Kunming Provisional Government
+Kunming Provisional Government
+the Kunming Provisional Government
+Kunming Provisional Government
+the Kunming Provisional Government
+Kunming Provisional Government
+the Kunming Provisional Government
+Fengtian Clique
+Fengtian
+the Fengtian Clique
+National Pacification Government
+the National Pacification Government
+National Pacification Government
+the National Pacification Government
+National Pacification Government
+the National Pacification Government
+National Pacification Government
+the National Pacification Government
+National Pacification Government
+the National Pacification Government
+National Pacification Government
+the National Pacification Government
+National Pacification Government
+the National Pacification Government
+National Pacification Government
+the National Pacification Government
+National Pacification Government
+the National Pacification Government
+National Pacification Government
+the National Pacification Government
+Fengtian Clique
+Fengtian
+the Fengtian Clique
+Guangzhou Provisional Government
+the Guangzhou Provisional Government
+Guangzhou Provisional Government
+the Guangzhou Provisional Government
+Guangzhou Provisional Government
+the Guangzhou Provisional Government
+Guangzhou Provisional Government
+the Guangzhou Provisional Government
+Guangzhou Provisional Government
+the Guangzhou Provisional Government
+Guangzhou Provisional Government
+the Guangzhou Provisional Government
+Guangzhou Provisional Government
+the Guangzhou Provisional Government
+Guangzhou Provisional Government
+the Guangzhou Provisional Government
+Guangzhou Provisional Government
+the Guangzhou Provisional Government
+Guangzhou Provisional Government
+the Guangzhou Provisional Government
+NPA
+NPA
+the NPA
+Chinese National Protection Government
+the Chinese National Protection Government
+Chinese National Protection Government
+the Chinese National Protection Government
+Chinese National Protection Government
+the Chinese National Protection Government
+Chinese National Protection Government
+the Chinese National Protection Government
+Chinese National Protection Government
+the Chinese National Protection Government
+Chinese National Protection Government
+the Chinese National Protection Government
+Chinese National Protection Government
+the Chinese National Protection Government
+Chinese National Protection Government
+the Chinese National Protection Government
+Chinese National Protection Government
+the Chinese National Protection Government
+Chinese National Protection Government
+the Chinese National Protection Government
+China
+Chinese
+China
+Republic of China
+the Republic of China
+People's Communes of China
+the People's Communes of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+China
+Chinese
+China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+China
+Chinese
+China
+Republic of China
+the Republic of China
+People's Communes of China
+the People's Communes of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+China
+Chinese
+China
+United Provinces of China
+the United Provinces of China
+United Provinces of China
+the United Provinces of China
+United Provinces of China
+the United Provinces of China
+United Provinces of China
+the United Provinces of China
+United Provinces of China
+the United Provinces of China
+United Provinces of China
+the United Provinces of China
+United Provinces of China
+the United Provinces of China
+United Provinces of China
+the United Provinces of China
+United Provinces of China
+the United Provinces of China
+United Provinces of China
+the United Provinces of China
+China
+Chinese
+China
+United Provinces of China
+the United Provinces of China
+United Provinces of China
+the United Provinces of China
+United Provinces of China
+the United Provinces of China
+United Provinces of China
+the United Provinces of China
+United Provinces of China
+the United Provinces of China
+United Provinces of China
+the United Provinces of China
+United Provinces of China
+the United Provinces of China
+United Provinces of China
+the United Provinces of China
+United Provinces of China
+the United Provinces of China
+United Provinces of China
+the United Provinces of China
+China
+Chinese
+China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+China
+Chinese
+China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+China
+Chinese
+China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+China
+Chinese
+China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+China
+Chinese
+China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+China
+Chinese
+China
+Republic of China
+the Republic of China
+People's Communes of China
+the People's Communes of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+China
+Chinese
+China
+Republic of China
+the Republic of China
+People's Communes of China
+the People's Communes of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+Republic of China
+the Republic of China
+[THIS.ChinaGetStateProvinceTitle] Province
+Anhui
+Chahar
+Fengtian
+Fujian
+Gansu
+Guangdong
+Guangxi
+Guizhou
+Heilongjiang
+Henan
+Hubei
+Hunan
+Rehe
+Jiangsu
+Jiangxi
+Jilin
+Wai Menggu
+Ningxia
+Qinghai
+Shaanxi
+Shandong
+Shanxi
+Sichuan
+Suiyuan
+Taiwan
+Xizang
+Xinjiang
+Yunnan
+Zhejiang
+Zhili
+Has formed a §YProvisional National Government§!
+Has §Rnot§! formed a §YProvisional National Government§!
+Demanded a concession within the last month
+The §YSouth China War§! has started.
+Is neutral in the §YSouth China War§!.
+§Y[FROM.GetNameDefCap] is currently engaged in diplomacy (an alliance offer or demand for submission) from another faction.§!
+§Y[FROM.GetNameDefCap] is§! §Rnot§! §Ycurrently engaged in diplomacy (an alliance offer or demand for submission) from another faction.§!
+Chinese Armour Industry
+Chinese Naval Industry
+Chinese Aviation Industry
+Chinese Small Arms Industry
+Chinese Light Arms Industry
+Chinese Artillery Industry
+Chinese Transport Industry
+Chinese Automobile Industry
+Building a Chinese Domestic Defence Industry
+One of the few silver linings of decades of civil war is that heavy military spending has built a sturdy foundation for a modern military-industrial complex. However, many barriers remain. Besides the usual suspects of corruption, inexperience and wartime disruption, Chinese soldiers historically have been equipped with foreign designs, if not outright foreign imports, stifling the growth of a domestic arms industry. Furthermore, most of China's vast arsenals are heavily decentralised and poorly integrated, a product of warlord regionalism. As we march towards unification, we must work to capture and synchronise these military production hubs, unleashing the full potential of the Chinese industrial behemoth!
+Integrated the Shenyang Arsenal
+Integrated the Taiyuan Arsenal
+Integrated the Shanghai Arsenal
+Integrated the Gongxian Arsenal
+Integrated the Guangdong Arsenal
+Integrated the Jinling Arsenal
+Integrated the Hanyang Arsenal
+[CHN_integrate_major_arsenal_scripted_loc]
+[CHN_integrate_major_arsenal_desc_scripted_loc]
+Integrate Shenyang Arsenal
+Shenyang Arsenal is perhaps one of the hallmark achievements of the Fengtian clique, created and maintained with the help of Japanese advisors to maintain Zhang Zuolin's grip over Manchuria and fuel his ambitions of uniting China under his banner. Formally known as the Eastern Three Province Arsenal, it is one of the largest in China and boasts of its ability to produce more arms than all others in China combined across the 1920s. Taking advantage of Dongbei's superior industrial might and rich natural resources, Shenyang Arsenal became a centre for not only production but also creating an extensive military logistical chain (including centralised production of rations and uniforms), as well as weapons development of their own. While Zhang was unable to fully break China's dependence on foreign arms imports, perhaps under our management it will play a valuable role in building a domestic arms industry.
+Shenyang Arsenal has been integrated
+Integrate Taiyuan Arsenal
+Taiyuan Arsenal is a massive complex built in Shanxi's capital by its venerable Governor Yan Xishan. Quoted as saying \
+Taiyuan Arsenal has been integrated
+Integrate Gongxian Arsenal
+In 1914, Yuan Shicai personally oversaw the construction of Gongxian Arsenal in Henan. Taking advantage of its strategic position and easy access to raw materials, Admiral Sa Zhenbing and hired German engineers used purchased American machinery to establish one of the premier modern military arsenals in China. Its relatively intact capture has secured for us a valuable prize in central China, one we must quickly integrate with the rest of our defence industry.
+Gongxian Arsenal has been integrated
+Integrate Hanyang Arsenal
+Hanyang Arsenal is one of the largest, oldest and most important modern Chinese Arsenals. Built in 1891 as Hubei Arsenal, it required significant time and funds diverted from the fleet. Capable of producing artillery, rifles, and ammunition, Hanyang fed a series of armies including the original Xinhai Revolutionaries based in Wuhan. It has achieved fame developing and producing the Hanyang 88 rifle (based on the German Gewehr 1888) and the General Liu Rifle (designed by Hanyang Superintendent General Liu Qingen), some of the most iconic weapons of the Warlord Era.
+Hanyang Arsenal has been integrated
+Integrate Guangdong Arsenal
+First erected by the Viceroy of Liangguang in 1873, the Guangdong Arsenal got its start as the Guangdong Machinery Bureau producing light arms. Gradually, it was expanded and modernised, constructing new facilities and absorbing other arsenals like Zengbu Arms Bureau to create a powerful military industrial complex in Guangdong. The Xinhai Revolution and ensuing wars saw Guangzhou become the centre of a succession of southern governments, and Guangdong Arsenal's role only continued to expand. Assisted by other regional arsenals like at Shijing, Pajiang, and even a dedicated gas-mask factory, the facilities of southern China will be of great service to the nation's cause.
+Guangdong Arsenal has been integrated
+Integrate Jinling Arsenal
+Jinling Machinery Manufacturing Bureau, built atop the old Xitian Temple site by late Qing Dynasty reformer Li Hongzhang in 1865, quickly became one of China's venerable weapons production depots in Eastern China. Referred sometimes as \
+Jinling Arsenal has been integrated
+Integrate Shanghai Arsenal
+Established in 1865 during the Self-Strengthening Movement by Li Hongzhang and Zeng Guofan, the Jiangnan Manufacturing Bureau in Shanghai was created to supply modern firearms for the Qing Dynasty. Despite facing political turmoil over decades, the factory underwent significant expansions and developments. Renamed the Shanghai Arsenal in 1917, it emerged as one of the most productive manufacturers of machine tools and modern weaponry, including heavy machine guns, mortars, field guns, and even antiaircraft guns.
+Shanghai Arsenal has been integrated
+Integrate Major Military Arsenals at [FROM.GetName]
+The large-scale military production facilities here are of the utmost quality, or at least could be with sufficient investment and attention by our government. We must work to amalgamate them into our broader production line.
+[CHN_integrate_minor_small_arms_arsenal_scripted_loc]
+[CHN_integrate_minor_small_arms_arsenal_desc_scripted_loc]
+Integrate Jinan Arsenal
+Created as the Shandong Machinery Bureau by Governor Ding Baozhen in 1875, it acquired machinery needed to produce weapons a few years later in 1883. It began producing a series of light arms derived from western designs, quickly expanding its industrial base to producing increasingly large amounts of rifles and other infantry equipment. Renamed Shandong Arsenal by the Beiyang Government, it saw further production and its final name as Jinan Arsenal under Zhang Zhongchang's rule.
+Integrate Chengdu Arsenal
+The disruption caused by various wars in Eastern China, including recent developments following the collapse of Qing authority, have pushed some relocations of production infrastructure towards the hinterlands. While the extent to which these moves were planned versus hasty opportunism is debated, Chengdu has been a willing recipient of these evacuations, creating a burgeoning defence sector of its own.
+Integrate Guizhou Arsenal
+The Guizhou Arsenal was founded in August 1926 in Guiyang by Zhou Xichen, through the merger of the Chishui Arsenal and the Yanhe Gun Factory, which were initially established by Zhou in 1923 and 1924 respectively, to manufacture pistols and rifles for his power struggle in Guizhou. Joined by a smokeless powder factory which greatly bolstered production, the Guizhou Arsenal now produced machine guns, grenades, shells and even mines for Zhou Xichen's armies.
+Integrate Guangxi Arsenal
+Originally established in Longcheng in 1899 to produce weapons for the Chinese army in the southwestern frontier, the Guangxi Machinery Bureau was burnt in a fire accident in 1914 and was relocated to Nanning. It was first used by Lu Rongting to arm his Guangxi army and later taken over by Li Zongren and Huang Shaohong to create the Guangxi Arsenal by merging their respective arms factories in 1924 to produce rifles for their soldiers.
+Integrate Small Arms Arsenal at [FROM.GetName]
+[FROM.GetName] has become quite a centre for small arms production, churning out a sizeable amount of rifles, grenades, and ammunition for local armies over the years. Having become its newest masters, it is critical that we make the most out of their expertise for the good of the nation.
+[CHN_integrate_minor_support_equipment_arsenal_scripted_loc]
+[CHN_integrate_minor_support_equipment_arsenal_desc_scripted_loc]
+Yunnan Arsenal
+Formed in 1884 as the Yunnan Machinery Bureau in Kunming to repair and produce firearms, the Yunnan Arsenal began to produce modern rifles in 1905. Renamed after the collapse of the Qing, it began producing grenades and small shells and provided arms to the Yunnan Army during the Second Revolution and the National Protection War under the local administration of Yunnan, which expanded the arsenal in 1927.
+Expand Hunan Arsenal
+As the military needs of the Zhili clique grew, some experts from Gongxian Arsenal went to the freshly secured province of Hunan to aid in the creation of a new light arms plant at Zhuzhou, expanding on previous arsenals first established by Tan Yankai in 1912 and revitalised by Zhao Hengti in 1924. While their goals of creating a cutting edge facility fell short due to the instability Hunan faced following the collapse of the League, Hunan sits at the crossroads of the nation and in turn it is imperative that we invest in expanding existing facilities there accordingly.
+Expand Dihua Arsenal
+Decades ago, in the far reaches of Xinjiang, Governor Rao Yingqi had enough foresight as he watched the Russians and British play their \
+Expand Light arms Arsenal at [FROM.GetName]
+[FROM.GetName] has the potential to become quite a centre for light arms production, churning out a sizeable amount of mortars, uniforms, rations, and other support equipment to support our growing forces. It is critical that we make the most out of the region and its expertise for the good of the nation.
+[CHN_integrate_minor_artillery_arsenal_scripted_loc]
+[CHN_integrate_minor_artillery_arsenal_desc_scripted_loc]
+Expand Lanzhou Arsenal
+In the ailing days of the Qing, Governor Zuo Zongtang of Shaanxi and Gansu elected to establish the Lanzhou Machinery Bureau in 1871. Hiring local craftsmen and purchasing the necessary machinery from abroad, he laid the foundations for a reasonably successful regional ordinance production centre by coordinating facilities under his command in Lanzhou and Xi'an. The rifles, artillery guns, and their corresponding ammunition allowed Zuo to achieve successes fighting across China's western reaches, though the plant was unfortunately shut down in 1882.\n\nMore recent warlords have reopened it, albeit much of the infrastructure and personnel were since lost or grown outdated. Still, sitting deep in China's interior, it could not hurt to develop an alternative source of artillery and indeed it seems our predecessors had a similar idea though they failed to see it to full completion.
+Expand Artillery Production at [FROM.GetName]
+[FROM.GetName] has the potential to become quite a centre for light arms production, churning out a sizeable amount of heavy guns and artillery shells to support our growing forces. It is critical that we make the most out of the region and its expertise for the good of the nation.
+[CHN_integrate_major_dockyard_scripted_loc]
+[CHN_integrate_major_dockyard_desc_scripted_loc]
+Integrate Yingkou Naval Yard
+The port of Yingkou sits in a strategic site in the Yellow Sea, positioned in a controlling position along the Daliao river and Liaodong Bay. With Dalian (Port Arthur) under Japanese control, Yingkou was effectively the sole port under the Fengtian clique's direct control and significant (albeit insufficient) funding was provided to expand it as the home of their fleet. It is clear they have learned plenty from their Japanese partners, a skill-set we must be able to utilise for developing a fleet of our own.
+Integrate Jiangnan Shipyards
+Jiangnan Shipyard was founded in 1865 to build, repair, and covert both military and civilian ships alike. Located near the Yangtze and situated largely within the mighty port of Shanghai, Jiangnan is one of the premier shipbuilding centres in all of China. Long strongly under the control of the Beiyang government, the creation of the Legation Cities altered the dynamic significantly. Still, they have benefited from outside investment and expertise, something we must bring under our control for a more equal future.
+Integrate the Fuzhou Arsenal
+Fuzhou Arsenal, also known as the Foochow Arsenal or Mawei Arsenal, was created under the orders of late Qing Dynasty leaders Li Hongzhang and Zuo Zongtang a few miles up the Min River. Taking advantage of Fujian's proud naval heritage and local naval academies, the Fuzhou arsenal complimented the region by providing a western designed naval dockyard, a metal-working forge, and additional schools for navigation and marine engineering. Damaged in ensuing wars, it was rebuilt and remained a prominent dockyard though under Legation control. Having secured its return, we must utilise it to its fullest capacity in helping us build a modern navy.
+Integrate Whampoa Dock Company
+The Hong Kong and Whampoa Dock Company was founded by Douglas Lapraik and Thomas Sutherland in 1866. Often abbreviated Whampoa Dock or Kowloon Docks, it effectively monopolised shipbuilding in the Pearl River Delta across the 1870s. The Canton region has traditionally been a centre for external trade, and its location made it both an asset and a target in the South China sea. We shall integrate these newly acquired facilities into our navy.
+Integrate Dagu Shipyard
+Established in 1880 by Li Hongzhang in Dagu, the Dagu Shipyard was initially tasked with only repairing ships for the Beiyang Fleet. Two years later, it began producing warships and in 1891 it even produced firearms like naval guns. Occupied in 1900 by the powers and returned to China two years later, the Dagu Shipyard remained prominent in the Warlord Era. It also was notable for producing European designed machine guns for the Ministry of Navy.
+Integrate Major Shipyards at [FROM.GetName]
+[FROM.GetName] has become quite a centre for naval construction, with a powerful collection of drydocks, shipyards, and training centres for naval personnel. Having become its newest masters, it is critical that we make the most out of their expertise for the good of the nation.
+Build the Guangxi Arsenal
+As one of China's most poverty stricken provinces, Guangxi is hardly an apt place for industrialisation. The Guangxi Arsenal is the brain child of both Li Zongren and Huang Shaohong for reorganising Guangxi's existing arms manufacturing plants - which up until the take over of the New Guangxi Clique merely produced poor quality \
+Refurbish the Shijing Arsenal
+Established in the 11th year of the Guangxu Emperor's reign, the original Guangzhou Machinery Bureau was merged into the Zengbu Arms Bureau and became the Manufacturing East Bureau. A product of the Westernisation Movement, much of the factory's equipment and machinery has been managed by German engineers - a legacy that has yet to remain unchanged with Germany's influence in China prevalent following the German victory in the Weltkreig. Nonetheless, the arsenal is starting to show its age and we ought to provide our due diligence in maintaining and refurbishing the arsenal in order to accommodate more modern gun production - allowing us to produce more than just rifles but also light machine guns as well.
+Build the Guangxi Aircraft Assembly Plant
+With industrialisation well under way in the rural, poor province of Guangxi, many of the leading officials within the New Guangxi Clique, namely that of Bai Chongxi, and Huang Xuchu, have endeavoured for Guangxi to be the first step in the grand modernisation of China's military capacity. Overseeing the construction of the newly dubbed \
+Evacuate Military Industry to the Hinterlands
+As most of China's heavy industries are located around the coastal regions of the country, the threat of a war that will engulf our coastline puts our industries at risk. In this time of crisis, we will seek to move and relocate arms industries to the inner parts of the country which we control - in order to preserve their use for our war efforts.
+Evacuate Civilian Industry to the Hinterlands
+As most of China's heavy industries are located around the coastal regions of the country, the threat of a war that will engulf our coastline puts our industries at risk. In this time of crisis, we will seek to move and relocate civilian industries to the inner parts of the country which we control - in order to preserve their use for our war efforts.
+§LTaking this focus will make the decisions to §YRelocate Military Industries§! and §YRelocate Civilian Industries§! cheaper!§!
+Zheng Pingru
+Shaoshuai Clique Officer
+§LThis officer is a follower of Zhang Xueliang.§!
+Shikan Clique Officer
+§LThis officer is aligned with Yang Yuting's Shikan Clique.§!
+Zhang Clique Officer
+§LThis officer is a long time associate of Zhang Zuolin.§!
+Pro-Japanese Sympathizer
+§LWhile not officially part of any clique, this officer holds some pro-Japanese sympathies.§!
+Guominjun General
+§LThis general belongs to Feng Yuxiang's Guominjun.§!
+Jin Army General
+§LThis general is a member of Yan Xishan's Jin Army.§!
+Monarchist Officer
+§LThis Officer is tied directly to Monarchy or the Royalist party, and as such, their fate is tied closely to them.§!
+Guangdong Clique Officer
+§LThis Officer is a member of the Old Guangdong clique, and is privy to their interests.§!
+Guangxi Clique Officer
+§LThis Officer is a member of the Old Guangxi clique, and is privy to their interests.§!
+Right Kuomintang Officer
+§LThis officer's primary sympathies lie with the right wing of the Kuomintang.§!
+Left Kuomintang Officer
+§LThis officer's primary sympathies lie with the left wing of the Kuomintang.§!
+China Democratic League Officer
+§LThis officer's interests align with the CDL.§!
+Grand Republican Alliance Officer
+§LThis officer's interests align with the GRA.§!
+Yunnan Clique Officer
+§LThis officer is either native to Yunnan Province or aligned with its leaders.§!
+Guizhou Clique Officer
+§LThis officer is either native to Guizhou Province or aligned with its leaders.§!
+Ma Clique Officer
+§LThis officer is either native to the three Northwest Provinces or aligned with their leaders.§!
+Hunan Clique Officer
+§LThis officer is either native to Hunan Province or aligned with its leaders.§!
+Sichuan Clique Officer
+§LThis officer is either native to Sichuan Province or aligned with the disparate Sichuan cliques.§!
+Xinjiang Clique Officer
+§LThis officer is either native to Xinjiang Province or aligned with its leaders.§!
+Northern Zhili Officer
+§LThis Officer is a member of the Northern Zhili Clique, and as such is generally loyal to Wu Peifu and Cao Kun.§!
+Southern Zhili Officer
+§LThis Officer is a member of the Southern Zhili Clique, and as such is generally loyal to Sun Chuanfang.§!
+Radicals
+Independent Radicals and Revolutionaries\n§LThe revolutionary strain of radicalism within China has a fascinating history emanating from the timeless struggle of martyrs and heroes in the struggle against perceived injustices. Mobilising the fury of the masses, various revolutionaries have come and went, either peacefully or through fire and war. Largely coalescing into various parties such as the Kuomintang, or Young China Party, the revolutionary strain of thought is largely in contention with that of the reformists.\n\nThe allure of radicalism extends all across China however, from the steppe of the Northwest Frontier to the bustling streets of Shanghai, many cling to the ideals of a radically transformed China, either in the socialist egalitarian ideal, or in the strong nationalist flavour. Operating either under the radical elements of the Kuomintang, Young China Party, or Chinese Syndicalist party, the extremist groups refuse to partake in the Chinese Parliamentary system; seeing the newly proclaimed Central Government as merely a betrayal of the socialist revolution.§!\n
+KMT
+Chinese Kuomintang (Zhongguo Guomindang)\n§LThe Chinese Nationalist Party has taken on many forms in its marred history. Founded as the parliamentary organisation of the Tongmenghui in 1912 by Sun Yat-sen, Huang Xing, and Song Jiaoren, the Kuomintang would endeavour itself to faithfully serve as a parliamentary party within the early Beiyang Republic. After Song's assassination and Sun's subsequent multiple exiles however, the Party would be reorganised into the Chinese Gemingang, and later revived as the Guomindang on October 10th 1919. Dedicated to the Three Principles of the People as espoused by Dr. Sun Yat-sen, the Kuomintang aspires for the implementation of the Party-State, or Dangguo, and implement the Three-Stage National Revolution. Through the aspiration for the Three Principles of Minzu, Minquan, and Minsheng (Nationalism, Democracy, and Welfare respectively), they hope to see a new revolutionary republic.\n\nAttempting to unify the nation in 1927 with the Northern Expedition, the Kuomintang and its National Revolutionary Army would ultimately fail in its endeavour, and be forced to flee into the mountains of the MinGan insurgent zone, Guizhou Province, and into Paris alongside Moscow. Rife with infighting, the party has largely been split on the precipice of its Right Wing and Left Wings. Heralded by Hu Hanmin and the remaining army cliques in Guizhou, the \
+CSP
+Chinese Syndicalist Party (Zhongguo Gongtuandang)\n§LLargely confined to urban centres or port cities, the Chinese Syndicalist Party for years remained merely a fragmented junior party of the Chinese Kuomintang. Considered to be milquetoast radicals espousing a foreign ideology in a nation without the large worker support base akin to that in Europe or the Americas, the Chinese Syndicalist Party still maintained significant successes in its political history. With key action in historical events such as the Hong Kong-Canton strikes in 1925, which resulted in the founding of the League of Chinese Syndicalists, or the Shanghai Uprising in 1932 which resulted in broad national mass action.\n\nWith its inherently pluralistic nature, the Chinese Syndicalist Party has found itself fragmented with a series of disparate cliques such as the Orthodox faction of Chen Duxiu and Li Lisan, the Radical faction of Chen Shaoyu, and other various syndicalists such as the Northern cliques of Li Dazhao, the Southern cliques of Tan Pingshan and Deng Zhongxia, and the regional cliques such as the likes of Cai Hesen in Hunan or Wu Yuzhang in Sichuan. Despite all of their pomp and posturing however, the CSP is hardly a major political force in China - with its main strength and influence only among radical students and workers.§!\n
+FCDP
+Federation of Chinese Democratic Parties (Zhongguo Minzhu Zhengtuan Tongmeng)\n§LFormed during the brief Zhili liberalisation after 1928, the United National Construction League would ultimately be banned but set the groundwork for the formation of the Federation of Chinese Democratic Parties. The FCDP attempts to unite all parties across the nation seeking constitutional, civilian democracy under its banner - including the Chinese Constitutionalist Party, National Salvation Federation, Political Science Clique, China Vocational Education Society/China National Democratic Construction Association, Democratic Socialist Party, the Crescent Moon Society, and numerous other parties.\n\nWith the unification of the nation and the solidification of political blocs, the unwieldy FCDP has seen much of its support siphoned off to regional or otherwise far more prevalent fully fledge parties. However in that vacuum it has incorporated various other minor parties to strengthen its position. Largely led by the Northern democratic parties and cliques, it has set itself as a primarily as an alternative to the southern dominated Grand Republican Alliance, balancing a conservative, reformist leadership with its more dynamic, grass-roots activists.§!\n
+GRA
+Grand Republican Alliance (Gonghe Datongmeng)\n§LThe Grand Republican Alliance is a quasi-legal political coalition of largely Southern Chinese parties operating in opposition towards the established Beiyang political order. Formed in 1931 after the swelling of anti-concessionist energy and nationalist agitation following the failure of the Zhili-Fengtian negotiation discussions, the Grand Republican Alliance would briefly ally with the retired Duan Qirui, and be joined by other \
+Republicans
+Independent Republicans and Intellectuals\n§LThe intellectual tradition within the Chinese political sphere has been a long, proud, and most certainly vocal one. Many participating politicians utterly and sincerely refused to participate in any political parties, seeing them as corrupt and restricting. Upholding themselves to their own principles and pragmatism as opposed to ideology, they are largely the gentlemen behind the \
+CCP
+$CHN_CCP_party_long_tt$\n§LThe Chinese Constitutionalist Party, led by one of Kang Youwei's \
+Chinese Constitutionalist Party (Zhongguo Xianzhengdang)
+DCP
+Democratic Constitutionalist Party (Minzhu Xianzhengdang)\n§LAnother iteration in the long line of parties heralding the late Qing reformers like Liang Qichao and Kang Youwei, the Democratic Constitutionalist Party can be considered the successor to the Chinese Constitutionalist Party, and through that same standard of the Progressive Party, Research Clique, and so on. United in their drive for Constitutionalism and a functioning democracy, the Democratic Constitutionalists have adopted the mantle as the \
+Regionalists
+Independent Regionalists and Strongmen\n§LDefeat on the battlefield has not eradicated all vestiges of warlordism in China. Across the nation, there remain plenty of hangovers from destroyed major warlord factions, whether it be petty warlord cliques who submitted to new masters at the right moment, lower ranking subordinates who were hired by the new administration, or sometimes new strongmen who arose from the ensuing power vacuum and took advantage of their affiliation with the winners. The fact that many are merely feigning loyalty to the national cause to bully and exploit the people does not mean others are not genuinely popular - even the most avaricious men of the high warlord era were careful to build strong guanxi networks spanning military, civilian, and social circles. Charismatic, connected, and often corrupt, those that survived the changing order are masters at tapping into regionalist sentiment as well as discontent with the status quo, determined to outlast efforts to purge them. Only time will tell how many generations it will take to truly eliminate the harrowing legacy of the warlord era.§!\n
+YCP
+Young China Party (Zhongguo Qingniandang)\n§LBorn from the student \
