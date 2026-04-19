@@ -1,28 +1,28 @@
 ﻿l_russian:
 
  #Reichspakt AI Faction Theatres
- reichspakt_theatre_western_europe: "Reichspakt Western Europe"
- reichspakt_theatre_eastern_europe: "Reichspakt Eastern Europe"
- reichspakt_theatre_central_europe: "Reichspakt Central Europe"
+ reichspakt_theatre_western_europe: "Рейхспакт Западной Европы"
+ reichspakt_theatre_eastern_europe: "Рейхспакт Восточной Европы"
+ reichspakt_theatre_central_europe: "Рейхспакт Центральной Европы"
 
  #Internationale AI Faction Theatres
- internationale_theatre_western_europe: "Internationale Western Europe"
- internationale_theatre_western_mediterranean: "Internationale Western Mediterranean"
+ internationale_theatre_western_europe: "Интернационал Западная Европа"
+ internationale_theatre_western_mediterranean: "Интернационал Западного Средиземноморья"
 
  #Moscow Accord AI Faction Theatres
- moscow_accord_theatre_eastern_europe: "Moscow Accord Eastern Europe"
- moscow_accord_theatre_central_europe: "Moscow Accord Central Europe"
+ moscow_accord_theatre_eastern_europe: "Московское Соглашение Восточная Европа"
+ moscow_accord_theatre_central_europe: "Московское Соглашение Центральная Европа"
 
  #Entente AI Faction Theatres
- entente_theatre_western_europe: "Entente Western Europe"
- entente_theatre_western_mediterranean: "Entente Western Mediterranean"
- entente_theatre_eastern_north_america: "Entente Eastern North America"
+ entente_theatre_western_europe: "Антанта Западная Европа"
+ entente_theatre_western_mediterranean: "Антанта Западное Средиземноморье"
+ entente_theatre_eastern_north_america: "Антанта Восточная Северная Америка"
 
  #Co-Prosperity Sphere AI Faction Theatres
- co_prosperity_sphere_theatre_northern_china: "Co-Prosperity Sphere Northern China"
- co_prosperity_sphere_theatre_southern_china: "Co-Prosperity Sphere Southern China"
+ co_prosperity_sphere_theatre_northern_china: "Сфера совместного процветания Северного Китая"
+ co_prosperity_sphere_theatre_southern_china: "Сфера совместного процветания Южного Китая"
 
  #Chinese United Front AI Faction Theatres
- chinese_united_front_theatre_northern_china: "Chinese United Front Northern China"
- chinese_united_front_theatre_southern_china: "Chinese United Front Southern China"
+ chinese_united_front_theatre_northern_china: "Объединенный китайский фронт Северный Китай"
+ chinese_united_front_theatre_southern_china: "Объединенный китайский фронт Южный Китай"
 

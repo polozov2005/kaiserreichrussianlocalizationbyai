@@ -3,9 +3,9 @@
  APG_focus: "$APG_ACW$ Focus Tree"
 
 ### Country Names ###
- APG: "America"
- APG_ADJ: "American"
- APG_DEF: "America"
+ APG: "Америка"
+ APG_ADJ: "Американск"
+ APG_DEF: "Америка"
 
  APG_authoritarian_democrat: "$APG_ACW$"
  APG_authoritarian_democrat_DEF: "$APG_ACW_DEF$"
@@ -14,12 +14,12 @@
  APG_national_populist: "$APG_ACW$"
  APG_national_populist_DEF: "$APG_ACW_DEF$"
 
- APG_ACW: "American People's Government"
- APG_ACW_ADJ: "Longist"
+ APG_ACW: "Американское Народное Правительство"
+ APG_ACW_ADJ: "Лонгистск"
  APG_ACW_DEF: "the $APG_ACW$"
 
- APG_compromise_rebels: "Recalcitrant State Governments"
- APG_compromise_rebels_ADJ: "State"
+ APG_compromise_rebels: "Непокорные правительства штатов"
+ APG_compromise_rebels_ADJ: "Штатовск"
  APG_compromise_rebels_DEF: "the $APG_compromise_rebels$"
 
 ### Parties ###
@@ -115,7 +115,7 @@
  APG_cointelpro_idea: "COINTELPRO"
  APG_capitalist_education_idea: "The ESMWT"
  APG_the_american_legion_idea: "The American Legion"
- USA_boy_scouts_idea: "Boy Scouts"
+ USA_boy_scouts_idea: "Бойскауты"
  APG_industrial_security_act_idea: "Industrial Security Act"
 
  APG_expanded_fbi: "Expanded FBI"
@@ -427,8 +427,8 @@
  APG_motorize_the_men_desc: "Patton's plan require that our tank's breakthroughs are accompanied by waves of motorised infantry able to quickly flank the enemy positions and cut them off from reinforcements as our infantry cleans up the pockets."
  APG_streamline_tank_production: "Streamline Tank Production"
  APG_streamline_tank_production_desc: "Tanks are fairly complex machines to produce, and this has caused severe supply issues at the front, as every tank that is disabled or breaks down means weeks if not months of waiting for the tank crew to be back into action again. In order to solve this, we shall streamline tank production so that our crews may stay in combat, and have a replacement waiting in case anything goes wrong."
- AUS_focus_on_swiftness: "Focus on Swiftness"
- AUS_focus_on_swiftness_desc: "Modern Warfare has come a long way since the trenches that once plagued the Western Front. Fast advances with tanks followed by motorised units is now not a dream but a necessity of a successful fighting force and as such, our nation's army should be at the forefront of this development."
+ AUS_focus_on_swiftness: "Фокус на быстроте"
+ AUS_focus_on_swiftness_desc: "Современные методы ведения войны проделали долгий путь от траншей, когда-то являвшихся бичом Западного Фронта. Быстрые прорывы танков и последующее наступление моторизованной пехоты теперь является не мечтой, а необходимостью для современной армии, а значит мы должны быт на передовой этих разработок."
  APG_draw_a_new_war_plan_white: "Draw a New War Plan White"
  APG_draw_a_new_war_plan_white_desc: "While we have seized copies of the original draft of War Plan White, it is unfortunately useless for our purposes as it details how to supply and defend areas near Washington and the Midwest, not how to take back our nation from a southern stronghold. However, with the knowledge of this plan, and our capable commanders, we can draft a new version of it, one that accounts for our new 'circumstances'."
  APG_focus_on_command: "Focus on Command"
@@ -443,8 +443,8 @@
  APG_new_arms_factories_desc: "The main trouble with creating a military industry is that facilities under our control were already reduced from the Great Depression to reduce redundancies. We have had to expand facilities and repurpose old buildings in order to manufacture parts needed for heavy weapons in our territory."
  APG_war_bonds: "War Bonds"
  APG_war_bonds_desc: "Funding the war effort will require more than victory gardens and volunteer-ism. Liquid assets are in short supply, especially with our economic programs ongoing. We can capitalise on public trust and implement War Bonds as most other free nations do."
- AUS_new_army_goes_rolling_along: "'This We'll Defend'"
- AUS_new_army_goes_rolling_along_desc: "Our New Army has readopted the old motto used by our fore-fathers who took up arms to defend our great nation. Like them before our team, now it is time for us to fight for America in an ever changing world, be it at home or abroad."
+ AUS_new_army_goes_rolling_along: "'Это мы будем защищать'"
+ AUS_new_army_goes_rolling_along_desc: "Наша новая армия приняла старый девиз, который приняли наши предки, готовые взяться за оружие для защиты нашей великой страны. Как и им до нас, пришло время сражаться за нашу Америку в этом бесконечно меняющемся мире, дома или за рубежом."
  APG_army_bonus_bill: "Army Bonus Bill"
  APG_army_bonus_bill_desc: "Combat hardens boys into men and men into solid steel - unshakeable pillars of Americanism. Only a fool would leave veterans such as these by the wayside. By paying generous additional bonuses to combat veterans predicated on continued upstanding citizenry and especially involvement in our military research apparatus, perhaps we can at last truly harness their potential."
  APG_new_weapons: "New Weapon Designs"

@@ -10,19 +10,19 @@
  BNG_abdul_hamid_khan_bhashan_leader_desc: "§YBorn:§! §LDecember 12th, 1880, in Sirajganj, Presidency of Fort William in Bengal, British India§!"
  BNG_huseyn_shaheed_suhrawardy: "Huseyn Shaheed Suhrawardy"
  BNG_huseyn_shaheed_suhrawardy_leader_desc: "§YBorn:§! §LSeptember 8th, 1892, in Midnapore, Presidency of Fort William in Bengal, British India§!"
- BNG_khawaja_nazimuddin: "Khawaja Nazimuddin"
+ BNG_khawaja_nazimuddin: "Хаваджа Назимуддин"
  BNG_khawaja_nazimuddin_leader_desc: "§YBorn:§! §LJuly 19th, 1894, in Dacca, Presidency of Fort William in Bengal, British India§!"
- BNG_abdul_waheed_choudhury: "Abdul Waheed Choudhury"
+ BNG_abdul_waheed_choudhury: "Абдул Вахид Чоудхури"
  BNG_abdul_waheed_choudhury_leader_desc: "§YBorn:§! §L1914, in Dariyapur, Presidency of Fort William in Bengal, British India§!"
 
 ### Country Names ###
 
- BNG: "Bengal"
- BNG_ADJ: "Bengali"
- BNG_DEF: "the Free State of Bengal"
- BNG_totalist_DEF: "the Workers' Republic of Bengal"
- BNG_syndicalist_DEF: "the Workers' Republic of Bengal"
- BNG_radical_socialist_DEF: "the Workers' Republic of Bengal"
+ BNG: "Бенгалия"
+ BNG_ADJ: "Бенгальск"
+ BNG_DEF: "Бенгалия"
+ BNG_totalist_DEF: "Бенгальская Рабочая Республика"
+ BNG_syndicalist_DEF: "Бенгальская Рабочая Республика"
+ BNG_radical_socialist_DEF: "Бенгальская Рабочая Республика"
 
  BNG_bangladesh: "Bangladesh"
  BNG_bangladesh_ADJ: "Bangladeshi"

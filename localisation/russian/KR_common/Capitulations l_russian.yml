@@ -1,121 +1,121 @@
 ﻿l_russian:
 
 ### Tooltips ###
- GER_will_capitulate: "§Y[GER.GetNameDefCap]§! will capitulate"
+ GER_will_capitulate: "§Y[GER.GetNameDefCap]§! капитулирует"
 
 ### Events ###
- capitulation_events.1.t: "Germany is Conquered"
- capitulation_events.1.d: "We have been beaten by our wretched enemies and our armies are collapsing across Europe. Though they have taken the Fatherland, the war is far from over!"
- capitulation_events.1.a: "Assume control of Mittelafrika - we shall fight on from there."
- capitulation_events.1.b: "There is nowhere to run. Surrender!"
+ capitulation_events.1.t: "Германия завоевана" #NT!
+ capitulation_events.1.d: "Мы потерпели поражение от наших жалких врагов, и наши армии терпят крах по всей Европе. Хотя они и захватили Отечество, война еще далека от завершения!" #NT!
+ capitulation_events.1.a: "Возьмите под свой контроль Миттелафрику — и оттуда мы будем сражаться." #NT!
+ capitulation_events.1.b: "Бежать некуда. Сдаваться!" #NT!
 
- capitulation_events.2.t: "Militarists Push for Direct Control"
- capitulation_events.2.d: "As a result of the collapse of the German war effort in mainland Europe, the Schutztruppen have mobilised and are now seeking to seize power from the bureaucrats in charge. Their leadership has decreed that [MAF.GetLeader] is to step down immediately as Governor of Mittelafrika and that administrative duties are to be handed over to Schutztruppen officials as they arrive in [THIS.Capital.GetCapitalVictoryPointName]. Mittelafrika is to be turned into a tool for the reclamation of Germany, and our colonial project is to be suspended."
- capitulation_events.2.a: "Do these madmen think we can still win this? Our loyalty is to Berlin, whoever may hold it."
- capitulation_events.2.b: "Welcome the Schutztruppe and give in to their demands."
+ capitulation_events.2.t: "Милитаристы настаивают на прямом контроле" #NT!
+ capitulation_events.2.d: "В результате краха немецких военных усилий в континентальной Европе, Schutztruppen мобилизовались и теперь пытаются захватить власть у ответственных бюрократов. Их руководство постановило, что [MAF.GetLeader] должен немедленно уйти с поста губернатора Миттельафрики и что административные обязанности должны быть переданы должностным лицам Schutztruppen по мере их прибытия в [THIS.Capital.GetCapitalVictoryPointName]. Миттелафрику следует превратить в инструмент освоения Германии, а наш колониальный проект следует приостановить." #NT!
+ capitulation_events.2.a: "Неужели эти безумцы думают, что мы еще сможем победить? Мы верны Берлину, кто бы ни владел им." #NT!
+ capitulation_events.2.b: "Приветствуйте Schutztruppe и уступайте их требованиям." #NT!
 
- capitulation_events.3.t: "Bureaucrats Win Power Struggle in [MAF.Capital.GetCapitalVictoryPointName]"
- capitulation_events.3.d: "The colonial administrators in Afrika see no reason to relent at this point; the war is lost already. They have declared that they will listen to whoever is in charge of [THIS.Capital.GetCapitalVictoryPointName] two weeks from now, abandoning us to collapse in the face of our enemies!"
- capitulation_events.3.a: "The ungrateful wretches!"
+ capitulation_events.3.t: "Бюрократы выиграли борьбу за власть в [MAF.Capital.GetCapitalVictoryPointName]" #NT!
+ capitulation_events.3.d: "Колониальные администраторы в Африке не видят причин смягчать ситуацию в этом вопросе; война уже проиграна. Они заявили, что через две недели выслушают того, кто будет руководить [THIS.Capital.GetCapitalVictoryPointName], бросив нас рухнуть перед лицом наших врагов!" #NT!
+ capitulation_events.3.a: "Неблагодарные негодяи!" #NT!
 
- capitulation_events.4.t: "Patriots in Control of Mittelafrika"
- capitulation_events.4.d: "The colonial administrators have made way for the Militarists; Germany shall yet be reclaimed!"
- capitulation_events.4.a: "We shall yet return!"
+ capitulation_events.4.t: "Патриоты контролируют Миттельафрику" #NT!
+ capitulation_events.4.d: "Колониальные администраторы уступили место милитаристам; Германия еще будет возвращена!" #NT!
+ capitulation_events.4.a: "Мы еще вернемся!" #NT!
 
- capitulation_events.5.t: "The War with [SIA.GetNameDef]"
- capitulation_events.5.d: "It appears we need to deal with the continuing war in the Far East, with [SIA.GetAdjective] armies still fighting against our colonial forces in [GEA.GetNameDef]. Should we continue a war which our scattered and beaten forces have no hope of winning, or sue for peace?"
- capitulation_events.5.a: "Give them whatever they want."
- capitulation_events.5.b: "We will continue the war, if we must."
+ capitulation_events.5.t: "Война с [SIA.GetNameDef]" #NT!
+ capitulation_events.5.d: "Похоже, нам нужно разобраться с продолжающейся войной на Дальнем Востоке, где [SIA.GetAdjective] армий все еще сражаются против наших колониальных сил в [GEA.GetNameDef]. Должны ли мы продолжать войну, в которой наши разрозненные и разбитые силы не имеют никакой надежды на победу, или просить мира?" #NT!
+ capitulation_events.5.a: "Дайте им все, что они хотят." #NT!
+ capitulation_events.5.b: "Мы продолжим войну, если потребуется." #NT!
 
- capitulation_events.6.t: "[From.GetNameDefCap] Sues for Peace"
- capitulation_events.6.d: "The scattered forces of Germany, now rallying under makeshift command from Africa, have offered us much of the territory they hold in [GEA.GetNameDef], if we will only end the war now before they are drawn in further."
- capitulation_events.6.a: "An excellent plan."
- capitulation_events.6.b: "Much? We want it ALL."
+ capitulation_events.6.t: "[From.GetNameDefCap] Судится за мир" #NT!
+ capitulation_events.6.d: "Разрозненные силы Германии, сплотившиеся теперь под импровизированным командованием из Африки, предложили нам большую часть территории, которую они удерживают в [GEA.GetNameDef], если мы только закончим войну сейчас, прежде чем они будут втянуты дальше." #NT!
+ capitulation_events.6.a: "Отличный план." #NT!
+ capitulation_events.6.b: "Много? Мы хотим ВСЕ." #NT!
 
- capitulation_events.7.t: "The War with [JAP.GetNameDef]"
- capitulation_events.7.d: "It appears we need to deal with the continuing war in the Far East, with [JAP.GetAdjective] armies still fighting against our colonial forces in [GEA.GetNameDef]. Should we continue a war which our scattered and beaten forces have no hope of winning, or sue for peace?"
+ capitulation_events.7.t: "Война с [JAP.GetNameDef]" #NT!
+ capitulation_events.7.d: "Похоже, нам нужно разобраться с продолжающейся войной на Дальнем Востоке, где [JAP.GetAdjective] армий все еще сражаются против наших колониальных сил в [GEA.GetNameDef]. Должны ли мы продолжать войну, в которой наши разрозненные и разбитые силы не имеют никакой надежды на победу, или просить мира?" #NT!
 
- capitulation_events.8.t: "[From.GetNameDefCap] Sues for Peace"
- capitulation_events.8.d: "The scattered forces of Germany, now rallying under makeshift command from Africa, have offered us much of the colonial territory they hold in [GEA.GetNameDef], if we will only end the war now before they are drawn in further. Considering that refusing the deal will mean chasing after the Germans in Africa, perhaps we should consider their plan."
- capitulation_events.8.a: "An excellent idea."
- capitulation_events.8.b: "We will take everything they have."
+ capitulation_events.8.t: "[From.GetNameDefCap] Судится за мир" #NT!
+ capitulation_events.8.d: "Разрозненные силы Германии, сплотившиеся теперь под временным командованием из Африки, предложили нам большую часть колониальной территории, которую они удерживают в [GEA.GetNameDef], если мы только закончим войну сейчас, прежде чем они будут втянуты в нее дальше. Учитывая, что отказ от сделки будет означать погоню за немцами в Африке, возможно, нам следует рассмотреть их план." #NT!
+ capitulation_events.8.a: "Отличная идея." #NT!
+ capitulation_events.8.b: "Мы заберем все, что у них есть." #NT!
 
- capitulation_events.9.t: "[GEX.GetNameDefCap] Sues for Peace"
- capitulation_events.9.d.siam: "The so-called Free German Government, already struggling to continue the fight from Africa, has arranged for a peace with [From.GetNameDef]. This will involve ceding much of our territory, and there seems little hope of continuing the fight on our own with so many Reich officials already abandoning their offices here in [GEA.GetNameDef]. Although local forces are committed to continuing the fight, without support from the homeland a swift defeat is likely imminent for these holdouts."
- capitulation_events.9.d.japan: "The so-called Free German Government, already struggling to continue the fight from Africa, has arranged for a peace with [From.GetNameDef]. This will involve our complete annexation, and there seems little hope of continuing the fight on our own with so many Reich officials already abandoning their offices here in [GEA.GetNameDef]. Although local forces are committed to continuing the fight, without support from the homeland a swift defeat is likely imminent for these holdouts."
- capitulation_events.9.a: "To the lifeboats! We're off to Africa!"
- capitulation_events.9.b: "We shall fight to the last!"
+ capitulation_events.9.t: "[GEX.GetNameDefCap] Судится за мир" #NT!
+ capitulation_events.9.d.siam: "Так называемое правительство Свободной Германии, уже изо всех сил пытающееся продолжить борьбу из Африки, заключило мир с [From.GetNameDef]. Это потребует уступки большей части нашей территории, и кажется мало надежды на продолжение борьбы в одиночку, поскольку так много чиновников Рейха уже покидают свои офисы здесь, в [GEA.GetNameDef]. Хотя местные силы полны решимости продолжать борьбу, без поддержки со стороны родины быстрое поражение, вероятно, неизбежно для этих сопротивляющихся." #NT!
+ capitulation_events.9.d.japan: "Так называемое правительство Свободной Германии, уже изо всех сил пытающееся продолжить борьбу из Африки, заключило мир с [From.GetNameDef]. Это повлечет за собой полную аннексию, и, похоже, мало надежды на продолжение борьбы в одиночку, поскольку так много чиновников Рейха уже покидают свои офисы здесь, в [GEA.GetNameDef]. Хотя местные силы полны решимости продолжать борьбу, без поддержки со стороны родины быстрое поражение, вероятно, неизбежно для этих сопротивляющихся." #NT!
+ capitulation_events.9.a: "К спасательным шлюпкам! Мы отправляемся в Африку!" #NT!
+ capitulation_events.9.b: "Мы будем сражаться до последнего!" #NT!
 
- capitulation_events.12.t: "Should we Continue the War?"
- capitulation_events.12.d: "The German government has collapsed and its command transferred to Africa, assuming control over their former colonies here. They still possess much of the colonial territory we claim, however, and are in considerable disarray. Should we demand that they turn over the territories, on threat of continuing the war, or end it now?"
- capitulation_events.12.a: "Demand the colonies."
- capitulation_events.12.b: "We have had enough of war with the Germans."
+ capitulation_events.12.t: "Должны ли мы продолжать войну?" #NT!
+ capitulation_events.12.d: "Немецкое правительство рухнуло, и его командование перешло в Африку, взяв на себя контроль над своими бывшими колониями здесь. Однако они все еще владеют большей частью колониальной территории, на которую мы претендуем, и находятся в значительном беспорядке. Должны ли мы требовать от них передачи территорий под угрозой продолжения войны или прекратить ее сейчас?" #NT!
+ capitulation_events.12.a: "Требуйте колонии." #NT!
+ capitulation_events.12.b: "Нам надоела война с немцами." #NT!
 
- capitulation_events.13.t: "The [NFA.GetAdjective] Threat"
- capitulation_events.13.d: "[NFA.GetNameDefCap] has issued a threat - either we turn over the colonies which once belonged to them, or they will continue their war against us. Considering our current state of disarray, it might be wise to accept their demands. If not, we will be fighting them here in Africa."
- capitulation_events.13.a: "Give them what they want, if it will end this."
- capitulation_events.13.b: "We face them here in Africa, then."
+ capitulation_events.13.t: "Угроза [NFA.GetAdjective]" #NT!
+ capitulation_events.13.d: "[NFA.GetNameDefCap] выступил с угрозой - либо мы сдадим некогда принадлежавшие им колонии, либо они продолжат войну против нас. Учитывая наше нынешнее состояние беспорядка, возможно, было бы разумно принять их требования. В противном случае мы будем бороться с ними здесь, в Африке." #NT!
+ capitulation_events.13.a: "Дайте им то, что они хотят, если это положит конец этому." #NT!
+ capitulation_events.13.b: "Тогда мы сталкиваемся с ними здесь, в Африке." #NT!
 
- capitulation_events.15.t: "[transferred_state.GetName] Is Ours"
- capitulation_events.15.d: "With the collapse of the German government, their hold over [transferred_state.GetName] has become untenable, and thus the local administration has surrendered to our forces to prevent the area falling into chaos."
- capitulation_events.15.a: "Marvellous."
+ capitulation_events.15.t: "[transferred_state.GetName] наш" #NT!
+ capitulation_events.15.d: "С крахом немецкого правительства их власть над [transferred_state.GetName] стала несостоятельной, и поэтому местная администрация сдалась нашим силам, чтобы предотвратить впадение территории в хаос." #NT!
+ capitulation_events.15.a: "Чудесный." #NT!
 
- capitulation_events.23.t: "The German Collapse"
- capitulation_events.23.d.nowar: "While the last couple of days since the German collapse in Europe have been uncertain, fears that [Root.GetNameDef] would be left to its own devices proved unfounded. The main German opposition has now established itself in Mittelafrika, and we have restored communications to their officials in Daressalam. Order, at least for the moment, has been restored."
- capitulation_events.23.d.war: "With the Germans having collapsed in Europe and barely holding on in Africa, the continuing war here in [Root.GetNameDef] has led to many of the colonial officials already having fled for the new capital in East Africa. Communications have not yet been restored, and it seems that - for the moment - we are on our own."
- capitulation_events.23.a: "That's a relief...?"
- capitulation_events.23.b: "We've been abandoned?!"
+ capitulation_events.23.t: "Немецкий коллапс" #NT!
+ capitulation_events.23.d.nowar: "Хотя последние несколько дней после краха Германии в Европе были неопределенными, опасения, что [Root.GetNameDef] будет предоставлен самому себе, оказались необоснованными. Основная немецкая оппозиция сейчас обосновалась в Миттелафрике, и мы восстановили связь с ее официальными лицами в Дарессаламе. Порядок, по крайней мере на данный момент, восстановлен." #NT!
+ capitulation_events.23.d.war: "Поскольку немцы потерпели поражение в Европе и едва удержались в Африке, продолжающаяся война здесь, в [Root.GetNameDef], привела к тому, что многие колониальные чиновники уже бежали в новую столицу в Восточной Африке. Коммуникации пока не восстановлены, и похоже, что на данный момент мы предоставлены сами себе." #NT!
+ capitulation_events.23.a: "Это облегчение...?" #NT!
+ capitulation_events.23.b: "Нас бросили?!" #NT!
 
- capitulation_events.30.t: "Peace with the Internationale?"
- capitulation_events.30.d.britain: "With the successful occupation of France by our forces, many plans for the invasion of Britain have been drawn up, but none have been successful.\n\nAlthough the British government is wounded, they have successfully resisted our attempts to cross the English Channel, and with the defence of the shores taking up much needed resources, many in our government have come with a proposal for a peace treaty with the remnants of the Internationale.\n\nWe will have full control of their continental European holdings, at the cost of recognising [ENG.GetNameDef]'s government. With anti-war sentiment growing within our borders as well as Britain's, many believe this can bring an end to this futile war, at least temporarily."
- capitulation_events.30.d.other: "The extermination of the Third Internationale in Europe has been completed, the lands of Britain and France having fallen to our superior forces.\n\nFollowing this, many in our government expected for the Internationale to collapse without a leader, but this has been untrue, as [INT.GetNameDef] has taken up the mantle of military leadership and rallied its remaining members. Seeing as how far this nation is from our borders and supply lines, many in our government see it as a waste of resources to invade them.\n\nThus, a proposal for an official peace treaty has come from this faction of the government. Our hold on Europe will be strengthened, but the Internationale's existence as an obstacle to our world power will continue. With many in the Empire growing tired of war, it may be in our best interests to make this proposal of peace."
- capitulation_events.30.a: "It is time for an armistice."
- capitulation_events.30.b: "The only peace we will accept is unconditional surrender!"
+ capitulation_events.30.t: "Мир с Интернационалом?" #NT!
+ capitulation_events.30.d.britain: "После успешной оккупации Франции нашими войсками было составлено множество планов вторжения в Британию, но ни один из них не увенчался успехом.\n\nХотя британское правительство ранено, оно успешно сопротивляется нашим попыткам пересечь Ла-Манш, а поскольку защита берегов требует столь необходимых ресурсов, многие в нашем правительстве выступили с предложением заключить мирный договор с остатками Интернационала.\n\nМы получим полный контроль над их владениями в континентальной Европе, ценой признания Правительство [ENG.GetNameDef]. Поскольку антивоенные настроения растут как внутри наших границ, так и в Великобритании, многие полагают, что это может положить конец этой бесполезной войне, по крайней мере временно." #NT!
+ capitulation_events.30.d.other: "Уничтожение Третьего Интернационала в Европе завершено, земли Великобритании и Франции перешли к нашим превосходящим силам.\n\nПосле этого многие в нашем правительстве ожидали, что Интернационал рухнет без лидера, но это было неправдой, поскольку [INT.GetNameDef] взял на себя мантию военного руководства и сплотил оставшихся членов. Видя, как далеко эта страна находится от наших границ и линий снабжения, многие в нашем правительстве считают вторжение в нее пустой тратой ресурсов.\n\nТаким образом, от этой фракции правительства поступило предложение об официальном мирном договоре. Наша власть в Европе будет укрепляться, но существование Интернационала как препятствия на пути к нашему мировому могуществу продолжится. Поскольку многие в Империи устали от войны, возможно, в наших интересах сделать это мирное предложение." #NT!
+ capitulation_events.30.a: "Настало время перемирия." #NT!
+ capitulation_events.30.b: "Единственный мир, который мы примем, — это безоговорочная капитуляция!" #NT!
 
- capitulation_events.31.t: "Germany Proposes Peace"
- capitulation_events.31.d.britain: "Over the course of the war, dark times have befallen our alliance. The Commune of France has collapsed, and we have had to take up the mantle as head of the revolution, and the Germans have attempted to invade Britain, but to no avail due to the tenacity of our people.\n\nHowever, on both sides, the scars begin to show, on both infrastructure and our people. Today, this came to a head when [FROM.GetNameDef] contacted us, offering to negotiate peace. In exchange for recognition of our government and the continuation of the Internationale's existence, we will lose all of our allies on mainland Europe.\n\nMany in our government consider this an insult, and urge to continue to fight for the revolution, while others believe that any attempt to reclaim our hold on Europe is futile, and we should accept this peace while we can, even at the cost of our humiliation. How shall we respond?"
- capitulation_events.31.d.other: "Dark times have befallen the Internationale. The two primary leaders of the alliance, Britain and France, have fallen to German invasion. Due to our own power within the alliance, we have taken up the mantle of leaders of the revolution.\n\nBut on both sides, the prospect of total victory grows more distant by the day. Our people grow tired of the state of war, and this seems to have come to a head today, as the German Empire has approached us with a proposal: in turn for us abandoning our European holdings and making peace with the Germans, our government will be recognised and the Internationale as an entity will continue, under our leadership.\n\nAlthough this will solidify us as leaders of the world revolution and bring the war to a close, such a peace treaty would leave us humiliated and as losers of the Second Weltkrieg. Many in our government wish for the war to end, while many others want to continue to fight for the revolution. How shall we respond?"
- capitulation_events.31.a: "This war is lost. Sign it."
- capitulation_events.31.b: "The Revolution must fight on! Reject it!"
+ capitulation_events.31.t: "Германия предлагает мир" #NT!
+ capitulation_events.31.d.britain: "В ходе войны для нашего альянса настали темные времена. Французская Коммуна рухнула, и нам пришлось взять на себя мантию главы революции, а немцы попытались вторгнуться в Британию, но безуспешно из-за упорства нашего народа.\n\nОднако с обеих сторон начинают проявляться шрамы, как на инфраструктуре, так и на нашем народе. Сегодня это дошло до апогея, когда [FROM.GetNameDef] связался с нами и предложил заключить мир. В обмен на признание нашего правительства и продолжение существования Интернационала мы потеряем всех наших союзников в континентальной Европе.\n\nМногие в нашем правительстве считают это оскорблением и призывают продолжать борьбу за революцию, в то время как другие считают, что любая попытка вернуть себе контроль над Европой бесполезна, и мы должны принять этот мир, пока можем, даже ценой нашего унижения. Как нам ответить?" #NT!
+ capitulation_events.31.d.other: "Для «Интернационала» настали темные времена. Два главных лидера альянса, Великобритания и Франция, пали в результате немецкого вторжения. Благодаря нашей собственной власти в альянсе, мы взяли на себя мантию лидеров революции.\n\nНо с обеих сторон перспектива полной победы с каждым днем ​​становится все более отдаленной. Наш народ устал от состояния войны, и это, похоже, достигло апогея сегодня, когда Германская империя обратилась к нам с предложением: в свою очередь, если мы откажемся от наших европейских владений и заключим мир с немцами, наше правительство будет признано, и Интернационал как единое целое продолжится под нашим руководством.\n\nХотя это укрепит нас как лидеров мировой революции и завершит войну, такой мирный договор оставит нас униженными и проигравшими во Второй войне. Вельткриг. Многие в нашем правительстве желают окончания войны, в то время как многие другие хотят продолжать борьбу за революцию. Как нам ответить?" #NT!
+ capitulation_events.31.a: "Эта война проиграна. Подпишите это." #NT!
+ capitulation_events.31.b: "Революция должна бороться! Отвергни это!" #NT!
 
- capitulation_events.32.t: "The Internationale Accepts Peace"
- capitulation_events.32.d.britain: "The war is over. Although we hoped to eliminate the revolution completely after France's defeat, these hopes did not come to fruition. Britain has responded with an acceptance of our proposal, seemingly suffering from the same damage as we are facing now. With Britain and the Third Internationale surviving, many across the Empire question how long this peace will last until Europe breaks out into all-out war again."
- capitulation_events.32.d.other: "The war is over. With the occupation of the Internationale's European allies, the remaining members have accepted that that could not go on longer. They have accepted peace, and although the threat in Europe is eliminated, many wonder how long it will take until the new leader of the Internationale can strike back at us. But for now, we have won the day."
- capitulation_events.32.a: "Europe is at peace!"
+ capitulation_events.32.t: "«Интернационал» принимает мир" #NT!
+ capitulation_events.32.d.britain: "Война окончена. Хотя мы надеялись полностью уничтожить революцию после поражения Франции, эти надежды не оправдались. Великобритания ответила принятием нашего предложения, по-видимому, понеся тот же ущерб, с которым мы сталкиваемся сейчас. Поскольку Британия и Третий Интернационал выжили, многие по всей Империи задаются вопросом, как долго продлится этот мир, пока Европа снова не разразится полномасштабной войной." #NT!
+ capitulation_events.32.d.other: "Война окончена. После оккупации европейскими союзниками «Интернационала» оставшиеся члены признали, что так больше продолжаться не может. Они приняли мир, и хотя угроза в Европе устранена, многие задаются вопросом, сколько времени пройдет, прежде чем новый лидер Интернационала сможет нанести нам ответный удар. Но на данный момент мы победили." #NT!
+ capitulation_events.32.a: "Европа в мире!" #NT!
 
- capitulation_events.33.t: "The Internationale Refused Peace!"
- capitulation_events.33.d.britain: "Our proposal for peace has been met with a reprisal from Britain, saying that our government simply wishes to humiliate Britain again with this peace, and the terms are unacceptable. It seems that the war can now only end with the invasion of Britain, or the fall of Berlin to British forces..."
- capitulation_events.33.d.other: "Our proposal for peace has not been received well by [INT.GetNameDef], and they have responded with a resounding 'no' to our request for peace. It seems that the stubborn revolutionaries wish to fight on, and the war will only end with the unconditional surrender of one of the sides. We must prepare for an invasion..."
- capitulation_events.33.a: "We will finish what we started in 1919."
+ capitulation_events.33.t: "«Интернационал» отказался от мира!" #NT!
+ capitulation_events.33.d.britain: "Наше предложение о мире было встречено репрессиями со стороны Великобритании, заявившей, что наше правительство просто желает снова унизить Британию этим миром, а условия неприемлемы. Кажется, что война теперь может закончиться только вторжением в Великобританию или взятием Берлина британскими войсками..." #NT!
+ capitulation_events.33.d.other: "Наше предложение о мире не было хорошо воспринято [INT.GetNameDef], и они ответили громким «нет» на нашу просьбу о мире. Похоже, упорные революционеры желают продолжать борьбу, и война закончится лишь безоговорочной капитуляцией одной из сторон. Мы должны подготовиться к вторжению..." #NT!
+ capitulation_events.33.a: "Мы закончим то, что начали в 1919 году." #NT!
 
- capitulation_events.34.t: "Peace with [INT.GetNameDef]?"
- capitulation_events.34.d: "[GER.GetNameDefCap] has negotiated a peace treaty with [INT.GetNameDef], since it's clear the [INT.GetAdjective] have lost their will to carry on the war. This might be a chance for us to end our war with them, as well. Should we take advantage of the opportunity, or continue the battle?"
- capitulation_events.34.a: "Let's end this now!"
- capitulation_events.34.b: "No, we continue the war!"
+ capitulation_events.34.t: "Мир с [INT.GetNameDef]?" #NT!
+ capitulation_events.34.d: "[GER.GetNameDefCap] заключил мирный договор с [INT.GetNameDef], поскольку очевидно, что [INT.GetAdjective] потеряли желание продолжать войну. Это также может быть для нас шансом положить конец войне с ними. Должны ли мы воспользоваться этой возможностью или продолжить битву?" #NT!
+ capitulation_events.34.a: "Давайте покончим с этим сейчас!" #NT!
+ capitulation_events.34.b: "Нет, мы продолжаем войну!" #NT!
 
- capitulation_events.35.t: "The Treaty of [INT.Capital.GetCapitalVictoryPointName]"
- capitulation_events.35.d.britain: "An announcement was made today by [GER.GetLeader] announcing the signing of a peace between the Third Internationale and the Reichspakt. Germany, despite capturing Paris for the third time in seventy years, was unable to facilitate an arrival in Britain.\nThus, a peace has been signed between the two war-torn factions: the Third Internationale shall remain an entity, under the leadership of [ENG.GetNameDef], at the cost of its continental allies to German control. [ENG.GetLeader] has attempted to remain optimistic, calling out to remaining allies across the world that the revolution is not dead yet, and that Britain will carry on France's torch.\nBut one thing is clear: Britain and France have been humiliated by the Germans for a second time in recent history, and only time will tell if they can strike back."
- capitulation_events.35.d.america: "An announcement was made today by [GER.GetLeader] that the Weltkrieg in the West has ended. Although Germany has claimed victory over the European revolution, there remains the new revolutionary titan across the sea, [WCA.GetNameDef].\nThus, [WCA.GetNameDef] and [GER.GetNameDef] have signed a peace treaty that has allowed the Third Internationale as an entity to continue its existence, under the leadership of America, at the cost of the Internationale's European allies to German occupation. President [WCA.GetLeader] has attempted to remain optimistic, vowing to their remaining allies that they will carry Europe's torch of the revolution, but many see this as an affirmation of German hegemony in Europe. Only time will tell if the revolution can survive without the guidance of France and Britain."
- capitulation_events.35.d.other: "An announcement was made today by [GER.GetLeader] that the Weltkrieg in the West has ended. Although the Communards were defeated and Germany claimed victory over the European revolution, [INT.GetNameDef] yet remains in existence.\nFacing the prospect of gruelling transcontinental warfare, [INT.GetNameDef] and [GER.GetNameDef] have signed a peace treaty allowing the Third Internationale to continue its existence, under the leadership of [INT.GetNonIdeologyName], at the cost of its former European allies undergoing German occupation. [INT.GetLeader] vowed to their remaining allies that they will carry Europe's torch of the revolution, but many see this as an affirmation of German hegemony in Europe. Only time will tell if the revolution can survive without the guidance of France and Britain."
- capitulation_events.35.a: "Is history doomed to repeat itself?"
+ capitulation_events.35.t: "Договор [INT.Capital.GetCapitalVictoryPointName]" #NT!
+ capitulation_events.35.d.britain: "Сегодня [GER.GetLeader] сделал заявление о подписании мира между Третьим Интернационалом и Рейхспактом. Германия, несмотря на захват Парижа в третий раз за семьдесят лет, не смогла облегчить прибытие в Британию.\nТаким образом, между двумя раздираемыми войной фракциями был подписан мир: Третий Интернационал должен оставаться целостным образованием под руководством [ENG.GetNameDef] за счет своих континентальных союзников под немецким контролем. [ENG.GetLeader] пытается сохранять оптимизм, призывая оставшихся союзников по всему миру, что революция еще не умерла и что Великобритания будет нести факел Франции.\nНо ясно одно: Великобритания и Франция были унижены немцами во второй раз в новейшей истории, и только время покажет, смогут ли они нанести ответный удар." #NT!
+ capitulation_events.35.d.america: "Сегодня [GER.GetLeader] объявил, что Вельткриг на Западе завершился. Хотя Германия заявила о своей победе над европейской революцией, за морем остался новый революционный титан [WCA.GetNameDef].\nТаким образом, [WCA.GetNameDef] и [GER.GetNameDef] подписали мирный договор, который позволил Третьему Интернационалу как организации продолжать свое существование под руководством Америки за счет европейских союзников Интернационала по немецкой оккупации. Президент [WCA.GetLeader] пытается сохранять оптимизм, поклявшись своим оставшимся союзникам, что они будут нести европейский факел революции, но многие видят в этом подтверждение немецкой гегемонии в Европе. Только время покажет, сможет ли революция выжить без руководства Франции и Британии." #NT!
+ capitulation_events.35.d.other: "Сегодня [GER.GetLeader] объявил, что Вельткриг на Западе завершился. Хотя коммунары потерпели поражение, а Германия заявила о своей победе над европейской революцией, [INT.GetNameDef] все же существует.\nСтолкнувшись с перспективой изнурительной трансконтинентальной войны, [INT.GetNameDef] и [GER.GetNameDef] подписали мирный договор, позволяющий Третьему Интернационалу продолжать свое существование под руководством [INT.GetNonIdeologyName] за счет своих бывших европейских союзников, подвергающихся немецкой оккупации. [INT.GetLeader] поклялись своим оставшимся союзникам, что они будут нести европейский факел революции, но многие видят в этом подтверждение немецкой гегемонии в Европе. Только время покажет, сможет ли революция выжить без руководства Франции и Британии." #NT!
+ capitulation_events.35.a: "Неужели история обречена повториться?" #NT!
 
- capitulation_events.40.t: "Paris has Fallen"
- capitulation_events.40.d: "It appears we must once again face the ignominy of occupation by a foreign power, as Paris has fallen to enemy control. Resistance throughout France has begun, but how long can we maintain it? There are many both within our nation as well as without who claim we were not a legitimate government to begin with. So long as the people are on our side, however, we still have a chance!"
- capitulation_events.40.a: "We have not lost yet!"
+ capitulation_events.40.t: "Париж пал" #NT!
+ capitulation_events.40.d: "Похоже, нам снова придется столкнуться с позорной оккупацией иностранной державы, поскольку Париж перешел под контроль врага. По всей Франции началось сопротивление, но как долго мы сможем его поддерживать? Многие как внутри нашей страны, так и за ее пределами утверждают, что мы с самого начала не были законным правительством. Однако пока люди на нашей стороне, у нас еще есть шанс!" #NT!
+ capitulation_events.40.a: "Мы еще не проиграли!" #NT!
 
- capitulation_events.42.t: "French Resistance Collapses"
- capitulation_events.42.d: "The occupation of Paris has been solidified, with the various pockets of resistance having finally been defeated and the legitimacy of our exiled government having been reduced to tatters. The French refusal to admit that we have been defeated once again has finally crumbled in the wake of its inevitability."
- capitulation_events.42.a: "Alas."
+ capitulation_events.42.t: "Французское сопротивление потерпело крах" #NT!
+ capitulation_events.42.d: "Оккупация Парижа укрепилась, различные очаги сопротивления наконец были побеждены, а легитимность нашего изгнанного правительства была разрушена в клочья. Отказ французов признать, что мы снова потерпели поражение, окончательно рухнул из-за своей неизбежности." #NT!
+ capitulation_events.42.a: "Увы." #NT!
 
- capitulation_events.43.t: "Germany Offers Occupied Territory"
- capitulation_events.43.d: "Perhaps in the interest of undermining the legitimacy of the Communard exiles, [GER.GetNameDef] has made an offer to the [Root.GetAdjective] government: control over a small number of provinces in the south of France. They make no promises come the eventual peace conference following the eventual collapse of the Communard resistance. For now, they are willing to simply turn over occupation to us."
- capitulation_events.43.a: "That is a good deal - we'll take it!"
- capitulation_events.43.b: "No, we won't deal with the Germans!"
+ capitulation_events.43.t: "Германия предлагает оккупированную территорию" #NT!
+ capitulation_events.43.d: "Возможно, в интересах подорвать легитимность изгнанников-коммунаров, [GER.GetNameDef] сделал предложение правительству [Root.GetAdjective]: контроль над небольшим количеством провинций на юге Франции. Они не дают никаких обещаний на возможной мирной конференции после возможного краха сопротивления коммунаров. Пока они готовы просто передать нам оккупацию." #NT!
+ capitulation_events.43.a: "Это хорошая сделка – мы ее примем!" #NT!
+ capitulation_events.43.b: "Нет, мы не будем иметь дело с немцами!" #NT!
 
- capitulation_events.44.t: "The French Refuse"
- capitulation_events.44.d: "Despite the benefit it would offer them come the eventual peace conference for French territory, [NFA.GetNameDef] has refused our generous offer."
- capitulation_events.44.a: "So be it."
+ capitulation_events.44.t: "Французский отказ" #NT!
+ capitulation_events.44.d: "Несмотря на выгоду, которую это принесет им в случае возможной мирной конференции на французской территории, [NFA.GetNameDef] отказался от нашего щедрого предложения." #NT!
+ capitulation_events.44.a: "Пусть будет так." #NT!
 
- capitulation_events.45.t: "The French Agree"
- capitulation_events.45.d: "Obviously delighted by our generosity, [NFA.GetNameDef] has agreed to our offer and has already moved [NFA.GetAdjective] troops into some of the southern territories."
- capitulation_events.45.a: "Excellent!"
+ capitulation_events.45.t: "Французы согласны" #NT!
+ capitulation_events.45.d: "Очевидно, обрадованный нашей щедростью, [NFA.GetNameDef] согласился на наше предложение и уже перебросил войска [NFA.GetAdjective] на некоторые южные территории." #NT!
+ capitulation_events.45.a: "Отличный!" #NT!

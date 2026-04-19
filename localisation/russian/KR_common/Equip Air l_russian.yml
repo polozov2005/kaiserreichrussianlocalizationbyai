@@ -38,9 +38,9 @@
  ALB_jet_fighter_equipment_1_short: "Bf.262"
  ALB_jet_fighter_equipment_1_desc: "Lagging behind in the development of jet fighters, Avia acquired a licence to produce the Bf 262 for the Fliegerkorps, replacing the German 30mm guns with locally-produced 20mm guns in their slightly-revised design."
  ALB_jet_fighter_equipment_2: "Letov L.52"
- ALB_small_plane_airframe_5: "Letov L.52"
+ ALB_small_plane_airframe_5: "Летов Л.52" #NT!
  ALB_jet_fighter_equipment_2_short: "L.52"
- ALB_small_plane_airframe_5_short: "L.52"
+ ALB_small_plane_airframe_5_short: "Л.52" #NT!
  ALB_jet_fighter_equipment_2_desc: "When Austro-Daimler developed the U2 'Uzelac' engine, Letov produced a state-of-the-art jet fighter that would become the Monarchy's first local jet aircraft adopted into service."
 
  ALB_nav_bomber_equipment_1: "Letov Š.328.v"
@@ -125,9 +125,9 @@
  ARG_jet_fighter_equipment_1: "Bayerische Flugzeugwerke Bf 262"
  ARG_jet_fighter_equipment_1_short: "Bf 262"
  ARG_jet_fighter_equipment_2: "Hansa-Brandenburg Hb 179"
- ARG_small_plane_airframe_5: "Hansa-Brandenburg Hb 179"
+ ARG_small_plane_airframe_5: "Ганза-Бранденбург Hb 179" #NT!
  ARG_jet_fighter_equipment_2_short: "Hb 179"
- ARG_small_plane_airframe_5_short: "Hb 179"
+ ARG_small_plane_airframe_5_short: "Нб 179" #NT!
 
  ARG_nav_bomber_equipment_1: "Flugzeugbau Friedrichshafen Ff 95"
  ARG_nav_bomber_equipment_1_short: "Ff 95"
@@ -188,19 +188,19 @@
  AST_CAS_equipment_2_short: "CAC Woomera"
  AST_cv_CAS_equipment_2: "CAC CA-11 Woomera"
  AST_cv_CAS_equipment_2_short: "CAC Woomera"
- AST_CAS_equipment_3: "Bristol Brigand"
- AST_CAS_equipment_3_short: "Brigand"
- AST_cv_CAS_equipment_3: "Bristol Brigand"
- AST_cv_CAS_equipment_3_short: "Brigand"
+ AST_CAS_equipment_3: "Бристоль Бриганд"
+ AST_CAS_equipment_3_short: "Бриганд"
+ AST_cv_CAS_equipment_3: "Бристоль Бриганд"
+ AST_cv_CAS_equipment_3_short: "Бриганд"
 
- AST_fighter_equipment_0: "Gloster Gladiator"
- AST_fighter_equipment_0_short: "Gladiator"
- AST_cv_fighter_equipment_0: "Gloster Sea Gladiator"
- AST_cv_fighter_equipment_0_short: "Sea Gladiator"
- AST_fighter_equipment_1: "Vickers Venom"
- AST_fighter_equipment_1_short: "Venom"
- AST_cv_fighter_equipment_1: "Vickers Sea Venom"
- AST_cv_fighter_equipment_1_short: "Sea Venom"
+ AST_fighter_equipment_0: "Глостер Гладиатор"
+ AST_fighter_equipment_0_short: "Гладиатор"
+ AST_cv_fighter_equipment_0: "Gloster Sea Гладиатор"
+ AST_cv_fighter_equipment_0_short: "Sea Гладиатор"
+ AST_fighter_equipment_1: "Виккерс Веном"
+ AST_fighter_equipment_1_short: "Веном"
+ AST_cv_fighter_equipment_1: "Авианосный Виккерс Веном"
+ AST_cv_fighter_equipment_1_short: "Веном"
  AST_fighter_equipment_2: "CAC CA-12 Boomerang"
  AST_fighter_equipment_2_short: "CAC Boomerang"
  AST_cv_fighter_equipment_2: "CAC Sea Boomerang"
@@ -209,32 +209,32 @@
  AST_fighter_equipment_3_short: "CAC Kangaroo"
  AST_cv_fighter_equipment_3: "CAC Sea Kangaroo"
  AST_cv_fighter_equipment_3_short: "Sea Kangaroo"
- AST_jet_fighter_equipment_1: "Gloster Meteor"
- AST_jet_fighter_equipment_1_short: "Meteor"
- AST_jet_fighter_equipment_2: "Vickers Kestrel"
- AST_small_plane_airframe_5: "Vickers Kestrel"
- AST_jet_fighter_equipment_2_short: "Kestrel"
- AST_small_plane_airframe_5_short: "Kestrel"
+ AST_jet_fighter_equipment_1: "Глостер Метеор"
+ AST_jet_fighter_equipment_1_short: "Метеор"
+ AST_jet_fighter_equipment_2: "Виккерс Кестрел"
+ AST_small_plane_airframe_5: "Викерс Кестрел" #NT!
+ AST_jet_fighter_equipment_2_short: "Кестрел"
+ AST_small_plane_airframe_5_short: "Пустельга" #NT!
 
- AST_nav_bomber_equipment_1: "Fairey Swordfish"
- AST_nav_bomber_equipment_1_short: "Swordfish"
- AST_cv_nav_bomber_equipment_1: "Fairey Swordfish"
- AST_cv_nav_bomber_equipment_1_short: "Swordfish"
- AST_nav_bomber_equipment_2: "Fairey Albacore"
- AST_nav_bomber_equipment_2_short: "Albacore"
- AST_cv_nav_bomber_equipment_2: "Fairey Albacore"
- AST_cv_nav_bomber_equipment_2_short: "Albacore"
- AST_nav_bomber_equipment_3: "Fairey Barracuda"
- AST_nav_bomber_equipment_3_short: "Barracuda"
- AST_cv_nav_bomber_equipment_3: "Fairey Barracuda"
- AST_cv_nav_bomber_equipment_3_short: "Barracuda"
+ AST_nav_bomber_equipment_1: "Фейри Свордфиш"
+ AST_nav_bomber_equipment_1_short: "Свордфиш"
+ AST_cv_nav_bomber_equipment_1: "Фейри Свордфиш"
+ AST_cv_nav_bomber_equipment_1_short: "Свордфиш"
+ AST_nav_bomber_equipment_2: "Фейри Альбакор"
+ AST_nav_bomber_equipment_2_short: "Альбакор"
+ AST_cv_nav_bomber_equipment_2: "Фейри Альбакор"
+ AST_cv_nav_bomber_equipment_2_short: "Альбакор"
+ AST_nav_bomber_equipment_3: "Фейри Барракуда"
+ AST_nav_bomber_equipment_3_short: "Барракуда"
+ AST_cv_nav_bomber_equipment_3: "Фейри Барракуда"
+ AST_cv_nav_bomber_equipment_3_short: "Барракуда"
 
- AST_heavy_fighter_equipment_1: "Bristol Beaufighter"
- AST_heavy_fighter_equipment_1_short: "Beaufighter"
- AST_heavy_fighter_equipment_2: "Gloster Reaper"
- AST_heavy_fighter_equipment_2_short: "Reaper"
- AST_heavy_fighter_equipment_3: "Vickers Falcon"
- AST_heavy_fighter_equipment_3_short: "Falcon"
+ AST_heavy_fighter_equipment_1: "Бристоль Бефайтер"
+ AST_heavy_fighter_equipment_1_short: "Бефайтер"
+ AST_heavy_fighter_equipment_2: "Глостер Рипер"
+ AST_heavy_fighter_equipment_2_short: "Рипер"
+ AST_heavy_fighter_equipment_3: "Виккерс Фэлкон"
+ AST_heavy_fighter_equipment_3_short: "Фэлкон"
 
  AST_tac_bomber_equipment_0: "Fairey Hendon"
  AST_tac_bomber_equipment_0_short: "Hendon"
@@ -275,61 +275,61 @@
 ### ASY - Assyria ###
 ###
 
- ASY_CAS_equipment_1: "Fairey Battle"
- ASY_CAS_equipment_1_short: "Battle"
- ASY_cv_CAS_equipment_1: "Fairey Battle"
- ASY_cv_CAS_equipment_1_short: "Battle"
- ASY_CAS_equipment_2: "Bristol Bisley"
- ASY_CAS_equipment_2_short: "Bisley"
- ASY_cv_CAS_equipment_2: "Bristol Bisley"
- ASY_cv_CAS_equipment_2_short: "Bisley"
- ASY_CAS_equipment_3: "Bristol Brigand"
- ASY_CAS_equipment_3_short: "Brigand"
- ASY_cv_CAS_equipment_3: "Bristol Brigand"
- ASY_cv_CAS_equipment_3_short: "Brigand"
+ ASY_CAS_equipment_1: "Фейри Бэттл"
+ ASY_CAS_equipment_1_short: "Бэттл"
+ ASY_cv_CAS_equipment_1: "Фейри Бэттл"
+ ASY_cv_CAS_equipment_1_short: "Бэттл"
+ ASY_CAS_equipment_2: "Бристоль Бисли"
+ ASY_CAS_equipment_2_short: "Бисли"
+ ASY_cv_CAS_equipment_2: "Бристоль Бисли"
+ ASY_cv_CAS_equipment_2_short: "Бисли"
+ ASY_CAS_equipment_3: "Бристоль Бриганд"
+ ASY_CAS_equipment_3_short: "Бриганд"
+ ASY_cv_CAS_equipment_3: "Бристоль Бриганд"
+ ASY_cv_CAS_equipment_3_short: "Бриганд"
 
- ASY_fighter_equipment_0: "Gloster Gladiator"
- ASY_fighter_equipment_0_short: "Gladiator"
- ASY_cv_fighter_equipment_0: "Gloster Gladiator"
- ASY_cv_fighter_equipment_0_short: "Gladiator"
- ASY_fighter_equipment_1: "Vickers Venom"
- ASY_fighter_equipment_1_short: "Venom"
- ASY_cv_fighter_equipment_1: "Vickers Sea Venom"
- ASY_cv_fighter_equipment_1_short: "Sea Venom"
- ASY_fighter_equipment_2: "Gloster Paladin"
- ASY_fighter_equipment_2_short: "Paladin"
- ASY_cv_fighter_equipment_2: "Fairey Fulmar"
- ASY_cv_fighter_equipment_2_short: "Fulmar"
- ASY_fighter_equipment_3: "Martin-Baker Vindicator"
- ASY_fighter_equipment_3_short: "Vindicator"
- ASY_cv_fighter_equipment_3: "Fairey Firefly"
- ASY_cv_fighter_equipment_3_short: "Firefly"
- ASY_jet_fighter_equipment_1: "Gloster Meteor"
- ASY_jet_fighter_equipment_1_short: "Meteor"
- ASY_jet_fighter_equipment_2: "Vickers Kestrel"
- ASY_small_plane_airframe_5: "Vickers Kestrel"
- ASY_jet_fighter_equipment_2_short: "Kestrel"
- ASY_small_plane_airframe_5_short: "Kestrel"
+ ASY_fighter_equipment_0: "Глостер Гладиатор"
+ ASY_fighter_equipment_0_short: "Гладиатор"
+ ASY_cv_fighter_equipment_0: "Глостер Гладиатор"
+ ASY_cv_fighter_equipment_0_short: "Гладиатор"
+ ASY_fighter_equipment_1: "Виккерс Веном"
+ ASY_fighter_equipment_1_short: "Веном"
+ ASY_cv_fighter_equipment_1: "Авианосный Виккерс Веном"
+ ASY_cv_fighter_equipment_1_short: "Веном"
+ ASY_fighter_equipment_2: "Глостер Паладин"
+ ASY_fighter_equipment_2_short: "Паладин"
+ ASY_cv_fighter_equipment_2: "Фейри Фулмар"
+ ASY_cv_fighter_equipment_2_short: "Фулмар"
+ ASY_fighter_equipment_3: "Мартин-Бейкер Виндикатор"
+ ASY_fighter_equipment_3_short: "Виндикатор"
+ ASY_cv_fighter_equipment_3: "Фейри Файрфлай"
+ ASY_cv_fighter_equipment_3_short: "Файрфлай"
+ ASY_jet_fighter_equipment_1: "Глостер Метеор"
+ ASY_jet_fighter_equipment_1_short: "Метеор"
+ ASY_jet_fighter_equipment_2: "Виккерс Кестрел"
+ ASY_small_plane_airframe_5: "Викерс Кестрел" #NT!
+ ASY_jet_fighter_equipment_2_short: "Кестрел"
+ ASY_small_plane_airframe_5_short: "Пустельга" #NT!
 
- ASY_nav_bomber_equipment_1: "Fairey Swordfish"
- ASY_nav_bomber_equipment_1_short: "Swordfish"
- ASY_cv_nav_bomber_equipment_1: "Fairey Swordfish"
- ASY_cv_nav_bomber_equipment_1_short: "Swordfish"
- ASY_nav_bomber_equipment_2: "Fairey Albacore"
- ASY_nav_bomber_equipment_2_short: "Albacore"
- ASY_cv_nav_bomber_equipment_2: "Fairey Albacore"
- ASY_cv_nav_bomber_equipment_2_short: "Albacore"
- ASY_nav_bomber_equipment_3: "Fairey Barracuda"
- ASY_nav_bomber_equipment_3_short: "Barracuda"
- ASY_cv_nav_bomber_equipment_3: "Fairey Barracuda"
- ASY_cv_nav_bomber_equipment_3_short: "Barracuda"
+ ASY_nav_bomber_equipment_1: "Фейри Свордфиш"
+ ASY_nav_bomber_equipment_1_short: "Свордфиш"
+ ASY_cv_nav_bomber_equipment_1: "Фейри Свордфиш"
+ ASY_cv_nav_bomber_equipment_1_short: "Свордфиш"
+ ASY_nav_bomber_equipment_2: "Фейри Альбакор"
+ ASY_nav_bomber_equipment_2_short: "Альбакор"
+ ASY_cv_nav_bomber_equipment_2: "Фейри Альбакор"
+ ASY_cv_nav_bomber_equipment_2_short: "Альбакор"
+ ASY_nav_bomber_equipment_3: "Фейри Барракуда"
+ ASY_nav_bomber_equipment_3_short: "Барракуда"
+ ASY_cv_nav_bomber_equipment_3: "Фейри Барракуда"
+ ASY_cv_nav_bomber_equipment_3_short: "Барракуда"
 
- ASY_heavy_fighter_equipment_1: "Bristol Beaufighter"
- ASY_heavy_fighter_equipment_1_short: "Beaufighter"
- ASY_heavy_fighter_equipment_2: "Gloster Reaper"
- ASY_heavy_fighter_equipment_2_short: "Reaper"
- ASY_heavy_fighter_equipment_3: "Vickers Falcon"
- ASY_heavy_fighter_equipment_3_short: "Falcon"
+ ASY_heavy_fighter_equipment_1: "Бристоль Бефайтер"
+ ASY_heavy_fighter_equipment_1_short: "Бефайтер"
+ ASY_heavy_fighter_equipment_2: "Глостер Рипер"
+ ASY_heavy_fighter_equipment_2_short: "Рипер"
+ ASY_heavy_fighter_equipment_3: "Виккерс Фэлкон"
+ ASY_heavy_fighter_equipment_3_short: "Фэлкон"
 
  ASY_tac_bomber_equipment_0: "Fairey Hendon"
  ASY_tac_bomber_equipment_0_short: "Hendon"
@@ -396,9 +396,9 @@
  AUS_jet_fighter_equipment_1_short: "Bf.262"
  AUS_jet_fighter_equipment_1_desc: "Lagging behind in the development of jet fighters, Avia acquired a licence to produce the Bf 262 for the Fliegerkorps, replacing the German 30mm guns with locally-produced 20mm guns in their slightly-revised design."
  AUS_jet_fighter_equipment_2: "Letov L.52"
- AUS_small_plane_airframe_5: "Letov L.52"
+ AUS_small_plane_airframe_5: "Летов Л.52" #NT!
  AUS_jet_fighter_equipment_2_short: "L.52"
- AUS_small_plane_airframe_5_short: "L.52"
+ AUS_small_plane_airframe_5_short: "Л.52" #NT!
  AUS_jet_fighter_equipment_2_desc: "When Austro-Daimler developed the U2 'Uzelac' engine, Letov produced a state-of-the-art jet fighter that would become the Monarchy's first local jet aircraft adopted into service."
 
  AUS_nav_bomber_equipment_1: "Letov Š.328.v"
@@ -878,9 +878,9 @@
  BOS_jet_fighter_equipment_1_short: "Bf.262"
  BOS_jet_fighter_equipment_1_desc: "Lagging behind in the development of jet fighters, Avia acquired a licence to produce the Bf 262 for the Fliegerkorps, replacing the German 30mm guns with locally-produced 20mm guns in their slightly-revised design."
  BOS_jet_fighter_equipment_2: "Letov L.52"
- BOS_small_plane_airframe_5: "Letov L.52"
+ BOS_small_plane_airframe_5: "Летов Л.52" #NT!
  BOS_jet_fighter_equipment_2_short: "L.52"
- BOS_small_plane_airframe_5_short: "L.52"
+ BOS_small_plane_airframe_5_short: "Л.52" #NT!
  BOS_jet_fighter_equipment_2_desc: "When Austro-Daimler developed the U2 'Uzelac' engine, Letov produced a state-of-the-art jet fighter that would become the Monarchy's first local jet aircraft adopted into service."
 
  BOS_nav_bomber_equipment_1: "Letov Š.328.v"
@@ -1028,61 +1028,61 @@
 ### WIF - West Indies Federation ###
 ###
 
- WIF_CAS_equipment_1: "Fairey Battle"
- WIF_CAS_equipment_1_short: "Battle"
- WIF_cv_CAS_equipment_1: "Fairey Battle"
- WIF_cv_CAS_equipment_1_short: "Battle"
- WIF_CAS_equipment_2: "Bristol Bisley"
- WIF_CAS_equipment_2_short: "Bisley"
- WIF_cv_CAS_equipment_2: "Bristol Bisley"
- WIF_cv_CAS_equipment_2_short: "Bisley"
- WIF_CAS_equipment_3: "Bristol Brigand"
- WIF_CAS_equipment_3_short: "Brigand"
- WIF_cv_CAS_equipment_3: "Bristol Brigand"
- WIF_cv_CAS_equipment_3_short: "Brigand"
+ WIF_CAS_equipment_1: "Фейри Бэттл"
+ WIF_CAS_equipment_1_short: "Бэттл"
+ WIF_cv_CAS_equipment_1: "Фейри Бэттл"
+ WIF_cv_CAS_equipment_1_short: "Бэттл"
+ WIF_CAS_equipment_2: "Бристоль Бисли"
+ WIF_CAS_equipment_2_short: "Бисли"
+ WIF_cv_CAS_equipment_2: "Бристоль Бисли"
+ WIF_cv_CAS_equipment_2_short: "Бисли"
+ WIF_CAS_equipment_3: "Бристоль Бриганд"
+ WIF_CAS_equipment_3_short: "Бриганд"
+ WIF_cv_CAS_equipment_3: "Бристоль Бриганд"
+ WIF_cv_CAS_equipment_3_short: "Бриганд"
 
- WIF_fighter_equipment_0: "Gloster Gladiator"
- WIF_fighter_equipment_0_short: "Gladiator"
- WIF_cv_fighter_equipment_0: "Gloster Sea Gladiator"
- WIF_cv_fighter_equipment_0_short: "Sea Gladiator"
- WIF_fighter_equipment_1: "Vickers Venom"
- WIF_fighter_equipment_1_short: "Venom"
- WIF_cv_fighter_equipment_1: "Vickers Sea Venom"
- WIF_cv_fighter_equipment_1_short: "Sea Venom"
- WIF_fighter_equipment_2: "Gloster Paladin"
- WIF_fighter_equipment_2_short: "Paladin"
- WIF_cv_fighter_equipment_2: "Fairey Fulmar"
- WIF_cv_fighter_equipment_2_short: "Fulmar"
- WIF_fighter_equipment_3: "Martin-Baker Vindicator"
- WIF_fighter_equipment_3_short: "Vindicator"
- WIF_cv_fighter_equipment_3: "Fairey Firefly"
- WIF_cv_fighter_equipment_3_short: "Firefly"
- WIF_jet_fighter_equipment_1: "Gloster Meteor"
- WIF_jet_fighter_equipment_1_short: "Meteor"
- WIF_jet_fighter_equipment_2: "Vickers Kestrel"
- WIF_small_plane_airframe_5: "Vickers Kestrel"
- WIF_jet_fighter_equipment_2_short: "Kestrel"
- WIF_small_plane_airframe_5_short: "Kestrel"
+ WIF_fighter_equipment_0: "Глостер Гладиатор"
+ WIF_fighter_equipment_0_short: "Гладиатор"
+ WIF_cv_fighter_equipment_0: "Gloster Sea Гладиатор"
+ WIF_cv_fighter_equipment_0_short: "Sea Гладиатор"
+ WIF_fighter_equipment_1: "Виккерс Веном"
+ WIF_fighter_equipment_1_short: "Веном"
+ WIF_cv_fighter_equipment_1: "Авианосный Виккерс Веном"
+ WIF_cv_fighter_equipment_1_short: "Веном"
+ WIF_fighter_equipment_2: "Глостер Паладин"
+ WIF_fighter_equipment_2_short: "Паладин"
+ WIF_cv_fighter_equipment_2: "Фейри Фулмар"
+ WIF_cv_fighter_equipment_2_short: "Фулмар"
+ WIF_fighter_equipment_3: "Мартин-Бейкер Виндикатор"
+ WIF_fighter_equipment_3_short: "Виндикатор"
+ WIF_cv_fighter_equipment_3: "Фейри Файрфлай"
+ WIF_cv_fighter_equipment_3_short: "Файрфлай"
+ WIF_jet_fighter_equipment_1: "Глостер Метеор"
+ WIF_jet_fighter_equipment_1_short: "Метеор"
+ WIF_jet_fighter_equipment_2: "Виккерс Кестрел"
+ WIF_small_plane_airframe_5: "Викерс Кестрел" #NT!
+ WIF_jet_fighter_equipment_2_short: "Кестрел"
+ WIF_small_plane_airframe_5_short: "Пустельга" #NT!
 
- WIF_nav_bomber_equipment_1: "Fairey Swordfish"
- WIF_nav_bomber_equipment_1_short: "Swordfish"
- WIF_cv_nav_bomber_equipment_1: "Fairey Swordfish"
- WIF_cv_nav_bomber_equipment_1_short: "Swordfish"
- WIF_nav_bomber_equipment_2: "Fairey Albacore"
- WIF_nav_bomber_equipment_2_short: "Albacore"
- WIF_cv_nav_bomber_equipment_2: "Fairey Albacore"
- WIF_cv_nav_bomber_equipment_2_short: "Albacore"
- WIF_nav_bomber_equipment_3: "Fairey Barracuda"
- WIF_nav_bomber_equipment_3_short: "Barracuda"
- WIF_cv_nav_bomber_equipment_3: "Fairey Barracuda"
- WIF_cv_nav_bomber_equipment_3_short: "Barracuda"
+ WIF_nav_bomber_equipment_1: "Фейри Свордфиш"
+ WIF_nav_bomber_equipment_1_short: "Свордфиш"
+ WIF_cv_nav_bomber_equipment_1: "Фейри Свордфиш"
+ WIF_cv_nav_bomber_equipment_1_short: "Свордфиш"
+ WIF_nav_bomber_equipment_2: "Фейри Альбакор"
+ WIF_nav_bomber_equipment_2_short: "Альбакор"
+ WIF_cv_nav_bomber_equipment_2: "Фейри Альбакор"
+ WIF_cv_nav_bomber_equipment_2_short: "Альбакор"
+ WIF_nav_bomber_equipment_3: "Фейри Барракуда"
+ WIF_nav_bomber_equipment_3_short: "Барракуда"
+ WIF_cv_nav_bomber_equipment_3: "Фейри Барракуда"
+ WIF_cv_nav_bomber_equipment_3_short: "Барракуда"
 
- WIF_heavy_fighter_equipment_1: "Bristol Beaufighter"
- WIF_heavy_fighter_equipment_1_short: "Beaufighter"
- WIF_heavy_fighter_equipment_2: "Gloster Reaper"
- WIF_heavy_fighter_equipment_2_short: "Reaper"
- WIF_heavy_fighter_equipment_3: "Vickers Falcon"
- WIF_heavy_fighter_equipment_3_short: "Falcon"
+ WIF_heavy_fighter_equipment_1: "Бристоль Бефайтер"
+ WIF_heavy_fighter_equipment_1_short: "Бефайтер"
+ WIF_heavy_fighter_equipment_2: "Глостер Рипер"
+ WIF_heavy_fighter_equipment_2_short: "Рипер"
+ WIF_heavy_fighter_equipment_3: "Виккерс Фэлкон"
+ WIF_heavy_fighter_equipment_3_short: "Фэлкон"
 
  WIF_tac_bomber_equipment_0: "Fairey Hendon"
  WIF_tac_bomber_equipment_0_short: "Hendon"
@@ -1304,9 +1304,9 @@
  IMP_jet_fighter_equipment_1: "Gloster Meteor"
  IMP_jet_fighter_equipment_1_short: "Meteor"
  IMP_jet_fighter_equipment_2: "Vickers Kestrel"
- IMP_small_plane_airframe_5: "Vickers Kestrel"
+ IMP_small_plane_airframe_5: "Викерс Кестрел" #NT!
  IMP_jet_fighter_equipment_2_short: "Kestrel"
- IMP_small_plane_airframe_5_short: "Kestrel"
+ IMP_small_plane_airframe_5_short: "Пустельга" #NT!
 
  IMP_nav_bomber_equipment_1: "Fairey Swordfish"
  IMP_nav_bomber_equipment_1_short: "Swordfish"
@@ -1341,7 +1341,7 @@
  IMP_jet_tac_bomber_equipment_2: "Fairey Edmonton"
  IMP_jet_tac_bomber_equipment_2_short: "Edmonton"
 
- IMP_large_plane_airframe_0_short: "Whitley"
+ IMP_large_plane_airframe_0_short: "Уитли" #NT!
  IMP_strat_bomber_equipment_1: "Vickers Wellington"
  IMP_strat_bomber_equipment_1_short: "Wellington"
  IMP_strat_bomber_equipment_2: "Vickers Waterloo"
@@ -1359,11 +1359,11 @@
 
  # Repurposed vanilla loc - see AW Atalanta, Bristol Bombay and HP Hastings
  IMP_transport_plane_equipment_1: "Bristol Atalanta"
- IMP_transport_plane_equipment_1_short: "Atalanta"
- IMP_transport_plane_equipment_2: "Bristol Bombay"
- IMP_transport_plane_equipment_2_short: "Bombay"
- IMP_transport_plane_equipment_3: "Bristol Hastings"
- IMP_transport_plane_equipment_3_short: "Hastings"
+ IMP_transport_plane_equipment_1_short: "Аталанта" #NT!
+ IMP_transport_plane_equipment_2: "Бристоль Бомбей" #NT!
+ IMP_transport_plane_equipment_2_short: "Бомбей" #NT!
+ IMP_transport_plane_equipment_3: "Бристоль Гастингс" #NT!
+ IMP_transport_plane_equipment_3_short: "Гастингс" #NT!
 
 ###
 ### CHI - LKMT ###
@@ -1378,42 +1378,42 @@
  CHI_fighter_equipment_3_short: "XP-2"
  CHI_cv_fighter_equipment_0: "$ITA_cv_fighter_equipment_0$"
  CHI_cv_fighter_equipment_0_short: "$ITA_cv_fighter_equipment_0_short$"
- CHI_cv_fighter_equipment_1: "Zhu XP-0"      # Gladiator
- CHI_cv_fighter_equipment_1_short: "XP-0"
- CHI_cv_fighter_equipment_2: "CAMCO XP-1"
- CHI_cv_fighter_equipment_2_short: "XP-1"
- CHI_cv_fighter_equipment_3: "XP-2"     # Sea Fury
- CHI_cv_fighter_equipment_3_short: "XP-2"
+ CHI_cv_fighter_equipment_1: "Чжу XP-0" #NT!
+ CHI_cv_fighter_equipment_1_short: "ХР-0" #NT!
+ CHI_cv_fighter_equipment_2: "КАМКО ХР-1" #NT!
+ CHI_cv_fighter_equipment_2_short: "ХР-1" #NT!
+ CHI_cv_fighter_equipment_3: "ХР-2" #NT!
+ CHI_cv_fighter_equipment_3_short: "ХР-2" #NT!
  CHI_jet_fighter_equipment_1: "CAMCO XP-1001"
  CHI_jet_fighter_equipment_1_short: "XP-1001"
 
- CHI_small_plane_naval_bomber_airframe_0_short: "Baffin"
+ CHI_small_plane_naval_bomber_airframe_0_short: "Баффин" #NT!
  CHI_nav_bomber_equipment_1: "$ENG_cv_nav_bomber_equipment_1$"
  CHI_nav_bomber_equipment_1_short: "$ENG_cv_nav_bomber_equipment_1_short$"
  CHI_nav_bomber_equipment_2: "$ENG_cv_nav_bomber_equipment_2$"
  CHI_nav_bomber_equipment_2_short: "$ENG_cv_nav_bomber_equipment_2_short$"
- CHI_nav_bomber_equipment_3: "Sea Wyvern"
- CHI_nav_bomber_equipment_3_short: "Sea Wyvern"
- CHI_cv_small_plane_naval_bomber_airframe_0_short: "Baffin"
+ CHI_nav_bomber_equipment_3: "Морская Виверна" #NT!
+ CHI_nav_bomber_equipment_3_short: "Морская Виверна" #NT!
+ CHI_cv_small_plane_naval_bomber_airframe_0_short: "Баффин" #NT!
  CHI_cv_nav_bomber_equipment_1: "$ENG_cv_nav_bomber_equipment_1$"
  CHI_cv_nav_bomber_equipment_1_short: "$ENG_cv_nav_bomber_equipment_1_short$"
  CHI_cv_nav_bomber_equipment_2: "$ENG_cv_nav_bomber_equipment_2$"
  CHI_cv_nav_bomber_equipment_2_short: "$ENG_cv_nav_bomber_equipment_2_short$"
- CHI_cv_nav_bomber_equipment_3: "Sea Wyvern"
- CHI_cv_nav_bomber_equipment_3_short: "Sea Wyvern"
+ CHI_cv_nav_bomber_equipment_3: "Морская Виверна" #NT!
+ CHI_cv_nav_bomber_equipment_3_short: "Морская Виверна" #NT!
 
  CHI_tac_bomber_equipment_0: "CAMCO Type Zhaowa-1"
  CHI_tac_bomber_equipment_0_short: "Zhaowa-1"
  CHI_tac_bomber_equipment_1_short: "XB-3"   # SM.81
- CHI_tac_bomber_equipment_2_short: "XB-4"
- CHI_tac_bomber_equipment_3_short: "XB-5"
- CHI_jet_tac_bomber_equipment_1_short: "H-5"
+ CHI_tac_bomber_equipment_2_short: "ХВ-4" #NT!
+ CHI_tac_bomber_equipment_3_short: "ХВ-5" #NT!
+ CHI_jet_tac_bomber_equipment_1_short: "Н-5" #NT!
 
- CHI_large_plane_airframe_0_short: "H-1"
- CHI_strat_bomber_equipment_1_short: "H-2"
- CHI_strat_bomber_equipment_2_short: "H-3"
- CHI_strat_bomber_equipment_3_short: "H-4"
- CHI_jet_strat_bomber_equipment_1: "H-5"
+ CHI_large_plane_airframe_0_short: "Н-1" #NT!
+ CHI_strat_bomber_equipment_1_short: "Н-2" #NT!
+ CHI_strat_bomber_equipment_2_short: "Н-3" #NT!
+ CHI_strat_bomber_equipment_3_short: "Н-4" #NT!
+ CHI_jet_strat_bomber_equipment_1: "Н-5" #NT!
 
  CHI_scout_plane_equipment_1: "Guanghou Rosamond"
  CHI_scout_plane_equipment_short_1: "Rosamond"
@@ -1458,9 +1458,9 @@
  CHL_jet_fighter_equipment_1: "Dassault Ouragan"
  CHL_jet_fighter_equipment_1_short: "Ouragan"
  CHL_jet_fighter_equipment_2: "Dassault Mystère"
- CHL_small_plane_airframe_5: "Dassault Mystère"
+ CHL_small_plane_airframe_5: "Дассо Мистер" #NT!
  CHL_jet_fighter_equipment_2_short: "Mystère"
- CHL_small_plane_airframe_5_short: "Mystère"
+ CHL_small_plane_airframe_5_short: "Мистер" #NT!
 
  CHL_nav_bomber_equipment_1: "Lioré-et-Olivier H.258"
  CHL_nav_bomber_equipment_1_short: "H.258"
@@ -1539,9 +1539,9 @@
  CRO_jet_fighter_equipment_1_short: "Bf.262"
  CRO_jet_fighter_equipment_1_desc: "Lagging behind in the development of jet fighters, Avia acquired a licence to produce the Bf 262 for the Fliegerkorps, replacing the German 30mm guns with locally-produced 20mm guns in their slightly-revised design."
  CRO_jet_fighter_equipment_2: "Letov L.52"
- CRO_small_plane_airframe_5: "Letov L.52"
+ CRO_small_plane_airframe_5: "Летов Л.52" #NT!
  CRO_jet_fighter_equipment_2_short: "L.52"
- CRO_small_plane_airframe_5_short: "L.52"
+ CRO_small_plane_airframe_5_short: "Л.52" #NT!
  CRO_jet_fighter_equipment_2_desc: "When Austro-Daimler developed the U2 'Uzelac' engine, Letov produced a state-of-the-art jet fighter that would become the Monarchy's first local jet aircraft adopted into service."
 
  CRO_nav_bomber_equipment_1: "Letov Š.328.v"
@@ -1618,15 +1618,15 @@
  WCA_CAS_equipment_2_short: "$USA_CAS_equipment_2_short$"
  WCA_cv_CAS_equipment_2: "$USA_cv_CAS_equipment_2$"
  WCA_cv_CAS_equipment_2_short: "$USA_cv_CAS_equipment_2_short$"
- WCA_CAS_equipment_3: "Consolidated A-33F Storm"
- WCA_CAS_equipment_3_short: "A-33F Storm"
+ WCA_CAS_equipment_3: "Объединенный А-33Ф Шторм" #NT!
+ WCA_CAS_equipment_3_short: "А-33Ф Шторм" #NT!
  WCA_cv_CAS_equipment_3: "$USA_cv_CAS_equipment_3$"
  WCA_cv_CAS_equipment_3_short: "$USA_cv_CAS_equipment_3_short$"
  WCA_small_plane_cas_airframe_4_short: "$USA_small_plane_cas_airframe_4_short$"
  WCA_cv_small_plane_cas_airframe_4_short: "$USA_cv_small_plane_cas_airframe_4_short$"
 
- WCA_fighter_equipment_0: "Consolidated P-1 Hawk"
- WCA_fighter_equipment_0_short: "P-1 Hawk"
+ WCA_fighter_equipment_0: "Объединенный P-1 Hawk" #NT!
+ WCA_fighter_equipment_0_short: "П-1 Ястреб" #NT!
  WCA_cv_fighter_equipment_0: "$USA_cv_fighter_equipment_0$"
  WCA_cv_fighter_equipment_0_short: "$USA_cv_fighter_equipment_0_short$"
  WCA_fighter_equipment_1: "$USA_fighter_equipment_1$"
@@ -1637,15 +1637,15 @@
  WCA_fighter_equipment_2_short: "$USA_fighter_equipment_2_short$"
  WCA_cv_fighter_equipment_2: "$USA_cv_fighter_equipment_2$"
  WCA_cv_fighter_equipment_2_short: "$USA_cv_fighter_equipment_2_short$"
- WCA_fighter_equipment_3: "Curtiss P-72 Bronco"
- WCA_fighter_equipment_3_short: "P-72 Bronco"
+ WCA_fighter_equipment_3: "Кёртисс P-72 Бронко" #NT!
+ WCA_fighter_equipment_3_short: "П-72 Бронко" #NT!
  WCA_cv_fighter_equipment_3: "$USA_cv_fighter_equipment_3$"
  WCA_cv_fighter_equipment_3_short: "$USA_cv_fighter_equipment_3_short$"
- WCA_jet_fighter_equipment_1: "Curtiss F-84 Thunderjet"
- WCA_jet_fighter_equipment_1_short: "F-84 Thunderjet"
- WCA_jet_fighter_equipment_2: "Curtiss F-84F Thunderstreak"
- WCA_jet_fighter_equipment_2_short: "F-84F Thunderstreak"
- WCA_small_plane_airframe_5_short: "F-84F Thunderstreak"
+ WCA_jet_fighter_equipment_1: "Кертисс F-84 Тандерджет" #NT!
+ WCA_jet_fighter_equipment_1_short: "F-84 Тандерджет" #NT!
+ WCA_jet_fighter_equipment_2: "Кертисс F-84F Тандерстрик" #NT!
+ WCA_jet_fighter_equipment_2_short: "F-84F Тандерстрик" #NT!
+ WCA_small_plane_airframe_5_short: "F-84F Тандерстрик" #NT!
  WCA_cv_small_plane_airframe_4_short: "$USA_cv_small_plane_airframe_4_short$"
 
  WCA_small_plane_naval_bomber_airframe_0_short: "$USA_small_plane_naval_bomber_airframe_0_short$"
@@ -1654,12 +1654,12 @@
  WCA_nav_bomber_equipment_1_short: "$USA_nav_bomber_equipment_1_short$"
  WCA_cv_nav_bomber_equipment_1: "$USA_cv_nav_bomber_equipment_1$"
  WCA_cv_nav_bomber_equipment_1_short: "$USA_cv_nav_bomber_equipment_1_short$"
- WCA_nav_bomber_equipment_2: "Consolidated TBY Sea Wolf"
- WCA_nav_bomber_equipment_2_short: "TBY Sea Wolf"
+ WCA_nav_bomber_equipment_2: "Консолидированный TBY Sea Wolf" #NT!
+ WCA_nav_bomber_equipment_2_short: "TBY Морской Волк" #NT!
  WCA_cv_nav_bomber_equipment_2: "$USA_cv_nav_bomber_equipment_2$"
  WCA_cv_nav_bomber_equipment_2_short: "$USA_cv_nav_bomber_equipment_2_short$"
- WCA_nav_bomber_equipment_3: "Brewster SB2A-4 Buccaneer"
- WCA_nav_bomber_equipment_3_short: "SB2A-4 Buccaneer"
+ WCA_nav_bomber_equipment_3: "Брюстер SB2A-4 Пират" #NT!
+ WCA_nav_bomber_equipment_3_short: "SB2A-4 Пират" #NT!
  WCA_cv_nav_bomber_equipment_3: "$USA_cv_nav_bomber_equipment_3$"
  WCA_cv_nav_bomber_equipment_3_short: "$USA_cv_nav_bomber_equipment_3_short$"
  WCA_small_plane_naval_bomber_airframe_4_short: "$USA_small_plane_naval_bomber_airframe_4_short$"
@@ -1668,34 +1668,34 @@
  WCA_medium_plane_fighter_airframe_0_short: "$USA_medium_plane_fighter_airframe_0_short$"
  WCA_heavy_fighter_equipment_1: "$USA_heavy_fighter_equipment_1$"
  WCA_heavy_fighter_equipment_1_short: "$USA_heavy_fighter_equipment_1_short$"
- WCA_heavy_fighter_equipment_2: "Douglas P-70 Havoc"
- WCA_heavy_fighter_equipment_2_short: "P-70 Havoc"
- WCA_heavy_fighter_equipment_3: "Northrop P-61 Black Widow"
- WCA_heavy_fighter_equipment_3_short: "P-61 Black Widow"
+ WCA_heavy_fighter_equipment_2: "Дуглас П-70 Хэвок" #NT!
+ WCA_heavy_fighter_equipment_2_short: "P-70 Хаос" #NT!
+ WCA_heavy_fighter_equipment_3: "Нортроп P-61 Черная Вдова" #NT!
+ WCA_heavy_fighter_equipment_3_short: "P-61 Черная Вдова" #NT!
  WCA_medium_plane_fighter_airframe_4_short: "$USA_medium_plane_fighter_airframe_4_short$"
 
  WCA_tac_bomber_equipment_0: "$USA_tac_bomber_equipment_0$"
  WCA_tac_bomber_equipment_0_short: "$USA_tac_bomber_equipment_0_short$"
  WCA_tac_bomber_equipment_1: "$USA_tac_bomber_equipment_1$"
  WCA_tac_bomber_equipment_1_short: "$USA_tac_bomber_equipment_1_short$"
- WCA_tac_bomber_equipment_2: "Douglas A-26 Invader"
- WCA_tac_bomber_equipment_2_short: "A-26 Invader"
- WCA_tac_bomber_equipment_3: "Martin B-27 Bandit"
- WCA_tac_bomber_equipment_3_short: "B-27 Bandit"
- WCA_jet_tac_bomber_equipment_1: "Douglas B-43 Jetmaster"
- WCA_jet_tac_bomber_equipment_1_short: "B-43 Jetmaster"
- WCA_jet_tac_bomber_equipment_2: "Martin B-51 Flash"
- WCA_jet_tac_bomber_equipment_2_short: "B-51 Flash"
+ WCA_tac_bomber_equipment_2: "Дуглас А-26 Инвейдер" #NT!
+ WCA_tac_bomber_equipment_2_short: "А-26 Инвайдер" #NT!
+ WCA_tac_bomber_equipment_3: "Мартин Б-27 Бандит" #NT!
+ WCA_tac_bomber_equipment_3_short: "Б-27 Бандит" #NT!
+ WCA_jet_tac_bomber_equipment_1: "Дуглас B-43 Джетмастер" #NT!
+ WCA_jet_tac_bomber_equipment_1_short: "Б-43 Джетмастер" #NT!
+ WCA_jet_tac_bomber_equipment_2: "Мартин Б-51 Флэш" #NT!
+ WCA_jet_tac_bomber_equipment_2_short: "Б-51 Флэш" #NT!
 
  WCA_large_plane_airframe_0_short: "$USA_large_plane_airframe_0_short$"
  WCA_strat_bomber_equipment_1: "$USA_strat_bomber_equipment_1$"
  WCA_strat_bomber_equipment_1_short: "$USA_strat_bomber_equipment_1_short$"
- WCA_strat_bomber_equipment_2: "Boeing B-20 Citadel"
- WCA_strat_bomber_equipment_2_short: "B-20 Citadel"
- WCA_strat_bomber_equipment_3: "Consolidated B-32 Dominator"
- WCA_strat_bomber_equipment_3_short: "B-32 Dominator"
- WCA_jet_strat_bomber_equipment_1: "Boeing B-47 Stratojet"
- WCA_jet_strat_bomber_equipment_1_short: "B-47 Stratojet"
+ WCA_strat_bomber_equipment_2: "Боинг Б-20 Цитадель" #NT!
+ WCA_strat_bomber_equipment_2_short: "Б-20 Цитадель" #NT!
+ WCA_strat_bomber_equipment_3: "Консолидированный B-32 Доминатор" #NT!
+ WCA_strat_bomber_equipment_3_short: "Б-32 Доминатор" #NT!
+ WCA_jet_strat_bomber_equipment_1: "Боинг Б-47 Стратоджет" #NT!
+ WCA_jet_strat_bomber_equipment_1_short: "Б-47 Стратоджет" #NT!
 
  WCA_large_plane_maritime_patrol_plane_airframe_0_short: "$USA_large_plane_maritime_patrol_plane_airframe_0_short$"
  WCA_large_plane_maritime_patrol_plane_airframe_1_short: "$USA_large_plane_maritime_patrol_plane_airframe_1_short$"
@@ -1709,10 +1709,10 @@
  WCA_medium_plane_scout_plane_airframe_3_short: "$USA_medium_plane_scout_plane_airframe_3_short$"
  WCA_medium_plane_scout_plane_airframe_4_short: "$USA_medium_plane_scout_plane_airframe_4_short$"
 
- WCA_scout_plane_equipment_1: "Douglas O-46"
- WCA_scout_plane_equipment_1_short: "O-46"
- WCA_scout_plane_equipment_2: "Stinson O-49"
- WCA_scout_plane_equipment_2_short: "O-49"
+ WCA_scout_plane_equipment_1: "Дуглас О-46" #NT!
+ WCA_scout_plane_equipment_1_short: "О-46" #NT!
+ WCA_scout_plane_equipment_2: "Стинсон О-49" #NT!
+ WCA_scout_plane_equipment_2_short: "О-49" #NT!
 
  WCA_transport_plane_equipment_1: "$USA_transport_plane_equipment_1$"
  WCA_transport_plane_equipment_1_short: "$USA_transport_plane_equipment_1_short$"
@@ -1786,9 +1786,9 @@
  CZE_jet_fighter_equipment_1_short: "Bf.262"
  CZE_jet_fighter_equipment_1_desc: "Lagging behind in the development of jet fighters, Avia acquired a licence to produce the Bf 262 for the Fliegerkorps, replacing the German 30mm guns with locally-produced 20mm guns in their slightly-revised design."
  CZE_jet_fighter_equipment_2: "Letov L.52"
- CZE_small_plane_airframe_5: "Letov L.52"
+ CZE_small_plane_airframe_5: "Летов Л.52" #NT!
  CZE_jet_fighter_equipment_2_short: "L.52"
- CZE_small_plane_airframe_5_short: "L.52"
+ CZE_small_plane_airframe_5_short: "Л.52" #NT!
  CZE_jet_fighter_equipment_2_desc: "When Austro-Daimler developed the U2 'Uzelac' engine, Letov produced a state-of-the-art jet fighter that would become the Monarchy's first local jet aircraft adopted into service."
 
  CZE_nav_bomber_equipment_1: "Letov Š.328.v"
@@ -2206,61 +2206,61 @@
 ### RAJ - Dominion of India ###
 ###
 
- RAJ_CAS_equipment_1: "Fairey Battle"
- RAJ_CAS_equipment_1_short: "Battle"
- RAJ_cv_CAS_equipment_1: "Fairey Battle"
- RAJ_cv_CAS_equipment_1_short: "Battle"
- RAJ_CAS_equipment_2: "Bristol Bisley"
- RAJ_CAS_equipment_2_short: "Bisley"
- RAJ_cv_CAS_equipment_2: "Bristol Bisley"
- RAJ_cv_CAS_equipment_2_short: "Bisley"
- RAJ_CAS_equipment_3: "Bristol Brigand"
- RAJ_CAS_equipment_3_short: "Brigand"
- RAJ_cv_CAS_equipment_3: "Bristol Brigand"
- RAJ_cv_CAS_equipment_3_short: "Brigand"
+ RAJ_CAS_equipment_1: "Фейри Бэттл"
+ RAJ_CAS_equipment_1_short: "Бэттл"
+ RAJ_cv_CAS_equipment_1: "Фейри Бэттл"
+ RAJ_cv_CAS_equipment_1_short: "Бэттл"
+ RAJ_CAS_equipment_2: "Бристоль Бисли"
+ RAJ_CAS_equipment_2_short: "Бисли"
+ RAJ_cv_CAS_equipment_2: "Бристоль Бисли"
+ RAJ_cv_CAS_equipment_2_short: "Бисли"
+ RAJ_CAS_equipment_3: "Бристоль Бриганд"
+ RAJ_CAS_equipment_3_short: "Бриганд"
+ RAJ_cv_CAS_equipment_3: "Бристоль Бриганд"
+ RAJ_cv_CAS_equipment_3_short: "Бриганд"
 
- RAJ_fighter_equipment_0: "Gloster Gladiator"
- RAJ_fighter_equipment_0_short: "Gladiator"
- RAJ_cv_fighter_equipment_0: "Gloster Gladiator"
- RAJ_cv_fighter_equipment_0_short: "Gladiator"
- RAJ_fighter_equipment_1: "Vickers Venom"
- RAJ_fighter_equipment_1_short: "Venom"
- RAJ_cv_fighter_equipment_1: "Vickers Sea Venom"
- RAJ_cv_fighter_equipment_1_short: "Sea Venom"
- RAJ_fighter_equipment_2: "Gloster Paladin"
- RAJ_fighter_equipment_2_short: "Paladin"
- RAJ_cv_fighter_equipment_2: "Fairey Fulmar"
- RAJ_cv_fighter_equipment_2_short: "Fulmar"
- RAJ_fighter_equipment_3: "Martin-Baker Vindicator"
- RAJ_fighter_equipment_3_short: "Vindicator"
- RAJ_cv_fighter_equipment_3: "Fairey Firefly"
- RAJ_cv_fighter_equipment_3_short: "Firefly"
- RAJ_jet_fighter_equipment_1: "Gloster Meteor"
- RAJ_jet_fighter_equipment_1_short: "Meteor"
- RAJ_jet_fighter_equipment_2: "Vickers Kestrel"
- RAJ_small_plane_airframe_5: "Vickers Kestrel"
- RAJ_jet_fighter_equipment_2_short: "Kestrel"
- RAJ_small_plane_airframe_5_short: "Kestrel"
+ RAJ_fighter_equipment_0: "Глостер Гладиатор"
+ RAJ_fighter_equipment_0_short: "Гладиатор"
+ RAJ_cv_fighter_equipment_0: "Глостер Гладиатор"
+ RAJ_cv_fighter_equipment_0_short: "Гладиатор"
+ RAJ_fighter_equipment_1: "Виккерс Веном"
+ RAJ_fighter_equipment_1_short: "Веном"
+ RAJ_cv_fighter_equipment_1: "Авианосный Виккерс Веном"
+ RAJ_cv_fighter_equipment_1_short: "Веном"
+ RAJ_fighter_equipment_2: "Глостер Паладин"
+ RAJ_fighter_equipment_2_short: "Паладин"
+ RAJ_cv_fighter_equipment_2: "Фейри Фулмар"
+ RAJ_cv_fighter_equipment_2_short: "Фулмар"
+ RAJ_fighter_equipment_3: "Мартин-Бейкер Виндикатор"
+ RAJ_fighter_equipment_3_short: "Виндикатор"
+ RAJ_cv_fighter_equipment_3: "Фейри Файрфлай"
+ RAJ_cv_fighter_equipment_3_short: "Файрфлай"
+ RAJ_jet_fighter_equipment_1: "Глостер Метеор"
+ RAJ_jet_fighter_equipment_1_short: "Метеор"
+ RAJ_jet_fighter_equipment_2: "Виккерс Кестрел"
+ RAJ_small_plane_airframe_5: "Викерс Кестрел" #NT!
+ RAJ_jet_fighter_equipment_2_short: "Кестрел"
+ RAJ_small_plane_airframe_5_short: "Пустельга" #NT!
 
- RAJ_nav_bomber_equipment_1: "Fairey Swordfish"
- RAJ_nav_bomber_equipment_1_short: "Swordfish"
- RAJ_cv_nav_bomber_equipment_1: "Fairey Swordfish"
- RAJ_cv_nav_bomber_equipment_1_short: "Swordfish"
- RAJ_nav_bomber_equipment_2: "Fairey Albacore"
- RAJ_nav_bomber_equipment_2_short: "Albacore"
- RAJ_cv_nav_bomber_equipment_2: "Fairey Albacore"
- RAJ_cv_nav_bomber_equipment_2_short: "Albacore"
- RAJ_nav_bomber_equipment_3: "Fairey Barracuda"
- RAJ_nav_bomber_equipment_3_short: "Barracuda"
- RAJ_cv_nav_bomber_equipment_3: "Fairey Barracuda"
- RAJ_cv_nav_bomber_equipment_3_short: "Barracuda"
+ RAJ_nav_bomber_equipment_1: "Фейри Свордфиш"
+ RAJ_nav_bomber_equipment_1_short: "Свордфиш"
+ RAJ_cv_nav_bomber_equipment_1: "Фейри Свордфиш"
+ RAJ_cv_nav_bomber_equipment_1_short: "Свордфиш"
+ RAJ_nav_bomber_equipment_2: "Фейри Альбакор"
+ RAJ_nav_bomber_equipment_2_short: "Альбакор"
+ RAJ_cv_nav_bomber_equipment_2: "Фейри Альбакор"
+ RAJ_cv_nav_bomber_equipment_2_short: "Альбакор"
+ RAJ_nav_bomber_equipment_3: "Фейри Барракуда"
+ RAJ_nav_bomber_equipment_3_short: "Барракуда"
+ RAJ_cv_nav_bomber_equipment_3: "Фейри Барракуда"
+ RAJ_cv_nav_bomber_equipment_3_short: "Барракуда"
 
- RAJ_heavy_fighter_equipment_1: "Bristol Beaufighter"
- RAJ_heavy_fighter_equipment_1_short: "Beaufighter"
- RAJ_heavy_fighter_equipment_2: "Gloster Reaper"
- RAJ_heavy_fighter_equipment_2_short: "Reaper"
- RAJ_heavy_fighter_equipment_3: "Vickers Falcon"
- RAJ_heavy_fighter_equipment_3_short: "Falcon"
+ RAJ_heavy_fighter_equipment_1: "Бристоль Бефайтер"
+ RAJ_heavy_fighter_equipment_1_short: "Бефайтер"
+ RAJ_heavy_fighter_equipment_2: "Глостер Рипер"
+ RAJ_heavy_fighter_equipment_2_short: "Рипер"
+ RAJ_heavy_fighter_equipment_3: "Виккерс Фэлкон"
+ RAJ_heavy_fighter_equipment_3_short: "Фэлкон"
 
  RAJ_tac_bomber_equipment_0: "Fairey Hendon"
  RAJ_tac_bomber_equipment_0_short: "Hendon"
@@ -2386,8 +2386,8 @@
  DEN_CAS_equipment_1_short: "KZ IIA"
  DEN_CAS_equipment_1_desc: "Within months of its founding, SAI, Skandinavisk Aero Industri, founded by two found technically proficient aircraft enthusiasts, produced two different sport planes. Their second model drew interest from the Danish military, which eventually contracted for the production of a ground attack variant on the craft."
 
- DEN_fighter_equipment_0: "Gloster Gladiator"
- DEN_fighter_equipment_0_short: "Gladiator"
+ DEN_fighter_equipment_0: "Глостер Гладиатор"
+ DEN_fighter_equipment_0_short: "Гладиатор"
  DEN_fighter_equipment_1: "Fokker D.XXI"
  DEN_fighter_equipment_1_short: "D.XXI"
 
@@ -2446,9 +2446,9 @@
  ENG_jet_fighter_equipment_1: "de Havilland Vampire"
  ENG_jet_fighter_equipment_1_short: "Vampire"
  ENG_jet_fighter_equipment_2: "Hawker Star"
- ENG_small_plane_airframe_5: "Hawker Star"
+ ENG_small_plane_airframe_5: "Хокер Стар" #NT!
  ENG_jet_fighter_equipment_2_short: "Star"
- ENG_small_plane_airframe_5_short: "Star"
+ ENG_small_plane_airframe_5_short: "Звезда" #NT!
 
  ENG_nav_bomber_equipment_1: "Blackburn Baffin"
  ENG_nav_bomber_equipment_1_short: "Baffin"
@@ -2503,155 +2503,155 @@
 ### Names stand for pre-1940 soviet name abbreviation type - First name letter, patronymic letter and family name letter.
 
  #Su-2:
- FER_CAS_equipment_1: "Bombardirovshchik POS-1"
- FER_CAS_equipment_1_short: "POS-1"
+ FER_CAS_equipment_1: "Бомбардировщик ПОС-1" #NT!
+ FER_CAS_equipment_1_short: "ПОС-1" #NT!
  #DI-6 modified CV:
- FER_cv_CAS_equipment_1: "Samolyot morskoy aviatsii SAK-7"
- FER_cv_CAS_equipment_1_short: "SAK-7"
+ FER_cv_CAS_equipment_1: "Самолёт морской авиации САК-7" #NT!
+ FER_cv_CAS_equipment_1_short: "САК-7" #NT!
  #Su-6:
- FER_CAS_equipment_2: "Shturmovik POS-6"
- FER_CAS_equipment_2_short: "POS-6"
+ FER_CAS_equipment_2: "Штурмовик ПОС-6" #NT!
+ FER_CAS_equipment_2_short: "ПОС-6" #NT!
  #OPB-5:
- FER_cv_CAS_equipment_2: "Samolyot morskoy aviatsii SAK-5"
- FER_cv_CAS_equipment_2_short: "SAK-5"
+ FER_cv_CAS_equipment_2: "Самолёт морской авиации САК-5" #NT!
+ FER_cv_CAS_equipment_2_short: "САК-5" #NT!
  #Il-10:
- FER_CAS_equipment_3: "Shturmovik SVI-10"
- FER_CAS_equipment_3_short: "SVI-10"
+ FER_CAS_equipment_3: "Штурмовик СВИ-10" #NT!
+ FER_CAS_equipment_3_short: "СВИ-10" #NT!
  #PT-1-M82:
- FER_cv_CAS_equipment_3: "Samolyot morskoy aviatsii IVCh-8"
- FER_cv_CAS_equipment_3_short: "IVCh-8"
+ FER_cv_CAS_equipment_3: "Самолёт морской авиации ИВЧ-8" #NT!
+ FER_cv_CAS_equipment_3_short: "ИВЧ-8" #NT!
 
  #I-15:
- FER_fighter_equipment_0: "Istrebitel NNP-15"
- FER_fighter_equipment_0_short: "NNP-15"
+ FER_fighter_equipment_0: "Истребитель ННП-15" #NT!
+ FER_fighter_equipment_0_short: "ННП-15" #NT!
  #DI-6 CV:
- FER_cv_fighter_equipment_0: "Samolyot morskoy aviatsii SAK-6P"
- FER_cv_fighter_equipment_0_short: "SAK-6P"
+ FER_cv_fighter_equipment_0: "Самолёт морской авиации САК-6П" #NT!
+ FER_cv_fighter_equipment_0_short: "САК-6П" #NT!
  #I-16:
- FER_fighter_equipment_1: "Istrebitel NNP-16"
- FER_fighter_equipment_1_short: "NNP-16"
+ FER_fighter_equipment_1: "Истребитель ННП-16" #NT!
+ FER_fighter_equipment_1_short: "ННП-16" #NT!
  #Seversky P-35 changed CV:
- FER_cv_fighter_equipment_1: "Samolyot morskoy aviatsii ANS-3P"
- FER_cv_fighter_equipment_1_short: "ANS-3P"
+ FER_cv_fighter_equipment_1: "Самолёт морской авиации АНС-3П" #NT!
+ FER_cv_fighter_equipment_1_short: "АНС-3П" #NT!
  #La-5:
- FER_fighter_equipment_2: "Istrebitel SAL-25"
- FER_fighter_equipment_2_short: "SAL-25"
+ FER_fighter_equipment_2: "Истребитель САЛ-25" #NT!
+ FER_fighter_equipment_2_short: "САЛ-25" #NT!
  #Republic P-43 CV:
- FER_cv_fighter_equipment_2: "Samolyot morskoy aviatsii ANS-4P"
- FER_cv_fighter_equipment_2_short: "ANS-4P"
+ FER_cv_fighter_equipment_2: "Самолёт морской авиации АНС-4П" #NT!
+ FER_cv_fighter_equipment_2_short: "АНС-4П" #NT!
  #La-7:
- FER_fighter_equipment_3: "Istrebitel SAL-44"
- FER_fighter_equipment_3_short: "SAL-44"
+ FER_fighter_equipment_3: "Истребитель САЛ-44" #NT!
+ FER_fighter_equipment_3_short: "САЛ-44" #NT!
  #OPB-5 fighter modification:
- FER_cv_fighter_equipment_3: "Samolyot morskoy aviatsii IVCh-7"
- FER_cv_fighter_equipment_3_short: "IVCh-7"
+ FER_cv_fighter_equipment_3: "Самолёт морской авиации ИВЧ-7" #NT!
+ FER_cv_fighter_equipment_3_short: "ИВЧ-7" #NT!
  #Yak-17:
- FER_jet_fighter_equipment_1: "Istrebitel ASYa-117"
- FER_jet_fighter_equipment_1_short: "ASYa-117"
+ FER_jet_fighter_equipment_1: "Истребитель АСЯ-117" #NT!
+ FER_jet_fighter_equipment_1_short: "АСЯ-117" #NT!
  #Yak-50:
- FER_jet_fighter_equipment_2: "Istrebitel ASYa-5"
- FER_small_plane_airframe_5: "Istrebitel ASYa-5"
- FER_jet_fighter_equipment_2_short: "ASYa-5"
- FER_small_plane_airframe_5_short: "ASYa-5"
+ FER_jet_fighter_equipment_2: "Истребитель АСЯ-5" #NT!
+ FER_small_plane_airframe_5: "Истребитель АСЯ-5" #NT!
+ FER_jet_fighter_equipment_2_short: "АСЯ-5" #NT!
+ FER_small_plane_airframe_5_short: "АСЯ-5" #NT!
 
- FER_large_plane_maritime_patrol_plane_airframe_0: "Morskoy Bombardirovshchik MTB-1"
- FER_large_plane_maritime_patrol_plane_airframe_0_short: "MTB-1"
- FER_large_plane_maritime_patrol_plane_airframe_1: "Morskoy Bombardirovshchik MTB-2"
- FER_large_plane_maritime_patrol_plane_airframe_1_short: "MTB-2"
- FER_large_plane_maritime_patrol_plane_airframe_2: "Morskoy Bombardirovshchik MTB-3"
- FER_large_plane_maritime_patrol_plane_airframe_2_short: "MTB-3"
- FER_large_plane_maritime_patrol_plane_airframe_3: "Morskoy Bombardirovshchik MTB-4"
- FER_large_plane_maritime_patrol_plane_airframe_3_short: "MTB-4"
- FER_large_plane_maritime_patrol_plane_airframe_4: "Morskoy Bombardirovshchik MTB-5"
- FER_large_plane_maritime_patrol_plane_airframe_4_short: "MTB-5"
+ FER_large_plane_maritime_patrol_plane_airframe_0: "Морской Бомбардировщик МТБ-1" #NT!
+ FER_large_plane_maritime_patrol_plane_airframe_0_short: "МТБ-1" #NT!
+ FER_large_plane_maritime_patrol_plane_airframe_1: "Морской Бомбардировщик МТБ-2" #NT!
+ FER_large_plane_maritime_patrol_plane_airframe_1_short: "МТБ-2" #NT!
+ FER_large_plane_maritime_patrol_plane_airframe_2: "Морской Бомбардировщик МТБ-3" #NT!
+ FER_large_plane_maritime_patrol_plane_airframe_2_short: "МТБ-3" #NT!
+ FER_large_plane_maritime_patrol_plane_airframe_3: "Морской Бомбардировщик МТБ-4" #NT!
+ FER_large_plane_maritime_patrol_plane_airframe_3_short: "МТБ-4" #NT!
+ FER_large_plane_maritime_patrol_plane_airframe_4: "Морской Бомбардировщик МТБ-5" #NT!
+ FER_large_plane_maritime_patrol_plane_airframe_4_short: "МТБ-5" #NT!
 
  #BSh-1 (Vultee-11):
- FER_nav_bomber_equipment_1: "Samolyot morskoy aviatsii SAK-1"
- FER_nav_bomber_equipment_1_short: "SAK-1"
+ FER_nav_bomber_equipment_1: "Самолёт морской авиации САК-1" #NT!
+ FER_nav_bomber_equipment_1_short: "САК-1" #NT!
  #DI-6 modified in torpedo composition:
- FER_cv_nav_bomber_equipment_1: "Samolyot morskoy aviatsii SAK-7T"
- FER_cv_nav_bomber_equipment_1_short: "SAK-7T"
+ FER_cv_nav_bomber_equipment_1: "Самолёт морской авиации САК-7Т" #NT!
+ FER_cv_nav_bomber_equipment_1_short: "САК-7Т" #NT!
  #Il-2T:
- FER_nav_bomber_equipment_2: "Samolyot morskoy aviatsii SVI-2T"
- FER_nav_bomber_equipment_2_short: "SVI-2T"
+ FER_nav_bomber_equipment_2: "Самолёт морской авиации СВИ-2Т" #NT!
+ FER_nav_bomber_equipment_2_short: "СВИ-2Т" #NT!
  #OPB-5 in torpedo composition:
- FER_cv_nav_bomber_equipment_2: "Samolyot morskoy aviatsii IVCh-7T"
- FER_cv_nav_bomber_equipment_2_short: "IVCh-7T"
+ FER_cv_nav_bomber_equipment_2: "Самолёт морской авиации ИВЧ-7Т" #NT!
+ FER_cv_nav_bomber_equipment_2_short: "ИВЧ-7Т" #NT!
  #PT-82:
- FER_nav_bomber_equipment_3: "Samolyot morskoy aviatsii IVCh-82A"
- FER_nav_bomber_equipment_3_short: "IVCh-82A"
+ FER_nav_bomber_equipment_3: "Самолёт морской авиации ИВЧ-82А" #NT!
+ FER_nav_bomber_equipment_3_short: "ИВЧ-82А" #NT!
  #PT-82:
- FER_cv_nav_bomber_equipment_3: "Samolyot morskoy aviatsii IVCh-82"
- FER_cv_nav_bomber_equipment_3_short: "IVCh-82"
+ FER_cv_nav_bomber_equipment_3: "Самолёт морской авиации ИВЧ-82" #NT!
+ FER_cv_nav_bomber_equipment_3_short: "ИВЧ-82" #NT!
 
  #ANT-46:
- FER_heavy_fighter_equipment_1: "Istrebitel ANT-8"
- FER_heavy_fighter_equipment_1_short: "ANT-8"
+ FER_heavy_fighter_equipment_1: "Истребитель АНТ-8" #NT!
+ FER_heavy_fighter_equipment_1_short: "АНТ-8" #NT!
  #Ta-3:
- FER_heavy_fighter_equipment_2: "Istrebitel VKT-3"
- FER_heavy_fighter_equipment_2_short: "VKT-3"
+ FER_heavy_fighter_equipment_2: "Истребитель ВКТ-3" #NT!
+ FER_heavy_fighter_equipment_2_short: "ВКТ-3" #NT!
  #TIS (MA):
- FER_heavy_fighter_equipment_3: "Istrebitel NNP-4"
- FER_heavy_fighter_equipment_3_short: "NNP-4"
+ FER_heavy_fighter_equipment_3: "Истребитель ННП-4" #NT!
+ FER_heavy_fighter_equipment_3_short: "ННП-4" #NT!
 
  #ANT-7:
- FER_tac_bomber_equipment_0: "Razvedchik ANT-6"
- FER_tac_bomber_equipment_0_short: "ANT-6"
+ FER_tac_bomber_equipment_0: "Разведчик АНТ-6" #NT!
+ FER_tac_bomber_equipment_0_short: "АНТ-6" #NT!
  #DB-3:
- FER_tac_bomber_equipment_1: "Bombardirovshchik SVI-3"
- FER_tac_bomber_equipment_1_short: "SVI-3"
+ FER_tac_bomber_equipment_1: "Бомбардировщик СВИ-3" #NT!
+ FER_tac_bomber_equipment_1_short: "СВИ-3" #NT!
  #Tu-2:
- FER_tac_bomber_equipment_2: "Bombardirovshchik ANT-2"
- FER_tac_bomber_equipment_2_short: "ANT-2"
+ FER_tac_bomber_equipment_2: "Бомбардиратор АНТ-2" #NT!
+ FER_tac_bomber_equipment_2_short: "АНТ-2" #NT!
  #Tu-10:
- FER_tac_bomber_equipment_3: "Bombardirovshchik ANT-4"
- FER_tac_bomber_equipment_3_short: "ANT-4"
+ FER_tac_bomber_equipment_3: "Бомбардиратор АНТ-4" #NT!
+ FER_tac_bomber_equipment_3_short: "АНТ-4" #NT!
  #Tu-14:
- FER_jet_tac_bomber_equipment_1: "Bombardirovshchik ANT-14"
- FER_jet_tac_bomber_equipment_1_short: "ANT-14"
+ FER_jet_tac_bomber_equipment_1: "Бомбардиратор АНТ-14" #NT!
+ FER_jet_tac_bomber_equipment_1_short: "АНТ-14" #NT!
  #Il-30:
- FER_jet_tac_bomber_equipment_2: "Bombardirovshchik SVI-30"
- FER_jet_tac_bomber_equipment_2_short: "SVI-30"
+ FER_jet_tac_bomber_equipment_2: "Бомбардировщик СВИ-30" #NT!
+ FER_jet_tac_bomber_equipment_2_short: "СВИ-30" #NT!
 
  #Pe-8:
- FER_strat_bomber_equipment_1: "Bombardirovshchik VMP-7"
- FER_strat_bomber_equipment_1_short: "VMP-7"
+ FER_strat_bomber_equipment_1: "Бомбардировщик ВМП-7" #NT!
+ FER_strat_bomber_equipment_1_short: "ВМП-7" #NT!
  #Airplane T:
- FER_strat_bomber_equipment_2: "Bombardirovshchik VMP-8"
- FER_strat_bomber_equipment_2_short: "VMP-8"
+ FER_strat_bomber_equipment_2: "Бомбардировщик ВМП-8" #NT!
+ FER_strat_bomber_equipment_2_short: "ВМП-8" #NT!
  #DVB-302:
- FER_strat_bomber_equipment_3: "Bombardirovshchik VMM-3"
- FER_strat_bomber_equipment_3_short: "VMM-3"
+ FER_strat_bomber_equipment_3: "Бомбардировщик ВММ-3" #NT!
+ FER_strat_bomber_equipment_3_short: "ВММ-3" #NT!
  #Tu-16 changed:
- FER_jet_strat_bomber_equipment_1: "Bombardirovshchik ANT-16"
- FER_jet_strat_bomber_equipment_1_short: "ANT-16"
+ FER_jet_strat_bomber_equipment_1: "Бомбардировщик АНТ-16" #NT!
+ FER_jet_strat_bomber_equipment_1_short: "АНТ-16" #NT!
 
  #Ant-49 scout, a SB modification:
- FER_scout_plane_equipment_1: "Razvedchik ANT-49"
- FER_scout_plane_equipment_1_short: "ANT-49"
+ FER_scout_plane_equipment_1: "Разведчик АНТ-49" #NT!
+ FER_scout_plane_equipment_1_short: "АНТ-49" #NT!
  #Pe-2 scout:
- FER_scout_plane_equipment_2: "Razvedchik VMP-100"
- FER_scout_plane_equipment_2_short: "VMP-100"
+ FER_scout_plane_equipment_2: "Разведчик ВМП-100" #NT!
+ FER_scout_plane_equipment_2_short: "ВМП-100" #NT!
 
  #BI-1:
- FER_rocket_interceptor_equipment_1: "Samolyot 'Perekhvatchik'"
- FER_rocket_interceptor_equipment_1_short: "Perekhvatchik"
+ FER_rocket_interceptor_equipment_1: "Самолет 'Перехватчик'" #NT!
+ FER_rocket_interceptor_equipment_1_short: "Перехватчик" #NT!
  #Malyutka:
- FER_rocket_interceptor_equipment_2: "Samolyot-perekhvatchik 'Malyutka'"
- FER_rocket_interceptor_equipment_2_short: "Malyutka"
+ FER_rocket_interceptor_equipment_2: "Самолет-перехватчик "Малютка"" #NT!
+ FER_rocket_interceptor_equipment_2_short: "Малютка" #NT!
  #302P:
- FER_rocket_interceptor_equipment_3: "Samolyot-perekhvatchik IRDP"
+ FER_rocket_interceptor_equipment_3: "Самолёт-перехватчик ИРДП" #NT!
  FER_rocket_interceptor_equipment_3_short: "IRDP"
 
  #ANT-9:
- FER_transport_plane_equipment_1: "Gruzovoy samolyot ANT-9"
- FER_transport_plane_equipment_1_short: "ANT-9"
+ FER_transport_plane_equipment_1: "Грузовой самолет АНТ-9" #NT!
+ FER_transport_plane_equipment_1_short: "АНТ-9" #NT!
  #Yak-6:
- FER_transport_plane_equipment_2: "Gruzovoy samolyot ASYa-6"
- FER_transport_plane_equipment_2_short: "ASYa-6"
+ FER_transport_plane_equipment_2: "Грузовой самолет АСЯ-6" #NT!
+ FER_transport_plane_equipment_2_short: "АСЯ-6" #NT!
  #Il-12D:
- FER_transport_plane_equipment_3: "Gruzovoy samolyot SVI-12"
- FER_transport_plane_equipment_3_short: "SVI-12"
+ FER_transport_plane_equipment_3: "Грузовой самолет СВИ-12" #NT!
+ FER_transport_plane_equipment_3_short: "СВИ-12" #NT!
 
 ### FIN - Kingdom of Finland ###
 ###
@@ -2680,9 +2680,9 @@
  FIN_jet_fighter_equipment_1: "SAAB J 21R"
  FIN_jet_fighter_equipment_1_short: "J 21R"
  FIN_jet_fighter_equipment_2: "SAAB 29 Tunnan"
- FIN_small_plane_airframe_5: "SAAB 29 Tunnan"
+ FIN_small_plane_airframe_5: "СААБ 29 Туннан" #NT!
  FIN_jet_fighter_equipment_2_short: "SAAB 29"
- FIN_small_plane_airframe_5_short: "SAAB 29"
+ FIN_small_plane_airframe_5_short: "СААБ 29" #NT!
 
  FIN_nav_bomber_equipment_1: "Blackburn Ripon"
  FIN_nav_bomber_equipment_1_short: "Ripon"
@@ -2783,9 +2783,9 @@
  FOP_jet_fighter_equipment_1: "Dassault Ouragan"
  FOP_jet_fighter_equipment_1_short: "Ouragan"
  FOP_jet_fighter_equipment_2: "Dassault Mystère"
- FOP_small_plane_airframe_5: "Dassault Mystère"
+ FOP_small_plane_airframe_5: "Дассо Мистер" #NT!
  FOP_jet_fighter_equipment_2_short: "Mystère"
- FOP_small_plane_airframe_5_short: "Mystère"
+ FOP_small_plane_airframe_5_short: "Мистер" #NT!
 
  FOP_nav_bomber_equipment_1: "Lioré-et-Olivier H.258"
  FOP_nav_bomber_equipment_1_short: "H.258"
@@ -2870,9 +2870,9 @@
  FNG_jet_fighter_equipment_1: "Nakajima Kikka"
  FNG_jet_fighter_equipment_1_short: "Kikka"
  FNG_jet_fighter_equipment_2: "Kyūshū J7W Shinden-Kai"
- FNG_small_plane_airframe_5: "Kyūshū J7W Shinden-Kai"
+ FNG_small_plane_airframe_5: "Кюсю J7W Шинден-Кай" #NT!
  FNG_jet_fighter_equipment_2_short: "J7W Shinden-Kai"
- FNG_small_plane_airframe_5_short: "J7W Shinden-Kai"
+ FNG_small_plane_airframe_5_short: "J7W Шинден-Кай" #NT!
 
  FNG_nav_bomber_equipment_1: "G3M1 Rikkō"
  FNG_nav_bomber_equipment_1_short: "G3M1"
@@ -2967,9 +2967,9 @@
  FRA_jet_fighter_equipment_1: "Dassault Ouragan"
  FRA_jet_fighter_equipment_1_short: "Ouragan"
  FRA_jet_fighter_equipment_2: "Dassault Mystère"
- FRA_small_plane_airframe_5: "Dassault Mystère"
+ FRA_small_plane_airframe_5: "Дассо Мистер" #NT!
  FRA_jet_fighter_equipment_2_short: "Mystère"
- FRA_small_plane_airframe_5_short: "Mystère"
+ FRA_small_plane_airframe_5_short: "Мистер" #NT!
 
  FRA_nav_bomber_equipment_1: "Lioré-et-Olivier H.258"
  FRA_nav_bomber_equipment_1_short: "H.258"
@@ -3048,9 +3048,9 @@
  GAL_jet_fighter_equipment_1_short: "Bf.262"
  GAL_jet_fighter_equipment_1_desc: "Lagging behind in the development of jet fighters, Avia acquired a licence to produce the Bf 262 for the Fliegerkorps, replacing the German 30mm guns with locally-produced 20mm guns in their slightly-revised design."
  GAL_jet_fighter_equipment_2: "Letov L.52"
- GAL_small_plane_airframe_5: "Letov L.52"
+ GAL_small_plane_airframe_5: "Летов Л.52" #NT!
  GAL_jet_fighter_equipment_2_short: "L.52"
- GAL_small_plane_airframe_5_short: "L.52"
+ GAL_small_plane_airframe_5_short: "Л.52" #NT!
  GAL_jet_fighter_equipment_2_desc: "When Austro-Daimler developed the U2 'Uzelac' engine, Letov produced a state-of-the-art jet fighter that would become the Monarchy's first local jet aircraft adopted into service."
 
  GAL_nav_bomber_equipment_1: "Letov Š.328.v"
@@ -3298,9 +3298,9 @@
  GEO_jet_fighter_equipment_1_short: "Bf 262"
  #Heinkel P.1079B:
  GEO_jet_fighter_equipment_2: "Reaktiuli Gamanadgurebeli modeli Hb 179"
- GEO_small_plane_airframe_5: "Reaktiuli Gamanadgurebeli modeli Hb 179"
+ GEO_small_plane_airframe_5: "Реактиули Гаманадгуребели модели Hb 179" #NT!
  GEO_jet_fighter_equipment_2_short: "Hb 179"
- GEO_small_plane_airframe_5_short: "Hb 179"
+ GEO_small_plane_airframe_5_short: "Нб 179" #NT!
 
  GEO_nav_bomber_equipment_1: "Sazghvao Bombdamshenebi modeli Fi 167"
  GEO_nav_bomber_equipment_1_short: "Fi 167"
@@ -3367,75 +3367,75 @@
 ### GER - German Empire ###
 ###
 
- GER_CAS_equipment_0: "Henschel Erdkampfflugzeug 123"
- GER_CAS_equipment_0_short: "Hs 123"
+ GER_CAS_equipment_0: "Хеншель Эрдкампфффлюгцойг 123" #NT!
+ GER_CAS_equipment_0_short: "Хс 123" #NT!
  GER_small_plane_cas_airframe_0_short: "$GER_CAS_equipment_0_short$"
- GER_CAS_equipment_0_desc: "One of the first designs created by the Henschel Flugzeugwerke the Hs 123 proved to be a formidable close-support attack aircraft. Quickly after defeating Fieseler in a design contest the Hs 123 was adopted by the air force thanks to its all metal construction and superior manoeuvrability. Fitted with a BMW 132Dc engine, it is capable of high speeds and nigh vertical dive bombing attacks. On the testing grounds it proved to be highly reliable and particularly easy to repair."
- GER_cv_CAS_equipment_0: "Henschel Träger-Sturzkampfbomber 123"
- GER_cv_CAS_equipment_0_short: "Hs 123 T"
+ GER_CAS_equipment_0_desc: "Hs 123, один из первых проектов, созданных Henschel Flugzeugwerke, оказался грозным штурмовиком непосредственной поддержки. Вскоре после победы над Физелером в конкурсе проектов Hs 123 был принят на вооружение ВВС благодаря своей цельнометаллической конструкции и превосходной маневренности. Оснащенный двигателем BMW 132Dc, он способен развивать высокие скорости и совершать бомбометания с почти вертикального пикирования. На полигонах он показал себя весьма надежным и особенно простым в ремонте." #NT!
+ GER_cv_CAS_equipment_0: "Хеншель Трегер-Штурцкампфбомбардировщик 123" #NT!
+ GER_cv_CAS_equipment_0_short: "Хс 123 Т" #NT!
  GER_cv_small_plane_cas_airframe_0_short: "$GER_cv_CAS_equipment_0_short$"
- GER_cv_CAS_equipment_0_desc: "Mainly due to its short wingspan and easy maintenance work, the Imperial Navy too decided against the Fi 98 and instead ordered the Hs 123. Used by both branches of the Heer, spare parts are easier and cheaper to acquire making the Hs 123 T, some armed with torpedoes, popular among the Admiralty."
- GER_CAS_equipment_1: "Junkers 87"
+ GER_cv_CAS_equipment_0_desc: "Главным образом из-за небольшого размаха крыла и простоты обслуживания, Имперский флот тоже отказался от Fi 98 и вместо этого заказал Hs 123. Используемые обоими подразделениями Heer запасные части легче и дешевле приобрести, поэтому Hs 123 T, некоторые из которых вооружены торпедами, популярны среди Адмиралтейства." #NT!
+ GER_CAS_equipment_1: "Штурмовик Хеншель 123"
  GER_CAS_equipment_1_short: "Ju 87"
- GER_cv_CAS_equipment_1: "Junkers 87C"
+ GER_cv_CAS_equipment_1: "Авианосный пикирующий бомбардировщик Хеншель 123"
  GER_cv_CAS_equipment_1_short: "Ju 87C"
  GER_cv_CAS_equipment_1_desc: "The Ju 87C is a carrier-capable variant of the iconic Ju 87 Stuka dive bomber, specially designed for naval operations. Equipped with strengthened landing gear, arrestor hooks, and foldable wings for carrier storage, it retains the accuracy and fearsome dive-bombing capabilities of its land-based counterparts. The aircraft quickly earned a reputation for delivering precise strikes against enemy ships and coastal targets, becoming a cornerstone of the Imperial Navy's strike force"
- GER_CAS_equipment_2: "Henschel Erdkampfflugzeug 129"
+ GER_CAS_equipment_2: "Штурмовик Хеншель 129"
  GER_CAS_equipment_2_short: "Hs 129"
  GER_CAS_equipment_2_desc: "Having realised the need to upgrade from the outdated biplane design of the Hs 123, the Supreme Army Command ordered a new design for ground-attack airplanes. Designed for interdiction of materiel and logistics, the plane had to be thickly armoured for its low-level head-on strafing runs. While initially Henschel used a low power Argus engine it was later switched to a higher power BMW engine, eventually leading to serial production of the aircraft. Due to its high calibre cannon it is often referred to as 'Büchsenöffner' ('can opener') among the troops."
- GER_cv_CAS_equipment_2: "Junkers Ju 187 C"
+ GER_cv_CAS_equipment_2: "Авианосный пикирующий бомбардировщик Хеншель 129"
  GER_cv_CAS_equipment_2_short: "Ju 187 C"
  GER_cv_CAS_equipment_2_desc: "The Admiralty, having seen the successes of the Hs 129 developed a new iteration of land-based Ju 87. The new design, albeit focused on ground attacks, proved to work well for torpedo attacks and the thick armour makes the planes very durable against anti-aircraft fire and dogfights."
- GER_CAS_equipment_3: "Dornier Jagdbomber 355"
+ GER_CAS_equipment_3: "Истребитель-бомбардировщик Дорньё 355"
  GER_CAS_equipment_3_short: "Do 355"
  GER_CAS_equipment_3_desc: "Seeing the need to replace the old Henschel planes, the High Command ordered the design of new ground attack planes. Dornier, known for his exceptional designs, won the war ministry over, with this unorthodox but highly aerodynamic style. Unlike other planes the Do 355 has one propeller at the front and one at the back as well as its engine behind the cockpit which allows for higher performance and a better roll rate than other aircraft."
- GER_cv_CAS_equipment_3: "Blohm & Voss BV 155 T"
+ GER_cv_CAS_equipment_3: "Авианосный истребитель-бомбардировщик Дорньё 355"
  GER_cv_CAS_equipment_3_short: "BV 155 T/U-3"
  GER_cv_CAS_equipment_3_desc: "Having observed the superior agility and armament the BV 155 offers, the Imperial Navy decided to phase out it's older carrier variants and to invest in the development and construction of the new carrier based, light bomber aircraft."
- GER_small_plane_cas_airframe_4_short: "Hb 132"
- GER_cv_small_plane_cas_airframe_4_short: "Hb 132 T"
- GER_small_plane_cas_airframe_5_short: "Bf 1101/99"
+ GER_small_plane_cas_airframe_4_short: "Нб 132" #NT!
+ GER_cv_small_plane_cas_airframe_4_short: "Hb 132 Т" #NT!
+ GER_small_plane_cas_airframe_5_short: "Бф 1101/99" #NT!
 
  #Arado 68:
- GER_fighter_equipment_0: "Flugzeugbau Friedrichshafen Jagdflugzeug 68"
+ GER_fighter_equipment_0: "Истребитель Фридрихсхафен Флюгцойгбау 68"
  GER_fighter_equipment_0_short: "Ff 68"
  GER_fighter_equipment_0_desc: "Designed to replace the Ff 65, the Ff 68 met the most optimistic expectations in terms of handling and agility from the outset. Victory in a training battle against its main competitor Hb 51 finally confirmed the Ff 68 as the next German fighter. While now are mainly outdated planes (despite objections from the Flugzeugbau Friedrichshafen side), they are still used as the night fighters by the German military."
- GER_cv_fighter_equipment_0: "Flugzeugbau Friedrichshafen Träger-Jagdflugzeug 68"
+ GER_cv_fighter_equipment_0: "Авианосный истребитель Фридрихсхафен 68"
  GER_cv_fighter_equipment_0_short: "Ff 68 T"
  GER_cv_fighter_equipment_0_desc: "A well liked biplane, the Ff 68 was selected into service aboard the Kaiserliche Marine's aircraft carriers. Little modification was needed to make them suitable for carrier service, and much like their ground-based counterparts, it received high praise by carrier crews for its docile control characteristics."
- GER_fighter_equipment_1: "Bayerische Flugzeugwerke Jagdflugzeug 109"
+ GER_fighter_equipment_1: "Истребитель Байерише Флюгцойгверке 109"
  GER_fighter_equipment_1_short: "Bf 109"
  GER_fighter_equipment_1_desc: "Bayerische Flugzeugwerke responded to a fighter tender with the modern mono-plane Bf 109 design. Despite the generally accepted point of view in German military circles that a fighter must necessarily be a biplane, the Bf 109 fighter, mounting the DB 600 engine, was accepted in service due to its heavier armament and significantly higher top speed compared with other designs, not to mention the ability of recovering from the spin almost at any time."
- GER_cv_fighter_equipment_1: "Bayerische Flugzeugwerke Träger-Jagdflugzeug 109"
+ GER_cv_fighter_equipment_1: "Авианосный истребитель Байерише Флюгцойгверке 109"
  GER_cv_fighter_equipment_1_short: "Bf 109 T"
  GER_cv_fighter_equipment_1_desc: "With the significantly improved knowledge of aerodynamics and engine performance, the Kaiserliche Marine sent out contracts for a new carrier-borne aircraft. Unsurprisingly, they selected the Bf 109 that won the contract issued by the Heer. Modifications were made to ensure that it was carrier capable, including the wings and control surfaces being lengthened, fitting tailhooks and catapult fittings, as well as the implementation of foldable wingtips."
- GER_fighter_equipment_2: "Focke-Wulf Jagdflugzeug 190"
+ GER_fighter_equipment_2: "Истребитель Фокке-Вульф 190"
  GER_fighter_equipment_2_short: "Fw 190"
  GER_fighter_equipment_2_desc: "Difficulties to produce enough Daimler-Benz inline engines and successes of using radial engines in fighter designs by other nations, made the prospects of building a radial engine powered fighter promising. Developed by the personal initiative of Kurt Waldemar Tank, the chief engineer of Focke-Wulf, the Fw 190 design is notable for the survivability of the structure, ease of management, widespread use of modular assembly methods and ease of maintenance. Outperforming the still good Bf 109, but having child diseases of engine and concerning pilots with its armament, the new fighter was accepted in service after initial tests."
- GER_cv_fighter_equipment_2: "Focke-Wulf Träger-Jagdflugzeug 190"
+ GER_cv_fighter_equipment_2: "Авианосный истребитель Фокке-Вульф 190"
  GER_cv_fighter_equipment_2_short: "Fw 190 T"
  GER_cv_fighter_equipment_2_desc: "Due to limits of the Bf 109 airframe such as a weak and problematic gear leg, made a new fighter platform necessary and difficulties in developing the Bf 155 project means that producing a purpose-built carrier-borne fighter is out of the question. A conversion of the latest fighter aircraft, the Focke-Wulf Fw 190 was selected. Modifications were made, much like the Bf 109 T, fitting tailhooks and catapult fittings."
  #Ta 152:
- GER_fighter_equipment_3: "Focke-Wulf Jagdflugzeug 152"
+ GER_fighter_equipment_3: "Истребитель Фокке-Вульф 152"
  GER_fighter_equipment_3_short: "Fw 152"
  GER_fighter_equipment_3_desc: "By early 1944, it became apparent that the development potential of the Fw 190 with the BMW 801 engine had dwindled. This became even more apparent with the advent of the new enemy fighters. A heavily modified Fw 190, the Fw 152 design development started in 1942 and has such features as increased fuel tanks alongside with speed and much heavier armament compared with the Fw 190. It's outstanding performance and ensuing popularity with the crews made it the poster child of Germany's air forces."
- GER_cv_fighter_equipment_3: "Blohm & Voss BV 155 T"
+ GER_cv_fighter_equipment_3: "Авианосный истребитель Фокке-Вульф 152"
  GER_cv_fighter_equipment_3_short: "BV 155 T"
- GER_jet_fighter_equipment_1: "Bayerische Flugzeugwerke Jagdflugzeug 262"
+ GER_jet_fighter_equipment_1: "Истребитель Байерише Флюгцойгверке 262"
  GER_jet_fighter_equipment_1_short: "Bf 262"
  GER_jet_fighter_equipment_1_desc: "Designed and created to replace older propeller-based aircraft the Bf 262 becomes the new poster child of our air force. One of the first of its type worldwide it is powered by two turbojet engines with which it can reach a higher speed than other conventional planes. The Air High Command has high hopes in the project, with the aim of eventually modernising the entire air fleet."
- GER_cv_small_plane_airframe_4_short: "Bf 262 T"
+ GER_cv_small_plane_airframe_4_short: "Бф 262 Т" #NT!
  #Me.1101:
- GER_jet_fighter_equipment_2: "Bayerische Flugzeugwerke Jagdflugzeug 1101"
+ GER_jet_fighter_equipment_2: "Истребиль Ганза-Бранденбург 179"
  GER_jet_fighter_equipment_2_short: "Bf 1101"
  GER_small_plane_airframe_5_short: "$GER_jet_fighter_equipment_2_short$"
  GER_jet_fighter_equipment_2_desc: "Direct successor to the Bf 262, the design of the Bf 1101 includes a V-shaped body with sweepback wings. It is a single seat aircraft, powered by two Heinkel HeS 011 turbojet engines making it faster than the Bf 262 and featuring an improved throttle, greatly decreasing the chance of a compressor stall, which plagued its predecessor."
 
- GER_small_plane_naval_bomber_airframe_0_short: "Do 22"
- GER_nav_bomber_equipment_1: "Fieseler See-Mehrzweckflugzeug 167"
+ GER_small_plane_naval_bomber_airframe_0_short: "Делай 22" #NT!
+ GER_nav_bomber_equipment_1: "Морской бомбардировщик Физелер 167"
  GER_nav_bomber_equipment_1_short: "Fi 167"
  GER_nav_bomber_equipment_1_desc: "Developed and built mainly for the use on carrier ships, the Fi 167 was also adopted by the Seeflieger of the Imperial Navy. Despite it's archaic looking design the biplane possesses great capabilities in agility due to its Benz & Cie engine. With its top speed of 325 km/h it forms the fast and heavy hitting core of the Küstenfliegergruppen."
- GER_cv_nav_bomber_equipment_1: "Junkers 87D-4"
+ GER_cv_nav_bomber_equipment_1: "Авианосный морской бомбардировщик Физелер 167"
  GER_cv_nav_bomber_equipment_1_short: "Ju 87D-4"
  GER_cv_nav_bomber_equipment_1_desc: "The Ju 87D-4 is a navalized variant of the Stuka, adapted for torpedo strikes against enemy ships. Equipped with carrier landing gear and a modified bomb rack for torpedoes, it combines deadly accuracy with reliable performance at sea. Its distinctive howl still strikes fear into naval crews as it dives for the kill."
  #Fokker T.VIII:
@@ -3454,11 +3454,11 @@
  GER_cv_nav_bomber_equipment_3: "Blohm & Voss BV 155 T/U-4"
  GER_cv_nav_bomber_equipment_3_short: "BV 155 T/U-4"
  GER_cv_nav_bomber_equipment_3_desc: "Despite the relatively large wingspan of the airplane, the Ha 194 was also adopted by the Imperial Navy as carrier aircraft, mainly due to its high range as well as the short runway usage during landings and takeoffs."
- GER_small_plane_naval_bomber_airframe_4_short: "Ho 229"
- GER_cv_small_plane_naval_bomber_airframe_4_short: "Ho 229 T"
- GER_small_plane_naval_bomber_airframe_5_short: "Bf 1101/92"
+ GER_small_plane_naval_bomber_airframe_4_short: "Хо 229" #NT!
+ GER_cv_small_plane_naval_bomber_airframe_4_short: "Хо 229 Т" #NT!
+ GER_small_plane_naval_bomber_airframe_5_short: "Бф 1101/92" #NT!
 
- GER_medium_plane_fighter_airframe_0_short: "Do 23"
+ GER_medium_plane_fighter_airframe_0_short: "Делай 23" #NT!
  GER_heavy_fighter_equipment_1: "Bayerische Flugzeugwerke Zerstörer 110"
  GER_heavy_fighter_equipment_1_short: "Bf 110"
  GER_heavy_fighter_equipment_1_desc: "Created as a heavy fighter aircraft with more range than the Bf 109, the Air Service conducted a competition which was won by the Bayerische Flugzeugwerke. Additionally to the advantage in range the armament of the Bf 110 is unusually strong - consisting of three 20mm cannons in the front. Even though less agile it proves to be an exceptional airplane, especially suited for use in our colonial holdings."
@@ -3468,7 +3468,7 @@
  GER_heavy_fighter_equipment_3: "Hansa-Brandenburg Zerstörer 219"
  GER_heavy_fighter_equipment_3_short: "Hb 219"
  GER_heavy_fighter_equipment_3_desc: "Building on the strengths of the Ju 88, the designers at Hansa-Brandenburg designed the Hb 219. With superior air stability and higher agility the plane is able to better intercept and destroy enemy planes. Its newer engine and better aerodynamic construction allow for higher speeds and cover of greater ranges. The newly developed livery helps to disguise the plane better, making it harder for enemy fighters to spot it."
- GER_medium_plane_fighter_airframe_4_short: "Ff 234B"
+ GER_medium_plane_fighter_airframe_4_short: "Фф 234Б" #NT!
 
  GER_tac_bomber_equipment_0: "Junkers Mittlerer Bomber 86"
  GER_tac_bomber_equipment_0_short: "Ju 86"
@@ -3490,7 +3490,7 @@
  GER_jet_tac_bomber_equipment_2_short: "Hb 343"
  GER_jet_tac_bomber_equipment_2_desc: "Even though the Ff 234 was a breakthrough in its field it still had a few issues. Among them were difficulties with the landing process and target bombing. However both aspects have been improved with the new generation, introduced by the Hb 343, creating an even faster, further reaching and more secure jet bomber."
 
- GER_large_plane_airframe_0_short: "Do P"
+ GER_large_plane_airframe_0_short: "Делай П" #NT!
  GER_strat_bomber_equipment_1: "Dornier Schwerer Bomber 19"
  GER_strat_bomber_equipment_1_short: "Do 19"
  GER_strat_bomber_equipment_1_desc: "The Air Service was tasked with putting a bigger focus towards strategic bombing efforts. This led to a competition in which the Do 19 came out victorious. A heavy bomber, the Do 19, suffers from a lacklustre performance and little space for bombs, eventually becoming a stopgap product for the upcoming Hb 177."
@@ -3504,11 +3504,11 @@
  GER_jet_strat_bomber_equipment_1_short: "Ff 555"
  GER_jet_strat_bomber_equipment_1_desc: "Designed on the order of the Supreme High Command the Ff 555 is a long range flying wing jet bomber, built to be able to launch bombing campaigns in far away areas like the East Coast of North America and Asia East of the Urals. It's special V-form was chosen to allow for better aerodynamic flow to reach higher speeds."
 
- GER_large_plane_maritime_patrol_plane_airframe_0_short: "Do 18"
- GER_large_plane_maritime_patrol_plane_airframe_1_short: "Do 24"
- GER_large_plane_maritime_patrol_plane_airframe_2_short: "BV 222"
- GER_large_plane_maritime_patrol_plane_airframe_3_short: "BV 238"
- GER_large_plane_maritime_patrol_plane_airframe_4_short: "BV 555"
+ GER_large_plane_maritime_patrol_plane_airframe_0_short: "Делай 18" #NT!
+ GER_large_plane_maritime_patrol_plane_airframe_1_short: "Делай 24" #NT!
+ GER_large_plane_maritime_patrol_plane_airframe_2_short: "БВ 222" #NT!
+ GER_large_plane_maritime_patrol_plane_airframe_3_short: "БВ 238" #NT!
+ GER_large_plane_maritime_patrol_plane_airframe_4_short: "БВ 555" #NT!
 
  GER_rocket_interceptor_equipment_1: "Bayerische Flugzeugwerke Objektschutzjäger 163"
  GER_rocket_interceptor_equipment_1_short: "Bf 163"
@@ -3521,7 +3521,7 @@
  GER_rocket_interceptor_equipment_3_short: "Fi 349"
  GER_rocket_interceptor_equipment_3_desc: "Designed as a successor to the Bf 163 and the Bf 263, the Fi 349 tried to improve various shortcomings of the other interceptors. The aircraft only needs one pilot with basic training in aiming and firing, as it would be guided by an autopilot. Additionally after the attack the pilot does not need to return to an airstrip to land, but rather is ejected and lands with a parachute. This revolutionary design allows any common man to fly the plane should the need arise."
 
- GER_medium_plane_scout_plane_airframe_0_short: "Do 16"
+ GER_medium_plane_scout_plane_airframe_0_short: "Делай 16" #NT!
  GER_scout_plane_equipment_1: "Henschel Nahaufklärer 126"
  GER_scout_plane_equipment_1_short: "Hs 126"
  GER_scout_plane_equipment_1_desc: "Tasked by the German Air Service, Henschel designed the Hs 126 as a high wing reconnaissance aircraft for short ranges. It is well received by pilots and the air command for its short takeoff and low speed capabilities, believed to be crucial for observation and intelligence gathering purposes."
@@ -3529,29 +3529,29 @@
  GER_scout_plane_equipment_2_short: "Fw 189"
  GER_scout_plane_equipment_2_desc: "Winning a design competition against the Ff 198 and the Ha 141, Focke Wulf got the contract to replace the ageing Hs 126. The twin engine, twin boom, three seater tactical reconnaissance aircraft primarily operates on short distance flights. Its great manoeuvrability in dog fighting situations is praised by pilots."
  GER_medium_plane_scout_plane_airframe_3_short: "Fw 191"
- GER_medium_plane_scout_plane_airframe_4_short: "Ff 234C"
+ GER_medium_plane_scout_plane_airframe_4_short: "Фф 234С" #NT!
 
  GER_transport_plane_equipment_1: "Junkers Transportflugzeug W 34"
  GER_transport_plane_equipment_1_short: "Ju W 34"
- GER_transport_plane_equipment_1_desc: "The Junkers W 34 serves the Luftstreitkräfte as a light transport and utility aircraft, capable of carrying men, supplies, or communications equipment over reliable distances. Its sturdy all-metal construction and single-engine design make it simple to operate. It fulfills vital support duties that keep our forces supplied and mobile."
+ GER_transport_plane_equipment_1_desc: "Юнкерс W 34 служит Luftstreitkräfte в качестве легкого транспортного и служебного самолета, способного перевозить людей, припасы или оборудование связи на надежные расстояния. Прочная цельнометаллическая конструкция и одномоторная конструкция упрощают эксплуатацию. Он выполняет жизненно важные функции поддержки, которые обеспечивают снабжение и мобильность наших сил." #NT!
  #Ar.232
- GER_transport_plane_equipment_2: "Junkers Transportflugzeug 52"
+ GER_transport_plane_equipment_2: "Юнкерс Транспортфлугцойг 52" #NT!
  GER_transport_plane_equipment_2_short: "Ju 52"
- GER_transport_plane_equipment_2_desc: "Building upon the success of the Ju 34, the Junkers Ju 52 introduces a more modern design to meet the growing logistical demands of the armed forces. Its improved engines and significantly expanded cargo capacity allow for longer flights and heavier payloads, making it invaluable for supplying far-flung units across the Empire's territories."
- GER_transport_plane_equipment_3: "Junkers Transportflugzeug 390"
- GER_transport_plane_equipment_3_short: "Ju 390"
- GER_transport_plane_equipment_3_desc: "The Ju 390 is a true giant of the skies, developed to support long-range transport missions across the vast expanses of the Empire. With its extended range and massive payload capacity, it is particularly well-suited for long-range logistics and strategic operations. Despite its size, the aircraft maintains the reliability and robust engineering expected of Junkers designs."
+ GER_transport_plane_equipment_2_desc: "Развивая успех Ju 34, Junkers Ju 52 представляет собой более современную конструкцию, отвечающую растущим логистическим потребностям вооруженных сил. Его улучшенные двигатели и значительно увеличенная грузовместимость позволяют совершать более длительные полеты и увеличивать полезную нагрузку, что делает его неоценимым для снабжения отдаленных подразделений по территориям Империи." #NT!
+ GER_transport_plane_equipment_3: "Юнкерс Транспортфлугцойг 390" #NT!
+ GER_transport_plane_equipment_3_short: "Ю 390" #NT!
+ GER_transport_plane_equipment_3_desc: "Ju 390 — настоящий небесный гигант, созданный для поддержки дальних транспортных миссий на бескрайних просторах Империи. Благодаря увеличенной дальности полета и огромной грузоподъемности он особенно хорошо подходит для дальней логистики и стратегических операций. Несмотря на свои размеры, самолет сохраняет надежность и надежность конструкции, ожидаемые от конструкций Junkers." #NT!
 
- GER_helicopter_equipment_1: "Flettner Hubschrauber 282 Kolibri"
- GER_helicopter_equipment_1_short: "Fl 282"
+ GER_helicopter_equipment_1: "Flettner Hubschrauber 282 Колибри" #NT!
+ GER_helicopter_equipment_1_short: "Эт 282" #NT!
  # GER_helicopter_equipment_1_desc: "The Flettner Fl 282 Kolibri represents a remarkable step forward in rotary-wing aviation, developed to support reconnaissance and coordination missions. Its intermeshing rotor design provides unmatched stability and manoeuvrability, making it ideal for operations in confined spaces such as naval vessels or rough terrain. Though primarily used for observation, its reliability and ease of maintenance ensure its place as a valued asset to the Luftstreitkräfte."
 
- GER_strat_bomber_intercontinental_equipment_1: "Horten Langstreckenbomber 18"
- GER_strat_bomber_intercontinental_equipment_1_short: "Ho 18"
+ GER_strat_bomber_intercontinental_equipment_1: "Хортен Лангстрекенбомбер 18" #NT!
+ GER_strat_bomber_intercontinental_equipment_1_short: "Хо 18" #NT!
  # GER_strat_bomber_intercontinental_equipment_1_desc: "A breakthrough in aviation design, the Horten Ho 18 is the pinnacle of German engineering for long-range strategic bombing. Its radical flying wing configuration allows for reduced radar cross-section and improved aerodynamics, making it faster and more fuel-efficient than traditional bombers. Designed for intercontinental operations, including missions across the Atlantic, the Ho 18 symbolizes the Luftstreitkräfte's ambition to maintain aerial dominance globally."
 
- GER_mothership_equipment_0: "Hansa-Brandenburg Mutterschiff 234"
- GER_mothership_equipment_0_short: "Hb 234"
+ GER_mothership_equipment_0: "Ганза-Бранденбург Муттершифф 234" #NT!
+ GER_mothership_equipment_0_short: "Нб 234" #NT!
 
  GER_iw_small_airframe_desc: "$GER_fighter_equipment_0_desc$"
  GER_basic_small_airframe_desc: "$GER_fighter_equipment_1_desc$"
@@ -3617,9 +3617,9 @@
  GRE_jet_fighter_equipment_1_short: "IK-451"
  #IK-451 Zolja:
  GRE_jet_fighter_equipment_2: "Mathimatikó, KEA, Sfíka"
- GRE_small_plane_airframe_5: "Mathimatikó, KEA, Sfíka"
+ GRE_small_plane_airframe_5: "Матиматико, КЕА, Сфика" #NT!
  GRE_jet_fighter_equipment_2_short: "Sfíka"
- GRE_small_plane_airframe_5_short: "Sfíka"
+ GRE_small_plane_airframe_5_short: "Сфика" #NT!
 
  #Fairey Swordfish:
  GRE_nav_bomber_equipment_1: "Ydropláno paráktias ámynas, KEA, Xifías"
@@ -3842,61 +3842,61 @@
 ### GUY - Guyana ###
 ###
 
- GUY_CAS_equipment_1: "Fairey Battle"
- GUY_CAS_equipment_1_short: "Battle"
- GUY_cv_CAS_equipment_1: "Fairey Battle"
- GUY_cv_CAS_equipment_1_short: "Battle"
- GUY_CAS_equipment_2: "Bristol Bisley"
- GUY_CAS_equipment_2_short: "Bisley"
- GUY_cv_CAS_equipment_2: "Bristol Bisley"
- GUY_cv_CAS_equipment_2_short: "Bisley"
- GUY_CAS_equipment_3: "Bristol Brigand"
- GUY_CAS_equipment_3_short: "Brigand"
- GUY_cv_CAS_equipment_3: "Bristol Brigand"
- GUY_cv_CAS_equipment_3_short: "Brigand"
+ GUY_CAS_equipment_1: "Фейри Бэттл"
+ GUY_CAS_equipment_1_short: "Бэттл"
+ GUY_cv_CAS_equipment_1: "Фейри Бэттл"
+ GUY_cv_CAS_equipment_1_short: "Бэттл"
+ GUY_CAS_equipment_2: "Бристоль Бисли"
+ GUY_CAS_equipment_2_short: "Бисли"
+ GUY_cv_CAS_equipment_2: "Бристоль Бисли"
+ GUY_cv_CAS_equipment_2_short: "Бисли"
+ GUY_CAS_equipment_3: "Бристоль Бриганд"
+ GUY_CAS_equipment_3_short: "Бриганд"
+ GUY_cv_CAS_equipment_3: "Бристоль Бриганд"
+ GUY_cv_CAS_equipment_3_short: "Бриганд"
 
- GUY_fighter_equipment_0: "Gloster Gladiator"
- GUY_fighter_equipment_0_short: "Gladiator"
- GUY_cv_fighter_equipment_0: "Gloster Gladiator"
- GUY_cv_fighter_equipment_0_short: "Gladiator"
- GUY_fighter_equipment_1: "Vickers Venom"
- GUY_fighter_equipment_1_short: "Venom"
- GUY_cv_fighter_equipment_1: "Vickers Sea Venom"
- GUY_cv_fighter_equipment_1_short: "Sea Venom"
- GUY_fighter_equipment_2: "Gloster Paladin"
- GUY_fighter_equipment_2_short: "Paladin"
- GUY_cv_fighter_equipment_2: "Fairey Fulmar"
- GUY_cv_fighter_equipment_2_short: "Fulmar"
- GUY_fighter_equipment_3: "Martin-Baker Vindicator"
- GUY_fighter_equipment_3_short: "Vindicator"
- GUY_cv_fighter_equipment_3: "Fairey Firefly"
- GUY_cv_fighter_equipment_3_short: "Firefly"
- GUY_jet_fighter_equipment_1: "Gloster Meteor"
- GUY_jet_fighter_equipment_1_short: "Meteor"
- GUY_jet_fighter_equipment_2: "Vickers Kestrel"
- GUY_small_plane_airframe_5: "Vickers Kestrel"
- GUY_jet_fighter_equipment_2_short: "Kestrel"
- GUY_small_plane_airframe_5_short: "Kestrel"
+ GUY_fighter_equipment_0: "Глостер Гладиатор"
+ GUY_fighter_equipment_0_short: "Гладиатор"
+ GUY_cv_fighter_equipment_0: "Глостер Гладиатор"
+ GUY_cv_fighter_equipment_0_short: "Гладиатор"
+ GUY_fighter_equipment_1: "Виккерс Веном"
+ GUY_fighter_equipment_1_short: "Веном"
+ GUY_cv_fighter_equipment_1: "Авианосный Виккерс Веном"
+ GUY_cv_fighter_equipment_1_short: "Веном"
+ GUY_fighter_equipment_2: "Глостер Паладин"
+ GUY_fighter_equipment_2_short: "Паладин"
+ GUY_cv_fighter_equipment_2: "Фейри Фулмар"
+ GUY_cv_fighter_equipment_2_short: "Фулмар"
+ GUY_fighter_equipment_3: "Мартин-Бейкер Виндикатор"
+ GUY_fighter_equipment_3_short: "Виндикатор"
+ GUY_cv_fighter_equipment_3: "Фейри Файрфлай"
+ GUY_cv_fighter_equipment_3_short: "Файрфлай"
+ GUY_jet_fighter_equipment_1: "Глостер Метеор"
+ GUY_jet_fighter_equipment_1_short: "Метеор"
+ GUY_jet_fighter_equipment_2: "Виккерс Кестрел"
+ GUY_small_plane_airframe_5: "Викерс Кестрел" #NT!
+ GUY_jet_fighter_equipment_2_short: "Кестрел"
+ GUY_small_plane_airframe_5_short: "Пустельга" #NT!
 
- GUY_nav_bomber_equipment_1: "Fairey Swordfish"
- GUY_nav_bomber_equipment_1_short: "Swordfish"
- GUY_cv_nav_bomber_equipment_1: "Fairey Swordfish"
- GUY_cv_nav_bomber_equipment_1_short: "Swordfish"
- GUY_nav_bomber_equipment_2: "Fairey Albacore"
- GUY_nav_bomber_equipment_2_short: "Albacore"
- GUY_cv_nav_bomber_equipment_2: "Fairey Albacore"
- GUY_cv_nav_bomber_equipment_2_short: "Albacore"
- GUY_nav_bomber_equipment_3: "Fairey Barracuda"
- GUY_nav_bomber_equipment_3_short: "Barracuda"
- GUY_cv_nav_bomber_equipment_3: "Fairey Barracuda"
- GUY_cv_nav_bomber_equipment_3_short: "Barracuda"
+ GUY_nav_bomber_equipment_1: "Фейри Свордфиш"
+ GUY_nav_bomber_equipment_1_short: "Свордфиш"
+ GUY_cv_nav_bomber_equipment_1: "Фейри Свордфиш"
+ GUY_cv_nav_bomber_equipment_1_short: "Свордфиш"
+ GUY_nav_bomber_equipment_2: "Фейри Альбакор"
+ GUY_nav_bomber_equipment_2_short: "Альбакор"
+ GUY_cv_nav_bomber_equipment_2: "Фейри Альбакор"
+ GUY_cv_nav_bomber_equipment_2_short: "Альбакор"
+ GUY_nav_bomber_equipment_3: "Фейри Барракуда"
+ GUY_nav_bomber_equipment_3_short: "Барракуда"
+ GUY_cv_nav_bomber_equipment_3: "Фейри Барракуда"
+ GUY_cv_nav_bomber_equipment_3_short: "Барракуда"
 
- GUY_heavy_fighter_equipment_1: "Bristol Beaufighter"
- GUY_heavy_fighter_equipment_1_short: "Beaufighter"
- GUY_heavy_fighter_equipment_2: "Gloster Reaper"
- GUY_heavy_fighter_equipment_2_short: "Reaper"
- GUY_heavy_fighter_equipment_3: "Vickers Falcon"
- GUY_heavy_fighter_equipment_3_short: "Falcon"
+ GUY_heavy_fighter_equipment_1: "Бристоль Бефайтер"
+ GUY_heavy_fighter_equipment_1_short: "Бефайтер"
+ GUY_heavy_fighter_equipment_2: "Глостер Рипер"
+ GUY_heavy_fighter_equipment_2_short: "Рипер"
+ GUY_heavy_fighter_equipment_3: "Виккерс Фэлкон"
+ GUY_heavy_fighter_equipment_3_short: "Фэлкон"
 
  GUY_tac_bomber_equipment_0: "Fairey Hendon"
  GUY_tac_bomber_equipment_0_short: "Hendon"
@@ -4290,9 +4290,9 @@
  HUN_jet_fighter_equipment_1_short: "Bf.262"
  HUN_jet_fighter_equipment_1_desc: "Lagging behind in the development of jet fighters, Avia acquired a licence to produce the Bf 262 for the Fliegerkorps, replacing the German 30mm guns with locally-produced 20mm guns in their slightly-revised design."
  HUN_jet_fighter_equipment_2: "Letov L.52"
- HUN_small_plane_airframe_5: "Letov L.52"
+ HUN_small_plane_airframe_5: "Летов Л.52" #NT!
  HUN_jet_fighter_equipment_2_short: "L.52"
- HUN_small_plane_airframe_5_short: "L.52"
+ HUN_small_plane_airframe_5_short: "Л.52" #NT!
  HUN_jet_fighter_equipment_2_desc: "When Austro-Daimler developed the U2 'Uzelac' engine, Letov produced a state-of-the-art jet fighter that would become the Monarchy's first local jet aircraft adopted into service."
 
  HUN_nav_bomber_equipment_1: "Letov Š.328.v"
@@ -4363,8 +4363,8 @@
  ICE_CAS_equipment_1_short: "KZ IIA"
  ICE_CAS_equipment_1_desc: "Within months of its founding, SAI, Skandinavisk Aero Industri, founded by two found technically proficient aircraft enthusiasts, produced two different sport planes. Their second model drew interest from the Danish military, which eventually contracted for the production of a ground attack variant on the craft."
 
- ICE_fighter_equipment_0: "Gloster Gladiator"
- ICE_fighter_equipment_0_short: "Gladiator"
+ ICE_fighter_equipment_0: "Глостер Гладиатор"
+ ICE_fighter_equipment_0_short: "Гладиатор"
  ICE_fighter_equipment_1: "Fokker D.XXI"
  ICE_fighter_equipment_1_short: "D.XXI"
 
@@ -4409,9 +4409,9 @@
  INC_jet_fighter_equipment_1: "Dassault Ouragan"
  INC_jet_fighter_equipment_1_short: "Ouragan"
  INC_jet_fighter_equipment_2: "Dassault Mystère"
- INC_small_plane_airframe_5: "Dassault Mystère"
+ INC_small_plane_airframe_5: "Дассо Мистер" #NT!
  INC_jet_fighter_equipment_2_short: "Mystère"
- INC_small_plane_airframe_5_short: "Mystère"
+ INC_small_plane_airframe_5_short: "Мистер" #NT!
 
  INC_nav_bomber_equipment_1: "Lioré-et-Olivier H.258"
  INC_nav_bomber_equipment_1_short: "H.258"
@@ -4477,8 +4477,8 @@
  ITA_cv_CAS_equipment_1_short: "Ba.65bis"
  ITA_CAS_equipment_2: "Breda Ba.12"                     # Uses Fiat FC.12 icon
  ITA_CAS_equipment_2_short: "Ba.12"
- ITA_cv_CAS_equipment_2: "Breda Ba.50N"                 # Uses G.50N icon
- ITA_cv_CAS_equipment_2_short: "Ba.50N"
+ ITA_cv_CAS_equipment_2: "Бреда Ба.50Н" #NT!
+ ITA_cv_CAS_equipment_2_short: "Ба.50Н" #NT!
  ITA_CAS_equipment_3: "Savoia-Marchetti SM.93"
  ITA_CAS_equipment_3_short: "SM.93"
  ITA_cv_CAS_equipment_3: "Breda Ba.201bis"
@@ -4486,7 +4486,7 @@
 
  ITA_fighter_equipment_0: "Macchi CR.32"
  ITA_fighter_equipment_0_short: "CR.32"
- ITA_cv_fighter_equipment_0: "Macchi ICR.32"
+ ITA_cv_fighter_equipment_0: "Макки ICR.32" #NT!
  ITA_cv_fighter_equipment_0_short: "ICR.32"
  ITA_fighter_equipment_1: "Macchi C.200 Saetta"
  ITA_fighter_equipment_1_short: "C.200 Saetta"
@@ -4498,14 +4498,14 @@
  ITA_cv_fighter_equipment_2_short: "IC.202"
  ITA_fighter_equipment_3: "Macchi C.205 Veltro"
  ITA_fighter_equipment_3_short: "C.205 Veltro"
- ITA_cv_fighter_equipment_3: "Macchi IC.205"          # Uses Re.2005 icon
+ ITA_cv_fighter_equipment_3: "Макки IC.205" #NT!
  ITA_cv_fighter_equipment_3_short: "IC.205"
 
- ITA_jet_fighter_equipment_1: "Reggiane Re.2007"
+ ITA_jet_fighter_equipment_1: "Реджиане Re.2007"
  ITA_jet_fighter_equipment_1_short: "Re.2007"
- ITA_jet_fighter_equipment_2: "Reggiane Re.2008"
+ ITA_jet_fighter_equipment_2: "Реджиане Re.2008"
  ITA_jet_fighter_equipment_2_short: "Re.2008"
- ITA_small_plane_airframe_5_short:"Re.2008"
+ ITA_small_plane_airframe_5_short: "Ре.2008" #NT!
 
  ITA_nav_bomber_equipment_1: "Savoia-Marchetti SM.79 Sparviero"
  ITA_nav_bomber_equipment_1_short: "SM.79 Sparviero"
@@ -4550,10 +4550,10 @@
 
  ITA_transport_plane_equipment_1: "Caproni Ca.133"
  ITA_transport_plane_equipment_1_short: "Ca.133"
- ITA_transport_plane_equipment_2: "Savoia-Marchetti SM.82"
- ITA_transport_plane_equipment_2_short: "SM.82"
- ITA_transport_plane_equipment_3: "Savoia-Marchetti SM.95 GA"
- ITA_transport_plane_equipment_3_short: "SM.95 GA"
+ ITA_transport_plane_equipment_2: "Савойя-Маркетти SM.82" #NT!
+ ITA_transport_plane_equipment_2_short: "СМ.82" #NT!
+ ITA_transport_plane_equipment_3: "Савойя-Маркетти SM.95 GA" #NT!
+ ITA_transport_plane_equipment_3_short: "СМ.95 ГА" #NT!
 
 ### EMI
  EMI_CAS_equipment_1: "$ITA_CAS_equipment_1$"
@@ -4867,61 +4867,61 @@
 ### JAM - Jamaica ###
 ###
 
- JAM_CAS_equipment_1: "Fairey Battle"
- JAM_CAS_equipment_1_short: "Battle"
- JAM_cv_CAS_equipment_1: "Fairey Battle"
- JAM_cv_CAS_equipment_1_short: "Battle"
- JAM_CAS_equipment_2: "Bristol Bisley"
- JAM_CAS_equipment_2_short: "Bisley"
- JAM_cv_CAS_equipment_2: "Bristol Bisley"
- JAM_cv_CAS_equipment_2_short: "Bisley"
- JAM_CAS_equipment_3: "Bristol Brigand"
- JAM_CAS_equipment_3_short: "Brigand"
- JAM_cv_CAS_equipment_3: "Bristol Brigand"
- JAM_cv_CAS_equipment_3_short: "Brigand"
+ JAM_CAS_equipment_1: "Фейри Бэттл"
+ JAM_CAS_equipment_1_short: "Бэттл"
+ JAM_cv_CAS_equipment_1: "Фейри Бэттл"
+ JAM_cv_CAS_equipment_1_short: "Бэттл"
+ JAM_CAS_equipment_2: "Бристоль Бисли"
+ JAM_CAS_equipment_2_short: "Бисли"
+ JAM_cv_CAS_equipment_2: "Бристоль Бисли"
+ JAM_cv_CAS_equipment_2_short: "Бисли"
+ JAM_CAS_equipment_3: "Бристоль Бриганд"
+ JAM_CAS_equipment_3_short: "Бриганд"
+ JAM_cv_CAS_equipment_3: "Бристоль Бриганд"
+ JAM_cv_CAS_equipment_3_short: "Бриганд"
 
- JAM_fighter_equipment_0: "Gloster Gladiator"
- JAM_fighter_equipment_0_short: "Gladiator"
- JAM_cv_fighter_equipment_0: "Gloster Gladiator"
- JAM_cv_fighter_equipment_0_short: "Gladiator"
- JAM_fighter_equipment_1: "Vickers Venom"
- JAM_fighter_equipment_1_short: "Venom"
- JAM_cv_fighter_equipment_1: "Vickers Sea Venom"
- JAM_cv_fighter_equipment_1_short: "Sea Venom"
- JAM_fighter_equipment_2: "Gloster Paladin"
- JAM_fighter_equipment_2_short: "Paladin"
- JAM_cv_fighter_equipment_2: "Fairey Fulmar"
- JAM_cv_fighter_equipment_2_short: "Fulmar"
- JAM_fighter_equipment_3: "Martin-Baker Vindicator"
- JAM_fighter_equipment_3_short: "Vindicator"
- JAM_cv_fighter_equipment_3: "Fairey Firefly"
- JAM_cv_fighter_equipment_3_short: "Firefly"
- JAM_jet_fighter_equipment_1: "Gloster Meteor"
- JAM_jet_fighter_equipment_1_short: "Meteor"
- JAM_jet_fighter_equipment_2: "Vickers Kestrel"
- JAM_small_plane_airframe_5: "Vickers Kestrel"
- JAM_jet_fighter_equipment_2_short: "Kestrel"
- JAM_small_plane_airframe_5_short: "Kestrel"
+ JAM_fighter_equipment_0: "Глостер Гладиатор"
+ JAM_fighter_equipment_0_short: "Гладиатор"
+ JAM_cv_fighter_equipment_0: "Глостер Гладиатор"
+ JAM_cv_fighter_equipment_0_short: "Гладиатор"
+ JAM_fighter_equipment_1: "Виккерс Веном"
+ JAM_fighter_equipment_1_short: "Веном"
+ JAM_cv_fighter_equipment_1: "Авианосный Виккерс Веном"
+ JAM_cv_fighter_equipment_1_short: "Веном"
+ JAM_fighter_equipment_2: "Глостер Паладин"
+ JAM_fighter_equipment_2_short: "Паладин"
+ JAM_cv_fighter_equipment_2: "Фейри Фулмар"
+ JAM_cv_fighter_equipment_2_short: "Фулмар"
+ JAM_fighter_equipment_3: "Мартин-Бейкер Виндикатор"
+ JAM_fighter_equipment_3_short: "Виндикатор"
+ JAM_cv_fighter_equipment_3: "Фейри Файрфлай"
+ JAM_cv_fighter_equipment_3_short: "Файрфлай"
+ JAM_jet_fighter_equipment_1: "Глостер Метеор"
+ JAM_jet_fighter_equipment_1_short: "Метеор"
+ JAM_jet_fighter_equipment_2: "Виккерс Кестрел"
+ JAM_small_plane_airframe_5: "Викерс Кестрел" #NT!
+ JAM_jet_fighter_equipment_2_short: "Кестрел"
+ JAM_small_plane_airframe_5_short: "Пустельга" #NT!
 
- JAM_nav_bomber_equipment_1: "Fairey Swordfish"
- JAM_nav_bomber_equipment_1_short: "Swordfish"
- JAM_cv_nav_bomber_equipment_1: "Fairey Swordfish"
- JAM_cv_nav_bomber_equipment_1_short: "Swordfish"
- JAM_nav_bomber_equipment_2: "Fairey Albacore"
- JAM_nav_bomber_equipment_2_short: "Albacore"
- JAM_cv_nav_bomber_equipment_2: "Fairey Albacore"
- JAM_cv_nav_bomber_equipment_2_short: "Albacore"
- JAM_nav_bomber_equipment_3: "Fairey Barracuda"
- JAM_nav_bomber_equipment_3_short: "Barracuda"
- JAM_cv_nav_bomber_equipment_3: "Fairey Barracuda"
- JAM_cv_nav_bomber_equipment_3_short: "Barracuda"
+ JAM_nav_bomber_equipment_1: "Фейри Свордфиш"
+ JAM_nav_bomber_equipment_1_short: "Свордфиш"
+ JAM_cv_nav_bomber_equipment_1: "Фейри Свордфиш"
+ JAM_cv_nav_bomber_equipment_1_short: "Свордфиш"
+ JAM_nav_bomber_equipment_2: "Фейри Альбакор"
+ JAM_nav_bomber_equipment_2_short: "Альбакор"
+ JAM_cv_nav_bomber_equipment_2: "Фейри Альбакор"
+ JAM_cv_nav_bomber_equipment_2_short: "Альбакор"
+ JAM_nav_bomber_equipment_3: "Фейри Барракуда"
+ JAM_nav_bomber_equipment_3_short: "Барракуда"
+ JAM_cv_nav_bomber_equipment_3: "Фейри Барракуда"
+ JAM_cv_nav_bomber_equipment_3_short: "Барракуда"
 
- JAM_heavy_fighter_equipment_1: "Bristol Beaufighter"
- JAM_heavy_fighter_equipment_1_short: "Beaufighter"
- JAM_heavy_fighter_equipment_2: "Gloster Reaper"
- JAM_heavy_fighter_equipment_2_short: "Reaper"
- JAM_heavy_fighter_equipment_3: "Vickers Falcon"
- JAM_heavy_fighter_equipment_3_short: "Falcon"
+ JAM_heavy_fighter_equipment_1: "Бристоль Бефайтер"
+ JAM_heavy_fighter_equipment_1_short: "Бефайтер"
+ JAM_heavy_fighter_equipment_2: "Глостер Рипер"
+ JAM_heavy_fighter_equipment_2_short: "Рипер"
+ JAM_heavy_fighter_equipment_3: "Виккерс Фэлкон"
+ JAM_heavy_fighter_equipment_3_short: "Фэлкон"
 
  JAM_tac_bomber_equipment_0: "Fairey Hendon"
  JAM_tac_bomber_equipment_0_short: "Hendon"
@@ -5010,9 +5010,9 @@
  JAP_jet_fighter_equipment_1_short: "J9N Unryū"
  JAP_jet_fighter_equipment_1_desc: "After a German defector provided pictures and preliminary design plans of the Bf 262 to Japanese intelligence officers, the IJNAF was highly interested. Nakajima, having received a copy of these documents, sought to build their own. They cooperated with Ishikawajima to build the Ne-20 turbojet engine, and designed the aircraft to be more conventional compared to the Bf 262 with straight wings and a more aerodynamic fuselage. The resulting J9N Unryū would superficially resemble the Bf 262, but was otherwise a completely indigenous design."
  JAP_jet_fighter_equipment_2: "Kyūshū J7W Shinden-Kai"
- JAP_small_plane_airframe_5: "Kyūshū J7W Shinden-Kai"
+ JAP_small_plane_airframe_5: "Кюсю J7W Шинден-Кай" #NT!
  JAP_jet_fighter_equipment_2_short: "J7W Shinden-Kai"
- JAP_small_plane_airframe_5_short: "J7W Shinden-Kai"
+ JAP_small_plane_airframe_5_short: "J7W Шинден-Кай" #NT!
  JAP_jet_fighter_equipment_2_desc: "The J7W Shinden was designed to mount a radial engine, but the potential of mounting a turbojet engine was also kept in mind, such as the Ishikawajima Ne-20 that was still being tested. When the turbojet engines proved their worth on the J9N Unryū, the concept was realised, and the J7W1 mounted the improved Nakajima Ne-230 engines with improvements to the fighter's armament in the form of another pair of 30mm cannons."
 
  JAP_nav_bomber_equipment_1: "Mitsubishi G3M1"
@@ -5063,8 +5063,8 @@
  JAP_jet_tac_bomber_equipment_2_short: "Ki-190 Ryūjin"
  JAP_jet_tac_bomber_equipment_2_desc: "A modification of the Ki-67 Hiryū, the Army sought to improve the aircraft's speed further by mounting a pair of Mitsubishi Ne-330 turbojet engines. Initial mechanical issues aside, the Ki-190 Ryūjin achieved well in excess of 900 kmph for maximum speed during testing and was quickly adopted by the IJA. It would retain many of the features of the Ki-67 Hiryū, while enjoying the high speed provided by a turbojet engine."
 
- JAP_strat_bomber_equipment_0: "Mitsubishi Ki-20"
- JAP_strat_bomber_equipment_0_short: "Ki-20"
+ JAP_strat_bomber_equipment_0: "Митсубиси Ки-20" #NT!
+ JAP_strat_bomber_equipment_0_short: "Ки-20" #NT!
  JAP_strat_bomber_equipment_1: "Mitsubishi Ki-21"
  JAP_strat_bomber_equipment_1_short: "Ki-21"
  JAP_strat_bomber_equipment_1_desc: "After the initial testing and competition with the Nakajima Ki-19 design, the Ki-21 was proved to be better, having better speed. However, production was slow and the type only entered widespread service in 1939, by which the aircraft was considerably outdated and obsolete."
@@ -5078,7 +5078,7 @@
  JAP_jet_strat_bomber_equipment_1_short: "G12N Shōri"
  JAP_jet_strat_bomber_equipment_1_desc: "Due to the promising results of the turbo jet engine programme, the IJN requested the mechanically plagued G10N Fugaku to utilise the Nakajima Ne-230 engine. This necessitated significant rehauling of the airframe and the resulting aircraft was unrecognisable from the Fugaku, essentially being a new design, thus given a new designation and christened the Shōri."
 
- JAP_large_plane_maritime_patrol_plane_airframe_4_short: "K-200"
+ JAP_large_plane_maritime_patrol_plane_airframe_4_short: "К-200" #NT!
 
  JAP_scout_plane_equipment_1: "Mitsubishi Ki-46"
  JAP_scout_plane_equipment_1_short: "Ki-46"
@@ -5144,7 +5144,7 @@
  LAT_jet_fighter_equipment_1_short: "Bf-262"
  #Heinkel P.1079B:
  LAT_jet_fighter_equipment_2: "1948. g. modeļa iznīcinātājs 'Hb-179'"
- LAT_small_plane_airframe_5: "1948. g. modeļa iznīcinātājs 'Hb-179'"
+ LAT_small_plane_airframe_5: "1948 г. Модель iznīcinātajs 'Hb-179'" #NT!
  LAT_jet_fighter_equipment_2_short: "Hb-179"
  LAT_small_plane_airframe_5_short: "Hb-179"
 
@@ -5280,9 +5280,9 @@
  LIT_jet_fighter_equipment_1_short: "Bf 262"
  #Heinkel P.1079B:
  LIT_jet_fighter_equipment_2: "1948 m. modelio naikintuvas 'Hb 179'"
- LIT_small_plane_airframe_5: "1948 m. modelio naikintuvas 'Hb 179'"
+ LIT_small_plane_airframe_5: "1948 г. Модельо Наикинтувас 'Hb 179'" #NT!
  LIT_jet_fighter_equipment_2_short: "Hb 179"
- LIT_small_plane_airframe_5_short: "Hb 179"
+ LIT_small_plane_airframe_5_short: "Нб 179" #NT!
 
  #Modified ANBO-41
  LIT_nav_bomber_equipment_1: "1936 m. modelio lengvasis bombonešis 'ANBO 42'"
@@ -5396,9 +5396,9 @@
  EST_jet_fighter_equipment_1_short: "BF-262"
  #Heinkel P.1079B:
  EST_jet_fighter_equipment_2: "Hansa-Brandenburg Mudel 179"
- EST_small_plane_airframe_5: "Hansa-Brandenburg Mudel 179"
+ EST_small_plane_airframe_5: "Ганза-Бранденбург Мюдель 179" #NT!
  EST_jet_fighter_equipment_2_short: "HB-179"
- EST_small_plane_airframe_5_short: "HB-179"
+ EST_small_plane_airframe_5_short: "НВ-179" #NT!
 
  EST_nav_bomber_equipment_1: "Fieseler Mudel 167"
  EST_nav_bomber_equipment_1_short: "F-167"
@@ -5662,9 +5662,9 @@
  MOR_jet_fighter_equipment_1_short: "Bf 262"
  #Heinkel P.1079B:
  MOR_jet_fighter_equipment_2: "Hansa-Brandenburg Jagdflugzeug 179"
- MOR_small_plane_airframe_5: "Hansa-Brandenburg Jagdflugzeug 179"
+ MOR_small_plane_airframe_5: "Ганза-Бранденбург Ягдфлюгцойг 179" #NT!
  MOR_jet_fighter_equipment_2_short: "Hb 179"
- MOR_small_plane_airframe_5_short: "Hb 179"
+ MOR_small_plane_airframe_5_short: "Нб 179" #NT!
 
  MOR_nav_bomber_equipment_1: "Fieseler See-Mehrzweckflugzeug 167"
  MOR_nav_bomber_equipment_1_short: "Fi 167"
@@ -5800,7 +5800,7 @@
  NEE_jet_fighter_equipment_1_short: "Bell P-83"
  NEE_jet_fighter_equipment_2: "Vought F6U Pirate"
  NEE_jet_fighter_equipment_2_short: "F6U Pirate"
- NEE_small_plane_airframe_5_short: "F6U Pirate"
+ NEE_small_plane_airframe_5_short: "F6U Пират" #NT!
  NEE_cv_small_plane_airframe_4_short: "$USA_cv_small_plane_airframe_4_short$"
 
  NEE_small_plane_naval_bomber_airframe_0_short: "$USA_small_plane_naval_bomber_airframe_0_short$"
@@ -5955,9 +5955,9 @@
  NFA_jet_fighter_equipment_1_desc: "In 1944, French aircraft manufacturers were invited by government to submit aircraft for evolution of the 'Light Weight Strike Fighter' programme. The AD.1002 was designed by Maurice Delanne and engineers of Arsenal de l'Aéronautique to meet the requirement of the French military, to a missile-carrying small mid-wing monoplane with swept wings and retractable tricycle undercarriage. Accepted in service in 1945 after initial tests, the AD.1002 is first French serial jet fighter."
  #Sud-Ouest SO.6025 Espadon:
  NFA_jet_fighter_equipment_2: "Dewoitine D.6025 Combat, 1-place"
- NFA_small_plane_airframe_5: "Dewoitine D.6025 Combat, 1-place"
+ NFA_small_plane_airframe_5: "Девуатин D.6025 Комбат, 1-место" #NT!
  NFA_jet_fighter_equipment_2_short: "D.6025 C.1"
- NFA_small_plane_airframe_5_short: "D.6025 C.1"
+ NFA_small_plane_airframe_5_short: "Д.6025 С.1" #NT!
  NFA_jet_fighter_equipment_2_desc: "The D.6025 is a single-seat cantilever mid-wing monoplane interceptor powered by a 5000 lb thrust engine. Armed with six 20mm cannons or four 30mm cannons, the D.6025 is third representative of the D.6020 line, modified with liquid-fuel rocket engine beneath the fuselage. Accepted in service in 1949, the D.6025 is intended to replace the AD.1002 as the main French fighter."
 
  NFA_nav_bomber_equipment_1: "Latécoère Late 290 Torpille, Renseignement, 3-place"
@@ -6204,30 +6204,30 @@
 
  NOR_CAS_equipment_1: "Kjeller-Douglas 8A"
  NOR_CAS_equipment_1_short: "8A"
- NOR_CAS_equipment_2: "Kjeller-SAAB B17"
+ NOR_CAS_equipment_2: "Хьеллер-SAAB B17"
  NOR_CAS_equipment_2_short: "B17"
- NOR_CAS_equipment_3: "Kjeller-SAAB J21"
+ NOR_CAS_equipment_3: "Хьеллер-SAAB J21"
  NOR_CAS_equipment_3_short: "J21"
 
- NOR_fighter_equipment_0: "Kjeller-Gloster Gladiator"
- NOR_fighter_equipment_0_short: "Gladiator"
+ NOR_fighter_equipment_0: "Хьеллер-Глостер Гладиатор"
+ NOR_fighter_equipment_0_short: "Гладиатор"
  NOR_fighter_equipment_2: "Kjeller-FFVS J22"
  NOR_fighter_equipment_2_short: "J22"
- NOR_fighter_equipment_3: "Martin-Baker Vindicator"
- NOR_fighter_equipment_3_short: "Vindicator"
- NOR_jet_fighter_equipment_1: "Kjeller-SAAB J21R"
+ NOR_fighter_equipment_3: "Мартин-Бейкер Виндикатор"
+ NOR_fighter_equipment_3_short: "Виндикатор"
+ NOR_jet_fighter_equipment_1: "Хьеллер-SAAB J21R"
  NOR_jet_fighter_equipment_1_short: "J21R"
- NOR_jet_fighter_equipment_2: "Kjeller-SAAB J29 Tunnan"
- NOR_small_plane_airframe_5: "Kjeller-SAAB J29 Tunnan"
+ NOR_jet_fighter_equipment_2: "Хьеллер-SAAB J29 Tunnan"
+ NOR_small_plane_airframe_5: "Кьеллер-СААБ J29 Туннан" #NT!
  NOR_jet_fighter_equipment_2_short: "J29 Tunnan"
- NOR_small_plane_airframe_5_short: "J29 Tunnan"
+ NOR_small_plane_airframe_5_short: "J29 Туннан" #NT!
 
  NOR_nav_bomber_equipment_1: "M.F.-Northrop N-3PB Nomad"
  NOR_nav_bomber_equipment_1_short: "N-3PB Nomad"
  NOR_nav_bomber_equipment_2: "M.F.-Caproni Ca.314"
  NOR_nav_bomber_equipment_2_short: "Ca.314"
- NOR_nav_bomber_equipment_3: "Fairey Barracuda"
- NOR_nav_bomber_equipment_3_short: "Barracuda"
+ NOR_nav_bomber_equipment_3: "Фейри Барракуда"
+ NOR_nav_bomber_equipment_3_short: "Барракуда"
 
  NOR_tac_bomber_equipment_0: "Junkers Ju 52"
  NOR_tac_bomber_equipment_0_short: "Ju 52"
@@ -6235,7 +6235,7 @@
  NOR_tac_bomber_equipment_1_short: "SM.81"
  NOR_tac_bomber_equipment_2: "Bristol Beaufort"
  NOR_tac_bomber_equipment_2_short: "Beaufort"
- NOR_tac_bomber_equipment_3: "Kjeller-SAAB B18"
+ NOR_tac_bomber_equipment_3: "Хьеллер-SAAB B18"
  NOR_tac_bomber_equipment_3_short: "B18"
  NOR_jet_tac_bomber_equipment_1: "Bristol Banshee"
  NOR_jet_tac_bomber_equipment_1_short: "Banshee"
@@ -6244,8 +6244,8 @@
 
  NOR_heavy_fighter_equipment_1: "Kjeller-Fokker G.I"
  NOR_heavy_fighter_equipment_1_short: "G.I"
- NOR_heavy_fighter_equipment_2: "Kjeller-Gloster Reaper"
- NOR_heavy_fighter_equipment_2_short: "Reaper"
+ NOR_heavy_fighter_equipment_2: "Хьеллер-Глостер Рипер"
+ NOR_heavy_fighter_equipment_2_short: "Рипер"
  NOR_heavy_fighter_equipment_3: "Lockheed P-58 Chain Lightning"
  NOR_heavy_fighter_equipment_3_short: "P-58 Chain Lightning"
 
@@ -6274,61 +6274,61 @@
 ### NZL - New Zealand ###
 ###
 
- NZL_CAS_equipment_1: "Fairey Battle"
- NZL_CAS_equipment_1_short: "Battle"
- NZL_cv_CAS_equipment_1: "Fairey Battle"
- NZL_cv_CAS_equipment_1_short: "Battle"
- NZL_CAS_equipment_2: "Bristol Bisley"
- NZL_CAS_equipment_2_short: "Bisley"
- NZL_cv_CAS_equipment_2: "Bristol Bisley"
- NZL_cv_CAS_equipment_2_short: "Bisley"
- NZL_CAS_equipment_3: "Bristol Brigand"
- NZL_CAS_equipment_3_short: "Brigand"
- NZL_cv_CAS_equipment_3: "Bristol Brigand"
- NZL_cv_CAS_equipment_3_short: "Brigand"
+ NZL_CAS_equipment_1: "Фейри Бэттл"
+ NZL_CAS_equipment_1_short: "Бэттл"
+ NZL_cv_CAS_equipment_1: "Фейри Бэттл"
+ NZL_cv_CAS_equipment_1_short: "Бэттл"
+ NZL_CAS_equipment_2: "Бристоль Бисли"
+ NZL_CAS_equipment_2_short: "Бисли"
+ NZL_cv_CAS_equipment_2: "Бристоль Бисли"
+ NZL_cv_CAS_equipment_2_short: "Бисли"
+ NZL_CAS_equipment_3: "Бристоль Бриганд"
+ NZL_CAS_equipment_3_short: "Бриганд"
+ NZL_cv_CAS_equipment_3: "Бристоль Бриганд"
+ NZL_cv_CAS_equipment_3_short: "Бриганд"
 
- NZL_fighter_equipment_0: "Gloster Gladiator"
- NZL_fighter_equipment_0_short: "Gladiator"
- NZL_cv_fighter_equipment_0: "Gloster Gladiator"
- NZL_cv_fighter_equipment_0_short: "Gladiator"
- NZL_fighter_equipment_1: "Vickers Venom"
- NZL_fighter_equipment_1_short: "Venom"
- NZL_cv_fighter_equipment_1: "Vickers Sea Venom"
- NZL_cv_fighter_equipment_1_short: "Sea Venom"
- NZL_fighter_equipment_2: "Gloster Paladin"
- NZL_fighter_equipment_2_short: "Paladin"
- NZL_cv_fighter_equipment_2: "Fairey Fulmar"
- NZL_cv_fighter_equipment_2_short: "Fulmar"
- NZL_fighter_equipment_3: "Martin-Baker Vindicator"
- NZL_fighter_equipment_3_short: "Vindicator"
- NZL_cv_fighter_equipment_3: "Fairey Firefly"
- NZL_cv_fighter_equipment_3_short: "Firefly"
- NZL_jet_fighter_equipment_1: "Gloster Meteor"
- NZL_jet_fighter_equipment_1_short: "Meteor"
- NZL_jet_fighter_equipment_2: "Vickers Kestrel"
- NZL_small_plane_airframe_5: "Vickers Kestrel"
- NZL_jet_fighter_equipment_2_short: "Kestrel"
- NZL_small_plane_airframe_5_short: "Kestrel"
+ NZL_fighter_equipment_0: "Глостер Гладиатор"
+ NZL_fighter_equipment_0_short: "Гладиатор"
+ NZL_cv_fighter_equipment_0: "Глостер Гладиатор"
+ NZL_cv_fighter_equipment_0_short: "Гладиатор"
+ NZL_fighter_equipment_1: "Виккерс Веном"
+ NZL_fighter_equipment_1_short: "Веном"
+ NZL_cv_fighter_equipment_1: "Авианосный Виккерс Веном"
+ NZL_cv_fighter_equipment_1_short: "Веном"
+ NZL_fighter_equipment_2: "Глостер Паладин"
+ NZL_fighter_equipment_2_short: "Паладин"
+ NZL_cv_fighter_equipment_2: "Фейри Фулмар"
+ NZL_cv_fighter_equipment_2_short: "Фулмар"
+ NZL_fighter_equipment_3: "Мартин-Бейкер Виндикатор"
+ NZL_fighter_equipment_3_short: "Виндикатор"
+ NZL_cv_fighter_equipment_3: "Фейри Файрфлай"
+ NZL_cv_fighter_equipment_3_short: "Файрфлай"
+ NZL_jet_fighter_equipment_1: "Глостер Метеор"
+ NZL_jet_fighter_equipment_1_short: "Метеор"
+ NZL_jet_fighter_equipment_2: "Виккерс Кестрел"
+ NZL_small_plane_airframe_5: "Викерс Кестрел" #NT!
+ NZL_jet_fighter_equipment_2_short: "Кестрел"
+ NZL_small_plane_airframe_5_short: "Пустельга" #NT!
 
- NZL_nav_bomber_equipment_1: "Fairey Swordfish"
- NZL_nav_bomber_equipment_1_short: "Swordfish"
- NZL_cv_nav_bomber_equipment_1: "Fairey Swordfish"
- NZL_cv_nav_bomber_equipment_1_short: "Swordfish"
- NZL_nav_bomber_equipment_2: "Fairey Albacore"
- NZL_nav_bomber_equipment_2_short: "Albacore"
- NZL_cv_nav_bomber_equipment_2: "Fairey Albacore"
- NZL_cv_nav_bomber_equipment_2_short: "Albacore"
- NZL_nav_bomber_equipment_3: "Fairey Barracuda"
- NZL_nav_bomber_equipment_3_short: "Barracuda"
- NZL_cv_nav_bomber_equipment_3: "Fairey Barracuda"
- NZL_cv_nav_bomber_equipment_3_short: "Barracuda"
+ NZL_nav_bomber_equipment_1: "Фейри Свордфиш"
+ NZL_nav_bomber_equipment_1_short: "Свордфиш"
+ NZL_cv_nav_bomber_equipment_1: "Фейри Свордфиш"
+ NZL_cv_nav_bomber_equipment_1_short: "Свордфиш"
+ NZL_nav_bomber_equipment_2: "Фейри Альбакор"
+ NZL_nav_bomber_equipment_2_short: "Альбакор"
+ NZL_cv_nav_bomber_equipment_2: "Фейри Альбакор"
+ NZL_cv_nav_bomber_equipment_2_short: "Альбакор"
+ NZL_nav_bomber_equipment_3: "Фейри Барракуда"
+ NZL_nav_bomber_equipment_3_short: "Барракуда"
+ NZL_cv_nav_bomber_equipment_3: "Фейри Барракуда"
+ NZL_cv_nav_bomber_equipment_3_short: "Барракуда"
 
- NZL_heavy_fighter_equipment_1: "Bristol Beaufighter"
- NZL_heavy_fighter_equipment_1_short: "Beaufighter"
- NZL_heavy_fighter_equipment_2: "Gloster Reaper"
- NZL_heavy_fighter_equipment_2_short: "Reaper"
- NZL_heavy_fighter_equipment_3: "Vickers Falcon"
- NZL_heavy_fighter_equipment_3_short: "Falcon"
+ NZL_heavy_fighter_equipment_1: "Бристоль Бефайтер"
+ NZL_heavy_fighter_equipment_1_short: "Бефайтер"
+ NZL_heavy_fighter_equipment_2: "Глостер Рипер"
+ NZL_heavy_fighter_equipment_2_short: "Рипер"
+ NZL_heavy_fighter_equipment_3: "Виккерс Фэлкон"
+ NZL_heavy_fighter_equipment_3_short: "Фэлкон"
 
  NZL_tac_bomber_equipment_0: "Fairey Hendon"
  NZL_tac_bomber_equipment_0_short: "Hendon"
@@ -6463,9 +6463,9 @@
  TUR_jet_fighter_equipment_1_short: "Bf.262 'Fırtına'"
  #THK-16:
  TUR_jet_fighter_equipment_2: "Osmanlı Hava Kurumu Hızlı Avcı Uçağı Kalıp 16"
- TUR_small_plane_airframe_5: "Osmanlı Hava Kurumu Hızlı Avcı Uçağı Kalıp 16"
+ TUR_small_plane_airframe_5: "Османлы Хава Куруму Хызлы Авджи Учаги Калып 16" #NT!
  TUR_jet_fighter_equipment_2_short: "OHK-16 'Kalkan'"
- TUR_small_plane_airframe_5_short: "OHK-16 'Kalkan'"
+ TUR_small_plane_airframe_5_short: "ОХК-16 «Калкан»" #NT!
 
  #Jet based on THK-11 design + german engines:
  TUR_jet_tac_bomber_equipment_1: "Osmanlı Hava Kurumu Hızlı Bombardıman Uçağı Kalıp 12"
@@ -6692,9 +6692,9 @@
  PAL_jet_fighter_equipment_1_short: "Bf.262 'Fırtına'"
  #THK-16:
  PAL_jet_fighter_equipment_2: "Osmanlı Hava Kurumu Hızlı Avcı Uçağı Kalıp 16"
- PAL_small_plane_airframe_5: "Osmanlı Hava Kurumu Hızlı Avcı Uçağı Kalıp 16"
+ PAL_small_plane_airframe_5: "Османлы Хава Куруму Хызлы Авджи Учаги Калып 16" #NT!
  PAL_jet_fighter_equipment_2_short: "OHK-16 'Kalkan'"
- PAL_small_plane_airframe_5_short: "OHK-16 'Kalkan'"
+ PAL_small_plane_airframe_5_short: "ОХК-16 «Калкан»" #NT!
 
  #Jet based on THK-11 design + german engines:
  PAL_jet_tac_bomber_equipment_1: "Osmanlı Hava Kurumu Hızlı Bombardıman Uçağı Kalıp 12"
@@ -6993,9 +6993,9 @@
  POL_jet_fighter_equipment_1: "PZL.71 Orzeł"
  POL_jet_fighter_equipment_1_short: "Orzeł"
  POL_jet_fighter_equipment_2: "PZL.76 Sęp"
- POL_small_plane_airframe_5: "PZL.76 Sęp"
+ POL_small_plane_airframe_5: "PZL.76 Сенп" #NT!
  POL_jet_fighter_equipment_2_short: "Sęp"
- POL_small_plane_airframe_5_short: "Sęp"
+ POL_small_plane_airframe_5_short: "Сенп" #NT!
 
  POL_nav_bomber_equipment_1: "PZL.57 Foka"
  POL_nav_bomber_equipment_1_short: "Foka"
@@ -7083,20 +7083,20 @@
  POR_fighter_equipment_1_short: "Veneno"
  POR_cv_fighter_equipment_1: "Vickers Veneno"
  POR_cv_fighter_equipment_1_short: "Veneno"
- POR_fighter_equipment_2: "Gloster Paladino"
- POR_fighter_equipment_2_short: "Paladino"
- POR_cv_fighter_equipment_2: "Gloster Paladino"
- POR_cv_fighter_equipment_2_short: "Paladino"
+ POR_fighter_equipment_2: "Глостер Паладинo"
+ POR_fighter_equipment_2_short: "Паладинo"
+ POR_cv_fighter_equipment_2: "Глостер Паладинo"
+ POR_cv_fighter_equipment_2_short: "Паладинo"
  POR_fighter_equipment_3: "Martin-Baker Vindicador"
  POR_fighter_equipment_3_short: "Vindicador"
  POR_cv_fighter_equipment_3: "Martin-Baker Vindicador"
  POR_cv_fighter_equipment_3_short: "Vindicador"
- POR_jet_fighter_equipment_1: "Gloster Meteoro"
- POR_jet_fighter_equipment_1_short: "Meteoro"
+ POR_jet_fighter_equipment_1: "Глостер Метеорo"
+ POR_jet_fighter_equipment_1_short: "Метеорo"
  POR_jet_fighter_equipment_2: "Vickers Francelho"
- POR_small_plane_airframe_5: "Vickers Francelho"
+ POR_small_plane_airframe_5: "Викерс Франсельо" #NT!
  POR_jet_fighter_equipment_2_short: "Francelho"
- POR_small_plane_airframe_5_short: "Francelho"
+ POR_small_plane_airframe_5_short: "Франсельо" #NT!
 
  POR_nav_bomber_equipment_1: "Fairey Agulhão"
  POR_nav_bomber_equipment_1_short: "Agulhão"
@@ -7106,10 +7106,10 @@
  POR_nav_bomber_equipment_2_short: "Albacora"
  POR_cv_nav_bomber_equipment_2: "Fairey Albacora"
  POR_cv_nav_bomber_equipment_2_short: "Albacora"
- POR_nav_bomber_equipment_3: "Fairey Barracuda"
- POR_nav_bomber_equipment_3_short: "Barracuda"
- POR_cv_nav_bomber_equipment_3: "Fairey Barracuda"
- POR_cv_nav_bomber_equipment_3_short: "Barracuda"
+ POR_nav_bomber_equipment_3: "Фейри Барракуда"
+ POR_nav_bomber_equipment_3_short: "Барракуда"
+ POR_cv_nav_bomber_equipment_3: "Фейри Барракуда"
+ POR_cv_nav_bomber_equipment_3_short: "Барракуда"
 
  POR_heavy_fighter_equipment_1: "Bristol Braga"
  POR_heavy_fighter_equipment_1_short: "Braga"
@@ -7365,9 +7365,9 @@
  ROM_jet_fighter_equipment_1_short: "IAR I.25"
  #RUS jet fighter 2:
  ROM_jet_fighter_equipment_2: "Avion de vânătoare 'IAR I.2', model 1949, IAR"
- ROM_small_plane_airframe_5: "Avion de vânătoare 'IAR I.2', model 1949, IAR"
+ ROM_small_plane_airframe_5: "Avion de vânătoare 'IAR I.2', модель 1949 г., IAR" #NT!
  ROM_jet_fighter_equipment_2_short: "IAR I.2"
- ROM_small_plane_airframe_5_short: "IAR I.2"
+ ROM_small_plane_airframe_5_short: "ОАР I.2" #NT!
 
  ROM_nav_bomber_equipment_1: "Hidroavion de bombardare 'SET 7H', model 1934, SET"
  ROM_nav_bomber_equipment_1_short: "SET 7H"
@@ -7433,455 +7433,455 @@
 ###
 ### RUS - Russia ###
 ###
- AIR_WING_NAME_RUS_FALLBACK: "$NUMBER$-ya Aviatsionnaya Divizya"
- AIR_WING_NAME_RUS_GENERIC: "$NR$-ya $NAME$"
- AIR_WING_NAME_RUS_CARRIER: "$NR$-ya $NAME$"
+ AIR_WING_NAME_RUS_FALLBACK: "$NUMBER$-я авиационная дивизия"
+ AIR_WING_NAME_RUS_GENERIC: "$NR$-я $NAME$"
+ AIR_WING_NAME_RUS_CARRIER: "$NR$-я $NAME$"
 
- RUS_iw_small_airframe: "Biplane Airframe"
- RUS_iw_small_airframe_desc: "Biplanes are considered to be stable and manoeuvrable planes with limited speed. Out of various military biplanes produced in Russia, I-15 is the most successful and legendary. I-15 and its modifications are fast and stable, and are designed to operate together with more advanced I-16 as a wingman. While most biplanes start to be outdated in 1936 as aviation innovation is flying, they still form a decent backbone of the Russian Air Fleet."
- RUS_basic_small_airframe: "Monoplane Airframe"
- RUS_basic_small_airframe_desc: "Seen as the future of aircraft, monoplanes revolutionised speed standards of aviation. From the first proper monoplanes, the most noteworthy model is the I-16, which quickly became a legendary plane among pilots for its high-risk, high-reward manoeuvrability: aces would wield the I-16 as the deadliest weapon, but for an untrained pilot a single mistake could turn the plane into a flying coffin.\n\nWhile the Air Fleet concentrate their efforts on fighters, first proper close air support bombers are developed due to the Army demands - multi-role BB is the first experiment by the Russian Air Force in a plane that seeks to excel in all roles - as fighter, bomber and a scout plane."
- RUS_improved_small_airframe: "High-Speed Airframe"
- RUS_improved_small_airframe_desc: "As war approached, the Air Force opened a programme for high-speed aircraft. The programme cemented Skorost, Sokol and Duks as main producers of fighters, each with its own approach: Skorost tries to combine civilian quality and military standards, Duks design its planes with speed and heavy armament in mind and Sokol presents mass-produced planes.\n\nAt the same time, the army concentrated their demands on armoured close air support due to which such legendary armoured assaults planes BSh-2 and BSh-6 were born."
- RUS_advanced_small_airframe: "Full-Metal Airframe"
- RUS_advanced_small_airframe_desc: "Based on frontline experiences against various enemy plane designs, Russian aircraft developers like Skorost and Seversky concentrated their efforts on standardizing, balancing and fixing minuses of existing planes, instead of developing untested new designs. Wooden aircraft became a thing of the past, while weight and every detail was tested and lightened. Each of the new planes is supposed to be not only a better version of the previous one - but a completely different plane in practice, with almost all aspects of it being perfected."
- RUS_modern_small_airframe: "'Reactive Fighter'"
- RUS_modern_small_airframe_desc: "Initial Russian jet planes were pioneered by Skorost, which managed to beat Sokol in their development - mainly due to successful conversion of the I-30 fighter into a jet plane. While both Sokol and Skorost are primary producers of jet aircraft for the Russian Air Fleet, Skorost planes tend to be more reliable due to its slower process of development and borrowing ideas from other companies, while Sokol often brings unexpected breakthroughs with its revolutionary designs."
+ RUS_iw_small_airframe: "Планер биплана" #NT!
+ RUS_iw_small_airframe_desc: "Бипланы считаются устойчивыми и маневренными самолетами с ограниченной скоростью. Из множества военных бипланов, выпускаемых в России, И-15 является самым удачным и легендарным. И-15 и его модификации быстры и устойчивы и предназначены для совместной работы с более совершенными И-16 в качестве ведомого. Хотя большинство бипланов начали устаревать в 1936 году по мере развития авиационных инноваций, они по-прежнему составляют достойную основу российского Воздушного флота." #NT!
+ RUS_basic_small_airframe: "Планер моноплана" #NT!
+ RUS_basic_small_airframe_desc: "Монопланы, рассматриваемые как будущее самолетов, произвели революцию в стандартах скорости авиации. Из первых настоящих монопланов наиболее примечательной моделью является И-16, который быстро стал легендарным самолетом среди пилотов из-за своей рискованной и высокой маневренности: асы использовали И-16 как самое смертоносное оружие, но для неподготовленного пилота единственная ошибка могла превратить самолет в летающий гроб.\n\nВ то время как Воздушный флот концентрирует свои усилия на истребителях, благодаря армии разрабатываются первые настоящие бомбардировщики непосредственной авиационной поддержки. Требования - многоцелевой ББ - это первый эксперимент ВВС России с самолетом, который стремится преуспеть во всех ролях - истребителе, бомбардировщике и самолете-разведчике." #NT!
+ RUS_improved_small_airframe: "Высокоскоростной планер" #NT!
+ RUS_improved_small_airframe_desc: "С приближением войны ВВС открыли программу высокоскоростных самолетов. Программа закрепила за «Скоростью», «Соколом» и «Дуксом» основные производители истребителей, каждый со своим подходом: «Скорость» пытается объединить гражданское качество и военные стандарты, «Дукс» проектирует свои самолеты с учетом скорости и тяжелого вооружения, а «Сокол» представляет самолеты серийного производства.\n\nВ то же время армия сосредоточила свои требования на бронетехнике непосредственной авиационной поддержки, благодаря чему на свет появились такие легендарные бронированные штурмовики БШ-2 и БШ-6." #NT!
+ RUS_advanced_small_airframe: "Цельнометаллический планер" #NT!
+ RUS_advanced_small_airframe_desc: "Основываясь на фронтовом опыте борьбы с различными конструкциями самолетов противника, российские авиастроители, такие как Скорост и Северский, сосредоточили свои усилия на стандартизации, балансировке и устранении недостатков существующих самолетов, а не на разработке новых непроверенных конструкций. Деревянные самолеты ушли в прошлое, а вес и каждая деталь были проверены и облегчены. Предполагается, что каждый из новых самолетов будет не только улучшенной версией предыдущего, но и совершенно другим самолетом на практике, причем почти все его аспекты будут усовершенствованы." #NT!
+ RUS_modern_small_airframe: "«Реактивный истребитель»" #NT!
+ RUS_modern_small_airframe_desc: "Первыми российскими реактивными самолетами стала компания «Скорость», которой удалось обогнать «Сокол» в их разработке — главным образом благодаря успешной переделке истребителя И-30 в реактивный самолет. Хотя и «Сокол», и «Скорость» являются основными производителями реактивных самолетов для Воздушного флота России, самолеты «Скорость», как правило, более надежны из-за более медленного процесса разработки и заимствования идей у ​​других компаний, в то время как «Сокол» часто совершает неожиданные прорывы благодаря своим революционным конструкциям." #NT!
 
- RUS_iw_medium_airframe: "Multi-Purpose Airframe"
- RUS_medium_plane_airframe_0_desc: "The early 1930s Russian R-6 scout from TsAGI is a scouting plane with fighter functions, which can serve as a light bomber with its 500 kg payload. Conceptually it is a 'flying cruiser', flying equivalent of multi-purpose combat ship - large and unwieldy, and master at nothing. As more specialised planes entered production, multi-purpose scout planes started to be relegated to the transport role."
- RUS_basic_medium_airframe: "Dedicated Med. Bomber"
- RUS_medium_plane_airframe_1_desc: "As aircraft technologies developed rapidly, it became apparent that specialised planes are needed. The Russian Air Fleet ordered development of 2 specialised bombers in 1934: the SB - TsAGI's combat plane intended for closer ranges - and the OSOAVIA's long-range bomber DB-3. These give Russia the majority of its air support capacity. The role of medium bombers is growing increasingly important, especially in Russia with its vast operational distances."
- RUS_improved_medium_airframe: "STO Development"
- RUS_medium_plane_airframe_2_desc: "The Special Technical Department (STO) was organized for a short period of time by the military command to develop an ideal frontline support plane. The result of this programme became the Gamayun's '100' multi-purpose airframe with the FB-2 frontline bomber and the TIS-3 heavy fighter being offshoots of it. All STO designs received high praise from the military command and pilots, with new OSOAVIA’s DB-3F and Tsagi’s SB-2 being developed as continuation of specialised projects at the same time."
- RUS_advanced_medium_airframe: "Heavy Tactical Bomber"
- RUS_medium_plane_airframe_3_desc: "As the war progressed, medium bombers became more and more destructive, often armed with both rockets and bomb payloads rivaling those of earlier strategic bombers. However, the experience on the field showed that all previous designs lack in some aspects. DBs are inconvenient to use, PBs need to have higher payload and improved defence, FBs need better engines and TISes suffer from a multitude of issues. All these planes have potential to excel, with diligent development."
- RUS_modern_medium_airframe: "'Reactive Bomber'"
- RUS_medium_plane_airframe_4_desc: "Russian 'reactive bombers' is a never-ending competition between Gamayun and TsAGI. Initially losing to Gamayun’s RFB-2, TsAGI managed to return its position as the main developer of Russian tactical bombers with their RFB-4. Both developers have their pluses and minuses, and their aircraft follows pre-jet patterns - TsAGI develop spiritual successors of FB series, while Gamayun continue to use their DB series scheme."
+ RUS_iw_medium_airframe: "Многоцелевой планер" #NT!
+ RUS_medium_plane_airframe_0_desc: "Русский разведчик Р-6 начала 1930-х годов ЦАГИ — самолет-разведчик с функциями истребителя, который может выполнять функции легкого бомбардировщика с полезной нагрузкой 500 кг. Концептуально это «летающий крейсер», летающий эквивалент многоцелевого боевого корабля – большой, неповоротливый и ни в чем не владеющий. По мере того как в производство поступали более специализированные самолеты, многоцелевые самолеты-разведчики стали выполнять роль транспортных средств." #NT!
+ RUS_basic_medium_airframe: "Специализированный мед. Бомбардировщик" #NT!
+ RUS_medium_plane_airframe_1_desc: "По мере быстрого развития авиационных технологий стало очевидно, что необходимы специализированные самолеты. В 1934 году Воздушный флот России заказал разработку двух специализированных бомбардировщиков: СБ - боевого самолета ЦАГИ, предназначенного для ближних дальностей, - и дальнего бомбардировщика ОСОАВИА ДБ-3. Это дает России большую часть ее возможностей воздушной поддержки. Роль средних бомбардировщиков становится все более важной, особенно в России с ее огромными дальностями боевых действий." #NT!
+ RUS_improved_medium_airframe: "СТО Девелопмент" #NT!
+ RUS_medium_plane_airframe_2_desc: "Специальное техническое управление (СТО) было организовано на короткий период военным командованием для разработки идеального самолета фронтовой поддержки. Результатом этой программы стал многоцелевой планер «Гамаюн» «100», на базе которого появились фронтовой бомбардировщик ФБ-2 и тяжелый истребитель ТИС-3. Все разработки СТО получили высокую оценку военного командования и летчиков, при этом новые ДБ-3Ф ОСОАВИА и СБ-2 Цаги разрабатывались одновременно как продолжение специализированных проектов." #NT!
+ RUS_advanced_medium_airframe: "Тяжелый тактический бомбардировщик" #NT!
+ RUS_medium_plane_airframe_3_desc: "По мере развития войны средние бомбардировщики становились все более разрушительными, часто вооруженные как ракетами, так и бомбовой нагрузкой, конкурирующей с таковыми у более ранних стратегических бомбардировщиков. Однако опыт эксплуатации показал, что все предыдущие конструкции имеют некоторые недостатки. БД неудобны в использовании, ПБ должны иметь более высокую грузоподъемность и улучшенную защиту, ФБ нуждаются в лучших двигателях, а ТИС страдают множеством проблем. Все эти самолеты имеют потенциал для достижения успеха при усердном развитии." #NT!
+ RUS_modern_medium_airframe: "«Реактивный бомбардировщик»" #NT!
+ RUS_medium_plane_airframe_4_desc: "Российские «реактивные бомбардировщики» — это нескончаемая конкуренция между Гамаюном и ЦАГИ. Первоначально проиграв RFB-2 Гамаюна, ЦАГИ сумел вернуть свои позиции основного разработчика российских тактических бомбардировщиков со своим RFB-4. У обоих разработчиков есть свои плюсы и минусы, и их самолеты следуют дореактивным образцам - ЦАГИ разрабатывает духовных преемников серии ФБ, а Гамаюн продолжает использовать свою схему серии ДБ." #NT!
 
- RUS_iw_large_airframe: "The Flying Cruiser"
- RUS_large_plane_airframe_0_desc: "The early 1930s met quite an obsession for greater 'flying cruisers', which pinnacle is the 8-engine TK bomber with 12,000 kgs (26,500 pounds) payload, produced directly with Savinkov support in 1935. Though, the most numerous 'flying cruiser' plane in the Russian service is the TB-3 bomber - the basis of Russian strategic aviation. While those planes were outdated even by 1936, and generally quite bad, they were the first Russian heavy bombers used en masse."
- RUS_basic_large_airframe: "Long-Range Airframe"
- RUS_large_plane_airframe_1_desc: "Development of long-range bombers led to the appearance of the TB-7 bomber which is a replacement for outdated flying cruisers. It is the first truly modern strategic bomber in Russian service, with quite a big payload and high range of operation."
- RUS_improved_large_airframe: "Improved TB Series"
- RUS_large_plane_airframe_2_desc: "As strategic bombers are complex to produce, merely having high bomb payload is not enough. They need to be sufficiently armed to defend themselves against much cheaper fighters. To this end, TB-8 series were developed as an attempt to fix the main problems of the earlier TB-7 series. The plane received redesigned nose and tail together with modern engines. While being a worse strategic bomber than suggested by Sikorsky DVB, it is much simpler in production and thus received approval from the military command."
- RUS_advanced_large_airframe: "DVB Series"
- RUS_large_plane_airframe_3_desc: "The late war showed that standard heavy bombers are not up to their primary task of destroying enemy production facilities due to their limited range and ease of being shot down. The DVB series became the results of this revelation: there is no attempt to indulge in accurate targeting against 'military targets.' These planes are designed to be long-range high-altitude bombers, with a small fleet being able to destroy a city in one go."
- RUS_modern_large_airframe: "RTB Series"
- RUS_large_plane_airframe_4_desc: "TsAGI became the only Russian aviation developer specialised in strategic bombers, especially after Sikorsky moved to specialise in helicopters. TsAGI's RTB series is 3-engine aircraft with good flight characteristics and payload intended for continent-wide operations, but lacking range to perform effective intercontinental bombing runs. Despite this, RTB series flight characteristics are unbeatable in its class and the plane has a great room for further modernization."
+ RUS_iw_large_airframe: "Летающий крейсер" #NT!
+ RUS_large_plane_airframe_0_desc: "В начале 1930-х годов возникла одержимость более крупными «летучими крейсерами», вершиной которых является 8-моторный бомбардировщик ТК с полезной нагрузкой 12 000 кг (26 500 фунтов), произведенный непосредственно при поддержке Савинкова в 1935 году. Однако самым многочисленным самолетом «летающий крейсер» на вооружении России является бомбардировщик ТБ-3 - основа российской стратегической авиации. Хотя эти самолеты были устаревшими еще к 1936 году и в целом довольно плохими, они были первыми русскими тяжелыми бомбардировщиками, использовавшимися массово." #NT!
+ RUS_basic_large_airframe: "Планер дальнего действия" #NT!
+ RUS_large_plane_airframe_1_desc: "Развитие дальних бомбардировщиков привело к появлению бомбардировщика ТБ-7, который является заменой устаревшим летающим крейсерам. Это первый по-настоящему современный стратегический бомбардировщик на вооружении России, обладающий достаточно большой грузоподъемностью и высокой дальностью действия." #NT!
+ RUS_improved_large_airframe: "Улучшенная серия по туберкулезу" #NT!
+ RUS_large_plane_airframe_2_desc: "Поскольку стратегические бомбардировщики сложны в производстве, просто иметь большую бомбовую нагрузку недостаточно. Они должны быть достаточно вооружены, чтобы защититься от гораздо более дешевых истребителей. С этой целью серия ТБ-8 была разработана как попытка исправить основные проблемы более ранней серии ТБ-7. Самолет получил измененную носовую и хвостовую части вместе с современными двигателями. Будучи худшим стратегическим бомбардировщиком, чем предполагал Sikorsky DVB, он гораздо проще в производстве и поэтому получил одобрение военного командования." #NT!
+ RUS_advanced_large_airframe: "Серия DVB" #NT!
+ RUS_large_plane_airframe_3_desc: "Последняя война показала, что стандартные тяжелые бомбардировщики не справляются со своей основной задачей по уничтожению производственных объектов противника из-за их ограниченной дальности и легкости сбития. Результатом этого разоблачения стал сериал DVB: здесь нет попыток точного нацеливания на «военные цели». Эти самолеты спроектированы как дальние высотные бомбардировщики с небольшим флотом, способным уничтожить город за один раз." #NT!
+ RUS_modern_large_airframe: "РТБ-серия" #NT!
+ RUS_large_plane_airframe_4_desc: "ЦАГИ стал единственным российским авиаразработчиком, специализирующимся на стратегических бомбардировщиках, особенно после того, как Сикорский перешел на вертолетную специализацию. Серия РТБ ЦАГИ представляет собой трехдвигательный самолет с хорошими летными характеристиками и полезной нагрузкой, предназначенный для общеконтинентальных операций, но не обладающий дальностью полета для выполнения эффективных межконтинентальных бомбардировок. Несмотря на это, летные характеристики серии RTB непревзойденны в своем классе и самолет имеет большие возможности для дальнейшей модернизации." #NT!
 
  #DI-6:
- RUS_small_plane_cas_airframe_0_short: "DI-6"
+ RUS_small_plane_cas_airframe_0_short: "ДИ-6" #NT!
  #DI-6 CAS early:
- RUS_cv_small_plane_cas_airframe_0_short: "DShP-6"
+ RUS_cv_small_plane_cas_airframe_0_short: "ДШП-6" #NT!
  #Su-2:
- RUS_CAS_equipment_1: "Bombardirovshchik BB"
- RUS_CAS_equipment_1_short: "BB"
+ RUS_CAS_equipment_1: "Грушин. Штурмовик в.1"
+ RUS_CAS_equipment_1_short: "Ш-1"
  #DI-6 modified CV:
- RUS_cv_CAS_equipment_1: "Samolyot morskoy aviatsii DShP-7"
- RUS_cv_CAS_equipment_1_short: "DShP-7"
+ RUS_cv_CAS_equipment_1: "Сухой. Ближний бомбардировщик в.1P"
+ RUS_cv_CAS_equipment_1_short: "ББ-1P"
  #Su-6:
- RUS_CAS_equipment_2: "Shturmovik BSh-6"
- RUS_CAS_equipment_2_short: "BSh-6"
+ RUS_CAS_equipment_2: "Ильюшин. Бронированный штурмовик в.2"
+ RUS_CAS_equipment_2_short: "БШ-2"
  #OPB-5:
- RUS_cv_CAS_equipment_2: "Samolyot morskoy aviatsii KPB"
- RUS_cv_CAS_equipment_2_short: "KPB"
+ RUS_cv_CAS_equipment_2: "Кочеригин. Бронированный штурмовик в.5P"
+ RUS_cv_CAS_equipment_2_short: "БШ-5P"
  #Il-10:
- RUS_CAS_equipment_3: "Shturmovik BSh-10"
- RUS_CAS_equipment_3_short: "BSh-10"
+ RUS_CAS_equipment_3: "Сухой. Бронированный штурмовик в.6"
+ RUS_CAS_equipment_3_short: "БШ-6"
  #PT-1-M82:
- RUS_cv_CAS_equipment_3: "Samolyot morskoy aviatsii PM-1"
- RUS_cv_CAS_equipment_3_short: "PM-1"
+ RUS_cv_CAS_equipment_3: "Северский. Истребитель в.22P"
+ RUS_cv_CAS_equipment_3_short: "И-22P"
 
  #I-15:
- RUS_fighter_equipment_0: "Istrebitel I-15"
- RUS_fighter_equipment_0_short: "I-15"
+ RUS_fighter_equipment_0: "Поликарпов И-16"
+ RUS_fighter_equipment_0_short: "И-16"
  #DI-6 CV:
- RUS_cv_fighter_equipment_0: "Samolyot morskoy aviatsii DI-6P"
- RUS_cv_fighter_equipment_0_short: "DI-6P"
+ RUS_cv_fighter_equipment_0: "Поликарпов И-16П"
+ RUS_cv_fighter_equipment_0_short: "И-16П"
  #I-16:
- RUS_fighter_equipment_1: "Istrebitel I-16"
- RUS_fighter_equipment_1_short: "I-16"
+ RUS_fighter_equipment_1: "Яценко И-17"
+ RUS_fighter_equipment_1_short: "И-17"
  #Seversky P-35 changed CV:
- RUS_cv_fighter_equipment_1: "Samolyot morskoy aviatsii MIS-3P"
- RUS_cv_fighter_equipment_1_short: "MIS-3P"
+ RUS_cv_fighter_equipment_1: "Яценко И-17П"
+ RUS_cv_fighter_equipment_1_short: "И-17П"
  #Yak-7:
- RUS_fighter_equipment_2: "Istrebitel I-27"
- RUS_fighter_equipment_2_short: "I-27"
+ RUS_fighter_equipment_2: "Поликарпов И-18М"
+ RUS_fighter_equipment_2_short: "И-18М"
  #Republic P-43 CV:
- RUS_cv_fighter_equipment_2: "Samolyot morskoy aviatsii MIS-4P"
- RUS_cv_fighter_equipment_2_short: "MIS-4P"
+ RUS_cv_fighter_equipment_2: "Лавочкин-Горбунов-Гудков И-20П"
+ RUS_cv_fighter_equipment_2_short: "И-20П"
  #Yak-3:
- RUS_fighter_equipment_3: "Istrebitel I-30"
- RUS_fighter_equipment_3_short: "I-30"
+ RUS_fighter_equipment_3: "Микоян-Гуревич И-21"
+ RUS_fighter_equipment_3_short: "И-21"
  #OPB-5 fighter modification:
- RUS_cv_fighter_equipment_3: "Samolyot morskoy aviatsii PIS"
- RUS_cv_fighter_equipment_3_short: "PIS"
+ RUS_cv_fighter_equipment_3: "Лавочкин И-23П"
+ RUS_cv_fighter_equipment_3_short: "И-23П"
 
  #DI-6:
- RUS_small_plane_naval_bomber_airframe_0_short: "DI-6M"
+ RUS_small_plane_naval_bomber_airframe_0_short: "ДИ-6М" #NT!
  #DI-6 modified in torpedo composition:
- RUS_cv_small_plane_naval_bomber_airframe_0_short: "DShP-6T"
+ RUS_cv_small_plane_naval_bomber_airframe_0_short: "ДШП-6Т" #NT!
  #BSh-1 (Vultee-11):
- RUS_nav_bomber_equipment_1: "Samolyot morskoy aviatsii BSh"
- RUS_nav_bomber_equipment_1_short: "BSh"
+ RUS_nav_bomber_equipment_1: "Дальний бомбардировщик Ильюшина вер.3T"
+ RUS_nav_bomber_equipment_1_short: "ДБ-3T"
  #DI-6 modified in torpedo composition:
- RUS_cv_nav_bomber_equipment_1: "Samolyot morskoy aviatsii DShP-7T"
- RUS_cv_nav_bomber_equipment_1_short: "DShP-7T"
+ RUS_cv_nav_bomber_equipment_1: "Дальний бомбардировщик Ильюшина вер.3TP"
+ RUS_cv_nav_bomber_equipment_1_short: "ДБ-3TP"
  #Il-2T:
- RUS_nav_bomber_equipment_2: "Samolyot morskoy aviatsii BSh-2T"
- RUS_nav_bomber_equipment_2_short: "BSh-2T"
+ RUS_nav_bomber_equipment_2: "Дальний бомбардировщик Ильюшина вер.4T"
+ RUS_nav_bomber_equipment_2_short: "ДБ-4T"
  #OPB-5 in torpedo composition:
- RUS_cv_nav_bomber_equipment_2: "Samolyot morskoy aviatsii KPBT"
- RUS_cv_nav_bomber_equipment_2_short: "KPBT"
+ RUS_cv_nav_bomber_equipment_2: "Дальний бомбардировщик Ильюшина вер.4TP"
+ RUS_cv_nav_bomber_equipment_2_short: "ДБ-4TP"
  #PT-82:
- RUS_nav_bomber_equipment_3: "Samolyot morskoy aviatsii PM-2A"
- RUS_nav_bomber_equipment_3_short: "PM-2A"
+ RUS_nav_bomber_equipment_3: "Дальний бомбардировщик Ильюшина торпедоносный вер.1"
+ RUS_nav_bomber_equipment_3_short: "ДБТ-1"
  #PT-82:
- RUS_cv_nav_bomber_equipment_3: "Samolyot morskoy aviatsii PM-2"
- RUS_cv_nav_bomber_equipment_3_short: "PM-2"
+ RUS_cv_nav_bomber_equipment_3: "Дальний бомбардировщик Ильюшина торпедоносный вер.1P"
+ RUS_cv_nav_bomber_equipment_3_short: "ДБТ-1P"
 
  #ANT-46:
- RUS_medium_plane_fighter_airframe_0_short: "DI-5"
- RUS_heavy_fighter_equipment_1: "Istrebitel DI-8"
- RUS_heavy_fighter_equipment_1_short: "DI-8"
+ RUS_medium_plane_fighter_airframe_0_short: "ДИ-5" #NT!
+ RUS_heavy_fighter_equipment_1: "Высотный истребитель Петлякова ВИ-100"
+ RUS_heavy_fighter_equipment_1_short: "ВИ-100M"
  #Ta-3:
- RUS_heavy_fighter_equipment_2: "Istrebitel TIS-3"
- RUS_heavy_fighter_equipment_2_short: "TIS-3"
+ RUS_heavy_fighter_equipment_2: "Высотный истребитель Петлякова ПЕ-3"
+ RUS_heavy_fighter_equipment_2_short: "ПЕ-3"
  #TIS (MA):
- RUS_heavy_fighter_equipment_3: "Istrebitel TIS-4"
- RUS_heavy_fighter_equipment_3_short: "TIS-4"
+ RUS_heavy_fighter_equipment_3: "Тяжелый истребитель-перехватчик Туполева ТУ-1"
+ RUS_heavy_fighter_equipment_3_short: "TУ-1"
  #TIS (MA):
- RUS_medium_plane_fighter_airframe_4_short: "TIS-5"
+ RUS_medium_plane_fighter_airframe_4_short: "ТИС-5" #NT!
 
  #ANT-7:
- RUS_tac_bomber_equipment_0: "Razvedchik R-6"
- RUS_tac_bomber_equipment_0_short: "R-6"
+ RUS_tac_bomber_equipment_0: "Тяжёлый бомбардировщик Туполева вер.3"
+ RUS_tac_bomber_equipment_0_short: "ТБ-3"
  #DB-3:
- RUS_tac_bomber_equipment_1: "Bombardirovshchik DB-3"
- RUS_tac_bomber_equipment_1_short: "DB-3"
+ RUS_tac_bomber_equipment_1: "Архангельский скоростной бомбардировщик вер.2"
+ RUS_tac_bomber_equipment_1_short: "АР-СБ-2"
  #Tu-2:
- RUS_tac_bomber_equipment_2: "Bombardirovshchik FB-2"
- RUS_tac_bomber_equipment_2_short: "FB-2"
+ RUS_tac_bomber_equipment_2: "Скоростной бомбардировщик Ермолаева вер.6"
+ RUS_tac_bomber_equipment_2_short: "ЕР-6"
  #Tu-10:
- RUS_tac_bomber_equipment_3: "Bombardirovshchik FB-4"
- RUS_tac_bomber_equipment_3_short: "FB-4"
+ RUS_tac_bomber_equipment_3: "Скоростной бомбардировщик Туполева вер.10"
+ RUS_tac_bomber_equipment_3_short: "ТУ-10"
  #Tu-14:
- RUS_jet_tac_bomber_equipment_1: "Bombardirovshchik RFB-4"
- RUS_jet_tac_bomber_equipment_1_short: "RFB-4"
+ RUS_jet_tac_bomber_equipment_1: "Реактивный бомбардировщик Ильюшина вер.1"
+ RUS_jet_tac_bomber_equipment_1_short: "Ил-22"
  #Il-30:
- RUS_jet_tac_bomber_equipment_2: "Bombardirovshchik RFB-3"
- RUS_jet_tac_bomber_equipment_2_short: "RFB-3"
+ RUS_jet_tac_bomber_equipment_2: "Реактивный бомбардировщик Ильюшина вер.2"
+ RUS_jet_tac_bomber_equipment_2_short: "Ил-28"
 
- RUS_large_plane_airframe_0_short: "TB-3"
+ RUS_large_plane_airframe_0_short: "ТБ-3" #NT!
  #Pe-8:
- RUS_strat_bomber_equipment_1: "Bombardirovshchik TB-7"
- RUS_strat_bomber_equipment_1_short: "TB-7"
+ RUS_strat_bomber_equipment_1: "Тяжёлый бомбардировщик Петлякова вер.7"
+ RUS_strat_bomber_equipment_1_short: "TБ-7"
  #Airplane T:
- RUS_strat_bomber_equipment_2: "Bombardirovshchik TB-8"
+ RUS_strat_bomber_equipment_2: "Тяжёлый бомбардировщик Петлякова-Незвала вер.8"
  RUS_strat_bomber_equipment_2_short: "TB-8"
  #DVB-302:
- RUS_strat_bomber_equipment_3: "Bombardirovshchik DVB-3"
- RUS_strat_bomber_equipment_3_short: "DVB-3"
+ RUS_strat_bomber_equipment_3: "Тяжёлый бомбардировщик Туполева вер.10"
+ RUS_strat_bomber_equipment_3_short: "TБ-10"
  #Tu-16 changed:
- RUS_jet_strat_bomber_equipment_1: "Bombardirovshchik RTB-1"
- RUS_jet_strat_bomber_equipment_1_short: "RTB-1"
+ RUS_jet_strat_bomber_equipment_1: "Реактивный бомбардировщик Туполева вер.4"
+ RUS_jet_strat_bomber_equipment_1_short: "РБ-4"
 
- RUS_large_plane_maritime_patrol_plane_airframe_0_short: "MTB-1"
- RUS_large_plane_maritime_patrol_plane_airframe_1_short: "MTB-2"
- RUS_large_plane_maritime_patrol_plane_airframe_2_short: "MTB-3"
- RUS_large_plane_maritime_patrol_plane_airframe_3_short: "MTB-4"
- RUS_large_plane_maritime_patrol_plane_airframe_4_short: "MTB-5"
+ RUS_large_plane_maritime_patrol_plane_airframe_0_short: "МТБ-1" #NT!
+ RUS_large_plane_maritime_patrol_plane_airframe_1_short: "МТБ-2" #NT!
+ RUS_large_plane_maritime_patrol_plane_airframe_2_short: "МТБ-3" #NT!
+ RUS_large_plane_maritime_patrol_plane_airframe_3_short: "МТБ-4" #NT!
+ RUS_large_plane_maritime_patrol_plane_airframe_4_short: "МТБ-5" #NT!
 
  #Ant-49 scout, a SB modification:
- RUS_medium_plane_scout_plane_airframe_0_short: "DR-1"
- RUS_scout_plane_equipment_1: "Razvedchik DR-2"
+ RUS_medium_plane_scout_plane_airframe_0_short: "ДР-1" #NT!
+ RUS_scout_plane_equipment_1: "Камов А-1"
  RUS_scout_plane_equipment_1_short: "DR-2"
  #Pe-2 scout:
- RUS_scout_plane_equipment_2: "Razvedchik VR-100"
- RUS_scout_plane_equipment_2_short: "VR-100"
- RUS_medium_plane_scout_plane_airframe_3_short: "VR-111"
- RUS_medium_plane_scout_plane_airframe_4_short: "RVR-4"
+ RUS_scout_plane_equipment_2: "Яковлев ЯК-3"
+ RUS_scout_plane_equipment_2_short: "ЯК-3"
+ RUS_medium_plane_scout_plane_airframe_3_short: "ВР-111" #NT!
+ RUS_medium_plane_scout_plane_airframe_4_short: "РВР-4" #NT!
 
  #BI-1:
- RUS_rocket_interceptor_equipment: "Samolyot 'Perekhvatchik'"
- RUS_rocket_interceptor_equipment_short: "Perekhvatchik"
- RUS_rocket_interceptor_equipment_1: "Samolyot 'Perekhvatchik'"
- RUS_rocket_interceptor_equipment_1_short: "Perekhvatchik"
+ RUS_rocket_interceptor_equipment: "Самолет 'Перехватчик'" #NT!
+ RUS_rocket_interceptor_equipment_short: "Перехватчик" #NT!
+ RUS_rocket_interceptor_equipment_1: "Самолет 'Перехватчик'" #NT!
+ RUS_rocket_interceptor_equipment_1_short: "Перехватчик" #NT!
  #Malyutka:
- RUS_rocket_interceptor_equipment_2: "Samolyot-perekhvatchik 'Malyutka'"
- RUS_rocket_interceptor_equipment_2_short: "Malyutka"
+ RUS_rocket_interceptor_equipment_2: "Самолет-перехватчик "Малютка"" #NT!
+ RUS_rocket_interceptor_equipment_2_short: "Малютка" #NT!
  #302P:
- RUS_rocket_interceptor_equipment_3: "Samolyot-perekhvatchik IRDP"
+ RUS_rocket_interceptor_equipment_3: "Самолёт-перехватчик ИРДП" #NT!
  RUS_rocket_interceptor_equipment_3_short: "IRDP"
 
  #ANT-9:
- RUS_transport_plane_equipment_1: "Gruzovoy samolyot G-9"
+ RUS_transport_plane_equipment_1: "Грузовой самолет Г-9" #NT!
  RUS_transport_plane_equipment_1_short: "G-9"
  #Li-2 (PS-84K):
- RUS_transport_plane_equipment_2: "Gruzovoy samolyot G-5"
- RUS_transport_plane_equipment_2_short: "G-5"
+ RUS_transport_plane_equipment_2: "Грузовой самолет Г-5" #NT!
+ RUS_transport_plane_equipment_2_short: "Г-5" #NT!
  #Il-12D:
- RUS_transport_plane_equipment_3: "Gruzovoy samolyot G-12"
+ RUS_transport_plane_equipment_3: "Грузовой самолет Г-12" #NT!
  RUS_transport_plane_equipment_3_short: "G-12"
 
  #Yak-17:
- RUS_jet_fighter_equipment_1: "Istrebitel I-117"
- RUS_jet_fighter_equipment_1_short: "I-117"
+ RUS_jet_fighter_equipment_1: "Микоян-Гуревич МиГ-25Р"
+ RUS_jet_fighter_equipment_1_short: "МиГ-25Р"
  #Yak-50:
- RUS_jet_fighter_equipment_2: "Istrebitel RI-5"
- RUS_jet_fighter_equipment_2_short: "RI-5"
- RUS_small_plane_airframe_5_short:"RI-5"
+ RUS_jet_fighter_equipment_2: "Реактивный Микоян-Гуревич МиГ-2"
+ RUS_jet_fighter_equipment_2_short: "Р-2"
+ RUS_small_plane_airframe_5_short: "РИ-5" #NT!
  #Su-14
- RUS_small_plane_cas_airframe_4_short: "RSh-1"
+ RUS_small_plane_cas_airframe_4_short: "РШ-1" #NT!
  ##I-215 torpedo version
- RUS_small_plane_naval_bomber_airframe_4_short: "RI-2T"
+ RUS_small_plane_naval_bomber_airframe_4_short: "РИ-2Т" #NT!
  #I-215 CV
- RUS_cv_small_plane_airframe_4_short: "RI-2P"
+ RUS_cv_small_plane_airframe_4_short: "РИ-2П" #NT!
  #I-215 CV in CAS composition
- RUS_cv_small_plane_cas_airframe_4_short: "RI-2ShP"
+ RUS_cv_small_plane_cas_airframe_4_short: "РИ-2ШП" #NT!
  #I-215 CV in torpedo composition
- RUS_cv_small_plane_naval_bomber_airframe_4_short: "RI-2PT"
+ RUS_cv_small_plane_naval_bomber_airframe_4_short: "РИ-2ПТ" #NT!
  #Il-40
- RUS_small_plane_cas_airframe_5_short: "RSh-4"
+ RUS_small_plane_cas_airframe_5_short: "РШ-4" #NT!
  #Il-40 torpedo version
- RUS_small_plane_naval_bomber_airframe_5_short: "RSh-4T"
+ RUS_small_plane_naval_bomber_airframe_5_short: "РШ-4Т" #NT!
 
 ###
 ### RSA - Free Russian Army ###
 ###
  #Hs 123:
- RSA_CAS_equipment_1: "Shturmovik KhSh-123"
- RSA_CAS_equipment_1_short: "KhSh-123"
+ RSA_CAS_equipment_1: "Штурмовик ХШ-123" #NT!
+ RSA_CAS_equipment_1_short: "ХШ-123" #NT!
  #Hs 123:
- RSA_cv_CAS_equipment_1: "Samolyot morskoy aviatsii KhSh-123P"
- RSA_cv_CAS_equipment_1_short: "KhSh-123P"
+ RSA_cv_CAS_equipment_1: "Самолет морской авиации ХШ-123П" #NT!
+ RSA_cv_CAS_equipment_1_short: "ХШ-123П" #NT!
  #Hs 129:
- RSA_CAS_equipment_2: "Shturmovik KhSh-129"
- RSA_CAS_equipment_2_short: "KhSh-129"
+ RSA_CAS_equipment_2: "Штурмовик ХШ-129" #NT!
+ RSA_CAS_equipment_2_short: "ХШ-129" #NT!
  #Hs 129:
- RSA_cv_CAS_equipment_2: "Samolyot morskoy aviatsii KhSh-129P"
- RSA_cv_CAS_equipment_2_short: "KhSh-129P"
+ RSA_cv_CAS_equipment_2: "Самолёт морской авиации ХШ-129П" #NT!
+ RSA_cv_CAS_equipment_2_short: "ХШ-129П" #NT!
  #Il-10:
- RSA_CAS_equipment_3: "Shturmovik BSh-10"
- RSA_CAS_equipment_3_short: "BSh-10"
+ RSA_CAS_equipment_3: "Штурмовик БШ-10" #NT!
+ RSA_CAS_equipment_3_short: "БШ-10" #NT!
  #PT-1-M82:
- RSA_cv_CAS_equipment_3: "Samolyot morskoy aviatsii PM-1"
- RSA_cv_CAS_equipment_3_short: "PM-1"
+ RSA_cv_CAS_equipment_3: "Самолёт морской авиации ПМ-1" #NT!
+ RSA_cv_CAS_equipment_3_short: "ПМ-1" #NT!
  #Arado 68:
- RSA_fighter_equipment_0: "Istrebitel A-68"
- RSA_fighter_equipment_0_short: "A-68"
+ RSA_fighter_equipment_0: "Истребитель А-68" #NT!
+ RSA_fighter_equipment_0_short: "А-68" #NT!
  #Arado 68:
- RSA_cv_fighter_equipment_0: "Samolyot morskoy aviatsii A-68P"
- RSA_cv_fighter_equipment_0_short: "A-68P"
+ RSA_cv_fighter_equipment_0: "Самолёт морской авиации А-68П" #NT!
+ RSA_cv_fighter_equipment_0_short: "А-68П" #NT!
  #Bf 109:
- RSA_fighter_equipment_1: "Istrebitel BF-109"
- RSA_fighter_equipment_1_short: "BF-109"
+ RSA_fighter_equipment_1: "Истребитель БФ-109" #NT!
+ RSA_fighter_equipment_1_short: "БФ-109" #NT!
  #Bf 109:
- RSA_cv_fighter_equipment_1: "Samolyot morskoy aviatsii BF-109P"
- RSA_cv_fighter_equipment_1_short: "BF-109P"
+ RSA_cv_fighter_equipment_1: "Самолёт морской авиации BF-109П" #NT!
+ RSA_cv_fighter_equipment_1_short: "БФ-109П" #NT!
  #Fw 190:
- RSA_fighter_equipment_2: "Istrebitel FV-190"
- RSA_fighter_equipment_2_short: "FV-190"
+ RSA_fighter_equipment_2: "Истребитель ФВ-190" #NT!
+ RSA_fighter_equipment_2_short: "ФВ-190" #NT!
  #Fw 190:
- RSA_cv_fighter_equipment_2: "Samolyot morskoy aviatsii FV-190P"
- RSA_cv_fighter_equipment_2_short: "FV-190P"
+ RSA_cv_fighter_equipment_2: "Самолёт морской авиации ФВ-190П" #NT!
+ RSA_cv_fighter_equipment_2_short: "ФВ-190П" #NT!
  #Yak-3:
- RSA_fighter_equipment_3: "Istrebitel I-30"
- RSA_fighter_equipment_3_short: "I-30"
+ RSA_fighter_equipment_3: "Истребитель И-30" #NT!
+ RSA_fighter_equipment_3_short: "И-30" #NT!
  #OPB-5 fighter modification:
- RSA_cv_fighter_equipment_3: "Samolyot morskoy aviatsii PIS"
- RSA_cv_fighter_equipment_3_short: "PIS"
+ RSA_cv_fighter_equipment_3: "Самолёт морской авиации ПИС" #NT!
+ RSA_cv_fighter_equipment_3_short: "ПИС" #NT!
 
  #Fi 167:
- RSA_nav_bomber_equipment_1: "Samolyot morskoy aviatsii F-167"
- RSA_nav_bomber_equipment_1_short: "F-167"
+ RSA_nav_bomber_equipment_1: "Самолет морской авиации F-167" #NT!
+ RSA_nav_bomber_equipment_1_short: "Ф-167" #NT!
  #Fi 167:
- RSA_cv_nav_bomber_equipment_1: "Samolyot morskoy aviatsii F-167P"
- RSA_cv_nav_bomber_equipment_1_short: "F-167P"
+ RSA_cv_nav_bomber_equipment_1: "Самолет морской авиации F-167P" #NT!
+ RSA_cv_nav_bomber_equipment_1_short: "Ф-167П" #NT!
  #Fokker T.VIII:
- RSA_nav_bomber_equipment_2: "Samolyot morskoy aviatsii FT-80"
- RSA_nav_bomber_equipment_2_short: "FT-80"
+ RSA_nav_bomber_equipment_2: "Самолёт морской авиации ФТ-80" #NT!
+ RSA_nav_bomber_equipment_2_short: "ФТ-80" #NT!
  #Fokker T.VIII:
- RSA_cv_nav_bomber_equipment_2: "Samolyot morskoy aviatsii FT-80P"
- RSA_cv_nav_bomber_equipment_2_short: "FT-80P"
+ RSA_cv_nav_bomber_equipment_2: "Самолёт морской авиации ФТ-80П" #NT!
+ RSA_cv_nav_bomber_equipment_2_short: "ФТ-80П" #NT!
  #PT-82:
- RSA_nav_bomber_equipment_3: "Samolyot morskoy aviatsii PM-2A"
- RSA_nav_bomber_equipment_3_short: "PM-2A"
+ RSA_nav_bomber_equipment_3: "Самолёт морской авиации ПМ-2А" #NT!
+ RSA_nav_bomber_equipment_3_short: "ПМ-2А" #NT!
  #PT-82:
- RSA_cv_nav_bomber_equipment_3: "Samolyot morskoy aviatsii PM-2"
- RSA_cv_nav_bomber_equipment_3_short: "PM-2"
+ RSA_cv_nav_bomber_equipment_3: "Самолёт морской авиации ПМ-2" #NT!
+ RSA_cv_nav_bomber_equipment_3_short: "ПМ-2" #NT!
 
  #Bf 110 :
- RSA_heavy_fighter_equipment_1: "Istrebitel BF-110"
- RSA_heavy_fighter_equipment_1_short: "BF-110"
+ RSA_heavy_fighter_equipment_1: "Истребитель БФ-110" #NT!
+ RSA_heavy_fighter_equipment_1_short: "БФ-110" #NT!
  #Ju 88:
- RSA_heavy_fighter_equipment_2: "Istrebitel Yu-88"
- RSA_heavy_fighter_equipment_2_short: "Yu-88"
+ RSA_heavy_fighter_equipment_2: "Истребитель Ю-88" #NT!
+ RSA_heavy_fighter_equipment_2_short: "Ю-88" #NT!
  #TIS (MA):
- RSA_heavy_fighter_equipment_3: "Istrebitel TIS-4"
- RSA_heavy_fighter_equipment_3_short: "TIS-4"
+ RSA_heavy_fighter_equipment_3: "Истребитель ТИС-4" #NT!
+ RSA_heavy_fighter_equipment_3_short: "ТИС-4" #NT!
 
  #Ju 86 :
- RSA_tac_bomber_equipment_0: "Bombardirovshchik Yu-86"
- RSA_tac_bomber_equipment_0_short: "Yu-86"
+ RSA_tac_bomber_equipment_0: "Бомбардировщик Ю-86" #NT!
+ RSA_tac_bomber_equipment_0_short: "Ю-86" #NT!
  #He 111 :
- RSA_tac_bomber_equipment_1: "Bombardirovshchik Kh-111"
- RSA_tac_bomber_equipment_1_short: "Kh-111"
+ RSA_tac_bomber_equipment_1: "Бомбардировщик Х-111" #NT!
+ RSA_tac_bomber_equipment_1_short: "Х-111" #NT!
  #Do 217:
- RSA_tac_bomber_equipment_2: "Bombardirovshchik D-217"
- RSA_tac_bomber_equipment_2_short: "D-217"
+ RSA_tac_bomber_equipment_2: "Бомбардировщик Д-217" #NT!
+ RSA_tac_bomber_equipment_2_short: "Д-217" #NT!
  #Tu-10:
- RSA_tac_bomber_equipment_3: "Bombardirovshchik FB-4"
- RSA_tac_bomber_equipment_3_short: "FB-4"
+ RSA_tac_bomber_equipment_3: "Бомбардировщик ФБ-4" #NT!
+ RSA_tac_bomber_equipment_3_short: "ФБ-4" #NT!
  #Tu-14:
- RSA_jet_tac_bomber_equipment_1: "Bombardirovshchik RFB-4"
- RSA_jet_tac_bomber_equipment_1_short: "RFB-4"
+ RSA_jet_tac_bomber_equipment_1: "Бомбардировщик РФБ-4" #NT!
+ RSA_jet_tac_bomber_equipment_1_short: "РФБ-4" #NT!
  #Il-30:
- RSA_jet_tac_bomber_equipment_2: "Bombardirovshchik RFB-3"
- RSA_jet_tac_bomber_equipment_2_short: "RFB-3"
+ RSA_jet_tac_bomber_equipment_2: "Бомбардировщик РФБ-3" #NT!
+ RSA_jet_tac_bomber_equipment_2_short: "РФБ-3" #NT!
 
  #Do 19:
- RSA_strat_bomber_equipment_1: "Bombardirovshchik D-19"
- RSA_strat_bomber_equipment_1_short: "D-19"
+ RSA_strat_bomber_equipment_1: "Бомбардировщик Д-19" #NT!
+ RSA_strat_bomber_equipment_1_short: "Д-19" #NT!
  #He 177:
- RSA_strat_bomber_equipment_2: "Bombardirovshchik Kh-177"
- RSA_strat_bomber_equipment_2_short: "Kh-177"
+ RSA_strat_bomber_equipment_2: "Бомбардировщик Х-177" #NT!
+ RSA_strat_bomber_equipment_2_short: "Х-177" #NT!
  #DVB-302:
- RSA_strat_bomber_equipment_3: "Bombardirovshchik DVB-3"
- RSA_strat_bomber_equipment_3_short: "DVB-3"
+ RSA_strat_bomber_equipment_3: "Бомбардировщик ДВБ-3" #NT!
+ RSA_strat_bomber_equipment_3_short: "ДВБ-3" #NT!
  #Tu-16 changed:
- RSA_jet_strat_bomber_equipment_1: "Bombardirovshchik RTB-1"
- RSA_jet_strat_bomber_equipment_1_short: "RTB-1"
+ RSA_jet_strat_bomber_equipment_1: "Бомбардировщик РТБ-1" #NT!
+ RSA_jet_strat_bomber_equipment_1_short: "РТБ-1" #NT!
 
  #Hs 126 :
- RSA_scout_plane_equipment_1: "Razvedchik KhSh-126"
- RSA_scout_plane_equipment_1_short: "KhSh-126"
+ RSA_scout_plane_equipment_1: "Разведчик ХШ-126" #NT!
+ RSA_scout_plane_equipment_1_short: "ХШ-126" #NT!
  #Pe-2 scout:
- RSA_scout_plane_equipment_2: "Razvedchik VR-100"
- RSA_scout_plane_equipment_2_short: "VR-100"
+ RSA_scout_plane_equipment_2: "Разведчик ВР-100" #NT!
+ RSA_scout_plane_equipment_2_short: "ВР-100" #NT!
 
  #BI-1:
- RSA_rocket_interceptor_equipment_1: "Samolyot 'Perekhvatchik'"
- RSA_rocket_interceptor_equipment_1_short: "Perekhvatchik"
+ RSA_rocket_interceptor_equipment_1: "Самолет 'Перехватчик'" #NT!
+ RSA_rocket_interceptor_equipment_1_short: "Перехватчик" #NT!
  #Malyutka:
- RSA_rocket_interceptor_equipment_2: "Samolyot-perekhvatchik 'Malyutka'"
- RSA_rocket_interceptor_equipment_2_short: "Malyutka"
+ RSA_rocket_interceptor_equipment_2: "Самолет-перехватчик "Малютка"" #NT!
+ RSA_rocket_interceptor_equipment_2_short: "Малютка" #NT!
  #302P:
- RSA_rocket_interceptor_equipment_3: "Samolyot-perekhvatchik IRDP"
+ RSA_rocket_interceptor_equipment_3: "Самолёт-перехватчик ИРДП" #NT!
  RSA_rocket_interceptor_equipment_3_short: "IRDP"
 
  #ANT-9:
- RSA_transport_plane_equipment_1: "Gruzovoy samolyot G-9"
+ RSA_transport_plane_equipment_1: "Грузовой самолет Г-9" #NT!
  RSA_transport_plane_equipment_1_short: "G-9"
  #Li-2 (PS-84K):
- RSA_transport_plane_equipment_2: "Gruzovoy samolyot G-5"
- RSA_transport_plane_equipment_2_short: "G-5"
+ RSA_transport_plane_equipment_2: "Грузовой самолет Г-5" #NT!
+ RSA_transport_plane_equipment_2_short: "Г-5" #NT!
  #Il-12D:
- RSA_transport_plane_equipment_3: "Gruzovoy samolyot G-12"
+ RSA_transport_plane_equipment_3: "Грузовой самолет Г-12" #NT!
  RSA_transport_plane_equipment_3_short: "G-12"
 
  #Yak-17:
- RSA_jet_fighter_equipment_1: "Istrebitel I-117"
- RSA_jet_fighter_equipment_1_short: "I-117"
+ RSA_jet_fighter_equipment_1: "Истребитель I-117" #NT!
+ RSA_jet_fighter_equipment_1_short: "И-117" #NT!
  #Yak-50:
- RSA_jet_fighter_equipment_2: "Istrebitel RI-5"
- RSA_jet_fighter_equipment_2_short: "RI-5"
+ RSA_jet_fighter_equipment_2: "Истребитель РИ-5" #NT!
+ RSA_jet_fighter_equipment_2_short: "РИ-5" #NT!
  #Su-14
- RSA_small_plane_cas_airframe_4: "Shturmovik RSh-1"
- RSA_small_plane_cas_airframe_4_short: "RSh-1"
+ RSA_small_plane_cas_airframe_4: "Штурмовик РШ-1" #NT!
+ RSA_small_plane_cas_airframe_4_short: "РШ-1" #NT!
  ##I-215 torpedo version
- RSA_small_plane_naval_bomber_airframe_4: "Samolyot morskoy aviatsii RI-2T"
- RSA_small_plane_naval_bomber_airframe_4_short: "RI-2T"
+ RSA_small_plane_naval_bomber_airframe_4: "Самолёт морской авиации РИ-2Т" #NT!
+ RSA_small_plane_naval_bomber_airframe_4_short: "РИ-2Т" #NT!
  #I-215 CV
- RSA_cv_small_plane_airframe_4: "Samolyot morskoy aviatsii RI-2P"
- RSA_cv_small_plane_airframe_4_short: "RI-2P"
+ RSA_cv_small_plane_airframe_4: "Самолет морской авиации РИ-2П" #NT!
+ RSA_cv_small_plane_airframe_4_short: "РИ-2П" #NT!
  #I-215 CV in CAS composition
- RSA_cv_small_plane_cas_airframe_4: "Samolyot morskoy aviatsii RI-2ShP"
- RSA_cv_small_plane_cas_airframe_4_short: "RI-2ShP"
+ RSA_cv_small_plane_cas_airframe_4: "Самолёт морской авиации РИ-2ШП" #NT!
+ RSA_cv_small_plane_cas_airframe_4_short: "РИ-2ШП" #NT!
  #I-215 CV in torpedo composition
- RSA_cv_small_plane_naval_bomber_airframe_4: "Samolyot morskoy aviatsii RI-2PT"
- RSA_cv_small_plane_naval_bomber_airframe_4_short: "RI-2PT"
+ RSA_cv_small_plane_naval_bomber_airframe_4: "Самолет морской авиации РИ-2ПТ" #NT!
+ RSA_cv_small_plane_naval_bomber_airframe_4_short: "РИ-2ПТ" #NT!
  #Yak-50:
- RSA_small_plane_airframe_5: "Istrebitel RI-5"
- RSA_small_plane_airframe_5_short: "RI-5"
+ RSA_small_plane_airframe_5: "Истребитель РИ-5" #NT!
+ RSA_small_plane_airframe_5_short: "РИ-5" #NT!
  #Il-40
- RSA_small_plane_cas_airframe_5: "Shturmovik RSh-4"
- RSA_small_plane_cas_airframe_5_short: "RSh-4"
+ RSA_small_plane_cas_airframe_5: "Штурмовик РШ-4" #NT!
+ RSA_small_plane_cas_airframe_5_short: "РШ-4" #NT!
  #Il-40 torpedo version
- RSA_small_plane_naval_bomber_airframe_5: "Samolyot morskoy aviatsii RSh-4T"
- RSA_small_plane_naval_bomber_airframe_5_short: "RSh-4T"
+ RSA_small_plane_naval_bomber_airframe_5: "Самолёт морской авиации РШ-4Т" #NT!
+ RSA_small_plane_naval_bomber_airframe_5_short: "РШ-4Т" #NT!
 
- RSA_large_plane_maritime_patrol_plane_airframe_0: "Morskoy Bombardirovshchik MTB-1"
- RSA_large_plane_maritime_patrol_plane_airframe_0_short: "MTB-1"
- RSA_large_plane_maritime_patrol_plane_airframe_1: "Morskoy Bombardirovshchik MTB-2"
- RSA_large_plane_maritime_patrol_plane_airframe_1_short: "MTB-2"
- RSA_large_plane_maritime_patrol_plane_airframe_2: "Morskoy Bombardirovshchik MTB-3"
- RSA_large_plane_maritime_patrol_plane_airframe_2_short: "MTB-3"
- RSA_large_plane_maritime_patrol_plane_airframe_3: "Morskoy Bombardirovshchik MTB-4"
- RSA_large_plane_maritime_patrol_plane_airframe_3_short: "MTB-4"
- RSA_large_plane_maritime_patrol_plane_airframe_4: "Morskoy Bombardirovshchik MTB-5"
- RSA_large_plane_maritime_patrol_plane_airframe_4_short: "MTB-5"
+ RSA_large_plane_maritime_patrol_plane_airframe_0: "Морской Бомбардировщик МТБ-1" #NT!
+ RSA_large_plane_maritime_patrol_plane_airframe_0_short: "МТБ-1" #NT!
+ RSA_large_plane_maritime_patrol_plane_airframe_1: "Морской Бомбардировщик МТБ-2" #NT!
+ RSA_large_plane_maritime_patrol_plane_airframe_1_short: "МТБ-2" #NT!
+ RSA_large_plane_maritime_patrol_plane_airframe_2: "Морской Бомбардировщик МТБ-3" #NT!
+ RSA_large_plane_maritime_patrol_plane_airframe_2_short: "МТБ-3" #NT!
+ RSA_large_plane_maritime_patrol_plane_airframe_3: "Морской Бомбардировщик МТБ-4" #NT!
+ RSA_large_plane_maritime_patrol_plane_airframe_3_short: "МТБ-4" #NT!
+ RSA_large_plane_maritime_patrol_plane_airframe_4: "Морской Бомбардировщик МТБ-5" #NT!
+ RSA_large_plane_maritime_patrol_plane_airframe_4_short: "МТБ-5" #NT!
 
 ###
 ### SAF - Union of South Africa ###
 ###
 
- SAF_CAS_equipment_1: "Fairey Battle"
- SAF_CAS_equipment_1_short: "Battle"
- SAF_cv_CAS_equipment_1: "Fairey Battle"
- SAF_cv_CAS_equipment_1_short: "Battle"
- SAF_CAS_equipment_2: "Bristol Bisley"
- SAF_CAS_equipment_2_short: "Bisley"
- SAF_cv_CAS_equipment_2: "Bristol Bisley"
- SAF_cv_CAS_equipment_2_short: "Bisley"
- SAF_CAS_equipment_3: "Bristol Brigand"
- SAF_CAS_equipment_3_short: "Brigand"
- SAF_cv_CAS_equipment_3: "Bristol Brigand"
- SAF_cv_CAS_equipment_3_short: "Brigand"
+ SAF_CAS_equipment_1: "Фейри Бэттл"
+ SAF_CAS_equipment_1_short: "Бэттл"
+ SAF_cv_CAS_equipment_1: "Фейри Бэттл"
+ SAF_cv_CAS_equipment_1_short: "Бэттл"
+ SAF_CAS_equipment_2: "Бристоль Бисли"
+ SAF_CAS_equipment_2_short: "Бисли"
+ SAF_cv_CAS_equipment_2: "Бристоль Бисли"
+ SAF_cv_CAS_equipment_2_short: "Бисли"
+ SAF_CAS_equipment_3: "Бристоль Бриганд"
+ SAF_CAS_equipment_3_short: "Бриганд"
+ SAF_cv_CAS_equipment_3: "Бристоль Бриганд"
+ SAF_cv_CAS_equipment_3_short: "Бриганд"
 
- SAF_fighter_equipment_0: "Gloster Gladiator"
- SAF_fighter_equipment_0_short: "Gladiator"
- SAF_cv_fighter_equipment_0: "Gloster Gladiator"
- SAF_cv_fighter_equipment_0_short: "Gladiator"
- SAF_fighter_equipment_1: "Vickers Venom"
- SAF_fighter_equipment_1_short: "Venom"
- SAF_cv_fighter_equipment_1: "Vickers Sea Venom"
- SAF_cv_fighter_equipment_1_short: "Sea Venom"
- SAF_fighter_equipment_2: "Gloster Paladin"
- SAF_fighter_equipment_2_short: "Paladin"
- SAF_cv_fighter_equipment_2: "Fairey Fulmar"
- SAF_cv_fighter_equipment_2_short: "Fulmar"
- SAF_fighter_equipment_3: "Martin-Baker Vindicator"
- SAF_fighter_equipment_3_short: "Vindicator"
- SAF_cv_fighter_equipment_3: "Fairey Firefly"
- SAF_cv_fighter_equipment_3_short: "Firefly"
- SAF_jet_fighter_equipment_1: "Gloster Meteor"
- SAF_jet_fighter_equipment_1_short: "Meteor"
- SAF_jet_fighter_equipment_2: "Vickers Kestrel"
- SAF_small_plane_airframe_5: "Vickers Kestrel"
- SAF_jet_fighter_equipment_2_short: "Kestrel"
- SAF_small_plane_airframe_5_short: "Kestrel"
+ SAF_fighter_equipment_0: "Глостер Гладиатор"
+ SAF_fighter_equipment_0_short: "Гладиатор"
+ SAF_cv_fighter_equipment_0: "Глостер Гладиатор"
+ SAF_cv_fighter_equipment_0_short: "Гладиатор"
+ SAF_fighter_equipment_1: "Виккерс Веном"
+ SAF_fighter_equipment_1_short: "Веном"
+ SAF_cv_fighter_equipment_1: "Авианосный Виккерс Веном"
+ SAF_cv_fighter_equipment_1_short: "Веном"
+ SAF_fighter_equipment_2: "Глостер Паладин"
+ SAF_fighter_equipment_2_short: "Паладин"
+ SAF_cv_fighter_equipment_2: "Фейри Фулмар"
+ SAF_cv_fighter_equipment_2_short: "Фулмар"
+ SAF_fighter_equipment_3: "Мартин-Бейкер Виндикатор"
+ SAF_fighter_equipment_3_short: "Виндикатор"
+ SAF_cv_fighter_equipment_3: "Фейри Файрфлай"
+ SAF_cv_fighter_equipment_3_short: "Файрфлай"
+ SAF_jet_fighter_equipment_1: "Глостер Метеор"
+ SAF_jet_fighter_equipment_1_short: "Метеор"
+ SAF_jet_fighter_equipment_2: "Виккерс Кестрел"
+ SAF_small_plane_airframe_5: "Викерс Кестрел" #NT!
+ SAF_jet_fighter_equipment_2_short: "Кестрел"
+ SAF_small_plane_airframe_5_short: "Пустельга" #NT!
 
- SAF_nav_bomber_equipment_1: "Fairey Swordfish"
- SAF_nav_bomber_equipment_1_short: "Swordfish"
- SAF_cv_nav_bomber_equipment_1: "Fairey Swordfish"
- SAF_cv_nav_bomber_equipment_1_short: "Swordfish"
- SAF_nav_bomber_equipment_2: "Fairey Albacore"
- SAF_nav_bomber_equipment_2_short: "Albacore"
- SAF_cv_nav_bomber_equipment_2: "Fairey Albacore"
- SAF_cv_nav_bomber_equipment_2_short: "Albacore"
- SAF_nav_bomber_equipment_3: "Fairey Barracuda"
- SAF_nav_bomber_equipment_3_short: "Barracuda"
- SAF_cv_nav_bomber_equipment_3: "Fairey Barracuda"
- SAF_cv_nav_bomber_equipment_3_short: "Barracuda"
+ SAF_nav_bomber_equipment_1: "Фейри Свордфиш"
+ SAF_nav_bomber_equipment_1_short: "Свордфиш"
+ SAF_cv_nav_bomber_equipment_1: "Фейри Свордфиш"
+ SAF_cv_nav_bomber_equipment_1_short: "Свордфиш"
+ SAF_nav_bomber_equipment_2: "Фейри Альбакор"
+ SAF_nav_bomber_equipment_2_short: "Альбакор"
+ SAF_cv_nav_bomber_equipment_2: "Фейри Альбакор"
+ SAF_cv_nav_bomber_equipment_2_short: "Альбакор"
+ SAF_nav_bomber_equipment_3: "Фейри Барракуда"
+ SAF_nav_bomber_equipment_3_short: "Барракуда"
+ SAF_cv_nav_bomber_equipment_3: "Фейри Барракуда"
+ SAF_cv_nav_bomber_equipment_3_short: "Барракуда"
 
- SAF_heavy_fighter_equipment_1: "Bristol Beaufighter"
- SAF_heavy_fighter_equipment_1_short: "Beaufighter"
- SAF_heavy_fighter_equipment_2: "Gloster Reaper"
- SAF_heavy_fighter_equipment_2_short: "Reaper"
- SAF_heavy_fighter_equipment_3: "Vickers Falcon"
- SAF_heavy_fighter_equipment_3_short: "Falcon"
+ SAF_heavy_fighter_equipment_1: "Бристоль Бефайтер"
+ SAF_heavy_fighter_equipment_1_short: "Бефайтер"
+ SAF_heavy_fighter_equipment_2: "Глостер Рипер"
+ SAF_heavy_fighter_equipment_2_short: "Рипер"
+ SAF_heavy_fighter_equipment_3: "Виккерс Фэлкон"
+ SAF_heavy_fighter_equipment_3_short: "Фэлкон"
 
  SAF_tac_bomber_equipment_0: "Fairey Hendon"
  SAF_tac_bomber_equipment_0_short: "Hendon"
@@ -7938,9 +7938,9 @@
  SCA_jet_fighter_equipment_1_short: "J 21R"
  SCA_jet_fighter_equipment_1_desc: "After years of R&D, we've finally managed to build a jet fighter. The piston engine fighter J 21, which wasn't very efficient as a fighter, that's a fact. But it's a reliable and strong platform. Repowered with a jet engine and armed with 20 mm guns, the J 21R is entirely capable of defending our skies against the air invaders of the next years. No more propellers, time is for jets now."
  SCA_jet_fighter_equipment_2: "Kjeller-SAAB 29 Tunnan"
- SCA_small_plane_airframe_5: "Kjeller-SAAB 29 Tunnan"
+ SCA_small_plane_airframe_5: "Кьеллер-СААБ 29 Туннан" #NT!
  SCA_jet_fighter_equipment_2_short: "Kjeller-SAAB 29"
- SCA_small_plane_airframe_5_short: "Kjeller-SAAB 29"
+ SCA_small_plane_airframe_5_short: "Кьеллер-СААБ 29" #NT!
  SCA_jet_fighter_equipment_2_desc: "After the good result obtained with the J 21R, time is now to build a new jet fighter, with a new cell and not rebuilt from an old aircraft. The J 29 is the climax of our air industry: it has an advanced radar, bigger fuel tanks, air to air missiles and high speed. If we continue to build planes like the 'Tunnan', the skies of Scandinavia are guaranteed for the future."
 
  SCA_cv_fighter_equipment_0: "Svenska Aero J 6HS Jaktfalken"
@@ -8152,9 +8152,9 @@
  SER_jet_fighter_equipment_1_short: "IK-451M"
  #IK-451 Zolja:
  SER_jet_fighter_equipment_2: "Mlazni avion Ikarus IK-451 Zolja"
- SER_small_plane_airframe_5: "Mlazni avion Ikarus IK-451 Zolja"
+ SER_small_plane_airframe_5: "Млазни авион Икарус ИК-451 Золя" #NT!
  SER_jet_fighter_equipment_2_short: "IK-451M Zolja"
- SER_small_plane_airframe_5_short: "IK-451M Zolja"
+ SER_small_plane_airframe_5_short: "ИК-451М Золя" #NT!
 
  #SIM-XIV-H:
  SER_nav_bomber_equipment_1: "Obalski hidroavion bombarder Rogožarski SIM-XIV-H"
@@ -8262,9 +8262,9 @@
  SIA_jet_fighter_equipment_1_short: "BorKhor.16 Sinthop"
  # J7W Shinden-Kai:
  SIA_jet_fighter_equipment_2: "Kruengbin Kublai Baebthi-17 Archanai"
- SIA_small_plane_airframe_5: "Kruengbin Kublai Baebthi-17 Archanai"
+ SIA_small_plane_airframe_5: "Круенгбин Хубилай Баебти-17 Арчанай" #NT!
  SIA_jet_fighter_equipment_2_short: "BorKhor.17 Archanai"
- SIA_small_plane_airframe_5_short: "BorKhor.17 Archanai"
+ SIA_small_plane_airframe_5_short: "БорХор,17 Арчанай" #NT!
 
 # CloseAirSupport
  # Aero A.101, license-built:
@@ -8510,9 +8510,9 @@
  SLV_jet_fighter_equipment_1_short: "Bf.262"
  SLV_jet_fighter_equipment_1_desc: "Lagging behind in the development of jet fighters, Avia acquired a licence to produce the Bf 262 for the Fliegerkorps, replacing the German 30mm guns with locally-produced 20mm guns in their slightly-revised design."
  SLV_jet_fighter_equipment_2: "Letov L.52"
- SLV_small_plane_airframe_5: "Letov L.52"
+ SLV_small_plane_airframe_5: "Летов Л.52" #NT!
  SLV_jet_fighter_equipment_2_short: "L.52"
- SLV_small_plane_airframe_5_short: "L.52"
+ SLV_small_plane_airframe_5_short: "Л.52" #NT!
  SLV_jet_fighter_equipment_2_desc: "When Austro-Daimler developed the U2 'Uzelac' engine, Letov produced a state-of-the-art jet fighter that would become the Monarchy's first local jet aircraft adopted into service."
 
  SLV_nav_bomber_equipment_1: "Letov Š.328.v"
@@ -8729,12 +8729,12 @@
  SRI_CAS_equipment_3: "Reggiane Re.2006"
  SRI_CAS_equipment_3_short: "Re.2006"
 
- SRI_cv_CAS_equipment_1: "Fiat CB.65G"
+ SRI_cv_CAS_equipment_1: "Фиат CB.65G" #NT!
  SRI_cv_CAS_equipment_1_short: "CB.65G"
- SRI_cv_CAS_equipment_2: "Reggiane Re.2002G"
- SRI_cv_CAS_equipment_2_short: "Re.2002G"
- SRI_cv_CAS_equipment_3: "Reggiane Re.2006G"
- SRI_cv_CAS_equipment_3_short: "Re.2006G"
+ SRI_cv_CAS_equipment_2: "Реджиан Ре.2002G" #NT!
+ SRI_cv_CAS_equipment_2_short: "Ре.2002Г" #NT!
+ SRI_cv_CAS_equipment_3: "Реджиан Ре.2006G" #NT!
+ SRI_cv_CAS_equipment_3_short: "Ре.2006Г" #NT!
 
  SRI_fighter_equipment_0: "Fiat CR.32"
  SRI_fighter_equipment_0_short: "CR.32"
@@ -8745,21 +8745,21 @@
  SRI_fighter_equipment_3: "Fiat G.55"
  SRI_fighter_equipment_3_short: "G.55"
 
- SRI_cv_fighter_equipment_0: "Fiat ICR.32"
- SRI_cv_fighter_equipment_0_short: "ICR.32"
- SRI_cv_fighter_equipment_1: "Fiat IG.50"
- SRI_cv_fighter_equipment_1_short: "IG.50"
- SRI_cv_fighter_equipment_2: "Umbra AUT.18S"
- SRI_cv_fighter_equipment_2_short: "AUT.18S"
- SRI_cv_fighter_equipment_3: "Fiat G.55S"
- SRI_cv_fighter_equipment_3_short: "G.55S"
+ SRI_cv_fighter_equipment_0: "Фиат ICR.32" #NT!
+ SRI_cv_fighter_equipment_0_short: "МЦР.32" #NT!
+ SRI_cv_fighter_equipment_1: "Фиат ИГ.50" #NT!
+ SRI_cv_fighter_equipment_1_short: "ИГ.50" #NT!
+ SRI_cv_fighter_equipment_2: "Умбра AUT.18S" #NT!
+ SRI_cv_fighter_equipment_2_short: "АВТ.18С" #NT!
+ SRI_cv_fighter_equipment_3: "Фиат Г.55С" #NT!
+ SRI_cv_fighter_equipment_3_short: "Г.55С" #NT!
 
  SRI_jet_fighter_equipment_1: "Reggiane Re.2007"
  SRI_jet_fighter_equipment_1_short: "Re.2007"
  SRI_jet_fighter_equipment_2: "Reggiane Re.2008"
- SRI_small_plane_airframe_5: "Reggiane Re.2008"
+ SRI_small_plane_airframe_5: "Реджиан Ре.2008" #NT!
  SRI_jet_fighter_equipment_2_short: "Re.2008"
- SRI_small_plane_airframe_5_short: "Re.2008"
+ SRI_small_plane_airframe_5_short: "Ре.2008" #NT!
 
  SRI_nav_bomber_equipment_1: "Reggiane Re.79"   # SM.79/84/89
  SRI_nav_bomber_equipment_1_short: "Re.79"
@@ -8768,11 +8768,11 @@
  SRI_nav_bomber_equipment_3: "Reggiane Re.89"
  SRI_nav_bomber_equipment_3_short: "Re.89"
 
- SRI_cv_nav_bomber_equipment_1: "Reggiane Re.79G"
+ SRI_cv_nav_bomber_equipment_1: "Реджиан Re.79G" #NT!
  SRI_cv_nav_bomber_equipment_1_short: "Re.79G"
- SRI_cv_nav_bomber_equipment_2: "Reggiane Re.84G"
+ SRI_cv_nav_bomber_equipment_2: "Реджиан Re.84G" #NT!
  SRI_cv_nav_bomber_equipment_2_short: "Re.84G"
- SRI_cv_nav_bomber_equipment_3: "Reggiane Re.89G"
+ SRI_cv_nav_bomber_equipment_3: "Реджиан Re.89G" #NT!
  SRI_cv_nav_bomber_equipment_3_short: "Re.89G"
 
  SRI_tac_bomber_equipment_0: "Fiat BRG"
@@ -8803,12 +8803,12 @@
  SRI_scout_plane_equipment_2: "FIAT AS.14"
  SRI_scout_plane_equipment_2_short: "AS.14"
 
- SRI_transport_plane_equipment_1: "Fiat G.12"     #Currently uses Ca.133 icon
- SRI_transport_plane_equipment_1_short: "G.12"
- SRI_transport_plane_equipment_2: "Piaggio P.82"
- SRI_transport_plane_equipment_2_short: "P.82"
- SRI_transport_plane_equipment_3: "Piaggio P.95 GA"
- SRI_transport_plane_equipment_3_short: "P.95 GA"
+ SRI_transport_plane_equipment_1: "Фиат Г.12" #NT!
+ SRI_transport_plane_equipment_1_short: "Г.12" #NT!
+ SRI_transport_plane_equipment_2: "Пьяджо P.82" #NT!
+ SRI_transport_plane_equipment_2_short: "стр.82" #NT!
+ SRI_transport_plane_equipment_3: "Пьяджио P.95 GA" #NT!
+ SRI_transport_plane_equipment_3_short: "стр.95 ГА" #NT!
 
 ###
 ### SUR - Suriname ###
@@ -8921,9 +8921,9 @@
  SLO_jet_fighter_equipment_1_short: "Bf.262"
  SLO_jet_fighter_equipment_1_desc: "Lagging behind in the development of jet fighters, Avia acquired a licence to produce the Bf 262 for the Fliegerkorps, replacing the German 30mm guns with locally-produced 20mm guns in their slightly-revised design."
  SLO_jet_fighter_equipment_2: "Letov L.52"
- SLO_small_plane_airframe_5: "Letov L.52"
+ SLO_small_plane_airframe_5: "Летов Л.52" #NT!
  SLO_jet_fighter_equipment_2_short: "L.52"
- SLO_small_plane_airframe_5_short: "L.52"
+ SLO_small_plane_airframe_5_short: "Л.52" #NT!
  SLO_jet_fighter_equipment_2_desc: "When Austro-Daimler developed the U2 'Uzelac' engine, Letov produced a state-of-the-art jet fighter that would become the Monarchy's first local jet aircraft adopted into service."
 
  SLO_nav_bomber_equipment_1: "Letov Š.328.v"
@@ -9006,9 +9006,9 @@
  SWE_jet_fighter_equipment_1_short: "J 21R"
  SWE_jet_fighter_equipment_1_desc: "After years of R&D, we've finally managed to build a jet fighter. The piston engine fighter J 21, which wasn't very efficient as a fighter, that's a fact. But it's a reliable and strong platform. Repowered with a jet engine and armed with 20 mm guns, the J 21R is entirely capable of defending our skies against the air invaders of the next years. No more propellers, time is for jets now."
  SWE_jet_fighter_equipment_2: "SAAB 29 Tunnan"
- SWE_small_plane_airframe_5: "SAAB 29 Tunnan"
+ SWE_small_plane_airframe_5: "СААБ 29 Туннан" #NT!
  SWE_jet_fighter_equipment_2_short: "SAAB 29"
- SWE_small_plane_airframe_5_short: "SAAB 29"
+ SWE_small_plane_airframe_5_short: "СААБ 29" #NT!
  SWE_jet_fighter_equipment_2_desc: "After the good result obtained with the J 21R, time is now to build a new jet fighter, with a new cell and not rebuilt from an old aircraft. The J 29 is the climax of our air industry: it has an advanced radar, bigger fuel tanks, air to air missiles and high speed. If we continue to build planes like the 'Tunnan', the skies of Sweden are guaranteed for the future."
 
  SWE_cv_fighter_equipment_0: "Svenska Aero J 6HS Jaktfalken"
@@ -9131,9 +9131,9 @@
  SWF_jet_fighter_equipment_1: "Dassault Ouragan"
  SWF_jet_fighter_equipment_1_short: "Ouragan"
  SWF_jet_fighter_equipment_2: "Dassault Mystère"
- SWF_small_plane_airframe_5: "Dassault Mystère"
+ SWF_small_plane_airframe_5: "Дассо Мистер" #NT!
  SWF_jet_fighter_equipment_2_short: "Mystère"
- SWF_small_plane_airframe_5_short: "Mystère"
+ SWF_small_plane_airframe_5_short: "Мистер" #NT!
 
  SWF_nav_bomber_equipment_1: "Lioré-et-Olivier H.258"
  SWF_nav_bomber_equipment_1_short: "H.258"
@@ -9201,7 +9201,7 @@
  SWI_jet_fighter_equipment_2: "Flug und Fahrzeugwerke Altenrhein FFA P-16"
  SWI_small_plane_airframe_5: "Flug und Fahrzeugwerke Altenrhein FFA P-16"
  SWI_jet_fighter_equipment_2_short: "FFA P-16"
- SWI_small_plane_airframe_5_short: "FFA P-16"
+ SWI_small_plane_airframe_5_short: "ФФА П-16" #NT!
 
 ###
 ### APG - American People's Government ###
@@ -9217,8 +9217,8 @@
  APG_CAS_equipment_2_short: "$USA_CAS_equipment_2_short$"
  APG_cv_CAS_equipment_2: "$USA_cv_CAS_equipment_2$"
  APG_cv_CAS_equipment_2_short: "$USA_cv_CAS_equipment_2_short$"
- APG_CAS_equipment_3: "Fairchild A-30D Olympia"
- APG_CAS_equipment_3_short: "A-30D Olympian"
+ APG_CAS_equipment_3: "Фэйрчайлд А-30Д Олимпия" #NT!
+ APG_CAS_equipment_3_short: "А-30Д Олимпиец" #NT!
  APG_cv_CAS_equipment_3: "$USA_cv_CAS_equipment_3$"
  APG_cv_CAS_equipment_3_short: "$USA_cv_CAS_equipment_3_short$"
  APG_small_plane_cas_airframe_4_short: "$USA_small_plane_cas_airframe_4_short$"
@@ -9232,19 +9232,19 @@
  APG_fighter_equipment_1_short: "$USA_fighter_equipment_1_short$"
  APG_cv_fighter_equipment_1: "$USA_cv_fighter_equipment_1$"
  APG_cv_fighter_equipment_1_short: "$USA_cv_fighter_equipment_1_short$"
- APG_fighter_equipment_2: "Bell P-39 Airacobra"
- APG_fighter_equipment_2_short: "P-39 Airacobra"
+ APG_fighter_equipment_2: "Белл П-39 Аэрокобра" #NT!
+ APG_fighter_equipment_2_short: "P-39 Аэрокобра" #NT!
  APG_cv_fighter_equipment_2: "$USA_cv_fighter_equipment_2$"
  APG_cv_fighter_equipment_2_short: "$USA_cv_fighter_equipment_2_short$"
- APG_fighter_equipment_3: "North American P-51 Mustang"
- APG_fighter_equipment_3_short: "P-51 Mustang"
+ APG_fighter_equipment_3: "Североамериканский P-51 Мустанг" #NT!
+ APG_fighter_equipment_3_short: "П-51 Мустанг" #NT!
  APG_cv_fighter_equipment_3: "$USA_cv_fighter_equipment_3$"
  APG_cv_fighter_equipment_3_short: "$USA_cv_fighter_equipment_3_short$"
- APG_jet_fighter_equipment_1: "Lockheed P-80 Shooting Star"
- APG_jet_fighter_equipment_1_short: "P-80 Shooting Star"
- APG_jet_fighter_equipment_2: "Lockheed F-94 Starfire"
- APG_jet_fighter_equipment_2_short: "F-94 Starfire"
- APG_small_plane_airframe_5_short: "F-94 Starfire"
+ APG_jet_fighter_equipment_1: "Локхид P-80 Падающая звезда" #NT!
+ APG_jet_fighter_equipment_1_short: "P-80 Падающая звезда" #NT!
+ APG_jet_fighter_equipment_2: "Локхид F-94 Старфайр" #NT!
+ APG_jet_fighter_equipment_2_short: "F-94 Старфайр" #NT!
+ APG_small_plane_airframe_5_short: "F-94 Старфайр" #NT!
  APG_cv_small_plane_airframe_4_short: "$USA_cv_small_plane_airframe_4_short$"
 
  APG_small_plane_naval_bomber_airframe_0_short: "$USA_small_plane_naval_bomber_airframe_0_short$"
@@ -9257,8 +9257,8 @@
  APG_nav_bomber_equipment_2_short: "$USA_nav_bomber_equipment_2_short$"
  APG_cv_nav_bomber_equipment_2: "$USA_cv_nav_bomber_equipment_2$"
  APG_cv_nav_bomber_equipment_2_short: "$USA_cv_nav_bomber_equipment_2_short$"
- APG_nav_bomber_equipment_3: "Curtiss SB3C-1 Hound"
- APG_nav_bomber_equipment_3_short: "SB3C-1 Hound"
+ APG_nav_bomber_equipment_3: "Curtiss SB3C-1 Гончая" #NT!
+ APG_nav_bomber_equipment_3_short: "SB3C-1 Гончая" #NT!
  APG_cv_nav_bomber_equipment_3: "$USA_cv_nav_bomber_equipment_3$"
  APG_cv_nav_bomber_equipment_3_short: "$USA_cv_nav_bomber_equipment_3_short$"
  APG_small_plane_naval_bomber_airframe_4_short: "$USA_small_plane_naval_bomber_airframe_4_short$"
@@ -9269,8 +9269,8 @@
  APG_heavy_fighter_equipment_1_short: "$USA_heavy_fighter_equipment_1_short$"
  APG_heavy_fighter_equipment_2: "$USA_heavy_fighter_equipment_2$"
  APG_heavy_fighter_equipment_2_short: "$USA_heavy_fighter_equipment_2_short$"
- APG_heavy_fighter_equipment_3: "Grumman P-65 Tigercat"
- APG_heavy_fighter_equipment_3_short: "P-65 Tigercat"
+ APG_heavy_fighter_equipment_3: "Грумман P-65 Тайгеркэт" #NT!
+ APG_heavy_fighter_equipment_3_short: "P-65 Тайгеркэт" #NT!
  APG_medium_plane_fighter_airframe_4_short: "$USA_medium_plane_fighter_airframe_4_short$"
 
  APG_tac_bomber_equipment_0: "$USA_tac_bomber_equipment_0$"
@@ -9308,10 +9308,10 @@
  APG_medium_plane_scout_plane_airframe_3_short: "$USA_medium_plane_scout_plane_airframe_3_short$"
  APG_medium_plane_scout_plane_airframe_4_short: "$USA_medium_plane_scout_plane_airframe_4_short$"
 
- APG_scout_plane_equipment_1: "Douglas O-46"
- APG_scout_plane_equipment_1_short: "O-46"
- APG_scout_plane_equipment_2: "Curtiss O-52 Owl"
- APG_scout_plane_equipment_2_short: "O-52 Owl"
+ APG_scout_plane_equipment_1: "Дуглас О-46" #NT!
+ APG_scout_plane_equipment_1_short: "О-46" #NT!
+ APG_scout_plane_equipment_2: "Кертисс О-52 Сова" #NT!
+ APG_scout_plane_equipment_2_short: "О-52 Сова" #NT!
 
  APG_transport_plane_equipment_1: "$USA_transport_plane_equipment_1$"
  APG_transport_plane_equipment_1_short: "$USA_transport_plane_equipment_1_short$"
@@ -9350,61 +9350,61 @@
 ### TRI - Trinidad ###
 ###
 
- TRI_CAS_equipment_1: "Fairey Battle"
- TRI_CAS_equipment_1_short: "Battle"
- TRI_cv_CAS_equipment_1: "Fairey Battle"
- TRI_cv_CAS_equipment_1_short: "Battle"
- TRI_CAS_equipment_2: "Bristol Bisley"
- TRI_CAS_equipment_2_short: "Bisley"
- TRI_cv_CAS_equipment_2: "Bristol Bisley"
- TRI_cv_CAS_equipment_2_short: "Bisley"
- TRI_CAS_equipment_3: "Bristol Brigand"
- TRI_CAS_equipment_3_short: "Brigand"
- TRI_cv_CAS_equipment_3: "Bristol Brigand"
- TRI_cv_CAS_equipment_3_short: "Brigand"
+ TRI_CAS_equipment_1: "Фейри Бэттл"
+ TRI_CAS_equipment_1_short: "Бэттл"
+ TRI_cv_CAS_equipment_1: "Фейри Бэттл"
+ TRI_cv_CAS_equipment_1_short: "Бэттл"
+ TRI_CAS_equipment_2: "Бристоль Бисли"
+ TRI_CAS_equipment_2_short: "Бисли"
+ TRI_cv_CAS_equipment_2: "Бристоль Бисли"
+ TRI_cv_CAS_equipment_2_short: "Бисли"
+ TRI_CAS_equipment_3: "Бристоль Бриганд"
+ TRI_CAS_equipment_3_short: "Бриганд"
+ TRI_cv_CAS_equipment_3: "Бристоль Бриганд"
+ TRI_cv_CAS_equipment_3_short: "Бриганд"
 
- TRI_fighter_equipment_0: "Gloster Gladiator"
- TRI_fighter_equipment_0_short: "Gladiator"
- TRI_cv_fighter_equipment_0: "Gloster Gladiator"
- TRI_cv_fighter_equipment_0_short: "Gladiator"
- TRI_fighter_equipment_1: "Vickers Venom"
- TRI_fighter_equipment_1_short: "Venom"
- TRI_cv_fighter_equipment_1: "Vickers Sea Venom"
- TRI_cv_fighter_equipment_1_short: "Sea Venom"
- TRI_fighter_equipment_2: "Gloster Paladin"
- TRI_fighter_equipment_2_short: "Paladin"
- TRI_cv_fighter_equipment_2: "Fairey Fulmar"
- TRI_cv_fighter_equipment_2_short: "Fulmar"
- TRI_fighter_equipment_3: "Martin-Baker Vindicator"
- TRI_fighter_equipment_3_short: "Vindicator"
- TRI_cv_fighter_equipment_3: "Fairey Firefly"
- TRI_cv_fighter_equipment_3_short: "Firefly"
- TRI_jet_fighter_equipment_1: "Gloster Meteor"
- TRI_jet_fighter_equipment_1_short: "Meteor"
- TRI_jet_fighter_equipment_2: "Vickers Kestrel"
- TRI_small_plane_airframe_5: "Vickers Kestrel"
- TRI_jet_fighter_equipment_2_short: "Kestrel"
- TRI_small_plane_airframe_5_short: "Kestrel"
+ TRI_fighter_equipment_0: "Глостер Гладиатор"
+ TRI_fighter_equipment_0_short: "Гладиатор"
+ TRI_cv_fighter_equipment_0: "Глостер Гладиатор"
+ TRI_cv_fighter_equipment_0_short: "Гладиатор"
+ TRI_fighter_equipment_1: "Виккерс Веном"
+ TRI_fighter_equipment_1_short: "Веном"
+ TRI_cv_fighter_equipment_1: "Авианосный Виккерс Веном"
+ TRI_cv_fighter_equipment_1_short: "Веном"
+ TRI_fighter_equipment_2: "Глостер Паладин"
+ TRI_fighter_equipment_2_short: "Паладин"
+ TRI_cv_fighter_equipment_2: "Фейри Фулмар"
+ TRI_cv_fighter_equipment_2_short: "Фулмар"
+ TRI_fighter_equipment_3: "Мартин-Бейкер Виндикатор"
+ TRI_fighter_equipment_3_short: "Виндикатор"
+ TRI_cv_fighter_equipment_3: "Фейри Файрфлай"
+ TRI_cv_fighter_equipment_3_short: "Файрфлай"
+ TRI_jet_fighter_equipment_1: "Глостер Метеор"
+ TRI_jet_fighter_equipment_1_short: "Метеор"
+ TRI_jet_fighter_equipment_2: "Виккерс Кестрел"
+ TRI_small_plane_airframe_5: "Викерс Кестрел" #NT!
+ TRI_jet_fighter_equipment_2_short: "Кестрел"
+ TRI_small_plane_airframe_5_short: "Пустельга" #NT!
 
- TRI_nav_bomber_equipment_1: "Fairey Swordfish"
- TRI_nav_bomber_equipment_1_short: "Swordfish"
- TRI_cv_nav_bomber_equipment_1: "Fairey Swordfish"
- TRI_cv_nav_bomber_equipment_1_short: "Swordfish"
- TRI_nav_bomber_equipment_2: "Fairey Albacore"
- TRI_nav_bomber_equipment_2_short: "Albacore"
- TRI_cv_nav_bomber_equipment_2: "Fairey Albacore"
- TRI_cv_nav_bomber_equipment_2_short: "Albacore"
- TRI_nav_bomber_equipment_3: "Fairey Barracuda"
- TRI_nav_bomber_equipment_3_short: "Barracuda"
- TRI_cv_nav_bomber_equipment_3: "Fairey Barracuda"
- TRI_cv_nav_bomber_equipment_3_short: "Barracuda"
+ TRI_nav_bomber_equipment_1: "Фейри Свордфиш"
+ TRI_nav_bomber_equipment_1_short: "Свордфиш"
+ TRI_cv_nav_bomber_equipment_1: "Фейри Свордфиш"
+ TRI_cv_nav_bomber_equipment_1_short: "Свордфиш"
+ TRI_nav_bomber_equipment_2: "Фейри Альбакор"
+ TRI_nav_bomber_equipment_2_short: "Альбакор"
+ TRI_cv_nav_bomber_equipment_2: "Фейри Альбакор"
+ TRI_cv_nav_bomber_equipment_2_short: "Альбакор"
+ TRI_nav_bomber_equipment_3: "Фейри Барракуда"
+ TRI_nav_bomber_equipment_3_short: "Барракуда"
+ TRI_cv_nav_bomber_equipment_3: "Фейри Барракуда"
+ TRI_cv_nav_bomber_equipment_3_short: "Барракуда"
 
- TRI_heavy_fighter_equipment_1: "Bristol Beaufighter"
- TRI_heavy_fighter_equipment_1_short: "Beaufighter"
- TRI_heavy_fighter_equipment_2: "Gloster Reaper"
- TRI_heavy_fighter_equipment_2_short: "Reaper"
- TRI_heavy_fighter_equipment_3: "Vickers Falcon"
- TRI_heavy_fighter_equipment_3_short: "Falcon"
+ TRI_heavy_fighter_equipment_1: "Бристоль Бефайтер"
+ TRI_heavy_fighter_equipment_1_short: "Бефайтер"
+ TRI_heavy_fighter_equipment_2: "Глостер Рипер"
+ TRI_heavy_fighter_equipment_2_short: "Рипер"
+ TRI_heavy_fighter_equipment_3: "Виккерс Фэлкон"
+ TRI_heavy_fighter_equipment_3_short: "Фэлкон"
 
  TRI_tac_bomber_equipment_0: "Fairey Hendon"
  TRI_tac_bomber_equipment_0_short: "Hendon"
@@ -9471,9 +9471,9 @@
  TRS_jet_fighter_equipment_1_short: "Bf.262"
  TRS_jet_fighter_equipment_1_desc: "Lagging behind in the development of jet fighters, Avia acquired a licence to produce the Bf 262 for the Fliegerkorps, replacing the German 30mm guns with locally-produced 20mm guns in their slightly-revised design."
  TRS_jet_fighter_equipment_2: "Letov L.52"
- TRS_small_plane_airframe_5: "Letov L.52"
+ TRS_small_plane_airframe_5: "Летов Л.52" #NT!
  TRS_jet_fighter_equipment_2_short: "L.52"
- TRS_small_plane_airframe_5_short: "L.52"
+ TRS_small_plane_airframe_5_short: "Л.52" #NT!
  TRS_jet_fighter_equipment_2_desc: "When Austro-Daimler developed the U2 'Uzelac' engine, Letov produced a state-of-the-art jet fighter that would become the Monarchy's first local jet aircraft adopted into service."
 
  TRS_nav_bomber_equipment_1: "Letov Š.328.v"
@@ -9540,9 +9540,9 @@
 ### UKR - Ukraine ###
 ###
 
- AIR_WING_NAME_UKR_FALLBACK: "$NUMBER$-a Aviatsiina Dyviziia"
- AIR_WING_NAME_UKR_GENERIC: "$NR$-a $NAME$"
- AIR_WING_NAME_UKR_CARRIER: "$NR$-a $NAME$"
+ AIR_WING_NAME_UKR_FALLBACK: "$NUMBER$-а Авіаційна дивізія"
+ AIR_WING_NAME_UKR_GENERIC: "$NR$-а $NAME$"
+ AIR_WING_NAME_UKR_CARRIER: "$NR$-а $NAME$"
 
 ###
 ### UKR - Ukraine ###
@@ -9568,9 +9568,9 @@
  UKR_jet_fighter_equipment_1: "Tomashevych 202"
  UKR_jet_fighter_equipment_1_short: "T-202"
  UKR_jet_fighter_equipment_2: "Tomashevych 203"
- UKR_small_plane_airframe_5: "Tomashevych 203"
+ UKR_small_plane_airframe_5: "Томашевича 203" #NT!
  UKR_jet_fighter_equipment_2_short: "T-203"
- UKR_small_plane_airframe_5_short: "T-203"
+ UKR_small_plane_airframe_5_short: "Т-203" #NT!
 
  UKR_CAS_equipment_1: "Tereshchenko 123"
  UKR_CAS_equipment_1_short: "LT-123"
@@ -9664,9 +9664,9 @@
  USA_CAS_equipment_3_short: "A-25 Shrike"
  USA_cv_CAS_equipment_3: "Curtiss SB2C-1s Helldiver"
  USA_cv_CAS_equipment_3_short: "SB2C-1s Helldiver"
- USA_small_plane_cas_airframe_4_short: "P-84 Thunderjet"
- USA_cv_small_plane_cas_airframe_4_short: "Douglas AD-4 Skyraider"
- USA_small_plane_cas_airframe_5_short: "F-100S Thunder Sabre"
+ USA_small_plane_cas_airframe_4_short: "P-84 Тандерджет" #NT!
+ USA_cv_small_plane_cas_airframe_4_short: "Дуглас AD-4 Скайрейдер" #NT!
+ USA_small_plane_cas_airframe_5_short: "F-100S Громовая Сэйбер" #NT!
 
  USA_fighter_equipment_0: "Boeing P-26 'Peashooter'"
  USA_fighter_equipment_0_short: "P-26 'Peashooter'"
@@ -9686,10 +9686,10 @@
  USA_cv_fighter_equipment_3_short: "F6F Hellcat"
  USA_jet_fighter_equipment_1: "Lockheed P-80 Shooting Star"
  USA_jet_fighter_equipment_1_short: "P-80 Shooting Star"
- USA_cv_small_plane_airframe_4_short: "F9F Panther"
+ USA_cv_small_plane_airframe_4_short: "F9F Пантера" #NT!
  USA_jet_fighter_equipment_2: "North American F-100 Super Sabre"
  USA_jet_fighter_equipment_2_short: "F-100 Super Sabre"
- USA_small_plane_airframe_5_short: "F-100 Super Sabre"
+ USA_small_plane_airframe_5_short: "F-100 Супер Сэйбер" #NT!
 
  USA_small_plane_naval_bomber_airframe_0_short: "BM-1"
  USA_cv_small_plane_naval_bomber_airframe_0_short: "DT-2"
@@ -9705,9 +9705,9 @@
  USA_nav_bomber_equipment_3_short: "SB2D-1 Destroyer"
  USA_cv_nav_bomber_equipment_3: "Vought TBY Sea Wolf"
  USA_cv_nav_bomber_equipment_3_short: "TBY Sea Wolf"
- USA_small_plane_naval_bomber_airframe_4_short: "Douglas F3D Skyknight"
- USA_cv_small_plane_naval_bomber_airframe_4_short: "Grumman AF-2 Guardian"
- USA_small_plane_naval_bomber_airframe_5_short: "F-100N Sea Sabre"
+ USA_small_plane_naval_bomber_airframe_4_short: "Дуглас F3D Скайнайт" #NT!
+ USA_cv_small_plane_naval_bomber_airframe_4_short: "Грумман АФ-2 Гардиан" #NT!
+ USA_small_plane_naval_bomber_airframe_5_short: "F-100N Морская Сэйбер" #NT!
 
  USA_medium_plane_fighter_airframe_0_short: "B-6"
  USA_heavy_fighter_equipment_1: "Bell YFM-1 Airacuda"
@@ -9741,11 +9741,11 @@
  USA_jet_strat_bomber_equipment_1: "North American B-47 Stratojet"
  USA_jet_strat_bomber_equipment_1_short: "B-47 Stratojet"
 
- USA_large_plane_maritime_patrol_plane_airframe_0_short: "PN-11"
- USA_large_plane_maritime_patrol_plane_airframe_1_short: "PBY Catalina"
- USA_large_plane_maritime_patrol_plane_airframe_2_short: "PB4Y-1 Liberator"
- USA_large_plane_maritime_patrol_plane_airframe_3_short: "PB4Y-2 Privateer"
- USA_large_plane_maritime_patrol_plane_airframe_4_short: "RB-47 Stratojet"
+ USA_large_plane_maritime_patrol_plane_airframe_0_short: "ПН-11" #NT!
+ USA_large_plane_maritime_patrol_plane_airframe_1_short: "PBY Каталина" #NT!
+ USA_large_plane_maritime_patrol_plane_airframe_2_short: "PB4Y-1 Освободитель" #NT!
+ USA_large_plane_maritime_patrol_plane_airframe_3_short: "PB4Y-2 Капер" #NT!
+ USA_large_plane_maritime_patrol_plane_airframe_4_short: "РБ-47 Стратоджет" #NT!
 
  USA_medium_plane_scout_plane_airframe_0_short: "O-47"
  USA_medium_plane_scout_plane_airframe_1_short: "F-2 Bolo"
@@ -9760,10 +9760,10 @@
 
  USA_transport_plane_equipment_1: "Curtiss C-46 Commando"
  USA_transport_plane_equipment_1_short: "C-46 Commando"
- USA_transport_plane_equipment_2: "Douglas C-47 Sky Train"
- USA_transport_plane_equipment_2_short: "C-47 Sky Train"
- USA_transport_plane_equipment_3: "Douglas C-74 Globemaster"
- USA_transport_plane_equipment_3_short: "C-74 Globemaster"
+ USA_transport_plane_equipment_2: "Дуглас C-47 Sky Train" #NT!
+ USA_transport_plane_equipment_2_short: "Небесный поезд C-47" #NT!
+ USA_transport_plane_equipment_3: "Дуглас C-74 Глоубмастер" #NT!
+ USA_transport_plane_equipment_3_short: "C-74 Глоубмастер" #NT!
 
  USA_rocket_interceptor_equipment_1: "Northrop MX-324"
  USA_rocket_interceptor_equipment_1_short: "MX-324"
@@ -9772,31 +9772,31 @@
  USA_rocket_interceptor_equipment_3: "Republic XF-91 Thunderceptor"
  USA_rocket_interceptor_equipment_3_short: "XF-91 Thunderceptor"
 
- USA_strat_bomber_intercontinental_equipment_1: "B-36 Peacemaker"
- USA_strat_bomber_intercontinental_equipment_1_short: "B-36"
+ USA_strat_bomber_intercontinental_equipment_1: "Б-36 Миротворец" #NT!
+ USA_strat_bomber_intercontinental_equipment_1_short: "Б-36" #NT!
 
- USA_mothership_equipment_0: "GBR-36"
- USA_mothership_equipment_0_short: "GBR-36"
+ USA_mothership_equipment_0: "ГБР-36" #NT!
+ USA_mothership_equipment_0_short: "ГБР-36" #NT!
 
- USA_guided_missile_equipment_1: "JB-2 Loon"
+ USA_guided_missile_equipment_1: "JB-2 Лун" #NT!
  USA_guided_missile_equipment_1_short: "JB-2"
- USA_guided_missile_equipment_2: "PGM-11 Redstone"
- USA_guided_missile_equipment_2_short: "PGM-11"
- USA_guided_missile_equipment_3: "PGM-17 Thor w/ Conv. WH"
- USA_guided_missile_equipment_3_short: "PGM-17"
+ USA_guided_missile_equipment_2: "ПГМ-11 Редстоун" #NT!
+ USA_guided_missile_equipment_2_short: "ПГМ-11" #NT!
+ USA_guided_missile_equipment_3: "PGM-17 Тор с конв. WH" #NT!
+ USA_guided_missile_equipment_3_short: "ПГМ-17" #NT!
  USA_ballistic_missile_equipment_1: "$USA_guided_missile_equipment_2$"
  USA_ballistic_missile_equipment_1_short: "$USA_guided_missile_equipment_2_short$"
  USA_ballistic_missile_equipment_2: "$USA_guided_missile_equipment_3$"
  USA_ballistic_missile_equipment_2_short: "$USA_guided_missile_equipment_3_short$"
- USA_sam_missile_equipment_1: "MIM-3 Nike Ajax"
- USA_sam_missile_equipment_1_short: "MIM-3"
- USA_nuclear_missile_equipment_1: "PGM-17 Thor"
- USA_nuclear_missile_equipment_1_short: "PGM-17"
- USA_nuclear_missile_equipment_2: "SM-65 Atlas"
- USA_nuclear_missile_equipment_2_short: "SM-65"
+ USA_sam_missile_equipment_1: "МИМ-3 Найк Аякс" #NT!
+ USA_sam_missile_equipment_1_short: "МИМ-3" #NT!
+ USA_nuclear_missile_equipment_1: "ПГМ-17 Тор" #NT!
+ USA_nuclear_missile_equipment_1_short: "ПГМ-17" #NT!
+ USA_nuclear_missile_equipment_2: "СМ-65 Атлас" #NT!
+ USA_nuclear_missile_equipment_2_short: "СМ-65" #NT!
 
- USA_helicopter_equipment_1: "R-4 Hoverfly"
- USA_helicopter_equipment_1_short: "R-4"
+ USA_helicopter_equipment_1: "Р-4 Ховерфлай" #NT!
+ USA_helicopter_equipment_1_short: "Р-4" #NT!
 
 ###
 ### WLS - Wales ###
@@ -9883,126 +9883,126 @@
 ### BLR - White Ruthenia ###
 ###
  #Hs 123
- BLR_CAS_equipment_1: "Šturmavik uz.1936 Nikolausa"
- BLR_CAS_equipment_1_short: "N-36"
- BLR_cv_CAS_equipment_1: "Šturmavik uz.1936 Nikolausa"
- BLR_cv_CAS_equipment_1_short: "N-36"
+ BLR_CAS_equipment_1: "Штурмавик уз.1936 Николауса" #NT!
+ BLR_CAS_equipment_1_short: "Н-36" #NT!
+ BLR_cv_CAS_equipment_1: "Штурмавик уз.1936 Николауса" #NT!
+ BLR_cv_CAS_equipment_1_short: "Н-36" #NT!
  #ANBO VIII
- BLR_CAS_equipment_2: "Šturmavik uz.1939 Antanasa"
- BLR_CAS_equipment_2_short: "A-39"
- BLR_cv_CAS_equipment_2: "Šturmavik uz.1939 Antanasa"
- BLR_cv_CAS_equipment_2_short: "A-39"
+ BLR_CAS_equipment_2: "Штурмавик уз.1939 Антанаса" #NT!
+ BLR_CAS_equipment_2_short: "А-39" #NT!
+ BLR_cv_CAS_equipment_2: "Штурмавик уз.1939 Антанаса" #NT!
+ BLR_cv_CAS_equipment_2_short: "А-39" #NT!
  #Do 355
- BLR_CAS_equipment_3: "Šturmavik uz.1943 Dorna"
- BLR_CAS_equipment_3_short: "D-43"
- BLR_cv_CAS_equipment_3: "Šturmavik uz.1943 Dorna"
- BLR_cv_CAS_equipment_3_short: "D-43"
+ BLR_CAS_equipment_3: "Штурмавик уз.1943 Дорна" #NT!
+ BLR_CAS_equipment_3_short: "Д-43" #NT!
+ BLR_cv_CAS_equipment_3: "Штурмавик уз.1943 Дорна" #NT!
+ BLR_cv_CAS_equipment_3_short: "Д-43" #NT!
 
  #ANBO III
- BLR_fighter_equipment_0: "Zniščalnik uz.1929 Antanasa"
- BLR_fighter_equipment_0_short: "A-29"
- BLR_cv_fighter_equipment_0: "Zniščalnik uz.1929 Antanasa"
- BLR_cv_fighter_equipment_0_short: "A-29"
+ BLR_fighter_equipment_0: "Знищальник уз.1929 Антанаса" #NT!
+ BLR_fighter_equipment_0_short: "А-29" #NT!
+ BLR_cv_fighter_equipment_0: "Знищальник уз.1929 Антанаса" #NT!
+ BLR_cv_fighter_equipment_0_short: "А-29" #NT!
  #Bf 109
- BLR_fighter_equipment_1: "Zniščalnik uz.1935 Miesieršmita"
- BLR_fighter_equipment_1_short: "M-35"
- BLR_cv_fighter_equipment_1: "Zniščalnik uz.1935 Miesieršmita"
- BLR_cv_fighter_equipment_1_short: "M-35"
+ BLR_fighter_equipment_1: "Знищальник уз.1935 Мизершмита" #NT!
+ BLR_fighter_equipment_1_short: "М-35" #NT!
+ BLR_cv_fighter_equipment_1: "Знищальник уз.1935 Мизершмита" #NT!
+ BLR_cv_fighter_equipment_1_short: "М-35" #NT!
  #Fw 190
- BLR_fighter_equipment_2: "Zniščalnik uz.1941 Tanka"
- BLR_fighter_equipment_2_short: "T-41"
- BLR_cv_fighter_equipment_2: "Zniščalnik uz.1941 Tanka"
- BLR_cv_fighter_equipment_2_short: "T-41"
+ BLR_fighter_equipment_2: "Знищальник уз.1941 Танка" #NT!
+ BLR_fighter_equipment_2_short: "Т-41" #NT!
+ BLR_cv_fighter_equipment_2: "Знищальник уз.1941 Танка" #NT!
+ BLR_cv_fighter_equipment_2_short: "Т-41" #NT!
  #Ta 152:
- BLR_fighter_equipment_3: "Zniščalnik uz.1944 Tanka"
- BLR_fighter_equipment_3_short: "T-44"
- BLR_cv_fighter_equipment_3: "Zniščalnik uz.1944 Tanka"
- BLR_cv_fighter_equipment_3_short: "T-44"
+ BLR_fighter_equipment_3: "Знищальник уз.1944 Танка" #NT!
+ BLR_fighter_equipment_3_short: "Т-44" #NT!
+ BLR_cv_fighter_equipment_3: "Знищальник уз.1944 Танка" #NT!
+ BLR_cv_fighter_equipment_3_short: "Т-44" #NT!
  #Me 262
- BLR_jet_fighter_equipment_1: "Reaktyuny Zniščalnik uz.1944 Miesieršmita"
- BLR_jet_fighter_equipment_1_short: "M-44"
+ BLR_jet_fighter_equipment_1: "Реактюны Знищальник уз.1944 Мизершмита" #NT!
+ BLR_jet_fighter_equipment_1_short: "М-44" #NT!
  #Heinkel P.1079B:
- BLR_jet_fighter_equipment_2: "Reaktyuny Zniščalnik uz.1948 Hiuntera"
- BLR_small_plane_airframe_5: "Reaktyuny Zniščalnik uz.1948 Hiuntera"
- BLR_jet_fighter_equipment_2_short: "H-48"
- BLR_small_plane_airframe_5_short: "H-48"
+ BLR_jet_fighter_equipment_2: "Реактюны Знищальник уз.1948 Хиунтера" #NT!
+ BLR_small_plane_airframe_5: "Реактюны Знищальник уз.1948 Хиунтера" #NT!
+ BLR_jet_fighter_equipment_2_short: "Н-48" #NT!
+ BLR_small_plane_airframe_5_short: "Н-48" #NT!
 
  #Modified ANBO-41
- BLR_nav_bomber_equipment_1: "Liohki Bambavik uz.1936 Antanasa"
- BLR_nav_bomber_equipment_1_short: "A-36"
- BLR_cv_nav_bomber_equipment_1: "Liohki Bambavik uz.1936 Antanasa"
- BLR_cv_nav_bomber_equipment_1_short: "A-36"
+ BLR_nav_bomber_equipment_1: "Лиохки Бамбавик уз.1936 Антанаса" #NT!
+ BLR_nav_bomber_equipment_1_short: "А-36" #NT!
+ BLR_cv_nav_bomber_equipment_1: "Лиохки Бамбавик уз.1936 Антанаса" #NT!
+ BLR_cv_nav_bomber_equipment_1_short: "А-36" #NT!
  #Fokker T.VIII:
- BLR_nav_bomber_equipment_2: "Liohki Bambavik uz.1939 Biejelinha"
- BLR_nav_bomber_equipment_2_short: "B-39"
+ BLR_nav_bomber_equipment_2: "Лиохки Бамбавик уз.1939 Биелинья" #NT!
+ BLR_nav_bomber_equipment_2_short: "Б-39" #NT!
  #Fokker T.VIII:
- BLR_cv_nav_bomber_equipment_2: "Liohki Bambavik uz.1939 Biejelinha"
- BLR_cv_nav_bomber_equipment_2_short: "B-39"
+ BLR_cv_nav_bomber_equipment_2: "Лиохки Бамбавик уз.1939 Биелинья" #NT!
+ BLR_cv_nav_bomber_equipment_2_short: "Б-39" #NT!
  #P194:
- BLR_nav_bomber_equipment_3: "Liohki Bambavik uz.1944 Fohta"
- BLR_nav_bomber_equipment_3_short: "F-44"
+ BLR_nav_bomber_equipment_3: "Лиохки Бамбавик уз.1944 Фохта" #NT!
+ BLR_nav_bomber_equipment_3_short: "Ф-44" #NT!
  #P194:
- BLR_cv_nav_bomber_equipment_3: "Liohki Bambavik uz.1944 Fohta"
- BLR_cv_nav_bomber_equipment_3_short: "F-44"
+ BLR_cv_nav_bomber_equipment_3: "Лиохки Бамбавик уз.1944 Фохта" #NT!
+ BLR_cv_nav_bomber_equipment_3_short: "Ф-44" #NT!
 
  #Bf 110
- BLR_heavy_fighter_equipment_1: "Zniščalnik uz.1936 Miesieršmicie"
- BLR_heavy_fighter_equipment_1_short: "M-36"
+ BLR_heavy_fighter_equipment_1: "Знищальник уз.1936 г. Мезершмице" #NT!
+ BLR_heavy_fighter_equipment_1_short: "М-36" #NT!
  #Ju 88
- BLR_heavy_fighter_equipment_2: "Zniščalnik uz.1939 Hassniera"
- BLR_heavy_fighter_equipment_2_short: "H-39"
+ BLR_heavy_fighter_equipment_2: "Знищальник уз.1939 Хассьера" #NT!
+ BLR_heavy_fighter_equipment_2_short: "Н-39" #NT!
  #Heinkel He 219
- BLR_heavy_fighter_equipment_3: "Zniščalnik uz.1943 Chiejnkielia"
- BLR_heavy_fighter_equipment_3_short: "Ch-43"
+ BLR_heavy_fighter_equipment_3: "Знищальник уз.1943 г. Кейнкиеля" #NT!
+ BLR_heavy_fighter_equipment_3_short: "Ч-43" #NT!
 
  #Ju 86
- BLR_tac_bomber_equipment_0: "Bambavik uz.1934 Cindielia"
- BLR_tac_bomber_equipment_0_short: "C-34"
+ BLR_tac_bomber_equipment_0: "Бамбавик уз.1934 Синдилия" #NT!
+ BLR_tac_bomber_equipment_0_short: "С-34" #NT!
  #Heinkel He 111:
- BLR_tac_bomber_equipment_1: "Bambavik uz.1935 Hiunterov"
- BLR_tac_bomber_equipment_1_short: "HH-35"
+ BLR_tac_bomber_equipment_1: "Бамбавик уз.1935 г. Хиунтеров" #NT!
+ BLR_tac_bomber_equipment_1_short: "НН-35" #NT!
  #Do 217
- BLR_tac_bomber_equipment_2: "Bambavik uz.1940 Dorna"
- BLR_tac_bomber_equipment_2_short: "D-40"
+ BLR_tac_bomber_equipment_2: "Бамбавик уз.1940 г. Дорна" #NT!
+ BLR_tac_bomber_equipment_2_short: "Д-40" #NT!
  #Ju 188
- BLR_tac_bomber_equipment_3: "Bambavik uz.1943 Hassniera"
- BLR_tac_bomber_equipment_3_short: "H-43"
+ BLR_tac_bomber_equipment_3: "Бамбавик уз.1943 г. Хасниера" #NT!
+ BLR_tac_bomber_equipment_3_short: "Н-43" #NT!
  #Ar 234
- BLR_jet_tac_bomber_equipment_1: "Reaktyuny Bambavik uz.1944 Bliumie"
- BLR_jet_tac_bomber_equipment_1_short: "B-44"
+ BLR_jet_tac_bomber_equipment_1: "Реактюный Бамбавик уз.1944 Блюми" #NT!
+ BLR_jet_tac_bomber_equipment_1_short: "Б-44" #NT!
  #He 343
- BLR_jet_tac_bomber_equipment_2: "Reaktyuny Bambavik uz.1948 Chiejnkielia"
- BLR_jet_tac_bomber_equipment_2_short: "Ch-48"
+ BLR_jet_tac_bomber_equipment_2: "Реактюны Бамбавик уз.1948 Чиейнкеля" #NT!
+ BLR_jet_tac_bomber_equipment_2_short: "Ч-48" #NT!
 
  #Do 19
- BLR_strat_bomber_equipment_1: "Ciažki Bambavik uz.1936 Dorna"
- BLR_strat_bomber_equipment_1_short: "D-36"
+ BLR_strat_bomber_equipment_1: "Чяжки Бамбавик уз.1936 Дорна" #NT!
+ BLR_strat_bomber_equipment_1_short: "Д-36" #NT!
  #He 177
- BLR_strat_bomber_equipment_2: "Ciažki Bambavik uz.1939 Hiertelia i Hiuntera"
+ BLR_strat_bomber_equipment_2: "Чяжки Бамбавик уз.1939 Hiertelia i Hiuntera" #NT!
  BLR_strat_bomber_equipment_2_short: "HH-39"
  #He 277
- BLR_strat_bomber_equipment_3: "Ciažki Bambavik uz.1944 Chiejnkielia"
- BLR_strat_bomber_equipment_3_short: "Ch-44"
+ BLR_strat_bomber_equipment_3: "Чяжки Бамбавик уз.1944 Чиейнкелия" #NT!
+ BLR_strat_bomber_equipment_3_short: "Ч-44" #NT!
  #Arado E.555:
- BLR_jet_strat_bomber_equipment_1: "Reaktyuny Bambavik uz.1949 Bliumie"
- BLR_jet_strat_bomber_equipment_1_short: "B-49"
+ BLR_jet_strat_bomber_equipment_1: "Реактюный Бамбавик уз.1949 Блюми" #NT!
+ BLR_jet_strat_bomber_equipment_1_short: "Б-49" #NT!
 
  #Me 163
- BLR_rocket_interceptor_equipment_1: "Pierachopnik uz.1941 Lippiša"
- BLR_rocket_interceptor_equipment_1_short: "L-41"
+ BLR_rocket_interceptor_equipment_1: "Перахопник уз.1941 Липпиша" #NT!
+ BLR_rocket_interceptor_equipment_1_short: "Л-41" #NT!
  #Me 263
- BLR_rocket_interceptor_equipment_2: "Pierachopnik uz.1945 Lippiša"
- BLR_rocket_interceptor_equipment_2_short: "L-45"
+ BLR_rocket_interceptor_equipment_2: "Перахопник уз.1945 Липпиша" #NT!
+ BLR_rocket_interceptor_equipment_2_short: "Л-45" #NT!
  #Ba 349:
- BLR_rocket_interceptor_equipment_3: "Pierachopnik uz.1946 Bachiema"
- BLR_rocket_interceptor_equipment_3_short: "B-46"
+ BLR_rocket_interceptor_equipment_3: "Пирахопник уз.1946 Бачиема" #NT!
+ BLR_rocket_interceptor_equipment_3_short: "Б-46" #NT!
 
  #ANBO IV
- BLR_scout_plane_equipment_1: "Vyviednik uz.1932 Antanasa"
- BLR_scout_plane_equipment_1_short: "A-32"
+ BLR_scout_plane_equipment_1: "Выведник уз.1932 Антанаса" #NT!
+ BLR_scout_plane_equipment_1_short: "А-32" #NT!
  #Modified ANBO VIII
- BLR_scout_plane_equipment_2: "Vyviednik uz.1940 Antanasa"
- BLR_scout_plane_equipment_2_short: "A-40"
+ BLR_scout_plane_equipment_2: "Выведник уз.1940 г. Антанаса" #NT!
+ BLR_scout_plane_equipment_2_short: "А-40" #NT!
 
  BLR_transport_plane_equipment_1: "$GER_transport_plane_equipment_1$"
  BLR_transport_plane_equipment_1_short: "$GER_transport_plane_equipment_1_short$"

@@ -2,25 +2,25 @@
 
  # Only for Kaiserreich specific faction rule localisation
 
- joining_rule_socialist_only: "Socialist Countries Only"
- joining_rule_non_socialist: "Non-Socialist Countries Only"
- joining_rule_elected_only: "Democratic Countries Only"
- joining_rule_reactionary_only: "Reactionary Countries Only"
+ joining_rule_socialist_only: "Только социалистические страны"
+ joining_rule_non_socialist: "Только несоциалистические страны"
+ joining_rule_elected_only: "Только демократические страны"
+ joining_rule_reactionary_only: "Только реакционные страны"
 
- joining_rule_has_no_war_or_same_enemies: "Countries At Peace or Same Enemies"
+ joining_rule_has_no_war_or_same_enemies: "Страны, пребывающие в мире или являющиеся общими врагами"
 
- dismissal_rule_ideology_not_socialist: "Non-Socialist Countries"
- dismissal_rule_ideology_socialist: "Socialist Countries"
- dismissal_rule_ideology_not_elected: "Non-Democratic Countries"
+ dismissal_rule_ideology_not_socialist: "Несоциалистические страны"
+ dismissal_rule_ideology_socialist: "Социалистические страны"
+ dismissal_rule_ideology_not_elected: "Недемократические страны"
 
- war_declaration_rule_faction_leader_or_player_only: "Declaring Country is Faction Leader or a Player"
- war_declaration_rule_major_or_player_only: "Declaring Country is Considered Major or is a Player"
- war_declaration_rule_blocked: "Blocked"
- war_declaration_rule_weltkrieg_has_begun: "Second Weltkrieg"
+ war_declaration_rule_faction_leader_or_player_only: "Объявление страны лидером фракции или игроком"
+ war_declaration_rule_major_or_player_only: "Объявление страны лидером фракции или игроком"
+ war_declaration_rule_blocked: "Отклонено"
+ war_declaration_rule_weltkrieg_has_begun: "Второй Вельткриг"
 
- rule_group_call_to_war_target: "Target Country"
+ rule_group_call_to_war_target: "Выбрана целью"
 
- rule_group_call_to_war_situation: "World Situation"
- call_to_war_rule_weltkrieg_has_begun: "Second Weltkrieg"
+ rule_group_call_to_war_situation: "Мировая ситуация"
+ call_to_war_rule_weltkrieg_has_begun: "Второй Вельткриг"
 
- goals_only_faction_leader_or_player: "Faction leader or player decides the goals"
+ goals_only_faction_leader_or_player: "Лидер фракции или игрок определяет цели."

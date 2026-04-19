@@ -1,540 +1,540 @@
 ﻿l_russian:
 
- kr_achievements: "Kaiserreich"
+ kr_achievements: "Кайзеррайх"
 
 ### Titles and Conditions
 
- 000_legacy_of_the_weltkrieg_achievement_NAME: "The Legacy of the Weltkrieg"
- 000_legacy_of_the_weltkrieg_achievement_DESC: "Survive the Second Weltkrieg."
+ 000_legacy_of_the_weltkrieg_achievement_NAME: "Наследие Вельткрига"
+ 000_legacy_of_the_weltkrieg_achievement_DESC: "Переживите Второй Вельткриг."
 
- GER_believe_in_the_heart_of_the_cards_achievement_NAME: "Believe In The Heart Of The Cards"
- GER_believe_in_the_heart_of_the_cards_achievement_DESC: "As Germany, win the Black Monday card game without losing or stalling a single turn."
+ GER_believe_in_the_heart_of_the_cards_achievement_NAME: "Всегда есть козырь в рукаве"
+ GER_believe_in_the_heart_of_the_cards_achievement_DESC: "Играя за Германию, закончите карточную игру Чёрного Понедельника на самой ранней возможной дате."
 
- GER_name_of_the_game_achievement_NAME: "The Name of the Game"
- GER_name_of_the_game_achievement_DESC: "As Germany, win the Second Weltkrieg by defeating Russia and the Third Internationale."
+ GER_name_of_the_game_achievement_NAME: "Во что теперь играем?"
+ GER_name_of_the_game_achievement_DESC: "Играя за Германию, выиграйте Второй Вельткриг, победив Россию и Третий Интернационал."
 
- GER_only_mostly_dead_achievement_NAME: "Only Mostly Dead"
- GER_only_mostly_dead_achievement_DESC: "As Germany, win the Second Weltkrieg after experiencing a change of government as a result of nearly losing it."
+ GER_only_mostly_dead_achievement_NAME: "Всего-то полумёртв"
+ GER_only_mostly_dead_achievement_DESC: "Играя за Германию, выиграйте Второй Вельткриг после того, как ваше правительство было свергнуто из-за неминуемой капитуляции."
 
- FRA_syndicalist_bias_achievement_NAME: "Syndicalist Bias"
- FRA_syndicalist_bias_achievement_DESC: "As the Commune of France, defeat Germany and the Algiers government, and own Alsace-Lorraine."
+ FRA_syndicalist_bias_achievement_NAME: "Синдикалистская предвзятость"
+ FRA_syndicalist_bias_achievement_DESC: "Играя за Французскую Коммуну, победите Германию и правительство Алжира, а также и завладейте Эльзас-Лотарингией."
 
- ENG_the_peoples_flag_achievement_NAME: "The People's Flag Is Deepest Red"
- ENG_the_peoples_flag_achievement_DESC: "As the Union of Britain, defeat Germany and dismantle the Entente."
+ ENG_the_peoples_flag_achievement_NAME: "Ярко алый флаг рабочих"
+ ENG_the_peoples_flag_achievement_DESC: "Играя за Британский Союз, победите Гермнанию и распустите Антанту."
 
- RUS_see_nick_that_wasnt_so_hard_achievement_achievement_NAME: "See, Nick, That Wasn't So Hard"
- RUS_see_nick_that_wasnt_so_hard_achievement_achievement_DESC: "As Russia, defeat Germany and have all starting Oststaaten territories (except Finland) owned by your faction."
+ RUS_see_nick_that_wasnt_so_hard_achievement_achievement_NAME: "Видишь, Ник, это было не так уж сложно" #NT!
+ RUS_see_nick_that_wasnt_so_hard_achievement_achievement_DESC: "Играя за Россию, победите Германию и сделайте все стартовые территории Остштатена (кроме Финляндии) принадлежащими вашей фракции." #NT!
 
- RUS_and_hades_followed_achievement_NAME: "...And Hades Followed With Him"
- RUS_and_hades_followed_achievement_DESC: "As the Russian State, end German hegemony and eliminate all of the world's socialist governments."
+ RUS_and_hades_followed_achievement_NAME: "...И Аид последовал за Ним" #NT!
+ RUS_and_hades_followed_achievement_DESC: "Играя за Российское государство, положите конец немецкой гегемонии и уничтожьте все социалистические правительства мира." #NT!
 
- RUS_take_notes_kerensky_achievement_NAME: "Take Notes, Kerensky"
- RUS_take_notes_kerensky_achievement_DESC: "As a republican Russia, complete all of a President's agendas."
+ RUS_take_notes_kerensky_achievement_NAME: "Делайте заметки, Керенский." #NT!
+ RUS_take_notes_kerensky_achievement_DESC: "Будучи республиканской Россией, выполните все задачи президента." #NT!
 
- RUS_two_emperors_walk_into_a_tsar_achievement_NAME: "Two Emperors Walk Into A Tsar"
- RUS_two_emperors_walk_into_a_tsar_achievement_DESC: "As a monarchist Russia, win the Second Weltkrieg and have at least two of the German, Austrian, Ottoman, or Japanese monarchies in your faction."
+ RUS_two_emperors_walk_into_a_tsar_achievement_NAME: "Два императора входят в царя" #NT!
+ RUS_two_emperors_walk_into_a_tsar_achievement_DESC: "Играя за монархическую Россию, выиграйте Второй Вельткриг и включите в свою фракцию как минимум две германские, австрийские, османские или японские монархии." #NT!
 
- RUS_whatever_happened_to_the_popular_front_achievement_NAME: "Whatever Happened to the Popular Front?"
- RUS_whatever_happened_to_the_popular_front_achievement_DESC: "As a socialist Russia, claim the mantle of the revolution after assuming leadership of or dismantling the Internationale, and turn all of Europe socialist."
+ RUS_whatever_happened_to_the_popular_front_achievement_NAME: "Что случилось с Народным фронтом?" #NT!
+ RUS_whatever_happened_to_the_popular_front_achievement_DESC: "Будучи социалистической Россией, претендуйте на мантию революции после того, как возьмете на себя руководство Интернационалом или ликвидируете его, и превратите всю Европу в социалистическую." #NT!
 
- RUS_you_and_what_army_achievement_NAME: "You, And What Army?"
- RUS_you_and_what_army_achievement_DESC: "As the Free Russian Army, successfully liberate Russia and establish a new republic."
+ RUS_you_and_what_army_achievement_NAME: "Ты и какая армия?" #NT!
+ RUS_you_and_what_army_achievement_DESC: "Играя за Свободную Русскую Армию, успешно освободите Россию и создайте новую республику." #NT!
 
- RUS_from_siberia_with_love_achievement_NAME: "From Siberia With Love"
- RUS_from_siberia_with_love_achievement_DESC: "As the Far Eastern Army, survive your insurrection against the Russian government and establish a new Russian state."
+ RUS_from_siberia_with_love_achievement_NAME: "Из Сибири с любовью" #NT!
+ RUS_from_siberia_with_love_achievement_DESC: "В роли Дальневосточной армии переживите восстание против российского правительства и создайте новое российское государство." #NT!
 
- GBR_just_a_very_long_holiday_achievement_NAME: "Just a Very Long Holiday"
- GBR_just_a_very_long_holiday_achievement_DESC: "As Canada, defeat the Union of Britain and restore the United Kingdom while owning all of its core territory."
+ GBR_just_a_very_long_holiday_achievement_NAME: "Просто очень длинный отпуск" #NT!
+ GBR_just_a_very_long_holiday_achievement_DESC: "Играя за Канаду, победите Британский Союз и восстановите Соединенное Королевство, владея всей его основной территорией." #NT!
 
- NFA_macmahons_third_law_achievement_NAME: "MacMahon's Third Law"
- NFA_macmahons_third_law_achievement_DESC: "As the French Exiles, defeat the Commune of France and own at least one major French city."
+ NFA_macmahons_third_law_achievement_NAME: "Третий закон Мак-Магона"
+ NFA_macmahons_third_law_achievement_DESC: "Играя за Францию-в-изгнании, победите Коммуну и владейте хотя бы одним крупным французским городом на континенте."
 
- IRE_youll_never_beat_the_irish_achievement_NAME: "You'll Never Beat the Irish"
- IRE_youll_never_beat_the_irish_achievement_DESC: "As Ireland, survive the Second Weltkrieg."
+ IRE_youll_never_beat_the_irish_achievement_NAME: "Вы никогда не победите ирландцев" #NT!
+ IRE_youll_never_beat_the_irish_achievement_DESC: "Играя за Ирландию, переживите Второй Вельткриг." #NT!
 
- IRE_auld_love_triangle_achievement_NAME: "The Auld Love Triangle"
- IRE_auld_love_triangle_achievement_DESC: "As Ireland, remain independent after the Gateway to the Atlantic mechanic has completed, while extracting the most possible benefits from both Germany and Britain."
+ IRE_auld_love_triangle_achievement_NAME: "Старый любовный треугольник"
+ IRE_auld_love_triangle_achievement_DESC: "Играя за Ирландию, сохранить независимость после завершения механики Ворот в Атлантику, извлекая при этом максимальную выгоду как от Германии, так и от Британии."
 
- IRE_long_way_from_tipperary_achievement_NAME: "It's a Long Way From Tipperary"
- IRE_long_way_from_tipperary_achievement_DESC: "As Ireland, be an independent member of a faction that is not the Reichspakt, Third Internationale, or Entente."
+ IRE_long_way_from_tipperary_achievement_NAME: "До Типперэри далеко"
+ IRE_long_way_from_tipperary_achievement_DESC: "Играя за Ирландию, будьте независимым членом фракции, которая не является Рейхспактом, Третьим Интернационалом или Антантой."
 
- IRE_fighting_irish_achievement_NAME: "The Fighting Irish"
- IRE_fighting_irish_achievement_DESC: "As Ireland, send volunteers to the Fourth Balkan War, Spanish Civil War, Indian Civil War, War in the Southern Cone, Second American Civil War, Levant Crisis and Italian Civil War, with the side you supported being victorious in their respective conflict."
+ IRE_fighting_irish_achievement_NAME: "Боевые ирландцы"
+ IRE_fighting_irish_achievement_DESC: "Играя за Ирландию, отправьте добровольцев на Четвертую балканскую войну, Гражданскую войну в Испании, Войну в Южном полушарии, Вторую американскую гражданскую войну, Войну в пустыне и Итальянскую гражданскую войну, причем сторона, которую вы поддерживали, одерживала победу в соответствующем конфликте."
 
- ITA_bandiera_rossa_achievement_NAME: "Bandiera Rossa"
- ITA_bandiera_rossa_achievement_DESC: "As the Socialist Republic of Italy, reunify Italy and ensure no rival government exists."
+ ITA_bandiera_rossa_achievement_NAME: "Бандера Росса"
+ ITA_bandiera_rossa_achievement_DESC: "Играя за Социалистическую Республику Италия, объедините Италию и уничтожьте все враждебные итальянские правительства."
 
- ITA_thought_and_action_achievement_NAME: "Thought and Action"
- ITA_thought_and_action_achievement_DESC: "As the Italian Republic, reunify Italy and ensure no rival government exists."
+ ITA_thought_and_action_achievement_NAME: "Мысль и действие"
+ ITA_thought_and_action_achievement_DESC: "Играя за Итальянскую Республику, объедините Италию и уничтожьте все враждебные итальянские правительства."
 
- ITA_going_into_business_achievement_NAME: "Going Into Business For Yourself"
- ITA_going_into_business_achievement_DESC: "As the Italian State, reunify Italy, ensure no rival government exists, and gain ownership of Trent and Trieste."
+ ITA_going_into_business_achievement_NAME: "Всё приходится делать самому"
+ ITA_going_into_business_achievement_DESC: "Играя за Итальянское Государство, объедините Италию, уничтожьте все враждебные итальянские правительства и владейте Трентом и Триестом."
 
- ITA_reversimento_achievement_NAME: "Reversimento"
- ITA_reversimento_achievement_DESC: "As the Italian Federation, reunify Italy and ensure no rival government exists."
+ ITA_reversimento_achievement_NAME: "Реверсименто"
+ ITA_reversimento_achievement_DESC: "Играя за Итальянскую Федерацию, объедините Италию и уничтожьте все враждебные итальянские правительства."
 
- ITA_outside_bet_achievement_NAME: "The Outside Bet"
- ITA_outside_bet_achievement_DESC: "As Sardinia, reunify Italy and ensure no rival government exists."
+ ITA_outside_bet_achievement_NAME: "Тёмная лошадка"
+ ITA_outside_bet_achievement_DESC: "Играя за Сардинию, объедините Италию и уничтожьте все враждебные итальянские правительства."
 
  ITA_risposta_meridionale_achievement_NAME: "Risposta Meridionale"
- ITA_risposta_meridionale_achievement_DESC: "As Two Sicilies, ensure that no other force claims to be the rightful government of Italy."
+ ITA_risposta_meridionale_achievement_DESC: "Играя за Обе Сицилии, объедините Италию и уничтожьте все враждебные итальянские правительства."
 
- POL_still_not_lost_achievement_NAME: "Still Not Lost"
- POL_still_not_lost_achievement_DESC: "As Poland, survive the Second Weltkrieg or reach 1945 while not being capitulated."
+ POL_still_not_lost_achievement_NAME: "Ещё не сгинула"
+ POL_still_not_lost_achievement_DESC: "Играя за Польшу, переживите Второй Вельткриг или доживите до 1945-го года, ни разу не капитулировав."
 
- POL_cant_believe_its_not_zapadoslavia_achievement_NAME: "I Can't Believe It's Not Zapadoslavia!"
- POL_cant_believe_its_not_zapadoslavia_achievement_DESC: "As Poland, form the Central European Confederation."
+ POL_cant_believe_its_not_zapadoslavia_achievement_NAME: "Не верю, что это не Западославия!"
+ POL_cant_believe_its_not_zapadoslavia_achievement_DESC: "Играя за Польшу, создайте Центральноевропейскую Конфедерацию."
 
- POL_wait_this_isnt_europa_universalis_achievement_NAME: "Wait, This Isn't EU4"
- POL_wait_this_isnt_europa_universalis_achievement_DESC: "As Poland, form the Commonwealth."
+ POL_wait_this_isnt_europa_universalis_achievement_NAME: "Погодите, мы не в Европу играем"
+ POL_wait_this_isnt_europa_universalis_achievement_DESC: "Играя за Польшу, создайте Речь Посполитую."
 
- POL_west_by_northwest_achievement_NAME: "West by Northwest"
- POL_west_by_northwest_achievement_DESC: "As Poland, fully realise the Slavic Union by having Lithuania, Belarus, Ukraine, Czechia, and Slovakia as signatories."
+ POL_west_by_northwest_achievement_NAME: "К северу через северо-запад"
+ POL_west_by_northwest_achievement_DESC: "Играя за Польшу, полностью раскройте потенциал Славянского Союза, добившись вступления Литвы, Беларуси, Украины, Чехии, и Словакии."
 
- MIT_illusion_of_free_choice_achievement_NAME: "The Illusion of Free Choice"
- MIT_illusion_of_free_choice_achievement_DESC: "As Poland or Ukraine, leave (or threaten to leave) the Reichspakt only to rejoin it."
+ MIT_illusion_of_free_choice_achievement_NAME: "Иллюзия свободного выбора"
+ MIT_illusion_of_free_choice_achievement_DESC: "Играя за Польшу или Украину, покиньте (или угрожайте покинуть) Рейхспакт только для того, чтобы потом снова в него вступить."
 
- UKR_hot_heart_of_the_ukrainian_people_achievement_NAME: "The Hot Heart of the Ukrainian People"
- UKR_hot_heart_of_the_ukrainian_people_achievement_DESC: "As Ukraine, survive the Second Weltkrieg."
+ UKR_hot_heart_of_the_ukrainian_people_achievement_NAME: "Горячие сердца хлопцев"
+ UKR_hot_heart_of_the_ukrainian_people_achievement_DESC: "Играя за Украину, переживите Второй Вельткриг."
 
- LIT_red_flood_achievement_NAME: "The Red Flood"
- LIT_red_flood_achievement_DESC: "As Lithuania, survive the Second Weltkrieg."
+ LIT_red_flood_achievement_NAME: "Красный потоп"
+ LIT_red_flood_achievement_DESC: "Играя за Литву, переживите Второй Вельткриг."
 
- BLR_get_out_of_my_marsh_achievement_NAME: "Get Out Of My Marsh!"
- BLR_get_out_of_my_marsh_achievement_DESC: "As White Ruthenia, survive the Second Weltkrieg."
+ BLR_get_out_of_my_marsh_achievement_NAME: "Вон из моего болота!"
+ BLR_get_out_of_my_marsh_achievement_DESC: "Играя за Беларусь, переживите Второй Вельткриг."
 
- BAT_baltic_knight_rises_achievement_NAME: "The Baltic Knight Rises"
- BAT_baltic_knight_rises_achievement_DESC: "As the United Baltic Duchy, survive the Second Weltkrieg."
+ BAT_baltic_knight_rises_achievement_NAME: "Балтийские рыцари пробудились"
+ BAT_baltic_knight_rises_achievement_DESC: "Играя за Балтийское Герцогство, переживите Второй Вельткриг."
 
- BAT_one_city_challenge_achievement_NAME: "One City Challenge"
- BAT_one_city_challenge_achievement_DESC: "As Riga, form the Baltic Federation."
+ BAT_one_city_challenge_achievement_NAME: "Испытание одного города"
+ BAT_one_city_challenge_achievement_DESC: "Играя за Ригу, создайте Балтийскую Федерацию."
 
- EST_trees_speak_finno_ugric_achievement_NAME: "The Trees Speak Finno-Ugric"
- EST_trees_speak_finno_ugric_achievement_DESC: "As Estonia, gain independence and survive the Second Weltkrieg."
+ EST_trees_speak_finno_ugric_achievement_NAME: "Деревья заговорили на финно-угорском"
+ EST_trees_speak_finno_ugric_achievement_DESC: "Играя за Эстонию, получите независимость переживите Второй Вельткриг."
 
- LAT_triumph_of_the_partisan_republic_achievement_NAME: "The Triumph of the Partisan Republic"
- LAT_triumph_of_the_partisan_republic_achievement_DESC: "As Latvia, survive the Second Weltkrieg while owning Riga."
+ LAT_triumph_of_the_partisan_republic_achievement_NAME: "Триумф партизанской республики"
+ LAT_triumph_of_the_partisan_republic_achievement_DESC: "Играя за Латвию, переживите Второй Вельткриг, владея Ригой."
 
  AUS_indivisibiliter_ac_inseparabiliter_achievement_NAME: "Indivisibiliter ac Inseparabiliter"
- AUS_indivisibiliter_ac_inseparabiliter_achievement_DESC: "As Austria, survive the Second Weltkrieg while ensuring that your faction controls Belgrade and Bucharest."
+ AUS_indivisibiliter_ac_inseparabiliter_achievement_DESC: "Играя за Австрию, переживите Второй Вельткриг, контролируя Белград и Бухарест напрямую или через членов фракции."
 
  AUS_renovatio_imperii_achievement_NAME: "Renovatio Imperii"
- AUS_renovatio_imperii_achievement_DESC: "As Austria, successfully federalise the Empire and integrate your subjects."
+ AUS_renovatio_imperii_achievement_DESC: "Играя за Австрию, успешно федерализируйте империю и интегрируйте её субъекты."
 
- AUS_held_together_by_super_glue_and_love_achievement_NAME: "Held Together By Super Glue And Love"
- AUS_held_together_by_super_glue_and_love_achievement_DESC: "As Austria, use military force to integrate your subjects into the Imperial government."
+ AUS_held_together_by_super_glue_and_love_achievement_NAME: "Скреплены суперклеем и любовью" #NT!
+ AUS_held_together_by_super_glue_and_love_achievement_DESC: "Играя за Австрию, используйте военную силу, чтобы интегрировать своих подданных в имперское правительство." #NT!
 
- ROM_fourth_rome_achievement_NAME: "The Fourth Rome"
- ROM_fourth_rome_achievement_DESC: "As Romania, realise the Great Union by conquering and integrating Transylvania, Dobrudja, and Silistria."
+ ROM_fourth_rome_achievement_NAME: "Четвёртый Рим"
+ ROM_fourth_rome_achievement_DESC: "Играя за Румынию, добейтесь границ Великой Румынии, интегрировав Трансильванию, Добруджу и Силистру."
 
  SER_hej_sloveni_achievement_NAME: "Hej, Sloveni!"
- SER_hej_sloveni_achievement_DESC: "As Serbia, form Yugoslavia."
+ SER_hej_sloveni_achievement_DESC: "Играя за Сербию, создайте Югославию."
 
- BUL_art_of_sore_losing_achievement_NAME: "The Art of Sore Losing"
- BUL_art_of_sore_losing_achievement_DESC: "As Bulgaria, become National Populist by losing the Fourth Balkan War, and successfully reconquer your starting territory."
+ BUL_art_of_sore_losing_achievement_NAME: "Искусство побеждать, проигрывая"
+ BUL_art_of_sore_losing_achievement_DESC: "Играя за Болгарию, станьте национал-популистом, проиграв Четвертую Балканскую войну, и успешно отвоюйте свою стартовую территорию."
 
- BUL_enemies_to_lovers_achievement_NAME: "Enemies to Lovers"
- BUL_enemies_to_lovers_achievement_DESC: "As Bulgaria, lose the Fourth Balkan War, then join the Belgrade Pact and help them defeat Austria."
+ BUL_enemies_to_lovers_achievement_NAME: "От ненависти до любви"
+ BUL_enemies_to_lovers_achievement_DESC: "Играя за Болгарию, проиграйте Четвертую Балканскую войну, затем присоединитесь к Белградскому пакту и помогите ему победить Австрию."
 
- GRE_greeks_shall_inherit_the_earth_achievement_NAME: "The Greeks Shall Inherit The Earth"
- GRE_greeks_shall_inherit_the_earth_achievement_DESC: "As Greece, reconquer Greek Macedonia and survive the Second Weltkrieg."
+ GRE_greeks_shall_inherit_the_earth_achievement_NAME: "Греки унаследуют Землю" #NT!
+ GRE_greeks_shall_inherit_the_earth_achievement_DESC: "Играя за Грецию, отвоевать Греческую Македонию и пережить Второй Вельткриг." #NT!
 
- GRE_greater_annexations_achievement_NAME: "Greater Annexations"
- GRE_greater_annexations_achievement_DESC: "As Greece, successfully press all Megali Idea claims."
+ GRE_greater_annexations_achievement_NAME: "Великии аннексии"
+ GRE_greater_annexations_achievement_DESC: "Играя за Грецию, успешно продавите все претензии Мегали Идеи."
 
- TUR_immunised_man_of_europe_achievement_NAME: "The Immunised Man of Europe"
- TUR_immunised_man_of_europe_achievement_DESC: "As a centralist Ottoman Empire, defeat the Cairo Pact and fully centralise all of your possible core states."
+ TUR_immunised_man_of_europe_achievement_NAME: "Вакцинированный человек Европы"
+ TUR_immunised_man_of_europe_achievement_DESC: "Играя за централистских Османов, победите Каирский пакт и национализируйте все доступные регионы."
 
- TUR_assembly_of_all_the_talents_achievement_NAME: "An Assembly of All The Talents"
- TUR_assembly_of_all_the_talents_achievement_DESC: "As a decentralist Ottoman Empire, open an expanded Grand Assembly after defeating the Cairo Pact."
+ TUR_assembly_of_all_the_talents_achievement_NAME: "Собрание всяческих талантов"
+ TUR_assembly_of_all_the_talents_achievement_DESC: "Играя за децентралистских Османов, созовите расширенное Великое Собрание после победы над Каирским Пактом."
 
- EGY_rights_above_power_achievement_NAME: "Rights Above Power"
- EGY_rights_above_power_achievement_DESC: "As Egypt, defeat the Ottoman Empire."
+ EGY_rights_above_power_achievement_NAME: "Права превыше власти" #NT!
+ EGY_rights_above_power_achievement_DESC: "Играя за Египет, победите Османскую империю." #NT!
 
- PER_sweet_fruits_of_bitter_patience_achievement_NAME: "Sweet Fruits Of Bitter Patience"
- PER_sweet_fruits_of_bitter_patience_achievement_DESC: "As Persia, defeat the Ottoman Empire."
+ PER_sweet_fruits_of_bitter_patience_achievement_NAME: "Сладкие плоды горького терпения" #NT!
+ PER_sweet_fruits_of_bitter_patience_achievement_DESC: "Играя за Персию, победите Османскую империю." #NT!
 
- SYR_arab_awakening_achievement_NAME: "An Arab Awakening"
- SYR_arab_awakening_achievement_DESC: "Form the Arabian Federation as either Syria or Iraq."
+ SYR_arab_awakening_achievement_NAME: "Арабское пробуждение" #NT!
+ SYR_arab_awakening_achievement_DESC: "Сформируйте Арабскую Федерацию как Сирию или Ирак." #NT!
 
- USA_rally_once_again_achievement_NAME: "Rally Once Again"
- USA_rally_once_again_achievement_DESC: "As a liberal Federal government, win the Second American Civil War."
+ USA_rally_once_again_achievement_NAME: "Снова в строю"
+ USA_rally_once_again_achievement_DESC: "Играя за либеральное федеральное правительство, победите во втоой гражданской войне в США."
 
- USA_kings_ransom_achievement_NAME: "A King's Ransom"
- USA_kings_ransom_achievement_DESC: "As the Federal government, win the Second American Civil War after reaching a compromise with Long."
+ USA_kings_ransom_achievement_NAME: "Королевский выкуп"
+ USA_kings_ransom_achievement_DESC: "Играя за либеральное федеральное правительство, победите во втоой гражданской войне в США, достигнув компромисса с Лонгом."
 
- USA_worlds_least_radical_country_achievement_NAME: "The World's Least Radical Country"
- USA_worlds_least_radical_country_achievement_DESC: "As Alf Landon, win the Second American Civil War after successfully weakening both radical factions during negotiations."
+ USA_worlds_least_radical_country_achievement_NAME: "Наименее радикальная страна в мире"
+ USA_worlds_least_radical_country_achievement_DESC: "Играя за Альфа Лэндона, победите во втоой гражданской войне в США, успешно ослабив обе радикальные фракции в ходе переговоров."
 
- USA_crossing_the_potomac_achievement_NAME: "Crossing the Potomac"
- USA_crossing_the_potomac_achievement_DESC: "As Douglas MacArthur, win the Second American Civil War."
+ USA_crossing_the_potomac_achievement_NAME: "Пересекая Потомак"
+ USA_crossing_the_potomac_achievement_DESC: "Играя за Дугласа МакАртура, победите во втоой гражданской войне в США."
 
- USA_permanent_american_revolution_achievement_NAME: "Permanent American Revolution"
- USA_permanent_american_revolution_achievement_DESC: "As the Worker's Congress, win the Second American Civil War."
+ USA_permanent_american_revolution_achievement_NAME: "Перманентная американская революции"
+ USA_permanent_american_revolution_achievement_DESC: "Играя за ОСА, победите во втоой гражданской войне в США."
 
- USA_crowned_republic_achievement_NAME: "The Crowned Republic"
- USA_crowned_republic_achievement_DESC: "As the People's Government, win the Second American Civil War."
+ USA_crowned_republic_achievement_NAME: "Коронованная республика"
+ USA_crowned_republic_achievement_DESC: "Играя за АСШ, победите во втоой гражданской войне в США."
 
- USA_from_sea_to_shining_sea_achievement_NAME: "From Sea to Shining Sea"
- USA_from_sea_to_shining_sea_achievement_DESC: "As the Constitutional Coalition, win the Second American Civil War."
+ USA_from_sea_to_shining_sea_achievement_NAME: "От моря к сияющему морю"
+ USA_from_sea_to_shining_sea_achievement_DESC: "Играя за ТША, победите во втоой гражданской войне в США."
 
- USA_sons_of_liberty_achievement_NAME: "The Sons of Liberty"
- USA_sons_of_liberty_achievement_DESC: "As New England, win the Second American Civil War."
+ USA_sons_of_liberty_achievement_NAME: "Сыны свободы"
+ USA_sons_of_liberty_achievement_DESC: "Играя за Новую Англию, победите во втоой гражданской войне в США."
 
- ARG_reconquest_of_the_desert_achievement_NAME: "The Reconquest of the Desert"
- ARG_reconquest_of_the_desert_achievement_DESC: "As Argentina, successfully reclaim Patagonia and depose Chile's socialist government."
+ ARG_reconquest_of_the_desert_achievement_NAME: "Отвоевание пустыни"
+ ARG_reconquest_of_the_desert_achievement_DESC: "Играя за Аргентину, успешно верните Патагонию и сместите социалистов в Чили."
 
- FOP_sons_of_the_hills_achievement_NAME: "The Sons of the Hills"
- FOP_sons_of_the_hills_achievement_DESC: "As the Patagonian Workers' Front, defeat the Argentinian government and seize Buenos Aires."
+ FOP_sons_of_the_hills_achievement_NAME: "Сыны холмов"
+ FOP_sons_of_the_hills_achievement_DESC: "Играя за Рабочий Фронт Патагонии, победите Аргентину и завладейте Буэнос-Айрес."
 
- CHINA_QIE_to_govern_a_nation_by_morality_achievement_NAME: "To Govern a Nation By Morality"
- CHINA_QIE_to_govern_a_nation_by_morality_achievement_DESC: "As the Zhili Clique, unite China."
+ CHINA_QIE_to_govern_a_nation_by_morality_achievement_NAME: "Управлять народом по совести"
+ CHINA_QIE_to_govern_a_nation_by_morality_achievement_DESC: "Играя за Чжилийскую клику, объедините Китай."
 
- CHINA_QIE_raise_your_banners_achievement_NAME: "Raise Your Banners"
- CHINA_QIE_raise_your_banners_achievement_DESC: "As the Qing Government, depose the Zhili Clique and unite China."
+ CHINA_QIE_raise_your_banners_achievement_NAME: "Поднять знамёна"
+ CHINA_QIE_raise_your_banners_achievement_DESC: "Играя за Цин, свергните Чжилийскую Клику и объедините Китай."
 
- CHINA_FNG_new_tricks_for_old_marshals_achievement_NAME: "New Tricks For Old Marshals"
- CHINA_FNG_new_tricks_for_old_marshals_achievement_DESC: "As the Fengtian Government, unite China without becoming a Japanese puppet."
+ CHINA_FNG_new_tricks_for_old_marshals_achievement_NAME: "Новые трюки старых маршалов"
+ CHINA_FNG_new_tricks_for_old_marshals_achievement_DESC: "Играя за Фэнтянь, объедините Китай, не став марионеткой Японии."
 
- CHINA_LKMT_march_of_the_volunteers_achievement_NAME: "The March of the Volunteers"
- CHINA_LKMT_march_of_the_volunteers_achievement_DESC: "As a Left Kuomintang faction, unite China."
+ CHINA_LKMT_march_of_the_volunteers_achievement_NAME: "Поход добровольцев"
+ CHINA_LKMT_march_of_the_volunteers_achievement_DESC: "Играя за Миньганьское восстание, объедините Китай."
 
- CHINA_RKMT_forget_not_what_happened_in_ju_achievement_NAME: "Forget Not What Happened In Ju"
- CHINA_RKMT_forget_not_what_happened_in_ju_achievement_DESC: "As a Right Kuomintang faction, unite China."
+ CHINA_RKMT_forget_not_what_happened_in_ju_achievement_NAME: "Помните Цзю"
+ CHINA_RKMT_forget_not_what_happened_in_ju_achievement_DESC: "Играя за a Правый Гоминьдан, объедините Китай."
 
- CHINA_FED_begonia_with_many_leaves_achievement_NAME: "A Begonia With Many Leaves"
- CHINA_FED_begonia_with_many_leaves_achievement_DESC: "As the Federalists, unite China."
+ CHINA_FED_begonia_with_many_leaves_achievement_NAME: "Бегония о тысяче листьев"
+ CHINA_FED_begonia_with_many_leaves_achievement_DESC: "Играя за федералистов, объедините Китай."
 
- CHINA_SHX_model_of_the_model_governor_achievement_NAME: "The Model of the Model Governor"
- CHINA_SHX_model_of_the_model_governor_achievement_DESC: "As Yan Xishan, unite China."
+ CHINA_SHX_model_of_the_model_governor_achievement_NAME: "Образцовый Китай образцового губернатора"
+ CHINA_SHX_model_of_the_model_governor_achievement_DESC: "Играя за Яня Сишаня, объедините Китай."
 
- CHINA_SHX_honouring_the_wuyuan_oath_achievement_NAME: "Honouring the Wuyuan Oath"
- CHINA_SHX_honouring_the_wuyuan_oath_achievement_DESC: "As Feng Yuxiang, unite China."
+ CHINA_SHX_honouring_the_wuyuan_oath_achievement_NAME: "Чтя Вуйяюньскую клятву"
+ CHINA_SHX_honouring_the_wuyuan_oath_achievement_DESC: "Играя за Фэна Юйсяна, объедините Китай."
 
- CHINA_SZC_in_liu_of_legitimacy_achievement_NAME: "In Liu of Legitimacy"
- CHINA_SZC_in_liu_of_legitimacy_achievement_DESC: "As Liu Xiang, unite China."
+ CHINA_SZC_in_liu_of_legitimacy_achievement_NAME: "Люгитимный правитель"
+ CHINA_SZC_in_liu_of_legitimacy_achievement_DESC: "Играя за Лю Сяна, объедините Китай."
 
- CHINA_XSM_master_of_the_northwest_achievement_NAME: "The Master of the Northwest"
- CHINA_XSM_master_of_the_northwest_achievement_DESC: "As the Ma Clique, defeat Mongolia and Tibet in the Northwestern War."
+ CHINA_XSM_master_of_the_northwest_achievement_NAME: "Хозяева Северо-Запада"
+ CHINA_XSM_master_of_the_northwest_achievement_DESC: "Играя за Клику Ма, победите Монголию и Тибет в Северо-Западной войне."
 
- TIB_on_top_of_the_world_achievement_NAME: "On Top Of The World"
- TIB_on_top_of_the_world_achievement_DESC: "As Tibet, conquer Yushu and Qinghai from the Ma Clique."
+ TIB_on_top_of_the_world_achievement_NAME: "На вершине мира"
+ TIB_on_top_of_the_world_achievement_DESC: "Играя за Тибет, отбейте Юшу и Цинхай у Клики Ма."
 
- MON_horsing_around_achievement_NAME: "Horsing Around"
- MON_horsing_around_achievement_DESC: "As Mongolia, conquer the Ma Clique's Inner Mongolian territories."
+ MON_horsing_around_achievement_NAME: "Ржём с конём"
+ MON_horsing_around_achievement_DESC: "Играя за Монголию, отбейте Внутреннюю Монголию у Клики Ма."
 
- CHINA_SIK_watching_the_western_wall_achievement_NAME: "Watching The Western Wall"
- CHINA_SIK_watching_the_western_wall_achievement_DESC: "As the Xinjiang Clique, successfully defeat the rebellions in Kashgar and Kumul."
+ CHINA_SIK_watching_the_western_wall_achievement_NAME: "На страже западной стены"
+ CHINA_SIK_watching_the_western_wall_achievement_DESC: "Играя за Синьцзян, успешно подавите восстание в Кашгаре и Кумуле."
 
- KUM_wrath_of_the_khan_achievement_NAME: "The Wrath of the Khan"
- KUM_wrath_of_the_khan_achievement_DESC: "As Kumul, defeat East Turkestan and the Xinjiang Clique to gain control of the province."
+ KUM_wrath_of_the_khan_achievement_NAME: "Гнев Хана"
+ KUM_wrath_of_the_khan_achievement_DESC: "Играя за Кумуль, победите Восточный Туркестан и Синьцзян."
 
- ETS_yarkando_achievement_NAME: "Yarkan-do"
- ETS_yarkando_achievement_DESC: "As East Turkestan, defeat the Xinjiang Clique and Kumul to establish an independent Turkic republic."
+ ETS_yarkando_achievement_NAME: "Яркан-до"
+ ETS_yarkando_achievement_DESC: "Играя за Восточный Туркестан, создайте независимую республику, победив Кумуль и Синьцзян."
 
- CHINA_walking_on_sunshine_achievement_NAME: "Walking on Sunshine"
- CHINA_walking_on_sunshine_achievement_DESC: "As any Chinese faction, participate in the Second Sino-Japanese War and help defeat Japan."
+ CHINA_walking_on_sunshine_achievement_NAME: "Прогулки под солнцем"
+ CHINA_walking_on_sunshine_achievement_DESC: "Играя за любую китайскую фракцию, поучаствуйте во Второй Японо-Китайской войне и помогите победить Японию."
 
- JAP_longest_day_achievement_NAME: "The Longest Day"
- JAP_longest_day_achievement_DESC: "As Japan, proclaim victory over Western imperialism."
+ JAP_longest_day_achievement_NAME: "Длиннейший из дней"
+ JAP_longest_day_achievement_DESC: "Играя за Японию, объявите о победе над западным империализмом."
 
- BAT_please_go_outside_achievement_NAME: "Please, Go Outside"
- BAT_please_go_outside_achievement_DESC: "Form a National Populist Germany... as the Baltic State."
+ BAT_please_go_outside_achievement_NAME: "Пожалуйста, выйди на улицу" #NT!
+ BAT_please_go_outside_achievement_DESC: "Создайте национал-популистскую Германию... как Балтийское государство." #NT!
 
- RUS_what_a_childish_fantasy_achievement_NAME: "What a Childish Fantasy!"
- RUS_what_a_childish_fantasy_achievement_DESC: "Form the Soviet Union."
+ RUS_what_a_childish_fantasy_achievement_NAME: "Что за нелепая фантазия!"
+ RUS_what_a_childish_fantasy_achievement_DESC: "Создайте Советский Союз."
 
- NFA_arent_you_a_little_short_achievement_NAME: "Aren't You A Little Short To Be An Emperor?"
- NFA_arent_you_a_little_short_achievement_DESC: "Establish the Third French Empire."
+ NFA_arent_you_a_little_short_achievement_NAME: "Не мелковат ты для императора?"
+ NFA_arent_you_a_little_short_achievement_DESC: "Создайте Третью Французскую империю."
 
- AUS_bismarcks_nightmare_achievement_NAME: "Bismarck's Nightmare"
- AUS_bismarcks_nightmare_achievement_DESC: "As Austria, form Germany."
+ AUS_bismarcks_nightmare_achievement_NAME: "Кошмар Бисмарка"
+ AUS_bismarcks_nightmare_achievement_DESC: "Играя за Австрию, создайте Германию."
 
- POL_how_its_made_achievement_NAME: "How It's Made"
- POL_how_its_made_achievement_DESC: "As the Kingdom of Poland, liberate a Germany that has capitulated."
+ POL_how_its_made_achievement_NAME: "Вот так это и делается"
+ POL_how_its_made_achievement_DESC: "Играя за Королевство Польшу, освободите капитулировавшую Германию."
 
- UKR_one_and_a_half_hetmen_achievement_NAME: "One and a Half Hetmen"
- UKR_one_and_a_half_hetmen_achievement_DESC: "As the Ukrainian State, avert a civil war."
+ UKR_one_and_a_half_hetmen_achievement_NAME: "Полтора гетмана"
+ UKR_one_and_a_half_hetmen_achievement_DESC: "Играя за Украинскую Державу, избегите гражданской войны."
 
- LIT_put_up_your_grand_dukes_achievement_NAME: "Put Up Your Grand Dukes"
- LIT_put_up_your_grand_dukes_achievement_DESC: "Form Lithuania-Belarus."
+ LIT_put_up_your_grand_dukes_achievement_NAME: "Где же великий князь?"
+ LIT_put_up_your_grand_dukes_achievement_DESC: "Создайте Литву-Беларусь."
 
- SCA_a_scan_do_attitude_achievement_NAME: "A Scan-do Attitude"
- SCA_a_scan_do_attitude_achievement_DESC: "Form the Nordic Federation as either Sweden, Norway, or Denmark."
+ SCA_a_scan_do_attitude_achievement_NAME: "Настрой скандировать"
+ SCA_a_scan_do_attitude_achievement_DESC: "Играя за Швецию, Данию или Норвегию, создайте Северный Союз."
 
- SWE_scandinavian_twins_achievement_NAME: "Scandinavian Twins"
- SWE_scandinavian_twins_achievement_DESC: "As Sweden, re-create the union with Norway."
+ SWE_scandinavian_twins_achievement_NAME: "Скандинавские близнецы"
+ SWE_scandinavian_twins_achievement_DESC: "Играя за Швецию, воссоздайте унию с Норвегией."
 
- SER_consequences_of_my_own_actions_achievement_NAME: "Well, Well, Well, If It Isn't The Consequences Of My Own Actions"
- SER_consequences_of_my_own_actions_achievement_DESC: "As Serbia, find out what happens when you rely too much on the Konspiracija."
+ SER_consequences_of_my_own_actions_achievement_NAME: "Ну-ну-ну, если бы это не последствия моих собственных действий" #NT!
+ SER_consequences_of_my_own_actions_achievement_DESC: "Играя за Сербию, узнайте, что происходит, если вы слишком сильно полагаетесь на Конспирацию." #NT!
 
- SER_coming_of_age_story_achievement_NAME: "A Coming of Age Story"
- SER_coming_of_age_story_achievement_DESC: "As Serbia, re-establish a constitutional monarchy."
+ SER_coming_of_age_story_achievement_NAME: "История века"
+ SER_coming_of_age_story_achievement_DESC: "Играя за Сербию, воссоздайте конституционную монархию."
 
- BUL_tsars_new_clothes_achievement_NAME: "The Tsar's New Clothes"
- BUL_tsars_new_clothes_achievement_DESC: "Found the Third Bulgarian Empire."
+ BUL_tsars_new_clothes_achievement_NAME: "Новое одеяние царя"
+ BUL_tsars_new_clothes_achievement_DESC: "Создайте Третью Болгарскую Империю."
 
- BUL_things_that_happen_when_you_talk_achievement_NAME: "The Things That Happen When You Talk To People"
- BUL_things_that_happen_when_you_talk_achievement_DESC: "As Bulgaria, create a (hopefully) lasting peace in the Balkans."
+ BUL_things_that_happen_when_you_talk_achievement_NAME: "Что происходит, когда вы разговариваете с людьми" #NT!
+ BUL_things_that_happen_when_you_talk_achievement_DESC: "Играя за Болгарию, создайте (надеюсь) прочный мир на Балканах." #NT!
 
- BUL_circular_reasoning_achievement_NAME: "Circular Reasoning"
- BUL_circular_reasoning_achievement_DESC: "Form Yugoslavia... as Bulgaria."
+ BUL_circular_reasoning_achievement_NAME: "Циркулярные рассуждения"
+ BUL_circular_reasoning_achievement_DESC: "Создайте Югославию... играя за Болгарию."
 
- USA_barracks_socialism_achievement_NAME: "Barracks Socialism"
- USA_barracks_socialism_achievement_DESC: "As the Workers' Congress of America, experience a military coup."
+ USA_barracks_socialism_achievement_NAME: "Казарменный социализм"
+ USA_barracks_socialism_achievement_DESC: "Играя за ОСА, добейтесь военного переворота."
 
- LBA_1001_libyan_nights_achievement_NAME: "1001 Libyan Nights"
- LBA_1001_libyan_nights_achievement_DESC: "As Cyrenaica, form Ifriqya."
+ LBA_1001_libyan_nights_achievement_NAME: "1001 ливийская ночь"
+ LBA_1001_libyan_nights_achievement_DESC: "Играя за Киренаику, создайте Ифрикию."
 
- BHU_lightning_in_a_bottle_achievement_NAME: "Lightning in a Bottle"
- BHU_lightning_in_a_bottle_achievement_DESC: "Found the Druk Empire."
+ BHU_lightning_in_a_bottle_achievement_NAME: "Молния в бутылке"
+ BHU_lightning_in_a_bottle_achievement_DESC: "Создайте империю Друк."
 
- FOP_in_the_hall_of_the_mountain_chairman_achievement_NAME: "In The Hall of the Mountain Chairman"
- FOP_in_the_hall_of_the_mountain_chairman_achievement_DESC: "As Patagonia, form Andesia."
+ FOP_in_the_hall_of_the_mountain_chairman_achievement_NAME: "В чертогах горного председателя"
+ FOP_in_the_hall_of_the_mountain_chairman_achievement_DESC: "Играя за Патагонию, создайте Андезию."
 
- CHINA_LEC_another_century_of_humiliation_achievement_NAME: "Another Century of Humiliation"
- CHINA_LEC_another_century_of_humiliation_achievement_DESC: "As the Legation Cities, establish a mandate over all of China."
+ CHINA_LEC_another_century_of_humiliation_achievement_NAME: "Ещё один век унижений"
+ CHINA_LEC_another_century_of_humiliation_achievement_DESC: "Играя за Города-Концессии, завладейте всем Китаем."
 
- 00_home_by_christmas_achievement_NAME: "Home by Christmas"
- 00_home_by_christmas_achievement_DESC: "As a member of the Reichspakt, Third Internationale, or Moscow Accord, finish the Second Weltkrieg within a year of its start."
+ 00_home_by_christmas_achievement_NAME: "Будем дома к Рождеству"
+ 00_home_by_christmas_achievement_DESC: "Играя за члена Рейхспакта, Третьего Интернационала или Организации Московского договора, закончите Второй Вельткриг в течение года с момента его начала."
 
- 00_no_worker_has_ever_heard_of_syndicalism_achievement_NAME: "No Worker Has Ever Heard of Syndicalism"
- 00_no_worker_has_ever_heard_of_syndicalism_achievement_DESC: "Have a Syndicalist government with over 90% popularity."
+ 00_no_worker_has_ever_heard_of_syndicalism_achievement_NAME: "Ни один рабочий не слышал о синдикализме"
+ 00_no_worker_has_ever_heard_of_syndicalism_achievement_DESC: "Имейте синдикалистическое правительство с 90% популярности."
 
- 00_fantastic_day_for_capitalism_achievement_NAME: "A Fantastic Day For Capitalism"
- 00_fantastic_day_for_capitalism_achievement_DESC: "Be on the Legation Council or the Suez council as a country that doesn't start on either."
+ 00_fantastic_day_for_capitalism_achievement_NAME: "Отличный день для капитализма"
+ 00_fantastic_day_for_capitalism_achievement_DESC: "Играя за страну, которая изначально не входи в Совет Концессий или Совет Суэца, добейтесь места в одном из них."
 
- GER_another_place_in_the_sun_achievement_NAME: "Another Place In The Sun"
- GER_another_place_in_the_sun_achievement_DESC: "As Germany, place all Caribbean islands under your faction's ownership."
+ GER_another_place_in_the_sun_achievement_NAME: "Другое место под солнцем" #NT!
+ GER_another_place_in_the_sun_achievement_DESC: "Играя за Германию, передайте все острова Карибского моря во владение своей фракции." #NT!
 
- NFA_liberte_egalite_fratricide_achievement_NAME: "Liberté, Egalité, Fratricide"
- NFA_liberte_egalite_fratricide_achievement_DESC: "As the French Exiles, inflict a million casualties against the rival Commune of France."
+ NFA_liberte_egalite_fratricide_achievement_NAME: "Свобода, Равенство, Братоубийство"
+ NFA_liberte_egalite_fratricide_achievement_DESC: "Играя за Францию-в-изгнании, добейтесь, чтобы Коммуна понесла более миллиона потерь от ваших рук."
 
- NFA_third_times_the_charm_achievement_NAME: "Third Time's The Charm"
- NFA_third_times_the_charm_achievement_DESC: "As the French Exiles, own and control all of the Metropole, including Alsace-Lorraine."
+ NFA_third_times_the_charm_achievement_NAME: "Бог любит троицу"
+ NFA_third_times_the_charm_achievement_DESC: "Играя за Францию-в-изгнании, владейте всеми французскими землями на континете, включая Эльзас-Лотарингию."
 
- NFA_its_bloody_flag_has_been_raised_achievement_NAME: "Its Bloody Flag Has Been Raised"
- NFA_its_bloody_flag_has_been_raised_achievement_DESC: "As the Kingdom of France, successfully own and control Paris after undergoing the harshest purge possible."
+ NFA_its_bloody_flag_has_been_raised_achievement_NAME: "Мы вывесили этот чёртов флаг"
+ NFA_its_bloody_flag_has_been_raised_achievement_DESC: "Играя за Королевство Францию, успешно владейте Парижем после самой жестокой расправы над местными."
 
- ITA_road_to_redemption_achievement_NAME: "The Road to Redemption"
- ITA_road_to_redemption_achievement_DESC: "As Italy, own all of the Unredeemed Lands."
+ ITA_road_to_redemption_achievement_NAME: "Дорога к искуплению"
+ ITA_road_to_redemption_achievement_DESC: "Играя за Италию, владейте всеми регионами, на которые у вас есть ирредентистские претензии."
 
- MIT_bear_trap_achievement_NAME: "Bear Trap"
- MIT_bear_trap_achievement_DESC: "As an Oststaat, inflict a million casualties against Russia."
+ MIT_bear_trap_achievement_NAME: "Медвежий капкан"
+ MIT_bear_trap_achievement_DESC: "Играя за любой Остштаат, нанесите миллион потерь Россие."
 
- POL_selling_out_achievement_NAME: "Selling Out"
- POL_selling_out_achievement_DESC: "As Poland, cede control of over 90% of your economy to foreign powers."
+ POL_selling_out_achievement_NAME: "Распродажа"
+ POL_selling_out_achievement_DESC: "Играя за Польшу, сдайте 90% вашей экономики иностранным державам."
 
- UKR_war_against_the_world_achievement_NAME: "A War Against the World"
- UKR_war_against_the_world_achievement_DESC: "As a Syndicalist Ukraine, survive a simultaneous war against Germany and Russia."
+ UKR_war_against_the_world_achievement_NAME: "Война со всем миром"
+ UKR_war_against_the_world_achievement_DESC: "Играя за синдикалистическую Украине, переживите одновременную войну с Германией и Россией."
 
- UKR_paint_it_black_achievement_NAME: "Paint It Black"
- UKR_paint_it_black_achievement_DESC: "As the Ukrainian National Republic, form the Black Sea Union and expand it to include all target countries."
+ UKR_paint_it_black_achievement_NAME: "Покрась это в чёрный"
+ UKR_paint_it_black_achievement_DESC: "Играя за Украинскую Националистическую республику, создайте Черноморский Союз и включите туда все доступные страны."
 
- UKR_hetmanaged_economy_achievement_NAME: "A Het-managed Economy"
- UKR_hetmanaged_economy_achievement_DESC: "As Ukraine, complete the industrialisation and land reform projects with the best possible outcome in both (and without triggering a coup)."
+ UKR_hetmanaged_economy_achievement_NAME: "Экономический гетманеджер"
+ UKR_hetmanaged_economy_achievement_DESC: "Играя Украину, завершите проекты индустриализации и земельной реформы с наилучшими возможными результатами в обоих случаях (и без провоцирования переворота)."
 
- BLR_landscaping_achievement_NAME: "Land-scaping"
- BLR_landscaping_achievement_DESC: "As White Ruthenia, earn the best possible result from the land reform project."
+ BLR_landscaping_achievement_NAME: "Ландшафтный дизайн" #NT!
+ BLR_landscaping_achievement_DESC: "Играя за Белую Малороссию, добейтесь наилучшего результата от проекта земельной реформы." #NT!
 
- USA_not_so_divided_states_achievement_NAME: "The Not-So-Divided States"
- USA_not_so_divided_states_achievement_DESC: "As any American faction, win the Second American Civil War before July 4, 1938."
+ USA_not_so_divided_states_achievement_NAME: "Не-такие-уж-и-разъединённые Штаты Америки"
+ USA_not_so_divided_states_achievement_DESC: "Играя за любую из фракций США, закончите гражданскую войну до 4 июля 1938."
 
- CHINA_LKMT_revolutionary_export_economy_achievement_NAME: "Revolutionary Export Economy"
- CHINA_LKMT_revolutionary_export_economy_achievement_DESC: "As the Kuomintang, successfully realise the liberation of Asia."
+ CHINA_LKMT_revolutionary_export_economy_achievement_NAME: "Экономика экспорта революции"
+ CHINA_LKMT_revolutionary_export_economy_achievement_DESC: "Играя за Левый Гоминьдан, успешно проведите освобождение Азии."
 
- JAP_invisible_hand_achievement_NAME: "The Invisible Hand of the Japanese Market"
- JAP_invisible_hand_achievement_DESC: "As Japan, increase Japanese Influence in Fengtian to 50%."
+ JAP_invisible_hand_achievement_NAME: "Невидимая рука японского рынка"
+ JAP_invisible_hand_achievement_DESC: "Играя за Японию, добейтесь 50% популярности Общества Согласия в Фэнтяни."
 
- SER_four_of_a_kind_achievement_NAME: "Four of a Kind"
- SER_four_of_a_kind_achievement_DESC: "Starting as Serbia, successfully stabilise Yugoslavia after annexing Bulgaria before the project's completion."
+ SER_four_of_a_kind_achievement_NAME: "Фантастическая четвёрка"
+ SER_four_of_a_kind_achievement_DESC: "Играя за Сербию, успешно стабилизируйте Югославию после аннексии Болгарии до завершения проекта."
 
- BUL_tsarist_rumble_achievement_NAME: "The Tsarist Rumble"
- BUL_tsarist_rumble_achievement_DESC: "As Bulgaria, win the Fourth Balkan War."
+ BUL_tsarist_rumble_achievement_NAME: "Царский переполох"
+ BUL_tsarist_rumble_achievement_DESC: "Играя за Болгарию, победите в Четвёртой Балканской войне."
 
- USA_guns_of_the_patriots_achievement_NAME: "The Guns of the Patriots"
- USA_guns_of_the_patriots_achievement_DESC: "As New England, ensure every possible safehouse is open, and complete all Underground Railroad expansion decisions."
+ USA_guns_of_the_patriots_achievement_NAME: "Орудия патриотов"
+ USA_guns_of_the_patriots_achievement_DESC: "Играя за Новую Англию, завершите все расширения Подземки."
 
- CHINA_little_trouble_in_big_china_achievement_NAME: "Little Trouble in Big China"
- CHINA_little_trouble_in_big_china_achievement_DESC: "As any Chinese faction, reconquer all of China's claimed territory—including Tibet, Mongolia, Xinjiang, and Taiwan."
+ CHINA_little_trouble_in_big_china_achievement_NAME: "Маленькие проблемы в большом Китае"
+ CHINA_little_trouble_in_big_china_achievement_DESC: "Играя за любую из китайских фракций, верните Китаю все территории, на которые он претендует (включая Тибет, Монголию, Синьцзян и Тайвань)."
 
- 00_gatekeeper_achievement_NAME: "The Gatekeeper"
- 00_gatekeeper_achievement_DESC: "Simultaneously own the Panama Canal and Singapore."
+ 00_gatekeeper_achievement_NAME: "Страж ворот"
+ 00_gatekeeper_achievement_DESC: "Одновременно владейте Панамским каналом и Сингапуром."
 
- LBA_caravan_simulator_achievement_NAME: "Caravan Simulator 1936"
- LBA_caravan_simulator_achievement_DESC: "As Cyrenaica, upgrade all of your Caravan Routes and Zawiyas to the maximum level."
+ LBA_caravan_simulator_achievement_NAME: "Симулятор караванщика 1936"
+ LBA_caravan_simulator_achievement_DESC: "Играя за Киренаику, улучшите все караваны до максимального уровня."
 
- CHINA_source_of_the_nation_achievement_NAME: "The Source of the Nation"
- CHINA_source_of_the_nation_achievement_DESC: "As a Chinese faction, proclaim a national government with Xi'an as your capital."
+ CHINA_source_of_the_nation_achievement_NAME: "Истоки нации"
+ CHINA_source_of_the_nation_achievement_DESC: "Играя за любую китайскую фракцию, объявите себя правительством, переместив столицу в Сиань."
 
- CA_dont_steppe_achievement_NAME: "Don't Steppe On Me"
- CA_dont_steppe_achievement_DESC: "As any Central Asian country, establish a united Central Asian state."
+ CA_dont_steppe_achievement_NAME: "Не наступай на меня" #NT!
+ CA_dont_steppe_achievement_DESC: "Как и любая центральноазиатская страна, создайте единое центральноазиатское государство." #NT!
 
- INDIA_truth_alone_endures_achievement_NAME: "Truth Alone Endures"
- INDIA_truth_alone_endures_achievement_DESC: "As an Indian government, control, or have an ally control, all core Indian territory."
+ INDIA_truth_alone_endures_achievement_NAME: "Только истина выдержит" #NT!
+ INDIA_truth_alone_endures_achievement_DESC: "Будучи индийским правительством, вы контролируете или имеете союзника, контролирующего всю основную территорию Индии." #NT!
 
- PHI_mabuhay_achievement_NAME: "Mabuhay!"
- PHI_mabuhay_achievement_DESC: "As the Philippines, complete a political faction's capstone focus."
+ PHI_mabuhay_achievement_NAME: "Мабухай!" #NT!
+ PHI_mabuhay_achievement_DESC: "Играя за Филиппины, завершите основной фокус политической фракции." #NT!
 
- USA_we_have_returned_achievement_NAME: "We Have Returned!"
- USA_we_have_returned_achievement_DESC: "As any American faction, either win the Fight for the Philippines or have the Philippines as your puppet."
+ USA_we_have_returned_achievement_NAME: "Мы вернулись!" #NT!
+ USA_we_have_returned_achievement_DESC: "Играя за любую американскую фракцию, либо выиграйте битву за Филиппины, либо сделайте Филиппины своей марионеткой." #NT!
 
- TUR_hand_that_rocks_achievement_NAME: "The Hand That Rocks The Cradle"
- TUR_hand_that_rocks_achievement_DESC: "As the Ottoman Empire, collect all civilian factories from your Egyptian puppet, while having the lowest level of unrest."
+ TUR_hand_that_rocks_achievement_NAME: "Рука, качающая колыбель" #NT!
+ TUR_hand_that_rocks_achievement_DESC: "Играя за Османскую империю, соберите все гражданские фабрики у своей египетской марионетки, имея при этом самый низкий уровень беспорядков." #NT!
 
 ### Tooltips (organised by the order in which they appear in the achievements file)
 
- legacy_achievement_tt: "§RThis achievement is retained from a previous version of the mod, and can no longer be obtained normally.§!"
+ legacy_achievement_tt: "§RЭто достижение сохранилось из предыдущей версии мода и больше не может быть получено обычным способом.§!" #NT!
 
- achievements_disabled: "§RCustom Achievements are currently disabled.§!\n§YTo undo this, click the toggle in the options menu.§!"
+ achievements_disabled: "§RПользовательские достижения отключены.§!\n§YЧтобы включить их, нажмите переключатель во внутригровом меню.§!"
 
- achievement_available_as_any_tag_tooltip: "This Achievement can be earned while playing as any country."
+ achievement_available_as_any_tag_tooltip: "Это достижение можно получить, играя за любую страну." #NT!
 
- second_weltkrieg_is_over_in_europe_tooltip: "Is not at war with a faction based in §YEurope§!"
+ second_weltkrieg_is_over_in_europe_tooltip: "Не находится в состоянии войны с фракцией, базирующейся в §YEurope§!" #NT!
 
- achievement_bear_trap_tooltip: "Inflicted at least a million casualties to Russia."
+ achievement_bear_trap_tooltip: "Нанесли миллион потерь России."
 
- fantastic_day_for_capitalism_disallowed_condition: "Is not a starting member of the Legation Council or a mandatory power of the Mutasarrifate of Jerusalem."
+ fantastic_day_for_capitalism_disallowed_condition: "Не является стартовым членом Совета Концессий или Мутасаррифата Иерусалима."
 
- fantastic_day_for_capitalism_achievement_tooltip: "Is on the Legation Council or the Suez Council."
+ fantastic_day_for_capitalism_achievement_tooltip: "Входите в Совет Концессий или Суэцкий совет."
 
- achievement_gatekeeper_tooltip: "Owns the Panama Canal and Singapore."
+ achievement_gatekeeper_tooltip: "Владеете Панамским каналом и Сингапуром."
 
- achievement_home_by_christmas_tooltip: "The Second Weltkrieg has started less than a year ago."
+ achievement_home_by_christmas_tooltip: "Второй Вельткриг начался менее года назад."
 
- illusion_of_free_choice_achievement_tooltip: "Rejoined the Reichspakt after leaving it."
+ illusion_of_free_choice_achievement_tooltip: "Вступили в Рейсхпакт после того, как покинули его."
 
- arable_land_achievement_tooltip: "Has formed the Arab Federation."
+ arable_land_achievement_tooltip: "Создали Арабскую Федерацию."
 
- indivisibiliter_ac_inseparabiliter_achievement_tooltip: "Belgrade and Bucharest are owned by Austria or an ally."
+ indivisibiliter_ac_inseparabiliter_achievement_tooltip: "Белград и Бухарест находится во владении Австрии или её союзников."
 
- bismarcks_nightmare_achievement_tooltip: "Has formed Germany."
+ bismarcks_nightmare_achievement_tooltip: "Создали Германию."
 
- held_together_by_super_glue_achievement_tooltip: "Owns all Danubian territory."
+ held_together_by_super_glue_achievement_tooltip: "Владеете всеми Дунайскими территориями."
 
- please_go_outside_achievement_tooltip: "You should probably stop playing video games."
+ please_go_outside_achievement_tooltip: "Вероятно, вам следует перестать играть в видеоигры." #NT!
 
- one_city_challenge_achievement_tooltip: "Formed the Baltic Federation."
+ one_city_challenge_achievement_tooltip: "Создали Балтийскую Федерацию."
 
- lightning_in_a_bottle_achievement_tooltip: "Founded the Druk Empire."
+ lightning_in_a_bottle_achievement_tooltip: "Создали империю Друк."
 
- circular_reasoning_achievement_tooltip: "Formed a Bulgarian-led Yugoslavia."
+ circular_reasoning_achievement_tooltip: "Болгария создала Югославию."
 
- enemies_to_lovers_achievement_serbia_tooltip: "Serbia has formed Yugoslavia."
+ enemies_to_lovers_achievement_serbia_tooltip: "Сербия создала Югославию."
 
- enemies_to_lovers_achievement_romania_tooltip: "Romania owns all of Transylvania."
+ enemies_to_lovers_achievement_romania_tooltip: "Румыния владеет всей Трансильванией."
 
- things_that_happen_when_you_talk_achievement_tooltip: "Established the Balkan Union."
+ things_that_happen_when_you_talk_achievement_tooltip: "Создали Балканский Союз."
 
- owns_western_thrace_achievement: "Maintained control over Western Thrace and Kardzhali."
+ owns_western_thrace_achievement: "Сохранили контроль над Западной Фракией и Карджали."
 
- tsars_new_clothes_achievement_tooltip: "Established the Third Bulgarian Empire."
+ tsars_new_clothes_achievement_tooltip: "Создали Третью Болгарскую империю."
 
- just_a_very_long_holiday_achievement_tooltip: "Restored the British monarchy, owning all states in Great Britain."
+ just_a_very_long_holiday_achievement_tooltip: "Восстановил британскую монархию, владеющую всеми штатами Великобритании." #NT!
 
- little_trouble_in_big_china_achievement_tooltip: "Owns or has a subject own all claimed Chinese territory, including §YXinjiang§!, §YTibet§!, §YMongolia§!, §YTuva§!, §YTaiwan§!, §Y[1042.GetName]§!, and §Y[1111.GetName]§!."
+ little_trouble_in_big_china_achievement_tooltip: "Владеете всеми территориями Китая, включая претензии."
 
- walking_on_the_sun_achievement_tooltip: "Won the Second Sino-Japanese War."
+ walking_on_the_sun_achievement_tooltip: "Победили во Второй Японо-Китайской войне."
 
- formed_upc_tooltip: "Formed the United Provinces of China."
+ formed_upc_tooltip: "Сформировали Объединённые Провинции Китая."
 
- formed_roc_tooltip: "Formed the Republic of China."
+ formed_roc_tooltip: "Сформировали Китайскую Республику."
 
- another_century_of_humiliation_achievement_tooltip: "Established a mandate over China, including §YXinjiang§!, §YTibet§!, §YMongolia§!, §YTuva§!, §YTaiwan§!, §Y[1042.GetName]§!, and §Y[1111.GetName]§!."
+ another_century_of_humiliation_achievement_tooltip: "Установили мандат над Китаем."
 
- formed_qing_tooltip: "Formed the Great Qing."
+ formed_qing_tooltip: "Сформировали империю Цин."
 
- united_china_tooltip: "Formed the Empire of China or the Republic of China."
+ united_china_tooltip: "Сформировали империю Цин или Китайскую Республику."
 
- source_of_the_nation_achievement_tooltip: "Xi'an is the capital Victory Point."
+ source_of_the_nation_achievement_tooltip: "Сиань является столицей."
 
- xinjiang_rebellion_has_begun: "Rebellion has broken out in Xinjiang."
+ xinjiang_rebellion_has_begun: "Восстание в Синьцзяне было подавлено."
 
- the_peoples_flag_achievement_tooltip: "The Entente does not exist."
+ the_peoples_flag_achievement_tooltip: "Антанта не существует."
 
- in_the_hall_of_the_mountain_achievement_tooltip: "Has formed Andesia."
+ in_the_hall_of_the_mountain_achievement_tooltip: "Сформировали Андезию."
 
- liberte_egalite_fratricide_achievement_tooltip: "Has inflicted a million casualties on the Commune of France."
+ liberte_egalite_fratricide_achievement_tooltip: "Нанесли миллион потерь Французской Коммуне."
 
- syndicalist_bias_achievement_tooltip: "Owns and controls Alsace-Lorraine."
+ syndicalist_bias_achievement_tooltip: "Владеете и контролируете Эльзас-Лотарингию."
 
- believe_in_the_heart_of_the_cards_achievement_tooltip: "Has won the Black Monday card game without losing or stalling a single turn."
+ believe_in_the_heart_of_the_cards_achievement_tooltip: "Победили в карточной игре Чёрного Понедельника к самой возможной дате."
 
- another_place_in_the_sun_achievement_tooltip: "All Caribbean islands are owned by Germany's faction."
+ another_place_in_the_sun_achievement_tooltip: "Все Карибские острова принадлежат фракции Германии." #NT!
 
- only_mostly_dead_achievement_tooltip: "Won the Second Weltkrieg after experiencing an eleventh-hour coup."
+ only_mostly_dead_achievement_tooltip: "Победили во Втором Вельткриге по одиннадцатичасового переворота."
 
- fighting_irish_achievement_SCW_tooltip: "Sent volunteers to the §YSpanish Civil War§!, only on the winning side."
- fighting_irish_achievement_4BW_tooltip: "Sent volunteers to the §YFourth Balkan War§!, only on the winning side."
- fighting_irish_achievement_india_tooltip: "Sent volunteers to the §YIndian Civil War§!, only on the winning side."
- fighting_irish_achievement_ACW_tooltip: "Sent volunteers to the §YSecond American Civil War§!, only on the winning side."
- fighting_irish_achievement_ICW_tooltip: "Sent volunteers to the §YItalian Civil War§!, only on the winning side."
- fighting_irish_achievement_SC_tooltip: "Sent volunteers to the §YWar in the Southern Cone§!, only on the winning side."
- fighting_irish_achievement_WITD_tooltip: "Sent volunteers to the §YLevant Crisis§!, only on the winning side."
+ fighting_irish_achievement_SCW_tooltip: "Послали добровольцев на §Yгражданскую войну в Испании§! только победившей стороне."
+ fighting_irish_achievement_4BW_tooltip: "Послали добровольцев на §YЧетвёртую Балканскую войну§! только победившей стороне."
+ fighting_irish_achievement_india_tooltip: "Отправил добровольцев на §YГражданскую войну в Индии§!, только на стороне победителя." #NT!
+ fighting_irish_achievement_ACW_tooltip: "Послали добровольцев на §YВторую гражданскую войну в США§! только победившей стороне."
+ fighting_irish_achievement_ICW_tooltip: "Послали добровольцев на §YИтальнскую гражданскую войну§! только победившей стороне."
+ fighting_irish_achievement_SC_tooltip: "Послали добровольцев на §YВойну в южном полушарии§! только победившей стороне."
+ fighting_irish_achievement_WITD_tooltip: "Послали добровольцев на §YВойну в пустыне§! только победившей стороне."
 
- road_to_redemption_achievement_tooltip: "Unredeemed Lands"
+ road_to_redemption_achievement_tooltip: "Владеете всеми территориями ирреденты."
 
- 1001_libyan_nights_achievement_tooltip: "Has formed Ifriqya."
+ 1001_libyan_nights_achievement_tooltip: "Создали Ифрикию."
 
- caravan_simulator_zawiya_tooltip: "Upgraded all Zawiyas to the highest level."
- caravan_simulator_caravan_tooltip: "Upgraded the §YKufra§!, §YFezzan§!, §YBilma§!, and §YAbéché§! routes to the highest level."
+ caravan_simulator_zawiya_tooltip: "Все Завии повышены до высшего уровня." #NT!
+ caravan_simulator_caravan_tooltip: "Обновлены §YKufra§!, §YFezzan§!, §YBilma§! и §YAbéché§! Маршруты высочайшего уровня." #NT!
 
- put_up_your_grand_dukes_achievement_tooltip: "Has formed Lithuania-Belarus."
+ put_up_your_grand_dukes_achievement_tooltip: "Создали Литву-Беларусь."
 
- arent_you_a_little_short_achievement_tooltip: "Founded the Third French Empire."
+ arent_you_a_little_short_achievement_tooltip: "Создали Третью Французскую империю."
 
- its_bloody_flag_has_been_raised_achievement_tooltip: "Owns and controls Ile-de-France."
+ its_bloody_flag_has_been_raised_achievement_tooltip: "Вдаете и контролируете Иль-де-Франс."
 
- third_times_the_charm_achievement_tooltip: "Owns all metropolitan French states (including Alsace-Lorraine)."
+ third_times_the_charm_achievement_tooltip: "Завладели всеми континентальными территориями Франции (включая Эльзас-Лотарингию)."
 
- immunised_man_of_europe_achievement_tooltip: "All core states that can be fully centralised have been."
+ immunised_man_of_europe_achievement_tooltip: "Все национальные территории, которые могли быть централизированы, были централизированы."
 
- cant_believe_its_not_zapadoslavia_achievement_tooltip: "Has formed the Central European Confederation."
+ cant_believe_its_not_zapadoslavia_achievement_tooltip: "Создали Центральноевропейскую Конфедерацию."
 
- how_its_made_achievement_tooltip: "Liberated a Germany that has capitulated, while still retaining the Polish monarchy."
+ how_its_made_achievement_tooltip: "Будучи польской монархией, освободили капитулировавшую Германию."
 
- wait_this_isnt_eu4_achievement_tooltip: "Has formed the Commonwealth."
+ wait_this_isnt_eu4_achievement_tooltip: "Создали Речь Посполитую."
 
- still_not_lost_achievement_tooltip: "Has reached 1945 without being capitulated."
+ still_not_lost_achievement_tooltip: "Достигли 1945-го, ни разу не капитулировав."
 
- west_by_northwest_achievement_tooltip: "Czechoslovakia has been formed."
+ west_by_northwest_achievement_tooltip: "Была сформирована Чехословакия."
 
- and_hades_followed_achievement_tooltip: "No country has a socialist government."
+ and_hades_followed_achievement_tooltip: "Ни в одной стране нет социалистического правительства." #NT!
 
- see_nick_achievement_tooltip: "All Ukrainian, Belarusian, Lithuanian, Estonian, Latvian, Polish, Georgian, and Azerbaijani starting territory is owned by Russia or an ally."
+ see_nick_achievement_tooltip: "Все украинские, белорусские, литовские, эстонские, латвийские, польские, грузинские и азербайджанские стартовые территории находятся во владении России или её союзников."
 
- two_emperors_walk_into_a_tsar_achievement_tooltip: "The German Empire is in faction with Russia."
+ two_emperors_walk_into_a_tsar_achievement_tooltip: "Германская империя находится во фракции с Россией." #NT!
 
- whatever_happened_achievement_tooltip: "All countries in Europe are led by a socialist government."
+ whatever_happened_achievement_tooltip: "Все страны Европы возглавляются социалистическим правительством." #NT!
 
- RUS_achievement_2_tt: "Has completed all 3 of a President's agendas."
+ RUS_achievement_2_tt: "Выполнил все 3 повестки дня президента." #NT!
 
- what_a_childish_fantasy_achievement_tooltip: "Has formed the Soviet Union."
+ what_a_childish_fantasy_achievement_tooltip: "Создали Советский Союз."
 
- consequences_of_my_own_actions_achievement_tooltip: "§RAre you sure you know what you're doing?§!"
+ consequences_of_my_own_actions_achievement_tooltip: "§RВы уверены, что знаете, что делаете?§!" #NT!
 
- four_of_a_kind_achievement_tooltip: "Integrated a Bulgarian puppet §RBEFORE§! completing the Brotherhood and Unity focus."
+ four_of_a_kind_achievement_tooltip: "Интегрировали Болгарию до выполнения фокуса Братство и Единство."
 
- scandinavian_twins_achievement_tooltip: "Has reformed Sweden-Norway."
+ scandinavian_twins_achievement_tooltip: "Восстановили Швецию-Норвегию."
 
- hetmanaged_economy_achievement_tooltip: "Has achieved the best possible national spirit from the industrialisation and land reform missions."
+ hetmanaged_economy_achievement_tooltip: "Достигли наилучшего национального духа в ходе индустриализации и земельной реформы."
 
- one_and_a_half_hetmen_achievement_tooltip: "Avoided the Anti-Hetman Revolt."
+ one_and_a_half_hetmen_achievement_tooltip: "Избежали антигетманского восстания."
 
- russia_not_socialist_tooltip: "Russia does not have a socialist government, or is a puppet if it does."
+ russia_not_socialist_tooltip: "Россия не имеет социалистического правительства, а если и имеет, то является марионеткой."
 
- won_ACW_tooltip: "Won the Second American Civil War."
+ won_ACW_tooltip: "Победили во Второй гражданской войне в США."
 
- barracks_socialism_achievement_tooltip: "Has had a military coup."
+ barracks_socialism_achievement_tooltip: "Произошёл военный переворот."
 
- high_stakes_union_negotiations_achievement_tooltip: "Reached a compromise with Reed and the SPA."
+ high_stakes_union_negotiations_achievement_tooltip: "Достигли компромисса с Ридом и социалистами."
 
- kings_ransom_achievement_tooltip: "Reached a compromise with Long and his southern allies."
+ kings_ransom_achievement_tooltip: "Достигли компромисса с Лонгом и АПВ."
 
- worlds_least_radical_country_achievement_tooltip: "Successfully weakened both the SPA and Long at Landon's conference, and avoided a coup from MacArthur."
+ worlds_least_radical_country_achievement_tooltip: "Успешно ослабили социалистов и лонгистов на конференции Лэндона и избежали переворота МакАртура."
 
- guns_of_the_patriots_achievement_tooltip: "All safehouses on the Underground Railroad are open, and all Tighten Security or Scout Alternate Route decisions were taken."
+ guns_of_the_patriots_achievement_tooltip: "Установили все возможные станции Подземки."
 
- sons_of_liberty_achievement_tooltip: "Has re-formed the United States of America."
+ sons_of_liberty_achievement_tooltip: "Восстановили США."
 
- india_truth_alone_endures_achievement_tooltip: "All Indian core territories are controlled directly, or by an ally."
+ india_truth_alone_endures_achievement_tooltip: "Все основные территории Индии контролируются напрямую или союзником." #NT!

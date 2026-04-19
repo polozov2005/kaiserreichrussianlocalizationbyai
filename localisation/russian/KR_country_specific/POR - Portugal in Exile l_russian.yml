@@ -3,88 +3,88 @@
 l_russian:
 
 ### Ideas ###
- POR_last_stand: "Last Stand"
+ POR_last_stand: "Последний бой"
 
 ### Events ###
 
- portugal_exile_events.1.t: "Portugal's Last Stand"
- portugal_exile_events.1.d: "As the enemy forces have broken through our borders, our armies find themselves cornered. With little room to retreat and an overwhelming force on the other side, our chances of victory are slim. Nevertheless, we must press on and defend our people from the attackers, no matter the cost. So we shall fight on until Lisbon is occupied!"
- portugal_exile_events.1.a: "Audaces Fortuna Juvat!"
+ portugal_exile_events.1.t: "Последняя позиция Португалии"
+ portugal_exile_events.1.d: "Когда вражеские силы прорвались через наши границы, наши армии оказались загнаны в угол. С небольшим пространством для отступления и подавляющей силой с другой стороны, наши шансы на победу являются незначительными. Тем не менее, мы должны надавить и защитить наш народ от захватчиков, независимо от того, какую цену это будет стоить. Так что мы будем бороться до тех пор, пока Лиссабон не будет оккупирован!"
+ portugal_exile_events.1.a: "Удача благоволит смелым!"
 
- portugal_exile_events.2.t: "The Fall of Portugal"
- portugal_exile_events.2.d: "Despite the brave efforts of our armies, the truth is as bitter as it is undeniable. We cannot hold on the continent any more, as the enemy forces are overwhelming ours, swiftly advancing over our lands with little we can do about it. Thankfully, the Portuguese Empire is vast, and we can still retreat to our colonies for now, and plan for a way for us to liberate our homeland from there."
- portugal_exile_events.2.d.noretreat: "Despite the brave efforts of our armies, the truth is as bitter as it is undeniable. We cannot hold on any longer, as the enemy forces are overwhelming ours, swiftly advancing over our lands with little we can do about it."
- portugal_exile_events.2.a: "We must resist!"
+ portugal_exile_events.2.t: "Падение Португалии"
+ portugal_exile_events.2.d: "Несмотря на отважные усилия наших армий, истина столь же горька, сколь и неоспорима. Мы больше не можем удерживать континент, поскольку вражеские силы овладевают нашей территорией, стремительно наступая на наши земли, и мы мало что можем с этим поделать. К счастью, Португальская империя огромна, и мы все еще можем отступать в наши колонии и планировать путь освобождения нашей родины оттуда."
+ portugal_exile_events.2.d.noretreat: "Несмотря на смелые усилия наших армий, истина столь же горька, сколь и неоспорима. Мы больше не можем держаться, поскольку вражеские силы подавляют наши, быстро наступая на наши земли, мы мало что можем с этим поделать."
+ portugal_exile_events.2.a: "Нужно сопротивляться!"
 
- portugal_exile_events.3.t: "Rejoin the Entente?"
- portugal_exile_events.3.d: "With the loss of our continental possessions, the return of our rightful government seems unlikely, at least not on our own, as we face overwhelming odds. Luckily, we still have diplomatic connections, and we can contact our former allies once more so that they can, hopefully, help us regain our homeland."
- portugal_exile_events.3.a: "Contact the [ENT.GetAdjective]."
+ portugal_exile_events.3.t: "Вступить в Антанту?"
+ portugal_exile_events.3.d: "С утратой наших континентальных владений возвращение нашего законного правительства представляется маловероятным, по крайней мере, не в одиночку, поскольку мы сталкиваемся с огромными трудностями. К счастью, у нас все еще есть дипломатические связи, и мы можем снова связаться с нашими бывшими союзниками, чтобы они, будем надеяться, помогли нам вернуть нашу родину."
+ portugal_exile_events.3.a: "Свяжитесь с [ENT.GetAdjective]им правительством."
 
  #ENT PoV:
- portugal_exile_events.4.t: "Portugal Re-approaches Us"
- portugal_exile_events.4.d: "With the Portuguese defeat in the mainland, and their retreat to the colonies, Portuguese emissaries have contacted us recently requesting Portugal to be able to rejoin the Entente. While the defeat in the Weltkrieg left a bitter taste on most Entente members, the Portuguese still remained in good terms with us, even if they slowly drifted away over the years. How should we respond to their request?"
- portugal_exile_events.4.a: "Welcome Back."
- portugal_exile_events.4.b: "Without the Mainland, Portugal is Useless to Us."
+ portugal_exile_events.4.t: "Португалия вновь сближается с нами"
+ portugal_exile_events.4.d: "После поражения португальцев на материке и их отступления в колонии, португальские посланники недавно связались с нами и попросили разрешить Португалии снова вступить в Антанту. В то время как поражение в Вельткриге оставило горький вкус у большинства членов Антанты, португальцы все еще оставались в хороших отношениях с нами, даже если они медленно отдалялись на протяжении многих лет. Как мы должны ответить на их просьбу?"
+ portugal_exile_events.4.a: "С возвращением."
+ portugal_exile_events.4.b: "Без материка, Португалия бесполезна для нас."
 
- portugal_exile_events.5.t.accept: "[FROM.GetNameDefCap] Accepts"
- portugal_exile_events.5.t.refuse: "[FROM.GetNameDefCap] Refuses"
- portugal_exile_events.5.d.accept: "Despite the loss of our continental holdings, our allies still value us and have allowed us to join their efforts to reclaim their homelands as well as ours."
- portugal_exile_events.5.d.refuse: "With the loss of our continental holdings, our former allies have deemed us an unnecessary weight on the alliance and refused our request to join their faction. While we may still endure and retake our homeland, the chances of it ever happening have undisputedly grown dimmer..."
- portugal_exile_events.5.a: "Together for Victory!"
- portugal_exile_events.5.b: "Have the British gone mad?"
+ portugal_exile_events.5.t.accept: "[FROM.GetNameDefCap] соглашается"
+ portugal_exile_events.5.t.refuse: "[FROM.GetNameDefCap] отказывается"
+ portugal_exile_events.5.d.accept: "Несмотря на утрату наших континентальных владений, наши союзники по-прежнему ценят нас и позволяют нам объединить наши усилия для возвращения им их и нашей родины."
+ portugal_exile_events.5.d.refuse: "С потерей наших континентальных владений, наши бывшие союзники посчитали нас ненужным грузом для альянса и отказались от нашей просьбы о вступлении в их фракцию. Несмотря на то, что мы все еще можем выстоять и вернуть себе родину, шансы на то, что это когда-либо произойдет, бесспорно, стали более тусклыми..."
+ portugal_exile_events.5.a: "Вместе к победе!"
+ portugal_exile_events.5.b: "Британцы сошли с ума?"
 
  #MAF PoV:
- portugal_exile_events.6.t: "The Portuguese Collapse"
- portugal_exile_events.6.d.peace: "With the collapse of the Portuguese Mainland Army, the harassing forces having been pulled out of Africa. The funding has dried up and the weapons removed. This is both the final proof that they were behind the chaos at the border, as well as a great relief on our forces."
- portugal_exile_events.6.d.war: "With the collapse of the Portuguese Mainland Army, the meagre forces the Portuguese had left in Africa have left the front lines in a rout. Desperate, the Portuguese have been quick to sign a peace deal with Germany, and so we stand victorious once more!"
- portugal_exile_events.6.a: "One less problem to worry about."
- portugal_exile_events.6.b: "Thus Ends the Bush War."
+ portugal_exile_events.6.t: "Португальский коллапс"
+ portugal_exile_events.6.d.peace: "После распада Португальской материковой армии из Африки были выведены терзающие ее силы. Финансирование иссякло, а оружие было вывезено. Это одновременно и последнее доказательство того, что они стояли за хаосом на границе, и огромное облегчение для наших сил."
+ portugal_exile_events.6.d.war: "После распада Португальской материковой армии, скудные силы, которые португальцы оставили в Африке, покинули линии фронта с полным разгромом. Отчаявшись, португальцы быстро заключили мирный договор с Германией, и поэтому мы снова одерживаем победу!"
+ portugal_exile_events.6.a: "Одной проблемой меньше."
+ portugal_exile_events.6.b: "Таким образом, заканчивается война в Родезийском Буше"
 
  #SWF/FRA PoV:
- portugal_exile_events.7.t: "The Portuguese Collapse"
- portugal_exile_events.7.d: "With our forces swiftly pushing through the Portuguese lines, it seems that their government couldn't take the pressure any more and have embarked towards the colonies, cowardly evading revolutionary justice. While we have secured the Portuguese mainland, the threat of a Portuguese invasion, while unlikely, remains."
- portugal_exile_events.7.a: "Their Time Will Come, Eventually."
+ portugal_exile_events.7.t: "Португальский коллапс"
+ portugal_exile_events.7.d: "Когда наши силы стремительно пробиваются через португальские рубежи, кажется, что их правительство не смогло больше выдержать давления и двинулось в сторону колоний, трусливо уклоняясь от революционного правосудия. В то время как мы обеспечили безопасность материковой части Португалии, угроза португальского вторжения, хотя и маловероятная, остается."
+ portugal_exile_events.7.a: "Их время придет, в конце концов."
 
- portugal_exile_events.9.t: "Seizure Of Macau?"
- portugal_exile_events.9.d: "With the collapse of the Portuguese Colonial Empire the port and naval base of Macau has become open to us, a small detachment could easily seize it as a base for us in South China..."
+ portugal_exile_events.9.t: "Захват Гоа?"
+ portugal_exile_events.9.d: "С распадом Португальской колониальной империи, для нас стал открыт небольшой анклав Гоа. Небольшой отряд с легкостью мог бы претендовать на него, как на свою собственность..."
 
- portugal_exile_events.10.t: "Seizure Of Goa?"
- portugal_exile_events.10.d: "With the collapse of the Portuguese Colonial Empire the small enclave of Goa has become open to us. A small detachment could very easily claim it as our own..."
+ portugal_exile_events.10.t: "Захват Макао?"
+ portugal_exile_events.10.d: "С распадом Португальской колониальной империи, порт и военно-морская база Макао стали открыты для нас, небольшой отряд мог легко захватить ее в качестве нашей базы в Южном Китае..."
 
- portugal_exile_events.11.t: "Seizure Of Timor?"
- portugal_exile_events.11.d: "With the collapse of the Portuguese Colonial Empire the territory of Timor has become open to us. A small detachment could very easily claim it as our own..."
+ portugal_exile_events.11.t: "Захват Тимора?"
+ portugal_exile_events.11.d: "С распадом Португальской колониальной империи, территория Тимора стала для нас открытой. Небольшой отряд очень легко мог бы претендовать на нее, как на свою собственность..."
 
- portugal_exile_events.seize: "Do it!"
- portugal_exile_events.dont_seize: "Better to leave it, actually..."
-
- #News event:
- portugal_exile_events.12.t: "Eastern Possessions Seized!"
- portugal_exile_events.12.d: "With the Empire facing collapse, and the mainland lost, the usual vultures have taken the opportunity to seize our possessions in the Far East. Macau, Goa and Timor are now lost, occupied by [729.Owner.GetNameDef], [321.Owner.GetNameDef] and [721.Owner.GetNameDef], respectively. With our armed forces routed in Iberia, there is little we can do to stop them."
- portugal_exile_events.12.a: "We'll come for them, eventually."
+ portugal_exile_events.seize: "Сделайте это!"
+ portugal_exile_events.dont_seize: "Лучше это оставить, если честно..."
 
  #News event:
- portugal_exile_events.13.t: "Collapse of the Portuguese Empire"
- portugal_exile_events.13.d.noretreat: "With enemy forces approaching Lisbon, the Portuguese government has begun to collapse. They have nowhere to flee, no colonial holdings that their leaders could disembark.\n\nIn short, they have been cornered, and thus must face their fate along with the rest of their European citizens."
+ portugal_exile_events.12.t: "Восточные владения захвачены!"
+ portugal_exile_events.12.d: "В условиях развала империи и потери материка, привычные стервятники воспользовались возможностью завладеть нашими владениями на Дальнем Востоке. Макао, Гоа и Тимор в настоящее время потеряны, оккупированы [729.Owner.GetNameDef], [321.Owner.GetNameDef] и [721.Owner.GetNameDef], соответственно. С нашими вооруженными силами, направленными в Иберию, мы мало что можем сделать, чтобы остановить их."
+ portugal_exile_events.12.a: "Мы придем за ними, в конце концов."
+
+ #News event:
+ portugal_exile_events.13.t: "Распад Португальской Империи"
+ portugal_exile_events.13.d.noretreat: "С приближением вражеских сил к Лиссабону португальское правительство начало распадаться. Им некуда бежать, нет колониальных владений, куда их лидеры могли бы отправиться. Одним словом, их загнали в угол, и поэтому они должны столкнуться со своей судьбой вместе с остальными европейскими гражданами."
  portugal_exile_events.13.d.start: "With enemy forces approaching Lisbon, the Portuguese government has decided that their position was unsustainable, and given the relative protection of the Lisbon port and the cover of the Portuguese navy, they have embarked into their ships with as many soldiers and loyalist followers they could transport and fled into exile."
- portugal_exile_events.13.d.noangola: "$portugal_exile_events.13.d.start$\n\nThe only place they can do so are their Atlantic holdings, a weak place from which to hope for an eventual return to the continent. Thus the future of the Portuguese nation remains uncertain."
- portugal_exile_events.13.d: "$portugal_exile_events.13.d.start$\n\nAs they regroup in their far-away colonies, the future of the Portuguese nation remains uncertain, with their government on the run and their homeland occupied for the foreseeable future."
- portugal_exile_events.13.a: "Is this the end of the Portuguese Empire?"
+ portugal_exile_events.13.d.noangola: "С приближением вражеских сил к Лиссабону португальское правительство решило, что их позиция является неустойчивой, а учитывая относительную защиту Лиссабонского порта и прикрытие португальского военно-морского флота, они вошли на свои корабли с таким количеством солдат и лояльных сторонников, которое они могли бы перевезти и бежать в изгнание. Единственное место, где они могут это сделать, - это их атлантические авуары, слабая позиция, откуда можно надеяться на возможное возвращение на континент. Таким образом, будущее португальской нации остается неопределенным."
+ portugal_exile_events.13.d: "Когда вражеские силы приблизились к Лиссабону, португальское правительство решило, что их позиция является неустойчивой, и учитывая относительную защиту Лиссабонского порта и прикрытие португальского военно-морского флота, они ушли на свои корабли с максимальным количеством солдат и лояльных сторонников, которых они могли перевезти и бежали в изгнание. По мере того, как они перегруппировываются в своих отдаленных колониях, будущее португальской нации остается неопределенным, поскольку их правительство в бегах, а их родина оккупирована в обозримом будущем."
+ portugal_exile_events.13.a: "Это конец Португальской империи?"
 
- portugal_exile_events.14.t: "The Final Collapse"
- portugal_exile_events.14.d: "Despite the valiant efforts of our armies to retake our homeland, we have been thoroughly unsuccessful in our task, and the future of the Portuguese nation remains bleak. With morale collapsing, many of our soldiers and officers have begun deserting, asking for official pardons to the invaders in order to return to Portugal itself. Our government's position has become unsustainable, and the few ministers left still loyal to us have suggested that we should march into exile to a neutral nation to avoid capture, now that we cannot defend ourselves from those who would seek to unfairly judge us."
- portugal_exile_events.14.a: "Maybe One Day We'll Return..."
+ portugal_exile_events.14.t: "Окончательный крах"
+ portugal_exile_events.14.d: "Несмотря на доблестные усилия наших армий по возвращению нашей родины, мы были крайне неудачны в своей задаче, и будущее португальского народа остается безрадостным. С падением морального духа, многие наши солдаты и офицеры начали дезертировать, прося о помиловании захватчиков и возвращаясь в саму Португалию. Позиция нашего правительства стала неустойчивой, и те немногие министры, которые остались верными нам, предложили нам пойти в изгнание к нейтральной нации, чтобы избежать захвата теперь, когда мы не можем защитить себя от тех, кто будет пытаться несправедливо судить нас."
+ portugal_exile_events.14.a: "Может быть, однажды мы вернёмся..."
 
  #MAF:
- portugal_exile_events.15.t: "The Portuguese Government Collapses"
- portugal_exile_events.15.d: "With the loss of the mainland finally catching up to them, the Portuguese government has officially marched into exile as their forces began wavering and returning to the occupied territory. With only token forces remaining in their colonies, we can quickly seize them if we act now, as they'll have little reason or even ways to oppose us"
- portugal_exile_events.15.a: "Angola and Mozambique Are Ours Now!"
+ portugal_exile_events.15.t: "Крах португальского правительства"
+ portugal_exile_events.15.d: "С потерей материка, окончательно настигшей их, португальское правительство официально отправилось в изгнание, поскольку их войска начали колебаться и возвращаться на оккупированную территорию. Поскольку в их колониях остались лишь символические силы, мы можем быстро захватить их, если будем действовать сейчас, так как у них не будет ни причин, ни даже способов противостоять нам."
+ portugal_exile_events.15.a: "Ангола и Мозамбик теперь наши!"
 
  #NFA:
- portugal_exile_events.16.t: "The Portuguese Government Collapses"
- portugal_exile_events.16.d: "With the loss of the mainland finally catching up to them, the Portuguese government has officially marched into exile as their forces began wavering and returning to the occupied territory. With only token forces remaining in their colonies, we can quickly seize them if we act now, as they'll have little reason or even ways to oppose us"
- portugal_exile_events.16.a: "Move troops into Guinea and Cape Verde."
+ portugal_exile_events.16.t: "Крах португальского правительства"
+ portugal_exile_events.16.d: "С потерей материка, окончательно настигшей их, португальское правительство официально отправилось в изгнание, поскольку их войска начали колебаться и возвращаться на оккупированную территорию. Поскольку в их колониях остались лишь символические силы, мы можем быстро захватить их, если будем действовать сейчас, так как у них не будет ни причин, ни даже способов противостоять нам."
+ portugal_exile_events.16.a: "Перебросить войска в Гвинею и Кабо-Верде."
 
  #SWF:
- portugal_exile_events.17.t: "The Portuguese Government Collapses"
- portugal_exile_events.17.d: "With the loss of the mainland finally catching up to them, the Portuguese government has officially marched into exile as their forces began wavering and returning to the occupied territory under our control, asking for forgiveness. While Portuguese partisans still roam the countryside, the growing strength of our militias and now the collapse of the Portuguese are bound to weaken the insurrection, and soon we may be fully in control of Portugal, once and for all..."
- portugal_exile_events.17.a: "The Proletariat of Today Succeeds Where the Kings of Old Failed"
+ portugal_exile_events.17.t: "Крах португальского правительства"
+ portugal_exile_events.17.d: "С потерей материка, окончательно настигшей их, португальское правительство официально отправилось в изгнание, поскольку их войска начали колебаться и возвращаться на оккупированную территорию, находящуюся под нашим контролем, прося о прощении. В то время как португальские партизаны все еще бродят по сельской местности, растущая сила наших ополчений, а теперь и крах португальцев, несомненно, ослабит восстание, и вскоре мы сможем полностью контролировать Португалию, раз и навсегда..."
+ portugal_exile_events.17.a: "Сегодняшний пролетариат достигает успеха там, где потерпели поражение короли прошлого"

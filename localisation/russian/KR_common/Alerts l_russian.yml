@@ -4,44 +4,44 @@
 ### Faction Joining ###
 #######################
 
- faction_joining_alert_title: "Transmission from [THIS.GetNameDef]"
- faction_joining_alert_message: "§Y[THIS.GetName]§! has joined the §Y[THIS.GetFactionName]§!"
+ faction_joining_alert_title: "Передача от [?faction_joining_alerts.GetNameDef]"
+ faction_joining_alert_message: "§Y[THIS.GetName]§! присоединился к §Y[THIS.GetFactionName]§!"
 
 #Generic
 
- faction_joining_alert_pre_acw: "The balance of power has begun to shift, straining the delicate post-Weltkrieg order Germany long struggled to build. The brokering of this alliance may have consequences."
- faction_joining_alert_acw: "With the eruption of war in North America the balance of power has suddenly and perhaps irrevocably changed. There will be consequences for the region and beyond."
+ faction_joining_alert_pre_acw: "Баланс сил, так чутко выстраиваемый Германией, нарушился. Расширение этого альянса приведет к последствиям."
+ faction_joining_alert_acw: "Война в Северной Америке изменила расстановку сил. Всё больше и больше стран объединяются в альянсы. Такие действия будут иметь последствия в будущем."
 
- faction_joining_alert_pre_wk: "With the growth of geopolitical blocs comes rising tension, and many other countries now face difficult choices of alignment. The spectre of war looms over the region, and perhaps the whole world."
- faction_joining_alert_weltkrieg: "Even in times of war there exists a balance of power, changing by the moment. Whether or not this agreement will shift the conflict in either side's favour, only time will tell."
+ faction_joining_alert_pre_wk: "С ростом геополитических блоков растет напряженность, и многие другие страны теперь стоят перед сложным выбором. Призрак войны навис над регионом, а возможно, и над всем миром."
+ faction_joining_alert_weltkrieg: "Даже во время войны существует баланс сил, меняющийся с каждым мгновением. Сдвинет ли это соглашение конфликт в пользу одной из сторон, покажет только время."
 
- faction_joining_alert_post_wk_internationale: "With German dominance now unquestionably broken, many already look to the future. One agreement at a time, a new world order is being built."
- faction_joining_alert_post_wk_germany: "Even with German arms yet again victorious in Europe, the world is not as it was before the Second Weltkrieg. One agreement at a time, the future unfolds."
- faction_joining_alert_post_wk_entente: "The Entente's victory, despite all odds, has replaced the new order with the old. The dominant powers of last century now overlook a familiar world order, even as new alliances emerge to change it."
- faction_joining_alert_post_wk_other: "With the old world order now lying in ruins, new powers are rising from the ashes. One agreement at a time, the world is being rebuilt."
+ faction_joining_alert_post_wk_internationale: "Теперь, когда господство Германии окончательно сломлено, многие уже смотрят в будущее. По одному соглашению за раз строится новый мировой порядок."
+ faction_joining_alert_post_wk_germany: "Даже когда немецкое оружие вновь побеждает в Европе, мир уже не такой, каким он был до Второго Вельткрига. По одному соглашению за раз разворачивается будущее."
+ faction_joining_alert_post_wk_entente: "Победа Антанты, несмотря ни на что, заменила новое старым. Доминирующие державы прошлого века теперь смотрят на привычный мировой порядок, даже когда возникают новые союзы, чтобы изменить его."
+ faction_joining_alert_post_wk_other: "Когда старый мировой порядок лежит в руинах, из пепла восстают новые силы. Мир перестраивается по одному соглашению за раз."
 
 #North America
- faction_joining_USA_ENT: "Though scarcely recovered from the Civil War, the United States has decided to join [CAN.GetNameDef] in their quest to liberate their homeland and Europe from syndicalism."
- faction_joining_USA_GER: "Though scarcely recovered from the Civil War, the United States has decided to join [GER.GetNameDef] in the Reichspakt, owing to a shared hatred for syndicalism."
+ faction_joining_USA_ENT: "Хотя Соединенные Штаты едва оправились от Гражданской войны, они решили присоединиться к [CAN.GetNameDef] в их стремлении освободить свою родину и Европу от синдикализма."
+ faction_joining_USA_GER: "Хотя Соединенные Штаты едва оправились от Гражданской войны, они решили присоединиться к [GER.GetNameDef] в Рейхспакте, из-за общей ненависти к синдикализму."
 
- faction_joining_WCA_INT: "Now that [WCA.GetNameDef] stand victorious in America, they have pivoted towards Europe, formally joining the syndicalist alliance. Reactionaries tremble as America's industrial power is repurposed for the revolution."
+ faction_joining_WCA_INT: "Теперь, когда [WCA.GetNameDef] одерживает победу в Америке, они повернулись в сторону Европы, официально присоединившись к синдикалистскому альянсу. Реакционеры трепещут, когда промышленная мощь Америки переориентируется на революцию." #NT!
 
 #Central America
- faction_joining_COS_GER: "Intertwined through the ZKG coffee barons, a treaty of military assistance has been signed with the [ROOT.FactionLeader.GetFactionName] together with access to the Puerto Limón naval facilities."
- faction_joining_COS_ENT: "Abandoned by their trusted ally in Washington, San José was forced to look further north to ensure its protection from its more predatory neighbours. Ottawa, always eager to have friends close to the Canal, has embraced Costa Rica."
+ faction_joining_COS_GER: "Под давлением германских кофейных компаний и после потери влияния США в стране, Коста-Рика была вынуждена подписать договоры о взаимной защите с государством [faction_leader.GetFactionName], а также предоставить для базирования флота порт Пуэрто-Лимон."
+ faction_joining_COS_ENT: "Брошенные своими партнёрами из США, Коста-Рика обратилась к другим союзникам. Канада, движимая желанием подступиться ближе к Панамскому каналу, с радостью приняла маленькую страну в Антанту"
 
 #South America
- faction_joining_ARG_GER: "Following the successful trade agreement and military cooperation between the two nations, [THIS.GetLeader] has announced his participation in the [ROOT.FactionLeader.GetFactionName]."
- faction_joining_ARG_ENT: "Through shrewd diplomacy [THIS.GetLeader] and the [ROOT.FactionLeader.GetName] have resolved the Islas Malvinas crisis, setting their differences aside for the common threat."
+ faction_joining_ARG_GER: "После подписания соглашений о торговле и взаимопомощи, аргентинский лидер [faction_member.GetLeader] объявил о вступлении своей страны в [faction_leader.GetFactionName]"
+ faction_joining_ARG_ENT: "Грамотная дипломатия государств [faction_member.GetLeader] и [faction_leader.GetName] разрешило проблему Мальвинских островов и объединило страны перед лицом общего врага."
 
 #Western Europe
- faction_joining_BEL_GER: "Agreed upon in the Treaty of Arlon, the newborn nation of Belgium has officially rejoined the [ROOT.FactionLeader.GetFactionName] to protect its sovereignty from syndicalist hawks."
- faction_joining_BEL_ENT: "Allies on the Yzer during the Weltkrieg and connected by blood to the British crown, the Van Belgiës have thrown their fate in with their old allies to ensure their survival."
- faction_joining_BEL_INT: "The Old Order is crumbling, the [GER.GetName] disintegrating, rise you victims of oppression and bring down the Giant in retaliation for 1914!"
+ faction_joining_BEL_GER: "По Арлонскому договору, новорожденная Бельгия осталась союзником государства [faction_leader.GetFactionName], чтобы обеспечить себе защиту от соседей-синдикалистов."
+ faction_joining_BEL_ENT: "Союзники Антанты на Изере и родственники по королевской крови, Ван Бельги взошли на трон Бельгии и объявили о сотрудничестве с Канадой."
+ faction_joining_BEL_INT: "Старый порядок рушится, гегемония Германии пошатнулась. Жертвы империалистического террора восстали против колосса и, вместе с Третьим Интернационалом, готовы отомстить за 1914!"
 
- faction_joining_IRE_GER_IRE_victory: "Due to British provocation, [IRE.GetName] has formalised their alliance with [GER.GetNameDef] by joining the [GER.GetFactionName], hoping the Kaiser can protect them from syndicalist machinations."
- faction_joining_IRE_GER_GER_victory: "With the [IRE.GetAdjective] government collapsing from\ninternal strife, [GER.GetNameDef] has exerted its considerable political influence on the country, \"protecting it from instability and syndicalist advances\" by installing a new [GER.GetAdjective]-aligned regime."
- faction_joining_IRE_INT_IRE_victory: "In a series of unlikely outcomes, [IRE.GetNameDef]'s ruling socialist-led coalition has seen the writing on the wall, and formally joined the [INT.GetFactionName] to avoid complete global isolation."
+ faction_joining_IRE_GER_IRE_victory: "Опасаясь британских провокаций, [IRE.GetName] формально подписала союз с Германией и вступила в [GER.GetFactionName], надеясь, что Кайзер защитит их от социалистов."
+ faction_joining_IRE_GER_GER_victory: "На фоне того, как ирландское правительство пало от внутренних дрязг, [GER.GetNameDef] расширило влияние на страну "для защиты от нестабильности и угрозы левых". В Ирландии установился прогерманский режим."
+ faction_joining_IRE_INT_IRE_victory: "После череды неудач, Ирландия и правящая там левая коалиция решили присоединить к Третьему Интернационалу, чтобы избежать полной изоляции от мира."
  faction_joining_IRE_INT_ENG_victory: "Following months of increasing syndicalist influence and\ninternal strife, the [IRE.GetAdjective] government's collapse leads to a [ENG.GetAdjective]-supported socialist coup, with the new [IRE.GetAdjective] government aligned with the Internationale and propped up by [ENG.GetAdjective] arms."
  faction_joining_IRE_INT_puppet: "Looking to avoid the mistakes of their predecessors, the [ENG.GetAdjective] have admitted [IRE.GetNameDef] into the [ENG.GetFactionName], following their installation of a socialist government."
  faction_joining_IRE_ENT: "In an effort to soothe relations with the northern loyalists, and take a firm stand against global syndicalism, [IRE.GetNameDef] has defied the odds and moved past historical grievances by realigning with their former British masters."
@@ -52,34 +52,34 @@
  faction_joining_IRE_RUS: "Otherwise alone in the world, and threatened by syndicalist dominance following the fall of [GER.GetNameDef], [IRE.GetNameDef] has entered into an unlikely alliance with [RUS.GetNameDef]."
  faction_joining_IRE_JAP: "Following their American allies, [IRE.GetNameDef] has expanded the meaning of the term East Asian, by entering into an unlikely alliance with [JAP.GetNameDef]."
 
- faction_joining_POR_ENT: "Due to [POR.GetName]'s long standing ties to the royal family in Ottawa they have officially joined the Entente, giving Canada a springboard in Europe for the planned reconquest of their Home Isles."
+ faction_joining_POR_ENT: "Благодаря давним связям Португалии с королевской семьей в Оттаве, они официально присоединились к Антанте, дав Канаде плацдарм в Европе для запланированного завоевания Британских островов."
 
 #Northern Europe
- faction_joining_SWE_GER: "With a long history of economic ties to Berlin and rising radicalism in the region, [SWE.GetName] has formally joined the Reichspakt."
- faction_joining_SWE_INT: "Following [SWE.GetLeader]'s overthrow of Sweden's government, they have formally aligned [SWE.GetNameDef] with Paris, joining the Third Internationale."
+ faction_joining_SWE_GER: "Имея длительную историю экономических связей с Берлином и растущего радикализма в регионе, [SWE.GetName] официально присоединился к Рейхспакту."
+ faction_joining_SWE_INT: "После свержения шведского правительства [SWE.GetLeader], они официально согласовали союз с Парижем, присоединившись к Третьему Интернационалу."
 
- faction_joining_FIN_GER: "With the threat of Russia seeking to reclaim its European territories, [FIN.GetLeader] has consolidated their relationship with the Reichspakt, hoping they can provide much-needed security for the small nation."
- faction_joining_FIN_INT: "Following [FIN.GetLeader]'s overthrow of the monarchy, they have aligned themselves with the global syndicalist movement, and formally joined the Third Internationale."
+ faction_joining_FIN_GER: "Под угрозой вторжения России, стремящейся вернуть свои европейские территории, [FIN.GetLeader] укрепил отношения с Рейхспактом, надеясь, что они смогут обеспечить столь необходимую безопасность для малой нации."
+ faction_joining_FIN_INT: "После свержения монархии, [FIN.GetLeader] присоединился к глобальному синдикалистскому движению и заключил союз с Третьим Интернационалом."
 
- faction_joining_NOR_INT: "Following the overthrow of the monarchy, the new Norwegian syndicalist government has formally aligned itself with the Third Internationale."
- faction_joining_NOR_ENT: "With the immediate threat of domestic radicalism crushed, [NOR.GetName] has aligned with the Entente."
+ faction_joining_NOR_INT: "После свержения монархии новое норвежское синдикалистское правительство официально присоединилось к Третьему Интернационалу."
+ faction_joining_NOR_ENT: "После того, как непосредственная угроза внутреннего радикализма была подавлена, [NOR.GetName] присоединилась к Антанте."
 
- faction_joining_SWI_AUS_peace: "While the French threat may be subdued for the moment, Switzerland has formally aligned themselves with Austria's alliance to ensure future peace and stability."
- faction_joining_SWI_AUS_war: "With the French conflict progressing, Switzerland has decided to officially join Austria's alliance, just in case anyone thought they were still neutral."
- faction_joining_SWI_GER_peace: "While the French threat is subdued temporarily, Switzerland has decided to align themselves with the Reichspakt, to ensure future peace and security."
- faction_joining_SWI_GER_war: "With the war against the Syndicalists progressing, Switzerland has decided to officially join the Reichspakt, only further aligning them with the German Empire."
- faction_joining_SWI_INT: "Following the Syndicalist revolution in Switzerland, the temporary government has decided to join the Third Internationale, formalising the already close relations between the Commune of France and [SWI.GetNameDef]."
+ faction_joining_SWI_AUS_peace: "В то время как французская угроза на данный момент может быть ослаблена, Швейцария официально присоединилась к альянсу Австрии в целях обеспечения мира и стабильности в будущем."
+ faction_joining_SWI_AUS_war: "В связи с прогрессом французского конфликта, Швейцария решила официально присоединиться к австрийскому альянсу, на тот случай, если кто-нибудь сочтет, что они по-прежнему нейтральны."
+ faction_joining_SWI_GER_peace: "Поскольку война против синдикалистов продолжается, Швейцария решила официально присоединиться к Рейхспакту, лишь еще больше сблизив их с Германской империей."
+ faction_joining_SWI_GER_war: "В то время как французская угроза временно ослабла, Швейцария решила присоединиться к Рейхспакту для обеспечения будущего мира и безопасности."
+ faction_joining_SWI_INT: "После Синдикалистской революции в Швейцарии, временное правительство решило присоединиться к Третьему Интернационалу, официально оформив и без того тесные отношения между Французской Коммуной и Швейцарией."
 
 #Southern Europe
- faction_joining_ITA_AUS: "With Ciano's radicalism contained at the ballot box, [ITA.GetNameDef] has formally joined Austria's defence pact."
+ faction_joining_ITA_AUS: "После того, как на выборах радикализм Итало Бальбо был сокрушён, [ITA.GetNameDef] формально присоединилась к альянсу Австрии."
 
 #Eastern Europe
 
 #Balkans
- faction_joining_GRE_BPL: "Due to a shared hatred for Bulgaria's growing power, Greece has decided to enter the Belgrade Pact with Serbia to take down Bulgaria once and for all. This could very well shake the power balance within the Balkans."
- faction_joining_GRE_ENT: "Allies during the Weltkrieg, [GRE.GetNameDef] has formally requested to rejoin Canada in the Entente, giving the bloc a power base in the Balkans."
+ faction_joining_GRE_BPL: "Движимая ненавистью к Болгарии, Греция присоединилась к Белградскому Договору, чтобы покончить раз и навсегда с Балканским гегемоном. Это может пошатнуть баланс сил в регионе."
+ faction_joining_GRE_ENT: "Вспомнив старые союзы времён Вельткрига, Греция официально обратилась к Канаде с просьбой вступить в Антанту, предоставив союзу базу на Балканах в обмен на защиту."
 
- faction_joining_ROM_BPL: "To contain the growing power of Austria and Bulgaria, Romania has acceded to the Belgrade Pact. Austria and Bulgaria watch with fear as the powder-keg grows close to exploding once again."
+ faction_joining_ROM_BPL: "С ростом сил Австрии и Болгарии на Балканах, Румыния решила вступить в Белградский Договор, чтобы сдержать их. Мир с ужасом смотрит на то, как пороховая бочка Европы вновь загорается."
 
 #Middle East
 
@@ -92,13 +92,13 @@
 #South East Asia
 
 #East Asia
- faction_joining_SHX_QIE: "Following the auto-coup carried out by Puyi with the aid of [SHX.GetNameDef], [SHX.GetLeader] has intervened against the remnants of the Zhili clique, formally aligning himself with Beijing."
+ faction_joining_SHX_QIE: "После самопереворота, осуществленного Пу И с помощью [SHX.GetNameDef], [SHX.GetLeader] вмешался против остатков клики Чжили, формально присоединившись к Пекину."
 
- faction_joining_SHD_QIE: "Following the auto-coup carried out by Puyi with the aid of [SHD.GetNameDef], [SHD.GetLeader] has intervened against the remnants of the Zhili clique, formally aligning himself with Beijing."
+ faction_joining_SHD_QIE: "После автопереворота, совершенного Пуи с помощью [SHD.GetNameDef], [SHD.GetLeader] вмешался против остатков клики Чжили, формально присоединившись к Пекину." #NT!
 
- faction_joining_ANQ_QIE: "Following Wu Peifu's successful support of [ANQ.GetNameDef]'s struggle against [LEP.GetNameDef], Governor Chen Tiaoyuan has aligned himself with the Northern Zhili Clique."
+ faction_joining_ANQ_QIE: "После успешной поддержки У Пэйфу борьбы [ANQ.GetNameDef] с [LEP.GetNameDef], губернатор Чэнь Тяоюань присоединился к северной Чжилийской Клике."
 
- faction_joining_RKMT: "Having secured their old southern strongholds, the right KMT unites under one banner. As they turn Northwards, China wonders if they can succeed where Chiang had failed..."
+ faction_joining_RKMT: "Получив свои старые южные оплоты, правый Гоминьдан объединяется под одним знаменем. Когда они поворачивают на север, Китай задается вопросом, смогут ли они добиться успеха там, где потерпел неудачу Чан..."
 
 #Oceania
 
@@ -106,32 +106,32 @@
 ### State Integration ###
 #########################
 
- state_integration_alert_title: "State Integration Completed"
- state_integration_alert_message: "§Y[?integrated_state.GetName]§! is now a core of  §Y[ROOT.GetNameWithFlag]§!"
+ state_integration_alert_title: "Интеграция региона завершена"
+ state_integration_alert_message: "§YРегион [?integrated_state.GetName]§! теперь является национальным для государства §Y[ROOT.GetFlag][ROOT.GetNameDef]§!"
 
 ###########################
 ### Country Integration ###
 ###########################
 
- country_integration_alert_title: "Country Integration Completed"
- country_integration_alert_message: "All controlled core states of §Y[?integrated_country.GetFlag][?integrated_country.GetNameDef]§! are now cores of  §Y[ROOT.GetNameWithFlag]§!"
+ country_integration_alert_title: "Интеграция государства завершена"
+ country_integration_alert_message: "Все контролируемые национальные регионы государства §Y[?integrated_country.GetFlag][?integrated_country.GetNameDef]§! теперь являются национальными для государства §Y[ROOT.GetFlag][ROOT.GetNameDef]§!"
 
 #########################
 ### Incoming War-ning ###
 #########################
 
- incoming_war_alert_title: "IMMINENT DECLARATION OF WAR"
+ incoming_war_alert_title: "НЕМИНУЕМАЯ ВОЙНА"
  incoming_war_alert_message: "[GetIncomingWarAlertMessage]"
 
- incoming_war_alert_message_self: "§Y[THIS.GetNameDefCap]§! is preparing to declare war on us!"
- incoming_war_alert_message_puppet: "§Y[THIS.GetNameDefCap]§! is preparing to declare war on our overlord §Y[?ROOT.alert_war_target_@THIS.GetNameDef]§!!"
- incoming_war_alert_message_guarantor: "§Y[THIS.GetNameDefCap]§! is preparing to declare war on §Y[?ROOT.alert_war_target_@THIS.GetNameDef]§!, whose independence we are guaranteeing!"
- incoming_war_alert_message_civil_war: "§Y[THIS.GetNameDefCap]§! is preparing to declare war on §Y[?ROOT.alert_war_target_@THIS.GetNameDef]§!!"
- incoming_war_alert_message_ally: "§Y[THIS.GetNameDefCap]§! is preparing to declare war on our ally §Y[?ROOT.alert_war_target_@THIS.GetNameDef]§!!"
+ incoming_war_alert_message_self: "Государство §Y[THIS.GetNameDefCap]§! собирается напасть на нас!"
+ incoming_war_alert_message_puppet: "Государство §Y[THIS.GetNameDefCap]§! готовится напасть на нашего повелителя, государство §Y[?ROOT.alert_war_target_@THIS.GetNameDef]§!!"
+ incoming_war_alert_message_guarantor: "Государство §Y[THIS.GetNameDefCap]§! готовится напасть на государство §Y[?ROOT.alert_war_target_@THIS.GetNameDef]§!, чью независимость мы гарантируем!"
+ incoming_war_alert_message_civil_war: "Государство §Y[THIS.GetNameDefCap]§! готовится напасть на государство §Y[?ROOT.alert_war_target_@THIS.GetNameDef]§!!"
+ incoming_war_alert_message_ally: "Государство §Y[THIS.GetNameDefCap]§! готовится напасть на нашего союзника, государство §Y[?ROOT.alert_war_target_@THIS.GetNameDef]§!!"
 
 ###################
 ### Unit Limits ###
 ###################
 
- unit_limit_alert_title: "Unit Limit Exceeded"
- unit_limit_alert_message: "§YWe are now above the unit limit, which is causing penalties to military effectiveness!§!"
+ unit_limit_alert_title: "Превышен лимит войск"
+ unit_limit_alert_message: "§YМы превысили лимит войск, что негативно сказывается на их эффективности!§!"

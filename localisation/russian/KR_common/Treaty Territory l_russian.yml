@@ -1,72 +1,72 @@
 ﻿l_russian:
 
 ### Aliases ###
- GTM: "Guantanamo Bay Lease Holder"
- MSN: "Môle Saint-Nicolas Lease Holder"
- SAM: "Samaná Lease Holder"
+ GTM: "Арендодатель Гуантанамо"
+ MSN: "Арендодатель Моль Сен-Никола"
+ SAM: "Арендодатель Самана"
 
 ### Ideas ###
- holds_leases_idea: "Holds Minor Territories"
- holds_leases_idea_desc: "We currently either lease or directly own important but diminutive territories around the world."
+ holds_leases_idea: "Владеет малыми территориями"
+ holds_leases_idea_desc: "В настоящее время мы либо арендуем, либо напрямую владеем важными, но небольшими территориями по всему миру.\n§W--------------§!§L\n[gitmo_active][mole_active][samana_active]§!"
  holds_leases_idea_modifier_tooltip: "[gitmo_active][mole_active][samana_active]"
 
- gitmo_lease_idea: "Guantanamo Bay Lease"
- gitmo_lease_idea_desc: "We currently lease the significant Guantanamo Bay naval base to §Y[GTM.GetNameWithFlag]§!.\n\nGuantanamo Bay was occupied by the United States during the Cuban War of Independence as part of the larger Spanish-American war. In the years and decades thereafter, American control over Guantanamo Bay under nominal Cuban sovereignty was reaffirmed and the Guantanamo Bay naval base was greatly expanded. Whoever controls Guantanamo Bay, the United States or some other imperial power, will surely reap significant benefit."
- mole_lease_idea: "Môle Saint-Nicolas Lease"
- mole_lease_idea_desc: "We currently lease the coastal city of Môle Saint-Nicolas to §Y[MSN.GetNameWithFlag]§!.\n\nOnly recently a small coastal town, Môle Saint-Nicolas is slowly but surely being transformed into a naval station to rival that of the nearby Guantanamo Bay."
- samana_lease_idea: "Samaná Lease"
- samana_lease_idea_desc: "We currently lease the coastal city of Santa Bárbara de Samaná to §Y[SAM.GetNameWithFlag]§!.\n\nCoveted by the Americans prior to their acquisition of Guantanamo Bay, after decades of relative obscurity in the eyes of foreign powers, Samaná is now being rapidly transformed into a hub for [SAM.GetAdjective] fleets."
+ gitmo_lease_idea: "Аренда Гуантанамо"
+ gitmo_lease_idea_desc: "В настоящее время мы сдаем в аренду важную военно-морскую базу в Гуантанамо §Y[GTM.GetNameWithFlag]§!.\n\nГуантанамо был оккупирован Соединенными Штатами во время Кубинской войны за независимость в рамках более масштабной испано-американской войны. В последующие годы и десятилетия американский контроль над Гуантанамо под номинальным суверенитетом Кубы был подтвержден, а военно-морская база в Гуантанамо была значительно расширена. Кто бы ни контролировал Гуантанамо, Соединенные Штаты или какие-либо другие имперские державы, несомненно, извлекут из этого значительную выгоду."
+ mole_lease_idea: "Аренда Моль Сен-Никола"
+ mole_lease_idea_desc: "В настоящее время мы сдаём в аренду прибрежный город Моль Сен-Никола §Y[MSN.GetNameWithFlag]§!.\n\nСовсем недавно небольшой прибрежный городок, Моль Сен-Никола, медленно, но верно превращается в военно-морскую базу, чтобы соперничать с расположенным поблизости Гуантанамо."
+ samana_lease_idea: "Аренда Самана"
+ samana_lease_idea_desc: "В настоящее время мы сдаём в аренду прибрежный город Самана §Y[SAM.GetNameWithFlag]§!.\n\nЖеланная американцами до приобретения Гуантанамо, после десятилетий относительной неизвестности в глазах иностранных держав, Самана в настоящее время быстро превращается в узловой пункт для [SAM.GetAdjective]их флотов."
 
 ### Dynamic Loc ###
- gitmo_active_yes: "§YGuantanamo Bay§!\n§W(§Y[820.owner.GetNameWithFlag]§!) Civilian Industry from target country:§! [?0.05|+=%]"
- mole_active_yes: "\n§YMôle Saint-Nicolas§!\n§W(§Y[318.owner.GetNameWithFlag]§!) Civilian Industry from target country:§! [?0.02|+=%]"
- samana_active_yes: "\n§YSamaná§!\n§W(§Y[319.owner.GetNameWithFlag]§!) Civilian Industry from target country:§! [?0.02|+=%]"
+ gitmo_active_yes: "§YГуантанамо§!\n§W(§Y[820.owner.GetNameWithFlag]§!) Гражданская промышленность из выбранной страны:§! [?0.05|+=%]"
+ mole_active_yes: "\n§YМоль Сен-Никола§!\n§W(§Y[318.owner.GetNameWithFlag]§!) Гражданская промышленность из выбранной страны:§! [?0.02|+=%]"
+ samana_active_yes: "\n§YСамана§!\n§W(§Y[319.owner.GetNameWithFlag]§!) Гражданская промышленность из выбранной страны:§! [?0.02|+=%]"
 
- treatyport_whichisit_gitmo: "Guantanamo Bay"
- treatyport_whichisit_mole: "Môle Saint-Nicolas"
- treatyport_whichisit_samana: "Samaná"
- treatyport_whichisit_multiple: "Multiple Leased Territories"
- treatyport_whichisit2_gitmo: "Guantanamo Bay"
- treatyport_whichisit2_mole: "Môle Saint-Nicolas"
- treatyport_whichisit2_samana: "Samaná"
+ treatyport_whichisit_gitmo: "Гуантанамо"
+ treatyport_whichisit_mole: "Моль Сен-Никола"
+ treatyport_whichisit_samana: "Самана"
+ treatyport_whichisit_multiple: "Несколько арендованных территорий"
+ treatyport_whichisit2_gitmo: "Гуантанамо"
+ treatyport_whichisit2_mole: "Моль Сен-Никола"
+ treatyport_whichisit2_samana: "Самана"
 
 ### Tooltips ###
- gitmo_ended_tt: "Remove §YGuantanamo Bay Lease§!\n§WEffective Change:\n(§Y[820.owner.GetNameWithFlag]§!) Civilian Industry from target country: §R-5.00%§!§!"
- gitmo_ended2_tt: "Remove §YGuantanamo Bay Lease§!\n§WEffective Change:\n(§Y[PREV.GetNameWithFlag]§!) Civilian Industry to target country: §G-5.00%§!§!"
+ gitmo_ended_tt: "Удалить §YАренда Гуантанамо§!\n§WДействующие изменения:\n(§Y[820.owner.GetNameWithFlag]§!) Гражданская промышленность из выбранной страны: §R-5.00%§!§!"
+ gitmo_ended2_tt: "Удалить §YАренда Гуантанамо§!\n§WДействующие изменения:\n(§Y[PREV.GetNameWithFlag]§!) Гражданская промышленность для выбранной страны: §G-5.00%§!§!"
 
 ### Events ###
- treaty_territory_events.1.t: "The Seizure of [treatyport_whichisit]"
- treaty_territory_events.1.d: "With the outbreak of war, our forces moved immediately to take control of [treatyport_whichisit], and after a brief struggle have emerged victorious."
- treaty_territory_events.1.a: "The nation is whole again!"
+ treaty_territory_events.1.t: "Захват [treatyport_whichisit]" #NT!
+ treaty_territory_events.1.d: "С началом войны наши силы немедленно двинулись, чтобы взять под свой контроль [treatyport_whichisit], и после непродолжительной борьбы вышли победителями." #NT!
+ treaty_territory_events.1.a: "Нация снова едина!" #NT!
 
- treaty_territory_events.2.t: "Minor Territories Overrun"
- treaty_territory_events.2.d: "With the outbreak of war, our minor territorial holdings have been overrun. Relevant treaties have been torn up and our personnel evacuated. With victory in this war, perhaps we shall reclaim them."
- treaty_territory_events.2.a: "We'll have them back soon enough."
+ treaty_territory_events.2.t: "Захват малых территорий" #NT!
+ treaty_territory_events.2.d: "С началом войны наши мелкие территориальные владения были захвачены. Соответствующие договоры были разорваны, а наш персонал эвакуирован. После победы в этой войне, возможно, мы вернем их." #NT!
+ treaty_territory_events.2.a: "Мы вернем их достаточно скоро." #NT!
 
- treaty_territory_events.3.t: "The Seizure of [treatyport_whichisit2]"
- treaty_territory_events.3.d: "Our forces have taken control of the concession at [treatyport_whichisit2]. The fate of the territory shall be put to rest with the war's conclusion."
- treaty_territory_events.3.a: "A small victory."
+ treaty_territory_events.3.t: "Захват [treatyport_whichisit2]" #NT!
+ treaty_territory_events.3.d: "Наши силы взяли под контроль концессию в [treatyport_whichisit2]. Судьба территории будет решена с завершением войны." #NT!
+ treaty_territory_events.3.a: "Маленькая победа." #NT!
 
- treaty_territory_events.4.t: "The Seizure of [treatyport_whichisit2]"
- treaty_territory_events.4.d: "[FROM.GetAdjective] troops have overrun our forces stationed in [treatyport_whichisit2]. For now at least, [treatyport_whichisit2] lies in enemy hands."
- treaty_territory_events.4.a: "We'll have it back soon enough."
+ treaty_territory_events.4.t: "Захват [treatyport_whichisit2]" #NT!
+ treaty_territory_events.4.d: "Войска [FROM.GetAdjective] захватили наши силы, дислоцированные в [treatyport_whichisit2]. По крайней мере, сейчас [treatyport_whichisit2] находится в руках врага." #NT!
+ treaty_territory_events.4.a: "Мы вернем его достаточно скоро." #NT!
 
- treaty_territory_events.5.t: "The Return of [treatyport_whichisit2]"
- treaty_territory_events.5.d: "With the recapture of [treatyport_whichisit2], the territory has been returned to foreign control."
- treaty_territory_events.5.a: "A bittersweet moment."
+ treaty_territory_events.5.t: "Возвращение [treatyport_whichisit2]" #NT!
+ treaty_territory_events.5.d: "После возвращения [treatyport_whichisit2] территория была возвращена под иностранный контроль." #NT!
+ treaty_territory_events.5.a: "Горько-сладкий момент." #NT!
 
- treaty_territory_events.6.t: "The Return of [treatyport_whichisit2]"
- treaty_territory_events.6.d: "[treatyport_whichisit2] has come back under our control and is once again operational."
- treaty_territory_events.6.a: "Hooray!"
+ treaty_territory_events.6.t: "Возвращение [treatyport_whichisit2]" #NT!
+ treaty_territory_events.6.d: "[treatyport_whichisit2] вернулся под наш контроль и снова работает." #NT!
+ treaty_territory_events.6.a: "Ура!" #NT!
 
- treaty_territory_events.7.t: "The Revocation of [treatyport_whichisit2]"
- treaty_territory_events.7.d: "[treatyport_whichisit2] has been recaptured. Given the present state of war with the territory's overlord, however, rather than return to territory to foreign control, the territory has been fully reincorporated."
- treaty_territory_events.7.a: "May we win this great war."
+ treaty_territory_events.7.t: "Отзыв [treatyport_whichisit2]" #NT!
+ treaty_territory_events.7.d: "[treatyport_whichisit2] снова пойман. Однако, учитывая нынешнее состояние войны с повелителем территории, вместо того, чтобы вернуть территорию под иностранный контроль, территория была полностью реинкорпорирована." #NT!
+ treaty_territory_events.7.a: "Пусть мы выиграем эту великую войну." #NT!
 
- treaty_territory_events.8.t: "The Revocation of [treatyport_whichisit2]"
- treaty_territory_events.8.d: "[FROM.GetName] has announced the revocation of our lease over [treatyport_whichisit2]."
- treaty_territory_events.8.a: "We shall have it back."
+ treaty_territory_events.8.t: "Отзыв [treatyport_whichisit2]" #NT!
+ treaty_territory_events.8.d: "[FROM.GetName] объявил об аннулировании договора аренды [treatyport_whichisit2]." #NT!
+ treaty_territory_events.8.a: "Мы вернем его." #NT!
 
- treaty_territory_events.9.t: "The End of the [treatyport_whichisit2] Concession"
- treaty_territory_events.9.d: "With the collapse of [FROM.GetNameDef] to enemy forces, we are no longer beholden to the concessions - and our forces have already moved in to seize them."
- treaty_territory_events.9.a: "A small victory."
+ treaty_territory_events.9.t: "Конец концессии [treatyport_whichisit2]" #NT!
+ treaty_territory_events.9.d: "С захватом [FROM.GetNameDef] вражеских сил мы больше не обязаны идти на уступки – и наши силы уже двинулись вперед, чтобы захватить их." #NT!
+ treaty_territory_events.9.a: "Маленькая победа." #NT!

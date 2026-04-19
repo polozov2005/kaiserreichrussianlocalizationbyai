@@ -1,62 +1,62 @@
 ﻿l_russian:
 
- ASM: "Assam"
- ASM_ADJ: "Assamese"
- ASM_DEF: "Assam"
+ ASM: "Ассам"
+ ASM_ADJ: "Ассамск"
+ ASM_DEF: "Ассам"
 
- BOM: "Maharashtra"
- BOM_ADJ: "Maharashtrian"
- BOM_DEF: "Maharashtra"
+ BOM: "Махараштра"
+ BOM_ADJ: "Махараштрск"
+ BOM_DEF: "Махараштра"
 
- GUJ: "Baroda"
- GUJ_ADJ: "Baroda"
- GUJ_DEF: "Baroda State"
- GUJ_totalist: "Gujarati Republic"
- GUJ_totalist_ADJ: "Gujarati"
- GUJ_totalist_DEF: "the Gujarati Republic"
- GUJ_syndicalist: "Gujarati Republic"
- GUJ_syndicalist_ADJ: "Gujarati"
- GUJ_syndicalist_DEF: "the Gujarati Republic"
- GUJ_radical_socialist: "Gujarati Republic"
- GUJ_radical_socialist_ADJ: "Gujarati"
- GUJ_radical_socialist_DEF: "the Gujarati Republic"
+ GUJ: "Барода"
+ GUJ_ADJ: "Бародск"
+ GUJ_DEF: "Государство Барода"
+ GUJ_totalist: "Гуджаратская Республика"
+ GUJ_totalist_ADJ: "Гуджаратск"
+ GUJ_totalist_DEF: "Гуджаратская Республика"
+ GUJ_syndicalist: "Гуджаратская Республика"
+ GUJ_syndicalist_ADJ: "Гуджаратск"
+ GUJ_syndicalist_DEF: "Гуджаратская Республика"
+ GUJ_radical_socialist: "Гуджаратская Республика"
+ GUJ_radical_socialist_ADJ: "Гуджаратск"
+ GUJ_radical_socialist_DEF: "Гуджаратская Республика"
 
- KAS: "Kashmir"
- KAS_ADJ: "Kashmiri"
- KAS_DEF: "Jammu and Kashmir"
+ KAS: "Кашмир"
+ KAS_ADJ: "Кашмирск"
+ KAS_DEF: "Кашмир"
 
- ORI: "Orissa"
- ORI_ADJ: "Oriya"
- ORI_DEF: "Orissa"
+ ORI: "Орисса"
+ ORI_ADJ: "Орийск"
+ ORI_DEF: "Орисса"
 
- KHA: "Khalistan"
- KHA_ADJ: "Khalistani"
- KHA_DEF: "Khalistan"
+ KHA: "Халистан"
+ KHA_ADJ: "Халистанск"
+ KHA_DEF: "Халистан"
 
- RJS: "Rajputana"
- RJS_ADJ: "Rajput"
- RJS_DEF: "the Rajputana Federation"
+ RJS: "Раджастан"
+ RJS_ADJ: "Раджастанск"
+ RJS_DEF: "Раджастан"
 
- SKM: "Sikkim"
- SKM_ADJ: "Sikkimese"
- SKM_DEF: "Sikkim"
+ SKM: "Сикким" #NT!
+ SKM_ADJ: "сиккимский" #NT!
+ SKM_DEF: "Сикким" #NT!
 
- TRV: "Travancore"
- TRV_ADJ: "Travancorean"
- TRV_DEF: "Travancore"
- TRV_totalist: "Kerala"
- TRV_totalist_ADJ: "Keralite"
- TRV_totalist_DEF: "Kerala"
- TRV_syndicalist: "Kerala"
- TRV_syndicalist_ADJ: "Keralite"
- TRV_syndicalist_DEF: "Kerala"
- TRV_radical_socialist: "Kerala"
- TRV_radical_socialist_ADJ: "Keralite"
- TRV_radical_socialist_DEF: "Kerala"
+ TRV: "Траванкор"
+ TRV_ADJ: "Траванкорск"
+ TRV_DEF: "Траванкор"
+ TRV_totalist: "Керала"
+ TRV_totalist_ADJ: "Керальск"
+ TRV_totalist_DEF: "Керала"
+ TRV_syndicalist: "Керала"
+ TRV_syndicalist_ADJ: "Керальск"
+ TRV_syndicalist_DEF: "Керала"
+ TRV_radical_socialist: "Керала"
+ TRV_radical_socialist_ADJ: "Керальск"
+ TRV_radical_socialist_DEF: "Керала"
 
- HIN: "Ganga Federation"
- HIN_ADJ: "Ganga"
- HIN_DEF: "the Ganga Federation"
+ HIN: "Индостан"
+ HIN_ADJ: "Индостанск"
+ HIN_DEF: "Индостан"
 
 ### Party Names ###
 
@@ -102,26 +102,26 @@
  KAS_national_populist_party_long: "All Jammu and Kashmir Rajya Hindu Sabha"
  KAS_national_populist_party: "Hindu Sabha"
 
- SKM_totalist_party_long: "Sikkim Revolutionary Congress"
- SKM_totalist_party: "SRC"
+ SKM_totalist_party_long: "Сиккимский революционный конгресс" #NT!
+ SKM_totalist_party: "СРЦ" #NT!
  SKM_syndicalist_party_long: "$SKM_totalist_party_long$"
  SKM_syndicalist_party: "$SKM_totalist_party$"
  SKM_radical_socialist_party_long: "$SKM_totalist_party_long$"
  SKM_radical_socialist_party: "$SKM_totalist_party$"
- SKM_social_democrat_party_long: "Sikkim Congress (Sudharak Samaj - Social Reform)"
- SKM_social_democrat_party: "SC (Sudharak Samaj)"
- SKM_social_liberal_party_long: "Sikkim Congress (Praja Mandal - People's Circle)"
- SKM_social_liberal_party: "SC (Praja Mandal)"
- SKM_market_liberal_party_long: "Sikkim Congress (Praja Sammelan - People's Conference)"
- SKM_market_liberal_party: "SC (Praja Sammelan)"
- SKM_social_conservative_party_long: "Sikkim National Party"
- SKM_social_conservative_party: "SNP"
- SKM_authoritarian_democrat_party_long: "Executive Council of Sikkim"
- SKM_authoritarian_democrat_party: "Executive Council"
- SKM_paternal_autocrat_party_long: "Executive Council of Sikkim"
- SKM_paternal_autocrat_party: "Executive Council"
- SKM_national_populist_party_long: "Sikkim National Party (Hardliner)"
- SKM_national_populist_party: "SNP (Hardliner)"
+ SKM_social_democrat_party_long: "Конгресс Сиккима (Судхарак Самадж - Социальная реформа)" #NT!
+ SKM_social_democrat_party: "СК (Судхарак Самадж)" #NT!
+ SKM_social_liberal_party_long: "Конгресс Сиккима (Праджа Мандал - Народный круг)" #NT!
+ SKM_social_liberal_party: "SC (Праджа Мандал)" #NT!
+ SKM_market_liberal_party_long: "Конгресс Сиккима (Праджа Саммелан - Народная конференция)" #NT!
+ SKM_market_liberal_party: "SC (Праджа Саммелан)" #NT!
+ SKM_social_conservative_party_long: "Национальная партия Сиккима" #NT!
+ SKM_social_conservative_party: "СНП" #NT!
+ SKM_authoritarian_democrat_party_long: "Исполнительный совет Сиккима" #NT!
+ SKM_authoritarian_democrat_party: "Исполнительный совет" #NT!
+ SKM_paternal_autocrat_party_long: "Исполнительный совет Сиккима" #NT!
+ SKM_paternal_autocrat_party: "Исполнительный совет" #NT!
+ SKM_national_populist_party_long: "Национальная партия Сиккима (жесткая линия)" #NT!
+ SKM_national_populist_party: "SNP (жесткий курс)" #NT!
 
  TRV_totalist_party_long: "Communist Party of Kerala"
  TRV_totalist_party: "CPK"
@@ -145,249 +145,249 @@
  TRV_national_populist_party: "Malayali Sabha"
 
 ### World Tension ###
- indian_wars_threat: "Indian Wars of Unification"
+ indian_wars_threat: "Война за объединение Индии"
 
 ### Flags ###
- india_united: "India is United"
+ india_united: "Индия едина" #NT!
 
 ### Characters ###
 
- GUJ_bahman_pestonji_wadia: "Bahman Pestonji Wadia"
- GUJ_bahman_pestonji_wadia_leader_desc: "§YBorn:§! §LOctober 8th, 1881, in Bombay, Presidency of Bombay, British India§!"
- GUJ_sayajirao_gaekwad_iii: "Sayajirao Gaekwad III"
- GUJ_sayajirao_gaekwad_iii_leader_desc: "§YBorn:§! §LMarch 11th, 1863, in Kavlana, Baroda State, India§!"
- GUJ_pratap_singh_rao_gaekwad: "Pratap Singh Rao Gaekwad"
- GUJ_pratap_singh_rao_gaekwad_leader_desc: "§YBorn:§! §LJune 29th, 1908, in Baroda, Baroda State, India§!"
+ GUJ_bahman_pestonji_wadia: "Бахман Пестонджи Вадиа"
+ GUJ_bahman_pestonji_wadia_leader_desc: "§YBorn:§! §L8 октября 1881 года, Бомбей, президентство Бомбея, Британская Индия§!" #NT!
+ GUJ_sayajirao_gaekwad_iii: "Саяджирао Гаеквад III"
+ GUJ_sayajirao_gaekwad_iii_leader_desc: "§YBorn:§! §L11 марта 1863 года, Кавлана, штат Барода, Индия§!" #NT!
+ GUJ_pratap_singh_rao_gaekwad: "Пратап Сингх Гаеквад"
+ GUJ_pratap_singh_rao_gaekwad_leader_desc: "§YBorn:§! §L29 июня 1908 года, Барода, штат Барода, Индия§!" #NT!
 
- PJB_ali_haidar: "Ali Haidar"
- PJB_ali_haidar_high_command_desc: "§YBorn:§! §LAugust 21st, 1913, in Kohat, North-West Frontier Province, British India§!"
- PJB_mahmood_khan_durrani: "Mahmood Khan Durrani"
- PJB_mahmood_khan_durrani_commander_desc: "§YBorn:§! §LJuly 1st, 1914, in Multan, Province of the Punjab, British India§!"
- PJB_shah_nawaz_khan: "Shah Nawaz Khan"
- PJB_shah_nawaz_khan_high_command_desc: "§YBorn:§! §LJanuary 24th, 1914, in Matore, Province of the Punjab, British India§!"
+ PJB_ali_haidar: "Али Хайдар"
+ PJB_ali_haidar_high_command_desc: "§YBorn:§! §L21 августа 1913 года, Кохат, Северо-Западная пограничная провинция, Британская Индия§!" #NT!
+ PJB_mahmood_khan_durrani: "Махмуд Хан Дуррани"
+ PJB_mahmood_khan_durrani_commander_desc: "§YBorn:§! §L1 июля 1914 года, Мултан, провинция Пенджаб, Британская Индия§!" #NT!
+ PJB_shah_nawaz_khan: "Шах Наваз Хан"
+ PJB_shah_nawaz_khan_high_command_desc: "§YBorn:§! §L24 января 1914 года, Маторе, провинция Пенджаб, Британская Индия§!" #NT!
 
- KAS_prem_nath_bazaz: "Prem Nath Bazaz"
+ KAS_prem_nath_bazaz: "Прем Нат Базаз"
  KAS_prem_nath_bazaz_leader_desc: "§YBorn:§! §LJuly 13th, 1905, in Budgam, Jammu and Kashmir, India§!"
- KAS_sheikh_abdullah: "Sheikh Abdullah"
+ KAS_sheikh_abdullah: "Шейх Абдулла"
  KAS_sheikh_abdullah_leader_desc: "§YBorn:§! §LDecember 5th, 1905, in Soura, Jammu and Kashmir, India§!"
- KAS_hari_singh: "Hari Singh"
+ KAS_hari_singh: "Хари Сингх"
  KAS_hari_singh_commander_desc: "§YBorn:§! §LSeptember 1895, in Jammu, Jammu and Kashmir, India§!"
 
- KHA_teja_singh_sutantar: "Teja Singh Sutantar"
- KHA_teja_singh_sutantar_leader_desc: "§YBorn:§! §LJuly 16th, 1901, in Aluna, Province of the Punjab, British India§!"
- KHA_tara_singh: "Tara Singh"
- KHA_tara_singh_leader_desc: "§YBorn:§! §LJune 24th, 1885, in Rawalpindi, Province of the Punjab, British India§!"
+ KHA_teja_singh_sutantar: "Теджа Сингх Сутантар"
+ KHA_teja_singh_sutantar_leader_desc: "§YBorn:§! §L16 июля 1901 года, Алуна, провинция Пенджаб, Британская Индия§!" #NT!
+ KHA_tara_singh: "Тара Сингх"
+ KHA_tara_singh_leader_desc: "§YBorn:§! §L24 июня 1885 года, Равалпинди, провинция Пенджаб, Британская Индия§!" #NT!
 
- RJS_sawai_man_singh_ii: "Sawai Man Singh II"
- RJS_sawai_man_singh_ii_leader_desc: "§YBorn:§! §LAugust 21st, 1912, in Isarda, Jaipur State, Rajputana Agency, India§!"
+ RJS_sawai_man_singh_ii: "Савай Мэн Сингх II"
+ RJS_sawai_man_singh_ii_leader_desc: "§YBorn:§! §L21 августа 1912 года, Исарда, штат Джайпур, округ Раджпутана, Индия§!" #NT!
 
- SKM_tashi_namgyal: "Tashi Namgyal"
- SKM_tashi_namgyal_advisor_desc: "§YBorn:§! §LOctober 26th, 1893, in Tibet, Great Qing§!\n§YBackground:§! §L$SKM_tashi_namgyal_bio$ former Chogyal has made his home in Bhutan with much of his riches, hoping that in due time he will be able to recover his kingdom.§!"
- SKM_tashi_namgyal_leader_desc: "§YBorn:§! §LOctober 26th, 1893, in Tibet, Great Qing§!\n§YBackground:§! §L$SKM_tashi_namgyal_bio$ Chogyal took refuge in Bhutan, biding his time for an eventual return to his kingdom.\n\nHaving been reinstated as Chogyal, Tashi Namgyal plans to reign peacefully, merely deigning for increased access to education and healthcare for the Sikkimese.§!"
- SKM_tashi_namgyal_bio: "Educated at St. Pauls School in Darjeeling and then the prestigious Mayo College in Ajmer, Tashi Namgyal succeeded his half-brother in December of 1914. He was crowned by the 13th Dalai Lama and peacefully reigned over the small Kingdom of Sikkim for over a decade afterward. Ejected from his home by the Nepalese in 1926, the"
- SKM_tashi_tshering: "Tashi Tshering"
- SKM_tashi_tshering_leader_desc: "§YBorn:§! §Lin the Kingdom of Sikkim§!"
- SKM_kazi_lhendup_dorji_khangsarpa: "Kazi Lhendup Dorji Khangsarpa"
- SKM_kazi_lhendup_dorji_khangsarpa_leader_desc: "§YBorn:§! §LOctober 11th, 1904, in Pakyong, Kingdom of Sikkim§!"
- SKM_kashi_raj_pradhan: "Kashi Raj Pradhan"
- SKM_kashi_raj_pradhan_leader_desc: "§YBorn:§! §LDecember 11th, 1905, in Pakyong, Kingdom of Sikkim§!"
- SKM_netuk_tshering: "Netuk Tshering"
- SKM_netuk_tshering_leader_desc: "§YBorn:§! §Lin the Kingdom of Sikkim§!"
- SKM_sonam_tshering: "Sonam Tshering"
- SKM_sonam_tshering_leader_desc: "§YBorn:§! §Lin the Kingdom of Sikkim§!"
- SKM_martam_topden: "Martam Topden"
- SKM_martam_topden_leader_desc: "§YBorn:§! §Lin the Kingdom of Sikkim§!"
+ SKM_tashi_namgyal: "Таши Намгьял" #NT!
+ SKM_tashi_namgyal_advisor_desc: "§YBorn:§! §L26 октября 1893 года, Тибет, Великий Цин§!\n§YСправочная информация:§! §L$SKM_tashi_namgyal_bio$ бывший Чогьял поселился в Бутане с большей частью своего богатства, надеясь, что в свое время он сможет вернуть себе королевство.§!" #NT!
+ SKM_tashi_namgyal_leader_desc: "§YBorn:§! §L26 октября 1893 года, Тибет, Великий Цин§!\n§YСправочная информация:§! §L$SKM_tashi_namgyal_bio$ Чогьял укрылся в Бутане, выжидая момента для возможного возвращения в свое королевство.\n\nВосстановленный в должности Чогьяла, Таши Намгьял планирует мирно править, просто соблаговолив расширению доступа к образованию и здравоохранению для Сиккимский.§!" #NT!
+ SKM_tashi_namgyal_bio: "Получив образование в школе Святого Павла в Дарджилинге, а затем в престижном колледже Майо в Аджмере, Таши Намгьял стал преемником своего сводного брата в декабре 1914 года. Он был коронован 13-м Далай-ламой и мирно правил маленьким королевством Сикким более десяти лет после этого. Выгнанный из дома непальцами в 1926 году," #NT!
+ SKM_tashi_tshering: "Таши Церинг" #NT!
+ SKM_tashi_tshering_leader_desc: "§YBorn:§! §Lв Королевстве Сикким§!" #NT!
+ SKM_kazi_lhendup_dorji_khangsarpa: "Кази Лендуп Дорджи Кхангсарпа" #NT!
+ SKM_kazi_lhendup_dorji_khangsarpa_leader_desc: "§YBorn:§! §L11 октября 1904 года, Пакьонг, Королевство Сикким§!" #NT!
+ SKM_kashi_raj_pradhan: "Каши Радж Прадхан" #NT!
+ SKM_kashi_raj_pradhan_leader_desc: "§YBorn:§! §L11 декабря 1905 года, Пакьонг, Королевство Сикким§!" #NT!
+ SKM_netuk_tshering: "Нетук Церинг" #NT!
+ SKM_netuk_tshering_leader_desc: "§YBorn:§! §Lв Королевстве Сикким§!" #NT!
+ SKM_sonam_tshering: "Сонам ​​Тшеринг" #NT!
+ SKM_sonam_tshering_leader_desc: "§YBorn:§! §Lв Королевстве Сикким§!" #NT!
+ SKM_martam_topden: "Мартам Топден" #NT!
+ SKM_martam_topden_leader_desc: "§YBorn:§! §Lв Королевстве Сикким§!" #NT!
 
- TRV_chithira_thirunal_balarama_varma: "Chithira Thirunal Balarama Varma"
- TRV_chithira_thirunal_balarama_varma_sic_desc: "§YBorn:§! §LNovember 8th, 1912, in Deepavali, Kingdom of Travancore, India§!"
- TRV_p_krishna_pillai: "P. Krishna Pillai"
- TRV_p_krishna_pillai_leader_desc: "§YBorn:§! §LAugust 19th, 1906, in Vaikom, Kingdom of Travancore, India§!"
- TRV_chandrasekharan_nair: "Chandrasekharan Nair"
- TRV_chandrasekharan_nair_commander_desc: "§YBorn:§! §Lin Methu Kummal Vilavan, Kingdom of Travancore, India§!" # Born March 5th, 1934 irl
+ TRV_chithira_thirunal_balarama_varma: "Читхира Тирунал Баларама Варма"
+ TRV_chithira_thirunal_balarama_varma_sic_desc: "§YBorn:§! §L8 ноября 1912 года, Дипавали, Королевство Траванкор, Индия§!" #NT!
+ TRV_p_krishna_pillai: "П. Кришна Пиллаи"
+ TRV_p_krishna_pillai_leader_desc: "§YBorn:§! §L19 августа 1906 года, Вайком, Королевство Траванкор, Индия§!" #NT!
+ TRV_chandrasekharan_nair: "Чандрасекаран Наир"
+ TRV_chandrasekharan_nair_commander_desc: "§YBorn:§! §Lв Мету Куммал Вилаван, Королевство Траванкор, Индия§!" #NT!
 
 ### Tooltips ###
- india_will_seize_ceylon_if_germany_at_war: "Ceylon will be seized if this focus is taken while Germany is embroiled in a major war."
- india_activate_integration_decisions_tooltip: "§YAdditional decisions will unlock to speed up integration of reclaimed states.§!"
- india_demobilisation_tt: "Our nation will begin to demobilise, returning to §YCivilian Economy§! and §YVolunteer Only§!."
+ india_will_seize_ceylon_if_germany_at_war: "Цейлон будет захвачен, если это решение будет принято в то время, когда Германия вовлечена в большую войну."
+ india_activate_integration_decisions_tooltip: "§YСтанут доступны дополнительные решения,ускоряющие интеграцию отвовеванных земель.§!"
+ india_demobilisation_tt: "Наша страна начнет демобилизовываться, возвращаясь к §YГражданской Экономике§! и политике призыва §YТолько добровольце§!."
 
 ### Shared Decisions ###
 
- india_invade_tawang_decision: "Demand [858.GetName]"
- india_invade_tawang_decision_desc: "During the original chaos that led to the collapse of Britain's dominion over India, the border territory of [858.GetName] fell under the occupation of local rulers. Now that the subcontinent is once again unified, it is finally time to seek a restoration of the nation's proper borders."
- india_invade_aksai_chin_decision: "Demand [897.GetName]"
- india_invade_aksai_chin_decision_desc: "All of Kashmir is part of India, regardless of any Chinese claims to the contrary, and this of course extends to the northernmost part of the region that has unfortunately fallen under foreign occupation. A request should therefore be sent to [FROM.GetName] to demand their evacuation from the region so that it can finally be fully under [ROOT.GetAdjective] administration."
- india_tackle_resistance_decision: "Tackle Resistance"
- india_tackle_resistance_decision_desc: "Even with India united there are still countless bitter about their defeat, ready to send the nation back into chaos if they ever get the opportunity to do so. We must dedicate significant resources to ensure that these dissenters are dealt with, using both the carrot and the stick when needed."
- india_increase_integration_efforts_in_state_decision: "Increase Integration Efforts in [FROM.GetName]"
- india_increase_integration_efforts_in_state_decision_desc: "While with enough time our men on the ground will ensure that [FROM.GetName] is properly integrated into the restored nation, it may be prudent to send them additional help to speed up these integration efforts, especially in the more important regions of the country."
+ india_invade_tawang_decision: "Потребовать [858.GetName]"
+ india_invade_tawang_decision_desc: "Во время первоначального хаоса, приведшего к краху британского владычества над Индией, приграничная территория [858.GetName] оказалась под оккупацией местных правителей. Теперь, когда субконтинент вновь стал единым, настало время добиваться восстановления правильных границ государства."
+ india_invade_aksai_chin_decision: "Потребовать [897.GetName]"
+ india_invade_aksai_chin_decision_desc: "Весь Кашмир является частью Индии, независимо от любых китайских заявлений об обратном, и это, конечно, распространяется на самую северную часть региона, которая, к сожалению, оказалась под иностранной оккупацией. Поэтому следует отправить запрос государству [FROM.GetName] с требованием эвакуироваться из региона, чтобы он наконец полностью перешел под [ROOT.GetAdjective]ое управление."
+ india_tackle_resistance_decision: "Разобраться с сопротивлением"
+ india_tackle_resistance_decision_desc: "Даже после объединения Индии бесчисленное множество людей по-прежнему сожалеют о своем поражении и готовы снова погрузить страну в хаос, если им представится такая возможность. Мы должны выделить значительные ресурсы для того, чтобы разобраться с этими несогласными, используя как кнут, так и пряник, когда это необходимо."
+ india_increase_integration_efforts_in_state_decision: "Усилия по интеграции в [FROM.GetName]"
+ india_increase_integration_efforts_in_state_decision_desc: "Хотя, имея достаточно времени, наши люди на местах обеспечат надлежащую интеграцию [FROM.getName] в восстановленную нацию, было бы разумно направить им дополнительную помощь, чтобы ускорить эти усилия по интеграции, особенно в наиболее важные регионы страны."
 
- india_reintegration_category: "Reintegration of India"
+ india_reintegration_category: "Реинтеграция Индии"
 
 ### Shared Events ###
 
- india_events.1.t: "Choosing the Capital of [ROOT.GetNameDef]"
- india_events.1.d.RAJ: "With India finally unified, it is time to rebuild and decide on where we want the capital of the country to be. While Lahore has served us well, it may be wise to move to Delhi, where great work took place before the revolution to turn it into a fitting capital for the nation. Alternatively, we can go back to Calcutta, the old capital of British India, where the period of industrial growth under the Bharatiya People's Republic and its proximity to the coast could be a useful asset to India's trade with the rest of the world. Bombay, meanwhile, has always been one of the most industrious cities on the subcontinent, and unlike Delhi or Calcutta the lack of revolutionary change under the princes could lead to a much smoother restoration of the old administration if chosen as a capital.\n\nAlternatively however, we could simply choose to stay in Lahore, which has remained our provisional capital, while we slowly integrate the rest of the country and rid it of reactionary and radical elements."
- india_events.1.d.HND: "With India finally unified, it is time to rebuild and decide on where we want the capital of the country to be. We could opt for Delhi, where, in spite of the aborted effort to turn it into new heart of colonial administration, the city remains an excellent logistics hub for the region. Bombay, meanwhile, has always been one of the most industrious cities on the subcontinent, and one in which socialism may easily take hold.\n\nWhile moving to one of these locations could help raise support from the people, they still have yet to understand the benefits of socialism under our leader, [ROOT.GetLeader]. Staying in Calcutta, the home of the revolution, would also be symbolic for generations to come."
- india_events.1.d.PRF: "With India finally unified, it is time to rebuild and decide on where we want the capital of the country to be. We could opt for Delhi, the namesake of the sultanate that ruled over much of India, a legacy continued by the Mughal Empire; now, it is our turn to assert that claim. Alternatively, we could choose Lahore, which served as the provisional capital of British India and holds a comparable standing in the great legacies of past eras.\n\nStaying in Hyderabad may also be a fitting choice, where the decades of investment have brought with it new public services, educational and financial institutions in addition to the modern infrastructure needed for a modern capital. The potential resistance that may be faced in Lahore or Delhi by those still rejecting the subcontinent's future also makes Hyderabad a fitting choice, although ultimately in time such resistance is unlikely to last."
- india_events.1.a: "The former capital, Delhi."
- india_events.1.b: "Let's return to the old, Bengali capital."
- india_events.1.c: "It's time for Bombay to shine."
- india_events.1.e: "The great city of Lahore shall serve us well."
- india_events.1.d: "Let us stay where we are currently."
+ india_events.1.t: "Выбор столицы [ROOT.GetNameDef]"
+ india_events.1.d.RAJ: "С окончательным объединением Индии настало время перестроить страну и решить, где мы хотим разместить её столицу. Хотя Лахор сослужил нам хорошую службу, возможно, было бы разумно перенести её в Дели, где до революции была проделана огромная работа по превращению его в достойную столицу страны. В качестве альтернативы мы можем вернуться в Калькутту, бывшую столицу Британской Индии, где период промышленного роста в эпоху Бхаратийской Народной Республики и её близость к побережью могли бы стать полезным активом для торговли Индии с остальным миром. Бомбей, в свою очередь, всегда был одним из самых промышленных городов на субконтиненте, и, в отличие от Дели или Калькутты, отсутствие революционных перемен при князьях могло бы привести к гораздо более плавному восстановлению старой администрации, если бы он был выбран в качестве столицы.\n\nОднако, в качестве альтернативы, мы могли бы просто остаться в Лахоре, который остаётся нашей временной столицей, пока мы постепенно интегрируем остальную часть страны и избавляемся от реакционных и радикальных элементов."
+ india_events.1.d.HND: "Теперь, когда Индия окончательно объединена, пришло время перестроить страну и решить, где мы хотим видеть её столицу. Мы могли бы выбрать Дели, где прогресс, направленный на превращение его в административный центр Раджа с 1911 года, был прерван Британской революцией, хотя это и напоминает нам о нашем колониальном прошлом. Бомбей же всегда был одним из самых промышленных городов на субконтиненте, и социализм в нём может легко укорениться.\n\nХотя переезд в одно из этих мест мог бы помочь заручиться поддержкой народа, ему ещё предстоит осознать преимущества социализма под руководством нашего лидера, [ROOT.GetLeader]. Пребывание в Калькутте, колыбели революции, также было бы символичным для будущих поколений."
+ india_events.1.d.PRF: "После окончательного объединения Индии пришло время перестроить страну и решить, где мы хотим видеть её столицу. Мы могли бы выбрать Дели, где прогресс, направленный на превращение его в центр администрации Раджа с 1911 года, был прерван Британской революцией, хотя это и напоминает нам о нашем колониальном прошлом, и [ROOT.GetLeader] всегда стремился к независимости от остальной Индии. В качестве альтернативы мы можем переехать в Лахор, бывшую временную столицу Британской Индии и многих великих империй прошлого субконтинента, если мы тоже хотим претендовать на наследие их великого наследия.\n\nОставаться в Хайдарабаде также может быть подходящим выбором, поскольку десятилетия инвестиций принесли с собой новые государственные услуги, образовательные и финансовые учреждения, а также современную инфраструктуру, необходимую для современной столицы. Потенциальное сопротивление, с которым могут столкнуться в Лахоре или Дели те, кто всё ещё отвергает будущее субконтинента, также делает Хайдарабад подходящим выбором, хотя в конечном счёте такое сопротивление вряд ли будет продолжительным."
+ india_events.1.a: "Бывшая столица, Дели."
+ india_events.1.b: "Давайте вернемся в старую бенгальскую столицу."
+ india_events.1.c: "Пришло время Бомбею сиять."
+ india_events.1.e: "Великий город Лахор послужит нам хорошую службу."
+ india_events.1.d: "Давайте останемся там, где мы сейчас находимся."
 
- india_events.10.t: "The Devastation of India"
- india_events.10.d: "At last, the war that first started over a decade ago has finally reached its end, but this victory is anything but glorious. The nation now lies in ruins, with thousands dead, homes reduced to rubble, and what little was left of the Indian economy lying in tatters. Worse still, the fighting is not truly over, with many still loyal to the false governments refusing to lay down their arms and accept the new status quo. While one great struggle is now behind us, it is clear that a new great struggle to recover from this conflict has now begun."
- india_events.10.a: "At least the nation is whole again, what's left of it anyway."
+ india_events.10.t: "Опустошение Индии"
+ india_events.10.d: "Наконец, война, начавшаяся более десяти лет назад, подошла к концу, но эта победа далека от славы. Страна лежит в руинах: тысячи погибших, дома разрушены, а то немногое, что осталось от индийской экономики, лежит в руинах. Хуже того, боевые действия ещё не закончены: многие по-прежнему лояльны фальшивым правительствам и отказываются сложить оружие и принять новый статус-кво. Хотя одна великая битва осталась позади, очевидно, что началась новая великая борьба за восстановление после этого конфликта."
+ india_events.10.a: "По крайней мере, страна снова цела, вернее, то, что от нее осталось."
 
- india_events.50.t: "Dealing With Nepal"
- india_events.50.d.claimless: "In the aftermath of the Raj's collapse, [NEP.GetNameDef] sent troops into multiple frontier regions in support of their British allies, preventing them from falling into the hands of the Republic. Although they no longer control these seized territories, their clearly hostile actions in taking them in the first place have left many worried they may commit further transgressions against us in future if they get the chance. It has therefore been suggested we send them a missive, pressing for full control over Nepali affairs, while politely informing them what may happen if they were to refuse our peaceful and reasonable request."
- india_events.50.d.claims: "In the aftermath of the Raj's collapse, [NEP.GetNameDef] sent troops into multiple frontier regions in support of their British allies, preventing them from falling into the hands of the Republic. Even now however, with India united again, they still hold onto these territories, refusing to return them to their rightful owner. It seems that Nepal will need to be \"nudged\" into actually returning the land, and as such it has been proposed we immediately send them a missive making clear what will happen, as well as potentially going further and demanding full control over Nepali affairs to prevent any repeat incidents happening."
- india_events.50.a: "Demand the return of the occupied districts!"
- india_events.50.b: "Claim the districts and press for a friendly government!"
- india_events.50.c: "Press for a friendly government!"
- india_events.50.e: "Allow the existing borders to continue in exchange for an alliance."
- india_events.50.f: "Nepal is not worth the effort."
+ india_events.50.t: "Разобраться с Непалом"
+ india_events.50.d.claimless: "После падения Раджа [NEP.GetNameDef] направил войска в несколько приграничных регионов для поддержки своих британских союзников, не давая им попасть в руки Республики. Хотя они больше не контролируют эти захваченные территории, их явно враждебные действия по их захвату, в первую очередь, заставили многих беспокоиться, что они могут совершить дальнейшие преступления против нас в будущем, если у них появится такая возможность. Поэтому было предложено послать им послание с требованием полного контроля над непальскими делами, вежливо сообщая им, что может случиться, если они откажутся от нашей мирной и разумной просьбы." #NT!
+ india_events.50.d.claims: "После падения Раджа [NEP.GetNameDef] направил войска в несколько приграничных регионов для поддержки своих британских союзников, не давая им попасть в руки Республики. Однако даже сейчас, когда Индия снова объединилась, они все еще удерживают эти территории, отказываясь вернуть их законному владельцу. Похоже, что Непал нужно будет «подтолкнуть» к фактическому возвращению земли, и поэтому было предложено немедленно отправить им послание, разъясняющее, что произойдет, а также потенциально пойти дальше и потребовать полного контроля над непальскими делами, чтобы предотвратить повторение каких-либо инцидентов." #NT!
+ india_events.50.a: "Потребуйте возвращения оккупированных районов!"
+ india_events.50.b: "Заявить права на оккупированные районы и требуйте создания дружественного правительства!"
+ india_events.50.c: "Добиться создания дружественного правительства!"
+ india_events.50.e: "Позвольте существующим границам сохраниться в обмен на союз." #NT!
+ india_events.50.f: "Непал не стоит затраченных усилий." #NT!
 
- india_events.51.t: "The Demands of [From.GetNameDef]"
- india_events.51.d.return: "A missive has been received today from [FROM.GetNameDef], with the clear threat implied throughout obvious. They have demanded that we cede to them all territories they claim to be Indian, and it seems likely they will not take no for an answer. We are left with a difficult choice it seems."
- india_events.51.d.govt: "A missive has been received today from [FROM.GetNameDef], with the clear threat implied throughout obvious. Making the false claim that Nepali independence poses a threat to the Indian nation, they have demanded full control over the affairs of our government, and the official recognition of a border between us very much in their favour. They clearly do not intend to take no for an answer, and thus we are left with a difficult choice on how to react to this threat."
- india_events.51.a: "We have no choice but to comply."
- india_events.51.b: "Nepal shall defend her sovereignty!"
+ india_events.51.t: "Требования [From.GetNameDef]"
+ india_events.51.d.return: "Мы находимся под давлением со стороны возрождающегося [From.GetAdjective]ого правительства, требующего отделить районы, которые мы завоевали после краха британского владычества."
+ india_events.51.d.govt: "Мы находимся под давлением со стороны возрождающегося [From.GetAdjective]ого правительства, требующего отделения районов, завоёванных нами после падения британского владычества. Более того, они требуют, чтобы мы отказались от нашей фактической независимости."
+ india_events.51.a: "У нас нет другого выбора, кроме как подчиниться."
+ india_events.51.b: "Скажите им, что великий Непал защитит свои завоевания!"
 
- india_events.52.t: "Nepal Submits"
- india_events.52.d.return: "Left with little choice, the [From.GetAdjective] government has turned our territory back over to our control."
- india_events.52.d.govt: "Left with little choice, the [From.GetAdjective] government has fully submitted to our authority, quelling any further threat they pose to us."
- india_events.52.a: "Was there any other doubt?"
+ india_events.52.t: "Непал подчиняется"
+ india_events.52.d.return: "Не имея другого выбора, правительство [From.GetAdjective] вернуло территорию под наш контроль."
+ india_events.52.d.govt: "Не имея другого выбора, [From.GetAdjective]ое правительство передало нашу территорию и фактически подчинилось нашему контролю."
+ india_events.52.a: "Были ли еще какие-то сомнения?"
 
- india_events.53.t: "Nepal Refuses!"
- india_events.53.d: "Amazingly, Nepal has refused our demand, saying that if we wish to \"destroy Nepali sovereignty\" then we shall have to do so by force!"
- india_events.53.a: "Then war it is!"
- india_events.53.b: "Perhaps another time..."
+ india_events.53.t: "Непал отклоняет наши требования!"
+ india_events.53.d: "Удивительно, но [From.GetAdjective]ое правительство отклонило наше требование, заявив, что если мы хотим вернуть себе индейские низменности, то нам придется сделать это силой!"
+ india_events.53.a: "Тогда это война!"
+ india_events.53.b: "Возможно, в другой раз..."
 
- india_events.54.t: "An Alliance with India?"
- india_events.54.d: "While many were expecting the missive received today from [FROM.GetNameDef] to be a threat of war or demand for subjugation, they have instead sent an offer to us, requesting an alliance between our two nations in exchange for an official delimitation of the border between us to match the existing status quo. Although we previously declared neutrality on the Indian issue over their attempts to influence us, [FROM.GetNameDef] had no involvement in the unrest we previously faced, and as such we can consider agreeing to this request; it is certainly better than alternative solutions they may pursue."
- india_events.54.a: "Their offer is reasonable, accept it."
- india_events.54.b: "Neutrality means neutrality!"
+ india_events.54.t: "Союз с Индией?" #NT!
+ india_events.54.d: "Хотя многие ожидали, что послание, полученное сегодня от [FROM.GetNameDef], будет угрозой войны или требованием подчинения, вместо этого они отправили нам предложение с просьбой о союзе между нашими двумя странами в обмен на официальную делимитацию границы между нами в соответствии с существующим статус-кво. Хотя ранее мы заявляли о нейтралитете в индийском вопросе в отношении их попыток повлиять на нас, [FROM.GetNameDef] не принимал участия в беспорядках, с которыми мы ранее столкнулись, и поэтому мы можем рассмотреть возможность согласия на эту просьбу; это, безусловно, лучше, чем альтернативные решения, которые они могут использовать." #NT!
+ india_events.54.a: "Их предложение разумно, примите его." #NT!
+ india_events.54.b: "Нейтралитет значит нейтралитет!" #NT!
 
- india_events.55.t: "Nepal Agrees to an Alliance"
- india_events.55.d: "Seeing reason in our request, the Nepali king has arrived today in [ROOT.Capital.GetCapitalVictoryPointName] to officially sign a treaty between our two nations. Let us hope this is the beginning to a fruitful partnership."
- india_events.55.a: "A toast to our Nepali friends."
+ india_events.55.t: "Непал соглашается на союз" #NT!
+ india_events.55.d: "Увидев причину в нашей просьбе, король Непала прибыл сегодня в [ROOT.Capital.GetCapitalVictoryPointName], чтобы официально подписать договор между нашими двумя странами. Будем надеяться, что это начало плодотворного партнерства." #NT!
+ india_events.55.a: "Тост за наших непальских друзей." #NT!
 
- india_events.56.t: "Nepal Refuses the Alliance"
- india_events.56.d: "Despite how much our previous offer was in their favour, the Nepali government has refused any requests for an alliance, declaring their full commitment to neutrality. With issues between our two nations still unresolved, and the Nepalis clearly unwilling to solve them the easy way, we may wish to consider a different approch to solving them... "
+ india_events.56.t: "Непал отказывается от альянса" #NT!
+ india_events.56.d: "Несмотря на то, насколько наше предыдущее предложение было в их пользу, правительство Непала отклонило любые просьбы о союзе, заявив о своей полной приверженности нейтралитету. Поскольку проблемы между нашими двумя странами все еще не решены, а непальцы явно не желают решать их легким путем, мы, возможно, пожелаем рассмотреть другой подход к их решению..." #NT!
  #Options shared with india_events.50
 
- india_events.60.t: "[From.GetNameDefCap] Seizes Indian Territories!"
- india_events.60.d: "While we are occupied with our war, [From.GetAdjective] soldiers swept into our territories in the Indian Ocean and seized control of our local forces almost before they could lift a finger. [From.GetNameDefCap] claims these territories to be rightfully theirs, and for the moment there seems to be little we can do about it... except for outright declaring war."
- india_events.60.a: "This outrage will not go unanswered!"
- india_events.60.b: "This means war!"
+ india_events.60.t: "[From.GetNameDefCap] оккупировали индийские земли!"
+ india_events.60.d: "Пока мы были отвлечены войной, [From.GetAdjective]ие солдаты вторглись на наши территории в Индийском океане и захватили контроль над местными силами, прежде чем те успели пошевелить пальцем. [From.GetNameDefCap] заявляет, что эти территории принадлежат ему по праву, и на данный момент мы, похоже, мало что можем с этим поделать... кроме как открыто объявить войну."
+ india_events.60.a: "Это не останется без ответа!"
+ india_events.60.b: "Тогда, это война!"
 
  india_events.61.t: "[From.GetNameDefCap] and the Return of our Indian Colonies"
  india_events.61.d: "The [From.GetAdjective] government has just proposed a deal that would transfer some of the territories we snatched after the collapse of the British Raj back to [From.GetNameDef]. This could be a good way to improve relations with the national government, but could also set a dangerous precedent in our other colonies."
  india_events.61.a: "Hand over the isles to the Indians."
  india_events.61.b: "No, these naval bases are vital to the Kaiserliche Marine."
 
- india_events.62.t: "The Transfer of the German Colonies"
- india_events.62.d: "We have managed to convince the Germans to return some of the colonies taken by the Reich after the Raj collapsed. This is both a great sign of Indo-German friendship, but also proof that we truly have obtained the mandate as the legal successor to the British. Glory to India!"
- india_events.62.a: "Merge the isles into our nation!"
- india_events.62.b: "Grant Ceylon wide internal autonomy and incorporate the atolls."
+ india_events.62.t: "Передача немецких колоний"
+ india_events.62.d: "Нам удалось убедить немцев вернуть часть колоний, захваченных Рейхом после падения Индийского колониального режима. Это не только великолепный знак индо-германской дружбы, но и доказательство того, что мы действительно получили мандат правопреемника Великобритании. Слава Индии!"
+ india_events.62.a: "Вернем острова в нашу страну!"
+ india_events.62.b: "Предоставить Цейлону широкую внутреннюю автономию и включить атоллы."
 
- india_events.63.t: "[From.GetNameDefCap] Has Refused"
- india_events.63.d: "Representatives from the [From.GetAdjective] government notified us that returning the Indian Ocean territories is simply impossible, as they are vital to the Kaiserliche Marine."
- india_events.63.a: "I see..."
+ india_events.63.t: "[From.GetNameDefCap] отклонили наши предложение"
+ india_events.63.d: "[From.GetAdjective]ие солдаты сегодня утром вторглись в [seized_state.GetName] и захватили контроль над нашими местными силами безопасности, прежде чем те успели пошевелить пальцем. [From.GetNameDefCap] утверждает, что [seized_state.GetName] по праву принадлежит индейцам, и на данный момент мы мало что можем с этим поделать."
+ india_events.63.a: "Понятно.."
 
- india_events.65.t: "[From.GetNameDefCap] Seizes [seized_state.GetName]!"
- india_events.65.d: "[From.GetAdjective] soldiers swept into [seized_state.GetName] this morning and seized control of our local forces almost before they could lift a finger. [From.GetNameDefCap] claims [seized_state.GetName] to be rightfully Indian territory, and for the moment there seems to be little we can do about it."
- india_events.65.a: "These vultures!"
- india_events.65.b: "This outrage will not go unanswered!"
+ india_events.65.t: "[From.GetNameDefCap] оккупирует [seized_state.GetName]!"
+ india_events.65.d: "[From.GetAdjective]ие солдаты сегодня утром вторглись в [seized_state.GetName] и захватили контроль над нашими местными силами безопасности, прежде чем те успели пошевелить пальцем. [From.GetNameDefCap] утверждает, что [seized_state.GetName] по праву принадлежит индейцам, и на данный момент мы мало что можем с этим поделать."
+ india_events.65.a: "Стервятники!"
+ india_events.65.b: "Это не останется без ответа!"
 
- india_events.70.t: "[FROM.GetNameDefCap] Demands [858.GetName]"
- india_events.70.d: "With the Indian subcontinent now once again unified by [FROM.GetNameDef] they have begun to seek the full restoration of their old borders, and have demanded that the border territory of [858.GetName] be transferred to them. While such a claim is obviously entirely false, it seems unlikely that such a resurgent power will simply drop the matter if refused, and will likely seek to enforce their claim through war; it must be decided if the nation is prepared for such an eventuality."
- india_events.70.a: "We have no choice but to comply"
- india_events.70.b: "We will not cede anything to these tyrants!"
+ india_events.70.t: "[FROM.GetNameDefCap] требует [858.GetName]"
+ india_events.70.d: "После того, как Индийский субконтинент вновь объединился под эгидой [FROM.GetNameDef], они начали добиваться полного восстановления своих прежних границ и потребовали передачи им приграничной территории [858.GetName]. Хотя такое заявление, очевидно, совершенно ложно, маловероятно, что такая возрождающаяся держава просто откажется от этого в случае отказа и, скорее всего, попытается реализовать свои претензии военным путём. Необходимо решить, готова ли страна к такому развитию событий."
+ india_events.70.a: "У нас нет другого выбора, кроме как подчиниться"
+ india_events.70.b: "Мы ничего не уступим этим тиранам!"
 
- india_events.71.t: "[FROM.GetNameDefCap] Agrees to Return [858.GetName]"
- india_events.71.d: "A response has been received from [FROM.GetName], and they have smartly decided to comply peacefully and have agreed to return the occupied territory of [858.GetName] to [ROOT.GetAdjective] rule."
- india_events.71.a: "It is good that they have seen reason."
+ india_events.71.t: "[FROM.GetNameDefCap] соглашается вернуть [858.GetName]"
+ india_events.71.d: "Получен ответ от [FROM.GetName], и они благоразумно решили мирно подчиниться и согласились вернуть оккупированную территорию [858.GetName] под [ROOT.GetAdjective]ое управление."
+ india_events.71.a: "Хорошо, что они вразумились."
 
- india_events.72.t: "[FROM.GetNameDefCap] Refuses to Return [858.GetName]"
- india_events.72.d: "In violation of [ROOT.GetAdjective] sovereignty over the region, [FROM.GetName] have refused to return [858.GetName] and have made clear their intention to maintain their occupation of it. It seems that it is now time to either back our words with force, or surrender the region to their permanent occupation."
- india_events.72.a: "It seems force is the only option left."
- india_events.72.b: "It is not worth fighting a war for such a minor dispute."
+ india_events.72.t: "[FROM.GetNameDefCap] отклоняет требования вернуть [858.GetName]"
+ india_events.72.d: "Нарушая суверенитет [ROOT.GetAdjective] над регионом, [FROM.GetName] отказались вернуть [858.GetName] и ясно заявили о своём намерении сохранить его под своей оккупацией. Похоже, пришло время либо подкрепить свои слова силой, либо передать регион под их постоянную оккупацию."
+ india_events.72.a: "Похоже, что единственный оставшийся вариант — сила."
+ india_events.72.b: "Не стоит начинать войну из-за такого незначительного спора."
 
- india_events.75.t: "[FROM.GetNameDefCap] Demands [897.GetName]"
- india_events.75.d: "With the Indian subcontinent now once again unified by [FROM.GetNameDef], they have begun to seek the full restoration of their old borders, and have demanded that the border territory of [897.GetName] be transferred to them. While such a claim is obviously false, it seems unlikely that a resurgent power will simply drop the matter if refused; it will likely seek to enforce their claim through war, and it must be decided if the nation is prepared for such an eventuality."
- india_events.75.a: "We have no choice but to comply"
- india_events.75.b: "We will not cede anything to these tyrants!"
+ india_events.75.t: "[FROM.GetNameDefCap] требует [897.GetName]"
+ india_events.75.d: "После того, как Индийский субконтинент вновь объединился под эгидой [FROM.GetNameDef], они начали добиваться полного восстановления своих прежних границ и потребовали передачи им приграничной территории [897.GetName]. Хотя такое заявление, очевидно, совершенно ложно, маловероятно, что такая возрождающаяся держава просто откажется от этого в случае отказа и, скорее всего, попытается реализовать свои претензии военным путём. Необходимо решить, готова ли страна к такому развитию событий."
+ india_events.75.a: "У нас нет другого выбора, кроме как подчиниться"
+ india_events.75.b: "Мы ничего не уступим этим тиранам!"
 
- india_events.76.t: "[FROM.GetNameDefCap] Agrees to Return [897.GetName]"
- india_events.76.d: "A response has been received from [FROM.GetName], and they have smartly decided to comply peacefully and have agreed to return the occupied territory of [897.GetName] to [ROOT.GetAdjective] rule."
- india_events.76.a: "It is good that they have seen reason."
+ india_events.76.t: "[FROM.GetNameDefCap] соглашается вернуть [897.GetName]"
+ india_events.76.d: "Получен ответ от [FROM.GetName], и они благоразумно решили мирно подчиниться и согласились вернуть оккупированную территорию [897.GetName] под управление [ROOT.GetAdjective]."
+ india_events.76.a: "Хорошо, что они образумились."
 
- india_events.77.t: "[FROM.GetNameDefCap] Refuses to Return [897.GetName]"
- india_events.77.d: "In violation of [ROOT.GetAdjective] sovereignty over the region, [FROM.GetName] have refused to return [897.GetName] and have made clear their intention to maintain their occupation of it. It seems that it is now time to either back our words with force, or surrender the region to their permanent occupation."
- india_events.77.a: "It seems force is the only option left."
- india_events.77.b: "It is not worth fighting a war for such a minor dispute."
+ india_events.77.t: "[FROM.GetNameDefCap] отклоняет требования вернуть [897.GetName]"
+ india_events.77.d: "Нарушая суверенитет [ROOT.GetAdjective] над регионом, [FROM.GetName] отказались вернуть [897.GetName] и ясно заявили о своём намерении сохранить его под своей оккупацией. Похоже, пришло время либо подкрепить свои слова силой, либо передать регион под их постоянную оккупацию."
+ india_events.77.a: "Похоже, что сила — единственный оставшийся вариант."
+ india_events.77.b: "Не стоит начинать войну из-за такого незначительного спора."
 
- india_events.80.t: "[From.GetNameDefCap] Demands Our Burmese Districts"
- india_events.80.d: "The cursed [From.GetAdjective] government is demanding the return of the Burmese territory we 'pacified' during the Raj's collapse. This is a shameful display of bad manners!"
- india_events.80.a: "It's no use fighting over these useless provinces."
- india_events.80.b: "We know of no 'Burmese' districts; this is Siam - one and indivisible!"
- india_events.80.c: "Rally our allies to our defence!"
- india_events.80.e: "Rally our overlord to our defence!"
+ india_events.80.t: "[From.GetNameDefCap] требует наши бирманские округа"
+ india_events.80.d: "Проклятое [From.GetAdjective]ое правительство требует вернуть бирманские территории, которые мы \"умиротворили\" во время краха Раджа. Это позорное проявление дурного тона!"
+ india_events.80.a: "Нет смысла сражаться за эти бесполезные провинции."
+ india_events.80.b: "Мы не знаем никаких \"бирманских\" округов, это Сиам — единый и неделимый!"
+ india_events.80.c: "Соберите наших союзников на нашу защиту!"
+ india_events.80.e: "Призовите нашего повелителя на нашу защиту!"
 
- india_events.81.t: "[From.GetNameDefCap] Submits"
- india_events.81.d: "The [From.GetAdjective] government has wisely caved to our demands and returned all occupied Burmese territory."
- india_events.81.a: "A wise move."
+ india_events.81.t: "[From.GetNameDefCap] подчиняется"
+ india_events.81.d: "[From.GetAdjective]ое правительство мудро уступило нашим требованиям и вернуло все оккупированные территории Бирмы."
+ india_events.81.a: "Мудрое решение."
 
- india_events.82.t: "Our Demands for [From.GetAdjective] Burma are Refused"
- india_events.82.d: "The very reasonable demands presented by our envoy to the [From.GetAdjective] government have been completely rejected! We now have to choose whether or not to force our claims through by military might or suffer a diplomatic defeat, both domestically and internationally. The eyes of the entire country are upon our cabinet!"
- india_events.82.a: "Then we shall liberate the Malay Peninsula by force!"
- india_events.82.b: "Swallow our pride and renege on our claims."
+ india_events.82.t: "Наши требования по Бирме отклонены"
+ india_events.82.d: "Весьма разумные требования, выдвинутые нашим посланником [From.GetAdjective]ому правительству, были полностью отвергнуты! Теперь нам предстоит выбрать: либо проталкивать наши требования военной силой, либо потерпеть дипломатическое поражение как внутри страны, так и на международной арене. Взоры всей страны устремлены на наш кабинет!"
+ india_events.82.a: "Тогда мы силой освободим Малайский полуостров!"
+ india_events.82.b: "Проглотим свою гордость и откажемся от своих притязаний."
 
- india_events.83.t: "[demand_country.GetNameDefCap] Menaces [From.GetNameDef]"
- india_events.83.d: "A resurgent [demand_country.GetAdjective] government is pushing for a revision of the border between their Burmese provinces and those of our [From.GetAdjective] allies. This is a difficult situation given the fact that the areas occupied by [From.GetNameDef] were taken by force, but it wouldn't be cricket to abandon our allies in Indochina..."
- india_events.83.a: "Declare our solidarity with our allies in Bangkok!"
- india_events.83.b: "Pressure the Siamese to cede the disputed districts."
+ india_events.83.t: "[demand_country.GetNameDefCap] угрожает [From.GetNameDef]"
+ india_events.83.d: "Возрождающееся [demand_country.GetAdjective]ое правительство настаивает на пересмотре границы между своими бирманскими провинциями и провинциями наших [From.GetAdjective]их союзников. Ситуация сложная, учитывая, что территории, оккупированные [From.GetNameDef], были взяты силой, но было бы нечестно бросить наших союзников в Индокитае..."
+ india_events.83.a: "Выражаем солидарность с нашими союзниками в Бангкоке!"
+ india_events.83.b: "Оказать давление на сиамцев, чтобы они уступили спорные районы."
 
- india_events.84.t: "[From.GetNameDefCap] Defends [SIA.GetNameDef]"
- india_events.84.d: "Curses! The cowardly Siamese have hidden under the skirts of their [From.GetAdjective] allies. What we thought had been a simple revision of an illegal occupation has turned into an international conflict! This might be a bit more than we asked for, but the repercussions of giving up our claims would be disastrous as well."
- india_events.84.a: "Then we shall liberate the Malay Peninsula by force!"
- india_events.84.b: "Such a war would only bring chaos to all of Asia..."
+ india_events.84.t: "[From.GetNameDefCap] встали на защиту [SIA.GetNameDef]"
+ india_events.84.d: "Проклятия! Трусливые сиамцы спрятались под юбками своих [From.GetAdjective]их союзников. То, что мы считали простым пересмотром незаконной оккупации, превратилось в международный конфликт! Возможно, это немного больше, чем мы просили, но последствия отказа от наших претензий тоже были бы катастрофическими."
+ india_events.84.a: "Тогда мы силой освободим Малайский полуостров!"
+ india_events.84.b: "Такая война лишь принесет хаос во всю Азию..."
 
- india_events.85.t: "[From.GetNameDefCap] Has Betrayed Us!"
- india_events.85.d: "The [From.GetAdjective] government has sent a message saying they have no intention of defending us from [demand_country.GetNameDef]'s demands, considering that we acquired the territory by force to begin with. They sternly suggest we return the Burmese lands as requested."
- india_events.85.a: "Then we shall fight these aggressors on our own!"
- india_events.85.b: "Cede the disputed territories."
+ india_events.85.t: "[From.GetNameDefCap] предали нас!"
+ india_events.85.d: "[From.GetAdjective]ое правительство отправило сообщение, в котором говорится, что они не намерены защищать нас от требований [demand_country.GetNameDef], учитывая, что мы изначально получили эту территорию силой. Они настоятельно предлагают нам вернуть бирманские земли, как мы и просили."
+ india_events.85.a: "Тогда мы будем бороться с этими агрессорами самостоятельно!"
+ india_events.85.b: "Отдайте спорные территории."
 
 ### News Events ###
- india_events.100.RAJ_title: "Victory of the Dominion"
- india_events.100.PRF_title: "Victory of the Federation"
- india_events.100.HND_title: "Victory of the Bharatiya People's Republic"
- india_events.100.Bombay_title: "[PRF.GetNameDefCap] Accedes to the Dominion"
- india_events.100.RAJ_desc: "Since the end of the Weltkrieg, the Indian sub-continent has been split into three sides: the loyalist remnants of the British Raj, the socialists of the Indian National Congress, and the reactionary Indian princes who rejected both sides.\n\nWith the dust having finally settled, the loyalists have proven triumphant and the Dominion of India now rules unopposed over the region, setting itself up to become a pre-eminent world power once it recovers from the devastation of its civil war."
- india_events.100.PRF_desc: "Since the end of the Weltkrieg, the Indian sub-continent has been split into three sides: the loyalist remnants of the British Raj, the socialists of the Indian National Congress, and the reactionary Indian princes who rejected both sides.\n\nWith the dust having finally settled, the reactionaries have proven triumphant and the All-India Federation now rules unopposed over the region, setting the nation up to become a pre-eminent world power once it recovers from the devastation of the civil war."
- india_events.100.HND_desc: "Since the end of the Weltkrieg, the Indian sub-continent has been split into three sides: the loyalist remnants of the British Raj, the socialists of the Indian National Congress, and the reactionary Indian princes who rejected both sides.\n\nWith the dust having finally settled, the socialists have proven triumphant and the Bharatiya People's Republic now rules unopposed over the region, setting itself up to become a pre-eminent world power once it recovers from the devastation of its civil war."
- india_events.100.Bombay_desc: "Since the end of the Weltkrieg, the Indian sub-continent has been split into three sides: the loyalist remnants of the British Raj, the socialists of the Indian National Congress, and the reactionary Indian princes who rejected both sides.\n\nWith the fall of the socialist Republic, many expected further conflict to break out between the two signatories of the \"Bombay Pact\" alliance over the subcontinent's future. In a surprising turn of events, however, [PRF.GetNameDef] has agreed to peacefully accede to the Dominion, ending a decade of conflict with words rather than bullets. The Dominion of India now rules unopposed over the region, setting itself up to become a pre-eminent world power once it recovers from the devastation of its civil war."
- india_events.100.RAJ_option: "Is the Raj at it again?"
- india_events.100.PRF_option: "The rule of the princes shall never end."
- india_events.100.HND_option: "A liberation from below."
- india_events.100.Bombay_option: "Civil war and civil discourse, India has it all."
+ india_events.100.RAJ_title: "Победа Доминиона"
+ india_events.100.PRF_title: "Победа Федерации"
+ india_events.100.HND_title: "Победа Бхаратии"
+ india_events.100.Bombay_title: "[PRF.GetNameDefCap] присоединяется к доминиону"
+ india_events.100.RAJ_desc: "После окончания Великой войны индийский субконтинент был расколот на три части: остатки лоялистов британского владычества, социалистов из Индийского национального конгресса и реакционных индийских князей, которые отвергли обе стороны.\n\nКогда пыль наконец улеглась, лоялисты одержали победу, и теперь Индия безраздельно правит регионом, готовясь стать выдающейся мировой державой, как только оправится от разрушений гражданской войны."
+ india_events.100.PRF_desc: "После окончания Великой войны индийский субконтинент был расколот на три части: остатки лоялистов британского владычества, социалистов из Индийского национального конгресса и реакционных индийских князей, которые отвергли обе стороны.\n\nКогда пыль наконец улеглась, реакционеры одержали победу, и Всеиндийская федерация теперь беспрепятственно правит регионом, что позволяет стране стать выдающейся мировой державой, как только она оправится от разрушений гражданской войны."
+ india_events.100.HND_desc: "После окончания Великой войны индийский субконтинент был расколот на три части: остатки лоялистов британского владычества, социалистов из Индийского национального конгресса и реакционных индийских князей, которые отвергли обе стороны.\n\nКогда пыль наконец улеглась, социалисты одержали победу, и Народная Республика Бхаратия теперь беспрепятственно правит регионом, готовясь стать выдающейся мировой державой, как только оправится от разрушений гражданской войны."
+ india_events.100.Bombay_desc: "После окончания Великой войны индийский субконтинент был расколот на три части: остатки лоялистов британского владычества, социалистов из Индийского национального конгресса и реакционных индийских князей, которые отвергли обе стороны.\n\nС падением Социалистической Республики многие ожидали, что между двумя сторонами, подписавшими \"Бомбейский пакт\", разгорится дальнейший конфликт по поводу будущего субконтинента. Однако, при неожиданном повороте событий, [PRF.GetNameDef] согласилась мирно присоединиться к Доминиону, положив конец десятилетнему конфликту словами, а не пулями. В настоящее время Индия безраздельно правит регионом, готовясь стать ведущей мировой державой, как только оправится от разрушений гражданской войны."
+ india_events.100.RAJ_option: "Опять Радж победил?"
+ india_events.100.PRF_option: "Правление радж никогда не закончится."
+ india_events.100.HND_option: "Освобождение снизу."
+ india_events.100.Bombay_option: "Гражданская война и гражданский раскол - в Индии есть все это."
 
- india_events.101.t: "The Kaisar-i-Hind"
- india_events.101.d: "The ruling Nizam of the All-India Federation, Osman Ali Khan, has today proclaimed himself the true successor to the mantle of Kaisar-i-Hind - a title previously borne only by the Mughal and British emperors of the sub-continent.\n\nFollowing his coronation at a grand ceremony in Delhi, the new emperor triumphantly declared that the nation had at last reclaimed its rightful place in the world, and that he would guide it to a great new future. While cheered on by his supporters, many see this as little more than a pretentious act by Osman to further his own ego."
- india_events.101.a: "So pretentious!"
+ india_events.101.t: "Кайсар-и-Хинд"
+ india_events.101.d: "Правящий низам Всеиндийской федерации Осман Али Хан сегодня провозгласил себя истинным наследником титула Кайсар-и-Хинд - титула, который ранее носили только могольские и британские императоры субконтинента.\n\nПосле своей коронации на торжественной церемонии в Дели Новый император торжественно провозгласил, что нация наконец-то вернула себе принадлежащее ей по праву место в мире и что он поведет ее к великому новому будущему. Несмотря на поддержку со стороны его сторонников, многие видят в этом не более чем претенциозный поступок Османа, направленный на тешение собственного эго."
+ india_events.101.a: "Такая претенциозность!"
 
- india_events.102.chairman: "[HND.GetLeader] Elected Bharatiya Chairman"
- india_events.102.chairwoman: "[HND.GetLeader] Elected Bharatiya Chairwoman"
- india_events.102.intro: "In the aftermath of reunification, Bharatiya Chairman Abul Kasem Fazlul Huq announced his retirement from the position, hoping to have his deputy Jawaharlal Nehru succeed him. Soon after, years of factional politicking within the Indian National Congress finally reached its climax, with the leaders of the two other primary factions in the party challenging Nehru's bid."
- india_events.102.bose: "$india_events.102.intro$\n\nAfter weeks of a heated election campaign, the INC's membership have rejected Nehru's bid, and have instead selected Maximist leader Subhas Chandra Bose as their new chairman. Bose's election has been interpreted as a clear signal that even with the nation now united, the INC has no intentions of reining back in its political militarism, with the new government expected to significantly expand upon it."
- india_events.102.nehru: "$india_events.102.intro$\n\nAfter weeks of a heated election campaign, Nehru has succeeded in seeing off his challengers, with the party selecting him as their new Chairman. Nehru's election has been interpreted as a clear signal that the Republic will reaffirm its commitment to the global socialist cause, and continue down an orthodox syndicalist direction."
- india_events.102.naidu: "$india_events.102.intro$\n\nAfter weeks of a heated election campaign, the INC's membership have rejected Nehru's bid, and have instead selected Agrarian leader Sarojini Naidu as their new chairwoman. Naidu's election has been interpreted as a clear signal of the INC's desire to return to Gandhian thought and homegrown ideological beliefs, harmonised together with socialist ideals."
- india_events.102.a: "Interesting."
+ india_events.102.chairman: "В Бхаратии выбран Председатель"
+ india_events.102.chairwoman: "В Бхаратии выбрана Председательница"
+ india_events.102.intro: "После воссоединения председатель Бхаратии Абуль Касем Фазлул Хак объявил о своем уходе с этого поста, надеясь, что его сменит его заместитель Джавахарлал Неру. Вскоре после этого многолетняя фракционная политическая борьба в Индийском национальном конгрессе, наконец, достигла своего апогея, когда лидеры двух других основных фракций партии оспорили кандидатуру Неру."
+ india_events.102.bose: "$india_events.102.intro$\n\nПосле нескольких недель напряженной избирательной кампании члены ИНК отклонили предложение Неру и вместо него выбрали своим новым председателем лидера максимистов Субхаса Чандру Бозе. Избрание Боуза было истолковано как четкий сигнал о том, что, несмотря на то, что нация теперь объединена, ИНК не намерена возвращаться к своему политическому милитаризму, и ожидается, что новое правительство значительно расширит его влияние."
+ india_events.102.nehru: "$india_events.102.intro$\n\nПосле нескольких недель напряженной избирательной кампании Неру удалось победить своих соперников, и партия выбрала его своим новым председателем. Избрание Неру было истолковано как четкий сигнал о том, что республика подтвердит свою приверженность глобальному делу социализма и продолжит следовать ортодоксальному синдикалистскому курсу."
+ india_events.102.naidu: "$india_events.102.intro$\n\nПосле нескольких недель напряженной избирательной кампании члены ИНК отклонили кандидатуру Неру и вместо этого выбрали своим новым председателем лидера аграрной партии Сароджини Найду. Избрание Найду было истолковано как ясный сигнал о желании ИНК вернуться к идеям Ганди и доморощенным идеологическим убеждениям, гармонизированным с социалистическими идеалами."
+ india_events.102.a: "Интересненько."
 
- india_events.103.t: "Indian Civil War Resumes"
- india_events.103.d: "The Indian Civil War, which erupted in 1925 as the British Empire unravelled, culminated in a ceasefire in 1927 that left the subcontinent in deadlock. Now, it seems that the ceasefire has finally been broken, with hostilities resuming between the socialist Bharatiya People's Republic, and the anti-socialist signatories of the Bombay Pact, the Dominion of India and [PRF.GetName].\n\nThe conflict encompasses India's hundreds of millions of people, with each combatant having foreign backers. Regardless of its outcome, it is certain that the reignited conflict will be one of the twentieth century's deadliest."
- india_events.103.a: "Another civil war?" #General
- india_events.103.b: "We must assist the Dominion!" #Entente
- india_events.103.c: "This shall be a death blow to colonialism!" #Socialist
+ india_events.103.t: "Возобновление Гражданской войны в Индии"
+ india_events.103.d: "Гражданская война в Индии, разразившаяся в 1925 году, когда распалась Британская империя, завершилась перемирием в 1927 году, которое поставило субконтинент в тупик. Теперь, похоже, перемирие, наконец, нарушено, и военные действия возобновляются между социалистической Народной Республикой Бхаратия и антисоциалистическими сторонами, подписавшими Бомбейский пакт, Доминионом Индия и [PRF.GetName].\n\nКонфликт охватывает сотни миллионов жителей Индии, и у каждого участника боевых действий есть иностранные покровители. Независимо от его исхода, гражданская война в Индии, несомненно, станет одной из самых смертоносных в двадцатом веке."
+ india_events.103.a: "Еще одна война?"
+ india_events.103.b: "Мы обяханы помочь Доминиону!"
+ india_events.103.c: "Это будет смертельный удар по колониализму!"

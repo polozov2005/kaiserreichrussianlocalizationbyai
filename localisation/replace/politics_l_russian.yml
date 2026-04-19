@@ -4,14 +4,14 @@
 ########################################################
 
 #added colon
- POLITICS_NEXT_ELECTION: "Следующие выборы: $DATE|H$"
+ POLITICS_NEXT_ELECTION: "Следующие выборы: $DATE|H$" #NT!
 
 #changed to "country"
- POLITICS_LEADER: "§TЛидер страны: $LEADER|H$§!"
+ POLITICS_LEADER: "§TЛидер страны: $LEADER|H$§!" #NT!
 
 #changed to British spelling
- POLITICS_IDEA_CANCEL_DESC: "Будет отменено, если:"
+ POLITICS_IDEA_CANCEL_DESC: "Будет отменено, если:" #NT!
 
 #added player warning
- RELEASE_NATION_TITLE: "ПРЕДУПРЕЖДЕНИЕ"
- RELEASE_NATION_DESC: "Вы хотите освободить $COUNTRY|H$ в $LIST|H$?\n\n§RЭто не поддерживается в Kaiserreich и вызовет ошибки, делайте на свой страх и риск!§!"
+ RELEASE_NATION_TITLE: "ПРЕДУПРЕЖДЕНИЕ" #NT!
+ RELEASE_NATION_DESC: "Вы хотите освободить $COUNTRY|H$ в $LIST|H$?\n\n§RЭто не поддерживается в Кайзеррайхе и приведет к ошибкам, делайте это на свой страх и риск!§!" #NT!

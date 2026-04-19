@@ -1,44 +1,44 @@
 ﻿l_russian:
 
 ### Country Names ###
- GNB: "Guinea-Bissau"
- GNB_ADJ: "Bissau-Guinean"
- GNB_DEF: "Guinea-Bissau"
+ GNB: "Гебайа"
+ GNB_ADJ: "Гебаййск"
+ GNB_DEF: "Гебайа"
 
  GNB_colonial: "Portuguese Guinea"
  GNB_colonial_ADJ: "Portuguese-Guinean"
  GNB_colonial_DEF: "Portuguese Guinea"
 
 ### Parties ###
- GNB_totalist_party: "UAT"
- GNB_totalist_party_long: "União Africana Trabalhista"
+ GNB_totalist_party: "САР"
+ GNB_totalist_party_long: "Союз африканских рабочих"
 
- GNB_syndicalist_party: "PSG"
- GNB_syndicalist_party_long: "Partido Socialista Guinéense"
+ GNB_syndicalist_party: "СПГ"
+ GNB_syndicalist_party_long: "Социалистическая партия Гвинеи"
 
- GNB_radical_socialist_party: "PSG"
- GNB_radical_socialist_party_long: "Partido Socialista Guinéense"
+ GNB_radical_socialist_party: "СПГ"
+ GNB_radical_socialist_party_long: "Социалистическая партия Гвинеи"
 
- GNB_social_democrat_party: "PNA"
- GNB_social_democrat_party_long: "Partido Nacional Africano"
+ GNB_social_democrat_party: "НАП"
+ GNB_social_democrat_party_long: "Национальная африканская партия"
 
- GNB_social_liberal_party: "LG"
- GNB_social_liberal_party_long: "Liga Guinéense"
+ GNB_social_liberal_party: "ГЛ"
+ GNB_social_liberal_party_long: "Гвинейская лига"
 
- GNB_market_liberal_party: "PRG"
- GNB_market_liberal_party_long: "Partido Reformista da Guiné"
+ GNB_market_liberal_party: "ПРГ"
+ GNB_market_liberal_party_long: "Партия реформистов Гвинеи"
 
- GNB_social_conservative_party: "GAG"
- GNB_social_conservative_party_long: "Grêmio Africano de Guiné"
+ GNB_social_conservative_party: "АГГ"
+ GNB_social_conservative_party_long: "Африканская гильдия Гвинеи"
 
- GNB_authoritarian_democrat_party: "JPD"
- GNB_authoritarian_democrat_party_long: "Junta Provisória Democrática"
+ GNB_authoritarian_democrat_party: "ВДХ"
+ GNB_authoritarian_democrat_party_long: "Временная демократическая хунта"
 
- GNB_paternal_autocrat_party: "COGL"
- GNB_paternal_autocrat_party_long: "Comitê de Oficiais da Guiné Livre"
+ GNB_paternal_autocrat_party: "КОСГ"
+ GNB_paternal_autocrat_party_long: "Комитет офицеров Свободной Гвинеи"
 
- GNB_national_populist_party: "JNL"
- GNB_national_populist_party_long: "Junta Nacional de Libertação"
+ GNB_national_populist_party: "ХНО"
+ GNB_national_populist_party_long: "Хунта национального освобождения"
 
 ### Characters ###
  GNB_inacio_pedro_gomes: "Inácio Pedro Gomes"

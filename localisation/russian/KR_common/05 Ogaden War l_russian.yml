@@ -1,39 +1,39 @@
 ﻿l_russian:
 
 ### MISSIONS ###
- ETH_ogaden_war_attack_phase: "Ogaden War: Attack Phase"
- ETH_ogaden_war_defence_phase: "Ogaden War: Defence Phase"
+ ETH_ogaden_war_attack_phase: "Огаденская война: Фаза наступления"
+ ETH_ogaden_war_defence_phase: "Огаденская война: Фаза обороны"
 
 ### EVENTS ###
- ogaden_war_events.1.t: "Attack on Ogaden"
- ogaden_war_events.1.desc.ETH: "It is high time we ended the illegal occupation of the borderlands and freed them from Somali domination once and for all. Our troops are massing on the border, and while the Somali forces likely expect little more than another round of light skirmishes, this time we are coming at them with full force."
- ogaden_war_events.1.desc.SOM: "In the last war, the Ethiopians pushed us from our positions, and they probably delude themselves into thinking that their victory is to last. It is anything but, and our forces are more than ready to show them who is the true king of the Horn!"
- ogaden_war_events.1.a: "Forward!"
+ ogaden_war_events.1.t: "Нападение на Огаден" #NT!
+ ogaden_war_events.1.desc.ETH: "Настало время положить конец незаконной оккупации приграничных территорий и раз и навсегда освободить их от сомалийского господства. Наши войска сосредотачиваются на границе, и хотя сомалийские силы, вероятно, ожидают не более чем еще одного раунда легких перестрелок, на этот раз мы идем против них в полную силу." #NT!
+ ogaden_war_events.1.desc.SOM: "В последней войне эфиопы вытеснили нас с наших позиций и, вероятно, обманывают себя, думая, что их победа будет длительной. Это совсем не так, и наши силы более чем готовы показать им, кто настоящий король Рога!" #NT!
+ ogaden_war_events.1.a: "Вперед!" #NT!
 
- ogaden_war_events.2.t: "Tactical Victory in Ogaden"
- ogaden_war_events.2.desc.ETH: "The latest reports from the front are in, and they tell of our triumph! The Somali forces are scattered and retreating, and our forces have begun to secure their positions to ensure it remains ours for good. We have regained control of Ogaden and the coming months will prove that the territory will remain in our hands."
- ogaden_war_events.2.desc.SOM: "Our advance has forced the Ethiopians from their positions, and our troops have liberated the many scattered towns of Ogaden. While the enemy is doubtlessly preparing a counterattack at the moment, it is our duty to hold and show true Somali resolve."
- ogaden_war_events.2.a: "This is a testament to the greatness of our people!"
+ ogaden_war_events.2.t: "Тактическая победа в Огадене" #NT!
+ ogaden_war_events.2.desc.ETH: "Пришли последние сводки с фронта, и они рассказывают о нашем триумфе! Сомалийские силы рассеяны и отступают, а наши силы начали закреплять свои позиции, чтобы гарантировать, что они навсегда останутся нашими. Мы восстановили контроль над Огаденом, и ближайшие месяцы докажут, что эта территория останется в наших руках." #NT!
+ ogaden_war_events.2.desc.SOM: "Наше наступление вынудило эфиопов покинуть свои позиции, и наши войска освободили многие разрозненные города Огадена. Хотя противник, несомненно, сейчас готовит контратаку, наш долг — выстоять и продемонстрировать истинную сомалийскую решимость." #NT!
+ ogaden_war_events.2.a: "Это свидетельство величия нашего народа!" #NT!
 
- ogaden_war_events.3.t: "Victory! Ogaden is [ROOT.GetAdjective]"
- ogaden_war_events.3.desc.ETH: "In a beautiful display of Ethiopian might, the forces of the Empire have vanquished the Somali foes. We have once and for all shown that we are just as capable of defending our borders as the Imperial Powers of Europe."
- ogaden_war_events.3.desc.SOM: "The Ethiopian forces have met a decisive defeat and given up any further hostilities over Ogaden. There is no question that this will be the end of it for good."
- ogaden_war_events.3.a: "Wonderful!"
- ogaden_war_events.3.b: "Why end it here?"
+ ogaden_war_events.3.t: "Победа! Огаден [ROOT.GetAdjective]" #NT!
+ ogaden_war_events.3.desc.ETH: "В прекрасной демонстрации мощи Эфиопии силы Империи победили сомалийских врагов. Мы раз и навсегда показали, что способны защитить наши границы так же, как и имперские державы Европы." #NT!
+ ogaden_war_events.3.desc.SOM: "Эфиопские силы потерпели решающее поражение и отказались от дальнейших боевых действий из-за Огадена. Нет никаких сомнений в том, что на этом все закончится навсегда." #NT!
+ ogaden_war_events.3.a: "Замечательный!" #NT!
+ ogaden_war_events.3.b: "Зачем заканчивать это здесь?" #NT!
 
- ogaden_war_events.4.t: "Ogaden Under Attack"
- ogaden_war_events.4.desc.ETH: "In a bold move, the daring Somalians have attacked us in an attempt to reclaim what they consider their stolen land. We have beaten them once, we will beat them again!"
- ogaden_war_events.4.desc.SOM: "The Ethiopians are launching another expedition against us! It's as if they're trying to relive the glory days of the 1860s!"
- ogaden_war_events.4.a: "Hold the Line!"
+ ogaden_war_events.4.t: "Огаден под атакой" #NT!
+ ogaden_war_events.4.desc.ETH: "Смелые сомалийцы совершили смелый шаг и напали на нас, пытаясь вернуть то, что они считают своей украденной землей. Мы победили их один раз, мы победим их еще раз!" #NT!
+ ogaden_war_events.4.desc.SOM: "Эфиопы отправляют против нас очередную экспедицию! Они как будто пытаются пережить славные дни 1860-х годов!" #NT!
+ ogaden_war_events.4.a: "Не вешайте трубку!" #NT!
 
- ogaden_war_events.5.t: "[ROOT.GetAdjective] Forces on the Retreat"
- ogaden_war_events.5.desc.ETH: "Our forces have been forced to abandon their positions, but we are perfectly capable of recovering from this setback."
- ogaden_war_events.5.desc.SOM: "The Ethiopians have made a bold move, pushing us out of the disputed territories. This is not a defeat, but a strategic retreat. It is clear that it is us who will come out on top in the end."
- ogaden_war_events.5.a: "Muster a Counterattack!"
+ ogaden_war_events.5.t: "[ROOT.GetAdjective] Войска отступают" #NT!
+ ogaden_war_events.5.desc.ETH: "Наши силы были вынуждены оставить свои позиции, но мы вполне способны оправиться от этой неудачи." #NT!
+ ogaden_war_events.5.desc.SOM: "Эфиопы сделали смелый шаг, вытеснив нас со спорных территорий. Это не поражение, а стратегическое отступление. Понятно, что в итоге победителем одержим именно мы." #NT!
+ ogaden_war_events.5.a: "Соберите контратаку!" #NT!
 
- ogaden_war_events.6.t: "Ogaden Under [FROM.GetAdjective] Control"
- ogaden_war_events.6.desc.ETH: "It has become increasingly clear that we have underestimated Somali readiness to defend Ogaden. Our ill-prepared and costly offensive must come to an end, its goals unaccomplished. May future attempts prove more successful."
- ogaden_war_events.6.desc.SOM: "The Ethiopians are holding steady, and attempts to dislodge them have proven unsuccessful. It is time we admit to ourselves that this war is lost."
- ogaden_war_events.6.desc.war: "Not only have we been unable to stop the enemy forces, they are dead-set on advancing deeper into our territory."
- ogaden_war_events.6.a: "We will return!"
- ogaden_war_events.6.b: "Defend at all costs!"
+ ogaden_war_events.6.t: "Огаден под контролем [FROM.GetAdjective]" #NT!
+ ogaden_war_events.6.desc.ETH: "Становится все более очевидным, что мы недооценили готовность Сомали защитить Огаден. Наше плохо подготовленное и дорогостоящее наступление должно закончиться, а его цели не достигнуты. Пусть будущие попытки окажутся более успешными." #NT!
+ ogaden_war_events.6.desc.SOM: "Эфиопы держатся стойко, и попытки вытеснить их оказались безуспешными. Пришло время признать себе, что эта война проиграна." #NT!
+ ogaden_war_events.6.desc.war: "Мы не только не смогли остановить вражеские силы, они решительно настроены продвигаться глубже в нашу территорию." #NT!
+ ogaden_war_events.6.a: "Мы вернемся!" #NT!
+ ogaden_war_events.6.b: "Защищайтесь любой ценой!" #NT!

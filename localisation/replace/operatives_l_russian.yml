@@ -4,14 +4,14 @@
 ########################################################
 
 #fixed capitalisations, changed to British spelling
- upgrade_passive_defense: "Пассивная оборона"
- upgrade_anti_partisan: "Борьба с партизанами"
- upgrade_blueprint_stealing: "Кража чертежей"
- upgrade_portable_radios: "Портативные радиостанции"
- upgrade_plastic_explosives: "Пластичная взрывчатка"
- upgrade_suicide_pills: "Таблетки для самоубийства"
- upgrade_training_centers: "Локальные учебные центры"
- upgrade_commando_training: "Подготовка коммандос"
+ upgrade_passive_defense: "Пассивная защита" #NT!
+ upgrade_anti_partisan: "антипартизанский" #NT!
+ upgrade_blueprint_stealing: "Кража чертежей" #NT!
+ upgrade_portable_radios: "Портативные радиостанции" #NT!
+ upgrade_plastic_explosives: "Пластиковая взрывчатка" #NT!
+ upgrade_suicide_pills: "Таблетки для самоубийства" #NT!
+ upgrade_training_centers: "Локализованные учебные центры" #NT!
+ upgrade_commando_training: "Обучение коммандос" #NT!
 
 #edited to reference KR version of spymaster trait
- CANNOT_RECRUITE_OPERATIVE_NO_SLOT_DESC: "Первый слот можно получить, построив разведывательное агентство. Остальные слоты станут доступны после 5-го улучшения или при назначении советника §H$KR_head_of_intelligence$§!.\nКак глава разведки альянса, вы разблокируете дополнительные слоты оперативников за счёт большего количества стран в вашем альянсе. Марионетки или страны с очень низким количеством заводов не вносят вклад в увеличение слотов оперативников."
+ CANNOT_RECRUITE_OPERATIVE_NO_SLOT_DESC: "Вы можете получить первый слот, построив разведывательное агентство. Остальные слоты станут доступны после 5-го обновления или при присвоении §H$KR_head_of_intelligence$§! советник.\nЕсли вы являетесь главой шпионской сети фракции, то при наличии большего количества стран в вашей фракции открывается больше оперативных слотов. Марионетки или страны с очень низким количеством заводов не способствуют увеличению количества оперативных слотов." #NT!
