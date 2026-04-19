@@ -6,64 +6,78 @@ def check_localisation_cyrillic(folder='localisation', output_file='missing_cyri
         print(f"Директория '{folder}' не найдена.")
         return
 
-    # Паттерн для извлечения текста внутри одинарных или двойных кавычек
     quote_pattern = re.compile(r'["\']([^"\']*?)["\']')
     file_log = {}
 
     for root, dirs, files in os.walk(folder):
         dirs.sort()
         for filename in sorted(files):
-            # Проверяем расширение и наличие l_russian в имени файла
             if not filename.endswith('.yml') or 'l_russian' not in filename:
                 continue
 
             filepath = os.path.join(root, filename)
-            entries = []
+            lines_to_log = []
 
             try:
                 with open(filepath, 'r', encoding='utf-8', errors='ignore') as f:
                     for line_num, line in enumerate(f, start=1):
+                        # Пропускаем комментарии
+                        if line.lstrip().startswith('#'):
+                            continue
+                        # Строка должна содержать двоеточие
+                        if ':' not in line:
+                            continue
+
+                        original_line = line.rstrip('\n\r')
                         quoted_contents = quote_pattern.findall(line)
                         valid_contents = []
 
                         for content in quoted_contents:
                             stripped = content.strip()
-                            
-                            # Пропускаем, если в кавычках нет символов
                             if not stripped:
                                 continue
-                            
-                            # Пропускаем, если содержимое полностью окружено $ или []
-                            if (stripped.startswith('$') and stripped.endswith('$')) or \
-                               (stripped.startswith('[') and stripped.endswith(']')):
-                                continue
-                                
-                            valid_contents.append(content)
 
-                        # Если после фильтрации не осталось контента, строка игнорируется
+                            # Очищаем от маркеров локализации HOI4
+                            temp = stripped
+                            temp = re.sub(r'\$[^$]*\$', '', temp)          # $VAR$
+                            temp = re.sub(r'\[[^\]]*\]', '', temp)         # [KEY]
+                            temp = re.sub(r'£[A-Za-z_]+£?', '', temp)      # £icon£
+                            temp = re.sub(r'§[^§]*§!?', '', temp)          # §color§!
+                            # Оставляем только буквы
+                            temp = re.sub(r'[^A-Za-zА-Яа-яЁё]', '', temp)
+
+                            # Если после очистки не осталось букв, строка пропускается
+                            if not temp:
+                                continue
+
+                            valid_contents.append(stripped)
+
                         if not valid_contents:
                             continue
 
-                        # Проверяем наличие кириллицы только в отфильтрованном содержимом
+                        # Проверяем наличие кириллицы в отфильтрованном содержимом
                         has_cyrillic = any('\u0400' <= char <= '\u04FF' for content in valid_contents for char in content)
 
-                        # Если кириллицы нет, запоминаем номер строки и оригинал
                         if not has_cyrillic:
-                            entries.append((line_num, line.rstrip('\n\r')))
+                            lines_to_log.append((line_num, original_line))
             except Exception as e:
                 print(f"Ошибка чтения файла {filepath}: {e}")
                 continue
 
-            if entries:
-                file_log[filepath] = entries
+            if lines_to_log:
+                file_log[filepath] = lines_to_log
 
-    # Запись результатов в файл UTF-8 без BOM
+    # Запись в UTF-8 без BOM
     with open(output_file, 'w', encoding='utf-8') as out:
-        for filepath, entries in file_log.items():
-            out.write(filepath + '\n')
-            for line_num, original_line in entries:
-                out.write(str(line_num) + '\n')
-                out.write(original_line + '\n')
+        first_block = True
+        for filepath, line_data in file_log.items():
+            if not first_block:
+                out.write('\n')
+            out.write(f"{filepath}\n")
+            for line_num, original_line in line_data:
+                out.write(f"{line_num}\n")
+                out.write(f"{original_line}\n")
+            first_block = False
 
     if file_log:
         print(f"Проверка завершена. Результаты сохранены в '{output_file}'")
