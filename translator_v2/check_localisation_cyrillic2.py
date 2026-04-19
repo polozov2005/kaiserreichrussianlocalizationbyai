@@ -6,7 +6,8 @@ def check_localisation_cyrillic(folder='localisation', output_file='missing_cyri
         print(f"Директория '{folder}' не найдена.")
         return
 
-    quote_pattern = re.compile(r'["\']([^"\']*?)["\']')
+    # Стандарт для PDX: текст всегда в двойных кавычках. Игнорируем апострофы внутри.
+    quote_pattern = re.compile(r'"([^"]*)"')
     file_log = {}
 
     for root, dirs, files in os.walk(folder):
@@ -21,8 +22,10 @@ def check_localisation_cyrillic(folder='localisation', output_file='missing_cyri
             try:
                 with open(filepath, 'r', encoding='utf-8', errors='ignore') as f:
                     for line_num, line in enumerate(f, start=1):
+                        # Пропускаем комментарии
                         if line.lstrip().startswith('#'):
                             continue
+                        # Строка должна содержать двоеточие
                         if ':' not in line:
                             continue
 
@@ -35,13 +38,19 @@ def check_localisation_cyrillic(folder='localisation', output_file='missing_cyri
                             if not stripped:
                                 continue
 
+                            # 1. Убираем литеральные переносы
                             temp = stripped.replace('\\n', '').replace('\\r', '')
-                            temp = re.sub(r'\$[^$]*\$', '', temp)
-                            temp = re.sub(r'\[[^\]]*\]', '', temp)
-                            temp = re.sub(r'£[A-Za-z_]+£?', '', temp)
-                            temp = re.sub(r'§[^§]*§!?', '', temp)
+                            # 2. Убираем переменные, скобки, иконки
+                            temp = re.sub(r'\$[^$]*\$', '', temp)          # $VAR$
+                            temp = re.sub(r'\[[^\]]*\]', '', temp)         # [KEY]
+                            temp = re.sub(r'£[A-Za-z_]+£?', '', temp)      # £icon£
+                            # 3. Убираем ВСЕ маркеры цвета § (самый надёжный способ для PDX)
+                            temp = temp.replace('§', '')
 
+                            # Оставляем только буквы (латиница + кириллица)
                             letters_only = re.sub(r'[^A-Za-zА-Яа-яЁё]', '', temp)
+
+                            # Если после очистки не осталось букв → пропускаем
                             if not letters_only:
                                 continue
 
@@ -50,10 +59,15 @@ def check_localisation_cyrillic(folder='localisation', output_file='missing_cyri
                         if not valid_contents:
                             continue
 
+                        # Проверяем наличие кириллицы в отфильтрованном содержимом
                         has_cyrillic = any('\u0400' <= char <= '\u04FF' for content in valid_contents for char in content)
 
-                        if not has_cyrillic:
-                            lines_to_log.append((line_num, original_line))
+                        # Явное условие: строки С кириллицей пропускаем, в лог попадают ТОЛЬКО строки БЕЗ кириллицы
+                        if has_cyrillic:
+                            continue
+
+                        lines_to_log.append((line_num, original_line))
+                        
             except Exception as e:
                 print(f"Ошибка чтения файла {filepath}: {e}")
                 continue
@@ -61,6 +75,7 @@ def check_localisation_cyrillic(folder='localisation', output_file='missing_cyri
             if lines_to_log:
                 file_log[filepath] = lines_to_log
 
+    # Запись в UTF-8 без BOM
     with open(output_file, 'w', encoding='utf-8') as out:
         first_block = True
         for filepath, line_data in file_log.items():
