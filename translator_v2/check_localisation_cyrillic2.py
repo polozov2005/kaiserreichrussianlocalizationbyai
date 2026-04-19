@@ -21,10 +21,8 @@ def check_localisation_cyrillic(folder='localisation', output_file='missing_cyri
             try:
                 with open(filepath, 'r', encoding='utf-8', errors='ignore') as f:
                     for line_num, line in enumerate(f, start=1):
-                        # Пропускаем комментарии
                         if line.lstrip().startswith('#'):
                             continue
-                        # Строка должна содержать двоеточие
                         if ':' not in line:
                             continue
 
@@ -37,15 +35,14 @@ def check_localisation_cyrillic(folder='localisation', output_file='missing_cyri
                             if not stripped:
                                 continue
 
-                            # Очищаем от переносов строк и маркеров локализации HOI4
-                            temp = stripped.replace('\n', '').replace('\r', '')
-                            temp = re.sub(r'\$[^$]*\$', '', temp)          # $VAR$
-                            temp = re.sub(r'\[[^\]]*\]', '', temp)         # [KEY]
-                            temp = re.sub(r'£[A-Za-z_]+£?', '', temp)      # £icon£
-                            temp = re.sub(r'§[^§]*§!?', '', temp)          # §color§!
+                            temp = stripped.replace('\\n', '').replace('\\r', '')
+                            temp = re.sub(r'\$[^$]*\$', '', temp)
+                            temp = re.sub(r'\[[^\]]*\]', '', temp)
+                            temp = re.sub(r'£[A-Za-z_]+£?', '', temp)
+                            temp = re.sub(r'§[^§]*§!?', '', temp)
 
-                            # Если после очистки не осталось букв ИЛИ остались только пробелы, строка пропускается
-                            if not temp.strip() or not re.sub(r'[^A-Za-zА-Яа-яЁё]', '', temp):
+                            letters_only = re.sub(r'[^A-Za-zА-Яа-яЁё]', '', temp)
+                            if not letters_only:
                                 continue
 
                             valid_contents.append(stripped)
@@ -53,7 +50,6 @@ def check_localisation_cyrillic(folder='localisation', output_file='missing_cyri
                         if not valid_contents:
                             continue
 
-                        # Проверяем наличие кириллицы в отфильтрованном содержимом
                         has_cyrillic = any('\u0400' <= char <= '\u04FF' for content in valid_contents for char in content)
 
                         if not has_cyrillic:
@@ -65,7 +61,6 @@ def check_localisation_cyrillic(folder='localisation', output_file='missing_cyri
             if lines_to_log:
                 file_log[filepath] = lines_to_log
 
-    # Запись в UTF-8 без BOM
     with open(output_file, 'w', encoding='utf-8') as out:
         first_block = True
         for filepath, line_data in file_log.items():
