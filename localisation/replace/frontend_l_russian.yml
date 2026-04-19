@@ -4,16 +4,16 @@
 ########################################################
 
 #changed to British spelling
- FE_COOP_LABEL: "Co-operative"
- FE_DIFFICULTY_HARD_TOOLTIP: "§L"Thirty years from now when you're sitting by your fireside with your grandson on your knee and he asks, 'What did you do in the great World War Two?' you won't have to cough and say, 'Well, your granddaddy shovelled shit in Louisiana.'"§!"
+ FE_COOP_LABEL: "Совместная игра"
+ FE_DIFFICULTY_HARD_TOOLTIP: "§L«Через тридцать лет, когда вы будете сидеть у камина с внуком на коленях, и он спросит: „Что ты делал во время великой Второй мировой войны?" — вам не придётся откашливаться и говорить: „Ну, твой дедушка разгребал навоз в Луизиане".»"§!"
 
 #removed "major"
- CUSTOM_DIFFICULTY_GROUP_NAME: "Nation Buffs"
+ CUSTOM_DIFFICULTY_GROUP_NAME: "Бонусы наций"
 
 #changed country names to match KR
- custom_diff_strong_ger: "£KR_game_rule_flag_GER  Strengthen the German Empire"
- custom_diff_strong_ita: "£KR_game_rule_flag_ITA  Strengthen the Republic of Italy"
- custom_diff_strong_fra: "£KR_game_rule_flag_FRA  Strengthen the Commune of France"
- custom_diff_strong_eng: "£KR_game_rule_flag_ENG  Strengthen the Union of Britain"
- custom_diff_strong_usa: "£KR_game_rule_flag_USA  Strengthen the United States"
- custom_diff_strong_jap: "£KR_game_rule_flag_JAP  Strengthen the Empire of Japan"
+ custom_diff_strong_ger: "£KR_game_rule_flag_GER  Усилить Германскую империю"
+ custom_diff_strong_ita: "£KR_game_rule_flag_ITA  Усилить Республику Италия"
+ custom_diff_strong_fra: "£KR_game_rule_flag_FRA  Усилить Коммуну Франции"
+ custom_diff_strong_eng: "£KR_game_rule_flag_ENG  Усилить Британский Союз"
+ custom_diff_strong_usa: "£KR_game_rule_flag_USA  Усилить Соединённые Штаты"
+ custom_diff_strong_jap: "£KR_game_rule_flag_JAP  Усилить Японскую империю"

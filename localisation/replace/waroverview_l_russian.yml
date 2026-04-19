@@ -4,7 +4,7 @@
 ########################################################
 
 #changed to British spelling
- WARSCORE_PROGRESSBAR: "§TWar is going $VAL|H0%$ in favour of $SIDE$§!"
+ WARSCORE_PROGRESSBAR: "§TВойна идёт с преимуществом $SIDE$ на $VAL|H0%$§!"
 
 #fixed typos
- CAN_SURRENDER_FACTION_MEMBERS: "They are currently fighting with their faction and will only surrender when all major faction members in this war have capitulated.\nMajor Faction members left to surrender:\n$MEMBER_LIST|Y$"
+ CAN_SURRENDER_FACTION_MEMBERS: "Они в настоящее время сражаются вместе со своим альянсом и капитулируют только тогда, когда все основные члены альянса в этой войне капитулируют.\nОставшиеся основные члены альянса, которые должны капитулировать:\n$MEMBER_LIST|Y$"

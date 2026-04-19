@@ -4,55 +4,55 @@
 ########################################################
 
 #missing line breaks
- EFFECT_ADD_VP: "Add $VALUE|H$£victory_points£ to $PROVINCE|H$.\n"
- EFFECT_SUBTRACT_VP: "Subtract $VALUE|H$£victory_points£ from $PROVINCE|H$.\n"
- EFFECT_SET_VP: "Set victory points of $PROVINCE|H$ to $VALUE|H$£victory_points.\n"
+ EFFECT_ADD_VP: "Добавить $VALUE|H$£victory_points£ в $PROVINCE|H$.\n"
+ EFFECT_SUBTRACT_VP: "Вычесть $VALUE|H$£victory_points£ из $PROVINCE|H$.\n"
+ EFFECT_SET_VP: "Установить очки победы в $PROVINCE|H$ на $VALUE|H$£victory_points.\n"
 
 #changed to British spelling
- EFFECT_EVERY_NEIGHBOR_STATE_STARTS: "Every neighbour state"
- EFFECT_EVERY_NEIGHBOR_COUNTRY_STARTS: "Every neighbour country"
+ EFFECT_EVERY_NEIGHBOR_STATE_STARTS: "Каждое соседнее государство"
+ EFFECT_EVERY_NEIGHBOR_COUNTRY_STARTS: "Каждая соседняя страна"
 
 #rewritten for clarity
- EFFECT_ADD_CLAIM_BY: "@$TAG$$COUNTRY|H$ gains claim on the state."
- EFFECT_REMOVE_CLAIM_BY: "@$TAG$$COUNTRY|H$ loses claim on the state."
+ EFFECT_ADD_CLAIM_BY: "@$TAG$$COUNTRY|H$ получает претензию на провинцию."
+ EFFECT_REMOVE_CLAIM_BY: "@$TAG$$COUNTRY|H$ теряет претензию на провинцию."
 
 #changed to British spelling
- EFFECT_DEMILITARIZED_ZONE: "Becomes a demilitarised zone."
- EFFECT_NOT_DEMILITARIZED_ZONE: "Will no longer be a demilitarised zone."
- EFFECT_CHANGE_LAW_mobilization_laws: "Change Mobilisation Law to '$NAME|Y$' which grants ($DESC$)."
+ EFFECT_DEMILITARIZED_ZONE: "Становится демилитаризованной зоной."
+ EFFECT_NOT_DEMILITARIZED_ZONE: "Перестанет быть демилитаризованной зоной."
+ EFFECT_CHANGE_LAW_mobilization_laws: "Изменить закон о мобилизации на «$NAME|Y$», который даёт ($DESC$)."
 
 #removed references to character owner country
- EFFECT_RETIRE_CHARACTER: "Retire $NAME|H$"
+ EFFECT_RETIRE_CHARACTER: "Вывести $NAME|H$ в отставку"
  EFFECT_CONTEXT_LEADER: "$LEADER|H$"
 
 #missing line breaks
- EFFECT_CREATE_UNIT: "Create $OWNER|H$ unit.\n"
- EFFECT_CREATE_UNIT_LOCATION: "Create $OWNER|H$ unit in $STATE|H$.\n"
- EFFECT_CREATE_UNIT_WITH_COUNT: "Create $COUNT|H$ $OWNER|H$ divisions.\n"
- EFFECT_CREATE_UNIT_LOCATION_WITH_COUNT: "Create $COUNT|H$ $OWNER|H$ divisions in $STATE|H$.\n"
+ EFFECT_CREATE_UNIT: "Создать подразделение $OWNER|H$.\n"
+ EFFECT_CREATE_UNIT_LOCATION: "Создать подразделение $OWNER|H$ в $STATE|H$.\n"
+ EFFECT_CREATE_UNIT_WITH_COUNT: "Создать $COUNT|H$ дивизий $OWNER|H$.\n"
+ EFFECT_CREATE_UNIT_LOCATION_WITH_COUNT: "Создать $COUNT|H$ дивизий $OWNER|H$ в $STATE|H$.\n"
 
 #shortened tooltip
- EFFECT_SET_STATE_CATEGORY: "State becomes $CATEGORY|Y$."
- EFFECT_SET_LEADER_NATIONALITY: "joins $COUNTRYDEF|Y$"
+ EFFECT_SET_STATE_CATEGORY: "Провинция становится $CATEGORY|Y$."
+ EFFECT_SET_LEADER_NATIONALITY: "присоединяется к $COUNTRYDEF|Y$"
 
 #added texticon
- EFFECT_UNLOCK_DECISION: "Unlocks Decision: £decision_icon_small $NAME|H$$EFFECT$"
- EFFECT_UNLOCK_DECISION_CATEGORY: "Unlocks £decision_icon_small $NAME|H$ Decisions."
+ EFFECT_UNLOCK_DECISION: "Разблокирует решение: £decision_icon_small $NAME|H$$EFFECT$"
+ EFFECT_UNLOCK_DECISION_CATEGORY: "Разблокирует решения £decision_icon_small $NAME|H$."
 
 #rewritten to use the same pattern as EFFECT_UNLOCK_DECISION
- EFFECT_ACTIVATE_TARGETED_DECISION: "Enables Decision: £decision_icon_small $NAME|H$"
- EFFECT_REMOVE_TARGETED_DECISION: "Disables Decision: £decision_icon_small $NAME|H$"
+ EFFECT_ACTIVATE_TARGETED_DECISION: "Активирует решение: £decision_icon_small $NAME|H$"
+ EFFECT_REMOVE_TARGETED_DECISION: "Деактивирует решение: £decision_icon_small $NAME|H$"
 
 #missing line breaks
- EFFECT_ADD_DYMAMIC_MODIFIER: "Add $NAME|H$ which grants:\n$DESC$\n"
- EFFECT_ADD_DYMAMIC_MODIFIER_WITH_DAYS: "Add $NAME|H$ ($NUM|H$ days) which grants:\n$DESC$\n"
- EFFECT_REMOVE_DYMAMIC_MODIFIER: "Remove $NAME|H$ which granted:\n$DESC$\n"
- EFFECT_SET_COLLABORATION: "Set collaboration in $TARGET|H$: $VALUE|+%0$\n"
- EFFECT_ADD_COLLABORATION: "Increase collaboration in $TARGET|H$: $VALUE|+%0$\n"
- EFFECT_REMOVE_COLLABORATION: "Decrease collaboration in $TARGET|H$: $VALUE|-%0$\n"
+ EFFECT_ADD_DYMAMIC_MODIFIER: "Добавить $NAME|H$, который даёт:\n$DESC$\n"
+ EFFECT_ADD_DYMAMIC_MODIFIER_WITH_DAYS: "Добавить $NAME|H$ ($NUM|H$ дней), который даёт:\n$DESC$\n"
+ EFFECT_REMOVE_DYMAMIC_MODIFIER: "Удалить $NAME|H$, который давал:\n$DESC$\n"
+ EFFECT_SET_COLLABORATION: "Установить коллаборационизм в $TARGET|H$: $VALUE|+%0$\n"
+ EFFECT_ADD_COLLABORATION: "Увеличить коллаборационизм в $TARGET|H$: $VALUE|+%0$\n"
+ EFFECT_REMOVE_COLLABORATION: "Уменьшить коллаборационизм в $TARGET|H$: $VALUE|-%0$\n"
 
 #edited for clarity
- CHANGE_DIV_TEMPLATE_EFFECT: "Division switches template to $TEMPLATE|H$"
+ CHANGE_DIV_TEMPLATE_EFFECT: "Дивизия меняет шаблон на $TEMPLATE|H$"
 
 #changed to British spelling
- EFFECT_SET_UNIT_ORGANIZATION: "Set unit organisation to $VAL|H%$"
+ EFFECT_SET_UNIT_ORGANIZATION: "Установить организацию подразделения на $VAL|H%$"

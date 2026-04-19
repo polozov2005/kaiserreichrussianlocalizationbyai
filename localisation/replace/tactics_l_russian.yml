@@ -4,7 +4,7 @@
 ########################################################
 
 #changed to British spelling
- tactic_cc_defend: "Close Quarters Defence"
- tactic_elastic_defense: "Elastic Defence"
- tactic_urban_defense: "Urban Defence"
- tactic_sf_fortify: "Fortified Defence"
+ tactic_cc_defend: "Оборона в ближнем бою"
+ tactic_elastic_defense: "Эластичная оборона"
+ tactic_urban_defense: "Городская оборона"
+ tactic_sf_fortify: "Укреплённая оборона"

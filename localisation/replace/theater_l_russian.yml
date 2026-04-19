@@ -4,13 +4,13 @@
 ########################################################
 
 #changed to British spelling
- ORDER_AREA_DEFENSE: "Area Defence"
- ORDER_AREA_DEFENSE_STATE_VALID: "§GClick§! to §Yadd§! state to area defence order."
- ORDER_AREA_DEFENSE_STATE_SELECTED: "§GClick§! to §Yremove§! state from area defence order."
- ORDER_AREA_DEFENSE_STATE_INVALID: "§RState cannot be added area defence order.§!"
- THEATRE_PRIORITY_DESC: "Theatre priority decides which one will first get replacement resources and manpower shipped."
- THEATRE_PIN_AREA_DESC: "Pinning an area or theatre means it sticks around even when not selected for quick access."
- THEATRE_DESC_DESC: "Selecting a theatre shows the commands groups active in this theatre."
- THEATRE_THEATRE: "Theatre: §Y$NAME$§!"
- THEATRE_UNIT: "The theatre has §Y1§! division"
- THEATRE_UNITS: "The theatre has $N|Y$ divisions"
+ ORDER_AREA_DEFENSE: "Зональная оборона"
+ ORDER_AREA_DEFENSE_STATE_VALID: "§GНажмите§!, чтобы §Yдобавить§! регион в приказ зональной обороны."
+ ORDER_AREA_DEFENSE_STATE_SELECTED: "§GНажмите§!, чтобы §Yудалить§! регион из приказа зональной обороны."
+ ORDER_AREA_DEFENSE_STATE_INVALID: "§RРегион не может быть добавлен в приказ зональной обороны.§!"
+ THEATRE_PRIORITY_DESC: "Приоритет театра определяет, какой из них первым получит ресурсы замены и людские резервы."
+ THEATRE_PIN_AREA_DESC: "Закрепление области или театра означает, что он остаётся видимым, даже когда не выбран, для быстрого доступа."
+ THEATRE_DESC_DESC: "Выбор театра показывает командные группы, активные в этом театре."
+ THEATRE_THEATRE: "Театр: §Y$NAME$§!"
+ THEATRE_UNIT: "В театре §Y1§! дивизия"
+ THEATRE_UNITS: "В театре $N|Y$ дивизий"

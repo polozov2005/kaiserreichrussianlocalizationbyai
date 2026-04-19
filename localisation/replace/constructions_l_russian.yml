@@ -4,9 +4,9 @@
 ########################################################
 
 #changed to British spelling
- CONSTRUCTION_MINIMIZE: "Minimise"
- CONSTRUCTION_MAXIMIZE: "§GShift+click to§! §Hmaximise§!"
- CONSTRUCTION_MAPMODE_DEMILITARIZED_BLOCKED_TOOLTIP: "Cannot build $BUILDING|H$ in the demilitarised zone."
+ CONSTRUCTION_MINIMIZE: "Свернуть"
+ CONSTRUCTION_MAXIMIZE: "§GShift+клик для§! §Hразвёртывания§!"
+ CONSTRUCTION_MAPMODE_DEMILITARIZED_BLOCKED_TOOLTIP: "Невозможно построить $BUILDING|H$ в демилитаризованной зоне."
 
 #not defined in vanilla
- rail_way_plural: "Railways"
+ rail_way_plural: "Железные дороги"

@@ -5,26 +5,26 @@
 #################
 
 ### Name and Description ###
- KR_history_title: "Brief History"
- KR_scenario_name: "Legacy of the Weltkrieg"
- KR_scenario_desc: "As 1936 dawns, the Weltkrieg's legacy lies heavy upon the shoulders of a new generation. Germany stands astride the centre of the world, a power without peer, but about its feet lie enemies both old and new; from France's rising syndicalist Internationale to the old Entente, to an unbroken Russia and an unrepentant rising sun. All the while Germany's vast reach has left it dangerously overstretched, its allies in Constantinople and Vienna have grown estranged, and across the Atlantic, the American colossus falters. Seventeen years have passed since the end of the war, and few expect the new year to bring a turning point; but soon a single spark may be all it takes to light the powder keg anew..."
+ KR_history_title: "Краткая история"
+ KR_scenario_name: "Наследие Мировой войны"
+ KR_scenario_desc: "С наступлением 1936 года наследие Мировой войны тяжёлым грузом лежит на плечах нового поколения. Германия стоит в центре мира, держава, не имеющая равных, но у её ног — враги старые и новые: от восходящего синдикалистского Интернационала Франции до старой Антанты, от непокорённой России до непримиримой восходящей звезды Японии. В то же время огромная протяжённость Германии оставляет её опасно перенапряжённой, её союзники в Константинополе и Вене отдалились, а за Атлантикой американский колосс колеблется. Семнадцать лет прошло с окончания войны, и немногие ожидают, что новый год станет поворотным моментом; но вскоре одной искры может быть достаточно, чтобы вновь зажечь пороховую бочку..."
 
 ### Nation Selection Screen ###
- new_this_patch_title: "NEW THIS PATCH"
+ new_this_patch_title: "НОВОЕ В ЭТОМ ПАТЧЕ"
  new_this_patch_title_b: "§b$new_this_patch_title$§!"
 
- feature_highlight_icon_0_tt: "§YNew Scientist Portraits§!\nThis update adds §Y138 new unique scientists§! whom you can assign to special projects, as well as an additional §Y134 new generic portraits§! for scientists recruited during gameplay."
- feature_highlight_icon_1_tt: "§YIndia Content Overhaul§!\nThe §tDominion of India§!, §9Bharatiya People's Republic§!, and §7Princely Federation§! have each received §Ycompletely new national focus trees§!, §Yevents§!, and §Ydecisions§!, providing a gameplay experience more fit for modern Kaiserreich."
- feature_highlight_icon_2_tt: "§YA Brand-New Wiki§!\nThe Kaiserreich Wiki has officially moved to its new permanent home at §4https://kaiserreich.wiki/§!.\n\nThe new wiki is ad-free, loads faster, and works perfectly in the ingame browser and on mobile.\n\nFind timelines, country guides, and dev updates all in one place, maintained by the Kaiserreich team.\n\nBe sure to update your bookmarks!"
+ feature_highlight_icon_0_tt: "§YНовые портреты учёных§!\nЭто обновление добавляет §Y138 новых уникальных учёных§!, которых вы можете назначить на специальные проекты, а также дополнительно §Y134 новых общих портрета§! для учёных, нанимаемых во время игры."
+ feature_highlight_icon_1_tt: "§YПолная переработка контента Индии§!\n§tДоминион Индия§!, §9Народная республика Бхарат§! и §7Княжеская федерация§! получили §Yсовершенно новые деревья национальных фокусов§!, §Yсобытия§! и §Yрешения§!, обеспечивающие игровой опыт, более соответствующий современному Kaiserreich."
+ feature_highlight_icon_2_tt: "§YСовершенно новая вики§!\nВики Kaiserreich официально переехала на своё новое постоянное место по адресу §4https://kaiserreich.wiki/§!.\n\nНовая вики не содержит рекламы, загружается быстрее и отлично работает во встроенном браузере игры и на мобильных устройствах.\n\nНаходите хронологии, руководства по странам и новости разработки в одном месте, поддерживаемые командой Kaiserreich.\n\nНе забудьте обновить закладки!"
 
- highlight_major_0_tt: "You can play as the §YFree Russian Army§! by starting a campaign as §YRussia§!, §YGermany§!, or the §YEastern Reichspakt members§!. An event to do so will occur shortly after the outbreak of the Russo-German war.\n\n§RRussia must be controlled by Savinkov or the socialists, which can be set in the Game Rules.§!"
- highlight_major_1_tt: "You can play as the §YFar Eastern Army§! by starting a campaign as §YRussia§!, §YJapan§!, or §YFengtian§!. An event to do so will occur shortly after the start of the Far Eastern Uprising.\n\n§RRussia must be controlled by Savinkov or the socialists, which can be set in the Game Rules.§!"
+ highlight_major_0_tt: "Вы можете играть за §YСвободную русскую армию§!, начав кампанию за §YРоссию§!, §YГерманию§! или §Yвосточных членов Рейхспакта§!. Событие, позволяющее это сделать, произойдёт вскоре после начала русско-германской войны.\n\n§RРоссией должны управлять Савинков или социалисты, это можно настроить в правилах игры.§!"
+ highlight_major_1_tt: "Вы можете играть за §YДальневосточную армию§!, начав кампанию за §YРоссию§!, §YЯпонию§! или §YФэнтянь§!. Событие, позволяющее это сделать, произойдёт вскоре после начала Дальневосточного восстания.\n\n§RРоссией должны управлять Савинков или социалисты, это можно настроить в правилах игры.§!"
 
  highlight_minor_0_tt: ""
  highlight_minor_1_tt: ""
  highlight_minor_2_tt: ""
 
 ### Other ###
- Debug_KR_gathering_storm_desc: "If you see this, please create a bug report"
+ Debug_KR_gathering_storm_desc: "Если вы это видите, пожалуйста, создайте отчёт об ошибке"
 
- OTHER_KR_gathering_storm_desc: "The nations of the world, great and small, are waiting for their turn to rise as a major player of this world. From major powers trying to keep their empires to the many nations trying to regain what they lost in the Weltkrieg, all will have to make difficult decisions and balance ideals with pragmatism to have an impact on the future of the world..."
+ OTHER_KR_gathering_storm_desc: "Нации мира, великие и малые, ждут своего часа, чтобы стать крупными игроками этого мира. От великих держав, пытающихся сохранить свои империи, до многих наций, пытающихся вернуть то, что они потеряли в Мировой войне, — всем придётся принимать трудные решения и сочетать идеалы с прагматизмом, чтобы повлиять на будущее мира..."

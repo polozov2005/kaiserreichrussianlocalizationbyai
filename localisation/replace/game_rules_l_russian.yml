@@ -4,10 +4,10 @@
 ########################################################
 
 #edited to match KR trigger changes
- RULE_ALLOW_WARGOALS_LIMITED_DESC: "Wargoal Generation is blocked before the Second Weltkrieg."
- RULE_ALLOW_GUARANTEES_FREE_DESC: "The independence of any country can be guaranteed at any time."
- RULE_ALLOW_GUARANTEES_LIMITED_DESC: "Issuing a Guarantee of Independence is restricted before the Second Weltkrieg, and by ideology."
+ RULE_ALLOW_WARGOALS_LIMITED_DESC: "Генерация целей войны заблокирована до начала Второй мировой войны."
+ RULE_ALLOW_GUARANTEES_FREE_DESC: "Независимость любой страны может быть гарантирована в любое время."
+ RULE_ALLOW_GUARANTEES_LIMITED_DESC: "Выдача гарантии независимости ограничена до начала Второй мировой войны и зависит от идеологии."
 
 #added player warnings
- RULE_ALLOW_LEAVE_FACTION_ALLOWED_DESC: "Fully sovereign countries may leave a faction while at peace.\n\n§RNote: This option is not fully supported. Normal sanity checks and other bug preventing measures will be bypassed, and thus playing with this option will cause issues. Please do not report any you find. You have been warned.§!"
- RULE_ALLOW_KICK_FACTION_ALLOWED_DESC: "The Leader of a Faction may kick any country from the faction.\n\n§RNote: This option is not fully supported. Normal sanity checks and other bug preventing measures will be bypassed, and thus playing with this option will cause issues. Please do not report any you find. You have been warned.§!"
+ RULE_ALLOW_LEAVE_FACTION_ALLOWED_DESC: "Полностью суверенные страны могут покидать альянс в мирное время.\n\n§RПримечание: Эта опция поддерживается не полностью. Обычные проверки на здравый смысл и другие меры предотвращения ошибок будут обойдены, поэтому игра с этой опцией вызовет проблемы. Пожалуйста, не сообщайте о найденных ошибках. Вы были предупреждены.§!"
+ RULE_ALLOW_KICK_FACTION_ALLOWED_DESC: "Лидер альянса может исключить любую страну из альянса.\n\n§RПримечание: Эта опция поддерживается не полностью. Обычные проверки на здравый смысл и другие меры предотвращения ошибок будут обойдены, поэтому игра с этой опцией вызовет проблемы. Пожалуйста, не сообщайте о найденных ошибках. Вы были предупреждены.§!"
