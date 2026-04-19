@@ -4,14 +4,14 @@
 ########################################################
 
 #changed to British spelling
- PRODUCTION_MATERIALS_ALUMINIUM: "Алюминий" #NT!
- PRODUCTION_VEHICLES_BUTTON: "Стройте бронетехнику" #NT!
- PRODUCTION_VEHICLES_BUTTON_DISABLED: "Бронированные автомобили §RНе изобретены§!!" #NT!
- PRODUCTION_ARMOR_FILTER: "Бронированные автомобили" #NT!
- LICENSED_EQUIPMENT_PRODUCTION_SPEED_TOTAL_SIMPLE: "§HЛицензия на производство§!: $VALUE|+%$" #NT!
- LICENSED_EQUIPMENT_PRODUCTION_SPEED_TOTAL: "§HПроизводительность завода по лицензионному производству§!\nВсего: $VALUE|+%$\nРазбивка:" #NT!
- LICENSED_EQUIPMENT_TECH_SPEED_REDUCTION: "§YРазница в лицензионных технологиях§!:\n База: $BASE|+%$\n Всего изменено: $TOTAL|+%$" #NT!
- LICENSED_EQUIPMENT_PRODUCTION_SPEED_MODIFIER: "§YМодификатор лицензии§!:\n База: $BASE|+%$\n Всего изменено: $TOTAL|+%$" #NT!
- LICENSED_EQUIPMENT_PRODUCTION_SPEED_NOT_FACTION: "§YНе во фракции с лицензиаром§!: $VALUE|+%$" #NT!
- LICENSED_EQUIPMENT_PRODUCTION_SPEED_NO_LICENSE: "§YНет активной лицензии§!: $VALUE|+%$" #NT!
- LICENSED_PURCHASE_CIC_COST: "§YЭта лицензия стоит§!: £civ_factory $AMOUNT|Y$" #NT!
+ PRODUCTION_MATERIALS_ALUMINIUM: "Алюминий"
+ PRODUCTION_VEHICLES_BUTTON: "Производить бронетехнику"
+ PRODUCTION_VEHICLES_BUTTON_DISABLED: "Бронетехника §Rне изобретена§!!"
+ PRODUCTION_ARMOR_FILTER: "Бронетехника"
+ LICENSED_EQUIPMENT_PRODUCTION_SPEED_TOTAL_SIMPLE: "§HЛицензионное производство§!: $VALUE|+%$"
+ LICENSED_EQUIPMENT_PRODUCTION_SPEED_TOTAL: "§HВыпуск фабрик по лицензии§!\nИтого: $VALUE|+%$\nДетализация:"
+ LICENSED_EQUIPMENT_TECH_SPEED_REDUCTION: "§YРазница в технологиях по лицензии§!:\n Базовое: $BASE|+%$\n Итоговое с модификаторами: $TOTAL|+%$"
+ LICENSED_EQUIPMENT_PRODUCTION_SPEED_MODIFIER: "§YМодификатор лицензии§!:\n Базовое: $BASE|+%$\n Итоговое с модификаторами: $TOTAL|+%$"
+ LICENSED_EQUIPMENT_PRODUCTION_SPEED_NOT_FACTION: "§YНе в одном альянсе с лицензиаром§!: $VALUE|+%$"
+ LICENSED_EQUIPMENT_PRODUCTION_SPEED_NO_LICENSE: "§YНет активной лицензии§!: $VALUE|+%$"
+ LICENSED_PURCHASE_CIC_COST: "§YСтоимость лицензии§!: £civ_factory $AMOUNT|Y$"

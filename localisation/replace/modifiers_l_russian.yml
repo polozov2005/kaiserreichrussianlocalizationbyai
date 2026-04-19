@@ -4,139 +4,139 @@
 ########################################################
 
 #changed to British spelling
- MODIFIER_ORG_LOSS_WHEN_MOVING_DESC: "Изменяет количество потерянной организации при перемещении дивизии." #NT!
- MODIFIER_ORG_LOSS_AT_LOW_ORG_FACTOR: "Потери организации, когда ниже 25%" #NT!
- MODIFIER_LOCAL_ORG_REGAIN: "Возвращение организации" #NT!
- MODIFIER_ARMY_ORG_REGAIN: "Возрождение армейской организации" #NT!
- MODIFIER_DEFENCE: "Оборона" #NT!
- MODIFIER_OUT_OF_SUPPLY_FACTOR_DESC: "Уменьшает штраф за организацию и восстановление, который получают войска, когда у них заканчиваются припасы." #NT!
- MODIFIER_OUT_OF_SUPPLY_DESC: "Насколько серьезны штрафы за организацию и восстановление войск, когда у них заканчиваются припасы." #NT!
- MODIFIER_OFFENCE_FACTOR: "Нарушение" #NT!
- MODIFIER_DEFENCE_FACTOR: "Оборона" #NT!
- MODIFIER_AIR_DEFENCE: "ПВО" #NT!
- MODIFIER_AIR_DEFENCE_FACTOR: "ПВО" #NT!
- MODIFIER_NAVY_CAPITAL_SHIP_DEFENCE_FACTOR_AGAINST_A_COUNTRY: "Защита капитального корабля от страны" #NT!
- MODIFIER_NAVY_SCREEN_DEFENCE_FACTOR_AGAINST_A_COUNTRY: "Экран защиты корабля от страны" #NT!
- MODIFIERS_SUBMARINE_DEFENCE_FACTOR_AGAINST_A_COUNTRY: "Подводная оборона против страны" #NT!
- armor_research: "Скорость исследования брони" #NT!
- motorized_equipment_research: "Скорость исследования автомобилизации" #NT!
- MODIFIER_ARMY_SPEED_FACTOR: "Скорость дивизионов" #NT!
- MODIFIER_ARMY_ARMOR_SPEED_FACTOR: "Скорость брони" #NT!
- MODIFIER_ARMY_ORG: "Организация отдела" #NT!
- MODIFIER_ARMY_ORG_FACTOR: "Организация отдела" #NT!
- MODIFIER_NAVY_ORG: "Военно-морская организация" #NT!
- MODIFIER_NAVY_ORG_FACTOR: "Военно-морская организация" #NT!
- MODIFIER_AIR_ORG: "Воздушная организация" #NT!
- MODIFIER_AIR_ORG_FACTOR: "Воздушная организация" #NT!
+ MODIFIER_ORG_LOSS_WHEN_MOVING_DESC: "Изменяет количество организации, теряемой дивизией при перемещении"
+ MODIFIER_ORG_LOSS_AT_LOW_ORG_FACTOR: "Потеря организации при уровне ниже 25%"
+ MODIFIER_LOCAL_ORG_REGAIN: "Восстановление организации"
+ MODIFIER_ARMY_ORG_REGAIN: "Восстановление армейской организации"
+ MODIFIER_DEFENCE: "Оборона"
+ MODIFIER_OUT_OF_SUPPLY_FACTOR_DESC: "Снижает штраф к организации и восстановлению, который получают войска при нехватке снабжения."
+ MODIFIER_OUT_OF_SUPPLY_DESC: "Насколько серьёзен штраф к организации и восстановлению, который получают войска при нехватке снабжения."
+ MODIFIER_OFFENCE_FACTOR: "Наступление"
+ MODIFIER_DEFENCE_FACTOR: "Оборона"
+ MODIFIER_AIR_DEFENCE: "ПВО"
+ MODIFIER_AIR_DEFENCE_FACTOR: "ПВО"
+ MODIFIER_NAVY_CAPITAL_SHIP_DEFENCE_FACTOR_AGAINST_A_COUNTRY: " Оборона линейных кораблей против страны"
+ MODIFIER_NAVY_SCREEN_DEFENCE_FACTOR_AGAINST_A_COUNTRY: " Оборона эскортных кораблей против страны"
+ MODIFIERS_SUBMARINE_DEFENCE_FACTOR_AGAINST_A_COUNTRY: " Оборона подлодок против страны"
+ armor_research: "Скорость исследований бронетехники"
+ motorized_equipment_research: "Скорость исследований моторизации"
+ MODIFIER_ARMY_SPEED_FACTOR: "Скорость дивизий"
+ MODIFIER_ARMY_ARMOR_SPEED_FACTOR: "Скорость бронетехники"
+ MODIFIER_ARMY_ORG: "Организация дивизии"
+ MODIFIER_ARMY_ORG_FACTOR: "Организация дивизии"
+ MODIFIER_NAVY_ORG: "Организация флота"
+ MODIFIER_NAVY_ORG_FACTOR: "Организация флота"
+ MODIFIER_AIR_ORG: "Организация авиации"
+ MODIFIER_AIR_ORG_FACTOR: "Организация авиации"
  MODIFIER_MAX_ORGANISATION_FACTOR: "Макс. организация"
- MODIFIER_STRATEGIC_BOMBER_DEFENCE: "Бомбардировочная оборона" #NT!
- MODIFIER_INTERCEPTION_DEFENCE: "Защита от перехвата" #NT!
- MODIFIER_AIR_SUPERIORITY_DEFENCE: "Защита превосходства в воздухе" #NT!
- MODIFIER_CAS_DEFENCE: "Непосредственная воздушная поддержка" #NT!
- MODIFIER_PARADROP_DEFENCE: "Парашютная защита" #NT!
- MODIFIER_STRATEGIC_BOMBER_DEFENCE_FACTOR: "Бомбардировочная оборона" #NT!
- MODIFIER_INTERCEPTION_DEFENCE_FACTOR: "Защита от перехвата" #NT!
- MODIFIER_AIR_SUPERIORITY_DEFENCE_FACTOR: "Защита превосходства в воздухе" #NT!
- MODIFIER_CAS_DEFENCE_FACTOR: "Непосредственная воздушная поддержка" #NT!
- MODIFIER_PARADROP_DEFENCE_FACTOR: "Парашютная защита" #NT!
- MODIFIER_AIR_DEFENCE_WEATHER: "Погода ПВО" #NT!
- MODIFIER_AIR_DEFENCE_WEATHER_FACTOR: "Погода ПВО" #NT!
- MODIFIER_AIR_DEFENCE_NIGHT: "Ночная ПВО" #NT!
- MODIFIER_AIR_DEFENCE_NIGHT_FACTOR: "Ночная ПВО" #NT!
- MODIFIER_AIR_DEFENCE_NIGHT_DESC: "ПВО ночью." #NT!
- MODIFIER_AIR_DEFENCE_NIGHT_FACTOR_DESC: "ПВО ночью." #NT!
- MODIFIER_PARTISAN_EFFECT_FACTOR_DESC: "Насколько эффективно наши партизаны организуются против врагов, оккупировавших наши территории." #NT!
- MODIFIER_ENEMY_PARTISAN_EFFECT_FACTOR_DESC: "Насколько эффективно вражеские партизаны организуются на оккупированных нами территориях" #NT!
- MODIFIERS_ARMY_DEFENCE_FACTOR: "Дивизия обороны" #NT!
- MODIFIERS_ARMY_CORE_DEFENCE_FACTOR: "Дивизия обороны на основной территории" #NT!
- MODIFIERS_ARMY_CLAIM_DEFENCE_FACTOR: "Дивизия обороны на заявленной территории" #NT!
- MODIFIERS_ARMY_INFANTRY_DEFENCE_FACTOR: "Пехотная оборона" #NT!
- MODIFIERS_ARMY_ARMOR_ATTACK_FACTOR: "Бронированная атака" #NT!
- MODIFIERS_ARMY_ARMOR_DEFENCE_FACTOR: "Броня обороны" #NT!
- MODIFIERS_ARMY_ARTILLERY_DEFENCE_FACTOR: "Артиллерийская оборона" #NT!
- MODIFIER_SPECIAL_FORCES_DEFENCE_FACTOR: "Спецназ обороны" #NT!
- MODIFIER_MOTORIZED_ATTACK_FACTOR: "Моторизованная атака" #NT!
- MODIFIER_MOTORIZED_DEFENCE_FACTOR: "Моторизованная защита" #NT!
- MODIFIER_MECHANIZED_ATTACK_FACTOR: "Механизированная атака" #NT!
- MODIFIER_MECHANIZED_DEFENCE_FACTOR: "Механизированная оборона" #NT!
- MODIFIER_CAVALRY_DEFENCE_FACTOR: "Кавалерийская оборона" #NT!
- MODIFIER_NAVY_SUBMARINE_DEFENCE_FACTOR: "Подводная оборона" #NT!
- MODIFIER_NAVY_SUBMARINE_DEFENCE_FACTOR_DESC: "Изменяет обороноспособность подводных лодок." #NT!
- MODIFIER_NAVY_CAPITAL_SHIP_DEFENCE_FACTOR: "Броня капитального корабля" #NT!
- MODIFIER_NAVY_CAPITAL_SHIP_DEFENCE_FACTOR_DESC: "Изменяет значение брони всех крупных кораблей." #NT!
- MODIFIER_NAVY_SCREEN_DEFENCE_FACTOR: "Экранная защита" #NT!
- MODIFIER_ARMY_INFANTRY_DEFENCE_FACTOR: "Пехотная дивизия обороны" #NT!
- MODIFIER_ARMY_ARMOR_ATTACK_FACTOR: "Атака бронетанковой дивизии" #NT!
- MODIFIER_ARMY_ARMOR_DEFENCE_FACTOR: "Бронетанковая дивизия обороны" #NT!
- MODIFIER_ARMY_ARTILLERY_DEFENCE_FACTOR: "Артиллерийская оборона" #NT!
- MODIFIER_DRIFT_DEFENCE_FACTOR: "Защита идеологического дрейфа" #NT!
- MODIFIER_MAX_DIG_IN_DESC: "Насколько продвинутые временные укрепления могут построить наши войска. Чем выше уровень, тем больше дней войска смогут совершенствовать свою защиту." #NT!
- MODIFIER_AI_FOCUS_DEFENSE_FACTOR: "Модификатор ИИ: сосредоточьтесь на защите" #NT!
- MODIFIER_AI_FOCUS_AGGRESSIVE_FACTOR: "Модификатор ИИ: сосредоточьтесь на нападении" #NT!
- MODIFIER_NAVAL_INVASION_DEFENSE: "Защита от вторжения" #NT!
- MODIFIER_ARMY_LEADER_START_DEFENSE_LEVEL: "Начальный уровень навыков защиты новых армейских лидеров" #NT!
- MODIFIER_MOBILIZATION_SPEED: "Скорость мобилизации" #NT!
- MODIFIER_IMPROVE_RELATIONS_MAINTAIN_COST_FACTOR: "Улучшение затрат на поддержание отношений" #NT!
- MODIFIER_LICENSE_PURCHASE_COST: "Стоимость приобретения лицензии" #NT!
- MODIFIER_LICENSE_AIR_PURCHASE_COST: "Стоимость приобретения лицензии на полеты" #NT!
- MODIFIER_LICENSE_INFANTRY_PURCHASE_COST: "Стоимость приобретения пехотной лицензии" #NT!
- MODIFIER_LICENSE_ARMOR_PURCHASE_COST: "Стоимость покупки лицензии на броню" #NT!
- MODIFIER_LICENSE_NAVAL_PURCHASE_COST: "Стоимость приобретения морской лицензии" #NT!
- MODIFIER_LICENSE_PRODUCTION_SPEED: "Скорость изготовления лицензий" #NT!
- MODIFIER_LICENSE_TECH_DIFFERENCE_SPEED: "Скорость производства лицензий из-за разницы в технологиях" #NT!
- MODIFIER_ACCLIMATIZATION_COLD_CLIMATE_GAIN_FACTOR: "Коэффициент усиления адаптации к холоду" #NT!
- MODIFIER_ACCLIMATIZATION_HOT_CLIMATE_GAIN_FACTOR: "Коэффициент усиления горячей акклиматизации" #NT!
- MODIFIER_AI_LICENSE_ACCEPTANCE: "Принятие при запросе на покупку лицензии" #NT!
- MODIFIER_LICENSE_SUBJECT_MASTER_PURCHASE_COST: "Стоимость лицензии между субъектом и мастером" #NT!
- MODIFIER_DEFENSE_BONUS_AGAINST_A_COUNTRY: "Бонус защиты от страны" #NT!
- MODIFIER_PARADROP_ORGANIZATION_FACTOR: "Организация после парашютного прыжка" #NT!
- MODIFIER_PARATROOPER_DEFENSE: "Десантник противовоздушной обороны" #NT!
- MODIFIER_TRADE_TO_TARGET_FACTOR_DESC: "Дополнительные произведенные ресурсы доступны для торговли в целевую страну" #NT!
- MODIFIER_SPECIAL_FORCES_OUT_OF_SUPPLY_FACTOR_DESC: "Уменьшает штрафы за организацию и восстановление, которые наши подразделения специального назначения взимают, когда у них заканчиваются припасы." #NT!
- MODIFIER_AIR_CAS_ORG_DAMAGE_FACTOR: "Ущерб организации непосредственной воздушной поддержки" #NT!
- modifier_army_sub_unit_cavalry_defence_factor: "$cavalry$ Защита" #NT!
- modifier_army_sub_unit_cavalry_max_org_factor: "Организация кавалерии"
- modifier_army_sub_unit_camelry_defence_factor: "$camelry$ Защита" #NT!
- modifier_army_sub_unit_infantry_defence_factor: "$infantry$ Защита" #NT!
- modifier_army_sub_unit_armored_car_attack_factor: "$armored_car$ Атака" #NT!
- modifier_army_sub_unit_armored_car_defence_factor: "$armored_car$ Защита" #NT!
- modifier_army_sub_unit_armored_car_speed_factor: "$armored_car$ Скорость" #NT!
- modifier_army_sub_unit_armored_car_max_org_factor: "$armored_car$ Организация" #NT!
- modifier_army_sub_unit_armored_car_recon_attack_factor: "$armored_car_recon$ Атака" #NT!
- modifier_army_sub_unit_armored_car_recon_defence_factor: "$armored_car_recon$ Защита" #NT!
- modifier_army_sub_unit_armored_car_recon_speed_factor: "$armored_car_recon$ Скорость" #NT!
- modifier_army_sub_unit_armored_car_recon_max_org_factor: "$armored_car_recon$ Организация" #NT!
- modifier_army_sub_unit_light_tank_recon_attack_factor: "$armored_car_recon$ Атака" #NT!
- modifier_army_sub_unit_light_tank_recon_defence_factor: "$armored_car_recon$ Защита" #NT!
- modifier_army_sub_unit_light_tank_recon_speed_factor: "$armored_car_recon$ Скорость" #NT!
- modifier_army_sub_unit_light_tank_recon_max_org_factor: "$armored_car_recon$ Организация" #NT!
- modifier_army_sub_unit_marine_defence_factor: "$marine$ Защита" #NT!
- modifier_army_sub_unit_marine_max_org_factor: "$marine$ Организация" #NT!
- modifier_army_sub_unit_mountaineers_defence_factor: "$mountaineers$ Защита" #NT!
- modifier_army_sub_unit_mountaineers_max_org_factor: "$mountaineers$ Организация" #NT!
- modifier_army_sub_unit_paratrooper_defence_factor: "$paratrooper$ Защита" #NT!
- modifier_army_sub_unit_paratrooper_max_org_factor: "$paratrooper$ Организация" #NT!
- modifier_army_sub_unit_irregular_infantry_defence_factor: "$irregular_infantry$ Защита" #NT!
- modifier_army_sub_unit_irregular_infantry_max_org_factor: "$irregular_infantry$ Организация" #NT!
- modifier_army_sub_unit_militia_defence_factor: "$militia$ Защита" #NT!
- modifier_army_sub_unit_militia_max_org_factor: "$militia$ Организация" #NT!
- modifier_army_sub_unit_militia_org_recovery_cap_factor: "$militia$ Предел восстановления организации" #NT!
- modifier_army_sub_unit_military_police_attack_factor: "$military_police$ Атака" #NT!
- modifier_army_sub_unit_military_police_defence_factor: "$military_police$ Защита" #NT!
- modifier_army_sub_unit_military_police_speed_factor: "$military_police$ Скорость" #NT!
- modifier_army_sub_unit_military_police_max_org_factor: "$military_police$ Организация" #NT!
- modifier_army_sub_unit_long_range_patrol_support_defence_factor: "$long_range_patrol_support$ Защита" #NT!
- modifier_army_sub_unit_category_special_forces_max_org_factor: "$category_special_forces$ Организация" #NT!
- modifier_army_sub_unit_category_mobile_infantry_max_org_factor: "Кавалерийская/механическая/механическая организация" #NT!
- modifier_army_sub_unit_artillery_brigade_attack_factor: "$artillery_brigade$ Атака" #NT!
- modifier_army_sub_unit_artillery_brigade_defence_factor: "$artillery_brigade$ Защита" #NT!
- modifier_army_sub_unit_artillery_brigade_max_org_factor: "Организация кавалерии"
- modifier_army_sub_unit_artillery_brigade_speed_factor: "Скорость артиллерии"
- modifier_unit_militia_design_cost_factor: "$militia$ Стоимость конструкции юнита" #NT!
- modifier_unit_irregular_infantry_design_cost_factor: "$irregular_infantry$ Стоимость конструкции юнита" #NT!
+ MODIFIER_STRATEGIC_BOMBER_DEFENCE: "Оборона бомбардировщиков"
+ MODIFIER_INTERCEPTION_DEFENCE: "Оборона перехвата"
+ MODIFIER_AIR_SUPERIORITY_DEFENCE: "Оборона господства в воздухе"
+ MODIFIER_CAS_DEFENCE: "Оборона непосредственной авиационной поддержки"
+ MODIFIER_PARADROP_DEFENCE: "Оборона парашютного десанта"
+ MODIFIER_STRATEGIC_BOMBER_DEFENCE_FACTOR: "Оборона бомбардировщиков"
+ MODIFIER_INTERCEPTION_DEFENCE_FACTOR: "Оборона перехвата"
+ MODIFIER_AIR_SUPERIORITY_DEFENCE_FACTOR: "Оборона господства в воздухе"
+ MODIFIER_CAS_DEFENCE_FACTOR: "Оборона непосредственной авиационной поддержки"
+ MODIFIER_PARADROP_DEFENCE_FACTOR: "Оборона парашютного десанта"
+ MODIFIER_AIR_DEFENCE_WEATHER: "ПВО в плохую погоду"
+ MODIFIER_AIR_DEFENCE_WEATHER_FACTOR: "ПВО в плохую погоду"
+ MODIFIER_AIR_DEFENCE_NIGHT: "Ночное ПВО"
+ MODIFIER_AIR_DEFENCE_NIGHT_FACTOR: "Ночное ПВО"
+ MODIFIER_AIR_DEFENCE_NIGHT_DESC: "ПВО в ночное время."
+ MODIFIER_AIR_DEFENCE_NIGHT_FACTOR_DESC: "ПВО в ночное время."
+ MODIFIER_PARTISAN_EFFECT_FACTOR_DESC: "Насколько эффективно наши партизаны организуются против врагов, оккупировавших наши территории."
+ MODIFIER_ENEMY_PARTISAN_EFFECT_FACTOR_DESC: "Насколько эффективно вражеские партизаны организуются на оккупированных нами территориях"
+ MODIFIERS_ARMY_DEFENCE_FACTOR: "Оборона дивизии"
+ MODIFIERS_ARMY_CORE_DEFENCE_FACTOR: "Оборона дивизии на основной территории"
+ MODIFIERS_ARMY_CLAIM_DEFENCE_FACTOR: "Оборона дивизии на претендуемой территории"
+ MODIFIERS_ARMY_INFANTRY_DEFENCE_FACTOR: "Оборона пехоты"
+ MODIFIERS_ARMY_ARMOR_ATTACK_FACTOR: "Атака бронетехники"
+ MODIFIERS_ARMY_ARMOR_DEFENCE_FACTOR: "Оборона бронетехники"
+ MODIFIERS_ARMY_ARTILLERY_DEFENCE_FACTOR: "Оборона артиллерии"
+ MODIFIER_SPECIAL_FORCES_DEFENCE_FACTOR: "Оборона сил спецназа"
+ MODIFIER_MOTORIZED_ATTACK_FACTOR: "Атака моторизованных войск"
+ MODIFIER_MOTORIZED_DEFENCE_FACTOR: "Оборона моторизованных войск"
+ MODIFIER_MECHANIZED_ATTACK_FACTOR: "Атака механизированных войск"
+ MODIFIER_MECHANIZED_DEFENCE_FACTOR: "Оборона механизированных войск"
+ MODIFIER_CAVALRY_DEFENCE_FACTOR: "Оборона кавалерии"
+ MODIFIER_NAVY_SUBMARINE_DEFENCE_FACTOR: "Оборона подлодок"
+ MODIFIER_NAVY_SUBMARINE_DEFENCE_FACTOR_DESC: "Изменяет значение обороны подлодок"
+ MODIFIER_NAVY_CAPITAL_SHIP_DEFENCE_FACTOR: "Бронирование линейных кораблей"
+ MODIFIER_NAVY_CAPITAL_SHIP_DEFENCE_FACTOR_DESC: "Изменяет значение бронирования всех линейных кораблей"
+ MODIFIER_NAVY_SCREEN_DEFENCE_FACTOR: "Оборона эскортных кораблей"
+ MODIFIER_ARMY_INFANTRY_DEFENCE_FACTOR: "Оборона пехотных дивизий"
+ MODIFIER_ARMY_ARMOR_ATTACK_FACTOR: "Атака бронетанковых дивизий"
+ MODIFIER_ARMY_ARMOR_DEFENCE_FACTOR: "Оборона бронетанковых дивизий"
+ MODIFIER_ARMY_ARTILLERY_DEFENCE_FACTOR: "Оборона артиллерии"
+ MODIFIER_DRIFT_DEFENCE_FACTOR: "Сопротивление сдвигу идеологии"
+ MODIFIER_MAX_DIG_IN_DESC: "Насколько продвинутые временные укрепления могут создавать наши войска. Чем выше уровень, тем больше дней войска могут улучшать свою оборону."
+ MODIFIER_AI_FOCUS_DEFENSE_FACTOR: "Модификатор ИИ: Акцент на обороне"
+ MODIFIER_AI_FOCUS_AGGRESSIVE_FACTOR: "Модификатор ИИ: Акцент на наступлении"
+ MODIFIER_NAVAL_INVASION_DEFENSE: "Оборона при вторжении"
+ MODIFIER_ARMY_LEADER_START_DEFENSE_LEVEL: "Начальный уровень навыка обороны у новых военачальников"
+ MODIFIER_MOBILIZATION_SPEED: "Скорость мобилизации"
+ MODIFIER_IMPROVE_RELATIONS_MAINTAIN_COST_FACTOR: "Стоимость поддержания улучшения отношений"
+ MODIFIER_LICENSE_PURCHASE_COST: "Стоимость покупки лицензии"
+ MODIFIER_LICENSE_AIR_PURCHASE_COST: "Стоимость покупки авиационной лицензии"
+ MODIFIER_LICENSE_INFANTRY_PURCHASE_COST: "Стоимость покупки пехотной лицензии"
+ MODIFIER_LICENSE_ARMOR_PURCHASE_COST: "Стоимость покупки лицензии на бронетехнику"
+ MODIFIER_LICENSE_NAVAL_PURCHASE_COST: "Стоимость покупки военно-морской лицензии"
+ MODIFIER_LICENSE_PRODUCTION_SPEED: "Скорость лицензионного производства"
+ MODIFIER_LICENSE_TECH_DIFFERENCE_SPEED: "Скорость лицензионного производства от разницы в технологиях"
+ MODIFIER_ACCLIMATIZATION_COLD_CLIMATE_GAIN_FACTOR: "Коэффициент прироста акклиматизации к холоду"
+ MODIFIER_ACCLIMATIZATION_HOT_CLIMATE_GAIN_FACTOR: "Коэффициент прироста акклиматизации к жаре"
+ MODIFIER_AI_LICENSE_ACCEPTANCE: "Принятие при запросе на покупку лицензии"
+ MODIFIER_LICENSE_SUBJECT_MASTER_PURCHASE_COST: "Стоимость лицензии между сюзереном и марионеткой"
+ MODIFIER_DEFENSE_BONUS_AGAINST_A_COUNTRY: "Бонус к обороне против страны"
+ MODIFIER_PARADROP_ORGANIZATION_FACTOR: "Организация после парашютного десантирования"
+ MODIFIER_PARATROOPER_DEFENSE: "ПВО парашютно-десантных войск"
+ MODIFIER_TRADE_TO_TARGET_FACTOR_DESC: "Дополнительные произведённые ресурсы, доступные для торговли с целевой страной"
+ MODIFIER_SPECIAL_FORCES_OUT_OF_SUPPLY_FACTOR_DESC: "Снижает штраф к организации и восстановлению, который получают наши дивизии спецназа при нехватке снабжения."
+ MODIFIER_AIR_CAS_ORG_DAMAGE_FACTOR: "Урон организации от непосредственной авиационной поддержки"
+ modifier_army_sub_unit_cavalry_defence_factor: "Оборона $cavalry$"
+ modifier_army_sub_unit_cavalry_max_org_factor: "Организация $cavalry$"
+ modifier_army_sub_unit_camelry_defence_factor: "Оборона $camelry$"
+ modifier_army_sub_unit_infantry_defence_factor: "Оборона $infantry$"
+ modifier_army_sub_unit_armored_car_attack_factor: "Атака $armored_car$"
+ modifier_army_sub_unit_armored_car_defence_factor: "Оборона $armored_car$"
+ modifier_army_sub_unit_armored_car_speed_factor: "Скорость $armored_car$"
+ modifier_army_sub_unit_armored_car_max_org_factor: "Организация $armored_car$"
+ modifier_army_sub_unit_armored_car_recon_attack_factor: "Атака $armored_car_recon$"
+ modifier_army_sub_unit_armored_car_recon_defence_factor: "Оборона $armored_car_recon$"
+ modifier_army_sub_unit_armored_car_recon_speed_factor: "Скорость $armored_car_recon$"
+ modifier_army_sub_unit_armored_car_recon_max_org_factor: "Организация $armored_car_recon$"
+ modifier_army_sub_unit_light_tank_recon_attack_factor: "Атака $armored_car_recon$"
+ modifier_army_sub_unit_light_tank_recon_defence_factor: "Оборона $armored_car_recon$"
+ modifier_army_sub_unit_light_tank_recon_speed_factor: "Скорость $armored_car_recon$"
+ modifier_army_sub_unit_light_tank_recon_max_org_factor: "Организация $armored_car_recon$"
+ modifier_army_sub_unit_marine_defence_factor: "Оборона $marine$"
+ modifier_army_sub_unit_marine_max_org_factor: "Организация $marine$"
+ modifier_army_sub_unit_mountaineers_defence_factor: "Оборона $mountaineers$"
+ modifier_army_sub_unit_mountaineers_max_org_factor: "Организация $mountaineers$"
+ modifier_army_sub_unit_paratrooper_defence_factor: "Оборона $paratrooper$"
+ modifier_army_sub_unit_paratrooper_max_org_factor: "Организация $paratrooper$"
+ modifier_army_sub_unit_irregular_infantry_defence_factor: "Оборона $irregular_infantry$"
+ modifier_army_sub_unit_irregular_infantry_max_org_factor: "Организация $irregular_infantry$"
+ modifier_army_sub_unit_militia_defence_factor: "Оборона $militia$"
+ modifier_army_sub_unit_militia_max_org_factor: "Организация $militia$"
+ modifier_army_sub_unit_militia_org_recovery_cap_factor: "Потолок восстановления организации $militia$"
+ modifier_army_sub_unit_military_police_attack_factor: "Атака $military_police$"
+ modifier_army_sub_unit_military_police_defence_factor: "Оборона $military_police$"
+ modifier_army_sub_unit_military_police_speed_factor: "Скорость $military_police$"
+ modifier_army_sub_unit_military_police_max_org_factor: "Организация $military_police$"
+ modifier_army_sub_unit_long_range_patrol_support_defence_factor: "Оборона $long_range_patrol_support$"
+ modifier_army_sub_unit_category_special_forces_max_org_factor: "Организация $category_special_forces$"
+ modifier_army_sub_unit_category_mobile_infantry_max_org_factor: "Организация кавалерии/мотопехоты/мехпехоты"
+ modifier_army_sub_unit_artillery_brigade_attack_factor: "Атака $artillery_brigade$"
+ modifier_army_sub_unit_artillery_brigade_defence_factor: "Оборона $artillery_brigade$"
+ modifier_army_sub_unit_artillery_brigade_max_org_factor: "Организация $artillery_brigade$"
+ modifier_army_sub_unit_artillery_brigade_speed_factor: "Скорость $artillery_brigade$"
+ modifier_unit_militia_design_cost_factor: "Стоимость дизайна единицы $militia$"
+ modifier_unit_irregular_infantry_design_cost_factor: "Стоимость дизайна единицы $irregular_infantry$"
 
 ### missing in vanilla ###
- small_plane_airframe_design_cost_factor: "Небольшая стоимость конструкции планера" #NT!
+ small_plane_airframe_design_cost_factor: "Стоимость дизайна малой авиаплатформы"
  modifier_state_repair_speed_infrastructure_factor: "$modifier_repair_speed_infrastructure_factor$"
  modifier_state_repair_speed_industrial_complex_factor: "$modifier_repair_speed_industrial_complex_factor$"
  modifier_state_repair_speed_arms_factory_factor: "$modifier_repair_speed_arms_factory_factor$"

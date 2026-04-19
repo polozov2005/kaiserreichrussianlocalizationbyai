@@ -10093,11 +10093,11 @@
  # Series FD # Name means “Heavy, Kolomna" :
  RUS_train_equipment_1: "Паровоз Тип 1"
  RUS_train_equipment_1_short: "Тип P1"
- RUS_train_equipment_1_desc: "Разработанный в 1931 году, класс P1 заменил многие локомотивы американской постройки класса Ye, работавшие на российской железной дороге. В 1936 году на локомотивы этого класса был установлен пароперегреватель для повышения мощности, в результате чего появился вариант П1-21. Высокие эксплуатационные характеристики этого класса быстро привели к массовым заказам, и он стал самым популярным локомотивом на российской железнодорожной сети, причем цеха были построены исключительно для производства этого типа."
+ RUS_train_equipment_1_desc: "The Tk is a modern train series intended to replace the older Series Э developed by the Kolomna factory. It is vastly more powerful as a locomotive, but is also much more complex to produce than the older trains."
  # Series SO # Name is chosen from available letters in the Russian naming scheme :
  RUS_train_equipment_2: "Паровоз Февральская дорога"
  RUS_train_equipment_2_short: "Класс Ф"
- RUS_train_equipment_2_desc: "Разработанные на Коломенском заводе и названные в честь Февральской железной дороги, соединяющей Москву и Петроград, локомотивы класса Ф экономичны и подходят для эксплуатации на обширной сети российских железных дорог. Благодаря отсутствию прицепной колесной пары и сложных узлов, серийное производство этого типа было быстрее и дешевле по сравнению с типом П1."
+ RUS_train_equipment_2_desc: "Series Ya is a complex upgrade to the old Series Э, stretching its capabilities to the maximum. It is somewhat weaker to the Series Tk, but vastly easier to produce and better fit to war-time conditions. They are essentially stripped of anything unnecessary to maintain their cheap production costs."
  # BP-43 armoured train composition :
  RUS_train_equipment_3: "Бронепаровоз Образец 1940"
  RUS_train_equipment_3_short: "БПР-40"
@@ -13490,7 +13490,7 @@
 
  BLR_support_weapons: "Пячотный Кулиамиот уз.1915 и 75,8-мм Лиохки Минамиот" #NT!
  BLR_support_weapons_short: "К-15 и 75,8-мм М" #NT!
- BLR_support_weapons2: "Пячотный Кулиамиот уз.1934 и 80-мм Сязки Минамиот" #NT!
+ BLR_support_weapons2: "Piachotny Kuliamiot uz.1934 & 80-mm Сiazki Minamiot"
  BLR_support_weapons2_short: "К-34 и 80-мм М" #NT!
  #MG 39Rh and 20-cm leLdgW :
  BLR_support_weapons3: "Пячотный Кулиамиот уз.1939 и 200-мм Лиохки Минамиот" #NT!

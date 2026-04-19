@@ -4,31 +4,31 @@
  STATE_1_RENAME: "[THIS.Controller.GetStateName_1]"
  STATE_1_FRENCH: "Корс"
 
- STATE_2: "Лаций"
+ STATE_2: "Лацио"
  STATE_2_RENAME: "[THIS.Controller.GetStateName_2]"
  STATE_2_ITALIAN: "Лацио"
 
  STATE_3: "Швейцарское плато"
  STATE_3_RENAME: "[THIS.Controller.GetStateName_3]"
- STATE_3_FRENCH: "Плато Суиссе"
+ STATE_3_FRENCH: "Плато Сюис"
  STATE_3_GERMAN: "Швайцер Миттельланд"
- STATE_3_ITALIAN: "Альтопиано Свицеро"
+ STATE_3_ITALIAN: "Альтопиано Свиссеро"
  STATE_3_SWISS: "Миттельланд"
 
  STATE_4: "Нижняя Австрия"
  STATE_4_RENAME: "[THIS.Controller.GetStateName_4]"
- STATE_4_GERMAN: "Нидеростеррайх"
+ STATE_4_GERMAN: "Нидерэстеррайх"
 
  STATE_5: "Восточная Пруссия"
  STATE_5_RENAME: "[THIS.Controller.GetStateName_5]"
  STATE_5_GERMAN: "Остпройсен"
  STATE_5_POLISH: "Прусы"
- STATE_5_KALEDINGRAD: "Калединград"
+ STATE_5_KALEDINGRAD: "Каленинград"
 
  STATE_6: "Фландрия"
  STATE_6_RENAME: "[THIS.Controller.GetStateName_6]"
  STATE_6_DUTCH: "Вландерен"
- STATE_6_FRENCH: "Фландрес"
+ STATE_6_FRENCH: "Фландр"
  STATE_6_GERMAN: "Фландерн"
 
  STATE_7: "Голландия"
@@ -50,7 +50,7 @@
  STATE_12: "Ливония"
  STATE_12_RENAME: "[THIS.Controller.GetStateName_12]"
  STATE_12_FINNISH: "Лиивинмаа"
- STATE_12_GERMAN: "Лифланд"
+ STATE_12_GERMAN: "Ливланд"
  STATE_12_LATVIAN: "Видземе"
  STATE_12_LITHUANIAN: "Видземе"
  STATE_12_RUSSIAN: "Лифляндия"
@@ -64,8 +64,8 @@
 
  STATE_14: "Верхняя Бретань"
  STATE_14_RENAME: "[THIS.Controller.GetStateName_14]"
- STATE_14_BRETON: "Брейз-Ухэл"
- STATE_14_FRENCH: "Ут-Брутань"
+ STATE_14_BRETON: "Брейз-Уэль"
+ STATE_14_FRENCH: "От-Бретань"
 
  STATE_15: "Нормандия"
  STATE_15_RENAME: "[THIS.Controller.GetStateName_15]"
@@ -76,8 +76,8 @@
 
  STATE_17: "Па-де-Кале"
  STATE_17_RENAME: "[THIS.Controller.GetStateName_17]"
- STATE_17_DUTCH: "Наув ван Калес"
- STATE_17_GERMAN: "Штрассе фон Кален"
+ STATE_17_DUTCH: "Нау ван Калес"
+ STATE_17_GERMAN: "Штрасе фон Кален"
 
  STATE_18: "Шампань"
  STATE_18_RENAME: "[THIS.Controller.GetStateName_18]"
@@ -85,7 +85,7 @@
  STATE_19: "Аквитания"
  STATE_19_RENAME: "[THIS.Controller.GetStateName_19]"
 
- STATE_20: "Лион"
+ STATE_20: "Лионне"
  STATE_20_RENAME: "[THIS.Controller.GetStateName_20]"
 
  STATE_21: "Прованс"
@@ -109,7 +109,7 @@
 
  STATE_27: "Бургундия"
  STATE_27_RENAME: "[THIS.Controller.GetStateName_27]"
- STATE_27_FRENCH: "Бургунье"
+ STATE_27_FRENCH: "Бургонь"
 
  STATE_28: "Эльзас-Лотарингия"
  STATE_28_RENAME: "[THIS.Controller.GetStateName_28]"
@@ -127,26 +127,26 @@
  STATE_32: "Рона"
  STATE_32_RENAME: "[THIS.Controller.GetStateName_32]"
 
- STATE_33: "Орлеан"
+ STATE_33: "Орлеане"
  STATE_33_RENAME: "[THIS.Controller.GetStateName_33]"
 
  STATE_34: "Эно"
  STATE_34_RENAME: "[THIS.Controller.GetStateName_34]"
- STATE_34_DUTCH: "Хенегауэн"
- STATE_34_GERMAN: "Геннегау"
+ STATE_34_DUTCH: "Хенегоуэн"
+ STATE_34_GERMAN: "Хеннегау"
 
  STATE_35: "Северный Брабант"
  STATE_35_RENAME: "[THIS.Controller.GetStateName_35]"
- STATE_35_DUTCH: "Норт-Брабант"
+ STATE_35_DUTCH: "Ноорд-Брабант"
  STATE_35_GERMAN: "Нордбрабант"
 
- STATE_36: "Фризия"
+ STATE_36: "Фрисландия"
  STATE_36_RENAME: "[THIS.Controller.GetStateName_36]"
  STATE_36_DUTCH: "Фрисланд"
 
  STATE_37: "Зеландия"
  STATE_37_RENAME: "[THIS.Controller.GetStateName_37]"
- STATE_37_DANISH: "Зеленд"
+ STATE_37_DANISH: "Сьелланд"
 
  STATE_38: "Норрланд"
  STATE_38_RENAME: "[THIS.Controller.GetStateName_38]"
@@ -154,7 +154,7 @@
  STATE_39: "Южный Тироль"
  STATE_39_RENAME: "[THIS.Controller.GetStateName_39]"
  STATE_39_GERMAN: "Зюдтироль"
- STATE_39_ITALIAN: "Альто-Адиже"
+ STATE_39_ITALIAN: "Альто Адидже"
 
  STATE_40: "Барнаул"
  STATE_40_RENAME: "[THIS.Controller.GetStateName_40]"
@@ -164,7 +164,7 @@
 
  STATE_42: "Пфальц"
  STATE_42_RENAME: "[THIS.Controller.GetStateName_42]"
- STATE_42_FRENCH: "Палатинат Ренан"
+ STATE_42_FRENCH: "Палатина Ренан"
  STATE_42_GERMAN: "Пфальц"
 
  STATE_43: "Центральная Венгрия"
@@ -175,20 +175,20 @@
  STATE_44: "Тоскерия"
  STATE_44_RENAME: "[THIS.Controller.GetStateName_44]"
  STATE_44_ALBANIAN: "Тоскерия"
- STATE_44_ITALIAN: "Албаниа Меридионале"
+ STATE_44_ITALIAN: "Албания Меридионале"
 
  STATE_45: "Воеводина"
  STATE_45_RENAME: "[THIS.Controller.GetStateName_45]"
  STATE_45_GERMAN: "Бачка"
  STATE_45_HUNGARIAN: "Вайдашаг"
- STATE_45_ROMANIAN: "Бацика"
+ STATE_45_ROMANIAN: "Бачка"
 
  STATE_46: "Мунтения"
  STATE_46_RENAME: "[THIS.Controller.GetStateName_46]"
 
  STATE_47: "Центральная Греция"
  STATE_47_RENAME: "[THIS.Controller.GetStateName_47]"
- STATE_47_GREEK: "Стереа Эллада"
+ STATE_47_GREEK: "Стереа Элада"
 
  STATE_48: "София"
  STATE_48_RENAME: "[THIS.Controller.GetStateName_48]"
@@ -201,7 +201,7 @@
 
  STATE_51: "Восточный Рейнланд"
  STATE_51_RENAME: "[THIS.Controller.GetStateName_51]"
- STATE_51_GERMAN: "Острейнланд"
+ STATE_51_GERMAN: "Остайнланд"
 
  STATE_52: "Верхняя Бавария"
  STATE_52_RENAME: "[THIS.Controller.GetStateName_52]"
@@ -217,7 +217,7 @@
 
  STATE_55: "Гессен"
  STATE_55_RENAME: "[THIS.Controller.GetStateName_55]"
- STATE_55_GERMAN: "Гессен"
+ STATE_55_GERMAN: "Хессен"
 
  STATE_56: "Ольденбург"
  STATE_56_RENAME: "[THIS.Controller.GetStateName_56]"
@@ -228,7 +228,7 @@
 
  STATE_58: "Шлезвиг-Гольштейн"
  STATE_58_RENAME: "[THIS.Controller.GetStateName_58]"
- STATE_58_DANISH: "Слезвиг-Гольстен"
+ STATE_58_DANISH: "Слесвиг-Хольстен"
 
  STATE_59: "Ганновер"
  STATE_59_RENAME: "[THIS.Controller.GetStateName_59]"
@@ -240,35 +240,35 @@
  STATE_61: "Мекленбург"
  STATE_61_RENAME: "[THIS.Controller.GetStateName_61]"
 
- STATE_62: "Ближняя Померания"
+ STATE_62: "Передняя Померания"
  STATE_62_RENAME: "[THIS.Controller.GetStateName_62]"
  STATE_62_GERMAN: "Форпоммерн"
 
- STATE_63: "Дальняя Померания"
+ STATE_63: "Задняя Померания"
  STATE_63_RENAME: "[THIS.Controller.GetStateName_63]"
  STATE_63_GERMAN: "Хинтерпоммерн"
- STATE_63_POLISH: "Поможе-Тыльне"
+ STATE_63_POLISH: "Поможе Тыльне"
 
  STATE_64: "Бранденбург"
  STATE_64_RENAME: "[THIS.Controller.GetStateName_64]"
 
  STATE_65: "Саксония"
  STATE_65_RENAME: "[THIS.Controller.GetStateName_65]"
- STATE_65_GERMAN: "Саксен"
+ STATE_65_GERMAN: "Заксен"
 
  STATE_66: "Нижняя Силезия"
  STATE_66_RENAME: "[THIS.Controller.GetStateName_66]"
  STATE_66_GERMAN: "Нидершлезиен"
- STATE_66_POLISH: "Дольны-Шлёнск"
+ STATE_66_POLISH: "Дольны Слёнск"
 
  STATE_67: "Верхняя Силезия"
  STATE_67_RENAME: "[THIS.Controller.GetStateName_67]"
  STATE_67_GERMAN: "Обершлезиен"
- STATE_67_POLISH: "Гурны-Шлёнск"
+ STATE_67_POLISH: "Гурны Слёнск"
 
  STATE_68: "Ноймарк"
  STATE_68_RENAME: "[THIS.Controller.GetStateName_68]"
- STATE_68_POLISH: "Жемия-Лубуска"
+ STATE_68_POLISH: "Земля Любушская"
 
  STATE_69: "Либерец"
  STATE_69_RENAME: "[THIS.Controller.GetStateName_69]"
@@ -276,52 +276,52 @@
  STATE_70: "Словакия"
  STATE_70_RENAME: "[THIS.Controller.GetStateName_70]"
  STATE_70_CZECH: "Словенско"
- STATE_70_GERMAN: "Словакай"
+ STATE_70_GERMAN: "Словакей"
  STATE_70_HUNGARIAN: "Фельвидек"
- STATE_70_POLISH: "Словакия"
+ STATE_70_POLISH: "Словация"
 
  STATE_71: "Дунайская равнина"
  STATE_71_RENAME: "[THIS.Controller.GetStateName_71]"
- STATE_71_CZECH: "Придунайска ровина"
+ STATE_71_CZECH: "Подунайская ровина"
  STATE_71_GERMAN: "Донауэбене"
  STATE_71_HUNGARIAN: "Дуна Менти Альфёльд"
- STATE_71_POLISH: "Низина Наддунайска"
+ STATE_71_POLISH: "Низина Наддунайская"
 
  STATE_72: "Верхний Шан"
  STATE_72_RENAME: "[THIS.Controller.GetStateName_72]"
- STATE_72_BURMESE: "Анья Храм Праньяй"
+ STATE_72_BURMESE: "Анья Храм Пранынай"
  STATE_72_CHINESE: "Дунчжи"
- STATE_72_SHAN_FULL: "Таунггуй"
+ STATE_72_SHAN_FULL: "Таунгьи"
  STATE_72_SHAN_HALF: "Моенг Тай"
- STATE_72_THAI: "Интхакхон"
+ STATE_72_THAI: "Интанакхон"
 
  STATE_73: "Закарпатье"
  STATE_73_RENAME: "[THIS.Controller.GetStateName_73]"
- STATE_73_CZECH: "Подкарптско"
- STATE_73_GERMAN: "Субкарпатиен"
+ STATE_73_CZECH: "Подкарпатско"
+ STATE_73_GERMAN: "Зубкарпатиен"
  STATE_73_HUNGARIAN: "Марамарош"
- STATE_73_POLISH: "Закарпаце"
- STATE_73_UKRAINIAN: "Закарпаття"
+ STATE_73_POLISH: "Закарпатье"
+ STATE_73_UKRAINIAN: "Закарпатье"
  STATE_73_RUSSIAN: "Закарпатье"
 
  STATE_74: "Чешская Силезия"
  STATE_74_RENAME: "[THIS.Controller.GetStateName_74]"
- STATE_74_CZECH: "Чешке Шлеско"
+ STATE_74_CZECH: "Ческе Слезско"
  STATE_74_GERMAN: "Троппау"
- STATE_74_POLISH: "Шлёнск Чески"
+ STATE_74_POLISH: "Слёнск Чески"
 
  STATE_75: "Моравия"
  STATE_75_RENAME: "[THIS.Controller.GetStateName_75]"
  STATE_75_CZECH: "Морава"
  STATE_75_GERMAN: "Мерен"
- STATE_75_POLISH: "Морави"
+ STATE_75_POLISH: "Моравы"
 
  STATE_76: "Клуж"
  STATE_76_RENAME: "[THIS.Controller.GetStateName_76]"
  STATE_76_GERMAN: "Комитатсбоден"
- STATE_76_ROMANIAN: "Ардеалул ду Норд"
+ STATE_76_ROMANIAN: "Ардярул де Норд"
 
- STATE_77: "Силистра"
+ STATE_77: "Силистрия"
  STATE_77_RENAME: "[THIS.Controller.GetStateName_77]"
  STATE_77_BULGARIAN: "Силистра"
  STATE_77_ROMANIAN: "Кадрилатер"
@@ -337,7 +337,7 @@
  STATE_80: "Чернаути"
  STATE_80_RENAME: "[THIS.Controller.GetStateName_80]"
 
- STATE_81: "Ольтения"
+ STATE_81: "Олтения"
  STATE_81_RENAME: "[THIS.Controller.GetStateName_81]"
 
  STATE_82: "Банат"
@@ -346,9 +346,9 @@
 
  STATE_83: "Партиум"
  STATE_83_RENAME: "[THIS.Controller.GetStateName_83]"
- STATE_83_GERMAN: "Крайшгебит" #NT!
- STATE_83_HUNGARIAN: "Ресек"
- STATE_83_ROMANIAN: "Кришана" #NT!
+ STATE_83_GERMAN: "Крайшгебит"
+ STATE_83_HUNGARIAN: "Кёрёшвидек"
+ STATE_83_ROMANIAN: "Кришана"
 
  STATE_84: "Трансильвания"
  STATE_84_RENAME: "[THIS.Controller.GetStateName_84]"
@@ -399,7 +399,7 @@
 
  STATE_99: "Ютландия"
  STATE_99_RENAME: "[THIS.Controller.GetStateName_99]"
- STATE_99_DANISH: "Ютланд"
+ STATE_99_DANISH: "Юлланн"
 
  STATE_100: "Исландия"
  STATE_100_RENAME: "[THIS.Controller.GetStateName_100]"
@@ -407,9 +407,9 @@
 
  STATE_101: "Гренландия"
  STATE_101_RENAME: "[THIS.Controller.GetStateName_101]"
- STATE_101_DANISH: "Готхоб"
+ STATE_101_DANISH: "Грёнланд"
 
- STATE_102: "Карниола"
+ STATE_102: "Крайна"
  STATE_102_RENAME: "[THIS.Controller.GetStateName_102]"
  STATE_102_GERMAN: "Крайн"
  STATE_102_SERBIAN: "Краньска"
@@ -431,7 +431,7 @@
  STATE_106_RENAME: "[THIS.Controller.GetStateName_106]"
  STATE_106_ALBANIAN: "Македония"
  STATE_106_BULGARIAN: "Македония"
- STATE_106_SERBIAN: "Македонија"
+ STATE_106_SERBIAN: "Македония"
 
  STATE_107: "Белград"
  STATE_107_RENAME: "[THIS.Controller.GetStateName_107]"
@@ -443,9 +443,9 @@
  STATE_109_RENAME: "[THIS.Controller.GetStateName_109]"
  STATE_109_GERMAN: "Централькроатиен"
  STATE_109_HUNGARIAN: "Кёзеп-Хорваторсаг"
- STATE_109_SERBIAN: "Средижна Хравцка"
+ STATE_109_SERBIAN: "Средишнья Хрватска"
 
- STATE_110: "Эстланн"
+ STATE_110: "Эстландет"
  STATE_110_RENAME: "[THIS.Controller.GetStateName_110]"
 
  STATE_111: "Тавастия"
@@ -457,9 +457,9 @@
  STATE_112: "Лиссабон"
  STATE_112_RENAME: "[THIS.Controller.GetStateName_112]"
 
- STATE_113: "Ленстер"
+ STATE_113: "Лейнстер"
  STATE_113_RENAME: "[THIS.Controller.GetStateName_113]"
- STATE_113_IRISH: "Лайн"
+ STATE_113_IRISH: "Лайгин"
 
  STATE_114: "Сардиния"
  STATE_114_RENAME: "[THIS.Controller.GetStateName_114]"
@@ -467,13 +467,13 @@
 
  STATE_115: "Сицилия"
  STATE_115_RENAME: "[THIS.Controller.GetStateName_115]"
- STATE_115_ITALIAN: "Сицилия"
+ STATE_115_ITALIAN: "Сичилия"
 
  STATE_116: "Мальта"
  STATE_116_RENAME: "[THIS.Controller.GetStateName_116]"
- STATE_116_FRENCH: "Мальте"
+ STATE_116_FRENCH: "Мальт"
 
- STATE_117: "Кампанья"
+ STATE_117: "Кампания"
  STATE_117_RENAME: "[THIS.Controller.GetStateName_117]"
 
  STATE_118: "Гибралтар"
@@ -481,24 +481,24 @@
 
  STATE_119: "Северная Ирландия"
  STATE_119_RENAME: "[THIS.Controller.GetStateName_119]"
- STATE_119_IRISH: "Туашкарт Эре"
+ STATE_119_IRISH: "Туайскерт Эйренн"
 
- STATE_120: "Северо-Шотландское нагорье"
+ STATE_120: "Шотландское нагорье"
  STATE_120_RENAME: "[THIS.Controller.GetStateName_120]"
  STATE_120_IRISH: "Гарвхриха на Халбан"
- STATE_120_SCOTTISH: "Хиландс"
+ STATE_120_SCOTTISH: "Хайлендс"
 
  STATE_121: "Лотиан"
  STATE_121_RENAME: "[THIS.Controller.GetStateName_121]"
- STATE_121_SCOTTISH: "Лоудэн"
+ STATE_121_SCOTTISH: "Лоуден"
 
  STATE_122: "Южный Уэльс"
  STATE_122_RENAME: "[THIS.Controller.GetStateName_122]"
- STATE_122_WELSH: "Де Кемре"
+ STATE_122_WELSH: "Де Кимру"
 
  STATE_123: "Корнуолл"
  STATE_123_RENAME: "[THIS.Controller.GetStateName_123]"
- STATE_123_CORNISH: "Кернов"
+ STATE_123_CORNISH: "Керноу"
 
  STATE_124: "Готланд"
  STATE_124_RENAME: "[THIS.Controller.GetStateName_124]"
@@ -509,7 +509,7 @@
  STATE_126: "Большой Лондон"
  STATE_126_RENAME: "[THIS.Controller.GetStateName_126]"
 
- STATE_127: "Сассекс"
+ STATE_127: "Домашние провинции"
  STATE_127_RENAME: "[THIS.Controller.GetStateName_127]"
 
  STATE_128: "Уэст-Мидлендс"
@@ -521,29 +521,29 @@
  STATE_130: "Йоркшир"
  STATE_130_RENAME: "[THIS.Controller.GetStateName_130]"
 
- STATE_131: "Северная Англия"
+ STATE_131: "Нортумбрия"
  STATE_131_RENAME: "[THIS.Controller.GetStateName_131]"
 
- STATE_132: "Ланкашир"
+ STATE_132: "Солфордшир"
  STATE_132_RENAME: "[THIS.Controller.GetStateName_132]"
 
- STATE_133: "Ланарк"
+ STATE_133: "Стратклайд"
  STATE_133_RENAME: "[THIS.Controller.GetStateName_133]"
 
  STATE_134: "Коннахт"
  STATE_134_RENAME: "[THIS.Controller.GetStateName_134]"
 
- STATE_135: "Манстер"
+ STATE_135: "Мюнстер"
  STATE_135_RENAME: "[THIS.Controller.GetStateName_135]"
  STATE_135_IRISH: "Ан Мумайн"
 
- STATE_136: "Абердиншир"
+ STATE_136: "Грампиан"
  STATE_136_RENAME: "[THIS.Controller.GetStateName_136]"
- STATE_136_SCOTTISH: "Айбердиншир"
+ STATE_136_SCOTTISH: "Роинн а' Моней"
 
  STATE_137: "Крым"
  STATE_137_RENAME: "[THIS.Controller.GetStateName_137]"
- STATE_137_UKRAINIAN: "Крiм"
+ STATE_137_UKRAINIAN: "Крым"
 
  STATE_138: "Сконеланд"
  STATE_138_RENAME: "[THIS.Controller.GetStateName_138]"
@@ -558,7 +558,7 @@
  STATE_141: "Свеаланд"
  STATE_141_RENAME: "[THIS.Controller.GetStateName_141]"
 
- STATE_142: "Вестланн"
+ STATE_142: "Вестландет"
  STATE_142_RENAME: "[THIS.Controller.GetStateName_142]"
 
  STATE_143: "Трёнделаг"
@@ -566,12 +566,12 @@
 
  STATE_144: "Нурланн и Тромс"
  STATE_144_RENAME: "[THIS.Controller.GetStateName_144]"
- STATE_144_FINNISH: "Нурланн я Тромсса"
- STATE_144_NORWEGIAN: "Нурланн ог Тромс"
+ STATE_144_FINNISH: "Нурланд я Тромсса"
+ STATE_144_NORWEGIAN: "Нурланд ог Тромс"
 
- STATE_145: "Аландские острова"
+ STATE_145: "Аланд"
  STATE_145_RENAME: "[THIS.Controller.GetStateName_145]"
- STATE_145_RUSSIAN: "Аландские острова"
+ STATE_145_RUSSIAN: "Аландские Острова"
 
  STATE_146: "Карелия"
  STATE_146_RENAME: "[THIS.Controller.GetStateName_146]"
@@ -581,43 +581,43 @@
 
  STATE_147: "Прусская Саксония"
  STATE_147_RENAME: "[THIS.Controller.GetStateName_147]"
- STATE_147_GERMAN: "Пруссиш Саксен"
+ STATE_147_GERMAN: "Пройсиш Заксен"
 
  STATE_148: "Торнио"
  STATE_148_RENAME: "[THIS.Controller.GetStateName_148]"
 
- STATE_149: "Восточная Ботния"
+ STATE_149: "Остроботния"
  STATE_149_RENAME: "[THIS.Controller.GetStateName_149]"
- STATE_149_FINNISH: "Похъянмаа"
+ STATE_149_FINNISH: "Похьянмаа"
  STATE_149_RUSSIAN: "Остроботния"
- STATE_149_SWEDISH: "Остерботтен"
+ STATE_149_SWEDISH: "Эстерботтен"
 
  STATE_150: "Луизиана"
  STATE_150_RENAME: "[THIS.Controller.GetStateName_150]"
 
  STATE_151: "Восточная Швейцария"
  STATE_151_RENAME: "[THIS.Controller.GetStateName_151]"
- STATE_151_FRENCH: "Суиссе Ориенталь"
+ STATE_151_FRENCH: "Сюис Ориенталь"
  STATE_151_GERMAN: "Остшвайц"
- STATE_151_ITALIAN: "Свицерра Ориентале"
+ STATE_151_ITALIAN: "Свиссера Ориентале"
 
- STATE_152: "Верхния Австрия"
+ STATE_152: "Верхняя Австрия"
  STATE_152_RENAME: "[THIS.Controller.GetStateName_152]"
- STATE_152_GERMAN: "Оберостеррайх"
+ STATE_152_GERMAN: "Оберэстеррайх"
 
- STATE_153: "Тироль"
+ STATE_153: "Северный Тироль"
  STATE_153_RENAME: "[THIS.Controller.GetStateName_153]"
- STATE_153_GERMAN: "Тироль"
+ STATE_153_GERMAN: "Нордтироль"
 
  STATE_154: "Альфёльд"
  STATE_154_RENAME: "[THIS.Controller.GetStateName_154]"
- STATE_154_GERMAN: "Транстизен"
- STATE_154_ROMANIAN: "Кампия Унгара"
+ STATE_154_GERMAN: "Транстизиен"
+ STATE_154_ROMANIAN: "Кымпия Унгара"
 
- STATE_155: "Трансдунай"
+ STATE_155: "Трансдунайская область"
  STATE_155_RENAME: "[THIS.Controller.GetStateName_155]"
- STATE_155_GERMAN: "Трансданубиен"
- STATE_155_HUNGARIAN: "Дунантул"
+ STATE_155_GERMAN: "Трансдунабиен"
+ STATE_155_HUNGARIAN: "Дунантуль"
 
  STATE_156: "Калабрия"
  STATE_156_RENAME: "[THIS.Controller.GetStateName_156]"
@@ -634,7 +634,7 @@
  STATE_159_RENAME: "[THIS.Controller.GetStateName_159]"
  STATE_159_ITALIAN: "Ломбардия"
 
- STATE_160: "Венеция"
+ STATE_160: "Венето"
  STATE_160_RENAME: "[THIS.Controller.GetStateName_160]"
  STATE_160_ITALIAN: "Венето"
 
@@ -647,18 +647,18 @@
 
  STATE_163: "Далмация"
  STATE_163_RENAME: "[THIS.Controller.GetStateName_163]"
- STATE_163_GERMAN: "Далматиен"
- STATE_163_ITALIAN: "Далмация"
- STATE_163_SERBIAN: "Далмачия"
+ STATE_163_GERMAN: "Дальматиен"
+ STATE_163_ITALIAN: "Дальмация"
+ STATE_163_SERBIAN: "Дальмация"
 
  STATE_164: "Додеканес"
  STATE_164_RENAME: "[THIS.Controller.GetStateName_164]"
  STATE_164_GREEK: "Додеканиса"
- STATE_164_TURKISH: "Ментесе Адалари"
+ STATE_164_TURKISH: "Ментеше Адалари"
 
  STATE_165: "Каталония"
  STATE_165_RENAME: "[THIS.Controller.GetStateName_165]"
- STATE_165_CATALAN: "Каталуния"
+ STATE_165_CATALAN: "Каталунья"
  STATE_165_FRENCH: "Каталонь"
  STATE_165_SPANISH: "Каталунья"
 
@@ -680,7 +680,7 @@
 
  STATE_171: "Галисия"
  STATE_171_RENAME: "[THIS.Controller.GetStateName_171]"
- STATE_171_PORTUGUESE: "Гализа"
+ STATE_171_PORTUGUESE: "Галиса"
 
  STATE_172: "Наварра"
  STATE_172_RENAME: "[THIS.Controller.GetStateName_172]"
@@ -701,12 +701,12 @@
 
  STATE_177: "Балеарские острова"
  STATE_177_RENAME: "[THIS.Controller.GetStateName_177]"
- STATE_177_CATALAN: "Иллес-Балеарс"
- STATE_177_SPANISH: "Ислас-Балеарес"
+ STATE_177_CATALAN: "Ильес Балеарс"
+ STATE_177_SPANISH: "Ислас Балеарес"
 
  STATE_178: "Канарские острова"
  STATE_178_RENAME: "[THIS.Controller.GetStateName_178]"
- STATE_178_SPANISH: "Ислас-Канариас"
+ STATE_178_SPANISH: "Ислас Канариас"
 
  STATE_179: "Бежа"
  STATE_179_RENAME: "[THIS.Controller.GetStateName_179]"
@@ -726,7 +726,7 @@
 
  STATE_183: "Кипр"
  STATE_183_RENAME: "[THIS.Controller.GetStateName_183]"
- STATE_183_GERMAN: "Циперн"
+ STATE_183_GERMAN: "Зиперн"
  STATE_183_GREEK: "Кипрос"
  STATE_183_ITALIAN: "Чипро"
  STATE_183_TURKISH: "Кибрис"
@@ -736,7 +736,7 @@
 
  STATE_185: "Эпир"
  STATE_185_RENAME: "[THIS.Controller.GetStateName_185]"
- STATE_185_ALBANIAN: "Камерия"
+ STATE_185_ALBANIAN: "Чамёрия"
  STATE_185_GREEK: "Ипирос"
 
  STATE_186: "Пелопоннес"
@@ -745,13 +745,13 @@
 
  STATE_187: "Эгейские острова"
  STATE_187_RENAME: "[THIS.Controller.GetStateName_187]"
- STATE_187_GREEK: "Нисия Аигеу"
+ STATE_187_GREEK: "Нисиа Эгеу"
  STATE_187_TURKISH: "Эге Адалари"
 
  STATE_188: "Мемель"
  STATE_188_RENAME: "[THIS.Controller.GetStateName_188]"
 
- STATE_189: "Самогития"
+ STATE_189: "Жемайтия"
  STATE_189_RENAME: "[THIS.Controller.GetStateName_189]"
  STATE_189_GERMAN: "Самогитиен"
  STATE_189_LITHUANIAN: "Жемайтия"
@@ -770,7 +770,7 @@
  STATE_191_RENAME: "[THIS.Controller.GetStateName_191]"
  STATE_191_ESTONIAN: "Тарту"
  STATE_191_FINNISH: "Тартто"
- STATE_191_GERMAN: "Нордлифланд"
+ STATE_191_GERMAN: "Нордливланд"
  STATE_191_RUSSIAN: "Юрьев"
 
  STATE_192: "Одесса"
@@ -785,12 +785,12 @@
  STATE_195: "Петроград"
  STATE_195_RENAME: "[THIS.Controller.GetStateName_195]"
  STATE_195_FINNISH: "Инкеринмаа"
- STATE_195_SWEDISH: "Ингерманландия"
+ STATE_195_SWEDISH: "Ингерманланд"
 
  STATE_196: "Таврида"
  STATE_196_RENAME: "[THIS.Controller.GetStateName_196]"
- STATE_196_UKRAINIAN: "Таврида"
- STATE_196_RUSSIAN: "Таврида" #NT!
+ STATE_196_UKRAINIAN: "Таврия"
+ STATE_196_RUSSIAN: "Таврида"
 
  STATE_197: "Херсон"
  STATE_197_RENAME: "[THIS.Controller.GetStateName_197]"
@@ -851,9 +851,9 @@
  STATE_215_FINNISH: "Виенан Карьяла"
  STATE_215_RUSSIAN: "Белая Карелия"
 
- STATE_216: "Петрозаводск"
+ STATE_216: "Олонец"
  STATE_216_RENAME: "[THIS.Controller.GetStateName_216]"
- STATE_216_FINNISH: "Аунуксен Карьяла"
+ STATE_216_FINNISH: "Аунус"
 
  STATE_217: "Царицын"
  STATE_217_RENAME: "[THIS.Controller.GetStateName_217]"
@@ -907,7 +907,7 @@
 
  STATE_232: "Дагестан"
  STATE_232_RENAME: "[THIS.Controller.GetStateName_232]"
- STATE_232_KUMYK: "Дагъистан"
+ STATE_232_KUMYK: "Дагъыстан"
 
  STATE_233: "Владикавказ"
  STATE_233_RENAME: "[THIS.Controller.GetStateName_233]"
@@ -1022,30 +1022,30 @@
 
  STATE_270: "Остров Пасхи"
  STATE_270_RENAME: "[THIS.Controller.GetStateName_270]"
- STATE_270_SPANISH: "Исла-де-Паска"
+ STATE_270_SPANISH: "Исла де Паскуа"
 
- STATE_271: "Шоа"
+ STATE_271: "Шева"
  STATE_271_RENAME: "[THIS.Controller.GetStateName_271]"
- STATE_271_ITALIAN: "Сциоа"
+ STATE_271_ITALIAN: "Шиоа"
 
  STATE_272: "Сенегал"
  STATE_272_RENAME: "[THIS.Controller.GetStateName_272]"
- STATE_272_FRENCH: "Сенегал"
+ STATE_272_FRENCH: "Сенегаль"
 
  STATE_273: "Феццан"
  STATE_273_RENAME: "[THIS.Controller.GetStateName_273]"
- STATE_273_ARABIC: "Фиццан"
+ STATE_273_ARABIC: "Фаззан"
  STATE_273_TURKISH: "Физан"
 
  STATE_274: "Золотой Берег"
  STATE_274_RENAME: "[THIS.Controller.GetStateName_274]"
- STATE_274_FRENCH: "Кот-Д'Ор"
+ STATE_274_FRENCH: "Кот-де-л'Ор"
  STATE_274_GERMAN: "Гольдкюсте"
 
  STATE_275: "Трансвааль"
  STATE_275_RENAME: "[THIS.Controller.GetStateName_275]"
 
- STATE_276: "Южное Онтарио"
+ STATE_276: "Южный Онтарио"
  STATE_276_RENAME: "[THIS.Controller.GetStateName_276]"
 
  STATE_277: "Мехико"
@@ -1063,8 +1063,8 @@
 
  STATE_281: "Мальдивы"
  STATE_281_RENAME: "[THIS.Controller.GetStateName_281]"
- STATE_281_GERMAN: "Маледивен"
- STATE_281_JAPANESE: "Марудибу Сёто"
+ STATE_281_GERMAN: "Мальдивен"
+ STATE_281_JAPANESE: "Марудибу Шото"
 
  STATE_282: "Токио"
  STATE_282_RENAME: "[THIS.Controller.GetStateName_282]"
@@ -1072,7 +1072,7 @@
  STATE_283: "Ланьчжоу"
  STATE_283_RENAME: "[THIS.Controller.GetStateName_283]"
 
- STATE_284: "Северный Остров"
+ STATE_284: "Северный остров"
  STATE_284_RENAME: "[THIS.Controller.GetStateName_284]"
 
  STATE_285: "Новый Южный Уэльс"
@@ -1080,9 +1080,9 @@
 
  STATE_286: "Кохинхина"
  STATE_286_RENAME: "[THIS.Controller.GetStateName_286]"
- STATE_286_CAMBODIAN: "Прей-Нокор"
- STATE_286_THAI: "Прайнахон"
- STATE_286_VIETNAMESE: "Сайгон"
+ STATE_286_CAMBODIAN: "Прей Нокор"
+ STATE_286_THAI: "Прайнакхон"
+ STATE_286_VIETNAMESE: "Сай Гон"
 
  STATE_287: "Цемо"
  STATE_287_RENAME: "[THIS.Controller.GetStateName_287]"
@@ -1092,24 +1092,24 @@
 
  STATE_289: "Сиам"
  STATE_289_RENAME: "[THIS.Controller.GetStateName_289]"
- STATE_289_THAI: "Парк-Гларнг"
+ STATE_289_THAI: "Пак Гланг"
 
  STATE_290: "Риф"
  STATE_290_RENAME: "[THIS.Controller.GetStateName_290]"
- STATE_290_ARABIC: "Аль-Рийф"
- STATE_290_SPANISH: "Эль-Рия"
+ STATE_290_ARABIC: "Ар Риф"
+ STATE_290_SPANISH: "Эль Риф"
 
  STATE_291: "Багдад"
  STATE_291_RENAME: "[THIS.Controller.GetStateName_291]"
 
- STATE_292: "Джабаль Тувайк"
+ STATE_292: "Джебаль Тувейк"
  STATE_292_RENAME: "[THIS.Controller.GetStateName_292]"
- STATE_292_ARABIC: "Джабаль Тувайк"
- STATE_292_TURKISH: "Джабаль Тувайк"
+ STATE_292_ARABIC: "Джабаль Тувейк"
+ STATE_292_TURKISH: "Джебел Тувейк"
 
  STATE_293: "Йемен"
  STATE_293_RENAME: "[THIS.Controller.GetStateName_293]"
- STATE_293_ARABIC: "Аль-Йаман"
+ STATE_293_ARABIC: "Аль Яман"
 
  STATE_294: "Маскат"
  STATE_294_RENAME: "[THIS.Controller.GetStateName_294]"
@@ -1130,16 +1130,16 @@
 
  STATE_299: "Фолклендские острова"
  STATE_299_RENAME: "[THIS.Controller.GetStateName_299]"
- STATE_299_SPANISH: "Ислас-Мальвинас"
+ STATE_299_SPANISH: "Ислас Мальвинас"
 
  STATE_300: "Уругвай"
  STATE_300_RENAME: "[THIS.Controller.GetStateName_300]"
  STATE_300_CISPLATINA: "Цисплатина"
- STATE_300_PORTUGUESE: "Уругвай"
+ STATE_300_PORTUGUESE: "Уругуай"
 
  STATE_301: "Парагвай"
  STATE_301_RENAME: "[THIS.Controller.GetStateName_301]"
- STATE_301_PORTUGUESE: "Парагвай"
+ STATE_301_PORTUGUESE: "Парагуай"
 
  STATE_302: "Ла-Пас"
  STATE_302_RENAME: "[THIS.Controller.GetStateName_302]"
@@ -1178,7 +1178,7 @@
  STATE_313: "Гватемала"
  STATE_313_RENAME: "[THIS.Controller.GetStateName_313]"
 
- STATE_314: "Эль-Сальвадор"
+ STATE_314: "Сальвадор"
  STATE_314_RENAME: "[THIS.Controller.GetStateName_314]"
 
  STATE_315: "Гавана"
@@ -1192,7 +1192,7 @@
 
  STATE_318: "Гаити"
  STATE_318_RENAME: "[THIS.Controller.GetStateName_318]"
- STATE_318_FRENCH: "Гаити" #NT!
+ STATE_318_FRENCH: "Аити"
 
  STATE_319: "Санто-Доминго"
  STATE_319_RENAME: "[THIS.Controller.GetStateName_319]"
@@ -1208,14 +1208,14 @@
 
  STATE_323: "Непал"
  STATE_323_RENAME: "[THIS.Controller.GetStateName_323]"
- STATE_323_INDIAN: "Непала" #NT!
+ STATE_323_INDIAN: "Непала"
 
  STATE_324: "Бутан"
  STATE_324_RENAME: "[THIS.Controller.GetStateName_324]"
- STATE_324_BHUTAN: "Друк-Юл"
- STATE_324_CHINESE: "Будань"
- STATE_324_TIBETAN: "Цуг-Юл"
- STATE_324_INDIAN: "Бутан" #NT!
+ STATE_324_BHUTAN: "Друк Юл"
+ STATE_324_CHINESE: "Будан"
+ STATE_324_TIBETAN: "Жугьюл"
+ STATE_324_INDIAN: "Бхутан"
 
  STATE_325: "Куньмин"
  STATE_325_RENAME: "[THIS.Controller.GetStateName_325]"
@@ -1225,18 +1225,18 @@
 
  STATE_327: "Центральный Лусон"
  STATE_327_RENAME: "[THIS.Controller.GetStateName_327]"
- STATE_327_DUTCH: "Мидден-Лузон"
- STATE_327_FILIPINO: "Гитнанг Лузон"
- STATE_327_GERMAN: "Миттельлузон"
- STATE_327_INDONESIAN: "Лузон Тенгах"
- STATE_327_SPANISH: "Лузон-Сентраль"
+ STATE_327_DUTCH: "Мидден-Лусон"
+ STATE_327_FILIPINO: "Гитнанг Лусон"
+ STATE_327_GERMAN: "Миттельлусон"
+ STATE_327_INDONESIAN: "Лусон Тенга"
+ STATE_327_SPANISH: "Лусон Сентраль"
 
  STATE_328: "Андон"
  STATE_328_RENAME: "[THIS.Controller.GetStateName_328]"
 
- STATE_329: "Тыва"
+ STATE_329: "Тува"
  STATE_329_RENAME: "[THIS.Controller.GetStateName_329]"
- STATE_329_MONGOLIAN: "Урянхай" #NT!
+ STATE_329_MONGOLIAN: "Урянхай"
  STATE_329_RUSSIAN: "Урянхай"
 
  STATE_330: "Монголия"
@@ -1245,24 +1245,24 @@
  STATE_331: "Ньюфаундленд"
  STATE_331_RENAME: "[THIS.Controller.GetStateName_331]"
 
- STATE_332: "Лабрадор"
+ STATE_332: "Унгава"
  STATE_332_RENAME: "[THIS.Controller.GetStateName_332]"
 
- STATE_333: "Северное Борнео"
+ STATE_333: "Северный Борнео"
  STATE_333_RENAME: "[THIS.Controller.GetStateName_333]"
- STATE_333_DUTCH: "Норд-Калимантан"
+ STATE_333_DUTCH: "Ноорд-Калимантан"
  STATE_333_GERMAN: "Нордборнео"
  STATE_333_INDONESIAN: "Саравак"
 
- STATE_334: "Западный Борнео"
+ STATE_334: "Внутренний Борнео"
  STATE_334_RENAME: "[THIS.Controller.GetStateName_334]"
- STATE_334_DUTCH: "Вест-Борнео"
- STATE_334_GERMAN: "Вестборнео"
- STATE_334_INDONESIAN: "Калимантан Барат"
+ STATE_334_DUTCH: "Биннен-Борнео"
+ STATE_334_GERMAN: "Иннерес Борнео"
+ STATE_334_INDONESIAN: "Калимантан Далам"
 
  STATE_335: "Западная и Центральная Ява"
  STATE_335_RENAME: "[THIS.Controller.GetStateName_335]"
- STATE_335_DUTCH: "Вест-Миттен Ява"
+ STATE_335_DUTCH: "Вест- эн Мидден-Ява"
  STATE_335_GERMAN: "Ява"
  STATE_335_INDONESIAN: "Ява"
 
@@ -1271,10 +1271,10 @@
 
  STATE_337: "Фарерские острова"
  STATE_337_RENAME: "[THIS.Controller.GetStateName_337]"
- STATE_337_DANISH: "Фарерне"
- STATE_337_NORWEGIAN: "Фароэнэ"
+ STATE_337_DANISH: "Ферёерне"
+ STATE_337_NORWEGIAN: "Ферёйене"
 
- STATE_338: "Глостершир"
+ STATE_338: "Эйвон"
  STATE_338_RENAME: "[THIS.Controller.GetStateName_338]"
 
  STATE_339: "Смирна"
@@ -1288,11 +1288,11 @@
 
  STATE_342: "Мугла"
  STATE_342_RENAME: "[THIS.Controller.GetStateName_342]"
- STATE_342_GREEK: "Моугла"
+ STATE_342_GREEK: "Мармарис"
 
  STATE_343: "Афьон"
  STATE_343_RENAME: "[THIS.Controller.GetStateName_343]"
- STATE_343_GREEK: "Афион"
+ STATE_343_GREEK: "Дорилеон"
 
  STATE_344: "Адана"
  STATE_344_RENAME: "[THIS.Controller.GetStateName_344]"
@@ -1306,10 +1306,10 @@
  STATE_347: "Хасаб"
  STATE_347_RENAME: "[THIS.Controller.GetStateName_347]"
 
- STATE_348: "Нинся"
+ STATE_348: "Алашань"
  STATE_348_RENAME: "[THIS.Controller.GetStateName_348]"
- STATE_348_MONGOLIAN: "Альшаа" #NT!
- STATE_348_CHINESE: "Алашан" #NT!
+ STATE_348_MONGOLIAN: "Алшаа"
+ STATE_348_CHINESE: "Алашань"
 
  STATE_349: "Киркук"
  STATE_349_RENAME: "[THIS.Controller.GetStateName_349]"
@@ -1325,7 +1325,7 @@
 
  STATE_353: "Юйшу"
  STATE_353_RENAME: "[THIS.Controller.GetStateName_353]"
- STATE_353_TIBETAN: "Амдо"
+ STATE_353_TIBETAN: "Гьегумдо"
 
  STATE_354: "Эрзурум"
  STATE_354_RENAME: "[THIS.Controller.GetStateName_354]"
@@ -1394,7 +1394,7 @@
 
  STATE_375: "Северный Техас"
  STATE_375_RENAME: "[THIS.Controller.GetStateName_375]"
- STATE_375_SPANISH: "Норте де Техос"
+ STATE_375_SPANISH: "Норте де Техас"
 
  STATE_376: "Нью-Мексико"
  STATE_376_RENAME: "[THIS.Controller.GetStateName_376]"
@@ -1511,7 +1511,7 @@
  STATE_412: "Фарс"
  STATE_412_RENAME: "[THIS.Controller.GetStateName_412]"
  STATE_412_PERSIAN: "Фарс"
- STATE_412_SYRIAC: "Бет Парсе"
+ STATE_412_SYRIAC: "Бет Парсайе"
 
  STATE_413: "Хузестан"
  STATE_413_RENAME: "[THIS.Controller.GetStateName_413]"
@@ -1554,38 +1554,38 @@
 
  STATE_424: "Андхра"
  STATE_424_RENAME: "[THIS.Controller.GetStateName_424]"
- STATE_424_INDIAN: "Андхра" #NT!
+ STATE_424_INDIAN: "Андхра"
 
  STATE_425: "Майсур"
  STATE_425_RENAME: "[THIS.Controller.GetStateName_425]"
 
  STATE_426: "Орисса"
  STATE_426_RENAME: "[THIS.Controller.GetStateName_426]"
- STATE_426_INDIAN: "Ориша" #NT!
+ STATE_426_INDIAN: "Ориша"
 
  STATE_427: "Хайдарабад"
  STATE_427_RENAME: "[THIS.Controller.GetStateName_427]"
 
  STATE_428: "Гуджарат"
  STATE_428_RENAME: "[THIS.Controller.GetStateName_428]"
- STATE_428_INDIAN: "Гуджрат" #NT!
+ STATE_428_INDIAN: "Гуджрат"
 
  STATE_429: "Бомбей"
  STATE_429_RENAME: "[THIS.Controller.GetStateName_429]"
 
- STATE_430: "Восточный Бенгал"
+ STATE_430: "Восточная Бенгалия"
  STATE_430_RENAME: "[THIS.Controller.GetStateName_430]"
- STATE_430_INDIAN: "Пурве Баангаал"
+ STATE_430_INDIAN: "Пурви Бангал"
 
- STATE_431: "Западный Бенгал"
+ STATE_431: "Западная Бенгалия"
  STATE_431_RENAME: "[THIS.Controller.GetStateName_431]"
- STATE_431_INDIAN: "Пашчим Баангаал"
+ STATE_431_INDIAN: "Пашчим Бангал"
 
  STATE_432: "Ассам"
  STATE_432_RENAME: "[THIS.Controller.GetStateName_432]"
- STATE_432_INDIAN: "Асам" #NT!
+ STATE_432_INDIAN: "Асам"
 
- STATE_433: "Раджастан"
+ STATE_433: "Раджпутана"
  STATE_433_RENAME: "[THIS.Controller.GetStateName_433]"
 
  STATE_434: "Манипур"
@@ -1593,25 +1593,25 @@
 
  STATE_435: "Бихар"
  STATE_435_RENAME: "[THIS.Controller.GetStateName_435]"
- STATE_435_INDIAN: "Бихар" #NT!
+ STATE_435_INDIAN: "Бихар"
 
  STATE_436: "Райпур"
  STATE_436_RENAME: "[THIS.Controller.GetStateName_436]"
 
- STATE_437: "Центральные Провинции"
+ STATE_437: "Центральные провинции"
  STATE_437_RENAME: "[THIS.Controller.GetStateName_437]"
- STATE_437_INDIAN: "Мадхи Праант"
+ STATE_437_INDIAN: "Мадхья Прат"
 
- STATE_438: "Авадх"
+ STATE_438: "Аудх"
  STATE_438_RENAME: "[THIS.Controller.GetStateName_438]"
- STATE_438_INDIAN: "Авад" #NT!
+ STATE_438_INDIAN: "Авадх"
 
  STATE_439: "Дели"
  STATE_439_RENAME: "[THIS.Controller.GetStateName_439]"
 
  STATE_440: "Восточный Пенджаб"
  STATE_440_RENAME: "[THIS.Controller.GetStateName_440]"
- STATE_440_INDIAN: "Пурве Панджааб"
+ STATE_440_INDIAN: "Пурви Панджаб"
 
  STATE_441: "Кашмир"
  STATE_441_RENAME: "[THIS.Controller.GetStateName_441]"
@@ -1625,7 +1625,7 @@
 
  STATE_444: "Белуджистан"
  STATE_444_RENAME: "[THIS.Controller.GetStateName_444]"
- STATE_444_INDIAN: "Белоджистан"
+ STATE_444_INDIAN: "Балучистан"
 
  STATE_445: "Кветта"
  STATE_445_RENAME: "[THIS.Controller.GetStateName_445]"
@@ -1650,10 +1650,10 @@
  STATE_451: "Адждабия"
  STATE_451_RENAME: "[THIS.Controller.GetStateName_451]"
 
- STATE_452: "Мерса-Матрух"
+ STATE_452: "Ливийское плато"
  STATE_452_RENAME: "[THIS.Controller.GetStateName_452]"
- STATE_452_ARABIC: "Марса-Матрух"
- STATE_452_TURKISH: "Ливия Яйласы" #NT!
+ STATE_452_ARABIC: "Ад-Диффа"
+ STATE_452_TURKISH: "Либья Яйласы"
 
  STATE_453: "Синай"
  STATE_453_RENAME: "[THIS.Controller.GetStateName_453]"
@@ -1663,18 +1663,18 @@
  STATE_454: "Иерусалим"
  STATE_454_RENAME: "[THIS.Controller.GetStateName_454]"
 
- STATE_455: "Трансиордания"
+ STATE_455: "Карак"
  STATE_455_RENAME: "[THIS.Controller.GetStateName_455]"
- STATE_455_ARABIC: "Шарк Аль-Урдун"
- STATE_455_SYRIAC: "Эбра-д-Яврадан"
- STATE_455_TURKISH: "Транзюрдюн"
+ STATE_455_ARABIC: "Аль Карак"
+ STATE_455_SYRIAC: "Карка"
+ STATE_455_TURKISH: "Керек"
 
  STATE_456: "Асуан"
  STATE_456_RENAME: "[THIS.Controller.GetStateName_456]"
 
- STATE_457: "Восточная Пустыня"
+ STATE_457: "Восточная пустыня"
  STATE_457_RENAME: "[THIS.Controller.GetStateName_457]"
- STATE_457_ARABIC: "Аль-Сахра Аль-Шаркия"
+ STATE_457_ARABIC: "Сахра аш-Шаркия"
  STATE_457_TURKISH: "Догу Чёлю"
 
  STATE_458: "$VICTORY_POINTS_11969$"
@@ -1690,9 +1690,9 @@
  STATE_461_RENAME: "[THIS.Controller.GetStateName_461]"
  STATE_461_ARABIC: "Л-Васат Л-Магриби"
 
- STATE_462: "Марракеш"
+ STATE_462: "Юго-Западное Марокко"
  STATE_462_RENAME: "[THIS.Controller.GetStateName_462]"
- STATE_462_ARABIC: "Мурракуш"
+ STATE_462_ARABIC: "Сусс ва-ль-Хауз"
 
  STATE_463: "Аляска"
  STATE_463_RENAME: "[THIS.Controller.GetStateName_463]"
@@ -1711,9 +1711,9 @@
  STATE_467: "Манитоба"
  STATE_467_RENAME: "[THIS.Controller.GetStateName_467]"
 
- STATE_468: "Святой Лаврентий"
+ STATE_468: "Святого Лаврентия"
  STATE_468_RENAME: "[THIS.Controller.GetStateName_468]"
- STATE_468_FRENCH: "Сан-Лорен"
+ STATE_468_FRENCH: "Сен-Лоран"
 
  STATE_469: "Саскачеван"
  STATE_469_RENAME: "[THIS.Controller.GetStateName_469]"
@@ -1721,7 +1721,7 @@
  STATE_470: "Альберта"
  STATE_470_RENAME: "[THIS.Controller.GetStateName_470]"
 
- STATE_471: "Территория Юкон"
+ STATE_471: "Юкон"
  STATE_471_RENAME: "[THIS.Controller.GetStateName_471]"
 
  STATE_472: "Нунавут"
@@ -1770,9 +1770,9 @@
  STATE_486: "Мета"
  STATE_486_RENAME: "[THIS.Controller.GetStateName_486]"
 
- STATE_487: "Санта-Круз"
+ STATE_487: "Санта-Крус"
  STATE_487_RENAME: "[THIS.Controller.GetStateName_487]"
- STATE_487_AYMARA: "Санта-Крус"
+ STATE_487_AYMARA: "Санта Крус"
 
  STATE_488: "Триест"
  STATE_488_RENAME: "[THIS.Controller.GetStateName_488]"
@@ -1791,7 +1791,7 @@
  STATE_492: "Арекипа"
  STATE_492_RENAME: "[THIS.Controller.GetStateName_492]"
 
- STATE_493: "Карибы"
+ STATE_493: "Карибе"
  STATE_493_RENAME: "[THIS.Controller.GetStateName_493]"
 
  STATE_494: "Куско"
@@ -1810,7 +1810,7 @@
  STATE_498_RENAME: "[THIS.Controller.GetStateName_498]"
  STATE_498_PORTUGUESE: "Нордесте"
 
- STATE_499: "Байя"
+ STATE_499: "Баия"
  STATE_499_RENAME: "[THIS.Controller.GetStateName_499]"
 
  STATE_500: "Рио-де-Жанейро"
@@ -1843,7 +1843,7 @@
  STATE_509: "Сантьяго-дель-Эстеро"
  STATE_509_RENAME: "[THIS.Controller.GetStateName_509]"
 
- STATE_510: "Месопотамия"
+ STATE_510: "Ла-Месопотамия"
  STATE_510_RENAME: "[THIS.Controller.GetStateName_510]"
 
  STATE_511: "Мендоса"
@@ -1855,8 +1855,8 @@
  STATE_513: "Южный Алжир"
  STATE_513_RENAME: "[THIS.Controller.GetStateName_513]"
  STATE_513_ARABIC: "Джануб аль-Джазаир"
- STATE_513_FRENCH: "Территори дю Сюд"
- STATE_513_TURKISH: "Гюней Бёлгелери"
+ STATE_513_FRENCH: "Территуар дю Сюд"
+ STATE_513_TURKISH: "Гюней Бёльгелери"
 
  STATE_514: "Сахара"
  STATE_514_RENAME: "[THIS.Controller.GetStateName_514]"
@@ -1865,7 +1865,7 @@
 
  STATE_515: "Чад"
  STATE_515_RENAME: "[THIS.Controller.GetStateName_515]"
- STATE_515_FRENCH: "Чад"
+ STATE_515_FRENCH: "Тшад"
 
  STATE_516: "Таймыр"
  STATE_516_RENAME: "[THIS.Controller.GetStateName_516]"
@@ -1879,7 +1879,7 @@
  STATE_519: "Южная Австралия"
  STATE_519_RENAME: "[THIS.Controller.GetStateName_519]"
 
- STATE_520: "Северные территории"
+ STATE_520: "Северная территория"
  STATE_520_RENAME: "[THIS.Controller.GetStateName_520]"
  STATE_520_INDONESIAN: "Мареге"
 
@@ -1888,14 +1888,14 @@
 
  STATE_522: "Западная Австралия"
  STATE_522_RENAME: "[THIS.Controller.GetStateName_522]"
- STATE_522_INDONESIAN: "Кайю Ява"
+ STATE_522_INDONESIAN: "Кайу Ява"
 
- STATE_523: "С-В Новая Гвинея"
+ STATE_523: "Юго-Восточная Новая Гвинея"
  STATE_523_RENAME: "[THIS.Controller.GetStateName_523]"
- STATE_523_DUTCH: "З-О Ньив-Гёйнеа"
- STATE_523_GERMAN: "Зудостнойгуйнеа"
- STATE_523_INDONESIAN: "Ириан Тенгарра"
- STATE_523_JAPANESE: "Нанто Ниу Гуинеа"
+ STATE_523_DUTCH: "З.О. Ньив-Гинея"
+ STATE_523_GERMAN: "Зюдостнойгинея"
+ STATE_523_INDONESIAN: "Ириан Тенггара"
+ STATE_523_JAPANESE: "Нанто Ню-Гиниа"
 
  STATE_524: "Тайвань"
  STATE_524_RENAME: "[THIS.Controller.GetStateName_524]"
@@ -1903,19 +1903,19 @@
  STATE_525: "Кёнгидо"
  STATE_525_RENAME: "[THIS.Controller.GetStateName_525]"
  STATE_525_CHINESE: "Цзинцзи"
- STATE_525_JAPANESE: "Кеики"
+ STATE_525_JAPANESE: "Кейки"
 
- STATE_526: "Острова Рюкю"
+ STATE_526: "Рюкю"
  STATE_526_RENAME: "[THIS.Controller.GetStateName_526]"
  STATE_526_CHINESE: "Люцю Цюньдао"
- STATE_526_JAPANESE: "Рюкю Сёто"
+ STATE_526_JAPANESE: "Рюкю Шото"
 
- STATE_527: "Янкео"
+ STATE_527: "Янсо"
  STATE_527_RENAME: "[THIS.Controller.GetStateName_527]"
  STATE_527_CHINESE: "Лянси"
- STATE_527_JAPANESE: "Рюсай"
+ STATE_527_JAPANESE: "Рёсай"
 
- STATE_528: "Кюсю"
+ STATE_528: "Северный Кюсю"
  STATE_528_RENAME: "[THIS.Controller.GetStateName_528]"
  STATE_528_JAPANESE: "Кита-Кюсю"
 
@@ -1933,9 +1933,9 @@
  STATE_532_RENAME: "[THIS.Controller.GetStateName_532]"
  STATE_532_JAPANESE: "Токай"
 
- STATE_533: "Тохоку"
+ STATE_533: "Южный Тохоку"
  STATE_533_RENAME: "[THIS.Controller.GetStateName_533]"
- STATE_533_JAPANESE: "Тохоку"
+ STATE_533_JAPANESE: "Минами-Тохоку"
 
  STATE_534: "Ниигата"
  STATE_534_RENAME: "[THIS.Controller.GetStateName_534]"
@@ -1946,7 +1946,7 @@
  STATE_536: "Хоккайдо"
  STATE_536_RENAME: "[THIS.Controller.GetStateName_536]"
  STATE_536_JAPANESE: "Хоккайдо"
- STATE_536_RUSSIAN: "Ежовск"
+ STATE_536_RUSSIAN: "Езовск"
 
  STATE_537: "Южный Сахалин"
  STATE_537_RENAME: "[THIS.Controller.GetStateName_537]"
@@ -1964,14 +1964,14 @@
 
  STATE_540: "Лоанда"
  STATE_540_RENAME: "[THIS.Controller.GetStateName_540]"
- STATE_540_PORTUGUESE: "Лоанда" #NT!
+ STATE_540_PORTUGUESE: "Лоанда"
 
  STATE_541: "Дамараленд"
  STATE_541_RENAME: "[THIS.Controller.GetStateName_541]"
 
  STATE_542: "Бечуаналенд"
  STATE_542_RENAME: "[THIS.Controller.GetStateName_542]"
- STATE_542_BOER: "Стеллалленд"
+ STATE_542_BOER: "Стеллаланд"
  STATE_542_SOUTH_AFRICAN: "Ботсвана"
 
  STATE_543: "Мадагаскар"
@@ -1995,10 +1995,10 @@
  STATE_548: "Уганда"
  STATE_548_RENAME: "[THIS.Controller.GetStateName_548]"
 
- STATE_549: "Южный Судан"
+ STATE_549: "Верхний Нил"
  STATE_549_RENAME: "[THIS.Controller.GetStateName_549]"
- STATE_549_ARABIC: "Джануб Аль-Судан"
- STATE_549_TURKISH: "Гюней Судан"
+ STATE_549_ARABIC: "Аали ан-Нил"
+ STATE_549_TURKISH: "Юкары Нил"
 
  STATE_550: "Эритрея"
  STATE_550_RENAME: "[THIS.Controller.GetStateName_550]"
@@ -2007,10 +2007,10 @@
  STATE_551: "Кассала-Сеннар"
  STATE_551_RENAME: "[THIS.Controller.GetStateName_551]"
 
- STATE_552: "Западная Пустыня"
+ STATE_552: "Западная пустыня"
  STATE_552_RENAME: "[THIS.Controller.GetStateName_552]"
- STATE_552_ARABIC: "Аль-Сахра Аль-Гарбия"
- STATE_552_TURKISH: "Баты Чолю"
+ STATE_552_ARABIC: "Сахра аль-Гарбия"
+ STATE_552_TURKISH: "Баты Чёлю"
 
  STATE_553: "Бейрут"
  STATE_553_RENAME: "[THIS.Controller.GetStateName_553]"
@@ -2021,16 +2021,16 @@
  STATE_555: "Курильские острова"
  STATE_555_RENAME: "[THIS.Controller.GetStateName_555]"
  STATE_555_CHINESE: "Цяньдао Цюньдао"
- STATE_555_JAPANESE: "Чишима Ретто"
- STATE_555_RUSSIAN: "Курильские острова"
+ STATE_555_JAPANESE: "Чисима Ретто"
+ STATE_555_RUSSIAN: "Курильские Острова"
 
  STATE_556: "Бамако"
  STATE_556_RENAME: "[THIS.Controller.GetStateName_556]"
- STATE_556_FRENCH: "Судан Франсэ"
+ STATE_556_FRENCH: "Судан Франсез"
 
  STATE_557: "Мавритания"
  STATE_557_RENAME: "[THIS.Controller.GetStateName_557]"
- STATE_557_FRENCH: "Мавритания"
+ STATE_557_FRENCH: "Моритани"
 
  STATE_558: "Южная Нигерия"
  STATE_558_RENAME: "[THIS.Controller.GetStateName_558]"
@@ -2114,9 +2114,9 @@
  STATE_583: "Петропавловск"
  STATE_583_RENAME: "[THIS.Controller.GetStateName_583]"
 
- STATE_584: "Каракум"
+ STATE_584: "Кызылкум"
  STATE_584_RENAME: "[THIS.Controller.GetStateName_584]"
- STATE_584_CENTRAL_ASIAN: "Каракум"
+ STATE_584_CENTRAL_ASIAN: "Кызылкум"
  STATE_584_RUSSIAN: "Закаспийская Степь"
 
  STATE_585: "Батуми"
@@ -2140,7 +2140,7 @@
  STATE_590: "Акмолинск"
  STATE_590_RENAME: "[THIS.Controller.GetStateName_590]"
 
- STATE_591: "Хайнань"
+ STATE_591: "Цюнъя"
  STATE_591_RENAME: "[THIS.Controller.GetStateName_591]"
 
  STATE_592: "Кантон"
@@ -2173,7 +2173,7 @@
  STATE_601: "Сикан"
  STATE_601_RENAME: "[THIS.Controller.GetStateName_601]"
  STATE_601_CHINESE: "Чуаньбянь"
- STATE_601_TIBETAN: "Гарце"
+ STATE_601_TIBETAN: "Гардзе"
 
  STATE_602: "Сянцзян"
  STATE_602_RENAME: "[THIS.Controller.GetStateName_602]"
@@ -2181,9 +2181,9 @@
  STATE_603: "Тяньчжун"
  STATE_603_RENAME: "[THIS.Controller.GetStateName_603]"
 
- STATE_604: "Синин"
+ STATE_604: "Цзоньи"
  STATE_604_RENAME: "[THIS.Controller.GetStateName_604]"
- STATE_604_TIBETAN: "Ко Нгоинбо"
+ STATE_604_TIBETAN: "Зюнмошонг"
 
  STATE_605: "Чэнду"
  STATE_605_RENAME: "[THIS.Controller.GetStateName_605]"
@@ -2208,10 +2208,10 @@
  STATE_611: "Южный Чахар"
  STATE_611_RENAME: "[THIS.Controller.GetStateName_611]"
 
- STATE_612: "Северный Чахар"
+ STATE_612: "Силин-Гол"
  STATE_612_RENAME: "[THIS.Controller.GetStateName_612]"
- STATE_612_MONGOLIAN: "Ксилингол"
- STATE_612_RUSSIAN: "Шайлин-Хол"
+ STATE_612_MONGOLIAN: "Шилийн Гол"
+ STATE_612_RUSSIAN: "Шилын-Хол"
 
  STATE_613: "Цзиньлин"
  STATE_613_RENAME: "[THIS.Controller.GetStateName_613]"
@@ -2245,27 +2245,27 @@
 
  STATE_623: "Северный Лусон"
  STATE_623_RENAME: "[THIS.Controller.GetStateName_623]"
- STATE_623_DUTCH: "Норд-Лузон"
+ STATE_623_DUTCH: "Ноорд-Лусон"
  STATE_623_FILIPINO: "Хилаганг Лусон"
- STATE_623_GERMAN: "Нордлузон"
- STATE_623_INDONESIAN: "Лузон Утара"
- STATE_623_SPANISH: "Норте-де-Лузон"
+ STATE_623_GERMAN: "Нордлусон"
+ STATE_623_INDONESIAN: "Лусон Утара"
+ STATE_623_SPANISH: "Норте де Лусон"
 
  STATE_624: "Южный Лусон"
  STATE_624_RENAME: "[THIS.Controller.GetStateName_624]"
- STATE_624_DUTCH: "Зюйд-Лузон"
+ STATE_624_DUTCH: "Зюйд-Лусон"
  STATE_624_FILIPINO: "Тимог Лусон"
- STATE_624_GERMAN: "Зюдлузон"
- STATE_624_INDONESIAN: "Лузон Селатан"
- STATE_624_SPANISH: "Сюр-де-Лузон"
+ STATE_624_GERMAN: "Зюдлусон"
+ STATE_624_INDONESIAN: "Лусон Селатан"
+ STATE_624_SPANISH: "Сур де Лусон"
 
- STATE_625: "Самар"
+ STATE_625: "Восточные Висайи"
  STATE_625_RENAME: "[THIS.Controller.GetStateName_625]"
- STATE_625_FILIPINO: "С. Кабисаян" #NT!
+ STATE_625_FILIPINO: "С. Кабисаан"
 
  STATE_626: "Палаван"
  STATE_626_RENAME: "[THIS.Controller.GetStateName_626]"
- STATE_626_SPANISH: "Ла-Палагуа"
+ STATE_626_SPANISH: "Ла Палагуа"
 
  STATE_627: "Минданао"
  STATE_627_RENAME: "[THIS.Controller.GetStateName_627]"
@@ -2273,54 +2273,54 @@
  STATE_628: "Западные Висайи"
  STATE_628_RENAME: "[THIS.Controller.GetStateName_628]"
  STATE_628_DUTCH: "Вест-Висайяс"
- STATE_628_FILIPINO: "Кабисайян"
+ STATE_628_FILIPINO: "К. Кабисаан"
  STATE_628_GERMAN: "Вествисайяс"
- STATE_628_INDONESIAN: "Висаяс Барат"
- STATE_628_SPANISH: "Висаяс-Осиденталис"
+ STATE_628_INDONESIAN: "Висайяс Барат"
+ STATE_628_SPANISH: "Бисайяс Оксиденталес"
 
  STATE_629: "Гавайи"
  STATE_629_RENAME: "[THIS.Controller.GetStateName_629]"
- STATE_629_HAWAIIAN: "Гавайи"
- STATE_629_JAPANESE: "Хавай"
+ STATE_629_HAWAIIAN: "Хавайи"
+ STATE_629_JAPANESE: "Хаваи"
 
  STATE_630: "Атолл Джонстон"
  STATE_630_RENAME: "[THIS.Controller.GetStateName_630]"
  STATE_630_GERMAN: "Джонстонинзельн"
  STATE_630_HAWAIIAN: "Калама Мокики"
- STATE_630_JAPANESE: "Джонсутон-кансё"
+ STATE_630_JAPANESE: "Джонсутон-Каншо"
 
- STATE_631: "Острова Мидуэй"
+ STATE_631: "Остров Мидуэй"
  STATE_631_RENAME: "[THIS.Controller.GetStateName_631]"
- STATE_631_GERMAN: "Мидуэйнзельн"
+ STATE_631_GERMAN: "Мидуэйинзельн"
  STATE_631_HAWAIIAN: "Пихеману Кауихелани"
  STATE_631_JAPANESE: "Миназуки-то"
 
  STATE_632: "Остров Уэйк"
  STATE_632_RENAME: "[THIS.Controller.GetStateName_632]"
- STATE_632_GERMAN: "Вейкензельн"
- STATE_632_JAPANESE: "Оторисима"
+ STATE_632_GERMAN: "Вейкинзельн"
+ STATE_632_JAPANESE: "Оторишима"
 
  STATE_633: "Маршалловы острова"
  STATE_633_RENAME: "[THIS.Controller.GetStateName_633]"
  STATE_633_GERMAN: "Маршаллинзельн"
- STATE_633_JAPANESE: "Машару-гунто"
+ STATE_633_JAPANESE: "Ма:шару-гунто"
 
  STATE_634: "Соломоновы острова"
  STATE_634_RENAME: "[THIS.Controller.GetStateName_634]"
  STATE_634_GERMAN: "Саломонен"
- STATE_634_INDONESIAN: "Суварнадвипа"
- STATE_634_JAPANESE: "Соромон-сёто"
+ STATE_634_INDONESIAN: "Кеп. Суварнадвипа"
+ STATE_634_JAPANESE: "Соромон-шото"
 
  STATE_635: "Новая Каледония"
  STATE_635_RENAME: "[THIS.Controller.GetStateName_635]"
- STATE_635_FRENCH: "Нювел Каледони"
- STATE_635_GERMAN: "Нойельзас"
+ STATE_635_FRENCH: "Нувель-Каледони"
+ STATE_635_GERMAN: "Нойкаледониен"
  STATE_635_INDONESIAN: "Вануату"
- STATE_635_JAPANESE: "Нью-Каредония"
+ STATE_635_JAPANESE: "Ню-Каредониа"
 
  STATE_636: "Фиджи"
  STATE_636_RENAME: "[THIS.Controller.GetStateName_636]"
- STATE_636_GERMAN: "Фидши"
+ STATE_636_GERMAN: "Фиджи"
 
  STATE_637: "Камчатка"
  STATE_637_RENAME: "[THIS.Controller.GetStateName_637]"
@@ -2333,43 +2333,43 @@
  STATE_639: "Острова Гилберта"
  STATE_639_RENAME: "[THIS.Controller.GetStateName_639]"
  STATE_639_GERMAN: "Гилбертинзельн"
- STATE_639_JAPANESE: "Гирубато-сёто"
+ STATE_639_JAPANESE: "Гирубато-шото"
 
  STATE_640: "Мандалай"
  STATE_640_RENAME: "[THIS.Controller.GetStateName_640]"
 
  STATE_641: "Таити"
  STATE_641_RENAME: "[THIS.Controller.GetStateName_641]"
- STATE_641_JAPANESE: "Тахичи"
+ STATE_641_JAPANESE: "Таичи"
 
  STATE_642: "Остров Феникс"
  STATE_642_RENAME: "[THIS.Controller.GetStateName_642]"
- STATE_642_GERMAN: "Фениксинзельн"
- STATE_642_JAPANESE: "Фениккусу-сёто"
+ STATE_642_GERMAN: "Фёниксинзельн"
+ STATE_642_JAPANESE: "Фениккусу-шото"
 
  STATE_643: "Острова Эллис"
  STATE_643_RENAME: "[THIS.Controller.GetStateName_643]"
  STATE_643_GERMAN: "Эллисинзельн"
- STATE_643_JAPANESE: "Эрису-сёто"
+ STATE_643_JAPANESE: "Эрису-шото"
 
- STATE_644: "Восточно-Сибирская низменность "
+ STATE_644: "Яно-Колымская низменность"
  STATE_644_RENAME: "[THIS.Controller.GetStateName_644]"
- STATE_644_RUSSIAN: "Восточно-Сибирская низменность "
+ STATE_644_RUSSIAN: "Яно-Колымская низменность"
 
  STATE_645: "Иводзима"
  STATE_645_RENAME: "[THIS.Controller.GetStateName_645]"
  STATE_645_JAPANESE: "Иото"
 
- STATE_646: "Марианские о-ва"
+ STATE_646: "Марианские острова"
  STATE_646_RENAME: "[THIS.Controller.GetStateName_646]"
  STATE_646_GERMAN: "Марианен"
- STATE_646_JAPANESE: "Мариана-сёто"
+ STATE_646_JAPANESE: "Мариана-шото"
  STATE_646_SPANISH: "Ислас Марианас"
 
- STATE_647: "Острова Палау"
+ STATE_647: "Палау"
  STATE_647_RENAME: "[THIS.Controller.GetStateName_647]"
  STATE_647_GERMAN: "Палауинзельн"
- STATE_647_JAPANESE: "Парао-сёто"
+ STATE_647_JAPANESE: "Парао-шото"
  STATE_647_SPANISH: "Ислас Энкантадас"
 
  STATE_648: "Остров Маркус"
@@ -2379,7 +2379,7 @@
 
  STATE_649: "Галапагосские острова"
  STATE_649_RENAME: "[THIS.Controller.GetStateName_649]"
- STATE_649_SPANISH: "Ислас-Галапагос"
+ STATE_649_SPANISH: "Ислас Галапагос"
 
  STATE_650: "Чунцин"
  STATE_650_RENAME: "[THIS.Controller.GetStateName_650]"
@@ -2396,17 +2396,17 @@
  STATE_654: "Улала"
  STATE_654_RENAME: "[THIS.Controller.GetStateName_654]"
 
- STATE_655: "Судавия"
+ STATE_655: "Судовия"
  STATE_655_RENAME: "[THIS.Controller.GetStateName_655]"
- STATE_655_GERMAN: "Сувалкен"
+ STATE_655_GERMAN: "Зудауэн"
  STATE_655_LITHUANIAN: "Судува"
- STATE_655_POLISH: "Сувалки"
- STATE_655_RUSSIAN: "Сувалки"
+ STATE_655_POLISH: "Яцвежь"
+ STATE_655_RUSSIAN: "Судовия"
 
  STATE_656: "Хаса"
  STATE_656_RENAME: "[THIS.Controller.GetStateName_656]"
  STATE_656_ARABIC: "Аль-Ахса"
- STATE_656_TURKISH: "Эл-Ахса"
+ STATE_656_TURKISH: "Эль-Ахса"
 
  STATE_657: "Благовещенск"
  STATE_657_RENAME: "[THIS.Controller.GetStateName_657]"
@@ -2419,7 +2419,7 @@
 
  STATE_660: "Убанги-Шари"
  STATE_660_RENAME: "[THIS.Controller.GetStateName_660]"
- STATE_660_FRENCH: "Оубанги-Чари"
+ STATE_660_FRENCH: "Убанги-Шари"
  STATE_660_GERMAN: "Убанги-Шари"
 
  STATE_661: "Дасянь"
@@ -2445,9 +2445,9 @@
 
  STATE_667: "Бали и Сумбава"
  STATE_667_RENAME: "[THIS.Controller.GetStateName_667]"
- STATE_667_DUTCH: "Бали и Соембава"
- STATE_667_GERMAN: "Кляйне Сундайнзельн"
- STATE_667_INDONESIAN: "Нуса Тенгара"
+ STATE_667_DUTCH: "Бали эн Соэмбава"
+ STATE_667_GERMAN: "Кляйне Зундаинзельн"
+ STATE_667_INDONESIAN: "Нуса Тенггара"
 
  STATE_668: "Молуккские острова"
  STATE_668_RENAME: "[THIS.Controller.GetStateName_668]"
@@ -2456,10 +2456,10 @@
 
  STATE_669: "Северо-Западная Новая Гвинея"
  STATE_669_RENAME: "[THIS.Controller.GetStateName_669]"
- STATE_669_DUTCH: "Н-В Ньив-Гёйнеа"
- STATE_669_GERMAN: "Нордвестньюгения"
+ STATE_669_DUTCH: "Н.В. Ньив-Гинея"
+ STATE_669_GERMAN: "Нордвестнойгинея"
  STATE_669_INDONESIAN: "Ириан Барат Утара"
- STATE_669_JAPANESE: "Хокусей Ниу-Гуинеа"
+ STATE_669_JAPANESE: "Хокусей Ню-Гиниа"
 
  STATE_670: "Лаос"
  STATE_670_RENAME: "[THIS.Controller.GetStateName_670]"
@@ -2467,11 +2467,11 @@
 
  STATE_671: "Тонкин"
  STATE_671_RENAME: "[THIS.Controller.GetStateName_671]"
- STATE_671_VIETNAMESE: "Бак Ки" #NT!
+ STATE_671_VIETNAMESE: "Бак Ки"
 
  STATE_672: "Восточное побережье Суматры"
  STATE_672_RENAME: "[THIS.Controller.GetStateName_672]"
- STATE_672_DUTCH: "Осткуст ван Суматра"
+ STATE_672_DUTCH: "Оосткуст ван Суматра"
  STATE_672_GERMAN: "Остсуматра"
  STATE_672_INDONESIAN: "Суматера Тимур"
 
@@ -2485,7 +2485,7 @@
  STATE_675: "Кассим"
  STATE_675_RENAME: "[THIS.Controller.GetStateName_675]"
  STATE_675_ARABIC: "Аль-Касим"
- STATE_675_TURKISH: "Эль-Касым"
+ STATE_675_TURKISH: "Эль-Касим"
 
  STATE_676: "Мосул"
  STATE_676_RENAME: "[THIS.Controller.GetStateName_676]"
@@ -2495,8 +2495,8 @@
 
  STATE_678: "Аравийская пустыня"
  STATE_678_RENAME: "[THIS.Controller.GetStateName_678]"
- STATE_678_ARABIC: "Аль-Руб Аль-Хали"
- STATE_678_TURKISH: "Рубюльхали Чолю"
+ STATE_678_ARABIC: "Руб аль-Хали"
+ STATE_678_TURKISH: "Рубульхали Чёлю"
 
  STATE_679: "Мекка"
  STATE_679_RENAME: "[THIS.Controller.GetStateName_679]"
@@ -2507,7 +2507,7 @@
  STATE_681: "Западный Кейп"
  STATE_681_RENAME: "[THIS.Controller.GetStateName_681]"
 
- STATE_682: "Северное Онтарио"
+ STATE_682: "Северный Онтарио"
  STATE_682_RENAME: "[THIS.Controller.GetStateName_682]"
 
  STATE_683: "Гориция"
@@ -2519,23 +2519,23 @@
  STATE_684_RENAME: "[THIS.Controller.GetStateName_684]"
  STATE_684_DUTCH: "Каролинен"
  STATE_684_GERMAN: "Каролинен"
- STATE_684_JAPANESE: "Карорин-сёто"
+ STATE_684_JAPANESE: "Карорин-шото"
  STATE_684_SPANISH: "Ислас Каролинас"
 
  STATE_685: "Панамский канал"
  STATE_685_RENAME: "[THIS.Controller.GetStateName_685]"
- STATE_685_SPANISH: "Канал де Панама"
+ STATE_685_SPANISH: "Каналь де Панама"
 
- STATE_686: "Пуэрто-Рика"
+ STATE_686: "Пуэрто-Рико"
  STATE_686_RENAME: "[THIS.Controller.GetStateName_686]"
 
- STATE_687: "Западная Гайана"
+ STATE_687: "Демерара"
  STATE_687_RENAME: "[THIS.Controller.GetStateName_687]"
 
- STATE_688: "Чако-Бореаль"
+ STATE_688: "Северный Чако"
  STATE_688_RENAME: "[THIS.Controller.GetStateName_688]"
- STATE_688_GUARANI: "Вараньи Чако"
- STATE_688_SPANISH: "Чако-Бореаль"
+ STATE_688_GUARANI: "Варанийи Чако"
+ STATE_688_SPANISH: "Чако Бореаль"
 
  STATE_689: "Ямайка"
  STATE_689_RENAME: "[THIS.Controller.GetStateName_689]"
@@ -2554,7 +2554,7 @@
 
  STATE_694: "Французские Карибы"
  STATE_694_RENAME: "[THIS.Controller.GetStateName_694]"
- STATE_694_FRENCH: "Корайб Франсез"
+ STATE_694_FRENCH: "Караиб Франсез"
 
  STATE_695: "Кюрасао"
  STATE_695_RENAME: "[THIS.Controller.GetStateName_695]"
@@ -2567,27 +2567,27 @@
 
  STATE_698: "Азорские острова"
  STATE_698_RENAME: "[THIS.Controller.GetStateName_698]"
- STATE_698_PORTUGUESE: "Азоры"
+ STATE_698_PORTUGUESE: "Асорес"
 
  STATE_699: "Рио-де-Оро"
  STATE_699_RENAME: "[THIS.Controller.GetStateName_699]"
- STATE_699_ARABIC: "Нахир-ад-Дахаб"
- STATE_699_FRENCH: "Сахара Оксидентал"
+ STATE_699_ARABIC: "Вади ад-Дахаби"
+ STATE_699_FRENCH: "Сахара Оксиденталь"
 
  STATE_700: "Сьерра-Леоне"
  STATE_700_RENAME: "[THIS.Controller.GetStateName_700]"
 
  STATE_701: "Качин"
  STATE_701_RENAME: "[THIS.Controller.GetStateName_701]"
- STATE_701_BURMESE: "Вунпаунг Мунгдан"
+ STATE_701_BURMESE: "Вунпавнг Мунгдан"
  STATE_701_CHINESE: "Кэцинь"
- STATE_701_KACHIN: "Цзинпхау Мунгдо"
+ STATE_701_KACHIN: "Джингпхау Мунгдау"
 
  STATE_702: "Кабо-Верде"
  STATE_702_RENAME: "[THIS.Controller.GetStateName_702]"
- STATE_702_PORTUGUESE: "Кабо-Верде"
+ STATE_702_PORTUGUESE: "Кабо Верде"
 
- STATE_703: "Остров Вознесения"
+ STATE_703: "Вознесение"
  STATE_703_RENAME: "[THIS.Controller.GetStateName_703]"
 
  STATE_704: "Остров Святой Елены"
@@ -2598,26 +2598,26 @@
 
  STATE_706: "Реюньон"
  STATE_706_RENAME: "[THIS.Controller.GetStateName_706]"
- STATE_706_FRENCH: "Иль-де-ла-Реюньон"
+ STATE_706_FRENCH: "Иль де ла Реюньон"
 
  STATE_707: "Маврикий"
  STATE_707_RENAME: "[THIS.Controller.GetStateName_707]"
  STATE_707_FRENCH: "Иль Морис"
 
- STATE_708: "Коморские острова"
+ STATE_708: "Коморы"
  STATE_708_RENAME: "[THIS.Controller.GetStateName_708]"
- STATE_708_FRENCH: "Коморы"
- STATE_708_GERMAN: "Коморэн"
+ STATE_708_FRENCH: "Комор"
+ STATE_708_GERMAN: "Коморен"
 
- STATE_709: "Сейшелы"
+ STATE_709: "Сейшельские острова"
  STATE_709_RENAME: "[THIS.Controller.GetStateName_709]"
- STATE_709_GERMAN: "Сейшелен"
+ STATE_709_GERMAN: "Сейшеллен"
 
  STATE_710: "Диего-Гарсия"
  STATE_710_RENAME: "[THIS.Controller.GetStateName_710]"
- STATE_710_JAPANESE: "Диега Гарушиа То"
+ STATE_710_JAPANESE: "Диего Гарушиа То"
 
- STATE_711: "Рождество и Кокос"
+ STATE_711: "Рождества и Кокосовые"
  STATE_711_RENAME: "[THIS.Controller.GetStateName_711]"
 
  STATE_712: "Кызылкум"
@@ -2641,12 +2641,12 @@
 
  STATE_717: "Хэцзян"
  STATE_717_RENAME: "[THIS.Controller.GetStateName_717]"
- STATE_717_RUSSIAN: "Хецзян"
+ STATE_717_RUSSIAN: "Хэцзян"
 
  STATE_718: "Велле"
  STATE_718_RENAME: "[THIS.Controller.GetStateName_718]"
  STATE_718_FRENCH: "Уэле"
- STATE_718_GERMAN: "Илле"
+ STATE_718_GERMAN: "Уэлле"
 
  STATE_719: "Наталь"
  STATE_719_RENAME: "[THIS.Controller.GetStateName_719]"
@@ -2654,14 +2654,14 @@
 
  STATE_720: "Южная Георгия"
  STATE_720_RENAME: "[THIS.Controller.GetStateName_720]"
- STATE_720_SPANISH: "Исла-Сан-Педро"
+ STATE_720_SPANISH: "Исла Сан-Педро"
 
  STATE_721: "Восточный Тимор"
  STATE_721_RENAME: "[THIS.Controller.GetStateName_721]"
- STATE_721_DUTCH: "Ост-Тимор"
+ STATE_721_DUTCH: "Оост-Тимор"
  STATE_721_GERMAN: "Осттимор"
  STATE_721_INDONESIAN: "Тимор Тимур"
- STATE_721_PORTUGUESE: "Тимор Португаш"
+ STATE_721_PORTUGUESE: "Тимор Португез"
 
  STATE_722: "Петсамо"
  STATE_722_RENAME: "[THIS.Controller.GetStateName_722]"
@@ -2669,10 +2669,10 @@
  STATE_723: "Южный остров"
  STATE_723_RENAME: "[THIS.Controller.GetStateName_723]"
 
- STATE_724: "Перешеек Кра"
+ STATE_724: "Кра"
  STATE_724_RENAME: "[THIS.Controller.GetStateName_724]"
- STATE_724_DUTCH: "Перешеек Кра"
- STATE_724_GERMAN: "Перешеек Кра"
+ STATE_724_DUTCH: "Ланденгте ван Кра"
+ STATE_724_GERMAN: "Истмус фон Кра"
  STATE_724_INDONESIAN: "Сегентинг Кра"
  STATE_724_THAI: "Пак Тай"
 
@@ -2685,15 +2685,15 @@
  STATE_726_GERMAN: "Остсамоа"
  STATE_726_JAPANESE: "Хигаси Самоа"
 
- STATE_727: "Острова Лайн"
+ STATE_727: "Лайн"
  STATE_727_RENAME: "[THIS.Controller.GetStateName_727]"
- STATE_727_GERMAN: "Линеинзельн"
- STATE_727_JAPANESE: "Рейн-сёто"
+ STATE_727_GERMAN: "Лайнинзельн"
+ STATE_727_JAPANESE: "Райн-шото"
 
  STATE_728: "Гуанчжоувань"
  STATE_728_RENAME: "[THIS.Controller.GetStateName_728]"
- STATE_728_FRENCH: "Куан-Чеу-Ван"
- STATE_728_GERMAN: "Кванчуван" #NT!
+ STATE_728_FRENCH: "Куанг-Чжоу-Ван"
+ STATE_728_GERMAN: "Квангчжоуван"
 
  STATE_729: "Макао"
  STATE_729_RENAME: "[THIS.Controller.GetStateName_729]"
@@ -2708,29 +2708,29 @@
  STATE_732: "Самарканд"
  STATE_732_RENAME: "[THIS.Controller.GetStateName_732]"
 
- STATE_733: "Андаманские острова"
+ STATE_733: "Андаманские и Никобарские острова"
  STATE_733_RENAME: "[THIS.Controller.GetStateName_733]"
- STATE_733_INDIAN: "Андаман и Никобар" #NT!
+ STATE_733_INDIAN: "Андаман эн Никобар"
 
  STATE_734: "Нендо"
  STATE_734_RENAME: "[THIS.Controller.GetStateName_734]"
 
  STATE_735: "Савойя"
  STATE_735_RENAME: "[THIS.Controller.GetStateName_735]"
- STATE_735_FRENCH: "Савойя"
+ STATE_735_FRENCH: "Савуа"
  STATE_735_GERMAN: "Савойен"
  STATE_735_ITALIAN: "Савойя"
 
  STATE_736: "Истрия"
  STATE_736_RENAME: "[THIS.Controller.GetStateName_736]"
- STATE_736_GERMAN: "Истрин"
+ STATE_736_GERMAN: "Истриен"
  STATE_736_SERBIAN: "Истра"
 
  STATE_737: "Архипелаг Бисмарка"
  STATE_737_RENAME: "[THIS.Controller.GetStateName_737]"
- STATE_737_GERMAN: "Бисмарк-Аркипел"
- STATE_737_INDONESIAN: "Барат Лаут"
- STATE_737_JAPANESE: "Бисумаруку-сёто"
+ STATE_737_GERMAN: "Бисмарк-Архипель"
+ STATE_737_INDONESIAN: "Кепулауан Барат Лаут"
+ STATE_737_JAPANESE: "Бисумаруку-шото"
 
  STATE_738: "Свазиленд"
  STATE_738_RENAME: "[THIS.Controller.GetStateName_738]"
@@ -2744,7 +2744,7 @@
  STATE_741: "Вервье"
  STATE_741_RENAME: "[THIS.Controller.GetStateName_741]"
 
- STATE_742: "Абруцци"
+ STATE_742: "Абруццо"
  STATE_742_RENAME: "[THIS.Controller.GetStateName_742]"
 
  STATE_743: "Шанхай"
@@ -2752,11 +2752,11 @@
 
  STATE_744: "Циндао"
  STATE_744_RENAME: "[THIS.Controller.GetStateName_744]"
- STATE_744_GERMAN: "Киаучоу"
+ STATE_744_GERMAN: "Кяучжоу"
 
  STATE_745: "Квантун"
  STATE_745_RENAME: "[THIS.Controller.GetStateName_745]"
- STATE_745_JAPANESE: "Канто-сю"
+ STATE_745_JAPANESE: "Дайрен"
 
  STATE_746: "Нинбо"
  STATE_746_RENAME: "[THIS.Controller.GetStateName_746]"
@@ -2764,11 +2764,11 @@
  STATE_747: "Фучжоу"
  STATE_747_RENAME: "[THIS.Controller.GetStateName_747]"
 
- STATE_748: "Боуме"
+ STATE_748: "Цзоньи"
  STATE_748_RENAME: "[THIS.Controller.GetStateName_748]"
- STATE_748_CHINESE: "Боми"
+ STATE_748_CHINESE: "Шуанху"
 
- STATE_749: "Танасори"
+ STATE_749: "Тенассерим"
  STATE_749_RENAME: "[THIS.Controller.GetStateName_749]"
  STATE_749_BURMESE: "Танинтари"
  STATE_749_THAI: "Танаосри"
@@ -2776,24 +2776,24 @@
  STATE_750: "Пномпень"
  STATE_750_RENAME: "[THIS.Controller.GetStateName_750]"
 
- STATE_751: "Келантан"
+ STATE_751: "Келантан-Тренгану"
  STATE_751_RENAME: "[THIS.Controller.GetStateName_751]"
- STATE_751_CHINESE: "Джиландан"
- STATE_751_JAPANESE: "Курантан"
- STATE_751_THAI: "Клантан"
+ STATE_751_CHINESE: "Цзиландан-Дэнцзялоу"
+ STATE_751_JAPANESE: "Курантан-Торенгану"
+ STATE_751_THAI: "Клантан-Трангану"
 
  STATE_752: "Хадрамаут"
  STATE_752_RENAME: "[THIS.Controller.GetStateName_752]"
- STATE_752_ARABIC: "Хадрамют"
- STATE_752_TURKISH: "Хадрамаут"
+ STATE_752_ARABIC: "Хадрамаут"
+ STATE_752_TURKISH: "Хадрамут"
 
  STATE_753: "Суэцкий канал"
  STATE_753_RENAME: "[THIS.Controller.GetStateName_753]"
- STATE_753_ARABIC: "Канат Ас Сувайс"
- STATE_753_FRENCH: "Канал де Суэц"
- STATE_753_GERMAN: "Суесканал"
- STATE_753_ITALIAN: "Канале-ди-Суэц"
- STATE_753_TURKISH: "Сувейс Канали"
+ STATE_753_ARABIC: "Канат ас-Сувайс"
+ STATE_753_FRENCH: "Каналь де Суэц"
+ STATE_753_GERMAN: "Суэцканал"
+ STATE_753_ITALIAN: "Канале ди Суэц"
+ STATE_753_TURKISH: "Сювейш Каналы"
 
  STATE_754: "Медина"
  STATE_754_RENAME: "[THIS.Controller.GetStateName_754]"
@@ -2804,26 +2804,26 @@
  STATE_756: "Нижний Шан"
  STATE_756_RENAME: "[THIS.Controller.GetStateName_756]"
  STATE_756_BURMESE: "Кьяинтонг"
- STATE_756_CHINESE: "Менгген"
+ STATE_756_CHINESE: "Мэнгэн"
  STATE_756_SHAN: "Кенгтунг"
- STATE_756_THAI_FULL: "Кемараттабури"
+ STATE_756_THAI_FULL: "Кхемараттабури"
  STATE_756_THAI_HALF: "Сахарат Тай Доем"
 
- STATE_757: "С-В Новая Гвинея"
+ STATE_757: "Северо-Восточная Новая Гвинея"
  STATE_757_RENAME: "[THIS.Controller.GetStateName_757]"
- STATE_757_DUTCH: "Н-О Ньив-Гёйнеа"
- STATE_757_GERMAN: "Кайзер-Вильгельмланд"
+ STATE_757_DUTCH: "Н.О. Ньив-Гинея"
+ STATE_757_GERMAN: "Кайзер-Вильгельмсланд"
  STATE_757_INDONESIAN: "Ириан Тимур Лаут"
- STATE_757_JAPANESE: "Хокутё Ниу-Гуинеа"
+ STATE_757_JAPANESE: "Хокто Ню-Гиниа"
 
  STATE_758: "Ионические острова"
  STATE_758_RENAME: "[THIS.Controller.GetStateName_758]"
- STATE_758_GREEK: "Иония Нисиа"
+ STATE_758_GREEK: "Иониа Нисиа"
  STATE_758_ITALIAN: "Изоле Ионие"
 
  STATE_759: "Фриули"
  STATE_759_RENAME: "[THIS.Controller.GetStateName_759]"
- STATE_759_GERMAN: "Фриоль"
+ STATE_759_GERMAN: "Фриауль"
 
  STATE_760: "Романдия"
  STATE_760_RENAME: "[THIS.Controller.GetStateName_760]"
@@ -2851,7 +2851,7 @@
 
  STATE_766: "Северный Эпир"
  STATE_766_RENAME: "[THIS.Controller.GetStateName_766]"
- STATE_766_ALBANIAN: "Гирокастра"
+ STATE_766_ALBANIAN: "Эпири и Вериут"
  STATE_766_GREEK: "Вориос Ипирос"
  STATE_766_ITALIAN: "Эпиро Сеттентрионале"
 
@@ -2877,40 +2877,40 @@
  STATE_773: "Константинополь"
  STATE_773_RENAME: "[THIS.Controller.GetStateName_773]"
 
- STATE_774: "Коридор Хэси"
+ STATE_774: "Гэси"
  STATE_774_RENAME: "[THIS.Controller.GetStateName_774]"
- STATE_774_CHINESE: "Хеси Цзоулан"
+ STATE_774_CHINESE: "Хэси Цзоулан"
 
  STATE_775: "Штирия"
  STATE_775_RENAME: "[THIS.Controller.GetStateName_775]"
- STATE_775_GERMAN: "Штирмарк"
+ STATE_775_GERMAN: "Штайермарк"
 
  STATE_776: "Западная Пруссия"
  STATE_776_RENAME: "[THIS.Controller.GetStateName_776]"
  STATE_776_GERMAN: "Вестпройсен"
- STATE_776_POLISH: "Поморье Гданьское"
+ STATE_776_POLISH: "Поможе Гданьске"
 
- STATE_777: "Мазурия"
+ STATE_777: "Мазуры"
  STATE_777_RENAME: "[THIS.Controller.GetStateName_777]"
  STATE_777_GERMAN: "Мазурен"
  STATE_777_POLISH: "Мазуры"
 
  STATE_778: "Емтланд"
  STATE_778_RENAME: "[THIS.Controller.GetStateName_778]"
- STATE_778_DANISH: "Джемтланд"
+ STATE_778_DANISH: "Емтланд"
 
- STATE_779: "Лабурдан"
+ STATE_779: "Лабур"
  STATE_779_RENAME: "[THIS.Controller.GetStateName_779]"
  STATE_779_BASQUE: "Ипарральде"
- STATE_779_SPANISH: "Лаборт"
+ STATE_779_SPANISH: "Лабор"
 
  STATE_780: "Баден"
  STATE_780_RENAME: "[THIS.Controller.GetStateName_780]"
 
  STATE_781: "Западный Рейнланд"
  STATE_781_RENAME: "[THIS.Controller.GetStateName_781]"
- STATE_781_DUTCH: "Западная Рейнланд"
- STATE_781_FRENCH: "Ренани Оксиденталь"
+ STATE_781_DUTCH: "Вест Рейнланд"
+ STATE_781_FRENCH: "Ренани Окс."
  STATE_781_GERMAN: "Вестрайнланд"
 
  STATE_782: "Северный Шлезвиг"
@@ -2928,27 +2928,27 @@
 
  STATE_785: "Лотарингия"
  STATE_785_RENAME: "[THIS.Controller.GetStateName_785]"
- STATE_785_GERMAN: "Лотарингия"
+ STATE_785_GERMAN: "Лотринген"
 
  STATE_786: "Будеёвице"
  STATE_786_RENAME: "[THIS.Controller.GetStateName_786]"
 
  STATE_787: "Терек"
  STATE_787_RENAME: "[THIS.Controller.GetStateName_787]"
- STATE_787_KUMYK: "Терик" #NT!
+ STATE_787_KUMYK: "Терик"
 
  STATE_788: "Аба"
  STATE_788_RENAME: "[THIS.Controller.GetStateName_788]"
  STATE_788_TIBETAN: "Нгава"
 
- STATE_789: "Секейский край"
+ STATE_789: "Секейленд"
  STATE_789_RENAME: "[THIS.Controller.GetStateName_789]"
  STATE_789_HUNGARIAN: "Секейфёльд"
- STATE_789_ROMANIAN: "Секуимеа"
+ STATE_789_ROMANIAN: "Секуимя"
 
  STATE_790: "Аракан"
  STATE_790_RENAME: "[THIS.Controller.GetStateName_790]"
- STATE_790_BURMESE: "Ракуинг Пранинай"
+ STATE_790_BURMESE: "Рахкунг Пранынай"
 
  STATE_791: "Стародуб"
  STATE_791_RENAME: "[THIS.Controller.GetStateName_791]"
@@ -2961,11 +2961,11 @@
  STATE_793: "Астурия"
  STATE_793_RENAME: "[THIS.Controller.GetStateName_793]"
 
- STATE_794: "Сирмия"
+ STATE_794: "Срем"
  STATE_794_RENAME: "[THIS.Controller.GetStateName_794]"
- STATE_794_CROATIAN: "Шриджем"
- STATE_794_GERMAN: "Сирмиен"
- STATE_794_HUNGARIAN: "Шеремсег"
+ STATE_794_CROATIAN: "Срием"
+ STATE_794_GERMAN: "Зирмиен"
+ STATE_794_HUNGARIAN: "Серемшег"
  STATE_794_SERBIAN: "Срем"
 
  STATE_795: "Хаэн"
@@ -3005,14 +3005,14 @@
  STATE_806: "Конакри"
  STATE_806_RENAME: "[THIS.Controller.GetStateName_806]"
 
- STATE_807: "Берег Слоновой Кости"
+ STATE_807: "Кот-д'Ивуар"
  STATE_807_RENAME: "[THIS.Controller.GetStateName_807]"
- STATE_807_FRENCH: "Кот-д'Ивуар"
- STATE_807_GERMAN: "Эльфенбейнкюсте"
+ STATE_807_FRENCH: "Кот д'Ивуар"
+ STATE_807_GERMAN: "Эльфенбайнкюсте"
 
  STATE_808: "Верхняя Вольта"
  STATE_808_RENAME: "[THIS.Controller.GetStateName_808]"
- STATE_808_FRENCH: "Ут-Вольта"
+ STATE_808_FRENCH: "От-Вольта"
 
  STATE_809: "Нигер"
  STATE_809_RENAME: "[THIS.Controller.GetStateName_809]"
@@ -3028,13 +3028,13 @@
 
  STATE_813: "Южная Замбезия"
  STATE_813_RENAME: "[THIS.Controller.GetStateName_813]"
- STATE_813_ENGLISH: "Ливингстоун"
- STATE_813_GERMAN: "Зюдзабезия"
- STATE_813_PORTUGUESE: "Суль до Лакердия"
+ STATE_813_ENGLISH: "Ливингстон"
+ STATE_813_GERMAN: "Зюдзамбезия"
+ STATE_813_PORTUGUESE: "Сул де Ласердия"
 
- STATE_814: "Уттаракханд"
+ STATE_814: "Уттаранчал"
  STATE_814_RENAME: "[THIS.Controller.GetStateName_814]"
- STATE_814_INDIAN: "Уттаранкаль" #NT!
+ STATE_814_INDIAN: "Уттаранчал"
 
  STATE_815: "Патиала"
  STATE_815_RENAME: "[THIS.Controller.GetStateName_815]"
@@ -3044,8 +3044,8 @@
 
  STATE_817: "Руссильон"
  STATE_817_RENAME: "[THIS.Controller.GetStateName_817]"
- STATE_817_CATALAN: "Россильо"
- STATE_817_SPANISH: "Росильон"
+ STATE_817_CATALAN: "Россельо"
+ STATE_817_SPANISH: "Росельон"
 
  STATE_818: "Пондичерри"
  STATE_818_RENAME: "[THIS.Controller.GetStateName_818]"
@@ -3059,9 +3059,9 @@
  STATE_821: "Павлоград"
  STATE_821_RENAME: "[THIS.Controller.GetStateName_821]"
 
- STATE_822: "Ланнатай"
+ STATE_822: "Ланна"
  STATE_822_RENAME: "[THIS.Controller.GetStateName_822]"
- STATE_822_BURMESE: "Цзинме Пуй"
+ STATE_822_BURMESE: "Зинме Пьи"
  STATE_822_THAI: "Ланна"
 
  STATE_823: "Исан"
@@ -3078,7 +3078,7 @@
 
  STATE_827: "Аннам"
  STATE_827_RENAME: "[THIS.Controller.GetStateName_827]"
- STATE_827_VIETNAMESE: "Трунг Ки" #NT!
+ STATE_827_VIETNAMESE: "Чунг Ки"
 
  STATE_828: "Сабах"
  STATE_828_RENAME: "[THIS.Controller.GetStateName_828]"
@@ -3105,7 +3105,7 @@
 
  STATE_834: "Гамбия"
  STATE_834_RENAME: "[THIS.Controller.GetStateName_834]"
- STATE_834_FRENCH: "Гамбия"
+ STATE_834_FRENCH: "Гамби"
 
  STATE_835: "Каринтия"
  STATE_835_RENAME: "[THIS.Controller.GetStateName_835]"
@@ -3116,18 +3116,18 @@
 
  STATE_837: "Апулия"
  STATE_837_RENAME: "[THIS.Controller.GetStateName_837]"
- STATE_837_ITALIAN: "Пулия"
+ STATE_837_ITALIAN: "Пулья"
 
  STATE_838: "Лигурия"
  STATE_838_RENAME: "[THIS.Controller.GetStateName_838]"
 
- STATE_839: "Аджмер"
+ STATE_839: "Аравали"
  STATE_839_RENAME: "[THIS.Controller.GetStateName_839]"
 
- STATE_840: "Ниланд"
+ STATE_840: "Нюланд"
  STATE_840_RENAME: "[THIS.Controller.GetStateName_840]"
- STATE_840_FINNISH: "Уусима"
- STATE_840_RUSSIAN: "Ниланд"
+ STATE_840_FINNISH: "Уусимаа"
+ STATE_840_RUSSIAN: "Нюланд"
 
  STATE_841: "Котор"
  STATE_841_RENAME: "[THIS.Controller.GetStateName_841]"
@@ -3135,26 +3135,26 @@
  STATE_842: "Рига"
  STATE_842_RENAME: "[THIS.Controller.GetStateName_842]"
 
- STATE_843: "С-З Новая Гвинея"
+ STATE_843: "Юго-Западная Новая Гвинея"
  STATE_843_RENAME: "[THIS.Controller.GetStateName_843]"
- STATE_843_DUTCH: "З-В Ньив-Гёйнеа"
- STATE_843_GERMAN: "Зюдвестнойгвинея"
+ STATE_843_DUTCH: "З.В. Ньив-Гинея"
+ STATE_843_GERMAN: "Зюдвестнойгинея"
  STATE_843_INDONESIAN: "Ириан Барат Селатан"
- STATE_843_JAPANESE: "Нансей Ниу-Гуинеа"
+ STATE_843_JAPANESE: "Нансей Ню-Гиниа"
 
  STATE_844: "Лапландия"
  STATE_844_RENAME: "[THIS.Controller.GetStateName_844]"
  STATE_844_FINNISH: "Лаппи"
  STATE_844_RUSSIAN: "Лапландия"
- STATE_844_SWEDISH: "Остра Лапланд"
+ STATE_844_SWEDISH: "Эстра Лаппланд"
 
  STATE_845: "Кахамарка"
  STATE_845_RENAME: "[THIS.Controller.GetStateName_845]"
 
  STATE_846: "Джохор"
  STATE_846_RENAME: "[THIS.Controller.GetStateName_846]"
- STATE_846_CHINESE: "Жуфу"
- STATE_846_JAPANESE: "Жохору"
+ STATE_846_CHINESE: "Жоуфу"
+ STATE_846_JAPANESE: "Джохору"
  STATE_846_THAI: "Яхо"
 
  STATE_847: "Бени"
@@ -3163,7 +3163,7 @@
 
  STATE_848: "Потоси"
  STATE_848_RENAME: "[THIS.Controller.GetStateName_848]"
- STATE_848_AYMARA: "Путуси"
+ STATE_848_AYMARA: "Потуси"
 
  STATE_849: "Каракас"
  STATE_849_RENAME: "[THIS.Controller.GetStateName_849]"
@@ -3188,56 +3188,56 @@
 
  STATE_856: "Дельта Меконга"
  STATE_856_RENAME: "[THIS.Controller.GetStateName_856]"
- STATE_856_CAMBODIAN: "Прек-Руссей"
- STATE_856_THAI: "Путхаймарт"
- STATE_856_VIETNAMESE: "Донг Бак Сонг Ме Конг"
+ STATE_856_CAMBODIAN: "Прек Руссей"
+ STATE_856_THAI: "Путтаймарт"
+ STATE_856_VIETNAMESE: "Тай Нам Бо"
 
  STATE_857: "Донг Бак"
  STATE_857_RENAME: "[THIS.Controller.GetStateName_857]"
- STATE_857_VIETNAMESE: "Тонг Бак Бо" #NT!
+ STATE_857_VIETNAMESE: "Донг Бак Бо"
 
  STATE_858: "Таванг"
  STATE_858_RENAME: "[THIS.Controller.GetStateName_858]"
  STATE_858_CHINESE: "Цзаннань"
- STATE_858_INDIAN: "Арунчал Прадеш"
+ STATE_858_INDIAN: "Аруначал Прадеш"
 
  STATE_859: "Оман"
  STATE_859_RENAME: "[THIS.Controller.GetStateName_859]"
- STATE_859_ARABIC: "Умян"
+ STATE_859_ARABIC: "Уман"
  STATE_859_TURKISH: "Умман"
 
  STATE_860: "Азавад"
  STATE_860_RENAME: "[THIS.Controller.GetStateName_860]"
- STATE_860_FRENCH: "Азавад"
+ STATE_860_FRENCH: "Азауад"
 
  STATE_861: "Хорезм"
  STATE_861_RENAME: "[THIS.Controller.GetStateName_861]"
- STATE_861_CENTRAL_ASIAN: "Хорезм"
+ STATE_861_CENTRAL_ASIAN: "Хоразм"
 
- STATE_862: "Пустыня Дарфура"
+ STATE_862: "Пустыня Дарфур"
  STATE_862_RENAME: "[THIS.Controller.GetStateName_862]"
- STATE_862_ARABIC: "Аль-Сахра Дар Фур"
+ STATE_862_ARABIC: "Сахра Дарфур"
  STATE_862_TURKISH: "Дарфур Чёлю"
 
- STATE_863: "Юго-Западная Финляндия"
+ STATE_863: "Финляндия Собственно"
  STATE_863_RENAME: "[THIS.Controller.GetStateName_863]"
- STATE_863_FINNISH: "Варсинаис-Суоми"
- STATE_863_RUSSIAN: "Або-Бьернбог"
+ STATE_863_FINNISH: "Варсинайс-Суоми"
+ STATE_863_RUSSIAN: "Або-Бьёрнеборг"
  STATE_863_SWEDISH: "Эгентлига Финланд"
 
  STATE_864: "Саво"
  STATE_864_RENAME: "[THIS.Controller.GetStateName_864]"
- STATE_864_RUSSIAN: "Святомихайловск"
+ STATE_864_RUSSIAN: "Свято-Михайловск"
  STATE_864_SWEDISH: "Саволакс"
 
  STATE_865: "Орес"
  STATE_865_RENAME: "[THIS.Controller.GetStateName_865]"
  STATE_865_ARABIC: "Аврас"
- STATE_865_TURKISH: "Аурес Даглары"
+ STATE_865_TURKISH: "Аврас"
 
- STATE_866: "Гелдерн"
+ STATE_866: "Гелдерланд"
  STATE_866_RENAME: "[THIS.Controller.GetStateName_866]"
- STATE_866_DUTCH: "Гелдернланд"
+ STATE_866_DUTCH: "Гелдерланд"
 
  STATE_867: "Траванкор"
  STATE_867_RENAME: "[THIS.Controller.GetStateName_867]"
@@ -3254,8 +3254,8 @@
 
  STATE_871: "Ньясаленд"
  STATE_871_RENAME: "[THIS.Controller.GetStateName_871]"
- STATE_871_GERMAN: "Ньясаленд"
- STATE_871_PORTUGUESE: "Ньясаленд"
+ STATE_871_GERMAN: "Ньяссаланд"
+ STATE_871_PORTUGUESE: "Ниассаландия"
 
  STATE_872: "Арика"
  STATE_872_RENAME: "[THIS.Controller.GetStateName_872]"
@@ -3270,7 +3270,7 @@
  STATE_875: "Западный Банат"
  STATE_875_RENAME: "[THIS.Controller.GetStateName_875]"
  STATE_875_GERMAN: "Вестбанат"
- STATE_875_HUNGARIAN: "Нюгат-Баншаг"
+ STATE_875_HUNGARIAN: "Ньюгат-Баншаг"
  STATE_875_ROMANIAN: "Банатул де Вест"
  STATE_875_SERBIAN: "Западни Банат"
 
@@ -3285,34 +3285,34 @@
 
  STATE_879: "Катанга"
  STATE_879_RENAME: "[THIS.Controller.GetStateName_879]"
- STATE_879_PORTUGUESE: "Гаранганша"
+ STATE_879_PORTUGUESE: "Гаранганжа"
 
- STATE_880: "Латгале"
+ STATE_880: "Латгалия"
  STATE_880_RENAME: "[THIS.Controller.GetStateName_880]"
  STATE_880_BELARUSIAN: "Латгалия"
- STATE_880_FINNISH: "Латгалия"
+ STATE_880_FINNISH: "Латгаллия"
  STATE_880_GERMAN: "Леттгаллен"
  STATE_880_LITHUANIAN: "Латгала"
  STATE_880_RUSSIAN: "Латгалия"
 
- STATE_881: "Бас-Конго"
+ STATE_881: "Нижнее Конго"
  STATE_881_RENAME: "[THIS.Controller.GetStateName_881]"
  STATE_881_GERMAN: "Нидерконго"
- STATE_881_PORTUGUESE: "Конго Централь"
+ STATE_881_PORTUGUESE: "Конго Сентраль"
 
  STATE_882: "Самабули"
  STATE_882_RENAME: "[THIS.Controller.GetStateName_882]"
- STATE_882_LAOTIAN: "Ксамабули"
+ STATE_882_LAOTIAN: "Сямабули"
  STATE_882_THAI: "Самабури"
 
  STATE_883: "Хэйлунцзян"
  STATE_883_RENAME: "[THIS.Controller.GetStateName_883]"
 
- STATE_884: "Синъань"
+ STATE_884: "Хулунбуир"
  STATE_884_RENAME: "[THIS.Controller.GetStateName_884]"
- STATE_884_CHINESE: "Хулунбейер" #NT!
- STATE_884_MONGOLIAN: "Хулунбуир"
- STATE_884_RUSSIAN: "Синъань"
+ STATE_884_CHINESE: "Хулунбэйэр"
+ STATE_884_MONGOLIAN: "Хёлёнбуир"
+ STATE_884_RUSSIAN: "Хулунбуир"
 
  STATE_885: "Сунцзян"
  STATE_885_RENAME: "[THIS.Controller.GetStateName_885]"
@@ -3335,14 +3335,14 @@
 
  STATE_891: "Западный Пенджаб"
  STATE_891_RENAME: "[THIS.Controller.GetStateName_891]"
- STATE_891_INDIAN: "Пашчим Панджааб"
+ STATE_891_INDIAN: "Пашчим Панджаб"
 
  STATE_892: "Джубаленд"
  STATE_892_RENAME: "[THIS.Controller.GetStateName_892]"
 
  STATE_893: "Берар"
  STATE_893_RENAME: "[THIS.Controller.GetStateName_893]"
- STATE_893_INDIAN: "Барар" #NT!
+ STATE_893_INDIAN: "Барар"
 
  STATE_894: "Санта-Катарина"
  STATE_894_RENAME: "[THIS.Controller.GetStateName_894]"
@@ -3353,11 +3353,11 @@
  STATE_896: "Мараньян"
  STATE_896_RENAME: "[THIS.Controller.GetStateName_896]"
 
- STATE_897: "Аксайчин"
+ STATE_897: "Аксай-Чин"
  STATE_897_RENAME: "[THIS.Controller.GetStateName_897]"
- STATE_897_CHINESE: "Акесай Цинь" #NT!
- STATE_897_UIGHUR: "Аксай Чин" #NT!
- STATE_897_INDIAN: "Аксай Син" #NT!
+ STATE_897_CHINESE: "Аксай Цинь"
+ STATE_897_UIGHUR: "Аксай Чин"
+ STATE_897_INDIAN: "Аксай Чин"
 
  STATE_898: "Пара"
  STATE_898_RENAME: "[THIS.Controller.GetStateName_898]"
@@ -3369,17 +3369,17 @@
  STATE_900: "Гуапоре"
  STATE_900_RENAME: "[THIS.Controller.GetStateName_900]"
 
- STATE_901: "Чако-Аустраль"
+ STATE_901: "Южный Чако"
  STATE_901_RENAME: "[THIS.Controller.GetStateName_901]"
  STATE_901_SPANISH: "Чако-Аустраль"
 
  STATE_902: "Кордова"
  STATE_902_RENAME: "[THIS.Controller.GetStateName_902]"
 
- STATE_903: "Жужуй"
+ STATE_903: "Хухуй"
  STATE_903_RENAME: "[THIS.Controller.GetStateName_903]"
 
- STATE_904: "Риоха"
+ STATE_904: "Ла-Риоха"
  STATE_904_RENAME: "[THIS.Controller.GetStateName_904]"
 
  STATE_905: "Занзибар"
@@ -3387,18 +3387,18 @@
 
  STATE_906: "Огаден"
  STATE_906_RENAME: "[THIS.Controller.GetStateName_906]"
- STATE_906_ETHIOPIAN: "Вигадень"
- STATE_906_SOMALI: "Огаадеен"
+ STATE_906_ETHIOPIAN: "Вигаде́ни"
+ STATE_906_SOMALI: "Огаде́эн"
 
  STATE_907: "Бахрейн"
  STATE_907_RENAME: "[THIS.Controller.GetStateName_907]"
- STATE_907_ARABIC: "Аль-Бахрайн"
+ STATE_907_ARABIC: "Аль-Бахрейн"
  STATE_907_SYRIAC: "Аваль"
  STATE_907_TURKISH: "Бахрейн"
 
  STATE_908: "Бохуслен"
  STATE_908_RENAME: "[THIS.Controller.GetStateName_908]"
- STATE_908_DANISH: "Бахуслен"
+ STATE_908_DANISH: "Бохуслен"
 
  STATE_909: "Хапаранда"
  STATE_909_RENAME: "[THIS.Controller.GetStateName_909]"
@@ -3411,9 +3411,9 @@
  STATE_911_RENAME: "[THIS.Controller.GetStateName_911]"
  STATE_911_FRENCH: "Борку-Эннеди"
 
- STATE_912: "Боливар"
+ STATE_912: "Дельта Амакуро"
  STATE_912_RENAME: "[THIS.Controller.GetStateName_912]"
- STATE_912_SPANISH: "Дельта Амакуро" #NT!
+ STATE_912_SPANISH: "Дельта-Амакуро"
 
  STATE_913: "Борну"
  STATE_913_RENAME: "[THIS.Controller.GetStateName_913]"
@@ -3427,30 +3427,30 @@
 
  STATE_916: "Старый Конго"
  STATE_916_RENAME: "[THIS.Controller.GetStateName_916]"
- STATE_916_GERMAN: "Альтконго" #NT!
- STATE_916_PORTUGUESE: "Конго Антигу"
+ STATE_916_GERMAN: "Альтконго"
+ STATE_916_PORTUGUESE: "Конгу-Антигу"
 
  STATE_917: "Южная Ангола"
  STATE_917_RENAME: "[THIS.Controller.GetStateName_917]"
- STATE_917_GERMAN: "Судангола" #NT!
- STATE_917_PORTUGUESE: "Ангола Меридиональ"
+ STATE_917_GERMAN: "Зюдангола"
+ STATE_917_PORTUGUESE: "Ангола-Меридионал"
 
  STATE_918: "Букоба"
  STATE_918_RENAME: "[THIS.Controller.GetStateName_918]"
 
  STATE_919: "Сидамо"
  STATE_919_RENAME: "[THIS.Controller.GetStateName_919]"
- STATE_919_ETHIOPIAN: "Сидамо"
+ STATE_919_ETHIOPIAN: "Си́дамо"
  STATE_919_ITALIAN: "Сидама"
 
- STATE_920: "Бэгемдыр"
+ STATE_920: "Бегемдер"
  STATE_920_RENAME: "[THIS.Controller.GetStateName_920]"
- STATE_920_ETHIOPIAN: "Бэгемидири"
+ STATE_920_ETHIOPIAN: "Бегэми́дири"
  STATE_920_ITALIAN: "Гондар"
 
  STATE_921: "Афар"
  STATE_921_RENAME: "[THIS.Controller.GetStateName_921]"
- STATE_921_ETHIOPIAN: "Афар"
+ STATE_921_ETHIOPIAN: "А́фар"
 
  STATE_922: "Каффа"
  STATE_922_RENAME: "[THIS.Controller.GetStateName_922]"
@@ -3459,7 +3459,7 @@
 
  STATE_923: "Тыграй"
  STATE_923_RENAME: "[THIS.Controller.GetStateName_923]"
- STATE_923_ITALIAN: "Тигрэ"
+ STATE_923_ITALIAN: "Тигре"
 
  STATE_924: "Тешин"
  STATE_924_RENAME: "[THIS.Controller.GetStateName_924]"
@@ -3468,20 +3468,20 @@
  STATE_925: "Брабант"
  STATE_925_RENAME: "[THIS.Controller.GetStateName_925]"
 
- STATE_926: "Ледник Гумбольдта"
+ STATE_926: "Гренландский ледниковый щит"
  STATE_926_RENAME: "[THIS.Controller.GetStateName_926]"
- STATE_926_DANISH: "Сермерсуак"
+ STATE_926_DANISH: "Грёнланс Иннландсис"
 
  STATE_927: "Дуала"
  STATE_927_RENAME: "[THIS.Controller.GetStateName_927]"
  STATE_927_GERMAN: "Дуала"
 
- STATE_928: "Среднее Конго"
+ STATE_928: "Средний Конго"
  STATE_928_RENAME: "[THIS.Controller.GetStateName_928]"
- STATE_928_FRENCH: "Мойан-Конгу"
- STATE_928_GERMAN: "Миттельконго-Ост"
+ STATE_928_FRENCH: "Муайен-Конго"
+ STATE_928_GERMAN: "Миттельконго"
 
- STATE_929: "Западная Вирджиния"
+ STATE_929: "Западная Виргиния"
  STATE_929_RENAME: "[THIS.Controller.GetStateName_929]"
 
  STATE_930: "Буффало"
@@ -3496,7 +3496,7 @@
  STATE_933: "Вермонт"
  STATE_933_RENAME: "[THIS.Controller.GetStateName_933]"
 
- STATE_934: "Нью-Гемпшир"
+ STATE_934: "Нью-Гэмпшир"
  STATE_934_RENAME: "[THIS.Controller.GetStateName_934]"
 
  STATE_935: "Род-Айленд"
@@ -3507,19 +3507,19 @@
 
  STATE_937: "Финнмарк"
  STATE_937_RENAME: "[THIS.Controller.GetStateName_937]"
- STATE_937_FINNISH: "Руиха"
+ STATE_937_FINNISH: "Руйя"
 
- STATE_938: "Оркни и Шетланд"
+ STATE_938: "Оркнейские и Шетландские острова"
  STATE_938_RENAME: "[THIS.Controller.GetStateName_938]"
  STATE_938_GERMAN: "Оркаден унд Шетланд"
- STATE_938_NORWEGIAN: "Нордрейар"
+ STATE_938_NORWEGIAN: "Нордрейяр"
 
  STATE_939: "Эвора"
  STATE_939_RENAME: "[THIS.Controller.GetStateName_939]"
 
  STATE_940: "Нижний Арагон"
  STATE_940_RENAME: "[THIS.Controller.GetStateName_940]"
- STATE_940_SPANISH: "Бахо Арагон"
+ STATE_940_SPANISH: "Бахо-Арагон"
 
  STATE_941: "Западное Самоа"
  STATE_941_RENAME: "[THIS.Controller.GetStateName_941]"
@@ -3531,15 +3531,15 @@
 
  STATE_943: "Верхняя Савойя"
  STATE_943_RENAME: "[THIS.Controller.GetStateName_943]"
- STATE_943_FRENCH: "Ут-Савойя"
+ STATE_943_FRENCH: "От-Савуа"
  STATE_943_GERMAN: "Хохсавойен"
  STATE_943_ITALIAN: "Альта-Савойя"
 
- STATE_944: "Харэрге"
+ STATE_944: "Харарге"
  STATE_944_RENAME: "[THIS.Controller.GetStateName_944]"
- STATE_944_ETHIOPIAN: "Харэрге"
+ STATE_944_ETHIOPIAN: "Ха́рерге"
  STATE_944_ITALIAN: "Харарге"
- STATE_944_SOMALI: "Харэр"
+ STATE_944_SOMALI: "Харарге"
 
  STATE_945: "Северный Кейп"
  STATE_945_RENAME: "[THIS.Controller.GetStateName_945]"
@@ -3547,9 +3547,9 @@
  STATE_946: "Восточный Кейп"
  STATE_946_RENAME: "[THIS.Controller.GetStateName_946]"
 
- STATE_947: "Оранжевое Государство"
+ STATE_947: "Оранжевое Свободное Государство"
  STATE_947_RENAME: "[THIS.Controller.GetStateName_947]"
- STATE_947_ENGLISH: "Оранже-Вристаат"
+ STATE_947_ENGLISH: "Оранье-Фрейстаат"
  STATE_947_SOUTH_AFRICAN: "Фрейстата"
 
  STATE_948: "Льеж"
@@ -3578,26 +3578,26 @@
  STATE_955: "Восточная Луангва"
  STATE_955_RENAME: "[THIS.Controller.GetStateName_955]"
  STATE_955_GERMAN: "Остлуангва"
- STATE_955_PORTUGUESE: "Аруанга Ориенталь"
+ STATE_955_PORTUGUESE: "Аруангуа-Ориентал"
 
  STATE_956: "Северная Замбезия"
  STATE_956_RENAME: "[THIS.Controller.GetStateName_956]"
- STATE_956_ENGLISH: "Центральный Коппербелт"
+ STATE_956_ENGLISH: "Коппербелт-Централ"
  STATE_956_GERMAN: "Нордзамбезия"
- STATE_956_PORTUGUESE: "Норте-до-Лакердия"
+ STATE_956_PORTUGUESE: "Норте-де-Ласердия"
 
  STATE_957: "Северный Уэльс"
  STATE_957_RENAME: "[THIS.Controller.GetStateName_957]"
- STATE_957_WELSH: "Гоглед Кемре"
+ STATE_957_WELSH: "Гогледд Кимру"
 
- STATE_958: "Баротселенд"
+ STATE_958: "Бароцеленд"
  STATE_958_RENAME: "[THIS.Controller.GetStateName_958]"
- STATE_958_PORTUGUESE: "Баросэ"
+ STATE_958_PORTUGUESE: "Баросе"
 
  STATE_959: "Восточная Ангола"
  STATE_959_RENAME: "[THIS.Controller.GetStateName_959]"
- STATE_959_GERMAN: "Остангола" #NT!
- STATE_959_PORTUGUESE: "Ангола Ориенталь"
+ STATE_959_GERMAN: "Остангола"
+ STATE_959_PORTUGUESE: "Ангола-Ориентал"
 
  STATE_960: "Лапландия"
  STATE_960_RENAME: "[THIS.Controller.GetStateName_960]"
@@ -3605,28 +3605,28 @@
 
  STATE_961: "Чечня"
  STATE_961_RENAME: "[THIS.Controller.GetStateName_961]"
- STATE_961_CHECHEN: "Нохчийчоь"
+ STATE_961_CHECHEN: "Нохчийчо"
 
  STATE_962: "Маруа"
  STATE_962_RENAME: "[THIS.Controller.GetStateName_962]"
  STATE_962_GERMAN: "Маруа"
 
- STATE_963: "Перак"
+ STATE_963: "Перак-Селангор"
  STATE_963_RENAME: "[THIS.Controller.GetStateName_963]"
- STATE_963_CHINESE: "Пили-Сюланье"
- STATE_963_JAPANESE: "Пера-Серагёру"
- STATE_963_THAI: "Пера-Слангнор"
+ STATE_963_CHINESE: "Пили-Сюэланьэ"
+ STATE_963_JAPANESE: "Пэра-Сэранго:ру"
+ STATE_963_THAI: "Пэра-Слангнгор"
 
- STATE_964: "Овамбо и Омахеке"
+ STATE_964: "Овамбо и Омахэке"
  STATE_964_RENAME: "[THIS.Controller.GetStateName_964]"
- STATE_964_GERMAN: "Овамбо и Омахеке"
+ STATE_964_GERMAN: "Овамбо унд Омахэке"
 
  STATE_965: "Дар-эс-салам"
  STATE_965_RENAME: "[THIS.Controller.GetStateName_965]"
 
  STATE_966: "Чхаттисгарх"
  STATE_966_RENAME: "[THIS.Controller.GetStateName_966]"
- STATE_966_INDIAN: "Чаттисгарх" #NT!
+ STATE_966_INDIAN: "Чхатти́сгарх"
 
  STATE_967: "Адрар"
  STATE_967_RENAME: "[THIS.Controller.GetStateName_967]"
@@ -3643,21 +3643,21 @@
 
  STATE_971: "Новый Камерун"
  STATE_971_RENAME: "[THIS.Controller.GetStateName_971]"
- STATE_971_FRENCH: "Нуа-Камерун"
+ STATE_971_FRENCH: "Нуво-Камерун"
  STATE_971_GERMAN: "Нойкамерун"
 
  STATE_972: "Острова Ару"
  STATE_972_RENAME: "[THIS.Controller.GetStateName_972]"
- STATE_972_GERMAN: "Ароэ-Эйланден"
- STATE_972_INDONESIAN: "Кепулуан Ару"
+ STATE_972_GERMAN: "Аруэ-Эйланден"
+ STATE_972_INDONESIAN: "Кепулауан Ару"
 
  STATE_973: "Лагос"
  STATE_973_RENAME: "[THIS.Controller.GetStateName_973]"
 
- STATE_974: "Нижняя Сангха"
+ STATE_974: "Нижняя Санга"
  STATE_974_RENAME: "[THIS.Controller.GetStateName_974]"
- STATE_974_FRENCH: "Бас-Сангха"
- STATE_974_GERMAN: "Унтре-Занга"
+ STATE_974_FRENCH: "Ба-Санга"
+ STATE_974_GERMAN: "Унтер-Занга"
 
  STATE_975: "Питтсбург"
  STATE_975_RENAME: "[THIS.Controller.GetStateName_975]"
@@ -3675,8 +3675,8 @@
 
  STATE_979: "Вестерсхелде"
  STATE_979_RENAME: "[THIS.Controller.GetStateName_979]"
- STATE_979_DUTCH: "Зюйс-Влаандрен"
- STATE_979_GERMAN: "Вестерсхелде"
+ STATE_979_DUTCH: "Зеувс-Вландерен"
+ STATE_979_GERMAN: "Вестерсхельде"
 
  STATE_980: "Лиль"
  STATE_980_RENAME: "[THIS.Controller.GetStateName_980]"
@@ -3686,16 +3686,16 @@
 
  STATE_982: "Асир"
  STATE_982_RENAME: "[THIS.Controller.GetStateName_982]"
- STATE_982_ARABIC: "Асир"
+ STATE_982_ARABIC: "Аси́р"
 
  STATE_983: "Бретань"
  STATE_983_RENAME: "[THIS.Controller.GetStateName_983]"
- STATE_983_BRETON: "Бреиз"
- STATE_983_FRENCH: "Брутань"
+ STATE_983_BRETON: "Брейз"
+ STATE_983_FRENCH: "Бретань"
 
  STATE_984: "Пиренеи"
  STATE_984_RENAME: "[THIS.Controller.GetStateName_984]"
- STATE_984_FRENCH: "Пиренеи"
+ STATE_984_FRENCH: "Пирене"
 
  STATE_985: "Канберра"
  STATE_985_RENAME: "[THIS.Controller.GetStateName_985]"
@@ -3711,8 +3711,8 @@
 
  STATE_989: "Халкидики"
  STATE_989_RENAME: "[THIS.Controller.GetStateName_989]"
- STATE_989_BULGARIAN: "Солун"
- STATE_989_GREEK: "Фессалоники"
+ STATE_989_BULGARIAN: "Халкидика"
+ STATE_989_GREEK: "Халкидики́"
  STATE_989_TURKISH: "Халкидики"
 
  STATE_990: "Видин"
@@ -3720,14 +3720,14 @@
 
  STATE_991: "Сумман"
  STATE_991_RENAME: "[THIS.Controller.GetStateName_991]"
- STATE_991_ARABIC: "Ас-Сумян"
+ STATE_991_ARABIC: "Ас-Сумма́н"
 
  STATE_992: "Хайфа"
  STATE_992_RENAME: "[THIS.Controller.GetStateName_992]"
 
  STATE_993: "Катар"
  STATE_993_RENAME: "[THIS.Controller.GetStateName_993]"
- STATE_993_SYRIAC: "Бет Катрай"
+ STATE_993_SYRIAC: "Бет Катрае"
  STATE_993_TURKISH: "Катар"
 
  STATE_994: "Джауф"
@@ -3736,30 +3736,30 @@
  STATE_995: "Хомс"
  STATE_995_RENAME: "[THIS.Controller.GetStateName_995]"
 
- STATE_996: "Вэйхай"
+ STATE_996: "Барга"
  STATE_996_RENAME: "[THIS.Controller.GetStateName_996]"
- STATE_996_CHINESE: "Баэрху" #NT!
+ STATE_996_CHINESE: "Баэрху"
 
  STATE_997: "Полесье"
  STATE_997_RENAME: "[THIS.Controller.GetStateName_997]"
- STATE_997_BELARUSIAN: "Палессе"
- STATE_997_LITHUANIAN: "Полеше"
+ STATE_997_BELARUSIAN: "Пале́сьсе"
+ STATE_997_LITHUANIAN: "Полесе"
  STATE_997_POLISH: "Полесье"
  STATE_997_RUSSIAN: "Полесье"
- STATE_997_UKRAINIAN: "Полісся"
+ STATE_997_UKRAINIAN: "Поли́сся"
 
- STATE_998: "Нагорный Карабах"
+ STATE_998: "Карабах"
  STATE_998_RENAME: "[THIS.Controller.GetStateName_998]"
- STATE_998_ARMENIAN: "Лернаин Гхарабах"
- STATE_998_AZERBAIJANI: "Даглык Карабаг"
- STATE_998_PERSIAN: "Карахбах"
- STATE_998_RUSSIAN: "Нагорный Карабах"
- STATE_998_TURKISH: "Яйла Карабаг"
+ STATE_998_ARMENIAN: "Гараба́г"
+ STATE_998_AZERBAIJANI: "Гарабаг"
+ STATE_998_PERSIAN: "Караба́г"
+ STATE_998_RUSSIAN: "Карабах"
+ STATE_998_TURKISH: "Карабаг"
 
  STATE_999: "Кедах"
  STATE_999_RENAME: "[THIS.Controller.GetStateName_999]"
  STATE_999_CHINESE: "Цзидачжоу"
- STATE_999_JAPANESE: "Кеда"
+ STATE_999_JAPANESE: "Кэда"
  STATE_999_THAI: "Сайбури"
 
  STATE_1000: "Карс"
@@ -3768,19 +3768,19 @@
 
  STATE_1001: "Лазистан"
  STATE_1001_RENAME: "[THIS.Controller.GetStateName_1001]"
- STATE_1001_GEORGIAN: "Чанети"
- STATE_1001_GREEK: "Лазики"
+ STATE_1001_GEORGIAN: "Лазети"
+ STATE_1001_GREEK: "Лазики́"
 
  STATE_1002: "Паханг"
  STATE_1002_RENAME: "[THIS.Controller.GetStateName_1002]"
  STATE_1002_CHINESE: "Пэнхэн"
  STATE_1002_JAPANESE: "Пахан"
 
- STATE_1003: "Валле-д’Аоста"
+ STATE_1003: "Долина Аосты"
  STATE_1003_RENAME: "[THIS.Controller.GetStateName_1003]"
- STATE_1003_FRENCH: "Валле-д’Аоста"
+ STATE_1003_FRENCH: "Валле-д'Ост"
  STATE_1003_GERMAN: "Аостаталь"
- STATE_1003_ITALIAN: "Валле-д’Аоста"
+ STATE_1003_ITALIAN: "Валле-д'Аоста"
 
  STATE_1004: "Эмилия"
  STATE_1004_RENAME: "[THIS.Controller.GetStateName_1004]"
@@ -3793,8 +3793,8 @@
 
  STATE_1007: "Нубия"
  STATE_1007_RENAME: "[THIS.Controller.GetStateName_1007]"
- STATE_1007_ARABIC: "Нубая"
- STATE_1007_TURKISH: "Нюбе"
+ STATE_1007_ARABIC: "Ан-Ну́ба"
+ STATE_1007_TURKISH: "Нюбье"
 
  STATE_1008: "Гирга"
  STATE_1008_RENAME: "[THIS.Controller.GetStateName_1008]"
@@ -3808,12 +3808,12 @@
 
  STATE_1010: "Дарфур"
  STATE_1010_RENAME: "[THIS.Controller.GetStateName_1010]"
- STATE_1010_ARABIC: "Дар Фур"
+ STATE_1010_ARABIC: "Да́р Фу́р"
 
  STATE_1011: "Нубийская пустыня"
  STATE_1011_RENAME: "[THIS.Controller.GetStateName_1011]"
- STATE_1011_ARABIC: "Аль-Сахра Аль-Нубая"
- STATE_1011_TURKISH: "Нюбе Чёлю"
+ STATE_1011_ARABIC: "Сахра́ ан-Ну́ба"
+ STATE_1011_TURKISH: "Нюбье Чёлю"
 
  STATE_1012: "Чаосюнь"
  STATE_1012_RENAME: "[THIS.Controller.GetStateName_1012]"
@@ -3827,55 +3827,55 @@
  STATE_1015: "Ляншань"
  STATE_1015_RENAME: "[THIS.Controller.GetStateName_1015]"
 
- STATE_1016: "Южное и Восточное Борнео"
+ STATE_1016: "Южный Борнео"
  STATE_1016_RENAME: "[THIS.Controller.GetStateName_1016]"
- STATE_1016_DUTCH: "Зюйд эн Ост Борнео"
- STATE_1016_GERMAN: "Остборнео"
- STATE_1016_INDONESIAN: "Калимантан Тимур"
+ STATE_1016_DUTCH: "Зёйд-Борнео"
+ STATE_1016_GERMAN: "Зюдборнео"
+ STATE_1016_INDONESIAN: "Калимантан-Селатан"
 
  STATE_1017: "Западный Тимор"
  STATE_1017_RENAME: "[THIS.Controller.GetStateName_1017]"
- STATE_1017_DUTCH: "Недерландш-Тимор"
+ STATE_1017_DUTCH: "Нидерландс-Тимор"
  STATE_1017_GERMAN: "Весттимор"
- STATE_1017_INDONESIAN: "Тимор Барат"
+ STATE_1017_INDONESIAN: "Тимор-Барат"
 
  STATE_1018: "Флорес и Сумба"
  STATE_1018_RENAME: "[THIS.Controller.GetStateName_1018]"
  STATE_1018_DUTCH: "Флорес и Сумба"
- STATE_1018_GERMAN: "Флорес-Инсельн"
- STATE_1018_INDONESIAN: "Кепулуан Флорес"
+ STATE_1018_GERMAN: "Флорес-Инзельн"
+ STATE_1018_INDONESIAN: "Кепулауан Флорес"
 
  STATE_1019: "Восточная Ява"
  STATE_1019_RENAME: "[THIS.Controller.GetStateName_1019]"
  STATE_1019_DUTCH: "Ост-Ява"
- STATE_1019_GERMAN: "Ост-Ява"
- STATE_1019_INDONESIAN: "Ява Тимур"
+ STATE_1019_GERMAN: "Остьява"
+ STATE_1019_INDONESIAN: "Ява-Тимур"
 
- STATE_1020: "Батавия"
+ STATE_1020: "Резиденция Батавия"
  STATE_1020_RENAME: "[THIS.Controller.GetStateName_1020]"
- STATE_1020_DUTCH: "Батавия"
+ STATE_1020_DUTCH: "Резидентие Батавия"
  STATE_1020_INDONESIAN: "Джакарта"
 
  STATE_1021: "Палембанг"
  STATE_1021_RENAME: "[THIS.Controller.GetStateName_1021]"
  STATE_1021_GERMAN: "Зюдсуматра"
- STATE_1021_INDONESIAN: "Суматера Селатан"
+ STATE_1021_INDONESIAN: "Суматера-Селатан"
 
  STATE_1022: "Западное побережье Суматры"
  STATE_1022_RENAME: "[THIS.Controller.GetStateName_1022]"
  STATE_1022_DUTCH: "Весткюст ван Суматра"
  STATE_1022_GERMAN: "Миттельсуматра"
- STATE_1022_INDONESIAN: "Суматера Тенгах"
+ STATE_1022_INDONESIAN: "Суматера-Тенгах"
 
  STATE_1023: "Ачех и Тапанули"
  STATE_1023_RENAME: "[THIS.Controller.GetStateName_1023]"
- STATE_1023_DUTCH: "Ачех эн Тапанули"
+ STATE_1023_DUTCH: "Атье и Тапануэли"
  STATE_1023_GERMAN: "Нордсуматра"
- STATE_1023_INDONESIAN: "Суматера Утара"
+ STATE_1023_INDONESIAN: "Суматера-Утара"
 
- STATE_1024: "Дхофар"
+ STATE_1024: "Дофар"
  STATE_1024_RENAME: "[THIS.Controller.GetStateName_1024]"
- STATE_1024_ARABIC: "Зуфяр"
+ STATE_1024_ARABIC: "Зуфа́р"
  STATE_1024_TURKISH: "Зуфар"
 
  STATE_1025: "Конго-Убанги"
@@ -3886,42 +3886,42 @@
  STATE_1026: "Стенливилль"
  STATE_1026_RENAME: "[THIS.Controller.GetStateName_1026]"
 
- STATE_1027: "Верхнее Чако"
+ STATE_1027: "Верхний Чако"
  STATE_1027_RENAME: "[THIS.Controller.GetStateName_1027]"
  STATE_1027_SPANISH: "Альто-Чако"
 
- STATE_1028: "Тиерра-дель-Фуэго"
+ STATE_1028: "Огненная Земля"
  STATE_1028_RENAME: "[THIS.Controller.GetStateName_1028]"
 
- STATE_1029: "Санта-Круз"
+ STATE_1029: "Санта-Крус"
  STATE_1029_RENAME: "[THIS.Controller.GetStateName_1029]"
 
- STATE_1030: "Западная Амазонас"
+ STATE_1030: "Западный Амазонас"
  STATE_1030_RENAME: "[THIS.Controller.GetStateName_1030]"
- STATE_1030_PORTUGUESE: "Амазонас Оциденталь"
+ STATE_1030_PORTUGUESE: "Амазонас-Осидентал"
 
- STATE_1031: "Северная Амазонас"
+ STATE_1031: "Северный Амазонас"
  STATE_1031_RENAME: "[THIS.Controller.GetStateName_1031]"
- STATE_1031_PORTUGUESE: "Амазонас ду Норте"
+ STATE_1031_PORTUGUESE: "Амазония-Сетентрионал"
 
- STATE_1032: "Большая Уньямвези"
+ STATE_1032: "Большой Уньямвези"
  STATE_1032_RENAME: "[THIS.Controller.GetStateName_1032]"
  STATE_1032_GERMAN: "Грос-Уньямвези"
 
- STATE_1033: "Восточная Амазонас"
+ STATE_1033: "Восточный Амазонас"
  STATE_1033_RENAME: "[THIS.Controller.GetStateName_1033]"
- STATE_1033_PORTUGUESE: "Амазонас Ориенталь"
+ STATE_1033_PORTUGUESE: "Амазонас-Ориентал"
 
- STATE_1034: "Побережье Малабара"
+ STATE_1034: "Малабарское побережье"
  STATE_1034_RENAME: "[THIS.Controller.GetStateName_1034]"
- STATE_1034_INDIAN: "Малабар Сагаратат"
+ STATE_1034_INDIAN: "Ма́лаба́р Са́гартат"
 
- STATE_1035: "Аназа"
+ STATE_1035: "Анизза"
  STATE_1035_RENAME: "[THIS.Controller.GetStateName_1035]"
- STATE_1035_ARABIC: "Аназа"
- STATE_1035_TURKISH: "Аназа"
+ STATE_1035_ARABIC: "Ани́за"
+ STATE_1035_TURKISH: "Аниза"
 
- STATE_1036: "Джунгли Боливара"
+ STATE_1036: "Боливар"
  STATE_1036_RENAME: "[THIS.Controller.GetStateName_1036]"
 
  STATE_1037: "Инини"
@@ -3935,19 +3935,19 @@
 
  STATE_1040: "Джунгли Акри"
  STATE_1040_RENAME: "[THIS.Controller.GetStateName_1040]"
- STATE_1040_PORTUGUESE: "Сэльва ду Акри"
+ STATE_1040_PORTUGUESE: "Селвас-ду-Акри"
 
  STATE_1041: "Игуасу"
  STATE_1041_RENAME: "[THIS.Controller.GetStateName_1041]"
- STATE_1041_PORTUGUESE: "Игуашу"
+ STATE_1041_PORTUGUESE: "Игуасу"
  STATE_1041_SPANISH: "Игуасу"
 
  STATE_1042: "Бадахшан"
  STATE_1042_RENAME: "[THIS.Controller.GetStateName_1042]"
- STATE_1042_CENTRAL_ASIAN: "Бадахшан"
- STATE_1042_FARSI: "Бадахшан" #NT!
+ STATE_1042_CENTRAL_ASIAN: "Бадахша́н"
+ STATE_1042_FARSI: "Бадахша́н"
 
- STATE_1043: "Понта-Пора"
+ STATE_1043: "Понта-Поран"
  STATE_1043_RENAME: "[THIS.Controller.GetStateName_1043]"
  STATE_1043_SPANISH: "Пунта-Пора"
 
@@ -3980,8 +3980,8 @@
 
  STATE_1053: "Гегерия"
  STATE_1053_RENAME: "[THIS.Controller.GetStateName_1053]"
- STATE_1053_ALBANIAN: "Гегёрия"
- STATE_1053_ITALIAN: "Албания дель Норд"
+ STATE_1053_ALBANIAN: "Геге́рия"
+ STATE_1053_ITALIAN: "Альбания-дель-Норд"
  STATE_1053_SERBIAN: "Скадар"
 
  STATE_1054: "Тяньнань"
@@ -4054,18 +4054,18 @@
 
  STATE_1076: "Верия"
  STATE_1076_RENAME: "[THIS.Controller.GetStateName_1076]"
- STATE_1076_BULGARIAN: "Бер"
- STATE_1076_GREEK: "Веройа"
+ STATE_1076_BULGARIAN: "Беру"
+ STATE_1076_GREEK: "Ве́роя"
  STATE_1076_TURKISH: "Караферье"
 
- STATE_1077: "Сан-Мартин"
+ STATE_1077: "Сен-Мартен"
  STATE_1077_RENAME: "[THIS.Controller.GetStateName_1077]"
  STATE_1077_DUTCH: "Синт-Мартен"
 
- STATE_1078: "Мабарума"
+ STATE_1078: "Барима"
  STATE_1078_RENAME: "[THIS.Controller.GetStateName_1078]"
 
- STATE_1079: "Джунгли Мабарумы"
+ STATE_1079: "Эссекибо"
  STATE_1079_RENAME: "[THIS.Controller.GetStateName_1079]"
 
  STATE_1080: "Абхазия"
@@ -4085,10 +4085,10 @@
  STATE_1084: "Западная Монголия"
  STATE_1084_RENAME: "[THIS.Controller.GetStateName_1084]"
 
- STATE_1085: "Такламаканская Пустыня"
+ STATE_1085: "Пустыня Такла-Макан"
  STATE_1085_RENAME: "[THIS.Controller.GetStateName_1085]"
- STATE_1085_CHINESE: "Такеламаган Шамо"
- STATE_1085_UIGHUR: "Теклимакан Кумлучи"
+ STATE_1085_CHINESE: "Такэламаган Шамо"
+ STATE_1085_UIGHUR: "Сахра́ е Теклемака́н"
 
  STATE_1086: "Чангтан"
  STATE_1086_RENAME: "[THIS.Controller.GetStateName_1086]"
@@ -4101,9 +4101,9 @@
 
  STATE_1089: "Кырджали"
  STATE_1089_RENAME: "[THIS.Controller.GetStateName_1089]"
- STATE_1089_BULGARIAN: "Курджали"
- STATE_1089_GREEK: "Картсали"
- STATE_1089_TURKISH: "Местанли"
+ STATE_1089_BULGARIAN: "Кырджали"
+ STATE_1089_GREEK: "Ка́рцали"
+ STATE_1089_TURKISH: "Кирджаали"
 
  STATE_1090: "Пресбург"
  STATE_1090_RENAME: "[THIS.Controller.GetStateName_1090]"
@@ -4114,17 +4114,17 @@
 
  STATE_1092: "Годжам"
  STATE_1092_RENAME: "[THIS.Controller.GetStateName_1092]"
- STATE_1092_ETHIOPIAN: "Годжам"
+ STATE_1092_ETHIOPIAN: "Го́джам"
  STATE_1092_ITALIAN: "Годжам"
 
  STATE_1093: "Волло"
  STATE_1093_RENAME: "[THIS.Controller.GetStateName_1093]"
- STATE_1093_ETHIOPIAN: "Воло"
+ STATE_1093_ETHIOPIAN: "Вело"
  STATE_1093_ITALIAN: "Уолло"
 
- STATE_1094: "Бали"
+ STATE_1094: "Бале"
  STATE_1094_RENAME: "[THIS.Controller.GetStateName_1094]"
- STATE_1094_ETHIOPIAN: "Бальи"
+ STATE_1094_ETHIOPIAN: "Бале́"
 
  STATE_1095: "Тимбукту"
  STATE_1095_RENAME: "[THIS.Controller.GetStateName_1095]"
@@ -4146,38 +4146,38 @@
 
  STATE_1100: "Кванбук"
  STATE_1100_RENAME: "[THIS.Controller.GetStateName_1100]"
- STATE_1100_CHINESE: "Гауньбэй"
+ STATE_1100_CHINESE: "Гуаньбэй"
  STATE_1100_JAPANESE: "Канхоку"
 
- STATE_1101: "Северное Канто"
+ STATE_1101: "Северный Канто"
  STATE_1101_RENAME: "[THIS.Controller.GetStateName_1101]"
- STATE_1101_JAPANESE: "Кита-Канто"
+ STATE_1101_JAPANESE: "Кита-Канто:"
 
- STATE_1102: "Южное Кюсю"
+ STATE_1102: "Южный Кюсю"
  STATE_1102_RENAME: "[THIS.Controller.GetStateName_1102]"
- STATE_1102_JAPANESE: "Минами-Кюсю"
+ STATE_1102_JAPANESE: "Минами-Кю:сю:"
 
  STATE_1103: "Санъин"
  STATE_1103_RENAME: "[THIS.Controller.GetStateName_1103]"
 
- STATE_1104: "Хёго"
+ STATE_1104: "Хиого"
  STATE_1104_RENAME: "[THIS.Controller.GetStateName_1104]"
- STATE_1104_JAPANESE: "Хёго"
+ STATE_1104_JAPANESE: "Хё:го"
 
- STATE_1105: "Косинсей"
+ STATE_1105: "Косинсэй"
  STATE_1105_RENAME: "[THIS.Controller.GetStateName_1105]"
- STATE_1105_JAPANESE: "Косинсей"
+ STATE_1105_JAPANESE: "Ко:синсэй"
 
- STATE_1106: "Северное Тюгоку"
+ STATE_1106: "Северный Тохоку"
  STATE_1106_RENAME: "[THIS.Controller.GetStateName_1106]"
- STATE_1106_JAPANESE: "Кита-Тюгоку"
+ STATE_1106_JAPANESE: "Кита-То:хоку"
 
- STATE_1107: "Караванке"
+ STATE_1107: "Караванки"
  STATE_1107_RENAME: "[THIS.Controller.GetStateName_1107]"
  STATE_1107_GERMAN: "Драуланд"
  STATE_1107_SLOVENIAN: "Подравье"
 
- STATE_1108: "Камберленд"
+ STATE_1108: "Камбрия"
  STATE_1108_RENAME: "[THIS.Controller.GetStateName_1108]"
 
  STATE_1109: "Мура"
@@ -4186,14 +4186,14 @@
  STATE_1109_HUNGARIAN: "Муравидек"
  STATE_1109_SLOVENIAN: "Мурье"
 
- STATE_1110: "Уджда"
+ STATE_1110: "Марокканская граница"
  STATE_1110_RENAME: "[THIS.Controller.GetStateName_1110]"
- STATE_1110_ARABIC: "Уджда"
+ STATE_1110_ARABIC: "Ас-Сира́дж"
 
  STATE_1111: "Долина Хукаунг"
  STATE_1111_RENAME: "[THIS.Controller.GetStateName_1111]"
- STATE_1111_BURMESE: "Долина Хукаунг"
- STATE_1111_CHINESE: "Цзянсиньпо"
+ STATE_1111_BURMESE: "Хукаунг Гьяйнхван"
+ STATE_1111_CHINESE: "Цзясиньпо"
 
  STATE_1112: "Фюн"
  STATE_1112_RENAME: "[THIS.Controller.GetStateName_1112]"
@@ -4225,15 +4225,15 @@
  STATE_1120: "$VICTORY_POINTS_10724$"
  STATE_1120_RENAME: "[THIS.Controller.GetStateName_1120]"
 
- STATE_1121: "Эйршир" #NT!
+ STATE_1121: "Эйршир"
  STATE_1121_RENAME: "[THIS.Controller.GetStateName_1121]"
 
- STATE_1122: "Уэссекс" #NT!
+ STATE_1122: "Уэссекс"
  STATE_1122_RENAME: "[THIS.Controller.GetStateName_1122]"
 
- STATE_1123: "Западная страна" #NT!
+ STATE_1123: "Западный край"
  STATE_1123_RENAME: "[THIS.Controller.GetStateName_1123]"
 
- STATE_1124: "Остров Мэн" #NT!
+ STATE_1124: "Остров Мэн"
  STATE_1124_RENAME: "[THIS.Controller.GetStateName_1124]"
- STATE_1124_IRISH: "Олеан Маннан" #NT!
+ STATE_1124_IRISH: "Ойлеан-Ваннан"

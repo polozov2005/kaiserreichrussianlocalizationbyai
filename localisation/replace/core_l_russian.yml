@@ -4,62 +4,62 @@
 ########################################################
 
 #added player warnings
- FE_IRONMAN: "Режим Ironman — §RИгры на майские каникулы§!" #NT!
- FE_IRONMAN_TOOLTIP: "В режиме Ironman консольные читы отключены, и игра регулярно автоматически сохраняется в один файл. В играх, в которых используются такие настройки, пути назад нет.\n\n§RПРЕДУПРЕЖДЕНИЕ\nИспользование режима Ironman сделает невозможным возврат к более старому сохранению в случае появления ошибки, нарушающей игру, и может навсегда испортить все прохождение.§!" #NT!
- FE_HISTORICAL: "Исторический ИИ — §RUnsupported§!" #NT!
- FE_HISTORICAL_TOOLTIP: "§RЭта функция совершенно не используется в КР, но ее включение может вызвать проблемы с ИИ. Пожалуйста, убедитесь, что вы всегда отключили его во время игры в Кайзеррайх.§!" #NT!
+ FE_IRONMAN: "Режим «Железный человек» — §RМожет сломать игру§!"
+ FE_IRONMAN_TOOLTIP: "В режиме «Железный человек» консольные читы отключены, и игра автоматически сохраняется в один файл. В партиях с этой настройкой нет пути назад.\n\n§RПРЕДУПРЕЖДЕНИЕ:\nИспользование этого режима сделает невозможным откат к старому сохранению при появлении критической ошибки и может навсегда испортить всё прохождение.§!"
+ FE_HISTORICAL: "Исторический ИИ — §RНе поддерживается§!"
+ FE_HISTORICAL_TOOLTIP: "§RЭта функция совершенно не используется в KR, но её включение может вызвать проблемы с ИИ. Пожалуйста, убедитесь, что она отключена при игре в Kaiserreich.§!"
 
 #added rollback instructions
- OLD_SAVEGAME: "§RЭто сохранение из другой версии игры, и его невозможно загрузить.§!\n$rollback_tt$" #NT!
- OLD_SAVEGAME_POPUP: "Это сохранение из другой версии игры и не может быть загружено.\n$rollback_tt$" #NT!
- OLD_SAVEGAME_ALLOWED: "§RЭто сохранение из другой версии игры и при загрузке может вести себя непредсказуемо.§!\n$rollback_tt$" #NT!
- rollback_tt: "Предыдущие версии Kaiserreich доступны по адресу\n§4github.com/Kaiserreich/Kaiserreich-4-Archive/tags§!" #NT!
+ OLD_SAVEGAME: "§RЭто сохранение создано в другой версии игры и не может быть загружено.§!\n$rollback_tt$"
+ OLD_SAVEGAME_POPUP: "Это сохранение создано в другой версии игры и не может быть загружено.\n$rollback_tt$"
+ OLD_SAVEGAME_ALLOWED: "§RЭто сохранение создано в другой версии игры и может работать нестабильно при загрузке.§!\n$rollback_tt$"
+ rollback_tt: "Предыдущие версии Kaiserreich доступны по адресу:\n§4github.com/Kaiserreich/Kaiserreich-4-Archive/tags§!"
 
 #changed links
- MENU_BAR_GAME_WIKI: "£GFX_flame_texticon  Сообщить о проблеме" #NT!
+ MENU_BAR_GAME_WIKI: "£GFX_flame_texticon  Сообщить о проблеме"
  MENU_DISCORD: "Кайзеррайх Раздор" #NT!
  MENU_TWITTER: "Кайзеррайх Твиттер" #NT!
- MENU_WIKIA: "Кайзеррайх вики" #NT!
+ MENU_WIKIA: "Вики Kaiserreich"
 
 #changed generic names
- FLEET_NAME: "$NUMBER$. Флот" #NT!
- FLEET_NAME_USA: "$NUMBER$ флот ВМС США"
- FLEET_NAME_GER: "$NUMBER$. Кайзерлиш Флотте" #NT!
- RESERVE_FLEET_NAME: "$NUMBER$. Резервный флот" #NT!
- TASK_FORCE_NAME: "$NUMBER$. Оперативная группа" #NT!
+ FLEET_NAME: "$NUMBER$-й флот"
+ FLEET_NAME_USA: "Группа ВМС США $NUMBER$"
+ FLEET_NAME_GER: "$NUMBER$-й Кайзерлихмарине"
+ RESERVE_FLEET_NAME: "$NUMBER$-й резервный флот"
+ TASK_FORCE_NAME: "$NUMBER$-е оперативное соединение"
 
 #changed to British spelling
- NAVAL_COMBAT_SHIP_ORGANIZATION_FACTOR: "- Организация: $ORG|%Y$" #NT!
- UNITS_TOO_WEAK_TO_ATTACK: "§RОрганизация отряда слишком низка для продвижения.§!\nПодождите, пока он реорганизуется, или рассмотрите возможность изменения §YАгрессивности§! выполнения планов боя." #NT!
- UNITS_DMZ_MOVE_WARNING: "§RПодразделение не будет перемещаться в демилитаризованную зону§!" #NT!
+ NAVAL_COMBAT_SHIP_ORGANIZATION_FACTOR: " — Организация: $ORG|%Y$"
+ UNITS_TOO_WEAK_TO_ATTACK: "§RОрганизация подразделения слишком низка для наступления.§!\nДождитесь перегруппировки или измените §YАгрессивность§! выполнения боевых планов."
+ UNITS_DMZ_MOVE_WARNING: "§RПодразделение не войдёт в демилитаризованную зону§!"
 
 #changed generic names
- COMMAND_GROUP_NAME_GENERIC: "$N$. Армия" #NT!
- ARMY_GROUP_NAME_GENERIC: "$N$. Группа армий" #NT!
+ COMMAND_GROUP_NAME_GENERIC: "$N$-я армия"
+ ARMY_GROUP_NAME_GENERIC: "$N$-я группа армий"
 
 #changed to British spelling
- NO_ORG_GAIN_IN_COMBAT: "В бою организованность не достигается." #NT!
- NO_ORG_GAIN_IN_NAVAL_INVASION: "Во время морского вторжения нет никакой выгоды в организации." #NT!
- ORG_OVER_SUPPLY_SOFT_CAP: "У организации превышен лимит запасов в размере $CAP|Y$. Организация будет уменьшаться на $LOSS|R$ каждый час." #NT!
- UNIT_ORG: "Организация: $VALUE|H$" #NT!
- UNIT_AVERAGE_ORG: "Средняя организация: $VALUE|%0H$" #NT!
- ARMY_UNIT_ORG: "Организация: $VALUE|%H$" #NT!
- MOVING_STRATEGIC_REDEPLOYMENT_ORG: "Переходим в режим стратегической передислокации. При перемещении его организация всегда установлена ​​на $VALUE|H%$." #NT!
- MOVING_NAVAL_TRANSFER_ORG: "Перемещение в военно-переносном режиме. При перемещении его организация всегда установлена ​​на $VALUE|H%$." #NT!
- ZERO_ORG_MOVEMENT_MODIFIER: "Низкая организация: $VALUE|+%$" #NT!
- TRAINING_ARMY_ORG: "Эта дивизия проводит §Hармейские учения§!. Во время тренировки его организация всегда установлена ​​на $VALUE|H%$." #NT!
- TRAINING_NAVY_ORG: "Эта оперативная группа проводит §HВоенно-морские учения§!. Во время тренировки его текущая организация ограничена $VALUE|H%$." #NT!
+ NO_ORG_GAIN_IN_COMBAT: "Организация не восстанавливается во время боя."
+ NO_ORG_GAIN_IN_NAVAL_INVASION: "Организация не восстанавливается во время морского вторжения."
+ ORG_OVER_SUPPLY_SOFT_CAP: "Организация превышает мягкий лимит снабжения $CAP|Y$. Организация будет снижаться на $LOSS|R$ в час."
+ UNIT_ORG: "Организация: $VALUE|H$"
+ UNIT_AVERAGE_ORG: "Средняя организация: $VALUE|%0H$"
+ ARMY_UNIT_ORG: "Организация: $VALUE|%H$"
+ MOVING_STRATEGIC_REDEPLOYMENT_ORG: "Перемещение в режиме стратегического развёртывания. Во время перемещения организация всегда установлена на $VALUE|H%$."
+ MOVING_NAVAL_TRANSFER_ORG: "Перемещение в режиме морской переброски. Во время перемещения организация всегда установлена на $VALUE|H%$."
+ ZERO_ORG_MOVEMENT_MODIFIER: "Низкая организация: $VALUE|+%$"
+ TRAINING_ARMY_ORG: "Дивизия проводит §Армейские учения§!. Во время учений её организация всегда установлена на $VALUE|H%$"
+ TRAINING_NAVY_ORG: "Оперативное соединение проводит §Морские учения§!. Во время учений текущая организация ограничена значением $VALUE|H%$"
 
 #generified
- CAN_USE_KAMIKAZE_PILOTS: "Можно использовать пилотов-смертников" #NT!
+ CAN_USE_KAMIKAZE_PILOTS: "Может использовать пилотов-смертников"
 
 #changed to British spelling
- LOW_ORG_REGAIN: "Низкая организация: $VAL|=+%2$" #NT!
- HIGH_ORG_REGAIN: "Высокая организация: $VAL|=+%2$" #NT!
- ORG_DAMAGE_MULTIPLIER: "Полученный урон организации" #NT!
- ARMY_BADGE_ORG_STR_INDICATOR_TOOLTIP: "§HOrganisation§!\nСреднее: §H$ORG_MEAN$%§!\nМедиана: §H$ORG_MEDIAN$%§!\n\n§HБоевая сила§!\nСреднее: §H$STR_MEAN$%§!\nМедиана: §H$STR_MEDIAN$%§!" #NT!
+ LOW_ORG_REGAIN: "Низкая организация: $VAL|=+%2$"
+ HIGH_ORG_REGAIN: "Высокая организация: $VAL|=+%2$"
+ ORG_DAMAGE_MULTIPLIER: "Получаемый урон организации"
+ ARMY_BADGE_ORG_STR_INDICATOR_TOOLTIP: "§HОрганизация§!\nСреднее: §H$ORG_MEAN$%§!\nМедиана: §H$ORG_MEDIAN$%§!\n\n§HБоеспособность§!\nСреднее: §H$STR_MEAN$%§!\nМедиана: §H$STR_MEDIAN$%§!"
 
 #changed wording
- CHARACTER_ADVISOR_ON_REMOVE_TOOLTIP: "\nПри увольнении:" #NT!
- CHARACTER_ADVISOR_CANT_BE_FIRED_ONCE_HIRED: "§HСоветника нельзя уволить после приема на работу§!" #NT!
- CHARACTER_ADVISOR_CANT_BE_FIRED: "§RСоветника нельзя уволить§!" #NT!
+ CHARACTER_ADVISOR_ON_REMOVE_TOOLTIP: "\nПри увольнении:"
+ CHARACTER_ADVISOR_CANT_BE_FIRED_ONCE_HIRED: "§HСоветник не может быть уволен после найма§!"
+ CHARACTER_ADVISOR_CANT_BE_FIRED: "§RСоветник не может быть уволен§!"

@@ -6,6 +6,7 @@ import glob
 # Конфигурация
 # ==========================================================
 TARGET_DIR = 'localisation'
+# Порядок списка определяет приоритет: ai_localisation > old_localisation1 > old_localisation2
 REFERENCE_PATHS = ['ai_localisation', 'old_localisation1', 'old_localisation2']
 
 
@@ -22,10 +23,10 @@ def extract_quoted_text(line: str) -> str:
 
 def parse_key(line: str) -> str | None:
     """Извлекает ключ локализации (текст до первого двоеточия)."""
-    if ':' not in line:
+    # Игнорируем строки без кавычек (заголовки l_russian:, комментарии, пустые строки)
+    if ':' not in line or '"' not in line:
         return None
     key = line.split(':', 1)[0].strip()
-    # Игнорируем комментарии и пустые ключи
     if not key or key.startswith('#'):
         return None
     return key
@@ -33,7 +34,8 @@ def parse_key(line: str) -> str | None:
 
 def load_references(paths: list[str]) -> dict[str, str]:
     """Загружает строки из справочных файлов в словарь {ключ: строка}.
-    Приоритет отдаётся строкам, содержащим кириллицу."""
+    Приоритет строго определяется порядком элементов в REFERENCE_PATHS.
+    Первое вхождение ключа сохраняется, последующие игнорируются."""
     ref_dict = {}
     for path in paths:
         if os.path.isfile(path):
@@ -48,24 +50,17 @@ def load_references(paths: list[str]) -> dict[str, str]:
             print(f"Предупреждение: файлы .yml не найдены в {path}")
             continue
 
-        print(f"Сканирование директории: {path} (найдено файлов: {len(files)})")
-        
+        print(f"Загрузка из: {path} (файлов: {len(files)})")
+
         for fpath in files:
             with open(fpath, 'r', encoding='utf-8', newline='') as f:
                 for line in f:
                     key = parse_key(line)
-                    if not key:
-                        continue
-                    
-                    line_has_cyrillic = has_cyrillic(extract_quoted_text(line))
-                    
-                    # Логика приоритета:
-                    # 1. Ключ отсутствует -> добавляем
-                    # 2. Ключ есть, но новая строка содержит кириллицу -> перезаписываем (перевод важнее)
-                    if key not in ref_dict or line_has_cyrillic:
+                    # Сохраняем только первое найденное значение ключа
+                    if key is not None and key not in ref_dict:
                         ref_dict[key] = line
 
-    print(f"Итог: загружено {len(ref_dict)} уникальных ключей для замены.\n")
+    print(f"Загружено {len(ref_dict)} уникальных ключей.\n")
     return ref_dict
 
 
@@ -93,14 +88,15 @@ def process_localisation(target_dir: str, ref_dict: dict[str, str]) -> None:
                 ref_line = ref_dict[key]
                 # Замена только если в кавычках справочной строки есть кириллица
                 if has_cyrillic(extract_quoted_text(ref_line)):
-                    # Сохраняем оригинальный символ переноса строки
+                    # Определяем символ переноса строки в исходном файле
                     if line.endswith('\r\n'):
                         ending = '\r\n'
                     elif line.endswith('\n'):
                         ending = '\n'
                     else:
                         ending = ''
-                    
+
+                    # Формируем новую строку, сохраняя перенос целевого файла
                     new_line = ref_line.rstrip('\r\n') + ending
                     new_lines.append(new_line)
                     file_changed = True
@@ -108,7 +104,8 @@ def process_localisation(target_dir: str, ref_dict: dict[str, str]) -> None:
             new_lines.append(line)
 
         if file_changed:
-            # encoding='utf-8' без BOM, newline='' сохраняет исходные окончания строк
+            # encoding='utf-8' гарантирует запись без BOM
+            # newline='' отключает автоматическую конвертацию переносов строк
             with open(fpath, 'w', encoding='utf-8', newline='') as f:
                 f.writelines(new_lines)
             modified_count += 1

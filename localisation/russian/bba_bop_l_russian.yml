@@ -1,8 +1,8 @@
 ﻿l_russian:
 
- BOP_TOOLTIP: "§Y[root.GetPowerBalanceName]§! в данный момент [?.root.power_balance_value|0%H] на следующей стороне: §Y[root.GetActiveSideName]§!"
- BOP_TOOLTIP_TREND: "Баланс сил склоняется в следующую сторону: §Y[root.GetTrendingSideName]§! на [root.GetBopTrendTextIcon][root.GetChangeRateDesc].\n[root.GetPowerBalanceModDesc]"
- BOP_TOOLTIP_STABLE: "Баланс сил в данное время стабилен."
+ BOP_TOOLTIP: "§Y[root.GetPowerBalanceName]§! в настоящее время находится на стороне §Y[root.GetActiveSideName]§! на уровне [?.root.power_balance_value|0%H]!"
+ BOP_TOOLTIP_TREND: "Баланс сил в настоящее время смещается в сторону §Y[root.GetTrendingSideName]§! на [root.GetBopTrendTextIcon][root.GetChangeRateDesc].\n[root.GetPowerBalanceModDesc]"
+ BOP_TOOLTIP_STABLE: "Баланс сил в настоящее время стабилен."
  BOP_LEFT_SIDE_TOOLTIP: "[root.GetLeftSideName]"
  BOP_RIGHT_SIDE_TOOLTIP: "[root.GetRightSideName]"
  BOP_ACTIVE_RANGE_DESC: "[root.GetActiveRangeName]"

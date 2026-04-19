@@ -15,21 +15,21 @@
  collection_european_countries: "Европейские страны"
  collection_allied_european_countries: "Союзные европейские страны"
 
- collection_american_countries: "Американские страны" #NT!
- collection_socialist_american_countries: "Социалистические американские страны" #NT!
- collection_democratic_american_countries: "Демократические американские страны" #NT!
- collection_allied_american_countries: "Союзные американские страны" #NT!
+ collection_american_countries: "Американские страны"
+ collection_socialist_american_countries: "Социалистические американские страны"
+ collection_democratic_american_countries: "Демократические американские страны"
+ collection_allied_american_countries: "Союзные американские страны"
 
  collection_non_american_countries: "Неамериканские страны"
  collection_allied_non_american_countries: "Союзные неамериканские страны"
 
  collection_asian_and_pacific_countries: "Азиатские и тихоокеанские страны"
  collection_allied_asian_and_pacific_countries: "Союзные азиатские и тихоокеанские страны"
- collection_subject_asian_and_pacific_countries: "Подчиненные азиатские и тихоокеанские страны"
- collection_allied_democratic_asian_and_pacific_countries: "Союзные демократические страны Азии и Тихого океана" #NT!
+ collection_subject_asian_and_pacific_countries: "Зависимые азиатские и тихоокеанские страны"
+ collection_allied_democratic_asian_and_pacific_countries: "Союзные демократические азиатские и тихоокеанские страны"
 
  collection_italian_countries: "Итальянские страны"
- collection_italian_unifiers: "Обьединители Италии"
+ collection_italian_unifiers: "Объединители Италии"
 
 ### State Collections ###
  every_state_in_europe: "Каждый регион в Европе"
@@ -66,7 +66,7 @@
  collection_all_controlled_baltic_states: "Все контролируемые балтийские регионы"
 
  collection_all_chinese_states: "Все китайские регионы"
- collection_all_controlled_chinese_states: "Все контролируемые китайские государства" #NT!
+ collection_all_controlled_chinese_states: "Все контролируемые китайские регионы"
 
  collection_all_middle_east_states: "Все ближневосточные регионы"
  collection_all_owned_middle_east_states: "Все принадлежащие ближневосточные регионы"
