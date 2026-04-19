@@ -1,0 +1,5 @@
+﻿l_russian:
+ autonomous_state: "Autonomous State"
+ semi_autonomous_state: "Semi-Autonomous State"
+ unlocks_espionage_operation_tt: "Unlocks an §YEspionage Operation§!:\n"
+ invite_to_faction_tt: "Is invited into our faction."
