@@ -37,17 +37,15 @@ def check_localisation_cyrillic(folder='localisation', output_file='missing_cyri
                             if not stripped:
                                 continue
 
-                            # Очищаем от маркеров локализации HOI4
-                            temp = stripped
+                            # Очищаем от переносов строк и маркеров локализации HOI4
+                            temp = stripped.replace('\n', '').replace('\r', '')
                             temp = re.sub(r'\$[^$]*\$', '', temp)          # $VAR$
                             temp = re.sub(r'\[[^\]]*\]', '', temp)         # [KEY]
                             temp = re.sub(r'£[A-Za-z_]+£?', '', temp)      # £icon£
                             temp = re.sub(r'§[^§]*§!?', '', temp)          # §color§!
-                            # Оставляем только буквы
-                            temp = re.sub(r'[^A-Za-zА-Яа-яЁё]', '', temp)
 
-                            # Если после очистки не осталось букв, строка пропускается
-                            if not temp:
+                            # Если после очистки не осталось букв ИЛИ остались только пробелы, строка пропускается
+                            if not temp.strip() or not re.sub(r'[^A-Za-zА-Яа-яЁё]', '', temp):
                                 continue
 
                             valid_contents.append(stripped)
