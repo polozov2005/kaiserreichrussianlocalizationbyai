@@ -1,7 +1,7 @@
 import os
 import re
 
-def check_localisation_cyrillic(folder='localisation', output_dir='translator_v2\missing_cyrillic'):
+def check_localisation_cyrillic(folder='localisation', output_dir=r'translator_v2\missing_cyrillic'):
     if not os.path.isdir(folder):
         print(f"Директория '{folder}' не найдена.")
         return
@@ -29,6 +29,10 @@ def check_localisation_cyrillic(folder='localisation', output_dir='translator_v2
                             continue
                         # Строка должна содержать двоеточие
                         if ':' not in line:
+                            continue
+
+                        # НОВОЕ УСЛОВИЕ: пропускаем строки, где ключ содержит _country_intro_background
+                        if '_country_intro_background' in line.split(':')[0]:
                             continue
 
                         original_line = line.rstrip('\n\r')
