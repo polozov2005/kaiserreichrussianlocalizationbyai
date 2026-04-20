@@ -4,7 +4,7 @@ import time
 
 # ================= НАСТРОЙКИ =================
 OLLAMA_API_URL = "http://localhost:11434/api/chat"
-MODEL = "Qwen3.5:9b"          # Ваша модель в Ollama
+MODEL = "qwen3.5:9b"          # Ваша модель в Ollama
 SOURCE_LANG = "English"     # Исходный язык
 TARGET_LANG = "Russian"     # Целевой язык
 TIMEOUT_SEC = 120           # Таймаут на строку (локальные LLM могут думать долго)
@@ -32,8 +32,9 @@ def translate_line(line: str) -> str:
         ],
         "stream": False,
         "options": {
-            "temperature": 0.1,  # Низкая температура для стабильных переводов
-            "num_predict": 1024  # Макс. длина ответа
+            "temperature": 0.1,      # Низкая температура для стабильных переводов
+            "num_predict": 1024,     # Макс. длина ответа
+            "enable_thinking": False # 🔥 Отключаем режим "thinking" для Qwen3.5
         }
     }
 
