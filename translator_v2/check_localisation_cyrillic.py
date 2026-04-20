@@ -92,24 +92,18 @@ def check_localisation_cyrillic(folder='localisation', output_dir='translator_v2
             if not first_block:
                 f1.write('\n')
                 f2.write('\n')
-                f3.write('\n')
+                # Для 3-го лога разделитель не нужен, будет сплошной список
+            first_block = False
 
-            # Заголовки файлов
+            # Заголовки только для 1 и 2 логов
             f1.write(f"{filepath}\n")
             f2.write(f"{filepath}\n")
-            f3.write(f"{filepath}\n")
 
             for line_num, original_line, contents in line_data:
-                # Лог 1: Полный контекст (как было)
                 f1.write(f"{line_num}\n{original_line}\n")
-                
-                # Лог 2: Только номера строк (удобно для поиска в IDE через Ctrl+P / Ctrl+Shift+F)
                 f2.write(f"{line_num}\n")
-                
-                # Лог 3: Только содержимое в кавычках (объединено через пробел)
-                f3.write(f"{line_num}: {' '.join(contents)}\n")
-
-            first_block = False
+                # 3 лог: только текст из кавычек, без путей и номеров
+                f3.write(f"{' '.join(contents)}\n")
 
     print(f"Проверка завершена. Логи сохранены в папке '{output_dir}':")
     print(f" {log1_path} (полный контекст)")
