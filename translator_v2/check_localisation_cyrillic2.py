@@ -49,7 +49,7 @@ def check_localisation_cyrillic(folder='localisation', output_file='missing_cyri
 
                             # Оставляем только буквы (латиница + кириллица)
                             letters_only = re.sub(r'[^A-Za-zА-Яа-яЁё]', '', temp)
-                            
+
                             # Если после очистки не осталось букв → пропускаем
                             if not letters_only:
                                 continue
@@ -57,6 +57,10 @@ def check_localisation_cyrillic(folder='localisation', output_file='missing_cyri
                             valid_contents.append(stripped)
 
                         if not valid_contents:
+                            continue
+
+                        # НОВОЕ УСЛОВИЕ: Пропускаем строки, где весь текст — это одиночные заглавные латинские буквы
+                        if all(len(c) == 1 and 'A' <= c <= 'Z' for c in valid_contents):
                             continue
 
                         # Проверяем наличие кириллицы в отфильтрованном содержимом
