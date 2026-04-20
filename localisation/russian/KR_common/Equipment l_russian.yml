@@ -1791,8 +1791,8 @@
  #M30 Cargo Carrier:
  ACC_mechanized_equipment_3: "Авианосец М12" #NT!
  ACC_mechanized_equipment_3_short: "Авианосец М12" #NT!
- ACC_motorized_rocket_equipment: "GMC 353 'Xylophone'"
- ACC_motorized_rocket_equipment_1: "GMC 353 'Xylophone'"
+ ACC_motorized_rocket_equipment: "GMC 353 "Ксилофон"" #NT!
+ ACC_motorized_rocket_equipment_1: "GMC 353 "Ксилофон"" #NT!
  ACC_motorized_rocket_equipment_1_short: "'Ксилофон'" #NT!
 
 #Amphibious

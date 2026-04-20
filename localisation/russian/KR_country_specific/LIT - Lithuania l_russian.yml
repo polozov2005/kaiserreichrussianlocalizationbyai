@@ -319,7 +319,7 @@
  LIT_appoint_vincas_vitkauskas_desc: "Генерал Винцас Виткаускас из литовского офицерского корпуса - человек, наиболее симпатизирующий нашим социалистическим идеалам. Чтобы литовские вооруженные силы были подчинены гражданскому правительству, мы должны назначить его начальником штаба армии. Не беспокойтесь, он сможет продолжить реформы Раштикиса."
 
  LIT_optimal_system_decisions: "Оптимальная система"
- LIT_optimal_system_decisions_desc: "The new Prime Minister's 'Optimal System' stands upon two pillars - democratic corporatism and federal restructuring. These pillars further stem from his Christian values, influence from Distributism, and belief that Lithuania is a unique fusion of Eastern and Western cultures and should preserve both.\n\nUnder his guidance, the LKDP will seek to guide the federation of corporate federations in economics, culture and society, make amends with Lithuania's minorities and grant them wide-reaching cultural autonomy, and reform the political system from the ground up. The Seimas, according to the project, shall be divided into three Houses - a universally elected 'House of Ideological Communities', a 'Little Seimas' composed of Federal representatives, and a 'House of Corporations' directly elected from trade unions, business owners, and agricultural communities. Each of the three Houses of the Seimas will appoint five ministries, all of whom will be controlled by the State Control Commission and finally overseen by the King.\n\nThe ultimate goal of the project is to form an 'optimal state', one where the voice of any citizen is heard, one whose inhabitants identify with 'Lithuania' as a concept rather than one of many numerous ethnic groups, much like they had in the Grand Duchy centuries past.\n\nThis state, according to Šalkauskis's vision, will serve as a bridge between East and West and lead all of humanity to a new age.\n\n§CFederalisation Progress§!: [?LIT_federalisation|0+]%"
+ LIT_optimal_system_decisions_desc: ""Оптимальная система" нового премьер-министра опирается на два столпа - демократический корпоративизм и федеральную реструктуризацию. Эти столпы также проистекают из его христианских ценностей, влияния дистрибутизма и веры в то, что Литва представляет собой уникальное слияние восточной и западной культур и должна сохранять и то, и другое.\n\nПод его руководством ПЛНХ будет стремиться руководить корпоративными федерациями в экономике, культуре и обществе, исправить положение меньшинств Литвы и предоставить им широкую культурную автономию, а также реформировать политическую систему с нуля. Согласно проекту, Сейм будет разделен на три палаты - универсально избираемую "Палату идеологических сообществ", "Малый Сейм", состоящий из представителей федерации, и "Палату корпораций", избираемую прямым голосованием от профсоюзов, владельцев бизнеса, и сельскохозяйственных сообществ. Каждая из трех палат Сейма назначит по пять министерств, все из которых будут контролироваться Комиссией государственного контроля и наконец, курироваться королем.\n\nКонечная цель проекта - сформировать "оптимальное государство", где будет услышан голос любого гражданина, жители которого отождествляют себя с "Литвой" как с концепцией, а не с одной из многих многочисленных этнических групп, как это было во времена Великого княжества много веков назад.\n\nЭто государство, согласно видению Шалкаускиса , будет служить мостом между Востоком и Западом и приведет все человечество к новой эпохе.\n\n§CПрогресс федерализации§!: [?LIT_federalisation|0+]%"
 
  LIT_encourage_free_debate: "Поощрять свободные дебаты"
  LIT_encourage_free_debate_desc: "Плюралистическое, демократическое государство не может процветать, если как можно больше его граждан не смогут участвовать в свободных демократических дискуссиях и обмениваться идеями."
@@ -895,7 +895,7 @@
  LIT_hold_the_line_desc: "Клика генерала Желиговского вместе с его сторонниками из южной Литвы желает занять более оборонительную и осторожную позицию, чтобы гарантировать, что Литва не подвергнется нападкам со стороны любого потенциального врага. Они советуют сосредоточиться на том, чтобы тянуть время, пока нам не помогут подкрепления из других стран Рейхспакта."
 
  LIT_territorial_defence_force: "Силы территориальной обороны"
- LIT_territorial_defence_force_desc: "The 'Lietuvos Vietinė Rinktinė' is our nation's planned initiative to launch a volunteer militia force in times of crisis. Its goal is to call up reservists and militiamen in the hopes of quickly reinforcing our frontlines and solidifying our nation's defence further."
+ LIT_territorial_defence_force_desc: ""Lietuvos Vietinė Rinktinė" - это запланированная инициатива по созданию добровольческой милиции во время кризиса. Его цель - призвать резервистов и ополченцев в надежде быстро укрепить наши линии фронта и оборону нашей страны."
 
  LIT_improved_terrain_usage: "Улучшенное использование ландшафта"
  LIT_improved_terrain_usage_desc: "Никто не знает эту землю лучше нас; На протяжении поколений наши предки долгое время использовали её в качестве естественного укрепления. По мере того, как мы готовим оборону нашей страны, мы начнем изучать благоприятные местности, такие как леса и холмы, для создания огневых точек и засад. Враг, который попытается вторгнуться в Литву, пострадает от последствий незнакомства с нашей землёй."
@@ -966,7 +966,7 @@
  LIT_cult_of_death_desc: "Фракция Vairas в ЛФА провозглашает культ смерти и жертвоприношения, веру в то, что величайшее, чего может достичь литовец, — это либо убить своего врага, либо умереть сам. Давайте институционализируем это убеждение и извлечем из него пользу!"
 
  LIT_gelezinis_vilkas: "Гележинис Вилкас"
- LIT_gelezinis_vilkas_desc: "'Voldemarininkai' or Followers of Voldemaras have taken control of Lithuania and wish to set it upon a path they deem correct."
+ LIT_gelezinis_vilkas_desc: ""Вольдемарининкай" или последователи Вольдемараса взяли Литву под свой контроль и хотят направить ее по пути, который они считают правильным."
 
  LIT_a_militarised_society: "Военизированное общество"
  LIT_a_militarised_society_desc: "Литва, окруженная врагами внутри и снаружи, должна быть готова к борьбе в любое время. Все литовцы, юноши и девушки, должны будут отдать свою жизнь за отечество; каждый гражданин станет волком — это способ защитить нашу родину. Сегодняшние литовцы, как и герои прошлого, будут охотно проливать кровь за свою любимую нацию!"
@@ -1076,7 +1076,7 @@
  LIT_working_together_desc: "Поляки и литовцы имеют довольно сложную историю взаимоотношений, от братьев по оружию до хозяина и слуги. Теперь, когда у нас есть общий враг, прямо как во времена Потопа в 17-ом веке, мы должны работать вместе, чтобы победить его."
 
  LIT_loyalty_to_plechavicius: "Верность Плехавичюсу"
- LIT_loyalty_to_plechavicius_desc: "\"...To defend the independence, territorial integrity, and constitutional order of the Kingdom of Lithuania. I pledge to respect the state language, culture, and customs of Lithuania, to serve our General, and to strengthen the basic principles of democracy and the rule of law in Lithuania. So help me God.\""
+ LIT_loyalty_to_plechavicius_desc: "\"...Защищать независимость, территориальную целостность и конституционный порядок Королевства Литва. Я выражаю уважение государственному языку, культуре и обычаям Литвы, я клянусь служить нашему Генералу, укреплять принципы демократии и власти закона в Литве. И да поможет мне Бог. \""
 
  LIT_restore_peace: "Отменить военное положение"
  LIT_restore_peace_desc: "Теперь, когда порядок в стране восстановлен, нет больше смысла в военном положение, настало время его отменить. Но время вернуть гражданское правительство ещё пока не пришло."
@@ -1184,7 +1184,7 @@
  LIT_codify_the_regency_desc: "Хотя регентство Нарутовича не оспаривается, его полномочия оспариваются, и он и Сейм желают их оформить."
 
  LIT_loyalty_to_the_kingdom: "Преданность Королевству"
- LIT_loyalty_to_the_kingdom_desc: "\"...to defend the independence, territorial integrity and constitutional order of the Kingdom of Lithuania. I pledge to respect the languages, cultures and customs of Lithuania, to serve the Regentas, strengthen the basic principles of democracy and the rule of law in Lithuania. So help me God.\""
+ LIT_loyalty_to_the_kingdom_desc: "\"...защищать независимость, территориальную целостность и конституционный строй Королевства Литвы. Я обязуюсь уважать языки, культуру и обычаи Литвы, служить регентам, укреплять основные принципы демократии и правового государства в Литве. Да поможет мне Господь.\""
 
  LIT_promote_the_krajowcy: "Продвижение Краёвцы"
  LIT_promote_the_krajowcy_desc: "Нарутович предлагает новый взгляд на идеалы Крайовцев/Краёвцы 'земляков'. Вместо того, чтобы связывать свою культуру с Речью Посполитой, он предлагает черпать ее из старого Великого Княжества Литовского, многонационального государства, жители которого называли себя 'литовцами', независимо от родного языка или религии."

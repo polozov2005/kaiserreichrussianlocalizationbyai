@@ -233,7 +233,7 @@
  FIN_the_salpa_line_desc: "Если [ROOT.FIN_GetMannerheimLineName] - наша первая линия обороны, то линия Салпа - последняя, и она не должна быть нарушена!"
 
  FIN_upgrade_sissi_units: "Улучшить подразделения Сисси"
- FIN_upgrade_sissi_units_desc: "'Sissi', in its original meaning, a forest bandit, is the roughest of the army, the guerrillas operating in uncharted woods and behind enemy lines, striking quickly and leaving no trace."
+ FIN_upgrade_sissi_units_desc: ""Сисси", в своем первоначальном значении - лесной разбойник, - это самые грубые из армии, партизаны, действующие в неизведанных лесах и в тылу врага, наносящие быстрые удары и не оставляющие следов"
 
  FIN_support_jaeger_officers: "Поддержка егерских офицеров"
  FIN_support_jaeger_officers_desc: "Молодые патриоты Королевского прусского 27-го егерского батальона обучались и сражались с немцами, и до сих пор они доминируют над большей частью армии. Их дух агрессивен и подвижен, он заимствован из немецких военных школ"
@@ -251,7 +251,7 @@
  FIN_salvage_captured_equipment_desc: "У нас нет такого промышленного потенциала, как у наших врагов, но они могут пополнить наш бюджет, позволив нам захватить их броню и оружие и обратить их против них."
 
  FIN_the_white_death: "Белая смерть"
- FIN_the_white_death_desc: "\"I do not use a scope for sniping. It can reveal one's position through the shine, and is easily frosted by the breath in subzero temperatures.\" - Simo Häyhä"
+ FIN_the_white_death_desc: ""Я не использую прицел для стрельбы. Он может показать местоположение сквозь блеск и легко замерзает от дыхания при минусовой температуре." - Симо Хяйхя"
 
  FIN_erillinen_pataljoonat: "Kaukopartiot"
  FIN_erillinen_pataljoonat_desc: "Выделение некоторых из наших лучших подразделений для действий на флангах и в тылу врага разрушит их сплоченность и даст нам необходимые сведения для проведения дальнейших операций."

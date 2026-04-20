@@ -16,10 +16,14 @@ def has_cyrillic(text: str) -> bool:
 
 
 def extract_quoted_text(line: str) -> str:
-    """Извлекает текст внутри двойных кавычек."""
-    match = re.search(r'"([^"]*)"', line)
-    return match.group(1) if match else ""
-
+    # Находим первую и последнюю кавычку в строке
+    first = line.find('"')
+    last = line.rfind('"')
+    # Если кавычек нет или они идут в неверном порядке
+    if first == -1 or last == -1 or last <= first:
+        return ""
+    # Возвращаем всё между ними, убирая экранированные "" если они встретятся
+    return line[first+1:last].replace('""', '"').strip()
 
 def parse_key(line: str) -> str | None:
     """Извлекает ключ локализации (текст до первого двоеточия)."""

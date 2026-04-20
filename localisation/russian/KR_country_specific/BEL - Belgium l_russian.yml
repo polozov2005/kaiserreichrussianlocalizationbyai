@@ -779,7 +779,7 @@
  belgium_events.19.t: "Фландрия принимает Валлонское предложение"
  belgium_events.19.d: "После того, как предложение германскому правительству провалилось, фламандцы теперь получили сделку от Валлонского движения. Они просят фламандцев работать вместе с ними, чтобы обеспечить независимость всей Бельгии и восстановить короля."
  belgium_events.19.a: "Нет. Фландрия должна быть независимой!"
- belgium_events.19.b: ""Eendracht maakt Macht!""L'union fait la force!""Unity is Strength!""
+ belgium_events.19.b: ""Единство - это сила!""
 
  belgium_events.20.t: "Эно атакована"
  belgium_events.20.d: "После того, как фламандцы и валлоны заключили пакт об объединении Бельгии, они начали штурм немецких административных офисов в Монсе и схватили губернатора и его семью. Сейчас они находятся в заложниках и повстанцы требуют вывода немецких войск из Эно. Мы окружили здание и готовы при необходимости начать штурм. Шансы на успешную эвакуацию губернатора невелики, но мы могли бы вновь занять здание, чтобы укрепить его от дальнейших атак и усилить контроль над провинцией."
@@ -1174,7 +1174,7 @@
  belgium_events.107.a: "Великолепно!"
 
  belgium_events.108.t: "[FROM.GetNameDefCap] прерывает переговоры"
- belgium_events.108.d: "\"A shocking show of nationalism\" The answer of the Internationale to our refusal to hand over Dunkirk was firm. It is, according to them, impossible to continue negotiations with a government deep enough into nationalism that they would refuse to let the French of Dunkirk rejoin their homeland. They justified their request by pointing out the artificial character of the division, born of post-Weltkrieg imperialism. The long explanations we've sent in our refusal and our shows of good will made nothing to change their mind. It seems we will be alone for the foreeseeable future."
+ belgium_events.108.d: "\"Шокирующее проявление национализма\" Ответ Интернационала на наш отказ передать Дюнкерк был твердым. По их словам, невозможно продолжать переговоры с правительством, которое настолько глубоко погрязло в национализме, что отказывается позволить французам из Дюнкерка вернуться на родину. Они обосновали свою просьбу, указав на искусственный характер разделения, порожденный империализмом после Вельткрига. Длинные объяснения, которые мы послали в своем отказе, и наши демонстрации доброй воли ничего не изменили в их решении. Похоже, что в обозримом будущем мы останемся одни."
  belgium_events.108.a: "Вот вам и социалистическая солидарность!"
 
  belgium_events.109.t: "Возвращение Дюнкерка"

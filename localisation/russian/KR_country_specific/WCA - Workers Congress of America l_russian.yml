@@ -110,7 +110,7 @@
  #Randolph:
  WCA_peace_and_reconciliation: "Мир и Примирение"
  #Butler/Carlson:
- WCA_maverick_marine: "\"Maverick Marine\""
+ WCA_maverick_marine: "\"Инакомыслящий морпех\""
 
  WCA_red_guard_commander: "Красногвардейский коммандир"
  WCA_red_guard_commander_desc: "§LЭтот лидер, хотя и был еще неопытен по обычным военным меркам, проявил мастерство командования ополченцами Красной гвардии перед Гражданской войной в США. Эти знания могут оказаться ценными.§!"
@@ -321,9 +321,9 @@
 
 ### Army Focuses ###
  WCA_second_continental_army: "Вторая Континентальная армия"
- WCA_second_continental_army_desc: "\"The revolution has begun!\" - zeal and enthusiasm are pouring forth as people line up to support our brave volunteers. Regular Chicagoans even say that \"we'll take Washington in a week and then the reactionaries will surely collapse!\". People are ready to get rid of the capitalistic government."
+ WCA_second_continental_army_desc: "\"Революция началась!\" - Добровольцы, полные энтузиазма и патриотического рвения, вступают в местные отряды ополчения. Через неделю наши войска войдут в Вашингтон как победители, а гидра реакционной контрреволюции будет обезглавлена!"
  WCA_a_gun_in_hand: "Эх, бей, винтовка!"
- WCA_a_gun_in_hand_desc: "'What more could a man need than a gun? Why a better gun of course!' Massed infantry dominates our army - and we should ensure they are as well-armed as possible."
+ WCA_a_gun_in_hand_desc: "\"Что может быть нужнее человеку, чем верное оружие? Лучшее оружие, конечно!\" Мы должны убедиться, что каждый солдат будет вооружен до зубов."
  WCA_a_boot_under_foot: "Форма и гранаты"
  WCA_a_boot_under_foot_desc: "Наши войска страдают от пестрого разброса формы. Необходимо создать единый стандарт боевого снаряжения, выдать армии мортиры, гранаты и пулеметы, и тогда наши бравые бойцы будут готовы ко всему!"
  WCA_appoint_butler: "Главнокомандующий: Смедли Батлер"

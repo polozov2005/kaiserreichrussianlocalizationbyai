@@ -1148,7 +1148,7 @@
  canada_events.109.a: "His Majesty's loyal Government."
 
  canada_events.110.t: "Демонстрации по всей Канаде"
- canada_events.110.d: "With the recent moves against the centres of unrest, most prominently Québec, but Newfoundland and Alberta as well, there have been demonstrations around the Unionist Government and their attempts to subdue the unrest by force. Luckily while these initially had significant support, including from members of Parliament and notable figures like Mackenzie King and H. H. Stevens, the demonstrations quickly lost steam as the new reality of Governance set in. Despite worries of a renewed period of unrest, the Government has started to successfully weather this storm and survive the anger thrown at it."
+ canada_events.110.d: ""Чистка" оппозиции в Палате Общин в конце концов, положившая конец дебатов, вызвала волну протестов по всей Канаде, когда в Торонто и Ванкувере прошли крупные демонстрации людей, которые назвали правительство неканадским и предложили королю [CAN_king_first_name] использовать протесты в Квебеке в качестве предлога для захвата власти. "Это не канадцы, - сказал Маккензи Кинг на акции протеста в Торонто, - это шаг отчаянного британского правительства, чтобы заставить Канаду подчиниться, когда она наиболее уязвима" До сих пор КККП удавалось удерживать демонстрации от вспышек насилия, но гнев среди канадцев нарастает."
  canada_events.110.a: "Совсем не хорошо"
 
  canada_events.111.t: "Парламент временно отстранён"

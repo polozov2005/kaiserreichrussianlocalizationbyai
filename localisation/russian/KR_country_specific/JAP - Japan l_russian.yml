@@ -1030,7 +1030,7 @@
  JAP_integrate_asian_economies_desc: "Экономическая мощь - ключ ко всему, и, имея в своем распоряжении неоспоримое господство над Азией, мы можем начать процесс, начатый в Осаке: привязать к себе экономики Восточной Азии, чтобы заставить их подчиняться нашей воле."
  JAP_final_victory: "Провозгласить победу над империализмом"
  JAP_final_victory_desc: "Наконец-то победа в наших руках. Япония - бесспорный хозяин всей Восточной Азии! Мы поставили на место наших соперников и изгнали европейцев с того, что принадлежит нам по праву. Родные острова стали центром азиатской экономики. Когда тигр рычит, весь мир трепещет!"
- JAP_prosperity_ships: "'Prosperity' Ships"
+ JAP_prosperity_ships: ""Корабли процветания""
  JAP_prosperity_ships_desc: "Мы уже строим наши корабли, используя определенные модули серийной сборки, но сейчас наша потребность в грузовых кораблях выше, чем раньше. Наши талантливые инженеры предлагают строить целые корабли из модулей, которые будут производиться на заводской линии."
  JAP_copro_development_plan: "План развития военно-морского флота совместного процветания"
  JAP_copro_development_plan_desc: "Мощность верфей большинства наших союзников просто смехотворна. Хотя их рабочие никогда не сравнятся с японскими, мы должны поддерживать наращивание их военно-морского потенциала, поскольку каждый корабль будет необходим в следующей войне."
@@ -1320,7 +1320,7 @@
  japan_domestic_events.23.a: "Именно этим путём мы и должны следовать"
 
  japan_domestic_events.24.t: "Об основополагающих принципах национальной структуры"
- japan_domestic_events.24.d: "'On The Fundamental Principles of the National Structure' is a 156 page pamphlet produced by the Ministry of Education to establish an official description of the 'Kokutai', or national structure (It can also can be translated as 'national essence', 'national polity', etc). The pamphlet officially enshrines the Emperor as a living god, according to the legend of the Goddess Amaterasu and 'an unbroken line of emperors' (Banseiikkei). To serve the divine Emperor, his subjects were required to cast themselves aside for the social harmony (Wa) and for the prosperity of Japanese culture. To some extent, the pamphlet is a response to criticism of the Centralist's 'Neo-Shogunism'."
+ japan_domestic_events.24.d: ""Об основополагающих принципах национальной структуры" - это 156-страничный памфлет, подготовленный министерством образования для создания официального описания "Кокутай", или национальной структуры (слово также можно перевести как "национальная сущность", "национальное государство" и т. д.). Памфлет, согласно легенде о богине Аматэрасу, официально закрепляет статус императора как живого бога, а также "непрерывную линию императоров" (Бансэйиккэй). Чтобы служить божественному императору, его подданные должны отбросить своё "Я" ради социальной гармонии (Ва) и процветания японской культуры. В какой-то степени, памфлет является ответом на критику централистского "нео-сёгунизма""
  japan_domestic_events.24.a: "Именно этим путём мы и должны следовать"
 
  japan_domestic_events.25.t: "Движение нового государства"
