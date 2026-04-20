@@ -14895,7 +14895,6 @@ localisation\russian\KR_common\Game Rules l_russian.yml
 2742
 3287
 3309
-3760
 3860
 3922
 4213
@@ -16197,7 +16196,6 @@ localisation\russian\KR_country_specific\AST - Australasia l_russian.yml
 508
 539
 584
-695
 1395
 1397
 1399
@@ -16581,7 +16579,6 @@ localisation\russian\KR_country_specific\BEL - Belgium l_russian.yml
 596
 1035
 1156
-1177
 1189
 1582
 1583
@@ -16733,10 +16730,7 @@ localisation\russian\KR_country_specific\BLR - White Ruthenia l_russian.yml
 430
 431
 437
-488
 812
-967
-979
 1041
 1044
 1047
@@ -16967,7 +16961,6 @@ localisation\russian\KR_country_specific\BRA - Brazil l_russian.yml
 586
 843
 844
-894
 926
 927
 1250
@@ -17203,7 +17196,6 @@ localisation\russian\KR_country_specific\BUL - Bulgaria l_russian.yml
 212
 216
 228
-284
 693
 694
 695
@@ -17438,7 +17430,6 @@ localisation\russian\KR_country_specific\CAN - Canada l_russian.yml
 1146
 1147
 1148
-1151
 1172
 1180
 1181
@@ -18081,14 +18072,12 @@ localisation\russian\KR_country_specific\CHI - Left Kuomintang l_russian.yml
 1024
 1026
 1066
-1229
 1260
 1261
 1290
 1438
 1439
 1597
-2207
 2335
 2336
 2337
@@ -18109,7 +18098,6 @@ localisation\russian\KR_country_specific\CHI - Left Kuomintang l_russian.yml
 2356
 2357
 2358
-2448
 2537
 2538
 2539
@@ -18118,7 +18106,6 @@ localisation\russian\KR_country_specific\CHI - Left Kuomintang l_russian.yml
 2615
 2616
 2617
-2623
 2698
 2699
 2700
@@ -18129,8 +18116,6 @@ localisation\russian\KR_country_specific\CHI - Left Kuomintang l_russian.yml
 2711
 2713
 2792
-2835
-2844
 2918
 2925
 2926
@@ -18182,8 +18167,6 @@ localisation\russian\KR_country_specific\CHI - Left Kuomintang l_russian.yml
 3447
 3448
 3449
-3493
-3501
 3632
 3634
 3636
@@ -18470,10 +18453,7 @@ localisation\russian\KR_country_specific\COS - Costa Rica l_russian.yml
 725
 733
 734
-794
 839
-890
-920
 1020
 1021
 1022
@@ -18573,14 +18553,9 @@ localisation\russian\KR_country_specific\CUB - Cuba l_russian.yml
 248
 251
 252
-327
-401
-471
-513
 594
 597
 766
-767
 866
 867
 874
@@ -18730,7 +18705,6 @@ localisation\russian\KR_country_specific\DEI - Dutch East Indies l_russian.yml
 215
 219
 223
-236
 300
 666
 672
@@ -18791,9 +18765,6 @@ localisation\russian\KR_country_specific\DEN - Denmark l_russian.yml
 332
 333
 334
-348
-650
-681
 726
 727
 729
@@ -18971,8 +18942,6 @@ localisation\russian\KR_country_specific\DOM - Dominican Republic l_russian.yml
 
 localisation\russian\KR_country_specific\ECU - Ecuador l_russian.yml
 181
-239
-255
 450
 452
 471
@@ -19096,8 +19065,6 @@ localisation\russian\KR_country_specific\ENG - Union of Britain l_russian.yml
 51
 271
 385
-399
-408
 726
 733
 748
@@ -19352,8 +19319,6 @@ localisation\russian\KR_country_specific\FIN - Finland l_russian.yml
 208
 217
 229
-236
-254
 256
 358
 736
@@ -19491,7 +19456,6 @@ localisation\russian\KR_country_specific\FNG - Fengtian l_russian.yml
 838
 1156
 1243
-1275
 1652
 1724
 1824
@@ -19917,11 +19881,7 @@ localisation\russian\KR_country_specific\FRA - Commune of France l_russian.yml
 236
 290
 311
-369
-386
 398
-399
-506
 509
 512
 521
@@ -20084,8 +20044,6 @@ localisation\russian\KR_country_specific\GBR - United Kingdom l_russian.yml
 115
 116
 117
-279
-322
 526
 527
 528
@@ -20509,16 +20467,13 @@ localisation\russian\KR_country_specific\GER - Germany l_russian.yml
 1199
 1201
 1204
-1458
 1488
 1528
 1594
-1623
 1628
 1630
 1632
 1634
-1669
 1820
 1898
 1927
@@ -20530,12 +20485,8 @@ localisation\russian\KR_country_specific\GER - Germany l_russian.yml
 1934
 1935
 2017
-2029
-2035
-2050
 2063
 2084
-2092
 2142
 2183
 2186
@@ -20543,13 +20494,11 @@ localisation\russian\KR_country_specific\GER - Germany l_russian.yml
 2285
 2342
 2391
-2392
 2438
 2465
 2482
 2502
 2532
-2533
 2560
 2673
 2700
@@ -20560,14 +20509,12 @@ localisation\russian\KR_country_specific\GER - Germany l_russian.yml
 3097
 3112
 3178
-3200
 3208
 3229
 3284
 3345
 3390
 3408
-3516
 3560
 3561
 3591
@@ -20582,16 +20529,12 @@ localisation\russian\KR_country_specific\GER - Germany l_russian.yml
 3945
 3946
 3995
-4071
-4075
-4079
 4301
 4309
 4345
 4346
 4347
 4523
-4657
 4782
 4928
 4985
@@ -20606,7 +20549,6 @@ localisation\russian\KR_country_specific\GER - Germany l_russian.yml
 5125
 5138
 5151
-5223
 5311
 5361
 5379
@@ -21021,10 +20963,6 @@ localisation\russian\KR_country_specific\HNN - Hunan l_russian.yml
 616
 624
 625
-980
-1140
-1143
-1146
 1386
 1388
 1390
@@ -21095,7 +21033,6 @@ localisation\russian\KR_country_specific\HNN - Hunan l_russian.yml
 1643
 1644
 1645
-1837
 1905
 1906
 1907
@@ -21123,15 +21060,12 @@ localisation\russian\KR_country_specific\HNN - Hunan l_russian.yml
 1959
 1960
 1961
-2111
 
 localisation\russian\KR_country_specific\HOL - Netherlands l_russian.yml
 30
 31
 32
 33
-236
-262
 291
 368
 369
@@ -21142,17 +21076,10 @@ localisation\russian\KR_country_specific\HOL - Netherlands l_russian.yml
 533
 535
 541
-553
 572
-587
-605
-611
 615
 632
-926
-927
 1046
-1202
 1339
 1343
 1365
@@ -21474,8 +21401,6 @@ localisation\russian\KR_country_specific\INS - Indonesia l_russian.yml
 66
 85
 383
-491
-559
 568
 786
 787
@@ -21944,10 +21869,8 @@ localisation\russian\KR_country_specific\IRE - Ireland l_russian.yml
 1470
 1472
 1473
-1505
 1542
 1543
-1545
 1547
 1548
 1550
@@ -21969,7 +21892,6 @@ localisation\russian\KR_country_specific\IRE - Ireland l_russian.yml
 1899
 1900
 1916
-1925
 1944
 1945
 1946
@@ -21990,18 +21912,8 @@ localisation\russian\KR_country_specific\IRE - Ireland l_russian.yml
 2330
 2331
 2332
-2338
-2339
-2340
-2341
-2342
-2343
 2344
-2345
 2346
-2347
-2348
-2349
 2351
 2352
 2353
@@ -22095,7 +22007,6 @@ localisation\russian\KR_country_specific\IRE - Ireland l_russian.yml
 2998
 2999
 3107
-3274
 3341
 3342
 3343
@@ -22159,7 +22070,6 @@ localisation\russian\KR_country_specific\IRE - Ireland l_russian.yml
 3781
 3782
 3783
-3829
 3935
 3936
 3937
@@ -22170,8 +22080,6 @@ localisation\russian\KR_country_specific\IRE - Ireland l_russian.yml
 3942
 3959
 3961
-3965
-3967
 3974
 4424
 4503
@@ -22246,7 +22154,6 @@ localisation\russian\KR_country_specific\IRE - Ireland l_russian.yml
 5315
 5456
 5480
-5505
 5587
 5588
 5589
@@ -22403,7 +22310,6 @@ localisation\russian\KR_country_specific\JAP - Japan l_russian.yml
 825
 865
 963
-1033
 1079
 1193
 1209
@@ -22412,7 +22318,6 @@ localisation\russian\KR_country_specific\JAP - Japan l_russian.yml
 1226
 1227
 1228
-1323
 1488
 2042
 2043
@@ -22831,7 +22736,6 @@ localisation\russian\KR_country_specific\KUM - Kumul Khanate l_russian.yml
 220
 221
 442
-679
 742
 743
 978
@@ -22998,17 +22902,11 @@ localisation\russian\KR_country_specific\LEB - Lebanon l_russian.yml
 512
 
 localisation\russian\KR_country_specific\LEC - Legation Cities l_russian.yml
-7
-9
-72
-93
 139
 140
 150
 151
 152
-246
-544
 651
 683
 1110
@@ -23123,7 +23021,6 @@ localisation\russian\KR_country_specific\LEP - League of Eight Provinces l_russi
 1376
 1384
 1385
-1517
 1518
 
 localisation\russian\KR_country_specific\LIB - Liberia l_russian.yml
@@ -23164,14 +23061,11 @@ localisation\russian\KR_country_specific\LIB - Liberia l_russian.yml
 localisation\russian\KR_country_specific\LIT - Lithuania l_russian.yml
 169
 265
-322
 399
 400
 432
 461
 858
-898
-969
 1165
 1258
 1259
@@ -23537,7 +23431,6 @@ localisation\russian\KR_country_specific\MNT - Montenegro l_russian.yml
 55
 56
 60
-61
 87
 104
 116
@@ -23569,14 +23462,10 @@ localisation\russian\KR_country_specific\MON - Mongolia l_russian.yml
 8
 146
 147
-188
 210
 261
 808
 818
-1164
-1168
-1271
 1584
 1606
 1607
@@ -23602,7 +23491,6 @@ localisation\russian\KR_country_specific\MON - Mongolia l_russian.yml
 1727
 1728
 1746
-1749
 1755
 1756
 
@@ -23673,7 +23561,6 @@ localisation\russian\KR_country_specific\MYS - Mysore l_russian.yml
 localisation\russian\KR_country_specific\NAT - Natal l_russian.yml
 21
 22
-185
 253
 254
 255
@@ -23870,7 +23757,6 @@ localisation\russian\KR_country_specific\NEE - New England l_russian.yml
 1010
 1095
 1096
-1250
 1329
 1406
 1407
@@ -23888,7 +23774,6 @@ localisation\russian\KR_country_specific\NEE - New England l_russian.yml
 1486
 1595
 1649
-1787
 2009
 2010
 2258
@@ -23965,7 +23850,6 @@ localisation\russian\KR_country_specific\NEP - Nepal l_russian.yml
 3
 
 localisation\russian\KR_country_specific\NFA - NatFrance l_russian.yml
-256
 346
 357
 365
@@ -23989,7 +23873,6 @@ localisation\russian\KR_country_specific\NFA - NatFrance l_russian.yml
 650
 652
 668
-669
 674
 697
 699
@@ -24013,7 +23896,6 @@ localisation\russian\KR_country_specific\NFA - NatFrance l_russian.yml
 1340
 1415
 1448
-1504
 1513
 1518
 1587
@@ -24022,7 +23904,6 @@ localisation\russian\KR_country_specific\NFA - NatFrance l_russian.yml
 1610
 1611
 1613
-1622
 1627
 1631
 1645
@@ -24034,14 +23915,12 @@ localisation\russian\KR_country_specific\NFA - NatFrance l_russian.yml
 1703
 1719
 1738
-1741
 1742
 1764
 1778
 1792
 1820
 1826
-1829
 1830
 1994
 1997
@@ -24054,23 +23933,14 @@ localisation\russian\KR_country_specific\NFA - NatFrance l_russian.yml
 2323
 2471
 2478
-2514
-2519
 2538
 2542
-2544
 2558
-2559
-2563
 2564
-2568
 2580
-2581
 2588
-2589
 2592
 2596
-2598
 2604
 2612
 2620
@@ -24093,11 +23963,8 @@ localisation\russian\KR_country_specific\NFA - NatFrance l_russian.yml
 2795
 2806
 2829
-2866
 2875
 2883
-2884
-2907
 3022
 3046
 3053
@@ -24597,7 +24464,6 @@ localisation\russian\KR_country_specific\PHI - Philippines l_russian.yml
 545
 760
 766
-767
 794
 849
 1094
@@ -24817,7 +24683,6 @@ localisation\russian\KR_country_specific\POL - Poland l_russian.yml
 1402
 1403
 1408
-1497
 1612
 1978
 2036
@@ -24832,7 +24697,6 @@ localisation\russian\KR_country_specific\POL - Poland l_russian.yml
 2885
 3048
 3061
-3065
 3103
 3165
 3166
@@ -24966,7 +24830,6 @@ localisation\russian\KR_country_specific\PRE - Prussia l_russian.yml
 121
 
 localisation\russian\KR_country_specific\PRF - Princely Federation l_russian.yml
-356
 733
 734
 735
@@ -25175,9 +25038,6 @@ localisation\russian\KR_country_specific\QIE - Qing l_russian.yml
 620
 622
 624
-1002
-1118
-1227
 1422
 1425
 1428
@@ -25381,7 +25241,6 @@ localisation\russian\KR_country_specific\RAJ - Dominion of India l_russian.yml
 75
 76
 81
-249
 643
 749
 750
@@ -25432,10 +25291,6 @@ localisation\russian\KR_country_specific\ROM - Romania l_russian.yml
 303
 423
 625
-662
-666
-828
-861
 1950
 1951
 1952
@@ -25543,16 +25398,7 @@ localisation\russian\KR_country_specific\RUS - Russia l_russian.yml
 869
 892
 1350
-1360
-1473
-1475
-1784
 1808
-1819
-1969
-1994
-2185
-2378
 2479
 2625
 2777
@@ -25587,44 +25433,15 @@ localisation\russian\KR_country_specific\RUS - Russia l_russian.yml
 3638
 3639
 3640
-3648
 3821
 3887
-4073
-4077
-4124
-4248
 4539
 4540
-4701
-4751
 4805
-5016
-5090
-5152
-5395
-5464
-5465
-5466
-5467
-5492
-5496
-5497
-5501
-5565
-5699
 5708
-5746
 6046
-6133
-6519
-6644
-6715
-6781
-6885
 7090
 7278
-7410
 7428
 7453
 7481
@@ -26397,12 +26214,6 @@ localisation\russian\KR_country_specific\SHX - Shanxi l_russian.yml
 958
 1151
 1275
-1336
-1395
-1399
-1452
-1545
-1550
 1568
 1917
 1957
@@ -26427,11 +26238,7 @@ localisation\russian\KR_country_specific\SHX - Shanxi l_russian.yml
 1983
 2084
 2281
-2450
-2647
 2669
-2747
-2815
 2841
 2850
 2851
@@ -26442,17 +26249,13 @@ localisation\russian\KR_country_specific\SHX - Shanxi l_russian.yml
 2872
 2873
 3096
-3228
-3318
 3379
-3508
 3568
 3569
 3570
 3571
 3701
 3702
-3790
 
 localisation\russian\KR_country_specific\SIA - Siam l_russian.yml
 11
@@ -26469,9 +26272,6 @@ localisation\russian\KR_country_specific\SIA - Siam l_russian.yml
 199
 270
 283
-549
-550
-551
 562
 633
 634
@@ -26625,7 +26425,6 @@ localisation\russian\KR_country_specific\SIA - Siam l_russian.yml
 818
 819
 1008
-1201
 1309
 1310
 1311
@@ -26965,7 +26764,6 @@ localisation\russian\KR_country_specific\SRD - Sardinia l_russian.yml
 343
 352
 429
-451
 536
 581
 593
@@ -27059,7 +26857,6 @@ localisation\russian\KR_country_specific\SRI - Socialist Republic of Italy l_rus
 600
 617
 729
-840
 871
 925
 1003
@@ -27170,7 +26967,6 @@ localisation\russian\KR_country_specific\SWE - Sweden l_russian.yml
 73
 133
 134
-159
 262
 276
 305
@@ -27645,16 +27441,12 @@ localisation\russian\KR_country_specific\TUR - Ottoman l_russian.yml
 830
 831
 832
-884
-933
 952
-983
 1098
 1099
 1170
 1194
 1195
-1201
 1267
 1275
 1276
@@ -27995,10 +27787,8 @@ localisation\russian\KR_country_specific\TUR - Turkey l_russian.yml
 534
 535
 743
-761
 770
 1018
-1020
 1031
 1185
 1186
@@ -28049,7 +27839,6 @@ localisation\russian\KR_country_specific\UKR - Ukraine l_russian.yml
 1086
 1163
 1482
-1735
 1775
 1776
 1777
@@ -28065,13 +27854,11 @@ localisation\russian\KR_country_specific\UKR - Ukraine l_russian.yml
 3692
 3693
 3694
-3756
 4282
 4330
 4874
 4875
 5281
-5398
 5466
 5469
 5472
@@ -28249,7 +28036,6 @@ localisation\russian\KR_country_specific\USA - United States l_russian.yml
 585
 586
 628
-840
 954
 1033
 1034
@@ -30356,7 +30142,6 @@ localisation\russian\KR_country_specific\VEN - Venezuela l_russian.yml
 272
 308
 402
-403
 410
 526
 542
@@ -30733,8 +30518,6 @@ localisation\russian\KR_country_specific\WCA - Workers Congress of America l_rus
 236
 269
 270
-324
-326
 485
 503
 504
