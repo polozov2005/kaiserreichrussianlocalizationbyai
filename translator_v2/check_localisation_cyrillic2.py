@@ -44,12 +44,12 @@ def check_localisation_cyrillic(folder='localisation', output_file='missing_cyri
                             temp = re.sub(r'\$[^$]*\$', '', temp)          # $VAR$
                             temp = re.sub(r'\[[^\]]*\]', '', temp)         # [KEY]
                             temp = re.sub(r'£[A-Za-z_]+£?', '', temp)      # £icon£
-                            # 3. Убираем ВСЕ маркеры цвета § (самый надёжный способ для PDX)
-                            temp = temp.replace('§', '')
+                            # 3. Убираем ВСЕ маркеры цвета и форматирования § вместе с кодом цвета
+                            temp = re.sub(r'§[A-Za-z0-9=+!-]*', '', temp)
 
                             # Оставляем только буквы (латиница + кириллица)
                             letters_only = re.sub(r'[^A-Za-zА-Яа-яЁё]', '', temp)
-
+                            
                             # Если после очистки не осталось букв → пропускаем
                             if not letters_only:
                                 continue
