@@ -1,14 +1,16 @@
 import os
 import re
 
-def check_localisation_cyrillic(folder='localisation', output_file='missing_cyrillic.log'):
+def check_localisation_cyrillic(folder='localisation', output_dir='translator_v2\missing_cyrillic'):
     if not os.path.isdir(folder):
         print(f"Директория '{folder}' не найдена.")
         return
 
-    # Стандарт для PDX: текст всегда в двойных кавычках. Игнорируем апострофы внутри.
+    # Создаём папку для логов, если её нет
+    os.makedirs(output_dir, exist_ok=True)
+
     quote_pattern = re.compile(r'"([^"]*)"')
-    file_log = {}
+    file_data = {}
 
     for root, dirs, files in os.walk(folder):
         dirs.sort()
@@ -44,13 +46,11 @@ def check_localisation_cyrillic(folder='localisation', output_file='missing_cyri
                             temp = re.sub(r'\$[^$]*\$', '', temp)          # $VAR$
                             temp = re.sub(r'\[[^\]]*\]', '', temp)         # [KEY]
                             temp = re.sub(r'£[A-Za-z_]+£?', '', temp)      # £icon£
-                            # 3. Убираем ВСЕ маркеры цвета и форматирования § вместе с кодом цвета
+                            # 3. Убираем маркеры цвета/форматирования
                             temp = re.sub(r'§[A-Za-z0-9=+!-]*', '', temp)
 
-                            # Оставляем только буквы (латиница + кириллица)
+                            # Оставляем только буквы
                             letters_only = re.sub(r'[^A-Za-zА-Яа-яЁё]', '', temp)
-
-                            # Если после очистки не осталось букв → пропускаем
                             if not letters_only:
                                 continue
 
@@ -59,42 +59,65 @@ def check_localisation_cyrillic(folder='localisation', output_file='missing_cyri
                         if not valid_contents:
                             continue
 
-                        # НОВОЕ УСЛОВИЕ: Пропускаем строки, где весь текст — это одиночные заглавные латинские буквы
+                        # Пропускаем строки с одиночными заглавными латинскими буквами
                         if all(len(c) == 1 and 'A' <= c <= 'Z' for c in valid_contents):
                             continue
 
-                        # Проверяем наличие кириллицы в отфильтрованном содержимом
+                        # Проверяем наличие кириллицы
                         has_cyrillic = any('\u0400' <= char <= '\u04FF' for content in valid_contents for char in content)
-
-                        # Явное условие: строки С кириллицей пропускаем, в лог попадают ТОЛЬКО строки БЕЗ кириллицы
                         if has_cyrillic:
                             continue
 
-                        lines_to_log.append((line_num, original_line))
-                        
+                        # Сохраняем: номер строки, оригинал, отфильтрованное содержимое кавычек
+                        lines_to_log.append((line_num, original_line, valid_contents))
+
             except Exception as e:
                 print(f"Ошибка чтения файла {filepath}: {e}")
                 continue
 
             if lines_to_log:
-                file_log[filepath] = lines_to_log
+                file_data[filepath] = lines_to_log
 
-    # Запись в UTF-8 без BOM
-    with open(output_file, 'w', encoding='utf-8') as out:
+    # Пути к трём логам
+    log1_path = os.path.join(output_dir, 'missing_cyrillic_full.log')
+    log2_path = os.path.join(output_dir, 'missing_cyrillic_paths.log')
+    log3_path = os.path.join(output_dir, 'missing_cyrillic_contents.log')
+
+    with open(log1_path, 'w', encoding='utf-8') as f1, \
+         open(log2_path, 'w', encoding='utf-8') as f2, \
+         open(log3_path, 'w', encoding='utf-8') as f3:
+
         first_block = True
-        for filepath, line_data in file_log.items():
+        for filepath, line_data in file_data.items():
             if not first_block:
-                out.write('\n')
-            out.write(f"{filepath}\n")
-            for line_num, original_line in line_data:
-                out.write(f"{line_num}\n")
-                out.write(f"{original_line}\n")
+                f1.write('\n')
+                f2.write('\n')
+                f3.write('\n')
+
+            # Заголовки файлов
+            f1.write(f"{filepath}\n")
+            f2.write(f"{filepath}\n")
+            f3.write(f"{filepath}\n")
+
+            for line_num, original_line, contents in line_data:
+                # Лог 1: Полный контекст (как было)
+                f1.write(f"{line_num}\n{original_line}\n")
+                
+                # Лог 2: Только номера строк (удобно для поиска в IDE через Ctrl+P / Ctrl+Shift+F)
+                f2.write(f"{line_num}\n")
+                
+                # Лог 3: Только содержимое в кавычках (объединено через пробел)
+                f3.write(f"{line_num}: {' '.join(contents)}\n")
+
             first_block = False
 
-    if file_log:
-        print(f"Проверка завершена. Результаты сохранены в '{output_file}'")
-    else:
-        print("Проверка завершена. Строк без кириллицы не найдено.")
+    print(f"Проверка завершена. Логи сохранены в папке '{output_dir}':")
+    print(f" {log1_path} (полный контекст)")
+    print(f" {log2_path} (пути и номера строк)")
+    print(f" {log3_path} (содержимое в кавычках)")
+    
+    if not file_data:
+        print("Строк без кириллицы не найдено.")
 
 if __name__ == '__main__':
     check_localisation_cyrillic()
