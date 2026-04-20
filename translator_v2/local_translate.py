@@ -4,7 +4,7 @@ import time
 
 # ================= НАСТРОЙКИ =================
 OLLAMA_API_URL = "http://localhost:11434/api/chat"
-MODEL = "llama3.2"          # Ваша модель в Ollama
+MODEL = "Qwen3.5:9b"          # Ваша модель в Ollama
 SOURCE_LANG = "English"     # Исходный язык
 TARGET_LANG = "Russian"     # Целевой язык
 TIMEOUT_SEC = 120           # Таймаут на строку (локальные LLM могут думать долго)
