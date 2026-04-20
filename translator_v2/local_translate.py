@@ -4,7 +4,7 @@ import time
 
 # ================= НАСТРОЙКИ =================
 OLLAMA_API_URL = "http://localhost:11434/api/chat"
-MODEL = "qwen3.5:9b"          # Ваша модель в Ollama
+MODEL = "llama3.2:latest"          # Ваша модель в Ollama
 SOURCE_LANG = "English"     # Исходный язык
 TARGET_LANG = "Russian"     # Целевой язык
 TIMEOUT_SEC = 120           # Таймаут на строку (локальные LLM могут думать долго)
@@ -12,9 +12,9 @@ DELAY_SEC = 0.0             # Задержка между запросами (0 
 # =============================================
 
 def translate_line(line: str) -> str:
-    """Отправляет строку в Ollama и возвращает только перевод."""
+    """Отправляет строку в Ollama и возвращает только перевод + логирование."""
     if not line.strip():
-        return line  # Сохраняем пустые строки без изменений
+        return line
 
     payload = {
         "model": MODEL,
@@ -32,20 +32,59 @@ def translate_line(line: str) -> str:
         ],
         "stream": False,
         "options": {
-            "temperature": 0.1,      # Низкая температура для стабильных переводов
-            "num_predict": 1024,     # Макс. длина ответа
-            "enable_thinking": False # 🔥 Отключаем режим "thinking" для Qwen3.5
+            "temperature": 0.1,
+            "num_predict": 1024,
+            "enable_thinking": False
         }
     }
 
     try:
+        print(f"\n📤 Запрос: {line.strip()[:60]}...", file=sys.stderr)
         response = requests.post(OLLAMA_API_URL, json=payload, timeout=TIMEOUT_SEC)
-        response.raise_for_status()
-        return response.json()["message"]["content"].strip()
+        
+        # 🔥 Важно: проверяем статус ДО парсинга JSON
+        if response.status_code != 200:
+            print(f"❌ HTTP {response.status_code}: {response.text}", file=sys.stderr)
+            return f"[HTTP_{response.status_code}]"
+        
+        result = response.json()
+        print(f"📦 Сырой ответ Ollama: {result}", file=sys.stderr)  # 🔥 Ключевая строка!
+        
+        # 🔥 Проверяем наличие поля error (Ollama часто так сообщает об ошибках)
+        if "error" in result:
+            print(f"❌ Ошибка от Ollama: {result['error']}", file=sys.stderr)
+            return f"[OLLAMA_ERROR: {result['error']}]"
+        
+        # 🔥 Безопасное извлечение контента
+        content = result.get("message", {}).get("content", "").strip()
+        if not content:
+            print(f"⚠️ Пустой content в ответе!", file=sys.stderr)
+            return f"[EMPTY_CONTENT]"
+            
+        print(f"✅ Перевод: {content[:60]}...", file=sys.stderr)
+        return content
+        
+    except requests.exceptions.Timeout:
+        print(f"\n⏱️ Таймаут запроса (> {TIMEOUT_SEC} сек)", file=sys.stderr)
+        return f"[TIMEOUT]"
+    except requests.exceptions.ConnectionError:
+        print(f"\n🔌 Не удалось подключиться к Ollama. Запущен ли сервер?", file=sys.stderr)
+        return f"[CONNECTION_ERROR]"
     except requests.exceptions.RequestException as e:
-        print(f"\n⚠️ Ошибка запроса к Ollama: {e}", file=sys.stderr)
-        return f"[TRANSLATION_ERROR: {line.strip()}]"
-
+        print(f"\n⚠️ Ошибка запроса: {type(e).__name__}: {e}", file=sys.stderr)
+        return f"[REQUEST_ERROR]"
+    except ValueError as e:  # json.JSONDecodeError наследуется от ValueError
+        print(f"\n🧩 Не удалось распарсить JSON: {e}", file=sys.stderr)
+        print(f"📄 Тело ответа: {response.text[:200]}", file=sys.stderr)
+        return f"[JSON_ERROR]"
+    except KeyError as e:
+        print(f"\n🔑 Отсутствует ключ в ответе: {e}", file=sys.stderr)
+        print(f"📦 Полный ответ: {result}", file=sys.stderr)
+        return f"[KEY_ERROR]"
+    except Exception as e:
+        print(f"\n💥 Неожиданная ошибка: {type(e).__name__}: {e}", file=sys.stderr)
+        return f"[UNKNOWN: {type(e).__name__}]"
+    
 def main():
     input_file = "source.txt"
     output_file = "translated.txt"
