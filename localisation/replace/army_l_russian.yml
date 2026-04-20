@@ -4,31 +4,31 @@
 ########################################################
 
 #changed to British spelling
- ARMY_DIVISIONS_THEATRES: "Действуют в $N$ театре(-ах) военных действий"
- ARMY_DIVISIONS_FILTER_DESC: "Введите часть названия подразделения, типа дивизии, театра военных действий, региона, имени лидера, названия снаряжения или уровня"
- ARMY_SORT_THEATRE: "ТВД"
+ ARMY_DIVISIONS_THEATRES: "Театров военных действий: $N$"
+ ARMY_DIVISIONS_FILTER_DESC: "Введите часть названия подразделения, типа дивизии, театра военных действий, штата, имени лидера, названия оборудования или названия уровня." #NT!
+ ARMY_SORT_THEATRE: "Театр"
 
 #fixed typo
- PLAN_VALUE_NO_THREAT: "§GОбнаруживаемых угроз нет§!"
+ PLAN_VALUE_NO_THREAT: "§GУгрозы не обнаружены§!"
  MILITA_ARMY_NAME: "$TEMPLATE$ Ополчение $NUMBER$"
 
 #changed to British spelling
- SWITCH_STRATEGIC_REDEPLOYMENT_MODE_DETAILED: "Стратегическое развёртывание — быстрый способ переброски войск. Они попытаются использовать существующие §Yжелезные дороги§! и §Yинфраструктуру§! для быстрого достижения цели, но получат штраф к организации в размере $ORG|R%$ при перемещении в этом режиме."
- THEATER_GROUP_NAME_PATTERN: "$ADJECTIVE$ ТВД $NUMBER$"
- NEW_THEATER_GROUP: "Новый ТВД"
- THEATER_GROUP_ASSIGN_CLICK_BUTTON_DESC: "§GНажмите, чтобы выбрать все подразделения в текущем ТВД§!"
- THEATER_GROUP_ASSIGN_RIGHT_CLICK_BUTTON_DESC: "§GЩёлкните ПКМ, чтобы назначить армию текущему ТВД§!"
- THEATER_GROUP_ASSIGN_TO_VOLUNTEERS_DESC: "§RНевозможно назначить обычные армии в ТВД добровольцев§!"
- THEATER_GROUP_ASSIGN_FROM_VOLUNTEERS_DESC: "§RНевозможно назначить армии добровольцев в обычные ТВД§!"
+ SWITCH_STRATEGIC_REDEPLOYMENT_MODE_DETAILED: "Стратегическая передислокация — способ быстрого перемещения войск, которые попытаются задействовать существующие §Yжелезные дороги§! и §Yинфраструктуру§!, чтобы быстро достичь пункта назначения. В этом режиме они получат штраф к организации в $ORG|R%$."
+ THEATER_GROUP_NAME_PATTERN: "$NUMBER$-й $ADJECTIVE$ый театр"
+ NEW_THEATER_GROUP: "Новый театр"
+ THEATER_GROUP_ASSIGN_CLICK_BUTTON_DESC: "§GЩелкните, чтобы выбрать все боевые единицы на текущем театре§!"
+ THEATER_GROUP_ASSIGN_RIGHT_CLICK_BUTTON_DESC: "§GЩелкните правой кнопкой, чтобы прикрепить армию к текущему театру§!"
+ THEATER_GROUP_ASSIGN_TO_VOLUNTEERS_DESC: "§RНельзя прикрепить недобровольческие армии к добровольческому театру§!"
+ THEATER_GROUP_ASSIGN_FROM_VOLUNTEERS_DESC: "§RНельзя прикрепить добровольческие армии к недобровольческому театру§!"
 
 #fixed typo
- THEATER_ORDER_GROUP_BAD_COMBATS: "$NAME|H$: $COUNT|0R$ боёв"
+ THEATER_ORDER_GROUP_BAD_COMBATS: "$NAME|H$: Сражения: $COUNT|0R$"
 
 #changed to British spelling
- THEATER_GROUP_OFFENSIVE_TROUBLES: "§RВ этом ТВД возникли проблемы в $BAD_COUNT|H$ наступательных боях из $COUNT|H$ общих.\nПроблемные бои:§!\n$LIST$"
- THEATER_GROUP_DEFENSIVE_TROUBLES: "§RВ этом ТВД возникли проблемы в $BAD_COUNT|H$ оборонительных боях из $COUNT|H$ общих.\nПроблемные бои:§!\n$LIST$"
- THEATER_GROUP_OFFENSIVE_NO_TROUBLES: "§GНаше наступление идёт успешно§!"
- THEATER_GROUP_DEFENSIVE_NO_TROUBLES: "§GНаша оборона идёт успешно§!"
- NEW_THEATER_GROUP_BUTTON_DESC: "§GНажмите, чтобы создать новый ТВД и назначить на него все выбранные армии§!"
- THEATER_GROUP_DISBAND_BUTTON_DESC: "Распустить ТВД"
- THEATER_GROUP_DISBAND_TITLE: "Роспуск ТВД"
+ THEATER_GROUP_OFFENSIVE_TROUBLES: "§RНа этом театре возникли осложнения в наступательных сражениях (в $BAD_COUNT|H$ из $COUNT|H$).\nПроблемные сражения:§! \n$LIST$"
+ THEATER_GROUP_DEFENSIVE_TROUBLES: "§RНа этом театре возникли осложнения в оборонительных сражениях (в $BAD_COUNT|H$ из $COUNT|H$).\nПроблемные сражения:§! \n$LIST$"
+ THEATER_GROUP_OFFENSIVE_NO_TROUBLES: "§GНаше наступление проходит отлично§!"
+ THEATER_GROUP_DEFENSIVE_NO_TROUBLES: "§GНаша оборона проходит отлично§!"
+ NEW_THEATER_GROUP_BUTTON_DESC: "§GЩелкните, чтобы создать новый театр и прикрепить к нему все выбранные армии§!"
+ THEATER_GROUP_DISBAND_BUTTON_DESC: "Расформировать театр"
+ THEATER_GROUP_DISBAND_TITLE: "Расформировать театр"

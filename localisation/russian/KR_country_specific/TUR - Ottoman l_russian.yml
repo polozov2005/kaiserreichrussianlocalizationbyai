@@ -3,8 +3,8 @@
 ############
 # Factions #
 ############
- istanbul_pact: "Стамбульский Пакт" #created by OTT_United_Against_Imperialism focuses
- sarajevo_accords: "Сараевское Соглашение"
+ istanbul_pact: "Стамбульский пакт"
+ sarajevo_accords: "Сараевское соглашение"
 
 ###########
 # Parties #
@@ -221,7 +221,7 @@
 ### Tooltips
  ott_elections: "§YВыборы состоятся в течение 30 дней§!\n"
  ott_cement_ohf: "§CЭто укрепит контроль ОНП и безопасность великого визиря, предотвратив свержение правительства любой оппозицией.§!"
- tribunal_too_far_tt: "§RЭто будет расценено как акт тирании§!"
+ tribunal_too_far_tt: "§RЭто будет рассматриваться как акт тирании§!" #deprecated for now
  ott_perma_egy_advisor_tt: "Это даст нам §Gпостоянного советника§! для контроля за гарнизоном."
  OTT_egyptian_anger_check: "@TUR§YОсманская Империя§!: имеет §Y[?OTT_egyptian_anger_compare_var]§! или больше очков Египетского Сопротивления."
  OTT_egyptian_anger_check_NOT: "@TUR§YОсманская Империя§!: имеет менее §Y[?OTT_egyptian_anger_compare_var]§! очков Египетского Сопротивления."

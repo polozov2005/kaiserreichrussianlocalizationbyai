@@ -109,7 +109,7 @@
  GRE_new_expansionism_idea: "Новый экспансионизм"
 
 ### Opinion Modifiers ###
- GRE_stole_industry1: "Проведена национализация наших инвестиций"
+ GRE_stole_industry1: "Национализировали наши инвестиции"
  GRE_stole_industry2: "$GRE_stole_industry1$"
  GRE_aided_industry: "Взяли под залог наши инвестиции"
  GRE_applied_sanctions: "Торговые санкции"

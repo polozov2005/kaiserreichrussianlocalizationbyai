@@ -94,11 +94,11 @@
  RUS_modern_tank_chassis_desc: "Т-54 является дальнейшим развитием Т-44, по сути сокращая разрыв между средними и тяжелыми танками и сводя их к одной роли. Он продолжит служить основным российским танком до конца 1940-х годов." #NT!
 
    # T-18 :
- RUS_gw_tank_equipment: "Путилов T-19"
+   RUS_gw_tank_equipment: "Путилов T-19"
    RUS_gw_tank_equipment_short: "MS-1"
    RUS_gw_tank_equipment_desc: "$RUS_gwtank_chassis_desc$"
    # T-18 :
- RUS_light_tank_equipment_0: "Путилов T-19"
+   RUS_light_tank_equipment_0: "Путилов T-19"
    RUS_light_tank_equipment_0_short: "T-27"
 
    # T-40 :
@@ -106,51 +106,51 @@
  RUS_amphibious_tank_equipment_1_short: "Т-40" #NT!
    RUS_amphibious_tank_equipment_1_desc: "$RUS_amphibious_tank_chassis_desc$"
    # R-39 :
- RUS_amphibious_tank_equipment_2: "ПТ-20"
+   RUS_amphibious_tank_equipment_2: "ПТ-20"
  RUS_amphibious_tank_equipment_2_short: "ПТ-20" #NT!
    RUS_amphibious_tank_equipment_2_desc: "$RUS_amphibious_tank_chassis_desc$"
 
    # T-26 :
- RUS_light_tank_equipment_1: "Обухов T-26"
+   RUS_light_tank_equipment_1: "Обухов T-26"
    RUS_light_tank_equipment_1_short: "T-26"
    RUS_light_tank_equipment_1_desc: "$RUS_light_tank_chassis_1_desc$"
    # SU-5 :
- RUS_light_tank_artillery_equipment_1: "СУ-1"
- RUS_light_tank_artillery_equipment_1_short: "СУ-1"
+   RUS_light_tank_artillery_equipment_1: "СУ-1"
+   RUS_light_tank_artillery_equipment_1_short: "СУ-1"
    # AT-1 :
- RUS_light_tank_destroyer_equipment_1: "ПТСУ-1"
- RUS_light_tank_destroyer_equipment_1_short: "ПТСУ-1"
+   RUS_light_tank_destroyer_equipment_1: "ПТСУ-1"
+   RUS_light_tank_destroyer_equipment_1_short: "ПТСУ-1"
    # SU-6 :
- RUS_light_tank_aa_equipment_1: "ЗСУ-12.7"
- RUS_light_tank_aa_equipment_1_short: "ЗСУ-12.7"
+   RUS_light_tank_aa_equipment_1: "ЗСУ-12.7"
+   RUS_light_tank_aa_equipment_1_short: "ЗСУ-12.7"
 
    # BT-7 :
    RUS_light_tank_equipment_2: "Tank BT-7"
    RUS_light_tank_equipment_2_short: "BT-7"
    RUS_light_tank_equipment_2_desc: "$RUS_light_tank_chassis_2_desc$"
    # BT-7A :
- RUS_light_tank_artillery_equipment_2: "СУ-26"
- RUS_light_tank_artillery_equipment_2_short: "СУ-26"
+   RUS_light_tank_artillery_equipment_2: "СУ-26"
+   RUS_light_tank_artillery_equipment_2_short: "СУ-26"
    # BT-7 SPG with the 95mm F-39 gun:
- RUS_light_tank_destroyer_equipment_2: "ПТСУ-5"
- RUS_light_tank_destroyer_equipment_2_short: "ПТСУ-5"
+   RUS_light_tank_destroyer_equipment_2: "ПТСУ-5"
+   RUS_light_tank_destroyer_equipment_2_short: "ПТСУ-5"
    # BT-7 with 76-mm AA gun :
- RUS_light_tank_aa_equipment_2: "ЗСУ-12.7-2"
- RUS_light_tank_aa_equipment_2_short: "ЗСУ-12.7-2"
+   RUS_light_tank_aa_equipment_2: "ЗСУ-12.7-2"
+   RUS_light_tank_aa_equipment_2_short: "ЗСУ-12.7-2"
 
    # T-70 :
    RUS_light_tank_equipment_3: "Tank T-50"
    RUS_light_tank_equipment_3_short: "T-50"
    RUS_light_tank_equipment_3_desc: "$RUS_light_tank_chassis_3_desc$"
    # SU-76M :
- RUS_light_tank_artillery_equipment_3: "СУ-76"
- RUS_light_tank_artillery_equipment_3_short: "СУ-76"
+   RUS_light_tank_artillery_equipment_3: "СУ-76"
+   RUS_light_tank_artillery_equipment_3_short: "СУ-76"
    # SU-57B/SU-74D :
- RUS_light_tank_destroyer_equipment_3: "ПТСУ-30"
- RUS_light_tank_destroyer_equipment_3_short: "ПТСУ-30"
+   RUS_light_tank_destroyer_equipment_3: "ПТСУ-30"
+   RUS_light_tank_destroyer_equipment_3_short: "ПТСУ-30"
    # ZUT-37 :
- RUS_light_tank_aa_equipment_3: "ЗСУ-37"
- RUS_light_tank_aa_equipment_3_short: "ЗСУ-37"
+   RUS_light_tank_aa_equipment_3: "ЗСУ-37"
+   RUS_light_tank_aa_equipment_3_short: "ЗСУ-37"
 
    # OT-130 :
    RUS_light_tank_flame_equipment_1: "Khimichesky tank KhT-130"
@@ -163,69 +163,69 @@
    RUS_light_tank_flame_equipment_3_short: "T-60O"
 
    # T-37 :
- RUS_light_tank_amphibious_equipment_1: "ПТ-26"
- RUS_light_tank_amphibious_equipment_1_short: "ПТ-26"
+   RUS_light_tank_amphibious_equipment_1: "ПТ-26"
+   RUS_light_tank_amphibious_equipment_1_short: "ПТ-26"
    # PT-1 :
- RUS_light_tank_amphibious_equipment_2: "ПТ-10"
- RUS_light_tank_amphibious_equipment_2_short: "ПТ-10"
+   RUS_light_tank_amphibious_equipment_2: "ПТ-10"
+   RUS_light_tank_amphibious_equipment_2_short: "ПТ-10"
    # T-70 with amphibious drive :
- RUS_light_tank_amphibious_equipment_3: "ПТ-20"
- RUS_light_tank_amphibious_equipment_3_short: "ПТ-20"
+   RUS_light_tank_amphibious_equipment_3: "ПТ-20"
+   RUS_light_tank_amphibious_equipment_3_short: "ПТ-20"
 
    # T-28 :
- RUS_medium_tank_equipment_0: "Путилов T-28"
+   RUS_medium_tank_equipment_0: "Путилов T-28"
    RUS_medium_tank_equipment_0_short: "T-28"
    # SU-8/152 on the chassis of the T-28 :
- RUS_medium_tank_artillery_equipment_0: "СУ-8"
- RUS_medium_tank_artillery_equipment_0_short: "СУ-8"
+   RUS_medium_tank_artillery_equipment_0: "СУ-8"
+   RUS_medium_tank_artillery_equipment_0_short: "СУ-8"
    # SU-8/76 on the chassis of the T-28 :
- RUS_medium_tank_destroyer_equipment_0: "ПТСУ-85-28"
- RUS_medium_tank_destroyer_equipment_0_short: "ПТСУ-85-28"
+   RUS_medium_tank_destroyer_equipment_0: "ПТСУ-85-28"
+   RUS_medium_tank_destroyer_equipment_0_short: "ПТСУ-85-28"
    # SU-8/76 on the chassis of the T-28 :
- RUS_medium_tank_aa_equipment_0: "ЗСУ-37-28"
- RUS_medium_tank_aa_equipment_0_short: "ЗСУ-37-28"
+   RUS_medium_tank_aa_equipment_0: "ЗСУ-37-28"
+   RUS_medium_tank_aa_equipment_0_short: "ЗСУ-37-28"
 
    # A-20 :
- RUS_medium_tank_equipment_1: "Путилов T-32"
+   RUS_medium_tank_equipment_1: "Путилов T-32"
    RUS_medium_tank_equipment_1_short: "T-30"
    RUS_medium_tank_equipment_1_desc: "$RUS_medium_tank_chassis_1_desc$"
    # A-20/SG-122 :
- RUS_medium_tank_artillery_equipment_1: "СУ-76-32"
- RUS_medium_tank_artillery_equipment_1_short: "СУ-76-32"
+   RUS_medium_tank_artillery_equipment_1: "СУ-76-32"
+   RUS_medium_tank_artillery_equipment_1_short: "СУ-76-32"
    # A-20/ZiS-2 :
- RUS_medium_tank_destroyer_equipment_1: "ПТСУ-85-32"
- RUS_medium_tank_destroyer_equipment_1_short: "ПТСУ-85-32"
+   RUS_medium_tank_destroyer_equipment_1: "ПТСУ-85-32"
+   RUS_medium_tank_destroyer_equipment_1_short: "ПТСУ-85-32"
    # T-30 AA :
- RUS_medium_tank_aa_equipment_1: "ЗСУ-37-32"
- RUS_medium_tank_aa_equipment_1_short: "ЗСУ-37-32"
+   RUS_medium_tank_aa_equipment_1: "ЗСУ-37-32"
+   RUS_medium_tank_aa_equipment_1_short: "ЗСУ-37-32"
 
    # T-34M :
- RUS_medium_tank_equipment_2: "Обухов T-43"
+   RUS_medium_tank_equipment_2: "Обухов T-43"
    RUS_medium_tank_equipment_2_short: "T-34M"
    RUS_medium_tank_equipment_2_desc: "$RUS_medium_tank_chassis_2_desc$"
    # SU-122 :
- RUS_medium_tank_artillery_equipment_2: "СУ-122"
- RUS_medium_tank_artillery_equipment_2_short: "СУ-122"
+   RUS_medium_tank_artillery_equipment_2: "СУ-122"
+   RUS_medium_tank_artillery_equipment_2_short: "СУ-122"
    # SU-85 :
- RUS_medium_tank_destroyer_equipment_2: "ПТСУ-85"
- RUS_medium_tank_destroyer_equipment_2_short: "ПТСУ-85"
+   RUS_medium_tank_destroyer_equipment_2: "ПТСУ-85"
+   RUS_medium_tank_destroyer_equipment_2_short: "ПТСУ-85"
    # T-34/ZSU-37 :
- RUS_medium_tank_aa_equipment_2: "ЗСУ-37-43"
- RUS_medium_tank_aa_equipment_2_short: "ЗСУ-37-43"
+   RUS_medium_tank_aa_equipment_2: "ЗСУ-37-43"
+   RUS_medium_tank_aa_equipment_2_short: "ЗСУ-37-43"
 
    # T-44 :
- RUS_medium_tank_equipment_3: "Обухов T-44"
+   RUS_medium_tank_equipment_3: "Обухов T-44"
    RUS_medium_tank_equipment_3_short: "T-44"
    RUS_medium_tank_equipment_3_desc: "$RUS_medium_tank_chassis_3_desc$"
    # SU-122-44 :
- RUS_medium_tank_artillery_equipment_3: "СУ-122-44"
- RUS_medium_tank_artillery_equipment_3_short: "СУ-122-44"
+   RUS_medium_tank_artillery_equipment_3: "СУ-122-44"
+   RUS_medium_tank_artillery_equipment_3_short: "СУ-122-44"
    # SU-101 :
- RUS_medium_tank_destroyer_equipment_3: "ПТСУ-100-44"
- RUS_medium_tank_destroyer_equipment_3_short: "ПТСУ-100-44"
+   RUS_medium_tank_destroyer_equipment_3: "ПТСУ-100-44"
+   RUS_medium_tank_destroyer_equipment_3_short: "ПТСУ-100-44"
    # T-44/ZSU-37 :
- RUS_medium_tank_aa_equipment_3: "ЗСУ-57-44"
- RUS_medium_tank_aa_equipment_3_short: "ЗСУ-57-44"
+   RUS_medium_tank_aa_equipment_3: "ЗСУ-57-44"
+   RUS_medium_tank_aa_equipment_3_short: "ЗСУ-57-44"
 
    # T-28 with flamethrower :
    RUS_medium_tank_flame_equipment_0: "Khimichesky tank KhT-28"
@@ -241,20 +241,20 @@
    RUS_medium_tank_flame_equipment_3_short: "OT-44"
 
    # T-28
- RUS_medium_tank_amphibious_equipment_0: "ПТ-28"
- RUS_medium_tank_amphibious_equipment_0_short: "ПТ-28"
+   RUS_medium_tank_amphibious_equipment_0: "ПТ-28"
+   RUS_medium_tank_amphibious_equipment_0_short: "ПТ-28"
    # PT-1/A-20 :
- RUS_medium_tank_amphibious_equipment_1: "ПТ-32"
- RUS_medium_tank_amphibious_equipment_1_short: "ПТ-32"
+   RUS_medium_tank_amphibious_equipment_1: "ПТ-32"
+   RUS_medium_tank_amphibious_equipment_1_short: "ПТ-32"
    # T-34M with amphibious drive :
- RUS_medium_tank_amphibious_equipment_2: "ПТ-43"
- RUS_medium_tank_amphibious_equipment_2_short: "ПТ-43"
+   RUS_medium_tank_amphibious_equipment_2: "ПТ-43"
+   RUS_medium_tank_amphibious_equipment_2_short: "ПТ-43"
    # T-44 with amphibious drive :
- RUS_medium_tank_amphibious_equipment_3: "ПТ-44"
- RUS_medium_tank_amphibious_equipment_3_short: "ПТ-44"
+   RUS_medium_tank_amphibious_equipment_3: "ПТ-44"
+   RUS_medium_tank_amphibious_equipment_3_short: "ПТ-44"
 
    # T-35 :
- RUS_heavy_tank_equipment_0: "Путилов T-35"
+   RUS_heavy_tank_equipment_0: "Путилов T-35"
    RUS_heavy_tank_equipment_0_short: "T-35"
    # SU-14 :
  RUS_heavy_tank_artillery_equipment_0: "Самоходная установка СУ-14" #NT!
@@ -267,46 +267,46 @@
  RUS_heavy_tank_aa_equipment_0_short: "СУ-14З" #NT!
 
    # T-100 :
- RUS_heavy_tank_equipment_1: "Путилов T-76"
+   RUS_heavy_tank_equipment_1: "Путилов T-76"
    RUS_heavy_tank_equipment_1_short: "T-100"
    RUS_heavy_tank_equipment_1_desc: "$RUS_heavy_tank_chassis_1_desc$"
    # SU-14-2 :
- RUS_heavy_tank_artillery_equipment_1: "СУ-14"
- RUS_heavy_tank_artillery_equipment_1_short: "СУ-14"
+   RUS_heavy_tank_artillery_equipment_1: "СУ-14"
+   RUS_heavy_tank_artillery_equipment_1_short: "СУ-14"
    # SU-100-Y :
- RUS_heavy_tank_destroyer_equipment_1: "ПТСУ-100"
- RUS_heavy_tank_destroyer_equipment_1_short: "ПТСУ-100"
+   RUS_heavy_tank_destroyer_equipment_1: "ПТСУ-100"
+   RUS_heavy_tank_destroyer_equipment_1_short: "ПТСУ-100"
    # SU-14 on the T-100 chassis with 76mm AA gun :
- RUS_heavy_tank_aa_equipment_1: "ЗСУ-12.7-4"
- RUS_heavy_tank_aa_equipment_1_short: "ЗСУ-12.7-4"
+   RUS_heavy_tank_aa_equipment_1: "ЗСУ-12.7-4"
+   RUS_heavy_tank_aa_equipment_1_short: "ЗСУ-12.7-4"
 
    # KV-1 :
    RUS_heavy_tank_equipment_2: "Tank RV-1"
    RUS_heavy_tank_equipment_2_short: "RV-1"
    RUS_heavy_tank_equipment_2_desc: "$RUS_heavy_tank_chassis_2_desc$"
    # KV-2 :
- RUS_heavy_tank_artillery_equipment_2: "СУ-152"
- RUS_heavy_tank_artillery_equipment_2_short: "СУ-152"
+   RUS_heavy_tank_artillery_equipment_2: "СУ-152"
+   RUS_heavy_tank_artillery_equipment_2_short: "СУ-152"
    # KV-7 :
- RUS_heavy_tank_destroyer_equipment_2: "ПТСУ-122"
- RUS_heavy_tank_destroyer_equipment_2_short: "ПТСУ-122"
+   RUS_heavy_tank_destroyer_equipment_2: "ПТСУ-122"
+   RUS_heavy_tank_destroyer_equipment_2_short: "ПТСУ-122"
    # KV-1/ZSU-37 :
- RUS_heavy_tank_aa_equipment_2: "ЗСУ-37-2"
- RUS_heavy_tank_aa_equipment_2_short: "ЗСУ-37-2"
+   RUS_heavy_tank_aa_equipment_2: "ЗСУ-37-2"
+   RUS_heavy_tank_aa_equipment_2_short: "ЗСУ-37-2"
 
    # IS-2 :
    RUS_heavy_tank_equipment_3: "Tank AS-1"
    RUS_heavy_tank_equipment_3_short: "AS-1"
    RUS_heavy_tank_equipment_3_desc: "$RUS_heavy_tank_chassis_3_desc$"
    # ISU-152 :
- RUS_heavy_tank_artillery_equipment_3: "СУ-152-120"
- RUS_heavy_tank_artillery_equipment_3_short: "СУ-152-120"
+   RUS_heavy_tank_artillery_equipment_3: "СУ-152-120"
+   RUS_heavy_tank_artillery_equipment_3_short: "СУ-152-120"
    # ISU-122 :
- RUS_heavy_tank_destroyer_equipment_3: "ПТСУ-122-120"
- RUS_heavy_tank_destroyer_equipment_3_short: "ПТСУ-122-120"
+   RUS_heavy_tank_destroyer_equipment_3: "ПТСУ-122-120"
+   RUS_heavy_tank_destroyer_equipment_3_short: "ПТСУ-122-120"
    # IS-2/ZSU-37 :
- RUS_heavy_tank_aa_equipment_3: "ЗСУ-57-2"
- RUS_heavy_tank_aa_equipment_3_short: "ЗСУ-57-2"
+   RUS_heavy_tank_aa_equipment_3: "ЗСУ-57-2"
+   RUS_heavy_tank_aa_equipment_3_short: "ЗСУ-57-2"
 
    # T-35 with flamethower :
    RUS_heavy_tank_flame_equipment_0: "Khimichesky tank KhT-35"
@@ -322,54 +322,54 @@
    RUS_heavy_tank_flame_equipment_3_short: "AS-1O"
 
    # HARM Amphibious
- RUS_heavy_tank_amphibious_equipment_0: "ПТ-35"
- RUS_heavy_tank_amphibious_equipment_0_short: "ПТ-35"
- RUS_heavy_tank_amphibious_equipment_1: "ПТ-76"
- RUS_heavy_tank_amphibious_equipment_1_short: "ПТ-76"
- RUS_heavy_tank_amphibious_equipment_2: "ПТ-85"
- RUS_heavy_tank_amphibious_equipment_2_short: "ПТ-85"
- RUS_heavy_tank_amphibious_equipment_3: "ПТ-120"
- RUS_heavy_tank_amphibious_equipment_3_short: "ПТ-120"
+   RUS_heavy_tank_amphibious_equipment_0: "ПТ-35"
+   RUS_heavy_tank_amphibious_equipment_0_short: "ПТ-35"
+   RUS_heavy_tank_amphibious_equipment_1: "ПТ-76"
+   RUS_heavy_tank_amphibious_equipment_1_short: "ПТ-76"
+   RUS_heavy_tank_amphibious_equipment_2: "ПТ-85"
+   RUS_heavy_tank_amphibious_equipment_2_short: "ПТ-85"
+   RUS_heavy_tank_amphibious_equipment_3: "ПТ-120"
+   RUS_heavy_tank_amphibious_equipment_3_short: "ПТ-120"
 
    # T-54 :
- RUS_modern_tank_equipment_1: "Обухов T-45"
+   RUS_modern_tank_equipment_1: "Обухов T-45"
    RUS_modern_tank_equipment_1_short: "T-54"
    RUS_modern_tank_equipment_1_desc: "$RUS_modern_tank_chassis_desc$"
    # SU-152-G :
- RUS_modern_tank_artillery_equipment_1: "СУ-152-45"
- RUS_modern_tank_artillery_equipment_1_short: "СУ-152-45"
+   RUS_modern_tank_artillery_equipment_1: "СУ-152-45"
+   RUS_modern_tank_artillery_equipment_1_short: "СУ-152-45"
    # SU-100P :
- RUS_modern_tank_destroyer_equipment_1: "ПТСУ-122-45"
- RUS_modern_tank_destroyer_equipment_1_short: "ПТСУ-122-45"
+   RUS_modern_tank_destroyer_equipment_1: "ПТСУ-122-45"
+   RUS_modern_tank_destroyer_equipment_1_short: "ПТСУ-122-45"
    # ZSU-57-2 :
- RUS_modern_tank_aa_equipment_1: "ЗСУ-57-45"
- RUS_modern_tank_aa_equipment_1_short: "ЗСУ-57-45"
+   RUS_modern_tank_aa_equipment_1: "ЗСУ-57-45"
+   RUS_modern_tank_aa_equipment_1_short: "ЗСУ-57-45"
    # OT-54 :
    RUS_modern_tank_flame_equipment_1: "Ognemetny tank OT-54"
    RUS_modern_tank_flame_equipment_1_short: "OT-54"
    # R-39 :
- RUS_modern_tank_amphibious_equipment_1: "ПТ-45"
- RUS_modern_tank_amphibious_equipment_1_short: "ПТ-45"
+   RUS_modern_tank_amphibious_equipment_1: "ПТ-45"
+   RUS_modern_tank_amphibious_equipment_1_short: "ПТ-45"
 
    # KV-4 Dukhov's project :
- RUS_super_heavy_tank_equipment_1: "Путилов T-107"
+   RUS_super_heavy_tank_equipment_1: "Путилов T-107"
    RUS_super_heavy_tank_equipment_1_short: "AN"
    RUS_super_heavy_tank_equipment_1_desc: "$RUS_super_heavy_tank_chassis_desc$"
    # KV-4 Kuzmin's project :
- RUS_super_heavy_tank_artillery_equipment_1: "СУ-203"
- RUS_super_heavy_tank_artillery_equipment_1_short: "СУ-203"
+   RUS_super_heavy_tank_artillery_equipment_1: "СУ-203"
+   RUS_super_heavy_tank_artillery_equipment_1_short: "СУ-203"
    # KV-4 Kuzmin's project :
- RUS_super_heavy_tank_destroyer_equipment_1: "ПТСУ-130"
- RUS_super_heavy_tank_destroyer_equipment_1_short: "ПТСУ-130"
+   RUS_super_heavy_tank_destroyer_equipment_1: "ПТСУ-130"
+   RUS_super_heavy_tank_destroyer_equipment_1_short: "ПТСУ-130"
    # KV-4 Dukhov's project with flamethrower:
    RUS_super_heavy_tank_flame_equipment_1: "Ognemetny tank ANO"
    RUS_super_heavy_tank_flame_equipment_1_short: "ANO"
    # KV-4 Kuzmin's project:
- RUS_super_heavy_tank_aa_equipment_1: "ЗСУ-100"
- RUS_super_heavy_tank_aa_equipment_1_short: "ЗСУ-100"
+   RUS_super_heavy_tank_aa_equipment_1: "ЗСУ-100"
+   RUS_super_heavy_tank_aa_equipment_1_short: "ЗСУ-100"
    # KV-4 Kuzmin's project:
- RUS_super_heavy_tank_amphibious_equipment_1: "ПТ-107"
- RUS_super_heavy_tank_amphibious_equipment_1_short: "ПТ-107"
+   RUS_super_heavy_tank_amphibious_equipment_1: "ПТ-107"
+   RUS_super_heavy_tank_amphibious_equipment_1_short: "ПТ-107"
 
    # Danchenko's tank heavily modified, fictional
    #RUS_land_cruiser_equipment: "Tank Svyatogor"

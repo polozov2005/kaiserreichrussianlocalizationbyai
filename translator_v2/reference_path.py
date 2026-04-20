@@ -7,7 +7,7 @@ import glob
 # ==========================================================
 TARGET_DIR = 'localisation'
 # Порядок списка определяет приоритет: ai_localisation > old_localisation1 > old_localisation2
-REFERENCE_PATHS = ['ai_localisation', 'old_localisation1', 'old_localisation2']
+REFERENCE_PATHS = ['old_localisation1', 'old_localisation2', 'ai_localisation']
 
 
 def has_cyrillic(text: str) -> bool:

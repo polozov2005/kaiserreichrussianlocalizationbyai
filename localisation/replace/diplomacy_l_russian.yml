@@ -14,10 +14,10 @@
  SEND_VOLUNTEERS_INFO: "\nОтправленные дивизии исчезнут с карты во время переброски и появятся на карте в стране назначения по завершении передачи. Дивизии автоматически вернутся, если вы вступите в войну или страна-получатель заключит мир."
 
 #renamed to match KR's ideological groups
- DR_US_DEMOCRATIC: "§Y$US|U$§! — либералы: "
- DR_US_NEUTRAL: "§Y$US|U$§! — консерваторы: "
- DR_US_COMMUNIST: "§Y$US|U$§! — социалисты: "
- DR_US_FASCIST: "§Y$US|U$§! — реакционеры: "
+ DR_US_DEMOCRATIC: "в §Y$US|U$§! у власти либералы: "
+ DR_US_NEUTRAL: "в §Y$US|U$§! у власти консерваторы: "
+ DR_US_COMMUNIST: "в§Y$US|U$§! у власти социалисты: "
+ DR_US_FASCIST: "в §Y$US|U$§! у власти реакционеры: "
 
 #changed to British spelling
  DIPLOMACY_MESSAGE_CANCELED_TITLE: "$RELATION$ отменено"
@@ -54,10 +54,10 @@
  puppet_opinion: "Марионетка"
 
 #capitalised 'opinion'
- small_decrease: "Снижение отношения"
- medium_decrease: "Снижение отношения"
- large_decrease: "Снижение отношения"
- small_increase: "Улучшение отношения"
- medium_increase: "Улучшение отношения"
- large_increase: "Улучшение отношения"
- huge_increase: "Значительное улучшение отношения"
+ small_decrease: "Ухудшение мнения"
+ medium_decrease: "Ухудшение мнения"
+ large_decrease: "Ухудшение мнения"
+ small_increase: "Улучшение мнения"
+ medium_increase: "Улучшение мнения"
+ large_increase: "Улучшение мнения"
+ huge_increase: "Резкое ухудшение мнения"

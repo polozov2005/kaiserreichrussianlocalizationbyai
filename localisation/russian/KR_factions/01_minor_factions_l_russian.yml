@@ -6,14 +6,14 @@
  faction_manifest_defeat_argentina_name: "Победа над Аргентиной"
  faction_manifest_defeat_argentina_desc: "Контролируйте все аргентинские провинции."
 
- faction_democratic_alliance_of_the_caribbean: "Демократический альянс Карибского бассейна"
+ faction_democratic_alliance_of_the_caribbean: "Демократический альянс Карибского бассейна" #created by CENdem_form_faction and COS_form_faction decisions and COS_Ferrer_takes_Control focus
 
  faction_manifest_bastion_of_american_democracy_name: "Бастион американской демократии"
  faction_manifest_bastion_of_american_democracy_desc: "Америка издавна страдает от экстремизма, будь то иностранное вмешательство или внутренняя нестабильность. Пришло время положить конец этой тирании и распространить демократию на остальную часть континента!"
 
- faction_liberal_pact: "Либеральный Пакт"
- faction_peoples_vanguard: "Народный Авангард"
- faction_revolutionary_front: "Революционный Фронт"
+ faction_liberal_pact: "Либеральный Пакт" #created by CEN_found_liberal_pact decision
+ faction_peoples_vanguard: "Народный Авангард" #created by CEN_found_military_pact decision
+ faction_revolutionary_front: "Революционный Фронт" #created by CEN_found_revolutionary_pact decision
 
  faction_manifest_unite_central_america_name: "Обьединение Центральной Америки"
  faction_manifest_unite_central_america_desc: "Прошло около столетия с тех пор, как Центральная Америка в последний раз существовала как политическое образование. Пришло время возродить единую Центральную Америку!"
@@ -24,13 +24,13 @@
  faction_manifest_reunification_of_india_name: "Воссоединение Индии"
  faction_manifest_reunification_of_india_desc: "Контролируйте все индийские провинции."
 
- faction_andijan_alliance: "Андижанский Альянс"
+ faction_andijan_alliance: "Андижанский Альянс" #created by central_asian_crisis_events.514 event
  faction_pishpek_pact: "Пишпекский пакт"
 
  faction_manifest_survive_the_russian_onslaught_name: "Пережить российское вторжение"
  faction_manifest_survive_the_russian_onslaught_desc: "По мере того как Россия захватывает все больше земель в Центральной Азии, наше сопротивление становится все более и более ожесточенным."
 
- faction_pan_turkic_pact: "Пантрюкистский Пакт"
+ faction_pan_turkic_pact: "Пантрюкистский Пакт" #created by turkestan_republic_events.712 and turkestan_republic_events.717 events and CA_invite_ETS decision
 
  faction_manifest_achieve_turkic_unity_name: "Достигнуть единства тюрков"
  faction_manifest_achieve_turkic_unity_desc: "Слишком долго тюркские народы Центральной Азии были жертвами российского, китайского и персидского империализма. Наконец, мы должны объединиться, чтобы предотвратить ошибки прошлого.\n\nВладеть всеми провинциями Центральной Азии, Восточного Туркестана и Ашхабадом."

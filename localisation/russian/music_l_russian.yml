@@ -18,7 +18,7 @@
 
  comintern_peace_1: "Родина-Мать"
  # comintern_peace_2: "The Red Army"
- comintern_peace_2: "Красная Армия"
+ comintern_peace_2: "Нацгвардия"
  comintern_peace_3: "Русская победа"
 
  general_war_1: "Отправляйте танки"
@@ -28,15 +28,15 @@
  allies_war_2: "Королевские ВВС"
 
  #axis_war_1: "Axis Theme"
- axis_war_1: "Тема Оси"
+ axis_war_1: "Тема Рейхспакта"
  axis_war_2: "Тяжелая вода"
  axis_war_3: "Операция «Барбаросса»"
  axis_war_4: "Грозовые дни"
 
  #comintern_war_1: "The Might of the Soviet Union"
- comintern_war_1: "Мощь Советского Союза"
+ comintern_war_1: "Мощь Российского государства"
  #comintern_war_2: "Comintern Theme"
- comintern_war_2: "Тема Коминтерна"
+ comintern_war_2: "Тема Организации Московского Договора"
  comintern_war_3: "Великая Отечественная война"
 
 ## HOI4 La Résistance Soundtrack

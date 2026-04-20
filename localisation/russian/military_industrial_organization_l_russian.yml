@@ -893,7 +893,7 @@
  generic_mio_trait_advanced_trajectory_calculations: "Усовершенствованные расчеты траектории"
  generic_mio_trait_sliding_breech_block: "Скользящий блок"
  generic_mio_trait_rapid_fire: "Быстрое ведение огня"
- generic_mio_trait_advanced_barrel_forging: "Усовершенствованная штамповка стволов"
+ generic_mio_trait_advanced_barrel_forging: "Усовершенствованная штамповка стволов" #ALSO FOR INFANTRY WEAPONS
  generic_mio_trait_big_guns: "Крупнокалиберные орудия"
  generic_mio_trait_gun_mass_production: "Массовое производство орудий"
  generic_mio_trait_super_charges: "Усиленные заряды"

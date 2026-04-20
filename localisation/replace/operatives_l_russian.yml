@@ -7,10 +7,10 @@
  upgrade_passive_defense: "Пассивная оборона"
  upgrade_anti_partisan: "Борьба с партизанами"
  upgrade_blueprint_stealing: "Кража чертежей"
- upgrade_portable_radios: "Портативные радиостанции"
- upgrade_plastic_explosives: "Пластичная взрывчатка"
- upgrade_suicide_pills: "Таблетки для самоубийства"
- upgrade_training_centers: "Локальные учебные центры"
+ upgrade_portable_radios: "Портативные рации"
+ upgrade_plastic_explosives: "Пластит"
+ upgrade_suicide_pills: "Пилюли для самоубийства"
+ upgrade_training_centers: "Местные центры обучения"
  upgrade_commando_training: "Подготовка коммандос"
 
 #edited to reference KR version of spymaster trait

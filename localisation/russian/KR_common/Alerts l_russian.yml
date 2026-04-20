@@ -31,8 +31,8 @@
  faction_joining_COS_ENT: "Брошенные своими партнёрами из США, Коста-Рика обратилась к другим союзникам. Канада, движимая желанием подступиться ближе к Панамскому каналу, с радостью приняла маленькую страну в Антанту"
 
 #South America
- faction_joining_ARG_GER: "После подписания соглашений о торговле и взаимопомощи, аргентинский лидер [faction_member.GetLeader] объявил о вступлении своей страны в [faction_leader.GetFactionName]"
- faction_joining_ARG_ENT: "Грамотная дипломатия государств [faction_member.GetLeader] и [faction_leader.GetName] разрешило проблему Мальвинских островов и объединило страны перед лицом общего врага."
+ faction_joining_ARG_GER: "После подписания соглашений о торговле и взаимопомощи, аргентинский лидер [faction_member.GetLeader] объявил о вступлении своей страны в [faction_leader.GetFactionName]" 
+ faction_joining_ARG_ENT: "Грамотная дипломатия государств [faction_member.GetLeader] и [faction_leader.GetName] разрешило проблему Мальвинских островов и объединило страны перед лицом общего врага." 
 
 #Western Europe
  faction_joining_BEL_GER: "По Арлонскому договору, новорожденная Бельгия осталась союзником государства [faction_leader.GetFactionName], чтобы обеспечить себе защиту от соседей-синдикалистов."

@@ -1,15 +1,15 @@
 ﻿l_russian:
 
- lend_lease_string_caps: "Материальная помощь"
- lend_lease_string: "материальная помощь"
+ lend_lease_string_caps: "Материальная поддержка"
+ lend_lease_string: "материальную поддержку"
 
  #autonomy_l_russian
- MONTHLY_REQUEST_LL_TO_MASTER: "§RЗапрос $lend_lease_string$ у марионетки может увеличить её автономию§!"
- MONTHLY_REQUEST_LL_TO_PUPPET: "§RЗапрос $lend_lease_string$ у сюзерена может снизить автономию§!"
+ MONTHLY_REQUEST_LL_TO_MASTER: "§RЗапрос на $lend_lease_string$ от марионетки может предоставлять им больше автономии§!"
+ MONTHLY_REQUEST_LL_TO_PUPPET: "§RЗапрос на $lend_lease_string$ от мастера может привести к утрате автономии§!"
 
  #core_l_russian
- FUEL_DAILY_GAIN_FROM_LEND_LEASE: "От $lend_lease_string_caps$: $NUM|H$"
- FUEL_DAILY_REQUIRED_FROM_LEND_LEASE: "От $lend_lease_string_caps$: $NUM|H$"
+ FUEL_DAILY_GAIN_FROM_LEND_LEASE: "Из $lend_lease_string_caps$: $NUM|H$"
+ FUEL_DAILY_REQUIRED_FROM_LEND_LEASE: "Из $lend_lease_string_caps$: $NUM|H$"
 
  #country_l_russian
  ARMY_EXPERIENCE_DESC: "Когда ваше снаряжение применяется в бою, вы получаете армейский опыт. Это означает, что вы можете получать армейский опыт, когда ваши §Hдивизии§! вступают в бой, или если вы отправили §H$lend_lease_string_caps$§! союзникам, участвующим в войне.\nВы также получаете опыт за проведение §HАрмейских учений§! с войсками уровня не ниже $UNIT_TRAINING_LEVEL|Y$ и за определённые §HНациональные фокусы§!. Некоторые §HМинистры§! могут увеличивать получаемый опыт.\n\nАрмейский опыт необходим для создания и изменения §Hшаблонов дивизий§!."
@@ -19,12 +19,12 @@
  DEPLOYMENT_LEND_LEASE_COUNTRY: "Ленд-лиз: $COUNTRY$"
 
  #designer_l_russian
- ALLOW_FOREIGN_EQUIPMENT_TT: "Отключите, чтобы запретить всё текущее и будущее иностранное снаряжение, включая как $lend_lease_string$, так и трофейное."
+ ALLOW_FOREIGN_EQUIPMENT_TT: "Отключить, чтобы запретить все текущее и будущее иностранное снаряжение, которое включает как $lend_lease_string$, так и захваченное снаряжение."
 
  #diplomacy_l_russian
- DIPLOMACY_MESSAGE_ACCEPTED_TITLE_DIPLOMACY_LEND_LEASE: "$lend_lease_string_caps$ принята"
+ DIPLOMACY_MESSAGE_ACCEPTED_TITLE_DIPLOMACY_LEND_LEASE: "$lend_lease_string_caps$ принимает"
  DIPLOMACY_MESSAGE_ACCEPTED_MESSAGE_DIPLOMACY_LEND_LEASE: "\n§Y$COUNTRY|U$§! §Gприняла§! нашу $lend_lease_string$.\n\nНаша помощь поддержит их усилия."
- DIPLOMACY_MESSAGE_DECLINED_TITLE_DIPLOMACY_LEND_LEASE: "$lend_lease_string_caps$ отклонена"
+ DIPLOMACY_MESSAGE_DECLINED_TITLE_DIPLOMACY_LEND_LEASE: "$lend_lease_string_caps$ отклоняет"
  DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_LEND_LEASE: "\n§Y$COUNTRY|U$§! §Rотклонила§! нашу $lend_lease_string$!\n\nОни не получат нашей помощи."
  DIPLOMACY_MESSAGE_ACCEPTED_TITLE_DIPLOMACY_LEND_LEASE_EXISTING: "Изменённая $lend_lease_string_caps$ принята"
  DIPLOMACY_MESSAGE_ACCEPTED_MESSAGE_DIPLOMACY_LEND_LEASE_EXISTING: "\n§Y$COUNTRY|U$§! §Gприняла§! нашу изменённую $lend_lease_string$.\n\nНаша продолжающаяся помощь поддержит их усилия."
@@ -33,7 +33,7 @@
  DIPLOMACY_MESSAGE_REPLYED_INCOMING_LEND_LEASE_TITLE: "Ответ на запрос о $lend_lease_string_caps$"
  DIPLOMACY_MESSAGE_REPLYED_INCOMING_LEND_LEASE_DESC_HEADER: "$COUNTRY|UH$ ответила на наш запрос о $lend_lease_string_caps$."
  DIPLOMACY_MESSAGE_REPLYED_INCOMING_LEND_LEASE_DESC_SOMETHING: "$lend_lease_string_caps$ теперь:"
- DIPLOMACY_LEND_LEASE_TITLE: "Отправить $lend_lease_string_caps$"
+ DIPLOMACY_LEND_LEASE_TITLE: "Отправлено $lend_lease_string_caps$"
  DIPLOMACY_LEND_LEASE_EXISTING_TITLE: "Изменить $lend_lease_string_caps$"
  DIPLOMACY_LEND_LEASE_CANCEL_TITLE: "Отменить $lend_lease_string_caps$"
  DIPLOMACY_LEND_LEASE_DEAL_DECLINE_POSTFIX: "§RОтказ§! прекратит любую $lend_lease_string$ от $ACTOR$"
@@ -47,10 +47,10 @@
  LEND_LEASE_AIRCRAFT_BUTTON: "§TОтправить самолёты§!"
  LEND_LEASE_NAVAL_BUTTON: "§TКонвои $lend_lease_string_caps$§!"
  LEND_LEASE_CURRENT_HEADER: "Текущая $lend_lease_string_caps$:"
- LEND_LEASE_CURRENT_NONE: "Нет текущей $lend_lease_string$"
- DIPLOMACY_INCOMING_LEND_LEASE_TITLE: "Запросить $lend_lease_string_caps$"
- DIPLOMACY_INCOMING_LEND_LEASE_EXISTING_TITLE: "Изменить входящую $lend_lease_string_caps$"
- DIPLOMACY_INCOMING_LEND_LEASE_CANCEL_TITLE: "Отменить входящую $lend_lease_string_caps$"
+ LEND_LEASE_CURRENT_NONE: "Нет текущих $lend_lease_string$"
+ DIPLOMACY_INCOMING_LEND_LEASE_TITLE: "Запрос $lend_lease_string_caps$"
+ DIPLOMACY_INCOMING_LEND_LEASE_EXISTING_TITLE: "Изменить входящие $lend_lease_string_caps$"
+ DIPLOMACY_INCOMING_LEND_LEASE_CANCEL_TITLE: "Отменить входящие $lend_lease_string_caps$"
  DIPLOMACY_INCOMING_LEND_LEASE_REASON_ENEMY: "Мы не можем запрашивать $lend_lease_string$ у наших врагов."
  DIPLOMACY_INCOMING_LEND_LEASE_REASON_TARGET_AT_WAR: "Чтобы запросить $lend_lease_string$, мы должны находиться в состоянии войны."
  DIPLOMACY_INCOMING_LEND_LEASE_REASON_PUPPET: "Мы всегда можем запросить $lend_lease_string$ у нашего сюзерена."
@@ -61,11 +61,11 @@
 
  #game_rules_l_russian
  RULE_ALLOW_LEND_LEASE: "$lend_lease_string_caps$"
- RULE_ALLOW_LEND_LEASE_FREE_DESC: "Страны могут отправлять $lend_lease_string$ кому угодно при любом уровне мирового напряжения."
- RULE_ALLOW_LEND_LEASE_LIMITED_DESC: "$lend_lease_string_caps$ ограничена уровнем мирового напряжения и правилами идеологий."
- RULE_ALLOW_LEND_LEASE_SAME_IDEOLOGY_DESC: "Страны могут отправлять $lend_lease_string$ только странам с правящей идеологией того же типа."
- RULE_ALLOW_LEND_LEASE_SAME_FACTION_DESC: "Страны могут отправлять $lend_lease_string$ только странам, состоящим в том же альянсе."
- RULE_ALLOW_LEND_LEASE_BLOCKED_DESC: "Страны никогда не могут отправлять $lend_lease_string$ другим странам."
+ RULE_ALLOW_LEND_LEASE_FREE_DESC: "Страны могут отправлять $lend_lease_string$ кому угодно на любом уровне Мировой напряженности."
+ RULE_ALLOW_LEND_LEASE_LIMITED_DESC: "$lend_lease_string_caps$ ограничено правилами Мирового напряжения и идеологии."
+ RULE_ALLOW_LEND_LEASE_SAME_IDEOLOGY_DESC: "Страны могут отправлять $lend_lease_string$ только странам с той же правящей идеологией."
+ RULE_ALLOW_LEND_LEASE_SAME_FACTION_DESC: "Страны могут отправлять $lend_lease_string$ только странам той же фракции."
+ RULE_ALLOW_LEND_LEASE_BLOCKED_DESC: "Страны никогда не могут отправлять $lend_lease_string$ в другие страны."
 
  #logistics_l_russian
  LOGISTICS_NEED_LEND_LEASE_LOW_VALUE: "$lend_lease_string_caps$: $NEED|^1Y$ ед."
@@ -93,5 +93,5 @@
  TRADE_ROUTE_CONVOY_LEND_LEASE_EXPORT: "Экспорт $lend_lease_string_caps$ в $TO|H$ ( $CONVOYS|Y$ £convoy_texticon )"
 
  #waroverview_l_russian
- WARSCORE_BREAKDOWN_LENDLEASE_GIVEN: "$lend_lease_string_caps$ отправлена: $AMOUNT|Y0$"
- WARSCORE_BREAKDOWN_LENDLEASE_RECEIVED: "$lend_lease_string_caps$ получена: §R-$AMOUNT|0$§!"
+ WARSCORE_BREAKDOWN_LENDLEASE_GIVEN: "$lend_lease_string_caps$ Отправлено: $AMOUNT|Y0$"
+ WARSCORE_BREAKDOWN_LENDLEASE_RECEIVED: "$lend_lease_string_caps$ Получено: §R-$AMOUNT|0$§!"

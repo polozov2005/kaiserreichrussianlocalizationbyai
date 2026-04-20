@@ -4,7 +4,7 @@
 ########################################################
 
 #changed to British spelling
- tactic_cc_defend: "Оборона в ближнем бою"
- tactic_elastic_defense: "Эластичная оборона"
+ tactic_cc_defend: "Ближний бой: оборона"
+ tactic_elastic_defense: "Гибкая оборона"
  tactic_urban_defense: "Городская оборона"
  tactic_sf_fortify: "Укреплённая оборона"

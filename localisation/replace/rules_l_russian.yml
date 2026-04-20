@@ -4,4 +4,4 @@
 ########################################################
 
 #changed to British spelling
- CAN_DECLARE_WAR_WITHOUT_WARGOAL_WHEN_IN_WAR: "Может объявлять войну соседу без цели войны, находясь в войне с крупной державой."
+ CAN_DECLARE_WAR_WITHOUT_WARGOAL_WHEN_IN_WAR: "Может объявлять войну без цели, уже воюя с крупной державой."

@@ -1,11 +1,11 @@
 ﻿l_russian:
 
- twelve: "Промышленное сердце"
+ twelve: "Промышленное ядро"
  eleven: "Крупный промышленный центр"
  ten: "Малый промышленный центр"
- nine: "Локальный промышленный центр"
+ nine: "Локальный промышленный цент"
  eight: "Развивающийся промышленный регион"
- seven: "Сильно урбанизированный регион"
+ seven: "Высокоурбанизированный регион"
  six: "Урбанизированный регион"
  five: "Урбанизирующийся регион"
  four: "Развитый сельский регион"
@@ -15,9 +15,9 @@
  #wasteland: "Wasteland" Commented out to remove loc collision with vanilla
  major_port: "Крупный порт"
  port: "Порт"
- minor_port: "Малый порт"
+ minor_port: "Мелкий порт"
  one_island: "Заморская территория"
- zero_island: "Удалённый остров(а)"
+ zero_island: "Отдалённый остров(а)"
 
  STATE_CATEGORY_twelve: "$twelve$"
  STATE_CATEGORY_eleven: "$eleven$"

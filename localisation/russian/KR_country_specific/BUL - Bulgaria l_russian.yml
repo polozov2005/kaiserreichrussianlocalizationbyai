@@ -4,10 +4,10 @@
 
 ### Factions ###
  anti_belgrade_pact: "Анти-Белградский Пакт" #created by pact.81 event and renamed by pact.81 event
- balkan_defence_cooperation: "Балканская ассоициация взаимообороны" #created by BUL_military_alliances focus
+ balkan_defence_cooperation: "Балканская Оборонительный Альянс"
  bulgarian_albanian_alliance: "Болгаро-Албанский Альянс" #created by pact.71 event
- bulgarian_hegemony: "Болгарская гегемония" #created by BUL_third_empire focus
- yugosphere: "Югосфера" #created by BUL_YUG_greater_ambitions focus
+ bulgarian_hegemony: "Болгарская Гегемония"
+ yugosphere: "Югосфера"
 
 ### Parties ###
  BUL_totalist_party: "ФАКБ"
